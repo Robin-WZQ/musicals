@@ -1,4 +1,5 @@
 import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.mjs';
+import { attachStudyNotes } from './study.mjs';
 
 const $ = id => document.getElementById(id);
 let catalog = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
@@ -100,7 +101,11 @@ setInterval(tick, 80);
 
 function renderLyrics() {
   $('lyrics').replaceChildren(); active = selected = -1; boundary = pendingSeek = heldAtEnd = null;
-  const availableTranslation = cues.some(c => c.translation);
+  const annotated = cues.some(c => c.ipa && c.ear);
+  const availableTranslation = cues.some(c => c.studyMeaning || c.translation);
+  $('study-legend').hidden = $('study-note').hidden = !annotated;
+  $('ipa-toggle').disabled = $('ear-toggle').disabled = !annotated;
+  $('translation-label').textContent = annotated ? '释义' : '译文';
   $('translation').disabled = !availableTranslation;
   $('translation').checked = availableTranslation;
   $('lyrics').classList.toggle('hide-translations', !availableTranslation);
@@ -124,12 +129,28 @@ function renderLyrics() {
     const line = document.createElement('button'); line.className = 'lyric-line'; line.dataset.index = index;
     line.title = `${clock(cue.start)} — ${clock(cue.end)} · 点击听这一句`;
     const stamp = document.createElement('span'); stamp.className = 'timestamp'; stamp.textContent = clock(cue.start); stamp.setAttribute('aria-hidden', 'true');
-    const original = document.createElement('span'); original.className = 'original'; original.textContent = cue.text;
+    const original = document.createElement('span'); original.className = 'original'; original.textContent = cue.displayText || cue.text;
     line.append(stamp, original);
-    if (cue.translation) { const translated = document.createElement('span'); translated.className = 'translated'; translated.textContent = cue.translation; line.append(translated); }
+    if (cue.ipa && cue.ear) {
+      line.classList.add('annotated');
+      line.append(studyRow('音标', cue.ipa, 'study-ipa'), studyRow('空耳', cue.ear, 'study-ear'));
+      if (cue.studyMeaning) line.append(studyRow('释义', cue.studyMeaning, 'study-meaning'));
+    } else if (cue.translation) { const translated = document.createElement('span'); translated.className = 'translated'; translated.textContent = cue.translation; line.append(translated); }
     line.onclick = () => playCue(index); fragment.append(line);
   });
   $('lyrics').append(fragment); $('lyrics').scrollTop = 0; $('current-line').textContent = `共 ${cues.length} 句`;
+}
+function studyRow(label, text, className) {
+  const row = document.createElement('span'); row.className = `study-row ${className}`;
+  const tag = document.createElement('span'); tag.className = 'study-label'; tag.textContent = label;
+  const content = document.createElement('span'); content.className = 'study-content';
+  if (className === 'study-ipa') {
+    for (const part of text.split(/(‿)/u)) {
+      if (part === '‿') { const mark = document.createElement('span'); mark.className = 'link-mark'; mark.textContent = part; mark.title = '联诵 / 连读'; content.append(mark); }
+      else content.append(document.createTextNode(part));
+    }
+  } else content.textContent = text;
+  row.append(tag, content); return row;
 }
 function renderInfo() {
   document.title = `${song.title} · Musicals`;
@@ -144,6 +165,7 @@ function renderInfo() {
   $('caption-badge').textContent = song.captionSource === 'local' ? '本地导入字幕' : cues.length ? (song.isGenerated ? 'YouTube 自动字幕' : 'YouTube 字幕') : song.captionStatus === 'pending' ? '字幕待读取' : '字幕不可用';
   const translated = cues.some(c => c.translation);
   $('source-note').textContent = song.captionSource === 'local' ? '你导入的字幕仅用于当前页面，不会上传。请使用对应视频的 YouTube 字幕。' : `字幕与时间戳来自 YouTube${song.isGenerated ? ' 自动字幕' : ''}。${translated ? `译文来自 YouTube（${languageName(song.translationLanguage || 'en')}）。` : '当前没有可用译文。'}${song.fetchedAt ? ` 更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
+  if (song.studyNotes && cues.some(c => c.ipa)) $('source-note').textContent = `时间轴来自 YouTube 自动字幕；显示歌词参考视频介绍校正。音标、空耳和中文释义为本站学习注释。${song.fetchedAt ? ` 字幕更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
   updateBookmark(); renderLyrics();
 }
 async function loadSong(id, updateURL = true) {
@@ -153,8 +175,11 @@ async function loadSong(id, updateURL = true) {
   let data;
   try { const response = await fetch(`./data/songs/${id}.json`); if (!response.ok) throw new Error('未录入'); data = await response.json(); if (data.id !== id) throw new Error('歌曲 ID 不一致'); }
   catch { data = { ...fallback, captionStatus: 'pending', cues: [] }; }
+  if (data.cues?.length) {
+    try { const response = await fetch(`./data/study/${id}.json`); if (response.ok) { const notes = await response.json(); if (notes.videoId === id) data.studyNotes = notes; } } catch { /* Optional notes never block video playback. */ }
+  }
   if (generation !== loadGeneration) return;
-  song = data; cues = normalizeCues(data.cues || []);
+  song = data; cues = attachStudyNotes(normalizeCues(data.cues || []), data.studyNotes);
   renderInfo();
   if (playerReady) { player.cueVideoById({ videoId: id, startSeconds: initialSeek }); setSpeeds(); initialSeek = 0; }
   if (updateURL) { const url = new URL(location.href); url.searchParams.set('v', id); url.searchParams.delete('t'); history.replaceState(null, '', url); }
@@ -201,6 +226,8 @@ $('repeat').onclick = () => { repeating = !repeating; pressed('repeat', repeatin
 $('sentence-mode').onclick = () => { sentenceMode = !sentenceMode; pressed('sentence-mode', sentenceMode); if (sentenceMode && active >= 0) selected = active; boundary = (sentenceMode || repeating) && selected >= 0 ? cues[selected].end : null; };
 $('follow').onclick = () => { following = !following; pressed('follow', following); if (following && active >= 0) updateSelection(active, true); };
 $('translation').onchange = () => $('lyrics').classList.toggle('hide-translations', !$('translation').checked);
+$('ipa-toggle').onclick = () => { const hidden = $('lyrics').classList.toggle('hide-ipa'); pressed('ipa-toggle', !hidden); };
+$('ear-toggle').onclick = () => { const hidden = $('lyrics').classList.toggle('hide-ear'); pressed('ear-toggle', !hidden); };
 $('description-toggle').onclick = () => { const expanded = $('song-description').classList.toggle('expanded'); $('description-toggle').textContent = expanded ? '收起介绍 ↑' : '展开介绍 ↓'; };
 $('info-toggle').onclick = () => { const expanded = document.querySelector('.sidebar').classList.toggle('info-expanded'); pressed('info-toggle', expanded || innerWidth > 720); };
 $('help').onclick = () => $('help-dialog').showModal();
