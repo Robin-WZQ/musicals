@@ -169,7 +169,36 @@ function renderInfo() {
     $('caption-badge').textContent = 'YouTube 时间轴 · 校正歌词';
     $('source-note').textContent = `时间轴来自 YouTube 自动字幕；显示歌词参考视频介绍校正。音标、空耳和中文释义为本站学习注释。${song.fetchedAt ? ` 字幕更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
   }
+  renderEditorialInfo(song.editorialInfo);
   updateBookmark(); renderLyrics();
+}
+function renderEditorialInfo(info) {
+  const exists = Boolean(info?.sections?.length);
+  $('song-info').classList.toggle('has-intro', exists);
+  $('editorial-info').hidden = $('info-sources').hidden = !exists;
+  $('artist').hidden = $('original-title').hidden = $('song-facts').hidden = $('album').hidden = $('role').hidden = !exists;
+  $('channel').hidden = exists;
+  document.querySelector('.song-info > .about').hidden = exists;
+  $('editorial-info').replaceChildren(); $('info-source-links').replaceChildren(); $('song-facts').replaceChildren();
+  if (!exists) return;
+  $('song-title').textContent = info.titleZh || displayTitle(song.title);
+  $('original-title').textContent = `${info.titleOriginal} · ${info.titleNote || '法语原名'}`;
+  $('artist').textContent = `${info.artistZh}（${info.artistOriginal}）`;
+  const facts = [info.language, info.level ? `${info.level}（参考）` : '', info.genre, info.releaseYear ? `${info.releaseYear}年` : ''].filter(Boolean);
+  $('song-facts').append(...facts.map(text => { const span = document.createElement('span'); span.textContent = text; if (text.startsWith(info.level)) span.title = info.levelNote || ''; return span; }));
+  $('album').textContent = `所属专辑：《${info.albumZh}》`; $('album').title = info.albumOriginal;
+  $('role').textContent = `演唱角色：${info.roleZh}`;
+  for (const item of info.sections) {
+    const section = document.createElement('section'); section.className = 'intro-section'; section.id = item.id; section.dataset.kind = item.kind;
+    const heading = document.createElement('h2'); heading.textContent = item.heading; section.append(heading);
+    for (const text of item.paragraphs) { const paragraph = document.createElement('p'); paragraph.textContent = text; section.append(paragraph); }
+    $('editorial-info').append(section);
+  }
+  for (const item of info.sources || []) {
+    try { const url = new URL(item.url); if (url.protocol !== 'https:') continue;
+      const anchor = document.createElement('a'); anchor.textContent = `${item.label} ↗`; anchor.href = url.href; anchor.target = '_blank'; anchor.rel = 'noopener noreferrer'; $('info-source-links').append(anchor);
+    } catch { /* Ignore malformed source links. */ }
+  }
 }
 async function loadSong(id, updateURL = true) {
   const generation = ++loadGeneration;
@@ -181,6 +210,7 @@ async function loadSong(id, updateURL = true) {
   if (data.cues?.length) {
     try { const response = await fetch(`./data/study/${id}.json`); if (response.ok) { const notes = await response.json(); if (notes.videoId === id) data.studyNotes = notes; } } catch { /* Optional notes never block video playback. */ }
   }
+  try { const response = await fetch(`./data/info/${id}.json`); if (response.ok) { const info = await response.json(); if (info.videoId === id) data.editorialInfo = info; } } catch { /* A missing introduction never blocks the player. */ }
   if (generation !== loadGeneration) return;
   song = data; cues = attachStudyNotes(normalizeCues(data.cues || []), data.studyNotes);
   renderInfo();
@@ -233,6 +263,9 @@ $('ipa-toggle').onclick = () => { const hidden = $('lyrics').classList.toggle('h
 $('ear-toggle').onclick = () => { const hidden = $('lyrics').classList.toggle('hide-ear'); pressed('ear-toggle', !hidden); };
 $('description-toggle').onclick = () => { const expanded = $('song-description').classList.toggle('expanded'); $('description-toggle').textContent = expanded ? '收起介绍 ↑' : '展开介绍 ↓'; };
 $('info-toggle').onclick = () => { const expanded = document.querySelector('.sidebar').classList.toggle('info-expanded'); pressed('info-toggle', expanded || innerWidth > 720); };
+for (const id of ['artist', 'album']) $(id).addEventListener('click', () => {
+  if (innerWidth <= 720) { document.querySelector('.sidebar').classList.add('info-expanded'); pressed('info-toggle', true); }
+});
 $('help').onclick = () => $('help-dialog').showModal();
 $('bookmark').onclick = () => { const saved = savedSongs(); const next = saved.includes(song.id) ? saved.filter(id => id !== song.id) : [...saved, song.id]; try { localStorage.setItem('musicals-saved', JSON.stringify(next)); updateBookmark(); toast(next.includes(song.id) ? '已收藏到这个浏览器。' : '已取消收藏。'); } catch { toast('这个浏览器暂时不能保存收藏。'); } };
 $('import').onclick = () => $('caption-file').click();

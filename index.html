@@ -9,6 +9,7 @@
   <link rel="icon" href="./assets/icon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="./assets/style.css">
   <link rel="stylesheet" href="./assets/study.css">
+  <link rel="stylesheet" href="./assets/info.css">
   <script type="module" src="./assets/app.js"></script>
 </head>
 <body>
@@ -23,12 +24,19 @@
       <button id="bookmark" class="tool" title="收藏歌曲" aria-label="收藏歌曲" aria-pressed="false">♧</button>
     </div>
     <div class="song-info" id="song-info">
-      <span class="eyebrow">YOUTUBE · MUSICALS</span>
+      <span class="eyebrow">音乐剧 · 原唱学习</span>
       <h1 id="song-title">La gloire à mes genoux</h1>
-      <a id="channel" target="_blank" rel="noopener noreferrer">YouTube</a>
+      <p id="original-title" class="original-title" hidden></p>
+      <a id="artist" class="artist-link" href="#about-artist" hidden></a>
+      <a id="channel" target="_blank" rel="noopener noreferrer" hidden>YouTube</a>
+      <div id="song-facts" class="song-facts" hidden></div>
+      <a id="album" class="album-link" href="#about-song" hidden></a>
+      <p id="role" class="role" hidden></p>
       <div class="metadata"><span id="language-label">Français</span><span id="caption-badge">正在读取字幕</span></div>
       <div class="source-row"><span class="status-dot"></span><span>原唱来自 YouTube</span><a id="youtube-link" target="_blank" rel="noopener noreferrer">打开 ↗</a></div>
       <section class="about"><h2>关于这首歌</h2><p id="song-description" class="description">视频介绍将在 YouTube 信息读取完成后显示。</p><button id="description-toggle" class="text-button" hidden>展开介绍 ↓</button></section>
+      <div id="editorial-info" class="editorial-info" hidden></div>
+      <details id="info-sources" class="info-sources" hidden><summary>介绍资料来源</summary><div id="info-source-links"></div></details>
       <section class="how-to"><h2>把一句，听清楚</h2><div><span class="step">01</span><p>点击字幕，听这一句原唱。</p></div><div><span class="step">02</span><p>开启循环，跟着歌手唱。</p></div><div><span class="step">03</span><p>慢一点，让每个词更清晰。</p></div></section>
       <div class="source-note" id="source-note">字幕内容和时间戳来自 YouTube。</div>
       <div class="study-note" id="study-note" hidden>参考音标标出联诵与连读（<b>‿</b>）。空耳仅近似读音；演唱时的发音以原唱为准。中文释义和发音注释为本站学习辅助。</div>
