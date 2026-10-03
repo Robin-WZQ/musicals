@@ -2,7 +2,7 @@ import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.
 
 const $ = id => document.getElementById(id);
 let catalog = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
-let boundary = null, following = true, sentenceMode = true, repeating = false, seekUntil = 0, toastTimer;
+let boundary = null, following = true, sentenceMode = true, repeating = false, pendingSeek = null, heldAtEnd = null, toastTimer;
 const initial = new URL(location.href), preferredId = videoId(initial.searchParams.get('v')) || '7BZhhlQFcbg';
 const initialTime = Math.max(0, Number(initial.searchParams.get('t')) || 0);
 let initialSeek = initialTime, loadGeneration = 0;
@@ -73,7 +73,8 @@ async function playCue(index) {
   if (!playerReady) { await ensurePlayer(); toast('播放器准备好后，再点击这一句开始。'); return; }
   selected = Math.max(0, Math.min(cues.length - 1, index));
   const cue = cues[selected]; boundary = sentenceMode || repeating ? cue.end : null;
-  seekUntil = performance.now() + 1100;
+  pendingSeek = { start: cue.start, end: cue.end, requestedAt: performance.now() };
+  heldAtEnd = null;
   player.seekTo(cue.start, true); player.playVideo(); updateSelection(selected, true);
 }
 function tick() {
@@ -81,17 +82,24 @@ function tick() {
   const time = player.getCurrentTime(); $('time').textContent = clock(time);
   if (!cues.length) return;
   const playing = player.getPlayerState() === 1;
-  if (boundary !== null && playing && performance.now() > seekUntil && time >= boundary - 0.04) {
-    if (repeating && selected >= 0) { playCue(selected); return; }
-    player.pauseVideo(); boundary = null; return;
+  if (pendingSeek) {
+    if (time >= pendingSeek.start - 0.2 && time <= pendingSeek.start + Math.min(0.5, (pendingSeek.end - pendingSeek.start) / 2)) pendingSeek = null;
+    else if (performance.now() - pendingSeek.requestedAt < 8000) return;
+    else { pendingSeek = null; boundary = null; toast('跳句未成功，请再点击这一句。'); return; }
   }
+  if (boundary !== null && playing && time >= boundary - 0.04) {
+    if (repeating && selected >= 0) { playCue(selected); return; }
+    player.pauseVideo(); heldAtEnd = { time, index: selected }; boundary = null; return;
+  }
+  if (!playing && heldAtEnd && Math.abs(time - heldAtEnd.time) < 0.35) return;
+  heldAtEnd = null;
   const index = cueAt(cues, time);
-  if (index !== active && (boundary === null || performance.now() > seekUntil)) updateSelection(index, playing);
+  if (index !== active) updateSelection(index, playing);
 }
 setInterval(tick, 80);
 
 function renderLyrics() {
-  $('lyrics').replaceChildren(); active = selected = -1; boundary = null;
+  $('lyrics').replaceChildren(); active = selected = -1; boundary = pendingSeek = heldAtEnd = null;
   const availableTranslation = cues.some(c => c.translation);
   $('translation').disabled = !availableTranslation;
   $('translation').checked = availableTranslation;
@@ -132,7 +140,7 @@ function renderInfo() {
   $('cover').src = `https://i.ytimg.com/vi/${song.id}/hqdefault.jpg`;
   $('song-description').textContent = song.description || (song.metadataSource ? `YouTube 视频：${song.title}\n\n未读到视频介绍。` : '这首歌的原唱由 YouTube 播放。视频介绍在歌曲信息读取完成后显示。');
   $('song-description').classList.remove('expanded'); $('description-toggle').textContent = '展开介绍 ↓'; $('description-toggle').hidden = (song.description || '').length < 220;
-  $('language-label').textContent = languageName(song.captionLanguage || 'fr');
+  $('language-label').textContent = song.captionLanguage ? languageName(song.captionLanguage) : '字幕语言待确认';
   $('caption-badge').textContent = song.captionSource === 'local' ? '本地导入字幕' : cues.length ? (song.isGenerated ? 'YouTube 自动字幕' : 'YouTube 字幕') : song.captionStatus === 'pending' ? '字幕待读取' : '字幕不可用';
   const translated = cues.some(c => c.translation);
   $('source-note').textContent = song.captionSource === 'local' ? '你导入的字幕仅用于当前页面，不会上传。请使用对应视频的 YouTube 字幕。' : `字幕与时间戳来自 YouTube${song.isGenerated ? ' 自动字幕' : ''}。${translated ? `译文来自 YouTube（${languageName(song.translationLanguage || 'en')}）。` : '当前没有可用译文。'}${song.fetchedAt ? ` 更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
@@ -172,6 +180,7 @@ async function togglePlay() {
   if (!playerReady) { await ensurePlayer(); toast('播放器准备好后，点击播放。'); return; }
   if (player.getPlayerState() === 1) player.pauseVideo();
   else {
+    if (heldAtEnd && selected >= 0 && (sentenceMode || repeating)) { playCue(selected); return; }
     if ((sentenceMode || repeating) && cues.length) {
       const current = cueAt(cues, player.getCurrentTime());
       if (current >= 0) { selected = current; boundary = cues[current].end; }
