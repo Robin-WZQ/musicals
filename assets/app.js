@@ -182,6 +182,7 @@ function renderEditorialInfo(info) {
   $('editorial-info').replaceChildren(); $('info-source-links').replaceChildren(); $('song-facts').replaceChildren();
   if (!exists) return;
   $('song-title').textContent = info.titleZh || displayTitle(song.title);
+  document.title = `${info.titleZh || displayTitle(song.title)} · Musicals`;
   $('original-title').textContent = `${info.titleOriginal} · ${info.titleNote || '法语原名'}`;
   $('artist').textContent = `${info.artistZh}（${info.artistOriginal}）`;
   const facts = [info.language, info.level ? `${info.level}（参考）` : '', info.genre, info.releaseYear ? `${info.releaseYear}年` : ''].filter(Boolean);
