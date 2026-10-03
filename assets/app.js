@@ -165,7 +165,10 @@ function renderInfo() {
   $('caption-badge').textContent = song.captionSource === 'local' ? '本地导入字幕' : cues.length ? (song.isGenerated ? 'YouTube 自动字幕' : 'YouTube 字幕') : song.captionStatus === 'pending' ? '字幕待读取' : '字幕不可用';
   const translated = cues.some(c => c.translation);
   $('source-note').textContent = song.captionSource === 'local' ? '你导入的字幕仅用于当前页面，不会上传。请使用对应视频的 YouTube 字幕。' : `字幕与时间戳来自 YouTube${song.isGenerated ? ' 自动字幕' : ''}。${translated ? `译文来自 YouTube（${languageName(song.translationLanguage || 'en')}）。` : '当前没有可用译文。'}${song.fetchedAt ? ` 更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
-  if (song.studyNotes && cues.some(c => c.ipa)) $('source-note').textContent = `时间轴来自 YouTube 自动字幕；显示歌词参考视频介绍校正。音标、空耳和中文释义为本站学习注释。${song.fetchedAt ? ` 字幕更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
+  if (song.studyNotes && cues.some(c => c.ipa)) {
+    $('caption-badge').textContent = 'YouTube 时间轴 · 校正歌词';
+    $('source-note').textContent = `时间轴来自 YouTube 自动字幕；显示歌词参考视频介绍校正。音标、空耳和中文释义为本站学习注释。${song.fetchedAt ? ` 字幕更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
+  }
   updateBookmark(); renderLyrics();
 }
 async function loadSong(id, updateURL = true) {
