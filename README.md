@@ -26,6 +26,8 @@ pip install -r scripts/requirements.txt
 python scripts/ingest_youtube.py --video 'YOUTUBE_URL' --language fr --translation en
 ```
 
+本机需要既有网络代理时，可添加 `--proxy 'http://HOST:PORT'`。代理地址不会写入歌曲数据或网页。GitHub 服务器的读取结果可能与本机不同；已成功保存的字幕可直接供网页使用。
+
 ## 开发与部署
 
 无需前端构建和 API 密钥。GitHub Pages 使用 GitHub Actions 部署。

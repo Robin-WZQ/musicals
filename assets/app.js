@@ -11,6 +11,7 @@ function pressed(id, state) { $(id).classList.toggle('active', state); $(id).set
 function savedSongs() { try { return JSON.parse(localStorage.getItem('musicals-saved') || '[]'); } catch { return []; } }
 function updateBookmark() { pressed('bookmark', savedSongs().includes(song?.id)); }
 function languageName(code) { try { return new Intl.DisplayNames(['zh-CN'], { type: 'language' }).of(code); } catch { return code || '语言未知'; } }
+function displayTitle(title) { return title.split(' - ').at(-1).replace(/\s*\[(?:Clip Officiel|Official[^\]]*|Lyrics[^\]]*)\]\s*$/i, '').trim(); }
 
 async function youtubeAPI() {
   if (window.YT?.Player) return window.YT;
@@ -124,17 +125,17 @@ function renderLyrics() {
 }
 function renderInfo() {
   document.title = `${song.title} · Musicals`;
-  $('song-title').textContent = song.title;
+  $('song-title').textContent = displayTitle(song.title);
   $('channel').textContent = song.channel || 'YouTube';
   $('channel').href = /^UC[\w-]+$/.test(song.channelId || '') ? `https://www.youtube.com/channel/${song.channelId}` : `https://www.youtube.com/watch?v=${song.id}`;
   $('youtube-link').href = `https://www.youtube.com/watch?v=${song.id}`;
   $('cover').src = `https://i.ytimg.com/vi/${song.id}/hqdefault.jpg`;
-  $('song-description').textContent = song.description || '这首歌的原唱由 YouTube 播放。视频介绍在歌曲信息读取完成后显示。';
+  $('song-description').textContent = song.description || (song.metadataSource ? `YouTube 视频：${song.title}\n\n未读到视频介绍。` : '这首歌的原唱由 YouTube 播放。视频介绍在歌曲信息读取完成后显示。');
   $('song-description').classList.remove('expanded'); $('description-toggle').textContent = '展开介绍 ↓'; $('description-toggle').hidden = (song.description || '').length < 220;
   $('language-label').textContent = languageName(song.captionLanguage || 'fr');
   $('caption-badge').textContent = song.captionSource === 'local' ? '本地导入字幕' : cues.length ? (song.isGenerated ? 'YouTube 自动字幕' : 'YouTube 字幕') : song.captionStatus === 'pending' ? '字幕待读取' : '字幕不可用';
   const translated = cues.some(c => c.translation);
-  $('source-note').textContent = song.captionSource === 'local' ? '你导入的字幕仅保存在当前浏览器。请使用对应视频的 YouTube 字幕。' : `字幕与时间戳来自 YouTube${song.isGenerated ? ' 自动字幕' : ''}。${translated ? `译文来自 YouTube（${languageName(song.translationLanguage || 'en')}）。` : '当前没有可用译文。'}${song.fetchedAt ? ` 更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
+  $('source-note').textContent = song.captionSource === 'local' ? '你导入的字幕仅用于当前页面，不会上传。请使用对应视频的 YouTube 字幕。' : `字幕与时间戳来自 YouTube${song.isGenerated ? ' 自动字幕' : ''}。${translated ? `译文来自 YouTube（${languageName(song.translationLanguage || 'en')}）。` : '当前没有可用译文。'}${song.fetchedAt ? ` 更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
   updateBookmark(); renderLyrics();
 }
 async function loadSong(id, updateURL = true) {

@@ -40,7 +40,7 @@ def clean(text):
     return re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]*>', '', text))).strip()
 
 
-def metadata(vid, session):
+def metadata(vid, session, proxy=None):
     result = {}
     info = None
     # The oEmbed endpoint is lightweight and often works even if extraction fails.
@@ -52,7 +52,7 @@ def metadata(vid, session):
     except Exception as error:
         print(f'oEmbed: {type(error).__name__}', flush=True)
     try:
-        with yt_dlp.YoutubeDL({'quiet': True, 'no_warnings': True, 'skip_download': True, 'socket_timeout': 15, 'retries': 1, 'extractor_retries': 1}) as ydl:
+        with yt_dlp.YoutubeDL({'quiet': True, 'no_warnings': True, 'skip_download': True, 'socket_timeout': 15, 'retries': 1, 'extractor_retries': 1, **({'proxy': proxy} if proxy else {})}) as ydl:
             info = ydl.extract_info(f'https://www.youtube.com/watch?v={vid}', download=False)
         result.update({'title': info['title'], 'channel': info.get('channel') or info.get('uploader', ''), 'channelId': info.get('channel_id'), 'description': info.get('description', ''), 'duration': info.get('duration'), 'uploadDate': info.get('upload_date'), 'metadataSource': 'youtube'})
     except Exception as error:
@@ -134,13 +134,15 @@ def fetch_captions(vid, language, translation, session, info):
     return {'captionStatus': 'unavailable' if unavailable else 'error', 'captionError': ', '.join(dict.fromkeys(errors)), 'cues': []}
 
 
-def ingest(vid, language, translation):
+def ingest(vid, language, translation, proxy=None):
     session = requests.Session()
     session.trust_env = False
+    if proxy:
+        session.proxies = {'http': proxy, 'https': proxy}
     session.headers['User-Agent'] = 'Mozilla/5.0'
     path = ROOT / 'data' / 'songs' / f'{vid}.json'
     previous = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
-    meta, info = metadata(vid, session)
+    meta, info = metadata(vid, session, proxy)
     captions = fetch_captions(vid, language, translation, session, info)
     now = datetime.now(timezone.utc).isoformat()
     data = {**previous, **meta, 'id': vid, 'captionSource': 'youtube', 'lastAttemptAt': now}
@@ -174,6 +176,7 @@ def main():
     parser.add_argument('--video', default='')
     parser.add_argument('--language', default='fr')
     parser.add_argument('--translation', default='en')
+    parser.add_argument('--proxy', default=None, help='Optional normal network proxy for local use (not stored in song data)')
     parser.add_argument('--pending', action='store_true')
     args = parser.parse_args()
     if args.video:
@@ -183,7 +186,7 @@ def main():
     else:
         ids = [row['id'] for row in json.loads((ROOT / 'data' / 'catalog.json').read_text(encoding='utf-8'))]
     for vid in ids:
-        ingest(vid, args.language, args.translation)
+        ingest(vid, args.language, args.translation, args.proxy)
 
 
 if __name__ == '__main__':
