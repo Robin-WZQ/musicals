@@ -1,0 +1,1 @@
+{"name":"musicals","private":true,"type":"module","scripts":{"test":"node tests/captions.test.mjs","check":"node --check assets/app.js && node --check assets/captions.mjs"}}

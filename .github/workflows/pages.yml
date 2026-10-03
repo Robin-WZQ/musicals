@@ -1,0 +1,81 @@
+name: Update songs and deploy Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      youtube_url:
+        description: 'YouTube URL / video ID (blank: refresh pending songs)'
+        required: false
+        type: string
+      language:
+        description: 'Preferred YouTube caption language'
+        default: fr
+        type: string
+      translation:
+        description: 'YouTube translation language (en / zh-Hans / blank)'
+        default: en
+        type: string
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check caption parsing and playback intervals
+        run: npm run check && npm test
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install YouTube readers
+        run: pip install -r scripts/requirements.txt
+      - name: Read YouTube metadata and captions (no audio download)
+        env:
+          VIDEO_INPUT: ${{ inputs.youtube_url }}
+          LANGUAGE_INPUT: ${{ inputs.language || 'fr' }}
+          TRANSLATION_INPUT: ${{ github.event_name == 'push' && 'en' || inputs.translation }}
+        run: |
+          if [ -n "$VIDEO_INPUT" ]; then
+            python scripts/ingest_youtube.py --video "$VIDEO_INPUT" --language "$LANGUAGE_INPUT" --translation "$TRANSLATION_INPUT"
+          else
+            python scripts/ingest_youtube.py --pending --language "$LANGUAGE_INPUT" --translation "$TRANSLATION_INPUT"
+          fi
+      - name: Save retrieved YouTube data
+        run: |
+          if [ -n "$(git status --porcelain data)" ]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add data
+            git commit -m 'Refresh YouTube song metadata and captions'
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - name: Stage the static website
+        run: |
+          mkdir _site
+          cp index.html _site/
+          cp -r assets data _site/
+          touch _site/.nojekyll
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
