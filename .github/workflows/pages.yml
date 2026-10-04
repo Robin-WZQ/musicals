@@ -63,7 +63,7 @@ jobs:
       - name: Stage the static website
         run: |
           mkdir _site
-          cp index.html _site/
+          cp *.html _site/
           cp -r assets data _site/
           touch _site/.nojekyll
       - uses: actions/upload-pages-artifact@v3

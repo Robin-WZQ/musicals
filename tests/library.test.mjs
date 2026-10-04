@@ -1,0 +1,45 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import { musicalURL, learningURL, tracksFor, statusLabel } from '../assets/library.mjs';
+import { normalizeCues } from '../assets/captions.mjs';
+import { attachStudyNotes } from '../assets/study.mjs';
+const root = new URL('../', import.meta.url);
+const json = path => JSON.parse(fs.readFileSync(new URL(path, root), 'utf8'));
+const musicals = json('data/musicals.json'), catalog = json('data/catalog.json');
+test('all musical entries preserve ordered independent tracks and playable static links', () => {
+  assert.equal(new Set(musicals.map(m => m.id)).size, musicals.length);
+  assert.equal(new Set(catalog.map(s => s.id)).size, catalog.length);
+  for (const musical of musicals) {
+    const tracks = tracksFor(musical, catalog);
+    assert.equal(tracks.length, musical.trackIds.length);
+    assert.deepEqual(tracks.map(t => t.id), musical.trackIds);
+    assert.ok(fs.existsSync(new URL(musical.cover, root)));
+    assert.ok(musicalURL(musical.id).startsWith('./musical.html?id='));
+    for (const [i, track] of tracks.entries()) {
+      assert.equal(track.musicalId, musical.id);
+      assert.equal(track.trackNumber, i + 1);
+      assert.ok(learningURL(track.id).startsWith('./learn.html?v='));
+      const song = json(`data/songs/${track.id}.json`), info = json(`data/info/${track.id}.json`);
+      assert.equal(song.id, track.id); assert.equal(info.videoId, track.id);
+      assert.ok(info.sections.every(s => s.paragraphs.every(p => /\p{Script=Han}/u.test(p))));
+      if (track.captionStatus === 'ready') {
+        const notes = json(`data/study/${track.id}.json`);
+        const cues = normalizeCues(song.cues), annotated = attachStudyNotes(cues, notes);
+        assert.ok(cues.length > 0); assert.equal(notes.entries.length, cues.length);
+        assert.ok(annotated.every(cue => cue.ipa && cue.ear && cue.studyMeaning));
+        assert.deepEqual(annotated.map(c => [c.start, c.end, c.text]), cues.map(c => [c.start, c.end, c.text]));
+      } else { assert.equal(song.cues.length, 0); assert.match(statusLabel(track), /字幕待补/); }
+    }
+  }
+});
+test('a second musical keeps its own order and does not inherit another musical tracks', () => {
+  const future = {id:'another-musical',trackIds:['BBBBBBBBBBB','AAAAAAAAAAA']};
+  const songs = [{id:'AAAAAAAAAAA'},{id:'CCCCCCCCCCC'},{id:'BBBBBBBBBBB'}];
+  assert.deepEqual(tracksFor(future,songs).map(s=>s.id),future.trackIds);
+});
+test('the original reviewed song remains independently addressable', () => {
+  const old = catalog.find(s => s.id === '7BZhhlQFcbg');
+  assert.ok(old?.isLegacy);
+  assert.equal(json(`data/info/${old.id}.json`).titleZh,'荣耀向我俯首');
+});

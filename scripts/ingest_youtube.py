@@ -144,6 +144,10 @@ def ingest(vid, language, translation, proxy=None):
     previous = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
     meta, info = metadata(vid, session, proxy)
     captions = fetch_captions(vid, language, translation, session, info)
+    if previous.get('musicalId') == 'le-rouge-et-le-noir' and captions.get('captionStatus') == 'ready' and captions.get('captionLanguage', '').split('-')[0] != 'fr':
+        # Some playlist videos contain French singing that YouTube misdetects
+        # as Spanish, Dutch or English. Do not advertise those as French lyrics.
+        captions = {'captionStatus': 'unavailable', 'captionError': 'No usable French captions; other-language automatic track ignored', 'cues': []}
     now = datetime.now(timezone.utc).isoformat()
     data = {**previous, **meta, 'id': vid, 'captionSource': 'youtube', 'lastAttemptAt': now}
     if not data.get('title'):
@@ -161,7 +165,7 @@ def ingest(vid, language, translation, proxy=None):
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     catalog_path = ROOT / 'data' / 'catalog.json'
     catalog = json.loads(catalog_path.read_text(encoding='utf-8'))
-    entry = {key: data.get(key, '') for key in ('id', 'title', 'channel', 'captionStatus', 'captionLanguage')}
+    entry = {**next((row for row in catalog if row['id'] == vid), {}), **{key: data.get(key, '') for key in ('id', 'title', 'channel', 'captionStatus', 'captionLanguage')}}
     catalog = [entry if row['id'] == vid else row for row in catalog]
     if not any(row['id'] == vid for row in catalog):
         catalog.append(entry)
@@ -182,7 +186,7 @@ def main():
     if args.video:
         ids = [video_id(args.video.strip())]
     elif args.pending:
-        ids = [row['id'] for row in json.loads((ROOT / 'data' / 'catalog.json').read_text(encoding='utf-8')) if not json.loads((ROOT / 'data' / 'songs' / f'{row["id"]}.json').read_text(encoding='utf-8')).get('cues')]
+        ids = [row['id'] for row in json.loads((ROOT / 'data' / 'catalog.json').read_text(encoding='utf-8')) if row.get('captionStatus') == 'pending']
     else:
         ids = [row['id'] for row in json.loads((ROOT / 'data' / 'catalog.json').read_text(encoding='utf-8'))]
     for vid in ids:

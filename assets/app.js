@@ -1,8 +1,9 @@
 import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.mjs';
 import { attachStudyNotes } from './study.mjs';
+import { musicalURL, learningURL, tracksFor } from './library.mjs';
 
 const $ = id => document.getElementById(id);
-let catalog = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
+let catalog = [], musicals = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
 let boundary = null, following = true, sentenceMode = true, repeating = false, pendingSeek = null, heldAtEnd = null, toastTimer;
 const initial = new URL(location.href), preferredId = videoId(initial.searchParams.get('v')) || '7BZhhlQFcbg';
 const initialTime = Math.max(0, Number(initial.searchParams.get('t')) || 0);
@@ -166,9 +167,12 @@ function renderInfo() {
   const translated = cues.some(c => c.translation);
   $('source-note').textContent = song.captionSource === 'local' ? '你导入的字幕仅用于当前页面，不会上传。请使用对应视频的 YouTube 字幕。' : `字幕与时间戳来自 YouTube${song.isGenerated ? ' 自动字幕' : ''}。${translated ? `译文来自 YouTube（${languageName(song.translationLanguage || 'en')}）。` : '当前没有可用译文。'}${song.fetchedAt ? ` 更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
   if (song.studyNotes && cues.some(c => c.ipa)) {
-    $('caption-badge').textContent = 'YouTube 时间轴 · 校正歌词';
-    $('source-note').textContent = `时间轴来自 YouTube 自动字幕；显示歌词参考视频介绍校正。音标、空耳和中文释义为本站学习注释。${song.fetchedAt ? ` 字幕更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
+    const reviewed = song.studyNotes.textSource === 'youtube-video-description';
+    $('caption-badge').textContent = reviewed ? 'YouTube 时间轴 · 校正歌词' : 'YouTube 自动字幕 · 参考注释';
+    $('source-note').textContent = song.studyNotes.note || '字幕和时间戳来自 YouTube。音标、空耳和中文释义为本站参考注释。';
+    $('study-note').textContent = reviewed ? '参考音标标出联诵与连读（‿）。空耳仅近似读音；演唱时的发音以原唱为准。中文释义和发音注释为本站学习辅助。' : '新曲目学习注释自动生成，尚未逐句校对。音标是字幕文本的参考读法，‿ 表示可能的联诵或连读；空耳与中文机译均为近似参考，无法纠正字幕识别错误。';
   }
+  renderNavigation();
   renderEditorialInfo(song.editorialInfo);
   updateBookmark(); renderLyrics();
 }
@@ -188,7 +192,7 @@ function renderEditorialInfo(info) {
   const facts = [info.language, info.level ? `${info.level}（参考）` : '', info.genre, info.releaseYear ? `${info.releaseYear}年` : ''].filter(Boolean);
   $('song-facts').append(...facts.map(text => { const span = document.createElement('span'); span.textContent = text; if (text.startsWith(info.level)) span.title = info.levelNote || ''; return span; }));
   $('album').textContent = `所属专辑：《${info.albumZh}》`; $('album').title = info.albumOriginal;
-  $('role').textContent = `演唱角色：${info.roleZh}`;
+  $('role').textContent = info.roleZh ? `演唱角色：${info.roleZh}` : ''; $('role').hidden = !info.roleZh;
   for (const item of info.sections) {
     const section = document.createElement('section'); section.className = 'intro-section'; section.id = item.id; section.dataset.kind = item.kind;
     const heading = document.createElement('h2'); heading.textContent = item.heading; section.append(heading);
@@ -224,9 +228,22 @@ function renderLibrary() {
   $('song-list').replaceChildren(...catalog.map(entry => {
     const button = document.createElement('button'); button.className = 'song-card';
     const cover = document.createElement('img'); cover.src = `https://i.ytimg.com/vi/${entry.id}/mqdefault.jpg`; cover.alt = ''; cover.loading = 'lazy';
-    const info = document.createElement('div'); const title = document.createElement('strong'); title.textContent = entry.title;
+    const info = document.createElement('div'); const title = document.createElement('strong'); title.textContent = entry.titleZh || entry.title;
     const channel = document.createElement('span'); channel.textContent = entry.channel || 'YouTube'; info.append(title, channel); button.append(cover, info); button.onclick = () => { initialSeek = 0; loadSong(entry.id); }; return button;
   }));
+}
+function renderNavigation() {
+  const entry = catalog.find(item => item.id === song.id);
+  const musical = musicals.find(item => item.id === entry?.musicalId || item.legacyVideoId === song.id);
+  $('back-musical').hidden = !musical;
+  if (musical) { $('back-musical').href = musicalURL(musical.id); $('back-musical').textContent = musical.titleZh; }
+  const tracks = musical ? tracksFor(musical, catalog) : [];
+  const index = tracks.findIndex(item => item.id === song.id);
+  for (const [name, offset] of [['previous-track', -1], ['next-track', 1]]) {
+    const track = index >= 0 ? tracks[index + offset] : null; $(name).hidden = !track;
+    if (track) { $(name).href = learningURL(track.id); $(name).textContent = `${offset < 0 ? '← ' : ''}${track.titleZh}${offset > 0 ? ' →' : ''}`; }
+  }
+  if (musical && index >= 0) { try { localStorage.setItem(`musicals-last-${musical.id}`, song.id); } catch {} }
 }
 async function share() {
   const url = new URL(location.href); url.searchParams.set('v', song.id);
@@ -288,4 +305,5 @@ document.addEventListener('keydown', event => {
 });
 for (const dialog of document.querySelectorAll('dialog')) dialog.addEventListener('click', event => { if (event.target === dialog) { const rect = dialog.getBoundingClientRect(); if (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom) dialog.close(); } });
 try { const response = await fetch('./data/catalog.json'); if (!response.ok) throw new Error('歌单加载失败'); catalog = await response.json(); } catch { catalog = [{ id: preferredId, title: 'La gloire à mes genoux', channel: 'YouTube' }]; }
+try { const response = await fetch('./data/musicals.json'); if (response.ok) musicals = await response.json(); } catch {}
 renderLibrary(); await loadSong(preferredId, false);

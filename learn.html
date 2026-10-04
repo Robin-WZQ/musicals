@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0c1e2a">
+  <meta name="description" content="听音乐剧，逐句重听原唱。使用 YouTube 视频与字幕的音乐语言学习页面。">
+  <title>单曲学习 · Musicals</title>
+  <link rel="icon" href="./assets/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./assets/style.css">
+  <link rel="stylesheet" href="./assets/study.css">
+  <link rel="stylesheet" href="./assets/info.css">
+  <script type="module" src="./assets/app.js"></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <a class="brand" href="./"><span class="brand-mark">m</span><span>musicals<span class="brand-sub">听见每一句</span></span><button id="open-song" class="icon-button" title="选择或添加歌曲" aria-label="选择或添加歌曲">＋</button></a>
+    <nav id="learning-breadcrumb" class="learning-breadcrumb" aria-label="曲库导航"><a href="./">曲库</a><span> / </span><a id="back-musical" href="./musical.html?id=le-rouge-et-le-noir">摇滚红与黑</a></nav>
+    <div class="video-shell"><div id="youtube-player"></div><div id="player-placeholder"><img id="cover" alt="YouTube 视频封面"><button id="load-player" aria-label="加载 YouTube 播放器">▶</button><span>使用 YouTube 播放原唱</span></div></div>
+    <div class="toolbar" aria-label="播放工具">
+      <button id="info-toggle" class="tool active" title="歌曲信息" aria-label="歌曲信息">☷</button>
+      <label class="tool speed-tool" title="播放速度"><span>◴</span><select id="speed" aria-label="播放速度"><option value="0.5">0.5×</option><option value="0.75">0.75×</option><option selected value="1">1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select></label>
+      <button id="share" class="tool" title="分享歌曲" aria-label="分享歌曲">↗</button>
+      <button id="help" class="tool" title="使用说明" aria-label="使用说明">▤</button>
+      <button id="bookmark" class="tool" title="收藏歌曲" aria-label="收藏歌曲" aria-pressed="false">♧</button>
+    </div>
+    <div class="song-info" id="song-info">
+      <span class="eyebrow">音乐剧 · 原唱学习</span>
+      <h1 id="song-title">La gloire à mes genoux</h1>
+      <p id="original-title" class="original-title" hidden></p>
+      <a id="artist" class="artist-link" href="#about-artist" hidden></a>
+      <a id="channel" target="_blank" rel="noopener noreferrer" hidden>YouTube</a>
+      <div id="song-facts" class="song-facts" hidden></div>
+      <a id="album" class="album-link" href="#about-song" hidden></a>
+      <p id="role" class="role" hidden></p>
+      <div class="metadata"><span id="language-label">Français</span><span id="caption-badge">正在读取字幕</span></div>
+      <div class="source-row"><span class="status-dot"></span><span>原唱来自 YouTube</span><a id="youtube-link" target="_blank" rel="noopener noreferrer">打开 ↗</a></div>
+      <section class="about"><h2>关于这首歌</h2><p id="song-description" class="description">视频介绍将在 YouTube 信息读取完成后显示。</p><button id="description-toggle" class="text-button" hidden>展开介绍 ↓</button></section>
+      <div id="editorial-info" class="editorial-info" hidden></div>
+      <details id="info-sources" class="info-sources" hidden><summary>介绍资料来源</summary><div id="info-source-links"></div></details>
+      <section class="how-to"><h2>把一句，听清楚</h2><div><span class="step">01</span><p>点击字幕，听这一句原唱。</p></div><div><span class="step">02</span><p>开启循环，跟着歌手唱。</p></div><div><span class="step">03</span><p>慢一点，让每个词更清晰。</p></div></section>
+      <div class="source-note" id="source-note">字幕内容和时间戳来自 YouTube。</div>
+      <nav class="adjacent-tracks" aria-label="相邻歌曲"><a id="previous-track" hidden>← 上一首</a><a id="next-track" hidden>下一首 →</a></nav>
+      <div class="study-note" id="study-note" hidden>参考音标标出联诵与连读（<b>‿</b>）。空耳仅近似读音；演唱时的发音以原唱为准。中文释义和发音注释为本站学习辅助。</div>
+      <button id="import" class="import-button">导入 YouTube 字幕文件</button>
+      <input id="caption-file" type="file" accept=".vtt,.srt,.json,.json3" hidden>
+      <a class="repo-link" href="https://github.com/Robin-WZQ/musicals" target="_blank" rel="noopener noreferrer">项目与歌曲管理 ↗</a>
+    </div>
+  </aside>
+  <main class="main">
+    <div class="share-banner"><span class="banner-icon">♫</span><span>听原唱，也听懂每一句。</span><button id="banner-share">分享这首歌 ↗</button><button id="banner-close" class="dismiss" aria-label="关闭分享提示">×</button></div>
+    <header class="lyric-header"><div><span class="eyebrow">LISTEN · REPEAT · SING</span><h2>跟着音乐，一句一句</h2></div><div class="view-options"><div class="study-options"><button id="ipa-toggle" class="pill active" aria-pressed="true" title="显示或隐藏法语音标">音标</button><button id="ear-toggle" class="pill active" aria-pressed="true" title="显示或隐藏中文空耳">空耳</button><label class="translation-control"><input id="translation" type="checkbox" checked><span id="translation-label">释义</span></label></div><button id="follow" class="pill active" aria-pressed="true">跟随播放</button></div></header>
+    <div class="study-legend" id="study-legend" hidden><span class="ipa-key"><i class="legend-dot" style="background:currentColor"></i>法语参考音标</span><span class="ear-key"><i class="legend-dot" style="background:currentColor"></i>中文空耳</span><span class="meaning-key"><i class="legend-dot" style="background:currentColor"></i>中文释义</span><span class="link-key"><b>‿</b> 联诵 / 连读 · 空耳为近似读音</span></div>
+    <div id="lyrics" class="lyrics" aria-label="歌曲字幕" tabindex="0"><div class="empty-state"><span class="empty-icon">♫</span><h3>正在读取歌曲…</h3></div></div>
+    <div class="playback-bar"><div class="transport"><button id="previous" class="icon-button" title="上一句（↑）" aria-label="上一句">↑</button><button id="play" class="play-button" aria-label="播放或暂停">▶</button><button id="next" class="icon-button" title="下一句（↓）" aria-label="下一句">↓</button><span id="time">0:00</span></div><div class="repeat-controls"><button id="sentence-mode" class="pill active" aria-pressed="true">单句暂停</button><button id="repeat" class="pill" aria-pressed="false">↻ 循环这句</button></div><span id="current-line" class="line-counter">点击一句开始</span></div>
+  </main>
+  <dialog id="song-dialog"><form method="dialog"><div class="dialog-top"><div><span class="eyebrow">YOUR MUSICAL LIBRARY</span><h2>选一首歌，开始听</h2></div><button class="icon-button" aria-label="关闭">×</button></div></form><div id="song-list" class="song-list"></div><div class="add-video"><label for="video-url">添加 YouTube 视频</label><form id="video-form"><input id="video-url" type="text" placeholder="粘贴 YouTube 链接或视频 ID" required><button class="solid-button" type="submit">打开</button></form><p>新视频可以直接播放；逐句学习需要该视频的 YouTube 字幕。</p><a href="https://github.com/Robin-WZQ/musicals/actions/workflows/pages.yml" target="_blank" rel="noopener noreferrer">在歌曲库中读取字幕 ↗</a></div></dialog>
+  <dialog id="help-dialog"><form method="dialog"><div class="dialog-top"><h2>听懂每一句</h2><button class="icon-button" aria-label="关闭">×</button></div></form><p>点击一整组歌词（法语、音标、空耳或释义），视频就会跳到这一段。开启“单句暂停”后，播放到段末自动暂停；开启“循环这句”会反复重播选中的一段。</p><p>空格：播放 / 暂停　↑ / ↓：上一句 / 下一句<br>R：切换循环　Esc：关闭弹窗</p><p>青色显示参考音标，珊瑚色显示中文空耳，金色显示中文释义。<b>‿</b> 标出联诵或连读；仅在需要连接的地方标记。参考音标采用标准法语读法，未逐音标注歌手的演唱变化；空耳不能精确表示法语鼻化元音、圆唇元音和 /ʁ/。</p><p>学习注释由本站补充，不是 YouTube 原生字幕。当前歌曲的显示歌词参考同一视频介绍修正错字；时间范围保留 YouTube 自动字幕，因此部分条目仍是半句，省略号表示跨段续接。其他歌曲在有配套注释时显示同样的学习层。</p><p><a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/23552/la-prononciation/liaisons/contextes-de-liaisons-interdites" target="_blank" rel="noopener noreferrer">法语联诵规则参考 ↗</a></p><p>未配套学习注释的歌曲显示 YouTube 原始字幕及可用译文。部分视频没有字幕或不允许嵌入，可以更换歌曲，也可以导入同一视频的 YouTube 字幕（VTT、SRT 或 JSON3）。</p></dialog>
+  <div id="toast" role="status" class="toast" hidden></div>
+</body>
+</html>
