@@ -8,6 +8,6 @@ export function attachStudyNotes(cues, notes) {
     // Match both source text and time: a refreshed or imported caption must not
     // silently inherit an annotation written for a different lyric.
     if (!note?.ipa || !note?.ear || !note?.meaning) return cue;
-    return { ...cue, displayText: note.displayText || cue.text, ipa: note.ipa, ear: note.ear, studyMeaning: note.meaning };
+    return { ...cue, displayText: note.displayText || cue.text, ipa: note.ipa, ear: note.ear, studyMeaning: note.meaning, kind: note.kind || 'lyric', reviewNote: note.reviewNote || '' };
   });
 }

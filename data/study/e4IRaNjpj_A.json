@@ -1,558 +1,347 @@
 {
   "videoId": "e4IRaNjpj_A",
-  "version": 1,
-  "textSource": "youtube-auto-captions",
-  "annotationSource": "automated-reference-notes",
-  "pronunciationEngine": "eSpeak NG via phonemizer-fork",
-  "meaningSource": "Google machine translation of YouTube caption text",
-  "reviewStatus": "unreviewed",
-  "note": "视频与分段时间轴来自 YouTube。新曲目保留自动字幕原文，可能存在识别错误；参考音标、近似空耳与中文机器释义自动生成，尚未逐句校对。‿ 表示参考读法中的可能联诵或连读，并非原唱逐音转写。",
+  "playbackVideoId": "e4IRaNjpj_A",
+  "version": 2,
+  "textSource": "editorial-cross-check",
+  "textReviewStatus": "cross-checked",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-selected-overrides",
+  "reviewStatus": "text-reviewed-timing-approximate",
+  "meaningSource": "editorial-chinese-paraphrase",
+  "pronunciationEngine": "eSpeak NG with selected editorial corrections",
+  "sources": [
+    {
+      "label": "歌词校对参考",
+      "url": "https://www.paroles.net/le-rouge-et-le-noir/paroles-que-c-est-bon-d-etre-un-bourgeois"
+    },
+    {
+      "label": "对应播放视频",
+      "url": "https://www.youtube.com/watch?v=e4IRaNjpj_A"
+    }
+  ],
+  "note": "法语文字已参考剧方剧本、歌词资料或视频画面交叉校正；中文释义按校正文字重写。句子重新划分，起止时间为近似定位，仍需逐句听校；音标为标准法语参考读法，空耳仅辅助记忆。",
   "entries": [
     {
-      "start": 0.25,
-      "sourceText": "geronimo les ai tous geronimo est bien",
-      "ipa": "ʒəʁonimo lez‿e tus ʒəʁonimo ɛ bjɛ̃",
-      "ear": "热霍尼莫 莱兹 诶 图斯 热霍尼莫 艾 布耶安",
-      "meaning": "geronimo 都得到了 geronimo 很好"
+      "start": 15.8,
+      "sourceText": "Le petit doigt en l'air…",
+      "ipa": "lə pəti dwa ɑ̃ lɛʁ",
+      "ear": "勒 珀蒂 德乌阿 昂 莱赫",
+      "meaning": "小指优雅地翘起——"
     },
     {
-      "start": 4.129,
-      "sourceText": "sûr enfin poule honneur une petite",
-      "ipa": "syːʁ‿ɑ̃fɛ̃ pul‿ɔnœʁ‿yn pətit",
-      "ear": "斯yː赫 昂凡 普勒 哦讷厄赫 于恩 珀蒂特",
-      "meaning": "终于母鸡荣誉了一点"
-    },
-    {
-      "start": 7.46,
-      "sourceText": "chansonnette pour couvrir les rumeurs",
-      "ipa": "ʃɑ̃sɔnɛt puʁ kuvʁiʁ le ʁymœʁ",
-      "ear": "尚索奈特 普赫 库弗希赫 莱 许默厄赫",
-      "meaning": "小曲掩盖谣言"
-    },
-    {
-      "start": 9.169,
-      "sourceText": "qui semblent pas disposées nos fragiles",
-      "ipa": "ki sɑ̃bl pa dispoze no fʁaʒil",
-      "ear": "基 桑布勒 帕 迪斯波泽 诺 弗哈日勒",
-      "meaning": "谁似乎不甘心我们的脆弱"
-    },
-    {
-      "start": 11.089,
-      "sourceText": "zone était faux vous plaît le petit",
-      "ipa": "zon‿etɛ fo vu plɛ lə pəti",
-      "ear": "佐恩 诶泰 佛 乌 普莱 勒 珀蒂",
-      "meaning": "区错了请小家伙"
-    },
-    {
-      "start": 17.72,
-      "sourceText": "doigt en l'air les gens bien partout",
-      "ipa": "dwa ɑ̃ lɛʁ le ʒɑ̃ bjɛ̃ paʁtu",
-      "ear": "德乌阿 昂 莱赫 莱 让 布耶安 帕赫图",
-      "meaning": "举手投足好人无处不在"
-    },
-    {
-      "start": 21.25,
-      "sourceText": "hier",
-      "ipa": "jɛʁ",
-      "ear": "耶艾赫",
-      "meaning": "昨天"
+      "start": 19.1,
+      "sourceText": "Les gens bien partent en guerre.",
+      "ipa": "le ʒɑ̃ bjɛ̃ paʁt‿ɑ̃ ɡɛʁ",
+      "ear": "莱 让 布耶安 帕赫特 昂 盖赫",
+      "meaning": "那些体面人开始讨伐。"
     },
     {
       "start": 22.58,
-      "sourceText": "entre les joueurs du guerre des pauvres",
-      "ipa": "ɑ̃tʁ le ʒwœʁ dy ɡɛʁ de povʁ",
-      "ear": "昂特赫 莱 日乌厄赫 迪于 盖赫 德 波弗赫",
-      "meaning": "玩家之间的穷人战争"
+      "sourceText": "Contre les joies vulgaires…",
+      "ipa": "kɔ̃tʁ le ʒwa vylɡɛʁ",
+      "ear": "孔特赫 莱 日乌阿 维于勒盖赫",
+      "meaning": "讨伐那些粗俗的快乐——"
     },
     {
-      "start": 25.04,
-      "sourceText": "et leur mauvais",
-      "ipa": "e lœʁ movɛ",
-      "ear": "诶 勒厄赫 莫韦",
-      "meaning": "和他们的坏处"
+      "start": 24.2,
+      "sourceText": "Des pauvres et leur mauvais goût.",
+      "ipa": "de povʁ e lœʁ movɛ ɡu",
+      "ear": "德 波弗赫 艾 勒厄赫 莫韦 古",
+      "meaning": "穷人的快乐，以及他们的坏品味。"
     },
     {
       "start": 27.68,
-      "sourceText": "fleurs à la",
-      "ipa": "flœʁz‿a la",
-      "ear": "弗勒厄赫兹 阿 拉",
-      "meaning": "鲜花"
-    },
-    {
-      "start": 29.1,
-      "sourceText": "boutonnière",
-      "ipa": "butɔnjɛʁ",
-      "ear": "布托恩耶艾赫",
-      "meaning": "扣眼"
+      "sourceText": "Fleur à la boutonnière…",
+      "ipa": "flœʁ‿a la butɔnjɛʁ",
+      "ear": "弗勒厄赫 阿 拉 布托恩耶艾赫",
+      "meaning": "胸前别着花——"
     },
     {
       "start": 30.34,
-      "sourceText": "leur",
-      "ipa": "lœʁ",
-      "ear": "勒厄赫",
-      "meaning": "他们的"
+      "sourceText": "Leur regard nous suggère…",
+      "ipa": "lœʁ ʁəɡaʁ nu syɡʒɛʁ",
+      "ear": "勒厄赫 赫嘎赫 努 西于格热赫",
+      "meaning": "他们的眼神暗示我们——"
     },
     {
-      "start": 31.77,
-      "sourceText": "nous suggère de",
-      "ipa": "nu syɡʒɛʁ də",
-      "ear": "努 西于格热赫 德",
-      "meaning": "建议我们"
-    },
-    {
-      "start": 34.19,
-      "sourceText": "nous cacher sous terre nous",
-      "ipa": "nu kaʃe su tɛʁ nu",
-      "ear": "努 卡谢 苏 泰赫 努",
-      "meaning": "把我们藏在地下"
+      "start": 33.0,
+      "sourceText": "De nous cacher sous terre.",
+      "ipa": "də nu kaʃe su tɛʁ",
+      "ear": "德 努 卡谢 苏 泰赫",
+      "meaning": "最好躲到地下去。"
     },
     {
       "start": 35.87,
-      "sourceText": "n'inspirerons que le",
-      "ipa": "nɛ̃spiʁʁɔ̃ kə lə",
-      "ear": "南斯皮赫洪 克 勒",
-      "meaning": "只会启发"
+      "sourceText": "Nous n'inspirons que le dégoût.",
+      "ipa": "nu nɛ̃spiʁɔ̃ kə lə deɡu",
+      "ear": "努 南斯皮洪 克 勒 德古",
+      "meaning": "我们只会让他们恶心。"
     },
     {
       "start": 38.07,
-      "sourceText": "ou comme ça c'est pas comme il faut",
-      "ipa": "u kɔm sa sɛ pa kɔm‿il fo",
-      "ear": "乌 科姆 萨 塞 帕 科姆 伊勒 佛",
-      "meaning": "或者说它不应该是这样"
+      "sourceText": "Comme ça, c'est pas comme il faut.",
+      "ipa": "kɔm sa sɛ pa kɔm‿il fo",
+      "ear": "科姆 萨 塞 帕 科姆 伊勒 佛",
+      "meaning": "这样做，可不合规矩。"
     },
     {
       "start": 41.56,
-      "sourceText": "comme si quel vilain défaut tout",
-      "ipa": "kɔm si kɛl vilɛ̃ defo tu",
-      "ear": "科姆 西 凯勒 维兰 德佛 图",
-      "meaning": "仿佛一切都是多么令人讨厌的缺陷"
+      "sourceText": "Comme ci, quel vilain défaut !",
+      "ipa": "kɔm si kɛl vilɛ̃ defo",
+      "ear": "科姆 西 凯勒 维兰 德佛",
+      "meaning": "那样做，多难看的毛病！"
     },
     {
-      "start": 46.22,
-      "sourceText": "non",
-      "ipa": "nɔ̃",
-      "ear": "农",
-      "meaning": "没有"
-    },
-    {
-      "start": 47.38,
-      "sourceText": "deux manières",
-      "ipa": "dø manjɛʁ",
-      "ear": "德厄 玛恩耶艾赫",
-      "meaning": "两种方式"
-    },
-    {
-      "start": 48.96,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 44.5,
+      "sourceText": "Tous nos travers manquent de manières.",
+      "ipa": "tu no tʁavɛʁ mɑ̃k də manjɛʁ",
+      "ear": "图 诺 特哈韦赫 芒克 德 玛恩耶艾赫",
+      "meaning": "我们的种种缺点，在他们眼中都是没教养。"
     },
     {
       "start": 50.55,
-      "sourceText": "ou le dise",
-      "ipa": "u lə diz",
-      "ear": "乌 勒 迪兹",
-      "meaning": "还是说吧"
-    },
-    {
-      "start": 53.97,
-      "sourceText": "il",
-      "ipa": "il",
-      "ear": "伊勒",
-      "meaning": "他"
+      "sourceText": "Et ils nous le disent de très haut.",
+      "ipa": "e il nu lə diz də tʁɛ o",
+      "ear": "诶 伊勒 努 勒 迪兹 德 特赫 奥",
+      "meaning": "他们还高高在上地告诉我们。"
     },
     {
       "start": 55.23,
-      "sourceText": "que c'est bon d'être un pur joyau viande",
-      "ipa": "kə sɛ bɔ̃ dɛtʁ‿œ̃ pyʁ ʒwajo vjɑ̃d",
-      "ear": "克 塞 崩 戴特赫 恩 普于赫 日乌阿耶奥 弗耶昂德",
-      "meaning": "当个纯肉宝石该多好"
+      "sourceText": "Que c'est bon d'être un bourgeois !",
+      "ipa": "kə sɛ bɔ̃ dɛtʁ‿œ̃ buʁʒwa",
+      "ear": "克 塞 崩 戴特赫 恩 布赫日乌阿",
+      "meaning": "做个资产阶级，多么美好！"
     },
     {
       "start": 58.14,
-      "sourceText": "élevée dans la soie",
-      "ipa": "elve dɑ̃ la swa",
-      "ear": "诶勒韦 当 拉 斯乌阿",
-      "meaning": "丝质凸起"
+      "sourceText": "Bien élevé dans la soie.",
+      "ipa": "bjɛ̃n‿elve dɑ̃ la swa",
+      "ear": "布耶安恩 诶勒韦 当 拉 斯乌阿",
+      "meaning": "在锦衣玉食中受着良好的教养。"
     },
     {
       "start": 60.7,
-      "sourceText": "par surcroît de temps",
-      "ipa": "paʁ syʁkʁwa də tɑ̃",
-      "ear": "帕赫 西于赫克赫乌阿 德 唐",
-      "meaning": "加时赛"
-    },
-    {
-      "start": 63.56,
-      "sourceText": "oui",
-      "ipa": "wi",
-      "ear": "乌伊",
-      "meaning": "是的"
+      "sourceText": "Porteur de surcroît de tant de richesses.",
+      "ipa": "pɔʁtœʁ də syʁkʁwa də tɑ̃ də ʁiʃɛs",
+      "ear": "珀赫特厄赫 德 西于赫克赫乌阿 德 唐 德 希谢斯",
+      "meaning": "还拥有那么多财富。"
     },
     {
       "start": 64.69,
-      "sourceText": "j'ai le bonheur",
-      "ipa": "ʒe lə bɔnœʁ",
-      "ear": "热 勒 博讷厄赫",
-      "meaning": "我有幸福"
-    },
-    {
-      "start": 66.76,
-      "sourceText": "les clubs allemands",
-      "ipa": "le klœbz‿almɑ̃",
-      "ear": "莱 克勒厄布兹 阿勒芒",
-      "meaning": "德国俱乐部"
+      "sourceText": "Le bonheur, les vraies valeurs…",
+      "ipa": "lə bɔnœʁ le vʁɛ valœʁ",
+      "ear": "勒 博讷厄赫 莱 弗赫 瓦勒厄赫",
+      "meaning": "幸福，所谓真正的价值——"
     },
     {
       "start": 69.81,
-      "sourceText": "sans ça",
-      "ipa": "sɑ̃ sa",
-      "ear": "桑 萨",
-      "meaning": "没有那个"
-    },
-    {
-      "start": 71.2,
-      "sourceText": "or",
-      "ipa": "ɔʁ",
-      "ear": "哦赫",
-      "meaning": "金色"
-    },
-    {
-      "start": 73.22,
-      "sourceText": "pour mai",
-      "ipa": "puʁ mɛ",
-      "ear": "普赫 梅",
-      "meaning": "五月"
-    },
-    {
-      "start": 75.01,
-      "sourceText": "oh",
-      "ipa": "ɔ",
-      "ear": "哦",
-      "meaning": "哦"
+      "sourceText": "Sans avoir peur des jours meilleurs.",
+      "ipa": "sɑ̃z‿avwaʁ pœʁ de ʒuʁ mɛjœʁ",
+      "ear": "桑兹 阿弗乌阿赫 珀厄赫 德 茹赫 梅耶厄赫",
+      "meaning": "不必害怕更好的日子到来。"
     },
     {
       "start": 76.2,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
-    },
-    {
-      "start": 78.14,
-      "sourceText": "de mozart",
-      "ipa": "də mozaʁ",
-      "ear": "德 莫扎赫",
-      "meaning": "莫扎特"
+      "sourceText": "En élevant de beaux enfants…",
+      "ipa": "ɑ̃n‿elvɑ̃ də boz‿ɑ̃fɑ̃",
+      "ear": "昂恩 诶勒旺 德 博兹 昂芳",
+      "meaning": "养育着漂亮的孩子——"
     },
     {
       "start": 80.55,
-      "sourceText": "un dirigeant",
-      "ipa": "œ̃ diʁiʒɑ̃",
-      "ear": "恩 迪希让",
-      "meaning": "领导者"
-    },
-    {
-      "start": 83.68,
-      "sourceText": "tout semble mort",
-      "ipa": "tu sɑ̃bl mɔʁ",
-      "ear": "图 桑布勒 莫赫",
-      "meaning": "一切似乎都死了"
-    },
-    {
-      "start": 85.62,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
-    },
-    {
-      "start": 95.39,
-      "sourceText": "[Applaudissements]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[鼓掌]"
+      "sourceText": "Intelligents, tout simplement.",
+      "ipa": "ɛ̃tɛliʒɑ̃ tu sɛ̃pləmɑ̃",
+      "ear": "安泰利让 图 森普勒芒",
+      "meaning": "聪明伶俐，仅此而已。"
     },
     {
       "start": 96.5,
-      "sourceText": "assis sur la misère",
+      "sourceText": "Assis sur la misère…",
       "ipa": "asi syʁ la mizɛʁ",
       "ear": "阿西 西于赫 拉 米泽赫",
-      "meaning": "坐苦"
+      "meaning": "安坐在别人的苦难之上——"
     },
     {
       "start": 99.6,
-      "sourceText": "les rupins syndicats",
-      "ipa": "le ʁypɛ̃ sɛ̃dika",
-      "ear": "莱 许潘 森迪卡",
-      "meaning": "鲁宾工会"
+      "sourceText": "Les rupins s'indiffèrent…",
+      "ipa": "le ʁypɛ̃ sɛ̃difɛʁ",
+      "ear": "莱 许潘 森迪费赫",
+      "meaning": "富人们漠不关心——"
     },
     {
-      "start": 103.19,
-      "sourceText": "physique précaire",
-      "ipa": "fizik pʁekɛʁ",
-      "ear": "菲齐克 普赫凯赫",
-      "meaning": "体质不稳定"
+      "start": 102.5,
+      "sourceText": "De nos vies si précaires.",
+      "ipa": "də no vi si pʁekɛʁ",
+      "ear": "德 诺 维 西 普赫凯赫",
+      "meaning": "对我们如此艰难的生活漠不关心。"
     },
     {
-      "start": 105.74,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 105.0,
+      "sourceText": "Leurs envies passent avant nous.",
+      "ipa": "lœʁz‿ɑ̃vi pas‿avɑ̃ nu",
+      "ear": "勒厄赫兹 昂维 帕斯 阿旺 努",
+      "meaning": "他们的欲望，总排在我们前面。"
     },
     {
       "start": 107.76,
-      "sourceText": "tourné vers dieu le père",
+      "sourceText": "Tournés vers Dieu le Père…",
       "ipa": "tuʁne vɛʁ djø lə pɛʁ",
       "ear": "图赫内 韦赫 德耶厄 勒 佩赫",
-      "meaning": "转向天父"
+      "meaning": "面向上帝圣父——"
     },
     {
       "start": 110.1,
-      "sourceText": "au nom de",
-      "ipa": "o nɔ̃ də",
-      "ear": "奥 农 德",
-      "meaning": "代表"
-    },
-    {
-      "start": 111.909,
-      "sourceText": "observer",
-      "ipa": "ɔbsɛʁve",
-      "ear": "哦布塞赫韦",
-      "meaning": "观察"
+      "sourceText": "Au nom de leurs affaires.",
+      "ipa": "o nɔ̃ də lœʁz‿afɛʁ",
+      "ear": "奥 农 德 勒厄赫兹 阿费赫",
+      "meaning": "以他们生意的名义。"
     },
     {
       "start": 113.04,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "Ils ne font de prières…",
+      "ipa": "il nə fɔ̃ də pʁiɛʁ",
+      "ear": "伊勒 讷 丰 德 普希艾赫",
+      "meaning": "他们的祈祷只为了——"
     },
     {
       "start": 114.85,
-      "sourceText": "prix que pour des jours",
-      "ipa": "pʁi kə puʁ de ʒuʁ",
-      "ear": "普希 克 普赫 德 茹赫",
-      "meaning": "价格仅限天数"
+      "sourceText": "Que pour des jours encore plus doux.",
+      "ipa": "kə puʁ de ʒuʁz‿ɑ̃kɔʁ ply du",
+      "ear": "克 普赫 德 茹赫兹 昂科赫 普吕 杜",
+      "meaning": "日子过得更加舒坦。"
     },
     {
       "start": 118.82,
-      "sourceText": "pour",
-      "ipa": "puʁ",
-      "ear": "普赫",
-      "meaning": "对于"
-    },
-    {
-      "start": 120.07,
-      "sourceText": "non jamais trop",
-      "ipa": "nɔ̃ ʒamɛ tʁo",
-      "ear": "农 扎梅 特霍",
-      "meaning": "没有永远太多"
+      "sourceText": "Pour eux, ils n'ont jamais trop.",
+      "ipa": "puʁ‿øz il nɔ̃ ʒamɛ tʁo",
+      "ear": "普赫 厄兹 伊勒 农 扎梅 特霍",
+      "meaning": "对他们而言，拥有多少都不算多。"
     },
     {
       "start": 121.43,
-      "sourceText": "un dieu",
-      "ipa": "œ̃ djø",
-      "ear": "恩 德耶厄",
-      "meaning": "神"
+      "sourceText": "Un gueux, mais qu'est-ce que ça vaut ?",
+      "ipa": "œ̃ ɡø mɛ kɛskə sa vo",
+      "ear": "恩 格厄 梅 凯斯克 萨 沃",
+      "meaning": "一个穷鬼，能值多少钱？"
     },
     {
-      "start": 126.18,
-      "sourceText": "c'est",
-      "ipa": "sɛ",
-      "ear": "塞",
-      "meaning": "是"
+      "start": 125.0,
+      "sourceText": "Soyons sincères, c'est ceux qu'on terre.",
+      "ipa": "swajɔ̃ sɛ̃sɛʁ sɛ sø kɔ̃ tɛʁ",
+      "ear": "斯乌阿耶翁 森塞赫 塞 瑟厄 孔 泰赫",
+      "meaning": "说实话吧，他们就是被我们踩在脚下的人。"
     },
     {
-      "start": 127.42,
-      "sourceText": "est ce comté",
-      "ipa": "ɛ sə kɔ̃te",
-      "ear": "艾 瑟 孔特",
-      "meaning": "是这个县吗"
-    },
-    {
-      "start": 130.18,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 128.0,
+      "sourceText": "Et ils nous le disent de très haut.",
+      "ipa": "e il nu lə diz də tʁɛ o",
+      "ear": "诶 伊勒 努 勒 迪兹 德 特赫 奥",
+      "meaning": "他们还高高在上地告诉我们。"
     },
     {
       "start": 134.53,
-      "sourceText": "c'est bon d'être un bouc noir",
-      "ipa": "sɛ bɔ̃ dɛtʁ‿œ̃ buk nwaʁ",
-      "ear": "塞 崩 戴特赫 恩 布克 恩乌阿赫",
-      "meaning": "做黑山羊真好"
+      "sourceText": "Que c'est bon d'être un bourgeois !",
+      "ipa": "kə sɛ bɔ̃ dɛtʁ‿œ̃ buʁʒwa",
+      "ear": "克 塞 崩 戴特赫 恩 布赫日乌阿",
+      "meaning": "做个资产阶级，多么美好！"
     },
     {
       "start": 137.98,
-      "sourceText": "bienvenue dans la soie",
-      "ipa": "bjɛ̃vny dɑ̃ la swa",
-      "ear": "布耶安弗尼于 当 拉 斯乌阿",
-      "meaning": "欢迎来到丝绸"
+      "sourceText": "Bien élevé dans la soie.",
+      "ipa": "bjɛ̃n‿elve dɑ̃ la swa",
+      "ear": "布耶安恩 诶勒韦 当 拉 斯乌阿",
+      "meaning": "在锦衣玉食中受着良好的教养。"
     },
     {
       "start": 140.59,
-      "sourceText": "de surcroît de temps",
-      "ipa": "də syʁkʁwa də tɑ̃",
-      "ear": "德 西于赫克赫乌阿 德 唐",
-      "meaning": "额外时间"
+      "sourceText": "Porteur de surcroît de tant de richesses.",
+      "ipa": "pɔʁtœʁ də syʁkʁwa də tɑ̃ də ʁiʃɛs",
+      "ear": "珀赫特厄赫 德 西于赫克赫乌阿 德 唐 德 希谢斯",
+      "meaning": "还拥有那么多财富。"
     },
     {
       "start": 144.52,
-      "sourceText": "ves",
-      "ipa": "v",
-      "ear": "弗",
-      "meaning": "韦斯"
-    },
-    {
-      "start": 147.36,
-      "sourceText": "les vrais mâles",
-      "ipa": "le vʁɛ maːl",
-      "ear": "莱 弗赫 姆aː勒",
-      "meaning": "真正的男性"
+      "sourceText": "Le bonheur, les vraies valeurs…",
+      "ipa": "lə bɔnœʁ le vʁɛ valœʁ",
+      "ear": "勒 博讷厄赫 莱 弗赫 瓦勒厄赫",
+      "meaning": "幸福，所谓真正的价值——"
     },
     {
       "start": 149.72,
-      "sourceText": "sans ça",
-      "ipa": "sɑ̃ sa",
-      "ear": "桑 萨",
-      "meaning": "没有那个"
-    },
-    {
-      "start": 152.4,
-      "sourceText": "à défaut",
-      "ipa": "a defo",
-      "ear": "阿 德佛",
-      "meaning": "否则"
-    },
-    {
-      "start": 155.11,
-      "sourceText": "oh",
-      "ipa": "ɔ",
-      "ear": "哦",
-      "meaning": "哦"
+      "sourceText": "Sans avoir peur des jours meilleurs.",
+      "ipa": "sɑ̃z‿avwaʁ pœʁ de ʒuʁ mɛjœʁ",
+      "ear": "桑兹 阿弗乌阿赫 珀厄赫 德 茹赫 梅耶厄赫",
+      "meaning": "不必害怕更好的日子到来。"
     },
     {
       "start": 157.69,
-      "sourceText": "deux beaux enfants",
-      "ipa": "dø boz‿ɑ̃fɑ̃",
-      "ear": "德厄 博兹 昂芳",
-      "meaning": "两个漂亮的孩子"
-    },
-    {
-      "start": 159.53,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "En élevant de beaux enfants…",
+      "ipa": "ɑ̃n‿elvɑ̃ də boz‿ɑ̃fɑ̃",
+      "ear": "昂恩 诶勒旺 德 博兹 昂芳",
+      "meaning": "养育着漂亮的孩子——"
     },
     {
       "start": 161.069,
-      "sourceText": "inquiet",
-      "ipa": "ɛ̃kjɛ",
-      "ear": "安克耶艾",
-      "meaning": "担心"
-    },
-    {
-      "start": 163.53,
-      "sourceText": "tous",
-      "ipa": "tus",
-      "ear": "图斯",
-      "meaning": "全部"
-    },
-    {
-      "start": 167.22,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "Intelligents, tout simplement.",
+      "ipa": "ɛ̃tɛliʒɑ̃ tu sɛ̃pləmɑ̃",
+      "ear": "安泰利让 图 森普勒芒",
+      "meaning": "聪明伶俐，仅此而已。"
     },
     {
       "start": 171.87,
-      "sourceText": "ils eu peur des gens bien",
-      "ipa": "ilz‿y pœʁ de ʒɑ̃ bjɛ̃",
-      "ear": "伊勒兹 于 珀厄赫 德 让 布耶安",
-      "meaning": "他们害怕好人"
+      "sourceText": "Voler le pain des gens bien…",
+      "ipa": "vole lə pɛ̃ de ʒɑ̃ bjɛ̃",
+      "ear": "沃莱 勒 潘 德 让 布耶安",
+      "meaning": "偷体面人的面包——"
     },
     {
-      "start": 175.51,
-      "sourceText": "enfin",
-      "ipa": "ɑ̃fɛ̃",
-      "ear": "昂凡",
-      "meaning": "终于"
+      "start": 174.5,
+      "sourceText": "En prétendant qu'on a faim.",
+      "ipa": "ɑ̃ pʁetɑ̃dɑ̃ kɔ̃n‿a fɛ̃",
+      "ear": "昂 普赫唐当 孔恩 阿 凡",
+      "meaning": "还声称自己饿了。"
     },
     {
       "start": 177.05,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "Que c'est vulgaire ! Quel manque de manières !",
+      "ipa": "kə sɛ vylɡɛʁ kɛl mɑ̃k də manjɛʁ",
+      "ear": "克 塞 维于勒盖赫 凯勒 芒克 德 玛恩耶艾赫",
+      "meaning": "真粗俗！真没教养！"
     },
     {
       "start": 182.23,
-      "sourceText": "les marchés des bourgeois",
-      "ipa": "le maʁʃe de buʁʒwa",
-      "ear": "莱 玛赫谢 德 布赫日乌阿",
-      "meaning": "资产阶级市场"
+      "sourceText": "Voler l'argent des bourgeois…",
+      "ipa": "vole laʁʒɑ̃ de buʁʒwa",
+      "ear": "沃莱 拉赫让 德 布赫日乌阿",
+      "meaning": "偷资产阶级的钱——"
     },
     {
       "start": 185.16,
-      "sourceText": "remplie",
-      "ipa": "ʁɑ̃pli",
-      "ear": "杭普利",
-      "meaning": "已满"
-    },
-    {
-      "start": 186.61,
-      "sourceText": "ça",
-      "ipa": "sa",
-      "ear": "萨",
-      "meaning": "这个"
+      "sourceText": "En prétendant qu'on a froid.",
+      "ipa": "ɑ̃ pʁetɑ̃dɑ̃ kɔ̃n‿a fʁwa",
+      "ear": "昂 普赫唐当 孔恩 阿 弗赫乌阿",
+      "meaning": "还声称自己冷了。"
     },
     {
       "start": 187.72,
-      "sourceText": "c'est plus guère",
-      "ipa": "sɛ ply ɡɛʁ",
-      "ear": "塞 普吕 盖赫",
-      "meaning": "几乎没有了"
-    },
-    {
-      "start": 189.81,
-      "sourceText": "tellement",
-      "ipa": "tɛlmɑ̃",
-      "ear": "泰勒芒",
-      "meaning": "这么多"
+      "sourceText": "Que c'est vulgaire ! Quel manque de manières !",
+      "ipa": "kə sɛ vylɡɛʁ kɛl mɑ̃k də manjɛʁ",
+      "ear": "克 塞 维于勒盖赫 凯勒 芒克 德 玛恩耶艾赫",
+      "meaning": "真粗俗！真没教养！"
     },
     {
       "start": 195.17,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "Que c'est vulgaire ! Quel manque de manières !",
+      "ipa": "kə sɛ vylɡɛʁ kɛl mɑ̃k də manjɛʁ",
+      "ear": "克 塞 维于勒盖赫 凯勒 芒克 德 玛恩耶艾赫",
+      "meaning": "真粗俗！真没教养！"
     },
     {
       "start": 205.51,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
-    },
-    {
-      "start": 210.069,
-      "sourceText": "suite",
-      "ipa": "syit",
-      "ear": "西于伊特",
-      "meaning": "续"
-    },
-    {
-      "start": 212.89,
-      "sourceText": "deux manières",
-      "ipa": "dø manjɛʁ",
-      "ear": "德厄 玛恩耶艾赫",
-      "meaning": "两种方式"
+      "sourceText": "Que c'est vulgaire ! Quel manque de manières !",
+      "ipa": "kə sɛ vylɡɛʁ kɛl mɑ̃k də manjɛʁ",
+      "ear": "克 塞 维于勒盖赫 凯勒 芒克 德 玛恩耶艾赫",
+      "meaning": "真粗俗！真没教养！"
     }
   ]
 }

@@ -27,7 +27,11 @@
       "id": "about-song",
       "heading": "关于歌曲与音乐剧",
       "kind": "background",
-      "sourceIds": ["album", "production", "novel"],
+      "sourceIds": [
+        "album",
+        "production",
+        "novel"
+      ],
       "paragraphs": [
         "这首歌由科姆演唱，收录于2016年的法国音乐剧《摇滚红与黑》录音专辑，也是作品早期宣传推出的歌曲之一。页面播放的是歌曲视频；视频的上传时间不等于歌曲的发行年份。",
         "音乐剧改编自司汤达的小说《红与黑》。主人公于连·索雷尔出身平凡，却渴望进入上层社会，他的野心与爱情不断受到身份和阶层的牵制。这首歌可以作为理解角色不甘与反抗的一扇入口。"
@@ -37,15 +41,39 @@
       "id": "about-artist",
       "heading": "关于演唱者科姆",
       "kind": "background",
-      "sourceIds": ["production"],
+      "sourceIds": [
+        "production"
+      ],
       "paragraphs": [
         "科姆是法国歌手，曾进入2015年法国版《好声音》的决赛。2016年，他在《摇滚红与黑》中饰演主人公于连·索雷尔，并演唱这首歌。"
       ]
     }
   ],
   "sources": [
-    {"id":"album","label":"唱片资料","url":"https://music.apple.com/us/album/le-rouge-et-le-noir-lop%C3%A9ra-rock/1599074186"},
-    {"id":"production","label":"演出与演员资料","url":"https://www.rfm.fr/news/The-Voice-Le-Rouge-et-le-Noir-interprete-en-direct-La-Gloire-a-mes-Genoux-5127"},
-    {"id":"novel","label":"原作背景","url":"https://www.hachette.fr/livre/le-rouge-et-le-noir-9782401059351/"}
+    {
+      "id": "album",
+      "label": "唱片资料",
+      "url": "https://music.apple.com/us/album/le-rouge-et-le-noir-lop%C3%A9ra-rock/1599074186"
+    },
+    {
+      "id": "production",
+      "label": "演出与演员资料",
+      "url": "https://www.rfm.fr/news/The-Voice-Le-Rouge-et-le-Noir-interprete-en-direct-La-Gloire-a-mes-Genoux-5127"
+    },
+    {
+      "id": "novel",
+      "label": "原作背景",
+      "url": "https://www.hachette.fr/livre/le-rouge-et-le-noir-9782401059351/"
+    },
+    {
+      "id": "lyrics-review",
+      "label": "歌词校对参考",
+      "url": "https://www.paroles.net/come/paroles-la-gloire-a-mes-genoux"
+    },
+    {
+      "id": "video",
+      "label": "当前播放的 YouTube 视频",
+      "url": "https://www.youtube.com/watch?v=7BZhhlQFcbg"
+    }
   ]
 }

@@ -134,6 +134,21 @@ def fetch_captions(vid, language, translation, session, info):
     return {'captionStatus': 'unavailable' if unavailable else 'error', 'captionError': ', '.join(dict.fromkeys(errors)), 'cues': []}
 
 
+def protect_editorial(previous, captions, now):
+    """Archive refresh results without replacing corrected text or video-specific timing."""
+    if previous.get('captionSource') != 'editorial' or not previous.get('cues'):
+        return None
+    data = {**previous, 'lastAttemptAt': now}
+    if captions.get('captionStatus') == 'ready':
+        data['sourceCues'] = captions['cues']
+        data['sourceCaptionLanguage'] = captions.get('captionLanguage', '')
+        data['sourceFetchedAt'] = now
+        data.pop('sourceRefreshError', None)
+    else:
+        data['sourceRefreshError'] = captions.get('captionError') or captions.get('captionStatus')
+    return data
+
+
 def ingest(vid, language, translation, proxy=None):
     session = requests.Session()
     session.trust_env = False
@@ -149,10 +164,13 @@ def ingest(vid, language, translation, proxy=None):
         # as Spanish, Dutch or English. Do not advertise those as French lyrics.
         captions = {'captionStatus': 'unavailable', 'captionError': 'No usable French captions; other-language automatic track ignored', 'cues': []}
     now = datetime.now(timezone.utc).isoformat()
-    data = {**previous, **meta, 'id': vid, 'captionSource': 'youtube', 'lastAttemptAt': now}
+    protected = protect_editorial(previous, captions, now)
+    data = protected or {**previous, **meta, 'id': vid, 'captionSource': 'youtube', 'lastAttemptAt': now}
     if not data.get('title'):
         data['title'] = f'YouTube · {vid}'
-    if captions['captionStatus'] != 'ready' and previous.get('cues'):
+    if protected:
+        pass  # Corrected learning cues and replacement-video metadata stay intact.
+    elif captions['captionStatus'] != 'ready' and previous.get('cues'):
         # Never replace successfully retrieved captions with an error response.
         data['refreshError'] = captions.get('captionError') or captions['captionStatus']
     else:

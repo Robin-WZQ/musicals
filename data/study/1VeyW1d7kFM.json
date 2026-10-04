@@ -1,243 +1,312 @@
 {
   "videoId": "1VeyW1d7kFM",
-  "version": 1,
-  "textSource": "youtube-auto-captions",
-  "annotationSource": "automated-reference-notes",
-  "pronunciationEngine": "eSpeak NG via phonemizer-fork",
-  "meaningSource": "Google machine translation of YouTube caption text",
-  "reviewStatus": "unreviewed",
-  "note": "视频与分段时间轴来自 YouTube。新曲目保留自动字幕原文，可能存在识别错误；参考音标、近似空耳与中文机器释义自动生成，尚未逐句校对。‿ 表示参考读法中的可能联诵或连读，并非原唱逐音转写。",
+  "playbackVideoId": "1VeyW1d7kFM",
+  "version": 2,
+  "textSource": "editorial-cross-check",
+  "textReviewStatus": "cross-checked",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-selected-overrides",
+  "reviewStatus": "text-reviewed-timing-approximate",
+  "meaningSource": "editorial-chinese-paraphrase",
+  "pronunciationEngine": "eSpeak NG with selected editorial corrections",
+  "sources": [
+    {
+      "label": "歌词校对参考",
+      "url": "https://www.paroles.net/le-rouge-et-le-noir/paroles-les-maudits-mots-d-amour"
+    },
+    {
+      "label": "对应播放视频",
+      "url": "https://www.youtube.com/watch?v=1VeyW1d7kFM"
+    }
+  ],
+  "note": "法语文字已参考剧方剧本、歌词资料或视频画面交叉校正；中文释义按校正文字重写。句子重新划分，起止时间为近似定位，仍需逐句听校；音标为标准法语参考读法，空耳仅辅助记忆。",
   "entries": [
     {
-      "start": 1.06,
-      "sourceText": "vous la joue dix belles dames",
-      "ipa": "vu la ʒu di bɛl dam",
-      "ear": "乌 拉 茹 迪 贝勒 达姆",
-      "meaning": "你扮演十位美女"
+      "start": 1.04,
+      "sourceText": "Vous l'ai-je dit, belle dame ?",
+      "ipa": "vu lɛʒ di bɛl dam",
+      "ear": "乌 莱日 迪 贝勒 达姆",
+      "meaning": "美丽的女士，我是否告诉过您？"
     },
     {
-      "start": 3.59,
-      "sourceText": "je suis tombé d'un seul coup sous le",
-      "ipa": "ʒə syi tɔ̃be dœ̃ sœl ku su lə",
-      "ear": "热 西于伊 通贝 丹 瑟厄勒 库 苏 勒",
-      "meaning": "我突然跌倒在地"
+      "start": 3.55,
+      "sourceText": "Je suis tombé d'un seul coup sous le charme.",
+      "ipa": "ʒə sɥi tɔ̃be dœ̃ sœl ku su lə ʃaʁm",
+      "ear": "热 斯于伊 通贝 丹 瑟厄勒 库 苏 勒 沙赫姆",
+      "meaning": "我一下便为您的魅力倾倒。"
     },
     {
-      "start": 6.169,
-      "sourceText": "charme",
-      "ipa": "ʃaʁm",
-      "ear": "沙赫姆",
-      "meaning": "魅力"
+      "start": 6.749,
+      "sourceText": "Vous avez mis le bonheur en mon âme.",
+      "ipa": "vuz‿ave mi lə bɔnœʁ‿ɑ̃ mɔ̃n‿am",
+      "ear": "乌兹 阿韦 米 勒 博讷厄赫 昂 蒙恩 阿姆",
+      "meaning": "您让幸福住进了我的灵魂。"
     },
     {
-      "start": 6.77,
-      "sourceText": "vous avez mis le bonheur en mon âme et",
-      "ipa": "vuz‿ave mi lə bɔnœʁ‿ɑ̃ mɔ̃n aːm‿e",
-      "ear": "乌兹 阿韦 米 勒 博讷厄赫 昂 蒙恩 aː姆 诶",
-      "meaning": "你给我的灵魂带来了幸福"
+      "start": 9.84,
+      "sourceText": "Et mon cœur en émoi. Et vous ?",
+      "ipa": "e mɔ̃ kœʁ‿ɑ̃n‿emwa e vu",
+      "ear": "诶 蒙 克厄赫 昂恩 诶姆乌阿 诶 乌",
+      "meaning": "让我的心悸动不已。那么您呢？"
     },
     {
-      "start": 9.86,
-      "sourceText": "mon coeur en émoi et vous vous l'ajoutez",
-      "ipa": "mɔ̃ kœʁ‿ɑ̃n‿emwa e vu vu laʒute",
-      "ear": "蒙 克厄赫 昂恩 诶姆乌阿 诶 乌 乌 拉茹特",
-      "meaning": "我的心乱了你又加在自己身上"
+      "start": 13.29,
+      "sourceText": "Vous l'ai-je dit, cher ami ?",
+      "ipa": "vu lɛʒ di ʃɛʁ‿ami",
+      "ear": "乌 莱日 迪 谢赫 阿米",
+      "meaning": "亲爱的朋友，我是否告诉过您？"
     },
     {
-      "start": 13.76,
-      "sourceText": "chers amis nous réveiller et neuf femmes",
-      "ipa": "ʃɛʁz‿ami nu ʁevɛje e nœf fam",
-      "ear": "谢赫兹 阿米 努 赫韦耶诶 诶 讷厄弗 法姆",
-      "meaning": "亲爱的朋友们叫醒我们和九个女人"
+      "start": 15.45,
+      "sourceText": "Vous réveillez une flamme endormie.",
+      "ipa": "vu ʁeveje yn fla.m‿ɑ̃dɔʁmi",
+      "ear": "乌 赫维耶 于讷 弗拉姆‿昂多赫米",
+      "meaning": "您唤醒了一团沉睡的火焰。"
     },
     {
-      "start": 16.76,
-      "sourceText": "endormies",
-      "ipa": "ɑ̃dɔʁmi",
-      "ear": "昂多赫米",
-      "meaning": "睡着了"
+      "start": 18.35,
+      "sourceText": "Quand je voulais maîtriser l'incendie.",
+      "ipa": "kɑ̃ ʒə vulɛ mɛtʁize lɛ̃sɑ̃di",
+      "ear": "康 热 乌莱 梅特希泽 兰桑迪",
+      "meaning": "就在我想控制这场烈火的时候。"
     },
     {
-      "start": 17.57,
-      "sourceText": "quand je voulais maîtrise et l'ins ont",
-      "ipa": "kɑ̃ ʒə vulɛ mɛtʁiz‿e (en)ɛlɪnz(fr) ɔ̃",
-      "ear": "康 热 乌莱 梅特希兹 诶 (en)艾勒ɪ恩兹(fr) 翁",
-      "meaning": "当我想要精通的时候ins上就有了"
+      "start": 20.85,
+      "sourceText": "De mon corps en émoi. Et vous ?",
+      "ipa": "də mɔ̃ kɔʁ‿ɑ̃n‿emwa e vu",
+      "ear": "德 蒙 科赫 昂恩 诶姆乌阿 诶 乌",
+      "meaning": "那是我悸动身体中的烈火。那么您呢？"
     },
     {
-      "start": 20.03,
-      "sourceText": "dit que mon corps en émoi et vous",
-      "ipa": "di kə mɔ̃ kɔʁ‿ɑ̃n‿emwa e vu",
-      "ear": "迪 克 蒙 科赫 昂恩 诶姆乌阿 诶 乌",
-      "meaning": "说我的身体很混乱而你"
+      "start": 24.9,
+      "sourceText": "Dès que je suis contre toi…",
+      "ipa": "dɛ kə ʒə sɥi kɔ̃tʁ twa",
+      "ear": "戴 克 热 斯于伊 孔特赫 特乌阿",
+      "meaning": "只要我贴近你——"
     },
     {
-      "start": 24.82,
-      "sourceText": "que je suis contre toi",
-      "ipa": "kə ʒə syi kɔ̃tʁ twa",
-      "ear": "克 热 西于伊 孔特赫 特乌阿",
-      "meaning": "我反对你"
+      "start": 27.54,
+      "sourceText": "L'interdit vole en éclats, vole en éclats.",
+      "ipa": "lɛ̃tɛʁdi vɔl‿ɑ̃n‿ekla vɔl‿ɑ̃n‿ekla",
+      "ear": "兰泰赫迪 沃勒 昂恩 诶克拉 沃勒 昂恩 诶克拉",
+      "meaning": "禁忌便粉碎，粉碎。"
     },
     {
-      "start": 27.58,
-      "sourceText": "mon père dit",
-      "ipa": "mɔ̃ pɛʁ di",
-      "ear": "蒙 佩赫 迪",
-      "meaning": "爸爸说"
+      "start": 32.35,
+      "sourceText": "Tant pis, soyons pour les maudits mots d'amour.",
+      "ipa": "tɑ̃pi swajɔ̃ puʁ le modi mo damuʁ",
+      "ear": "唐皮 斯乌阿耶翁 普赫 莱 莫迪 莫 达穆赫",
+      "meaning": "管它呢，让我们选择那些被诅咒的爱情话语。"
     },
     {
-      "start": 28.77,
-      "sourceText": "il",
-      "ipa": "il",
-      "ear": "伊勒",
-      "meaning": "他"
+      "start": 39.35,
+      "sourceText": "Disons-nous sans détour.",
+      "ipa": "dizɔ̃nu sɑ̃ detuʁ",
+      "ear": "迪宗努 桑 德图赫",
+      "meaning": "让我们坦率地告诉彼此。"
     },
     {
-      "start": 31.2,
-      "sourceText": "à lomé",
-      "ipa": "a lome",
-      "ear": "阿 洛梅",
-      "meaning": "在洛美"
+      "start": 42.35,
+      "sourceText": "Les mots mélos des beaux mélos.",
+      "ipa": "le mo melo de bo melo",
+      "ear": "莱 莫 梅洛 德 博 梅洛",
+      "meaning": "那些美丽爱情剧中煽情的话语。"
     },
     {
-      "start": 35.98,
-      "sourceText": "soyons",
-      "ipa": "swajɔ̃",
-      "ear": "斯乌阿耶翁",
-      "meaning": "让我们成为"
+      "start": 47.85,
+      "sourceText": "Tant pis, soyons forts.",
+      "ipa": "tɑ̃pi swajɔ̃ fɔʁ",
+      "ear": "唐皮 斯乌阿耶翁 佛赫",
+      "meaning": "管它呢，让我们勇敢一点。"
     },
     {
-      "start": 40.96,
-      "sourceText": "sans détour",
-      "ipa": "sɑ̃ detuʁ",
-      "ear": "桑 德图赫",
-      "meaning": "简单明了"
+      "start": 50.35,
+      "sourceText": "Les non-dits mis à mort.",
+      "ipa": "le nɔ̃di mi a mɔʁ",
+      "ear": "莱 农迪 米 阿 莫赫",
+      "meaning": "让没有说出口的话死去。"
     },
     {
-      "start": 58.94,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 53.35,
+      "sourceText": "Pourvu qu'on ose encore.",
+      "ipa": "puʁvy kɔ̃n‿ɔz‿ɑ̃kɔʁ",
+      "ear": "普赫维于 孔恩 哦兹 昂科赫",
+      "meaning": "只求我们仍敢开口。"
     },
     {
-      "start": 66.39,
-      "sourceText": "suffisamment",
-      "ipa": "syfizamɑ̃",
-      "ear": "西于菲扎芒",
-      "meaning": "充分"
+      "start": 56.35,
+      "sourceText": "Les mots mélos des beaux mélos.",
+      "ipa": "le mo melo de bo melo",
+      "ear": "莱 莫 梅洛 德 博 梅洛",
+      "meaning": "那些美丽爱情剧中煽情的话语。"
     },
     {
-      "start": 67.86,
-      "sourceText": "pour oublier ce qu'il ne faut pas dire",
+      "start": 65.15,
+      "sourceText": "S'il suffisait de mentir…",
+      "ipa": "sil syfizɛ də mɑ̃tiʁ",
+      "ear": "西勒 西于菲泽 德 芒蒂赫",
+      "meaning": "如果只要撒谎——"
+    },
+    {
+      "start": 67.69,
+      "sourceText": "Pour oublier ce qu'il ne faut pas dire.",
       "ipa": "puʁ‿ublie sə kil nə fo pa diʁ",
       "ear": "普赫 乌布利诶 瑟 基勒 讷 佛 帕 迪赫",
-      "meaning": "忘记不该说的话"
+      "meaning": "就能忘记那些不能说的话。"
     },
     {
-      "start": 70.26,
-      "sourceText": "toutes ses nuits passées à retenir son",
-      "ipa": "tut se nyi pasez‿a ʁətniʁ sɔ̃",
-      "ear": "图特 塞 尼于伊 帕塞兹 阿 赫特尼赫 松",
-      "meaning": "他所有的夜晚都在抑制他的"
+      "start": 70.24,
+      "sourceText": "Toutes ces nuits passées à retenir…",
+      "ipa": "tut se nɥi pasez‿a ʁətniʁ",
+      "ear": "图特 塞 恩于伊 帕塞兹 阿 赫特尼赫",
+      "meaning": "所有这些夜晚，我一直压抑着——"
     },
     {
-      "start": 73.5,
-      "sourceText": "désir un pompier et vous s'il suffisait",
-      "ipa": "deziʁ‿œ̃ pɔ̃pje e vu sil syfizɛ",
-      "ear": "德齐赫 恩 蓬普耶诶 诶 乌 西勒 西于菲泽",
-      "meaning": "渴望消防员和你如果足够"
+      "start": 72.85,
+      "sourceText": "Son désir impromptu. Et vous ?",
+      "ipa": "sɔ̃ deziʁ‿ɛ̃pʁɔ̃pty e vu",
+      "ear": "松 德齐赫 安普洪普蒂于 诶 乌",
+      "meaning": "那突如其来的欲望。那么您呢？"
     },
     {
-      "start": 77.4,
-      "sourceText": "de souffrir pour épargner ce que laura",
-      "ipa": "də sufʁiʁ puʁ‿epaʁnje sə kə loʁa",
-      "ear": "德 苏弗希赫 普赫 诶帕赫恩耶诶 瑟 克 洛哈",
-      "meaning": "劳拉受苦饶恕什么"
+      "start": 75.77,
+      "sourceText": "S'il suffisait de souffrir…",
+      "ipa": "sil syfizɛ də sufʁiʁ",
+      "ear": "西勒 西于菲泽 德 苏弗希赫",
+      "meaning": "如果只要受苦——"
     },
     {
-      "start": 80.19,
-      "sourceText": "trahir savon",
-      "ipa": "tʁaiʁ savɔ̃",
-      "ear": "特哈伊赫 萨翁",
-      "meaning": "背叛肥皂"
+      "start": 78.15,
+      "sourceText": "Pour épargner ce que l'on va trahir.",
+      "ipa": "puʁ‿epaʁnje sə kə lɔ̃ va tʁaiʁ",
+      "ear": "普赫 诶帕赫恩耶诶 瑟 克 隆 瓦 特哈伊赫",
+      "meaning": "就能保护将被我们背叛的一切。"
     },
     {
-      "start": 81.83,
-      "sourceText": "et s'en remet aux plaisirs défendus qui",
-      "ipa": "e sɑ̃ ʁəmɛt‿o plɛziʁ defɑ̃dy ki",
-      "ear": "诶 桑 赫梅特 奥 普莱齐赫 德芳迪于 基",
-      "meaning": "并依赖于禁忌的快乐"
+      "start": 80.65,
+      "sourceText": "S'abandonner sans remords au plaisir…",
+      "ipa": "sabɑ̃dɔne sɑ̃ ʁəmɔʁz‿o plɛziʁ",
+      "ear": "萨邦多内 桑 赫莫赫兹 奥 普莱齐赫",
+      "meaning": "毫无悔意地沉溺于欢愉——"
     },
     {
-      "start": 84.35,
-      "sourceText": "me tue et vous ouais",
-      "ipa": "mə ty e vuz wɛ",
-      "ear": "默 蒂于 诶 乌兹 乌艾",
-      "meaning": "杀了我，你是的"
+      "start": 83.85,
+      "sourceText": "Défendu qui me tue. Et vous ?",
+      "ipa": "defɑ̃dy ki mə ty e vu",
+      "ear": "德芳迪于 基 默 蒂于 诶 乌",
+      "meaning": "那禁忌的欢愉要了我的命。那么您呢？"
     },
     {
-      "start": 103.8,
-      "sourceText": "c'est tout",
-      "ipa": "sɛ tu",
-      "ear": "塞 图",
-      "meaning": "仅此而已"
+      "start": 86.85,
+      "sourceText": "Mais dans l'ivresse de tes bras…",
+      "ipa": "mɛ dɑ̃ livʁɛs də te bʁa",
+      "ear": "梅 当 利弗赫斯 德 特 布哈",
+      "meaning": "可在你怀抱中的沉醉里——"
     },
     {
-      "start": 113.61,
-      "sourceText": "et vous",
-      "ipa": "e vu",
-      "ear": "诶 乌",
-      "meaning": "还有你"
+      "start": 89.85,
+      "sourceText": "Tout le reste vole en éclats, vole en éclats.",
+      "ipa": "tu lə ʁɛst vɔl‿ɑ̃n‿ekla vɔl‿ɑ̃n‿ekla",
+      "ear": "图 勒 赫斯特 沃勒 昂恩 诶克拉 沃勒 昂恩 诶克拉",
+      "meaning": "其他一切都粉碎，粉碎。"
     },
     {
-      "start": 119.62,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 94.35,
+      "sourceText": "Tant pis, soyons pour les maudits mots d'amour.",
+      "ipa": "tɑ̃pi swajɔ̃ puʁ le modi mo damuʁ",
+      "ear": "唐皮 斯乌阿耶翁 普赫 莱 莫迪 莫 达穆赫",
+      "meaning": "管它呢，让我们选择那些被诅咒的爱情话语。"
     },
     {
-      "start": 122.26,
-      "sourceText": "tous",
-      "ipa": "tus",
-      "ear": "图斯",
-      "meaning": "全部"
+      "start": 101.35,
+      "sourceText": "Disons-nous sans détour.",
+      "ipa": "dizɔ̃nu sɑ̃ detuʁ",
+      "ear": "迪宗努 桑 德图赫",
+      "meaning": "让我们坦率地告诉彼此。"
     },
     {
-      "start": 123.61,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 104.35,
+      "sourceText": "Les mots mélos des beaux mélos.",
+      "ipa": "le mo melo de bo melo",
+      "ear": "莱 莫 梅洛 德 博 梅洛",
+      "meaning": "那些美丽爱情剧中煽情的话语。"
     },
     {
-      "start": 139.0,
-      "sourceText": "vous disposez d'un bon ça ça n'est plus",
-      "ipa": "vu dispoze dœ̃ bɔ̃ sa sa nɛ ply",
-      "ear": "乌 迪斯波泽 丹 崩 萨 萨 奈 普吕",
-      "meaning": "你已经不再是好人了"
+      "start": 109.85,
+      "sourceText": "Tant pis, soyons forts.",
+      "ipa": "tɑ̃pi swajɔ̃ fɔʁ",
+      "ear": "唐皮 斯乌阿耶翁 佛赫",
+      "meaning": "管它呢，让我们勇敢一点。"
     },
     {
-      "start": 142.39,
-      "sourceText": "dieu",
-      "ipa": "djø",
-      "ear": "德耶厄",
-      "meaning": "神"
+      "start": 112.35,
+      "sourceText": "Les non-dits mis à mort.",
+      "ipa": "le nɔ̃di mi a mɔʁ",
+      "ear": "莱 农迪 米 阿 莫赫",
+      "meaning": "让没有说出口的话死去。"
     },
     {
-      "start": 143.25,
-      "sourceText": "et vous que j'adore et je vous jure à la",
-      "ipa": "e vu kə ʒadɔʁ‿e ʒə vu ʒyʁ‿a la",
-      "ear": "诶 乌 克 扎多赫 诶 热 乌 日于赫 阿 拉",
-      "meaning": "还有我崇拜的你，我向你发誓"
+      "start": 115.35,
+      "sourceText": "Pourvu qu'on ose encore.",
+      "ipa": "puʁvy kɔ̃n‿ɔz‿ɑ̃kɔʁ",
+      "ear": "普赫维于 孔恩 哦兹 昂科赫",
+      "meaning": "只求我们仍敢开口。"
     },
     {
-      "start": 146.49,
-      "sourceText": "vie à la mort de ne perdre ce jeu vous",
-      "ipa": "vi a la mɔʁ də nə pɛʁdʁ sə ʒø vu",
-      "ear": "维 阿 拉 莫赫 德 讷 佩赫德赫 瑟 热厄 乌",
-      "meaning": "生死别输这游戏你"
+      "start": 118.35,
+      "sourceText": "Les mots mélos des beaux mélos.",
+      "ipa": "le mo melo de bo melo",
+      "ear": "莱 莫 梅洛 德 博 梅洛",
+      "meaning": "那些美丽爱情剧中煽情的话语。"
+    },
+    {
+      "start": 125.85,
+      "sourceText": "Tant pis, soyons pour les maudits mots d'amour.",
+      "ipa": "tɑ̃pi swajɔ̃ puʁ le modi mo damuʁ",
+      "ear": "唐皮 斯乌阿耶翁 普赫 莱 莫迪 莫 达穆赫",
+      "meaning": "管它呢，让我们选择那些被诅咒的爱情话语。"
+    },
+    {
+      "start": 132.85,
+      "sourceText": "Disons-nous sans détour.",
+      "ipa": "dizɔ̃nu sɑ̃ detuʁ",
+      "ear": "迪宗努 桑 德图赫",
+      "meaning": "让我们坦率地告诉彼此。"
+    },
+    {
+      "start": 135.85,
+      "sourceText": "Les mots mélos des beaux mélos.",
+      "ipa": "le mo melo de bo melo",
+      "ear": "莱 莫 梅洛 德 博 梅洛",
+      "meaning": "那些美丽爱情剧中煽情的话语。"
+    },
+    {
+      "start": 139.13,
+      "sourceText": "Vous disposez de mon sort.",
+      "ipa": "vu dispoze də mɔ̃ sɔʁ",
+      "ear": "乌 迪斯波泽 德 蒙 索赫",
+      "meaning": "我的命运掌握在您手中。"
+    },
+    {
+      "start": 141.55,
+      "sourceText": "Ce n'est plus Dieu, mais c'est vous que j'adore.",
+      "ipa": "sə nɛ ply djø mɛ sɛ vu kə ʒadɔʁ",
+      "ear": "瑟 奈 普吕 德耶厄 梅 塞 乌 克 扎多赫",
+      "meaning": "我崇拜的不再是上帝，而是您。"
+    },
+    {
+      "start": 144.85,
+      "sourceText": "Et je vous jure, à la vie, à la mort…",
+      "ipa": "e ʒə vu ʒyʁ a la vi a la mɔʁ",
+      "ear": "诶 热 乌 日于赫 阿 拉 维 阿 拉 莫赫",
+      "meaning": "我向您起誓，至生至死——"
+    },
+    {
+      "start": 147.85,
+      "sourceText": "De me perdre à ce jeu. Et vous ?",
+      "ipa": "də mə pɛʁdʁ‿a sə ʒø e vu",
+      "ear": "德 默 佩赫德赫 阿 瑟 热厄 诶 乌",
+      "meaning": "甘愿在这场游戏中迷失自己。那么您呢？"
     }
   ]
 }

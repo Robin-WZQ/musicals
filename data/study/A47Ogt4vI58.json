@@ -1,376 +1,333 @@
 {
   "videoId": "A47Ogt4vI58",
-  "version": 1,
-  "textSource": "youtube-auto-captions",
-  "annotationSource": "automated-reference-notes",
-  "pronunciationEngine": "eSpeak NG via phonemizer-fork",
-  "meaningSource": "Google machine translation of YouTube caption text",
-  "reviewStatus": "unreviewed",
-  "note": "视频与分段时间轴来自 YouTube。新曲目保留自动字幕原文，可能存在识别错误；参考音标、近似空耳与中文机器释义自动生成，尚未逐句校对。‿ 表示参考读法中的可能联诵或连读，并非原唱逐音转写。",
+  "playbackVideoId": "A47Ogt4vI58",
+  "version": 2,
+  "textSource": "editorial-cross-check",
+  "textReviewStatus": "cross-checked",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-selected-overrides",
+  "reviewStatus": "text-reviewed-timing-approximate",
+  "meaningSource": "editorial-chinese-paraphrase",
+  "pronunciationEngine": "eSpeak NG with selected editorial corrections",
+  "sources": [
+    {
+      "label": "歌词校对参考",
+      "url": "https://www.paroles.net/le-rouge-et-le-noir/paroles-pour-qu-elles-nous-aiment"
+    },
+    {
+      "label": "对应播放视频",
+      "url": "https://www.youtube.com/watch?v=A47Ogt4vI58"
+    }
+  ],
+  "note": "法语文字已参考剧方剧本、歌词资料或视频画面交叉校正；中文释义按校正文字重写。句子重新划分，起止时间为近似定位，仍需逐句听校；音标为标准法语参考读法，空耳仅辅助记忆。",
   "entries": [
     {
-      "start": 0.0,
-      "sourceText": "voici 53 l'être bien numéroter les 40",
-      "ipa": "vwasi sɛ̃kɑ̃ttʁwa lɛtʁ bjɛ̃ nymeʁote le kaʁɑ̃t",
-      "ear": "弗乌阿西 森康特特赫乌阿 莱特赫 布耶安 尼于梅霍特 莱 卡杭特",
-      "meaning": "这里有 53 个，被很好地编号为 40 个"
-    },
-    {
-      "start": 4.14,
-      "sourceText": "premières lettres ne sont destinées qu'à",
-      "ipa": "pʁəmjɛʁ lɛtʁ nə sɔ̃ dɛstine ka",
-      "ear": "普赫姆耶艾赫 莱特赫 讷 松 戴斯蒂内 卡",
-      "meaning": "首字母仅适用于"
-    },
-    {
-      "start": 5.67,
-      "sourceText": "te faire pardonner la hardt y est écrit",
-      "ipa": "tə fɛʁ paʁdɔne la aʁt‿i ɛt‿ekʁi",
-      "ear": "特 费赫 帕赫多内 拉 阿赫特 伊 艾特 诶克希",
-      "meaning": "为了让你原谅，困难就写在那里"
-    },
-    {
       "start": 16.25,
-      "sourceText": "pour plaire à l'une cette liste et",
-      "ipa": "puʁ plɛʁ‿a lyn sɛt list‿e",
-      "ear": "普赫 普莱赫 阿 吕恩 塞特 利斯特 诶",
-      "meaning": "请此列表之一和"
+      "sourceText": "Pour plaire à l'une, séduisez l'autre.",
+      "ipa": "puʁ plɛʁ‿a lyn sedyize lotʁ",
+      "ear": "普赫 普莱赫 阿 吕恩 塞迪于伊泽 洛特赫",
+      "meaning": "想讨好一个女人，就去勾引另一个。"
     },
     {
-      "start": 19.89,
-      "sourceText": "l'autre n'allez pas décroché la lune à",
-      "ipa": "lotʁ nale pa dekʁoʃe la lyn‿a",
-      "ear": "洛特赫 纳莱 帕 德克霍谢 拉 吕恩 阿",
-      "meaning": "对方是得不到月亮的"
+      "start": 20.0,
+      "sourceText": "N'allez pas décrocher la lune à celle qui vous importe.",
+      "ipa": "nale pa dekʁoʃe la lyn‿a sɛl ki vuz‿ɛ̃pɔʁt",
+      "ear": "纳莱 帕 德克霍谢 拉 吕恩 阿 塞勒 基 乌兹 安珀赫特",
+      "meaning": "不要为你在乎的人去摘月亮。"
     },
     {
-      "start": 23.55,
-      "sourceText": "celles qui visent à bord c'est toute une",
-      "ipa": "sɛl ki vizt‿a bɔʁ sɛ tut‿yn",
-      "ear": "塞勒 基 维兹特 阿 博赫 塞 图特 于恩",
-      "meaning": "那些瞄准船上的都是相当多的"
-    },
-    {
-      "start": 26.039,
-      "sourceText": "technique",
-      "ipa": "tɛknik",
-      "ear": "泰克尼克",
-      "meaning": "技术"
-    },
-    {
-      "start": 27.52,
-      "sourceText": "tout un art de séduire",
-      "ipa": "tut‿œ̃n‿aʁ də sedyiʁ",
-      "ear": "图特 恩恩 阿赫 德 塞迪于伊赫",
-      "meaning": "一门完整的诱惑艺术"
+      "start": 24.0,
+      "sourceText": "C'est toute une technique, tout un art de séduire.",
+      "ipa": "sɛ tut‿yn tɛknik tut‿œ̃n‿aʁ də sedyiʁ",
+      "ear": "塞 图特 于恩 泰克尼克 图特 恩恩 阿赫 德 塞迪于伊赫",
+      "meaning": "这是一套技巧，一门引诱的艺术。"
     },
     {
       "start": 29.539,
-      "sourceText": "c'est un jeu diabolique d'aviser le v6",
-      "ipa": "sɛt‿œ̃ ʒø djabolik davize lə ve sis",
-      "ear": "塞特 恩 热厄 德耶阿博利克 达维泽 勒 韦 西斯",
-      "meaning": "通知v6这是一场恶魔游戏"
+      "sourceText": "C'est un jeu diabolique d'attiser le désir.",
+      "ipa": "sɛt‿œ̃ ʒø djabolik datize lə deziʁ",
+      "ear": "塞特 恩 热厄 德耶阿博利克 达蒂泽 勒 德齐赫",
+      "meaning": "点燃欲望，是一种魔鬼般的游戏。"
     },
     {
       "start": 33.37,
-      "sourceText": "kofler aut filles soyez saints farm",
-      "ipa": "kɔfle o fij swaje sɛ̃ faʁm",
-      "ear": "科弗莱 奥 菲耶 斯乌阿耶诶 森 法赫姆",
-      "meaning": "kofler aut 女孩是神圣农场"
+      "sourceText": "Pour plaire aux filles, soyez infâme.",
+      "ipa": "puʁ plɛʁ‿o fij swajez‿ɛ̃fam",
+      "ear": "普赫 普莱赫 奥 菲耶 斯乌阿耶诶兹 安法姆",
+      "meaning": "想讨女孩喜欢，就做个卑鄙的人。"
     },
     {
       "start": 38.01,
-      "sourceText": "si vous voulez qu acteur passif est",
-      "ipa": "si vu vule k‿aktœʁ pasif‿ɛ",
-      "ear": "西 乌 乌莱 克 阿克特厄赫 帕西弗 艾",
-      "meaning": "如果你想让被动演员成为"
+      "sourceText": "Si vous voulez qu'un cœur vacille, faites couler ses larmes.",
+      "ipa": "si vu vule kœ̃ kœʁ vasij fɛt kule se laʁm",
+      "ear": "西 乌 乌莱 坎 克厄赫 瓦西耶 费特 库莱 塞 拉赫姆",
+      "meaning": "想让她心动，就让她流泪。"
     },
     {
-      "start": 40.469,
-      "sourceText": "couler ses larmes oublier ce qu'elle dit",
-      "ipa": "kule se laʁmz‿ublie sə kɛl di",
-      "ear": "库莱 塞 拉赫姆兹 乌布利诶 瑟 凯勒 迪",
-      "meaning": "流她的泪忘记她说的话"
+      "start": 41.5,
+      "sourceText": "Oubliez ce qu'elles disent sur les princes charmants.",
+      "ipa": "ublie sə kɛl diz syʁ le pʁɛ̃s ʃaʁmɑ̃",
+      "ear": "乌布利诶 瑟 凯勒 迪兹 西于赫 莱 普汉斯 沙赫芒",
+      "meaning": "忘掉她们关于白马王子的那些话。"
     },
     {
-      "start": 43.589,
-      "sourceText": "sur les princes charmants ces dames ne",
-      "ipa": "syʁ le pʁɛ̃s ʃaʁmɑ̃ se dam nə",
-      "ear": "西于赫 莱 普汉斯 沙赫芒 塞 达姆 讷",
-      "meaning": "论白马王子这些名媛不"
-    },
-    {
-      "start": 47.25,
-      "sourceText": "sont soumis ce que lorsqu'on est",
-      "ipa": "sɔ̃ sumi sə kə loʁskɔ̃n‿ɛ",
-      "ear": "松 苏米 瑟 克 洛赫斯孔恩 艾",
-      "meaning": "我们受到什么影响"
-    },
-    {
-      "start": 48.899,
-      "sourceText": "blessant",
-      "ipa": "blɛsɑ̃",
-      "ear": "布莱桑",
-      "meaning": "伤人"
+      "start": 45.5,
+      "sourceText": "Ces dames ne sont soumises que lorsqu'on est blessant.",
+      "ipa": "se dam nə sɔ̃ sumiz kə loʁskɔ̃n‿ɛ blɛsɑ̃",
+      "ear": "塞 达姆 讷 松 苏米兹 克 洛赫斯孔恩 艾 布莱桑",
+      "meaning": "只有你伤害她们，这些女士才会顺从。"
     },
     {
       "start": 51.84,
-      "sourceText": "demande ça",
-      "ipa": "dəmɑ̃d sa",
-      "ear": "德芒德 萨",
-      "meaning": "请问"
+      "sourceText": "Si elles demandent ça, faites bien le contraire.",
+      "ipa": "si ɛl dəmɑ̃d sa fɛt bjɛ̃ lə kɔ̃tʁɛʁ",
+      "ear": "西 艾勒 德芒德 萨 费特 布耶安 勒 孔特赫赫",
+      "meaning": "她们想要这样，你就偏偏反着来。"
     },
     {
-      "start": 53.67,
-      "sourceText": "bien le contraire s inspire au combat",
-      "ipa": "bjɛ̃ lə kɔ̃tʁɛʁ‿ɛs‿ɛ̃spiʁ‿o kɔ̃ba",
-      "ear": "布耶安 勒 孔特赫赫 艾斯 安斯皮赫 奥 孔巴",
-      "meaning": "恰恰相反，是在战斗中得到启发"
-    },
-    {
-      "start": 57.72,
-      "sourceText": "il a fallu s'y faire",
-      "ipa": "il‿a faly si fɛʁ",
-      "ear": "伊勒 阿 法吕 西 费赫",
-      "meaning": "我们必须习惯它"
+      "start": 55.0,
+      "sourceText": "Elles aspirent au combat, il a fallu s'y faire.",
+      "ipa": "ɛlz‿aspiʁt‿o kɔ̃ba il‿a faly si fɛʁ",
+      "ear": "艾勒兹 阿斯皮赫特 奥 孔巴 伊勒 阿 法吕 西 费赫",
+      "meaning": "她们渴望较量，我们也只好适应。"
     },
     {
       "start": 61.73,
-      "sourceText": "auxquels nous sempot",
-      "ipa": "okɛl nu sɑ̃po",
-      "ear": "奥凯勒 努 桑波",
-      "meaning": "我们是sempot"
+      "sourceText": "Pour qu'elles nous aiment, c'est le problème.",
+      "ipa": "puʁ kɛl nuz‿ɛm sɛ lə pʁɔblɛm",
+      "ear": "普赫 凯勒 努兹 艾姆 塞 勒 普霍布莱姆",
+      "meaning": "让她们爱上我们——问题就在这里。"
     },
     {
       "start": 66.02,
-      "sourceText": "il faut",
-      "ipa": "il fo",
-      "ear": "伊勒 佛",
-      "meaning": "有必要"
+      "sourceText": "Il faut fuir notre naturel.",
+      "ipa": "il fo fyiʁ notʁ natyʁɛl",
+      "ear": "伊勒 佛 菲于伊赫 诺特赫 纳蒂于赫勒",
+      "meaning": "必须避开我们的本性。"
     },
     {
       "start": 68.6,
-      "sourceText": "et l'on sait",
-      "ipa": "e lɔ̃ sɛ",
-      "ear": "诶 隆 塞",
-      "meaning": "我们知道"
+      "sourceText": "En s'efforçant d'être cruels.",
+      "ipa": "ɑ̃ sefɔʁsɑ̃ dɛtʁ kʁyɛl",
+      "ear": "昂 塞佛赫桑 戴特赫 克许艾勒",
+      "meaning": "努力让自己变得残酷。"
     },
     {
       "start": 71.79,
-      "sourceText": "le pen",
-      "ipa": "lə pɛn",
-      "ear": "勒 佩恩",
-      "meaning": "笔"
+      "sourceText": "Pour qu'elles nous aiment, le vrai dilemme…",
+      "ipa": "puʁ kɛl nuz‿ɛm lə vʁɛ dilam",
+      "ear": "普赫 凯勒 努兹 艾姆 勒 弗赫 迪拉姆",
+      "meaning": "让她们爱上我们——真正的两难是——"
     },
     {
-      "start": 73.28,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 75.0,
+      "sourceText": "C'est d'être prêt à tout donner.",
+      "ipa": "sɛ dɛtʁ pʁɛ a tu dɔne",
+      "ear": "塞 戴特赫 普赫 阿 图 多内",
+      "meaning": "准备好付出一切。"
     },
     {
-      "start": 74.909,
-      "sourceText": "c'était",
-      "ipa": "setɛ",
-      "ear": "塞泰",
-      "meaning": "原来是"
+      "start": 78.0,
+      "sourceText": "En évitant de le montrer.",
+      "ipa": "ɑ̃n‿evitɑ̃ də lə mɔ̃tʁe",
+      "ear": "昂恩 诶维唐 德 勒 蒙特赫",
+      "meaning": "却避免表现出来。"
+    },
+    {
+      "start": 81.0,
+      "sourceText": "Pour qu'elles nous aiment.",
+      "ipa": "puʁ kɛl nu.z‿ɛm",
+      "ear": "普赫 凯勒 努兹‿艾姆",
+      "meaning": "只为了让她们爱上我们。"
     },
     {
       "start": 83.92,
-      "sourceText": "quel ça crache soyez sadique",
-      "ipa": "kɛl sa kʁaʃ swaje sadik",
-      "ear": "凯勒 萨 克哈什 斯乌阿耶诶 萨迪克",
-      "meaning": "它吐什么虐待狂"
+      "sourceText": "Pour qu'elle s'accroche, soyez sadique.",
+      "ipa": "puʁ kɛl sakʁɔʃ swaje sadik",
+      "ear": "普赫 凯勒 萨克霍什 斯乌阿耶诶 萨迪克",
+      "meaning": "想让她抓住你不放，就残酷一点。"
     },
     {
       "start": 88.59,
-      "sourceText": "les sud tombe il dit",
-      "ipa": "le syd tɔ̃b‿il di",
-      "ear": "莱 西于德 通布 伊勒 迪",
-      "meaning": "他说的南方瀑布"
-    },
-    {
-      "start": 91.2,
-      "sourceText": "joueurs fatigués",
-      "ipa": "ʒwœʁ fatiɡe",
-      "ear": "日乌厄赫 法蒂格",
-      "meaning": "疲惫的玩家"
+      "sourceText": "Laissez tomber de votre poche le mouchoir fatidique.",
+      "ipa": "lɛse tɔ̃be də votʁ pɔʃ lə muʃwaʁ fatidik",
+      "ear": "莱塞 通贝 德 沃特赫 珀什 勒 穆什乌阿赫 法蒂迪克",
+      "meaning": "让那条意味深长的手帕从口袋掉出来。"
     },
     {
       "start": 93.23,
-      "sourceText": "si chaque soir",
-      "ipa": "si ʃak swaʁ",
-      "ear": "西 沙克 斯乌阿赫",
-      "meaning": "如果每天晚上"
-    },
-    {
-      "start": 94.95,
-      "sourceText": "des rendez vous galants qu'elle",
-      "ipa": "de ʁɑ̃de vu ɡalɑ̃ kɛl",
-      "ear": "德 杭德 乌 嘎朗 凯勒",
-      "meaning": "她的浪漫约会"
+      "sourceText": "Inventez chaque soir des rendez-vous galants.",
+      "ipa": "ɛ̃vɑ̃te ʃak swaʁ de ʁɑ̃devu ɡalɑ̃",
+      "ear": "安旺特 沙克 斯乌阿赫 德 杭德乌 嘎朗",
+      "meaning": "每天晚上编造一场风流的约会。"
     },
     {
       "start": 97.259,
-      "sourceText": "soupçonne une histoire son coeur",
-      "ipa": "supsɔn‿yn‿istwaʁ sɔ̃ kœʁ",
-      "ear": "苏普索恩 于恩 伊斯特乌阿赫 松 克厄赫",
-      "meaning": "怀疑他心里有故事"
+      "sourceText": "Qu'elle soupçonne une histoire dont son cœur est absent.",
+      "ipa": "kɛl supsɔn‿yn‿istwaʁ dɔ̃ sɔ̃ kœʁ‿ɛt‿absɑ̃",
+      "ear": "凯勒 苏普索恩 于恩 伊斯特乌阿赫 东 松 克厄赫 艾特 阿布桑",
+      "meaning": "让她怀疑有一段她无缘参与的恋情。"
     },
     {
       "start": 101.84,
-      "sourceText": "si elle te ment ça fait du bien autour",
-      "ipa": "si ɛl tə mɑ̃ sa fɛ dy bjɛ̃n‿otuʁ",
-      "ear": "西 艾勒 特 芒 萨 费 迪于 布耶安恩 奥图赫",
-      "meaning": "如果她对你撒谎，在你身边感觉很好"
+      "sourceText": "Si elle demande ça, faites bien autrement.",
+      "ipa": "si ɛl dəmɑ̃d sa fɛt bjɛ̃n‿otʁəmɑ̃",
+      "ear": "西 艾勒 德芒德 萨 费特 布耶安恩 奥特赫芒",
+      "meaning": "她想要这样，你就做另一套。"
     },
     {
       "start": 105.54,
-      "sourceText": "pour qu'elles n'obtiennent pas ce à quoi",
-      "ipa": "puʁ kɛl nɔbtjɛn pa sə a kwa",
-      "ear": "普赫 凯勒 诺布特耶艾恩 帕 瑟 阿 克乌阿",
-      "meaning": "让他们得不到他们想要的东西"
-    },
-    {
-      "start": 108.33,
-      "sourceText": "elle s'attend",
-      "ipa": "ɛl satɑ̃",
-      "ear": "艾勒 萨唐",
-      "meaning": "她期待"
-    },
-    {
-      "start": 109.77,
-      "sourceText": "j'attends",
-      "ipa": "ʒatɑ̃",
-      "ear": "扎唐",
-      "meaning": "我在等"
+      "sourceText": "Pour qu'elle n'obtienne pas ce à quoi elle s'attend.",
+      "ipa": "puʁ kɛl nɔbtjɛn pa sə a kwa ɛl satɑ̃",
+      "ear": "普赫 凯勒 诺布特耶艾恩 帕 瑟 阿 克乌阿 艾勒 萨唐",
+      "meaning": "让她得不到自己所期待的东西。"
     },
     {
       "start": 111.04,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "Pour qu'elles nous aiment, c'est le problème.",
+      "ipa": "puʁ kɛl nuz‿ɛm sɛ lə pʁɔblɛm",
+      "ear": "普赫 凯勒 努兹 艾姆 塞 勒 普霍布莱姆",
+      "meaning": "让她们爱上我们——问题就在这里。"
+    },
+    {
+      "start": 115.0,
+      "sourceText": "Il faut fuir notre naturel.",
+      "ipa": "il fo fyiʁ notʁ natyʁɛl",
+      "ear": "伊勒 佛 菲于伊赫 诺特赫 纳蒂于赫勒",
+      "meaning": "必须避开我们的本性。"
+    },
+    {
+      "start": 118.0,
+      "sourceText": "En s'efforçant d'être cruels.",
+      "ipa": "ɑ̃ sefɔʁsɑ̃ dɛtʁ kʁyɛl",
+      "ear": "昂 塞佛赫桑 戴特赫 克许艾勒",
+      "meaning": "努力让自己变得残酷。"
     },
     {
       "start": 120.81,
-      "sourceText": "le vrai dilemme",
-      "ipa": "lə vʁɛ dilam",
-      "ear": "勒 弗赫 迪拉姆",
-      "meaning": "真正的困境"
+      "sourceText": "Pour qu'elles nous aiment, le vrai dilemme…",
+      "ipa": "puʁ kɛl nuz‿ɛm lə vʁɛ dilam",
+      "ear": "普赫 凯勒 努兹 艾姆 勒 弗赫 迪拉姆",
+      "meaning": "让她们爱上我们——真正的两难是——"
     },
     {
-      "start": 123.45,
-      "sourceText": "m",
-      "ipa": "ɛm",
-      "ear": "艾姆",
-      "meaning": "米"
-    },
-    {
-      "start": 125.02,
-      "sourceText": "donner",
-      "ipa": "dɔne",
-      "ear": "多内",
-      "meaning": "给"
+      "start": 124.0,
+      "sourceText": "C'est d'être prêt à tout donner.",
+      "ipa": "sɛ dɛtʁ pʁɛ a tu dɔne",
+      "ear": "塞 戴特赫 普赫 阿 图 多内",
+      "meaning": "准备好付出一切。"
     },
     {
       "start": 127.67,
-      "sourceText": "les jeunes",
-      "ipa": "le ʒøn",
-      "ear": "莱 热厄恩",
-      "meaning": "年轻人"
+      "sourceText": "En évitant de le montrer.",
+      "ipa": "ɑ̃n‿evitɑ̃ də lə mɔ̃tʁe",
+      "ear": "昂恩 诶维唐 德 勒 蒙特赫",
+      "meaning": "却避免表现出来。"
     },
     {
       "start": 130.61,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "Pour qu'elles nous aiment.",
+      "ipa": "puʁ kɛl nu.z‿ɛm",
+      "ear": "普赫 凯勒 努兹‿艾姆",
+      "meaning": "只为了让她们爱上我们。"
     },
     {
-      "start": 143.44,
-      "sourceText": "il atteint",
-      "ipa": "il‿atɛ̃",
-      "ear": "伊勒 阿坦",
-      "meaning": "达到"
+      "start": 136.0,
+      "sourceText": "Si elles demandent ça, faites bien le contraire.",
+      "ipa": "si ɛl dəmɑ̃d sa fɛt bjɛ̃ lə kɔ̃tʁɛʁ",
+      "ear": "西 艾勒 德芒德 萨 费特 布耶安 勒 孔特赫赫",
+      "meaning": "她们想要这样，你就偏偏反着来。"
     },
     {
-      "start": 145.78,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 140.0,
+      "sourceText": "Elles aspirent au combat, il a fallu s'y faire, s'y faire, s'y faire.",
+      "ipa": "ɛlz‿aspiʁt‿o kɔ̃ba il‿a faly si fɛʁ si fɛʁ si fɛʁ",
+      "ear": "艾勒兹 阿斯皮赫特 奥 孔巴 伊勒 阿 法吕 西 费赫 西 费赫 西 费赫",
+      "meaning": "她们渴望较量，我们只好适应，适应，适应。"
     },
     {
-      "start": 149.84,
-      "sourceText": "c'est le problème est trop fine entre",
-      "ipa": "sɛ lə pʁɔblɛm‿ɛ tʁo fin‿ɑ̃tʁ",
-      "ear": "塞 勒 普霍布莱姆 艾 特霍 菲恩 昂特赫",
-      "meaning": "这就是太细之间的问题"
+      "start": 147.0,
+      "sourceText": "Pour qu'elles nous aiment, c'est le problème.",
+      "ipa": "puʁ kɛl nuz‿ɛm sɛ lə pʁɔblɛm",
+      "ear": "普赫 凯勒 努兹 艾姆 塞 勒 普霍布莱姆",
+      "meaning": "让她们爱上我们——问题就在这里。"
+    },
+    {
+      "start": 151.0,
+      "sourceText": "Il faut fuir notre naturel.",
+      "ipa": "il fo fyiʁ notʁ natyʁɛl",
+      "ear": "伊勒 佛 菲于伊赫 诺特赫 纳蒂于赫勒",
+      "meaning": "必须避开我们的本性。"
     },
     {
       "start": 153.879,
-      "sourceText": "naturel lorsque des forces en baisse",
-      "ipa": "natyʁɛl lɔʁskə de fɔʁsz‿ɑ̃ bɛs",
-      "ear": "纳蒂于赫勒 洛赫斯克 德 佛赫斯兹 昂 贝斯",
-      "meaning": "当力量减少时自然"
+      "sourceText": "En s'efforçant d'être cruels.",
+      "ipa": "ɑ̃ sefɔʁsɑ̃ dɛtʁ kʁyɛl",
+      "ear": "昂 塞佛赫桑 戴特赫 克许艾勒",
+      "meaning": "努力让自己变得残酷。"
     },
     {
       "start": 156.349,
-      "sourceText": "cruel pour qu'elles nous aident le vrai",
-      "ipa": "kʁyɛl puʁ kɛl nuz‿ɛd lə vʁɛ",
-      "ear": "克许艾勒 普赫 凯勒 努兹 艾德 勒 弗赫",
-      "meaning": "残酷让他们真正帮助我们"
+      "sourceText": "Pour qu'elles nous aiment, le vrai dilemme…",
+      "ipa": "puʁ kɛl nuz‿ɛm lə vʁɛ dilam",
+      "ear": "普赫 凯勒 努兹 艾姆 勒 弗赫 迪拉姆",
+      "meaning": "让她们爱上我们——真正的两难是——"
     },
     {
-      "start": 159.349,
-      "sourceText": "dilemme c'est d'être prêt à tout mais en",
-      "ipa": "dilam sɛ dɛtʁ pʁɛ a tu mɛz‿ɑ̃",
-      "ear": "迪拉姆 塞 戴特赫 普赫 阿 图 梅兹 昂",
-      "meaning": "困境是要做好一切准备，但"
+      "start": 160.8,
+      "sourceText": "C'est d'être prêt à tout donner.",
+      "ipa": "sɛ dɛtʁ pʁɛ a tu dɔne",
+      "ear": "塞 戴特赫 普赫 阿 图 多内",
+      "meaning": "准备好付出一切。"
     },
     {
       "start": 163.58,
-      "sourceText": "évitant",
-      "ipa": "evitɑ̃",
-      "ear": "诶维唐",
-      "meaning": "回避"
+      "sourceText": "En évitant de le montrer.",
+      "ipa": "ɑ̃n‿evitɑ̃ də lə mɔ̃tʁe",
+      "ear": "昂恩 诶维唐 德 勒 蒙特赫",
+      "meaning": "却避免表现出来。"
     },
     {
       "start": 167.6,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "Pour qu'elles nous aiment.",
+      "ipa": "puʁ kɛl nu.z‿ɛm",
+      "ear": "普赫 凯勒 努兹‿艾姆",
+      "meaning": "只为了让她们爱上我们。"
     },
     {
       "start": 169.71,
-      "sourceText": "david et faire oublier",
-      "ipa": "david‿e fɛʁ‿ublie",
-      "ear": "达维德 诶 费赫 乌布利诶",
-      "meaning": "大卫又让人忘记"
+      "sourceText": "Pour qu'elles succombent, soyez immonde.",
+      "ipa": "puʁ kɛl sykɔ̃b swajez‿imɔ̃d",
+      "ear": "普赫 凯勒 西于孔布 斯乌阿耶诶兹 伊蒙德",
+      "meaning": "想让她们沦陷，就卑劣一点。"
     },
     {
-      "start": 176.05,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 174.0,
+      "sourceText": "Si vous savez les faire souffrir, elles aimeront à en mourir.",
+      "ipa": "si vu save le fɛʁ sufʁiʁ ɛlz‿ɛmʁɔ̃t‿a ɑ̃ muʁiʁ",
+      "ear": "西 乌 萨韦 莱 费赫 苏弗希赫 艾勒兹 艾姆洪特 阿 昂 穆希赫",
+      "meaning": "如果你会让她们受苦，她们便会爱你爱得要死。"
+    },
+    {
+      "start": 179.0,
+      "sourceText": "Pour qu'elles défaillent, soyez de taille.",
+      "ipa": "puʁ kɛl defaj swaje də taj",
+      "ear": "普赫 凯勒 德法耶 斯乌阿耶诶 德 塔耶",
+      "meaning": "想让她们心神失守，你就得有本事。"
     },
     {
       "start": 182.0,
-      "sourceText": "libre au caire",
-      "ipa": "libʁ‿o kɛʁ",
-      "ear": "利布赫 奥 凯赫",
-      "meaning": "开罗免费"
+      "sourceText": "Faites-leur croire que c'est fini, elles tomberont dans votre lit.",
+      "ipa": "fɛtlœʁ kʁwaʁ kə sɛ fini ɛl tɔ̃bʁɔ̃ dɑ̃ votʁ li",
+      "ear": "费特勒厄赫 克赫乌阿赫 克 塞 菲尼 艾勒 通布洪 当 沃特赫 利",
+      "meaning": "让她们以为一切已结束，她们便会倒在你的床上。"
     },
     {
-      "start": 185.08,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 187.0,
+      "sourceText": "Pour qu'elles nous aiment…",
+      "ipa": "puʁ kɛl nuz‿ɛm",
+      "ear": "普赫 凯勒 努兹 艾姆",
+      "meaning": "只为了让她们爱上我们……"
     }
   ]
 }

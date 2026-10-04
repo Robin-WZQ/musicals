@@ -43,3 +43,39 @@ test('the original reviewed song remains independently addressable', () => {
   assert.ok(old?.isLegacy);
   assert.equal(json(`data/info/${old.id}.json`).titleZh,'荣耀向我俯首');
 });
+
+test('all playlist lyrics are corrected independently of the original ASR', () => {
+  for (const track of catalog) {
+    const song = json(`data/songs/${track.id}.json`), notes = json(`data/study/${track.id}.json`);
+    assert.equal(song.captionSource, 'editorial');
+    assert.equal(notes.meaningSource, 'editorial-chinese-paraphrase');
+    assert.equal(song.timingReviewStatus, 'approximate');
+    assert.ok(Array.isArray(song.sourceCues));
+    for (const entry of notes.entries) {
+      assert.doesNotMatch(entry.sourceText, /^\s*(?:\[.*\]|\d+|[a-z])\s*$/iu, track.id);
+      assert.doesNotMatch(entry.ipa, /\((?:en|fr)\)/u, track.id);
+      assert.doesNotMatch(entry.ear, /[A-Za-zɪθɒɑɛɔœəʁ]/u, track.id);
+      assert.match(entry.meaning, /\p{Script=Han}/u);
+      assert.ok(entry.start >= 0 && entry.start < song.duration);
+    }
+  }
+  const opening = json('data/songs/yHnVC5moNdU.json').cues.map(c => c.text).join(' ');
+  assert.match(opening, /votre camp/u); assert.match(opening, /votre foi/u);
+  assert.doesNotMatch(opening, /carladous|votre foie|france est citée/u);
+  const last = catalog.find(s => s.id === '1VeyW1d7kFM');
+  assert.equal(last.titleOriginal, 'Les maudits mots d’amour');
+  assert.ok(last.aliases.includes('总有一天'));
+});
+
+test('replacement videos have their own timing and explicit source records', () => {
+  const replacements = {oz0hz4my3GY:'RPKjD6ZNHus',dkdy7OC4CBw:'0P-MGvSaJiw',EccLCTsTWMw:'ERRvQGsQSmw',Ry779aHGWes:'3vEwXTBP6VM'};
+  for (const [id, actual] of Object.entries(replacements)) {
+    const song = json(`data/songs/${id}.json`), notes = json(`data/study/${id}.json`);
+    assert.equal(song.playbackVideoId, actual); assert.equal(notes.playbackVideoId, actual);
+    assert.ok(notes.sources.some(s => s.url === `https://www.youtube.com/watch?v=${actual}`));
+    assert.ok(song.playbackSourceCues.length > 0);
+    const cues = normalizeCues(song.cues);
+    assert.ok(cues.every(c => c.end <= song.duration && c.end > c.start));
+    assert.ok(cues.every((c,i) => !i || c.start >= cues[i-1].end));
+  }
+});

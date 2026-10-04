@@ -1,376 +1,315 @@
 {
   "videoId": "_SZwSELzySM",
-  "version": 1,
-  "textSource": "youtube-auto-captions",
-  "annotationSource": "automated-reference-notes",
-  "pronunciationEngine": "eSpeak NG via phonemizer-fork",
-  "meaningSource": "Google machine translation of YouTube caption text",
-  "reviewStatus": "unreviewed",
-  "note": "视频与分段时间轴来自 YouTube。新曲目保留自动字幕原文，可能存在识别错误；参考音标、近似空耳与中文机器释义自动生成，尚未逐句校对。‿ 表示参考读法中的可能联诵或连读，并非原唱逐音转写。",
+  "playbackVideoId": "_SZwSELzySM",
+  "version": 2,
+  "textSource": "editorial-cross-check",
+  "textReviewStatus": "cross-checked",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-selected-overrides",
+  "reviewStatus": "text-reviewed-timing-approximate",
+  "meaningSource": "editorial-chinese-paraphrase",
+  "pronunciationEngine": "eSpeak NG with selected editorial corrections",
+  "sources": [
+    {
+      "label": "歌词校对参考",
+      "url": "https://www.paroles.net/come/paroles-la-gloire-a-mes-genoux"
+    },
+    {
+      "label": "对应播放视频",
+      "url": "https://www.youtube.com/watch?v=_SZwSELzySM"
+    }
+  ],
+  "note": "法语文字已参考剧方剧本、歌词资料或视频画面交叉校正；中文释义按校正文字重写。句子重新划分，起止时间为近似定位，仍需逐句听校；音标为标准法语参考读法，空耳仅辅助记忆。",
   "entries": [
     {
       "start": 0.359,
-      "sourceText": "toi toi bonaparte bonaparte est moi",
-      "ipa": "twa twa bonapaʁt bonapaʁt‿ɛ mwa",
-      "ear": "特乌阿 特乌阿 博纳帕赫特 博纳帕赫特 艾 姆乌阿",
-      "meaning": "你你波拿巴波拿巴就是我"
+      "sourceText": "Toi, toi, Bonaparte… Bonaparte et moi.",
+      "ipa": "twa twa bonapaʁt bonapaʁt‿e mwa",
+      "ear": "特乌阿 特乌阿 博纳帕赫特 博纳帕赫特 诶 姆乌阿",
+      "meaning": "你，你，波拿巴……波拿巴与我。",
+      "kind": "dialogue"
     },
     {
       "start": 7.55,
-      "sourceText": "inspire mois",
-      "ipa": "ɛ̃spiʁ mwa",
-      "ear": "安斯皮赫 姆乌阿",
-      "meaning": "激励月"
+      "sourceText": "Inspire-moi.",
+      "ipa": "ɛ̃spiʁmwa",
+      "ear": "安斯皮赫姆乌阿",
+      "meaning": "请启发我。",
+      "kind": "dialogue"
     },
     {
       "start": 12.85,
-      "sourceText": "on m'a souvent dit reste attrape la sne",
-      "ipa": "ɔ̃ ma suvɑ̃ di ʁɛst‿atʁap la sn",
-      "ear": "翁 玛 苏旺 迪 赫斯特 阿特哈普 拉 斯恩",
-      "meaning": "我经常被告知留下来捕捉鼻涕"
+      "sourceText": "On m'a souvent dit : « Reste à ta place ».",
+      "ipa": "ɔ̃ ma suvɑ̃ di | ʁɛs.t‿a ta plas",
+      "ear": "翁 玛 苏旺 迪｜赫斯塔‿塔 普拉斯",
+      "meaning": "人们常对我说：“安分守己。”"
     },
     {
       "start": 16.93,
-      "sourceText": "et s'acquitter d' entité parce que lit",
-      "ipa": "e sakite de ɑ̃tite paʁskə li",
-      "ear": "诶 萨基特 德 昂蒂特 帕赫斯克 利",
-      "meaning": "并履行实体，因为读取"
+      "sourceText": "« Les acquis des nantis te dépassent ».",
+      "ipa": "le.z‿aki de nɑ̃ti tə depas",
+      "ear": "莱兹‿阿基 德 南蒂 特 德帕斯",
+      "meaning": "“富人的特权，与你无缘。”"
     },
     {
       "start": 19.96,
-      "sourceText": "où tu n' est interdit de viser plus haut",
-      "ipa": "u ty ɛn‿ɛt‿ɛ̃tɛʁdi də vize ply o",
-      "ear": "乌 蒂于 艾恩 艾特 安泰赫迪 德 维泽 普吕 奥",
-      "meaning": "不允许你追求更高的目标"
+      "sourceText": "« Le lit où tu es né t'interdit de viser plus haut ».",
+      "ipa": "lə li u ty ɛ ne tɛ̃tɛʁdi də vize ply o",
+      "ear": "勒 利 乌 于 艾 内 坦泰赫迪 德 维泽 普吕 奥",
+      "meaning": "“你的出身，决定了你不能奢望更高。”"
     },
     {
       "start": 24.28,
-      "sourceText": "on a souvent ri de mon audace l'habit",
-      "ipa": "ɔ̃n‿a suvɑ̃ ʁi də mɔ̃n‿odas labi",
-      "ear": "翁恩 阿 苏旺 希 德 蒙恩 奥达斯 拉比",
-      "meaning": "我们经常嘲笑我的大胆穿着"
+      "sourceText": "On a souvent ri de mon audace.",
+      "ipa": "ɔ̃n‿a suvɑ̃ ʁi də mɔ̃n‿odas",
+      "ear": "翁恩 阿 苏旺 希 德 蒙恩 奥达斯",
+      "meaning": "人们常嘲笑我的大胆。"
     },
     {
       "start": 27.97,
-      "sourceText": "fait l'homme",
-      "ipa": "fɛ lɔm",
-      "ear": "费 洛姆",
-      "meaning": "造就男人"
-    },
-    {
-      "start": 28.91,
-      "sourceText": "quoi que tu fasses",
-      "ipa": "kwa kə ty fas",
-      "ear": "克乌阿 克 蒂于 法斯",
-      "meaning": "无论你做什么"
+      "sourceText": "L'habit fait le moine, quoi que tu fasses.",
+      "ipa": "labi fɛ lə mwan kwa kə ty fas",
+      "ear": "拉比 费 勒 姆乌阿恩 克乌阿 克 蒂于 法斯",
+      "meaning": "无论你做什么，别人总以外表判断身份。"
     },
     {
       "start": 30.55,
-      "sourceText": "au lieu d'espérer tu n'est bon qu'à",
-      "ipa": "o ljø dɛspeʁe ty nɛ bɔ̃ ka",
-      "ear": "奥 勒耶厄 戴斯佩赫 蒂于 奈 崩 卡",
-      "meaning": "而不是希望你只是为了"
-    },
-    {
-      "start": 32.529,
-      "sourceText": "courber le dos",
-      "ipa": "kuʁbe lə (en)dɒs(fr)",
-      "ear": "库赫贝 勒 (en)德ɒ斯(fr)",
-      "meaning": "弯曲你的背部"
+      "sourceText": "Rampe au lieu d'espérer, tu n'es bon qu'à courber le dos.",
+      "ipa": "ʁɑ̃p o ljø dɛspeʁe | ty nɛ bɔ̃ ka kuʁbe lə do",
+      "ear": "杭普 奥 利厄 戴斯佩赫雷｜于 奈 邦 卡 库赫贝 勒 多",
+      "meaning": "别奢望了，匍匐吧；你只配弯腰低头。"
     },
     {
       "start": 34.85,
-      "sourceText": "qu'est ce qu'on me dit merci et c'est",
-      "ipa": "kɛ sə kɔ̃ mə di mɛʁsi e sɛ",
-      "ear": "凯 瑟 孔 默 迪 梅赫西 诶 塞",
-      "meaning": "人们对我说谢谢的话是什么"
+      "sourceText": "On est ce qu'on est, tu dis « merci » et c'est tout.",
+      "ipa": "ɔ̃n‿ɛ sə kɔ̃n‿ɛ ty di mɛʁsi e sɛ tu",
+      "ear": "翁恩 艾 瑟 孔恩 艾 蒂于 迪 梅赫西 诶 塞 图",
+      "meaning": "出身就是命运，你只需说“谢谢”。"
     },
     {
       "start": 37.25,
-      "sourceText": "tout il faut s'incliner sont sortis",
-      "ipa": "tut‿il fo sɛ̃kline sɔ̃ sɔʁti",
-      "ear": "图特 伊勒 佛 森克利内 松 索赫蒂",
-      "meaning": "所有你要鞠躬的都出去了"
+      "sourceText": "Il faut s'incliner sans s'indigner jusqu'au bout.",
+      "ipa": "il fo sɛ̃kline sɑ̃ sɛ̃dinje ʒysko bu",
+      "ear": "伊勒 佛 森克利内 桑 森迪恩耶诶 日于斯科 布",
+      "meaning": "必须一直低头，连愤怒也不许有。"
     },
     {
-      "start": 39.469,
-      "sourceText": "jusqu'au bout toi tu ne crois toi tu",
-      "ipa": "ʒysko bu twa ty nə kʁwa twa ty",
-      "ear": "日于斯科 布 特乌阿 蒂于 讷 克赫乌阿 特乌阿 蒂于",
-      "meaning": "直到最后你都不相信你"
+      "start": 40.1,
+      "sourceText": "Soit tu nais roi, soit tu n'es rien, mais dis-moi.",
+      "ipa": "swa ty nɛ ʁwa swa ty nɛ ʁjɛ̃ mɛ dimwa",
+      "ear": "斯乌阿 蒂于 奈 赫乌阿 斯乌阿 蒂于 奈 赫耶安 梅 迪姆乌阿",
+      "meaning": "要么生来为王，要么一无所有；可告诉我——"
     },
     {
-      "start": 42.62,
-      "sourceText": "n'es rien mr dix mois pour",
-      "ipa": "nɛ ʁjɛ̃ məsjø di mwa puʁ",
-      "ear": "奈 赫耶安 默斯耶厄 迪 姆乌阿 普赫",
-      "meaning": "十个月以来你什么都不是"
-    },
-    {
-      "start": 47.329,
-      "sourceText": "je mens",
-      "ipa": "ʒə mɑ̃",
-      "ear": "热 芒",
-      "meaning": "我撒谎了"
-    },
-    {
-      "start": 48.74,
-      "sourceText": "1 2",
-      "ipa": "œ̃ dø",
-      "ear": "恩 德厄",
-      "meaning": "1 2"
-    },
-    {
-      "start": 49.15,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 44.4,
+      "sourceText": "Pourquoi ce chemin de croix ?",
+      "ipa": "puʁkwa sə ʃəmɛ̃ də kʁwa",
+      "ear": "普赫克乌阿 瑟 舍曼 德 克赫乌阿",
+      "meaning": "为什么我要走这条苦难之路？"
     },
     {
       "start": 50.89,
-      "sourceText": "je veux la voir",
-      "ipa": "ʒə vø la vwaʁ",
-      "ear": "热 弗厄 拉 弗乌阿赫",
-      "meaning": "我想见她"
+      "sourceText": "Je veux la gloire à mes genoux.",
+      "ipa": "ʒə vø la ɡlwa.ʁ‿a me ʒənu",
+      "ear": "热 厄 拉 格卢瓦赫‿阿 梅 热努",
+      "meaning": "我要荣耀向我俯首。"
     },
     {
-      "start": 54.579,
-      "sourceText": "on rien du tout",
-      "ipa": "ɔ̃ ʁjɛ̃ dy tu",
-      "ear": "翁 赫耶安 迪于 图",
-      "meaning": "什么都没有"
-    },
-    {
-      "start": 56.14,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 54.0,
+      "sourceText": "Je veux le monde ou rien du tout.",
+      "ipa": "ʒə vø lə mɔ̃.d‿u ʁjɛ̃ dy tu",
+      "ear": "热 厄 勒 蒙德‿乌 赫延 迪于 图",
+      "meaning": "我要整个世界，否则宁可一无所有。"
     },
     {
       "start": 57.67,
-      "sourceText": "pas les petits desireless",
-      "ipa": "pa le pəti (en)dɪzaɪələs(fr)",
-      "ear": "帕 莱 珀蒂 (en)德ɪ兹aɪə勒斯(fr)",
-      "meaning": "不是小孩子无欲无求"
+      "sourceText": "Pas les menus plaisirs, pas les petits désirs, les privilèges.",
+      "ipa": "pa le məny plɛziʁ pa le pəti deziʁ le pʁivilɛʒ",
+      "ear": "帕 莱 默尼于 普莱齐赫 帕 莱 珀蒂 德齐赫 莱 普希维莱日",
+      "meaning": "不要小小的享乐、微不足道的欲望和那些特权。"
     },
     {
-      "start": 66.159,
-      "sourceText": "dans l'est",
-      "ipa": "dɑ̃ lɛ",
-      "ear": "当 莱",
-      "meaning": "在东方"
+      "start": 63.5,
+      "sourceText": "Je veux l'épée de l'amour fou.",
+      "ipa": "ʒə vø lepe də lamuʁ fu",
+      "ear": "热 厄 莱佩 德 拉穆赫 富",
+      "meaning": "我要疯狂爱情的利剑。"
     },
     {
-      "start": 69.26,
-      "sourceText": "sourire les",
-      "ipa": "suʁiʁ le",
-      "ear": "苏希赫 莱",
-      "meaning": "微笑"
+      "start": 66.2,
+      "sourceText": "Je veux la corde à votre cou.",
+      "ipa": "ʒə vø la kɔʁ.d‿a vɔtʁ ku",
+      "ear": "热 厄 拉 科赫德‿阿 沃特赫 库",
+      "meaning": "我要绳索套上你们的脖子。"
     },
     {
-      "start": 70.38,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 68.8,
+      "sourceText": "Pas les menus plaisirs, pas les petits sourires, les sortilèges.",
+      "ipa": "pa le məny plɛziʁ pa le pəti suʁiʁ le sɔʁtilɛʒ",
+      "ear": "帕 莱 默尼于 普莱齐赫 帕 莱 珀蒂 苏希赫 莱 索赫蒂莱日",
+      "meaning": "不要小小的享乐、敷衍的笑容和迷惑人的魔法。"
     },
     {
-      "start": 70.98,
-      "sourceText": "à",
-      "ipa": "a",
-      "ear": "阿",
-      "meaning": "至"
+      "start": 71.7,
+      "sourceText": "On m'a souvent mis plus bas que terre.",
+      "ipa": "ɔ̃ ma suvɑ̃ mi ply ba kə tɛʁ",
+      "ear": "翁 玛 苏旺 米 普吕 巴 克 泰赫",
+      "meaning": "人们常把我贬得一文不值。"
     },
     {
-      "start": 74.0,
-      "sourceText": "ni plus bas que terre ainsi sois là",
-      "ipa": "ni ply ba kə tɛʁ‿ɛ̃si swa la",
-      "ear": "尼 普吕 巴 克 泰赫 安西 斯乌阿 拉",
-      "meaning": "不低于地球所以就在那里"
+      "start": 75.0,
+      "sourceText": "Ainsi soit la vie au nom du Père.",
+      "ipa": "ɛ̃si swa la vi o nɔ̃ dy pɛʁ",
+      "ear": "安西 斯乌阿 拉 维 奥 农 迪于 佩赫",
+      "meaning": "以圣父之名，人生就该如此。"
     },
     {
-      "start": 76.95,
-      "sourceText": "au nom du père mais qu'ai-je donc a pris",
-      "ipa": "o nɔ̃ dy pɛʁ mɛ kɛʒ dɔ̃k‿a pʁi",
-      "ear": "奥 农 迪于 佩赫 梅 凯日 东克 阿 普希",
-      "meaning": "以父亲的名义我却拿了什么"
-    },
-    {
-      "start": 79.56,
-      "sourceText": "6 1",
-      "ipa": "siz‿œ̃",
-      "ear": "西兹 恩",
-      "meaning": "6 1"
+      "start": 77.2,
+      "sourceText": "Mais qu'ai-je donc appris, si ce n'est à prier par cœur ?",
+      "ipa": "mɛ kɛʒ dɔ̃k‿apʁi si sə nɛt‿a pʁie paʁ kœʁ",
+      "ear": "梅 凯日 东克 阿普希 西 瑟 奈特 阿 普希诶 帕赫 克厄赫",
+      "meaning": "除了背熟祈祷词，我到底学会了什么？"
     },
     {
       "start": 81.289,
-      "sourceText": "parker",
-      "ipa": "(en)pɑːkə(fr)",
-      "ear": "(en)普ɑː克(fr)",
-      "meaning": "帕克"
-    },
-    {
-      "start": 83.53,
-      "sourceText": "il semblerait sans jamais toucher le",
-      "ipa": "il sɑ̃bləʁɛ sɑ̃ ʒamɛ tuʃe lə",
-      "ear": "伊勒 桑布勒赫 桑 扎梅 图谢 勒",
-      "meaning": "似乎从未接触过"
-    },
-    {
-      "start": 85.27,
-      "sourceText": "ciel",
-      "ipa": "sjɛl",
-      "ear": "斯耶艾勒",
-      "meaning": "天空"
+      "sourceText": "Faut-il implorer sans jamais toucher le ciel ?",
+      "ipa": "fotil‿ɛ̃ploʁe sɑ̃ ʒamɛ tuʃe lə sjɛl",
+      "ear": "佛蒂勒 安普洛赫 桑 扎梅 图谢 勒 斯耶艾勒",
+      "meaning": "难道要一直祈求，却永远触不到天空？"
     },
     {
       "start": 86.61,
-      "sourceText": "du coup les sondés phryné m",
-      "ipa": "dy ku le sɔ̃de fʁine ɛm",
-      "ear": "迪于 库 莱 松德 弗希内 艾姆",
-      "meaning": "突然受访者phryné m"
-    },
-    {
-      "start": 89.32,
-      "sourceText": "non",
-      "ipa": "nɔ̃",
-      "ear": "农",
-      "meaning": "没有"
+      "sourceText": "Que je reste cloué sans déployer mes ailes ?",
+      "ipa": "kə ʒə ʁɛst klue sɑ̃ deplwaje me.z‿ɛl",
+      "ear": "克 热 赫斯特 克卢诶 桑 德普卢瓦耶 梅兹‿艾勒",
+      "meaning": "难道要被钉在原地，无法展开翅膀？"
     },
     {
       "start": 90.92,
-      "sourceText": "rien",
-      "ipa": "ʁiɛ̃",
-      "ear": "希安",
-      "meaning": "没什么"
+      "sourceText": "Amen à tout n'amène à rien, maudits soient…",
+      "ipa": "amɛn‿a tu namɛn‿a ʁjɛ̃ modi swa",
+      "ear": "阿梅恩 阿 图 纳梅恩 阿 赫耶安 莫迪 斯乌阿",
+      "meaning": "对一切说“阿门”，却什么也得不到；诅咒吧——"
     },
     {
-      "start": 93.53,
-      "sourceText": "le ca",
-      "ipa": "lə ka",
-      "ear": "勒 卡",
-      "meaning": "ca"
+      "start": 95.5,
+      "sourceText": "Le sort, les lois, je ne m'y soumets pas.",
+      "ipa": "lə sɔʁ le lwa ʒə nə mi sumɛ pa",
+      "ear": "勒 索赫 莱 勒乌阿 热 讷 米 苏梅 帕",
+      "meaning": "命运和法则，我都不会屈服。"
     },
     {
-      "start": 97.38,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 99.7,
+      "sourceText": "Ne me demandez plus de marcher droit.",
+      "ipa": "nə mə dəmɑ̃de ply də maʁʃe dʁwa",
+      "ear": "讷 默 德芒德 普吕 德 玛赫谢 德赫乌阿",
+      "meaning": "别再要求我规规矩矩地走路。"
     },
     {
-      "start": 101.64,
-      "sourceText": "ces droits",
-      "ipa": "se dʁwa",
-      "ear": "塞 德赫乌阿",
-      "meaning": "这些权利"
+      "start": 103.0,
+      "sourceText": "J'éprouverai vos torts, j'adore le chemin que je vois.",
+      "ipa": "ʒepʁuvʁe vo tɔʁ ʒadɔʁ lə ʃəmɛ̃ kə ʒə vwa",
+      "ear": "热普胡弗赫 沃 托赫 扎多赫 勒 舍曼 克 热 弗乌阿",
+      "meaning": "我要验证你们的错误，我爱眼前的这条路。",
+      "reviewNote": "此处歌词资料或听辨存在疑点，仍待听校"
     },
     {
-      "start": 107.02,
-      "sourceText": "le chemin",
-      "ipa": "lə ʃəmɛ̃",
-      "ear": "勒 舍曼",
-      "meaning": "路径"
+      "start": 108.5,
+      "sourceText": "J'enterrerai derrière moi…",
+      "ipa": "ʒɑ̃tɛʁʁe dɛʁjɛʁ mwa",
+      "ear": "让泰赫赫 戴赫耶艾赫 姆乌阿",
+      "meaning": "我会把它埋在身后——"
     },
     {
-      "start": 117.96,
-      "sourceText": "je",
-      "ipa": "ʒə",
-      "ear": "热",
-      "meaning": "我"
+      "start": 112.0,
+      "sourceText": "L'idiot qu'on veut que je sois.",
+      "ipa": "lidjo kɔ̃ vø kə ʒə swa",
+      "ear": "利德耶奥 孔 弗厄 克 热 斯乌阿",
+      "meaning": "那个你们想让我成为的傻瓜。"
     },
     {
       "start": 120.19,
-      "sourceText": "je volais dramé genou je veux le monde",
-      "ipa": "ʒə volɛ dʁame ʒənu ʒə vø lə mɔ̃d",
-      "ear": "热 沃莱 德哈梅 热努 热 弗厄 勒 蒙德",
-      "meaning": "我飞剧膝 我要全世界"
+      "sourceText": "Je veux la gloire à mes genoux.",
+      "ipa": "ʒə vø la ɡlwa.ʁ‿a me ʒənu",
+      "ear": "热 厄 拉 格卢瓦赫‿阿 梅 热努",
+      "meaning": "我要荣耀向我俯首。"
     },
     {
-      "start": 123.7,
-      "sourceText": "ou rien du tout fall est venu plaisir",
-      "ipa": "u ʁjɛ̃ dy tu (en)fɔːl(fr) ɛ vəny plɛziʁ",
-      "ear": "乌 赫耶安 迪于 图 (en)弗ɔː勒(fr) 艾 弗尼于 普莱齐赫",
-      "meaning": "还是什么都没有，秋天来了快乐"
+      "start": 123.0,
+      "sourceText": "Je veux le monde ou rien du tout.",
+      "ipa": "ʒə vø lə mɔ̃.d‿u ʁjɛ̃ dy tu",
+      "ear": "热 厄 勒 蒙德‿乌 赫延 迪于 图",
+      "meaning": "我要整个世界，否则宁可一无所有。"
     },
     {
-      "start": 126.88,
-      "sourceText": "pas les petits désirs les privilèges",
-      "ipa": "pa le pəti deziʁ le pʁivilɛʒ",
-      "ear": "帕 莱 珀蒂 德齐赫 莱 普希维莱日",
-      "meaning": "欲小则利"
+      "start": 125.5,
+      "sourceText": "Pas les menus plaisirs, pas les petits désirs, les privilèges.",
+      "ipa": "pa le məny plɛziʁ pa le pəti deziʁ le pʁivilɛʒ",
+      "ear": "帕 莱 默尼于 普莱齐赫 帕 莱 珀蒂 德齐赫 莱 普希维莱日",
+      "meaning": "不要小小的享乐、微不足道的欲望和那些特权。"
+    },
+    {
+      "start": 131.2,
+      "sourceText": "Je veux l'épée de l'amour fou.",
+      "ipa": "ʒə vø lepe də lamuʁ fu",
+      "ear": "热 厄 莱佩 德 拉穆赫 富",
+      "meaning": "我要疯狂爱情的利剑。"
     },
     {
       "start": 133.68,
-      "sourceText": "je l'accueille",
-      "ipa": "ʒə lakœj",
-      "ear": "热 拉克厄耶",
-      "meaning": "我欢迎"
+      "sourceText": "Je veux la corde à votre cou.",
+      "ipa": "ʒə vø la kɔʁ.d‿a vɔtʁ ku",
+      "ear": "热 厄 拉 科赫德‿阿 沃特赫 库",
+      "meaning": "我要绳索套上你们的脖子。"
     },
     {
-      "start": 140.24,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 136.2,
+      "sourceText": "Pas les menus plaisirs, pas les petits sourires, les sortilèges.",
+      "ipa": "pa le məny plɛziʁ pa le pəti suʁiʁ le sɔʁtilɛʒ",
+      "ear": "帕 莱 默尼于 普莱齐赫 帕 莱 珀蒂 苏希赫 莱 索赫蒂莱日",
+      "meaning": "不要小小的享乐、敷衍的笑容和迷惑人的魔法。"
+    },
+    {
+      "start": 144.0,
+      "sourceText": "Je veux la gloire à mes genoux.",
+      "ipa": "ʒə vø la ɡlwa.ʁ‿a me ʒənu",
+      "ear": "热 厄 拉 格卢瓦赫‿阿 梅 热努",
+      "meaning": "我要荣耀向我俯首。"
     },
     {
       "start": 147.0,
-      "sourceText": "allez pas nous",
-      "ipa": "ale pa nu",
-      "ear": "阿莱 帕 努",
-      "meaning": "别走"
+      "sourceText": "Je veux le monde ou rien du tout.",
+      "ipa": "ʒə vø lə mɔ̃.d‿u ʁjɛ̃ dy tu",
+      "ear": "热 厄 勒 蒙德‿乌 赫延 迪于 图",
+      "meaning": "我要整个世界，否则宁可一无所有。"
     },
     {
-      "start": 150.01,
-      "sourceText": "un privilège",
-      "ipa": "œ̃ pʁivilɛʒ",
-      "ear": "恩 普希维莱日",
-      "meaning": "特权"
+      "start": 150.0,
+      "sourceText": "Pas les menus plaisirs, pas les petits désirs, les privilèges.",
+      "ipa": "pa le məny plɛziʁ pa le pəti deziʁ le pʁivilɛʒ",
+      "ear": "帕 莱 默尼于 普莱齐赫 帕 莱 珀蒂 德齐赫 莱 普希维莱日",
+      "meaning": "不要小小的享乐、微不足道的欲望和那些特权。"
     },
     {
-      "start": 150.95,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 155.0,
+      "sourceText": "Je veux l'épée de l'amour fou.",
+      "ipa": "ʒə vø lepe də lamuʁ fu",
+      "ear": "热 厄 莱佩 德 拉穆赫 富",
+      "meaning": "我要疯狂爱情的利剑。"
     },
     {
-      "start": 152.15,
-      "sourceText": "je vais",
-      "ipa": "ʒə vɛ",
-      "ear": "热 韦",
-      "meaning": "我会的"
+      "start": 158.0,
+      "sourceText": "Je veux la corde à votre cou.",
+      "ipa": "ʒə vø la kɔʁ.d‿a vɔtʁ ku",
+      "ear": "热 厄 拉 科赫德‿阿 沃特赫 库",
+      "meaning": "我要绳索套上你们的脖子。"
     },
     {
-      "start": 153.97,
-      "sourceText": "es tu",
-      "ipa": "ɛ ty",
-      "ear": "艾 蒂于",
-      "meaning": "你是吗"
-    },
-    {
-      "start": 157.09,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
-    },
-    {
-      "start": 159.52,
-      "sourceText": "des sourires les ordinaires",
-      "ipa": "de suʁiʁ lez‿ɔʁdinɛʁ",
-      "ear": "德 苏希赫 莱兹 哦赫迪奈赫",
-      "meaning": "平凡的笑容"
-    },
-    {
-      "start": 166.32,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 161.0,
+      "sourceText": "Pas les menus plaisirs, pas les petits sourires, les sortilèges.",
+      "ipa": "pa le məny plɛziʁ pa le pəti suʁiʁ le sɔʁtilɛʒ",
+      "ear": "帕 莱 默尼于 普莱齐赫 帕 莱 珀蒂 苏希赫 莱 索赫蒂莱日",
+      "meaning": "不要小小的享乐、敷衍的笑容和迷惑人的魔法。"
     }
   ]
 }

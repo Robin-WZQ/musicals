@@ -39,6 +39,8 @@ jobs:
           python-version: '3.12'
       - name: Install YouTube readers
         run: pip install -r scripts/requirements.txt
+      - name: Verify corrected lyrics survive caption refresh
+        run: python tests/editorial-refresh.test.py
       - name: Read YouTube metadata and captions (no audio download)
         env:
           VIDEO_INPUT: ${{ inputs.youtube_url }}

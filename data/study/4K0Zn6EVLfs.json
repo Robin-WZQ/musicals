@@ -1,418 +1,355 @@
 {
   "videoId": "4K0Zn6EVLfs",
-  "version": 1,
-  "textSource": "youtube-auto-captions",
-  "annotationSource": "automated-reference-notes",
-  "pronunciationEngine": "eSpeak NG via phonemizer-fork",
-  "meaningSource": "Google machine translation of YouTube caption text",
-  "reviewStatus": "unreviewed",
-  "note": "视频与分段时间轴来自 YouTube。新曲目保留自动字幕原文，可能存在识别错误；参考音标、近似空耳与中文机器释义自动生成，尚未逐句校对。‿ 表示参考读法中的可能联诵或连读，并非原唱逐音转写。",
-  "entries": [
+  "playbackVideoId": "4K0Zn6EVLfs",
+  "version": 2,
+  "textSource": "editorial-cross-check",
+  "textReviewStatus": "cross-checked",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-selected-overrides",
+  "reviewStatus": "text-reviewed-timing-approximate",
+  "meaningSource": "editorial-chinese-paraphrase",
+  "pronunciationEngine": "eSpeak NG with selected editorial corrections",
+  "sources": [
     {
-      "start": 2.97,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "label": "歌词校对参考",
+      "url": "https://www.paroles.net/le-rouge-et-le-noir/paroles-je-vous-laisse-helas"
     },
     {
+      "label": "对应播放视频",
+      "url": "https://www.youtube.com/watch?v=4K0Zn6EVLfs"
+    }
+  ],
+  "note": "法语文字已参考剧方剧本、歌词资料或视频画面交叉校正；中文释义按校正文字重写。句子重新划分，起止时间为近似定位，仍需逐句听校；音标为标准法语参考读法，空耳仅辅助记忆。",
+  "entries": [
+    {
       "start": 9.93,
-      "sourceText": "entrevoir toute fort de nous voir une",
-      "ipa": "ɑ̃tʁəvwaʁ tut fɔʁ də nu vwaʁ‿yn",
-      "ear": "昂特赫弗乌阿赫 图特 佛赫 德 努 弗乌阿赫 于恩",
-      "meaning": "我们强烈地看到了"
+      "sourceText": "Entrevoir tout au fond de nos couloirs…",
+      "ipa": "ɑ̃tʁəvwaʁ tut‿o fɔ̃ də no kulwaʁ",
+      "ear": "昂特赫弗乌阿赫 图特 奥 丰 德 诺 库勒乌阿赫",
+      "meaning": "在我们长廊的尽头，隐约看见——"
     },
     {
       "start": 13.03,
-      "sourceText": "éclaircie interdit les sports que j'ai",
-      "ipa": "eklɛʁsi ɛ̃tɛʁdi le spɔʁ kə ʒe",
-      "ear": "诶克莱赫西 安泰赫迪 莱 斯珀赫 克 热",
-      "meaning": "稀疏禁止我进行的运动"
+      "sourceText": "Une éclaircie interdite.",
+      "ipa": "yn‿eklɛʁsi ɛ̃tɛʁdit",
+      "ear": "于恩 诶克莱赫西 安泰赫迪特",
+      "meaning": "一道被禁止的晴光。"
     },
     {
-      "start": 18.16,
-      "sourceText": "perdu son temps pour prendre folie sans",
-      "ipa": "pɛʁdy sɔ̃ tɑ̃ puʁ pʁɑ̃dʁ foli sɑ̃",
-      "ear": "佩赫迪于 松 唐 普赫 普杭德赫 佛利 桑",
-      "meaning": "浪费了他的时间去疯狂没有"
+      "start": 16.0,
+      "sourceText": "L'espoir que j'ai perdu sans t'en vouloir…",
+      "ipa": "lɛspwaʁ kə ʒe pɛʁdy sɑ̃ tɑ̃ vulwaʁ",
+      "ear": "莱斯普乌阿赫 克 热 佩赫迪于 桑 唐 乌勒乌阿赫",
+      "meaning": "我失去了希望，却不怨你——"
     },
     {
-      "start": 21.91,
-      "sourceText": "répit",
-      "ipa": "ʁepi",
-      "ear": "赫皮",
-      "meaning": "喘息"
+      "start": 19.5,
+      "sourceText": "Prend ma folie sans répit.",
+      "ipa": "pʁɑ̃ ma foli sɑ̃ ʁepi",
+      "ear": "普杭 玛 佛利 桑 赫皮",
+      "meaning": "不停地牵动着我的疯狂。（此处文字仍待听校）",
+      "reviewNote": "此处歌词资料或听辨存在疑点，仍待听校"
     },
     {
       "start": 23.65,
-      "sourceText": "il faut croire que l'enfer",
-      "ipa": "il fo kʁwaʁ kə lɑ̃fɛʁ",
-      "ear": "伊勒 佛 克赫乌阿赫 克 朗费赫",
-      "meaning": "你要相信地狱"
+      "sourceText": "Il faut croire que l'enfer est ici-bas.",
+      "ipa": "il fo kʁwaʁ kə lɑ̃fɛʁ‿ɛt‿isiba",
+      "ear": "伊勒 佛 克赫乌阿赫 克 朗费赫 艾特 伊西巴",
+      "meaning": "看来，地狱就在这个人间。"
     },
     {
-      "start": 26.02,
-      "sourceText": "siva pour consulter",
-      "ipa": "siva puʁ kɔ̃sylte",
-      "ear": "西瓦 普赫 孔西于勒特",
-      "meaning": "湿婆来咨询"
-    },
-    {
-      "start": 30.09,
-      "sourceText": "au delà",
-      "ipa": "o dəla",
-      "ear": "奥 德拉",
-      "meaning": "超越"
+      "start": 26.8,
+      "sourceText": "Il faut croire qu'on s'enterre avant l'au-delà.",
+      "ipa": "il fo kʁwaʁ kɔ̃ sɑ̃tɛʁ‿avɑ̃ lodəla",
+      "ear": "伊勒 佛 克赫乌阿赫 孔 桑泰赫 阿旺 洛德拉",
+      "meaning": "看来，去往来世之前，我们便已被埋葬。"
     },
     {
       "start": 31.63,
-      "sourceText": "seul dans ce monde",
-      "ipa": "sœl dɑ̃ sə mɔ̃d",
-      "ear": "瑟厄勒 当 瑟 蒙德",
-      "meaning": "这个世界上孤独一人"
+      "sourceText": "Si seule dans ce monde-là…",
+      "ipa": "si sœl dɑ̃ sə mɔ̃dla",
+      "ear": "西 瑟厄勒 当 瑟 蒙德拉",
+      "meaning": "在这个世界里，我如此孤独——"
     },
     {
       "start": 35.01,
-      "sourceText": "je n'existerais",
-      "ipa": "ʒə nɛɡzistʁɛ",
-      "ear": "热 奈格齐斯特赫",
-      "meaning": "我不会存在"
+      "sourceText": "Je n'existe pas.",
+      "ipa": "ʒə nɛɡzist pa",
+      "ear": "热 奈格齐斯特 帕",
+      "meaning": "仿佛我根本不存在。"
     },
     {
       "start": 40.269,
-      "sourceText": "si tu manques à chacun de mes pas",
+      "sourceText": "Si tu manques à chacun de mes pas…",
       "ipa": "si ty mɑ̃kz‿a ʃakœ̃ də me pa",
       "ear": "西 蒂于 芒克兹 阿 沙坎 德 梅 帕",
-      "meaning": "如果你每一步都想念我"
+      "meaning": "如果我每迈一步都缺少你——"
     },
     {
       "start": 47.65,
-      "sourceText": "j'arrive à ton",
-      "ipa": "ʒaʁiv‿a tɔ̃",
-      "ear": "扎希弗 阿 通",
-      "meaning": "我来找你"
-    },
-    {
-      "start": 50.83,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "J'arrive, attends-moi.",
+      "ipa": "ʒaʁiv atɑ̃mwa",
+      "ear": "扎希弗 阿唐姆乌阿",
+      "meaning": "我来了，等着我。"
     },
     {
       "start": 51.95,
-      "sourceText": "je laisse",
-      "ipa": "ʒə lɛs",
-      "ear": "热 莱斯",
-      "meaning": "我离开"
+      "sourceText": "Je laisse, hélas…",
+      "ipa": "ʒə lɛs elas",
+      "ear": "热 莱斯 诶拉斯",
+      "meaning": "可惜，我要离开——"
     },
     {
       "start": 55.19,
-      "sourceText": "oh",
-      "ipa": "ɔ",
-      "ear": "哦",
-      "meaning": "哦"
-    },
-    {
-      "start": 56.2,
-      "sourceText": "les cibles est là",
-      "ipa": "le siblz‿ɛ la",
-      "ear": "莱 西布勒兹 艾 拉",
-      "meaning": "目标就在那里"
+      "sourceText": "Les nuits qui blessent et lassent.",
+      "ipa": "le nɥi ki blɛs‿e las",
+      "ear": "莱 恩于伊 基 布莱斯 诶 拉斯",
+      "meaning": "那些让人受伤、让人疲惫的夜晚。"
     },
     {
       "start": 58.92,
-      "sourceText": "la vie que je tombe soudain",
-      "ipa": "la vi kə ʒə tɔ̃b sudɛ̃",
-      "ear": "拉 维 克 热 通布 苏丹",
-      "meaning": "生活让我突然堕落"
+      "sourceText": "La vie que je donne…",
+      "ipa": "la vi kə ʒə dɔn",
+      "ear": "拉 维 克 热 多恩",
+      "meaning": "我付出的生命——"
     },
     {
-      "start": 63.05,
-      "sourceText": "les gens là",
-      "ipa": "le ʒɑ̃ la",
-      "ear": "莱 让 拉",
-      "meaning": "那里的人"
+      "start": 61.4,
+      "sourceText": "Soudain m'abandonne.",
+      "ipa": "sudɛ̃ mabɑ̃dɔn",
+      "ear": "苏丹 玛邦多恩",
+      "meaning": "突然抛弃了我。"
+    },
+    {
+      "start": 64.0,
+      "sourceText": "Je laisse, j'enlace…",
+      "ipa": "ʒə lɛs | ʒɑ̃las",
+      "ear": "热 莱斯｜让拉斯",
+      "meaning": "我放下，转而拥抱——"
     },
     {
       "start": 66.43,
-      "sourceText": "il a minima",
-      "ipa": "il‿a minima",
-      "ear": "伊勒 阿 米尼玛",
-      "meaning": "他至少"
-    },
-    {
-      "start": 68.57,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "L'infini à la place.",
+      "ipa": "lɛ̃fini a la plas",
+      "ear": "兰菲尼 阿 拉 普拉斯",
+      "meaning": "用无尽的永恒替代这一切。"
     },
     {
       "start": 69.95,
-      "sourceText": "je tends ma douleur j'attends",
-      "ipa": "ʒə tɑ̃ ma dulœʁ ʒatɑ̃",
-      "ear": "热 唐 玛 杜勒厄赫 扎唐",
-      "meaning": "我忍住痛苦我等待"
+      "sourceText": "J'éteins ma douleur.",
+      "ipa": "ʒetɛ̃ ma dulœʁ",
+      "ear": "热坦 玛 杜勒厄赫",
+      "meaning": "我熄灭自己的痛苦。"
+    },
+    {
+      "start": 72.0,
+      "sourceText": "J'attends le bonheur.",
+      "ipa": "ʒatɑ̃ lə bɔnœʁ",
+      "ear": "扎唐 勒 博讷厄赫",
+      "meaning": "我等待幸福。"
     },
     {
       "start": 73.409,
-      "sourceText": "on prend que je me",
-      "ipa": "ɔ̃ pʁɑ̃ kə ʒə mə",
-      "ear": "翁 普杭 克 热 默",
-      "meaning": "我们认为我"
+      "sourceText": "On croit que je meurs.",
+      "ipa": "ɔ̃ kʁwa kə ʒə mœʁ",
+      "ear": "翁 克赫乌阿 克 热 默厄赫",
+      "meaning": "别人以为，我正在死去。"
     },
     {
       "start": 76.85,
-      "sourceText": "à savoir que je vais tenter souffre",
-      "ipa": "a savwaʁ kə ʒə vɛ tɑ̃te sufʁ",
-      "ear": "阿 萨弗乌阿赫 克 热 韦 唐特 苏弗赫",
-      "meaning": "要知道我会努力受苦"
+      "sourceText": "Savoir que je vais tant décevoir…",
+      "ipa": "savwaʁ kə ʒə vɛ tɑ̃ desəvwaʁ",
+      "ear": "萨弗乌阿赫 克 热 韦 唐 德瑟弗乌阿赫",
+      "meaning": "明知我将让人如此失望——"
     },
     {
-      "start": 83.76,
-      "sourceText": "person",
-      "ipa": "(en)pɜːsən(fr)",
-      "ear": "(en)普ɜː瑟恩(fr)",
-      "meaning": "人"
+      "start": 81.0,
+      "sourceText": "À chaque instant, faire semblant.",
+      "ipa": "a ʃak‿ɛ̃stɑ̃ fɛʁ sɑ̃blɑ̃",
+      "ear": "阿 沙克 安斯唐 费赫 桑布朗",
+      "meaning": "却每时每刻都在假装。"
     },
     {
       "start": 86.67,
-      "sourceText": "voir et tout fait jusqu'au dernier soir",
-      "ipa": "vwaʁ‿e tu fɛ ʒysko dɛʁnje swaʁ",
-      "ear": "弗乌阿赫 诶 图 费 日于斯科 戴赫恩耶诶 斯乌阿赫",
-      "meaning": "看到并做所有事情直到最后一个晚上"
+      "sourceText": "Devoir étouffer jusqu'au dernier soir…",
+      "ipa": "dəvwaʁ‿etufe ʒysko dɛʁnje swaʁ",
+      "ear": "德弗乌阿赫 诶图费 日于斯科 戴赫恩耶诶 斯乌阿赫",
+      "meaning": "不得不压抑到最后一个夜晚——"
     },
     {
       "start": 89.1,
-      "sourceText": "tous les regrets",
-      "ipa": "tu le ʁəɡʁɛ",
-      "ear": "图 莱 赫格赫",
-      "meaning": "一切遗憾"
-    },
-    {
-      "start": 90.64,
-      "sourceText": "en secret",
-      "ipa": "ɑ̃ səkʁɛ",
-      "ear": "昂 瑟克赫",
-      "meaning": "秘密"
+      "sourceText": "Tous mes regrets, en secret.",
+      "ipa": "tu me ʁəɡʁɛz ɑ̃ səkʁɛ",
+      "ear": "图 梅 赫格赫兹 昂 瑟克赫",
+      "meaning": "将所有悔恨，偷偷藏起来。"
     },
     {
       "start": 93.25,
-      "sourceText": "il faut croire que paul sauvé",
-      "ipa": "il fo kʁwaʁ kə pɔl sove",
-      "ear": "伊勒 佛 克赫乌阿赫 克 珀勒 索韦",
-      "meaning": "我们必须相信保罗拯救了"
+      "sourceText": "Il faut croire que la fin me sauvera.",
+      "ipa": "il fo kʁwaʁ kə la fɛ̃ mə sovʁa",
+      "ear": "伊勒 佛 克赫乌阿赫 克 拉 凡 默 索弗哈",
+      "meaning": "看来，终结将会拯救我。"
     },
     {
       "start": 96.27,
-      "sourceText": "il faut croire que ma place est auprès",
-      "ipa": "il fo kʁwaʁ kə ma plas‿ɛt‿opʁɛ",
-      "ear": "伊勒 佛 克赫乌阿赫 克 玛 普拉斯 艾特 奥普赫",
-      "meaning": "你要相信我的地方就在附近"
-    },
-    {
-      "start": 99.509,
-      "sourceText": "de toi",
-      "ipa": "də twa",
-      "ear": "德 特乌阿",
-      "meaning": "你的"
-    },
-    {
-      "start": 100.88,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "Il faut croire que ma place est auprès de toi.",
+      "ipa": "il fo kʁwaʁ kə ma plas‿ɛt‿opʁɛ də twa",
+      "ear": "伊勒 佛 克赫乌阿赫 克 玛 普拉斯 艾特 奥普赫 德 特乌阿",
+      "meaning": "看来，我的位置就在你身旁。"
     },
     {
       "start": 102.22,
-      "sourceText": "ce que dans son monde",
-      "ipa": "sə kə dɑ̃ sɔ̃ mɔ̃d",
-      "ear": "瑟 克 当 松 蒙德",
-      "meaning": "他的世界里有什么"
-    },
-    {
-      "start": 103.17,
-      "sourceText": "12",
-      "ipa": "duz",
-      "ear": "杜兹",
-      "meaning": "12"
+      "sourceText": "Puisque dans ce monde-là…",
+      "ipa": "pɥiskə dɑ̃ sə mɔ̃dla",
+      "ear": "普于伊斯克 当 瑟 蒙德拉",
+      "meaning": "因为在这个世界里——"
     },
     {
       "start": 105.24,
-      "sourceText": "je n'existe pas",
+      "sourceText": "Je n'existe pas.",
       "ipa": "ʒə nɛɡzist pa",
       "ear": "热 奈格齐斯特 帕",
-      "meaning": "我不存在"
+      "meaning": "我仿佛根本不存在。"
     },
     {
       "start": 110.44,
-      "sourceText": "si tu manques à chacun de mes pas",
+      "sourceText": "Si tu manques à chacun de mes pas…",
       "ipa": "si ty mɑ̃kz‿a ʃakœ̃ də me pa",
       "ear": "西 蒂于 芒克兹 阿 沙坎 德 梅 帕",
-      "meaning": "如果你每一步都想念我"
-    },
-    {
-      "start": 115.44,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "meaning": "如果我每迈一步都缺少你——"
     },
     {
       "start": 116.75,
-      "sourceText": "jo",
-      "ipa": "ʒo",
-      "ear": "若",
-      "meaning": "乔"
+      "sourceText": "J'arrive, attends-moi.",
+      "ipa": "ʒaʁiv atɑ̃mwa",
+      "ear": "扎希弗 阿唐姆乌阿",
+      "meaning": "我来了，等着我。"
     },
     {
       "start": 121.79,
-      "sourceText": "m",
-      "ipa": "ɛm",
-      "ear": "艾姆",
-      "meaning": "米"
-    },
-    {
-      "start": 124.97,
-      "sourceText": "or",
-      "ipa": "ɔʁ",
-      "ear": "哦赫",
-      "meaning": "金色"
+      "sourceText": "Je laisse, hélas…",
+      "ipa": "ʒə lɛs elas",
+      "ear": "热 莱斯 诶拉斯",
+      "meaning": "可惜，我要离开——"
     },
     {
       "start": 125.9,
-      "sourceText": "les tuer",
-      "ipa": "le tye",
-      "ear": "莱 蒂于诶",
-      "meaning": "杀了他们"
+      "sourceText": "Les nuits qui blessent et lassent.",
+      "ipa": "le nɥi ki blɛs‿e las",
+      "ear": "莱 恩于伊 基 布莱斯 诶 拉斯",
+      "meaning": "那些让人受伤、让人疲惫的夜晚。"
     },
     {
-      "start": 127.65,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 128.5,
+      "sourceText": "La vie que je donne…",
+      "ipa": "la vi kə ʒə dɔn",
+      "ear": "拉 维 克 热 多恩",
+      "meaning": "我付出的生命——"
     },
     {
       "start": 130.929,
-      "sourceText": "soudain mon dieu",
-      "ipa": "sudɛ̃ mɔ̃ djø",
-      "ear": "苏丹 蒙 德耶厄",
-      "meaning": "突然我的天啊"
-    },
-    {
-      "start": 132.7,
-      "sourceText": "dray",
-      "ipa": "dʁɛ",
-      "ear": "德赫",
-      "meaning": "拖车"
+      "sourceText": "Soudain m'abandonne.",
+      "ipa": "sudɛ̃ mabɑ̃dɔn",
+      "ear": "苏丹 玛邦多恩",
+      "meaning": "突然抛弃了我。"
     },
     {
       "start": 134.13,
-      "sourceText": "sur la",
-      "ipa": "syʁ la",
-      "ear": "西于赫 拉",
-      "meaning": "关于"
+      "sourceText": "Je laisse, j'enlace…",
+      "ipa": "ʒə lɛs | ʒɑ̃las",
+      "ear": "热 莱斯｜让拉斯",
+      "meaning": "我放下，转而拥抱——"
     },
     {
       "start": 136.22,
-      "sourceText": "une vidéo",
-      "ipa": "yn video",
-      "ear": "于恩 维德奥",
-      "meaning": "一段视频"
+      "sourceText": "L'infini à la place.",
+      "ipa": "lɛ̃fini a la plas",
+      "ear": "兰菲尼 阿 拉 普拉斯",
+      "meaning": "用无尽的永恒替代这一切。"
     },
     {
       "start": 138.94,
-      "sourceText": "je tends",
-      "ipa": "ʒə tɑ̃",
-      "ear": "热 唐",
-      "meaning": "我倾向于"
+      "sourceText": "J'éteins ma douleur.",
+      "ipa": "ʒetɛ̃ ma dulœʁ",
+      "ear": "热坦 玛 杜勒厄赫",
+      "meaning": "我熄灭自己的痛苦。"
     },
     {
       "start": 140.6,
-      "sourceText": "le châtain",
-      "ipa": "lə ʃatɛ̃",
-      "ear": "勒 沙坦",
-      "meaning": "栗子"
+      "sourceText": "J'attends le bonheur.",
+      "ipa": "ʒatɑ̃ lə bɔnœʁ",
+      "ear": "扎唐 勒 博讷厄赫",
+      "meaning": "我等待幸福。"
     },
     {
-      "start": 147.21,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
-    },
-    {
-      "start": 152.84,
-      "sourceText": "2",
-      "ipa": "dø",
-      "ear": "德厄",
-      "meaning": "2"
-    },
-    {
-      "start": 154.4,
-      "sourceText": "à",
-      "ipa": "a",
-      "ear": "阿",
-      "meaning": "至"
+      "start": 144.0,
+      "sourceText": "On croit que je meurs.",
+      "ipa": "ɔ̃ kʁwa kə ʒə mœʁ",
+      "ear": "翁 克赫乌阿 克 热 默厄赫",
+      "meaning": "别人以为，我正在死去。"
     },
     {
       "start": 163.79,
-      "sourceText": "je laisse hélas les légumes",
-      "ipa": "ʒə lɛs‿elas le leɡym",
-      "ear": "热 莱斯 诶拉斯 莱 莱吉于姆",
-      "meaning": "不幸的是我留下了蔬菜"
+      "sourceText": "Je laisse, hélas…",
+      "ipa": "ʒə lɛs elas",
+      "ear": "热 莱斯 诶拉斯",
+      "meaning": "可惜，我要离开——"
+    },
+    {
+      "start": 167.0,
+      "sourceText": "Les nuits qui blessent et lassent.",
+      "ipa": "le nɥi ki blɛs‿e las",
+      "ear": "莱 恩于伊 基 布莱斯 诶 拉斯",
+      "meaning": "那些让人受伤、让人疲惫的夜晚。"
     },
     {
       "start": 171.23,
-      "sourceText": "avec un jeu tout soudain la porte",
-      "ipa": "avɛk‿œ̃ ʒø tu sudɛ̃ la pɔʁt",
-      "ear": "阿韦克 恩 热厄 图 苏丹 拉 珀赫特",
-      "meaning": "带着游戏突然开门"
+      "sourceText": "La vie que je donne…",
+      "ipa": "la vi kə ʒə dɔn",
+      "ear": "拉 维 克 热 多恩",
+      "meaning": "我付出的生命——"
+    },
+    {
+      "start": 173.0,
+      "sourceText": "Soudain m'abandonne.",
+      "ipa": "sudɛ̃ mabɑ̃dɔn",
+      "ear": "苏丹 玛邦多恩",
+      "meaning": "突然抛弃了我。"
     },
     {
       "start": 174.42,
-      "sourceText": "jallet",
-      "ipa": "ʒalɛ",
-      "ear": "扎莱",
-      "meaning": "贾莱特"
-    },
-    {
-      "start": 176.24,
-      "sourceText": "gens là",
-      "ipa": "ʒɑ̃ la",
-      "ear": "让 拉",
-      "meaning": "那里的人"
+      "sourceText": "Je laisse, j'enlace…",
+      "ipa": "ʒə lɛs | ʒɑ̃las",
+      "ear": "热 莱斯｜让拉斯",
+      "meaning": "我放下，转而拥抱——"
     },
     {
       "start": 177.93,
-      "sourceText": "be nice",
-      "ipa": "(en)biː(fr) nis",
-      "ear": "(en)布iː(fr) 尼斯",
-      "meaning": "乖一点"
+      "sourceText": "L'infini à la place.",
+      "ipa": "lɛ̃fini a la plas",
+      "ear": "兰菲尼 阿 拉 普拉斯",
+      "meaning": "用无尽的永恒替代这一切。"
     },
     {
       "start": 180.849,
-      "sourceText": "j'éteins massif aux ja 20 ans d'absence",
-      "ipa": "ʒetɛ̃ masif‿o ʒa vɛ̃t‿ɑ̃ dabsɑ̃s",
-      "ear": "热坦 玛西弗 奥 扎 万特 昂 达布桑斯",
-      "meaning": "缺席 20 年之后，我彻底失去了兴趣"
+      "sourceText": "J'éteins ma souffrance.",
+      "ipa": "ʒetɛ̃ ma sufʁɑ̃s",
+      "ear": "热坦 玛 苏弗杭斯",
+      "meaning": "我熄灭自己的苦痛。"
     },
     {
-      "start": 184.37,
-      "sourceText": "j'ai trouvé cela",
-      "ipa": "ʒe tʁuve səla",
-      "ear": "热 特胡韦 瑟拉",
-      "meaning": "我发现了这个"
+      "start": 183.0,
+      "sourceText": "J'attends ton absence.",
+      "ipa": "ʒatɑ̃ tɔ̃n‿absɑ̃s",
+      "ear": "扎唐 通恩 阿布桑斯",
+      "meaning": "我等待你的缺席。"
     },
     {
-      "start": 189.34,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 185.0,
+      "sourceText": "J'étreins le silence.",
+      "ipa": "ʒetʁɛ̃ lə silɑ̃s",
+      "ear": "热特汉 勒 西朗斯",
+      "meaning": "我拥抱寂静。"
     }
   ]
 }

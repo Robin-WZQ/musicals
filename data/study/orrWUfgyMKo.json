@@ -1,537 +1,354 @@
 {
   "videoId": "orrWUfgyMKo",
-  "version": 1,
-  "textSource": "youtube-auto-captions",
-  "annotationSource": "automated-reference-notes",
-  "pronunciationEngine": "eSpeak NG via phonemizer-fork",
-  "meaningSource": "Google machine translation of YouTube caption text",
-  "reviewStatus": "unreviewed",
-  "note": "视频与分段时间轴来自 YouTube。新曲目保留自动字幕原文，可能存在识别错误；参考音标、近似空耳与中文机器释义自动生成，尚未逐句校对。‿ 表示参考读法中的可能联诵或连读，并非原唱逐音转写。",
+  "playbackVideoId": "orrWUfgyMKo",
+  "version": 2,
+  "textSource": "editorial-cross-check",
+  "textReviewStatus": "cross-checked",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-selected-overrides",
+  "reviewStatus": "text-reviewed-timing-approximate",
+  "meaningSource": "editorial-chinese-paraphrase",
+  "pronunciationEngine": "eSpeak NG with selected editorial corrections",
+  "sources": [
+    {
+      "label": "歌词校对参考",
+      "url": "https://www.paroles.net/le-rouge-et-le-noir/paroles-il-aurait-suffi"
+    },
+    {
+      "label": "对应播放视频",
+      "url": "https://www.youtube.com/watch?v=orrWUfgyMKo"
+    }
+  ],
+  "note": "法语文字已参考剧方剧本、歌词资料或视频画面交叉校正；中文释义按校正文字重写。句子重新划分，起止时间为近似定位，仍需逐句听校；音标为标准法语参考读法，空耳仅辅助记忆。",
   "entries": [
     {
       "start": 2.96,
-      "sourceText": "il aurait suffi qu'ils jouent la",
-      "ipa": "il‿oʁɛ syfi kil ʒw la",
-      "ear": "伊勒 奥赫 西于菲 基勒 日乌 拉",
-      "meaning": "他们玩这个就足够了"
+      "sourceText": "Il aurait suffi qu'il joue la distance.",
+      "ipa": "il‿oʁɛ syfi kil ʒu la distɑ̃s",
+      "ear": "伊勒 奥赫 西于菲 基勒 茹 拉 迪斯唐斯",
+      "meaning": "本来，只要他故意保持距离就够了。"
     },
     {
       "start": 5.819,
-      "sourceText": "distance fit il ose le dire en face le",
-      "ipa": "distɑ̃s fi il‿ɔz lə diʁ‿ɑ̃ fas lə",
-      "ear": "迪斯唐斯 菲 伊勒 哦兹 勒 迪赫 昂 法斯 勒",
-      "meaning": "距离合适他敢当面说"
+      "sourceText": "Suffi qu'il ose me dire en face le contraire de ce qu'il pense.",
+      "ipa": "syfi kil‿ɔz mə diʁ‿ɑ̃ fas lə kɔ̃tʁɛʁ də sə kil pɑ̃s",
+      "ear": "西于菲 基勒 哦兹 默 迪赫 昂 法斯 勒 孔特赫赫 德 瑟 基勒 庞斯",
+      "meaning": "只要他敢当面对我说与心意相反的话。"
     },
     {
-      "start": 8.76,
-      "sourceText": "compère de ceux qui pensent qu'il ne me",
-      "ipa": "kɔ̃pɛʁ də sø ki pɑ̃s kil nə mə",
-      "ear": "孔佩赫 德 瑟厄 基 庞斯 基勒 讷 默",
-      "meaning": "自认为不是同谋的人"
-    },
-    {
-      "start": 11.309,
-      "sourceText": "laisse être voir que le mystère",
-      "ipa": "lɛs‿ɛtʁ vwaʁ kə lə mistɛʁ",
-      "ear": "莱斯 艾特赫 弗乌阿赫 克 勒 米斯泰赫",
-      "meaning": "让我们看看其中的奥秘"
+      "start": 9.5,
+      "sourceText": "Qu'il ne me laisse entrevoir que le mystère entre nous.",
+      "ipa": "kil nə mə lɛs‿ɑ̃tʁəvwaʁ kə lə mistɛʁ‿ɑ̃tʁ nu",
+      "ear": "基勒 讷 默 莱斯 昂特赫弗乌阿赫 克 勒 米斯泰赫 昂特赫 努",
+      "meaning": "只让我隐约看见我们之间的神秘。"
     },
     {
       "start": 17.57,
-      "sourceText": "il a suffi que jose l'imprudent suffit",
-      "ipa": "il‿a syfi kə ʒɔz lɛ̃pʁydɑ̃ syfi",
-      "ear": "伊勒 阿 西于菲 克 若兹 兰普许当 西于菲",
-      "meaning": "轻率的何塞已经够了"
+      "sourceText": "Il a suffi que j'ose l'imprudence.",
+      "ipa": "il‿a syfi kə ʒɔz lɛ̃pʁydɑ̃s",
+      "ear": "伊勒 阿 西于菲 克 若兹 兰普许当斯",
+      "meaning": "只因我胆敢轻率一次。"
     },
     {
       "start": 21.08,
-      "sourceText": "que je dévoile enfin mon coeur sans",
-      "ipa": "kə ʒə devwal‿ɑ̃fɛ̃ mɔ̃ kœʁ sɑ̃",
-      "ear": "克 热 德弗乌阿勒 昂凡 蒙 克厄赫 桑",
-      "meaning": "我终于表露心声了"
+      "sourceText": "Suffi que je dévoile enfin mon cœur sans complaisance.",
+      "ipa": "syfi kə ʒə devwal‿ɑ̃fɛ̃ mɔ̃ kœʁ sɑ̃ kɔ̃plɛzɑ̃s",
+      "ear": "西于菲 克 热 德弗乌阿勒 昂凡 蒙 克厄赫 桑 孔普莱赞斯",
+      "meaning": "只因我终于毫无掩饰地袒露真心。"
     },
     {
-      "start": 23.27,
-      "sourceText": "complaisance pour qu'elle doute de moi",
-      "ipa": "kɔ̃plɛzɑ̃s puʁ kɛl dut də mwa",
-      "ear": "孔普莱赞斯 普赫 凯勒 杜特 德 姆乌阿",
-      "meaning": "自满让她怀疑我"
-    },
-    {
-      "start": 25.64,
-      "sourceText": "pour qu'elle attend de rien",
-      "ipa": "puʁ kɛl‿atɑ̃ də ʁjɛ̃",
-      "ear": "普赫 凯勒 阿唐 德 赫耶安",
-      "meaning": "让她无所期待"
-    },
-    {
-      "start": 28.19,
-      "sourceText": "nous",
-      "ipa": "nu",
-      "ear": "努",
-      "meaning": "我们"
+      "start": 24.0,
+      "sourceText": "Pour qu'elle doute de moi, pour qu'elle n'attende rien de nous.",
+      "ipa": "puʁ kɛl dut də mwa puʁ kɛl natɑ̃d ʁiɛ̃ də nu",
+      "ear": "普赫 凯勒 杜特 德 姆乌阿 普赫 凯勒 纳唐德 希安 德 努",
+      "meaning": "她就怀疑了我，对我们不再抱有期待。"
     },
     {
       "start": 29.22,
-      "sourceText": "tu me prends pour qui je te donne",
-      "ipa": "ty mə pʁɑ̃ puʁ ki ʒə tə dɔn",
-      "ear": "蒂于 默 普杭 普赫 基 热 特 多恩",
-      "meaning": "你把我当成我给你的人"
-    },
-    {
-      "start": 34.49,
-      "sourceText": "pourquoi",
-      "ipa": "puʁkwa",
-      "ear": "普赫克乌阿",
-      "meaning": "为什么"
+      "sourceText": "Tu me prends pour qui ? Je te plais pourquoi ?",
+      "ipa": "ty mə pʁɑ̃ puʁ ki ʒə tə plɛ puʁkwa",
+      "ear": "蒂于 默 普杭 普赫 基 热 特 普莱 普赫克乌阿",
+      "meaning": "你把我当成谁？你为什么喜欢我？"
     },
     {
       "start": 37.16,
-      "sourceText": "le corps",
-      "ipa": "lə kɔʁ",
-      "ear": "勒 科赫",
-      "meaning": "本体"
+      "sourceText": "Le corps a dit oui.",
+      "ipa": "lə kɔʁ‿a di wi",
+      "ear": "勒 科赫 阿 迪 乌伊",
+      "meaning": "身体已答应了。"
     },
     {
       "start": 40.31,
-      "sourceText": "lui savait temps",
-      "ipa": "lyi savɛ tɑ̃",
-      "ear": "吕伊 萨韦 唐",
-      "meaning": "他知道时间"
+      "sourceText": "On s'éprend la nuit, se méprend parfois.",
+      "ipa": "ɔ̃ sepʁɑ̃ la nɥi sə mepʁɑ̃ paʁfwa",
+      "ear": "翁 塞普杭 拉 恩于伊 瑟 梅普杭 帕赫弗乌阿",
+      "meaning": "我们在夜里相爱，有时也误会彼此。"
     },
     {
       "start": 43.14,
-      "sourceText": "j'ai même aujourd'hui",
-      "ipa": "ʒe mɛm‿oʒuʁdyi",
-      "ear": "热 梅姆 奥茹赫迪于伊",
-      "meaning": "我什至今天"
-    },
-    {
-      "start": 46.95,
-      "sourceText": "demain tu t'en vas",
-      "ipa": "dəmɛ̃ ty tɑ̃ va",
-      "ear": "德曼 蒂于 唐 瓦",
-      "meaning": "明天你就要离开"
+      "sourceText": "Tu m'aimes aujourd'hui, demain tu t'en vas.",
+      "ipa": "ty mɛmz‿oʒuʁdyi dəmɛ̃ ty tɑ̃ va",
+      "ear": "蒂于 梅姆兹 奥茹赫迪于伊 德曼 蒂于 唐 瓦",
+      "meaning": "今天你爱我，明天你却离开。"
     },
     {
       "start": 50.43,
-      "sourceText": "il ferait son mépris du rhin pas l'ennui",
-      "ipa": "il fəʁɛ sɔ̃ mepʁi dy ʁɛ̃ pa lɑ̃nyi",
-      "ear": "伊勒 弗赫 松 梅普希 迪于 汉 帕 朗尼于伊",
-      "meaning": "他会让他对莱茵河的蔑视不再是无聊"
-    },
-    {
-      "start": 54.36,
-      "sourceText": "je n'ai fait qu'un pas",
-      "ipa": "ʒə ne fɛ kœ̃ pa",
-      "ear": "热 内 费 坎 帕",
-      "meaning": "我只走了一步"
+      "sourceText": "Ivresse ou mépris, du rêve à l'ennui, je n'ai fait qu'un pas.",
+      "ipa": "ivʁɛs‿u mepʁi dy ʁɛv‿a lɑ̃nɥi ʒə ne fɛ kœ̃ pa",
+      "ear": "伊弗赫斯 乌 梅普希 迪于 赫弗 阿 朗恩于伊 热 内 费 坎 帕",
+      "meaning": "沉醉还是轻蔑？从梦想到厌倦，我只走了一步。"
     },
     {
       "start": 58.78,
-      "sourceText": "2",
-      "ipa": "dø",
-      "ear": "德厄",
-      "meaning": "2"
+      "sourceText": "Dès que moi je te fuis, toi, tu dis oui.",
+      "ipa": "dɛ kə mwa ʒə tə fyi twa ty di wi",
+      "ear": "戴 克 姆乌阿 热 特 菲于伊 特乌阿 蒂于 迪 乌伊",
+      "meaning": "只要我逃开，你便答应。"
     },
     {
-      "start": 60.78,
-      "sourceText": "je te fais toi tu dis oui et quand tu",
-      "ipa": "ʒə tə fɛ twa ty di wi e kɑ̃ ty",
-      "ear": "热 特 费 特乌阿 蒂于 迪 乌伊 诶 康 蒂于",
-      "meaning": "我让你说是，当你"
-    },
-    {
-      "start": 63.719,
-      "sourceText": "fond",
-      "ipa": "fɔ̃",
-      "ear": "丰",
-      "meaning": "背景"
-    },
-    {
-      "start": 64.41,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 62.8,
+      "sourceText": "Mais quand tu fonds, là, je dis non.",
+      "ipa": "mɛ kɑ̃ ty fɔ̃ la ʒə di nɔ̃",
+      "ear": "梅 康 蒂于 丰 拉 热 迪 农",
+      "meaning": "可你一旦动心，我却说不。"
     },
     {
       "start": 65.99,
-      "sourceText": "quand c'est moi qui te suit toi tu",
-      "ipa": "kɑ̃ sɛ mwa ki tə syi twa ty",
-      "ear": "康 塞 姆乌阿 基 特 西于伊 特乌阿 蒂于",
-      "meaning": "当我跟着你的时候你"
+      "sourceText": "Quand c'est moi qui te suis, toi, tu m'oublies.",
+      "ipa": "kɑ̃ sɛ mwa ki tə sɥi twa ty mubli",
+      "ear": "康 塞 姆乌阿 基 特 斯于伊 特乌阿 蒂于 穆布利",
+      "meaning": "当我追随你，你却忘了我。"
     },
     {
       "start": 69.32,
-      "sourceText": "m'oublies quand je suis ronde la thur",
-      "ipa": "mubli kɑ̃ ʒə syi ʁɔ̃d la (en)θɜː(fr)",
-      "ear": "穆布利 康 热 西于伊 洪德 拉 (en)θɜː(fr)",
-      "meaning": "周四的时候忘记我"
+      "sourceText": "Quand je suis loin, là, tu reviens.",
+      "ipa": "kɑ̃ ʒə sɥi lwɛ̃ la ty ʁəvjɛ̃",
+      "ear": "康 热 斯于伊 勒乌安 拉 蒂于 赫弗耶安",
+      "meaning": "等我远去，你又回来。"
     },
     {
-      "start": 72.8,
-      "sourceText": "les",
-      "ipa": "le",
-      "ear": "莱",
-      "meaning": "的"
+      "start": 73.4,
+      "sourceText": "L'amour est indécis, toujours ainsi.",
+      "ipa": "lamuʁ‿ɛt‿ɛ̃desi tuʒuʁz‿ɛ̃si",
+      "ear": "拉穆赫 艾特 安德西 图茹赫兹 安西",
+      "meaning": "爱情摇摆不定，总是如此。"
     },
     {
-      "start": 75.1,
-      "sourceText": "c'est toujours ainsi quand",
-      "ipa": "sɛ tuʒuʁz‿ɛ̃si kɑ̃",
-      "ear": "塞 图茹赫兹 安西 康",
-      "meaning": "总是这样的时候"
+      "start": 77.5,
+      "sourceText": "Quand tu m'enlaces, moi, je m'en lasse.",
+      "ipa": "kɑ̃ ty mɑ̃las mwa ʒə mɑ̃ las",
+      "ear": "康 蒂于 芒拉斯 姆乌阿 热 芒 拉斯",
+      "meaning": "当你拥抱我，我反而厌倦了。"
     },
     {
-      "start": 78.09,
-      "sourceText": "soir",
-      "ipa": "swaʁ",
-      "ear": "斯乌阿赫",
-      "meaning": "晚上"
+      "start": 81.2,
+      "sourceText": "Nos folies nous dépassent, on s'aime, hélas…",
+      "ipa": "no foli nu depas ɔ̃ sɛm elas",
+      "ear": "诺 佛利 努 德帕斯 翁 塞姆 诶拉斯",
+      "meaning": "疯狂让我们失控；可悲的是，我们相爱——"
     },
     {
-      "start": 79.79,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
-    },
-    {
-      "start": 81.96,
-      "sourceText": "et passons",
-      "ipa": "e pasɔ̃",
-      "ear": "诶 帕松",
-      "meaning": "我们继续吧"
+      "start": 84.0,
+      "sourceText": "Quand on se fuit.",
+      "ipa": "kɑ̃t‿ɔ̃ sə fyi",
+      "ear": "康特 翁 瑟 菲于伊",
+      "meaning": "却是在相互逃避的时候。"
     },
     {
       "start": 87.19,
-      "sourceText": "envie",
-      "ipa": "ɑ̃vi",
-      "ear": "昂维",
-      "meaning": "欲望"
+      "sourceText": "On cède à l'envie sans savoir pourquoi.",
+      "ipa": "ɔ̃ sɛd‿a lɑ̃vi sɑ̃ savwaʁ puʁkwa",
+      "ear": "翁 塞德 阿 朗维 桑 萨弗乌阿赫 普赫克乌阿",
+      "meaning": "我们向欲望屈服，却不知道为什么。"
     },
     {
       "start": 93.87,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
-    },
-    {
-      "start": 97.55,
-      "sourceText": "soit",
-      "ipa": "swa",
-      "ear": "斯乌阿",
-      "meaning": "要么"
+      "sourceText": "Rêve d'infini tombera du lit en n'aimant que soi.",
+      "ipa": "ʁɛv dɛ̃fini tɔ̃bʁa dy li ɑ̃ nɛmɑ̃ kə swa",
+      "ear": "赫弗 丹菲尼 通布哈 迪于 利 昂 奈芒 克 斯乌阿",
+      "meaning": "只爱自己，永恒的梦也会从床上跌落。"
     },
     {
       "start": 99.47,
-      "sourceText": "l'arrêt",
-      "ipa": "laʁɛ",
-      "ear": "拉赫",
-      "meaning": "停止"
+      "sourceText": "La raison dit oui, le cœur n'y est pas.",
+      "ipa": "la ʁɛzɔ̃ di wi lə kœʁ ni ɛ pa",
+      "ear": "拉 赫宗 迪 乌伊 勒 克厄赫 尼 艾 帕",
+      "meaning": "理性答应了，心却不在其中。"
     },
     {
-      "start": 103.15,
-      "sourceText": "le caire nid",
-      "ipa": "lə kɛʁ ni",
-      "ear": "勒 凯赫 尼",
-      "meaning": "开罗巢"
+      "start": 104.0,
+      "sourceText": "Unis pour la vie, faut-il faire comme si ?",
+      "ipa": "yni puʁ la vi fotil fɛʁ kɔm si",
+      "ear": "于尼 普赫 拉 维 佛蒂勒 费赫 科姆 西",
+      "meaning": "说好相伴一生，就必须装作如此吗？"
     },
     {
       "start": 108.9,
-      "sourceText": "les frères toi",
-      "ipa": "le fʁɛʁ twa",
-      "ear": "莱 弗赫赫 特乌阿",
-      "meaning": "兄弟你"
+      "sourceText": "D'autres font comme ça.",
+      "ipa": "dotʁ fɔ̃ kɔm sa",
+      "ear": "多特赫 丰 科姆 萨",
+      "meaning": "别人都是这样做的。"
     },
     {
-      "start": 111.01,
-      "sourceText": "en cause",
-      "ipa": "ɑ̃ koz",
-      "ear": "昂 科兹",
-      "meaning": "有问题"
-    },
-    {
-      "start": 115.32,
-      "sourceText": "d",
-      "ipa": "de",
-      "ear": "德",
-      "meaning": "d"
+      "start": 112.0,
+      "sourceText": "Dès que moi je te fuis, toi, tu dis oui.",
+      "ipa": "dɛ kə mwa ʒə tə fyi twa ty di wi",
+      "ear": "戴 克 姆乌阿 热 特 菲于伊 特乌阿 蒂于 迪 乌伊",
+      "meaning": "只要我逃开，你便答应。"
     },
     {
       "start": 116.2,
-      "sourceText": "j'étais",
-      "ipa": "ʒetɛ",
-      "ear": "热泰",
-      "meaning": "我是"
-    },
-    {
-      "start": 117.91,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "Mais quand tu fonds, là, je dis non.",
+      "ipa": "mɛ kɑ̃ ty fɔ̃ la ʒə di nɔ̃",
+      "ear": "梅 康 蒂于 丰 拉 热 迪 农",
+      "meaning": "可你一旦动心，我却说不。"
     },
     {
       "start": 120.26,
-      "sourceText": "ida jeudi",
-      "ipa": "ida ʒødi",
-      "ear": "伊达 热厄迪",
-      "meaning": "艾达星期四"
-    },
-    {
-      "start": 121.55,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "Quand c'est moi qui te suis, toi, tu m'oublies.",
+      "ipa": "kɑ̃ sɛ mwa ki tə sɥi twa ty mubli",
+      "ear": "康 塞 姆乌阿 基 特 斯于伊 特乌阿 蒂于 穆布利",
+      "meaning": "当我追随你，你却忘了我。"
     },
     {
       "start": 123.59,
-      "sourceText": "je suis",
-      "ipa": "ʒə syi",
-      "ear": "热 西于伊",
-      "meaning": "我是"
-    },
-    {
-      "start": 124.74,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "Quand je suis loin, là, tu reviens.",
+      "ipa": "kɑ̃ ʒə sɥi lwɛ̃ la ty ʁəvjɛ̃",
+      "ear": "康 热 斯于伊 勒乌安 拉 蒂于 赫弗耶安",
+      "meaning": "等我远去，你又回来。"
     },
     {
       "start": 127.49,
-      "sourceText": "dubois",
-      "ipa": "dybwa",
-      "ear": "迪于布乌阿",
-      "meaning": "杜波依斯"
+      "sourceText": "L'amour est indécis, toujours ainsi.",
+      "ipa": "lamuʁ‿ɛt‿ɛ̃desi tuʒuʁz‿ɛ̃si",
+      "ear": "拉穆赫 艾特 安德西 图茹赫兹 安西",
+      "meaning": "爱情摇摆不定，总是如此。"
     },
     {
-      "start": 129.86,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 131.0,
+      "sourceText": "Quand tu m'enlaces, moi, je m'en lasse.",
+      "ipa": "kɑ̃ ty mɑ̃las mwa ʒə mɑ̃ las",
+      "ear": "康 蒂于 芒拉斯 姆乌阿 热 芒 拉斯",
+      "meaning": "当你拥抱我，我反而厌倦了。"
     },
     {
       "start": 133.49,
-      "sourceText": "hélas",
-      "ipa": "elas",
-      "ear": "诶拉斯",
-      "meaning": "唉"
+      "sourceText": "Nos folies nous dépassent, on s'aime, hélas…",
+      "ipa": "no foli nu depas ɔ̃ sɛm elas",
+      "ear": "诺 佛利 努 德帕斯 翁 塞姆 诶拉斯",
+      "meaning": "疯狂让我们失控；可悲的是，我们相爱——"
     },
     {
-      "start": 135.44,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 136.0,
+      "sourceText": "Quand on se fuit.",
+      "ipa": "kɑ̃t‿ɔ̃ sə fyi",
+      "ear": "康特 翁 瑟 菲于伊",
+      "meaning": "却是在相互逃避的时候。"
     },
     {
       "start": 139.9,
-      "sourceText": "dans sa fuite",
-      "ipa": "dɑ̃ sa fyit",
-      "ear": "当 萨 菲于伊特",
-      "meaning": "在他的飞行中"
+      "sourceText": "Pourtant, moi, je ressens l'amour immense.",
+      "ipa": "puʁtɑ̃ mwa ʒə ʁəsɛn lamuʁ‿imɑ̃s",
+      "ear": "普赫唐 姆乌阿 热 赫塞恩 拉穆赫 伊芒斯",
+      "meaning": "可我明明感受到如此巨大的爱。"
     },
     {
       "start": 143.41,
-      "sourceText": "je sens l'amour immense ne le dit pas",
-      "ipa": "ʒə sɑ̃ lamuʁ‿imɑ̃s nə lə di pa",
-      "ear": "热 桑 拉穆赫 伊芒斯 讷 勒 迪 帕",
-      "meaning": "我感受到巨大的爱，不用说出来"
-    },
-    {
-      "start": 146.74,
-      "sourceText": "qui la cause en est seulement ton",
-      "ipa": "ki la koz‿ɑ̃n‿ɛ sølmɑ̃ tɔ̃",
-      "ear": "基 拉 科兹 昂恩 艾 瑟厄勒芒 通",
-      "meaning": "哪个原因只是你"
+      "sourceText": "Ne me dis pas que la cause en est seulement ton absence.",
+      "ipa": "nə mə di pa kə la koz‿ɑ̃n‿ɛ sølmɑ̃ tɔ̃n‿absɑ̃s",
+      "ear": "讷 默 迪 帕 克 拉 科兹 昂恩 艾 瑟厄勒芒 通恩 阿布桑斯",
+      "meaning": "别告诉我，那仅仅是因为你不在身边。"
     },
     {
       "start": 148.45,
-      "sourceText": "absence ne me dis pas que tous posent",
-      "ipa": "absɑ̃s nə mə di pa kə tus poz",
-      "ear": "阿布桑斯 讷 默 迪 帕 克 图斯 波兹",
-      "meaning": "缺席别告诉我大家都摆姿势"
+      "sourceText": "Ne me dis pas que tout repose sur ce vide entre nous.",
+      "ipa": "nə mə di pa kə tu ʁəpɔz syʁ sə vid‿ɑ̃tʁ nu",
+      "ear": "讷 默 迪 帕 克 图 赫珀兹 西于赫 瑟 维德 昂特赫 努",
+      "meaning": "别告诉我，一切都建立在我们之间的空缺上。"
     },
     {
-      "start": 151.12,
-      "sourceText": "sur ce vide entre nous je t'aime",
-      "ipa": "syʁ sə vid‿ɑ̃tʁ nu ʒə tɛm",
-      "ear": "西于赫 瑟 维德 昂特赫 努 热 泰姆",
-      "meaning": "在我们之间的这个空白上我爱你"
-    },
-    {
-      "start": 155.68,
-      "sourceText": "aujourd'hui",
-      "ipa": "oʒuʁdyi",
-      "ear": "奥茹赫迪于伊",
-      "meaning": "今天"
+      "start": 153.0,
+      "sourceText": "Je t'aime aujourd'hui sans savoir pourquoi.",
+      "ipa": "ʒə tɛm‿oʒuʁdyi sɑ̃ savwaʁ puʁkwa",
+      "ear": "热 泰姆 奥茹赫迪于伊 桑 萨弗乌阿赫 普赫克乌阿",
+      "meaning": "今天我爱你，却不知道为什么。"
     },
     {
       "start": 159.08,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
-    },
-    {
-      "start": 161.8,
-      "sourceText": "ok",
-      "ipa": "oke",
-      "ear": "奥克",
-      "meaning": "好的"
-    },
-    {
-      "start": 164.25,
-      "sourceText": "pour qui",
-      "ipa": "puʁ ki",
-      "ear": "普赫 基",
-      "meaning": "为了谁"
+      "sourceText": "Mon cœur est à qui ? Le tien bat pour qui, si ce n'est pour moi ?",
+      "ipa": "mɔ̃ kœʁ‿ɛt‿a ki lə tjɛ̃ ba puʁ ki si sə nɛ puʁ mwa",
+      "ear": "蒙 克厄赫 艾特 阿 基 勒 特耶安 巴 普赫 基 西 瑟 奈 普赫 姆乌阿",
+      "meaning": "我的心属于谁？若不是为我，你的心又为谁跳动？"
     },
     {
       "start": 168.3,
-      "sourceText": "pour",
-      "ipa": "puʁ",
-      "ear": "普赫",
-      "meaning": "对于"
+      "sourceText": "L'amour est indécis, toujours ainsi.",
+      "ipa": "lamuʁ‿ɛt‿ɛ̃desi tuʒuʁz‿ɛ̃si",
+      "ear": "拉穆赫 艾特 安德西 图茹赫兹 安西",
+      "meaning": "爱情摇摆不定，总是如此。"
     },
     {
-      "start": 170.54,
-      "sourceText": "non",
-      "ipa": "nɔ̃",
-      "ear": "农",
-      "meaning": "没有"
+      "start": 172.3,
+      "sourceText": "Si tu m'enlaces, moi, je m'en lasse.",
+      "ipa": "si ty mɑ̃las mwa ʒə mɑ̃ las",
+      "ear": "西 蒂于 芒拉斯 姆乌阿 热 芒 拉斯",
+      "meaning": "如果你拥抱我，我反而厌倦了。"
     },
     {
-      "start": 171.66,
-      "sourceText": "pour et 1",
-      "ipa": "puʁ‿e œ̃",
-      "ear": "普赫 诶 恩",
-      "meaning": "对于和1"
-    },
-    {
-      "start": 174.54,
-      "sourceText": "et j'ai bon",
-      "ipa": "e ʒe bɔ̃",
-      "ear": "诶 热 崩",
-      "meaning": "和我有好的"
-    },
-    {
-      "start": 177.38,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
-    },
-    {
-      "start": 179.31,
-      "sourceText": "eba",
-      "ipa": "eba",
-      "ear": "诶巴",
-      "meaning": "eba"
+      "start": 176.2,
+      "sourceText": "Nos folies nous dépassent, on s'aime, hélas, quand on se fuit.",
+      "ipa": "no foli nu depas ɔ̃ sɛm elas kɑ̃t‿ɔ̃ sə fyi",
+      "ear": "诺 佛利 努 德帕斯 翁 塞姆 诶拉斯 康特 翁 瑟 菲于伊",
+      "meaning": "疯狂让我们失控；可悲的是，只有相互逃避时才相爱。"
     },
     {
       "start": 182.31,
-      "sourceText": "mais tu me",
-      "ipa": "mɛ ty mə",
-      "ear": "梅 蒂于 默",
-      "meaning": "但是你"
+      "sourceText": "Tu me prends pour qui ? Je te plais pourquoi ?",
+      "ipa": "ty mə pʁɑ̃ puʁ ki ʒə tə plɛ puʁkwa",
+      "ear": "蒂于 默 普杭 普赫 基 热 特 普莱 普赫克乌阿",
+      "meaning": "你把我当成谁？你为什么喜欢我？"
     },
     {
-      "start": 184.48,
-      "sourceText": "qui",
-      "ipa": "ki",
-      "ear": "基",
-      "meaning": "谁"
+      "start": 189.0,
+      "sourceText": "Le corps a dit oui.",
+      "ipa": "lə kɔʁ‿a di wi",
+      "ear": "勒 科赫 阿 迪 乌伊",
+      "meaning": "身体已答应了。"
     },
     {
-      "start": 187.19,
-      "sourceText": "claire t",
-      "ipa": "klɛʁ te",
-      "ear": "克莱赫 特",
-      "meaning": "清吨"
+      "start": 192.5,
+      "sourceText": "On s'éprend la nuit, se méprend parfois.",
+      "ipa": "ɔ̃ sepʁɑ̃ la nɥi sə mepʁɑ̃ paʁfwa",
+      "ear": "翁 塞普杭 拉 恩于伊 瑟 梅普杭 帕赫弗乌阿",
+      "meaning": "我们在夜里相爱，有时也误会彼此。"
     },
     {
-      "start": 191.33,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
-    },
-    {
-      "start": 199.77,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 196.0,
+      "sourceText": "Tu m'aimes aujourd'hui, demain tu t'en vas.",
+      "ipa": "ty mɛmz‿oʒuʁdyi dəmɛ̃ ty tɑ̃ va",
+      "ear": "蒂于 梅姆兹 奥茹赫迪于伊 德曼 蒂于 唐 瓦",
+      "meaning": "今天你爱我，明天你却离开。"
     },
     {
       "start": 201.04,
-      "sourceText": "c'est",
-      "ipa": "sɛ",
-      "ear": "塞",
-      "meaning": "是"
+      "sourceText": "Ivresse ou mépris, du rêve à l'ennui, je n'ai fait qu'un pas.",
+      "ipa": "ivʁɛs‿u mepʁi dy ʁɛv‿a lɑ̃nɥi ʒə ne fɛ kœ̃ pa",
+      "ear": "伊弗赫斯 乌 梅普希 迪于 赫弗 阿 朗恩于伊 热 内 费 坎 帕",
+      "meaning": "沉醉还是轻蔑？从梦想到厌倦，我只走了一步。"
     },
     {
-      "start": 204.069,
-      "sourceText": "qui est ce",
-      "ipa": "ki ɛ sə",
-      "ear": "基 艾 瑟",
-      "meaning": "这是谁"
+      "start": 210.0,
+      "sourceText": "Dis-moi, dis-moi que notre amour ne tient pas qu'à tout ce vide entre nous.",
+      "ipa": "dimwa dimwa kə notʁ‿amuʁ nə tjɛ̃ pa ka tu sə vid‿ɑ̃tʁ nu",
+      "ear": "迪姆乌阿 迪姆乌阿 克 诺特赫 阿穆赫 讷 特耶安 帕 卡 图 瑟 维德 昂特赫 努",
+      "meaning": "告诉我，我们的爱不只是因为彼此之间的空缺。"
     },
     {
-      "start": 206.08,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
-    },
-    {
-      "start": 207.97,
-      "sourceText": "les faits",
-      "ipa": "le fɛ",
-      "ear": "莱 费",
-      "meaning": "事实"
-    },
-    {
-      "start": 212.43,
-      "sourceText": "notre homme retient pas que tout se fit",
-      "ipa": "notʁ‿ɔm ʁətjɛ̃ pa kə tu sə fi",
-      "ear": "诺特赫 哦姆 赫特耶安 帕 克 图 瑟 菲",
-      "meaning": "我们的男人不记得一切都已完成"
-    },
-    {
-      "start": 215.01,
-      "sourceText": "d'entre nous dis-moi dis-moi que notre",
-      "ipa": "dɑ̃tʁ nu dimwa dimwa kə notʁ",
-      "ear": "当特赫 努 迪姆乌阿 迪姆乌阿 克 诺特赫",
-      "meaning": "我们中的人告诉我告诉我我们的"
-    },
-    {
-      "start": 219.93,
-      "sourceText": "amour ne vient pas de tous celui d'entre",
-      "ipa": "amuʁ nə vjɛ̃ pa də tus səlyi dɑ̃tʁ",
-      "ear": "阿穆赫 讷 弗耶安 帕 德 图斯 瑟吕伊 当特赫",
-      "meaning": "爱并非来自所有人"
-    },
-    {
-      "start": 222.81,
-      "sourceText": "nous",
-      "ipa": "nu",
-      "ear": "努",
-      "meaning": "我们"
-    },
-    {
-      "start": 224.25,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 216.5,
+      "sourceText": "Dis-moi, dis-moi que notre amour ne vient pas de tout ce vide entre nous.",
+      "ipa": "dimwa dimwa kə notʁ‿amuʁ nə vjɛ̃ pa də tu sə vid‿ɑ̃tʁ nu",
+      "ear": "迪姆乌阿 迪姆乌阿 克 诺特赫 阿穆赫 讷 弗耶安 帕 德 图 瑟 维德 昂特赫 努",
+      "meaning": "告诉我，我们的爱不是由这份空缺产生的。"
     }
   ]
 }

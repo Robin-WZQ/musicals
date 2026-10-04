@@ -33,17 +33,12 @@
       "heading": "关于此播放来源",
       "kind": "background",
       "paragraphs": [
-        "原唱通过 YouTube 视频播放。本播放列表的视频上传者为 Eilleen Shih；上传者名称不等同于演唱者。此版本没有提供足够信息确认具体演唱阵容，因此不写入未经核实的歌手或角色归属。",
-        "逐句播放使用同一视频的字幕起止时间；音标、空耳和中文释义是额外的学习辅助，不是 YouTube 提供的发音注释。"
+        "本页播放来源：Eilleen Shih 上传的 YouTube 视频。上传者与演唱者是不同概念。",
+        "法语文字已参考剧方剧本、歌词资料或视频画面交叉校正；中文释义按校正文字重写。句子重新划分，起止时间为近似定位，仍需逐句听校；音标为标准法语参考读法，空耳仅辅助记忆。"
       ]
     }
   ],
   "sources": [
-    {
-      "id": "video",
-      "label": "当前 YouTube 视频",
-      "url": "https://www.youtube.com/watch?v=_SZwSELzySM"
-    },
     {
       "id": "playlist",
       "label": "原始播放列表",
@@ -53,6 +48,16 @@
       "id": "album",
       "label": "唱片目录",
       "url": "https://music.apple.com/us/album/le-rouge-et-le-noir-lop%C3%A9ra-rock/1599074186"
+    },
+    {
+      "id": "lyrics-review",
+      "label": "歌词校对参考",
+      "url": "https://www.paroles.net/come/paroles-la-gloire-a-mes-genoux"
+    },
+    {
+      "id": "video",
+      "label": "当前播放的 YouTube 视频",
+      "url": "https://www.youtube.com/watch?v=_SZwSELzySM"
     }
   ]
 }

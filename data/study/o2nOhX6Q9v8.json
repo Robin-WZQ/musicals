@@ -1,390 +1,390 @@
 {
   "videoId": "o2nOhX6Q9v8",
-  "version": 1,
-  "textSource": "youtube-auto-captions",
-  "annotationSource": "automated-reference-notes",
-  "pronunciationEngine": "eSpeak NG via phonemizer-fork",
-  "meaningSource": "Google machine translation of YouTube caption text",
-  "reviewStatus": "unreviewed",
-  "note": "视频与分段时间轴来自 YouTube。新曲目保留自动字幕原文，可能存在识别错误；参考音标、近似空耳与中文机器释义自动生成，尚未逐句校对。‿ 表示参考读法中的可能联诵或连读，并非原唱逐音转写。",
+  "playbackVideoId": "o2nOhX6Q9v8",
+  "version": 2,
+  "textSource": "editorial-cross-check",
+  "textReviewStatus": "cross-checked",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-selected-overrides",
+  "reviewStatus": "text-reviewed-timing-approximate",
+  "meaningSource": "editorial-chinese-paraphrase",
+  "pronunciationEngine": "eSpeak NG with selected editorial corrections",
+  "sources": [
+    {
+      "label": "歌词校对参考",
+      "url": "https://www.paroles.net/le-rouge-et-le-noir/paroles-quel-ennui"
+    },
+    {
+      "label": "对应播放视频",
+      "url": "https://www.youtube.com/watch?v=o2nOhX6Q9v8"
+    }
+  ],
+  "note": "法语文字已参考剧方剧本、歌词资料或视频画面交叉校正；中文释义按校正文字重写。句子重新划分，起止时间为近似定位，仍需逐句听校；音标为标准法语参考读法，空耳仅辅助记忆。",
   "entries": [
     {
-      "start": 4.31,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
-    },
-    {
-      "start": 7.92,
-      "sourceText": "[Applaudissements]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[鼓掌]"
-    },
-    {
-      "start": 11.18,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
-    },
-    {
       "start": 17.669,
-      "sourceText": "sauf que mental",
-      "ipa": "sof kə mɑ̃tal",
-      "ear": "索弗 克 芒塔勒",
-      "meaning": "除了心理"
+      "sourceText": "Bonsoir, comment allez-vous ?",
+      "ipa": "bɔ̃swaʁ kɔmɑ̃ alevu",
+      "ear": "崩斯乌阿赫 科芒 阿莱乌",
+      "meaning": "晚上好，您好吗？"
     },
     {
       "start": 21.73,
-      "sourceText": "quels montants met-il pas",
-      "ipa": "kɛl mɔ̃tɑ̃ mɛtil pa",
-      "ear": "凯勒 蒙唐 梅蒂勒 帕",
-      "meaning": "他没有投入多少金额"
+      "sourceText": "Quel beau temps, n'est-il pas ?",
+      "ipa": "kɛl bo tɑ̃ nɛtil pa",
+      "ear": "凯勒 博 唐 奈蒂勒 帕",
+      "meaning": "天气真好，不是吗？"
     },
     {
       "start": 25.16,
-      "sourceText": "fully veille ce sont",
-      "ipa": "(en)fʊli(fr) vɛj sə sɔ̃",
-      "ear": "(en)弗ʊ利(fr) 韦耶 瑟 松",
-      "meaning": "充分睡眠这些是"
+      "sourceText": "Pour l'hiver, il fait fort doux.",
+      "ipa": "puʁ livɛʁ il fɛ fɔʁ du",
+      "ear": "普赫 利韦赫 伊勒 费 佛赫 杜",
+      "meaning": "对于冬天来说，真是暖和。"
     },
     {
       "start": 28.7,
-      "sourceText": "chez auchan",
-      "ipa": "ʃez‿oʃɑ̃",
-      "ear": "谢兹 奥尚",
-      "meaning": "在欧尚"
+      "sourceText": "Tout ce washi-washa.",
+      "ipa": "tu sə waʃi waʃa",
+      "ear": "图 瑟 瓦希 瓦沙",
+      "meaning": "尽是这些无聊的闲话。"
     },
     {
       "start": 32.61,
-      "sourceText": "je mal quand même",
-      "ipa": "ʒə mal kɑ̃ mɛm",
-      "ear": "热 玛勒 康 梅姆",
-      "meaning": "我还是很痛"
+      "sourceText": "Alors je bâille aux corneilles.",
+      "ipa": "alɔʁ ʒə baj‿o kɔʁnɛj",
+      "ear": "阿洛赫 热 巴耶 奥 科赫奈耶",
+      "meaning": "于是我无聊地发呆。"
     },
     {
       "start": 35.09,
-      "sourceText": "comme toujours",
-      "ipa": "kɔm tuʒuʁ",
-      "ear": "科姆 图茹赫",
-      "meaning": "一如既往"
-    },
-    {
-      "start": 37.09,
-      "sourceText": "six semaines",
-      "ipa": "si səmɛn",
-      "ear": "西 瑟梅恩",
-      "meaning": "六周"
+      "sourceText": "Cause toujours, moi j'ai sommeil.",
+      "ipa": "koz tuʒuʁ mwa ʒe sɔmɛj",
+      "ear": "科兹 图茹赫 姆乌阿 热 索梅耶",
+      "meaning": "你继续说吧，我已经困了。"
     },
     {
       "start": 38.94,
-      "sourceText": "tu as tout bien d'autres à city",
-      "ipa": "ty a tu bjɛ̃ dotʁz‿a (en)sɪti(fr)",
-      "ear": "蒂于 阿 图 布耶安 多特赫兹 阿 (en)斯ɪ蒂(fr)",
-      "meaning": "你在城里还有很多人"
+      "sourceText": "N'a-t-on rien d'autre à se dire…",
+      "ipa": "natɔ̃ ʁjɛ̃ dotʁ‿a sə diʁ",
+      "ear": "纳通 赫耶安 多特赫 阿 瑟 迪赫",
+      "meaning": "难道我们没有别的话可说——"
+    },
+    {
+      "start": 42.0,
+      "sourceText": "Pour éveiller les désirs ?",
+      "ipa": "puʁ‿evɛje le deziʁ",
+      "ear": "普赫 诶韦耶诶 莱 德齐赫",
+      "meaning": "没有能唤醒欲望的话？"
+    },
+    {
+      "start": 44.0,
+      "sourceText": "Oh, quel ennui, quel ennui !",
+      "ipa": "o kɛ.l‿ɑ̃nɥi kɛ.l‿ɑ̃nɥi",
+      "ear": "奥 凯勒‿昂纽伊 凯勒‿昂纽伊",
+      "meaning": "啊，多么无聊，多么无聊！"
     },
     {
       "start": 47.17,
-      "sourceText": "c'est gentil",
-      "ipa": "sɛ ʒɑ̃ti",
-      "ear": "塞 让蒂",
-      "meaning": "那太好了"
+      "sourceText": "Ces gens bien gentils qui m'aiment et me lassent…",
+      "ipa": "se ʒɑ̃ bjɛ̃ ʒɑ̃ti ki mɛm‿e mə las",
+      "ear": "塞 让 布耶安 让蒂 基 梅姆 诶 默 拉斯",
+      "meaning": "这些爱慕我的好好先生，也让我厌烦——"
     },
     {
       "start": 50.5,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "Sans rien qui dépasse.",
+      "ipa": "sɑ̃ ʁjɛ̃ ki depas",
+      "ear": "桑 赫耶安 基 德帕斯",
+      "meaning": "没有一点出格之处。"
+    },
+    {
+      "start": 52.5,
+      "sourceText": "Quel ennui, quel ennui !",
+      "ipa": "kɛ.l‿ɑ̃nɥi kɛ.l‿ɑ̃nɥi",
+      "ear": "凯勒‿昂纽伊 凯勒‿昂纽伊",
+      "meaning": "多么无聊，多么无聊！"
     },
     {
       "start": 54.96,
-      "sourceText": "tous ces",
-      "ipa": "tu se",
-      "ear": "图 塞",
-      "meaning": "这一切"
+      "sourceText": "Tous ces bons partis…",
+      "ipa": "tu se bɔ̃ paʁti",
+      "ear": "图 塞 崩 帕赫蒂",
+      "meaning": "这些条件优越的婚配对象——"
     },
     {
-      "start": 55.84,
-      "sourceText": "6",
-      "ipa": "sis",
-      "ear": "西斯",
-      "meaning": "6"
+      "start": 57.0,
+      "sourceText": "Sous les politesses, si peu de noblesse.",
+      "ipa": "su le politɛs si pø də nɔblɛs",
+      "ear": "苏 莱 波利泰斯 西 珀厄 德 诺布莱斯",
+      "meaning": "礼貌的表象下，竟没多少真正的高贵。"
     },
     {
       "start": 59.93,
-      "sourceText": "et bien mathilde vous amusez vous oh oui",
-      "ipa": "e bjɛ̃ (en)maθɪldə(fr) vuz‿amyze vuz‿ɔ wi",
-      "ear": "诶 布耶安 (en)玛θɪ勒德(fr) 乌兹 阿米于泽 乌兹 哦 乌伊",
-      "meaning": "好吧，玛蒂尔德玩得开心哦，是的"
+      "sourceText": "Eh bien, Mathilde, vous amusez-vous ?",
+      "ipa": "ɛ bjɛ̃ | matild | vu.z‿amyze vu",
+      "ear": "艾 布延｜玛蒂勒德｜乌兹‿阿穆泽 乌",
+      "meaning": "那么，玛蒂尔德，你玩得开心吗？",
+      "kind": "dialogue"
     },
     {
       "start": 62.36,
-      "sourceText": "mon père je m'amuse à en mourir m'amuser",
-      "ipa": "mɔ̃ pɛʁ ʒə mamyz‿a ɑ̃ muʁiʁ mamyze",
-      "ear": "蒙 佩赫 热 玛米于兹 阿 昂 穆希赫 玛米于泽",
-      "meaning": "我爸爸我玩得开心死了"
+      "sourceText": "Oh oui, mon père, je m'amuse à en mourir.",
+      "ipa": "ɔ wi mɔ̃ pɛʁ ʒə mamyz‿a ɑ̃ muʁiʁ",
+      "ear": "哦 乌伊 蒙 佩赫 热 玛米于兹 阿 昂 穆希赫",
+      "meaning": "当然，父亲，我开心得都快死了。",
+      "kind": "dialogue"
     },
     {
       "start": 64.79,
-      "sourceText": "plus tiendrait de l'indécent l'on vous",
-      "ipa": "ply tjɛ̃dʁɛ də lɛ̃desɑ̃ lɔ̃ vu",
-      "ear": "普吕 特耶安德赫 德 兰德桑 隆 乌",
-      "meaning": "如果你更会被认为是不雅的"
+      "sourceText": "M'amuser plus tiendrait de l'indécent.",
+      "ipa": "mamyze ply tjɛ̃dʁɛ də lɛ̃desɑ̃",
+      "ear": "玛米于泽 普吕 特耶安德赫 德 兰德桑",
+      "meaning": "再开心一点，恐怕就有失体统了。",
+      "kind": "dialogue"
     },
     {
       "start": 67.46,
-      "sourceText": "êtes la paire de cette soirée tous les",
-      "ipa": "ɛt la pɛʁ də sɛt swaʁe tu le",
-      "ear": "艾特 拉 佩赫 德 塞特 斯乌阿赫 图 莱",
-      "meaning": "今晚是一对"
+      "sourceText": "Vous êtes la perle de cette soirée.",
+      "ipa": "vuz‿ɛt la pɛʁl də sɛt swaʁe",
+      "ear": "乌兹 艾特 拉 佩赫勒 德 塞特 斯乌阿赫",
+      "meaning": "你是今晚最耀眼的珍珠。",
+      "kind": "dialogue"
     },
     {
       "start": 69.38,
-      "sourceText": "plus beaux partis sont à vos jeux d'eau",
-      "ipa": "ply bo paʁti sɔ̃t‿a vo ʒø do",
-      "ear": "普吕 博 帕赫蒂 松特 阿 沃 热厄 多",
-      "meaning": "最好的派对就在你的水上游戏中"
+      "sourceText": "Tous les plus beaux partis sont à vos genoux.",
+      "ipa": "tu le ply bo paʁti sɔ̃t‿a vo ʒənu",
+      "ear": "图 莱 普吕 博 帕赫蒂 松特 阿 沃 热努",
+      "meaning": "那些最出色的婚配人选，都拜倒在你膝下。",
+      "kind": "dialogue"
     },
     {
       "start": 71.08,
-      "sourceText": "précisément je me sens comme un bijou",
+      "sourceText": "Précisément, je me sens comme un bijou…",
       "ipa": "pʁesizemɑ̃ ʒə mə sɑ̃ kɔm‿œ̃ biʒu",
       "ear": "普赫西泽芒 热 默 桑 科姆 恩 比茹",
-      "meaning": "正是我感觉自己像一颗宝石"
+      "meaning": "正是如此，我觉得自己像一件珠宝——",
+      "kind": "dialogue"
     },
     {
       "start": 73.34,
-      "sourceText": "que chacun veut mettre à sa boutonnière",
+      "sourceText": "Que chacun veut mettre à sa boutonnière.",
       "ipa": "kə ʃakœ̃ vø mɛtʁ‿a sa butɔnjɛʁ",
       "ear": "克 沙坎 弗厄 梅特赫 阿 萨 布托恩耶艾赫",
-      "meaning": "每个人都想把它放进扣眼里"
+      "meaning": "人人都想把它别在自己的衣襟上。",
+      "kind": "dialogue"
     },
     {
       "start": 75.07,
-      "sourceText": "s'il osait il me regarderai à la loupe",
-      "ipa": "sil‿ozɛt‿il mə ʁəɡaʁdəʁe a la lup",
-      "ear": "西勒 奥泽特 伊勒 默 赫嘎赫德赫 阿 拉 卢普",
-      "meaning": "如果他敢的话他就会用放大镜看我"
+      "sourceText": "S'ils osaient, ils me regarderaient à la loupe…",
+      "ipa": "silz‿ozɛt il mə ʁəɡaʁdəʁɛt‿a la lup",
+      "ear": "西勒兹 奥泽特 伊勒 默 赫嘎赫德赫特 阿 拉 卢普",
+      "meaning": "他们要是敢，就会拿放大镜来看我——",
+      "kind": "dialogue"
     },
     {
       "start": 77.84,
-      "sourceText": "pour estimer la valeur",
+      "sourceText": "Pour estimer la valeur.",
       "ipa": "puʁ‿ɛstime la valœʁ",
       "ear": "普赫 艾斯蒂梅 拉 瓦勒厄赫",
-      "meaning": "估算值"
+      "meaning": "好估算我的价钱。",
+      "kind": "dialogue"
     },
     {
       "start": 80.53,
-      "sourceText": "sympa et comme il faut",
-      "ipa": "sɛ̃pa e kɔm‿il fo",
-      "ear": "森帕 诶 科姆 伊勒 佛",
-      "meaning": "恰到好处"
+      "sourceText": "Ils vont se parler comme il faut.",
+      "ipa": "il vɔ̃ sə paʁle kɔm‿il fo",
+      "ear": "伊勒 翁 瑟 帕赫莱 科姆 伊勒 佛",
+      "meaning": "他们规规矩矩地交谈。"
     },
     {
-      "start": 84.53,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 86.0,
+      "sourceText": "Sans me dire ce qu'ils pensent.",
+      "ipa": "sɑ̃ mə diʁ sə kil pɑ̃s",
+      "ear": "桑 默 迪赫 瑟 基勒 庞斯",
+      "meaning": "却不告诉我，他们真正想什么。"
+    },
+    {
+      "start": 89.0,
+      "sourceText": "Ils pèseront ce que je vaux…",
+      "ipa": "il pɛzʁɔ̃ sə kə ʒə vo",
+      "ear": "伊勒 佩兹洪 瑟 克 热 沃",
+      "meaning": "他们会衡量我值多少——"
     },
     {
       "start": 91.3,
-      "sourceText": "à combien jeu",
-      "ipa": "a kɔ̃bjɛ̃ ʒø",
-      "ear": "阿 孔布耶安 热厄",
-      "meaning": "多少游戏"
-    },
-    {
-      "start": 93.74,
-      "sourceText": "mua",
-      "ipa": "mya",
-      "ear": "米于阿",
-      "meaning": "穆阿"
+      "sourceText": "À combien je dépense.",
+      "ipa": "a kɔ̃bjɛ̃ ʒə depɑ̃s",
+      "ear": "阿 孔布耶安 热 德庞斯",
+      "meaning": "按照我花钱的数目。"
     },
     {
       "start": 95.19,
-      "sourceText": "2",
-      "ipa": "dø",
-      "ear": "德厄",
-      "meaning": "2"
+      "sourceText": "Bla bla bla de pince-fesses.",
+      "ipa": "bla bla bla də pɛ̃sfɛs",
+      "ear": "布拉 布拉 布拉 德 潘斯费斯",
+      "meaning": "尽是拘谨宴会上无聊的喋喋不休。"
     },
     {
       "start": 96.4,
-      "sourceText": "parce c'est cause toujours tu",
-      "ipa": "paʁs sɛ koz tuʒuʁ ty",
-      "ear": "帕赫斯 塞 科兹 图茹赫 蒂于",
-      "meaning": "因为总是因为你"
-    },
-    {
-      "start": 100.29,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "Cause toujours, tu m'intéresses.",
+      "ipa": "koz tuʒuʁ ty mɛ̃teʁɛs",
+      "ear": "科兹 图茹赫 蒂于 曼特赫斯",
+      "meaning": "你接着说吧，“我可感兴趣了”。"
     },
     {
       "start": 101.67,
-      "sourceText": "je vois bien ce qu'il sait faire",
-      "ipa": "ʒə vwa bjɛ̃ sə kil sɛ fɛʁ",
-      "ear": "热 弗乌阿 布耶安 瑟 基勒 塞 费赫",
-      "meaning": "我知道他能做什么"
+      "sourceText": "Je vois bien ce qu'ils espèrent.",
+      "ipa": "ʒə vwa bjɛ̃ sə kilz‿ɛspɛʁ",
+      "ear": "热 弗乌阿 布耶安 瑟 基勒兹 艾斯佩赫",
+      "meaning": "我看得出，他们在期待什么。"
     },
     {
       "start": 105.659,
-      "sourceText": "on",
-      "ipa": "ɔ̃",
-      "ear": "翁",
-      "meaning": "我们"
-    },
-    {
-      "start": 107.08,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "Derrière tant de manières.",
+      "ipa": "dɛʁjɛʁ tɑ̃ də manjɛʁ",
+      "ear": "戴赫耶艾赫 唐 德 玛恩耶艾赫",
+      "meaning": "藏在这么多礼节之后。"
     },
     {
       "start": 108.88,
-      "sourceText": "ballon mathilde il y as parmi ces jeunes",
-      "ipa": "balɔ̃ (en)maθɪldə(fr) il‿i a paʁmi se ʒøn",
-      "ear": "巴隆 (en)玛θɪ勒德(fr) 伊勒 伊 阿 帕赫米 塞 热厄恩",
-      "meaning": "玛蒂尔德气球里还有这些年轻人"
-    },
-    {
-      "start": 111.26,
-      "sourceText": "gens des hommes de grande valeur qui",
-      "ipa": "ʒɑ̃ dez‿ɔm də ɡʁɑ̃d valœʁ ki",
-      "ear": "让 德兹 哦姆 德 格杭德 瓦勒厄赫 基",
-      "meaning": "人，有伟大价值的人"
+      "sourceText": "Allons, Mathilde, il y a parmi ces jeunes gens des hommes de grande valeur.",
+      "ipa": "alɔ̃ matild | il j‿a paʁmi se ʒœn ʒɑ̃ de.z‿ɔm də ɡʁɑ̃d valœʁ",
+      "ear": "阿隆 玛蒂勒德｜伊勒 耶‿阿 帕赫米 塞 热恩 让 德兹‿哦姆 德 格杭德 瓦勒厄赫",
+      "meaning": "好了，玛蒂尔德，这些年轻人中也有很优秀的人。",
+      "kind": "dialogue"
     },
     {
       "start": 112.91,
-      "sourceText": "sont parfaitement dignes de votre",
-      "ipa": "sɔ̃ paʁfɛtmɑ̃ dinj də votʁ",
-      "ear": "松 帕赫费特芒 迪恩耶 德 沃特赫",
-      "meaning": "完全值得您"
+      "sourceText": "Qui sont parfaitement dignes de votre condition.",
+      "ipa": "ki sɔ̃ paʁfɛtmɑ̃ dinj də votʁ kɔ̃disjɔ̃",
+      "ear": "基 松 帕赫费特芒 迪恩耶 德 沃特赫 孔迪斯耶翁",
+      "meaning": "他们的身份完全配得上你。",
+      "kind": "dialogue"
     },
     {
       "start": 114.17,
-      "sourceText": "condition tonné ce jeune marquis de",
-      "ipa": "kɔ̃disjɔ̃ tɔne sə ʒøn maʁki də",
-      "ear": "孔迪斯耶翁 托内 瑟 热厄恩 玛赫基 德",
-      "meaning": "病情惊动了这位年轻的侯爵"
-    },
-    {
-      "start": 117.47,
-      "sourceText": "croiser noah n'est-il pas charmant en",
-      "ipa": "kʁwaze (en)nəʊʌ(fr) nɛtil pa ʃaʁmɑ̃ ɑ̃",
-      "ear": "克赫乌阿泽 (en)恩əʊʌ(fr) 奈蒂勒 帕 沙赫芒 昂",
-      "meaning": "不是遇见迷人的诺亚"
+      "sourceText": "Tenez, ce jeune marquis de Croisenois, n'est-il pas charmant ?",
+      "ipa": "təne sə ʒøn maʁki də kʁwaznwa nɛtil pa ʃaʁmɑ̃",
+      "ear": "特内 瑟 热厄恩 玛赫基 德 克赫乌阿兹恩乌阿 奈蒂勒 帕 沙赫芒",
+      "meaning": "看那位年轻的克鲁瓦泽努瓦侯爵，难道不迷人吗？",
+      "kind": "dialogue"
     },
     {
       "start": 118.82,
-      "sourceText": "charmant c'est le monde avec lui tout",
-      "ipa": "ʃaʁmɑ̃ sɛ lə mɔ̃d‿avɛk lyi tu",
-      "ear": "沙赫芒 塞 勒 蒙德 阿韦克 吕伊 图",
-      "meaning": "迷人这世界有他的一切"
-    },
-    {
-      "start": 120.8,
-      "sourceText": "est si charmant délicieux andorra bhl",
-      "ipa": "ɛ si ʃaʁmɑ̃ delisjøz‿ɑ̃doʁa beaʃɛl",
-      "ear": "艾 西 沙赫芒 德利斯耶厄兹 昂多哈 贝阿谢勒",
-      "meaning": "是如此迷人美味的安道尔bhl"
+      "sourceText": "Charmant, c'est le mot. Avec lui, tout est si charmant, délicieux, adorable…",
+      "ipa": "ʃaʁmɑ̃ sɛ lə mo avɛk lɥi tut‿ɛ si ʃaʁmɑ̃ delisjøz adoʁabl",
+      "ear": "沙赫芒 塞 勒 莫 阿韦克 勒于伊 图特 艾 西 沙赫芒 德利斯耶厄兹 阿多哈布勒",
+      "meaning": "迷人，正是这个词。和他在一起，一切都那么迷人、美妙、可爱……",
+      "kind": "dialogue"
     },
     {
       "start": 123.53,
-      "sourceText": "que j'en ai un bout de guimauve après",
-      "ipa": "kə ʒɑ̃n‿e œ̃ bu də ɡimov‿apʁɛ",
-      "ear": "克 让恩 诶 恩 布 德 吉莫弗 阿普赫",
-      "meaning": "事后我有一块棉花糖"
+      "sourceText": "Que j'en ai un goût de guimauve après quelques minutes.",
+      "ipa": "kə ʒɑ̃n‿e œ̃ ɡu də ɡimov‿apʁɛ kɛlkə minyt",
+      "ear": "克 让恩 诶 恩 古 德 吉莫弗 阿普赫 凯勒克 米尼于特",
+      "meaning": "几分钟后，我嘴里都像有了棉花糖的甜腻味。",
+      "kind": "dialogue"
     },
     {
       "start": 124.94,
-      "sourceText": "quelques minutes que c'en est écoeurant",
-      "ipa": "kɛlkə minyt kə sɑ̃n‿ɛt‿ekœʁɑ̃",
-      "ear": "凯勒克 米尼于特 克 桑恩 艾特 诶克厄杭",
-      "meaning": "几分钟就恶心了"
+      "sourceText": "Que c'en est écœurant.",
+      "ipa": "kə sɑ̃n‿ɛt‿ekœʁɑ̃",
+      "ear": "克 桑恩 艾特 诶克厄杭",
+      "meaning": "简直腻得让人恶心。",
+      "kind": "dialogue"
     },
     {
       "start": 126.7,
-      "sourceText": "et le baron de quelques irréductibles",
-      "ipa": "e lə baʁɔ̃ də kɛlkəz‿iʁedyktibl",
-      "ear": "诶 勒 巴洪 德 凯勒克兹 伊赫迪于克蒂布勒",
-      "meaning": "和几个顽固分子的男爵"
+      "sourceText": "Et le baron de… Quel irréductible…",
+      "ipa": "e lə baʁɔ̃ də kɛl‿iʁedyktibl",
+      "ear": "诶 勒 巴洪 德 凯勒 伊赫迪于克蒂布勒",
+      "meaning": "还有那位男爵……真是顽固不化……",
+      "kind": "dialogue",
+      "reviewNote": "此处歌词资料或听辨存在疑点，仍待听校"
     },
     {
       "start": 129.67,
-      "sourceText": "mais heureusement que le temps varie et",
-      "ipa": "mɛz‿øʁøzmɑ̃ kə lə tɑ̃ vaʁi e",
-      "ear": "梅兹 厄赫厄兹芒 克 勒 唐 瓦希 诶",
-      "meaning": "不过幸运的是天气变化无常"
+      "sourceText": "Heureusement que le temps varie…",
+      "ipa": "øʁøzmɑ̃ kə lə tɑ̃ vaʁi",
+      "ear": "厄赫厄兹芒 克 勒 唐 瓦希",
+      "meaning": "幸亏天气会变化——",
+      "kind": "dialogue"
     },
     {
       "start": 131.84,
-      "sourceText": "que parfois il fait soleil que parfois",
-      "ipa": "kə paʁfwaz‿il fɛ solɛj kə paʁfwa",
-      "ear": "克 帕赫弗乌阿兹 伊勒 费 索莱耶 克 帕赫弗乌阿",
-      "meaning": "有时晴有时"
-    },
-    {
-      "start": 133.37,
-      "sourceText": "il bruine et que parfois ils vendent car",
-      "ipa": "il bʁyin‿e kə paʁfwaz‿il vɑ̃d kaʁ",
-      "ear": "伊勒 布许伊恩 诶 克 帕赫弗乌阿兹 伊勒 旺德 卡赫",
-      "meaning": "下毛毛雨，有时他们会卖，因为"
+      "sourceText": "Et que parfois il fait soleil, que parfois il bruine, et que parfois il vente.",
+      "ipa": "e kə paʁfwaz‿il fɛ solɛj kə paʁfwaz‿il bʁyin e kə paʁfwaz‿il vɑ̃t",
+      "ear": "诶 克 帕赫弗乌阿兹 伊勒 费 索莱耶 克 帕赫弗乌阿兹 伊勒 布许伊恩 诶 克 帕赫弗乌阿兹 伊勒 旺特",
+      "meaning": "有时出太阳，有时飘细雨，有时刮风。",
+      "kind": "dialogue"
     },
     {
       "start": 134.93,
-      "sourceText": "sinon ces gens bien gentil qui m'émeut",
-      "ipa": "sinɔ̃ se ʒɑ̃ bjɛ̃ ʒɑ̃ti ki memø",
-      "ear": "西农 塞 让 布耶安 让蒂 基 梅默厄",
-      "meaning": "否则这些非常善良的人让我感动"
+      "sourceText": "Car sinon…",
+      "ipa": "kaʁ sinɔ̃",
+      "ear": "卡赫 西农",
+      "meaning": "否则的话……",
+      "kind": "dialogue"
     },
     {
-      "start": 141.12,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 136.0,
+      "sourceText": "Oh, quel ennui, quel ennui !",
+      "ipa": "o kɛ.l‿ɑ̃nɥi kɛ.l‿ɑ̃nɥi",
+      "ear": "奥 凯勒‿昂纽伊 凯勒‿昂纽伊",
+      "meaning": "啊，多么无聊，多么无聊！"
+    },
+    {
+      "start": 139.0,
+      "sourceText": "Ces gens bien gentils qui m'aiment et me lassent…",
+      "ipa": "se ʒɑ̃ bjɛ̃ ʒɑ̃ti ki mɛm‿e mə las",
+      "ear": "塞 让 布耶安 让蒂 基 梅姆 诶 默 拉斯",
+      "meaning": "这些爱慕我的好好先生，也让我厌烦——"
+    },
+    {
+      "start": 142.0,
+      "sourceText": "Sans rien qui dépasse.",
+      "ipa": "sɑ̃ ʁjɛ̃ ki depas",
+      "ear": "桑 赫耶安 基 德帕斯",
+      "meaning": "没有一点出格之处。"
+    },
+    {
+      "start": 144.0,
+      "sourceText": "Quel ennui, quel ennui !",
+      "ipa": "kɛ.l‿ɑ̃nɥi kɛ.l‿ɑ̃nɥi",
+      "ear": "凯勒‿昂纽伊 凯勒‿昂纽伊",
+      "meaning": "多么无聊，多么无聊！"
     },
     {
       "start": 145.37,
-      "sourceText": "tous ces partis",
-      "ipa": "tu se paʁti",
-      "ear": "图 塞 帕赫蒂",
-      "meaning": "所有这些各方"
+      "sourceText": "Tous ces bons partis…",
+      "ipa": "tu se bɔ̃ paʁti",
+      "ear": "图 塞 崩 帕赫蒂",
+      "meaning": "这些条件优越的婚配对象——"
     },
     {
-      "start": 152.83,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 150.0,
+      "sourceText": "Sous les politesses, si peu de noblesse.",
+      "ipa": "su le politɛs si pø də nɔblɛs",
+      "ear": "苏 莱 波利泰斯 西 珀厄 德 诺布莱斯",
+      "meaning": "礼貌的表象下，竟没多少真正的高贵。"
     },
     {
       "start": 164.59,
-      "sourceText": "ma fille ne soyez pas si dur vous avez",
-      "ipa": "ma fij nə swaje pa si dyʁ vuz‿ave",
-      "ear": "玛 菲耶 讷 斯乌阿耶诶 帕 西 迪于赫 乌兹 阿韦",
-      "meaning": "姑娘别那么严厉了"
+      "sourceText": "Ma fille, ne soyez pas si dure.",
+      "ipa": "ma fij nə swaje pa si dyʁ",
+      "ear": "玛 菲耶 讷 斯乌阿耶诶 帕 西 迪于赫",
+      "meaning": "我的女儿，别那么苛刻。",
+      "kind": "dialogue"
     },
     {
       "start": 168.28,
-      "sourceText": "suffisamment d'esprit pour en illuminé",
-      "ipa": "syfizamɑ̃ dɛspʁi puʁ‿ɑ̃n‿ilymine",
-      "ear": "西于菲扎芒 戴斯普希 普赫 昂恩 伊吕米内",
-      "meaning": "足够灵性开悟"
-    },
-    {
-      "start": 169.959,
-      "sourceText": "le mari que vous aurez choisi",
-      "ipa": "lə maʁi kə vuz‿oʁe ʃwazi",
-      "ear": "勒 玛希 克 乌兹 奥赫 什乌阿齐",
-      "meaning": "你选择的丈夫"
+      "sourceText": "Vous avez suffisamment d'esprit pour en illuminer le mari que vous aurez choisi.",
+      "ipa": "vuz‿ave syfizamɑ̃ dɛspʁi puʁ‿ɑ̃n‿ilymine lə maʁi kə vuz‿oʁe ʃwazi",
+      "ear": "乌兹 阿韦 西于菲扎芒 戴斯普希 普赫 昂恩 伊吕米内 勒 玛希 克 乌兹 奥赫 什乌阿齐",
+      "meaning": "你有足够的才智，让你未来选择的丈夫也焕发光彩。",
+      "kind": "dialogue"
     }
   ]
 }

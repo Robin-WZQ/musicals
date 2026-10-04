@@ -30,13 +30,14 @@ if (document.body.dataset.view === 'gallery' && old.searchParams.has('v')) {
       const tracks = tracksFor(musical, catalog);
       const ready = tracks.filter(t => t.captionStatus === 'ready').length;
       $('track-count').textContent = `${tracks.length} 首曲目 · ${ready} 首可逐句学习`;
-      $('caption-disclosure').textContent = `按你提供的 YouTube 播放列表顺序收录全部 ${tracks.length} 首。${tracks.length - ready} 首暂缺法语字幕，可先听原唱。新曲目的音标、近似空耳和中文释义自动生成，尚未逐句校对；字幕可能有识别错误或半句切分。`;
+      const corrected = tracks.filter(t => t.textReviewStatus === 'cross-checked').length;
+      $('caption-disclosure').textContent = `按原播放列表顺序收录 ${tracks.length} 个视频。${corrected ? `${corrected} 个已交叉校正法语文字并重写中文释义；新分句的播放位置仍为近似值。` : ''}${tracks.length - ready ? `${tracks.length - ready} 个暂缺法语字幕。` : ''}${musical.id === 'le-rouge-et-le-noir' ? '原列表末项曲名有误，现已更正为《爱情的诅咒 · 宣传 MV》，保留旧名“总有一天”供搜索。' : ''}`;
       let saved = []; try { saved = JSON.parse(localStorage.getItem('musicals-saved') || '[]'); } catch {}
       let last = ''; try { last = localStorage.getItem(`musicals-last-${musical.id}`) || ''; } catch {}
       if (tracks.some(t => t.id === last)) { $('continue-study').href = learningURL(last); $('continue-study').hidden = false; }
       function render() {
         const query = $('track-search').value.trim().toLocaleLowerCase(); const readyOnly = $('ready-only').checked;
-        const shown = tracks.filter(t => (!readyOnly || t.captionStatus === 'ready') && `${t.titleZh} ${t.titleOriginal} ${t.title}`.toLocaleLowerCase().includes(query));
+          const shown = tracks.filter(t => (!readyOnly || t.captionStatus === 'ready') && `${t.titleZh} ${t.titleOriginal} ${t.title} ${(t.aliases || []).join(' ')}`.toLocaleLowerCase().includes(query));
         $('track-list').replaceChildren(...shown.map(track => {
           const link = node('a', 'track-row'); link.href = learningURL(track.id);
           link.append(node('span', 'track-number', String(track.trackNumber).padStart(2, '0')));

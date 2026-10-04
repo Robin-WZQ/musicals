@@ -34,7 +34,7 @@ async function ensurePlayer() {
     const YT = await youtubeAPI();
     if (player) return;
     player = new YT.Player('youtube-player', {
-      width: '100%', height: '100%', videoId: song.id,
+      width: '100%', height: '100%', videoId: song.playbackVideoId || song.id,
       playerVars: { playsinline: 1, rel: 0, origin: location.origin, start: Math.floor(initialSeek), cc_load_policy: 0 },
       events: {
         onReady: () => { playerReady = true; $('player-placeholder').hidden = true; setSpeeds(); if (initialSeek > 0) { player.seekTo(initialSeek, true); initialSeek = 0; } },
@@ -128,10 +128,13 @@ function renderLyrics() {
   const fragment = document.createDocumentFragment();
   cues.forEach((cue, index) => {
     const line = document.createElement('button'); line.className = 'lyric-line'; line.dataset.index = index;
-    line.title = `${clock(cue.start)} — ${clock(cue.end)} · 点击听这一句`;
-    const stamp = document.createElement('span'); stamp.className = 'timestamp'; stamp.textContent = clock(cue.start); stamp.setAttribute('aria-hidden', 'true');
+      const approximate = song.timingReviewStatus === 'approximate';
+      line.title = `${approximate ? '近似位置 ' : ''}${clock(cue.start)} — ${clock(cue.end)} · 点击听这一句`;
+      const stamp = document.createElement('span'); stamp.className = 'timestamp'; stamp.textContent = `${approximate ? '≈ ' : ''}${clock(cue.start)}`; stamp.setAttribute('aria-hidden', 'true');
     const original = document.createElement('span'); original.className = 'original'; original.textContent = cue.displayText || cue.text;
     line.append(stamp, original);
+      if (cue.kind === 'dialogue') { const tag = document.createElement('span'); tag.className = 'cue-note'; tag.textContent = '舞台对白'; line.append(tag); }
+      if (cue.reviewNote) { const tag = document.createElement('span'); tag.className = 'cue-note'; tag.textContent = cue.reviewNote; line.append(tag); }
     if (cue.ipa && cue.ear) {
       line.classList.add('annotated');
       line.append(studyRow('音标', cue.ipa, 'study-ipa'), studyRow('空耳', cue.ear, 'study-ear'));
@@ -157,9 +160,9 @@ function renderInfo() {
   document.title = `${song.title} · Musicals`;
   $('song-title').textContent = displayTitle(song.title);
   $('channel').textContent = song.channel || 'YouTube';
-  $('channel').href = /^UC[\w-]+$/.test(song.channelId || '') ? `https://www.youtube.com/channel/${song.channelId}` : `https://www.youtube.com/watch?v=${song.id}`;
-  $('youtube-link').href = `https://www.youtube.com/watch?v=${song.id}`;
-  $('cover').src = `https://i.ytimg.com/vi/${song.id}/hqdefault.jpg`;
+  $('channel').href = /^UC[\w-]+$/.test(song.channelId || '') ? `https://www.youtube.com/channel/${song.channelId}` : `https://www.youtube.com/watch?v=${song.playbackVideoId || song.id}`;
+  $('youtube-link').href = `https://www.youtube.com/watch?v=${song.playbackVideoId || song.id}`;
+  $('cover').src = `https://i.ytimg.com/vi/${song.playbackVideoId || song.id}/hqdefault.jpg`;
   $('song-description').textContent = song.description || (song.metadataSource ? `YouTube 视频：${song.title}\n\n未读到视频介绍。` : '这首歌的原唱由 YouTube 播放。视频介绍在歌曲信息读取完成后显示。');
   $('song-description').classList.remove('expanded'); $('description-toggle').textContent = '展开介绍 ↓'; $('description-toggle').hidden = (song.description || '').length < 220;
   $('language-label').textContent = song.captionLanguage ? languageName(song.captionLanguage) : '字幕语言待确认';
@@ -167,10 +170,10 @@ function renderInfo() {
   const translated = cues.some(c => c.translation);
   $('source-note').textContent = song.captionSource === 'local' ? '你导入的字幕仅用于当前页面，不会上传。请使用对应视频的 YouTube 字幕。' : `字幕与时间戳来自 YouTube${song.isGenerated ? ' 自动字幕' : ''}。${translated ? `译文来自 YouTube（${languageName(song.translationLanguage || 'en')}）。` : '当前没有可用译文。'}${song.fetchedAt ? ` 更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
   if (song.studyNotes && cues.some(c => c.ipa)) {
-    const reviewed = song.studyNotes.textSource === 'youtube-video-description';
-    $('caption-badge').textContent = reviewed ? 'YouTube 时间轴 · 校正歌词' : 'YouTube 自动字幕 · 参考注释';
+    const reviewed = song.studyNotes.textSource === 'youtube-video-description' || song.studyNotes.textReviewStatus === 'cross-checked';
+    $('caption-badge').textContent = song.timingReviewStatus === 'approximate' ? '校正歌词 · 近似时间轴' : reviewed ? 'YouTube 时间轴 · 校正歌词' : 'YouTube 自动字幕 · 参考注释';
     $('source-note').textContent = song.studyNotes.note || '字幕和时间戳来自 YouTube。音标、空耳和中文释义为本站参考注释。';
-    $('study-note').textContent = reviewed ? '参考音标标出联诵与连读（‿）。空耳仅近似读音；演唱时的发音以原唱为准。中文释义和发音注释为本站学习辅助。' : '新曲目学习注释自动生成，尚未逐句校对。音标是字幕文本的参考读法，‿ 表示可能的联诵或连读；空耳与中文机译均为近似参考，无法纠正字幕识别错误。';
+    $('study-note').textContent = reviewed ? `${song.timingReviewStatus === 'approximate' ? '句子已重新整理，≈ 表示播放位置仍为近似值。' : ''}参考音标标出部分联诵与连读（‿）；并非原唱逐音转写。空耳仅辅助记忆，演唱发音以原唱为准。` : '新曲目学习注释自动生成，尚未逐句校对。音标是字幕文本的参考读法，‿ 表示可能的联诵或连读；空耳与中文机译均为近似参考，无法纠正字幕识别错误。';
   }
   renderNavigation();
   renderEditorialInfo(song.editorialInfo);
@@ -219,7 +222,7 @@ async function loadSong(id, updateURL = true) {
   if (generation !== loadGeneration) return;
   song = data; cues = attachStudyNotes(normalizeCues(data.cues || []), data.studyNotes);
   renderInfo();
-  if (playerReady) { player.cueVideoById({ videoId: id, startSeconds: initialSeek }); setSpeeds(); initialSeek = 0; }
+  if (playerReady) { player.cueVideoById({ videoId: song.playbackVideoId || id, startSeconds: initialSeek }); setSpeeds(); initialSeek = 0; }
   if (updateURL) { const url = new URL(location.href); url.searchParams.set('v', id); url.searchParams.delete('t'); history.replaceState(null, '', url); }
   $('song-dialog').open && $('song-dialog').close();
   await ensurePlayer();

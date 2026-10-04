@@ -1,285 +1,371 @@
 {
   "videoId": "6cP-1jM_61o",
-  "version": 1,
-  "textSource": "youtube-auto-captions",
-  "annotationSource": "automated-reference-notes",
-  "pronunciationEngine": "eSpeak NG via phonemizer-fork",
-  "meaningSource": "Google machine translation of YouTube caption text",
-  "reviewStatus": "unreviewed",
-  "note": "视频与分段时间轴来自 YouTube。新曲目保留自动字幕原文，可能存在识别错误；参考音标、近似空耳与中文机器释义自动生成，尚未逐句校对。‿ 表示参考读法中的可能联诵或连读，并非原唱逐音转写。",
+  "playbackVideoId": "6cP-1jM_61o",
+  "version": 2,
+  "textSource": "editorial-cross-check",
+  "textReviewStatus": "cross-checked",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-selected-overrides",
+  "reviewStatus": "text-reviewed-timing-approximate",
+  "meaningSource": "editorial-chinese-paraphrase",
+  "pronunciationEngine": "eSpeak NG with selected editorial corrections",
+  "sources": [
+    {
+      "label": "歌词校对参考",
+      "url": "https://www.paroles.net/le-rouge-et-le-noir/paroles-dans-le-noir-je-vois-rouge"
+    },
+    {
+      "label": "对应播放视频",
+      "url": "https://www.youtube.com/watch?v=6cP-1jM_61o"
+    },
+    {
+      "label": "剧方公开分场剧本",
+      "url": "https://fr.slideshare.net/slideshow/livret-le-rouge-et-le-noir-scne-9/65627406"
+    }
+  ],
+  "note": "法语文字已参考剧方剧本、歌词资料或视频画面交叉校正；中文释义按校正文字重写。句子重新划分，起止时间为近似定位，仍需逐句听校；音标为标准法语参考读法，空耳仅辅助记忆。",
   "entries": [
     {
       "start": 0.0,
-      "sourceText": "je suis peut-être petit",
-      "ipa": "ʒə syi pøtɛtʁ pəti",
-      "ear": "热 西于伊 珀厄泰特赫 珀蒂",
-      "meaning": "也许我还小"
+      "sourceText": "Je suis peut-être petit, mais je ne suis pas bas.",
+      "ipa": "ʒə sɥi pøtɛtʁ pəti mɛ ʒə nə sɥi pa ba",
+      "ear": "热 斯于伊 珀厄泰特赫 珀蒂 梅 热 讷 斯于伊 帕 巴",
+      "meaning": "我或许渺小，但我并不卑贱。",
+      "kind": "dialogue"
     },
     {
-      "start": 3.2,
-      "sourceText": "je me suis pas mal je ne serais rien",
-      "ipa": "ʒə mə syi pa mal ʒə nə səʁɛ ʁjɛ̃",
-      "ear": "热 默 西于伊 帕 玛勒 热 讷 瑟赫 赫耶安",
-      "meaning": "我不坏，我就什么都不是"
+      "start": 6.1,
+      "sourceText": "Je ne dirai rien ! Jamais.",
+      "ipa": "ʒə nə diʁe ʁjɛ̃ ʒamɛ",
+      "ear": "热 讷 迪赫 赫耶安 扎梅",
+      "meaning": "我什么也不会说！绝不会。",
+      "kind": "dialogue"
     },
     {
       "start": 9.41,
-      "sourceText": "jamais jamais plus je ne porterais même",
-      "ipa": "ʒamɛ ʒamɛ ply ʒə nə pɔʁtəʁɛ mɛm",
-      "ear": "扎梅 扎梅 普吕 热 讷 珀赫特赫 梅姆",
-      "meaning": "我再也不会穿了"
+      "sourceText": "Jamais plus je ne penserai même à elle.",
+      "ipa": "ʒamɛ ply ʒə nə pɑ̃sʁe mɛm‿a ɛl",
+      "ear": "扎梅 普吕 热 讷 庞斯赫 梅姆 阿 艾勒",
+      "meaning": "我甚至再也不会想起她。",
+      "kind": "dialogue"
     },
     {
       "start": 13.41,
-      "sourceText": "à l effacé oublié c'est fini les files",
-      "ipa": "a ɛl‿efase ublie sɛ fini le fil",
-      "ear": "阿 艾勒 诶法塞 乌布利诶 塞 菲尼 莱 菲勒",
-      "meaning": "删了忘记了，台词结束了"
+      "sourceText": "Effacée. Oubliée. Fini… Fini les femmes.",
+      "ipa": "efase ublie fini fini le fam",
+      "ear": "诶法塞 乌布利诶 菲尼 菲尼 莱 法姆",
+      "meaning": "抹掉，忘掉，结束了……不再有女人。",
+      "kind": "dialogue"
     },
     {
       "start": 19.8,
-      "sourceText": "unis les sentiments qui représente plus",
-      "ipa": "yni le sɑ̃timɑ̃ ki ʁəpʁezɑ̃t ply",
-      "ear": "于尼 莱 桑蒂芒 基 赫普赫赞特 普吕",
-      "meaning": "团结代表更多的感情"
+      "sourceText": "Fini les sentiments. Mon cœur est brisé.",
+      "ipa": "fini le sɑ̃timɑ̃ mɔ̃ kœʁ‿ɛ bʁize",
+      "ear": "菲尼 莱 桑蒂芒 蒙 克厄赫 艾 布希泽",
+      "meaning": "不再有感情。我的心已碎了。",
+      "kind": "dialogue"
     },
     {
-      "start": 24.82,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
-    },
-    {
-      "start": 28.23,
-      "sourceText": "[Applaudissements]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[鼓掌]"
+      "start": 22.1,
+      "sourceText": "Tant mieux. Il ne régnera plus sur moi.",
+      "ipa": "tɑ̃mjø il nə ʁeɲəʁa ply syʁ mwa",
+      "ear": "唐姆耶厄 伊勒 讷 赫涅呃哈 普吕 西于赫 姆乌阿",
+      "meaning": "这样正好，它再也不能统治我。",
+      "kind": "dialogue"
     },
     {
       "start": 30.22,
-      "sourceText": "vibrations tue pas lisse de la haine une",
-      "ipa": "vibʁasjɔ̃ ty pa lis də la ɛn‿yn",
-      "ear": "维布哈斯耶翁 蒂于 帕 利斯 德 拉 艾恩 于恩",
-      "meaning": "振杀不顺利的仇恨一"
+      "sourceText": "Les passions qui pâlissent…",
+      "ipa": "le pasjɔ̃ ki palis",
+      "ear": "莱 帕斯耶翁 基 帕利斯",
+      "meaning": "渐渐褪色的激情——"
     },
     {
       "start": 33.04,
-      "sourceText": "esquisse les promesses s'effacer au",
-      "ipa": "ɛskis le pʁomɛs sefase o",
-      "ear": "艾斯基斯 莱 普霍梅斯 塞法塞 奥",
-      "meaning": "概述了逐渐消失的承诺"
+      "sourceText": "De la haine, une esquisse.",
+      "ipa": "də la ɛn yn‿ɛskis",
+      "ear": "德 拉 艾恩 于恩 艾斯基斯",
+      "meaning": "勾勒出仇恨的轮廓。"
+    },
+    {
+      "start": 34.6,
+      "sourceText": "Les promesses effacées…",
+      "ipa": "le pʁomɛsz‿efase",
+      "ear": "莱 普霍梅斯兹 诶法塞",
+      "meaning": "被抹去的承诺——"
     },
     {
       "start": 36.129,
-      "sourceText": "serment délavé la douleur dans nos",
-      "ipa": "sɛʁmɑ̃ delave la dulœʁ dɑ̃ no",
-      "ear": "塞赫芒 德拉韦 拉 杜勒厄赫 当 诺",
-      "meaning": "誓言洗去了我们的伤痛"
+      "sourceText": "En serments délavés.",
+      "ipa": "ɑ̃ sɛʁmɑ̃ delave",
+      "ear": "昂 塞赫芒 德拉韦",
+      "meaning": "化作褪色的誓言。"
     },
     {
-      "start": 39.04,
-      "sourceText": "coeurs qui déteint les tielles sans lui",
-      "ipa": "kœʁ ki detɛ̃ le sjɛl sɑ̃ lyi",
-      "ear": "克厄赫 基 德坦 莱 斯耶艾勒 桑 吕伊",
-      "meaning": "没有他的心就会消失"
+      "start": 38.0,
+      "sourceText": "La douleur dans nos cœurs qui déteint.",
+      "ipa": "la dulœʁ dɑ̃ no kœʁ ki detɛ̃",
+      "ear": "拉 杜勒厄赫 当 诺 克厄赫 基 德坦",
+      "meaning": "心中的痛苦渗染开来。"
     },
     {
-      "start": 42.81,
-      "sourceText": "les cas qui s'éteint le verdict est",
-      "ipa": "le ka ki setɛ̃ lə vɛʁdikt‿ɛ",
-      "ear": "莱 卡 基 塞坦 勒 韦赫迪克特 艾",
-      "meaning": "被判决撤销的案件是"
+      "start": 40.7,
+      "sourceText": "Les ciels sans lueur et l'éclat qui s'éteint.",
+      "ipa": "le sjɛl sɑ̃ lyœʁ‿e lekla ki setɛ̃",
+      "ear": "莱 斯耶艾勒 桑 吕厄赫 诶 莱克拉 基 塞坦",
+      "meaning": "天空失去光亮，辉光逐渐熄灭。"
+    },
+    {
+      "start": 43.7,
+      "sourceText": "Le vernis qu'elle impose…",
+      "ipa": "lə vɛʁni kɛl‿ɛ̃pɔz",
+      "ear": "勒 韦赫尼 凯勒 安珀兹",
+      "meaning": "她涂上的那层粉饰——"
     },
     {
       "start": 46.35,
-      "sourceText": "l'info ce au désir qui s'expose et le",
-      "ipa": "lɛ̃fo sə o deziʁ ki sɛkspɔz‿e lə",
-      "ear": "兰佛 瑟 奥 德齐赫 基 塞克斯珀兹 诶 勒",
-      "meaning": "信息是暴露的欲望和"
+      "sourceText": "Au désir qui s'expose.",
+      "ipa": "o deziʁ ki sɛkspɔz",
+      "ear": "奥 德齐赫 基 塞克斯珀兹",
+      "meaning": "覆盖着暴露出来的欲望。"
     },
     {
-      "start": 49.56,
-      "sourceText": "temps qui s'attache aux faux semblants",
-      "ipa": "tɑ̃ ki sataʃ‿o fo sɑ̃blɑ̃",
-      "ear": "唐 基 萨塔什 奥 佛 桑布朗",
-      "meaning": "时间依附于虚假借口"
+      "start": 48.4,
+      "sourceText": "Et le temps qui s'attaque…",
+      "ipa": "e lə tɑ̃ ki satak",
+      "ear": "诶 勒 唐 基 萨塔克",
+      "meaning": "还有时间不断侵蚀——"
     },
     {
-      "start": 51.51,
-      "sourceText": "qui craquent la beauté qui s'estompe et",
-      "ipa": "ki kʁak la bote ki sɛstɔ̃p‿e",
-      "ear": "基 克哈克 拉 博特 基 塞斯通普 诶",
-      "meaning": "破解褪色的美丽"
+      "start": 50.4,
+      "sourceText": "Aux faux-semblants qui craquent.",
+      "ipa": "o fosɑ̃blɑ̃ ki kʁak",
+      "ear": "奥 佛桑布朗 基 克哈克",
+      "meaning": "那些开始破裂的假象。"
     },
     {
-      "start": 54.84,
-      "sourceText": "noblesse ce rêve inachevé",
-      "ipa": "nɔblɛs sə ʁɛv‿inaʃve",
-      "ear": "诺布莱斯 瑟 赫弗 伊纳什韦",
-      "meaning": "贵族这个未完成的梦想"
+      "start": 52.5,
+      "sourceText": "La beauté qui s'estompe et nous blesse.",
+      "ipa": "la bote ki sɛstɔ̃p‿e nu blɛs",
+      "ear": "拉 博特 基 塞斯通普 诶 努 布莱斯",
+      "meaning": "美丽渐渐消失，也让我们受伤。"
     },
     {
-      "start": 57.73,
-      "sourceText": "et qui me tromper mais dans le",
-      "ipa": "e ki mə tʁɔ̃pe mɛ dɑ̃ lə",
-      "ear": "诶 基 默 特洪佩 梅 当 勒",
-      "meaning": "谁欺骗我却在"
+      "start": 55.5,
+      "sourceText": "Ce rêve inachevé qui me trompe et me laisse…",
+      "ipa": "sə ʁɛv‿inaʃve ki mə tʁɔ̃p‿e mə lɛs",
+      "ear": "瑟 赫弗 伊纳什韦 基 默 特洪普 诶 默 莱斯",
+      "meaning": "这未完成的梦欺骗了我，将我留下——"
     },
     {
-      "start": 65.72,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 60.0,
+      "sourceText": "Dans le noir, je vois rouge.",
+      "ipa": "dɑ̃ lə nwaʁ ʒə vwa ʁuʒ",
+      "ear": "当 勒 恩乌阿赫 热 弗乌阿 胡日",
+      "meaning": "在黑暗中，我看见红色，也怒火中烧。"
     },
     {
-      "start": 67.97,
-      "sourceText": "temps",
-      "ipa": "tɑ̃",
-      "ear": "唐",
-      "meaning": "时间"
+      "start": 65.0,
+      "sourceText": "Tant la douleur est vive.",
+      "ipa": "tɑ̃ la dulœʁ‿ɛ viv",
+      "ear": "唐 拉 杜勒厄赫 艾 维弗",
+      "meaning": "因为这痛苦如此剧烈。"
     },
     {
-      "start": 69.62,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 68.0,
+      "sourceText": "Quand les ombres me suivent.",
+      "ipa": "kɑ̃ lez‿ɔ̃bʁ mə sɥiv",
+      "ear": "康 莱兹 翁布赫 默 斯于伊弗",
+      "meaning": "当阴影紧随我不放。"
     },
     {
-      "start": 71.7,
-      "sourceText": "je sais pas",
-      "ipa": "ʒə sɛ pa",
-      "ear": "热 塞 帕",
-      "meaning": "我不知道"
+      "start": 71.0,
+      "sourceText": "Dans le noir, je vois rouge.",
+      "ipa": "dɑ̃ lə nwaʁ ʒə vwa ʁuʒ",
+      "ear": "当 勒 恩乌阿赫 热 弗乌阿 胡日",
+      "meaning": "在黑暗中，我看见红色，也怒火中烧。"
+    },
+    {
+      "start": 76.0,
+      "sourceText": "J'effacerai l'outrage.",
+      "ipa": "ʒefasʁe lutʁaʒ",
+      "ear": "热法斯赫 卢特哈日",
+      "meaning": "我要抹去这份屈辱。"
+    },
+    {
+      "start": 79.0,
+      "sourceText": "Aux couleurs de ma rage.",
+      "ipa": "o kulœʁ də ma ʁaʒ",
+      "ear": "奥 库勒厄赫 德 玛 哈日",
+      "meaning": "以我愤怒的色彩。"
     },
     {
       "start": 89.88,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "Ton portrait clair-obscur…",
+      "ipa": "tɔ̃ pɔʁtʁɛ klɛʁɔbskyʁ",
+      "ear": "通 珀赫特赫 克莱霍布斯基于赫",
+      "meaning": "你那明暗交错的画像——"
     },
     {
-      "start": 91.86,
-      "sourceText": "leurs obscurs il dessine une injure du",
-      "ipa": "lœʁz‿ɔbskyʁz‿il dɛsin‿yn‿ɛ̃ʒyʁ dy",
-      "ear": "勒厄赫兹 哦布斯基于赫兹 伊勒 戴西恩 于恩 安日于赫 迪于",
-      "meaning": "他们的默默无闻让他受到侮辱"
+      "start": 92.8,
+      "sourceText": "Qui dessine une injure.",
+      "ipa": "ki dɛsin‿yn‿ɛ̃ʒyʁ",
+      "ear": "基 戴西恩 于恩 安日于赫",
+      "meaning": "描绘着一种侮辱。"
     },
     {
       "start": 94.92,
-      "sourceText": "matin qui les rives bonus en perspective",
-      "ipa": "matɛ̃ ki le ʁiv bonys‿ɑ̃ pɛʁspɛktiv",
-      "ear": "玛坦 基 莱 希弗 博尼于斯 昂 佩赫斯佩克蒂弗",
-      "meaning": "早上哪些奖金银行在看"
+      "sourceText": "Nos matins qui dérivent…",
+      "ipa": "no matɛ̃ ki deʁiv",
+      "ear": "诺 玛坦 基 德希弗",
+      "meaning": "我们的清晨漂流而去——"
+    },
+    {
+      "start": 96.8,
+      "sourceText": "Aux nuits sans perspectives.",
+      "ipa": "o nɥi sɑ̃ pɛʁspɛktiv",
+      "ear": "奥 恩于伊 桑 佩赫斯佩克蒂弗",
+      "meaning": "流向毫无前景的黑夜。"
     },
     {
       "start": 98.43,
-      "sourceText": "le tableau du passé qui me",
-      "ipa": "lə tablo dy pase ki mə",
-      "ear": "勒 塔布洛 迪于 帕塞 基 默",
-      "meaning": "过去的照片哪"
+      "sourceText": "Le tableau du passé qui me ronge.",
+      "ipa": "lə tablo dy pase ki mə ʁɔ̃ʒ",
+      "ear": "勒 塔布洛 迪于 帕塞 基 默 洪日",
+      "meaning": "过去的画面不断啃噬我。"
     },
     {
       "start": 101.57,
-      "sourceText": "au musée des regrets tu me",
-      "ipa": "o myze de ʁəɡʁɛ ty mə",
-      "ear": "奥 米于泽 德 赫格赫 蒂于 默",
-      "meaning": "在博物馆后悔你我"
+      "sourceText": "Au musée des regrets qui me hantent et me plongent…",
+      "ipa": "o myze de ʁəɡʁɛ ki mə ɑ̃t‿e mə plɔ̃ʒ",
+      "ear": "奥 米于泽 德 赫格赫 基 默 昂特 诶 默 普隆日",
+      "meaning": "在悔恨的博物馆里，它们纠缠着我，使我陷入——"
     },
     {
-      "start": 105.6,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 106.0,
+      "sourceText": "Dans le noir, je vois rouge.",
+      "ipa": "dɑ̃ lə nwaʁ ʒə vwa ʁuʒ",
+      "ear": "当 勒 恩乌阿赫 热 弗乌阿 胡日",
+      "meaning": "在黑暗中，我看见红色，也怒火中烧。"
     },
     {
-      "start": 109.95,
-      "sourceText": "dans la",
-      "ipa": "dɑ̃ la",
-      "ear": "当 拉",
-      "meaning": "在"
+      "start": 111.0,
+      "sourceText": "Tant la douleur est vive.",
+      "ipa": "tɑ̃ la dulœʁ‿ɛ viv",
+      "ear": "唐 拉 杜勒厄赫 艾 维弗",
+      "meaning": "因为这痛苦如此剧烈。"
     },
     {
-      "start": 111.32,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 114.0,
+      "sourceText": "Quand les ombres me suivent.",
+      "ipa": "kɑ̃ lez‿ɔ̃bʁ mə sɥiv",
+      "ear": "康 莱兹 翁布赫 默 斯于伊弗",
+      "meaning": "当阴影紧随我不放。"
     },
     {
-      "start": 127.1,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 117.0,
+      "sourceText": "Dans le noir, je vois rouge.",
+      "ipa": "dɑ̃ lə nwaʁ ʒə vwa ʁuʒ",
+      "ear": "当 勒 恩乌阿赫 热 弗乌阿 胡日",
+      "meaning": "在黑暗中，我看见红色，也怒火中烧。"
     },
     {
-      "start": 159.76,
-      "sourceText": "1",
-      "ipa": "œ̃",
-      "ear": "恩",
-      "meaning": "1个"
+      "start": 122.0,
+      "sourceText": "J'effacerai l'outrage.",
+      "ipa": "ʒefasʁe lutʁaʒ",
+      "ear": "热法斯赫 卢特哈日",
+      "meaning": "我要抹去这份屈辱。"
+    },
+    {
+      "start": 125.0,
+      "sourceText": "Aux couleurs de ma rage.",
+      "ipa": "o kulœʁ də ma ʁaʒ",
+      "ear": "奥 库勒厄赫 德 玛 哈日",
+      "meaning": "以我愤怒的色彩。"
+    },
+    {
+      "start": 132.0,
+      "sourceText": "Les passions qui pâlissent, de la haine une esquisse.",
+      "ipa": "le pasjɔ̃ ki palis də la ɛn‿yn‿ɛskis",
+      "ear": "莱 帕斯耶翁 基 帕利斯 德 拉 艾恩 于恩 艾斯基斯",
+      "meaning": "渐渐褪色的激情，勾勒出仇恨的轮廓。"
+    },
+    {
+      "start": 138.0,
+      "sourceText": "Le vernis qu'elle impose au désir qui s'expose.",
+      "ipa": "lə vɛʁni kɛl‿ɛ̃pɔz‿o deziʁ ki sɛkspɔz",
+      "ear": "勒 韦赫尼 凯勒 安珀兹 奥 德齐赫 基 塞克斯珀兹",
+      "meaning": "她涂上的粉饰，覆盖着暴露出来的欲望。"
+    },
+    {
+      "start": 144.0,
+      "sourceText": "Et le temps qui s'attaque aux faux-semblants qui craquent.",
+      "ipa": "e lə tɑ̃ ki satak‿o fosɑ̃blɑ̃ ki kʁak",
+      "ear": "诶 勒 唐 基 萨塔克 奥 佛桑布朗 基 克哈克",
+      "meaning": "时间侵蚀着那些开始破裂的假象。"
+    },
+    {
+      "start": 150.0,
+      "sourceText": "Les passions qui pâlissent, les promesses effacées.",
+      "ipa": "le pasjɔ̃ ki palis le pʁomɛsz‿efase",
+      "ear": "莱 帕斯耶翁 基 帕利斯 莱 普霍梅斯兹 诶法塞",
+      "meaning": "渐渐褪色的激情，被抹去的承诺。"
+    },
+    {
+      "start": 156.0,
+      "sourceText": "En serments délavés.",
+      "ipa": "ɑ̃ sɛʁmɑ̃ delave",
+      "ear": "昂 塞赫芒 德拉韦",
+      "meaning": "化作褪色的誓言。"
     },
     {
       "start": 160.84,
-      "sourceText": "dans le noir",
-      "ipa": "dɑ̃ lə nwaʁ",
-      "ear": "当 勒 恩乌阿赫",
-      "meaning": "黑暗中"
-    },
-    {
-      "start": 162.34,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "Dans le noir, je vois rouge.",
+      "ipa": "dɑ̃ lə nwaʁ ʒə vwa ʁuʒ",
+      "ear": "当 勒 恩乌阿赫 热 弗乌阿 胡日",
+      "meaning": "在黑暗中，我看见红色，也怒火中烧。"
     },
     {
       "start": 164.28,
-      "sourceText": "dans la douleur est vive dans les autres",
-      "ipa": "dɑ̃ la dulœʁ‿ɛ viv dɑ̃ lez‿otʁ",
-      "ear": "当 拉 杜勒厄赫 艾 维弗 当 莱兹 奥特赫",
-      "meaning": "在别人身上的痛苦是尖锐的"
+      "sourceText": "Tant la douleur est vive.",
+      "ipa": "tɑ̃ la dulœʁ‿ɛ viv",
+      "ear": "唐 拉 杜勒厄赫 艾 维弗",
+      "meaning": "因为这痛苦如此剧烈。"
     },
     {
       "start": 167.67,
-      "sourceText": "me suit",
-      "ipa": "mə syi",
-      "ear": "默 西于伊",
-      "meaning": "跟着我"
+      "sourceText": "Quand les ombres me suivent.",
+      "ipa": "kɑ̃ lez‿ɔ̃bʁ mə sɥiv",
+      "ear": "康 莱兹 翁布赫 默 斯于伊弗",
+      "meaning": "当阴影紧随我不放。"
     },
     {
       "start": 169.14,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "sourceText": "Dans le noir, je vois rouge.",
+      "ipa": "dɑ̃ lə nwaʁ ʒə vwa ʁuʒ",
+      "ear": "当 勒 恩乌阿赫 热 弗乌阿 胡日",
+      "meaning": "在黑暗中，我看见红色，也怒火中烧。"
     },
     {
-      "start": 171.89,
-      "sourceText": "rouge j'ai passé les crash",
-      "ipa": "ʁuʒ ʒe pase le (en)kɹaʃ(fr)",
-      "ear": "胡日 热 帕塞 莱 (en)克ɹ阿什(fr)",
-      "meaning": "红色我通过了崩溃"
+      "start": 172.8,
+      "sourceText": "J'effacerai l'outrage.",
+      "ipa": "ʒefasʁe lutʁaʒ",
+      "ear": "热法斯赫 卢特哈日",
+      "meaning": "我要抹去这份屈辱。"
     },
     {
-      "start": 182.72,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 176.0,
+      "sourceText": "Aux couleurs de ma rage.",
+      "ipa": "o kulœʁ də ma ʁaʒ",
+      "ear": "奥 库勒厄赫 德 玛 哈日",
+      "meaning": "以我愤怒的色彩。"
     },
     {
-      "start": 188.54,
-      "sourceText": "[Musique]",
-      "ipa": "♪",
-      "ear": "（声音提示）",
-      "meaning": "[音乐]"
+      "start": 180.0,
+      "sourceText": "Dans le noir…",
+      "ipa": "dɑ̃ lə nwaʁ",
+      "ear": "当 勒 恩乌阿赫",
+      "meaning": "在黑暗中……"
     }
   ]
 }
