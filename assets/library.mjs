@@ -1,4 +1,4 @@
-import { dataRevision } from './data.mjs?v=20261004-6';
+import { dataRevision } from './data.mjs?v=20261004-7';
 
 export function musicalURL(id) { return `./musical.html?id=${encodeURIComponent(id)}&rev=${dataRevision}`; }
 export function learningURL(id) { return `./learn.html?v=${encodeURIComponent(id)}&rev=${dataRevision}`; }
