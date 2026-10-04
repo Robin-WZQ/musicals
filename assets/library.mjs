@@ -1,5 +1,5 @@
-import { dataRevision } from './data.mjs?v=20261004-13';
-import { videoId } from './captions.mjs?v=20261004-13';
+import { dataRevision } from './data.mjs?v=20261004-14';
+import { videoId } from './captions.mjs?v=20261004-14';
 
 // Chapter pages have their own stable IDs; the player still receives a real
 // YouTube ID from playbackVideoId. Unknown input remains subject to URL checks.
@@ -17,7 +17,7 @@ export function tracksFor(musical, catalog) {
 }
 export function statusLabel(song) {
   if (song.captionStatus === 'instrumental') return '器乐 · 舞台舞蹈';
-  if (song.captionStatus === 'native') return '法语字幕 · 分段重听';
+  if (song.captionStatus === 'native') return song.isGenerated ? '法语字幕（自动） · 分段重听' : '法语字幕 · 分段重听';
   if (song.captionStatus === 'external') return '原唱 · 可导入字幕';
   return song.captionStatus === 'ready' ? '逐句学习' : '原唱试听 · 法语字幕待补';
 }

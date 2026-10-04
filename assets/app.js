@@ -1,8 +1,8 @@
-import { videoId, clock, normalizeCues, cueAt } from './captions.mjs?v=20261004-13';
-import { attachStudyNotes } from './study.mjs?v=20261004-13';
-import { musicalURL, learningURL, tracksFor, resolveTrackId } from './library.mjs?v=20261004-13';
-import { fetchData } from './data.mjs?v=20261004-13';
-import { playbackStart, nativeCues, importStudyCaptions } from './native.mjs?v=20261004-13';
+import { videoId, clock, normalizeCues, cueAt } from './captions.mjs?v=20261004-14';
+import { attachStudyNotes } from './study.mjs?v=20261004-14';
+import { musicalURL, learningURL, tracksFor, resolveTrackId } from './library.mjs?v=20261004-14';
+import { fetchData } from './data.mjs?v=20261004-14';
+import { playbackStart, nativeCues, importStudyCaptions } from './native.mjs?v=20261004-14';
 
 const $ = id => document.getElementById(id);
 let catalog = [], musicals = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
@@ -235,7 +235,7 @@ function renderLyrics() {
 function renderNativeCaptions() {
   const session = document.createElement('div'); session.className = 'native-session';
   const actions = document.createElement('div'); actions.className = 'native-actions';
-  const label = document.createElement('span'); label.textContent = '原生法语字幕 · 分段重听';
+  const label = document.createElement('span'); label.textContent = song.isGenerated ? '法语字幕（自动） · 分段重听' : '原生法语字幕 · 分段重听';
   const full = document.createElement('button'); full.className = 'pill'; full.textContent = '重听整曲';
   full.onclick = async () => {
     if (!playerReady) { await ensurePlayer(); return; }
@@ -246,8 +246,13 @@ function renderNativeCaptions() {
   const expand = document.createElement('button'); expand.className = 'pill'; expand.textContent = '放大字幕';
   expand.onclick = () => { nativeExpanded = !document.body.classList.contains('native-stage-open'); resizeNativePlayer(); };
   actions.append(label,full,expand);
+  if (song.isGenerated) {
+    const watch = document.createElement('a'); watch.className = 'pill'; watch.textContent = '在 YouTube 看字幕 ↗';
+    watch.href = song.sourceURL || `https://www.youtube.com/watch?v=${song.playbackVideoId || song.id}`;
+    watch.target = '_blank'; watch.rel = 'noopener noreferrer'; actions.append(watch);
+  }
   const stage = document.createElement('div'); stage.id = 'native-video-stage'; stage.setAttribute('aria-hidden','true');
-  const hint = document.createElement('p'); hint.className = 'native-hint'; hint.textContent = '法语字幕在左侧播放器内显示，可点击“放大字幕”。下方时间段用于重听。';
+  const hint = document.createElement('p'); hint.className = 'native-hint'; hint.textContent = song.isGenerated ? '法语自动字幕可在播放器的 CC 中开启，也可前往 YouTube 查看。下方按转录时间点重听。' : '法语字幕在左侧播放器内显示，可点击“放大字幕”。下方时间段用于重听。';
   const list = document.createElement('div'); list.id = 'native-caption-list'; list.className = 'native-caption-list'; list.setAttribute('aria-label','字幕片段');
   cues.forEach((cue,index) => {
     const line = document.createElement('button'); line.className = 'lyric-line native-cue'; line.dataset.index = index;
@@ -289,8 +294,8 @@ function renderInfo() {
   const translated = cues.some(c => c.translation);
   $('source-note').textContent = song.captionSource === 'local' ? '你导入的字幕仅用于当前页面，不会上传。请使用对应视频的 YouTube 字幕。' : `字幕与时间戳来自 YouTube${song.isGenerated ? ' 自动字幕' : ''}。${translated ? `译文来自 YouTube（${languageName(song.translationLanguage || 'en')}）。` : '当前没有可用译文。'}${song.fetchedAt ? ` 更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
   if (song.captionSource === 'youtube-player') {
-    $('language-label').textContent = '法语'; $('caption-badge').textContent = song.studyKind === 'instrumental' ? '器乐 · 舞台舞蹈' : nativeMode() ? '人工法语字幕' : `${song.performanceYear || 1998} 年舞台版`;
-    $('source-note').textContent = nativeMode() ? `字幕由 YouTube 播放器显示，默认选择法语。分段时间参考同一录像${song.nativeTimingLanguage === 'en' ? '的英文' : '的法语'}转录面板，精度为整秒，段尾按下一条时间点定位。` : song.mediaKind === 'audio' ? '本曲使用原版 DVD 的音轨视频。全剧录像另有人工法语字幕，可在 YouTube 中开启。' : '本曲使用法语原卡司舞台视频。全剧录像另有人工法语字幕，可在 YouTube 中开启。';
+    $('language-label').textContent = '法语'; $('caption-badge').textContent = song.studyKind === 'instrumental' ? '器乐 · 舞台舞蹈' : nativeMode() ? (song.isGenerated ? '法语自动字幕' : '人工法语字幕') : song.performanceYear ? `${song.performanceYear} 年舞台版` : '法语舞台原唱';
+    $('source-note').textContent = nativeMode() ? `法语${song.isGenerated ? '自动' : '人工'}字幕可在 YouTube 播放器中开启。分段时间参考同一录像${song.nativeTimingLanguage === 'en' ? '的英文' : '的法语'}转录面板，精度为整秒，段尾按下一条时间点定位。${song.isGenerated ? '识别文字尚未校对，分段用于重听原唱。' : ''}` : song.mediaKind === 'audio' ? '本曲使用原版 DVD 的音轨视频。全剧录像另有人工法语字幕，可在 YouTube 中开启。' : '本曲使用法语舞台视频，可在 YouTube 播放器中开启字幕。';
     if (song.studyKind === 'instrumental') $('source-note').textContent = '舞会器乐选自2010年舞台录像，播放范围按本场曲目时间表定位。';
   }
   if (song.studyNotes && cues.some(c => c.ipa)) {
@@ -320,7 +325,7 @@ function renderEditorialInfo(info) {
   document.title = `${info.titleZh || displayTitle(song.title)} · Musicals`;
   $('original-title').textContent = `${info.titleOriginal} · ${info.titleNote || '法语原名'}`;
   $('artist').textContent = `${info.artistZh}（${info.artistOriginal}）`;
-  const facts = [info.language, info.level ? `${info.level}（参考）` : '', info.genre, info.performanceYear ? `${info.performanceYear}年舞台版` : info.releaseYear ? `${info.releaseYear}年` : ''].filter(Boolean);
+  const facts = [info.language, info.level ? `${info.level}（参考）` : '', info.genre, info.performanceYear ? `${info.performanceYear}年舞台版` : info.productionYear ? `${info.productionYear}年首演` : info.releaseYear ? `${info.releaseYear}年` : ''].filter(Boolean);
   $('song-facts').append(...facts.map(text => { const span = document.createElement('span'); span.textContent = text; if (text.startsWith(info.level)) span.title = info.levelNote || ''; return span; }));
   $('album').textContent = `所属专辑：《${info.albumZh}》`; $('album').title = info.albumOriginal;
   $('role').textContent = info.roleZh ? `演唱角色：${info.roleZh}` : ''; $('role').hidden = !info.roleZh;
