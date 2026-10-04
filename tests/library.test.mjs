@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import { musicalURL, learningURL, tracksFor, statusLabel } from '../assets/library.mjs';
+import { musicalURL, learningURL, tracksFor, statusLabel, resolveTrackId } from '../assets/library.mjs';
 import { normalizeCues } from '../assets/captions.mjs';
 import { attachStudyNotes } from '../assets/study.mjs';
 const root = new URL('../', import.meta.url);
@@ -29,7 +29,7 @@ test('all musical entries preserve ordered independent tracks and playable stati
         assert.ok(cues.length > 0); assert.equal(notes.entries.length, cues.length);
         assert.ok(annotated.every(cue => cue.ipa && cue.ear && cue.studyMeaning));
         assert.deepEqual(annotated.map(c => [c.start, c.end, c.text]), cues.map(c => [c.start, c.end, c.text]));
-      } else { assert.equal(song.cues.length, 0); assert.match(statusLabel(track), /字幕待补|可导入字幕|法语字幕/); }
+      } else { assert.equal(song.cues.length, 0); assert.match(statusLabel(track), /字幕待补|可导入字幕|法语字幕|器乐/); }
     }
   }
 });
@@ -37,6 +37,14 @@ test('a second musical keeps its own order and does not inherit another musical 
   const future = {id:'another-musical',trackIds:['BBBBBBBBBBB','AAAAAAAAAAA']};
   const songs = [{id:'AAAAAAAAAAA'},{id:'CCCCCCCCCCC'},{id:'BBBBBBBBBBB'}];
   assert.deepEqual(tracksFor(future,songs).map(s=>s.id),future.trackIds);
+});
+test('chapter routes resolve through the catalog while unknown input uses strict YouTube validation', () => {
+  const chapters = [{id:'romeo-2010-02'}, {id:'../not-a-route'}];
+  assert.equal(resolveTrackId('romeo-2010-02', chapters), 'romeo-2010-02');
+  assert.equal(resolveTrackId('https://youtu.be/kgGN5675TAY', chapters), 'kgGN5675TAY');
+  assert.equal(resolveTrackId('romeo-2010-99', chapters), null);
+  assert.equal(resolveTrackId('../not-a-route', chapters), null);
+  assert.equal(resolveTrackId('https://youtube.com.attacker.test/watch?v=kgGN5675TAY', chapters), null);
 });
 test('the original reviewed song remains independently addressable', () => {
   const old = catalog.find(s => s.id === '7BZhhlQFcbg');

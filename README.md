@@ -6,6 +6,8 @@
 
 三层静态曲库：**音乐剧总页 → 音乐剧曲目页 → 单曲学习页**。总页使用原专辑封面；每首歌有独立可分享地址，曲目页按指定播放列表顺序排列，支持中法文搜索、字幕可用筛选和继续上次学习。
 
+新增 [《罗密欧与朱丽叶》2010版](https://robin-wzq.github.io/musicals/musical.html?id=romeo-et-juliette-2010)：按用户指定的完整录像收录40段，含舞会和返场；每段有中文资料与介绍。39个字幕段落提供原生法语字幕及799个时间范围的分段重听，四层注释尚未接入。来源、版本和路由说明见 [2010版数据说明](docs/romeo-et-juliette-2010.md)。
+
 新增 [《巴黎圣母院》](https://robin-wzq.github.io/musicals/musical.html?id=notre-dame-de-paris)：1998 年法语原卡司版，收录两幕的 50 首正曲及谢幕合唱。51 页都有中文基本资料和介绍，以及法语、音标、中文空耳、中文释义四层歌词，共 1677 行。原唱使用全剧录像中各曲的对应片段，原独立视频作为备用资料保留。
 
 本作品接入用户提供的 `songs.js`，使用 `captionStatus: ready`、`captionSource: editorial` 与 `lyricsStorage: user-provided`。音标修正了多余的词尾辅音和英语误读，并补联诵与中文空耳。原唱时间参考同一录像的 761 条英语字幕内容，合并字幕内部按法语分句估算；逐句切点仍标为近似值，谢幕按本曲范围估算。刷新保留学习内容和录像范围。来源与方法见 [巴黎圣母院数据说明](docs/notre-dame-de-paris.md)。
