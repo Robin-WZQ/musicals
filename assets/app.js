@@ -1,6 +1,7 @@
-import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.mjs';
-import { attachStudyNotes } from './study.mjs';
-import { musicalURL, learningURL, tracksFor } from './library.mjs';
+import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.mjs?v=20261004-2';
+import { attachStudyNotes } from './study.mjs?v=20261004-2';
+import { musicalURL, learningURL, tracksFor } from './library.mjs?v=20261004-2';
+import { fetchData } from './data.mjs?v=20261004-2';
 
 const $ = id => document.getElementById(id);
 let catalog = [], musicals = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
@@ -213,12 +214,12 @@ async function loadSong(id, updateURL = true) {
   boundary = null; playerReady && player.pauseVideo();
   const fallback = catalog.find(s => s.id === id) || { id, title: 'YouTube · 新歌曲', channel: 'YouTube' };
   let data;
-  try { const response = await fetch(`./data/songs/${id}.json`); if (!response.ok) throw new Error('未录入'); data = await response.json(); if (data.id !== id) throw new Error('歌曲 ID 不一致'); }
+  try { const response = await fetchData(`./data/songs/${id}.json`); if (!response.ok) throw new Error('未录入'); data = await response.json(); if (data.id !== id) throw new Error('歌曲 ID 不一致'); }
   catch { data = { ...fallback, captionStatus: 'pending', cues: [] }; }
   if (data.cues?.length) {
-    try { const response = await fetch(`./data/study/${id}.json`); if (response.ok) { const notes = await response.json(); if (notes.videoId === id) data.studyNotes = notes; } } catch { /* Optional notes never block video playback. */ }
+    try { const response = await fetchData(`./data/study/${id}.json`); if (response.ok) { const notes = await response.json(); if (notes.videoId === id) data.studyNotes = notes; } } catch { /* Optional notes never block video playback. */ }
   }
-  try { const response = await fetch(`./data/info/${id}.json`); if (response.ok) { const info = await response.json(); if (info.videoId === id) data.editorialInfo = info; } } catch { /* A missing introduction never blocks the player. */ }
+  try { const response = await fetchData(`./data/info/${id}.json`); if (response.ok) { const info = await response.json(); if (info.videoId === id) data.editorialInfo = info; } } catch { /* A missing introduction never blocks the player. */ }
   if (generation !== loadGeneration) return;
   song = data; cues = attachStudyNotes(normalizeCues(data.cues || []), data.studyNotes);
   renderInfo();
@@ -307,6 +308,6 @@ document.addEventListener('keydown', event => {
   else if (event.key.toLowerCase() === 'r' && cues.length) $('repeat').click();
 });
 for (const dialog of document.querySelectorAll('dialog')) dialog.addEventListener('click', event => { if (event.target === dialog) { const rect = dialog.getBoundingClientRect(); if (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom) dialog.close(); } });
-try { const response = await fetch('./data/catalog.json'); if (!response.ok) throw new Error('歌单加载失败'); catalog = await response.json(); } catch { catalog = [{ id: preferredId, title: 'La gloire à mes genoux', channel: 'YouTube' }]; }
-try { const response = await fetch('./data/musicals.json'); if (response.ok) musicals = await response.json(); } catch {}
+try { const response = await fetchData('./data/catalog.json'); if (!response.ok) throw new Error('歌单加载失败'); catalog = await response.json(); } catch { catalog = [{ id: preferredId, title: 'La gloire à mes genoux', channel: 'YouTube' }]; }
+try { const response = await fetchData('./data/musicals.json'); if (response.ok) musicals = await response.json(); } catch {}
 renderLibrary(); await loadSong(preferredId, false);
