@@ -9,13 +9,359 @@
   "trackNumber": 10,
   "act": 1,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr-FR",
-  "captionDelivery": "youtube-player",
-  "captionSource": "youtube-player",
+  "captionDelivery": "study-page",
+  "captionSource": "editorial",
   "nativeCaptionAvailable": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Vous mes amis mes frères de sang",
+      "start": 1741,
+      "duration": 3.913
+    },
+    {
+      "text": "Vous que j'aime depuis si longtemps",
+      "start": 1744.913,
+      "duration": 5.087
+    },
+    {
+      "text": "Est-ce que comme moi sur vos épaules",
+      "start": 1750,
+      "duration": 4.846
+    },
+    {
+      "text": "Vous sentez la mort qui vous frôle",
+      "start": 1754.846,
+      "duration": 4.154
+    },
+    {
+      "text": "Vous qui riez de tout de rien",
+      "start": 1759,
+      "duration": 3.84
+    },
+    {
+      "text": "Qui vous moquez bien de demain",
+      "start": 1762.84,
+      "duration": 4.16
+    },
+    {
+      "text": "Moi, Roméo, qui vis debout",
+      "start": 1767,
+      "duration": 4.304
+    },
+    {
+      "text": "Ce soir, amis, je vous l'avoue",
+      "start": 1771.304,
+      "duration": 4.696
+    },
+    {
+      "text": "J'ai peur, j'ai peur",
+      "start": 1776,
+      "duration": 3.294
+    },
+    {
+      "text": "Que nos ombres si légères",
+      "start": 1779.294,
+      "duration": 3.706
+    },
+    {
+      "text": "Demain se changent en pierre",
+      "start": 1783,
+      "duration": 1.944
+    },
+    {
+      "text": "Que les étoiles qui nous guident",
+      "start": 1784.944,
+      "duration": 2.723
+    },
+    {
+      "text": "Un jour nous poussent au vide",
+      "start": 1787.667,
+      "duration": 2.333
+    },
+    {
+      "text": "J'ai peur, ...",
+      "start": 1790,
+      "duration": 10.0
+    },
+    {
+      "text": "Que demain tout s'arrête",
+      "start": 1800,
+      "duration": 2.632
+    },
+    {
+      "text": "Que l'ennui s'installe dans nos têtes",
+      "start": 1802.632,
+      "duration": 3.157
+    },
+    {
+      "text": "Que le vent du hasard se prenne dans nos guitares",
+      "start": 1805.789,
+      "duration": 4.211
+    },
+    {
+      "text": "Vous mes amis mes frères de goût",
+      "start": 1810,
+      "duration": 3.667
+    },
+    {
+      "text": "Vous qui voulez goûter à tout",
+      "start": 1813.667,
+      "duration": 4.333
+    },
+    {
+      "text": "Les fruits du cœur sont les plus tendres",
+      "start": 1818,
+      "duration": 3.96
+    },
+    {
+      "text": "Mais ils se meurent quand vient décembre",
+      "start": 1821.96,
+      "duration": 5.04
+    },
+    {
+      "text": "Vous qui avez de la jeunesse",
+      "start": 1827,
+      "duration": 4.5
+    },
+    {
+      "text": "Tout le courage et la paresse",
+      "start": 1831.5,
+      "duration": 4.5
+    },
+    {
+      "text": "Alors écoutez un de votre âge",
+      "start": 1836,
+      "duration": 4.154
+    },
+    {
+      "text": "Qui ce soir voit venir le naufrage",
+      "start": 1840.154,
+      "duration": 4.846
+    },
+    {
+      "text": "J'ai peur, j'ai peur",
+      "start": 1845,
+      "duration": 3.556
+    },
+    {
+      "text": "De la vie qui nous attend",
+      "start": 1848.556,
+      "duration": 4.444
+    },
+    {
+      "text": "Des mensonges de nos parents",
+      "start": 1853,
+      "duration": 1.714
+    },
+    {
+      "text": "Pour nous tout est facile mais le bonheur est fragile",
+      "start": 1854.714,
+      "duration": 4.286
+    },
+    {
+      "text": "J'ai peur, j'ai peur, j'ai peur, si peur",
+      "start": 1859,
+      "duration": 10.0
+    },
+    {
+      "text": "Que les dieux en colère",
+      "start": 1869,
+      "duration": 3.514
+    },
+    {
+      "text": "Se vengent sur nous mes frères",
+      "start": 1872.514,
+      "duration": 3.162
+    },
+    {
+      "text": "D'aimer autant la vie mais sans leur dire merci...",
+      "start": 1875.676,
+      "duration": 6.324
+    },
+    {
+      "text": "Oh, si peur… j’ai peur",
+      "start": 1882,
+      "duration": 11.0
+    },
+    {
+      "text": "Que nos ombres si légères",
+      "start": 1893,
+      "duration": 2.02
+    },
+    {
+      "text": "Demain se changent en pierre",
+      "start": 1895.02,
+      "duration": 2.245
+    },
+    {
+      "text": "Que le vent du hasard se prenne dans nos guitares",
+      "start": 1897.265,
+      "duration": 3.592
+    },
+    {
+      "text": "Que les étoiles qui nous guident",
+      "start": 1900.857,
+      "duration": 3.143
+    },
+    {
+      "text": "Un jour nous poussent au vide",
+      "start": 1904,
+      "duration": 3.789
+    },
+    {
+      "text": "J'ai peur, si peur",
+      "start": 1907.789,
+      "duration": 2.211
+    },
+    {
+      "text": "D’être vieux avant l’âge",
+      "start": 1910,
+      "duration": 3.818
+    },
+    {
+      "text": "D’aimer un jour sa cage,",
+      "start": 1913.818,
+      "duration": 3.818
+    },
+    {
+      "text": "De vendre sa beauté,",
+      "start": 1917.636,
+      "duration": 3.394
+    },
+    {
+      "text": "De perdre sa dignité",
+      "start": 1921.03,
+      "duration": 2.97
+    },
+    {
+      "text": "J'ai peur",
+      "start": 1924,
+      "duration": 34.0
+    },
+    {
+      "text": "De vendre sa beauté » !",
+      "start": 1958,
+      "duration": 1.8
+    },
+    {
+      "text": "perdre sa dignité » !",
+      "start": 1959.8,
+      "duration": 1.35
+    },
+    {
+      "text": "Ecoute, Roméo, ce soir… il y a bal !",
+      "start": 1961.15,
+      "duration": 3.15
+    },
+    {
+      "text": "Mais j’ai pas envie d’aller danser !",
+      "start": 1964.3,
+      "duration": 2.7
+    },
+    {
+      "text": "Oui, mais c’est chez les Capulet !",
+      "start": 1967,
+      "duration": 2.245
+    },
+    {
+      "text": "Et alors ?",
+      "start": 1969.245,
+      "duration": 0.612
+    },
+    {
+      "text": "Et alors » ?",
+      "start": 1969.857,
+      "duration": 0.612
+    },
+    {
+      "text": "Fais-nous confiance !",
+      "start": 1970.469,
+      "duration": 1.633
+    },
+    {
+      "text": "Va t’habiller !",
+      "start": 1972.102,
+      "duration": 0.816
+    },
+    {
+      "text": "Je ne sais pas pourquoi je vous aime !",
+      "start": 1972.918,
+      "duration": 3.266
+    },
+    {
+      "text": "Cherche pas, va !",
+      "start": 1976.184,
+      "duration": 0.816
+    },
+    {
+      "text": "Qu’est-ce qu’il a en ce moment ?",
+      "start": 1977,
+      "duration": 1.667
+    },
+    {
+      "text": "Cet air si sombre…",
+      "start": 1978.667,
+      "duration": 1.0
+    },
+    {
+      "text": "Il est amoureux !",
+      "start": 1979.667,
+      "duration": 1.166
+    },
+    {
+      "text": "De cette…",
+      "start": 1980.833,
+      "duration": 0.5
+    },
+    {
+      "text": "Rosaline !",
+      "start": 1981.333,
+      "duration": 0.667
+    },
+    {
+      "text": "Rosaline.",
+      "start": 1982.0,
+      "duration": 0.667
+    },
+    {
+      "text": "Il change de",
+      "start": 1982.667,
+      "duration": 0.666
+    },
+    {
+      "text": "Rosaline toutes les semaines !",
+      "start": 1983.333,
+      "duration": 2.0
+    },
+    {
+      "text": "C’est l’amour !",
+      "start": 1985.333,
+      "duration": 0.667
+    },
+    {
+      "text": "Arrête, on dirait",
+      "start": 1986,
+      "duration": 2.667
+    },
+    {
+      "text": "Frère Laurent !",
+      "start": 1988.667,
+      "duration": 1.904
+    },
+    {
+      "text": "Aah, l’amour… !",
+      "start": 1990.571,
+      "duration": 1.905
+    },
+    {
+      "text": "Aller, vient !",
+      "start": 1992.476,
+      "duration": 1.524
+    }
+  ],
   "playbackVideoId": "kgGN5675TAY",
   "sourceDuration": 8831,
   "sourceURL": "https://www.youtube.com/watch?v=kgGN5675TAY&t=1719",
@@ -147,12 +493,15 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "approximate",
   "playableInEmbed": true,
   "performanceYear": 2010,
   "albumReleaseYear": 2009,
   "mediaKind": "stage-video",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "isGenerated": false,
+  "studyVersion": 4
 }

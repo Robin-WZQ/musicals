@@ -9,13 +9,194 @@
   "trackNumber": 13,
   "act": 1,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr-FR",
-  "captionDelivery": "youtube-player",
-  "captionSource": "youtube-player",
+  "captionDelivery": "study-page",
+  "captionSource": "editorial",
   "nativeCaptionAvailable": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Les souvenirs qu'on s'invente sont les plus beaux",
+      "start": 2430,
+      "duration": 7.0
+    },
+    {
+      "text": "L'enfance est plus troublante quand tout est faux",
+      "start": 2437.0,
+      "duration": 7.0
+    },
+    {
+      "text": "On m'a volé la mienne, on m'a trahi",
+      "start": 2444,
+      "duration": 6.0
+    },
+    {
+      "text": "Je suis le fils de la haine et du mépris",
+      "start": 2450.0,
+      "duration": 7.0
+    },
+    {
+      "text": "On m'a mis des œillères, et on m'a dit",
+      "start": 2457,
+      "duration": 5.625
+    },
+    {
+      "text": "Les autres, ils veulent la guerre, tu la voudras aussi",
+      "start": 2462.625,
+      "duration": 9.375
+    },
+    {
+      "text": "Et j'ai grandi à l'ombre de sentiments",
+      "start": 2472,
+      "duration": 5.778
+    },
+    {
+      "text": "Bien trop noirs, bien trop sombres, pour un enfant",
+      "start": 2477.778,
+      "duration": 7.222
+    },
+    {
+      "text": "Seul, je suis tout seul",
+      "start": 2485,
+      "duration": 7.0
+    },
+    {
+      "text": "Seul, toujours trop seul",
+      "start": 2492.0,
+      "duration": 7.0
+    },
+    {
+      "text": "C'est pas ma faute",
+      "start": 2499,
+      "duration": 3.214
+    },
+    {
+      "text": "Si mes parents ont fait de moi",
+      "start": 2502.214,
+      "duration": 5.357
+    },
+    {
+      "text": "Ce que je suis, ce que tu vois",
+      "start": 2507.571,
+      "duration": 6.429
+    },
+    {
+      "text": "C'est pas ma faute",
+      "start": 2514,
+      "duration": 2.69
+    },
+    {
+      "text": "Je suis le bras de leur vengeance",
+      "start": 2516.69,
+      "duration": 5.379
+    },
+    {
+      "text": "Et je leur dois obéissance",
+      "start": 2522.069,
+      "duration": 4.931
+    },
+    {
+      "text": "C'est pas ma faute",
+      "start": 2527,
+      "duration": 3.143
+    },
+    {
+      "text": "Ne me regardez pas comme ça",
+      "start": 2530.143,
+      "duration": 4.714
+    },
+    {
+      "text": "C'est pas ma faute",
+      "start": 2534.857,
+      "duration": 3.143
+    },
+    {
+      "text": "Je n'ai pas eu, non pas le choix",
+      "start": 2538,
+      "duration": 8.161
+    },
+    {
+      "text": "Je suis le fils de leur violence",
+      "start": 2546.161,
+      "duration": 8.904
+    },
+    {
+      "text": "Fier de sa naissance",
+      "start": 2555.065,
+      "duration": 5.935
+    },
+    {
+      "text": "C'est pas ma faute, oh",
+      "start": 2561,
+      "duration": 9.8
+    },
+    {
+      "text": "Non, non, non",
+      "start": 2570.8,
+      "duration": 4.2
+    },
+    {
+      "text": "C'est pas ma faute",
+      "start": 2575,
+      "duration": 2.8
+    },
+    {
+      "text": "Ne me regardez pas comme ça",
+      "start": 2577.8,
+      "duration": 4.2
+    },
+    {
+      "text": "C'est pas ma faute",
+      "start": 2582,
+      "duration": 2.471
+    },
+    {
+      "text": "Je n'ai pas eu, non pas le choix",
+      "start": 2584.471,
+      "duration": 4.529
+    },
+    {
+      "text": "Je suis le fils de leur violence",
+      "start": 2589,
+      "duration": 9.0
+    },
+    {
+      "text": "Fier de sa naissance",
+      "start": 2598.0,
+      "duration": 6.0
+    },
+    {
+      "text": "Les souvenirs qu'on s'invente",
+      "start": 2604,
+      "duration": 4.375
+    },
+    {
+      "text": "Sont les plus beaux",
+      "start": 2608.375,
+      "duration": 2.625
+    },
+    {
+      "text": "L'enfance est plus troublante",
+      "start": 2611,
+      "duration": 3.375
+    },
+    {
+      "text": "Quand tout est faux",
+      "start": 2614.375,
+      "duration": 2.625
+    },
+    {
+      "text": "On m'a volé la mienne, on m'a trahi",
+      "start": 2617,
+      "duration": 9.231
+    },
+    {
+      "text": "Je suis le fils de la haine et du mépris",
+      "start": 2626.231,
+      "duration": 10.769
+    }
+  ],
   "playbackVideoId": "kgGN5675TAY",
   "sourceDuration": 8831,
   "sourceURL": "https://www.youtube.com/watch?v=kgGN5675TAY&t=2418",
@@ -99,12 +280,15 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "approximate",
   "playableInEmbed": true,
   "performanceYear": 2010,
   "albumReleaseYear": 2009,
   "mediaKind": "stage-video",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "isGenerated": false,
+  "studyVersion": 4
 }

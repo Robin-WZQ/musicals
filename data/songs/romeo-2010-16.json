@@ -9,13 +9,209 @@
   "trackNumber": 16,
   "act": 1,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr-FR",
-  "captionDelivery": "youtube-player",
-  "captionSource": "youtube-player",
+  "captionDelivery": "study-page",
+  "captionSource": "editorial",
   "nativeCaptionAvailable": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Par amour on devient fou",
+      "start": 3204,
+      "duration": 4.545
+    },
+    {
+      "text": "Mais sans lui on n'est rien du tout",
+      "start": 3208.545,
+      "duration": 5.455
+    },
+    {
+      "text": "Moi le mien est pour Dieu",
+      "start": 3214,
+      "duration": 4.19
+    },
+    {
+      "text": "Je ne vis que dans ses yeux",
+      "start": 3218.19,
+      "duration": 3.81
+    },
+    {
+      "text": "Par amour on peut souffrir",
+      "start": 3222,
+      "duration": 4.5
+    },
+    {
+      "text": "Je suis prête à en mourir",
+      "start": 3226.5,
+      "duration": 4.5
+    },
+    {
+      "text": "On se perd on se noie",
+      "start": 3231,
+      "duration": 5.0
+    },
+    {
+      "text": "On espère et on croit",
+      "start": 3236,
+      "duration": 3.2
+    },
+    {
+      "text": "Par amour je ferais pour elle",
+      "start": 3239.2,
+      "duration": 4.8
+    },
+    {
+      "text": "De nos vies un arc-en-ciel",
+      "start": 3244,
+      "duration": 3.682
+    },
+    {
+      "text": "Aidez-nous",
+      "start": 3247.682,
+      "duration": 2.045
+    },
+    {
+      "text": "Loin du bruit des armes",
+      "start": 3249.727,
+      "duration": 3.273
+    },
+    {
+      "text": "Faites-nous mari et femme, par amour",
+      "start": 3253,
+      "duration": 5.727
+    },
+    {
+      "text": "Par amour, on a trop mal",
+      "start": 3258.727,
+      "duration": 3.273
+    },
+    {
+      "text": "Oui mais c'est la seule étoile",
+      "start": 3262,
+      "duration": 4.48
+    },
+    {
+      "text": "Dans la nuit qui nous guide",
+      "start": 3266.48,
+      "duration": 3.52
+    },
+    {
+      "text": "Sans amour, nos vies sont vides",
+      "start": 3270,
+      "duration": 5.0
+    },
+    {
+      "text": "Sans amour",
+      "start": 3275.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Mon père je vous supplie",
+      "start": 3277,
+      "duration": 2.368
+    },
+    {
+      "text": "Mon père je vous implore",
+      "start": 3279.368,
+      "duration": 2.369
+    },
+    {
+      "text": "Mariez-nous aujourd'hui",
+      "start": 3281.737,
+      "duration": 2.895
+    },
+    {
+      "text": "Que l'injustice ait tort",
+      "start": 3284.632,
+      "duration": 2.368
+    },
+    {
+      "text": "Vous nous verrez soumis à genoux devant vous",
+      "start": 3287,
+      "duration": 4.722
+    },
+    {
+      "text": "Vous nous verrez, brebis, seuls au milieu des loups",
+      "start": 3291.722,
+      "duration": 5.278
+    },
+    {
+      "text": "Tu voudrais tant ce soir dormir avec Juliette",
+      "start": 3297,
+      "duration": 5.0
+    },
+    {
+      "text": "Attendre dans le noir le doux chant de l'alouette",
+      "start": 3302.0,
+      "duration": 5.0
+    },
+    {
+      "text": "Aidez-nous",
+      "start": 3307,
+      "duration": 7.0
+    },
+    {
+      "text": "Vous marier… cela ramènerait peut-être la paix entre vos deux familles.",
+      "start": 3314,
+      "duration": 3.436
+    },
+    {
+      "text": "Ecoute, vient avec Juliette ce soir à la chapelle.",
+      "start": 3317.436,
+      "duration": 2.546
+    },
+    {
+      "text": "Je vous marierai !",
+      "start": 3319.982,
+      "duration": 1.018
+    },
+    {
+      "text": "Oh merci, merci, merci !",
+      "start": 3321,
+      "duration": 10.5
+    },
+    {
+      "text": "Ne me remercie pas, pas encore.",
+      "start": 3331.5,
+      "duration": 16.5
+    },
+    {
+      "text": "Aller, file !",
+      "start": 3348.0,
+      "duration": 6.0
+    },
+    {
+      "text": "A ce soir !",
+      "start": 3354.0,
+      "duration": 6.0
+    },
+    {
+      "text": "Bonjour.",
+      "start": 3360,
+      "duration": 1.5
+    },
+    {
+      "text": "Excusez-moi, je cherche Roméo.",
+      "start": 3361.5,
+      "duration": 5.5
+    },
+    {
+      "text": "Excusez-moi.",
+      "start": 3367.0,
+      "duration": 2.5
+    },
+    {
+      "text": "Oui ?",
+      "start": 3369.5,
+      "duration": 1.5
+    },
+    {
+      "text": "Excusez-moi, je cherche Roméo !",
+      "start": 3371,
+      "duration": 2.0
+    }
+  ],
   "playbackVideoId": "kgGN5675TAY",
   "sourceDuration": 8831,
   "sourceURL": "https://www.youtube.com/watch?v=kgGN5675TAY&t=3204",
@@ -91,12 +287,15 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "approximate",
   "playableInEmbed": true,
   "performanceYear": 2010,
   "albumReleaseYear": 2009,
   "mediaKind": "stage-video",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "isGenerated": false,
+  "studyVersion": 4
 }

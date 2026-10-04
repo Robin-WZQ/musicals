@@ -1,0 +1,997 @@
+{
+  "videoId": "romeo-2010-20",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=4058"
+    }
+  ],
+  "entries": [
+    {
+      "start": 4074,
+      "sourceText": "Etre Prince, être Roi",
+      "ipa": "[etʁ pʁɛ̃s ɛtʁ ʁwa]",
+      "ear": "诶特赫 普汉斯 艾特赫 赫乌阿",
+      "meaning": "做亲王，做国王。",
+      "suppliedText": "Etre Prince, être Roi",
+      "sourceLineId": "romeo-timed-374-1",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4074,
+        "sourceLineNumber": 374,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4077.0,
+      "sourceText": "Avoir tous les pouvoirs et tout les droits",
+      "ipa": "[avwaʁ tu le puvwaʁ e tu le dʁwa]",
+      "ear": "阿弗乌阿赫 图 莱 普弗乌阿赫 诶 图 莱 德赫乌阿",
+      "meaning": "拥有所有权力、所有特权。",
+      "suppliedText": "Avoir tous les pouvoirs et tout les droits",
+      "sourceLineId": "romeo-timed-374-2",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4074,
+        "sourceLineNumber": 374,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4083,
+      "sourceText": "Etre prince ici-bas",
+      "ipa": "[etʁ pʁɛ̃s‿isiba]",
+      "ear": "诶特赫 普汉斯 伊西巴",
+      "meaning": "做这世上的亲王。",
+      "suppliedText": "Etre prince ici-bas",
+      "sourceLineId": "romeo-timed-375-3",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4083,
+        "sourceLineNumber": 375,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4087.812,
+      "sourceText": "Vivre au-dessus des lois",
+      "ipa": "[vivʁ‿odəsy de lwa]",
+      "ear": "维弗赫 奥德西于 德 勒乌阿",
+      "meaning": "活在法律之上。",
+      "suppliedText": "Vivre au-dessus des lois",
+      "sourceLineId": "romeo-timed-375-4",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4083,
+        "sourceLineNumber": 375,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4094,
+      "sourceText": "On m'envie mais de quoi ?",
+      "ipa": "[ɔ̃ mɑ̃vi mɛ də kwa]",
+      "ear": "翁 芒维 梅 德 克乌阿",
+      "meaning": "人们羡慕我，可羡慕什么？",
+      "suppliedText": "On m'envie mais de quoi ?",
+      "sourceLineId": "romeo-timed-376-5",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4094,
+        "sourceLineNumber": 376,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4098.0,
+      "sourceText": "On dit \"lui\" en parlant de moi",
+      "ipa": "[ɔ̃ di lɥi ɑ̃ paʁlɑ̃ də mwa]",
+      "ear": "翁 迪 勒于伊 昂 帕赫朗 德 姆乌阿",
+      "meaning": "他们说起我，只称“他”。",
+      "suppliedText": "On dit \"lui\" en parlant de moi",
+      "sourceLineId": "romeo-timed-376-6",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4094,
+        "sourceLineNumber": 376,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4102,
+      "sourceText": "On me craint on me croit",
+      "ipa": "[ɔ̃ mə kʁɛ̃ ɔ̃ mə kʁwa]",
+      "ear": "翁 默 克汉 翁 默 克赫乌阿",
+      "meaning": "他们怕我，也信我。",
+      "suppliedText": "On me craint on me croit",
+      "sourceLineId": "romeo-timed-377-7",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4102,
+        "sourceLineNumber": 377,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4105.048,
+      "sourceText": "Pour qu'ils aient chaud j'ai froid",
+      "ipa": "[puʁ kil‿ɛ ʃo ʒe fʁwa]",
+      "ear": "普赫 基勒 艾 肖 热 弗赫乌阿",
+      "meaning": "为了让他们温暖，我却挨着冷。",
+      "suppliedText": "Pour qu'ils aient chaud j'ai froid",
+      "sourceLineId": "romeo-timed-377-8",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4102,
+        "sourceLineNumber": 377,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4110,
+      "sourceText": "Et pourtant je l'avoue",
+      "ipa": "[e puʁtɑ̃ ʒə lavu]",
+      "ear": "诶 普赫唐 热 拉乌",
+      "meaning": "可我承认。",
+      "suppliedText": "Et pourtant je l'avoue",
+      "sourceLineId": "romeo-timed-378-9",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4110,
+        "sourceLineNumber": 378,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4115.0,
+      "sourceText": "Je sacrifierais tout",
+      "ipa": "[ʒə sakʁifiʁɛ tu]",
+      "ear": "热 萨克希菲赫 图",
+      "meaning": "我愿牺牲一切。",
+      "suppliedText": "Je sacrifierais tout",
+      "sourceLineId": "romeo-timed-378-10",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4110,
+        "sourceLineNumber": 378,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4120,
+      "sourceText": "Pour garder sur vous",
+      "ipa": "[puʁ ɡaʁde syʁ vu]",
+      "ear": "普赫 嘎赫德 西于赫 乌",
+      "meaning": "只为继续掌握你们。",
+      "suppliedText": "Pour garder sur vous",
+      "sourceLineId": "romeo-timed-379-11",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 4120,
+        "sourceLineNumber": 379,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4125,
+      "sourceText": "Le pouvoir, le pouvoir, le pouvoir",
+      "ipa": "[lə puvwaʁ lə puvwaʁ lə puvwaʁ]",
+      "ear": "勒 普弗乌阿赫 勒 普弗乌阿赫 勒 普弗乌阿赫",
+      "meaning": "权力，权力，权力。",
+      "suppliedText": "Le pouvoir, le pouvoir, le pouvoir",
+      "sourceLineId": "romeo-timed-380-12",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4125,
+        "sourceLineNumber": 380,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4129.821,
+      "sourceText": "Qu'on soit riche, qu'on soit beau",
+      "ipa": "[kɔ̃ swa ʁiʃ kɔ̃ swa bo]",
+      "ear": "孔 斯乌阿 希什 孔 斯乌阿 博",
+      "meaning": "不管多富有，多好看。",
+      "suppliedText": "Qu'on soit riche, qu'on soit beau",
+      "sourceLineId": "romeo-timed-380-13",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4125,
+        "sourceLineNumber": 380,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4134,
+      "sourceText": "L'esprit jamais au repos",
+      "ipa": "[lɛspʁi ʒamɛ o ʁəpo]",
+      "ear": "莱斯普希 扎梅 奥 赫波",
+      "meaning": "头脑永远不能休息。",
+      "suppliedText": "L'esprit jamais au repos",
+      "sourceLineId": "romeo-timed-381-14",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4134,
+        "sourceLineNumber": 381,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4135.8,
+      "sourceText": "Qu'on ait tout reçu des dieux",
+      "ipa": "[kɔ̃ ɛ tu ʁəsy de djø]",
+      "ear": "孔 艾 图 赫西于 德 德耶厄",
+      "meaning": "哪怕众神给了你一切。",
+      "suppliedText": "Qu'on ait tout reçu des dieux",
+      "sourceLineId": "romeo-timed-381-15",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4134,
+        "sourceLineNumber": 381,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4138.2,
+      "sourceText": "Qu'on soit certain d'être heureux",
+      "ipa": "[kɔ̃ swa sɛʁtɛ̃ dɛtʁ‿øʁø]",
+      "ear": "孔 斯乌阿 塞赫坦 戴特赫 厄赫厄",
+      "meaning": "哪怕自认幸福无比。",
+      "suppliedText": "Qu'on soit certain d'être heureux",
+      "sourceLineId": "romeo-timed-381-16",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4134,
+        "sourceLineNumber": 381,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4140.8,
+      "sourceText": "Qu'on soit le diable en enfer",
+      "ipa": "[kɔ̃ swa lə djabl‿ɑ̃n‿ɑ̃fɛʁ]",
+      "ear": "孔 斯乌阿 勒 德耶阿布勒 昂恩 昂费赫",
+      "meaning": "哪怕是地狱中的魔鬼。",
+      "suppliedText": "Qu'on soit le diable en enfer",
+      "sourceLineId": "romeo-timed-381-17",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4134,
+        "sourceLineNumber": 381,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4143,
+      "sourceText": "Le vent qui souffle sur les mers",
+      "ipa": "[lə vɑ̃ ki sufl syʁ le mɛʁ]",
+      "ear": "勒 旺 基 苏弗勒 西于赫 莱 梅赫",
+      "meaning": "是吹过海面的风。",
+      "suppliedText": "Le vent qui souffle sur les mers",
+      "sourceLineId": "romeo-timed-382-18",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4143,
+        "sourceLineNumber": 382,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4145.308,
+      "sourceText": "Je ne connais pas sur terre",
+      "ipa": "[ʒə nə kɔnɛ pa syʁ tɛʁ]",
+      "ear": "热 讷 科奈 帕 西于赫 泰赫",
+      "meaning": "在这世上，我不知道。",
+      "suppliedText": "Je ne connais pas sur terre",
+      "sourceLineId": "romeo-timed-382-19",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4143,
+        "sourceLineNumber": 382,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4147.385,
+      "sourceText": "De douleur plus légère",
+      "ipa": "[də dulœʁ ply leʒɛʁ]",
+      "ear": "德 杜勒厄赫 普吕 莱热赫",
+      "meaning": "还有比这更轻的痛苦。",
+      "suppliedText": "De douleur plus légère",
+      "sourceLineId": "romeo-timed-382-20",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4143,
+        "sourceLineNumber": 382,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4149.462,
+      "sourceText": "Quel plus grand plaisir qu'avoir",
+      "ipa": "[kɛl ply ɡʁɑ̃ plɛziʁ kavwaʁ]",
+      "ear": "凯勒 普吕 格杭 普莱齐赫 卡弗乌阿赫",
+      "meaning": "有什么快乐，胜过。",
+      "suppliedText": "Quel plus grand plaisir qu'avoir",
+      "sourceLineId": "romeo-timed-382-21",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4143,
+        "sourceLineNumber": 382,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4152,
+      "sourceText": "Entre ses mains le pouvoir",
+      "ipa": "[ɑ̃tʁ se mɛ̃ lə puvwaʁ]",
+      "ear": "昂特赫 塞 曼 勒 普弗乌阿赫",
+      "meaning": "把权力握在手里？",
+      "suppliedText": "Entre ses mains le pouvoir",
+      "sourceLineId": "romeo-timed-383-22",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4152,
+        "sourceLineNumber": 383,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4154.174,
+      "sourceText": "C'est mieux que l'or que l'ivoire",
+      "ipa": "[sɛ mjø kə lɔʁ kə livwaʁ]",
+      "ear": "塞 姆耶厄 克 洛赫 克 利弗乌阿赫",
+      "meaning": "它胜过黄金，胜过象牙。",
+      "suppliedText": "C'est mieux que l'or que l'ivoire",
+      "sourceLineId": "romeo-timed-383-23",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4152,
+        "sourceLineNumber": 383,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4157,
+      "sourceText": "Quand le monde est son miroir",
+      "ipa": "[kɑ̃ lə mɔ̃d‿ɛ sɔ̃ miʁwaʁ]",
+      "ear": "康 勒 蒙德 艾 松 米赫乌阿赫",
+      "meaning": "当整个世界成为自己的镜子。",
+      "suppliedText": "Quand le monde est son miroir",
+      "sourceLineId": "romeo-timed-384-24",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4157,
+        "sourceLineNumber": 384,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4160.5,
+      "sourceText": "Le pouvoir, le pouvoir",
+      "ipa": "[lə puvwaʁ lə puvwaʁ]",
+      "ear": "勒 普弗乌阿赫 勒 普弗乌阿赫",
+      "meaning": "权力，权力。",
+      "suppliedText": "Le pouvoir, le pouvoir",
+      "sourceLineId": "romeo-timed-384-25",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4157,
+        "sourceLineNumber": 384,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4164,
+      "sourceText": "Le pouvoir on le savoure",
+      "ipa": "[lə puvwaʁ‿ɔ̃ lə savuʁ]",
+      "ear": "勒 普弗乌阿赫 翁 勒 萨乌赫",
+      "meaning": "权力，要细细品尝。",
+      "suppliedText": "Le pouvoir on le savoure",
+      "sourceLineId": "romeo-timed-385-26",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4164,
+        "sourceLineNumber": 385,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4166.619,
+      "sourceText": "C'est bien plus fort que l'amour",
+      "ipa": "[sɛ bjɛ̃ ply fɔʁ kə lamuʁ]",
+      "ear": "塞 布耶安 普吕 佛赫 克 拉穆赫",
+      "meaning": "它比爱情强烈得多。",
+      "suppliedText": "C'est bien plus fort que l'amour",
+      "sourceLineId": "romeo-timed-385-27",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4164,
+        "sourceLineNumber": 385,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4169.0,
+      "sourceText": "Bien plus doux que les velours",
+      "ipa": "[bjɛ̃ ply du kə le vəluʁ]",
+      "ear": "布耶安 普吕 杜 克 莱 弗卢赫",
+      "meaning": "比那些女人的肌肤更柔软。",
+      "suppliedText": "Bien plus doux que les velours",
+      "sourceLineId": "romeo-timed-385-28",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4164,
+        "sourceLineNumber": 385,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4171.619,
+      "sourceText": "Des femmes qui me font la cour",
+      "ipa": "[de fam ki mə fɔ̃ la kuʁ]",
+      "ear": "德 法姆 基 默 丰 拉 库赫",
+      "meaning": "那些向我献殷勤的女人。",
+      "suppliedText": "Des femmes qui me font la cour",
+      "sourceLineId": "romeo-timed-385-29",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4164,
+        "sourceLineNumber": 385,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4174,
+      "sourceText": "Le pouvoir, c'est la jouissance",
+      "ipa": "[lə puvwaʁ sɛ la ʒwisɑ̃s]",
+      "ear": "勒 普弗乌阿赫 塞 拉 日乌伊桑斯",
+      "meaning": "权力，就是享受。",
+      "suppliedText": "Le pouvoir, c'est la jouissance",
+      "sourceLineId": "romeo-timed-386-30",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4174,
+        "sourceLineNumber": 386,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4176.133,
+      "sourceText": "Et je jouis de leur confiance",
+      "ipa": "[e ʒə ʒwi də lœʁ kɔ̃fjɑ̃s]",
+      "ear": "诶 热 日乌伊 德 勒厄赫 孔弗耶昂斯",
+      "meaning": "我享受他们的信任。",
+      "suppliedText": "Et je jouis de leur confiance",
+      "sourceLineId": "romeo-timed-386-31",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4174,
+        "sourceLineNumber": 386,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4178.267,
+      "sourceText": "Et quand je donne ma semence",
+      "ipa": "[e kɑ̃ ʒə dɔn ma səmɑ̃s]",
+      "ear": "诶 康 热 多恩 玛 瑟芒斯",
+      "meaning": "当我播下自己的种子。",
+      "suppliedText": "Et quand je donne ma semence",
+      "sourceLineId": "romeo-timed-386-32",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4174,
+        "sourceLineNumber": 386,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4180.044,
+      "sourceText": "C'est à l'histoire que je pense",
+      "ipa": "[sɛt‿a listwaʁ kə ʒə pɑ̃s]",
+      "ear": "塞特 阿 利斯特乌阿赫 克 热 庞斯",
+      "meaning": "我想的是历史。",
+      "suppliedText": "C'est à l'histoire que je pense",
+      "sourceLineId": "romeo-timed-386-33",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4174,
+        "sourceLineNumber": 386,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4182,
+      "sourceText": "Le pouvoir, c'est fantastique",
+      "ipa": "[lə puvwaʁ sɛ fɑ̃tastik]",
+      "ear": "勒 普弗乌阿赫 塞 芳塔斯蒂克",
+      "meaning": "权力，实在奇妙。",
+      "suppliedText": "Le pouvoir, c'est fantastique",
+      "sourceLineId": "romeo-timed-387-34",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4182,
+        "sourceLineNumber": 387,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4184.5,
+      "sourceText": "Je suis un homme mais public",
+      "ipa": "[ʒə sɥi œ̃n‿ɔm mɛ pyblik]",
+      "ear": "热 斯于伊 恩恩 哦姆 梅 普于布利克",
+      "meaning": "我是个人，却属于公众。",
+      "suppliedText": "Je suis un homme mais public",
+      "sourceLineId": "romeo-timed-387-35",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4182,
+        "sourceLineNumber": 387,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4186.773,
+      "sourceText": "Dans ce monde où tout s'achète",
+      "ipa": "[dɑ̃ sə mɔ̃d‿u tu saʃɛt]",
+      "ear": "当 瑟 蒙德 乌 图 萨谢特",
+      "meaning": "在这个一切都能买到的世界。",
+      "suppliedText": "Dans ce monde où tout s'achète",
+      "sourceLineId": "romeo-timed-387-36",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4182,
+        "sourceLineNumber": 387,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4189.273,
+      "sourceText": "Je suis le seul à qui on prête",
+      "ipa": "[ʒə sɥi lə sœl‿a ki ɔ̃ pʁɛt]",
+      "ear": "热 斯于伊 勒 瑟厄勒 阿 基 翁 普赫特",
+      "meaning": "唯有我，可以让人赊账。",
+      "suppliedText": "Je suis le seul à qui on prête",
+      "sourceLineId": "romeo-timed-387-37",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4182,
+        "sourceLineNumber": 387,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4192,
+      "sourceText": "Dans ce monde où tout se vend",
+      "ipa": "[dɑ̃ sə mɔ̃d‿u tu sə vɑ̃]",
+      "ear": "当 瑟 蒙德 乌 图 瑟 旺",
+      "meaning": "在这个一切都能出售的世界。",
+      "suppliedText": "Dans ce monde où tout se vend",
+      "sourceLineId": "romeo-timed-388-38",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4192,
+        "sourceLineNumber": 388,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4194.647,
+      "sourceText": "On me donne sinon je prends",
+      "ipa": "[ɔ̃ mə dɔn sinɔ̃ ʒə pʁɑ̃]",
+      "ear": "翁 默 多恩 西农 热 普杭",
+      "meaning": "人们献给我；不给，我就拿。",
+      "suppliedText": "On me donne sinon je prends",
+      "sourceLineId": "romeo-timed-388-39",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4192,
+        "sourceLineNumber": 388,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4196.765,
+      "sourceText": "Des nains je suis le géant",
+      "ipa": "[de nɛ̃ ʒə sɥi lə ʒeɑ̃]",
+      "ear": "德 南 热 斯于伊 勒 热昂",
+      "meaning": "矮人之中，我是巨人。",
+      "suppliedText": "Des nains je suis le géant",
+      "sourceLineId": "romeo-timed-388-40",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4192,
+        "sourceLineNumber": 388,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4199.147,
+      "sourceText": "Et je mens, je mens, je mens",
+      "ipa": "[e ʒə mɑ̃ ʒə mɑ̃ ʒə mɑ̃]",
+      "ear": "诶 热 芒 热 芒 热 芒",
+      "meaning": "我说谎，说谎，说谎。",
+      "suppliedText": "Et je mens, je mens, je mens",
+      "sourceLineId": "romeo-timed-388-41",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4192,
+        "sourceLineNumber": 388,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4201,
+      "sourceText": "Le pouvoir, ah !",
+      "ipa": "[lə puvwaʁ a]",
+      "ear": "勒 普弗乌阿赫 阿",
+      "meaning": "权力，啊！",
+      "suppliedText": "Le pouvoir, ah !",
+      "sourceLineId": "romeo-timed-389-42",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4201,
+        "sourceLineNumber": 389,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4202.459,
+      "sourceText": "mes amis",
+      "ipa": "[mez‿ami]",
+      "ear": "梅兹 阿米",
+      "meaning": "朋友们。",
+      "suppliedText": "mes amis",
+      "sourceLineId": "romeo-timed-389-43",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4201,
+        "sourceLineNumber": 389,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4203.189,
+      "sourceText": "Si vous en saviez le prix",
+      "ipa": "[si vuz‿ɑ̃ savje lə pʁi]",
+      "ear": "西 乌兹 昂 萨弗耶诶 勒 普希",
+      "meaning": "若你们知道它的代价。",
+      "suppliedText": "Si vous en saviez le prix",
+      "sourceLineId": "romeo-timed-389-44",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4201,
+        "sourceLineNumber": 389,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4205.378,
+      "sourceText": "C'est la mort qui vous sourit",
+      "ipa": "[sɛ la mɔʁ ki vu suʁi]",
+      "ear": "塞 拉 莫赫 基 乌 苏希",
+      "meaning": "那是死亡朝你微笑。",
+      "suppliedText": "C'est la mort qui vous sourit",
+      "sourceLineId": "romeo-timed-389-45",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4201,
+        "sourceLineNumber": 389,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4207.811,
+      "sourceText": "L'éternité dans une vie",
+      "ipa": "[letɛʁnite dɑ̃ yn vi]",
+      "ear": "莱泰赫尼特 当 于恩 维",
+      "meaning": "在一生中得到永恒。",
+      "suppliedText": "L'éternité dans une vie",
+      "sourceLineId": "romeo-timed-389-46",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4201,
+        "sourceLineNumber": 389,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4210,
+      "sourceText": "Et quand je rends la justice",
+      "ipa": "[e kɑ̃ ʒə ʁɑ̃ la ʒystis]",
+      "ear": "诶 康 热 杭 拉 日于斯蒂斯",
+      "meaning": "当我裁决案件。",
+      "suppliedText": "Et quand je rends la justice",
+      "sourceLineId": "romeo-timed-390-47",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4210,
+        "sourceLineNumber": 390,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4212.432,
+      "sourceText": "La vertu contre le vice",
+      "ipa": "[la vɛʁty kɔ̃tʁ lə vis]",
+      "ear": "拉 韦赫蒂于 孔特赫 勒 维斯",
+      "meaning": "让美德对抗罪恶。",
+      "suppliedText": "La vertu contre le vice",
+      "sourceLineId": "romeo-timed-390-48",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4210,
+        "sourceLineNumber": 390,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4214.595,
+      "sourceText": "C'est le père qui parle au fils",
+      "ipa": "[sɛ lə pɛʁ ki paʁl‿o fis]",
+      "ear": "塞 勒 佩赫 基 帕赫勒 奥 菲斯",
+      "meaning": "如父亲对儿子说话。",
+      "suppliedText": "C'est le père qui parle au fils",
+      "sourceLineId": "romeo-timed-390-49",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4210,
+        "sourceLineNumber": 390,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4217.568,
+      "sourceText": "Je commande, ils obéissent",
+      "ipa": "[ʒə kɔmɑ̃d ilz‿obeis]",
+      "ear": "热 科芒德 伊勒兹 奥贝伊斯",
+      "meaning": "我下令，他们服从。",
+      "suppliedText": "Je commande, ils obéissent",
+      "sourceLineId": "romeo-timed-390-50",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4210,
+        "sourceLineNumber": 390,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4220,
+      "sourceText": "Le pouvoir, ça se mérite",
+      "ipa": "[lə puvwaʁ sa sə meʁit]",
+      "ear": "勒 普弗乌阿赫 萨 瑟 梅希特",
+      "meaning": "权力，是要挣来的。",
+      "suppliedText": "Le pouvoir, ça se mérite",
+      "sourceLineId": "romeo-timed-391-51",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4220,
+        "sourceLineNumber": 391,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4222.051,
+      "sourceText": "On le prend, ou on l'hérite",
+      "ipa": "[ɔ̃ lə pʁɑ̃ u ɔ̃ leʁit]",
+      "ear": "翁 勒 普杭 乌 翁 莱希特",
+      "meaning": "夺取它，或继承它。",
+      "suppliedText": "On le prend, ou on l'hérite",
+      "sourceLineId": "romeo-timed-391-52",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4220,
+        "sourceLineNumber": 391,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4223.897,
+      "sourceText": "Et le jour où on le quitte",
+      "ipa": "[e lə ʒuʁ‿u ɔ̃ lə kit]",
+      "ear": "诶 勒 茹赫 乌 翁 勒 基特",
+      "meaning": "到了离开它的那天。",
+      "suppliedText": "Et le jour où on le quitte",
+      "sourceLineId": "romeo-timed-391-53",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4220,
+        "sourceLineNumber": 391,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4226.154,
+      "sourceText": "Alors on construit son mythe",
+      "ipa": "[alɔʁ‿ɔ̃ kɔ̃stʁɥi sɔ̃ mit]",
+      "ear": "阿洛赫 翁 孔斯特赫于伊 松 米特",
+      "meaning": "你便为自己编织传奇。",
+      "suppliedText": "Alors on construit son mythe",
+      "sourceLineId": "romeo-timed-391-54",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4220,
+        "sourceLineNumber": 391,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4228,
+      "sourceText": "Le pouvoir ça brûle en vous",
+      "ipa": "[lə puvwaʁ sa bʁyl‿ɑ̃ vu]",
+      "ear": "勒 普弗乌阿赫 萨 布许勒 昂 乌",
+      "meaning": "权力，在你体内燃烧。",
+      "suppliedText": "Le pouvoir ça brûle en vous",
+      "sourceLineId": "romeo-timed-392-55",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4228,
+        "sourceLineNumber": 392,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4230.881,
+      "sourceText": "Le pouvoir ça vous rend fou",
+      "ipa": "[lə puvwaʁ sa vu ʁɑ̃ fu]",
+      "ear": "勒 普弗乌阿赫 萨 乌 杭 富",
+      "meaning": "权力，让你疯狂。",
+      "suppliedText": "Le pouvoir ça vous rend fou",
+      "sourceLineId": "romeo-timed-392-56",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4228,
+        "sourceLineNumber": 392,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4233.762,
+      "sourceText": "Le pouvoir on s'y cramponne",
+      "ipa": "[lə puvwaʁ‿ɔ̃ si kʁɑ̃pɔn]",
+      "ear": "勒 普弗乌阿赫 翁 西 克杭珀恩",
+      "meaning": "你紧紧抓住权力。",
+      "suppliedText": "Le pouvoir on s'y cramponne",
+      "sourceLineId": "romeo-timed-392-57",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4228,
+        "sourceLineNumber": 392,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4236.381,
+      "sourceText": "Et quand il vous abandonne",
+      "ipa": "[e kɑ̃t‿il vuz‿abɑ̃dɔn]",
+      "ear": "诶 康特 伊勒 乌兹 阿邦多恩",
+      "meaning": "当它离你而去。",
+      "suppliedText": "Et quand il vous abandonne",
+      "sourceLineId": "romeo-timed-392-58",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4228,
+        "sourceLineNumber": 392,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4239,
+      "sourceText": "On en meurt",
+      "ipa": "[ɔ̃n‿ɑ̃ mœʁ]",
+      "ear": "翁恩 昂 默厄赫",
+      "meaning": "你也随之死去。",
+      "suppliedText": "On en meurt",
+      "sourceLineId": "romeo-timed-393-59",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4239,
+        "sourceLineNumber": 393,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4241.947,
+      "sourceText": "Le pouvoir, le pouvoir, le pouvoir...",
+      "ipa": "[lə puvwaʁ lə puvwaʁ lə puvwaʁ]",
+      "ear": "勒 普弗乌阿赫 勒 普弗乌阿赫 勒 普弗乌阿赫",
+      "meaning": "权力，权力，权力……",
+      "suppliedText": "Le pouvoir, le pouvoir, le pouvoir...",
+      "sourceLineId": "romeo-timed-393-60",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4239,
+        "sourceLineNumber": 393,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4253,
+      "sourceText": "Le pouvoir",
+      "ipa": "[lə puvwaʁ]",
+      "ear": "勒 普弗乌阿赫",
+      "meaning": "权力。",
+      "suppliedText": "Le pouvoir",
+      "sourceLineId": "romeo-timed-394-61",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 4253,
+        "sourceLineNumber": 394,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

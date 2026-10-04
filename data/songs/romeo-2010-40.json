@@ -9,13 +9,374 @@
   "trackNumber": 40,
   "act": 2,
   "isEncore": true,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr-FR",
-  "captionDelivery": "youtube-player",
-  "captionSource": "youtube-player",
+  "captionDelivery": "study-page",
+  "captionSource": "editorial",
   "nativeCaptionAvailable": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Avoir 20 ans, c'est goûter au plaisir",
+      "start": 8640,
+      "duration": 4.0
+    },
+    {
+      "text": "Les femmes, le vin, les hommes et même pire",
+      "start": 8644.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Avoir 20 ans, c'est jusqu'au matin",
+      "start": 8648,
+      "duration": 3.85
+    },
+    {
+      "text": "Changer de corps, changer de mains",
+      "start": 8651.85,
+      "duration": 3.15
+    },
+    {
+      "text": "Avoir 20 ans, c'est gratter sur des guitares",
+      "start": 8655,
+      "duration": 3.852
+    },
+    {
+      "text": "Des accords faux qu'on oubliera plus tard",
+      "start": 8658.852,
+      "duration": 4.148
+    },
+    {
+      "text": "Avoir 20 ans, c'est jusqu'au matin",
+      "start": 8663,
+      "duration": 3.385
+    },
+    {
+      "text": "Refaire le monde même si ça change rien",
+      "start": 8666.385,
+      "duration": 4.615
+    },
+    {
+      "text": "Avoir 20 ans, c'est rêver tout haut",
+      "start": 8671,
+      "duration": 2.75
+    },
+    {
+      "text": "Que le monde est beau",
+      "start": 8673.75,
+      "duration": 2.25
+    },
+    {
+      "text": "Même si on sait bien qu'c'est faux",
+      "start": 8676.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Nous, on n'a rien du tout,",
+      "start": 8679,
+      "duration": 2.4
+    },
+    {
+      "text": "La vie devant nous,",
+      "start": 8681.4,
+      "duration": 1.867
+    },
+    {
+      "text": "Oui mais on l'avoue,",
+      "start": 8683.267,
+      "duration": 2.666
+    },
+    {
+      "text": "On s'en fout",
+      "start": 8685.933,
+      "duration": 1.067
+    },
+    {
+      "text": "Nous, on veut pas d'médailles,",
+      "start": 8687,
+      "duration": 3.103
+    },
+    {
+      "text": "Pas gagner d'batailles,",
+      "start": 8690.103,
+      "duration": 2.173
+    },
+    {
+      "text": "Mais pour ce qu'on croit",
+      "start": 8692.276,
+      "duration": 2.793
+    },
+    {
+      "text": "On s'battra",
+      "start": 8695.069,
+      "duration": 0.931
+    },
+    {
+      "text": "A 20 ans, rien ne vous tue, mais tout vous blesse",
+      "start": 8696,
+      "duration": 4.935
+    },
+    {
+      "text": "Vos trahisons, vos secrets, on vous les laisse",
+      "start": 8700.935,
+      "duration": 4.065
+    },
+    {
+      "text": "Avoir 20 ans, c'est trembler de peur",
+      "start": 8705,
+      "duration": 3.81
+    },
+    {
+      "text": "D'oser aimer, d'ouvrir son cœur",
+      "start": 8708.81,
+      "duration": 4.19
+    },
+    {
+      "text": "Avoir 20 ans, c'est crier sa colère,",
+      "start": 8713,
+      "duration": 3.348
+    },
+    {
+      "text": "Jurer d'jamais ressembler à son père",
+      "start": 8716.348,
+      "duration": 3.652
+    },
+    {
+      "text": "Avoir 20 ans, c'est donner des coups,",
+      "start": 8720,
+      "duration": 3.333
+    },
+    {
+      "text": "Ne croire en rien mais attendre tout",
+      "start": 8723.333,
+      "duration": 4.667
+    },
+    {
+      "text": "Avoir 20 ans, c'est rêver tout haut",
+      "start": 8728,
+      "duration": 2.75
+    },
+    {
+      "text": "Que le monde est beau",
+      "start": 8730.75,
+      "duration": 2.25
+    },
+    {
+      "text": "Même si on sait bien qu'c'est faux",
+      "start": 8733.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Nous, on n'a rien du tout",
+      "start": 8736,
+      "duration": 2.4
+    },
+    {
+      "text": "La vie devant nous,",
+      "start": 8738.4,
+      "duration": 1.867
+    },
+    {
+      "text": "Oui mais on l'avoue,",
+      "start": 8740.267,
+      "duration": 2.666
+    },
+    {
+      "text": "On s'en fout",
+      "start": 8742.933,
+      "duration": 1.067
+    },
+    {
+      "text": "Nous, on veut pas d'venir",
+      "start": 8744,
+      "duration": 2.424
+    },
+    {
+      "text": "Des machines à mentir",
+      "start": 8746.424,
+      "duration": 2.121
+    },
+    {
+      "text": "Pour nous l'important",
+      "start": 8748.545,
+      "duration": 2.122
+    },
+    {
+      "text": "C'est seulement d'vivre autrement",
+      "start": 8750.667,
+      "duration": 3.333
+    },
+    {
+      "text": "(Sans faire semblant)",
+      "start": 8754,
+      "duration": 1.909
+    },
+    {
+      "text": "Nous, on n'a rien du tout",
+      "start": 8755.909,
+      "duration": 2.864
+    },
+    {
+      "text": "La vie devant nous,",
+      "start": 8758.773,
+      "duration": 2.227
+    },
+    {
+      "text": "Oui mais on l'avoue,",
+      "start": 8761,
+      "duration": 2.581
+    },
+    {
+      "text": "On s'en fout",
+      "start": 8763.581,
+      "duration": 1.032
+    },
+    {
+      "text": "Nous, on veut pas d'médailles,",
+      "start": 8764.613,
+      "duration": 2.581
+    },
+    {
+      "text": "Pas gagner d'batailles,",
+      "start": 8767.194,
+      "duration": 1.806
+    },
+    {
+      "text": "Mais pour ce qu'on croit",
+      "start": 8769,
+      "duration": 2.25
+    },
+    {
+      "text": "On s'battra",
+      "start": 8771.25,
+      "duration": 0.75
+    },
+    {
+      "text": "Nous, on n'a rien du tout",
+      "start": 8772.0,
+      "duration": 2.25
+    },
+    {
+      "text": "La vie devant nous,",
+      "start": 8774.25,
+      "duration": 1.75
+    },
+    {
+      "text": "Oui mais on l'avoue,",
+      "start": 8776,
+      "duration": 2.759
+    },
+    {
+      "text": "On s'en fout",
+      "start": 8778.759,
+      "duration": 1.103
+    },
+    {
+      "text": "Nous, on veut pas d'venir",
+      "start": 8779.862,
+      "duration": 2.207
+    },
+    {
+      "text": "Des machines à mentir",
+      "start": 8782.069,
+      "duration": 1.931
+    },
+    {
+      "text": "Nous on veut seulement",
+      "start": 8784,
+      "duration": 2.323
+    },
+    {
+      "text": "Vivre autrement",
+      "start": 8786.323,
+      "duration": 1.548
+    },
+    {
+      "text": "Nous, on n'a rien du tout",
+      "start": 8787.871,
+      "duration": 2.323
+    },
+    {
+      "text": "La vie devant nous,",
+      "start": 8790.194,
+      "duration": 1.806
+    },
+    {
+      "text": "Oui mais on l'avoue,",
+      "start": 8792,
+      "duration": 2.581
+    },
+    {
+      "text": "On s'en fout",
+      "start": 8794.581,
+      "duration": 1.032
+    },
+    {
+      "text": "Nous, on veut pas d'médailles,",
+      "start": 8795.613,
+      "duration": 2.581
+    },
+    {
+      "text": "Pas gagner d'batailles",
+      "start": 8798.194,
+      "duration": 1.806
+    },
+    {
+      "text": "Mais pour ce qu'on croit",
+      "start": 8800,
+      "duration": 2.571
+    },
+    {
+      "text": "On s'battra",
+      "start": 8802.571,
+      "duration": 0.858
+    },
+    {
+      "text": "Nous, on n'a rien du tout",
+      "start": 8803.429,
+      "duration": 2.571
+    },
+    {
+      "text": "La vie devant nous,",
+      "start": 8806.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Oui mais on l'avoue,",
+      "start": 8808,
+      "duration": 2.759
+    },
+    {
+      "text": "On s'en fout",
+      "start": 8810.759,
+      "duration": 1.103
+    },
+    {
+      "text": "Nous, on veut pas d'venir",
+      "start": 8811.862,
+      "duration": 2.207
+    },
+    {
+      "text": "Des machines à mentir",
+      "start": 8814.069,
+      "duration": 1.931
+    },
+    {
+      "text": "Nous on veut seulement",
+      "start": 8816,
+      "duration": 4.235
+    },
+    {
+      "text": "Vivre autrement",
+      "start": 8820.235,
+      "duration": 2.824
+    },
+    {
+      "text": "Nous...",
+      "start": 8823.059,
+      "duration": 0.941
+    }
+  ],
   "playbackVideoId": "kgGN5675TAY",
   "sourceDuration": 8831,
   "sourceURL": "https://www.youtube.com/watch?v=kgGN5675TAY&t=8614",
@@ -131,12 +492,15 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "approximate",
   "playableInEmbed": true,
   "performanceYear": 2010,
   "albumReleaseYear": 2009,
   "mediaKind": "stage-video",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "isGenerated": false,
+  "studyVersion": 4
 }

@@ -9,13 +9,359 @@
   "trackNumber": 35,
   "act": 2,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr-FR",
-  "captionDelivery": "youtube-player",
-  "captionSource": "youtube-player",
+  "captionDelivery": "study-page",
+  "captionSource": "editorial",
   "nativeCaptionAvailable": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Moi qui n'ai pas d'importance",
+      "start": 7166,
+      "duration": 3.405
+    },
+    {
+      "text": "Qui ne suis que son ami d'enfance",
+      "start": 7169.405,
+      "duration": 4.024
+    },
+    {
+      "text": "Qui n'aimais que les femmes et la danse",
+      "start": 7173.429,
+      "duration": 4.642
+    },
+    {
+      "text": "C'est fini...",
+      "start": 7178.071,
+      "duration": 0.929
+    },
+    {
+      "text": "Nous étions hier encore",
+      "start": 7179,
+      "duration": 3.684
+    },
+    {
+      "text": "Si loin si loin de la mort",
+      "start": 7182.684,
+      "duration": 3.316
+    },
+    {
+      "text": "Elle est tombée sur la ville",
+      "start": 7186,
+      "duration": 2.609
+    },
+    {
+      "text": "Comme une araignée tissant son fil",
+      "start": 7188.609,
+      "duration": 3.391
+    },
+    {
+      "text": "Nous étions les rois du monde",
+      "start": 7192,
+      "duration": 2.64
+    },
+    {
+      "text": "Oui mais nos blessures sont trop profondes",
+      "start": 7194.64,
+      "duration": 3.36
+    },
+    {
+      "text": "Et même si demain le temps s'arrête",
+      "start": 7198,
+      "duration": 3.5
+    },
+    {
+      "text": "Ça ne fera pas revivre Juliette",
+      "start": 7201.5,
+      "duration": 3.5
+    },
+    {
+      "text": "Et c'est moi...",
+      "start": 7205,
+      "duration": 1.538
+    },
+    {
+      "text": "Qui doit lui dire ça",
+      "start": 7206.538,
+      "duration": 3.462
+    },
+    {
+      "text": "Comment lui dire, comment lui dire",
+      "start": 7210,
+      "duration": 6.0
+    },
+    {
+      "text": "Qu'est arrivé le pire",
+      "start": 7216.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Comment lui dire",
+      "start": 7220,
+      "duration": 2.1
+    },
+    {
+      "text": "Que la femme qu'il aime s'est tuée",
+      "start": 7222.1,
+      "duration": 4.9
+    },
+    {
+      "text": "Que le bonheur est passé",
+      "start": 7227,
+      "duration": 3.15
+    },
+    {
+      "text": "Que sa jeunesse est finie",
+      "start": 7230.15,
+      "duration": 3.85
+    },
+    {
+      "text": "Qu'il ne lui reste qu'un ami",
+      "start": 7234,
+      "duration": 4.304
+    },
+    {
+      "text": "Comment lui dire, qu'il va souffrir",
+      "start": 7238.304,
+      "duration": 4.696
+    },
+    {
+      "text": "Comment lui dire",
+      "start": 7243,
+      "duration": 2.077
+    },
+    {
+      "text": "Moi qui ai toujours vécu",
+      "start": 7245.077,
+      "duration": 4.154
+    },
+    {
+      "text": "Sans mes parents dans la rue",
+      "start": 7249.231,
+      "duration": 2.769
+    },
+    {
+      "text": "Quand on perd un ami",
+      "start": 7252,
+      "duration": 4.0
+    },
+    {
+      "text": "On devient, orphelin",
+      "start": 7256.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Quand Mercutio nous chantait \"la vie est belle\"",
+      "start": 7260,
+      "duration": 3.542
+    },
+    {
+      "text": "Moi j'y croyais",
+      "start": 7263.542,
+      "duration": 1.458
+    },
+    {
+      "text": "Mercutio ne chantera plus",
+      "start": 7265,
+      "duration": 3.316
+    },
+    {
+      "text": "Me voilà tout seul perdu",
+      "start": 7268.316,
+      "duration": 3.684
+    },
+    {
+      "text": "Nous étions les rois du monde",
+      "start": 7272,
+      "duration": 2.64
+    },
+    {
+      "text": "Oui mais nos blessures sont trop profondes",
+      "start": 7274.64,
+      "duration": 3.36
+    },
+    {
+      "text": "Et même si demain certains regrettent",
+      "start": 7278,
+      "duration": 3.64
+    },
+    {
+      "text": "Ça ne fera pas revivre Juliette",
+      "start": 7281.64,
+      "duration": 3.36
+    },
+    {
+      "text": "Et c'est moi...",
+      "start": 7285,
+      "duration": 1.538
+    },
+    {
+      "text": "Qui doit lui dire ça",
+      "start": 7286.538,
+      "duration": 3.462
+    },
+    {
+      "text": "Comment lui dire, comment lui dire",
+      "start": 7290,
+      "duration": 6.923
+    },
+    {
+      "text": "Qu'est arrivé le pire, comment lui dire",
+      "start": 7296.923,
+      "duration": 8.077
+    },
+    {
+      "text": "Que la femme qu'il aime est morte",
+      "start": 7305,
+      "duration": 3.391
+    },
+    {
+      "text": "Et qu'en partant elle emporte",
+      "start": 7308.391,
+      "duration": 2.609
+    },
+    {
+      "text": "La moitié de son amour",
+      "start": 7311,
+      "duration": 2.381
+    },
+    {
+      "text": "Elle prend le tout de toujours",
+      "start": 7313.381,
+      "duration": 2.619
+    },
+    {
+      "text": "Comment lui dire qu'il va souffrir",
+      "start": 7316,
+      "duration": 6.0
+    },
+    {
+      "text": "Comment lui dire",
+      "start": 7322.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Mais comment lui dire, comment lui dire",
+      "start": 7325,
+      "duration": 7.0
+    },
+    {
+      "text": "Qu'est arrivé le pire, comment lui dire",
+      "start": 7332.0,
+      "duration": 7.0
+    },
+    {
+      "text": "Que la femme qu'il aime s'est tuée",
+      "start": 7339,
+      "duration": 3.652
+    },
+    {
+      "text": "Que le bonheur est passé",
+      "start": 7342.652,
+      "duration": 2.348
+    },
+    {
+      "text": "Que sa jeunesse est finie",
+      "start": 7345,
+      "duration": 3.0
+    },
+    {
+      "text": "Qu'il ne lui reste qu'un ami",
+      "start": 7348.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Comment lui dire qu'il va souffrir",
+      "start": 7351,
+      "duration": 12.0
+    },
+    {
+      "text": "Comment lui dire",
+      "start": 7363.0,
+      "duration": 6.0
+    },
+    {
+      "text": "Comment lui dire...",
+      "start": 7369.0,
+      "duration": 6.0
+    },
+    {
+      "text": "Comment lui dire...",
+      "start": 7375,
+      "duration": 14.0
+    },
+    {
+      "text": "Benvolio !",
+      "start": 7389,
+      "duration": 0.744
+    },
+    {
+      "text": "Benvolio, mais qu’est-ce que tu fais là ?",
+      "start": 7389.744,
+      "duration": 2.791
+    },
+    {
+      "text": "Mais tu dors idiot !",
+      "start": 7392.535,
+      "duration": 1.302
+    },
+    {
+      "text": "Aller, viens !",
+      "start": 7393.837,
+      "duration": 0.744
+    },
+    {
+      "text": "Donne-moi des nouvelles de Vérone !",
+      "start": 7394.581,
+      "duration": 2.419
+    },
+    {
+      "text": "Comment va ma Juliette ?",
+      "start": 7397,
+      "duration": 2.256
+    },
+    {
+      "text": "Comment va Juliette ?",
+      "start": 7399.256,
+      "duration": 1.975
+    },
+    {
+      "text": "Juliette est morte Roméo…",
+      "start": 7401.231,
+      "duration": 2.82
+    },
+    {
+      "text": "Benvolio ?",
+      "start": 7404.051,
+      "duration": 1.128
+    },
+    {
+      "text": "Aller !",
+      "start": 7405.179,
+      "duration": 0.565
+    },
+    {
+      "text": "Benvolio ?",
+      "start": 7405.744,
+      "duration": 1.128
+    },
+    {
+      "text": "Benvolio !",
+      "start": 7406.872,
+      "duration": 1.128
+    },
+    {
+      "text": "Juliette est morte !",
+      "start": 7408,
+      "duration": 5.6
+    },
+    {
+      "text": "Roméo… Roméo… Roméo !",
+      "start": 7413.6,
+      "duration": 7.2
+    }
+  ],
   "playbackVideoId": "kgGN5675TAY",
   "sourceDuration": 8831,
   "sourceURL": "https://www.youtube.com/watch?v=kgGN5675TAY&t=7156",
@@ -151,12 +497,15 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "approximate",
   "playableInEmbed": true,
   "performanceYear": 2010,
   "albumReleaseYear": 2009,
   "mediaKind": "stage-video",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "isGenerated": false,
+  "studyVersion": 4
 }

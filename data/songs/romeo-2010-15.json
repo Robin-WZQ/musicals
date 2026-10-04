@@ -9,13 +9,284 @@
   "trackNumber": 15,
   "act": 1,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr-FR",
-  "captionDelivery": "youtube-player",
-  "captionSource": "youtube-player",
+  "captionDelivery": "study-page",
+  "captionSource": "editorial",
   "nativeCaptionAvailable": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Bien sûr j'ai tort disait le monde",
+      "start": 3005,
+      "duration": 3.818
+    },
+    {
+      "text": "Puisque je n'tourne pas rond",
+      "start": 3008.818,
+      "duration": 3.182
+    },
+    {
+      "text": "Je m'croyais tellement fort",
+      "start": 3012,
+      "duration": 2.605
+    },
+    {
+      "text": "Maintenant je touche le fond",
+      "start": 3014.605,
+      "duration": 2.895
+    },
+    {
+      "text": "Et je tourne dans l'univers",
+      "start": 3017.5,
+      "duration": 2.605
+    },
+    {
+      "text": "Comme la neige sous le vent",
+      "start": 3020.105,
+      "duration": 2.895
+    },
+    {
+      "text": "Et j'attends",
+      "start": 3023,
+      "duration": 1.125
+    },
+    {
+      "text": "J'attends que les hommes me brisent le cœur",
+      "start": 3024.125,
+      "duration": 4.875
+    },
+    {
+      "text": "Que leur folie explose",
+      "start": 3029,
+      "duration": 2.5
+    },
+    {
+      "text": "Qu'ils fassent la grande erreur",
+      "start": 3031.5,
+      "duration": 2.5
+    },
+    {
+      "text": "La dernière overdose",
+      "start": 3034,
+      "duration": 3.343
+    },
+    {
+      "text": "Mais moi je tourne dans l'univers",
+      "start": 3037.343,
+      "duration": 4.457
+    },
+    {
+      "text": "Comme la neige sous le vent",
+      "start": 3041.8,
+      "duration": 3.714
+    },
+    {
+      "text": "En attendant...",
+      "start": 3045.514,
+      "duration": 1.486
+    },
+    {
+      "text": "Toi qui peux faire parler la terre",
+      "start": 3047,
+      "duration": 3.231
+    },
+    {
+      "text": "Toi qui connais si bien les mots",
+      "start": 3050.231,
+      "duration": 2.769
+    },
+    {
+      "text": "Dis-moi poète à quoi ça sert",
+      "start": 3053,
+      "duration": 3.429
+    },
+    {
+      "text": "Un jour de plus sans Roméo",
+      "start": 3056.429,
+      "duration": 2.571
+    },
+    {
+      "text": "Moi je me fous de l'univers",
+      "start": 3059,
+      "duration": 4.0
+    },
+    {
+      "text": "Car ce soir, j'aime un homme",
+      "start": 3063.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Parler du monde et ses mystères",
+      "start": 3067,
+      "duration": 2.632
+    },
+    {
+      "text": "Parler de tout c'est parler trop",
+      "start": 3069.632,
+      "duration": 2.368
+    },
+    {
+      "text": "Dis-moi poète à quoi ça sert",
+      "start": 3072,
+      "duration": 4.0
+    },
+    {
+      "text": "Un jour de plus sans Roméo",
+      "start": 3076.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Moi je me fous des maux du monde",
+      "start": 3079,
+      "duration": 6.0
+    },
+    {
+      "text": "Car ce soir j'aime un homme",
+      "start": 3085.0,
+      "duration": 5.0
+    },
+    {
+      "text": "Et que Dieu me pardonne si je trahis mon père",
+      "start": 3090,
+      "duration": 5.829
+    },
+    {
+      "text": "Et que Dieu m'abandonne je n'crains pas sa colère",
+      "start": 3095.829,
+      "duration": 6.171
+    },
+    {
+      "text": "Car ce soir j'aime un homme.",
+      "start": 3102,
+      "duration": 6.0
+    },
+    {
+      "text": "Alors tu vois poète, le monde ce soir je m'en fous.",
+      "start": 3108,
+      "duration": 7.0
+    },
+    {
+      "text": "Car ce soir j'aime un homme.",
+      "start": 3115,
+      "duration": 48.0
+    },
+    {
+      "text": "Frère Laurent !",
+      "start": 3163,
+      "duration": 3.182
+    },
+    {
+      "text": "Te voilà, toi !",
+      "start": 3166.182,
+      "duration": 3.818
+    },
+    {
+      "text": "Je parle bien à l’homme le plus sage de cette ville ?",
+      "start": 3170,
+      "duration": 2.297
+    },
+    {
+      "text": "Oui ?",
+      "start": 3172.297,
+      "duration": 0.406
+    },
+    {
+      "text": "A l’autorité morale incontestée",
+      "start": 3172.703,
+      "duration": 1.892
+    },
+    {
+      "text": "Oui !",
+      "start": 3174.595,
+      "duration": 0.405
+    },
+    {
+      "text": "Au",
+      "start": 3175,
+      "duration": 0.346
+    },
+    {
+      "text": "Sphynx de Vérone en personne ?",
+      "start": 3175.346,
+      "duration": 1.558
+    },
+    {
+      "text": "Mais oui, mon fils, en personne !",
+      "start": 3176.904,
+      "duration": 1.904
+    },
+    {
+      "text": "Mais dis-moi, pourquoi tu as l’air si heureux ?",
+      "start": 3178.808,
+      "duration": 3.288
+    },
+    {
+      "text": "C’est que je l’aime !",
+      "start": 3182.096,
+      "duration": 1.212
+    },
+    {
+      "text": "Mais qui ?",
+      "start": 3183.308,
+      "duration": 0.692
+    },
+    {
+      "text": "Mais Juliette !",
+      "start": 3184,
+      "duration": 1.082
+    },
+    {
+      "text": "Juliette, Juliette, tu m’as déjà parlé d’une, non deux, non trois Juliette !",
+      "start": 3185.082,
+      "duration": 4.688
+    },
+    {
+      "text": "Ne vous moquez pas, mon père.",
+      "start": 3189.77,
+      "duration": 1.804
+    },
+    {
+      "text": "Il n’y en a qu’une.",
+      "start": 3191.574,
+      "duration": 1.262
+    },
+    {
+      "text": "Et elle est née Capulet.",
+      "start": 3192.836,
+      "duration": 1.623
+    },
+    {
+      "text": "Capulet ?",
+      "start": 3194.459,
+      "duration": 0.541
+    },
+    {
+      "text": "Oui mon père.",
+      "start": 3195,
+      "duration": 1.636
+    },
+    {
+      "text": "Mais sais-tu qui elle est ?",
+      "start": 3196.636,
+      "duration": 2.728
+    },
+    {
+      "text": "Elle est celle que j’aime !",
+      "start": 3199.364,
+      "duration": 2.727
+    },
+    {
+      "text": "D’amour !",
+      "start": 3202.091,
+      "duration": 0.818
+    },
+    {
+      "text": "Ah, l’amour…",
+      "start": 3202.909,
+      "duration": 1.091
+    }
+  ],
   "playbackVideoId": "kgGN5675TAY",
   "sourceDuration": 8831,
   "sourceURL": "https://www.youtube.com/watch?v=kgGN5675TAY&t=2997",
@@ -107,12 +378,15 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "approximate",
   "playableInEmbed": true,
   "performanceYear": 2010,
   "albumReleaseYear": 2009,
   "mediaKind": "stage-video",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "isGenerated": false,
+  "studyVersion": 4
 }

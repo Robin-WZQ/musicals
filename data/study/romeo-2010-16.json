@@ -1,0 +1,645 @@
+{
+  "videoId": "romeo-2010-16",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=3204"
+    }
+  ],
+  "entries": [
+    {
+      "start": 3204,
+      "sourceText": "Par amour on devient fou",
+      "ipa": "[paʁ‿amuʁ‿ɔ̃ dəvjɛ̃ fu]",
+      "ear": "帕赫 阿穆赫 翁 德弗耶安 富",
+      "meaning": "为了爱，人会疯狂。",
+      "suppliedText": "Par amour on devient fou",
+      "sourceLineId": "romeo-timed-289-1",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3204,
+        "sourceLineNumber": 289,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3208.545,
+      "sourceText": "Mais sans lui on n'est rien du tout",
+      "ipa": "[mɛ sɑ̃ lɥi ɔ̃ nɛ ʁjɛ̃ dy tu]",
+      "ear": "梅 桑 勒于伊 翁 奈 赫耶安 迪于 图",
+      "meaning": "可没有爱，我们什么也不是。",
+      "suppliedText": "Mais sans lui on n'est rien du tout",
+      "sourceLineId": "romeo-timed-289-2",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3204,
+        "sourceLineNumber": 289,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3214,
+      "sourceText": "Moi le mien est pour Dieu",
+      "ipa": "[mwa lə mjɛ̃ ɛ puʁ djø]",
+      "ear": "姆乌阿 勒 姆耶安 艾 普赫 德耶厄",
+      "meaning": "我的爱献给上帝。",
+      "suppliedText": "Moi le mien est pour Dieu",
+      "sourceLineId": "romeo-timed-290-3",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3214,
+        "sourceLineNumber": 290,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3218.19,
+      "sourceText": "Je ne vis que dans ses yeux",
+      "ipa": "[ʒə nə vi kə dɑ̃ sez‿jø]",
+      "ear": "热 讷 维 克 当 塞兹 耶厄",
+      "meaning": "我只活在她的眼睛里。",
+      "suppliedText": "Je ne vis que dans ses yeux",
+      "sourceLineId": "romeo-timed-290-4",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3214,
+        "sourceLineNumber": 290,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3222,
+      "sourceText": "Par amour on peut souffrir",
+      "ipa": "[paʁ‿amuʁ‿ɔ̃ pø sufʁiʁ]",
+      "ear": "帕赫 阿穆赫 翁 珀厄 苏弗希赫",
+      "meaning": "为了爱，人会痛苦。",
+      "suppliedText": "Par amour on peut souffrir",
+      "sourceLineId": "romeo-timed-291-5",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3222,
+        "sourceLineNumber": 291,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3226.5,
+      "sourceText": "Je suis prête à en mourir",
+      "ipa": "[ʒə sɥi pʁɛt‿a ɑ̃ muʁiʁ]",
+      "ear": "热 斯于伊 普赫特 阿 昂 穆希赫",
+      "meaning": "我已准备好为爱而死。",
+      "suppliedText": "Je suis prête à en mourir",
+      "sourceLineId": "romeo-timed-291-6",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3222,
+        "sourceLineNumber": 291,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3231,
+      "sourceText": "On se perd on se noie",
+      "ipa": "[ɔ̃ sə pɛʁ‿ɔ̃ sə nwa]",
+      "ear": "翁 瑟 佩赫 翁 瑟 恩乌阿",
+      "meaning": "我们会迷失，会沉溺。",
+      "suppliedText": "On se perd on se noie",
+      "sourceLineId": "romeo-timed-292-7",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 3231,
+        "sourceLineNumber": 292,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3236,
+      "sourceText": "On espère et on croit",
+      "ipa": "[ɔ̃n‿ɛspɛʁ e ɔ̃ kʁwa]",
+      "ear": "翁恩 艾斯佩赫 诶 翁 克赫乌阿",
+      "meaning": "我们会期盼，会相信。",
+      "suppliedText": "On espère et on croit",
+      "sourceLineId": "romeo-timed-293-8",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3236,
+        "sourceLineNumber": 293,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3239.2,
+      "sourceText": "Par amour je ferais pour elle",
+      "ipa": "[paʁ‿amuʁ ʒə fəʁɛ puʁ‿ɛl]",
+      "ear": "帕赫 阿穆赫 热 弗赫 普赫 艾勒",
+      "meaning": "为了爱，我愿为她。",
+      "suppliedText": "Par amour je ferais pour elle",
+      "sourceLineId": "romeo-timed-293-9",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3236,
+        "sourceLineNumber": 293,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3244,
+      "sourceText": "De nos vies un arc-en-ciel",
+      "ipa": "[də no vi œ̃n‿aʁkɑ̃sjɛl]",
+      "ear": "德 诺 维 恩恩 阿赫康斯耶艾勒",
+      "meaning": "把我们的生活变成彩虹。",
+      "suppliedText": "De nos vies un arc-en-ciel",
+      "sourceLineId": "romeo-timed-294-10",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3244,
+        "sourceLineNumber": 294,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3247.682,
+      "sourceText": "Aidez-nous",
+      "ipa": "[ɛdenu]",
+      "ear": "艾德努",
+      "meaning": "帮帮我们。",
+      "suppliedText": "Aidez-nous",
+      "sourceLineId": "romeo-timed-294-11",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3244,
+        "sourceLineNumber": 294,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3249.727,
+      "sourceText": "Loin du bruit des armes",
+      "ipa": "[lwɛ̃ dy bʁɥi dez‿aʁm]",
+      "ear": "勒乌安 迪于 布赫于伊 德兹 阿赫姆",
+      "meaning": "远离兵器的喧嚣。",
+      "suppliedText": "Loin du bruit des armes",
+      "sourceLineId": "romeo-timed-294-12",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3244,
+        "sourceLineNumber": 294,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3253,
+      "sourceText": "Faites-nous mari et femme, par amour",
+      "ipa": "[fɛtnu maʁi e fam paʁ‿amuʁ]",
+      "ear": "费特努 玛希 诶 法姆 帕赫 阿穆赫",
+      "meaning": "为了爱，让我们成为夫妻。",
+      "suppliedText": "Faites-nous mari et femme, par amour",
+      "sourceLineId": "romeo-timed-295-13",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3253,
+        "sourceLineNumber": 295,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3258.727,
+      "sourceText": "Par amour, on a trop mal",
+      "ipa": "[paʁ‿amuʁ ɔ̃n‿a tʁo mal]",
+      "ear": "帕赫 阿穆赫 翁恩 阿 特霍 玛勒",
+      "meaning": "为了爱，我们受尽痛苦。",
+      "suppliedText": "Par amour, on a trop mal",
+      "sourceLineId": "romeo-timed-295-14",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3253,
+        "sourceLineNumber": 295,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3262,
+      "sourceText": "Oui mais c'est la seule étoile",
+      "ipa": "[wi mɛ sɛ la sœl‿etwal]",
+      "ear": "乌伊 梅 塞 拉 瑟厄勒 诶特乌阿勒",
+      "meaning": "可它是唯一的星。",
+      "suppliedText": "Oui mais c'est la seule étoile",
+      "sourceLineId": "romeo-timed-296-15",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3262,
+        "sourceLineNumber": 296,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3266.48,
+      "sourceText": "Dans la nuit qui nous guide",
+      "ipa": "[dɑ̃ la nɥi ki nu ɡid]",
+      "ear": "当 拉 恩于伊 基 努 吉德",
+      "meaning": "在黑夜里指引我们。",
+      "suppliedText": "Dans la nuit qui nous guide",
+      "sourceLineId": "romeo-timed-296-16",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3262,
+        "sourceLineNumber": 296,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3270,
+      "sourceText": "Sans amour, nos vies sont vides",
+      "ipa": "[sɑ̃ amuʁ no vi sɔ̃ vid]",
+      "ear": "桑 阿穆赫 诺 维 松 维德",
+      "meaning": "没有爱，生活一片空虚。",
+      "suppliedText": "Sans amour, nos vies sont vides",
+      "sourceLineId": "romeo-timed-297-17",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3270,
+        "sourceLineNumber": 297,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3275.0,
+      "sourceText": "Sans amour",
+      "ipa": "[sɑ̃ amuʁ]",
+      "ear": "桑 阿穆赫",
+      "meaning": "没有爱。",
+      "suppliedText": "Sans amour",
+      "sourceLineId": "romeo-timed-297-18",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3270,
+        "sourceLineNumber": 297,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3277,
+      "sourceText": "Mon père je vous supplie",
+      "ipa": "[mɔ̃ pɛʁ ʒə vu sypli]",
+      "ear": "蒙 佩赫 热 乌 西于普利",
+      "meaning": "神父，我求您。",
+      "suppliedText": "Mon père je vous supplie",
+      "sourceLineId": "romeo-timed-298-19",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3277,
+        "sourceLineNumber": 298,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3279.368,
+      "sourceText": "Mon père je vous implore",
+      "ipa": "[mɔ̃ pɛʁ ʒə vuz‿ɛ̃plɔʁ]",
+      "ear": "蒙 佩赫 热 乌兹 安普洛赫",
+      "meaning": "神父，我恳求您。",
+      "suppliedText": "Mon père je vous implore",
+      "sourceLineId": "romeo-timed-298-20",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3277,
+        "sourceLineNumber": 298,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3281.737,
+      "sourceText": "Mariez-nous aujourd'hui",
+      "ipa": "[maʁjenu oʒuʁdɥi]",
+      "ear": "玛赫耶诶努 奥茹赫德于伊",
+      "meaning": "今天就为我们主持婚礼。",
+      "suppliedText": "Mariez-nous aujourd'hui",
+      "sourceLineId": "romeo-timed-298-21",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3277,
+        "sourceLineNumber": 298,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3284.632,
+      "sourceText": "Que l'injustice ait tort",
+      "ipa": "[kə lɛ̃ʒystis‿ɛ tɔʁ]",
+      "ear": "克 兰日于斯蒂斯 艾 托赫",
+      "meaning": "让不公败下阵来。",
+      "suppliedText": "Que l'injustice ait tort",
+      "sourceLineId": "romeo-timed-298-22",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3277,
+        "sourceLineNumber": 298,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3287,
+      "sourceText": "Vous nous verrez soumis à genoux devant vous",
+      "ipa": "[vu nu vɛʁe sumi a ʒənu dəvɑ̃ vu]",
+      "ear": "乌 努 韦赫 苏米 阿 热努 德旺 乌",
+      "meaning": "您会看见我们顺从地跪在您面前。",
+      "suppliedText": "Vous nous verrez soumis à genoux devant vous",
+      "sourceLineId": "romeo-timed-299-23",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3287,
+        "sourceLineNumber": 299,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3291.722,
+      "sourceText": "Vous nous verrez, brebis, seuls au milieu des loups",
+      "ipa": "[vu nu vɛʁe bʁəbi sœl‿o miljø de lu]",
+      "ear": "乌 努 韦赫 布赫比 瑟厄勒 奥 米勒耶厄 德 卢",
+      "meaning": "我们像羊羔，孤零零地站在狼群中。",
+      "suppliedText": "Vous nous verrez, brebis, seuls au milieu des loups",
+      "sourceLineId": "romeo-timed-299-24",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3287,
+        "sourceLineNumber": 299,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3297,
+      "sourceText": "Tu voudrais tant ce soir dormir avec Juliette",
+      "ipa": "[ty vudʁɛ tɑ̃ sə swaʁ dɔʁmiʁ‿avɛk ʒyljɛt]",
+      "ear": "蒂于 乌德赫 唐 瑟 斯乌阿赫 多赫米赫 阿韦克 日于勒耶艾特",
+      "meaning": "今晚，你如此渴望和朱丽叶相拥入睡。",
+      "suppliedText": "Tu voudrais tant ce soir dormir avec Juliette",
+      "sourceLineId": "romeo-timed-300-25",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3297,
+        "sourceLineNumber": 300,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3302.0,
+      "sourceText": "Attendre dans le noir le doux chant de l'alouette",
+      "ipa": "[atɑ̃dʁ dɑ̃ lə nwaʁ lə du ʃɑ̃ də lalwɛt]",
+      "ear": "阿唐德赫 当 勒 恩乌阿赫 勒 杜 尚 德 拉勒乌艾特",
+      "meaning": "在黑暗中，等待云雀温柔的歌声。",
+      "suppliedText": "Attendre dans le noir le doux chant de l'alouette",
+      "sourceLineId": "romeo-timed-300-26",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3297,
+        "sourceLineNumber": 300,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3307,
+      "sourceText": "Aidez-nous",
+      "ipa": "[ɛdenu]",
+      "ear": "艾德努",
+      "meaning": "帮帮我们。",
+      "suppliedText": "Aidez-nous",
+      "sourceLineId": "romeo-timed-301-27",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 3307,
+        "sourceLineNumber": 301,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3314,
+      "sourceText": "Vous marier… cela ramènerait peut-être la paix entre vos deux familles.",
+      "ipa": "[vu maʁje səla ʁamɛnʁɛ pøtɛtʁ la pɛ ɑ̃tʁ vo dø famij]",
+      "ear": "乌 玛赫耶诶 瑟拉 哈梅恩赫 珀厄泰特赫 拉 佩 昂特赫 沃 德厄 法米耶",
+      "meaning": "让你们结婚……也许能让两家恢复和平。",
+      "suppliedText": "Vous marier… cela ramènerai peut etre la paix entre vos deux familles.",
+      "sourceLineId": "romeo-timed-302-28",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3314,
+        "sourceLineNumber": 302,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3317.436,
+      "sourceText": "Ecoute, vient avec Juliette ce soir à la chapelle.",
+      "ipa": "[ekut vjɛ̃ avɛk ʒyljɛt sə swaʁ‿a la ʃapɛl]",
+      "ear": "诶库特 弗耶安 阿韦克 日于勒耶艾特 瑟 斯乌阿赫 阿 拉 沙佩勒",
+      "meaning": "听着，今晚带朱丽叶来小教堂。",
+      "suppliedText": "Ecoute, vient avec Juliette ce soir à la chapelle.",
+      "sourceLineId": "romeo-timed-302-29",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3314,
+        "sourceLineNumber": 302,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3319.982,
+      "sourceText": "Je vous marierai !",
+      "ipa": "[ʒə vu maʁiʁe]",
+      "ear": "热 乌 玛希赫",
+      "meaning": "我会为你们主持婚礼！",
+      "suppliedText": "Je vous marierai !",
+      "sourceLineId": "romeo-timed-302-30",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3314,
+        "sourceLineNumber": 302,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3321,
+      "sourceText": "Oh merci, merci, merci !",
+      "ipa": "[ɔ mɛʁsi mɛʁsi mɛʁsi]",
+      "ear": "哦 梅赫西 梅赫西 梅赫西",
+      "meaning": "哦，谢谢，谢谢，谢谢！",
+      "suppliedText": "Oh merci, merci, merci !",
+      "sourceLineId": "romeo-timed-303-31",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3321,
+        "sourceLineNumber": 303,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3331.5,
+      "sourceText": "Ne me remercie pas, pas encore.",
+      "ipa": "[nə mə ʁəmɛʁsi pa pa ɑ̃kɔʁ]",
+      "ear": "讷 默 赫梅赫西 帕 帕 昂科赫",
+      "meaning": "先别谢我，还不到时候。",
+      "suppliedText": "Ne me remercie pas, pas encore.",
+      "sourceLineId": "romeo-timed-303-32",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3321,
+        "sourceLineNumber": 303,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3348.0,
+      "sourceText": "Aller, file !",
+      "ipa": "[ale fil]",
+      "ear": "阿莱 菲勒",
+      "meaning": "好了，去吧！",
+      "suppliedText": "Aller, file !",
+      "sourceLineId": "romeo-timed-303-33",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3321,
+        "sourceLineNumber": 303,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3354.0,
+      "sourceText": "A ce soir !",
+      "ipa": "[a sə swaʁ]",
+      "ear": "阿 瑟 斯乌阿赫",
+      "meaning": "晚上见！",
+      "suppliedText": "A ce soir !",
+      "sourceLineId": "romeo-timed-303-34",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3321,
+        "sourceLineNumber": 303,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3360,
+      "sourceText": "Bonjour.",
+      "ipa": "[bɔ̃ʒuʁ]",
+      "ear": "崩茹赫",
+      "meaning": "你好。",
+      "suppliedText": "Bonjour.",
+      "sourceLineId": "romeo-timed-304-35",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3360,
+        "sourceLineNumber": 304,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3361.5,
+      "sourceText": "Excusez-moi, je cherche Roméo.",
+      "ipa": "[ɛkskyzemwa ʒə ʃɛʁʃ ʁomeo]",
+      "ear": "艾克斯基于泽姆乌阿 热 谢赫什 霍梅奥",
+      "meaning": "不好意思，我找罗密欧。",
+      "suppliedText": "Excusez-moi, je cherche Roméo.",
+      "sourceLineId": "romeo-timed-304-36",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3360,
+        "sourceLineNumber": 304,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3367.0,
+      "sourceText": "Excusez-moi.",
+      "ipa": "[ɛkskyzemwa]",
+      "ear": "艾克斯基于泽姆乌阿",
+      "meaning": "不好意思。",
+      "suppliedText": "Excusez-moi.",
+      "sourceLineId": "romeo-timed-304-37",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3360,
+        "sourceLineNumber": 304,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3369.5,
+      "sourceText": "Oui ?",
+      "ipa": "[wi]",
+      "ear": "乌伊",
+      "meaning": "对吗？",
+      "suppliedText": "Oui ?",
+      "sourceLineId": "romeo-timed-304-38",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3360,
+        "sourceLineNumber": 304,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3371,
+      "sourceText": "Excusez-moi, je cherche Roméo !",
+      "ipa": "[ɛkskyzemwa ʒə ʃɛʁʃ ʁomeo]",
+      "ear": "艾克斯基于泽姆乌阿 热 谢赫什 霍梅奥",
+      "meaning": "不好意思，我找罗密欧！",
+      "suppliedText": "Excusez-moi, je cherche Roméo !",
+      "sourceLineId": "romeo-timed-305-39",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 3371,
+        "sourceLineNumber": 305,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

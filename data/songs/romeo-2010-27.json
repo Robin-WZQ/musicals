@@ -9,13 +9,284 @@
   "trackNumber": 27,
   "act": 2,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr-FR",
-  "captionDelivery": "youtube-player",
-  "captionSource": "youtube-player",
+  "captionDelivery": "study-page",
+  "captionSource": "editorial",
   "nativeCaptionAvailable": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Le Prince en te chassant,",
+      "start": 5503,
+      "duration": 3.267
+    },
+    {
+      "text": "T'a sauvé, le sais-tu,",
+      "start": 5506.267,
+      "duration": 3.733
+    },
+    {
+      "text": "On réclamait ton sang,",
+      "start": 5510,
+      "duration": 3.5
+    },
+    {
+      "text": "Le sang d'un Montaigu,",
+      "start": 5513.5,
+      "duration": 3.5
+    },
+    {
+      "text": "Et toi pauvre petit perdu,",
+      "start": 5517,
+      "duration": 4.118
+    },
+    {
+      "text": "Toi tu ne comprends plus",
+      "start": 5521.118,
+      "duration": 2.882
+    },
+    {
+      "text": "Oh Dieu, que les hommes, sont durs",
+      "start": 5524,
+      "duration": 6.05
+    },
+    {
+      "text": "Que les hommes, sont sûrs d'eux",
+      "start": 5530.05,
+      "duration": 4.95
+    },
+    {
+      "text": "Oh !",
+      "start": 5535,
+      "duration": 0.469
+    },
+    {
+      "text": "Dieu, que les hommes, sont durs",
+      "start": 5535.469,
+      "duration": 4.687
+    },
+    {
+      "text": "Que faut-il donc qu'on fasse",
+      "start": 5540.156,
+      "duration": 4.688
+    },
+    {
+      "text": "Pour que tu accordes ta grâce ?",
+      "start": 5544.844,
+      "duration": 5.156
+    },
+    {
+      "text": "Dieu toi qui nous a mis sur la terre",
+      "start": 5550,
+      "duration": 4.5
+    },
+    {
+      "text": "Pourquoi nous forcer à nous taire",
+      "start": 5554.5,
+      "duration": 4.5
+    },
+    {
+      "text": "Et regarder, mourir les hommes",
+      "start": 5559,
+      "duration": 6.0
+    },
+    {
+      "text": "Les choses ne sont jamais,",
+      "start": 5565,
+      "duration": 2.909
+    },
+    {
+      "text": "Ce que l'on voudrait qu'elles soient",
+      "start": 5567.909,
+      "duration": 5.091
+    },
+    {
+      "text": "Juliette maintenant tu sais,",
+      "start": 5573,
+      "duration": 3.3
+    },
+    {
+      "text": "Ce que je savais déjà",
+      "start": 5576.3,
+      "duration": 2.7
+    },
+    {
+      "text": "Et tu pleures, tu pleures, ma fille, ma sœur,",
+      "start": 5579,
+      "duration": 5.217
+    },
+    {
+      "text": "Je porte ta douleur",
+      "start": 5584.217,
+      "duration": 2.783
+    },
+    {
+      "text": "Dieu, que les hommes, sont durs,",
+      "start": 5587,
+      "duration": 5.263
+    },
+    {
+      "text": "Que les hommes, sont sûrs d'eux",
+      "start": 5592.263,
+      "duration": 4.737
+    },
+    {
+      "text": "Oh!",
+      "start": 5597,
+      "duration": 0.524
+    },
+    {
+      "text": "Dieu, que les hommes sont durs",
+      "start": 5597.524,
+      "duration": 5.238
+    },
+    {
+      "text": "Que faut-il donc qu'on fasses,",
+      "start": 5602.762,
+      "duration": 5.238
+    },
+    {
+      "text": "Pour que tu nous accordes ta grâce, Dieu toi qui nous a mis sur la terre",
+      "start": 5608,
+      "duration": 10.0
+    },
+    {
+      "text": "Pourquoi nous forcer à nous taire,",
+      "start": 5618,
+      "duration": 6.0
+    },
+    {
+      "text": "Et regarder mourir les hommes",
+      "start": 5624.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Dieu, que les hommes, sont durs",
+      "start": 5628,
+      "duration": 5.263
+    },
+    {
+      "text": "Que les hommes, sont sûrs d'eux",
+      "start": 5633.263,
+      "duration": 4.737
+    },
+    {
+      "text": "Oh !",
+      "start": 5638,
+      "duration": 0.524
+    },
+    {
+      "text": "Dieu, que les hommes, sont durs",
+      "start": 5638.524,
+      "duration": 5.238
+    },
+    {
+      "text": "Que faut-il donc qu'on fasse",
+      "start": 5643.762,
+      "duration": 5.238
+    },
+    {
+      "text": "Pour que tu accordes ta grâce Dieu toi qui nous a mis sur la terre",
+      "start": 5649,
+      "duration": 9.0
+    },
+    {
+      "text": "Pourquoi nous forcer à nous taire",
+      "start": 5658,
+      "duration": 6.0
+    },
+    {
+      "text": "Et regarder, mourir les hommes",
+      "start": 5664.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Dieu, que les hommes, sont durs",
+      "start": 5668,
+      "duration": 5.263
+    },
+    {
+      "text": "Que les hommes, sont sûrs d'eux",
+      "start": 5673.263,
+      "duration": 4.737
+    },
+    {
+      "text": "Oh !",
+      "start": 5678,
+      "duration": 0.524
+    },
+    {
+      "text": "Dieu, que les hommes, sont durs",
+      "start": 5678.524,
+      "duration": 5.238
+    },
+    {
+      "text": "Que faut-il donc qu'on fasse",
+      "start": 5683.762,
+      "duration": 5.238
+    },
+    {
+      "text": "Pour que tu accordes ta grâce Dieu toi qui nous a mis sur la terre",
+      "start": 5689,
+      "duration": 9.0
+    },
+    {
+      "text": "Pourquoi nous forcer à nous taire",
+      "start": 5698,
+      "duration": 6.0
+    },
+    {
+      "text": "Et regarder, mourir les hommes",
+      "start": 5704.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Dieu, que les hommes, sont durs",
+      "start": 5708,
+      "duration": 5.263
+    },
+    {
+      "text": "Que les hommes, sont sûrs d'eux",
+      "start": 5713.263,
+      "duration": 4.737
+    },
+    {
+      "text": "Oh !",
+      "start": 5718,
+      "duration": 0.571
+    },
+    {
+      "text": "Dieu, que les hommes, sont durs",
+      "start": 5718.571,
+      "duration": 5.715
+    },
+    {
+      "text": "Que faut-il donc qu'on fasse",
+      "start": 5724.286,
+      "duration": 5.714
+    },
+    {
+      "text": "Pour que tu accordes ta grâce Dieu toi qui nous a mis sur la terre",
+      "start": 5730,
+      "duration": 9.0
+    },
+    {
+      "text": "Pourquoi nous forcer à nous taire",
+      "start": 5739,
+      "duration": 7.2
+    },
+    {
+      "text": "Et regarder, mourir les hommes",
+      "start": 5746.2,
+      "duration": 4.8
+    },
+    {
+      "text": "Dieu ...",
+      "start": 5751,
+      "duration": 8.0
+    }
+  ],
   "playbackVideoId": "kgGN5675TAY",
   "sourceDuration": 8831,
   "sourceURL": "https://www.youtube.com/watch?v=kgGN5675TAY&t=5498",
@@ -139,12 +410,15 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "approximate",
   "playableInEmbed": true,
   "performanceYear": 2010,
   "albumReleaseYear": 2009,
   "mediaKind": "stage-video",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "isGenerated": false,
+  "studyVersion": 4
 }

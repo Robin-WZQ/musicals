@@ -1,0 +1,1125 @@
+{
+  "videoId": "romeo-2010-10",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=1719"
+    }
+  ],
+  "entries": [
+    {
+      "start": 1741,
+      "sourceText": "Vous mes amis mes frères de sang",
+      "ipa": "[vu mez‿ami me fʁɛʁ də sɑ̃]",
+      "ear": "乌 梅兹 阿米 梅 弗赫赫 德 桑",
+      "meaning": "朋友们，我血脉相连的兄弟。",
+      "suppliedText": "Vous mes amis mes frères de sang",
+      "sourceLineId": "romeo-timed-180-1",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1741,
+        "sourceLineNumber": 180,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1744.913,
+      "sourceText": "Vous que j'aime depuis si longtemps",
+      "ipa": "[vu kə ʒɛm dəpɥi si lɔ̃tɑ̃]",
+      "ear": "乌 克 热姆 德普于伊 西 隆唐",
+      "meaning": "我爱了这么多年的你们。",
+      "suppliedText": "Vous que j'aime depuis si longtemps",
+      "sourceLineId": "romeo-timed-180-2",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1741,
+        "sourceLineNumber": 180,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1750,
+      "sourceText": "Est-ce que comme moi sur vos épaules",
+      "ipa": "[ɛs kə kɔm mwa syʁ voz‿epol]",
+      "ear": "艾斯 克 科姆 姆乌阿 西于赫 沃兹 诶波勒",
+      "meaning": "你们是否也和我一样，在肩上。",
+      "suppliedText": "Est-ce que comme moi sur vos épaules",
+      "sourceLineId": "romeo-timed-181-3",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1750,
+        "sourceLineNumber": 181,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1754.846,
+      "sourceText": "Vous sentez la mort qui vous frôle",
+      "ipa": "[vu sɑ̃te la mɔʁ ki vu fʁol]",
+      "ear": "乌 桑特 拉 莫赫 基 乌 弗霍勒",
+      "meaning": "感觉到死亡擦身而过？",
+      "suppliedText": "Vous sentez la mort qui vous frôle",
+      "sourceLineId": "romeo-timed-181-4",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1750,
+        "sourceLineNumber": 181,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1759,
+      "sourceText": "Vous qui riez de tout de rien",
+      "ipa": "[vu ki ʁje də tu də ʁjɛ̃]",
+      "ear": "乌 基 赫耶诶 德 图 德 赫耶安",
+      "meaning": "你们什么都能拿来笑。",
+      "suppliedText": "Vous qui riez de tout de rien",
+      "sourceLineId": "romeo-timed-182-5",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1759,
+        "sourceLineNumber": 182,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1762.84,
+      "sourceText": "Qui vous moquez bien de demain",
+      "ipa": "[ki vu moke bjɛ̃ də dəmɛ̃]",
+      "ear": "基 乌 莫克 布耶安 德 德曼",
+      "meaning": "也根本不在乎明天。",
+      "suppliedText": "Qui vous moquez bien de demain",
+      "sourceLineId": "romeo-timed-182-6",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1759,
+        "sourceLineNumber": 182,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1767,
+      "sourceText": "Moi, Roméo, qui vis debout",
+      "ipa": "[mwa ʁomeo ki vi dəbu]",
+      "ear": "姆乌阿 霍梅奥 基 维 德布",
+      "meaning": "而我，挺直身子活着的罗密欧。",
+      "suppliedText": "Moi, Roméo, qui vit debout",
+      "sourceLineId": "romeo-timed-183-7",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1767,
+        "sourceLineNumber": 183,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1771.304,
+      "sourceText": "Ce soir, amis, je vous l'avoue",
+      "ipa": "[sə swaʁ ami ʒə vu lavu]",
+      "ear": "瑟 斯乌阿赫 阿米 热 乌 拉乌",
+      "meaning": "今晚，朋友们，我向你们坦白。",
+      "suppliedText": "Ce soir, amis, je vous l'avoue",
+      "sourceLineId": "romeo-timed-183-8",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1767,
+        "sourceLineNumber": 183,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1776,
+      "sourceText": "J'ai peur, j'ai peur",
+      "ipa": "[ʒe pœʁ ʒe pœʁ]",
+      "ear": "热 珀厄赫 热 珀厄赫",
+      "meaning": "我害怕，我害怕。",
+      "suppliedText": "J'ai peur, j'ai peur",
+      "sourceLineId": "romeo-timed-184-9",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1776,
+        "sourceLineNumber": 184,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1779.294,
+      "sourceText": "Que nos ombres si légères",
+      "ipa": "[kə noz‿ɔ̃bʁ si leʒɛʁ]",
+      "ear": "克 诺兹 翁布赫 西 莱热赫",
+      "meaning": "怕我们轻盈的影子。",
+      "suppliedText": "Que nos ombres si légères",
+      "sourceLineId": "romeo-timed-184-10",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1776,
+        "sourceLineNumber": 184,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1783,
+      "sourceText": "Demain se changent en pierre",
+      "ipa": "[dəmɛ̃ sə ʃɑ̃ʒ‿ɑ̃ pjɛʁ]",
+      "ear": "德曼 瑟 尚日 昂 普耶艾赫",
+      "meaning": "明天会变成石头。",
+      "suppliedText": "Demain se changent en pierre",
+      "sourceLineId": "romeo-timed-185-11",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1783,
+        "sourceLineNumber": 185,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1784.944,
+      "sourceText": "Que les étoiles qui nous guident",
+      "ipa": "[kə lez‿etwal ki nu ɡid]",
+      "ear": "克 莱兹 诶特乌阿勒 基 努 吉德",
+      "meaning": "怕指引我们的星星。",
+      "suppliedText": "Que les étoiles qui nous guident",
+      "sourceLineId": "romeo-timed-185-12",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1783,
+        "sourceLineNumber": 185,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1787.667,
+      "sourceText": "Un jour nous poussent au vide",
+      "ipa": "[œ̃ ʒuʁ nu pus‿o vid]",
+      "ear": "恩 茹赫 努 普斯 奥 维德",
+      "meaning": "有一天会把我们推向深渊。",
+      "suppliedText": "Un jour nous poussent au vide",
+      "sourceLineId": "romeo-timed-185-13",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1783,
+        "sourceLineNumber": 185,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1790,
+      "sourceText": "J'ai peur, ...",
+      "ipa": "[ʒe pœʁ]",
+      "ear": "热 珀厄赫",
+      "meaning": "我害怕……",
+      "suppliedText": "J'ai peur, ...",
+      "sourceLineId": "romeo-timed-186-14",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 1790,
+        "sourceLineNumber": 186,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1800,
+      "sourceText": "Que demain tout s'arrête",
+      "ipa": "[kə dəmɛ̃ tu saʁɛt]",
+      "ear": "克 德曼 图 萨赫特",
+      "meaning": "怕明天一切就会停止。",
+      "suppliedText": "Que demain tout s'arrête",
+      "sourceLineId": "romeo-timed-187-15",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1800,
+        "sourceLineNumber": 187,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1802.632,
+      "sourceText": "Que l'ennui s'installe dans nos têtes",
+      "ipa": "[kə lɑ̃nɥi sɛ̃stal dɑ̃ no tɛt]",
+      "ear": "克 朗恩于伊 森斯塔勒 当 诺 泰特",
+      "meaning": "怕无聊占据我们的头脑。",
+      "suppliedText": "Que l'ennui s'installe dans nos têtes",
+      "sourceLineId": "romeo-timed-187-16",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1800,
+        "sourceLineNumber": 187,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1805.789,
+      "sourceText": "Que le vent du hasard se prenne dans nos guitares",
+      "ipa": "[kə lə vɑ̃ dy azaʁ sə pʁɛn dɑ̃ no ɡitaʁ]",
+      "ear": "克 勒 旺 迪于 阿扎赫 瑟 普赫恩 当 诺 吉塔赫",
+      "meaning": "怕命运的风缠住我们的吉他。",
+      "suppliedText": "Que le vent du hasard se prenne dans nos guitares",
+      "sourceLineId": "romeo-timed-187-17",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1800,
+        "sourceLineNumber": 187,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1810,
+      "sourceText": "Vous mes amis mes frères de goût",
+      "ipa": "[vu mez‿ami me fʁɛʁ də ɡu]",
+      "ear": "乌 梅兹 阿米 梅 弗赫赫 德 古",
+      "meaning": "朋友们，与我志趣相投的兄弟。",
+      "suppliedText": "Vous mes amis mes frères de goût",
+      "sourceLineId": "romeo-timed-188-18",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1810,
+        "sourceLineNumber": 188,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1813.667,
+      "sourceText": "Vous qui voulez goûter à tout",
+      "ipa": "[vu ki vule ɡute a tu]",
+      "ear": "乌 基 乌莱 古特 阿 图",
+      "meaning": "你们想尝遍世间的一切。",
+      "suppliedText": "Vous qui voulez goûter à tout",
+      "sourceLineId": "romeo-timed-188-19",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1810,
+        "sourceLineNumber": 188,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1818,
+      "sourceText": "Les fruits du cœur sont les plus tendres",
+      "ipa": "[le fʁɥi dy kœʁ sɔ̃ le ply tɑ̃dʁ]",
+      "ear": "莱 弗赫于伊 迪于 克厄赫 松 莱 普吕 唐德赫",
+      "meaning": "心结出的果实最柔软。",
+      "suppliedText": "Les fruits du cœur sont les plus tendres",
+      "sourceLineId": "romeo-timed-189-20",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1818,
+        "sourceLineNumber": 189,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1821.96,
+      "sourceText": "Mais ils se meurent quand vient décembre",
+      "ipa": "[mɛ il sə mœʁ kɑ̃ vjɛ̃ desɑ̃bʁ]",
+      "ear": "梅 伊勒 瑟 默厄赫 康 弗耶安 德桑布赫",
+      "meaning": "可十二月到来，它们就会死去。",
+      "suppliedText": "Mais ils se meurent quand vient décembre",
+      "sourceLineId": "romeo-timed-189-21",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1818,
+        "sourceLineNumber": 189,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1827,
+      "sourceText": "Vous qui avez de la jeunesse",
+      "ipa": "[vu ki ave də la ʒønɛs]",
+      "ear": "乌 基 阿韦 德 拉 热厄奈斯",
+      "meaning": "你们有着青春的。",
+      "suppliedText": "Vous qui avez de la jeunesse",
+      "sourceLineId": "romeo-timed-190-22",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1827,
+        "sourceLineNumber": 190,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1831.5,
+      "sourceText": "Tout le courage et la paresse",
+      "ipa": "[tu lə kuʁaʒ e la paʁɛs]",
+      "ear": "图 勒 库哈日 诶 拉 帕赫斯",
+      "meaning": "全部勇气与懒散。",
+      "suppliedText": "Tout le courage et la paresse",
+      "sourceLineId": "romeo-timed-190-23",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1827,
+        "sourceLineNumber": 190,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1836,
+      "sourceText": "Alors écoutez un de votre âge",
+      "ipa": "[alɔʁ‿ekute œ̃ də votʁ‿aʒ]",
+      "ear": "阿洛赫 诶库特 恩 德 沃特赫 阿日",
+      "meaning": "那就听听一个同龄人的话。",
+      "suppliedText": "Alors écoutez un de votre âge",
+      "sourceLineId": "romeo-timed-191-24",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1836,
+        "sourceLineNumber": 191,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1840.154,
+      "sourceText": "Qui ce soir voit venir le naufrage",
+      "ipa": "[ki sə swaʁ vwa vəniʁ lə nofʁaʒ]",
+      "ear": "基 瑟 斯乌阿赫 弗乌阿 弗尼赫 勒 诺弗哈日",
+      "meaning": "今晚，他看见沉船般的灾难将至。",
+      "suppliedText": "Qui ce soir voit venir le naufrage",
+      "sourceLineId": "romeo-timed-191-25",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1836,
+        "sourceLineNumber": 191,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1845,
+      "sourceText": "J'ai peur, j'ai peur",
+      "ipa": "[ʒe pœʁ ʒe pœʁ]",
+      "ear": "热 珀厄赫 热 珀厄赫",
+      "meaning": "我害怕，我害怕。",
+      "suppliedText": "J'ai peur, j'ai peur",
+      "sourceLineId": "romeo-timed-192-26",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1845,
+        "sourceLineNumber": 192,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1848.556,
+      "sourceText": "De la vie qui nous attend",
+      "ipa": "[də la vi ki nuz‿atɑ̃]",
+      "ear": "德 拉 维 基 努兹 阿唐",
+      "meaning": "我害怕等着我们的生活。",
+      "suppliedText": "De la vie qui nous attend",
+      "sourceLineId": "romeo-timed-192-27",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1845,
+        "sourceLineNumber": 192,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1853,
+      "sourceText": "Des mensonges de nos parents",
+      "ipa": "[de mɑ̃sɔ̃ʒ də no paʁɑ̃]",
+      "ear": "德 芒松日 德 诺 帕杭",
+      "meaning": "害怕父母的谎言。",
+      "suppliedText": "Des mensonges de nos parents",
+      "sourceLineId": "romeo-timed-193-28",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1853,
+        "sourceLineNumber": 193,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1854.714,
+      "sourceText": "Pour nous tout est facile mais le bonheur est fragile",
+      "ipa": "[puʁ nu tut‿ɛ fasil mɛ lə bɔnœʁ‿ɛ fʁaʒil]",
+      "ear": "普赫 努 图特 艾 法西勒 梅 勒 博讷厄赫 艾 弗哈日勒",
+      "meaning": "对我们，一切都很容易，可幸福如此脆弱。",
+      "suppliedText": "Pour nous tout est facile mais le bonheur est fragile",
+      "sourceLineId": "romeo-timed-193-29",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1853,
+        "sourceLineNumber": 193,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1859,
+      "sourceText": "J'ai peur, j'ai peur, j'ai peur, si peur",
+      "ipa": "[ʒe pœʁ ʒe pœʁ ʒe pœʁ si pœʁ]",
+      "ear": "热 珀厄赫 热 珀厄赫 热 珀厄赫 西 珀厄赫",
+      "meaning": "我害怕，害怕，太害怕。",
+      "suppliedText": "J'ai peur, j'ai peur, j'ai peur, si peur",
+      "sourceLineId": "romeo-timed-194-30",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 1859,
+        "sourceLineNumber": 194,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1869,
+      "sourceText": "Que les dieux en colère",
+      "ipa": "[kə le djø ɑ̃ kolɛʁ]",
+      "ear": "克 莱 德耶厄 昂 科莱赫",
+      "meaning": "怕愤怒的众神。",
+      "suppliedText": "Que les dieux en colère",
+      "sourceLineId": "romeo-timed-195-31",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1869,
+        "sourceLineNumber": 195,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1872.514,
+      "sourceText": "Se vengent sur nous mes frères",
+      "ipa": "[sə vɑ̃ʒ syʁ nu me fʁɛʁ]",
+      "ear": "瑟 旺日 西于赫 努 梅 弗赫赫",
+      "meaning": "会报复我们，兄弟们。",
+      "suppliedText": "Se vengent sur nous mes frères",
+      "sourceLineId": "romeo-timed-195-32",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1869,
+        "sourceLineNumber": 195,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1875.676,
+      "sourceText": "D'aimer autant la vie mais sans leur dire merci...",
+      "ipa": "[dɛme otɑ̃ la vi mɛ sɑ̃ lœʁ diʁ mɛʁsi]",
+      "ear": "戴梅 奥唐 拉 维 梅 桑 勒厄赫 迪赫 梅赫西",
+      "meaning": "只因我们这么热爱生活，却没有向他们道谢……",
+      "suppliedText": "D'aimer autant la vie mais sans leur dire merci...",
+      "sourceLineId": "romeo-timed-195-33",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1869,
+        "sourceLineNumber": 195,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1882,
+      "sourceText": "Oh, si peur… j’ai peur",
+      "ipa": "[ɔ si pœʁ ʒe pœʁ]",
+      "ear": "哦 西 珀厄赫 热 珀厄赫",
+      "meaning": "哦，太害怕了……我害怕。",
+      "suppliedText": "Oh, si peur… j’ai peur",
+      "sourceLineId": "romeo-timed-196-34",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 1882,
+        "sourceLineNumber": 196,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1893,
+      "sourceText": "Que nos ombres si légères",
+      "ipa": "[kə noz‿ɔ̃bʁ si leʒɛʁ]",
+      "ear": "克 诺兹 翁布赫 西 莱热赫",
+      "meaning": "怕我们轻盈的影子。",
+      "suppliedText": "Que nos ombres si légères",
+      "sourceLineId": "romeo-timed-197-35",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1893,
+        "sourceLineNumber": 197,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1895.02,
+      "sourceText": "Demain se changent en pierre",
+      "ipa": "[dəmɛ̃ sə ʃɑ̃ʒ‿ɑ̃ pjɛʁ]",
+      "ear": "德曼 瑟 尚日 昂 普耶艾赫",
+      "meaning": "明天会变成石头。",
+      "suppliedText": "Demain se changent en pierre",
+      "sourceLineId": "romeo-timed-197-36",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1893,
+        "sourceLineNumber": 197,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1897.265,
+      "sourceText": "Que le vent du hasard se prenne dans nos guitares",
+      "ipa": "[kə lə vɑ̃ dy azaʁ sə pʁɛn dɑ̃ no ɡitaʁ]",
+      "ear": "克 勒 旺 迪于 阿扎赫 瑟 普赫恩 当 诺 吉塔赫",
+      "meaning": "怕命运的风缠住我们的吉他。",
+      "suppliedText": "Que le vent du hasard se prenne dans nos guitares",
+      "sourceLineId": "romeo-timed-197-37",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1893,
+        "sourceLineNumber": 197,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1900.857,
+      "sourceText": "Que les étoiles qui nous guident",
+      "ipa": "[kə lez‿etwal ki nu ɡid]",
+      "ear": "克 莱兹 诶特乌阿勒 基 努 吉德",
+      "meaning": "怕指引我们的星星。",
+      "suppliedText": "Que les étoiles qui nous guident",
+      "sourceLineId": "romeo-timed-197-38",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1893,
+        "sourceLineNumber": 197,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1904,
+      "sourceText": "Un jour nous poussent au vide",
+      "ipa": "[œ̃ ʒuʁ nu pus‿o vid]",
+      "ear": "恩 茹赫 努 普斯 奥 维德",
+      "meaning": "有一天会把我们推向深渊。",
+      "suppliedText": "Un jour nous poussent au vide",
+      "sourceLineId": "romeo-timed-198-39",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1904,
+        "sourceLineNumber": 198,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1907.789,
+      "sourceText": "J'ai peur, si peur",
+      "ipa": "[ʒe pœʁ si pœʁ]",
+      "ear": "热 珀厄赫 西 珀厄赫",
+      "meaning": "我害怕，太害怕。",
+      "suppliedText": "J'ai peur, si peur",
+      "sourceLineId": "romeo-timed-198-40",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1904,
+        "sourceLineNumber": 198,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1910,
+      "sourceText": "D’être vieux avant l’âge",
+      "ipa": "[dɛtʁ vjøz‿avɑ̃ laʒ]",
+      "ear": "戴特赫 弗耶厄兹 阿旺 拉日",
+      "meaning": "怕还没到年纪，就已老去。",
+      "suppliedText": "D’être vieux avant l’âge",
+      "sourceLineId": "romeo-timed-199-41",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1910,
+        "sourceLineNumber": 199,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1913.818,
+      "sourceText": "D’aimer un jour sa cage,",
+      "ipa": "[dɛme œ̃ ʒuʁ sa kaʒ]",
+      "ear": "戴梅 恩 茹赫 萨 卡日",
+      "meaning": "怕有一天，竟爱上自己的牢笼。",
+      "suppliedText": "D’aimer un jour sa cage,",
+      "sourceLineId": "romeo-timed-199-42",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1910,
+        "sourceLineNumber": 199,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1917.636,
+      "sourceText": "De vendre sa beauté,",
+      "ipa": "[də vɑ̃dʁ sa bote]",
+      "ear": "德 旺德赫 萨 博特",
+      "meaning": "怕出卖自己的美丽。",
+      "suppliedText": "De vendre sa beauté,",
+      "sourceLineId": "romeo-timed-199-43",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1910,
+        "sourceLineNumber": 199,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1921.03,
+      "sourceText": "De perdre sa dignité",
+      "ipa": "[də pɛʁdʁ sa diɲite]",
+      "ear": "德 佩赫德赫 萨 迪涅伊特",
+      "meaning": "怕丢掉自己的尊严。",
+      "suppliedText": "De perdre sa dignité",
+      "sourceLineId": "romeo-timed-199-44",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1910,
+        "sourceLineNumber": 199,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1924,
+      "sourceText": "J'ai peur",
+      "ipa": "[ʒe pœʁ]",
+      "ear": "热 珀厄赫",
+      "meaning": "我害怕。",
+      "suppliedText": "J'ai peur",
+      "sourceLineId": "romeo-timed-200-45",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 1924,
+        "sourceLineNumber": 200,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1958,
+      "sourceText": "De vendre sa beauté » !",
+      "ipa": "[də vɑ̃dʁ sa bote]",
+      "ear": "德 旺德赫 萨 博特",
+      "meaning": "“出卖自己的美丽”！",
+      "suppliedText": "De vendre sa beauté » !",
+      "sourceLineId": "romeo-timed-201-46",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1958,
+        "sourceLineNumber": 201,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1959.8,
+      "sourceText": "perdre sa dignité » !",
+      "ipa": "[pɛʁdʁ sa diɲite]",
+      "ear": "佩赫德赫 萨 迪涅伊特",
+      "meaning": "“丢掉自己的尊严”！",
+      "suppliedText": "« perdre sa dignité » !",
+      "sourceLineId": "romeo-timed-201-47",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1958,
+        "sourceLineNumber": 201,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1961.15,
+      "sourceText": "Ecoute, Roméo, ce soir… il y a bal !",
+      "ipa": "[ekut ʁomeo sə swaʁ il‿i a bal]",
+      "ear": "诶库特 霍梅奥 瑟 斯乌阿赫 伊勒 伊 阿 巴勒",
+      "meaning": "听着，罗密欧，今晚有舞会！",
+      "suppliedText": "Ecoute, Roméo, ce soir… il y a bal !",
+      "sourceLineId": "romeo-timed-201-48",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1958,
+        "sourceLineNumber": 201,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1964.3,
+      "sourceText": "Mais j’ai pas envie d’aller danser !",
+      "ipa": "[mɛ ʒe pa ɑ̃vi dale dɑ̃se]",
+      "ear": "梅 热 帕 昂维 达莱 当塞",
+      "meaning": "可我不想去跳舞！",
+      "suppliedText": "Mais j’ai pas envie d’aller danser !",
+      "sourceLineId": "romeo-timed-201-49",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1958,
+        "sourceLineNumber": 201,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1967,
+      "sourceText": "Oui, mais c’est chez les Capulet !",
+      "ipa": "[wi mɛ sɛ ʃe le kapylɛ]",
+      "ear": "乌伊 梅 塞 谢 莱 卡普于莱",
+      "meaning": "可是，在凯普莱特家！",
+      "suppliedText": "Oui, mais c’est chez les Capulet !",
+      "sourceLineId": "romeo-timed-202-50",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1967,
+        "sourceLineNumber": 202,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1969.245,
+      "sourceText": "Et alors ?",
+      "ipa": "[e alɔʁ]",
+      "ear": "诶 阿洛赫",
+      "meaning": "那又怎样？",
+      "suppliedText": "Et alors ?",
+      "sourceLineId": "romeo-timed-202-51",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1967,
+        "sourceLineNumber": 202,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1969.857,
+      "sourceText": "Et alors » ?",
+      "ipa": "[e alɔʁ]",
+      "ear": "诶 阿洛赫",
+      "meaning": "“那又怎样”？",
+      "suppliedText": "Et alors » ?",
+      "sourceLineId": "romeo-timed-202-52",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1967,
+        "sourceLineNumber": 202,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1970.469,
+      "sourceText": "Fais-nous confiance !",
+      "ipa": "[fɛnu kɔ̃fjɑ̃s]",
+      "ear": "费努 孔弗耶昂斯",
+      "meaning": "相信我们！",
+      "suppliedText": "Fais-nous confiance !",
+      "sourceLineId": "romeo-timed-202-53",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1967,
+        "sourceLineNumber": 202,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1972.102,
+      "sourceText": "Va t’habiller !",
+      "ipa": "[va tabije]",
+      "ear": "瓦 塔比耶诶",
+      "meaning": "去换衣服吧！",
+      "suppliedText": "Va t’habiller !",
+      "sourceLineId": "romeo-timed-202-54",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1967,
+        "sourceLineNumber": 202,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1972.918,
+      "sourceText": "Je ne sais pas pourquoi je vous aime !",
+      "ipa": "[ʒə nə sɛ pa puʁkwa ʒə vuz‿ɛm]",
+      "ear": "热 讷 塞 帕 普赫克乌阿 热 乌兹 艾姆",
+      "meaning": "真不知道我为什么爱你们！",
+      "suppliedText": "Je ne sais pas pourquoi je vous aime !",
+      "sourceLineId": "romeo-timed-202-55",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1967,
+        "sourceLineNumber": 202,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1976.184,
+      "sourceText": "Cherche pas, va !",
+      "ipa": "[ʃɛʁʃ pa va]",
+      "ear": "谢赫什 帕 瓦",
+      "meaning": "别想了，快去吧！",
+      "suppliedText": "Cherche pas, va !",
+      "sourceLineId": "romeo-timed-202-56",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1967,
+        "sourceLineNumber": 202,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1977,
+      "sourceText": "Qu’est-ce qu’il a en ce moment ?",
+      "ipa": "[kɛs kil‿a ɑ̃ sə momɑ̃]",
+      "ear": "凯斯 基勒 阿 昂 瑟 莫芒",
+      "meaning": "他最近怎么了？",
+      "suppliedText": "Qu’est-ce qu’il a en ce moment ?",
+      "sourceLineId": "romeo-timed-203-57",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1977,
+        "sourceLineNumber": 203,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1978.667,
+      "sourceText": "Cet air si sombre…",
+      "ipa": "[sɛt‿ɛʁ si sɔ̃bʁ]",
+      "ear": "塞特 艾赫 西 松布赫",
+      "meaning": "一脸阴沉……",
+      "suppliedText": "Cet air si sombre…",
+      "sourceLineId": "romeo-timed-203-58",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1977,
+        "sourceLineNumber": 203,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1979.667,
+      "sourceText": "Il est amoureux !",
+      "ipa": "[il‿ɛt‿amuʁø]",
+      "ear": "伊勒 艾特 阿穆赫厄",
+      "meaning": "他恋爱了！",
+      "suppliedText": "Il est amoureux !",
+      "sourceLineId": "romeo-timed-203-59",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1977,
+        "sourceLineNumber": 203,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1980.833,
+      "sourceText": "De cette…",
+      "ipa": "[də sɛt]",
+      "ear": "德 塞特",
+      "meaning": "和那个……",
+      "suppliedText": "De cette…",
+      "sourceLineId": "romeo-timed-203-60",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1977,
+        "sourceLineNumber": 203,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1981.333,
+      "sourceText": "Rosaline !",
+      "ipa": "[ʁozalin]",
+      "ear": "霍扎利恩",
+      "meaning": "罗瑟琳！",
+      "suppliedText": "Rosaline !",
+      "sourceLineId": "romeo-timed-203-61",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1977,
+        "sourceLineNumber": 203,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1982.0,
+      "sourceText": "Rosaline.",
+      "ipa": "[ʁozalin]",
+      "ear": "霍扎利恩",
+      "meaning": "罗瑟琳。",
+      "suppliedText": "Rosaline.",
+      "sourceLineId": "romeo-timed-203-62",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1977,
+        "sourceLineNumber": 203,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1982.667,
+      "sourceText": "Il change de",
+      "ipa": "[il ʃɑ̃ʒ də]",
+      "ear": "伊勒 尚日 德",
+      "meaning": "他会换一个。",
+      "suppliedText": "Il change de",
+      "sourceLineId": "romeo-timed-203-63",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1977,
+        "sourceLineNumber": 203,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1983.333,
+      "sourceText": "Rosaline toutes les semaines !",
+      "ipa": "[ʁozalin tut le səmɛn]",
+      "ear": "霍扎利恩 图特 莱 瑟梅恩",
+      "meaning": "罗瑟琳，每个星期！",
+      "suppliedText": "Rosaline toutes les semaines !",
+      "sourceLineId": "romeo-timed-203-64",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1977,
+        "sourceLineNumber": 203,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1985.333,
+      "sourceText": "C’est l’amour !",
+      "ipa": "[sɛ lamuʁ]",
+      "ear": "塞 拉穆赫",
+      "meaning": "这就是爱情！",
+      "suppliedText": "C’est l’amour !",
+      "sourceLineId": "romeo-timed-203-65",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1977,
+        "sourceLineNumber": 203,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1986,
+      "sourceText": "Arrête, on dirait",
+      "ipa": "[aʁɛt ɔ̃ diʁɛ]",
+      "ear": "阿赫特 翁 迪赫",
+      "meaning": "得了，你说得像。",
+      "suppliedText": "Arrête, on dirait",
+      "sourceLineId": "romeo-timed-204-66",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1986,
+        "sourceLineNumber": 204,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1988.667,
+      "sourceText": "Frère Laurent !",
+      "ipa": "[fʁɛʁ loʁɑ̃]",
+      "ear": "弗赫赫 洛杭",
+      "meaning": "劳伦斯神父！",
+      "suppliedText": "Frère Laurent !",
+      "sourceLineId": "romeo-timed-204-67",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1986,
+        "sourceLineNumber": 204,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1990.571,
+      "sourceText": "Aah, l’amour… !",
+      "ipa": "[aa lamuʁ]",
+      "ear": "阿阿 拉穆赫",
+      "meaning": "啊，爱情……！",
+      "suppliedText": "Aah, l’amour… !",
+      "sourceLineId": "romeo-timed-204-68",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1986,
+        "sourceLineNumber": 204,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1992.476,
+      "sourceText": "Aller, vient !",
+      "ipa": "[ale vjɛ̃]",
+      "ear": "阿莱 弗耶安",
+      "meaning": "走吧，来！",
+      "suppliedText": "Aller, vient !",
+      "sourceLineId": "romeo-timed-204-69",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1986,
+        "sourceLineNumber": 204,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,885 @@
+{
+  "videoId": "romeo-2010-31",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=6491"
+    }
+  ],
+  "entries": [
+    {
+      "start": 6501,
+      "sourceText": "Quand la mer est noire, quand la terre gronde",
+      "ipa": "[kɑ̃ la mɛʁ‿ɛ nwaʁ kɑ̃ la tɛʁ ɡʁɔ̃d]",
+      "ear": "康 拉 梅赫 艾 恩乌阿赫 康 拉 泰赫 格洪德",
+      "meaning": "当海水漆黑，大地震动。",
+      "suppliedText": "Quand la mer est noire, quand la terre gronde",
+      "sourceLineId": "romeo-timed-617-1",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6501,
+        "sourceLineNumber": 617,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6504.387,
+      "sourceText": "Qu'on se sent tout seul, tout seul au monde.",
+      "ipa": "[kɔ̃ sə sɑ̃ tu sœl tu sœl‿o mɔ̃d]",
+      "ear": "孔 瑟 桑 图 瑟厄勒 图 瑟厄勒 奥 蒙德",
+      "meaning": "当你独自一人，像世上只剩下自己。",
+      "suppliedText": "Qu'on se sent tout seul, tout seul au monde.",
+      "sourceLineId": "romeo-timed-617-2",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6501,
+        "sourceLineNumber": 617,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6508,
+      "sourceText": "Quand nos cœurs de verre se glacent",
+      "ipa": "[kɑ̃ no kœʁ də vɛʁ sə ɡlas]",
+      "ear": "康 诺 克厄赫 德 韦赫 瑟 格拉斯",
+      "meaning": "当玻璃般的心冻结。",
+      "suppliedText": "Quand nos cœurs de verre se glacent",
+      "sourceLineId": "romeo-timed-618-3",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6508,
+        "sourceLineNumber": 618,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6511.5,
+      "sourceText": "Qu'on sait plus où est sa place",
+      "ipa": "[kɔ̃ sɛ plyz‿u ɛ sa plas]",
+      "ear": "孔 塞 普吕兹 乌 艾 萨 普拉斯",
+      "meaning": "不知道哪里才是自己的位置。",
+      "suppliedText": "Qu'on sait plus où est sa place",
+      "sourceLineId": "romeo-timed-618-4",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6508,
+        "sourceLineNumber": 618,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6515,
+      "sourceText": "Quand les dieux sont en colère",
+      "ipa": "[kɑ̃ le djø sɔ̃t‿ɑ̃ kolɛʁ]",
+      "ear": "康 莱 德耶厄 松特 昂 科莱赫",
+      "meaning": "当众神发怒。",
+      "suppliedText": "Quand les dieux sont en colère",
+      "sourceLineId": "romeo-timed-619-5",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6515,
+        "sourceLineNumber": 619,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6519.95,
+      "sourceText": "Qu'on est perdu sur la terre...",
+      "ipa": "[kɔ̃ ɛ pɛʁdy syʁ la tɛʁ]",
+      "ear": "孔 艾 佩赫迪于 西于赫 拉 泰赫",
+      "meaning": "当我们迷失在世间……",
+      "suppliedText": "Qu'on est perdu sur la terre...",
+      "sourceLineId": "romeo-timed-619-6",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6515,
+        "sourceLineNumber": 619,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6524,
+      "sourceText": "On prie.",
+      "ipa": "[ɔ̃ pʁi]",
+      "ear": "翁 普希",
+      "meaning": "我们祈祷。",
+      "suppliedText": "On prie.",
+      "sourceLineId": "romeo-timed-620-7",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6524,
+        "sourceLineNumber": 620,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6527.5,
+      "sourceText": "On prie.",
+      "ipa": "[ɔ̃ pʁi]",
+      "ear": "翁 普希",
+      "meaning": "我们祈祷。",
+      "suppliedText": "On prie.",
+      "sourceLineId": "romeo-timed-620-8",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6524,
+        "sourceLineNumber": 620,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6531.0,
+      "sourceText": "On prie.",
+      "ipa": "[ɔ̃ pʁi]",
+      "ear": "翁 普希",
+      "meaning": "我们祈祷。",
+      "suppliedText": "On prie.",
+      "sourceLineId": "romeo-timed-620-9",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6524,
+        "sourceLineNumber": 620,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6534.5,
+      "sourceText": "On prie.",
+      "ipa": "[ɔ̃ pʁi]",
+      "ear": "翁 普希",
+      "meaning": "我们祈祷。",
+      "suppliedText": "On prie.",
+      "sourceLineId": "romeo-timed-620-10",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6524,
+        "sourceLineNumber": 620,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6538,
+      "sourceText": "On prie quand la vie est un enfer",
+      "ipa": "[ɔ̃ pʁi kɑ̃ la vi ɛt‿œ̃n‿ɑ̃fɛʁ]",
+      "ear": "翁 普希 康 拉 维 艾特 恩恩 昂费赫",
+      "meaning": "当生活如地狱，我们祈祷。",
+      "suppliedText": "On prie quand la vie est un enfer",
+      "sourceLineId": "romeo-timed-621-11",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6538,
+        "sourceLineNumber": 621,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6542.909,
+      "sourceText": "Que les hommes se désespèrent",
+      "ipa": "[kə lez‿ɔm sə dezɛspɛʁ]",
+      "ear": "克 莱兹 哦姆 瑟 德泽斯佩赫",
+      "meaning": "当人们陷入绝望。",
+      "suppliedText": "Que les hommes se désespèrent",
+      "sourceLineId": "romeo-timed-621-12",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6538,
+        "sourceLineNumber": 621,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6547,
+      "sourceText": "Qu'il ne reste que la prière.",
+      "ipa": "[kil nə ʁɛst kə la pʁiɛʁ]",
+      "ear": "基勒 讷 赫斯特 克 拉 普希艾赫",
+      "meaning": "只剩祈祷。",
+      "suppliedText": "Qu'il ne reste que la prière.",
+      "sourceLineId": "romeo-timed-622-13",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 6547,
+        "sourceLineNumber": 622,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6553,
+      "sourceText": "Quand le mal est en armure",
+      "ipa": "[kɑ̃ lə mal‿ɛt‿ɑ̃n‿aʁmyʁ]",
+      "ear": "康 勒 玛勒 艾特 昂恩 阿赫米于赫",
+      "meaning": "当邪恶披上铠甲。",
+      "suppliedText": "Quand le mal est en armure",
+      "sourceLineId": "romeo-timed-623-14",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6553,
+        "sourceLineNumber": 623,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6556.273,
+      "sourceText": "Que se battre devient, devient trop dur.",
+      "ipa": "[kə sə batʁ dəvjɛ̃ dəvjɛ̃ tʁo dyʁ]",
+      "ear": "克 瑟 巴特赫 德弗耶安 德弗耶安 特霍 迪于赫",
+      "meaning": "当战斗变得太难。",
+      "suppliedText": "Que se battre devient, devient trop dur.",
+      "sourceLineId": "romeo-timed-623-15",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6553,
+        "sourceLineNumber": 623,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6561,
+      "sourceText": "Quand les yeux des enfants débordent",
+      "ipa": "[kɑ̃ lez‿jø dez‿ɑ̃fɑ̃ debɔʁd]",
+      "ear": "康 莱兹 耶厄 德兹 昂芳 德博赫德",
+      "meaning": "当孩子们的眼睛溢满泪水。",
+      "suppliedText": "Quand les yeux des enfants débordent",
+      "sourceLineId": "romeo-timed-624-16",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6561,
+        "sourceLineNumber": 624,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6564.36,
+      "sourceText": "Que les violons du temps se désaccordent.",
+      "ipa": "[kə le vjolɔ̃ dy tɑ̃ sə dezakɔʁd]",
+      "ear": "克 莱 弗耶奥隆 迪于 唐 瑟 德扎科赫德",
+      "meaning": "当时间的小提琴走了调。",
+      "suppliedText": "Que les violons du temps se désaccordent.",
+      "sourceLineId": "romeo-timed-624-17",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6561,
+        "sourceLineNumber": 624,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6568,
+      "sourceText": "Vous qui viendrez après nous : serez-vous toujours à genoux ?",
+      "ipa": "[vu ki vjɛ̃dʁe apʁɛ nu səʁevu tuʒuʁ‿a ʒənu]",
+      "ear": "乌 基 弗耶安德赫 阿普赫 努 瑟赫乌 图茹赫 阿 热努",
+      "meaning": "后来的人啊，你们还会一直跪着吗？",
+      "suppliedText": "Vous qui viendrez après nous : serez-vous toujours à genoux ?",
+      "sourceLineId": "romeo-timed-625-18",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 6568,
+        "sourceLineNumber": 625,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6575,
+      "sourceText": "On prie.",
+      "ipa": "[ɔ̃ pʁi]",
+      "ear": "翁 普希",
+      "meaning": "我们祈祷。",
+      "suppliedText": "On prie.",
+      "sourceLineId": "romeo-timed-626-19",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6575,
+        "sourceLineNumber": 626,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6578.5,
+      "sourceText": "On prie.",
+      "ipa": "[ɔ̃ pʁi]",
+      "ear": "翁 普希",
+      "meaning": "我们祈祷。",
+      "suppliedText": "On prie.",
+      "sourceLineId": "romeo-timed-626-20",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6575,
+        "sourceLineNumber": 626,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6582.0,
+      "sourceText": "On prie.",
+      "ipa": "[ɔ̃ pʁi]",
+      "ear": "翁 普希",
+      "meaning": "我们祈祷。",
+      "suppliedText": "On prie.",
+      "sourceLineId": "romeo-timed-626-21",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6575,
+        "sourceLineNumber": 626,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6585.5,
+      "sourceText": "On prie.",
+      "ipa": "[ɔ̃ pʁi]",
+      "ear": "翁 普希",
+      "meaning": "我们祈祷。",
+      "suppliedText": "On prie.",
+      "sourceLineId": "romeo-timed-626-22",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6575,
+        "sourceLineNumber": 626,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6589,
+      "sourceText": "On prie pour nos parents pour nos frères.",
+      "ipa": "[ɔ̃ pʁi puʁ no paʁɑ̃ puʁ no fʁɛʁ]",
+      "ear": "翁 普希 普赫 诺 帕杭 普赫 诺 弗赫赫",
+      "meaning": "我们为父母，为兄弟祈祷。",
+      "suppliedText": "On prie pour nos parents pour nos frères.",
+      "sourceLineId": "romeo-timed-627-23",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6589,
+        "sourceLineNumber": 627,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6594.652,
+      "sourceText": "Dos courbé, genoux à terre.",
+      "ipa": "[do kuʁbe ʒənu a tɛʁ]",
+      "ear": "多 库赫贝 热努 阿 泰赫",
+      "meaning": "弯着背，双膝跪地。",
+      "suppliedText": "Dos courbé, genoux à terre.",
+      "sourceLineId": "romeo-timed-627-24",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6589,
+        "sourceLineNumber": 627,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6599,
+      "sourceText": "On te cherche et on se perd.",
+      "ipa": "[ɔ̃ tə ʃɛʁʃ e ɔ̃ sə pɛʁ]",
+      "ear": "翁 特 谢赫什 诶 翁 瑟 佩赫",
+      "meaning": "寻找你，却迷失了自己。",
+      "suppliedText": "On te cherche et on se perd.",
+      "sourceLineId": "romeo-timed-628-25",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 6599,
+        "sourceLineNumber": 628,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6605,
+      "sourceText": "Quand on vit loin du monde",
+      "ipa": "[kɑ̃t‿ɔ̃ vi lwɛ̃ dy mɔ̃d]",
+      "ear": "康特 翁 维 勒乌安 迪于 蒙德",
+      "meaning": "当我们远离世间生活。",
+      "suppliedText": "Quand on vit loin du monde",
+      "sourceLineId": "romeo-timed-629-26",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6605,
+        "sourceLineNumber": 629,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6608.818,
+      "sourceText": "On croit qu'on vit en paix",
+      "ipa": "[ɔ̃ kʁwa kɔ̃ vi ɑ̃ pɛ]",
+      "ear": "翁 克赫乌阿 孔 维 昂 佩",
+      "meaning": "以为自己活在和平中。",
+      "suppliedText": "On croit qu'on vit en paix",
+      "sourceLineId": "romeo-timed-629-27",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6605,
+        "sourceLineNumber": 629,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6612.636,
+      "sourceText": "Mais quand la terre gronde...",
+      "ipa": "[mɛ kɑ̃ la tɛʁ ɡʁɔ̃d]",
+      "ear": "梅 康 拉 泰赫 格洪德",
+      "meaning": "可当大地震动……",
+      "suppliedText": "Mais quand la terre gronde...",
+      "sourceLineId": "romeo-timed-629-28",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6605,
+        "sourceLineNumber": 629,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6616.455,
+      "sourceText": "On sait...",
+      "ipa": "[ɔ̃ sɛ]",
+      "ear": "翁 塞",
+      "meaning": "我们才明白……",
+      "suppliedText": "On sait...",
+      "sourceLineId": "romeo-timed-629-29",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6605,
+        "sourceLineNumber": 629,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6617.727,
+      "sourceText": "On sait...",
+      "ipa": "[ɔ̃ sɛ]",
+      "ear": "翁 塞",
+      "meaning": "我们才明白……",
+      "suppliedText": "On sait...",
+      "sourceLineId": "romeo-timed-629-30",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6605,
+        "sourceLineNumber": 629,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6619,
+      "sourceText": "On prie, on prie...",
+      "ipa": "[ɔ̃ pʁi ɔ̃ pʁi]",
+      "ear": "翁 普希 翁 普希",
+      "meaning": "我们祈祷，祈祷……",
+      "suppliedText": "On prie, on prie...",
+      "sourceLineId": "romeo-timed-630-31",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6619,
+        "sourceLineNumber": 630,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6620.65,
+      "sourceText": "Quand nos âmes sont en prison",
+      "ipa": "[kɑ̃ noz‿am sɔ̃t‿ɑ̃ pʁizɔ̃]",
+      "ear": "康 诺兹 阿姆 松特 昂 普希宗",
+      "meaning": "当灵魂被关进牢笼。",
+      "suppliedText": "Quand nos âmes sont en prison",
+      "sourceLineId": "romeo-timed-630-32",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6619,
+        "sourceLineNumber": 630,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6623.125,
+      "sourceText": "On prie pour demander à Dieu pardon.",
+      "ipa": "[ɔ̃ pʁi puʁ dəmɑ̃de a djø paʁdɔ̃]",
+      "ear": "翁 普希 普赫 德芒德 阿 德耶厄 帕赫东",
+      "meaning": "我们祈祷，请求上帝宽恕。",
+      "suppliedText": "On prie pour demander à Dieu pardon.",
+      "sourceLineId": "romeo-timed-630-33",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6619,
+        "sourceLineNumber": 630,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6626.975,
+      "sourceText": "Pour que l'envie ait un sens",
+      "ipa": "[puʁ kə lɑ̃vi ɛ œ̃ sɑ̃s]",
+      "ear": "普赫 克 朗维 艾 恩 桑斯",
+      "meaning": "为了让渴望有意义。",
+      "suppliedText": "Pour que l'envie ait un sens",
+      "sourceLineId": "romeo-timed-630-34",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6619,
+        "sourceLineNumber": 630,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6630,
+      "sourceText": "On prie quand la mort est là et qu'elle danse.",
+      "ipa": "[ɔ̃ pʁi kɑ̃ la mɔʁ‿ɛ la e kɛl dɑ̃s]",
+      "ear": "翁 普希 康 拉 莫赫 艾 拉 诶 凯勒 当斯",
+      "meaning": "当死亡来到、跳起舞时，我们祈祷。",
+      "suppliedText": "On prie quand la mort est là et qu'elle danse.",
+      "sourceLineId": "romeo-timed-631-35",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6630,
+        "sourceLineNumber": 631,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6633.947,
+      "sourceText": "Quand nos âmes sont en prison",
+      "ipa": "[kɑ̃ noz‿am sɔ̃t‿ɑ̃ pʁizɔ̃]",
+      "ear": "康 诺兹 阿姆 松特 昂 普希宗",
+      "meaning": "当灵魂被关进牢笼。",
+      "suppliedText": "Quand nos âmes sont en prison",
+      "sourceLineId": "romeo-timed-631-36",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6630,
+        "sourceLineNumber": 631,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6636.316,
+      "sourceText": "On prie pour demander à Dieu pardon.",
+      "ipa": "[ɔ̃ pʁi puʁ dəmɑ̃de a djø paʁdɔ̃]",
+      "ear": "翁 普希 普赫 德芒德 阿 德耶厄 帕赫东",
+      "meaning": "我们祈祷，请求上帝宽恕。",
+      "suppliedText": "On prie pour demander à Dieu pardon.",
+      "sourceLineId": "romeo-timed-631-37",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6630,
+        "sourceLineNumber": 631,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6640,
+      "sourceText": "On prie pour nos parents pour nos frères.",
+      "ipa": "[ɔ̃ pʁi puʁ no paʁɑ̃ puʁ no fʁɛʁ]",
+      "ear": "翁 普希 普赫 诺 帕杭 普赫 诺 弗赫赫",
+      "meaning": "我们为父母，为兄弟祈祷。",
+      "suppliedText": "On prie pour nos parents pour nos frères.",
+      "sourceLineId": "romeo-timed-632-38",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6640,
+        "sourceLineNumber": 632,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6644.522,
+      "sourceText": "Dos courbé genoux à terre.",
+      "ipa": "[do kuʁbe ʒənu a tɛʁ]",
+      "ear": "多 库赫贝 热努 阿 泰赫",
+      "meaning": "弯着背，双膝跪地。",
+      "suppliedText": "Dos courbé genoux à terre.",
+      "sourceLineId": "romeo-timed-632-39",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6640,
+        "sourceLineNumber": 632,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6648,
+      "sourceText": "On te cherche et on se perd.",
+      "ipa": "[ɔ̃ tə ʃɛʁʃ e ɔ̃ sə pɛʁ]",
+      "ear": "翁 特 谢赫什 诶 翁 瑟 佩赫",
+      "meaning": "寻找你，却迷失了自己。",
+      "suppliedText": "On te cherche et on se perd.",
+      "sourceLineId": "romeo-timed-633-40",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6648,
+        "sourceLineNumber": 633,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6651.478,
+      "sourceText": "Quand la mer est noire, quand la terre gronde",
+      "ipa": "[kɑ̃ la mɛʁ‿ɛ nwaʁ kɑ̃ la tɛʁ ɡʁɔ̃d]",
+      "ear": "康 拉 梅赫 艾 恩乌阿赫 康 拉 泰赫 格洪德",
+      "meaning": "当海水漆黑，大地震动。",
+      "suppliedText": "Quand la mer est noire, quand la terre gronde",
+      "sourceLineId": "romeo-timed-633-41",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6648,
+        "sourceLineNumber": 633,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6658,
+      "sourceText": "Qu'on se sent tout seul, tout seul au monde",
+      "ipa": "[kɔ̃ sə sɑ̃ tu sœl tu sœl‿o mɔ̃d]",
+      "ear": "孔 瑟 桑 图 瑟厄勒 图 瑟厄勒 奥 蒙德",
+      "meaning": "当你独自一人，像世上只剩下自己。",
+      "suppliedText": "Qu'on se sent tout seul, tout seul au monde",
+      "sourceLineId": "romeo-timed-634-42",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6658,
+        "sourceLineNumber": 634,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6671.474,
+      "sourceText": "On prie...",
+      "ipa": "[ɔ̃ pʁi]",
+      "ear": "翁 普希",
+      "meaning": "我们祈祷……",
+      "suppliedText": "On prie...",
+      "sourceLineId": "romeo-timed-634-43",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6658,
+        "sourceLineNumber": 634,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6674,
+      "sourceText": "Juliette !",
+      "ipa": "[ʒyljɛt]",
+      "ear": "日于勒耶艾特",
+      "meaning": "朱丽叶！",
+      "suppliedText": "Juliette !",
+      "sourceLineId": "romeo-timed-635-44",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6674,
+        "sourceLineNumber": 635,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6674.762,
+      "sourceText": "Prends cette fiole, il te suffira de quelques gouttes",
+      "ipa": "[pʁɑ̃ sɛt fjɔl il tə syfiʁa də kɛlkə ɡut]",
+      "ear": "普杭 塞特 弗耶哦勒 伊勒 特 西于菲哈 德 凯勒克 古特",
+      "meaning": "拿着这瓶药，只需几滴。",
+      "suppliedText": "Prends cette fiole, il te suffira de quelques gouttes",
+      "sourceLineId": "romeo-timed-635-45",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6674,
+        "sourceLineNumber": 635,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6678.381,
+      "sourceText": "et on te croira morte.",
+      "ipa": "[e ɔ̃ tə kʁwaʁa mɔʁt]",
+      "ear": "诶 翁 特 克赫乌阿哈 莫赫特",
+      "meaning": "他们就会以为你死了。",
+      "suppliedText": "et on te croira morte.",
+      "sourceLineId": "romeo-timed-635-46",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6674,
+        "sourceLineNumber": 635,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6679.905,
+      "sourceText": "Ton corps sera froid.",
+      "ipa": "[tɔ̃ kɔʁ səʁa fʁwa]",
+      "ear": "通 科赫 瑟哈 弗赫乌阿",
+      "meaning": "你的身体会冰冷。",
+      "suppliedText": "Ton corps sera froid.",
+      "sourceLineId": "romeo-timed-635-47",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6674,
+        "sourceLineNumber": 635,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6681.048,
+      "sourceText": "Mais Roméo ?",
+      "ipa": "[mɛ ʁomeo]",
+      "ear": "梅 霍梅奥",
+      "meaning": "可罗密欧呢？",
+      "suppliedText": "Mais Roméo ?",
+      "sourceLineId": "romeo-timed-635-48",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6674,
+        "sourceLineNumber": 635,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6682,
+      "sourceText": "Ne t’inquiète pas, je vais lui faire porter une lettre.",
+      "ipa": "[nə tɛ̃kjɛt pa ʒə vɛ lɥi fɛʁ pɔʁte yn lɛtʁ]",
+      "ear": "讷 坦克耶艾特 帕 热 韦 勒于伊 费赫 珀赫特 于恩 莱特赫",
+      "meaning": "别担心，我会派人给他送信。",
+      "suppliedText": "Ne t’inquiète pas, je vais lui faire porter une lettre.",
+      "sourceLineId": "romeo-timed-636-49",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6682,
+        "sourceLineNumber": 636,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6684.4,
+      "sourceText": "Quand tu te réveilleras, il sera là !",
+      "ipa": "[kɑ̃ ty tə ʁevɛjʁa il səʁa la]",
+      "ear": "康 蒂于 特 赫韦耶哈 伊勒 瑟哈 拉",
+      "meaning": "你醒来时，他会在那里！",
+      "suppliedText": "Quand tu te réveilleras, il sera là !",
+      "sourceLineId": "romeo-timed-636-50",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6682,
+        "sourceLineNumber": 636,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6685.886,
+      "sourceText": "Etes-vous sûr frère Laurent ?",
+      "ipa": "[ɛtvu syʁ fʁɛʁ loʁɑ̃]",
+      "ear": "艾特乌 西于赫 弗赫赫 洛杭",
+      "meaning": "您确定吗，劳伦斯神父？",
+      "suppliedText": "Etes-vous sûr frère Laurent ?",
+      "sourceLineId": "romeo-timed-636-51",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6682,
+        "sourceLineNumber": 636,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6687.029,
+      "sourceText": "Aie confiance ma Juliette… aie confiance !",
+      "ipa": "[ɛ kɔ̃fjɑ̃s ma ʒyljɛt ɛ kɔ̃fjɑ̃s]",
+      "ear": "艾 孔弗耶昂斯 玛 日于勒耶艾特 艾 孔弗耶昂斯",
+      "meaning": "相信我，我的朱丽叶……相信我！",
+      "suppliedText": "Aie confiance ma Juliette… aie confiance !",
+      "sourceLineId": "romeo-timed-636-52",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6682,
+        "sourceLineNumber": 636,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6689.2,
+      "sourceText": "Maintenant pars vite !",
+      "ipa": "[mɛ̃tnɑ̃ paʁ vit]",
+      "ear": "曼特南 帕赫 维特",
+      "meaning": "现在，快走吧！",
+      "suppliedText": "Maintenant pars vite !",
+      "sourceLineId": "romeo-timed-636-53",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6682,
+        "sourceLineNumber": 636,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6690,
+      "sourceText": "Merci.",
+      "ipa": "[mɛʁsi]",
+      "ear": "梅赫西",
+      "meaning": "谢谢。",
+      "suppliedText": "Merci.",
+      "sourceLineId": "romeo-timed-637-54",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 6690,
+        "sourceLineNumber": 637,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

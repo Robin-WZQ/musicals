@@ -1,0 +1,741 @@
+{
+  "videoId": "romeo-2010-05",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=865"
+    }
+  ],
+  "entries": [
+    {
+      "start": 871,
+      "sourceText": "Être haï et trahi",
+      "ipa": "[ɛtʁ‿aj e tʁai]",
+      "ear": "艾特赫 阿耶 诶 特哈伊",
+      "meaning": "被憎恨，被背叛。",
+      "suppliedText": "Être haït et trahi",
+      "sourceLineId": "romeo-timed-92-1",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 871,
+        "sourceLineNumber": 92,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 876.0,
+      "sourceText": "Des amis, non, pas d’amis",
+      "ipa": "[dez‿ami nɔ̃ pa dami]",
+      "ear": "德兹 阿米 农 帕 达米",
+      "meaning": "朋友？不，我没有朋友。",
+      "suppliedText": "Des amis, non, pas d’amis",
+      "sourceLineId": "romeo-timed-92-2",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 871,
+        "sourceLineNumber": 92,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 881,
+      "sourceText": "Je suis seul, tant pis",
+      "ipa": "[ʒə sɥi sœl tɑ̃pi]",
+      "ear": "热 斯于伊 瑟厄勒 唐皮",
+      "meaning": "我独自一人，那又怎样。",
+      "suppliedText": "Je suis seul, tant pis",
+      "sourceLineId": "romeo-timed-93-3",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 881,
+        "sourceLineNumber": 93,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 884.792,
+      "sourceText": "Et ceux qui veulent être aimés à tout prix",
+      "ipa": "[e sø ki vœl‿ɛtʁ‿ɛme a tu pʁi]",
+      "ear": "诶 瑟厄 基 弗厄勒 艾特赫 艾梅 阿 图 普希",
+      "meaning": "那些不惜一切也要被爱的人。",
+      "suppliedText": "Et ceux qui veulent être aimés à tout prix",
+      "sourceLineId": "romeo-timed-93-4",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 881,
+        "sourceLineNumber": 93,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 894,
+      "sourceText": "Je les méprise, je les envie",
+      "ipa": "[ʒə le mepʁiz ʒə lez‿ɑ̃vi]",
+      "ear": "热 莱 梅普希兹 热 莱兹 昂维",
+      "meaning": "我鄙视他们，也羡慕他们。",
+      "suppliedText": "Je les méprise, je les envie",
+      "sourceLineId": "romeo-timed-94-5",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 894,
+        "sourceLineNumber": 94,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 898.0,
+      "sourceText": "Y’a que dans cette maison",
+      "ipa": "[ja kə dɑ̃ sɛt mɛzɔ̃]",
+      "ear": "耶阿 克 当 塞特 梅宗",
+      "meaning": "只有在这座家里。",
+      "suppliedText": "Y’a que dans cette maison",
+      "sourceLineId": "romeo-timed-94-6",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 894,
+        "sourceLineNumber": 94,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 902,
+      "sourceText": "Qu’j’ai le cœur tendre",
+      "ipa": "[kə ʒe lə kœʁ tɑ̃dʁ]",
+      "ear": "克 热 勒 克厄赫 唐德赫",
+      "meaning": "我的心才会柔软。",
+      "suppliedText": "Qu’j’ai le cœur tendre",
+      "sourceLineId": "romeo-timed-95-7",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 902,
+        "sourceLineNumber": 95,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 906.4,
+      "sourceText": "Je n’ai que ce blason",
+      "ipa": "[ʒə ne kə sə blazɔ̃]",
+      "ear": "热 内 克 瑟 布拉宗",
+      "meaning": "我只有这枚家族纹章。",
+      "suppliedText": "Je n’ai que ce blason",
+      "sourceLineId": "romeo-timed-95-8",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 902,
+        "sourceLineNumber": 95,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 910.8,
+      "sourceText": "À défendre",
+      "ipa": "[a defɑ̃dʁ]",
+      "ear": "阿 德芳德赫",
+      "meaning": "需要守护。",
+      "suppliedText": "À défendre",
+      "sourceLineId": "romeo-timed-95-9",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 902,
+        "sourceLineNumber": 95,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 913,
+      "sourceText": "Tybalt, je suis Tybalt",
+      "ipa": "[tibalt ʒə sɥi tibalt]",
+      "ear": "蒂巴勒特 热 斯于伊 蒂巴勒特",
+      "meaning": "提伯尔特，我就是提伯尔特。",
+      "suppliedText": "Tybalt, je suis Tybalt",
+      "sourceLineId": "romeo-timed-96-10",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 913,
+        "sourceLineNumber": 96,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 916.938,
+      "sourceText": "On me déteste, on me craint",
+      "ipa": "[ɔ̃ mə detɛst ɔ̃ mə kʁɛ̃]",
+      "ear": "翁 默 德泰斯特 翁 默 克汉",
+      "meaning": "人们恨我，也怕我。",
+      "suppliedText": "On me déteste, on me craint",
+      "sourceLineId": "romeo-timed-96-11",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 913,
+        "sourceLineNumber": 96,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 922,
+      "sourceText": "Mais au moins je suis quelqu’un Tybalt, je suis Tybalt",
+      "ipa": "[mɛ o mwɛ̃ ʒə sɥi kɛlkœ̃ tibalt ʒə sɥi tibalt]",
+      "ear": "梅 奥 姆乌安 热 斯于伊 凯勒坎 蒂巴勒特 热 斯于伊 蒂巴勒特",
+      "meaning": "可我至少有个身份：提伯尔特，我就是提伯尔特。",
+      "suppliedText": "Mais au moins je suis quelqu’un Tybalt, je suis Tybalt",
+      "sourceLineId": "romeo-timed-97-12",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 922,
+        "sourceLineNumber": 97,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 928.875,
+      "sourceText": "Je suis l’homme aux deux visages",
+      "ipa": "[ʒə sɥi lɔm‿o dø vizaʒ]",
+      "ear": "热 斯于伊 洛姆 奥 德厄 维扎日",
+      "meaning": "我是有着两张面孔的人。",
+      "suppliedText": "Je suis l’homme aux deux visages",
+      "sourceLineId": "romeo-timed-97-13",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 922,
+        "sourceLineNumber": 97,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 933,
+      "sourceText": "Et quand je pleure",
+      "ipa": "[e kɑ̃ ʒə plœʁ]",
+      "ear": "诶 康 热 普勒厄赫",
+      "meaning": "当我流泪。",
+      "suppliedText": "Et quand je pleure",
+      "sourceLineId": "romeo-timed-98-14",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 933,
+        "sourceLineNumber": 98,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 941.909,
+      "sourceText": "C’est de rage",
+      "ipa": "[sɛ də ʁaʒ]",
+      "ear": "塞 德 哈日",
+      "meaning": "那是因为愤怒。",
+      "suppliedText": "C’est de rage",
+      "sourceLineId": "romeo-timed-98-15",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 933,
+        "sourceLineNumber": 98,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 947,
+      "sourceText": "Tybalt, je suis Tybalt",
+      "ipa": "[tibalt ʒə sɥi tibalt]",
+      "ear": "蒂巴勒特 热 斯于伊 蒂巴勒特",
+      "meaning": "提伯尔特，我就是提伯尔特。",
+      "suppliedText": "Tybalt, je suis Tybalt",
+      "sourceLineId": "romeo-timed-99-16",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 947,
+        "sourceLineNumber": 99,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 950.938,
+      "sourceText": "On me déteste, on me craint",
+      "ipa": "[ɔ̃ mə detɛst ɔ̃ mə kʁɛ̃]",
+      "ear": "翁 默 德泰斯特 翁 默 克汉",
+      "meaning": "人们恨我，也怕我。",
+      "suppliedText": "On me déteste, on me craint",
+      "sourceLineId": "romeo-timed-99-17",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 947,
+        "sourceLineNumber": 99,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 956,
+      "sourceText": "Mais moi j’n’sens plus rien",
+      "ipa": "[mɛ mwa ʒə nə sɑ̃ ply ʁjɛ̃]",
+      "ear": "梅 姆乌阿 热 讷 桑 普吕 赫耶安",
+      "meaning": "可我已经什么也感觉不到了。",
+      "suppliedText": "Mais moi j’n’sens plus rien",
+      "sourceLineId": "romeo-timed-100-18",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 956,
+        "sourceLineNumber": 100,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 974,
+      "sourceText": "Mais quand même,",
+      "ipa": "[mɛ kɑ̃ mɛm]",
+      "ear": "梅 康 梅姆",
+      "meaning": "但是，话说回来。",
+      "suppliedText": "Mais quand même,",
+      "sourceLineId": "romeo-timed-101-19",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 974,
+        "sourceLineNumber": 101,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 975.053,
+      "sourceText": "Nourrice, me marier non mais quelle drôle d’idée !",
+      "ipa": "[nuʁis mə maʁje nɔ̃ mɛ kɛl dʁol dide]",
+      "ear": "努希斯 默 玛赫耶诶 农 梅 凯勒 德霍勒 迪德",
+      "meaning": "奶妈，要我结婚？这是什么怪主意！",
+      "suppliedText": "Nourrice, me marier non mais qu’elle drôle d’idée !",
+      "sourceLineId": "romeo-timed-101-20",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 974,
+        "sourceLineNumber": 101,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 978.386,
+      "sourceText": "Je suis trop jeune !",
+      "ipa": "[ʒə sɥi tʁo ʒøn]",
+      "ear": "热 斯于伊 特霍 热厄恩",
+      "meaning": "我还太小！",
+      "suppliedText": "Je suis trop jeune !",
+      "sourceLineId": "romeo-timed-101-21",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 974,
+        "sourceLineNumber": 101,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 979.614,
+      "sourceText": "Jeune ?",
+      "ipa": "[ʒøn]",
+      "ear": "热厄恩",
+      "meaning": "小？",
+      "suppliedText": "Jeune ?",
+      "sourceLineId": "romeo-timed-101-22",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 974,
+        "sourceLineNumber": 101,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 980.14,
+      "sourceText": "Mais à ton âge, je faisais déjà crier mon mari de plaisir !",
+      "ipa": "[mɛ a tɔ̃n‿aʒ ʒə fəzɛ deʒa kʁie mɔ̃ maʁi də plɛziʁ]",
+      "ear": "梅 阿 通恩 阿日 热 弗泽 德扎 克希诶 蒙 玛希 德 普莱齐赫",
+      "meaning": "我像你这么大时，已经能让丈夫快活得叫出声了！",
+      "suppliedText": "Mais à ton âge, je faisais déjà crier mon mari de plaisir !",
+      "sourceLineId": "romeo-timed-101-23",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 974,
+        "sourceLineNumber": 101,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 984,
+      "sourceText": "Tu étais mariée ?",
+      "ipa": "[ty etɛ maʁje]",
+      "ear": "蒂于 诶泰 玛赫耶诶",
+      "meaning": "你结过婚？",
+      "suppliedText": "Tu étais mariée ?",
+      "sourceLineId": "romeo-timed-102-24",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 984,
+        "sourceLineNumber": 102,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 985.2,
+      "sourceText": "Toi ?",
+      "ipa": "[twa]",
+      "ear": "特乌阿",
+      "meaning": "你？",
+      "suppliedText": "Toi ?",
+      "sourceLineId": "romeo-timed-102-25",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 984,
+        "sourceLineNumber": 102,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 985.5,
+      "sourceText": "Mais oui !",
+      "ipa": "[mɛ wi]",
+      "ear": "梅 乌伊",
+      "meaning": "当然！",
+      "suppliedText": "Mais oui !",
+      "sourceLineId": "romeo-timed-102-26",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 984,
+        "sourceLineNumber": 102,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 986.25,
+      "sourceText": "Oui mais tu l’aimais ton mari !",
+      "ipa": "[wi mɛ ty lɛmɛ tɔ̃ maʁi]",
+      "ear": "乌伊 梅 蒂于 莱梅 通 玛希",
+      "meaning": "可你爱你的丈夫呀！",
+      "suppliedText": "Oui mais tu l’aimais ton mari !",
+      "sourceLineId": "romeo-timed-102-27",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 984,
+        "sourceLineNumber": 102,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 988.2,
+      "sourceText": "Mais Juliette, tu confonds tout !",
+      "ipa": "[mɛ ʒyljɛt ty kɔ̃fɔ̃ tu]",
+      "ear": "梅 日于勒耶艾特 蒂于 孔丰 图",
+      "meaning": "朱丽叶，你全弄混了！",
+      "suppliedText": "Mais Juliette, tu confonds tout !",
+      "sourceLineId": "romeo-timed-102-28",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 984,
+        "sourceLineNumber": 102,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 989.85,
+      "sourceText": "L’amour n’est pas le mariage, et le mariage n’est pas l’amour !",
+      "ipa": "[lamuʁ nɛ pa lə maʁjaʒ e lə maʁjaʒ nɛ pa lamuʁ]",
+      "ear": "拉穆赫 奈 帕 勒 玛赫耶阿日 诶 勒 玛赫耶阿日 奈 帕 拉穆赫",
+      "meaning": "爱情不等于婚姻，婚姻也不等于爱情！",
+      "suppliedText": "L’amour n’est pas le mariage, et le mariage n’est pas l’amour !",
+      "sourceLineId": "romeo-timed-102-29",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 984,
+        "sourceLineNumber": 102,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 993,
+      "sourceText": "Moi, je veux les deux !",
+      "ipa": "[mwa ʒə vø le dø]",
+      "ear": "姆乌阿 热 弗厄 莱 德厄",
+      "meaning": "我两个都要！",
+      "suppliedText": "Moi, je veux les deux !",
+      "sourceLineId": "romeo-timed-103-30",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 993,
+        "sourceLineNumber": 103,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 994.333,
+      "sourceText": "Tu n’es qu’une enfant gâtée, hein ?",
+      "ipa": "[ty nɛ kyn‿ɑ̃fɑ̃ ɡate ɛ̃]",
+      "ear": "蒂于 奈 基于恩 昂芳 嘎特 安",
+      "meaning": "你只是个被宠坏的孩子，对吧？",
+      "suppliedText": "Tu n’es qu’une enfant gâtée, hein ?",
+      "sourceLineId": "romeo-timed-103-31",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 993,
+        "sourceLineNumber": 103,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 996.333,
+      "sourceText": "Oui, mais moi, je veux les deux !",
+      "ipa": "[wi mɛ mwa ʒə vø le dø]",
+      "ear": "乌伊 梅 姆乌阿 热 弗厄 莱 德厄",
+      "meaning": "可我就是两个都要！",
+      "suppliedText": "Oui, mais moi, je veux les deux !",
+      "sourceLineId": "romeo-timed-103-32",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 993,
+        "sourceLineNumber": 103,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 998.5,
+      "sourceText": "Je veux, je veux",
+      "ipa": "[ʒə vø ʒə vø]",
+      "ear": "热 弗厄 热 弗厄",
+      "meaning": "我要，我要。",
+      "suppliedText": "Je veux, je veux »",
+      "sourceLineId": "romeo-timed-103-33",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 993,
+        "sourceLineNumber": 103,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 999.5,
+      "sourceText": "Laisse nous.",
+      "ipa": "[lɛs nu]",
+      "ear": "莱斯 努",
+      "meaning": "让我们单独待会儿。",
+      "suppliedText": "Laisse nous.",
+      "sourceLineId": "romeo-timed-103-34",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 993,
+        "sourceLineNumber": 103,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1000.333,
+      "sourceText": "Juliette !",
+      "ipa": "[ʒyljɛt]",
+      "ear": "日于勒耶艾特",
+      "meaning": "朱丽叶！",
+      "suppliedText": "Juliette !",
+      "sourceLineId": "romeo-timed-103-35",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 993,
+        "sourceLineNumber": 103,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1001,
+      "sourceText": "Mère, je n’épouserai pas cet homme.",
+      "ipa": "[mɛʁ ʒə nepuzʁe pa sɛt‿ɔm]",
+      "ear": "梅赫 热 内普兹赫 帕 塞特 哦姆",
+      "meaning": "母亲，我不会嫁给那个人。",
+      "suppliedText": "Mère, je n’épouserai pas cet homme.",
+      "sourceLineId": "romeo-timed-104-36",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1001,
+        "sourceLineNumber": 104,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1002.3,
+      "sourceText": "Tu épouseras qui ton père te dira !",
+      "ipa": "[ty epuzʁa ki tɔ̃ pɛʁ tə diʁa]",
+      "ear": "蒂于 诶普兹哈 基 通 佩赫 特 迪哈",
+      "meaning": "你父亲让你嫁谁，你就嫁谁！",
+      "suppliedText": "Tu épouseras qui ton père te dira !",
+      "sourceLineId": "romeo-timed-104-37",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1001,
+        "sourceLineNumber": 104,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1003.7,
+      "sourceText": "Mais pourquoi me mettre dans le lit de ce sot bouffi d’orgueil ?",
+      "ipa": "[mɛ puʁkwa mə mɛtʁ dɑ̃ lə li də sə so bufi dɔʁɡœj]",
+      "ear": "梅 普赫克乌阿 默 梅特赫 当 勒 利 德 瑟 索 布菲 多赫格厄耶",
+      "meaning": "凭什么把我送到那个自大的蠢货床上？",
+      "suppliedText": "Mais pourquoi me mettre dans le lit de ce sot bouffi d’orgueil ?",
+      "sourceLineId": "romeo-timed-104-38",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1001,
+        "sourceLineNumber": 104,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1006,
+      "sourceText": "Juliette, les femmes font depuis toujours ce que les hommes disent.",
+      "ipa": "[ʒyljɛt le fam fɔ̃ dəpɥi tuʒuʁ sə kə lez‿ɔm diz]",
+      "ear": "日于勒耶艾特 莱 法姆 丰 德普于伊 图茹赫 瑟 克 莱兹 哦姆 迪兹",
+      "meaning": "朱丽叶，自古以来，女人都得听男人的话。",
+      "suppliedText": "Juliette, les femmes font depuis toujours ce que les hommes disent.",
+      "sourceLineId": "romeo-timed-105-39",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1006,
+        "sourceLineNumber": 105,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1010.381,
+      "sourceText": "C’est ainsi.",
+      "ipa": "[sɛt‿ɛ̃si]",
+      "ear": "塞特 安西",
+      "meaning": "一直如此。",
+      "suppliedText": "C’est ainsi.",
+      "sourceLineId": "romeo-timed-105-40",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1006,
+        "sourceLineNumber": 105,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1011.143,
+      "sourceText": "Et que dois-je faire ?",
+      "ipa": "[e kə dwaʒ fɛʁ]",
+      "ear": "诶 克 德乌阿日 费赫",
+      "meaning": "那我要怎么做？",
+      "suppliedText": "Et que dois-je faire ?",
+      "sourceLineId": "romeo-timed-105-41",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1006,
+        "sourceLineNumber": 105,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1012.857,
+      "sourceText": "Obéir ?",
+      "ipa": "[obeiʁ]",
+      "ear": "奥贝伊赫",
+      "meaning": "服从？",
+      "suppliedText": "Obéir ?",
+      "sourceLineId": "romeo-timed-105-42",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1006,
+        "sourceLineNumber": 105,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1013.429,
+      "sourceText": "Oui !",
+      "ipa": "[wi]",
+      "ear": "乌伊",
+      "meaning": "对！",
+      "suppliedText": "Oui !",
+      "sourceLineId": "romeo-timed-105-43",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1006,
+        "sourceLineNumber": 105,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1014,
+      "sourceText": "Et toi tu l’as fait ?",
+      "ipa": "[e twa ty la fɛ]",
+      "ear": "诶 特乌阿 蒂于 拉 费",
+      "meaning": "你也这么做了吗？",
+      "suppliedText": "Et toi tu l’as fait ?",
+      "sourceLineId": "romeo-timed-106-44",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1014,
+        "sourceLineNumber": 106,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1015.4,
+      "sourceText": "Oui.",
+      "ipa": "[wi]",
+      "ear": "乌伊",
+      "meaning": "是。",
+      "suppliedText": "Oui.",
+      "sourceLineId": "romeo-timed-106-45",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1014,
+        "sourceLineNumber": 106,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

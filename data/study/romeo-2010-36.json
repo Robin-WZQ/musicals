@@ -1,0 +1,613 @@
+{
+  "videoId": "romeo-2010-36",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=7509"
+    }
+  ],
+  "entries": [
+    {
+      "start": 7521,
+      "sourceText": "Que lui avez-vous fait, pour qu'elle s'en aille ?",
+      "ipa": "[kə lɥi avevu fɛ puʁ kɛl sɑ̃ aj]",
+      "ear": "克 勒于伊 阿韦乌 费 普赫 凯勒 桑 阿耶",
+      "meaning": "你们对她做了什么，让她离开？",
+      "suppliedText": "Que lui avez-vous fait, pour qu'elle s'en aille ?",
+      "sourceLineId": "romeo-timed-716-1",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7521,
+        "sourceLineNumber": 716,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7526.278,
+      "sourceText": "Que lui avez-vous fait, quelle bataille ?",
+      "ipa": "[kə lɥi avevu fɛ kɛl bataj]",
+      "ear": "克 勒于伊 阿韦乌 费 凯勒 巴塔耶",
+      "meaning": "你们对她做了什么，这是什么争斗？",
+      "suppliedText": "Que lui avez-vous fait, quelle bataille ?",
+      "sourceLineId": "romeo-timed-716-2",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7521,
+        "sourceLineNumber": 716,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7531,
+      "sourceText": "Avez-vous gagné, à nous séparer ?",
+      "ipa": "[avevu ɡanje a nu sepaʁe]",
+      "ear": "阿韦乌 嘎恩耶诶 阿 努 塞帕赫",
+      "meaning": "拆散我们，你们赢了吗？",
+      "suppliedText": "Avez-vous gagné, à nous séparer ?",
+      "sourceLineId": "romeo-timed-717-3",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7531,
+        "sourceLineNumber": 717,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7540,
+      "sourceText": "Que lui avez-vous dit, pour qu'elle choisisse",
+      "ipa": "[kə lɥi avevu di puʁ kɛl ʃwazis]",
+      "ear": "克 勒于伊 阿韦乌 迪 普赫 凯勒 什乌阿齐斯",
+      "meaning": "你们说了什么，让她选择。",
+      "suppliedText": "Que lui avez-vous dit, pour qu'elle choisisse",
+      "sourceLineId": "romeo-timed-718-4",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7540,
+        "sourceLineNumber": 718,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7545.333,
+      "sourceText": "De mourir loin de moi",
+      "ipa": "[də muʁiʁ lwɛ̃ də mwa]",
+      "ear": "德 穆希赫 勒乌安 德 姆乌阿",
+      "meaning": "远离我而死。",
+      "suppliedText": "De mourir loin de moi",
+      "sourceLineId": "romeo-timed-718-5",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7540,
+        "sourceLineNumber": 718,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7548,
+      "sourceText": "Sans que je puisse, la serrer dans mes bras ?",
+      "ipa": "[sɑ̃ kə ʒə pɥis la sɛʁe dɑ̃ me bʁa]",
+      "ear": "桑 克 热 普于伊斯 拉 塞赫 当 梅 布哈",
+      "meaning": "让我来不及，把她抱在怀里？",
+      "suppliedText": "Sans que je puisse, la serrer dans mes bras ?",
+      "sourceLineId": "romeo-timed-719-6",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7548,
+        "sourceLineNumber": 719,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7555,
+      "sourceText": "Que lui avez-vous fait, pour qu'elle me laisse",
+      "ipa": "[kə lɥi avevu fɛ puʁ kɛl mə lɛs]",
+      "ear": "克 勒于伊 阿韦乌 费 普赫 凯勒 默 莱斯",
+      "meaning": "你们对她做了什么，让她留给我。",
+      "suppliedText": "Que lui avez-vous fait, pour qu'elle me laisse",
+      "sourceLineId": "romeo-timed-720-7",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7555,
+        "sourceLineNumber": 720,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7563.581,
+      "sourceText": "Le poids de vos regrets, de ma tristesse ?",
+      "ipa": "[lə pwa də vo ʁəɡʁɛ də ma tʁistɛs]",
+      "ear": "勒 普乌阿 德 沃 赫格赫 德 玛 特希斯泰斯",
+      "meaning": "你们悔恨的重量，和我的悲伤？",
+      "suppliedText": "Le poids de vos regrets, de ma tristesse ?",
+      "sourceLineId": "romeo-timed-720-8",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7555,
+        "sourceLineNumber": 720,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7569,
+      "sourceText": "C'est fini, je m'en vais",
+      "ipa": "[sɛ fini ʒə mɑ̃ vɛ]",
+      "ear": "塞 菲尼 热 芒 韦",
+      "meaning": "结束了，我要走了。",
+      "suppliedText": "C'est fini, je m'en vais",
+      "sourceLineId": "romeo-timed-721-9",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7569,
+        "sourceLineNumber": 721,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7572.36,
+      "sourceText": "Je voulais savoir la vie, maintenant je sais",
+      "ipa": "[ʒə vulɛ savwaʁ la vi mɛ̃tnɑ̃ ʒə sɛ]",
+      "ear": "热 乌莱 萨弗乌阿赫 拉 维 曼特南 热 塞",
+      "meaning": "我曾想懂得生活，现在我懂了。",
+      "suppliedText": "Je voulais savoir la vie, maintenant je sais",
+      "sourceLineId": "romeo-timed-721-10",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7569,
+        "sourceLineNumber": 721,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7581,
+      "sourceText": "Je suis si fatigué",
+      "ipa": "[ʒə sɥi si fatiɡe]",
+      "ear": "热 斯于伊 西 法蒂格",
+      "meaning": "我实在太疲倦。",
+      "suppliedText": "Je suis si fatigué",
+      "sourceLineId": "romeo-timed-722-11",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7581,
+        "sourceLineNumber": 722,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7584.2,
+      "sourceText": "Je ne veux plus rien",
+      "ipa": "[ʒə nə vø ply ʁjɛ̃]",
+      "ear": "热 讷 弗厄 普吕 赫耶安",
+      "meaning": "我什么也不想要。",
+      "suppliedText": "Je ne veux plus rien",
+      "sourceLineId": "romeo-timed-722-12",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7581,
+        "sourceLineNumber": 722,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7587,
+      "sourceText": "Simplement m'allonger, et lui prendre la main",
+      "ipa": "[sɛ̃pləmɑ̃ malɔ̃ʒe e lɥi pʁɑ̃dʁ la mɛ̃]",
+      "ear": "森普勒芒 玛隆热 诶 勒于伊 普杭德赫 拉 曼",
+      "meaning": "只想躺下来，牵起她的手。",
+      "suppliedText": "Simplement m'allonger, et lui prendre la main",
+      "sourceLineId": "romeo-timed-723-13",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7587,
+        "sourceLineNumber": 723,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7592.6,
+      "sourceText": "La poser sur mon cœur, oublier ma douleur",
+      "ipa": "[la poze syʁ mɔ̃ kœʁ ublie ma dulœʁ]",
+      "ear": "拉 波泽 西于赫 蒙 克厄赫 乌布利诶 玛 杜勒厄赫",
+      "meaning": "放在心上，忘掉痛苦。",
+      "suppliedText": "La poser sur mon cœur, oublier ma douleur",
+      "sourceLineId": "romeo-timed-723-14",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7587,
+        "sourceLineNumber": 723,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7599,
+      "sourceText": "C'est fini, je m'en vais",
+      "ipa": "[sɛ fini ʒə mɑ̃ vɛ]",
+      "ear": "塞 菲尼 热 芒 韦",
+      "meaning": "结束了，我要走了。",
+      "suppliedText": "C'est fini, je m'en vais",
+      "sourceLineId": "romeo-timed-724-15",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7599,
+        "sourceLineNumber": 724,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7602.36,
+      "sourceText": "Je voulais savoir la vie, maintenant je sais",
+      "ipa": "[ʒə vulɛ savwaʁ la vi mɛ̃tnɑ̃ ʒə sɛ]",
+      "ear": "热 乌莱 萨弗乌阿赫 拉 维 曼特南 热 塞",
+      "meaning": "我曾想懂得生活，现在我懂了。",
+      "suppliedText": "Je voulais savoir la vie, maintenant je sais",
+      "sourceLineId": "romeo-timed-724-16",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7599,
+        "sourceLineNumber": 724,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7611,
+      "sourceText": "Le miel de ses baisers",
+      "ipa": "[lə mjɛl də se bɛze]",
+      "ear": "勒 姆耶艾勒 德 塞 贝泽",
+      "meaning": "她吻中蜜一般的甜。",
+      "suppliedText": "Le miel de ses baisers",
+      "sourceLineId": "romeo-timed-725-17",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7611,
+        "sourceLineNumber": 725,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7613.667,
+      "sourceText": "La douceur de ses yeux",
+      "ipa": "[la dusœʁ də sez‿jø]",
+      "ear": "拉 杜瑟厄赫 德 塞兹 耶厄",
+      "meaning": "她眼里的温柔。",
+      "suppliedText": "La douceur de ses yeux",
+      "sourceLineId": "romeo-timed-725-18",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7611,
+        "sourceLineNumber": 725,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7617,
+      "sourceText": "Je vais les emporter",
+      "ipa": "[ʒə vɛ lez‿ɑ̃pɔʁte]",
+      "ear": "热 韦 莱兹 昂珀赫特",
+      "meaning": "我要把它们带走。",
+      "suppliedText": "Je vais les emporter",
+      "sourceLineId": "romeo-timed-726-19",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7617,
+        "sourceLineNumber": 726,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7619.8,
+      "sourceText": "Et les donner à Dieu",
+      "ipa": "[e le dɔne a djø]",
+      "ear": "诶 莱 多内 阿 德耶厄",
+      "meaning": "交给上帝。",
+      "suppliedText": "Et les donner à Dieu",
+      "sourceLineId": "romeo-timed-726-20",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7617,
+        "sourceLineNumber": 726,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7623,
+      "sourceText": "Adieu ma Juliette",
+      "ipa": "[adjø ma ʒyljɛt]",
+      "ear": "阿德耶厄 玛 日于勒耶艾特",
+      "meaning": "再见，我的朱丽叶。",
+      "suppliedText": "Adieu ma Juliette",
+      "sourceLineId": "romeo-timed-727-21",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7623,
+        "sourceLineNumber": 727,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7628.4,
+      "sourceText": "C'est l'éternité, qui nous attend",
+      "ipa": "[sɛ letɛʁnite ki nuz‿atɑ̃]",
+      "ear": "塞 莱泰赫尼特 基 努兹 阿唐",
+      "meaning": "永恒，正在等着我们。",
+      "suppliedText": "C'est l'éternité, qui nous attend",
+      "sourceLineId": "romeo-timed-727-22",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7623,
+        "sourceLineNumber": 727,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7635,
+      "sourceText": "C'est fini, je m'en vais",
+      "ipa": "[sɛ fini ʒə mɑ̃ vɛ]",
+      "ear": "塞 菲尼 热 芒 韦",
+      "meaning": "结束了，我要走了。",
+      "suppliedText": "C'est fini, je m'en vais",
+      "sourceLineId": "romeo-timed-728-23",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7635,
+        "sourceLineNumber": 728,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7639.0,
+      "sourceText": "Enfin trouver l'oubli, trouver la paix",
+      "ipa": "[ɑ̃fɛ̃ tʁuve lubli tʁuve la pɛ]",
+      "ear": "昂凡 特胡韦 卢布利 特胡韦 拉 佩",
+      "meaning": "终于忘记一切，终于找到安宁。",
+      "suppliedText": "Enfin trouver l'oubli, trouver la paix",
+      "sourceLineId": "romeo-timed-728-24",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7635,
+        "sourceLineNumber": 728,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7647,
+      "sourceText": "Je suis si fatigué",
+      "ipa": "[ʒə sɥi si fatiɡe]",
+      "ear": "热 斯于伊 西 法蒂格",
+      "meaning": "我实在太疲倦。",
+      "suppliedText": "Je suis si fatigué",
+      "sourceLineId": "romeo-timed-729-25",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7647,
+        "sourceLineNumber": 729,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7649.667,
+      "sourceText": "Je ne veux plus rien savoir",
+      "ipa": "[ʒə nə vø ply ʁjɛ̃ savwaʁ]",
+      "ear": "热 讷 弗厄 普吕 赫耶安 萨弗乌阿赫",
+      "meaning": "我什么也不想知道了。",
+      "suppliedText": "Je ne veux plus rien savoir",
+      "sourceLineId": "romeo-timed-729-26",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7647,
+        "sourceLineNumber": 729,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7653,
+      "sourceText": "Simplement m’en aller,",
+      "ipa": "[sɛ̃pləmɑ̃ mɑ̃ ale]",
+      "ear": "森普勒芒 芒 阿莱",
+      "meaning": "只想离开。",
+      "suppliedText": "Simplement m’en aller,",
+      "sourceLineId": "romeo-timed-730-27",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7653,
+        "sourceLineNumber": 730,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7655.769,
+      "sourceText": "Traverser le miroir",
+      "ipa": "[tʁavɛʁse lə miʁwaʁ]",
+      "ear": "特哈韦赫塞 勒 米赫乌阿赫",
+      "meaning": "穿过那面镜子。",
+      "suppliedText": "Traverser le miroir",
+      "sourceLineId": "romeo-timed-730-28",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7653,
+        "sourceLineNumber": 730,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7659,
+      "sourceText": "Retrouver ma Juliette pour l'éternité",
+      "ipa": "[ʁətʁuve ma ʒyljɛt puʁ letɛʁnite]",
+      "ear": "赫特胡韦 玛 日于勒耶艾特 普赫 莱泰赫尼特",
+      "meaning": "找回我的朱丽叶，直到永远。",
+      "suppliedText": "Retrouver ma Juliette pour l'éternité",
+      "sourceLineId": "romeo-timed-731-29",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7659,
+        "sourceLineNumber": 731,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7709.0,
+      "sourceText": "Elle nous attend...",
+      "ipa": "[ɛl nuz‿atɑ̃]",
+      "ear": "艾勒 努兹 阿唐",
+      "meaning": "永恒正在等着我们……",
+      "suppliedText": "Elle nous attend...",
+      "sourceLineId": "romeo-timed-731-30",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7659,
+        "sourceLineNumber": 731,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7729,
+      "sourceText": "Roméo… !",
+      "ipa": "[ʁomeo]",
+      "ear": "霍梅奥",
+      "meaning": "罗密欧……！",
+      "suppliedText": "Roméo… !",
+      "sourceLineId": "romeo-timed-732-31",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7729,
+        "sourceLineNumber": 732,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7730.2,
+      "sourceText": "Oh,",
+      "ipa": "[ɔ]",
+      "ear": "哦",
+      "meaning": "哦。",
+      "suppliedText": "Oh,",
+      "sourceLineId": "romeo-timed-732-32",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7729,
+        "sourceLineNumber": 732,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7730.6,
+      "sourceText": "Frère Laurent t’a prévenu !",
+      "ipa": "[fʁɛʁ loʁɑ̃ ta pʁevny]",
+      "ear": "弗赫赫 洛杭 塔 普赫弗尼于",
+      "meaning": "劳伦斯神父已经告诉你了！",
+      "suppliedText": "Frère Laurent t’a prévenu !",
+      "sourceLineId": "romeo-timed-732-33",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7729,
+        "sourceLineNumber": 732,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7734.2,
+      "sourceText": "Roméo !",
+      "ipa": "[ʁomeo]",
+      "ear": "霍梅奥",
+      "meaning": "罗密欧！",
+      "suppliedText": "Roméo !",
+      "sourceLineId": "romeo-timed-732-34",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7729,
+        "sourceLineNumber": 732,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7735.4,
+      "sourceText": "Roméo, je suis vivante !",
+      "ipa": "[ʁomeo ʒə sɥi vivɑ̃t]",
+      "ear": "霍梅奥 热 斯于伊 维旺特",
+      "meaning": "罗密欧，我还活着！",
+      "suppliedText": "Roméo, je suis vivante !",
+      "sourceLineId": "romeo-timed-732-35",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7729,
+        "sourceLineNumber": 732,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7739,
+      "sourceText": "Roméo… Roméo ?",
+      "ipa": "[ʁomeo ʁomeo]",
+      "ear": "霍梅奥 霍梅奥",
+      "meaning": "罗密欧……罗密欧？",
+      "suppliedText": "Roméo… Roméo ?",
+      "sourceLineId": "romeo-timed-733-36",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7739,
+        "sourceLineNumber": 733,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7744.333,
+      "sourceText": "ROMEO !",
+      "ipa": "[ʁoməo]",
+      "ear": "霍默奥",
+      "meaning": "罗密欧！",
+      "suppliedText": "ROMEO !",
+      "sourceLineId": "romeo-timed-733-37",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7739,
+        "sourceLineNumber": 733,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

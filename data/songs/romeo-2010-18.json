@@ -9,13 +9,174 @@
   "trackNumber": 18,
   "act": 1,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr-FR",
-  "captionDelivery": "youtube-player",
-  "captionSource": "youtube-player",
+  "captionDelivery": "study-page",
+  "captionSource": "editorial",
   "nativeCaptionAvailable": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Moi je ne suis personne on ne me tourne pas autour",
+      "start": 3645,
+      "duration": 8.235
+    },
+    {
+      "text": "On m'a dit tu donnes ton lait et ton amour",
+      "start": 3653.235,
+      "duration": 5.765
+    },
+    {
+      "text": "Et quand j'ai vu ses yeux j'ai remercié les dieux",
+      "start": 3659,
+      "duration": 4.103
+    },
+    {
+      "text": "Et j'ai prié le ciel pour que sa vie soit belle",
+      "start": 3663.103,
+      "duration": 3.897
+    },
+    {
+      "text": "Et Juliette a grandi",
+      "start": 3667,
+      "duration": 3.0
+    },
+    {
+      "text": "Et voilà qu'elle aime et voilà qu'elle danse",
+      "start": 3670,
+      "duration": 8.382
+    },
+    {
+      "text": "Elle me dit \"je l'aime\", elle sort de l'enfance",
+      "start": 3678.382,
+      "duration": 6.618
+    },
+    {
+      "text": "Et moi qui ne suis rien que sa nurse, son coussin",
+      "start": 3685,
+      "duration": 8.233
+    },
+    {
+      "text": "C'est pas à moi qu'elle ressemble",
+      "start": 3693.233,
+      "duration": 4.767
+    },
+    {
+      "text": "Mais je suis la seule pour elle qui tremble",
+      "start": 3698,
+      "duration": 5.194
+    },
+    {
+      "text": "Et voilà qu'elle aime et voilà qu'elle danse",
+      "start": 3703.194,
+      "duration": 5.806
+    },
+    {
+      "text": "Et voilà qu'elle aime",
+      "start": 3709,
+      "duration": 5.0
+    },
+    {
+      "text": "Et moi qui n'ai qu'elle, je la partage avec une autre",
+      "start": 3714,
+      "duration": 7.897
+    },
+    {
+      "text": "Quand elle dit « ma fille », moi je pense « c'est la nôtre",
+      "start": 3721.897,
+      "duration": 6.103
+    },
+    {
+      "text": "Pourquoi pour plaire à leurs maris",
+      "start": 3728,
+      "duration": 3.462
+    },
+    {
+      "text": "Tant de femmes comme elle oublient",
+      "start": 3731.462,
+      "duration": 2.769
+    },
+    {
+      "text": "Qu'elles ont fait des enfants et qu'ils auront vingt ans",
+      "start": 3734.231,
+      "duration": 3.923
+    },
+    {
+      "text": "Et Juliette a grandi",
+      "start": 3738.154,
+      "duration": 1.846
+    },
+    {
+      "text": "Et voilà qu'elle aime et voilà qu'elle danse",
+      "start": 3740,
+      "duration": 8.941
+    },
+    {
+      "text": "Elle me dit \"je l'aime\", elle sort de l'enfance",
+      "start": 3748.941,
+      "duration": 7.059
+    },
+    {
+      "text": "Et moi qui suis là, qui regarde et qui voit",
+      "start": 3756,
+      "duration": 6.6
+    },
+    {
+      "text": "Je donnerai tout, même ma vie",
+      "start": 3762.6,
+      "duration": 4.4
+    },
+    {
+      "text": "Pour cette enfant qui grandit",
+      "start": 3767,
+      "duration": 8.0
+    },
+    {
+      "text": "Et voilà qu'elle aime et voilà qu'elle ose",
+      "start": 3775,
+      "duration": 7.703
+    },
+    {
+      "text": "Que son cœur explose et voilà qu'elle aime",
+      "start": 3782.703,
+      "duration": 7.297
+    },
+    {
+      "text": "Et vous qui savez que l'amour peut tuer",
+      "start": 3790,
+      "duration": 6.857
+    },
+    {
+      "text": "Donnez-moi la force, le courage",
+      "start": 3796.857,
+      "duration": 5.143
+    },
+    {
+      "text": "De la conduire jusqu'au mariage",
+      "start": 3802,
+      "duration": 4.083
+    },
+    {
+      "text": "Et voilà qu'elle aime",
+      "start": 3806.083,
+      "duration": 2.917
+    },
+    {
+      "text": "Et voilà qu'elle danse",
+      "start": 3809,
+      "duration": 9.474
+    },
+    {
+      "text": "Et voilà qu'elle aime",
+      "start": 3818.474,
+      "duration": 10.526
+    },
+    {
+      "text": "Et voilà qu'elle aime",
+      "start": 3829,
+      "duration": 8.0
+    }
+  ],
   "playbackVideoId": "kgGN5675TAY",
   "sourceDuration": 8831,
   "sourceURL": "https://www.youtube.com/watch?v=kgGN5675TAY&t=3638",
@@ -103,12 +264,15 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "approximate",
   "playableInEmbed": true,
   "performanceYear": 2010,
   "albumReleaseYear": 2009,
   "mediaKind": "stage-video",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "isGenerated": false,
+  "studyVersion": 4
 }

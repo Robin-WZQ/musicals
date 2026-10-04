@@ -1,0 +1,1029 @@
+{
+  "videoId": "romeo-2010-38",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=8018"
+    }
+  ],
+  "entries": [
+    {
+      "start": 8028,
+      "sourceText": "J'sais plus, j'sais plus",
+      "ipa": "[ʒsɛ ply ʒsɛ ply]",
+      "ear": "日塞 普吕 日塞 普吕",
+      "meaning": "我不知道了，我不知道了。",
+      "suppliedText": "J'sais plus, j'sais plus",
+      "sourceLineId": "romeo-timed-760-1",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8028,
+        "sourceLineNumber": 760,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8031.6,
+      "sourceText": "Si je crois en l'homme ou si je crois plus",
+      "ipa": "[si ʒə kʁwa ɑ̃ lɔm‿u si ʒə kʁwa ply]",
+      "ear": "西 热 克赫乌阿 昂 洛姆 乌 西 热 克赫乌阿 普吕",
+      "meaning": "我还相信人，还是已经不再相信？",
+      "suppliedText": "Si je crois en l'homme ou si je crois plus",
+      "sourceLineId": "romeo-timed-760-2",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8028,
+        "sourceLineNumber": 760,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8040,
+      "sourceText": "Si Dieu est encore dans ma rue",
+      "ipa": "[si djø ɛt‿ɑ̃kɔʁ dɑ̃ ma ʁy]",
+      "ear": "西 德耶厄 艾特 昂科赫 当 玛 许",
+      "meaning": "上帝是否还在我的街上？",
+      "suppliedText": "Si Dieu est encore dans ma rue",
+      "sourceLineId": "romeo-timed-761-3",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8040,
+        "sourceLineNumber": 761,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8045.143,
+      "sourceText": "Oh, j'sais plus je suis perdu",
+      "ipa": "[ɔ ʒsɛ ply ʒə sɥi pɛʁdy]",
+      "ear": "哦 日塞 普吕 热 斯于伊 佩赫迪于",
+      "meaning": "哦，我不知道了，我迷失了。",
+      "suppliedText": "Oh, j'sais plus je suis perdu",
+      "sourceLineId": "romeo-timed-761-4",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8040,
+        "sourceLineNumber": 761,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8049,
+      "sourceText": "Pour toi j'ai tout laissé",
+      "ipa": "[puʁ twa ʒe tu lɛse]",
+      "ear": "普赫 特乌阿 热 图 莱塞",
+      "meaning": "为了你，我放弃了一切。",
+      "suppliedText": "Pour toi j'ai tout laissé",
+      "sourceLineId": "romeo-timed-762-5",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8049,
+        "sourceLineNumber": 762,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8052.474,
+      "sourceText": "Je t'ai donné mon âme",
+      "ipa": "[ʒə te dɔne mɔ̃n‿am]",
+      "ear": "热 特 多内 蒙恩 阿姆",
+      "meaning": "我把灵魂交给了你。",
+      "suppliedText": "Je t'ai donné mon âme",
+      "sourceLineId": "romeo-timed-762-6",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8049,
+        "sourceLineNumber": 762,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8055,
+      "sourceText": "Pour toi j'ai renoncé",
+      "ipa": "[puʁ twa ʒe ʁənɔ̃se]",
+      "ear": "普赫 特乌阿 热 赫农塞",
+      "meaning": "为了你，我舍弃了。",
+      "suppliedText": "Pour toi j'ai renoncé",
+      "sourceLineId": "romeo-timed-763-7",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8055,
+        "sourceLineNumber": 763,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8057.571,
+      "sourceText": "À la chair tendre des femmes",
+      "ipa": "[a la ʃɛʁ tɑ̃dʁ de fam]",
+      "ear": "阿 拉 谢赫 唐德赫 德 法姆",
+      "meaning": "女人温柔的身体。",
+      "suppliedText": "À la chair tendre des femmes",
+      "sourceLineId": "romeo-timed-763-8",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8055,
+        "sourceLineNumber": 763,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8060.143,
+      "sourceText": "J'ai cru en ta bonté",
+      "ipa": "[ʒe kʁy ɑ̃ ta bɔ̃te]",
+      "ear": "热 克许 昂 塔 崩特",
+      "meaning": "我曾相信你的善良。",
+      "suppliedText": "J'ai cru en ta bonté",
+      "sourceLineId": "romeo-timed-763-9",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8055,
+        "sourceLineNumber": 763,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8062.143,
+      "sourceText": "Mais j'ai perdu la mienne",
+      "ipa": "[mɛ ʒe pɛʁdy la mjɛn]",
+      "ear": "梅 热 佩赫迪于 拉 姆耶艾恩",
+      "meaning": "可我失去了自己的善良。",
+      "suppliedText": "Mais j'ai perdu la mienne",
+      "sourceLineId": "romeo-timed-763-10",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8055,
+        "sourceLineNumber": 763,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8065,
+      "sourceText": "Je ne peux plus aimer",
+      "ipa": "[ʒə nə pø plyz‿ɛme]",
+      "ear": "热 讷 珀厄 普吕兹 艾梅",
+      "meaning": "我再也无法爱。",
+      "suppliedText": "Je ne peux plus aimer",
+      "sourceLineId": "romeo-timed-764-11",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8065,
+        "sourceLineNumber": 764,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8067.526,
+      "sourceText": "Tous ces hommes remplis de haine",
+      "ipa": "[tu sez‿ɔm ʁɑ̃pli də ɛn]",
+      "ear": "图 塞兹 哦姆 杭普利 德 艾恩",
+      "meaning": "这些满心仇恨的人。",
+      "suppliedText": "Tous ces hommes remplis de haine",
+      "sourceLineId": "romeo-timed-764-12",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8065,
+        "sourceLineNumber": 764,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8071,
+      "sourceText": "Et j'envie les apôtres, j'envie tous ceux qui croient",
+      "ipa": "[e ʒɑ̃vi lez‿apotʁ ʒɑ̃vi tus sø ki kʁwa]",
+      "ear": "诶 让维 莱兹 阿波特赫 让维 图斯 瑟厄 基 克赫乌阿",
+      "meaning": "我羡慕使徒，羡慕所有仍相信的人。",
+      "suppliedText": "Et j'envie les apôtres, j'envie tous ceux qui croient",
+      "sourceLineId": "romeo-timed-765-13",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8071,
+        "sourceLineNumber": 765,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8075.375,
+      "sourceText": "Je suis un homme comme les autres",
+      "ipa": "[ʒə sɥi œ̃n‿ɔm kɔm lez‿otʁ]",
+      "ear": "热 斯于伊 恩恩 哦姆 科姆 莱兹 奥特赫",
+      "meaning": "我不过和其他人一样。",
+      "suppliedText": "Je suis un homme comme les autres",
+      "sourceLineId": "romeo-timed-765-14",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8071,
+        "sourceLineNumber": 765,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8078,
+      "sourceText": "Qui doucement se noie",
+      "ipa": "[ki dusmɑ̃ sə nwa]",
+      "ear": "基 杜斯芒 瑟 恩乌阿",
+      "meaning": "正一点点沉下去。",
+      "suppliedText": "Qui doucement se noie",
+      "sourceLineId": "romeo-timed-766-15",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8078,
+        "sourceLineNumber": 766,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8083.333,
+      "sourceText": "Et perd la foi",
+      "ipa": "[e pɛʁ la fwa]",
+      "ear": "诶 佩赫 拉 弗乌阿",
+      "meaning": "失去信仰。",
+      "suppliedText": "Et perd la foi",
+      "sourceLineId": "romeo-timed-766-16",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8078,
+        "sourceLineNumber": 766,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8086,
+      "sourceText": "J'sais plus, j'sais plus",
+      "ipa": "[ʒsɛ ply ʒsɛ ply]",
+      "ear": "日塞 普吕 日塞 普吕",
+      "meaning": "我不知道了，我不知道了。",
+      "suppliedText": "J'sais plus, j'sais plus",
+      "sourceLineId": "romeo-timed-767-17",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8086,
+        "sourceLineNumber": 767,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8089.474,
+      "sourceText": "Est-ce que c'est toi qui as voulu",
+      "ipa": "[ɛs kə sɛ twa ki a vuly]",
+      "ear": "艾斯 克 塞 特乌阿 基 阿 乌吕",
+      "meaning": "是你想要这样吗？",
+      "suppliedText": "Est-ce que c'est toi qui a voulu",
+      "sourceLineId": "romeo-timed-767-18",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8086,
+        "sourceLineNumber": 767,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8097,
+      "sourceText": "Que les hommes s'aiment et puis se tuent",
+      "ipa": "[kə lez‿ɔm sɛm e pɥi sə ty]",
+      "ear": "克 莱兹 哦姆 塞姆 诶 普于伊 瑟 蒂于",
+      "meaning": "让人们相爱，又彼此杀害。",
+      "suppliedText": "Que les hommes s'aiment et puis se tuent",
+      "sourceLineId": "romeo-timed-768-19",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8097,
+        "sourceLineNumber": 768,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8102.478,
+      "sourceText": "Oh, j'sais plus, je suis perdu",
+      "ipa": "[ɔ ʒsɛ ply ʒə sɥi pɛʁdy]",
+      "ear": "哦 日塞 普吕 热 斯于伊 佩赫迪于",
+      "meaning": "哦，我不知道了，我迷失了。",
+      "suppliedText": "Oh, j'sais plus, je suis perdu",
+      "sourceLineId": "romeo-timed-768-20",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8097,
+        "sourceLineNumber": 768,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8106,
+      "sourceText": "Pour toi j'ai pardonné",
+      "ipa": "[puʁ twa ʒe paʁdɔne]",
+      "ear": "普赫 特乌阿 热 帕赫多内",
+      "meaning": "为了你，我宽恕别人。",
+      "suppliedText": "Pour toi j'ai pardonné",
+      "sourceLineId": "romeo-timed-769-21",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8106,
+        "sourceLineNumber": 769,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8108.7,
+      "sourceText": "Pour toi j'ai fait le bien",
+      "ipa": "[puʁ twa ʒe fɛ lə bjɛ̃]",
+      "ear": "普赫 特乌阿 热 费 勒 布耶安",
+      "meaning": "为了你，我做了善事。",
+      "suppliedText": "Pour toi j'ai fait le bien",
+      "sourceLineId": "romeo-timed-769-22",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8106,
+        "sourceLineNumber": 769,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8112,
+      "sourceText": "Pour toi j'ai écouté leurs secrets mais le mien",
+      "ipa": "[puʁ twa ʒe ekute lœʁ səkʁɛ mɛ lə mjɛ̃]",
+      "ear": "普赫 特乌阿 热 诶库特 勒厄赫 瑟克赫 梅 勒 姆耶安",
+      "meaning": "为了你，我听着他们的秘密，可我的秘密。",
+      "suppliedText": "Pour toi j'ai écouté leurs secrets mais le mien",
+      "sourceLineId": "romeo-timed-770-23",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8112,
+        "sourceLineNumber": 770,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8117.429,
+      "sourceText": "Un peu plus chaque jour",
+      "ipa": "[œ̃ pø ply ʃak ʒuʁ]",
+      "ear": "恩 珀厄 普吕 沙克 茹赫",
+      "meaning": "日复一日。",
+      "suppliedText": "Un peu plus chaque jour",
+      "sourceLineId": "romeo-timed-770-24",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8112,
+        "sourceLineNumber": 770,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8120,
+      "sourceText": "Devient de plus en plus lourd",
+      "ipa": "[dəvjɛ̃ də plyz‿ɑ̃ ply luʁ]",
+      "ear": "德弗耶安 德 普吕兹 昂 普吕 卢赫",
+      "meaning": "变得越来越沉重。",
+      "suppliedText": "Devient de plus en plus lourd",
+      "sourceLineId": "romeo-timed-771-25",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8120,
+        "sourceLineNumber": 771,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8122.571,
+      "sourceText": "Je crie mais tu es sourd",
+      "ipa": "[ʒə kʁi mɛ ty ɛ suʁ]",
+      "ear": "热 克希 梅 蒂于 艾 苏赫",
+      "meaning": "我呼喊，你却听不见。",
+      "suppliedText": "Je crie mais tu es sourd",
+      "sourceLineId": "romeo-timed-771-26",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8120,
+        "sourceLineNumber": 771,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8125.143,
+      "sourceText": "J'ai perdu mon amour",
+      "ipa": "[ʒe pɛʁdy mɔ̃n‿amuʁ]",
+      "ear": "热 佩赫迪于 蒙恩 阿穆赫",
+      "meaning": "我失去了我的爱。",
+      "suppliedText": "J'ai perdu mon amour",
+      "sourceLineId": "romeo-timed-771-27",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8120,
+        "sourceLineNumber": 771,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8127.429,
+      "sourceText": "Oh, Dieu c'est ma prière",
+      "ipa": "[ɔ djø sɛ ma pʁiɛʁ]",
+      "ear": "哦 德耶厄 塞 玛 普希艾赫",
+      "meaning": "哦，上帝，这是我的祈祷。",
+      "suppliedText": "Oh, Dieu c'est ma prière",
+      "sourceLineId": "romeo-timed-771-28",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8120,
+        "sourceLineNumber": 771,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8130,
+      "sourceText": "Elle vaut celle de mes frères",
+      "ipa": "[ɛl vo sɛl də me fʁɛʁ]",
+      "ear": "艾勒 沃 塞勒 德 梅 弗赫赫",
+      "meaning": "它和兄弟们的祈祷一样重要。",
+      "suppliedText": "Elle vaut celle de mes frères",
+      "sourceLineId": "romeo-timed-772-29",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8130,
+        "sourceLineNumber": 772,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8133.0,
+      "sourceText": "Je suis un homme comme eux",
+      "ipa": "[ʒə sɥi œ̃n‿ɔm kɔm‿ø]",
+      "ear": "热 斯于伊 恩恩 哦姆 科姆 厄",
+      "meaning": "我和他们一样，都是人。",
+      "suppliedText": "Je suis un homme comme eux",
+      "sourceLineId": "romeo-timed-772-30",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8130,
+        "sourceLineNumber": 772,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8136,
+      "sourceText": "À genoux devant Dieu",
+      "ipa": "[a ʒənu dəvɑ̃ djø]",
+      "ear": "阿 热努 德旺 德耶厄",
+      "meaning": "跪在上帝面前。",
+      "suppliedText": "À genoux devant Dieu",
+      "sourceLineId": "romeo-timed-773-31",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8136,
+        "sourceLineNumber": 773,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8139.5,
+      "sourceText": "Et je suis malheureux",
+      "ipa": "[e ʒə sɥi maløʁø]",
+      "ear": "诶 热 斯于伊 玛勒厄赫厄",
+      "meaning": "我如此不幸。",
+      "suppliedText": "Et je suis malheureux",
+      "sourceLineId": "romeo-timed-773-32",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8136,
+        "sourceLineNumber": 773,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8143,
+      "sourceText": "Pourtant je me souviens",
+      "ipa": "[puʁtɑ̃ ʒə mə suvjɛ̃]",
+      "ear": "普赫唐 热 默 苏弗耶安",
+      "meaning": "可我还记得。",
+      "suppliedText": "Pourtant je me souviens",
+      "sourceLineId": "romeo-timed-774-33",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8143,
+        "sourceLineNumber": 774,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8146.176,
+      "sourceText": "Avant que je blasphème",
+      "ipa": "[avɑ̃ kə ʒə blasfɛm]",
+      "ear": "阿旺 克 热 布拉斯费姆",
+      "meaning": "在我开始亵渎之前。",
+      "suppliedText": "Avant que je blasphème",
+      "sourceLineId": "romeo-timed-774-34",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8143,
+        "sourceLineNumber": 774,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8149,
+      "sourceText": "Je pouvais dire je t'aime à qui je rencontrais",
+      "ipa": "[ʒə puvɛ diʁ ʒə tɛm‿a ki ʒə ʁɑ̃kɔ̃tʁɛ]",
+      "ear": "热 普韦 迪赫 热 泰姆 阿 基 热 杭孔特赫",
+      "meaning": "我可以对遇见的每个人说“我爱你”。",
+      "suppliedText": "Je pouvais dire je t'aime à qui je rencontrais",
+      "sourceLineId": "romeo-timed-775-35",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8149,
+        "sourceLineNumber": 775,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8154.429,
+      "sourceText": "La vie était facile",
+      "ipa": "[la vi etɛ fasil]",
+      "ear": "拉 维 诶泰 法西勒",
+      "meaning": "那时，生活很简单。",
+      "suppliedText": "La vie était facile",
+      "sourceLineId": "romeo-timed-775-36",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8149,
+        "sourceLineNumber": 775,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8157,
+      "sourceText": "Il suffisait d'aimer",
+      "ipa": "[il syfizɛ dɛme]",
+      "ear": "伊勒 西于菲泽 戴梅",
+      "meaning": "只要去爱就够了。",
+      "suppliedText": "Il suffisait d'aimer",
+      "sourceLineId": "romeo-timed-776-37",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8157,
+        "sourceLineNumber": 776,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8159.588,
+      "sourceText": "Mais l'encre des",
+      "ipa": "[mɛ lɑ̃kʁ de]",
+      "ear": "梅 朗克赫 德",
+      "meaning": "可那些墨迹。",
+      "suppliedText": "Mais l'encre des",
+      "sourceLineId": "romeo-timed-776-38",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8157,
+        "sourceLineNumber": 776,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8161.206,
+      "sourceText": "Evangiles",
+      "ipa": "[evɑ̃ʒil]",
+      "ear": "诶旺日勒",
+      "meaning": "福音书的墨迹。",
+      "suppliedText": "Evangiles",
+      "sourceLineId": "romeo-timed-776-39",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8157,
+        "sourceLineNumber": 776,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8162.5,
+      "sourceText": "Dans mon cœur a séché",
+      "ipa": "[dɑ̃ mɔ̃ kœʁ‿a seʃe]",
+      "ear": "当 蒙 克厄赫 阿 塞谢",
+      "meaning": "已在我心里干涸。",
+      "suppliedText": "Dans mon cœur a séché",
+      "sourceLineId": "romeo-timed-776-40",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8157,
+        "sourceLineNumber": 776,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8164.765,
+      "sourceText": "Oh , Dieu de tous les hommes",
+      "ipa": "[ɔ djø də tu lez‿ɔm]",
+      "ear": "哦 德耶厄 德 图 莱兹 哦姆",
+      "meaning": "哦，所有人的上帝。",
+      "suppliedText": "Oh , Dieu de tous les hommes",
+      "sourceLineId": "romeo-timed-776-41",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8157,
+        "sourceLineNumber": 776,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8168,
+      "sourceText": "Toi qui sais tout sur tout",
+      "ipa": "[twa ki sɛ tu syʁ tu]",
+      "ear": "特乌阿 基 塞 图 西于赫 图",
+      "meaning": "你知道世间的一切。",
+      "suppliedText": "Toi qui sait tout sur tout",
+      "sourceLineId": "romeo-timed-777-42",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8168,
+        "sourceLineNumber": 777,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8170.619,
+      "sourceText": "Ecoute la voix d'un homme",
+      "ipa": "[ekut la vwa dœ̃ ɔm]",
+      "ear": "诶库特 拉 弗乌阿 丹 哦姆",
+      "meaning": "听听一个人的声音。",
+      "suppliedText": "Ecoute la voix d'un homme",
+      "sourceLineId": "romeo-timed-777-43",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8168,
+        "sourceLineNumber": 777,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8173,
+      "sourceText": "Qui te dit à genoux",
+      "ipa": "[ki tə di a ʒənu]",
+      "ear": "基 特 迪 阿 热努",
+      "meaning": "他跪着对你说。",
+      "suppliedText": "Qui te dit à genoux",
+      "sourceLineId": "romeo-timed-778-44",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8173,
+        "sourceLineNumber": 778,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8185.267,
+      "sourceText": "Qu'il devient fou",
+      "ipa": "[kil dəvjɛ̃ fu]",
+      "ear": "基勒 德弗耶安 富",
+      "meaning": "自己快要发疯。",
+      "suppliedText": "Qu'il devient fou",
+      "sourceLineId": "romeo-timed-778-45",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8173,
+        "sourceLineNumber": 778,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8196,
+      "sourceText": "...J'sais plus, je suis perdu",
+      "ipa": "[ʒsɛ ply ʒə sɥi pɛʁdy]",
+      "ear": "日塞 普吕 热 斯于伊 佩赫迪于",
+      "meaning": "我不知道了，我迷失了。",
+      "suppliedText": "...J'sais plus, je suis perdu",
+      "sourceLineId": "romeo-timed-779-46",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8196,
+        "sourceLineNumber": 779,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8200.8,
+      "sourceText": "J'sais plus, non j'sais plus",
+      "ipa": "[ʒsɛ ply nɔ̃ ʒsɛ ply]",
+      "ear": "日塞 普吕 农 日塞 普吕",
+      "meaning": "我不知道，不，我不知道了。",
+      "suppliedText": "J'sais plus, non j'sais plus",
+      "sourceLineId": "romeo-timed-779-47",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8196,
+        "sourceLineNumber": 779,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8205,
+      "sourceText": "Est-ce que c'est toi qui as voulu",
+      "ipa": "[ɛs kə sɛ twa ki a vuly]",
+      "ear": "艾斯 克 塞 特乌阿 基 阿 乌吕",
+      "meaning": "是你想要这样吗？",
+      "suppliedText": "Est-ce que c'est toi qui a voulu",
+      "sourceLineId": "romeo-timed-780-48",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8205,
+        "sourceLineNumber": 780,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8209.815,
+      "sourceText": "Que les hommes s'aiment et puis se tuent",
+      "ipa": "[kə lez‿ɔm sɛm e pɥi sə ty]",
+      "ear": "克 莱兹 哦姆 塞姆 诶 普于伊 瑟 蒂于",
+      "meaning": "让人们相爱，又彼此杀害。",
+      "suppliedText": "Que les hommes s'aiment et puis se tuent",
+      "sourceLineId": "romeo-timed-780-49",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8205,
+        "sourceLineNumber": 780,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8215,
+      "sourceText": "Oh, j'sais plus, je suis perdu oh",
+      "ipa": "[ɔ ʒsɛ ply ʒə sɥi pɛʁdy ɔ]",
+      "ear": "哦 日塞 普吕 热 斯于伊 佩赫迪于 哦",
+      "meaning": "哦，我不知道了，我迷失了。",
+      "suppliedText": "Oh, j'sais plus, je suis perdu oh",
+      "sourceLineId": "romeo-timed-781-50",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 8215,
+        "sourceLineNumber": 781,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8223,
+      "sourceText": "J'sais plus, non j'sais plus",
+      "ipa": "[ʒsɛ ply nɔ̃ ʒsɛ ply]",
+      "ear": "日塞 普吕 农 日塞 普吕",
+      "meaning": "我不知道，不，我不知道了。",
+      "suppliedText": "J'sais plus, non j'sais plus",
+      "sourceLineId": "romeo-timed-782-51",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8223,
+        "sourceLineNumber": 782,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8224.615,
+      "sourceText": "Je l’aimais comme une mère",
+      "ipa": "[ʒə lɛmɛ kɔm‿yn mɛʁ]",
+      "ear": "热 莱梅 科姆 于恩 梅赫",
+      "meaning": "我像母亲一样爱她。",
+      "suppliedText": "Je l’aimais comme une mère",
+      "sourceLineId": "romeo-timed-782-52",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8223,
+        "sourceLineNumber": 782,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8227.154,
+      "sourceText": "C’est ma fille que je perds",
+      "ipa": "[sɛ ma fij kə ʒə pɛʁ]",
+      "ear": "塞 玛 菲耶 克 热 佩赫",
+      "meaning": "我失去的是我的女儿。",
+      "suppliedText": "C’est ma fille que je perds",
+      "sourceLineId": "romeo-timed-782-53",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8223,
+        "sourceLineNumber": 782,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8229.0,
+      "sourceText": "Pourquoi les hommes sont si fragiles",
+      "ipa": "[puʁkwa lez‿ɔm sɔ̃ si fʁaʒil]",
+      "ear": "普赫克乌阿 莱兹 哦姆 松 西 弗哈日勒",
+      "meaning": "为什么人类如此脆弱？",
+      "suppliedText": "Pourquoi les hommes sont si fragiles",
+      "sourceLineId": "romeo-timed-782-54",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8223,
+        "sourceLineNumber": 782,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8232,
+      "sourceText": "Pourquoi la mort aime tant cette ville",
+      "ipa": "[puʁkwa la mɔʁ‿ɛm tɑ̃ sɛt vil]",
+      "ear": "普赫克乌阿 拉 莫赫 艾姆 唐 塞特 维勒",
+      "meaning": "为什么死亡这么爱这座城？",
+      "suppliedText": "Pourquoi la mort aime tant cette ville",
+      "sourceLineId": "romeo-timed-783-55",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8232,
+        "sourceLineNumber": 783,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8238.0,
+      "sourceText": "Oh, j'sais plus, je suis perdu oh",
+      "ipa": "[ɔ ʒsɛ ply ʒə sɥi pɛʁdy ɔ]",
+      "ear": "哦 日塞 普吕 热 斯于伊 佩赫迪于 哦",
+      "meaning": "哦，我不知道了，我迷失了。",
+      "suppliedText": "Oh, j'sais plus, je suis perdu oh",
+      "sourceLineId": "romeo-timed-783-56",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8232,
+        "sourceLineNumber": 783,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8242,
+      "sourceText": "J'sais plus",
+      "ipa": "[ʒsɛ ply]",
+      "ear": "日塞 普吕",
+      "meaning": "我不知道了。",
+      "suppliedText": "J'sais plus",
+      "sourceLineId": "romeo-timed-784-57",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8242,
+        "sourceLineNumber": 784,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8243.0,
+      "sourceText": "Nous voici à jamais",
+      "ipa": "[nu vwasi a ʒamɛ]",
+      "ear": "努 弗乌阿西 阿 扎梅",
+      "meaning": "从此，我们永远漂在。",
+      "suppliedText": "Nous voici à jamais",
+      "sourceLineId": "romeo-timed-784-58",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8242,
+        "sourceLineNumber": 784,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8246.0,
+      "sourceText": "Sur la mer des regrets",
+      "ipa": "[syʁ la mɛʁ de ʁəɡʁɛ]",
+      "ear": "西于赫 拉 梅赫 德 赫格赫",
+      "meaning": "悔恨的海上。",
+      "suppliedText": "Sur la mer des regrets",
+      "sourceLineId": "romeo-timed-784-59",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8242,
+        "sourceLineNumber": 784,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8248,
+      "sourceText": "Pourquoi les hommes ont-ils besoin",
+      "ipa": "[puʁkwa lez‿ɔm‿ɔ̃til bəzwɛ̃]",
+      "ear": "普赫克乌阿 莱兹 哦姆 翁蒂勒 伯兹乌安",
+      "meaning": "为什么人们非要。",
+      "suppliedText": "Pourquoi les hommes ont-ils besoin",
+      "sourceLineId": "romeo-timed-785-60",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8248,
+        "sourceLineNumber": 785,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8253.2,
+      "sourceText": "De faire le mal pour être bien ?",
+      "ipa": "[də fɛʁ lə mal puʁ‿ɛtʁ bjɛ̃]",
+      "ear": "德 费赫 勒 玛勒 普赫 艾特赫 布耶安",
+      "meaning": "做了坏事，才觉得自在？",
+      "suppliedText": "De faire le mal pour être bien ?",
+      "sourceLineId": "romeo-timed-785-61",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8248,
+        "sourceLineNumber": 785,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8258,
+      "sourceText": "J'sais plus, je suis perdu",
+      "ipa": "[ʒsɛ ply ʒə sɥi pɛʁdy]",
+      "ear": "日塞 普吕 热 斯于伊 佩赫迪于",
+      "meaning": "我不知道了，我迷失了。",
+      "suppliedText": "J'sais plus, je suis perdu",
+      "sourceLineId": "romeo-timed-786-62",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8258,
+        "sourceLineNumber": 786,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8264.4,
+      "sourceText": "J'sais plus!",
+      "ipa": "[ʒsɛ ply]",
+      "ear": "日塞 普吕",
+      "meaning": "我不知道了！",
+      "suppliedText": "J'sais plus!",
+      "sourceLineId": "romeo-timed-786-63",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8258,
+        "sourceLineNumber": 786,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+  "videoId": "romeo-2010-18",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=3638"
+    }
+  ],
+  "entries": [
+    {
+      "start": 3645,
+      "sourceText": "Moi je ne suis personne on ne me tourne pas autour",
+      "ipa": "[mwa ʒə nə sɥi pɛʁsɔn‿ɔ̃ nə mə tuʁn pa otuʁ]",
+      "ear": "姆乌阿 热 讷 斯于伊 佩赫索恩 翁 讷 默 图赫恩 帕 奥图赫",
+      "meaning": "我只是个无名小卒，没人围着我转。",
+      "suppliedText": "Moi je ne suis personne on ne me tourne pas autour",
+      "sourceLineId": "romeo-timed-339-1",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3645,
+        "sourceLineNumber": 339,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3653.235,
+      "sourceText": "On m'a dit tu donnes ton lait et ton amour",
+      "ipa": "[ɔ̃ ma di ty dɔn tɔ̃ lɛ e tɔ̃n‿amuʁ]",
+      "ear": "翁 玛 迪 蒂于 多恩 通 莱 诶 通恩 阿穆赫",
+      "meaning": "他们说，你只管给她乳汁和爱。",
+      "suppliedText": "On m'a dit tu donnes ton lait et ton amour",
+      "sourceLineId": "romeo-timed-339-2",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3645,
+        "sourceLineNumber": 339,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3659,
+      "sourceText": "Et quand j'ai vu ses yeux j'ai remercié les dieux",
+      "ipa": "[e kɑ̃ ʒe vy sez‿jø ʒe ʁəmɛʁsje le djø]",
+      "ear": "诶 康 热 维于 塞兹 耶厄 热 赫梅赫斯耶诶 莱 德耶厄",
+      "meaning": "看见她的眼睛时，我感谢了众神。",
+      "suppliedText": "Et quand j'ai vu ses yeux j'ai remercié les dieux",
+      "sourceLineId": "romeo-timed-340-3",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3659,
+        "sourceLineNumber": 340,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3663.103,
+      "sourceText": "Et j'ai prié le ciel pour que sa vie soit belle",
+      "ipa": "[e ʒe pʁie lə sjɛl puʁ kə sa vi swa bɛl]",
+      "ear": "诶 热 普希诶 勒 斯耶艾勒 普赫 克 萨 维 斯乌阿 贝勒",
+      "meaning": "祈求上天，让她一生幸福。",
+      "suppliedText": "Et j'ai prié le ciel pour que sa vie soit belle",
+      "sourceLineId": "romeo-timed-340-4",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3659,
+        "sourceLineNumber": 340,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3667,
+      "sourceText": "Et Juliette a grandi",
+      "ipa": "[e ʒyljɛt‿a ɡʁɑ̃di]",
+      "ear": "诶 日于勒耶艾特 阿 格杭迪",
+      "meaning": "朱丽叶长大了。",
+      "suppliedText": "Et Juliette a grandi",
+      "sourceLineId": "romeo-timed-341-5",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 3667,
+        "sourceLineNumber": 341,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3670,
+      "sourceText": "Et voilà qu'elle aime et voilà qu'elle danse",
+      "ipa": "[e vwala kɛl‿ɛm e vwala kɛl dɑ̃s]",
+      "ear": "诶 弗乌阿拉 凯勒 艾姆 诶 弗乌阿拉 凯勒 当斯",
+      "meaning": "如今她爱了，如今她跳着舞。",
+      "suppliedText": "Et voilà qu'elle aime et voilà qu'elle danse",
+      "sourceLineId": "romeo-timed-342-6",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3670,
+        "sourceLineNumber": 342,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3678.382,
+      "sourceText": "Elle me dit \"je l'aime\", elle sort de l'enfance",
+      "ipa": "[ɛl mə di ʒə lɛm ɛl sɔʁ də lɑ̃fɑ̃s]",
+      "ear": "艾勒 默 迪 热 莱姆 艾勒 索赫 德 朗芳斯",
+      "meaning": "她对我说“我爱他”，她走出了童年。",
+      "suppliedText": "Elle me dit \"je l'aime\", elle sort de l'enfance",
+      "sourceLineId": "romeo-timed-342-7",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3670,
+        "sourceLineNumber": 342,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3685,
+      "sourceText": "Et moi qui ne suis rien que sa nurse, son coussin",
+      "ipa": "[e mwa ki nə sɥi ʁjɛ̃ kə sa nœʁs sɔ̃ kusɛ̃]",
+      "ear": "诶 姆乌阿 基 讷 斯于伊 赫耶安 克 萨 讷厄赫斯 松 库森",
+      "meaning": "而我，不过是她的奶妈，她的依靠。",
+      "suppliedText": "Et moi qui ne suis rien que sa nurse, son coussin",
+      "sourceLineId": "romeo-timed-343-8",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3685,
+        "sourceLineNumber": 343,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3693.233,
+      "sourceText": "C'est pas à moi qu'elle ressemble",
+      "ipa": "[sɛ pa a mwa kɛl ʁəsɑ̃bl]",
+      "ear": "塞 帕 阿 姆乌阿 凯勒 赫桑布勒",
+      "meaning": "她长得不像我。",
+      "suppliedText": "C'est pas à moi qu'elle ressemble",
+      "sourceLineId": "romeo-timed-343-9",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3685,
+        "sourceLineNumber": 343,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3698,
+      "sourceText": "Mais je suis la seule pour elle qui tremble",
+      "ipa": "[mɛ ʒə sɥi la sœl puʁ‿ɛl ki tʁɑ̃bl]",
+      "ear": "梅 热 斯于伊 拉 瑟厄勒 普赫 艾勒 基 特杭布勒",
+      "meaning": "可只有我，为她担心得发抖。",
+      "suppliedText": "Mais je suis la seule pour elle qui tremble",
+      "sourceLineId": "romeo-timed-344-10",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3698,
+        "sourceLineNumber": 344,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3703.194,
+      "sourceText": "Et voilà qu'elle aime et voilà qu'elle danse",
+      "ipa": "[e vwala kɛl‿ɛm e vwala kɛl dɑ̃s]",
+      "ear": "诶 弗乌阿拉 凯勒 艾姆 诶 弗乌阿拉 凯勒 当斯",
+      "meaning": "如今她爱了，如今她跳着舞。",
+      "suppliedText": "Et voilà qu'elle aime et voilà qu'elle danse",
+      "sourceLineId": "romeo-timed-344-11",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3698,
+        "sourceLineNumber": 344,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3709,
+      "sourceText": "Et voilà qu'elle aime",
+      "ipa": "[e vwala kɛl‿ɛm]",
+      "ear": "诶 弗乌阿拉 凯勒 艾姆",
+      "meaning": "如今，她爱了。",
+      "suppliedText": "Et voilà qu'elle aime",
+      "sourceLineId": "romeo-timed-345-12",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 3709,
+        "sourceLineNumber": 345,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3714,
+      "sourceText": "Et moi qui n'ai qu'elle, je la partage avec une autre",
+      "ipa": "[e mwa ki ne kɛl ʒə la paʁtaʒ‿avɛk‿yn‿otʁ]",
+      "ear": "诶 姆乌阿 基 内 凯勒 热 拉 帕赫塔日 阿韦克 于恩 奥特赫",
+      "meaning": "我只有她，却得和另一个女人分享她。",
+      "suppliedText": "Et moi qui n'ai qu'elle, je la partage avec une autre",
+      "sourceLineId": "romeo-timed-346-13",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3714,
+        "sourceLineNumber": 346,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3721.897,
+      "sourceText": "Quand elle dit « ma fille », moi je pense « c'est la nôtre",
+      "ipa": "[kɑ̃t‿ɛl di ma fij mwa ʒə pɑ̃s sɛ la notʁ]",
+      "ear": "康特 艾勒 迪 玛 菲耶 姆乌阿 热 庞斯 塞 拉 诺特赫",
+      "meaning": "她说“我的女儿”，我心想“是我们的”。",
+      "suppliedText": "Quand elle dit « ma fille », moi je pense « c'est la nôtre »",
+      "sourceLineId": "romeo-timed-346-14",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3714,
+        "sourceLineNumber": 346,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3728,
+      "sourceText": "Pourquoi pour plaire à leurs maris",
+      "ipa": "[puʁkwa puʁ plɛʁ‿a lœʁ maʁi]",
+      "ear": "普赫克乌阿 普赫 普莱赫 阿 勒厄赫 玛希",
+      "meaning": "为什么，为了讨丈夫欢心。",
+      "suppliedText": "Pourquoi pour plaire à leurs maris",
+      "sourceLineId": "romeo-timed-347-15",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3728,
+        "sourceLineNumber": 347,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3731.462,
+      "sourceText": "Tant de femmes comme elle oublient",
+      "ipa": "[tɑ̃ də fam kɔm‿ɛl‿ubli]",
+      "ear": "唐 德 法姆 科姆 艾勒 乌布利",
+      "meaning": "那么多像她一样的女人忘了。",
+      "suppliedText": "Tant de femmes comme elle oublient",
+      "sourceLineId": "romeo-timed-347-16",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3728,
+        "sourceLineNumber": 347,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3734.231,
+      "sourceText": "Qu'elles ont fait des enfants et qu'ils auront vingt ans",
+      "ipa": "[kɛl‿ɔ̃ fɛ dez‿ɑ̃fɑ̃ e kil‿oʁɔ̃ vɛ̃ ɑ̃]",
+      "ear": "凯勒 翁 费 德兹 昂芳 诶 基勒 奥洪 万 昂",
+      "meaning": "自己生过孩子，孩子也会长到二十岁。",
+      "suppliedText": "Qu'elles ont fait des enfants et qu'ils auront vingt ans",
+      "sourceLineId": "romeo-timed-347-17",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3728,
+        "sourceLineNumber": 347,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3738.154,
+      "sourceText": "Et Juliette a grandi",
+      "ipa": "[e ʒyljɛt‿a ɡʁɑ̃di]",
+      "ear": "诶 日于勒耶艾特 阿 格杭迪",
+      "meaning": "朱丽叶长大了。",
+      "suppliedText": "Et Juliette a grandi",
+      "sourceLineId": "romeo-timed-347-18",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3728,
+        "sourceLineNumber": 347,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3740,
+      "sourceText": "Et voilà qu'elle aime et voilà qu'elle danse",
+      "ipa": "[e vwala kɛl‿ɛm e vwala kɛl dɑ̃s]",
+      "ear": "诶 弗乌阿拉 凯勒 艾姆 诶 弗乌阿拉 凯勒 当斯",
+      "meaning": "如今她爱了，如今她跳着舞。",
+      "suppliedText": "Et voilà qu'elle aime et voilà qu'elle danse",
+      "sourceLineId": "romeo-timed-348-19",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3740,
+        "sourceLineNumber": 348,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3748.941,
+      "sourceText": "Elle me dit \"je l'aime\", elle sort de l'enfance",
+      "ipa": "[ɛl mə di ʒə lɛm ɛl sɔʁ də lɑ̃fɑ̃s]",
+      "ear": "艾勒 默 迪 热 莱姆 艾勒 索赫 德 朗芳斯",
+      "meaning": "她对我说“我爱他”，她走出了童年。",
+      "suppliedText": "Elle me dit \"je l'aime\", elle sort de l'enfance",
+      "sourceLineId": "romeo-timed-348-20",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3740,
+        "sourceLineNumber": 348,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3756,
+      "sourceText": "Et moi qui suis là, qui regarde et qui voit",
+      "ipa": "[e mwa ki sɥi la ki ʁəɡaʁd e ki vwa]",
+      "ear": "诶 姆乌阿 基 斯于伊 拉 基 赫嘎赫德 诶 基 弗乌阿",
+      "meaning": "而我就在这里，看着，明白着。",
+      "suppliedText": "Et moi qui suis là, qui regarde et qui voit",
+      "sourceLineId": "romeo-timed-349-21",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3756,
+        "sourceLineNumber": 349,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3762.6,
+      "sourceText": "Je donnerai tout, même ma vie",
+      "ipa": "[ʒə dɔnʁe tu mɛm ma vi]",
+      "ear": "热 多恩赫 图 梅姆 玛 维",
+      "meaning": "我愿付出一切，甚至生命。",
+      "suppliedText": "Je donnerai tout, même ma vie",
+      "sourceLineId": "romeo-timed-349-22",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3756,
+        "sourceLineNumber": 349,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3767,
+      "sourceText": "Pour cette enfant qui grandit",
+      "ipa": "[puʁ sɛt‿ɑ̃fɑ̃ ki ɡʁɑ̃di]",
+      "ear": "普赫 塞特 昂芳 基 格杭迪",
+      "meaning": "为了这个正在长大的孩子。",
+      "suppliedText": "Pour cette enfant qui grandit",
+      "sourceLineId": "romeo-timed-350-23",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 3767,
+        "sourceLineNumber": 350,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3775,
+      "sourceText": "Et voilà qu'elle aime et voilà qu'elle ose",
+      "ipa": "[e vwala kɛl‿ɛm e vwala kɛl‿ɔz]",
+      "ear": "诶 弗乌阿拉 凯勒 艾姆 诶 弗乌阿拉 凯勒 哦兹",
+      "meaning": "如今她爱了，如今她敢于去爱。",
+      "suppliedText": "Et voilà qu'elle aime et voilà qu'elle ose",
+      "sourceLineId": "romeo-timed-351-24",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3775,
+        "sourceLineNumber": 351,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3782.703,
+      "sourceText": "Que son cœur explose et voilà qu'elle aime",
+      "ipa": "[kə sɔ̃ kœʁ‿ɛksplɔz e vwala kɛl‿ɛm]",
+      "ear": "克 松 克厄赫 艾克斯普洛兹 诶 弗乌阿拉 凯勒 艾姆",
+      "meaning": "她的心热烈跳动，如今她爱了。",
+      "suppliedText": "Que son cœur explose et voilà qu'elle aime",
+      "sourceLineId": "romeo-timed-351-25",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3775,
+        "sourceLineNumber": 351,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3790,
+      "sourceText": "Et vous qui savez que l'amour peut tuer",
+      "ipa": "[e vu ki save kə lamuʁ pø tye]",
+      "ear": "诶 乌 基 萨韦 克 拉穆赫 珀厄 蒂于诶",
+      "meaning": "你们知道，爱情也会夺人性命。",
+      "suppliedText": "Et vous qui savez que l'amour peut tuer",
+      "sourceLineId": "romeo-timed-352-26",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3790,
+        "sourceLineNumber": 352,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3796.857,
+      "sourceText": "Donnez-moi la force, le courage",
+      "ipa": "[dɔnemwa la fɔʁs lə kuʁaʒ]",
+      "ear": "多内姆乌阿 拉 佛赫斯 勒 库哈日",
+      "meaning": "请赐我力量与勇气。",
+      "suppliedText": "Donnez-moi la force, le courage",
+      "sourceLineId": "romeo-timed-352-27",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3790,
+        "sourceLineNumber": 352,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3802,
+      "sourceText": "De la conduire jusqu'au mariage",
+      "ipa": "[də la kɔ̃dɥiʁ ʒysko maʁjaʒ]",
+      "ear": "德 拉 孔德于伊赫 日于斯科 玛赫耶阿日",
+      "meaning": "陪她走到婚礼那天。",
+      "suppliedText": "De la conduire jusqu'au mariage",
+      "sourceLineId": "romeo-timed-353-28",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3802,
+        "sourceLineNumber": 353,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3806.083,
+      "sourceText": "Et voilà qu'elle aime",
+      "ipa": "[e vwala kɛl‿ɛm]",
+      "ear": "诶 弗乌阿拉 凯勒 艾姆",
+      "meaning": "如今，她爱了。",
+      "suppliedText": "Et voilà qu'elle aime",
+      "sourceLineId": "romeo-timed-353-29",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3802,
+        "sourceLineNumber": 353,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3809,
+      "sourceText": "Et voilà qu'elle danse",
+      "ipa": "[e vwala kɛl dɑ̃s]",
+      "ear": "诶 弗乌阿拉 凯勒 当斯",
+      "meaning": "如今，她跳着舞。",
+      "suppliedText": "Et voilà qu'elle danse",
+      "sourceLineId": "romeo-timed-354-30",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3809,
+        "sourceLineNumber": 354,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3818.474,
+      "sourceText": "Et voilà qu'elle aime",
+      "ipa": "[e vwala kɛl‿ɛm]",
+      "ear": "诶 弗乌阿拉 凯勒 艾姆",
+      "meaning": "如今，她爱了。",
+      "suppliedText": "Et voilà qu'elle aime",
+      "sourceLineId": "romeo-timed-354-31",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3809,
+        "sourceLineNumber": 354,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3829,
+      "sourceText": "Et voilà qu'elle aime",
+      "ipa": "[e vwala kɛl‿ɛm]",
+      "ear": "诶 弗乌阿拉 凯勒 艾姆",
+      "meaning": "如今，她爱了。",
+      "suppliedText": "Et voilà qu'elle aime",
+      "sourceLineId": "romeo-timed-355-32",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 3829,
+        "sourceLineNumber": 355,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

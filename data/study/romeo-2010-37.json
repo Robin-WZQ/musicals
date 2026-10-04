@@ -1,0 +1,805 @@
+{
+  "videoId": "romeo-2010-37",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=7751"
+    }
+  ],
+  "entries": [
+    {
+      "start": 7759,
+      "sourceText": "Pourquoi rester à vieillir",
+      "ipa": "[puʁkwa ʁɛste a vjɛjiʁ]",
+      "ear": "普赫克乌阿 赫斯特 阿 弗耶艾耶伊赫",
+      "meaning": "为什么还要留下来，慢慢老去？",
+      "suppliedText": "Pourquoi rester à vieillir",
+      "sourceLineId": "romeo-timed-735-1",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7759,
+        "sourceLineNumber": 735,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7761.857,
+      "sourceText": "Dans ce monde où tu n'es plus",
+      "ipa": "[dɑ̃ sə mɔ̃d‿u ty nɛ ply]",
+      "ear": "当 瑟 蒙德 乌 蒂于 奈 普吕",
+      "meaning": "在这个已经没有你的世界。",
+      "suppliedText": "Dans ce monde où tu n'es plus",
+      "sourceLineId": "romeo-timed-735-2",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7759,
+        "sourceLineNumber": 735,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7764,
+      "sourceText": "Est-ce qu'on a le droit de choisir",
+      "ipa": "[ɛs kɔ̃ a lə dʁwa də ʃwaziʁ]",
+      "ear": "艾斯 孔 阿 勒 德赫乌阿 德 什乌阿齐赫",
+      "meaning": "我们是否有权选择？",
+      "suppliedText": "Est-ce qu'on a le droit de choisir",
+      "sourceLineId": "romeo-timed-736-3",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7764,
+        "sourceLineNumber": 736,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7766.483,
+      "sourceText": "Quand celui qu'on aime pour vous se tue",
+      "ipa": "[kɑ̃ səlɥi kɔ̃ ɛm puʁ vu sə ty]",
+      "ear": "康 瑟勒于伊 孔 艾姆 普赫 乌 瑟 蒂于",
+      "meaning": "当爱的人为了自己而死。",
+      "suppliedText": "Quand celui qu'on aime pour vous se tue",
+      "sourceLineId": "romeo-timed-736-4",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7764,
+        "sourceLineNumber": 736,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7770,
+      "sourceText": "Ne cherchez pas à nous comprendre",
+      "ipa": "[nə ʃɛʁʃe pa a nu kɔ̃pʁɑ̃dʁ]",
+      "ear": "讷 谢赫谢 帕 阿 努 孔普杭德赫",
+      "meaning": "别试图理解我们。",
+      "suppliedText": "Ne cherchez pas à nous comprendre",
+      "sourceLineId": "romeo-timed-737-5",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7770,
+        "sourceLineNumber": 737,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7772.632,
+      "sourceText": "Ne cherchez plus rien de nous",
+      "ipa": "[nə ʃɛʁʃe ply ʁjɛ̃ də nu]",
+      "ear": "讷 谢赫谢 普吕 赫耶安 德 努",
+      "meaning": "也别再要求我们什么。",
+      "suppliedText": "Ne cherchez plus rien de nous",
+      "sourceLineId": "romeo-timed-737-6",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7770,
+        "sourceLineNumber": 737,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7775,
+      "sourceText": "Brûler d'amour vous laisse en cendres",
+      "ipa": "[bʁyle damuʁ vu lɛs‿ɑ̃ sɑ̃dʁ]",
+      "ear": "布许莱 达穆赫 乌 莱斯 昂 桑德赫",
+      "meaning": "为爱燃烧，会让人化作灰烬。",
+      "suppliedText": "Brûler d'amour vous laisse en cendres",
+      "sourceLineId": "romeo-timed-738-7",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7775,
+        "sourceLineNumber": 738,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7778.0,
+      "sourceText": "Mais restez cachés au froid chez vous",
+      "ipa": "[mɛ ʁɛste kaʃe o fʁwa ʃe vu]",
+      "ear": "梅 赫斯特 卡谢 奥 弗赫乌阿 谢 乌",
+      "meaning": "你们就继续躲在冰冷的家里吧。",
+      "suppliedText": "Mais restez cachés au froid chez vous",
+      "sourceLineId": "romeo-timed-738-8",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7775,
+        "sourceLineNumber": 738,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7781,
+      "sourceText": "Moi je meurs d'amour",
+      "ipa": "[mwa ʒə mœʁ damuʁ]",
+      "ear": "姆乌阿 热 默厄赫 达穆赫",
+      "meaning": "而我，为爱而死。",
+      "suppliedText": "Moi je meurs d'amour",
+      "sourceLineId": "romeo-timed-739-9",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7781,
+        "sourceLineNumber": 739,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7791,
+      "sourceText": "Roméo, Roméo",
+      "ipa": "[ʁomeo ʁomeo]",
+      "ear": "霍梅奥 霍梅奥",
+      "meaning": "罗密欧，罗密欧。",
+      "suppliedText": "Roméo, Roméo",
+      "sourceLineId": "romeo-timed-740-10",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7791,
+        "sourceLineNumber": 740,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7795.875,
+      "sourceText": "La vie sans toi n'est qu'un mot",
+      "ipa": "[la vi sɑ̃ twa nɛ kœ̃ mo]",
+      "ear": "拉 维 桑 特乌阿 奈 坎 莫",
+      "meaning": "没有你，生命只剩一个词。",
+      "suppliedText": "La vie sans toi n'est qu'un mot",
+      "sourceLineId": "romeo-timed-740-11",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7791,
+        "sourceLineNumber": 740,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7804,
+      "sourceText": "Roméo je t'aime trop",
+      "ipa": "[ʁomeo ʒə tɛm tʁo]",
+      "ear": "霍梅奥 热 泰姆 特霍",
+      "meaning": "罗密欧，我太爱你。",
+      "suppliedText": "Roméo je t'aime trop",
+      "sourceLineId": "romeo-timed-741-12",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7804,
+        "sourceLineNumber": 741,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7809,
+      "sourceText": "Pour que ce soir le jour se couche",
+      "ipa": "[puʁ kə sə swaʁ lə ʒuʁ sə kuʃ]",
+      "ear": "普赫 克 瑟 斯乌阿赫 勒 茹赫 瑟 库什",
+      "meaning": "不能让今晚的太阳落下。",
+      "suppliedText": "Pour que ce soir le jour se couche",
+      "sourceLineId": "romeo-timed-742-13",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7809,
+        "sourceLineNumber": 742,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7812.231,
+      "sourceText": "Sans le goût de toi sur ma bouche",
+      "ipa": "[sɑ̃ lə ɡu də twa syʁ ma buʃ]",
+      "ear": "桑 勒 古 德 特乌阿 西于赫 玛 布什",
+      "meaning": "而我嘴里没有你的味道。",
+      "suppliedText": "Sans le goût de toi sur ma bouche",
+      "sourceLineId": "romeo-timed-742-14",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7809,
+        "sourceLineNumber": 742,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7815,
+      "sourceText": "Roméo, Roméo",
+      "ipa": "[ʁomeo ʁomeo]",
+      "ear": "霍梅奥 霍梅奥",
+      "meaning": "罗密欧，罗密欧。",
+      "suppliedText": "Roméo, Roméo",
+      "sourceLineId": "romeo-timed-743-15",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7815,
+        "sourceLineNumber": 743,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7820,
+      "sourceText": "J'arrive attends-moi là-haut Roméo je t'aime trop",
+      "ipa": "[ʒaʁiv‿atɑ̃mwa lao ʁomeo ʒə tɛm tʁo]",
+      "ear": "扎希弗 阿唐姆乌阿 拉奥 霍梅奥 热 泰姆 特霍",
+      "meaning": "我来了，在天上等我；罗密欧，我太爱你。",
+      "suppliedText": "J'arrive attends-moi là-haut Roméo je t'aime trop",
+      "sourceLineId": "romeo-timed-744-16",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7820,
+        "sourceLineNumber": 744,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7832,
+      "sourceText": "Pour que demain le jour se lève",
+      "ipa": "[puʁ kə dəmɛ̃ lə ʒuʁ sə lɛv]",
+      "ear": "普赫 克 德曼 勒 茹赫 瑟 莱弗",
+      "meaning": "不能让明天的太阳升起。",
+      "suppliedText": "Pour que demain le jour se lève",
+      "sourceLineId": "romeo-timed-745-17",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7832,
+        "sourceLineNumber": 745,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7837.417,
+      "sourceText": "Sans le goût de toi sur mes lèvres",
+      "ipa": "[sɑ̃ lə ɡu də twa syʁ me lɛvʁ]",
+      "ear": "桑 勒 古 德 特乌阿 西于赫 梅 莱弗赫",
+      "meaning": "而我唇上没有你的味道。",
+      "suppliedText": "Sans le goût de toi sur mes lèvres",
+      "sourceLineId": "romeo-timed-745-18",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7832,
+        "sourceLineNumber": 745,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7842,
+      "sourceText": "Peut-être aurez vous de la peine",
+      "ipa": "[pøtɛtʁ‿oʁe vu də la pɛn]",
+      "ear": "珀厄泰特赫 奥赫 乌 德 拉 佩恩",
+      "meaning": "也许你们会难过。",
+      "suppliedText": "Peut-être aurez vous de la peine",
+      "sourceLineId": "romeo-timed-746-19",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7842,
+        "sourceLineNumber": 746,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7845.0,
+      "sourceText": "Moi j'en ai eu tellement pour vous",
+      "ipa": "[mwa ʒɑ̃ e y tɛlmɑ̃ puʁ vu]",
+      "ear": "姆乌阿 让 诶 于 泰勒芒 普赫 乌",
+      "meaning": "我也曾为你们受尽伤痛。",
+      "suppliedText": "Moi j'en ai eu tellement pour vous",
+      "sourceLineId": "romeo-timed-746-20",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7842,
+        "sourceLineNumber": 746,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7848,
+      "sourceText": "Je vous laisse avec votre haine",
+      "ipa": "[ʒə vu lɛs‿avɛk votʁ ɛn]",
+      "ear": "热 乌 莱斯 阿韦克 沃特赫 艾恩",
+      "meaning": "我把你们留给自己的仇恨。",
+      "suppliedText": "Je vous laisse avec votre haine",
+      "sourceLineId": "romeo-timed-747-21",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7848,
+        "sourceLineNumber": 747,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7851.37,
+      "sourceText": "Mais laissez-moi partir loin de vous",
+      "ipa": "[mɛ lɛsemwa paʁtiʁ lwɛ̃ də vu]",
+      "ear": "梅 莱塞姆乌阿 帕赫蒂赫 勒乌安 德 乌",
+      "meaning": "可请让我远远离开你们。",
+      "suppliedText": "Mais laissez-moi partir loin de vous",
+      "sourceLineId": "romeo-timed-747-22",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7848,
+        "sourceLineNumber": 747,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7855,
+      "sourceText": "Moi, je meurs d'amour",
+      "ipa": "[mwa ʒə mœʁ damuʁ]",
+      "ear": "姆乌阿 热 默厄赫 达穆赫",
+      "meaning": "而我，为爱而死。",
+      "suppliedText": "Moi, je meurs d'amour",
+      "sourceLineId": "romeo-timed-748-23",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7855,
+        "sourceLineNumber": 748,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7866,
+      "sourceText": "Roméo, Roméo",
+      "ipa": "[ʁomeo ʁomeo]",
+      "ear": "霍梅奥 霍梅奥",
+      "meaning": "罗密欧，罗密欧。",
+      "suppliedText": "Roméo, Roméo",
+      "sourceLineId": "romeo-timed-749-24",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7866,
+        "sourceLineNumber": 749,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7870.125,
+      "sourceText": "La vie sans toi n'est qu'un mot",
+      "ipa": "[la vi sɑ̃ twa nɛ kœ̃ mo]",
+      "ear": "拉 维 桑 特乌阿 奈 坎 莫",
+      "meaning": "没有你，生命只剩一个词。",
+      "suppliedText": "La vie sans toi n'est qu'un mot",
+      "sourceLineId": "romeo-timed-749-25",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7866,
+        "sourceLineNumber": 749,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7877,
+      "sourceText": "Roméo je t'aime trop",
+      "ipa": "[ʁomeo ʒə tɛm tʁo]",
+      "ear": "霍梅奥 热 泰姆 特霍",
+      "meaning": "罗密欧，我太爱你。",
+      "suppliedText": "Roméo je t'aime trop",
+      "sourceLineId": "romeo-timed-750-26",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7877,
+        "sourceLineNumber": 750,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7882,
+      "sourceText": "Pour que ce soir le jour se couche",
+      "ipa": "[puʁ kə sə swaʁ lə ʒuʁ sə kuʃ]",
+      "ear": "普赫 克 瑟 斯乌阿赫 勒 茹赫 瑟 库什",
+      "meaning": "不能让今晚的太阳落下。",
+      "suppliedText": "Pour que ce soir le jour se couche",
+      "sourceLineId": "romeo-timed-751-27",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7882,
+        "sourceLineNumber": 751,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7885.231,
+      "sourceText": "Sans le goût de toi sur ma bouche",
+      "ipa": "[sɑ̃ lə ɡu də twa syʁ ma buʃ]",
+      "ear": "桑 勒 古 德 特乌阿 西于赫 玛 布什",
+      "meaning": "而我嘴里没有你的味道。",
+      "suppliedText": "Sans le goût de toi sur ma bouche",
+      "sourceLineId": "romeo-timed-751-28",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7882,
+        "sourceLineNumber": 751,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7888,
+      "sourceText": "Roméo, Roméo",
+      "ipa": "[ʁomeo ʁomeo]",
+      "ear": "霍梅奥 霍梅奥",
+      "meaning": "罗密欧，罗密欧。",
+      "suppliedText": "Roméo, Roméo",
+      "sourceLineId": "romeo-timed-752-29",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7888,
+        "sourceLineNumber": 752,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7892.125,
+      "sourceText": "J'arrive attends-moi là-haut",
+      "ipa": "[ʒaʁiv‿atɑ̃mwa lao]",
+      "ear": "扎希弗 阿唐姆乌阿 拉奥",
+      "meaning": "我来了，在天上等我。",
+      "suppliedText": "J'arrive attends-moi là-haut",
+      "sourceLineId": "romeo-timed-752-30",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7888,
+        "sourceLineNumber": 752,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7899,
+      "sourceText": "Roméo je t'aime trop",
+      "ipa": "[ʁomeo ʒə tɛm tʁo]",
+      "ear": "霍梅奥 热 泰姆 特霍",
+      "meaning": "罗密欧，我太爱你。",
+      "suppliedText": "Roméo je t'aime trop",
+      "sourceLineId": "romeo-timed-753-31",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7899,
+        "sourceLineNumber": 753,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7904,
+      "sourceText": "Pour que demain le jour se lève",
+      "ipa": "[puʁ kə dəmɛ̃ lə ʒuʁ sə lɛv]",
+      "ear": "普赫 克 德曼 勒 茹赫 瑟 莱弗",
+      "meaning": "不能让明天的太阳升起。",
+      "suppliedText": "Pour que demain le jour se lève",
+      "sourceLineId": "romeo-timed-754-32",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7904,
+        "sourceLineNumber": 754,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7945.167,
+      "sourceText": "Sans le goût de toi sur mes lèvres",
+      "ipa": "[sɑ̃ lə ɡu də twa syʁ me lɛvʁ]",
+      "ear": "桑 勒 古 德 特乌阿 西于赫 梅 莱弗赫",
+      "meaning": "而我唇上没有你的味道。",
+      "suppliedText": "Sans le goût de toi sur mes lèvres",
+      "sourceLineId": "romeo-timed-754-33",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7904,
+        "sourceLineNumber": 754,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7980,
+      "sourceText": "Roméo !",
+      "ipa": "[ʁomeo]",
+      "ear": "霍梅奥",
+      "meaning": "罗密欧！",
+      "suppliedText": "Roméo !",
+      "sourceLineId": "romeo-timed-755-34",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7980,
+        "sourceLineNumber": 755,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7981.034,
+      "sourceText": "Pourquoi tout le monde te cherche ?",
+      "ipa": "[puʁkwa tulmɔ̃d tə ʃɛʁʃ]",
+      "ear": "普赫克乌阿 图勒蒙德 特 谢赫什",
+      "meaning": "为什么所有人都在找你？",
+      "suppliedText": "Pourquoi tout le monde te cherche ?",
+      "sourceLineId": "romeo-timed-755-35",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7980,
+        "sourceLineNumber": 755,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7985.517,
+      "sourceText": "Me marier ?",
+      "ipa": "[mə maʁje]",
+      "ear": "默 玛赫耶诶",
+      "meaning": "要我结婚？",
+      "suppliedText": "Me marier ?",
+      "sourceLineId": "romeo-timed-755-36",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7980,
+        "sourceLineNumber": 755,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7986.897,
+      "sourceText": "Mais je suis trop jeune !",
+      "ipa": "[mɛ ʒə sɥi tʁo ʒøn]",
+      "ear": "梅 热 斯于伊 特霍 热厄恩",
+      "meaning": "可我还太小！",
+      "suppliedText": "Mais je suis trop jeune !",
+      "sourceLineId": "romeo-timed-755-37",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7980,
+        "sourceLineNumber": 755,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7990,
+      "sourceText": "je suis chez moi ici !",
+      "ipa": "[ʒə sɥi ʃe mwa isi]",
+      "ear": "热 斯于伊 谢 姆乌阿 伊西",
+      "meaning": "这里是我家！",
+      "suppliedText": "je suis chez moi ici !",
+      "sourceLineId": "romeo-timed-756-38",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7990,
+        "sourceLineNumber": 756,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7992.0,
+      "sourceText": "C’est un Montaigu !",
+      "ipa": "[sɛt‿œ̃ mɔ̃tɛɡy]",
+      "ear": "塞特 恩 蒙泰吉于",
+      "meaning": "他是个蒙太古！",
+      "suppliedText": "C’est un Montaigu !",
+      "sourceLineId": "romeo-timed-756-39",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7990,
+        "sourceLineNumber": 756,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7993.5,
+      "sourceText": "Roméo !",
+      "ipa": "[ʁomeo]",
+      "ear": "霍梅奥",
+      "meaning": "罗密欧！",
+      "suppliedText": "Roméo !",
+      "sourceLineId": "romeo-timed-756-40",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7990,
+        "sourceLineNumber": 756,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7994.25,
+      "sourceText": "Es-tu sûre de tes sentiments ?",
+      "ipa": "[ɛty syʁ də te sɑ̃timɑ̃]",
+      "ear": "艾蒂于 西于赫 德 特 桑蒂芒",
+      "meaning": "你确定自己的感情吗？",
+      "suppliedText": "Es-tu sûre de tes sentiments ?",
+      "sourceLineId": "romeo-timed-756-41",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7990,
+        "sourceLineNumber": 756,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7996.5,
+      "sourceText": "Lâche !",
+      "ipa": "[laʃ]",
+      "ear": "拉什",
+      "meaning": "懦夫！",
+      "suppliedText": "Lâche !",
+      "sourceLineId": "romeo-timed-756-42",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7990,
+        "sourceLineNumber": 756,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7997,
+      "sourceText": "Mercutio !",
+      "ipa": "[mɛʁkysjo]",
+      "ear": "梅赫基于斯耶奥",
+      "meaning": "茂丘西奥！",
+      "suppliedText": "Mercutio !",
+      "sourceLineId": "romeo-timed-757-43",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7997,
+        "sourceLineNumber": 757,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7998.158,
+      "sourceText": "Aime Juliette, Roméo !",
+      "ipa": "[ɛm ʒyljɛt ʁomeo]",
+      "ear": "艾姆 日于勒耶艾特 霍梅奥",
+      "meaning": "去爱朱丽叶，罗密欧！",
+      "suppliedText": "Aime Juliette, Roméo !",
+      "sourceLineId": "romeo-timed-757-44",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7997,
+        "sourceLineNumber": 757,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8001.053,
+      "sourceText": "Aime la !",
+      "ipa": "[ɛm la]",
+      "ear": "艾姆 拉",
+      "meaning": "爱她！",
+      "suppliedText": "Aime la !",
+      "sourceLineId": "romeo-timed-757-45",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7997,
+        "sourceLineNumber": 757,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8002.211,
+      "sourceText": "Sois banni de cette ville à jamais !",
+      "ipa": "[swa bani də sɛt vil‿a ʒamɛ]",
+      "ear": "斯乌阿 巴尼 德 塞特 维勒 阿 扎梅",
+      "meaning": "永远被这座城放逐！",
+      "suppliedText": "Soit banni de cette ville à jamais !",
+      "sourceLineId": "romeo-timed-757-46",
+      "speaker": "Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7997,
+        "sourceLineNumber": 757,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8005.974,
+      "sourceText": "Par pitié, arrêtez !",
+      "ipa": "[paʁ pitje aʁɛte]",
+      "ear": "帕赫 皮特耶诶 阿赫特",
+      "meaning": "求你们，住手！",
+      "suppliedText": "Par pitié, arrêtez !",
+      "sourceLineId": "romeo-timed-757-47",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7997,
+        "sourceLineNumber": 757,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8008,
+      "sourceText": "Juliette est morte !",
+      "ipa": "[ʒyljɛt‿ɛ mɔʁt]",
+      "ear": "日于勒耶艾特 艾 莫赫特",
+      "meaning": "朱丽叶死了！",
+      "suppliedText": "Juliette est morte !",
+      "sourceLineId": "romeo-timed-758-48",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8008,
+        "sourceLineNumber": 758,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8013.0,
+      "sourceText": "A la vie, à la mort",
+      "ipa": "[a la vi a la mɔʁ]",
+      "ear": "阿 拉 维 阿 拉 莫赫",
+      "meaning": "生死相随。",
+      "suppliedText": "A la vie, à la mort",
+      "sourceLineId": "romeo-timed-758-49",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8008,
+        "sourceLineNumber": 758,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

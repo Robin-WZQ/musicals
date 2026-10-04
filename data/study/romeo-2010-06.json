@@ -1,0 +1,565 @@
+{
+  "videoId": "romeo-2010-06",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=1016"
+    }
+  ],
+  "entries": [
+    {
+      "start": 1016,
+      "sourceText": "Ton père ne m'aime plus",
+      "ipa": "[tɔ̃ pɛʁ nə mɛm ply]",
+      "ear": "通 佩赫 讷 梅姆 普吕",
+      "meaning": "你父亲已经不爱我了。",
+      "suppliedText": "Ton père ne m'aime plus",
+      "sourceLineId": "romeo-timed-107-1",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1016,
+        "sourceLineNumber": 107,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1019.294,
+      "sourceText": "M'a-t-il seulement aimé",
+      "ipa": "[matil sølmɑ̃ ɛme]",
+      "ear": "玛蒂勒 瑟厄勒芒 艾梅",
+      "meaning": "他又何曾爱过我？",
+      "suppliedText": "M'a-t'il seulement aimé",
+      "sourceLineId": "romeo-timed-107-2",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1016,
+        "sourceLineNumber": 107,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1023,
+      "sourceText": "Il voulait me voir nue,",
+      "ipa": "[il vulɛ mə vwaʁ ny]",
+      "ear": "伊勒 乌莱 默 弗乌阿赫 尼于",
+      "meaning": "他想看我裸露的身体。",
+      "suppliedText": "Il voulait me voir nue,",
+      "sourceLineId": "romeo-timed-111-3",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1023,
+        "sourceLineNumber": 111,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1026.889,
+      "sourceText": "Alors il m’a mariée",
+      "ipa": "[alɔʁ‿il ma maʁje]",
+      "ear": "阿洛赫 伊勒 玛 玛赫耶诶",
+      "meaning": "于是娶了我。",
+      "suppliedText": "Alors il m’a mariée",
+      "sourceLineId": "romeo-timed-111-4",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1023,
+        "sourceLineNumber": 111,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1030,
+      "sourceText": "J'étais belle comme tout",
+      "ipa": "[ʒetɛ bɛl kɔm tu]",
+      "ear": "热泰 贝勒 科姆 图",
+      "meaning": "那时的我美极了。",
+      "suppliedText": "J'étais belle comme tout",
+      "sourceLineId": "romeo-timed-112-5",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1030,
+        "sourceLineNumber": 112,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1033.176,
+      "sourceText": "J'étais belle comme toi",
+      "ipa": "[ʒetɛ bɛl kɔm twa]",
+      "ear": "热泰 贝勒 科姆 特乌阿",
+      "meaning": "像你一样美。",
+      "suppliedText": "J'étais belle comme toi",
+      "sourceLineId": "romeo-timed-112-6",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1030,
+        "sourceLineNumber": 112,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1036.353,
+      "sourceText": "Et mon père m’a vendue",
+      "ipa": "[e mɔ̃ pɛʁ ma vɑ̃dy]",
+      "ear": "诶 蒙 佩赫 玛 旺迪于",
+      "meaning": "可我父亲把我卖了。",
+      "suppliedText": "Et mon père m’a vendue",
+      "sourceLineId": "romeo-timed-112-7",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1030,
+        "sourceLineNumber": 112,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1039.176,
+      "sourceText": "Pour un blason de choix.",
+      "ipa": "[puʁ‿œ̃ blazɔ̃ də ʃwa]",
+      "ear": "普赫 恩 布拉宗 德 什乌阿",
+      "meaning": "换一枚体面的家族纹章。",
+      "suppliedText": "Pour un blason de choix.",
+      "sourceLineId": "romeo-timed-112-8",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1030,
+        "sourceLineNumber": 112,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1042,
+      "sourceText": "J’ai pleuré, longtemps",
+      "ipa": "[ʒe pløʁe lɔ̃tɑ̃]",
+      "ear": "热 普勒厄赫 隆唐",
+      "meaning": "我哭了很久。",
+      "suppliedText": "J’ai pleuré, longtemps",
+      "sourceLineId": "romeo-timed-113-9",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1042,
+        "sourceLineNumber": 113,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1044.625,
+      "sourceText": "Puis j’ai pris des amants",
+      "ipa": "[pɥi ʒe pʁi dez‿amɑ̃]",
+      "ear": "普于伊 热 普希 德兹 阿芒",
+      "meaning": "后来，我有了情人。",
+      "suppliedText": "Puis j’ai pris des amants",
+      "sourceLineId": "romeo-timed-113-10",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1042,
+        "sourceLineNumber": 113,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1047.625,
+      "sourceText": "J’ai menti, j’ai triché,",
+      "ipa": "[ʒe mɑ̃ti ʒe tʁiʃe]",
+      "ear": "热 芒蒂 热 特希谢",
+      "meaning": "我说谎，我欺骗。",
+      "suppliedText": "J’ai menti, j’ai triché,",
+      "sourceLineId": "romeo-timed-113-11",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1042,
+        "sourceLineNumber": 113,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1050.625,
+      "sourceText": "Et Juliette, tu es née.",
+      "ipa": "[e ʒyljɛt ty ɛ ne]",
+      "ear": "诶 日于勒耶艾特 蒂于 艾 内",
+      "meaning": "然后，朱丽叶，你出生了。",
+      "suppliedText": "Et Juliette, tu es née.",
+      "sourceLineId": "romeo-timed-113-12",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1042,
+        "sourceLineNumber": 113,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1054,
+      "sourceText": "Juliette, tu dois te marier Juliette, tu dois épouser",
+      "ipa": "[ʒyljɛt ty dwa tə maʁje ʒyljɛt ty dwa epuze]",
+      "ear": "日于勒耶艾特 蒂于 德乌阿 特 玛赫耶诶 日于勒耶艾特 蒂于 德乌阿 诶普泽",
+      "meaning": "朱丽叶，你必须结婚，你必须出嫁。",
+      "suppliedText": "Juliette, tu dois te marier Juliette, tu dois épouser",
+      "sourceLineId": "romeo-timed-114-13",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 1054,
+        "sourceLineNumber": 114,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1065,
+      "sourceText": "Juliette, c’est le sort des femmes",
+      "ipa": "[ʒyljɛt sɛ lə sɔʁ de fam]",
+      "ear": "日于勒耶艾特 塞 勒 索赫 德 法姆",
+      "meaning": "朱丽叶，这是女人的命运。",
+      "suppliedText": "Juliette, c’est le sort des femmes",
+      "sourceLineId": "romeo-timed-115-14",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1065,
+        "sourceLineNumber": 115,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1069.762,
+      "sourceText": "Vivre dans une vallée de larmes",
+      "ipa": "[vivʁ dɑ̃ yn vale də laʁm]",
+      "ear": "维弗赫 当 于恩 瓦莱 德 拉赫姆",
+      "meaning": "在泪水的山谷里过一生。",
+      "suppliedText": "Vivre dans une vallée de larmes",
+      "sourceLineId": "romeo-timed-115-15",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1065,
+        "sourceLineNumber": 115,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1075,
+      "sourceText": "Juliette, le jour est venu Juliette, qu'un homme te voie nue",
+      "ipa": "[ʒyljɛt lə ʒuʁ‿ɛ vəny ʒyljɛt kœ̃ ɔm tə vwa ny]",
+      "ear": "日于勒耶艾特 勒 茹赫 艾 弗尼于 日于勒耶艾特 坎 哦姆 特 弗乌阿 尼于",
+      "meaning": "朱丽叶，时候到了，让一个男人看见你的身体。",
+      "suppliedText": "Juliette, le jour est venu Juliette, qu'un homme te voie nue",
+      "sourceLineId": "romeo-timed-116-16",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 1075,
+        "sourceLineNumber": 116,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1085,
+      "sourceText": "Juliette, mon amour, est venu le jour",
+      "ipa": "[ʒyljɛt mɔ̃n‿amuʁ ɛ vəny lə ʒuʁ]",
+      "ear": "日于勒耶艾特 蒙恩 阿穆赫 艾 弗尼于 勒 茹赫",
+      "meaning": "朱丽叶，我的宝贝，时候到了。",
+      "suppliedText": "Juliette, mon amour, est venu le jour",
+      "sourceLineId": "romeo-timed-117-17",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1085,
+        "sourceLineNumber": 117,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1098.533,
+      "sourceText": "Où l'enfance est morte",
+      "ipa": "[u lɑ̃fɑ̃s‿ɛ mɔʁt]",
+      "ear": "乌 朗芳斯 艾 莫赫特",
+      "meaning": "童年已走到尽头。",
+      "suppliedText": "Où l'enfance est morte",
+      "sourceLineId": "romeo-timed-117-18",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1085,
+        "sourceLineNumber": 117,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1106.267,
+      "sourceText": "Où tu franchis la porte",
+      "ipa": "[u ty fʁɑ̃ʃi la pɔʁt]",
+      "ear": "乌 蒂于 弗杭希 拉 珀赫特",
+      "meaning": "你要跨过那道门。",
+      "suppliedText": "Où tu franchis la porte",
+      "sourceLineId": "romeo-timed-117-19",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1085,
+        "sourceLineNumber": 117,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1114,
+      "sourceText": "Ah, les yeux de sa fille",
+      "ipa": "[a lez‿jø də sa fij]",
+      "ear": "阿 莱兹 耶厄 德 萨 菲耶",
+      "meaning": "女儿的那双眼睛啊。",
+      "suppliedText": "Ah, les yeux de sa fille",
+      "sourceLineId": "romeo-timed-118-20",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1114,
+        "sourceLineNumber": 118,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1116.189,
+      "sourceText": "Ce regard qui vous juge",
+      "ipa": "[sə ʁəɡaʁ ki vu ʒyʒ]",
+      "ear": "瑟 赫嘎赫 基 乌 日于日",
+      "meaning": "那审视你的目光。",
+      "suppliedText": "Ce regard qui vous juge",
+      "sourceLineId": "romeo-timed-118-21",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1114,
+        "sourceLineNumber": 118,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1118.378,
+      "sourceText": "Ces yeux qui vous fusillent",
+      "ipa": "[sez‿jø ki vu fyzij]",
+      "ear": "塞兹 耶厄 基 乌 菲于齐耶",
+      "meaning": "那如子弹般的眼神。",
+      "suppliedText": "Ces yeux qui vous fusillent",
+      "sourceLineId": "romeo-timed-118-22",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1114,
+        "sourceLineNumber": 118,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1121.054,
+      "sourceText": "Ce printemps qui s'insurge",
+      "ipa": "[sə pʁɛ̃tɑ̃ ki sɛ̃syʁʒ]",
+      "ear": "瑟 普汉唐 基 森西于赫日",
+      "meaning": "那反抗的青春。",
+      "suppliedText": "Ce printemps qui s'insurge",
+      "sourceLineId": "romeo-timed-118-23",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1114,
+        "sourceLineNumber": 118,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1123,
+      "sourceText": "J'ai eu ce même regard",
+      "ipa": "[ʒe y sə mɛm ʁəɡaʁ]",
+      "ear": "热 于 瑟 梅姆 赫嘎赫",
+      "meaning": "我也曾有这样的目光。",
+      "suppliedText": "J'ai eu ce même regard",
+      "sourceLineId": "romeo-timed-119-24",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1123,
+        "sourceLineNumber": 119,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1125.132,
+      "sourceText": "J'ai eu ce même dégoût",
+      "ipa": "[ʒe y sə mɛm deɡu]",
+      "ear": "热 于 瑟 梅姆 德古",
+      "meaning": "也曾有同样的厌恶。",
+      "suppliedText": "J'ai eu ce même dégoût",
+      "sourceLineId": "romeo-timed-119-25",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1123,
+        "sourceLineNumber": 119,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1127.5,
+      "sourceText": "Les hommes sont des barbares",
+      "ipa": "[lez‿ɔm sɔ̃ de baʁbaʁ]",
+      "ear": "莱兹 哦姆 松 德 巴赫巴赫",
+      "meaning": "男人们都是野蛮人。",
+      "suppliedText": "Les hommes sont des barbares",
+      "sourceLineId": "romeo-timed-119-26",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1123,
+        "sourceLineNumber": 119,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1129.395,
+      "sourceText": "Qui nous veulent à genoux",
+      "ipa": "[ki nu vœl‿a ʒənu]",
+      "ear": "基 努 弗厄勒 阿 热努",
+      "meaning": "只想让我们跪下。",
+      "suppliedText": "Qui nous veulent à genoux",
+      "sourceLineId": "romeo-timed-119-27",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1123,
+        "sourceLineNumber": 119,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1132,
+      "sourceText": "Juliette, je t'en supplie",
+      "ipa": "[ʒyljɛt ʒə tɑ̃ sypli]",
+      "ear": "日于勒耶艾特 热 唐 西于普利",
+      "meaning": "朱丽叶，我求你。",
+      "suppliedText": "Juliette, je t'en supplie",
+      "sourceLineId": "romeo-timed-120-28",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1132,
+        "sourceLineNumber": 120,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1139.105,
+      "sourceText": "Mon amour, dis-moi oui",
+      "ipa": "[mɔ̃n‿amuʁ dimwa wi]",
+      "ear": "蒙恩 阿穆赫 迪姆乌阿 乌伊",
+      "meaning": "宝贝，答应我吧。",
+      "suppliedText": "Mon amour, dis-moi oui",
+      "sourceLineId": "romeo-timed-120-29",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1132,
+        "sourceLineNumber": 120,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1147,
+      "sourceText": "Juliette",
+      "ipa": "[ʒyljɛt]",
+      "ear": "日于勒耶艾特",
+      "meaning": "朱丽叶。",
+      "suppliedText": "Juliette",
+      "sourceLineId": "romeo-timed-121-30",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1147,
+        "sourceLineNumber": 121,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1148.789,
+      "sourceText": "C'est le sort des femmes",
+      "ipa": "[sɛ lə sɔʁ de fam]",
+      "ear": "塞 勒 索赫 德 法姆",
+      "meaning": "这是女人的命运。",
+      "suppliedText": "C'est le sort des femmes",
+      "sourceLineId": "romeo-timed-121-31",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1147,
+        "sourceLineNumber": 121,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1151.474,
+      "sourceText": "Vivre dans une vallée de larmes",
+      "ipa": "[vivʁ dɑ̃ yn vale də laʁm]",
+      "ear": "维弗赫 当 于恩 瓦莱 德 拉赫姆",
+      "meaning": "在泪水的山谷里过一生。",
+      "suppliedText": "Vivre dans une vallée de larmes",
+      "sourceLineId": "romeo-timed-121-32",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1147,
+        "sourceLineNumber": 121,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1156.395,
+      "sourceText": "Tu l’épouseras.",
+      "ipa": "[ty lepuzʁa]",
+      "ear": "蒂于 莱普兹哈",
+      "meaning": "你会嫁给他。",
+      "suppliedText": "Tu l’épouseras.",
+      "sourceLineId": "romeo-timed-121-33",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1147,
+        "sourceLineNumber": 121,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1159.079,
+      "sourceText": "Comme j’ai épousé ton père.",
+      "ipa": "[kɔm ʒe epuze tɔ̃ pɛʁ]",
+      "ear": "科姆 热 诶普泽 通 佩赫",
+      "meaning": "就像我嫁给了你父亲。",
+      "suppliedText": "Comme j’ai épousé ton père.",
+      "sourceLineId": "romeo-timed-121-34",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1147,
+        "sourceLineNumber": 121,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

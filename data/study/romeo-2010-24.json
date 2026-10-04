@@ -1,0 +1,1285 @@
+{
+  "videoId": "romeo-2010-24",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=4775"
+    }
+  ],
+  "entries": [
+    {
+      "start": 4775,
+      "sourceText": "Tybalt, Tybalt, tu vas mourir Tybalt, Tybalt, fini de rire",
+      "ipa": "[tibalt tibalt ty va muʁiʁ tibalt tibalt fini də ʁiʁ]",
+      "ear": "蒂巴勒特 蒂巴勒特 蒂于 瓦 穆希赫 蒂巴勒特 蒂巴勒特 菲尼 德 希赫",
+      "meaning": "提伯尔特，你要死了；提伯尔特，别笑了。",
+      "suppliedText": "Tybalt, Tybalt, tu vas mourir Tybalt, Tybalt, fini de rire",
+      "sourceLineId": "romeo-timed-453-1",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 4775,
+        "sourceLineNumber": 453,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4787,
+      "sourceText": "Tu n'es qu'un fat, non, tu es pire",
+      "ipa": "[ty nɛ kœ̃ fa nɔ̃ ty ɛ piʁ]",
+      "ear": "蒂于 奈 坎 法 农 蒂于 艾 皮赫",
+      "meaning": "你只是个自负的蠢货，不，你更糟。",
+      "suppliedText": "Tu n'es qu'un fat, non, tu es pire",
+      "sourceLineId": "romeo-timed-454-2",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4787,
+        "sourceLineNumber": 454,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4790.077,
+      "sourceText": "Ton âme boite mais toi tu crois courir",
+      "ipa": "[tɔ̃n‿am bwat mɛ twa ty kʁwa kuʁiʁ]",
+      "ear": "通恩 阿姆 布乌阿特 梅 特乌阿 蒂于 克赫乌阿 库希赫",
+      "meaning": "你的灵魂在跛行，你却以为自己在奔跑。",
+      "suppliedText": "Ton âme boite mais toi tu crois courir",
+      "sourceLineId": "romeo-timed-454-3",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4787,
+        "sourceLineNumber": 454,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4795,
+      "sourceText": "Le son de ta voix, ta façon de marcher",
+      "ipa": "[lə sɔ̃ də ta vwa ta fasɔ̃ də maʁʃe]",
+      "ear": "勒 松 德 塔 弗乌阿 塔 法松 德 玛赫谢",
+      "meaning": "你的声音，你走路的样子。",
+      "suppliedText": "Le son de ta voix, ta façon de marcher",
+      "sourceLineId": "romeo-timed-455-4",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4795,
+        "sourceLineNumber": 455,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4798.84,
+      "sourceText": "Tout, en toi me donne la nausée",
+      "ipa": "[tu ɑ̃ twa mə dɔn la noze]",
+      "ear": "图 昂 特乌阿 默 多恩 拉 诺泽",
+      "meaning": "你的一切都让我恶心。",
+      "suppliedText": "Tout, en toi me donne la nausée",
+      "sourceLineId": "romeo-timed-455-5",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4795,
+        "sourceLineNumber": 455,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4803,
+      "sourceText": "Tybalt, Tybalt, je vais te tuer",
+      "ipa": "[tibalt tibalt ʒə vɛ tə tye]",
+      "ear": "蒂巴勒特 蒂巴勒特 热 韦 特 蒂于诶",
+      "meaning": "提伯尔特，我要杀了你。",
+      "suppliedText": "Tybalt, Tybalt, je vais te tuer",
+      "sourceLineId": "romeo-timed-456-6",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4803,
+        "sourceLineNumber": 456,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4806.226,
+      "sourceText": "Mercutio, regarde-toi !",
+      "ipa": "[mɛʁkysjo ʁəɡaʁdtwa]",
+      "ear": "梅赫基于斯耶奥 赫嘎赫德特乌阿",
+      "meaning": "茂丘西奥，看看你自己！",
+      "suppliedText": "Mercutio, regarde-toi !",
+      "sourceLineId": "romeo-timed-456-7",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4803,
+        "sourceLineNumber": 456,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4809.129,
+      "sourceText": "Tu as de l'esprit mais tu n'as que ça !",
+      "ipa": "[ty a də lɛspʁi mɛ ty na kə sa]",
+      "ear": "蒂于 阿 德 莱斯普希 梅 蒂于 纳 克 萨",
+      "meaning": "你有点聪明，可也就这点本事！",
+      "suppliedText": "Tu as de l'esprit mais tu n'as que ça !",
+      "sourceLineId": "romeo-timed-456-8",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4803,
+        "sourceLineNumber": 456,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4813,
+      "sourceText": "Tu n'es qu'un bouffon un poète raté,",
+      "ipa": "[ty nɛ kœ̃ bufɔ̃ œ̃ pɔɛt ʁate]",
+      "ear": "蒂于 奈 坎 布丰 恩 珀艾特 哈特",
+      "meaning": "你不过是小丑，一个失败的诗人。",
+      "suppliedText": "Tu n'es qu'un bouffon un poète raté,",
+      "sourceLineId": "romeo-timed-457-9",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4813,
+        "sourceLineNumber": 457,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4816.343,
+      "sourceText": "Et quand j'entends ton nom",
+      "ipa": "[e kɑ̃ ʒɑ̃tɑ̃ tɔ̃ nɔ̃]",
+      "ear": "诶 康 让唐 通 农",
+      "meaning": "一听到你的名字。",
+      "suppliedText": "Et quand j'entends ton nom",
+      "sourceLineId": "romeo-timed-457-10",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4813,
+        "sourceLineNumber": 457,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4818.143,
+      "sourceText": "Je me bouche le nez",
+      "ipa": "[ʒə mə buʃ lə ne]",
+      "ear": "热 默 布什 勒 内",
+      "meaning": "我就捂住鼻子。",
+      "suppliedText": "Je me bouche le nez",
+      "sourceLineId": "romeo-timed-457-11",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4813,
+        "sourceLineNumber": 457,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4819.943,
+      "sourceText": "Maintenant, c'est terminé",
+      "ipa": "[mɛ̃tnɑ̃ sɛ tɛʁmine]",
+      "ear": "曼特南 塞 泰赫米内",
+      "meaning": "现在，一切到此为止。",
+      "suppliedText": "Maintenant, c'est terminé",
+      "sourceLineId": "romeo-timed-457-12",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4813,
+        "sourceLineNumber": 457,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4822,
+      "sourceText": "Depuis notre enfance je n'ai qu'une idée",
+      "ipa": "[dəpɥi notʁ‿ɑ̃fɑ̃s ʒə ne kyn‿ide]",
+      "ear": "德普于伊 诺特赫 昂芳斯 热 内 基于恩 伊德",
+      "meaning": "从小时候起，我就只有一个念头。",
+      "suppliedText": "Depuis notre enfance je n'ai qu'une idée",
+      "sourceLineId": "romeo-timed-458-13",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4822,
+        "sourceLineNumber": 458,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4826.25,
+      "sourceText": "Enfin ma patience va être récompensée",
+      "ipa": "[ɑ̃fɛ̃ ma pasjɑ̃s va ɛtʁ ʁekɔ̃pɑ̃se]",
+      "ear": "昂凡 玛 帕斯耶昂斯 瓦 艾特赫 赫孔庞塞",
+      "meaning": "我的耐心，终于要得到回报。",
+      "suppliedText": "Enfin ma patience va être récompensée",
+      "sourceLineId": "romeo-timed-458-14",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4822,
+        "sourceLineNumber": 458,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4830,
+      "sourceText": "Mercutio",
+      "ipa": "[mɛʁkysjo]",
+      "ear": "梅赫基于斯耶奥",
+      "meaning": "茂丘西奥。",
+      "suppliedText": "Mercutio",
+      "sourceLineId": "romeo-timed-459-15",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4830,
+        "sourceLineNumber": 459,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4831.5,
+      "sourceText": "Ouais !?",
+      "ipa": "[wɛ]",
+      "ear": "乌艾",
+      "meaning": "怎么！？",
+      "suppliedText": "Ouais !?",
+      "sourceLineId": "romeo-timed-459-16",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4830,
+        "sourceLineNumber": 459,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4833,
+      "sourceText": "Je vais te tuer",
+      "ipa": "[ʒə vɛ tə tye]",
+      "ear": "热 韦 特 蒂于诶",
+      "meaning": "我要杀了你。",
+      "suppliedText": "Je vais te tuer",
+      "sourceLineId": "romeo-timed-460-17",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4833,
+        "sourceLineNumber": 460,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4834.111,
+      "sourceText": "Arrêtez, vous êtes fous, vous n'avez pas le droit",
+      "ipa": "[aʁɛte vuz‿ɛt fu vu nave pa lə dʁwa]",
+      "ear": "阿赫特 乌兹 艾特 富 乌 纳韦 帕 勒 德赫乌阿",
+      "meaning": "住手，你们疯了，你们无权这样做。",
+      "suppliedText": "Arrêtez, vous êtes fous, vous n'avez pas le droit",
+      "sourceLineId": "romeo-timed-460-18",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4833,
+        "sourceLineNumber": 460,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4837.259,
+      "sourceText": "Roméo, non !",
+      "ipa": "[ʁomeo nɔ̃]",
+      "ear": "霍梅奥 农",
+      "meaning": "罗密欧，不！",
+      "suppliedText": "Roméo, non !",
+      "sourceLineId": "romeo-timed-460-19",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4833,
+        "sourceLineNumber": 460,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4838,
+      "sourceText": "En vous tuant, vous tuerez nos idées et nos lois",
+      "ipa": "[ɑ̃ vu tyɑ̃ vu tyʁe noz‿ide e no lwa]",
+      "ear": "昂 乌 蒂于昂 乌 蒂于赫 诺兹 伊德 诶 诺 勒乌阿",
+      "meaning": "你们互相杀戮，也会杀死我们的理想与法则。",
+      "suppliedText": "En vous tuant, vous tuerez nos idées et nos lois",
+      "sourceLineId": "romeo-timed-461-20",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4838,
+        "sourceLineNumber": 461,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4843.143,
+      "sourceText": "Arrêtez !",
+      "ipa": "[aʁɛte]",
+      "ear": "阿赫特",
+      "meaning": "住手！",
+      "suppliedText": "Arrêtez !",
+      "sourceLineId": "romeo-timed-461-21",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4838,
+        "sourceLineNumber": 461,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4844,
+      "sourceText": "Vivre on veut tous vivre",
+      "ipa": "[vivʁ‿ɔ̃ vø tus vivʁ]",
+      "ear": "维弗赫 翁 弗厄 图斯 维弗赫",
+      "meaning": "活着，我们都想活着。",
+      "suppliedText": "Vivre on veut tous vivre",
+      "sourceLineId": "romeo-timed-462-22",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4844,
+        "sourceLineNumber": 462,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4848.0,
+      "sourceText": "Sans se haïr sans en mourir",
+      "ipa": "[sɑ̃ sə aiʁ sɑ̃ ɑ̃ muʁiʁ]",
+      "ear": "桑 瑟 阿伊赫 桑 昂 穆希赫",
+      "meaning": "不必互相憎恨，不必为此死去。",
+      "suppliedText": "Sans se haïr sans en mourir",
+      "sourceLineId": "romeo-timed-462-23",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4844,
+        "sourceLineNumber": 462,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4852,
+      "sourceText": "Vivre, et se parler, se respecter, et même s'aimer",
+      "ipa": "[vivʁ e sə paʁle sə ʁɛspɛkte e mɛm sɛme]",
+      "ear": "维弗赫 诶 瑟 帕赫莱 瑟 赫斯佩克特 诶 梅姆 塞梅",
+      "meaning": "活着，彼此交谈、尊重，甚至相爱。",
+      "suppliedText": "Vivre, et se parler, se respecter, et même s'aimer",
+      "sourceLineId": "romeo-timed-463-24",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4852,
+        "sourceLineNumber": 463,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4858.588,
+      "sourceText": "Libres, on est tous libres, de ne pas suivre, de refuser",
+      "ipa": "[libʁ ɔ̃n‿ɛ tus libʁ də nə pa sɥivʁ də ʁəfyze]",
+      "ear": "利布赫 翁恩 艾 图斯 利布赫 德 讷 帕 斯于伊弗赫 德 赫菲于泽",
+      "meaning": "自由，我们都有不跟随、说不的自由。",
+      "suppliedText": "Libres, on est tous libres, de ne pas suivre, de refuser",
+      "sourceLineId": "romeo-timed-463-25",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4852,
+        "sourceLineNumber": 463,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4866,
+      "sourceText": "Pour ceux qui vous aiment, vos mères, vos femmes",
+      "ipa": "[puʁ sø ki vuz‿ɛm vo mɛʁ vo fam]",
+      "ear": "普赫 瑟厄 基 乌兹 艾姆 沃 梅赫 沃 法姆",
+      "meaning": "为了爱你们的人，母亲、妻子。",
+      "suppliedText": "Pour ceux qui vous aiment, vos mères, vos femmes",
+      "sourceLineId": "romeo-timed-464-26",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4866,
+        "sourceLineNumber": 464,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4871.1,
+      "sourceText": "Oubliez la haine, rangez vos armes",
+      "ipa": "[ublie la ɛn ʁɑ̃ʒe voz‿aʁm]",
+      "ear": "乌布利诶 拉 艾恩 杭热 沃兹 阿赫姆",
+      "meaning": "忘记仇恨，放下武器。",
+      "suppliedText": "Oubliez la haine, rangez vos armes",
+      "sourceLineId": "romeo-timed-464-27",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4866,
+        "sourceLineNumber": 464,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4875,
+      "sourceText": "Vivre et boire à la chance",
+      "ipa": "[vivʁ e bwaʁ‿a la ʃɑ̃s]",
+      "ear": "维弗赫 诶 布乌阿赫 阿 拉 尚斯",
+      "meaning": "活着，为好运举杯。",
+      "suppliedText": "Vivre et boire à la chance",
+      "sourceLineId": "romeo-timed-465-28",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4875,
+        "sourceLineNumber": 465,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4878.5,
+      "sourceText": "Ivres mais pas de vengeance",
+      "ipa": "[ivʁ mɛ pa də vɑ̃ʒɑ̃s]",
+      "ear": "伊弗赫 梅 帕 德 旺让斯",
+      "meaning": "醉于生活，而非复仇。",
+      "suppliedText": "Ivres mais pas de vengeance",
+      "sourceLineId": "romeo-timed-465-29",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4875,
+        "sourceLineNumber": 465,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4882,
+      "sourceText": "Vivre on veut tous vivre",
+      "ipa": "[vivʁ‿ɔ̃ vø tus vivʁ]",
+      "ear": "维弗赫 翁 弗厄 图斯 维弗赫",
+      "meaning": "活着，我们都想活着。",
+      "suppliedText": "Vivre on veut tous vivre",
+      "sourceLineId": "romeo-timed-466-30",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4882,
+        "sourceLineNumber": 466,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4886.0,
+      "sourceText": "Sans se haïr sans en mourir",
+      "ipa": "[sɑ̃ sə aiʁ sɑ̃ ɑ̃ muʁiʁ]",
+      "ear": "桑 瑟 阿伊赫 桑 昂 穆希赫",
+      "meaning": "不必互相憎恨，不必为此死去。",
+      "suppliedText": "Sans se haïr sans en mourir",
+      "sourceLineId": "romeo-timed-466-31",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4882,
+        "sourceLineNumber": 466,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4890,
+      "sourceText": "Vivre et se parler, se respecter et même s'aimer",
+      "ipa": "[vivʁ e sə paʁle sə ʁɛspɛkte e mɛm sɛme]",
+      "ear": "维弗赫 诶 瑟 帕赫莱 瑟 赫斯佩克特 诶 梅姆 塞梅",
+      "meaning": "活着，彼此交谈、尊重，甚至相爱。",
+      "suppliedText": "Vivre et se parler, se respecter et même s'aimer",
+      "sourceLineId": "romeo-timed-467-32",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 4890,
+        "sourceLineNumber": 467,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4898,
+      "sourceText": "Arrêtez, vous êtes fous, vous n'avez pas le droit, non",
+      "ipa": "[aʁɛte vuz‿ɛt fu vu nave pa lə dʁwa nɔ̃]",
+      "ear": "阿赫特 乌兹 艾特 富 乌 纳韦 帕 勒 德赫乌阿 农",
+      "meaning": "住手，你们疯了，你们无权这样做，不。",
+      "suppliedText": "Arrêtez, vous êtes fous, vous n'avez pas le droit, non",
+      "sourceLineId": "romeo-timed-468-33",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4898,
+        "sourceLineNumber": 468,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4904.0,
+      "sourceText": "La mort attend son heure, attendez la vôtre",
+      "ipa": "[la mɔʁ‿atɑ̃ sɔ̃n‿œʁ atɑ̃de la votʁ]",
+      "ear": "拉 莫赫 阿唐 松恩 厄赫 阿唐德 拉 沃特赫",
+      "meaning": "死亡会等它的时辰，你们也等自己的吧。",
+      "suppliedText": "La mort attend son heure, attendez la vôtre",
+      "sourceLineId": "romeo-timed-468-34",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4898,
+        "sourceLineNumber": 468,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4908.667,
+      "sourceText": "Maintenant !",
+      "ipa": "[mɛ̃tnɑ̃]",
+      "ear": "曼特南",
+      "meaning": "就是现在！",
+      "suppliedText": "Maintenant !",
+      "sourceLineId": "romeo-timed-468-35",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4898,
+        "sourceLineNumber": 468,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4910,
+      "sourceText": "Ne faites pas l'erreur, ne faites pas la faute",
+      "ipa": "[nə fɛt pa lɛʁœʁ nə fɛt pa la fot]",
+      "ear": "讷 费特 帕 莱赫厄赫 讷 费特 帕 拉 佛特",
+      "meaning": "别犯这个错误，别犯这个罪。",
+      "suppliedText": "Ne faites pas l'erreur, ne faites pas la faute",
+      "sourceLineId": "romeo-timed-469-36",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4910,
+        "sourceLineNumber": 469,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4918.5,
+      "sourceText": "Vivre pour se comprendre, vivre et vieillir ensemble, oh, oh, oh,...",
+      "ipa": "[vivʁ puʁ sə kɔ̃pʁɑ̃dʁ vivʁ e vjɛjiʁ‿ɑ̃sɑ̃bl ɔ ɔ ɔ]",
+      "ear": "维弗赫 普赫 瑟 孔普杭德赫 维弗赫 诶 弗耶艾耶伊赫 昂桑布勒 哦 哦 哦",
+      "meaning": "活着，彼此理解，一起老去，哦……",
+      "suppliedText": "Vivre pour se comprendre, vivre et vieillir ensemble, oh, oh, oh,...",
+      "sourceLineId": "romeo-timed-469-37",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4910,
+        "sourceLineNumber": 469,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4929,
+      "sourceText": "Il me hait tant, y a si longtemps, non, Roméo",
+      "ipa": "[il mə ɛ tɑ̃ i a si lɔ̃tɑ̃ nɔ̃ ʁomeo]",
+      "ear": "伊勒 默 艾 唐 伊 阿 西 隆唐 农 霍梅奥",
+      "meaning": "他恨我，恨了那么久，不，罗密欧。",
+      "suppliedText": "Il me hait tant, y a si longtemps, non, Roméo",
+      "sourceLineId": "romeo-timed-470-38",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4929,
+        "sourceLineNumber": 470,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4933.968,
+      "sourceText": "Sa grâce c'est trop, c'est comme un chien qui a la rage",
+      "ipa": "[sa ɡʁas sɛ tʁo sɛ kɔm‿œ̃ ʃjɛ̃ ki a la ʁaʒ]",
+      "ear": "萨 格哈斯 塞 特霍 塞 科姆 恩 什耶安 基 阿 拉 哈日",
+      "meaning": "他那副得意样，像条发疯的狗。",
+      "suppliedText": "Sa grâce c'est trop, c'est comme un chien qui a la rage",
+      "sourceLineId": "romeo-timed-470-39",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4929,
+        "sourceLineNumber": 470,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4940,
+      "sourceText": "Un lâche !",
+      "ipa": "[œ̃ laʃ]",
+      "ear": "恩 拉什",
+      "meaning": "一个懦夫！",
+      "suppliedText": "Un lâche !",
+      "sourceLineId": "romeo-timed-471-40",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4940,
+        "sourceLineNumber": 471,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4940.75,
+      "sourceText": "qui croit en son courage",
+      "ipa": "[ki kʁwa ɑ̃ sɔ̃ kuʁaʒ]",
+      "ear": "基 克赫乌阿 昂 松 库哈日",
+      "meaning": "却自以为勇敢。",
+      "suppliedText": "qui croit en son courage",
+      "sourceLineId": "romeo-timed-471-41",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4940,
+        "sourceLineNumber": 471,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4943.25,
+      "sourceText": "Qu'est-ce que tu crois",
+      "ipa": "[kɛskə ty kʁwa]",
+      "ear": "凯斯克 蒂于 克赫乌阿",
+      "meaning": "你以为怎样？",
+      "suppliedText": "Qu'est-ce que tu crois",
+      "sourceLineId": "romeo-timed-471-42",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4940,
+        "sourceLineNumber": 471,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4945.25,
+      "sourceText": "Roméo !",
+      "ipa": "[ʁomeo]",
+      "ear": "霍梅奥",
+      "meaning": "罗密欧！",
+      "suppliedText": "Roméo !",
+      "sourceLineId": "romeo-timed-471-43",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4940,
+        "sourceLineNumber": 471,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4946,
+      "sourceText": "Tu n'es pas roi, non",
+      "ipa": "[ty nɛ pa ʁwa nɔ̃]",
+      "ear": "蒂于 奈 帕 赫乌阿 农",
+      "meaning": "你不是国王，不。",
+      "suppliedText": "Tu n'es pas roi, non",
+      "sourceLineId": "romeo-timed-472-44",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4946,
+        "sourceLineNumber": 472,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4947.8,
+      "sourceText": "Tu es comme nous, même pire que nous",
+      "ipa": "[ty ɛ kɔm nu mɛm piʁ kə nu]",
+      "ear": "蒂于 艾 科姆 努 梅姆 皮赫 克 努",
+      "meaning": "你和我们一样，甚至比我们更糟。",
+      "suppliedText": "Tu es comme nous, même pire que nous",
+      "sourceLineId": "romeo-timed-472-45",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4946,
+        "sourceLineNumber": 472,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4952,
+      "sourceText": "Te voilà plein d'amour et tu pisses la tendresse",
+      "ipa": "[tə vwala plɛ̃ damuʁ e ty pis la tɑ̃dʁɛs]",
+      "ear": "特 弗乌阿拉 普兰 达穆赫 诶 蒂于 皮斯 拉 唐德赫斯",
+      "meaning": "你满身爱情，连小便都透着温柔。",
+      "suppliedText": "Te voilà plein d'amour et tu pisses la tendresse",
+      "sourceLineId": "romeo-timed-473-46",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4952,
+        "sourceLineNumber": 473,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4955.778,
+      "sourceText": "Tu es comme les vautours qui attendent la faiblesse",
+      "ipa": "[ty ɛ kɔm le votuʁ ki atɑ̃d la fɛblɛs]",
+      "ear": "蒂于 艾 科姆 莱 沃图赫 基 阿唐德 拉 费布莱斯",
+      "meaning": "你就像秃鹫，等着别人露出弱点。",
+      "suppliedText": "Tu es comme les vautours qui attendent la faiblesse",
+      "sourceLineId": "romeo-timed-473-47",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4952,
+        "sourceLineNumber": 473,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4960,
+      "sourceText": "Vivre, vivre c'est se battre,",
+      "ipa": "[vivʁ vivʁ sɛ sə batʁ]",
+      "ear": "维弗赫 维弗赫 塞 瑟 巴特赫",
+      "meaning": "活着，活着就是战斗。",
+      "suppliedText": "Vivre, vivre c'est se battre,",
+      "sourceLineId": "romeo-timed-474-48",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4960,
+        "sourceLineNumber": 474,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4963.765,
+      "sourceText": "La vie n'est pas un théâtre !",
+      "ipa": "[la vi nɛ pa œ̃ teatʁ]",
+      "ear": "拉 维 奈 帕 恩 特阿特赫",
+      "meaning": "生活可不是戏剧！",
+      "suppliedText": "La vie n'est pas un théâtre !",
+      "sourceLineId": "romeo-timed-474-49",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4960,
+        "sourceLineNumber": 474,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4968,
+      "sourceText": "Vivre, libre...",
+      "ipa": "[vivʁ libʁ]",
+      "ear": "维弗赫 利布赫",
+      "meaning": "活着，自由地活着……",
+      "suppliedText": "Vivre, libre...",
+      "sourceLineId": "romeo-timed-475-50",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 4968,
+        "sourceLineNumber": 475,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4983,
+      "sourceText": "Vivre, on veut tous vivre",
+      "ipa": "[vivʁ ɔ̃ vø tus vivʁ]",
+      "ear": "维弗赫 翁 弗厄 图斯 维弗赫",
+      "meaning": "活着，我们都想活着。",
+      "suppliedText": "Vivre, on veut tous vivre",
+      "sourceLineId": "romeo-timed-476-51",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4983,
+        "sourceLineNumber": 476,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4985.483,
+      "sourceText": "Sans se haïr, sans en mourir",
+      "ipa": "[sɑ̃ sə aiʁ sɑ̃ ɑ̃ muʁiʁ]",
+      "ear": "桑 瑟 阿伊赫 桑 昂 穆希赫",
+      "meaning": "不必互相憎恨，不必为此死去。",
+      "suppliedText": "Sans se haïr, sans en mourir",
+      "sourceLineId": "romeo-timed-476-52",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4983,
+        "sourceLineNumber": 476,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4987.966,
+      "sourceText": "Aller Mercutio relève toi !",
+      "ipa": "[ale mɛʁkysjo ʁəlɛv twa]",
+      "ear": "阿莱 梅赫基于斯耶奥 赫莱弗 特乌阿",
+      "meaning": "快，茂丘西奥，站起来！",
+      "suppliedText": "Aller Mercutio relève toi !",
+      "sourceLineId": "romeo-timed-476-53",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4983,
+        "sourceLineNumber": 476,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4991,
+      "sourceText": "Vivre et se parler, se respecter et même s'aimer...",
+      "ipa": "[vivʁ e sə paʁle sə ʁɛspɛkte e mɛm sɛme]",
+      "ear": "维弗赫 诶 瑟 帕赫莱 瑟 赫斯佩克特 诶 梅姆 塞梅",
+      "meaning": "活着，彼此交谈、尊重，甚至相爱……",
+      "suppliedText": "Vivre et se parler, se respecter et même s'aimer...",
+      "sourceLineId": "romeo-timed-477-54",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 4991,
+        "sourceLineNumber": 477,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4999,
+      "sourceText": "Vivre...",
+      "ipa": "[vivʁ]",
+      "ear": "维弗赫",
+      "meaning": "活着……",
+      "suppliedText": "Vivre...",
+      "sourceLineId": "romeo-timed-478-55",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4999,
+        "sourceLineNumber": 478,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5006.333,
+      "sourceText": "Non !",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不！",
+      "suppliedText": "Non !",
+      "sourceLineId": "romeo-timed-478-56",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4999,
+        "sourceLineNumber": 478,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5010,
+      "sourceText": "Roméo…",
+      "ipa": "[ʁomeo]",
+      "ear": "霍梅奥",
+      "meaning": "罗密欧……",
+      "suppliedText": "Roméo…",
+      "sourceLineId": "romeo-timed-479-57",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5010,
+        "sourceLineNumber": 479,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5011.091,
+      "sourceText": "Mercutio !",
+      "ipa": "[mɛʁkysjo]",
+      "ear": "梅赫基于斯耶奥",
+      "meaning": "茂丘西奥！",
+      "suppliedText": "Mercutio !",
+      "sourceLineId": "romeo-timed-479-58",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5010,
+        "sourceLineNumber": 479,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5012.545,
+      "sourceText": "Oh, Roméo…",
+      "ipa": "[ɔ ʁomeo]",
+      "ear": "哦 霍梅奥",
+      "meaning": "哦，罗密欧……",
+      "suppliedText": "Oh, Roméo…",
+      "sourceLineId": "romeo-timed-479-59",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5010,
+        "sourceLineNumber": 479,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5014,
+      "sourceText": "Mercutio, tu es blessé !",
+      "ipa": "[mɛʁkysjo ty ɛ blɛse]",
+      "ear": "梅赫基于斯耶奥 蒂于 艾 布莱塞",
+      "meaning": "茂丘西奥，你受伤了！",
+      "suppliedText": "Mercutio, tu es blessé !",
+      "sourceLineId": "romeo-timed-480-60",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5014,
+        "sourceLineNumber": 480,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5020.545,
+      "sourceText": "Non.",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "没有。",
+      "suppliedText": "Non.",
+      "sourceLineId": "romeo-timed-480-61",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5014,
+        "sourceLineNumber": 480,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5021.364,
+      "sourceText": "Non.",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "没有。",
+      "suppliedText": "Non.",
+      "sourceLineId": "romeo-timed-480-62",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5014,
+        "sourceLineNumber": 480,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5022.182,
+      "sourceText": "Non !",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不！",
+      "suppliedText": "Non !",
+      "sourceLineId": "romeo-timed-480-63",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5014,
+        "sourceLineNumber": 480,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5023,
+      "sourceText": "Qu'est-ce qui peut encore blesser Mercutio, non ?",
+      "ipa": "[kɛs ki pø ɑ̃kɔʁ blɛse mɛʁkysjo nɔ̃]",
+      "ear": "凯斯 基 珀厄 昂科赫 布莱塞 梅赫基于斯耶奥 农",
+      "meaning": "还有什么能伤到茂丘西奥呢？",
+      "suppliedText": "Qu'est-ce qui peut encore blesser Mercutio, non ?",
+      "sourceLineId": "romeo-timed-481-64",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5023,
+        "sourceLineNumber": 481,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5028.514,
+      "sourceText": "Mais la vie Roméo, regarde, elle s'échappe, elle s'en va !",
+      "ipa": "[mɛ la vi ʁomeo ʁəɡaʁd ɛl seʃap ɛl sɑ̃ va]",
+      "ear": "梅 拉 维 霍梅奥 赫嘎赫德 艾勒 塞沙普 艾勒 桑 瓦",
+      "meaning": "可是生命，罗密欧，看，它在流走，它离开了！",
+      "suppliedText": "Mais la vie Roméo, regarde, elle s'échappe, elle s'en va !",
+      "sourceLineId": "romeo-timed-481-65",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5023,
+        "sourceLineNumber": 481,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5035,
+      "sourceText": "Mais tu saignes !",
+      "ipa": "[mɛ ty sɛnj]",
+      "ear": "梅 蒂于 塞恩耶",
+      "meaning": "可你在流血！",
+      "suppliedText": "Mais tu saignes !",
+      "sourceLineId": "romeo-timed-482-66",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5035,
+        "sourceLineNumber": 482,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5036.56,
+      "sourceText": "Mais non !",
+      "ipa": "[mɛ nɔ̃]",
+      "ear": "梅 农",
+      "meaning": "没有！",
+      "suppliedText": "Mais non !",
+      "sourceLineId": "romeo-timed-482-67",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5035,
+        "sourceLineNumber": 482,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5037.34,
+      "sourceText": "Tu as toujours été si maladroit Roméo.",
+      "ipa": "[ty a tuʒuʁ‿ete si maladʁwa ʁomeo]",
+      "ear": "蒂于 阿 图茹赫 诶特 西 玛拉德赫乌阿 霍梅奥",
+      "meaning": "你总是这么笨手笨脚，罗密欧。",
+      "suppliedText": "Tu as toujours été si maladroit Roméo.",
+      "sourceLineId": "romeo-timed-482-68",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5035,
+        "sourceLineNumber": 482,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5041.5,
+      "sourceText": "Pourquoi t'es-tu mis entre nous ?",
+      "ipa": "[puʁkwa tɛty mi ɑ̃tʁ nu]",
+      "ear": "普赫克乌阿 泰蒂于 米 昂特赫 努",
+      "meaning": "为什么要站到我们中间？",
+      "suppliedText": "Pourquoi t'es-tu mis entre nous ?",
+      "sourceLineId": "romeo-timed-482-69",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5035,
+        "sourceLineNumber": 482,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5044.62,
+      "sourceText": "J'ai reçu le coup par-dessous ton bras.",
+      "ipa": "[ʒe ʁəsy lə ku paʁdəsu tɔ̃ bʁa]",
+      "ear": "热 赫西于 勒 库 帕赫德苏 通 布哈",
+      "meaning": "那一剑从你手臂下面刺中了我。",
+      "suppliedText": "J'ai reçu le coup par-dessous ton bras.",
+      "sourceLineId": "romeo-timed-482-70",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5035,
+        "sourceLineNumber": 482,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5048,
+      "sourceText": "Oh Mercutio je suis si...",
+      "ipa": "[ɔ mɛʁkysjo ʒə sɥi si]",
+      "ear": "哦 梅赫基于斯耶奥 热 斯于伊 西",
+      "meaning": "哦，茂丘西奥，我真的……",
+      "suppliedText": "Oh Mercutio je suis si...",
+      "sourceLineId": "romeo-timed-483-71",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5048,
+        "sourceLineNumber": 483,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5049.761,
+      "sourceText": "Mais non ne t’excuses pas !",
+      "ipa": "[mɛ nɔ̃ nə tɛkskyz pa]",
+      "ear": "梅 农 讷 泰克斯基于兹 帕",
+      "meaning": "不，别道歉！",
+      "suppliedText": "Mais non ne t’excuses pas !",
+      "sourceLineId": "romeo-timed-483-72",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5048,
+        "sourceLineNumber": 483,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5051.326,
+      "sourceText": "Ce sont les enfants qui s’excusent !",
+      "ipa": "[sə sɔ̃ lez‿ɑ̃fɑ̃ ki sɛkskyz]",
+      "ear": "瑟 松 莱兹 昂芳 基 塞克斯基于兹",
+      "meaning": "小孩子才道歉！",
+      "suppliedText": "Ce sont les enfants qui s’excusent !",
+      "sourceLineId": "romeo-timed-483-73",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5048,
+        "sourceLineNumber": 483,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5053.283,
+      "sourceText": "Et Juliette aime un homme !",
+      "ipa": "[e ʒyljɛt‿ɛm‿œ̃n‿ɔm]",
+      "ear": "诶 日于勒耶艾特 艾姆 恩恩 哦姆",
+      "meaning": "朱丽叶爱的可是个男人！",
+      "suppliedText": "Et Juliette aime un homme !",
+      "sourceLineId": "romeo-timed-483-74",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5048,
+        "sourceLineNumber": 483,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5055.435,
+      "sourceText": "Mercutio, Mercutio…",
+      "ipa": "[mɛʁkysjo mɛʁkysjo]",
+      "ear": "梅赫基于斯耶奥 梅赫基于斯耶奥",
+      "meaning": "茂丘西奥，茂丘西奥……",
+      "suppliedText": "Mercutio, Mercutio…",
+      "sourceLineId": "romeo-timed-483-75",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5048,
+        "sourceLineNumber": 483,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5057,
+      "sourceText": "Non, non, non, Roméo.",
+      "ipa": "[nɔ̃ nɔ̃ nɔ̃ ʁomeo]",
+      "ear": "农 农 农 霍梅奥",
+      "meaning": "不，不，不，罗密欧。",
+      "suppliedText": "Non, non, non, Roméo.",
+      "sourceLineId": "romeo-timed-484-76",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5057,
+        "sourceLineNumber": 484,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5058.116,
+      "sourceText": "Ne pleure pas, aime Juliette de toutes tes forces.",
+      "ipa": "[nə plœʁ pa ɛm ʒyljɛt də tut te fɔʁs]",
+      "ear": "讷 普勒厄赫 帕 艾姆 日于勒耶艾特 德 图特 特 佛赫斯",
+      "meaning": "别哭，用你全部力量去爱朱丽叶。",
+      "suppliedText": "Ne pleure pas, aime Juliette de toutes tes forces.",
+      "sourceLineId": "romeo-timed-484-77",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5057,
+        "sourceLineNumber": 484,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5061.651,
+      "sourceText": "Aime la de toute ton âme.",
+      "ipa": "[ɛm la də tut tɔ̃n‿am]",
+      "ear": "艾姆 拉 德 图特 通恩 阿姆",
+      "meaning": "用你整个灵魂去爱她。",
+      "suppliedText": "Aime la de toute ton âme.",
+      "sourceLineId": "romeo-timed-484-78",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5057,
+        "sourceLineNumber": 484,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5063.698,
+      "sourceText": "Aime la, Roméo !",
+      "ipa": "[ɛm la ʁomeo]",
+      "ear": "艾姆 拉 霍梅奥",
+      "meaning": "爱她，罗密欧！",
+      "suppliedText": "Aime la, Roméo !",
+      "sourceLineId": "romeo-timed-484-79",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5057,
+        "sourceLineNumber": 484,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

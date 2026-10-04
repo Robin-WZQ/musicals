@@ -1,0 +1,885 @@
+{
+  "videoId": "romeo-2010-15",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=2997"
+    }
+  ],
+  "entries": [
+    {
+      "start": 3005,
+      "sourceText": "Bien sûr j'ai tort disait le monde",
+      "ipa": "[bjɛ̃ syʁ ʒe tɔʁ dizɛ lə mɔ̃d]",
+      "ear": "布耶安 西于赫 热 托赫 迪泽 勒 蒙德",
+      "meaning": "世人说，当然是我错了。",
+      "suppliedText": "Bien sûr j'ai tort disait le monde",
+      "sourceLineId": "romeo-timed-269-1",
+      "speaker": "Le Poète",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3005,
+        "sourceLineNumber": 269,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3008.818,
+      "sourceText": "Puisque je n'tourne pas rond",
+      "ipa": "[pɥiskə ʒə ntuʁn pa ʁɔ̃]",
+      "ear": "普于伊斯克 热 恩图赫恩 帕 洪",
+      "meaning": "因为我的脑子不正常。",
+      "suppliedText": "Puisque je n'tourne pas rond",
+      "sourceLineId": "romeo-timed-269-2",
+      "speaker": "Le Poète",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3005,
+        "sourceLineNumber": 269,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3012,
+      "sourceText": "Je m'croyais tellement fort",
+      "ipa": "[ʒə mə kʁwajɛ tɛlmɑ̃ fɔʁ]",
+      "ear": "热 默 克赫乌阿耶艾 泰勒芒 佛赫",
+      "meaning": "我曾以为自己很强大。",
+      "suppliedText": "Je m'croyais tellement fort",
+      "sourceLineId": "romeo-timed-270-3",
+      "speaker": "Le Poète",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3012,
+        "sourceLineNumber": 270,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3014.605,
+      "sourceText": "Maintenant je touche le fond",
+      "ipa": "[mɛ̃tnɑ̃ ʒə tuʃ lə fɔ̃]",
+      "ear": "曼特南 热 图什 勒 丰",
+      "meaning": "如今却跌到了谷底。",
+      "suppliedText": "Maintenant je touche le fond",
+      "sourceLineId": "romeo-timed-270-4",
+      "speaker": "Le Poète",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3012,
+        "sourceLineNumber": 270,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3017.5,
+      "sourceText": "Et je tourne dans l'univers",
+      "ipa": "[e ʒə tuʁn dɑ̃ lynivɛʁ]",
+      "ear": "诶 热 图赫恩 当 吕尼韦赫",
+      "meaning": "我在宇宙中旋转。",
+      "suppliedText": "Et je tourne dans l'univers",
+      "sourceLineId": "romeo-timed-270-5",
+      "speaker": "Le Poète",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3012,
+        "sourceLineNumber": 270,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3020.105,
+      "sourceText": "Comme la neige sous le vent",
+      "ipa": "[kɔm la nɛʒ su lə vɑ̃]",
+      "ear": "科姆 拉 奈日 苏 勒 旺",
+      "meaning": "如风中的雪。",
+      "suppliedText": "Comme la neige sous le vent",
+      "sourceLineId": "romeo-timed-270-6",
+      "speaker": "Le Poète",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3012,
+        "sourceLineNumber": 270,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3023,
+      "sourceText": "Et j'attends",
+      "ipa": "[e ʒatɑ̃]",
+      "ear": "诶 扎唐",
+      "meaning": "我等待着。",
+      "suppliedText": "Et j'attends",
+      "sourceLineId": "romeo-timed-271-7",
+      "speaker": "Le Poète",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3023,
+        "sourceLineNumber": 271,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3024.125,
+      "sourceText": "J'attends que les hommes me brisent le cœur",
+      "ipa": "[ʒatɑ̃ kə lez‿ɔm mə bʁiz lə kœʁ]",
+      "ear": "扎唐 克 莱兹 哦姆 默 布希兹 勒 克厄赫",
+      "meaning": "等人们伤透我的心。",
+      "suppliedText": "J'attends que les hommes me brisent le cœur",
+      "sourceLineId": "romeo-timed-271-8",
+      "speaker": "Le Poète",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3023,
+        "sourceLineNumber": 271,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3029,
+      "sourceText": "Que leur folie explose",
+      "ipa": "[kə lœʁ foli ɛksplɔz]",
+      "ear": "克 勒厄赫 佛利 艾克斯普洛兹",
+      "meaning": "等他们的疯狂爆发。",
+      "suppliedText": "Que leur folie explose",
+      "sourceLineId": "romeo-timed-272-9",
+      "speaker": "Le Poète",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3029,
+        "sourceLineNumber": 272,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3031.5,
+      "sourceText": "Qu'ils fassent la grande erreur",
+      "ipa": "[kil fas la ɡʁɑ̃d‿ɛʁœʁ]",
+      "ear": "基勒 法斯 拉 格杭德 艾赫厄赫",
+      "meaning": "等他们犯下那个巨大的错误。",
+      "suppliedText": "Qu'ils fassent la grande erreur",
+      "sourceLineId": "romeo-timed-272-10",
+      "speaker": "Le Poète",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3029,
+        "sourceLineNumber": 272,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3034,
+      "sourceText": "La dernière overdose",
+      "ipa": "[la dɛʁnjɛʁ‿ovɛʁdoz]",
+      "ear": "拉 戴赫恩耶艾赫 奥韦赫多兹",
+      "meaning": "最后一次致命的过量。",
+      "suppliedText": "La dernière overdose",
+      "sourceLineId": "romeo-timed-273-11",
+      "speaker": "Le Poète",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3034,
+        "sourceLineNumber": 273,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3037.343,
+      "sourceText": "Mais moi je tourne dans l'univers",
+      "ipa": "[mɛ mwa ʒə tuʁn dɑ̃ lynivɛʁ]",
+      "ear": "梅 姆乌阿 热 图赫恩 当 吕尼韦赫",
+      "meaning": "而我，在宇宙中旋转。",
+      "suppliedText": "Mais moi je tourne dans l'univers",
+      "sourceLineId": "romeo-timed-273-12",
+      "speaker": "Le Poète",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3034,
+        "sourceLineNumber": 273,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3041.8,
+      "sourceText": "Comme la neige sous le vent",
+      "ipa": "[kɔm la nɛʒ su lə vɑ̃]",
+      "ear": "科姆 拉 奈日 苏 勒 旺",
+      "meaning": "如风中的雪。",
+      "suppliedText": "Comme la neige sous le vent",
+      "sourceLineId": "romeo-timed-273-13",
+      "speaker": "Le Poète",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3034,
+        "sourceLineNumber": 273,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3045.514,
+      "sourceText": "En attendant...",
+      "ipa": "[ɑ̃n‿atɑ̃dɑ̃]",
+      "ear": "昂恩 阿唐当",
+      "meaning": "继续等着……",
+      "suppliedText": "En attendant...",
+      "sourceLineId": "romeo-timed-273-14",
+      "speaker": "Le Poète",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3034,
+        "sourceLineNumber": 273,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3047,
+      "sourceText": "Toi qui peux faire parler la terre",
+      "ipa": "[twa ki pø fɛʁ paʁle la tɛʁ]",
+      "ear": "特乌阿 基 珀厄 费赫 帕赫莱 拉 泰赫",
+      "meaning": "你能让大地开口。",
+      "suppliedText": "Toi qui peux faire parler la terre",
+      "sourceLineId": "romeo-timed-274-15",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3047,
+        "sourceLineNumber": 274,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3050.231,
+      "sourceText": "Toi qui connais si bien les mots",
+      "ipa": "[twa ki kɔnɛ si bjɛ̃ le mo]",
+      "ear": "特乌阿 基 科奈 西 布耶安 莱 莫",
+      "meaning": "你如此了解文字。",
+      "suppliedText": "Toi qui connais si bien les mots",
+      "sourceLineId": "romeo-timed-274-16",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3047,
+        "sourceLineNumber": 274,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3053,
+      "sourceText": "Dis-moi poète à quoi ça sert",
+      "ipa": "[dimwa pɔɛt‿a kwa sa sɛʁ]",
+      "ear": "迪姆乌阿 珀艾特 阿 克乌阿 萨 塞赫",
+      "meaning": "告诉我，诗人，这有什么用？",
+      "suppliedText": "Dis-moi poète à quoi ça sert",
+      "sourceLineId": "romeo-timed-275-17",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3053,
+        "sourceLineNumber": 275,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3056.429,
+      "sourceText": "Un jour de plus sans Roméo",
+      "ipa": "[œ̃ ʒuʁ də ply sɑ̃ ʁomeo]",
+      "ear": "恩 茹赫 德 普吕 桑 霍梅奥",
+      "meaning": "又一天没有罗密欧。",
+      "suppliedText": "Un jour de plus sans Roméo",
+      "sourceLineId": "romeo-timed-275-18",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3053,
+        "sourceLineNumber": 275,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3059,
+      "sourceText": "Moi je me fous de l'univers",
+      "ipa": "[mwa ʒə mə fu də lynivɛʁ]",
+      "ear": "姆乌阿 热 默 富 德 吕尼韦赫",
+      "meaning": "我才不在乎宇宙。",
+      "suppliedText": "Moi je me fous de l'univers",
+      "sourceLineId": "romeo-timed-276-19",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3059,
+        "sourceLineNumber": 276,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3063.0,
+      "sourceText": "Car ce soir, j'aime un homme",
+      "ipa": "[kaʁ sə swaʁ ʒɛm‿œ̃n‿ɔm]",
+      "ear": "卡赫 瑟 斯乌阿赫 热姆 恩恩 哦姆",
+      "meaning": "因为今晚，我爱着一个人。",
+      "suppliedText": "Car ce soir, j'aime un homme",
+      "sourceLineId": "romeo-timed-276-20",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3059,
+        "sourceLineNumber": 276,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3067,
+      "sourceText": "Parler du monde et ses mystères",
+      "ipa": "[paʁle dy mɔ̃d e se mistɛʁ]",
+      "ear": "帕赫莱 迪于 蒙德 诶 塞 米斯泰赫",
+      "meaning": "谈世界，谈它的奥秘。",
+      "suppliedText": "Parler du monde et ses mystères",
+      "sourceLineId": "romeo-timed-277-21",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3067,
+        "sourceLineNumber": 277,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3069.632,
+      "sourceText": "Parler de tout c'est parler trop",
+      "ipa": "[paʁle də tu sɛ paʁle tʁo]",
+      "ear": "帕赫莱 德 图 塞 帕赫莱 特霍",
+      "meaning": "什么都谈，就说得太多了。",
+      "suppliedText": "Parler de tout c'est parler trop",
+      "sourceLineId": "romeo-timed-277-22",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3067,
+        "sourceLineNumber": 277,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3072,
+      "sourceText": "Dis-moi poète à quoi ça sert",
+      "ipa": "[dimwa pɔɛt‿a kwa sa sɛʁ]",
+      "ear": "迪姆乌阿 珀艾特 阿 克乌阿 萨 塞赫",
+      "meaning": "告诉我，诗人，这有什么用？",
+      "suppliedText": "Dis-moi poète à quoi ça sert",
+      "sourceLineId": "romeo-timed-278-23",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3072,
+        "sourceLineNumber": 278,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3076.0,
+      "sourceText": "Un jour de plus sans Roméo",
+      "ipa": "[œ̃ ʒuʁ də ply sɑ̃ ʁomeo]",
+      "ear": "恩 茹赫 德 普吕 桑 霍梅奥",
+      "meaning": "又一天没有罗密欧。",
+      "suppliedText": "Un jour de plus sans Roméo",
+      "sourceLineId": "romeo-timed-278-24",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3072,
+        "sourceLineNumber": 278,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3079,
+      "sourceText": "Moi je me fous des maux du monde",
+      "ipa": "[mwa ʒə mə fu de mo dy mɔ̃d]",
+      "ear": "姆乌阿 热 默 富 德 莫 迪于 蒙德",
+      "meaning": "我才不在乎世间的苦难。",
+      "suppliedText": "Moi je me fous des maux du monde",
+      "sourceLineId": "romeo-timed-279-25",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3079,
+        "sourceLineNumber": 279,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3085.0,
+      "sourceText": "Car ce soir j'aime un homme",
+      "ipa": "[kaʁ sə swaʁ ʒɛm‿œ̃n‿ɔm]",
+      "ear": "卡赫 瑟 斯乌阿赫 热姆 恩恩 哦姆",
+      "meaning": "因为今晚，我爱着一个人。（重复）",
+      "suppliedText": "Car ce soir j'aime un homme (x2)",
+      "sourceLineId": "romeo-timed-279-26",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3079,
+        "sourceLineNumber": 279,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3090,
+      "sourceText": "Et que Dieu me pardonne si je trahis mon père",
+      "ipa": "[e kə djø mə paʁdɔn si ʒə tʁai mɔ̃ pɛʁ]",
+      "ear": "诶 克 德耶厄 默 帕赫多恩 西 热 特哈伊 蒙 佩赫",
+      "meaning": "若我背叛父亲，愿上帝宽恕。",
+      "suppliedText": "Et que Dieu me pardonne si je trahis mon père",
+      "sourceLineId": "romeo-timed-280-27",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3090,
+        "sourceLineNumber": 280,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3095.829,
+      "sourceText": "Et que Dieu m'abandonne je n'crains pas sa colère",
+      "ipa": "[e kə djø mabɑ̃dɔn ʒə nə kʁɛ̃ pa sa kolɛʁ]",
+      "ear": "诶 克 德耶厄 玛邦多恩 热 讷 克汉 帕 萨 科莱赫",
+      "meaning": "就算上帝抛弃我，我也不怕他的怒火。",
+      "suppliedText": "Et que Dieu m'abandonne je n'crains pas sa colère",
+      "sourceLineId": "romeo-timed-280-28",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3090,
+        "sourceLineNumber": 280,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3102,
+      "sourceText": "Car ce soir j'aime un homme.",
+      "ipa": "[kaʁ sə swaʁ ʒɛm‿œ̃n‿ɔm]",
+      "ear": "卡赫 瑟 斯乌阿赫 热姆 恩恩 哦姆",
+      "meaning": "因为今晚，我爱着一个人。",
+      "suppliedText": "Car ce soir j'aime un homme.",
+      "sourceLineId": "romeo-timed-281-29",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 3102,
+        "sourceLineNumber": 281,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3108,
+      "sourceText": "Alors tu vois poète, le monde ce soir je m'en fous.",
+      "ipa": "[alɔʁ ty vwa pɔɛt lə mɔ̃d sə swaʁ ʒə mɑ̃ fu]",
+      "ear": "阿洛赫 蒂于 弗乌阿 珀艾特 勒 蒙德 瑟 斯乌阿赫 热 芒 富",
+      "meaning": "所以你看，诗人，今晚我不在乎世界。",
+      "suppliedText": "Alors tu vois poète, le monde ce soir je m'en fous.",
+      "sourceLineId": "romeo-timed-282-30",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 3108,
+        "sourceLineNumber": 282,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3115,
+      "sourceText": "Car ce soir j'aime un homme.",
+      "ipa": "[kaʁ sə swaʁ ʒɛm‿œ̃n‿ɔm]",
+      "ear": "卡赫 瑟 斯乌阿赫 热姆 恩恩 哦姆",
+      "meaning": "因为今晚，我爱着一个人。",
+      "suppliedText": "Car ce soir j'aime un homme.",
+      "sourceLineId": "romeo-timed-283-31",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 3115,
+        "sourceLineNumber": 283,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3163,
+      "sourceText": "Frère Laurent !",
+      "ipa": "[fʁɛʁ loʁɑ̃]",
+      "ear": "弗赫赫 洛杭",
+      "meaning": "劳伦斯神父！",
+      "suppliedText": "Frère Laurent !",
+      "sourceLineId": "romeo-timed-284-32",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3163,
+        "sourceLineNumber": 284,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3166.182,
+      "sourceText": "Te voilà, toi !",
+      "ipa": "[tə vwala twa]",
+      "ear": "特 弗乌阿拉 特乌阿",
+      "meaning": "你在这里啊！",
+      "suppliedText": "Te voilà, toi !",
+      "sourceLineId": "romeo-timed-284-33",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3163,
+        "sourceLineNumber": 284,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3170,
+      "sourceText": "Je parle bien à l’homme le plus sage de cette ville ?",
+      "ipa": "[ʒə paʁl bjɛ̃n‿a lɔm lə ply saʒ də sɛt vil]",
+      "ear": "热 帕赫勒 布耶安恩 阿 洛姆 勒 普吕 萨日 德 塞特 维勒",
+      "meaning": "我正在和这座城最有智慧的人说话，对吧？",
+      "suppliedText": "Je parle bien à l’homme le plus sage de cette ville ?",
+      "sourceLineId": "romeo-timed-285-34",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3170,
+        "sourceLineNumber": 285,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3172.297,
+      "sourceText": "Oui ?",
+      "ipa": "[wi]",
+      "ear": "乌伊",
+      "meaning": "对吗？",
+      "suppliedText": "Oui ?",
+      "sourceLineId": "romeo-timed-285-35",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3170,
+        "sourceLineNumber": 285,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3172.703,
+      "sourceText": "A l’autorité morale incontestée",
+      "ipa": "[a lotoʁite moʁal‿ɛ̃kɔ̃tɛste]",
+      "ear": "阿 洛托希特 莫哈勒 安孔泰斯特",
+      "meaning": "和那位无可争议的道德权威。",
+      "suppliedText": "A l’autorité morale incontestée",
+      "sourceLineId": "romeo-timed-285-36",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3170,
+        "sourceLineNumber": 285,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3174.595,
+      "sourceText": "Oui !",
+      "ipa": "[wi]",
+      "ear": "乌伊",
+      "meaning": "对！",
+      "suppliedText": "Oui !",
+      "sourceLineId": "romeo-timed-285-37",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3170,
+        "sourceLineNumber": 285,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3175,
+      "sourceText": "Au",
+      "ipa": "[o]",
+      "ear": "奥",
+      "meaning": "那位。",
+      "suppliedText": "Au",
+      "sourceLineId": "romeo-timed-286-38",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3175,
+        "sourceLineNumber": 286,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3175.346,
+      "sourceText": "Sphynx de Vérone en personne ?",
+      "ipa": "[sfɛ̃ks də veʁɔn‿ɑ̃ pɛʁsɔn]",
+      "ear": "斯凡克斯 德 韦霍恩 昂 佩赫索恩",
+      "meaning": "维罗纳的斯芬克斯本人？",
+      "suppliedText": "Sphynx de Vérone en personne ?",
+      "sourceLineId": "romeo-timed-286-39",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3175,
+        "sourceLineNumber": 286,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3176.904,
+      "sourceText": "Mais oui, mon fils, en personne !",
+      "ipa": "[mɛ wi mɔ̃ fis ɑ̃ pɛʁsɔn]",
+      "ear": "梅 乌伊 蒙 菲斯 昂 佩赫索恩",
+      "meaning": "当然，我的孩子，就是我本人！",
+      "suppliedText": "Mais oui, mon fils, en personne !",
+      "sourceLineId": "romeo-timed-286-40",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3175,
+        "sourceLineNumber": 286,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3178.808,
+      "sourceText": "Mais dis-moi, pourquoi tu as l’air si heureux ?",
+      "ipa": "[mɛ dimwa puʁkwa ty a lɛʁ si øʁø]",
+      "ear": "梅 迪姆乌阿 普赫克乌阿 蒂于 阿 莱赫 西 厄赫厄",
+      "meaning": "不过告诉我，你为什么这么高兴？",
+      "suppliedText": "Mais dis-moi, pourquoi tu as l’air si heureux ?",
+      "sourceLineId": "romeo-timed-286-41",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3175,
+        "sourceLineNumber": 286,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3182.096,
+      "sourceText": "C’est que je l’aime !",
+      "ipa": "[sɛ kə ʒə lɛm]",
+      "ear": "塞 克 热 莱姆",
+      "meaning": "因为我爱她！",
+      "suppliedText": "C’est que je l’aime !",
+      "sourceLineId": "romeo-timed-286-42",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3175,
+        "sourceLineNumber": 286,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3183.308,
+      "sourceText": "Mais qui ?",
+      "ipa": "[mɛ ki]",
+      "ear": "梅 基",
+      "meaning": "爱谁？",
+      "suppliedText": "Mais qui ?",
+      "sourceLineId": "romeo-timed-286-43",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3175,
+        "sourceLineNumber": 286,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3184,
+      "sourceText": "Mais Juliette !",
+      "ipa": "[mɛ ʒyljɛt]",
+      "ear": "梅 日于勒耶艾特",
+      "meaning": "朱丽叶！",
+      "suppliedText": "Mais Juliette !",
+      "sourceLineId": "romeo-timed-287-44",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3184,
+        "sourceLineNumber": 287,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3185.082,
+      "sourceText": "Juliette, Juliette, tu m’as déjà parlé d’une, non deux, non trois Juliette !",
+      "ipa": "[ʒyljɛt ʒyljɛt ty ma deʒa paʁle dyn nɔ̃ dø nɔ̃ tʁwa ʒyljɛt]",
+      "ear": "日于勒耶艾特 日于勒耶艾特 蒂于 玛 德扎 帕赫莱 迪于恩 农 德厄 农 特赫乌阿 日于勒耶艾特",
+      "meaning": "朱丽叶？你已跟我说过一个，不，两个，三个朱丽叶！",
+      "suppliedText": "Juliette, Juliette, tu m’as déjà parlé d’une, non deux, non trois Juliette !",
+      "sourceLineId": "romeo-timed-287-45",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3184,
+        "sourceLineNumber": 287,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3189.77,
+      "sourceText": "Ne vous moquez pas, mon père.",
+      "ipa": "[nə vu moke pa mɔ̃ pɛʁ]",
+      "ear": "讷 乌 莫克 帕 蒙 佩赫",
+      "meaning": "别取笑我，神父。",
+      "suppliedText": "Ne vous moquez pas, mon père.",
+      "sourceLineId": "romeo-timed-287-46",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3184,
+        "sourceLineNumber": 287,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3191.574,
+      "sourceText": "Il n’y en a qu’une.",
+      "ipa": "[il ni ɑ̃n‿a kyn]",
+      "ear": "伊勒 尼 昂恩 阿 基于恩",
+      "meaning": "只有一个。",
+      "suppliedText": "Il n’y en a qu’une.",
+      "sourceLineId": "romeo-timed-287-47",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3184,
+        "sourceLineNumber": 287,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3192.836,
+      "sourceText": "Et elle est née Capulet.",
+      "ipa": "[e ɛl‿ɛ ne kapylɛ]",
+      "ear": "诶 艾勒 艾 内 卡普于莱",
+      "meaning": "她生在凯普莱特家。",
+      "suppliedText": "Et elle est née Capulet.",
+      "sourceLineId": "romeo-timed-287-48",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3184,
+        "sourceLineNumber": 287,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3194.459,
+      "sourceText": "Capulet ?",
+      "ipa": "[kapylɛ]",
+      "ear": "卡普于莱",
+      "meaning": "凯普莱特？",
+      "suppliedText": "Capulet ?",
+      "sourceLineId": "romeo-timed-287-49",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3184,
+        "sourceLineNumber": 287,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3195,
+      "sourceText": "Oui mon père.",
+      "ipa": "[wi mɔ̃ pɛʁ]",
+      "ear": "乌伊 蒙 佩赫",
+      "meaning": "是的，神父。",
+      "suppliedText": "Oui mon père.",
+      "sourceLineId": "romeo-timed-288-50",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3195,
+        "sourceLineNumber": 288,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3196.636,
+      "sourceText": "Mais sais-tu qui elle est ?",
+      "ipa": "[mɛ sɛty ki ɛl‿ɛ]",
+      "ear": "梅 塞蒂于 基 艾勒 艾",
+      "meaning": "可你知道她是谁吗？",
+      "suppliedText": "Mais sais-tu qui elle est ?",
+      "sourceLineId": "romeo-timed-288-51",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3195,
+        "sourceLineNumber": 288,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3199.364,
+      "sourceText": "Elle est celle que j’aime !",
+      "ipa": "[ɛl‿ɛ sɛl kə ʒɛm]",
+      "ear": "艾勒 艾 塞勒 克 热姆",
+      "meaning": "她是我爱的人！",
+      "suppliedText": "Elle est celle que j’aime !",
+      "sourceLineId": "romeo-timed-288-52",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3195,
+        "sourceLineNumber": 288,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3202.091,
+      "sourceText": "D’amour !",
+      "ipa": "[damuʁ]",
+      "ear": "达穆赫",
+      "meaning": "我真心爱她！",
+      "suppliedText": "D’amour !",
+      "sourceLineId": "romeo-timed-288-53",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3195,
+        "sourceLineNumber": 288,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3202.909,
+      "sourceText": "Ah, l’amour…",
+      "ipa": "[a lamuʁ]",
+      "ear": "阿 拉穆赫",
+      "meaning": "啊，爱情……",
+      "suppliedText": "Ah, l’amour…",
+      "sourceLineId": "romeo-timed-288-54",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3195,
+        "sourceLineNumber": 288,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

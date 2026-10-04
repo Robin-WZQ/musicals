@@ -1,0 +1,949 @@
+{
+  "videoId": "romeo-2010-03",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=468"
+    }
+  ],
+  "entries": [
+    {
+      "start": 481,
+      "sourceText": "Dieu qui voit tout, regarde-nous, regardez-vous",
+      "ipa": "[djø ki vwa tu ʁəɡaʁdnu ʁəɡaʁdevu]",
+      "ear": "德耶厄 基 弗乌阿 图 赫嘎赫德努 赫嘎赫德乌",
+      "meaning": "看见一切的上帝，请看看我们；你们也看看自己。",
+      "suppliedText": "Dieu qui voit tout, regarde-nous, regardez-vous",
+      "sourceLineId": "romeo-timed-47-1",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 481,
+        "sourceLineNumber": 47,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 495.25,
+      "sourceText": "Dans nos maisons coule un poison qui a un nom",
+      "ipa": "[dɑ̃ no mɛzɔ̃ kul‿œ̃ pwazɔ̃ ki a œ̃ nɔ̃]",
+      "ear": "当 诺 梅宗 库勒 恩 普乌阿宗 基 阿 恩 农",
+      "meaning": "我们的家里流淌着一种有名字的毒。",
+      "suppliedText": "Dans nos maisons coule un poison qui a un nom",
+      "sourceLineId": "romeo-timed-47-2",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 481,
+        "sourceLineNumber": 47,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 508,
+      "sourceText": "La haine, la haine...",
+      "ipa": "[la ɛn la ɛn]",
+      "ear": "拉 艾恩 拉 艾恩",
+      "meaning": "仇恨，仇恨……",
+      "suppliedText": "La haine, la haine...",
+      "sourceLineId": "romeo-timed-48-3",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 508,
+        "sourceLineNumber": 48,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 511.294,
+      "sourceText": "Comme un serpent dans vos âmes",
+      "ipa": "[kɔm‿œ̃ sɛʁpɑ̃ dɑ̃ voz‿am]",
+      "ear": "科姆 恩 塞赫庞 当 沃兹 阿姆",
+      "meaning": "像毒蛇盘踞在你们心里。",
+      "suppliedText": "Comme un serpent dans vos âmes",
+      "sourceLineId": "romeo-timed-48-4",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 508,
+        "sourceLineNumber": 48,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 515,
+      "sourceText": "La haine, la haine...",
+      "ipa": "[la ɛn la ɛn]",
+      "ear": "拉 艾恩 拉 艾恩",
+      "meaning": "仇恨，仇恨……",
+      "suppliedText": "La haine, la haine...",
+      "sourceLineId": "romeo-timed-49-5",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 515,
+        "sourceLineNumber": 49,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 517.435,
+      "sourceText": "Qui vous fait juge mais vous condamne",
+      "ipa": "[ki vu fɛ ʒyʒ mɛ vu kɔ̃dan]",
+      "ear": "基 乌 费 日于日 梅 乌 孔达恩",
+      "meaning": "让你们审判别人，也给自己定罪。",
+      "suppliedText": "Qui vous fait juge mais vous condamne",
+      "sourceLineId": "romeo-timed-49-6",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 515,
+        "sourceLineNumber": 49,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 522,
+      "sourceText": "La haine, la haine...",
+      "ipa": "[la ɛn la ɛn]",
+      "ear": "拉 艾恩 拉 艾恩",
+      "meaning": "仇恨，仇恨……",
+      "suppliedText": "La haine, la haine...",
+      "sourceLineId": "romeo-timed-50-7",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 522,
+        "sourceLineNumber": 50,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 525.368,
+      "sourceText": "Je la vois brûler dans vos yeux",
+      "ipa": "[ʒə la vwa bʁyle dɑ̃ voz‿jø]",
+      "ear": "热 拉 弗乌阿 布许莱 当 沃兹 耶厄",
+      "meaning": "我看见它在你们眼中燃烧。",
+      "suppliedText": "Je la vois brûler dans vos yeux",
+      "sourceLineId": "romeo-timed-50-8",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 522,
+        "sourceLineNumber": 50,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 530,
+      "sourceText": "La haine, la haine...",
+      "ipa": "[la ɛn la ɛn]",
+      "ear": "拉 艾恩 拉 艾恩",
+      "meaning": "仇恨，仇恨……",
+      "suppliedText": "La haine, la haine...",
+      "sourceLineId": "romeo-timed-51-9",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 530,
+        "sourceLineNumber": 51,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 532.667,
+      "sourceText": "Qui fait de vous des malheureux",
+      "ipa": "[ki fɛ də vu de maløʁø]",
+      "ear": "基 费 德 乌 德 玛勒厄赫厄",
+      "meaning": "让你们活得如此不幸。",
+      "suppliedText": "Qui fait de vous des malheureux",
+      "sourceLineId": "romeo-timed-51-10",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 530,
+        "sourceLineNumber": 51,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 537,
+      "sourceText": "Je hais la haine",
+      "ipa": "[ʒə ɛ la ɛn]",
+      "ear": "热 艾 拉 艾恩",
+      "meaning": "我憎恨这仇恨。",
+      "suppliedText": "Je hais la haine",
+      "sourceLineId": "romeo-timed-52-11",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 537,
+        "sourceLineNumber": 52,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 541,
+      "sourceText": "Je vous l'avoue, je n'ai pour vous que du dégoût",
+      "ipa": "[ʒə vu lavu ʒə ne puʁ vu kə dy deɡu]",
+      "ear": "热 乌 拉乌 热 内 普赫 乌 克 迪于 德古",
+      "meaning": "坦白说，我对你们只剩厌恶。",
+      "suppliedText": "Je vous l'avoue, je n'ai pour vous que du dégoût",
+      "sourceLineId": "romeo-timed-53-12",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 541,
+        "sourceLineNumber": 53,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 553.381,
+      "sourceText": "Pourquoi faut-il que dans cette ville on aime autant",
+      "ipa": "[puʁkwa fotil kə dɑ̃ sɛt vil‿ɔ̃n‿ɛm‿otɑ̃]",
+      "ear": "普赫克乌阿 佛蒂勒 克 当 塞特 维勒 翁恩 艾姆 奥唐",
+      "meaning": "为什么这座城如此热爱仇恨？",
+      "suppliedText": "Pourquoi faut-il que dans cette ville on aime autant",
+      "sourceLineId": "romeo-timed-53-13",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 541,
+        "sourceLineNumber": 53,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 567,
+      "sourceText": "La haine, la haine...",
+      "ipa": "[la ɛn la ɛn]",
+      "ear": "拉 艾恩 拉 艾恩",
+      "meaning": "仇恨，仇恨……",
+      "suppliedText": "La haine, la haine...",
+      "sourceLineId": "romeo-timed-54-14",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 567,
+        "sourceLineNumber": 54,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 569.947,
+      "sourceText": "Au nom du père, au nom du fils",
+      "ipa": "[o nɔ̃ dy pɛʁ o nɔ̃ dy fis]",
+      "ear": "奥 农 迪于 佩赫 奥 农 迪于 菲斯",
+      "meaning": "以圣父、圣子的名义。",
+      "suppliedText": "Au nom du père, au nom du fils",
+      "sourceLineId": "romeo-timed-54-15",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 567,
+        "sourceLineNumber": 54,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 574,
+      "sourceText": "La haine, la haine...",
+      "ipa": "[la ɛn la ɛn]",
+      "ear": "拉 艾恩 拉 艾恩",
+      "meaning": "仇恨，仇恨……",
+      "suppliedText": "La haine, la haine...",
+      "sourceLineId": "romeo-timed-55-16",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 574,
+        "sourceLineNumber": 55,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 577.368,
+      "sourceText": "Qui fait de nous vos complices",
+      "ipa": "[ki fɛ də nu vo kɔ̃plis]",
+      "ear": "基 费 德 努 沃 孔普利斯",
+      "meaning": "它把我们也变成了帮凶。",
+      "suppliedText": "Qui fait de nous vos complices",
+      "sourceLineId": "romeo-timed-55-17",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 574,
+        "sourceLineNumber": 55,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 582,
+      "sourceText": "La haine, la haine...",
+      "ipa": "[la ɛn la ɛn]",
+      "ear": "拉 艾恩 拉 艾恩",
+      "meaning": "仇恨，仇恨……",
+      "suppliedText": "La haine, la haine...",
+      "sourceLineId": "romeo-timed-56-18",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 582,
+        "sourceLineNumber": 56,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 584.435,
+      "sourceText": "C'est le courage qui manque aux lâches",
+      "ipa": "[sɛ lə kuʁaʒ ki mɑ̃k‿o laʃ]",
+      "ear": "塞 勒 库哈日 基 芒克 奥 拉什",
+      "meaning": "那是懦夫所缺少的勇气。",
+      "suppliedText": "C'est le courage qui manque aux lâches",
+      "sourceLineId": "romeo-timed-56-19",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 582,
+        "sourceLineNumber": 56,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 589,
+      "sourceText": "La haine, la haine...",
+      "ipa": "[la ɛn la ɛn]",
+      "ear": "拉 艾恩 拉 艾恩",
+      "meaning": "仇恨，仇恨……",
+      "suppliedText": "La haine, la haine...",
+      "sourceLineId": "romeo-timed-57-20",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 589,
+        "sourceLineNumber": 57,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 592.048,
+      "sourceText": "La sœur de l'amour mais qu'on cache",
+      "ipa": "[la sœʁ də lamuʁ mɛ kɔ̃ kaʃ]",
+      "ear": "拉 瑟厄赫 德 拉穆赫 梅 孔 卡什",
+      "meaning": "它是爱情的姐妹，却被藏了起来。",
+      "suppliedText": "La sœur de l'amour mais qu'on cache",
+      "sourceLineId": "romeo-timed-57-21",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 589,
+        "sourceLineNumber": 57,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 597,
+      "sourceText": "Je vous maudis pour toutes ces nuits",
+      "ipa": "[ʒə vu modi puʁ tut se nɥi]",
+      "ear": "热 乌 莫迪 普赫 图特 塞 恩于伊",
+      "meaning": "为了这些夜晚，我诅咒你们。",
+      "suppliedText": "Je vous maudis pour toutes ces nuits",
+      "sourceLineId": "romeo-timed-58-22",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 597,
+        "sourceLineNumber": 58,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 601.308,
+      "sourceText": "À vous entendre sans vous comprendre",
+      "ipa": "[a vuz‿ɑ̃tɑ̃dʁ sɑ̃ vu kɔ̃pʁɑ̃dʁ]",
+      "ear": "阿 乌兹 昂唐德赫 桑 乌 孔普杭德赫",
+      "meaning": "听你们争吵，却无法理解你们。",
+      "suppliedText": "À vous entendre sans vous comprendre",
+      "sourceLineId": "romeo-timed-58-23",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 597,
+        "sourceLineNumber": 58,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 605,
+      "sourceText": "Vous en oubliez même le plaisir",
+      "ipa": "[vuz‿ɑ̃n‿ublie mɛm lə plɛziʁ]",
+      "ear": "乌兹 昂恩 乌布利诶 梅姆 勒 普莱齐赫",
+      "meaning": "你们连快乐都忘了。",
+      "suppliedText": "Vous en oublier même le plaisir",
+      "sourceLineId": "romeo-timed-59-24",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 605,
+        "sourceLineNumber": 59,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 608.792,
+      "sourceText": "Le seul qui compte, c'est de haïr",
+      "ipa": "[lə sœl ki kɔ̃t sɛ də aiʁ]",
+      "ear": "勒 瑟厄勒 基 孔特 塞 德 阿伊赫",
+      "meaning": "唯一在乎的，就是仇恨。",
+      "suppliedText": "Le seul qui compte, c'est de haïr",
+      "sourceLineId": "romeo-timed-59-25",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 605,
+        "sourceLineNumber": 59,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 612,
+      "sourceText": "Regardez-vous elle vous enchaîne",
+      "ipa": "[ʁəɡaʁdevu ɛl vuz‿ɑ̃ʃɛn]",
+      "ear": "赫嘎赫德乌 艾勒 乌兹 昂谢恩",
+      "meaning": "看看自己，它把你们锁住了。",
+      "suppliedText": "Regardez-vous elle vous enchaîne",
+      "sourceLineId": "romeo-timed-60-26",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 612,
+        "sourceLineNumber": 60,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 615.586,
+      "sourceText": "Cette putain de haine qui vous prend tout",
+      "ipa": "[sɛt pytɛ̃ də ɛn ki vu pʁɑ̃ tu]",
+      "ear": "塞特 普于坦 德 艾恩 基 乌 普杭 图",
+      "meaning": "这该死的仇恨，夺走你们的一切。",
+      "suppliedText": "Cette putain de haine qui vous prend tout",
+      "sourceLineId": "romeo-timed-60-27",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 612,
+        "sourceLineNumber": 60,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 620,
+      "sourceText": "Regardez-vous vous n'êtes rien",
+      "ipa": "[ʁəɡaʁdevu vu nɛt ʁiɛ̃]",
+      "ear": "赫嘎赫德乌 乌 奈特 希安",
+      "meaning": "看看自己，你们不过是。",
+      "suppliedText": "Regardez-vous vous n'êtes rien",
+      "sourceLineId": "romeo-timed-61-28",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 620,
+        "sourceLineNumber": 61,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 623.667,
+      "sourceText": "Que des pantins entre ses mains",
+      "ipa": "[kə de pɑ̃tɛ̃ ɑ̃tʁ se mɛ̃]",
+      "ear": "克 德 庞坦 昂特赫 塞 曼",
+      "meaning": "它手中的提线木偶。",
+      "suppliedText": "Que des pantins entre ses mains",
+      "sourceLineId": "romeo-timed-61-29",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 620,
+        "sourceLineNumber": 61,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 627,
+      "sourceText": "Comment peut-on faire en son nom",
+      "ipa": "[kɔmɑ̃ pøtɔ̃ fɛʁ‿ɑ̃ sɔ̃ nɔ̃]",
+      "ear": "科芒 珀厄通 费赫 昂 松 农",
+      "meaning": "怎能借它的名义。",
+      "suppliedText": "Comment peut-on faire en son nom",
+      "sourceLineId": "romeo-timed-62-30",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 627,
+        "sourceLineNumber": 62,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 630.5,
+      "sourceText": "Autant de crimes et de victimes",
+      "ipa": "[otɑ̃ də kʁim e də viktim]",
+      "ear": "奥唐 德 克希姆 诶 德 维克蒂姆",
+      "meaning": "犯下这么多罪，害死这么多人？",
+      "suppliedText": "Autant de crimes et de victimes",
+      "sourceLineId": "romeo-timed-62-31",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 627,
+        "sourceLineNumber": 62,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 634,
+      "sourceText": "La haine, elle vient pondre dans vos âmes",
+      "ipa": "[la ɛn ɛl vjɛ̃ pɔ̃dʁ dɑ̃ voz‿am]",
+      "ear": "拉 艾恩 艾勒 弗耶安 蓬德赫 当 沃兹 阿姆",
+      "meaning": "仇恨在你们的灵魂里繁殖。",
+      "suppliedText": "La haine, elle vient pondre dans vos âmes",
+      "sourceLineId": "romeo-timed-63-32",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 634,
+        "sourceLineNumber": 63,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 638,
+      "sourceText": "Alors écoutez la voix des femmes",
+      "ipa": "[alɔʁ‿ekute la vwa de fam]",
+      "ear": "阿洛赫 诶库特 拉 弗乌阿 德 法姆",
+      "meaning": "所以，听听女人们的声音。",
+      "suppliedText": "Alors écoutez la voix des femmes",
+      "sourceLineId": "romeo-timed-64-33",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 638,
+        "sourceLineNumber": 64,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 649,
+      "sourceText": "La haine, la haine, la haine...",
+      "ipa": "[la ɛn la ɛn la ɛn]",
+      "ear": "拉 艾恩 拉 艾恩 拉 艾恩",
+      "meaning": "仇恨，仇恨，仇恨……",
+      "suppliedText": "La haine, la haine, la haine...",
+      "sourceLineId": "romeo-timed-65-34",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 649,
+        "sourceLineNumber": 65,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 664,
+      "sourceText": "La haine, elle vient pondre dans vos âmes",
+      "ipa": "[la ɛn ɛl vjɛ̃ pɔ̃dʁ dɑ̃ voz‿am]",
+      "ear": "拉 艾恩 艾勒 弗耶安 蓬德赫 当 沃兹 阿姆",
+      "meaning": "仇恨在你们的灵魂里繁殖。",
+      "suppliedText": "La haine, elle vient pondre dans vos âmes",
+      "sourceLineId": "romeo-timed-66-35",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 664,
+        "sourceLineNumber": 66,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 671.538,
+      "sourceText": "Alors écoutez la voix des femmes",
+      "ipa": "[alɔʁ‿ekute la vwa de fam]",
+      "ear": "阿洛赫 诶库特 拉 弗乌阿 德 法姆",
+      "meaning": "所以，听听女人们的声音。",
+      "suppliedText": "Alors écoutez la voix des femmes",
+      "sourceLineId": "romeo-timed-66-36",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 664,
+        "sourceLineNumber": 66,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 678,
+      "sourceText": "La haine, la haine, la haine, la haine…",
+      "ipa": "[la ɛn la ɛn la ɛn la ɛn]",
+      "ear": "拉 艾恩 拉 艾恩 拉 艾恩 拉 艾恩",
+      "meaning": "仇恨，仇恨，仇恨，仇恨……",
+      "suppliedText": "La haine, la haine, la haine, la haine…",
+      "sourceLineId": "romeo-timed-67-37",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 678,
+        "sourceLineNumber": 67,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 681.13,
+      "sourceText": "Tout le monde pense ici qu’on se déteste.",
+      "ipa": "[tulmɔ̃d pɑ̃s isi kɔ̃ sə detɛst]",
+      "ear": "图勒蒙德 庞斯 伊西 孔 瑟 德泰斯特",
+      "meaning": "这里的人都以为我们互相讨厌。",
+      "suppliedText": "Tout le monde pense ici qu’on se déteste.",
+      "sourceLineId": "romeo-timed-67-38",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 678,
+        "sourceLineNumber": 67,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 684.065,
+      "sourceText": "Ce qui est complètement et absolument… vrai !",
+      "ipa": "[sə ki ɛ kɔ̃plɛtmɑ̃ e absolymɑ̃ vʁɛ]",
+      "ear": "瑟 基 艾 孔普莱特芒 诶 阿布索吕芒 弗赫",
+      "meaning": "这完全、绝对……是真的！",
+      "suppliedText": "Ce qui est complétement et absolument… vrai !",
+      "sourceLineId": "romeo-timed-67-39",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 678,
+        "sourceLineNumber": 67,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 687,
+      "sourceText": "Je me présente, Benvolio, 20 ans, Montaigu.",
+      "ipa": "[ʒə mə pʁezɑ̃t bɑ̃voljo vɛ̃ ɑ̃ mɔ̃tɛɡy]",
+      "ear": "热 默 普赫赞特 邦沃勒耶奥 万 昂 蒙泰吉于",
+      "meaning": "自我介绍一下：班伏里奥，二十岁，蒙太古家的人。",
+      "suppliedText": "Je me présente, Benvolio, 20 ans, Montaigu.",
+      "sourceLineId": "romeo-timed-68-40",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 687,
+        "sourceLineNumber": 68,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 690.5,
+      "sourceText": "J’ai deux amis : Roméo, et Mercutio.",
+      "ipa": "[ʒe døz‿ami ʁomeo e mɛʁkysjo]",
+      "ear": "热 德厄兹 阿米 霍梅奥 诶 梅赫基于斯耶奥",
+      "meaning": "我有两个朋友：罗密欧和茂丘西奥。",
+      "suppliedText": "J’ai deux amis : Roméo, et Mercutio.",
+      "sourceLineId": "romeo-timed-68-41",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 687,
+        "sourceLineNumber": 68,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 694,
+      "sourceText": "J’aime les femmes, non !",
+      "ipa": "[ʒɛm le fam nɔ̃]",
+      "ear": "热姆 莱 法姆 农",
+      "meaning": "我喜欢女人，不！",
+      "suppliedText": "J’aime les femmes, non !",
+      "sourceLineId": "romeo-timed-69-42",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 694,
+        "sourceLineNumber": 69,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 695.697,
+      "sourceText": "J’adore les femmes !",
+      "ipa": "[ʒadɔʁ le fam]",
+      "ear": "扎多赫 莱 法姆",
+      "meaning": "我爱死女人了！",
+      "suppliedText": "J’adore les femmes !",
+      "sourceLineId": "romeo-timed-69-43",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 694,
+        "sourceLineNumber": 69,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 697.152,
+      "sourceText": "Impossible de vivre sans elles.",
+      "ipa": "[ɛ̃pɔsibl də vivʁ sɑ̃ ɛl]",
+      "ear": "安珀西布勒 德 维弗赫 桑 艾勒",
+      "meaning": "没有她们，简直活不了。",
+      "suppliedText": "Impossible de vivre sans elles.",
+      "sourceLineId": "romeo-timed-69-44",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 694,
+        "sourceLineNumber": 69,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 699.576,
+      "sourceText": "Et encore moins sans mes amis.",
+      "ipa": "[e ɑ̃kɔʁ mwɛ̃ sɑ̃ mez‿ami]",
+      "ear": "诶 昂科赫 姆乌安 桑 梅兹 阿米",
+      "meaning": "没有朋友，就更活不了了。",
+      "suppliedText": "Et encore moins sans mes amis.",
+      "sourceLineId": "romeo-timed-69-45",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 694,
+        "sourceLineNumber": 69,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 702,
+      "sourceText": "Mercutio...",
+      "ipa": "[mɛʁkysjo]",
+      "ear": "梅赫基于斯耶奥",
+      "meaning": "茂丘西奥……",
+      "suppliedText": "Mercutio...",
+      "sourceLineId": "romeo-timed-70-46",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 702,
+        "sourceLineNumber": 70,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 703.778,
+      "sourceText": "est bizarre.",
+      "ipa": "[ɛ bizaʁ]",
+      "ear": "艾 比扎赫",
+      "meaning": "有点古怪。",
+      "suppliedText": "est bizarre.",
+      "sourceLineId": "romeo-timed-70-47",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 702,
+        "sourceLineNumber": 70,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 705.556,
+      "sourceText": "Tourmenté.",
+      "ipa": "[tuʁmɑ̃te]",
+      "ear": "图赫芒特",
+      "meaning": "满腹烦恼。",
+      "suppliedText": "Tourmenté.",
+      "sourceLineId": "romeo-timed-70-48",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 702,
+        "sourceLineNumber": 70,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 707.333,
+      "sourceText": "Complètement fou.",
+      "ipa": "[kɔ̃plɛtmɑ̃ fu]",
+      "ear": "孔普莱特芒 富",
+      "meaning": "彻头彻尾的疯子。",
+      "suppliedText": "Complément fou.",
+      "sourceLineId": "romeo-timed-70-49",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 702,
+        "sourceLineNumber": 70,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 710,
+      "sourceText": "Et Roméo, bah Roméo c’est Roméo…",
+      "ipa": "[e ʁomeo ba ʁomeo sɛ ʁomeo]",
+      "ear": "诶 霍梅奥 巴 霍梅奥 塞 霍梅奥",
+      "meaning": "至于罗密欧嘛，罗密欧就是罗密欧……",
+      "suppliedText": "Et Roméo, bah Roméo c’est Roméo…",
+      "sourceLineId": "romeo-timed-71-50",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 710,
+        "sourceLineNumber": 71,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 715,
+      "sourceText": "Bizarre », « tourmenté », « complètement fou »...",
+      "ipa": "[bizaʁ tuʁmɑ̃te kɔ̃plɛtmɑ̃ fu]",
+      "ear": "比扎赫 图赫芒特 孔普莱特芒 富",
+      "meaning": "古怪”“烦恼”“彻底疯了”……",
+      "suppliedText": "Bizarre », « tourmenté », « complétement fou »...",
+      "sourceLineId": "romeo-timed-72-51",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 715,
+        "sourceLineNumber": 72,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 722,
+      "sourceText": "Mais quel portrait !",
+      "ipa": "[mɛ kɛl pɔʁtʁɛ]",
+      "ear": "梅 凯勒 珀赫特赫",
+      "meaning": "你可真会形容！",
+      "suppliedText": "Mais quel portrait !",
+      "sourceLineId": "romeo-timed-73-52",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 722,
+        "sourceLineNumber": 73,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 723.302,
+      "sourceText": "C’est comme ça que tu me vois ?",
+      "ipa": "[sɛ kɔm sa kə ty mə vwa]",
+      "ear": "塞 科姆 萨 克 蒂于 默 弗乌阿",
+      "meaning": "你眼里我就是这样？",
+      "suppliedText": "C’est comme ça que tu me vois ?",
+      "sourceLineId": "romeo-timed-73-53",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 722,
+        "sourceLineNumber": 73,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 725.163,
+      "sourceText": "Un peu !",
+      "ipa": "[œ̃ pø]",
+      "ear": "恩 珀厄",
+      "meaning": "有一点吧！",
+      "suppliedText": "Un peu !",
+      "sourceLineId": "romeo-timed-73-54",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 722,
+        "sourceLineNumber": 73,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 725.721,
+      "sourceText": "Vilaines pensées, tu vas faire pleurer Mercutio !",
+      "ipa": "[vilɛn pɑ̃se ty va fɛʁ pløʁe mɛʁkysjo]",
+      "ear": "维莱恩 庞塞 蒂于 瓦 费赫 普勒厄赫 梅赫基于斯耶奥",
+      "meaning": "坏心眼，你要把茂丘西奥弄哭了！",
+      "suppliedText": "Vilaines pensées, tu vas faire pleurer Mercutio !",
+      "sourceLineId": "romeo-timed-73-55",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 722,
+        "sourceLineNumber": 73,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 729.256,
+      "sourceText": "Pardon ami.",
+      "ipa": "[paʁdɔ̃ ami]",
+      "ear": "帕赫东 阿米",
+      "meaning": "抱歉，朋友。",
+      "suppliedText": "Pardon ami.",
+      "sourceLineId": "romeo-timed-73-56",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 722,
+        "sourceLineNumber": 73,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 730,
+      "sourceText": "Frère ?",
+      "ipa": "[fʁɛʁ]",
+      "ear": "弗赫赫",
+      "meaning": "兄弟？",
+      "suppliedText": "Frère ?",
+      "sourceLineId": "romeo-timed-74-57",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 730,
+        "sourceLineNumber": 74,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 732.5,
+      "sourceText": "Frère !",
+      "ipa": "[fʁɛʁ]",
+      "ear": "弗赫赫",
+      "meaning": "兄弟！",
+      "suppliedText": "Frère !",
+      "sourceLineId": "romeo-timed-74-58",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 730,
+        "sourceLineNumber": 74,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

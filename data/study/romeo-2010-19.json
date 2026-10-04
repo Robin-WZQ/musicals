@@ -1,0 +1,485 @@
+{
+  "videoId": "romeo-2010-19",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=3841"
+    }
+  ],
+  "entries": [
+    {
+      "start": 3862,
+      "sourceText": "Aimer c'est ce qu'y a d'plus beau",
+      "ipa": "[ɛme sɛ sə ki a də ply bo]",
+      "ear": "艾梅 塞 瑟 基 阿 德 普吕 博",
+      "meaning": "爱，是世间最美的事。",
+      "suppliedText": "Aimer c'est ce qu'y a d'plus beau",
+      "sourceLineId": "romeo-timed-357-1",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3862,
+        "sourceLineNumber": 357,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3867.143,
+      "sourceText": "Aimer c'est monter si haut",
+      "ipa": "[ɛme sɛ mɔ̃te si o]",
+      "ear": "艾梅 塞 蒙特 西 奥",
+      "meaning": "爱，是飞向高处。",
+      "suppliedText": "Aimer c'est monter si haut",
+      "sourceLineId": "romeo-timed-357-2",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3862,
+        "sourceLineNumber": 357,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3871,
+      "sourceText": "Et toucher les ailes des oiseaux",
+      "ipa": "[e tuʃe lez‿ɛl dez‿wazo]",
+      "ear": "诶 图谢 莱兹 艾勒 德兹 乌阿佐",
+      "meaning": "触摸鸟儿的翅膀。",
+      "suppliedText": "Et toucher les ailes des oiseaux",
+      "sourceLineId": "romeo-timed-358-3",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3871,
+        "sourceLineNumber": 358,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3876.385,
+      "sourceText": "Aimer c'est ce qu'y a d'plus beau",
+      "ipa": "[ɛme sɛ sə ki a də ply bo]",
+      "ear": "艾梅 塞 瑟 基 阿 德 普吕 博",
+      "meaning": "爱，是世间最美的事。",
+      "suppliedText": "Aimer c'est ce qu'y a d'plus beau",
+      "sourceLineId": "romeo-timed-358-4",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3871,
+        "sourceLineNumber": 358,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3881,
+      "sourceText": "Aimer c'est voler le temps",
+      "ipa": "[ɛme sɛ vole lə tɑ̃]",
+      "ear": "艾梅 塞 沃莱 勒 唐",
+      "meaning": "爱，是偷走时间。",
+      "suppliedText": "Aimer c'est voler le temps",
+      "sourceLineId": "romeo-timed-359-5",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3881,
+        "sourceLineNumber": 359,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3886.5,
+      "sourceText": "Aimer c'est rester vivant",
+      "ipa": "[ɛme sɛ ʁɛste vivɑ̃]",
+      "ear": "艾梅 塞 赫斯特 维旺",
+      "meaning": "爱，是让生命继续。",
+      "suppliedText": "Aimer c'est rester vivant",
+      "sourceLineId": "romeo-timed-359-6",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3881,
+        "sourceLineNumber": 359,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3892,
+      "sourceText": "Et brûler au cœur d'un volcan",
+      "ipa": "[e bʁyle o kœʁ dœ̃ vɔlkɑ̃]",
+      "ear": "诶 布许莱 奥 克厄赫 丹 沃勒康",
+      "meaning": "在火山的中心燃烧。",
+      "suppliedText": "Et brûler au cœur d'un volcan",
+      "sourceLineId": "romeo-timed-360-7",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3892,
+        "sourceLineNumber": 360,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3896.5,
+      "sourceText": "Aimer c'est c'qu'y a de plus grand",
+      "ipa": "[ɛme sɛ ski a də ply ɡʁɑ̃]",
+      "ear": "艾梅 塞 斯基 阿 德 普吕 格杭",
+      "meaning": "爱，是最伟大的事。",
+      "suppliedText": "Aimer c'est c'qu'y a de plus grand",
+      "sourceLineId": "romeo-timed-360-8",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3892,
+        "sourceLineNumber": 360,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3901,
+      "sourceText": "Aimer c'est plus fort que tout",
+      "ipa": "[ɛme sɛ ply fɔʁ kə tu]",
+      "ear": "艾梅 塞 普吕 佛赫 克 图",
+      "meaning": "爱，比一切更强大。",
+      "suppliedText": "Aimer c'est plus fort que tout",
+      "sourceLineId": "romeo-timed-361-9",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3901,
+        "sourceLineNumber": 361,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3906.5,
+      "sourceText": "Donner le meilleur de nous",
+      "ipa": "[dɔne lə mɛjœʁ də nu]",
+      "ear": "多内 勒 梅耶厄赫 德 努",
+      "meaning": "献出最好的自己。",
+      "suppliedText": "Donner le meilleur de nous",
+      "sourceLineId": "romeo-timed-361-10",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3901,
+        "sourceLineNumber": 361,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3912,
+      "sourceText": "Aimer et sentir son cœur",
+      "ipa": "[ɛme e sɑ̃tiʁ sɔ̃ kœʁ]",
+      "ear": "艾梅 诶 桑蒂赫 松 克厄赫",
+      "meaning": "爱，感受自己的心。",
+      "suppliedText": "Aimer et sentir son cœur",
+      "sourceLineId": "romeo-timed-362-11",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3912,
+        "sourceLineNumber": 362,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3916.714,
+      "sourceText": "Aimer pour avoir moins peur",
+      "ipa": "[ɛme puʁ‿avwaʁ mwɛ̃ pœʁ]",
+      "ear": "艾梅 普赫 阿弗乌阿赫 姆乌安 珀厄赫",
+      "meaning": "爱，让恐惧少一些。",
+      "suppliedText": "Aimer pour avoir moins peur",
+      "sourceLineId": "romeo-timed-362-12",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3912,
+        "sourceLineNumber": 362,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3923,
+      "sourceText": "Aimer c'est ce qu'y a d'plus beau",
+      "ipa": "[ɛme sɛ sə ki a də ply bo]",
+      "ear": "艾梅 塞 瑟 基 阿 德 普吕 博",
+      "meaning": "爱，是世间最美的事。",
+      "suppliedText": "Aimer c'est ce qu'y a d'plus beau",
+      "sourceLineId": "romeo-timed-363-13",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3923,
+        "sourceLineNumber": 363,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3929.286,
+      "sourceText": "Aimer c'est monter si haut",
+      "ipa": "[ɛme sɛ mɔ̃te si o]",
+      "ear": "艾梅 塞 蒙特 西 奥",
+      "meaning": "爱，是飞向高处。",
+      "suppliedText": "Aimer c'est monter si haut",
+      "sourceLineId": "romeo-timed-363-14",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3923,
+        "sourceLineNumber": 363,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3934,
+      "sourceText": "Et toucher les ailes des oiseaux",
+      "ipa": "[e tuʃe lez‿ɛl dez‿wazo]",
+      "ear": "诶 图谢 莱兹 艾勒 德兹 乌阿佐",
+      "meaning": "触摸鸟儿的翅膀。",
+      "suppliedText": "Et toucher les ailes des oiseaux",
+      "sourceLineId": "romeo-timed-364-15",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3934,
+        "sourceLineNumber": 364,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3938.846,
+      "sourceText": "Aimer c'est ce qu'y a d'plus beau",
+      "ipa": "[ɛme sɛ sə ki a də ply bo]",
+      "ear": "艾梅 塞 瑟 基 阿 德 普吕 博",
+      "meaning": "爱，是世间最美的事。",
+      "suppliedText": "Aimer c'est ce qu'y a d'plus beau",
+      "sourceLineId": "romeo-timed-364-16",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3934,
+        "sourceLineNumber": 364,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3943,
+      "sourceText": "Aimer c'est voler le temps",
+      "ipa": "[ɛme sɛ vole lə tɑ̃]",
+      "ear": "艾梅 塞 沃莱 勒 唐",
+      "meaning": "爱，是偷走时间。",
+      "suppliedText": "Aimer c'est voler le temps",
+      "sourceLineId": "romeo-timed-365-17",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3943,
+        "sourceLineNumber": 365,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3948.5,
+      "sourceText": "Aimer c'est rester vivant",
+      "ipa": "[ɛme sɛ ʁɛste vivɑ̃]",
+      "ear": "艾梅 塞 赫斯特 维旺",
+      "meaning": "爱，是让生命继续。",
+      "suppliedText": "Aimer c'est rester vivant",
+      "sourceLineId": "romeo-timed-365-18",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3943,
+        "sourceLineNumber": 365,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3954,
+      "sourceText": "Et brûler au cœur d'un volcan",
+      "ipa": "[e bʁyle o kœʁ dœ̃ vɔlkɑ̃]",
+      "ear": "诶 布许莱 奥 克厄赫 丹 沃勒康",
+      "meaning": "在火山的中心燃烧。",
+      "suppliedText": "Et brûler au cœur d'un volcan",
+      "sourceLineId": "romeo-timed-366-19",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3954,
+        "sourceLineNumber": 366,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3958.5,
+      "sourceText": "Aimer c'est c'qu'y a de plus grand",
+      "ipa": "[ɛme sɛ ski a də ply ɡʁɑ̃]",
+      "ear": "艾梅 塞 斯基 阿 德 普吕 格杭",
+      "meaning": "爱，是最伟大的事。",
+      "suppliedText": "Aimer c'est c'qu'y a de plus grand",
+      "sourceLineId": "romeo-timed-366-20",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3954,
+        "sourceLineNumber": 366,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3963,
+      "sourceText": "Aimer c'est brûler ses nuits",
+      "ipa": "[ɛme sɛ bʁyle se nɥi]",
+      "ear": "艾梅 塞 布许莱 塞 恩于伊",
+      "meaning": "爱，是燃尽每个夜晚。",
+      "suppliedText": "Aimer c'est brûler ses nuits",
+      "sourceLineId": "romeo-timed-367-21",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3963,
+        "sourceLineNumber": 367,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3968.5,
+      "sourceText": "Aimer c'est payer le prix",
+      "ipa": "[ɛme sɛ pɛje lə pʁi]",
+      "ear": "艾梅 塞 佩耶诶 勒 普希",
+      "meaning": "爱，是付出代价。",
+      "suppliedText": "Aimer c'est payer le prix",
+      "sourceLineId": "romeo-timed-367-22",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3963,
+        "sourceLineNumber": 367,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3974,
+      "sourceText": "Et donner un sens à sa vie",
+      "ipa": "[e dɔne œ̃ sɑ̃s‿a sa vi]",
+      "ear": "诶 多内 恩 桑斯 阿 萨 维",
+      "meaning": "让生命拥有意义。",
+      "suppliedText": "Et donner un sens à sa vie",
+      "sourceLineId": "romeo-timed-368-23",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3974,
+        "sourceLineNumber": 368,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3978.5,
+      "sourceText": "Aimer c'est brûler ses nuits",
+      "ipa": "[ɛme sɛ bʁyle se nɥi]",
+      "ear": "艾梅 塞 布许莱 塞 恩于伊",
+      "meaning": "爱，是燃尽每个夜晚。",
+      "suppliedText": "Aimer c'est brûler ses nuits",
+      "sourceLineId": "romeo-timed-368-24",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3974,
+        "sourceLineNumber": 368,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3983,
+      "sourceText": "Aimer c'est ce qu'y a d'plus beau",
+      "ipa": "[ɛme sɛ sə ki a də ply bo]",
+      "ear": "艾梅 塞 瑟 基 阿 德 普吕 博",
+      "meaning": "爱，是世间最美的事。",
+      "suppliedText": "Aimer c'est ce qu'y a d'plus beau",
+      "sourceLineId": "romeo-timed-369-25",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3983,
+        "sourceLineNumber": 369,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3989.286,
+      "sourceText": "Aimer c'est monter si haut",
+      "ipa": "[ɛme sɛ mɔ̃te si o]",
+      "ear": "艾梅 塞 蒙特 西 奥",
+      "meaning": "爱，是飞向高处。",
+      "suppliedText": "Aimer c'est monter si haut",
+      "sourceLineId": "romeo-timed-369-26",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3983,
+        "sourceLineNumber": 369,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3994,
+      "sourceText": "Et toucher les ailes des oiseaux",
+      "ipa": "[e tuʃe lez‿ɛl dez‿wazo]",
+      "ear": "诶 图谢 莱兹 艾勒 德兹 乌阿佐",
+      "meaning": "触摸鸟儿的翅膀。",
+      "suppliedText": "Et toucher les ailes des oiseaux",
+      "sourceLineId": "romeo-timed-370-27",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3994,
+        "sourceLineNumber": 370,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3998.846,
+      "sourceText": "Aimer c'est ce qu'y a d'plus beau",
+      "ipa": "[ɛme sɛ sə ki a də ply bo]",
+      "ear": "艾梅 塞 瑟 基 阿 德 普吕 博",
+      "meaning": "爱，是世间最美的事。",
+      "suppliedText": "Aimer c'est ce qu'y a d'plus beau",
+      "sourceLineId": "romeo-timed-370-28",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3994,
+        "sourceLineNumber": 370,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4003,
+      "sourceText": "Aimer…",
+      "ipa": "[ɛme]",
+      "ear": "艾梅",
+      "meaning": "爱……",
+      "suppliedText": "Aimer…",
+      "sourceLineId": "romeo-timed-371-29",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 4003,
+        "sourceLineNumber": 371,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

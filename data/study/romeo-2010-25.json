@@ -1,0 +1,405 @@
+{
+  "videoId": "romeo-2010-25",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=5065"
+    }
+  ],
+  "entries": [
+    {
+      "start": 5065,
+      "sourceText": "Je meurs, dans la poussière, mais je meurs, dans tes bras Roméo, ô mon frère, que vas-tu faire sans moi ?",
+      "ipa": "[ʒə mœʁ dɑ̃ la pusjɛʁ mɛ ʒə mœʁ dɑ̃ te bʁa ʁomeo o mɔ̃ fʁɛʁ kə vaty fɛʁ sɑ̃ mwa]",
+      "ear": "热 默厄赫 当 拉 普斯耶艾赫 梅 热 默厄赫 当 特 布哈 霍梅奥 奥 蒙 弗赫赫 克 瓦蒂于 费赫 桑 姆乌阿",
+      "meaning": "我死在尘土里，却死在你怀中；罗密欧，我的兄弟，没有我你怎么办？",
+      "suppliedText": "Je meurs, dans la poussière, mais je meurs, dans tes bras Roméo, ô mon frère, que vas-tu faire sans moi ?",
+      "sourceLineId": "romeo-timed-485-1",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5065,
+        "sourceLineNumber": 485,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5081,
+      "sourceText": "Je meurs pour que tu vives, mais tu ne vivras pas",
+      "ipa": "[ʒə mœʁ puʁ kə ty viv mɛ ty nə vivʁa pa]",
+      "ear": "热 默厄赫 普赫 克 蒂于 维弗 梅 蒂于 讷 维弗哈 帕",
+      "meaning": "我为让你活下去而死，可你也活不下去。",
+      "suppliedText": "Je meurs pour que tu vives, mais tu ne vivras pas",
+      "sourceLineId": "romeo-timed-486-2",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5081,
+        "sourceLineNumber": 486,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5089.242,
+      "sourceText": "Je passe sur l'autre rive, je t'attendrai là-bas",
+      "ipa": "[ʒə pas syʁ lotʁ ʁiv ʒə tatɑ̃dʁe laba]",
+      "ear": "热 帕斯 西于赫 洛特赫 希弗 热 塔唐德赫 拉巴",
+      "meaning": "我要渡到彼岸，在那里等你。",
+      "suppliedText": "Je passe sur l'autre rive, je t'attendrai là-bas",
+      "sourceLineId": "romeo-timed-486-3",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5081,
+        "sourceLineNumber": 486,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5097,
+      "sourceText": "Continuez votre guerre, mais continuez sans moi",
+      "ipa": "[kɔ̃tinye votʁ ɡɛʁ mɛ kɔ̃tinye sɑ̃ mwa]",
+      "ear": "孔蒂尼于诶 沃特赫 盖赫 梅 孔蒂尼于诶 桑 姆乌阿",
+      "meaning": "继续你们的战争吧，可别再算上我。",
+      "suppliedText": "Continuez votre guerre, mais continuez sans moi",
+      "sourceLineId": "romeo-timed-487-4",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5097,
+        "sourceLineNumber": 487,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5104.297,
+      "sourceText": "Je meurs dans la poussière, non, je meurs comme un roi",
+      "ipa": "[ʒə mœʁ dɑ̃ la pusjɛʁ nɔ̃ ʒə mœʁ kɔm‿œ̃ ʁwa]",
+      "ear": "热 默厄赫 当 拉 普斯耶艾赫 农 热 默厄赫 科姆 恩 赫乌阿",
+      "meaning": "我死在尘土里，不，我像国王一样死去。",
+      "suppliedText": "Je meurs dans la poussière, non, je meurs comme un roi",
+      "sourceLineId": "romeo-timed-487-5",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5097,
+        "sourceLineNumber": 487,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5112,
+      "sourceText": "Je maudis vos familles, je maudis vos maisons Roméo, si fragile, tu perdras la raison",
+      "ipa": "[ʒə modi vo famij ʒə modi vo mɛzɔ̃ ʁomeo si fʁaʒil ty pɛʁdʁa la ʁɛzɔ̃]",
+      "ear": "热 莫迪 沃 法米耶 热 莫迪 沃 梅宗 霍梅奥 西 弗哈日勒 蒂于 佩赫德哈 拉 赫宗",
+      "meaning": "我诅咒你们的家族，诅咒你们的家；脆弱的罗密欧，你会失去理智。",
+      "suppliedText": "Je maudis vos familles, je maudis vos maisons Roméo, si fragile, tu perdras la raison",
+      "sourceLineId": "romeo-timed-488-6",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5112,
+        "sourceLineNumber": 488,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5136,
+      "sourceText": "Mercutio, Mercutio.",
+      "ipa": "[mɛʁkysjo mɛʁkysjo]",
+      "ear": "梅赫基于斯耶奥 梅赫基于斯耶奥",
+      "meaning": "茂丘西奥，茂丘西奥。",
+      "suppliedText": "Mercutio, Mercutio.",
+      "sourceLineId": "romeo-timed-489-7",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5136,
+        "sourceLineNumber": 489,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5138.0,
+      "sourceText": "Mercutio ne me laisse pas.",
+      "ipa": "[mɛʁkysjo nə mə lɛs pa]",
+      "ear": "梅赫基于斯耶奥 讷 默 莱斯 帕",
+      "meaning": "茂丘西奥，别丢下我。",
+      "suppliedText": "Mercutio ne me laisse pas.",
+      "sourceLineId": "romeo-timed-489-8",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5136,
+        "sourceLineNumber": 489,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5140.5,
+      "sourceText": "Mercutio ne me laisse pas.",
+      "ipa": "[mɛʁkysjo nə mə lɛs pa]",
+      "ear": "梅赫基于斯耶奥 讷 默 莱斯 帕",
+      "meaning": "茂丘西奥，别丢下我。",
+      "suppliedText": "Mercutio ne me laisse pas.",
+      "sourceLineId": "romeo-timed-489-9",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5136,
+        "sourceLineNumber": 489,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5143,
+      "sourceText": "Mercutio ne me laisse pas.",
+      "ipa": "[mɛʁkysjo nə mə lɛs pa]",
+      "ear": "梅赫基于斯耶奥 讷 默 莱斯 帕",
+      "meaning": "茂丘西奥，别丢下我。",
+      "suppliedText": "Mercutio ne me laisse pas.",
+      "sourceLineId": "romeo-timed-490-10",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5143,
+        "sourceLineNumber": 490,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5145.593,
+      "sourceText": "Oh, Mercutio, j’ai besoin de toi !",
+      "ipa": "[ɔ mɛʁkysjo ʒe bəzwɛ̃ də twa]",
+      "ear": "哦 梅赫基于斯耶奥 热 伯兹乌安 德 特乌阿",
+      "meaning": "哦，茂丘西奥，我需要你！",
+      "suppliedText": "Oh, Mercutio, j’ai besoin de toi !",
+      "sourceLineId": "romeo-timed-490-11",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5143,
+        "sourceLineNumber": 490,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5148.963,
+      "sourceText": "Mercutio !",
+      "ipa": "[mɛʁkysjo]",
+      "ear": "梅赫基于斯耶奥",
+      "meaning": "茂丘西奥！",
+      "suppliedText": "Mercutio !",
+      "sourceLineId": "romeo-timed-490-12",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5143,
+        "sourceLineNumber": 490,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5150,
+      "sourceText": "Qui saura un jour, combien d'amour tu avais Dieu la vie sur terre, n'est qu'un enfer",
+      "ipa": "[ki soʁa œ̃ ʒuʁ kɔ̃bjɛ̃ damuʁ ty avɛ djø la vi syʁ tɛʁ nɛ kœ̃ ɑ̃fɛʁ]",
+      "ear": "基 索哈 恩 茹赫 孔布耶安 达穆赫 蒂于 阿韦 德耶厄 拉 维 西于赫 泰赫 奈 坎 昂费赫",
+      "meaning": "谁能明白你心里曾有多少爱？上帝啊，人间不过是地狱。",
+      "suppliedText": "Qui saura un jour, combien d'amour tu avais Dieu la vie sur terre, n'est qu'un enfer",
+      "sourceLineId": "romeo-timed-491-13",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5150,
+        "sourceLineNumber": 491,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5173,
+      "sourceText": "Oh, oh...",
+      "ipa": "[ɔ ɔ]",
+      "ear": "哦 哦",
+      "meaning": "哦，哦……",
+      "suppliedText": "Oh, oh...",
+      "sourceLineId": "romeo-timed-492-14",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5173,
+        "sourceLineNumber": 492,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5180,
+      "sourceText": "Tybalt, Tybalt, Tybalt !",
+      "ipa": "[tibalt tibalt tibalt]",
+      "ear": "蒂巴勒特 蒂巴勒特 蒂巴勒特",
+      "meaning": "提伯尔特，提伯尔特！",
+      "suppliedText": "Tybalt, Tybalt, Tybalt !",
+      "sourceLineId": "romeo-timed-493-15",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5180,
+        "sourceLineNumber": 493,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5186.0,
+      "sourceText": "Non !",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不！",
+      "suppliedText": "Non !",
+      "sourceLineId": "romeo-timed-493-16",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5180,
+        "sourceLineNumber": 493,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5187,
+      "sourceText": "Roméo !",
+      "ipa": "[ʁomeo]",
+      "ear": "霍梅奥",
+      "meaning": "罗密欧！",
+      "suppliedText": "Roméo !",
+      "sourceLineId": "romeo-timed-494-17",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5187,
+        "sourceLineNumber": 494,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5194.0,
+      "sourceText": "Tybalt, non !",
+      "ipa": "[tibalt nɔ̃]",
+      "ear": "蒂巴勒特 农",
+      "meaning": "提伯尔特，不！",
+      "suppliedText": "Capulet : Tybalt, non !",
+      "sourceLineId": "romeo-timed-494-18",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5187,
+        "sourceLineNumber": 494,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5201,
+      "sourceText": "Dieu, la vie sur terre, n'est qu'un enfer",
+      "ipa": "[djø la vi syʁ tɛʁ nɛ kœ̃ ɑ̃fɛʁ]",
+      "ear": "德耶厄 拉 维 西于赫 泰赫 奈 坎 昂费赫",
+      "meaning": "上帝啊，人间不过是地狱。",
+      "suppliedText": "Dieu, la vie sur terre, n'est qu'un enfer",
+      "sourceLineId": "romeo-timed-495-19",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5201,
+        "sourceLineNumber": 495,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5212,
+      "sourceText": "Adieu mon ami, adieu",
+      "ipa": "[adjø mɔ̃n‿ami adjø]",
+      "ear": "阿德耶厄 蒙恩 阿米 阿德耶厄",
+      "meaning": "再见，我的朋友，再见。",
+      "suppliedText": "Adieu mon ami, adieu",
+      "sourceLineId": "romeo-timed-496-20",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5212,
+        "sourceLineNumber": 496,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5215.143,
+      "sourceText": "Roméo.",
+      "ipa": "[ʁomeo]",
+      "ear": "霍梅奥",
+      "meaning": "罗密欧。",
+      "suppliedText": "Roméo.",
+      "sourceLineId": "romeo-timed-496-21",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5212,
+        "sourceLineNumber": 496,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5216.0,
+      "sourceText": "Roméo, il faut partir d’ici.",
+      "ipa": "[ʁomeo il fo paʁtiʁ disi]",
+      "ear": "霍梅奥 伊勒 佛 帕赫蒂赫 迪西",
+      "meaning": "罗密欧，得离开这里。",
+      "suppliedText": "Roméo, il faut partir d’ici.",
+      "sourceLineId": "romeo-timed-496-22",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5212,
+        "sourceLineNumber": 496,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5218.857,
+      "sourceText": "Juliette !",
+      "ipa": "[ʒyljɛt]",
+      "ear": "日于勒耶艾特",
+      "meaning": "朱丽叶！",
+      "suppliedText": "Romeo : Juliette !",
+      "sourceLineId": "romeo-timed-496-23",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5212,
+        "sourceLineNumber": 496,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5220,
+      "sourceText": "Tybalt !",
+      "ipa": "[tibalt]",
+      "ear": "蒂巴勒特",
+      "meaning": "提伯尔特！",
+      "suppliedText": "Tybalt !",
+      "sourceLineId": "romeo-timed-497-24",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5220,
+        "sourceLineNumber": 497,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

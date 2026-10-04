@@ -1,0 +1,261 @@
+{
+  "videoId": "romeo-2010-01",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=17"
+    }
+  ],
+  "entries": [
+    {
+      "start": 41,
+      "sourceText": "Toutes les histoires, commencent pareil.",
+      "ipa": "[tut lez‿istwaʁ kɔmɑ̃s paʁɛj]",
+      "ear": "图特 莱兹 伊斯特乌阿赫 科芒斯 帕赫耶",
+      "meaning": "所有故事，都有相似的开头。",
+      "suppliedText": "Toutes les histoires, commencent pareil.",
+      "sourceLineId": "romeo-timed-2-1",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 41,
+        "sourceLineNumber": 2,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 48,
+      "sourceText": "Rien de nouveau sous la lune.",
+      "ipa": "[ʁiɛ̃ də nuvo su la lyn]",
+      "ear": "希安 德 努沃 苏 拉 吕恩",
+      "meaning": "月光之下，并无新事。",
+      "suppliedText": "Rien de nouveau sous la lune.",
+      "sourceLineId": "romeo-timed-3-2",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 48,
+        "sourceLineNumber": 3,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 53.132,
+      "sourceText": "Pour qu'une étoile s'éteigne, il faut qu'une autre s'allume.",
+      "ipa": "[puʁ kyn‿etwal setɛɲ il fo kyn‿otʁ salym]",
+      "ear": "普赫 基于恩 诶特乌阿勒 塞泰涅 伊勒 佛 基于恩 奥特赫 萨吕姆",
+      "meaning": "一颗星熄灭，就得有另一颗亮起。",
+      "suppliedText": "Pour qu'une étoile s'éteigne, il faut qu'une autre s'allume.",
+      "sourceLineId": "romeo-timed-3-3",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 48,
+        "sourceLineNumber": 3,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 63,
+      "sourceText": "Bien sûr, la pluie et le hasard, la nuit et les guitares",
+      "ipa": "[bjɛ̃ syʁ la plɥi e lə azaʁ la nɥi e le ɡitaʁ]",
+      "ear": "布耶安 西于赫 拉 普勒于伊 诶 勒 阿扎赫 拉 恩于伊 诶 莱 吉塔赫",
+      "meaning": "雨水与偶然，夜色与吉他，当然都少不了。",
+      "suppliedText": "Bien sûr, la pluie et le hasard, la nuit et les guitares",
+      "sourceLineId": "romeo-timed-4-4",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 63,
+        "sourceLineNumber": 4,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 70.5,
+      "sourceText": "Les vraies pudeurs, les faux départs.",
+      "ipa": "[le vʁɛ pydœʁ le fo depaʁ]",
+      "ear": "莱 弗赫 普于德厄赫 莱 佛 德帕赫",
+      "meaning": "真心的羞涩，错误的开始。",
+      "suppliedText": "Les vraies pudeurs, les faux départs.",
+      "sourceLineId": "romeo-timed-4-5",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 63,
+        "sourceLineNumber": 4,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 75,
+      "sourceText": "On peut y croire.",
+      "ipa": "[ɔ̃ pø i kʁwaʁ]",
+      "ear": "翁 珀厄 伊 克赫乌阿赫",
+      "meaning": "我们可以相信爱情。",
+      "suppliedText": "On peut y croire.",
+      "sourceLineId": "romeo-timed-5-6",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 75,
+        "sourceLineNumber": 5,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 77.8,
+      "sourceText": "Chacun ses mots, et ses regards.",
+      "ipa": "[ʃakœ̃ se mo e se ʁəɡaʁ]",
+      "ear": "沙坎 塞 莫 诶 塞 赫嘎赫",
+      "meaning": "每个人都有自己的话语和眼神。",
+      "suppliedText": "Chacun ses mots, et ses regards.",
+      "sourceLineId": "romeo-timed-5-7",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 75,
+        "sourceLineNumber": 5,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 81,
+      "sourceText": "Toutes les histoires ont leur histoire.",
+      "ipa": "[tut lez‿istwaʁ‿ɔ̃ lœʁ‿istwaʁ]",
+      "ear": "图特 莱兹 伊斯特乌阿赫 翁 勒厄赫 伊斯特乌阿赫",
+      "meaning": "每个故事，都有自己的来历。",
+      "suppliedText": "Toutes les histoires ont leur histoire.",
+      "sourceLineId": "romeo-timed-6-8",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 81,
+        "sourceLineNumber": 6,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 86.357,
+      "sourceText": "N'écoutez pas ce qu'on vous raconte.",
+      "ipa": "[nekute pa sə kɔ̃ vu ʁakɔ̃t]",
+      "ear": "内库特 帕 瑟 孔 乌 哈孔特",
+      "meaning": "别只听别人讲的故事。",
+      "suppliedText": "N'écoutez pas ce qu'on vous raconte.",
+      "sourceLineId": "romeo-timed-6-9",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 81,
+        "sourceLineNumber": 6,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 91,
+      "sourceText": "L'amour, y a que ça qui compte.",
+      "ipa": "[lamuʁ i a kə sa ki kɔ̃t]",
+      "ear": "拉穆赫 伊 阿 克 萨 基 孔特",
+      "meaning": "爱情，唯有它才重要。",
+      "suppliedText": "L'amour, y que ça qui compte.",
+      "sourceLineId": "romeo-timed-7-10",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 91,
+        "sourceLineNumber": 7,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 94.0,
+      "sourceText": "On s'aimera toujours, on s'aimera si fort.",
+      "ipa": "[ɔ̃ sɛmʁa tuʒuʁ ɔ̃ sɛmʁa si fɔʁ]",
+      "ear": "翁 塞姆哈 图茹赫 翁 塞姆哈 西 佛赫",
+      "meaning": "我们会永远相爱，爱得那么深。",
+      "suppliedText": "On s'aimera toujours, on s'aimera si fort.",
+      "sourceLineId": "romeo-timed-7-11",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 91,
+        "sourceLineNumber": 7,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 98,
+      "sourceText": "Et puis, doucement, sans le vouloir, on passe du cœur, à la mémoire.",
+      "ipa": "[e pɥi dusmɑ̃ sɑ̃ lə vulwaʁ ɔ̃ pas dy kœʁ a la memwaʁ]",
+      "ear": "诶 普于伊 杜斯芒 桑 勒 乌勒乌阿赫 翁 帕斯 迪于 克厄赫 阿 拉 梅姆乌阿赫",
+      "meaning": "后来，不知不觉，爱从心里走进了回忆。",
+      "suppliedText": "Et puis, doucement, sans le vouloir, on passe du cœur, à la mémoire.",
+      "sourceLineId": "romeo-timed-8-12",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 98,
+        "sourceLineNumber": 8,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 132,
+      "sourceText": "Toutes les histoires, commencent pareil.",
+      "ipa": "[tut lez‿istwaʁ kɔmɑ̃s paʁɛj]",
+      "ear": "图特 莱兹 伊斯特乌阿赫 科芒斯 帕赫耶",
+      "meaning": "所有故事，都有相似的开头。",
+      "suppliedText": "Toutes les histoires, commencent pareil.",
+      "sourceLineId": "romeo-timed-9-13",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 132,
+        "sourceLineNumber": 9,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 134.593,
+      "sourceText": "Rien de nouveau sous la lune.",
+      "ipa": "[ʁiɛ̃ də nuvo su la lyn]",
+      "ear": "希安 德 努沃 苏 拉 吕恩",
+      "meaning": "月光之下，并无新事。",
+      "suppliedText": "Rien de nouveau sous la lune.",
+      "sourceLineId": "romeo-timed-9-14",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 132,
+        "sourceLineNumber": 9,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 137,
+      "sourceText": "Voici celle, de Roméo, et Juliette.",
+      "ipa": "[vwasi sɛl də ʁomeo e ʒyljɛt]",
+      "ear": "弗乌阿西 塞勒 德 霍梅奥 诶 日于勒耶艾特",
+      "meaning": "现在，讲讲罗密欧与朱丽叶的故事。",
+      "suppliedText": "Voici celle, de Roméo, et Juliette.",
+      "sourceLineId": "romeo-timed-10-15",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 137,
+        "sourceLineNumber": 10,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

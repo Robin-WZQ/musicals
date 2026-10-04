@@ -1,0 +1,885 @@
+{
+  "videoId": "romeo-2010-27",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=5498"
+    }
+  ],
+  "entries": [
+    {
+      "start": 5503,
+      "sourceText": "Le Prince en te chassant,",
+      "ipa": "[lə pʁɛ̃s‿ɑ̃ tə ʃasɑ̃]",
+      "ear": "勒 普汉斯 昂 特 沙桑",
+      "meaning": "亲王将你驱逐。",
+      "suppliedText": "Le Prince en te chassant,",
+      "sourceLineId": "romeo-timed-528-1",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5503,
+        "sourceLineNumber": 528,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5506.267,
+      "sourceText": "T'a sauvé, le sais-tu,",
+      "ipa": "[ta sove lə sɛty]",
+      "ear": "塔 索韦 勒 塞蒂于",
+      "meaning": "是救了你，你知道吗？",
+      "suppliedText": "T'a sauvé, le sais-tu,",
+      "sourceLineId": "romeo-timed-528-2",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5503,
+        "sourceLineNumber": 528,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5510,
+      "sourceText": "On réclamait ton sang,",
+      "ipa": "[ɔ̃ ʁeklamɛ tɔ̃ sɑ̃]",
+      "ear": "翁 赫克拉梅 通 桑",
+      "meaning": "他们要求你偿命。",
+      "suppliedText": "On réclamait ton sang,",
+      "sourceLineId": "romeo-timed-529-3",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5510,
+        "sourceLineNumber": 529,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5513.5,
+      "sourceText": "Le sang d'un Montaigu,",
+      "ipa": "[lə sɑ̃ dœ̃ mɔ̃tɛɡy]",
+      "ear": "勒 桑 丹 蒙泰吉于",
+      "meaning": "要蒙太古的血。",
+      "suppliedText": "Le sang d'un Montaigu,",
+      "sourceLineId": "romeo-timed-529-4",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5510,
+        "sourceLineNumber": 529,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5517,
+      "sourceText": "Et toi pauvre petit perdu,",
+      "ipa": "[e twa povʁ pəti pɛʁdy]",
+      "ear": "诶 特乌阿 波弗赫 珀蒂 佩赫迪于",
+      "meaning": "可你，可怜又迷失的孩子。",
+      "suppliedText": "Et toi pauvre petit perdu,",
+      "sourceLineId": "romeo-timed-530-5",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5517,
+        "sourceLineNumber": 530,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5521.118,
+      "sourceText": "Toi tu ne comprends plus",
+      "ipa": "[twa ty nə kɔ̃pʁɑ̃ ply]",
+      "ear": "特乌阿 蒂于 讷 孔普杭 普吕",
+      "meaning": "你已经不明白了。",
+      "suppliedText": "Toi tu ne comprends plus",
+      "sourceLineId": "romeo-timed-530-6",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5517,
+        "sourceLineNumber": 530,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5524,
+      "sourceText": "Oh Dieu, que les hommes, sont durs",
+      "ipa": "[ɔ djø kə lez‿ɔm sɔ̃ dyʁ]",
+      "ear": "哦 德耶厄 克 莱兹 哦姆 松 迪于赫",
+      "meaning": "哦，上帝，人们多么残酷。",
+      "suppliedText": "Oh Dieu, que les hommes, sont durs",
+      "sourceLineId": "romeo-timed-531-7",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5524,
+        "sourceLineNumber": 531,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5530.05,
+      "sourceText": "Que les hommes, sont sûrs d'eux",
+      "ipa": "[kə lez‿ɔm sɔ̃ syʁ dø]",
+      "ear": "克 莱兹 哦姆 松 西于赫 德厄",
+      "meaning": "又多么自以为是。",
+      "suppliedText": "Que les hommes, sont sûrs d'eux",
+      "sourceLineId": "romeo-timed-531-8",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5524,
+        "sourceLineNumber": 531,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5535,
+      "sourceText": "Oh !",
+      "ipa": "[ɔ]",
+      "ear": "哦",
+      "meaning": "哦！",
+      "suppliedText": "Oh !",
+      "sourceLineId": "romeo-timed-532-9",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5535,
+        "sourceLineNumber": 532,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5535.469,
+      "sourceText": "Dieu, que les hommes, sont durs",
+      "ipa": "[djø kə lez‿ɔm sɔ̃ dyʁ]",
+      "ear": "德耶厄 克 莱兹 哦姆 松 迪于赫",
+      "meaning": "上帝，人们多么残酷。",
+      "suppliedText": "Dieu, que les hommes, sont durs",
+      "sourceLineId": "romeo-timed-532-10",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5535,
+        "sourceLineNumber": 532,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5540.156,
+      "sourceText": "Que faut-il donc qu'on fasse",
+      "ipa": "[kə fotil dɔ̃k kɔ̃ fas]",
+      "ear": "克 佛蒂勒 东克 孔 法斯",
+      "meaning": "我们究竟要做什么？",
+      "suppliedText": "Que faut-il donc qu'on fasse",
+      "sourceLineId": "romeo-timed-532-11",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5535,
+        "sourceLineNumber": 532,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5544.844,
+      "sourceText": "Pour que tu accordes ta grâce ?",
+      "ipa": "[puʁ kə ty akɔʁd ta ɡʁas]",
+      "ear": "普赫 克 蒂于 阿科赫德 塔 格哈斯",
+      "meaning": "你才肯赐下恩典？",
+      "suppliedText": "Pour que tu accordes ta grâce ?",
+      "sourceLineId": "romeo-timed-532-12",
+      "speaker": "Frère Laurent",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5535,
+        "sourceLineNumber": 532,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5550,
+      "sourceText": "Dieu toi qui nous a mis sur la terre",
+      "ipa": "[djø twa ki nuz‿a mi syʁ la tɛʁ]",
+      "ear": "德耶厄 特乌阿 基 努兹 阿 米 西于赫 拉 泰赫",
+      "meaning": "上帝，是你把我们放在世上。",
+      "suppliedText": "Dieu toi qui nous a mis sur la terre",
+      "sourceLineId": "romeo-timed-533-13",
+      "speaker": "Frère Laurent et la Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5550,
+        "sourceLineNumber": 533,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5554.5,
+      "sourceText": "Pourquoi nous forcer à nous taire",
+      "ipa": "[puʁkwa nu fɔʁse a nu tɛʁ]",
+      "ear": "普赫克乌阿 努 佛赫塞 阿 努 泰赫",
+      "meaning": "为什么又逼我们沉默？",
+      "suppliedText": "Pourquoi nous forcer à nous taire",
+      "sourceLineId": "romeo-timed-533-14",
+      "speaker": "Frère Laurent et la Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5550,
+        "sourceLineNumber": 533,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5559,
+      "sourceText": "Et regarder, mourir les hommes",
+      "ipa": "[e ʁəɡaʁde muʁiʁ lez‿ɔm]",
+      "ear": "诶 赫嘎赫德 穆希赫 莱兹 哦姆",
+      "meaning": "眼看着人们死去。",
+      "suppliedText": "Et regarder, mourir les hommes",
+      "sourceLineId": "romeo-timed-534-15",
+      "speaker": "Frère Laurent et la Nourrice",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5559,
+        "sourceLineNumber": 534,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5565,
+      "sourceText": "Les choses ne sont jamais,",
+      "ipa": "[le ʃoz nə sɔ̃ ʒamɛ]",
+      "ear": "莱 肖兹 讷 松 扎梅",
+      "meaning": "事情从来不会。",
+      "suppliedText": "Les choses ne sont jamais,",
+      "sourceLineId": "romeo-timed-535-16",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5565,
+        "sourceLineNumber": 535,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5567.909,
+      "sourceText": "Ce que l'on voudrait qu'elles soient",
+      "ipa": "[sə kə lɔ̃ vudʁɛ kɛl swa]",
+      "ear": "瑟 克 隆 乌德赫 凯勒 斯乌阿",
+      "meaning": "如我们希望的那样。",
+      "suppliedText": "Ce que l'on voudrait qu'elles soient",
+      "sourceLineId": "romeo-timed-535-17",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5565,
+        "sourceLineNumber": 535,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5573,
+      "sourceText": "Juliette maintenant tu sais,",
+      "ipa": "[ʒyljɛt mɛ̃tnɑ̃ ty sɛ]",
+      "ear": "日于勒耶艾特 曼特南 蒂于 塞",
+      "meaning": "朱丽叶，如今你知道了。",
+      "suppliedText": "Juliette maintenant tu sais,",
+      "sourceLineId": "romeo-timed-536-18",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5573,
+        "sourceLineNumber": 536,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5576.3,
+      "sourceText": "Ce que je savais déjà",
+      "ipa": "[sə kə ʒə savɛ deʒa]",
+      "ear": "瑟 克 热 萨韦 德扎",
+      "meaning": "我早已知道的事。",
+      "suppliedText": "Ce que je savais déjà",
+      "sourceLineId": "romeo-timed-536-19",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5573,
+        "sourceLineNumber": 536,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5579,
+      "sourceText": "Et tu pleures, tu pleures, ma fille, ma sœur,",
+      "ipa": "[e ty plœʁ ty plœʁ ma fij ma sœʁ]",
+      "ear": "诶 蒂于 普勒厄赫 蒂于 普勒厄赫 玛 菲耶 玛 瑟厄赫",
+      "meaning": "你哭着，哭着，我的女儿，我的姐妹。",
+      "suppliedText": "Et tu pleures, tu pleures, ma fille, ma sœur,",
+      "sourceLineId": "romeo-timed-537-20",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5579,
+        "sourceLineNumber": 537,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5584.217,
+      "sourceText": "Je porte ta douleur",
+      "ipa": "[ʒə pɔʁt ta dulœʁ]",
+      "ear": "热 珀赫特 塔 杜勒厄赫",
+      "meaning": "你的痛，我替你担着。",
+      "suppliedText": "Je porte ta douleur",
+      "sourceLineId": "romeo-timed-537-21",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5579,
+        "sourceLineNumber": 537,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5587,
+      "sourceText": "Dieu, que les hommes, sont durs,",
+      "ipa": "[djø kə lez‿ɔm sɔ̃ dyʁ]",
+      "ear": "德耶厄 克 莱兹 哦姆 松 迪于赫",
+      "meaning": "上帝，人们多么残酷。",
+      "suppliedText": "Dieu, que les hommes, sont durs,",
+      "sourceLineId": "romeo-timed-538-22",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5587,
+        "sourceLineNumber": 538,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5592.263,
+      "sourceText": "Que les hommes, sont sûrs d'eux",
+      "ipa": "[kə lez‿ɔm sɔ̃ syʁ dø]",
+      "ear": "克 莱兹 哦姆 松 西于赫 德厄",
+      "meaning": "又多么自以为是。",
+      "suppliedText": "Que les hommes, sont sûrs d'eux",
+      "sourceLineId": "romeo-timed-538-23",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5587,
+        "sourceLineNumber": 538,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5597,
+      "sourceText": "Oh!",
+      "ipa": "[ɔ]",
+      "ear": "哦",
+      "meaning": "哦！",
+      "suppliedText": "Oh!",
+      "sourceLineId": "romeo-timed-539-24",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5597,
+        "sourceLineNumber": 539,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5597.524,
+      "sourceText": "Dieu, que les hommes sont durs",
+      "ipa": "[djø kə lez‿ɔm sɔ̃ dyʁ]",
+      "ear": "德耶厄 克 莱兹 哦姆 松 迪于赫",
+      "meaning": "上帝，人们多么残酷。",
+      "suppliedText": "Dieu, que les hommes sont durs",
+      "sourceLineId": "romeo-timed-539-25",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5597,
+        "sourceLineNumber": 539,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5602.762,
+      "sourceText": "Que faut-il donc qu'on fasses,",
+      "ipa": "[kə fotil dɔ̃k kɔ̃ fas]",
+      "ear": "克 佛蒂勒 东克 孔 法斯",
+      "meaning": "我们究竟要做什么？",
+      "suppliedText": "Que faut-il donc qu'on fasses,",
+      "sourceLineId": "romeo-timed-539-26",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5597,
+        "sourceLineNumber": 539,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5608,
+      "sourceText": "Pour que tu nous accordes ta grâce, Dieu toi qui nous a mis sur la terre",
+      "ipa": "[puʁ kə ty nuz‿akɔʁd ta ɡʁas djø twa ki nuz‿a mi syʁ la tɛʁ]",
+      "ear": "普赫 克 蒂于 努兹 阿科赫德 塔 格哈斯 德耶厄 特乌阿 基 努兹 阿 米 西于赫 拉 泰赫",
+      "meaning": "你才肯赐恩？上帝，是你把我们放在世上。",
+      "suppliedText": "Pour que tu nous accordes ta grâce, Dieu toi qui nous a mis sur la terre",
+      "sourceLineId": "romeo-timed-540-27",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5608,
+        "sourceLineNumber": 540,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5618,
+      "sourceText": "Pourquoi nous forcer à nous taire,",
+      "ipa": "[puʁkwa nu fɔʁse a nu tɛʁ]",
+      "ear": "普赫克乌阿 努 佛赫塞 阿 努 泰赫",
+      "meaning": "为什么又逼我们沉默？",
+      "suppliedText": "Pourquoi nous forcer à nous taire,",
+      "sourceLineId": "romeo-timed-541-28",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5618,
+        "sourceLineNumber": 541,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5624.0,
+      "sourceText": "Et regarder mourir les hommes",
+      "ipa": "[e ʁəɡaʁde muʁiʁ lez‿ɔm]",
+      "ear": "诶 赫嘎赫德 穆希赫 莱兹 哦姆",
+      "meaning": "眼看着人们死去。",
+      "suppliedText": "Et regarder mourir les hommes",
+      "sourceLineId": "romeo-timed-541-29",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5618,
+        "sourceLineNumber": 541,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5628,
+      "sourceText": "Dieu, que les hommes, sont durs",
+      "ipa": "[djø kə lez‿ɔm sɔ̃ dyʁ]",
+      "ear": "德耶厄 克 莱兹 哦姆 松 迪于赫",
+      "meaning": "上帝，人们多么残酷。",
+      "suppliedText": "Dieu, que les hommes, sont durs",
+      "sourceLineId": "romeo-timed-542-30",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5628,
+        "sourceLineNumber": 542,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5633.263,
+      "sourceText": "Que les hommes, sont sûrs d'eux",
+      "ipa": "[kə lez‿ɔm sɔ̃ syʁ dø]",
+      "ear": "克 莱兹 哦姆 松 西于赫 德厄",
+      "meaning": "又多么自以为是。",
+      "suppliedText": "Que les hommes, sont sûrs d'eux",
+      "sourceLineId": "romeo-timed-542-31",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5628,
+        "sourceLineNumber": 542,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5638,
+      "sourceText": "Oh !",
+      "ipa": "[ɔ]",
+      "ear": "哦",
+      "meaning": "哦！",
+      "suppliedText": "Oh !",
+      "sourceLineId": "romeo-timed-543-32",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5638,
+        "sourceLineNumber": 543,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5638.524,
+      "sourceText": "Dieu, que les hommes, sont durs",
+      "ipa": "[djø kə lez‿ɔm sɔ̃ dyʁ]",
+      "ear": "德耶厄 克 莱兹 哦姆 松 迪于赫",
+      "meaning": "上帝，人们多么残酷。",
+      "suppliedText": "Dieu, que les hommes, sont durs",
+      "sourceLineId": "romeo-timed-543-33",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5638,
+        "sourceLineNumber": 543,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5643.762,
+      "sourceText": "Que faut-il donc qu'on fasse",
+      "ipa": "[kə fotil dɔ̃k kɔ̃ fas]",
+      "ear": "克 佛蒂勒 东克 孔 法斯",
+      "meaning": "我们究竟要做什么？",
+      "suppliedText": "Que faut-il donc qu'on fasse",
+      "sourceLineId": "romeo-timed-543-34",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5638,
+        "sourceLineNumber": 543,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5649,
+      "sourceText": "Pour que tu accordes ta grâce Dieu toi qui nous a mis sur la terre",
+      "ipa": "[puʁ kə ty akɔʁd ta ɡʁas djø twa ki nuz‿a mi syʁ la tɛʁ]",
+      "ear": "普赫 克 蒂于 阿科赫德 塔 格哈斯 德耶厄 特乌阿 基 努兹 阿 米 西于赫 拉 泰赫",
+      "meaning": "你才肯赐恩？上帝，是你把我们放在世上。",
+      "suppliedText": "Pour que tu accordes ta grâce Dieu toi qui nous a mis sur la terre",
+      "sourceLineId": "romeo-timed-544-35",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5649,
+        "sourceLineNumber": 544,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5658,
+      "sourceText": "Pourquoi nous forcer à nous taire",
+      "ipa": "[puʁkwa nu fɔʁse a nu tɛʁ]",
+      "ear": "普赫克乌阿 努 佛赫塞 阿 努 泰赫",
+      "meaning": "为什么又逼我们沉默？",
+      "suppliedText": "Pourquoi nous forcer à nous taire",
+      "sourceLineId": "romeo-timed-545-36",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5658,
+        "sourceLineNumber": 545,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5664.0,
+      "sourceText": "Et regarder, mourir les hommes",
+      "ipa": "[e ʁəɡaʁde muʁiʁ lez‿ɔm]",
+      "ear": "诶 赫嘎赫德 穆希赫 莱兹 哦姆",
+      "meaning": "眼看着人们死去。",
+      "suppliedText": "Et regarder, mourir les hommes",
+      "sourceLineId": "romeo-timed-545-37",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5658,
+        "sourceLineNumber": 545,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5668,
+      "sourceText": "Dieu, que les hommes, sont durs",
+      "ipa": "[djø kə lez‿ɔm sɔ̃ dyʁ]",
+      "ear": "德耶厄 克 莱兹 哦姆 松 迪于赫",
+      "meaning": "上帝，人们多么残酷。",
+      "suppliedText": "Dieu, que les hommes, sont durs",
+      "sourceLineId": "romeo-timed-546-38",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5668,
+        "sourceLineNumber": 546,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5673.263,
+      "sourceText": "Que les hommes, sont sûrs d'eux",
+      "ipa": "[kə lez‿ɔm sɔ̃ syʁ dø]",
+      "ear": "克 莱兹 哦姆 松 西于赫 德厄",
+      "meaning": "又多么自以为是。",
+      "suppliedText": "Que les hommes, sont sûrs d'eux",
+      "sourceLineId": "romeo-timed-546-39",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5668,
+        "sourceLineNumber": 546,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5678,
+      "sourceText": "Oh !",
+      "ipa": "[ɔ]",
+      "ear": "哦",
+      "meaning": "哦！",
+      "suppliedText": "Oh !",
+      "sourceLineId": "romeo-timed-547-40",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5678,
+        "sourceLineNumber": 547,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5678.524,
+      "sourceText": "Dieu, que les hommes, sont durs",
+      "ipa": "[djø kə lez‿ɔm sɔ̃ dyʁ]",
+      "ear": "德耶厄 克 莱兹 哦姆 松 迪于赫",
+      "meaning": "上帝，人们多么残酷。",
+      "suppliedText": "Dieu, que les hommes, sont durs",
+      "sourceLineId": "romeo-timed-547-41",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5678,
+        "sourceLineNumber": 547,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5683.762,
+      "sourceText": "Que faut-il donc qu'on fasse",
+      "ipa": "[kə fotil dɔ̃k kɔ̃ fas]",
+      "ear": "克 佛蒂勒 东克 孔 法斯",
+      "meaning": "我们究竟要做什么？",
+      "suppliedText": "Que faut-il donc qu'on fasse",
+      "sourceLineId": "romeo-timed-547-42",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5678,
+        "sourceLineNumber": 547,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5689,
+      "sourceText": "Pour que tu accordes ta grâce Dieu toi qui nous a mis sur la terre",
+      "ipa": "[puʁ kə ty akɔʁd ta ɡʁas djø twa ki nuz‿a mi syʁ la tɛʁ]",
+      "ear": "普赫 克 蒂于 阿科赫德 塔 格哈斯 德耶厄 特乌阿 基 努兹 阿 米 西于赫 拉 泰赫",
+      "meaning": "你才肯赐恩？上帝，是你把我们放在世上。",
+      "suppliedText": "Pour que tu accordes ta grâce Dieu toi qui nous a mis sur la terre",
+      "sourceLineId": "romeo-timed-548-43",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5689,
+        "sourceLineNumber": 548,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5698,
+      "sourceText": "Pourquoi nous forcer à nous taire",
+      "ipa": "[puʁkwa nu fɔʁse a nu tɛʁ]",
+      "ear": "普赫克乌阿 努 佛赫塞 阿 努 泰赫",
+      "meaning": "为什么又逼我们沉默？",
+      "suppliedText": "Pourquoi nous forcer à nous taire",
+      "sourceLineId": "romeo-timed-549-44",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5698,
+        "sourceLineNumber": 549,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5704.0,
+      "sourceText": "Et regarder, mourir les hommes",
+      "ipa": "[e ʁəɡaʁde muʁiʁ lez‿ɔm]",
+      "ear": "诶 赫嘎赫德 穆希赫 莱兹 哦姆",
+      "meaning": "眼看着人们死去。",
+      "suppliedText": "Et regarder, mourir les hommes",
+      "sourceLineId": "romeo-timed-549-45",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5698,
+        "sourceLineNumber": 549,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5708,
+      "sourceText": "Dieu, que les hommes, sont durs",
+      "ipa": "[djø kə lez‿ɔm sɔ̃ dyʁ]",
+      "ear": "德耶厄 克 莱兹 哦姆 松 迪于赫",
+      "meaning": "上帝，人们多么残酷。",
+      "suppliedText": "Dieu, que les hommes, sont durs",
+      "sourceLineId": "romeo-timed-550-46",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5708,
+        "sourceLineNumber": 550,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5713.263,
+      "sourceText": "Que les hommes, sont sûrs d'eux",
+      "ipa": "[kə lez‿ɔm sɔ̃ syʁ dø]",
+      "ear": "克 莱兹 哦姆 松 西于赫 德厄",
+      "meaning": "又多么自以为是。",
+      "suppliedText": "Que les hommes, sont sûrs d'eux",
+      "sourceLineId": "romeo-timed-550-47",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5708,
+        "sourceLineNumber": 550,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5718,
+      "sourceText": "Oh !",
+      "ipa": "[ɔ]",
+      "ear": "哦",
+      "meaning": "哦！",
+      "suppliedText": "Oh !",
+      "sourceLineId": "romeo-timed-551-48",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5718,
+        "sourceLineNumber": 551,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5718.571,
+      "sourceText": "Dieu, que les hommes, sont durs",
+      "ipa": "[djø kə lez‿ɔm sɔ̃ dyʁ]",
+      "ear": "德耶厄 克 莱兹 哦姆 松 迪于赫",
+      "meaning": "上帝，人们多么残酷。",
+      "suppliedText": "Dieu, que les hommes, sont durs",
+      "sourceLineId": "romeo-timed-551-49",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5718,
+        "sourceLineNumber": 551,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5724.286,
+      "sourceText": "Que faut-il donc qu'on fasse",
+      "ipa": "[kə fotil dɔ̃k kɔ̃ fas]",
+      "ear": "克 佛蒂勒 东克 孔 法斯",
+      "meaning": "我们究竟要做什么？",
+      "suppliedText": "Que faut-il donc qu'on fasse",
+      "sourceLineId": "romeo-timed-551-50",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5718,
+        "sourceLineNumber": 551,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5730,
+      "sourceText": "Pour que tu accordes ta grâce Dieu toi qui nous a mis sur la terre",
+      "ipa": "[puʁ kə ty akɔʁd ta ɡʁas djø twa ki nuz‿a mi syʁ la tɛʁ]",
+      "ear": "普赫 克 蒂于 阿科赫德 塔 格哈斯 德耶厄 特乌阿 基 努兹 阿 米 西于赫 拉 泰赫",
+      "meaning": "你才肯赐恩？上帝，是你把我们放在世上。",
+      "suppliedText": "Pour que tu accordes ta grâce Dieu toi qui nous a mis sur la terre",
+      "sourceLineId": "romeo-timed-552-51",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5730,
+        "sourceLineNumber": 552,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5739,
+      "sourceText": "Pourquoi nous forcer à nous taire",
+      "ipa": "[puʁkwa nu fɔʁse a nu tɛʁ]",
+      "ear": "普赫克乌阿 努 佛赫塞 阿 努 泰赫",
+      "meaning": "为什么又逼我们沉默？",
+      "suppliedText": "Pourquoi nous forcer à nous taire",
+      "sourceLineId": "romeo-timed-553-52",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5739,
+        "sourceLineNumber": 553,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5746.2,
+      "sourceText": "Et regarder, mourir les hommes",
+      "ipa": "[e ʁəɡaʁde muʁiʁ lez‿ɔm]",
+      "ear": "诶 赫嘎赫德 穆希赫 莱兹 哦姆",
+      "meaning": "眼看着人们死去。",
+      "suppliedText": "Et regarder, mourir les hommes",
+      "sourceLineId": "romeo-timed-553-53",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5739,
+        "sourceLineNumber": 553,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5751,
+      "sourceText": "Dieu ...",
+      "ipa": "[djø]",
+      "ear": "德耶厄",
+      "meaning": "上帝……",
+      "suppliedText": "Dieu ...",
+      "sourceLineId": "romeo-timed-554-54",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5751,
+        "sourceLineNumber": 554,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

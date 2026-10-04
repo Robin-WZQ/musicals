@@ -9,13 +9,364 @@
   "trackNumber": 26,
   "act": 2,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr-FR",
-  "captionDelivery": "youtube-player",
-  "captionSource": "youtube-player",
+  "captionDelivery": "study-page",
+  "captionSource": "editorial",
   "nativeCaptionAvailable": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Toi, mon mari, ou étais tu quand Juliette grandissait ?",
+      "start": 5225,
+      "duration": 6.0
+    },
+    {
+      "text": "Où étais-tu quand je vieillissais ?",
+      "start": 5231,
+      "duration": 3.649
+    },
+    {
+      "text": "Où étais-tu quand il est mort ?",
+      "start": 5234.649,
+      "duration": 2.675
+    },
+    {
+      "text": "Es-tu un homme ou une ombre ?",
+      "start": 5237.324,
+      "duration": 2.676
+    },
+    {
+      "text": "Réclameras-tu vengeance pour lui ou dois-je le faire à ta place ?",
+      "start": 5240,
+      "duration": 4.062
+    },
+    {
+      "text": "Réponds !",
+      "start": 5244.062,
+      "duration": 0.313
+    },
+    {
+      "text": "Tais-toi !",
+      "start": 5244.375,
+      "duration": 0.625
+    },
+    {
+      "text": "Quel est le prix",
+      "start": 5245,
+      "duration": 2.222
+    },
+    {
+      "text": "Qu'on va nous payer pour sa vie",
+      "start": 5247.222,
+      "duration": 5.778
+    },
+    {
+      "text": "Quel est le sort",
+      "start": 5253,
+      "duration": 2.778
+    },
+    {
+      "text": "Qu'on donne à ceux qui donnent la mort",
+      "start": 5255.778,
+      "duration": 7.222
+    },
+    {
+      "text": "Mon fils a tué",
+      "start": 5263,
+      "duration": 1.765
+    },
+    {
+      "text": "Mais vous tous ici vous savez",
+      "start": 5264.765,
+      "duration": 4.235
+    },
+    {
+      "text": "Que Tybalt avant",
+      "start": 5269,
+      "duration": 2.667
+    },
+    {
+      "text": "Avait déjà fait couler le sang",
+      "start": 5271.667,
+      "duration": 5.333
+    },
+    {
+      "text": "L'affaire est faite",
+      "start": 5277,
+      "duration": 2.783
+    },
+    {
+      "text": "Mais maintenant pour que tout s'arrête",
+      "start": 5279.783,
+      "duration": 5.217
+    },
+    {
+      "text": "Je dois vous croire",
+      "start": 5285,
+      "duration": 6.857
+    },
+    {
+      "text": "Je dois savoir",
+      "start": 5291.857,
+      "duration": 5.143
+    },
+    {
+      "text": "Je n'ai pas, je vous le jure",
+      "start": 5297,
+      "duration": 4.737
+    },
+    {
+      "text": "Voulu ce qui s'est passé",
+      "start": 5301.737,
+      "duration": 4.263
+    },
+    {
+      "text": "La vengeance n'est pas ma nature",
+      "start": 5306,
+      "duration": 3.208
+    },
+    {
+      "text": "Mais pourtant oui, je l'ai vengé",
+      "start": 5309.208,
+      "duration": 3.792
+    },
+    {
+      "text": "Faut-il donc, ne rien faire",
+      "start": 5313,
+      "duration": 5.714
+    },
+    {
+      "text": "Quand on voit mourir, un frère",
+      "start": 5318.714,
+      "duration": 6.286
+    },
+    {
+      "text": "Vous, qui vous détestez tant",
+      "start": 5325,
+      "duration": 3.81
+    },
+    {
+      "text": "Comment pouvez-vous, nous juger",
+      "start": 5328.81,
+      "duration": 4.19
+    },
+    {
+      "text": "Nous sommes tous les trois, vos enfants",
+      "start": 5333,
+      "duration": 3.84
+    },
+    {
+      "text": "C'est vous les seuls, qui les avez tués",
+      "start": 5336.84,
+      "duration": 4.16
+    },
+    {
+      "text": "Nous ne sommes, que des mimes",
+      "start": 5341,
+      "duration": 6.957
+    },
+    {
+      "text": "À imiter, vos crimes",
+      "start": 5347.957,
+      "duration": 4.869
+    },
+    {
+      "text": "Menteur !",
+      "start": 5352.826,
+      "duration": 2.087
+    },
+    {
+      "text": "Menteur !",
+      "start": 5354.913,
+      "duration": 2.087
+    },
+    {
+      "text": "Quel est le prix",
+      "start": 5357,
+      "duration": 2.222
+    },
+    {
+      "text": "Qu'on va nous payer pour sa vie",
+      "start": 5359.222,
+      "duration": 5.778
+    },
+    {
+      "text": "Quel est le sort",
+      "start": 5365,
+      "duration": 2.222
+    },
+    {
+      "text": "Qu'on donne à ceux qui donnent la mort",
+      "start": 5367.222,
+      "duration": 5.778
+    },
+    {
+      "text": "Quel est le prix",
+      "start": 5373,
+      "duration": 2.222
+    },
+    {
+      "text": "Qu'on va nous payer pour sa vie",
+      "start": 5375.222,
+      "duration": 5.778
+    },
+    {
+      "text": "Quel est le sort",
+      "start": 5381,
+      "duration": 1.944
+    },
+    {
+      "text": "Qu'on donne à ceux qui donnent la mort",
+      "start": 5382.944,
+      "duration": 5.056
+    },
+    {
+      "text": "L'affaire est faite",
+      "start": 5388,
+      "duration": 2.783
+    },
+    {
+      "text": "Mais maintenant pour que tout s'arrête",
+      "start": 5390.783,
+      "duration": 5.217
+    },
+    {
+      "text": "Je dois vous croire",
+      "start": 5396,
+      "duration": 4.0
+    },
+    {
+      "text": "Je dois savoir",
+      "start": 5400.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh, quel est le prix",
+      "start": 5403,
+      "duration": 9.0
+    },
+    {
+      "text": "Gens de Vérone !",
+      "start": 5412,
+      "duration": 3.667
+    },
+    {
+      "text": "Suis-je le Roi des stupides ?",
+      "start": 5415.667,
+      "duration": 7.333
+    },
+    {
+      "text": "Le Prince de la bêtise pour régner sur des fous ?",
+      "start": 5423,
+      "duration": 11.0
+    },
+    {
+      "text": "Roméo…",
+      "start": 5434,
+      "duration": 1.2
+    },
+    {
+      "text": "Je pourrais ordonner ta mort !",
+      "start": 5435.2,
+      "duration": 4.0
+    },
+    {
+      "text": "Non !",
+      "start": 5439.2,
+      "duration": 0.4
+    },
+    {
+      "text": "Assez !",
+      "start": 5439.6,
+      "duration": 0.8
+    },
+    {
+      "text": "Je n’exige que ton départ !",
+      "start": 5440.4,
+      "duration": 3.6
+    },
+    {
+      "text": "Sois banni de cette ville à jamais et pars à l’instant pour",
+      "start": 5444,
+      "duration": 20.0
+    },
+    {
+      "text": "Mantoue !",
+      "start": 5464.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Non !",
+      "start": 5468.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Adieu !",
+      "start": 5469.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Roméo !",
+      "start": 5473,
+      "duration": 1.0
+    },
+    {
+      "text": "Mère !",
+      "start": 5474.0,
+      "duration": 0.667
+    },
+    {
+      "text": "Je suis banni.",
+      "start": 5474.667,
+      "duration": 1.666
+    },
+    {
+      "text": "Je perds Juliette.",
+      "start": 5476.333,
+      "duration": 2.0
+    },
+    {
+      "text": "Et moi je perds un fils.",
+      "start": 5478.333,
+      "duration": 2.334
+    },
+    {
+      "text": "Je l’aime !",
+      "start": 5480.667,
+      "duration": 1.333
+    },
+    {
+      "text": "Je t’aime autant qu’elle.",
+      "start": 5482,
+      "duration": 2.222
+    },
+    {
+      "text": "Nous souffrons tous les deux.",
+      "start": 5484.222,
+      "duration": 2.222
+    },
+    {
+      "text": "Comment vais-je faire pour vivre sans elle ?",
+      "start": 5486.444,
+      "duration": 3.334
+    },
+    {
+      "text": "Vivre sans toi me sera fatal.",
+      "start": 5489.778,
+      "duration": 2.222
+    },
+    {
+      "text": "Adieu mère.",
+      "start": 5492,
+      "duration": 3.0
+    },
+    {
+      "text": "Adieu mon fils.",
+      "start": 5495.0,
+      "duration": 3.0
+    }
+  ],
   "playbackVideoId": "kgGN5675TAY",
   "sourceDuration": 8831,
   "sourceURL": "https://www.youtube.com/watch?v=kgGN5675TAY&t=5225",
@@ -147,12 +498,15 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "approximate",
   "playableInEmbed": true,
   "performanceYear": 2010,
   "albumReleaseYear": 2009,
   "mediaKind": "stage-video",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "isGenerated": false,
+  "studyVersion": 4
 }

@@ -1,0 +1,373 @@
+{
+  "videoId": "romeo-2010-32",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=6695"
+    }
+  ],
+  "entries": [
+    {
+      "start": 6712,
+      "sourceText": "Où vont les",
+      "ipa": "[u vɔ̃ le]",
+      "ear": "乌 翁 莱",
+      "meaning": "它们去了哪里？",
+      "suppliedText": "Où vont les",
+      "sourceLineId": "romeo-timed-639-1",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6712,
+        "sourceLineNumber": 639,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6714.154,
+      "sourceText": "Où vont les rêves des amants",
+      "ipa": "[u vɔ̃ le ʁɛv dez‿amɑ̃]",
+      "ear": "乌 翁 莱 赫弗 德兹 阿芒",
+      "meaning": "恋人们的梦去了哪里？",
+      "suppliedText": "Où vont les rêves des amants",
+      "sourceLineId": "romeo-timed-639-2",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6712,
+        "sourceLineNumber": 639,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6719,
+      "sourceText": "Leurs mots, leur fièvre",
+      "ipa": "[lœʁ mo lœʁ fjɛvʁ]",
+      "ear": "勒厄赫 莫 勒厄赫 弗耶艾弗赫",
+      "meaning": "他们的话语，他们的炽热。",
+      "suppliedText": "Leurs mots, leur fièvre",
+      "sourceLineId": "romeo-timed-640-3",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6719,
+        "sourceLineNumber": 640,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6723.8,
+      "sourceText": "Je reviens, je t'attends",
+      "ipa": "[ʒə ʁəvjɛ̃ ʒə tatɑ̃]",
+      "ear": "热 赫弗耶安 热 塔唐",
+      "meaning": "“我会回来”“我等你”。",
+      "suppliedText": "Je reviens, je t'attends",
+      "sourceLineId": "romeo-timed-640-4",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6719,
+        "sourceLineNumber": 640,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6728,
+      "sourceText": "Que Dieu nous guide",
+      "ipa": "[kə djø nu ɡid]",
+      "ear": "克 德耶厄 努 吉德",
+      "meaning": "愿上帝指引我们。",
+      "suppliedText": "Que Dieu nous guide",
+      "sourceLineId": "romeo-timed-641-5",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6728,
+        "sourceLineNumber": 641,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6733.625,
+      "sourceText": "Je me suicide",
+      "ipa": "[ʒə mə sɥisid]",
+      "ear": "热 默 斯于伊西德",
+      "meaning": "我要结束自己的生命。",
+      "suppliedText": "Je me suicide",
+      "sourceLineId": "romeo-timed-641-6",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6728,
+        "sourceLineNumber": 641,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6737,
+      "sourceText": "Roméo pourquoi faut-il",
+      "ipa": "[ʁomeo puʁkwa fotil]",
+      "ear": "霍梅奥 普赫克乌阿 佛蒂勒",
+      "meaning": "罗密欧，为什么非要。",
+      "suppliedText": "Roméo pourquoi faut-il",
+      "sourceLineId": "romeo-timed-642-7",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6737,
+        "sourceLineNumber": 642,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6742.5,
+      "sourceText": "Que l'on fasse",
+      "ipa": "[kə lɔ̃ fas]",
+      "ear": "克 隆 法斯",
+      "meaning": "让我们把。",
+      "suppliedText": "Que l'on fasse",
+      "sourceLineId": "romeo-timed-642-8",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6737,
+        "sourceLineNumber": 642,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6745,
+      "sourceText": "De notre histoire",
+      "ipa": "[də notʁ‿istwaʁ]",
+      "ear": "德 诺特赫 伊斯特乌阿赫",
+      "meaning": "自己的故事。",
+      "suppliedText": "De notre histoire",
+      "sourceLineId": "romeo-timed-643-9",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6745,
+        "sourceLineNumber": 643,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6748.294,
+      "sourceText": "Une comédie, une farce",
+      "ipa": "[yn komedi yn faʁs]",
+      "ear": "于恩 科梅迪 于恩 法赫斯",
+      "meaning": "演成一出喜剧，一场闹剧？",
+      "suppliedText": "Une comédie, une farce",
+      "sourceLineId": "romeo-timed-643-10",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6745,
+        "sourceLineNumber": 643,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6753,
+      "sourceText": "Que Dieu nous guide",
+      "ipa": "[kə djø nu ɡid]",
+      "ear": "克 德耶厄 努 吉德",
+      "meaning": "愿上帝指引我们。",
+      "suppliedText": "Que Dieu nous guide",
+      "sourceLineId": "romeo-timed-644-11",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6753,
+        "sourceLineNumber": 644,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6759.25,
+      "sourceText": "Je me suicide",
+      "ipa": "[ʒə mə sɥisid]",
+      "ear": "热 默 斯于伊西德",
+      "meaning": "我要结束自己的生命。",
+      "suppliedText": "Je me suicide",
+      "sourceLineId": "romeo-timed-644-12",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6753,
+        "sourceLineNumber": 644,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6763,
+      "sourceText": "Roméo il nous faut jouer à ce jeu",
+      "ipa": "[ʁomeo il nu fo ʒwe a sə ʒø]",
+      "ear": "霍梅奥 伊勒 努 佛 日乌诶 阿 瑟 热厄",
+      "meaning": "罗密欧，我们必须玩这场游戏。",
+      "suppliedText": "Roméo il nous faut jouer à ce jeu",
+      "sourceLineId": "romeo-timed-645-13",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6763,
+        "sourceLineNumber": 645,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6770.5,
+      "sourceText": "Pour ne pas mourir",
+      "ipa": "[puʁ nə pa muʁiʁ]",
+      "ear": "普赫 讷 帕 穆希赫",
+      "meaning": "为了不真正死去。",
+      "suppliedText": "Pour ne pas mourir",
+      "sourceLineId": "romeo-timed-645-14",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6763,
+        "sourceLineNumber": 645,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6774,
+      "sourceText": "Je dois mourir un peu",
+      "ipa": "[ʒə dwa muʁiʁ‿œ̃ pø]",
+      "ear": "热 德乌阿 穆希赫 恩 珀厄",
+      "meaning": "我得先死去一点。",
+      "suppliedText": "Je dois mourir un peu",
+      "sourceLineId": "romeo-timed-646-15",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6774,
+        "sourceLineNumber": 646,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6777.789,
+      "sourceText": "Ce poison-là nous sauve",
+      "ipa": "[sə pwazɔ̃la nu sov]",
+      "ear": "瑟 普乌阿宗拉 努 索弗",
+      "meaning": "这瓶毒药会救我们。",
+      "suppliedText": "Ce poison-là nous sauve",
+      "sourceLineId": "romeo-timed-646-16",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6774,
+        "sourceLineNumber": 646,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6782,
+      "sourceText": "Je reviendrai à l'aube",
+      "ipa": "[ʒə ʁəvjɛ̃dʁe a lob]",
+      "ear": "热 赫弗耶安德赫 阿 洛布",
+      "meaning": "我会在黎明回来。",
+      "suppliedText": "Je reviendrai à l'aube",
+      "sourceLineId": "romeo-timed-647-17",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 6782,
+        "sourceLineNumber": 647,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6803,
+      "sourceText": "Où vont les",
+      "ipa": "[u vɔ̃ le]",
+      "ear": "乌 翁 莱",
+      "meaning": "它们去了哪里？",
+      "suppliedText": "Où vont les",
+      "sourceLineId": "romeo-timed-648-18",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6803,
+        "sourceLineNumber": 648,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6805.462,
+      "sourceText": "Où vont les rêves des amants",
+      "ipa": "[u vɔ̃ le ʁɛv dez‿amɑ̃]",
+      "ear": "乌 翁 莱 赫弗 德兹 阿芒",
+      "meaning": "恋人们的梦去了哪里？",
+      "suppliedText": "Où vont les rêves des amants",
+      "sourceLineId": "romeo-timed-648-19",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6803,
+        "sourceLineNumber": 648,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6811,
+      "sourceText": "Leurs mots, leur fièvre",
+      "ipa": "[lœʁ mo lœʁ fjɛvʁ]",
+      "ear": "勒厄赫 莫 勒厄赫 弗耶艾弗赫",
+      "meaning": "他们的话语，他们的炽热。",
+      "suppliedText": "Leurs mots, leur fièvre",
+      "sourceLineId": "romeo-timed-649-20",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6811,
+        "sourceLineNumber": 649,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6814.2,
+      "sourceText": "Je reviens, je t'attends",
+      "ipa": "[ʒə ʁəvjɛ̃ ʒə tatɑ̃]",
+      "ear": "热 赫弗耶安 热 塔唐",
+      "meaning": "“我会回来”“我等你”。",
+      "suppliedText": "Je reviens, je t'attends",
+      "sourceLineId": "romeo-timed-649-21",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6811,
+        "sourceLineNumber": 649,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6817,
+      "sourceText": "Que Dieu les guide",
+      "ipa": "[kə djø le ɡid]",
+      "ear": "克 德耶厄 莱 吉德",
+      "meaning": "愿上帝指引他们。",
+      "suppliedText": "Que Dieu les guide",
+      "sourceLineId": "romeo-timed-650-22",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 6817,
+        "sourceLineNumber": 650,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

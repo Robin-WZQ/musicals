@@ -1,0 +1,1125 @@
+{
+  "videoId": "romeo-2010-21",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=4259"
+    }
+  ],
+  "entries": [
+    {
+      "start": 4269,
+      "sourceText": "On dit dans la rue, que Roméo est perdu",
+      "ipa": "[ɔ̃ di dɑ̃ la ʁy kə ʁomeo ɛ pɛʁdy]",
+      "ear": "翁 迪 当 拉 许 克 霍梅奥 艾 佩赫迪于",
+      "meaning": "街上都在说，罗密欧完了。",
+      "suppliedText": "On dit dans la rue, que Roméo est perdu",
+      "sourceLineId": "romeo-timed-396-1",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4269,
+        "sourceLineNumber": 396,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4273.4,
+      "sourceText": "Qu'il mérite bien la lame, de ceux qui vendent leurs âmes",
+      "ipa": "[kil meʁit bjɛ̃ la lam də sø ki vɑ̃d lœʁz‿am]",
+      "ear": "基勒 梅希特 布耶安 拉 拉姆 德 瑟厄 基 旺德 勒厄赫兹 阿姆",
+      "meaning": "出卖灵魂的人，就该挨上刀刃。",
+      "suppliedText": "Qu'il mérite bien la lame, de ceux qui vendent leurs âmes",
+      "sourceLineId": "romeo-timed-396-2",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4269,
+        "sourceLineNumber": 396,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4280,
+      "sourceText": "On dit dans la rue, que le fils des Montaigu",
+      "ipa": "[ɔ̃ di dɑ̃ la ʁy kə lə fis de mɔ̃tɛɡy]",
+      "ear": "翁 迪 当 拉 许 克 勒 菲斯 德 蒙泰吉于",
+      "meaning": "街上都在说，蒙太古家的儿子。",
+      "suppliedText": "On dit dans la rue, que le fils des Montaigu",
+      "sourceLineId": "romeo-timed-397-3",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4280,
+        "sourceLineNumber": 397,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4285.556,
+      "sourceText": "A trahi ses parents, déshonoré son rang",
+      "ipa": "[a tʁai se paʁɑ̃ dezonoʁe sɔ̃ ʁɑ̃]",
+      "ear": "阿 特哈伊 塞 帕杭 德佐诺赫 松 杭",
+      "meaning": "背叛了父母，辱没了身份。",
+      "suppliedText": "À trahi ses parents, déshonoré son rang",
+      "sourceLineId": "romeo-timed-397-4",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4280,
+        "sourceLineNumber": 397,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4290,
+      "sourceText": "Mais toi qui vis comme un ange, toi que rien ne dérange",
+      "ipa": "[mɛ twa ki vi kɔm‿œ̃n‿ɑ̃ʒ twa kə ʁjɛ̃ nə deʁɑ̃ʒ]",
+      "ear": "梅 特乌阿 基 维 科姆 恩恩 昂日 特乌阿 克 赫耶安 讷 德杭日",
+      "meaning": "你像天使一样活着，什么都不在乎。",
+      "suppliedText": "Mais toi qui vis comme un ange, toi que rien ne dérange",
+      "sourceLineId": "romeo-timed-398-5",
+      "speaker": "Benvolio et Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4290,
+        "sourceLineNumber": 398,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4295.628,
+      "sourceText": "Tu crois que tout s'arrange mais la vie un jour se venge",
+      "ipa": "[ty kʁwa kə tu saʁɑ̃ʒ mɛ la vi œ̃ ʒuʁ sə vɑ̃ʒ]",
+      "ear": "蒂于 克赫乌阿 克 图 萨杭日 梅 拉 维 恩 茹赫 瑟 旺日",
+      "meaning": "以为一切都会好，可生活终会报复。",
+      "suppliedText": "Tu crois que tout s'arrange mais la vie un jour se venge",
+      "sourceLineId": "romeo-timed-398-6",
+      "speaker": "Benvolio et Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4290,
+        "sourceLineNumber": 398,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4301,
+      "sourceText": "T'avais pas le droit,",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit,",
+      "sourceLineId": "romeo-timed-399-7",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4301,
+        "sourceLineNumber": 399,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4301.942,
+      "sourceText": "Ne me parlez pas de droit",
+      "ipa": "[nə mə paʁle pa də dʁwa]",
+      "ear": "讷 默 帕赫莱 帕 德 德赫乌阿",
+      "meaning": "别跟我谈权利。",
+      "suppliedText": "Ne me parlez pas de droit",
+      "sourceLineId": "romeo-timed-399-8",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4301,
+        "sourceLineNumber": 399,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4303.019,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-399-9",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4301,
+        "sourceLineNumber": 399,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4303.962,
+      "sourceText": "Vous n'en avez pas sur moi",
+      "ipa": "[vu nɑ̃ ave pa syʁ mwa]",
+      "ear": "乌 南 阿韦 帕 西于赫 姆乌阿",
+      "meaning": "你们也无权管我。",
+      "suppliedText": "Vous n'en avez pas sur moi",
+      "sourceLineId": "romeo-timed-399-10",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4301,
+        "sourceLineNumber": 399,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4305.173,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-399-11",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4301,
+        "sourceLineNumber": 399,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4306.115,
+      "sourceText": "J’aime comme vous n'aimerez jamais",
+      "ipa": "[ʒɛm kɔm vu nɛmʁe ʒamɛ]",
+      "ear": "热姆 科姆 乌 奈姆赫 扎梅",
+      "meaning": "我爱得这样深，是你们永远不懂的。",
+      "suppliedText": "J’aime comme vous n'aimerez jamais",
+      "sourceLineId": "romeo-timed-399-12",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4301,
+        "sourceLineNumber": 399,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4308,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-400-13",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4308,
+        "sourceLineNumber": 400,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4309.037,
+      "sourceText": "Pour vous, je n'ai pas de secret",
+      "ipa": "[puʁ vu ʒə ne pa də səkʁɛ]",
+      "ear": "普赫 乌 热 内 帕 德 瑟克赫",
+      "meaning": "我对你们毫无隐瞒。",
+      "suppliedText": "Pour vous, je n'ai pas de secret",
+      "sourceLineId": "romeo-timed-400-14",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4308,
+        "sourceLineNumber": 400,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4310.667,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-400-15",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4308,
+        "sourceLineNumber": 400,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4311.704,
+      "sourceText": "Je vous regarde et j'ai honte",
+      "ipa": "[ʒə vu ʁəɡaʁd e ʒe ɔ̃t]",
+      "ear": "热 乌 赫嘎赫德 诶 热 翁特",
+      "meaning": "看着你们，我感到羞耻。",
+      "suppliedText": "Je vous regarde et j'ai honte",
+      "sourceLineId": "romeo-timed-400-16",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4308,
+        "sourceLineNumber": 400,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4313.333,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-400-17",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4308,
+        "sourceLineNumber": 400,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4314.37,
+      "sourceText": "Je me fous de ce qu'on raconte",
+      "ipa": "[ʒə mə fu də sə kɔ̃ ʁakɔ̃t]",
+      "ear": "热 默 富 德 瑟 孔 哈孔特",
+      "meaning": "我不在乎别人怎么说。",
+      "suppliedText": "Je me fous de ce qu'on raconte",
+      "sourceLineId": "romeo-timed-400-18",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4308,
+        "sourceLineNumber": 400,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4316,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-401-19",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4316,
+        "sourceLineNumber": 401,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4316.875,
+      "sourceText": "La seule chose pour moi qui compte",
+      "ipa": "[la sœl ʃɔz puʁ mwa ki kɔ̃t]",
+      "ear": "拉 瑟厄勒 肖兹 普赫 姆乌阿 基 孔特",
+      "meaning": "我唯一在乎的。",
+      "suppliedText": "La seule chose pour moi qui compte",
+      "sourceLineId": "romeo-timed-401-20",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4316,
+        "sourceLineNumber": 401,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4318.625,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-401-21",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4316,
+        "sourceLineNumber": 401,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4319.5,
+      "sourceText": "C'est que vous l'aimiez aussi",
+      "ipa": "[sɛ kə vu lɛmje osi]",
+      "ear": "塞 克 乌 莱姆耶诶 奥西",
+      "meaning": "是你们也能爱她。",
+      "suppliedText": "C'est que vous l'aimiez aussi",
+      "sourceLineId": "romeo-timed-401-22",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4316,
+        "sourceLineNumber": 401,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4321,
+      "sourceText": "On dit dans la rue qu'en lui prenant sa vertu",
+      "ipa": "[ɔ̃ di dɑ̃ la ʁy kɑ̃ lɥi pʁənɑ̃ sa vɛʁty]",
+      "ear": "翁 迪 当 拉 许 康 勒于伊 普赫南 萨 韦赫蒂于",
+      "meaning": "街上都在说，你夺走了她的贞洁。",
+      "suppliedText": "On dit dans la rue qu'en lui prenant sa vertu",
+      "sourceLineId": "romeo-timed-402-23",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4321,
+        "sourceLineNumber": 402,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4326.156,
+      "sourceText": "Tu as perdu la tienne et réveillé la haine",
+      "ipa": "[ty a pɛʁdy la tjɛn e ʁevɛje la ɛn]",
+      "ear": "蒂于 阿 佩赫迪于 拉 特耶艾恩 诶 赫韦耶诶 拉 艾恩",
+      "meaning": "也丢了自己的品行，唤醒了仇恨。",
+      "suppliedText": "Tu as perdu la tienne et réveillé la haine",
+      "sourceLineId": "romeo-timed-402-24",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4321,
+        "sourceLineNumber": 402,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4332,
+      "sourceText": "On dit dans la rue que pour toi y a plus d'issue",
+      "ipa": "[ɔ̃ di dɑ̃ la ʁy kə puʁ twa i a ply disy]",
+      "ear": "翁 迪 当 拉 许 克 普赫 特乌阿 伊 阿 普吕 迪西于",
+      "meaning": "街上都在说，你已经无路可走。",
+      "suppliedText": "On dit dans la rue que pour toi y a plus d'issue",
+      "sourceLineId": "romeo-timed-403-25",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4332,
+        "sourceLineNumber": 403,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4336.615,
+      "sourceText": "Que pour sauver ton honneur, il faut quitter cette fleur",
+      "ipa": "[kə puʁ sove tɔ̃n‿ɔnœʁ il fo kite sɛt flœʁ]",
+      "ear": "克 普赫 索韦 通恩 哦讷厄赫 伊勒 佛 基特 塞特 弗勒厄赫",
+      "meaning": "想保住荣誉，就得离开这朵花。",
+      "suppliedText": "Que pour sauver ton honneur, il faut quitter cette fleur",
+      "sourceLineId": "romeo-timed-403-26",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4332,
+        "sourceLineNumber": 403,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4342,
+      "sourceText": "Mais toi qui vis comme un ange, toi que rien ne dérange",
+      "ipa": "[mɛ twa ki vi kɔm‿œ̃n‿ɑ̃ʒ twa kə ʁjɛ̃ nə deʁɑ̃ʒ]",
+      "ear": "梅 特乌阿 基 维 科姆 恩恩 昂日 特乌阿 克 赫耶安 讷 德杭日",
+      "meaning": "你像天使一样活着，什么都不在乎。",
+      "suppliedText": "Mais toi qui vis comme un ange, toi que rien ne dérange",
+      "sourceLineId": "romeo-timed-404-27",
+      "speaker": "Benvolio et Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4342,
+        "sourceLineNumber": 404,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4347.628,
+      "sourceText": "Tu crois que tout s'arrange, mais la vie un jour se venge",
+      "ipa": "[ty kʁwa kə tu saʁɑ̃ʒ mɛ la vi œ̃ ʒuʁ sə vɑ̃ʒ]",
+      "ear": "蒂于 克赫乌阿 克 图 萨杭日 梅 拉 维 恩 茹赫 瑟 旺日",
+      "meaning": "你以为一切都会好，可生活终会报复。",
+      "suppliedText": "Tu crois que tout s'arrange, mais la vie un jour se venge",
+      "sourceLineId": "romeo-timed-404-28",
+      "speaker": "Benvolio et Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4342,
+        "sourceLineNumber": 404,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4353,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-405-29",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4353,
+        "sourceLineNumber": 405,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4353.966,
+      "sourceText": "Qu'est-ce que vous voulez que je vous dise",
+      "ipa": "[kɛskə vu vule kə ʒə vu diz]",
+      "ear": "凯斯克 乌 乌莱 克 热 乌 迪兹",
+      "meaning": "你们还想让我说什么？",
+      "suppliedText": "Qu'est-ce que vous voulez que je vous dise",
+      "sourceLineId": "romeo-timed-405-30",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4353,
+        "sourceLineNumber": 405,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4356.31,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-405-31",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4353,
+        "sourceLineNumber": 405,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4357.276,
+      "sourceText": "Me punir pour ma franchise",
+      "ipa": "[mə pyniʁ puʁ ma fʁɑ̃ʃiz]",
+      "ear": "默 普于尼赫 普赫 玛 弗杭希兹",
+      "meaning": "要因为我坦诚，就惩罚我吗？",
+      "suppliedText": "Me punir pour ma franchise",
+      "sourceLineId": "romeo-timed-405-32",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4353,
+        "sourceLineNumber": 405,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4358.517,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-405-33",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4353,
+        "sourceLineNumber": 405,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4359.483,
+      "sourceText": "Vous qui savez tout de moi",
+      "ipa": "[vu ki save tu də mwa]",
+      "ear": "乌 基 萨韦 图 德 姆乌阿",
+      "meaning": "你们知道我的一切。",
+      "suppliedText": "Vous qui savez tout de moi",
+      "sourceLineId": "romeo-timed-405-34",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4353,
+        "sourceLineNumber": 405,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4361,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-406-35",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4361,
+        "sourceLineNumber": 406,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4361.891,
+      "sourceText": "Vous doutez ainsi, pourquoi",
+      "ipa": "[vu dute ɛ̃si puʁkwa]",
+      "ear": "乌 杜特 安西 普赫克乌阿",
+      "meaning": "为什么还这样怀疑？",
+      "suppliedText": "Vous doutez ainsi, pourquoi",
+      "sourceLineId": "romeo-timed-406-36",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4361,
+        "sourceLineNumber": 406,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4363.545,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-406-37",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4361,
+        "sourceLineNumber": 406,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4364.436,
+      "sourceText": "Pourquoi me juger ainsi",
+      "ipa": "[puʁkwa mə ʒyʒe ɛ̃si]",
+      "ear": "普赫克乌阿 默 日于热 安西",
+      "meaning": "为什么这样评判我？",
+      "suppliedText": "Pourquoi me juger ainsi",
+      "sourceLineId": "romeo-timed-406-38",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4361,
+        "sourceLineNumber": 406,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4365.836,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-406-39",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4361,
+        "sourceLineNumber": 406,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4366.727,
+      "sourceText": "Vous mes frères, vous mes amis",
+      "ipa": "[vu me fʁɛʁ vu mez‿ami]",
+      "ear": "乌 梅 弗赫赫 乌 梅兹 阿米",
+      "meaning": "我的兄弟，我的朋友。",
+      "suppliedText": "Vous mes frères, vous mes amis",
+      "sourceLineId": "romeo-timed-406-40",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4361,
+        "sourceLineNumber": 406,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4368,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-407-41",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4368,
+        "sourceLineNumber": 407,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4369.167,
+      "sourceText": "Je suis libre comme vous l'étiez",
+      "ipa": "[ʒə sɥi libʁ kɔm vu letje]",
+      "ear": "热 斯于伊 利布赫 科姆 乌 莱特耶诶",
+      "meaning": "我也自由，就像曾经的你们。",
+      "suppliedText": "Je suis libre comme vous l'étiez",
+      "sourceLineId": "romeo-timed-407-42",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4368,
+        "sourceLineNumber": 407,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4371.167,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-407-43",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4368,
+        "sourceLineNumber": 407,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4372.333,
+      "sourceText": "Avant de vouloir me juger",
+      "ipa": "[avɑ̃ də vulwaʁ mə ʒyʒe]",
+      "ear": "阿旺 德 乌勒乌阿赫 默 日于热",
+      "meaning": "在你们开始评判我之前。",
+      "suppliedText": "Avant de vouloir me juger",
+      "sourceLineId": "romeo-timed-407-44",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4368,
+        "sourceLineNumber": 407,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4374,
+      "sourceText": "Bien sûr c'est la vie qui choisit",
+      "ipa": "[bjɛ̃ syʁ sɛ la vi ki ʃwazi]",
+      "ear": "布耶安 西于赫 塞 拉 维 基 什乌阿齐",
+      "meaning": "当然，是命运作出的选择。",
+      "suppliedText": "Bien sûr c'est la vie qui choisit",
+      "sourceLineId": "romeo-timed-408-45",
+      "speaker": "Mercutio et Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4374,
+        "sourceLineNumber": 408,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4376.5,
+      "sourceText": "Bien sûr c'est la vie qui choisit",
+      "ipa": "[bjɛ̃ syʁ sɛ la vi ki ʃwazi]",
+      "ear": "布耶安 西于赫 塞 拉 维 基 什乌阿齐",
+      "meaning": "当然，是命运作出的选择。",
+      "suppliedText": "Bien sûr c'est la vie qui choisit",
+      "sourceLineId": "romeo-timed-408-46",
+      "speaker": "Mercutio et Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4374,
+        "sourceLineNumber": 408,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4379,
+      "sourceText": "Mais pourquoi la fille de ton ennemi",
+      "ipa": "[mɛ puʁkwa la fij də tɔ̃n‿ɛnmi]",
+      "ear": "梅 普赫克乌阿 拉 菲耶 德 通恩 艾恩米",
+      "meaning": "可为什么偏是仇人的女儿？",
+      "suppliedText": "Mais pourquoi la fille de ton ennemi",
+      "sourceLineId": "romeo-timed-409-47",
+      "speaker": "Mercutio et Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4379,
+        "sourceLineNumber": 409,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4382.261,
+      "sourceText": "Je n'y peux rien, c'était écrit",
+      "ipa": "[ʒə ni pø ʁjɛ̃ setɛ ekʁi]",
+      "ear": "热 尼 珀厄 赫耶安 塞泰 诶克希",
+      "meaning": "我也无能为力，命中已注定。",
+      "suppliedText": "Je n'y peux rien, c'était écrit",
+      "sourceLineId": "romeo-timed-409-48",
+      "speaker": "Mercutio et Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4379,
+        "sourceLineNumber": 409,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4384.652,
+      "sourceText": "Quand toutes les femmes te veulent dans leurs lits",
+      "ipa": "[kɑ̃ tut le fam tə vœl dɑ̃ lœʁ li]",
+      "ear": "康 图特 莱 法姆 特 弗厄勒 当 勒厄赫 利",
+      "meaning": "所有女人都想要你。",
+      "suppliedText": "Quand toutes les femmes te veulent dans leurs lits",
+      "sourceLineId": "romeo-timed-409-49",
+      "speaker": "Mercutio et Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4379,
+        "sourceLineNumber": 409,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4388.13,
+      "sourceText": "Non, non, oh non!",
+      "ipa": "[nɔ̃ nɔ̃ ɔ nɔ̃]",
+      "ear": "农 农 哦 农",
+      "meaning": "不，不，哦，不！",
+      "suppliedText": "Non, non, oh non!",
+      "sourceLineId": "romeo-timed-409-50",
+      "speaker": "Mercutio et Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4379,
+        "sourceLineNumber": 409,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4389,
+      "sourceText": "Pourquoi c'est elle que t'as choisie",
+      "ipa": "[puʁkwa sɛt‿ɛl kə ta ʃwazi]",
+      "ear": "普赫克乌阿 塞特 艾勒 克 塔 什乌阿齐",
+      "meaning": "为什么偏偏选了她？",
+      "suppliedText": "Pourquoi c'est elle que t'as choisie",
+      "sourceLineId": "romeo-timed-410-51",
+      "speaker": "Mercutio et Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4389,
+        "sourceLineNumber": 410,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4395.0,
+      "sourceText": "Je vis ma vie tel que je suis, je vous le dis, oh oui",
+      "ipa": "[ʒə vi ma vi tɛl kə ʒə sɥi ʒə vu lə di ɔ wi]",
+      "ear": "热 维 玛 维 泰勒 克 热 斯于伊 热 乌 勒 迪 哦 乌伊",
+      "meaning": "我依自己的心生活，我告诉你们，是的。",
+      "suppliedText": "Je vis ma vie tel que je suis, je vous le dis, oh oui",
+      "sourceLineId": "romeo-timed-410-52",
+      "speaker": "Mercutio et Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4389,
+        "sourceLineNumber": 410,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4403,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-411-53",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4403,
+        "sourceLineNumber": 411,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4404.12,
+      "sourceText": "Allons, regardez-vous",
+      "ipa": "[alɔ̃ ʁəɡaʁdevu]",
+      "ear": "阿隆 赫嘎赫德乌",
+      "meaning": "得了，看看你们自己。",
+      "suppliedText": "Allons, regardez-vous",
+      "sourceLineId": "romeo-timed-411-54",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4403,
+        "sourceLineNumber": 411,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4405.24,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-411-55",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4403,
+        "sourceLineNumber": 411,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4406.36,
+      "sourceText": "Vous êtes simplement jaloux",
+      "ipa": "[vuz‿ɛt sɛ̃pləmɑ̃ ʒalu]",
+      "ear": "乌兹 艾特 森普勒芒 扎卢",
+      "meaning": "你们只是嫉妒。",
+      "suppliedText": "Vous êtes simplement jaloux",
+      "sourceLineId": "romeo-timed-411-56",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4403,
+        "sourceLineNumber": 411,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4407.96,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-411-57",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4403,
+        "sourceLineNumber": 411,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4409.08,
+      "sourceText": "Vous oubliez toutes ces nuits",
+      "ipa": "[vuz‿ublie tut se nɥi]",
+      "ear": "乌兹 乌布利诶 图特 塞 恩于伊",
+      "meaning": "你们忘了那些夜晚。",
+      "suppliedText": "Vous oubliez toutes ces nuits",
+      "sourceLineId": "romeo-timed-411-58",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4403,
+        "sourceLineNumber": 411,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4411,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-412-59",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4411,
+        "sourceLineNumber": 412,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4412.4,
+      "sourceText": "Avec celles qui nous ennuient",
+      "ipa": "[avɛk sɛl ki nuz‿ɑ̃nɥi]",
+      "ear": "阿韦克 塞勒 基 努兹 昂恩于伊",
+      "meaning": "和那些让我们厌倦的女人。",
+      "suppliedText": "Avec celles qui nous ennuient",
+      "sourceLineId": "romeo-timed-412-60",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4411,
+        "sourceLineNumber": 412,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4414.8,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-412-61",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4411,
+        "sourceLineNumber": 412,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4416.2,
+      "sourceText": "Non, je n'ai trahi personne",
+      "ipa": "[nɔ̃ ʒə ne tʁai pɛʁsɔn]",
+      "ear": "农 热 内 特哈伊 佩赫索恩",
+      "meaning": "不，我没背叛任何人。",
+      "suppliedText": "Non, je n'ai trahi personne",
+      "sourceLineId": "romeo-timed-412-62",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4411,
+        "sourceLineNumber": 412,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4418,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-413-63",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4418,
+        "sourceLineNumber": 413,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4419.556,
+      "sourceText": "Je ne veux pas qu'on me pardonne",
+      "ipa": "[ʒə nə vø pa kɔ̃ mə paʁdɔn]",
+      "ear": "热 讷 弗厄 帕 孔 默 帕赫多恩",
+      "meaning": "我也不需要谁的宽恕。",
+      "suppliedText": "Je ne veux pas qu'on me pardonne",
+      "sourceLineId": "romeo-timed-413-64",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4418,
+        "sourceLineNumber": 413,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4422.0,
+      "sourceText": "T'avais pas le droit",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利。",
+      "suppliedText": "T'avais pas le droit",
+      "sourceLineId": "romeo-timed-413-65",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4418,
+        "sourceLineNumber": 413,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4423.556,
+      "sourceText": "Mais sans elle, je ne suis rien",
+      "ipa": "[mɛ sɑ̃ ɛl ʒə nə sɥi ʁjɛ̃]",
+      "ear": "梅 桑 艾勒 热 讷 斯于伊 赫耶安",
+      "meaning": "但没有她，我什么也不是。",
+      "suppliedText": "Mais sans elle, je ne suis rien",
+      "sourceLineId": "romeo-timed-413-66",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4418,
+        "sourceLineNumber": 413,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4426,
+      "sourceText": "T'avais pas le droit...",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利……",
+      "suppliedText": "T'avais pas le droit...",
+      "sourceLineId": "romeo-timed-414-67",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4426,
+        "sourceLineNumber": 414,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4429.5,
+      "sourceText": "Je ne suis rien",
+      "ipa": "[ʒə nə sɥi ʁjɛ̃]",
+      "ear": "热 讷 斯于伊 赫耶安",
+      "meaning": "我什么也不是。",
+      "suppliedText": "Je ne suis rien",
+      "sourceLineId": "romeo-timed-414-68",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4426,
+        "sourceLineNumber": 414,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4432.5,
+      "sourceText": "T'avais pas le droit...",
+      "ipa": "[tavɛ pa lə dʁwa]",
+      "ear": "塔韦 帕 勒 德赫乌阿",
+      "meaning": "你没这个权利……",
+      "suppliedText": "T'avais pas le droit...",
+      "sourceLineId": "romeo-timed-414-69",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4426,
+        "sourceLineNumber": 414,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

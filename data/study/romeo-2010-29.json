@@ -1,0 +1,773 @@
+{
+  "videoId": "romeo-2010-29",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=6066"
+    }
+  ],
+  "entries": [
+    {
+      "start": 6070,
+      "sourceText": "Pâris, c'est décidé tu auras ma fille Pâris, je t'abandonne ma rose, ma jonquille",
+      "ipa": "[paʁi sɛ deside ty oʁa ma fij paʁi ʒə tabɑ̃dɔn ma ʁɔz ma ʒɔ̃kij]",
+      "ear": "帕希 塞 德西德 蒂于 奥哈 玛 菲耶 帕希 热 塔邦多恩 玛 霍兹 玛 戎基耶",
+      "meaning": "帕里斯，决定了，我把女儿给你，把我的玫瑰与水仙给你。",
+      "suppliedText": "Pâris, c'est décidé tu auras ma fille Pâris, je t'abandonne ma rose, ma jonquille",
+      "sourceLineId": "romeo-timed-575-1",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 6070,
+        "sourceLineNumber": 575,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6080,
+      "sourceText": "Je le fais, pour son bien, qu'elle oublie, son chagrin",
+      "ipa": "[ʒə lə fɛ puʁ sɔ̃ bjɛ̃ kɛl‿ubli sɔ̃ ʃaɡʁɛ̃]",
+      "ear": "热 勒 费 普赫 松 布耶安 凯勒 乌布利 松 沙格汉",
+      "meaning": "这是为她好，让她忘记悲伤。",
+      "suppliedText": "Je le fais, pour son bien, qu'elle oublie, son chagrin",
+      "sourceLineId": "romeo-timed-576-2",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6080,
+        "sourceLineNumber": 576,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6087.824,
+      "sourceText": "Et son cœur, de satin, désormais t'appartient",
+      "ipa": "[e sɔ̃ kœʁ də satɛ̃ dezɔʁmɛ tapaʁtjɛ̃]",
+      "ear": "诶 松 克厄赫 德 萨坦 德佐赫梅 塔帕赫特耶安",
+      "meaning": "从今往后，她绸缎般的心属于你。",
+      "suppliedText": "Et son cœur, de satin, désormais t'appartient",
+      "sourceLineId": "romeo-timed-576-3",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6080,
+        "sourceLineNumber": 576,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6094,
+      "sourceText": "Demain, demain, demain,",
+      "ipa": "[dəmɛ̃ dəmɛ̃ dəmɛ̃]",
+      "ear": "德曼 德曼 德曼",
+      "meaning": "明天，明天，明天。",
+      "suppliedText": "Demain, demain, demain,",
+      "sourceLineId": "romeo-timed-577-4",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6094,
+        "sourceLineNumber": 577,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6099.062,
+      "sourceText": "Je te donne, sa main",
+      "ipa": "[ʒə tə dɔn sa mɛ̃]",
+      "ear": "热 特 多恩 萨 曼",
+      "meaning": "我把她的手交给你。",
+      "suppliedText": "Je te donne, sa main",
+      "sourceLineId": "romeo-timed-577-5",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6094,
+        "sourceLineNumber": 577,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6103,
+      "sourceText": "Juliette, tu sais l'amour que ton père te porte Juliette, mais demain ton enfance sera morte",
+      "ipa": "[ʒyljɛt ty sɛ lamuʁ kə tɔ̃ pɛʁ tə pɔʁt ʒyljɛt mɛ dəmɛ̃ tɔ̃n‿ɑ̃fɑ̃s səʁa mɔʁt]",
+      "ear": "日于勒耶艾特 蒂于 塞 拉穆赫 克 通 佩赫 特 珀赫特 日于勒耶艾特 梅 德曼 通恩 昂芳斯 瑟哈 莫赫特",
+      "meaning": "朱丽叶，你知道父亲爱你；可明天，你的童年就结束了。",
+      "suppliedText": "Juliette, tu sais l'amour que ton père te porte Juliette, mais demain ton enfance sera morte",
+      "sourceLineId": "romeo-timed-578-6",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 6103,
+        "sourceLineNumber": 578,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6112,
+      "sourceText": "Il te donne à Pâris, tu mettras au monde un fils",
+      "ipa": "[il tə dɔn‿a paʁi ty mɛtʁa o mɔ̃d‿œ̃ fis]",
+      "ear": "伊勒 特 多恩 阿 帕希 蒂于 梅特哈 奥 蒙德 恩 菲斯",
+      "meaning": "他把你许给帕里斯，你会生下儿子。",
+      "suppliedText": "Il te donne à Pâris, tu mettras au monde un fils",
+      "sourceLineId": "romeo-timed-579-7",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6112,
+        "sourceLineNumber": 579,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6118.118,
+      "sourceText": "Et que Dieu, vous bénisse, il te donne à Pâris",
+      "ipa": "[e kə djø vu benis il tə dɔn‿a paʁi]",
+      "ear": "诶 克 德耶厄 乌 贝尼斯 伊勒 特 多恩 阿 帕希",
+      "meaning": "愿上帝祝福你们，他把你许给帕里斯。",
+      "suppliedText": "Et que Dieu, vous bénisse, il te donne à Pâris",
+      "sourceLineId": "romeo-timed-579-8",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6112,
+        "sourceLineNumber": 579,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6125,
+      "sourceText": "Demain, demain, demain",
+      "ipa": "[dəmɛ̃ dəmɛ̃ dəmɛ̃]",
+      "ear": "德曼 德曼 德曼",
+      "meaning": "明天，明天，明天。",
+      "suppliedText": "Demain, demain, demain",
+      "sourceLineId": "romeo-timed-580-9",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6125,
+        "sourceLineNumber": 580,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6130.625,
+      "sourceText": "Il aura, ta main",
+      "ipa": "[il‿oʁa ta mɛ̃]",
+      "ear": "伊勒 奥哈 塔 曼",
+      "meaning": "他将牵起你的手。",
+      "suppliedText": "Il aura, ta main",
+      "sourceLineId": "romeo-timed-580-10",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6125,
+        "sourceLineNumber": 580,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6135,
+      "sourceText": "Les femmes, n'ont pas le choix",
+      "ipa": "[le fam nɔ̃ pa lə ʃwa]",
+      "ear": "莱 法姆 农 帕 勒 什乌阿",
+      "meaning": "女人没有选择。",
+      "suppliedText": "Les femmes, n'ont pas le choix",
+      "sourceLineId": "romeo-timed-581-11",
+      "speaker": "Lady et Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6135,
+        "sourceLineNumber": 581,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6138.294,
+      "sourceText": "Les hommes ont tous les droits",
+      "ipa": "[lez‿ɔm‿ɔ̃ tu le dʁwa]",
+      "ear": "莱兹 哦姆 翁 图 莱 德赫乌阿",
+      "meaning": "男人拥有全部权利。",
+      "suppliedText": "Les hommes ont tous les droits",
+      "sourceLineId": "romeo-timed-581-12",
+      "speaker": "Lady et Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6135,
+        "sourceLineNumber": 581,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6142,
+      "sourceText": "Mais pourquoi pleures-tu, au moins sais-tu",
+      "ipa": "[mɛ puʁkwa plœʁty o mwɛ̃ sɛty]",
+      "ear": "梅 普赫克乌阿 普勒厄赫蒂于 奥 姆乌安 塞蒂于",
+      "meaning": "可你为何哭泣，你可知道。",
+      "suppliedText": "Mais pourquoi pleures-tu, au moins sais-tu",
+      "sourceLineId": "romeo-timed-582-13",
+      "speaker": "Lady et Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6142,
+        "sourceLineNumber": 582,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6146.645,
+      "sourceText": "Qu'est venue l'heure de ton bonheur",
+      "ipa": "[kɛ vəny lœʁ də tɔ̃ bɔnœʁ]",
+      "ear": "凯 弗尼于 勒厄赫 德 通 博讷厄赫",
+      "meaning": "你幸福的时刻已经到了。",
+      "suppliedText": "Qu'est venue l'heure de ton bonheur",
+      "sourceLineId": "romeo-timed-582-14",
+      "speaker": "Lady et Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6142,
+        "sourceLineNumber": 582,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6150,
+      "sourceText": "Demain, demain, demain,",
+      "ipa": "[dəmɛ̃ dəmɛ̃ dəmɛ̃]",
+      "ear": "德曼 德曼 德曼",
+      "meaning": "明天，明天，明天。",
+      "suppliedText": "Demain, demain, demain,",
+      "sourceLineId": "romeo-timed-583-15",
+      "speaker": "Lady et Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6150,
+        "sourceLineNumber": 583,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6155.062,
+      "sourceText": "Il aura ta main",
+      "ipa": "[il‿oʁa ta mɛ̃]",
+      "ear": "伊勒 奥哈 塔 曼",
+      "meaning": "他将牵起你的手。",
+      "suppliedText": "Il aura ta main",
+      "sourceLineId": "romeo-timed-583-16",
+      "speaker": "Lady et Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6150,
+        "sourceLineNumber": 583,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6159,
+      "sourceText": "Nourrice, mon père veut me marier à Pâris",
+      "ipa": "[nuʁis mɔ̃ pɛʁ vø mə maʁje a paʁi]",
+      "ear": "努希斯 蒙 佩赫 弗厄 默 玛赫耶诶 阿 帕希",
+      "meaning": "奶妈，父亲要把我嫁给帕里斯。",
+      "suppliedText": "Nourrice, mon père veut me marier à Pâris",
+      "sourceLineId": "romeo-timed-584-17",
+      "speaker": "Juliette et chœurs",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6159,
+        "sourceLineNumber": 584,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6162.294,
+      "sourceText": "Demain...",
+      "ipa": "[dəmɛ̃]",
+      "ear": "德曼",
+      "meaning": "明天……",
+      "suppliedText": "Demain...",
+      "sourceLineId": "romeo-timed-584-18",
+      "speaker": "Juliette et chœurs",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6159,
+        "sourceLineNumber": 584,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6162.912,
+      "sourceText": "Il aura ta main",
+      "ipa": "[il‿oʁa ta mɛ̃]",
+      "ear": "伊勒 奥哈 塔 曼",
+      "meaning": "他将牵起你的手。",
+      "suppliedText": "Il aura ta main",
+      "sourceLineId": "romeo-timed-584-19",
+      "speaker": "Juliette et chœurs",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6159,
+        "sourceLineNumber": 584,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6164.353,
+      "sourceText": "Nourrice, pourquoi faut-il donc que j'obéisse ?",
+      "ipa": "[nuʁis puʁkwa fotil dɔ̃k kə ʒobeis]",
+      "ear": "努希斯 普赫克乌阿 佛蒂勒 东克 克 若贝伊斯",
+      "meaning": "奶妈，为什么我必须服从？",
+      "suppliedText": "Nourrice, pourquoi faut-il donc que j'obéisse ?",
+      "sourceLineId": "romeo-timed-584-20",
+      "speaker": "Juliette et chœurs",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6159,
+        "sourceLineNumber": 584,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6168.265,
+      "sourceText": "Demain...",
+      "ipa": "[dəmɛ̃]",
+      "ear": "德曼",
+      "meaning": "明天……",
+      "suppliedText": "Demain...",
+      "sourceLineId": "romeo-timed-584-21",
+      "speaker": "Juliette et chœurs",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6159,
+        "sourceLineNumber": 584,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6168.882,
+      "sourceText": "Tu n'y peux rien",
+      "ipa": "[ty ni pø ʁjɛ̃]",
+      "ear": "蒂于 尼 珀厄 赫耶安",
+      "meaning": "你也无能为力。",
+      "suppliedText": "Tu n'y peux rien",
+      "sourceLineId": "romeo-timed-584-22",
+      "speaker": "Juliette et chœurs",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6159,
+        "sourceLineNumber": 584,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6170.118,
+      "sourceText": "Je préfère me tuer",
+      "ipa": "[ʒə pʁefɛʁ mə tye]",
+      "ear": "热 普赫费赫 默 蒂于诶",
+      "meaning": "我宁愿自杀。",
+      "suppliedText": "Je préfère me tuer",
+      "sourceLineId": "romeo-timed-584-23",
+      "speaker": "Juliette et chœurs",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6159,
+        "sourceLineNumber": 584,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6171.559,
+      "sourceText": "Comment peux-tu oser ?",
+      "ipa": "[kɔmɑ̃ pøty oze]",
+      "ear": "科芒 珀厄蒂于 奥泽",
+      "meaning": "你怎么敢这么说？",
+      "suppliedText": "Comment peux-tu oser ?",
+      "sourceLineId": "romeo-timed-584-24",
+      "speaker": "Juliette et chœurs",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6159,
+        "sourceLineNumber": 584,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6173,
+      "sourceText": "Que d'être obligée d'aimer, ce Pâris si bien né",
+      "ipa": "[kə dɛtʁ‿ɔbliʒe dɛme sə paʁi si bjɛ̃ ne]",
+      "ear": "克 戴特赫 哦布利热 戴梅 瑟 帕希 西 布耶安 内",
+      "meaning": "也不要被迫爱上这位出身高贵的帕里斯。",
+      "suppliedText": "Que d'être obligée d'aimer, ce Pâris si bien né",
+      "sourceLineId": "romeo-timed-585-25",
+      "speaker": "Juliette et chœurs",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6173,
+        "sourceLineNumber": 585,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6177.629,
+      "sourceText": "Je suis déjà mariée",
+      "ipa": "[ʒə sɥi deʒa maʁje]",
+      "ear": "热 斯于伊 德扎 玛赫耶诶",
+      "meaning": "我已经结婚了。",
+      "suppliedText": "Je suis déjà mariée",
+      "sourceLineId": "romeo-timed-585-26",
+      "speaker": "Juliette et chœurs",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6173,
+        "sourceLineNumber": 585,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6179.943,
+      "sourceText": "Calme toi, Juliette.",
+      "ipa": "[kalm twa ʒyljɛt]",
+      "ear": "卡勒姆 特乌阿 日于勒耶艾特",
+      "meaning": "冷静点，朱丽叶。",
+      "suppliedText": "Calme toi, Juliette.",
+      "sourceLineId": "romeo-timed-585-27",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6173,
+        "sourceLineNumber": 585,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6182,
+      "sourceText": "Demain, demain, demain",
+      "ipa": "[dəmɛ̃ dəmɛ̃ dəmɛ̃]",
+      "ear": "德曼 德曼 德曼",
+      "meaning": "明天，明天，明天。",
+      "suppliedText": "Demain, demain, demain",
+      "sourceLineId": "romeo-timed-586-28",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6182,
+        "sourceLineNumber": 586,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6184.7,
+      "sourceText": "Non !",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不！",
+      "suppliedText": "Non !",
+      "sourceLineId": "romeo-timed-586-29",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6182,
+        "sourceLineNumber": 586,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6185,
+      "sourceText": "Il aura, ta main",
+      "ipa": "[il‿oʁa ta mɛ̃]",
+      "ear": "伊勒 奥哈 塔 曼",
+      "meaning": "他将牵起你的手。",
+      "suppliedText": "Il aura, ta main",
+      "sourceLineId": "romeo-timed-587-30",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6185,
+        "sourceLineNumber": 587,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6187.917,
+      "sourceText": "Nourrice, non !",
+      "ipa": "[nuʁis nɔ̃]",
+      "ear": "努希斯 农",
+      "meaning": "奶妈，不！",
+      "suppliedText": "Nourrice, non !",
+      "sourceLineId": "romeo-timed-587-31",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6185,
+        "sourceLineNumber": 587,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6190,
+      "sourceText": "Juliette comment peux-tu encore,",
+      "ipa": "[ʒyljɛt kɔmɑ̃ pøty ɑ̃kɔʁ]",
+      "ear": "日于勒耶艾特 科芒 珀厄蒂于 昂科赫",
+      "meaning": "朱丽叶，你怎么还能。",
+      "suppliedText": "Juliette comment peux-tu encore,",
+      "sourceLineId": "romeo-timed-588-32",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6190,
+        "sourceLineNumber": 588,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6194.696,
+      "sourceText": "L'aimer quand ton cousin est mort",
+      "ipa": "[lɛme kɑ̃ tɔ̃ kuzɛ̃ ɛ mɔʁ]",
+      "ear": "莱梅 康 通 库赞 艾 莫赫",
+      "meaning": "在表哥死后，继续爱他？",
+      "suppliedText": "L'aimer quand ton cousin est mort",
+      "sourceLineId": "romeo-timed-588-33",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6190,
+        "sourceLineNumber": 588,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6199,
+      "sourceText": "Je t'en supplie, tu dois dire oui,",
+      "ipa": "[ʒə tɑ̃ sypli ty dwa diʁ wi]",
+      "ear": "热 唐 西于普利 蒂于 德乌阿 迪赫 乌伊",
+      "meaning": "我求你，答应吧。",
+      "suppliedText": "Je t'en supplie, tu dois dire oui,",
+      "sourceLineId": "romeo-timed-589-34",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6199,
+        "sourceLineNumber": 589,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6203.727,
+      "sourceText": "A ce mari, qu'on t'a promis",
+      "ipa": "[a sə maʁi kɔ̃ ta pʁomi]",
+      "ear": "阿 瑟 玛希 孔 塔 普霍米",
+      "meaning": "嫁给那个许给你的丈夫。",
+      "suppliedText": "A ce mari, qu'on t'a promis",
+      "sourceLineId": "romeo-timed-589-35",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6199,
+        "sourceLineNumber": 589,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6207,
+      "sourceText": "Demain, demain, demain, il aura ta main",
+      "ipa": "[dəmɛ̃ dəmɛ̃ dəmɛ̃ il‿oʁa ta mɛ̃]",
+      "ear": "德曼 德曼 德曼 伊勒 奥哈 塔 曼",
+      "meaning": "明天，明天，他就会牵起你的手。",
+      "suppliedText": "Demain, demain, demain, il aura ta main",
+      "sourceLineId": "romeo-timed-590-36",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6207,
+        "sourceLineNumber": 590,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6213.698,
+      "sourceText": "Demain, il aura ta main",
+      "ipa": "[dəmɛ̃ il‿oʁa ta mɛ̃]",
+      "ear": "德曼 伊勒 奥哈 塔 曼",
+      "meaning": "明天，他就会牵起你的手。",
+      "suppliedText": "Demain, il aura ta main",
+      "sourceLineId": "romeo-timed-590-37",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6207,
+        "sourceLineNumber": 590,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6217.884,
+      "sourceText": "Je ne peux pas, laissez-moi",
+      "ipa": "[ʒə nə pø pa lɛsemwa]",
+      "ear": "热 讷 珀厄 帕 莱塞姆乌阿",
+      "meaning": "我做不到，放过我吧。",
+      "suppliedText": "Je ne peux pas, laissez-moi",
+      "sourceLineId": "romeo-timed-590-38",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6207,
+        "sourceLineNumber": 590,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6222.07,
+      "sourceText": "Renoncez, par pitié...",
+      "ipa": "[ʁənɔ̃se paʁ pitje]",
+      "ear": "赫农塞 帕赫 皮特耶诶",
+      "meaning": "放弃吧，求你们……",
+      "suppliedText": "Renoncez, par pitié...",
+      "sourceLineId": "romeo-timed-590-39",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6207,
+        "sourceLineNumber": 590,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6225,
+      "sourceText": "C'est ton père tu dois faire ce qu'il te dit",
+      "ipa": "[sɛ tɔ̃ pɛʁ ty dwa fɛʁ sə kil tə di]",
+      "ear": "塞 通 佩赫 蒂于 德乌阿 费赫 瑟 基勒 特 迪",
+      "meaning": "他是你父亲，你必须听他的。",
+      "suppliedText": "C'est ton père tu dois faire ce qu'il te dit",
+      "sourceLineId": "romeo-timed-591-40",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6225,
+        "sourceLineNumber": 591,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6229.688,
+      "sourceText": "Non !",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不！",
+      "suppliedText": "Non !",
+      "sourceLineId": "romeo-timed-591-41",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6225,
+        "sourceLineNumber": 591,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6230,
+      "sourceText": "Demain, demain, demain,",
+      "ipa": "[dəmɛ̃ dəmɛ̃ dəmɛ̃]",
+      "ear": "德曼 德曼 德曼",
+      "meaning": "明天，明天，明天。",
+      "suppliedText": "Demain, demain, demain,",
+      "sourceLineId": "romeo-timed-592-42",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6230,
+        "sourceLineNumber": 592,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6239.0,
+      "sourceText": "Il aura, ta main",
+      "ipa": "[il‿oʁa ta mɛ̃]",
+      "ear": "伊勒 奥哈 塔 曼",
+      "meaning": "他将牵起你的手。",
+      "suppliedText": "Il aura, ta main",
+      "sourceLineId": "romeo-timed-592-43",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6230,
+        "sourceLineNumber": 592,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6246,
+      "sourceText": "Non !",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不！",
+      "suppliedText": "Non !",
+      "sourceLineId": "romeo-timed-593-44",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6246,
+        "sourceLineNumber": 593,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6247.75,
+      "sourceText": "Non !",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不！",
+      "suppliedText": "Non !",
+      "sourceLineId": "romeo-timed-593-45",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6246,
+        "sourceLineNumber": 593,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6249.5,
+      "sourceText": "Non !",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不！",
+      "suppliedText": "Non !",
+      "sourceLineId": "romeo-timed-593-46",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6246,
+        "sourceLineNumber": 593,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6251.25,
+      "sourceText": "Non !",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不！",
+      "suppliedText": "Non !",
+      "sourceLineId": "romeo-timed-593-47",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6246,
+        "sourceLineNumber": 593,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

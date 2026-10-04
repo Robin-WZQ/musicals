@@ -1,0 +1,661 @@
+{
+  "videoId": "romeo-2010-39",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=8274"
+    }
+  ],
+  "entries": [
+    {
+      "start": 8300,
+      "sourceText": "Que nos vies ne soient plus",
+      "ipa": "[kə no vi nə swa ply]",
+      "ear": "克 诺 维 讷 斯乌阿 普吕",
+      "meaning": "愿我们的生命不再。",
+      "suppliedText": "Que nos vies ne soient plus",
+      "sourceLineId": "romeo-timed-788-1",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8300,
+        "sourceLineNumber": 788,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8305.263,
+      "sourceText": "Que des bateaux perdus",
+      "ipa": "[kə de bato pɛʁdy]",
+      "ear": "克 德 巴托 佩赫迪于",
+      "meaning": "只是迷失的船。",
+      "suppliedText": "Que des bateaux perdus",
+      "sourceLineId": "romeo-timed-788-2",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8300,
+        "sourceLineNumber": 788,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8310,
+      "sourceText": "Pourquoi vivre encore",
+      "ipa": "[puʁkwa vivʁ‿ɑ̃kɔʁ]",
+      "ear": "普赫克乌阿 维弗赫 昂科赫",
+      "meaning": "为什么还要活下去？",
+      "suppliedText": "Pourquoi vivre encore",
+      "sourceLineId": "romeo-timed-789-3",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8310,
+        "sourceLineNumber": 789,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8316.471,
+      "sourceText": "Quand nos enfants sont morts",
+      "ipa": "[kɑ̃ noz‿ɑ̃fɑ̃ sɔ̃ mɔʁ]",
+      "ear": "康 诺兹 昂芳 松 莫赫",
+      "meaning": "当我们的孩子已经死去。",
+      "suppliedText": "Quand nos enfants sont morts",
+      "sourceLineId": "romeo-timed-789-4",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8310,
+        "sourceLineNumber": 789,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8321,
+      "sourceText": "Et que Dieu et les hommes",
+      "ipa": "[e kə djø e lez‿ɔm]",
+      "ear": "诶 克 德耶厄 诶 莱兹 哦姆",
+      "meaning": "愿上帝，愿世人。",
+      "suppliedText": "Et que Dieu et les hommes",
+      "sourceLineId": "romeo-timed-790-5",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8321,
+        "sourceLineNumber": 790,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8326.5,
+      "sourceText": "Voient ce que nous sommes",
+      "ipa": "[vwa sə kə nu sɔm]",
+      "ear": "弗乌阿 瑟 克 努 索姆",
+      "meaning": "看清我们是什么样的人。",
+      "suppliedText": "Voient ce que nous sommes",
+      "sourceLineId": "romeo-timed-790-6",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8321,
+        "sourceLineNumber": 790,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8332,
+      "sourceText": "Que leurs âmes de cristal",
+      "ipa": "[kə lœʁz‿am də kʁistal]",
+      "ear": "克 勒厄赫兹 阿姆 德 克希斯塔勒",
+      "meaning": "愿他们水晶般的灵魂。",
+      "suppliedText": "Que leurs âmes de cristal",
+      "sourceLineId": "romeo-timed-791-7",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8332,
+        "sourceLineNumber": 791,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8337.5,
+      "sourceText": "Nous pardonnent pour le mal",
+      "ipa": "[nu paʁdɔn puʁ lə mal]",
+      "ear": "努 帕赫多恩 普赫 勒 玛勒",
+      "meaning": "宽恕我们犯下的伤害。",
+      "suppliedText": "Nous pardonnent pour le mal",
+      "sourceLineId": "romeo-timed-791-8",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8332,
+        "sourceLineNumber": 791,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8343,
+      "sourceText": "Que nos dieux en colère",
+      "ipa": "[kə no djø ɑ̃ kolɛʁ]",
+      "ear": "克 诺 德耶厄 昂 科莱赫",
+      "meaning": "那些愤怒的神。",
+      "suppliedText": "Que nos dieux en colère",
+      "sourceLineId": "romeo-timed-792-9",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8343,
+        "sourceLineNumber": 792,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8348.238,
+      "sourceText": "Nous ont laissé leur faire",
+      "ipa": "[nuz‿ɔ̃ lɛse lœʁ fɛʁ]",
+      "ear": "努兹 翁 莱塞 勒厄赫 费赫",
+      "meaning": "任由我们加在他们身上的伤害。",
+      "suppliedText": "Nous ont laissé leur faire",
+      "sourceLineId": "romeo-timed-792-10",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8343,
+        "sourceLineNumber": 792,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8354,
+      "sourceText": "Et qu'ils reposent en paix",
+      "ipa": "[e kil ʁəpoz‿ɑ̃ pɛ]",
+      "ear": "诶 基勒 赫波兹 昂 佩",
+      "meaning": "愿他们安息。",
+      "suppliedText": "Et qu'ils reposent en paix",
+      "sourceLineId": "romeo-timed-793-11",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8354,
+        "sourceLineNumber": 793,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8358.263,
+      "sourceText": "Et qu'ils s'aiment à jamais",
+      "ipa": "[e kil sɛm‿a ʒamɛ]",
+      "ear": "诶 基勒 塞姆 阿 扎梅",
+      "meaning": "愿他们永远相爱。",
+      "suppliedText": "Et qu'ils s'aiment à jamais",
+      "sourceLineId": "romeo-timed-793-12",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8354,
+        "sourceLineNumber": 793,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8363,
+      "sourceText": "Qu'on nous juge qu'on nous blâme",
+      "ipa": "[kɔ̃ nu ʒyʒ kɔ̃ nu blam]",
+      "ear": "孔 努 日于日 孔 努 布拉姆",
+      "meaning": "审判我们吧，责备我们吧。",
+      "suppliedText": "Qu'on nous juge qu'on nous blâme",
+      "sourceLineId": "romeo-timed-794-13",
+      "speaker": "Lady Capulet & Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8363,
+        "sourceLineNumber": 794,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8368.217,
+      "sourceText": "Eux le paradis, nous les flammes",
+      "ipa": "[ø lə paʁadi nu le flam]",
+      "ear": "厄 勒 帕哈迪 努 莱 弗拉姆",
+      "meaning": "天堂归他们，烈火归我们。",
+      "suppliedText": "Eux le paradis, nous les flammes",
+      "sourceLineId": "romeo-timed-794-14",
+      "speaker": "Lady Capulet & Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8363,
+        "sourceLineNumber": 794,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8373,
+      "sourceText": "C'est ici que s'arrête Roméo et Juliette",
+      "ipa": "[sɛt‿isi kə saʁɛt ʁomeo e ʒyljɛt]",
+      "ear": "塞特 伊西 克 萨赫特 霍梅奥 诶 日于勒耶艾特",
+      "meaning": "罗密欧与朱丽叶的故事，到这里结束。",
+      "suppliedText": "C'est ici que s'arrête Roméo et Juliette",
+      "sourceLineId": "romeo-timed-795-15",
+      "speaker": "Lady Capulet & Montaigu",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 8373,
+        "sourceLineNumber": 795,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8382,
+      "sourceText": "Qu'on nous juge, qu'on nous blâme",
+      "ipa": "[kɔ̃ nu ʒyʒ kɔ̃ nu blam]",
+      "ear": "孔 努 日于日 孔 努 布拉姆",
+      "meaning": "审判我们吧，责备我们吧。",
+      "suppliedText": "Qu'on nous juge, qu'on nous blâme",
+      "sourceLineId": "romeo-timed-796-16",
+      "speaker": "Lady Capulet & Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8382,
+        "sourceLineNumber": 796,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8387.217,
+      "sourceText": "Eux le paradis, nous les flammes",
+      "ipa": "[ø lə paʁadi nu le flam]",
+      "ear": "厄 勒 帕哈迪 努 莱 弗拉姆",
+      "meaning": "天堂归他们，烈火归我们。",
+      "suppliedText": "Eux le paradis, nous les flammes",
+      "sourceLineId": "romeo-timed-796-17",
+      "speaker": "Lady Capulet & Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8382,
+        "sourceLineNumber": 796,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8392,
+      "sourceText": "C'est ici que s'arrête Roméo et Juliette",
+      "ipa": "[sɛt‿isi kə saʁɛt ʁomeo e ʒyljɛt]",
+      "ear": "塞特 伊西 克 萨赫特 霍梅奥 诶 日于勒耶艾特",
+      "meaning": "罗密欧与朱丽叶的故事，到这里结束。",
+      "suppliedText": "C'est ici que s'arrête Roméo et Juliette",
+      "sourceLineId": "romeo-timed-797-18",
+      "speaker": "Lady Capulet & Montaigu",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 8392,
+        "sourceLineNumber": 797,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8404,
+      "sourceText": "Coupables, coupables...",
+      "ipa": "[kupabl kupabl]",
+      "ear": "库帕布勒 库帕布勒",
+      "meaning": "有罪，有罪……",
+      "suppliedText": "Coupables, coupables...",
+      "sourceLineId": "romeo-timed-798-19",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8404,
+        "sourceLineNumber": 798,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8410.737,
+      "sourceText": "Le monde entier va nous juger",
+      "ipa": "[lə mɔ̃d‿ɑ̃tje va nu ʒyʒe]",
+      "ear": "勒 蒙德 昂特耶诶 瓦 努 日于热",
+      "meaning": "全世界都会审判我们。",
+      "suppliedText": "Le monde entier va nous juger",
+      "sourceLineId": "romeo-timed-798-20",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8404,
+        "sourceLineNumber": 798,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8420,
+      "sourceText": "Coupables",
+      "ipa": "[kupabl]",
+      "ear": "库帕布勒",
+      "meaning": "有罪。",
+      "suppliedText": "Coupables",
+      "sourceLineId": "romeo-timed-799-21",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8420,
+        "sourceLineNumber": 799,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8421.143,
+      "sourceText": "Aimer",
+      "ipa": "[ɛme]",
+      "ear": "艾梅",
+      "meaning": "爱。",
+      "suppliedText": "Aimer",
+      "sourceLineId": "romeo-timed-799-22",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8420,
+        "sourceLineNumber": 799,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8422.0,
+      "sourceText": "Coupables",
+      "ipa": "[kupabl]",
+      "ear": "库帕布勒",
+      "meaning": "有罪。",
+      "suppliedText": "Coupables",
+      "sourceLineId": "romeo-timed-799-23",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8420,
+        "sourceLineNumber": 799,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8423.143,
+      "sourceText": "C'est ce qu'y a de plus beau",
+      "ipa": "[sɛ sə ki a də ply bo]",
+      "ear": "塞 瑟 基 阿 德 普吕 博",
+      "meaning": "是世间最美的事。",
+      "suppliedText": "C'est ce qu'y a de plus beau",
+      "sourceLineId": "romeo-timed-799-24",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8420,
+        "sourceLineNumber": 799,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8426,
+      "sourceText": "Le monde entier",
+      "ipa": "[lə mɔ̃d‿ɑ̃tje]",
+      "ear": "勒 蒙德 昂特耶诶",
+      "meaning": "全世界。",
+      "suppliedText": "Le monde entier",
+      "sourceLineId": "romeo-timed-800-25",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8426,
+        "sourceLineNumber": 800,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8428.727,
+      "sourceText": "C'est rester vivant",
+      "ipa": "[sɛ ʁɛste vivɑ̃]",
+      "ear": "塞 赫斯特 维旺",
+      "meaning": "是让生命继续。",
+      "suppliedText": "C'est rester vivant",
+      "sourceLineId": "romeo-timed-800-26",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8426,
+        "sourceLineNumber": 800,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8431,
+      "sourceText": "Va nous juger",
+      "ipa": "[va nu ʒyʒe]",
+      "ear": "瓦 努 日于热",
+      "meaning": "都会审判我们。",
+      "suppliedText": "Va nous juger",
+      "sourceLineId": "romeo-timed-801-27",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8431,
+        "sourceLineNumber": 801,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8436.0,
+      "sourceText": "Aimer",
+      "ipa": "[ɛme]",
+      "ear": "艾梅",
+      "meaning": "爱。",
+      "suppliedText": "Aimer",
+      "sourceLineId": "romeo-timed-801-28",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8431,
+        "sourceLineNumber": 801,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8439,
+      "sourceText": "Coupables",
+      "ipa": "[kupabl]",
+      "ear": "库帕布勒",
+      "meaning": "有罪。",
+      "suppliedText": "Coupables",
+      "sourceLineId": "romeo-timed-802-29",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8439,
+        "sourceLineNumber": 802,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8441.0,
+      "sourceText": "C'est monter si haut",
+      "ipa": "[sɛ mɔ̃te si o]",
+      "ear": "塞 蒙特 西 奥",
+      "meaning": "是飞向高处。",
+      "suppliedText": "C'est monter si haut",
+      "sourceLineId": "romeo-timed-802-30",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8439,
+        "sourceLineNumber": 802,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8444,
+      "sourceText": "Le monde entier",
+      "ipa": "[lə mɔ̃d‿ɑ̃tje]",
+      "ear": "勒 蒙德 昂特耶诶",
+      "meaning": "全世界。",
+      "suppliedText": "Le monde entier",
+      "sourceLineId": "romeo-timed-803-31",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8444,
+        "sourceLineNumber": 803,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8448.909,
+      "sourceText": "Va nous juger",
+      "ipa": "[va nu ʒyʒe]",
+      "ear": "瓦 努 日于热",
+      "meaning": "都会审判我们。",
+      "suppliedText": "Va nous juger",
+      "sourceLineId": "romeo-timed-803-32",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8444,
+        "sourceLineNumber": 803,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8453,
+      "sourceText": "Coupables",
+      "ipa": "[kupabl]",
+      "ear": "库帕布勒",
+      "meaning": "有罪。",
+      "suppliedText": "Coupables",
+      "sourceLineId": "romeo-timed-804-33",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8453,
+        "sourceLineNumber": 804,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8454.647,
+      "sourceText": "Aimer c'est ce qu’y a de plus beau",
+      "ipa": "[ɛme sɛ sə ki a də ply bo]",
+      "ear": "艾梅 塞 瑟 基 阿 德 普吕 博",
+      "meaning": "爱，是世间最美的事。",
+      "suppliedText": "Aimer c'est ce qu’y a de plus beau",
+      "sourceLineId": "romeo-timed-804-34",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8453,
+        "sourceLineNumber": 804,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8460,
+      "sourceText": "Le monde entier",
+      "ipa": "[lə mɔ̃d‿ɑ̃tje]",
+      "ear": "勒 蒙德 昂特耶诶",
+      "meaning": "全世界。",
+      "suppliedText": "Le monde entier",
+      "sourceLineId": "romeo-timed-805-35",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8460,
+        "sourceLineNumber": 805,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8462.727,
+      "sourceText": "C'est rester vivant",
+      "ipa": "[sɛ ʁɛste vivɑ̃]",
+      "ear": "塞 赫斯特 维旺",
+      "meaning": "是让生命继续。",
+      "suppliedText": "C'est rester vivant",
+      "sourceLineId": "romeo-timed-805-36",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8460,
+        "sourceLineNumber": 805,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8465,
+      "sourceText": "Va nous juger",
+      "ipa": "[va nu ʒyʒe]",
+      "ear": "瓦 努 日于热",
+      "meaning": "都会审判我们。",
+      "suppliedText": "Va nous juger",
+      "sourceLineId": "romeo-timed-806-37",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8465,
+        "sourceLineNumber": 806,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8469.286,
+      "sourceText": "Tous les enfants sont innocents",
+      "ipa": "[tu lez‿ɑ̃fɑ̃ sɔ̃t‿inosɑ̃]",
+      "ear": "图 莱兹 昂芳 松特 伊诺桑",
+      "meaning": "所有孩子都是无辜的。",
+      "suppliedText": "Tous les enfants sont innocents",
+      "sourceLineId": "romeo-timed-806-38",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 8465,
+        "sourceLineNumber": 806,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8477,
+      "sourceText": "Le monde entier va nous juger",
+      "ipa": "[lə mɔ̃d‿ɑ̃tje va nu ʒyʒe]",
+      "ear": "勒 蒙德 昂特耶诶 瓦 努 日于热",
+      "meaning": "全世界都会审判我们。",
+      "suppliedText": "Le monde entier va nous juger",
+      "sourceLineId": "romeo-timed-807-39",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 8477,
+        "sourceLineNumber": 807,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 8490,
+      "sourceText": "Aimer",
+      "ipa": "[ɛme]",
+      "ear": "艾梅",
+      "meaning": "爱。",
+      "suppliedText": "Aimer",
+      "sourceLineId": "romeo-timed-808-40",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 8490,
+        "sourceLineNumber": 808,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -9,13 +9,159 @@
   "trackNumber": 7,
   "act": 1,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr-FR",
-  "captionDelivery": "youtube-player",
-  "captionSource": "youtube-player",
+  "captionDelivery": "study-page",
+  "captionSource": "editorial",
   "nativeCaptionAvailable": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Qu'est c'qu'on sait de l'amour quand on n'a que 16 ans",
+      "start": 1164,
+      "duration": 4.595
+    },
+    {
+      "text": "Bien sûr on sait qu'un jour mais, un jour ça sera quand",
+      "start": 1168.595,
+      "duration": 5.405
+    },
+    {
+      "text": "Qu'est c'qu'on sait de la vie, quand la vôtre commence",
+      "start": 1174,
+      "duration": 4.629
+    },
+    {
+      "text": "Et qu'on meurt d'impatience en attendant celui",
+      "start": 1178.629,
+      "duration": 4.371
+    },
+    {
+      "text": "Qui vous aimera, celui, qui vous dira",
+      "start": 1183,
+      "duration": 8.16
+    },
+    {
+      "text": "Les mots, ces mots qu'on attend",
+      "start": 1191.16,
+      "duration": 3.84
+    },
+    {
+      "text": "L'amour, je le veux maintenant",
+      "start": 1195,
+      "duration": 5.0
+    },
+    {
+      "text": "Je suis aimé des femmes, moi qui n'ai pas 20 ans",
+      "start": 1200,
+      "duration": 3.676
+    },
+    {
+      "text": "Je connais toutes leurs armes, elles m'ont tué si souvent",
+      "start": 1203.676,
+      "duration": 4.324
+    },
+    {
+      "text": "Je suis aimé des femmes, sans les avoir aimées",
+      "start": 1208,
+      "duration": 4.865
+    },
+    {
+      "text": "J'ai fait couler leurs larmes, quand elles m'ont vu lassé",
+      "start": 1212.865,
+      "duration": 5.135
+    },
+    {
+      "text": "De leurs corps blancs, lassé de faire semblant",
+      "start": 1218,
+      "duration": 6.217
+    },
+    {
+      "text": "Aimer sans aimer vraiment",
+      "start": 1224.217,
+      "duration": 4.783
+    },
+    {
+      "text": "L'amour, je le veux maintenant",
+      "start": 1229,
+      "duration": 6.0
+    },
+    {
+      "text": "Un jour elle viendra bien",
+      "start": 1235,
+      "duration": 5.238
+    },
+    {
+      "text": "Un jour elle sera mon amour",
+      "start": 1240.238,
+      "duration": 5.762
+    },
+    {
+      "text": "Un jour, il viendra bien ce jour",
+      "start": 1246,
+      "duration": 7.0
+    },
+    {
+      "text": "Où je vivrai d'amour, un jour",
+      "start": 1253.0,
+      "duration": 7.0
+    },
+    {
+      "text": "Un jour, on oubliera ces jours, à traîner le cœur lourd",
+      "start": 1260,
+      "duration": 11.55
+    },
+    {
+      "text": "Un jour ce sera notre tour de nous aimer un jour",
+      "start": 1271.55,
+      "duration": 10.45
+    },
+    {
+      "text": "Un jour, on fera le même aveu",
+      "start": 1282,
+      "duration": 6.4
+    },
+    {
+      "text": "J'étais seule, on s'ra deux, et on s'aimera si fort",
+      "start": 1288.4,
+      "duration": 9.6
+    },
+    {
+      "text": "De nos âmes de nos corps",
+      "start": 1298,
+      "duration": 7.538
+    },
+    {
+      "text": "Et quand viendra la mort, on s'aimera encore, un jour ...",
+      "start": 1305.538,
+      "duration": 20.462
+    },
+    {
+      "text": "Un jour, on fera le même aveu",
+      "start": 1326,
+      "duration": 6.4
+    },
+    {
+      "text": "J'étais seule, on s'ra deux, et on s'aimera si fort",
+      "start": 1332.4,
+      "duration": 9.6
+    },
+    {
+      "text": "De nos âmes de nos corps",
+      "start": 1342,
+      "duration": 3.957
+    },
+    {
+      "text": "Et quand viendra la mort, on s'aimera encore",
+      "start": 1345.957,
+      "duration": 9.043
+    },
+    {
+      "text": "Un jour...",
+      "start": 1355,
+      "duration": 8.0
+    }
+  ],
   "playbackVideoId": "kgGN5675TAY",
   "sourceDuration": 8831,
   "sourceURL": "https://www.youtube.com/watch?v=kgGN5675TAY&t=1164",
@@ -95,12 +241,15 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "approximate",
   "playableInEmbed": true,
   "performanceYear": 2010,
   "albumReleaseYear": 2009,
   "mediaKind": "stage-video",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "isGenerated": false,
+  "studyVersion": 4
 }

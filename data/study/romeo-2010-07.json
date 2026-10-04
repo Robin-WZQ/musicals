@@ -1,0 +1,485 @@
+{
+  "videoId": "romeo-2010-07",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=1164"
+    }
+  ],
+  "entries": [
+    {
+      "start": 1164,
+      "sourceText": "Qu'est c'qu'on sait de l'amour quand on n'a que 16 ans",
+      "ipa": "[kɛ skɔ̃ sɛ də lamuʁ kɑ̃t‿ɔ̃ na kə sɛz‿ɑ̃]",
+      "ear": "凯 斯孔 塞 德 拉穆赫 康特 翁 纳 克 塞兹 昂",
+      "meaning": "才十六岁，我们懂什么爱情？",
+      "suppliedText": "Qu'est c'qu'on sait de l'amour quand on a que 16 ans",
+      "sourceLineId": "romeo-timed-122-1",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1164,
+        "sourceLineNumber": 122,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1168.595,
+      "sourceText": "Bien sûr on sait qu'un jour mais, un jour ça sera quand",
+      "ipa": "[bjɛ̃ syʁ‿ɔ̃ sɛ kœ̃ ʒuʁ mɛ œ̃ ʒuʁ sa səʁa kɑ̃]",
+      "ear": "布耶安 西于赫 翁 塞 坎 茹赫 梅 恩 茹赫 萨 瑟哈 康",
+      "meaning": "只知道终有一天，可那天究竟何时来？",
+      "suppliedText": "Bien sûr on sait qu'un jour mais, un jour ça sera quand",
+      "sourceLineId": "romeo-timed-122-2",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1164,
+        "sourceLineNumber": 122,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1174,
+      "sourceText": "Qu'est c'qu'on sait de la vie, quand la vôtre commence",
+      "ipa": "[kɛ skɔ̃ sɛ də la vi kɑ̃ la votʁ kɔmɑ̃s]",
+      "ear": "凯 斯孔 塞 德 拉 维 康 拉 沃特赫 科芒斯",
+      "meaning": "人生才刚开始，我们懂什么生活？",
+      "suppliedText": "Qu'est c'qu'on sait de la vie, quand la votre commence",
+      "sourceLineId": "romeo-timed-123-3",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1174,
+        "sourceLineNumber": 123,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1178.629,
+      "sourceText": "Et qu'on meurt d'impatience en attendant celui",
+      "ipa": "[e kɔ̃ mœʁ dɛ̃pasjɑ̃s‿ɑ̃n‿atɑ̃dɑ̃ səlɥi]",
+      "ear": "诶 孔 默厄赫 丹帕斯耶昂斯 昂恩 阿唐当 瑟勒于伊",
+      "meaning": "却已等得心急如焚，等着那个人。",
+      "suppliedText": "Et qu'on meurt d'impatience en attendant celui",
+      "sourceLineId": "romeo-timed-123-4",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1174,
+        "sourceLineNumber": 123,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1183,
+      "sourceText": "Qui vous aimera, celui, qui vous dira",
+      "ipa": "[ki vuz‿ɛmʁa səlɥi ki vu diʁa]",
+      "ear": "基 乌兹 艾姆哈 瑟勒于伊 基 乌 迪哈",
+      "meaning": "那个爱你的人，那个会对你说出。",
+      "suppliedText": "Qui vous aimera, celui, qui vous dira",
+      "sourceLineId": "romeo-timed-124-5",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1183,
+        "sourceLineNumber": 124,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1191.16,
+      "sourceText": "Les mots, ces mots qu'on attend",
+      "ipa": "[le mo se mo kɔ̃ atɑ̃]",
+      "ear": "莱 莫 塞 莫 孔 阿唐",
+      "meaning": "你一直等待的话的人。",
+      "suppliedText": "Les mots, ces mots qu'on attend",
+      "sourceLineId": "romeo-timed-124-6",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1183,
+        "sourceLineNumber": 124,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1195,
+      "sourceText": "L'amour, je le veux maintenant",
+      "ipa": "[lamuʁ ʒə lə vø mɛ̃tnɑ̃]",
+      "ear": "拉穆赫 热 勒 弗厄 曼特南",
+      "meaning": "爱情，我现在就想要。",
+      "suppliedText": "L'amour, je le veux maintenant",
+      "sourceLineId": "romeo-timed-125-7",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 1195,
+        "sourceLineNumber": 125,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1200,
+      "sourceText": "Je suis aimé des femmes, moi qui n'ai pas 20 ans",
+      "ipa": "[ʒə sɥi ɛme de fam mwa ki ne pa vɛ̃ ɑ̃]",
+      "ear": "热 斯于伊 艾梅 德 法姆 姆乌阿 基 内 帕 万 昂",
+      "meaning": "我还不到二十岁，却已被女人们爱着。",
+      "suppliedText": "Je suis aimé des femmes, moi qui n'ai pas 20 ans",
+      "sourceLineId": "romeo-timed-126-8",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1200,
+        "sourceLineNumber": 126,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1203.676,
+      "sourceText": "Je connais toutes leurs armes, elles m'ont tué si souvent",
+      "ipa": "[ʒə kɔnɛ tut lœʁz‿aʁm ɛl mɔ̃ tye si suvɑ̃]",
+      "ear": "热 科奈 图特 勒厄赫兹 阿赫姆 艾勒 蒙 蒂于诶 西 苏旺",
+      "meaning": "我熟悉她们的武器，被她们伤过无数次。",
+      "suppliedText": "Je connais toutes leurs armes, elles m'ont tué si souvent",
+      "sourceLineId": "romeo-timed-126-9",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1200,
+        "sourceLineNumber": 126,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1208,
+      "sourceText": "Je suis aimé des femmes, sans les avoir aimées",
+      "ipa": "[ʒə sɥi ɛme de fam sɑ̃ lez‿avwaʁ‿ɛme]",
+      "ear": "热 斯于伊 艾梅 德 法姆 桑 莱兹 阿弗乌阿赫 艾梅",
+      "meaning": "女人们爱我，我却没爱过她们。",
+      "suppliedText": "Je suis aimé des femmes, sans les avoir aimées",
+      "sourceLineId": "romeo-timed-127-10",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1208,
+        "sourceLineNumber": 127,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1212.865,
+      "sourceText": "J'ai fait couler leurs larmes, quand elles m'ont vu lassé",
+      "ipa": "[ʒe fɛ kule lœʁ laʁm kɑ̃t‿ɛl mɔ̃ vy lase]",
+      "ear": "热 费 库莱 勒厄赫 拉赫姆 康特 艾勒 蒙 维于 拉塞",
+      "meaning": "当她们看到我已厌倦，便流下了眼泪。",
+      "suppliedText": "J'ai fait couler leurs larmes, quand elles m'ont vu lassé",
+      "sourceLineId": "romeo-timed-127-11",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1208,
+        "sourceLineNumber": 127,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1218,
+      "sourceText": "De leurs corps blancs, lassé de faire semblant",
+      "ipa": "[də lœʁ kɔʁ blɑ̃ lase də fɛʁ sɑ̃blɑ̃]",
+      "ear": "德 勒厄赫 科赫 布朗 拉塞 德 费赫 桑布朗",
+      "meaning": "厌倦她们白皙的身体，厌倦装模作样。",
+      "suppliedText": "De leurs corps blancs, lassé de faire semblant",
+      "sourceLineId": "romeo-timed-128-12",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1218,
+        "sourceLineNumber": 128,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1224.217,
+      "sourceText": "Aimer sans aimer vraiment",
+      "ipa": "[ɛme sɑ̃ ɛme vʁɛmɑ̃]",
+      "ear": "艾梅 桑 艾梅 弗赫芒",
+      "meaning": "装着爱，却未真正爱过。",
+      "suppliedText": "Aimer sans aimer vraiment",
+      "sourceLineId": "romeo-timed-128-13",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1218,
+        "sourceLineNumber": 128,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1229,
+      "sourceText": "L'amour, je le veux maintenant",
+      "ipa": "[lamuʁ ʒə lə vø mɛ̃tnɑ̃]",
+      "ear": "拉穆赫 热 勒 弗厄 曼特南",
+      "meaning": "爱情，我现在就想要。",
+      "suppliedText": "L'amour, je le veux maintenant",
+      "sourceLineId": "romeo-timed-129-14",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 1229,
+        "sourceLineNumber": 129,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1235,
+      "sourceText": "Un jour elle viendra bien",
+      "ipa": "[œ̃ ʒuʁ‿ɛl vjɛ̃dʁa bjɛ̃]",
+      "ear": "恩 茹赫 艾勒 弗耶安德哈 布耶安",
+      "meaning": "总有一天，她会来到。",
+      "suppliedText": "Un jour elle viendra bien",
+      "sourceLineId": "romeo-timed-130-15",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1235,
+        "sourceLineNumber": 130,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1240.238,
+      "sourceText": "Un jour elle sera mon amour",
+      "ipa": "[œ̃ ʒuʁ‿ɛl səʁa mɔ̃n‿amuʁ]",
+      "ear": "恩 茹赫 艾勒 瑟哈 蒙恩 阿穆赫",
+      "meaning": "总有一天，她会成为我的爱人。",
+      "suppliedText": "Un jour elle sera mon amour",
+      "sourceLineId": "romeo-timed-130-16",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1235,
+        "sourceLineNumber": 130,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1246,
+      "sourceText": "Un jour, il viendra bien ce jour",
+      "ipa": "[œ̃ ʒuʁ il vjɛ̃dʁa bjɛ̃ sə ʒuʁ]",
+      "ear": "恩 茹赫 伊勒 弗耶安德哈 布耶安 瑟 茹赫",
+      "meaning": "总有一天，那一天会来到。",
+      "suppliedText": "Un jour, il viendra bien ce jour",
+      "sourceLineId": "romeo-timed-131-17",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1246,
+        "sourceLineNumber": 131,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1253.0,
+      "sourceText": "Où je vivrai d'amour, un jour",
+      "ipa": "[u ʒə vivʁe damuʁ œ̃ ʒuʁ]",
+      "ear": "乌 热 维弗赫 达穆赫 恩 茹赫",
+      "meaning": "我会为爱而活，总有一天。",
+      "suppliedText": "Où je vivrai d'amour, un jour",
+      "sourceLineId": "romeo-timed-131-18",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1246,
+        "sourceLineNumber": 131,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1260,
+      "sourceText": "Un jour, on oubliera ces jours, à traîner le cœur lourd",
+      "ipa": "[œ̃ ʒuʁ ɔ̃n‿ubliʁa se ʒuʁ a tʁɛne lə kœʁ luʁ]",
+      "ear": "恩 茹赫 翁恩 乌布利哈 塞 茹赫 阿 特赫内 勒 克厄赫 卢赫",
+      "meaning": "总有一天，我们会忘记那些怀着沉重心情游荡的日子。",
+      "suppliedText": "Un jour, on oubliera ces jours, à traîner le cœur lourd",
+      "sourceLineId": "romeo-timed-132-19",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1260,
+        "sourceLineNumber": 132,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1271.55,
+      "sourceText": "Un jour ce sera notre tour de nous aimer un jour",
+      "ipa": "[œ̃ ʒuʁ sə səʁa notʁ tuʁ də nuz‿ɛme œ̃ ʒuʁ]",
+      "ear": "恩 茹赫 瑟 瑟哈 诺特赫 图赫 德 努兹 艾梅 恩 茹赫",
+      "meaning": "总有一天，会轮到我们相爱。",
+      "suppliedText": "Un jour ce sera notre tour de nous aimer un jour",
+      "sourceLineId": "romeo-timed-132-20",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1260,
+        "sourceLineNumber": 132,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1282,
+      "sourceText": "Un jour, on fera le même aveu",
+      "ipa": "[œ̃ ʒuʁ ɔ̃ fəʁa lə mɛm‿avø]",
+      "ear": "恩 茹赫 翁 弗哈 勒 梅姆 阿弗厄",
+      "meaning": "总有一天，我们会说出同样的心声。",
+      "suppliedText": "Un jour, on fera le même aveu",
+      "sourceLineId": "romeo-timed-133-21",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1282,
+        "sourceLineNumber": 133,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1288.4,
+      "sourceText": "J'étais seule, on s'ra deux, et on s'aimera si fort",
+      "ipa": "[ʒetɛ sœl ɔ̃ sʁa dø e ɔ̃ sɛmʁa si fɔʁ]",
+      "ear": "热泰 瑟厄勒 翁 斯哈 德厄 诶 翁 塞姆哈 西 佛赫",
+      "meaning": "曾经我独自一人，往后我们会相伴，爱得那么深。",
+      "suppliedText": "J'étais seule, on s'ra deux, et on s'aimera si fort",
+      "sourceLineId": "romeo-timed-133-22",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1282,
+        "sourceLineNumber": 133,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1298,
+      "sourceText": "De nos âmes de nos corps",
+      "ipa": "[də noz‿am də no kɔʁ]",
+      "ear": "德 诺兹 阿姆 德 诺 科赫",
+      "meaning": "用我们的灵魂，用我们的身体。",
+      "suppliedText": "De nos âmes de nos corps",
+      "sourceLineId": "romeo-timed-134-23",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1298,
+        "sourceLineNumber": 134,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1305.538,
+      "sourceText": "Et quand viendra la mort, on s'aimera encore, un jour ...",
+      "ipa": "[e kɑ̃ vjɛ̃dʁa la mɔʁ ɔ̃ sɛmʁa ɑ̃kɔʁ œ̃ ʒuʁ]",
+      "ear": "诶 康 弗耶安德哈 拉 莫赫 翁 塞姆哈 昂科赫 恩 茹赫",
+      "meaning": "即便死亡来到，我们依然相爱，总有一天……",
+      "suppliedText": "Et quand viendra la mort, on s'aimera encore, un jour ...",
+      "sourceLineId": "romeo-timed-134-24",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1298,
+        "sourceLineNumber": 134,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1326,
+      "sourceText": "Un jour, on fera le même aveu",
+      "ipa": "[œ̃ ʒuʁ ɔ̃ fəʁa lə mɛm‿avø]",
+      "ear": "恩 茹赫 翁 弗哈 勒 梅姆 阿弗厄",
+      "meaning": "总有一天，我们会说出同样的心声。",
+      "suppliedText": "Un jour, on fera le même aveu",
+      "sourceLineId": "romeo-timed-135-25",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1326,
+        "sourceLineNumber": 135,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1332.4,
+      "sourceText": "J'étais seule, on s'ra deux, et on s'aimera si fort",
+      "ipa": "[ʒetɛ sœl ɔ̃ sʁa dø e ɔ̃ sɛmʁa si fɔʁ]",
+      "ear": "热泰 瑟厄勒 翁 斯哈 德厄 诶 翁 塞姆哈 西 佛赫",
+      "meaning": "曾经我独自一人，往后我们会相伴，爱得那么深。",
+      "suppliedText": "J'étais seule, on s'ra deux, et on s'aimera si fort",
+      "sourceLineId": "romeo-timed-135-26",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1326,
+        "sourceLineNumber": 135,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1342,
+      "sourceText": "De nos âmes de nos corps",
+      "ipa": "[də noz‿am də no kɔʁ]",
+      "ear": "德 诺兹 阿姆 德 诺 科赫",
+      "meaning": "用我们的灵魂，用我们的身体。",
+      "suppliedText": "De nos âmes de nos corps",
+      "sourceLineId": "romeo-timed-136-27",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1342,
+        "sourceLineNumber": 136,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1345.957,
+      "sourceText": "Et quand viendra la mort, on s'aimera encore",
+      "ipa": "[e kɑ̃ vjɛ̃dʁa la mɔʁ ɔ̃ sɛmʁa ɑ̃kɔʁ]",
+      "ear": "诶 康 弗耶安德哈 拉 莫赫 翁 塞姆哈 昂科赫",
+      "meaning": "即便死亡来到，我们依然相爱。",
+      "suppliedText": "Et quand viendra la mort, on s'aimera encore",
+      "sourceLineId": "romeo-timed-136-28",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1342,
+        "sourceLineNumber": 136,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1355,
+      "sourceText": "Un jour...",
+      "ipa": "[œ̃ ʒuʁ]",
+      "ear": "恩 茹赫",
+      "meaning": "总有一天……",
+      "suppliedText": "Un jour...",
+      "sourceLineId": "romeo-timed-137-29",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 1355,
+        "sourceLineNumber": 137,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

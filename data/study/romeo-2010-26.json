@@ -1,0 +1,1141 @@
+{
+  "videoId": "romeo-2010-26",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=5225"
+    }
+  ],
+  "entries": [
+    {
+      "start": 5225,
+      "sourceText": "Toi, mon mari, ou étais tu quand Juliette grandissait ?",
+      "ipa": "[twa mɔ̃ maʁi u etɛ ty kɑ̃ ʒyljɛt ɡʁɑ̃disɛ]",
+      "ear": "特乌阿 蒙 玛希 乌 诶泰 蒂于 康 日于勒耶艾特 格杭迪塞",
+      "meaning": "你，我的丈夫，朱丽叶长大时你在哪里？",
+      "suppliedText": "Toi, mon mari, ou étais tu quand Juliette grandissait ?",
+      "sourceLineId": "romeo-timed-498-1",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5225,
+        "sourceLineNumber": 498,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5231,
+      "sourceText": "Où étais-tu quand je vieillissais ?",
+      "ipa": "[u etɛty kɑ̃ ʒə vjɛjisɛ]",
+      "ear": "乌 诶泰蒂于 康 热 弗耶艾耶伊塞",
+      "meaning": "我逐渐老去时，你在哪里？",
+      "suppliedText": "Où étais-tu quand je vieillissais ?",
+      "sourceLineId": "romeo-timed-499-2",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5231,
+        "sourceLineNumber": 499,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5234.649,
+      "sourceText": "Où étais-tu quand il est mort ?",
+      "ipa": "[u etɛty kɑ̃t‿il‿ɛ mɔʁ]",
+      "ear": "乌 诶泰蒂于 康特 伊勒 艾 莫赫",
+      "meaning": "他死去时，你在哪里？",
+      "suppliedText": "Où étais-tu quand il est mort ?",
+      "sourceLineId": "romeo-timed-499-3",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5231,
+        "sourceLineNumber": 499,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5237.324,
+      "sourceText": "Es-tu un homme ou une ombre ?",
+      "ipa": "[ɛty œ̃n‿ɔm‿u yn‿ɔ̃bʁ]",
+      "ear": "艾蒂于 恩恩 哦姆 乌 于恩 翁布赫",
+      "meaning": "你是个男人，还是一道影子？",
+      "suppliedText": "Es-tu un homme ou une ombre ?",
+      "sourceLineId": "romeo-timed-499-4",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5231,
+        "sourceLineNumber": 499,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5240,
+      "sourceText": "Réclameras-tu vengeance pour lui ou dois-je le faire à ta place ?",
+      "ipa": "[ʁeklamʁaty vɑ̃ʒɑ̃s puʁ lɥi u dwaʒ lə fɛʁ‿a ta plas]",
+      "ear": "赫克拉姆哈蒂于 旺让斯 普赫 勒于伊 乌 德乌阿日 勒 费赫 阿 塔 普拉斯",
+      "meaning": "你会为他要求复仇，还是要我替你去做？",
+      "suppliedText": "Réclameras-tu vengeance pour lui ou dois-je le faire à ta place ?",
+      "sourceLineId": "romeo-timed-500-5",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5240,
+        "sourceLineNumber": 500,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5244.062,
+      "sourceText": "Réponds !",
+      "ipa": "[ʁepɔ̃]",
+      "ear": "赫蓬",
+      "meaning": "回答我！",
+      "suppliedText": "Réponds !",
+      "sourceLineId": "romeo-timed-500-6",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5240,
+        "sourceLineNumber": 500,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5244.375,
+      "sourceText": "Tais-toi !",
+      "ipa": "[tɛtwa]",
+      "ear": "泰特乌阿",
+      "meaning": "闭嘴！",
+      "suppliedText": "Tais-toi !",
+      "sourceLineId": "romeo-timed-500-7",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5240,
+        "sourceLineNumber": 500,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5245,
+      "sourceText": "Quel est le prix",
+      "ipa": "[kɛl‿ɛ lə pʁi]",
+      "ear": "凯勒 艾 勒 普希",
+      "meaning": "代价是什么？",
+      "suppliedText": "Quel est le prix",
+      "sourceLineId": "romeo-timed-501-8",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5245,
+        "sourceLineNumber": 501,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5247.222,
+      "sourceText": "Qu'on va nous payer pour sa vie",
+      "ipa": "[kɔ̃ va nu pɛje puʁ sa vi]",
+      "ear": "孔 瓦 努 佩耶诶 普赫 萨 维",
+      "meaning": "他们要为他的命，付出什么？",
+      "suppliedText": "Qu'on va nous payer pour sa vie",
+      "sourceLineId": "romeo-timed-501-9",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5245,
+        "sourceLineNumber": 501,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5253,
+      "sourceText": "Quel est le sort",
+      "ipa": "[kɛl‿ɛ lə sɔʁ]",
+      "ear": "凯勒 艾 勒 索赫",
+      "meaning": "怎样的结局。",
+      "suppliedText": "Quel est le sort",
+      "sourceLineId": "romeo-timed-502-10",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5253,
+        "sourceLineNumber": 502,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5255.778,
+      "sourceText": "Qu'on donne à ceux qui donnent la mort",
+      "ipa": "[kɔ̃ dɔn‿a sø ki dɔn la mɔʁ]",
+      "ear": "孔 多恩 阿 瑟厄 基 多恩 拉 莫赫",
+      "meaning": "该降在杀人者身上？",
+      "suppliedText": "Qu'on donne à ceux qui donnent la mort",
+      "sourceLineId": "romeo-timed-502-11",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5253,
+        "sourceLineNumber": 502,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5263,
+      "sourceText": "Mon fils a tué",
+      "ipa": "[mɔ̃ fis‿a tye]",
+      "ear": "蒙 菲斯 阿 蒂于诶",
+      "meaning": "我的儿子杀了人。",
+      "suppliedText": "Mon fils a tué",
+      "sourceLineId": "romeo-timed-503-12",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5263,
+        "sourceLineNumber": 503,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5264.765,
+      "sourceText": "Mais vous tous ici vous savez",
+      "ipa": "[mɛ vu tus‿isi vu save]",
+      "ear": "梅 乌 图斯 伊西 乌 萨韦",
+      "meaning": "可在场的你们都知道。",
+      "suppliedText": "Mais vous tous ici vous savez",
+      "sourceLineId": "romeo-timed-503-13",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5263,
+        "sourceLineNumber": 503,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5269,
+      "sourceText": "Que Tybalt avant",
+      "ipa": "[kə tibalt‿avɑ̃]",
+      "ear": "克 蒂巴勒特 阿旺",
+      "meaning": "提伯尔特在这之前。",
+      "suppliedText": "Que Tybalt avant",
+      "sourceLineId": "romeo-timed-504-14",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5269,
+        "sourceLineNumber": 504,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5271.667,
+      "sourceText": "Avait déjà fait couler le sang",
+      "ipa": "[avɛ deʒa fɛ kule lə sɑ̃]",
+      "ear": "阿韦 德扎 费 库莱 勒 桑",
+      "meaning": "已经让鲜血流下。",
+      "suppliedText": "Avait déjà fait couler le sang",
+      "sourceLineId": "romeo-timed-504-15",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5269,
+        "sourceLineNumber": 504,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5277,
+      "sourceText": "L'affaire est faite",
+      "ipa": "[lafɛʁ‿ɛ fɛt]",
+      "ear": "拉费赫 艾 费特",
+      "meaning": "事情已经发生。",
+      "suppliedText": "L'affaire est faite",
+      "sourceLineId": "romeo-timed-505-16",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5277,
+        "sourceLineNumber": 505,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5279.783,
+      "sourceText": "Mais maintenant pour que tout s'arrête",
+      "ipa": "[mɛ mɛ̃tnɑ̃ puʁ kə tu saʁɛt]",
+      "ear": "梅 曼特南 普赫 克 图 萨赫特",
+      "meaning": "可现在，要让一切结束。",
+      "suppliedText": "Mais maintenant pour que tout s'arrête",
+      "sourceLineId": "romeo-timed-505-17",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5277,
+        "sourceLineNumber": 505,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5285,
+      "sourceText": "Je dois vous croire",
+      "ipa": "[ʒə dwa vu kʁwaʁ]",
+      "ear": "热 德乌阿 乌 克赫乌阿赫",
+      "meaning": "我必须相信你们。",
+      "suppliedText": "Je dois vous croire",
+      "sourceLineId": "romeo-timed-506-18",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5285,
+        "sourceLineNumber": 506,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5291.857,
+      "sourceText": "Je dois savoir",
+      "ipa": "[ʒə dwa savwaʁ]",
+      "ear": "热 德乌阿 萨弗乌阿赫",
+      "meaning": "我必须知道真相。",
+      "suppliedText": "Je dois savoir",
+      "sourceLineId": "romeo-timed-506-19",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5285,
+        "sourceLineNumber": 506,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5297,
+      "sourceText": "Je n'ai pas, je vous le jure",
+      "ipa": "[ʒə ne pa ʒə vu lə ʒyʁ]",
+      "ear": "热 内 帕 热 乌 勒 日于赫",
+      "meaning": "我向您发誓，我没有。",
+      "suppliedText": "Je n'ai pas, je vous le jure",
+      "sourceLineId": "romeo-timed-507-20",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5297,
+        "sourceLineNumber": 507,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5301.737,
+      "sourceText": "Voulu ce qui s'est passé",
+      "ipa": "[vuly sə ki sɛ pase]",
+      "ear": "乌吕 瑟 基 塞 帕塞",
+      "meaning": "想让事情变成这样。",
+      "suppliedText": "Voulu ce qui s'est passé",
+      "sourceLineId": "romeo-timed-507-21",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5297,
+        "sourceLineNumber": 507,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5306,
+      "sourceText": "La vengeance n'est pas ma nature",
+      "ipa": "[la vɑ̃ʒɑ̃s nɛ pa ma natyʁ]",
+      "ear": "拉 旺让斯 奈 帕 玛 纳蒂于赫",
+      "meaning": "复仇不是我的本性。",
+      "suppliedText": "La vengeance n'est pas ma nature",
+      "sourceLineId": "romeo-timed-508-22",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5306,
+        "sourceLineNumber": 508,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5309.208,
+      "sourceText": "Mais pourtant oui, je l'ai vengé",
+      "ipa": "[mɛ puʁtɑ̃ wi ʒə le vɑ̃ʒe]",
+      "ear": "梅 普赫唐 乌伊 热 莱 旺热",
+      "meaning": "但我确实为他报了仇。",
+      "suppliedText": "Mais pourtant oui, je l'ai vengé",
+      "sourceLineId": "romeo-timed-508-23",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5306,
+        "sourceLineNumber": 508,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5313,
+      "sourceText": "Faut-il donc, ne rien faire",
+      "ipa": "[fotil dɔ̃k nə ʁjɛ̃ fɛʁ]",
+      "ear": "佛蒂勒 东克 讷 赫耶安 费赫",
+      "meaning": "难道只能什么也不做？",
+      "suppliedText": "Faut-il donc, ne rien faire",
+      "sourceLineId": "romeo-timed-509-24",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5313,
+        "sourceLineNumber": 509,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5318.714,
+      "sourceText": "Quand on voit mourir, un frère",
+      "ipa": "[kɑ̃t‿ɔ̃ vwa muʁiʁ œ̃ fʁɛʁ]",
+      "ear": "康特 翁 弗乌阿 穆希赫 恩 弗赫赫",
+      "meaning": "眼看着一个兄弟死去。",
+      "suppliedText": "Quand on voit mourir, un frère",
+      "sourceLineId": "romeo-timed-509-25",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5313,
+        "sourceLineNumber": 509,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5325,
+      "sourceText": "Vous, qui vous détestez tant",
+      "ipa": "[vu ki vu detɛste tɑ̃]",
+      "ear": "乌 基 乌 德泰斯特 唐",
+      "meaning": "你们互相憎恨。",
+      "suppliedText": "Vous, qui vous détestez tant",
+      "sourceLineId": "romeo-timed-510-26",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5325,
+        "sourceLineNumber": 510,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5328.81,
+      "sourceText": "Comment pouvez-vous, nous juger",
+      "ipa": "[kɔmɑ̃ puvevu nu ʒyʒe]",
+      "ear": "科芒 普韦乌 努 日于热",
+      "meaning": "又怎么有资格审判我们？",
+      "suppliedText": "Comment pouvez-vous, nous juger",
+      "sourceLineId": "romeo-timed-510-27",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5325,
+        "sourceLineNumber": 510,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5333,
+      "sourceText": "Nous sommes tous les trois, vos enfants",
+      "ipa": "[nu sɔm tu le tʁwa voz‿ɑ̃fɑ̃]",
+      "ear": "努 索姆 图 莱 特赫乌阿 沃兹 昂芳",
+      "meaning": "我们三个，都是你们的孩子。",
+      "suppliedText": "Nous sommes tous les trois, vos enfants",
+      "sourceLineId": "romeo-timed-511-28",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5333,
+        "sourceLineNumber": 511,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5336.84,
+      "sourceText": "C'est vous les seuls, qui les avez tués",
+      "ipa": "[sɛ vu le sœl ki lez‿ave tye]",
+      "ear": "塞 乌 莱 瑟厄勒 基 莱兹 阿韦 蒂于诶",
+      "meaning": "杀死他们的，只有你们。",
+      "suppliedText": "C'est vous les seuls, qui les avez tués",
+      "sourceLineId": "romeo-timed-511-29",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5333,
+        "sourceLineNumber": 511,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5341,
+      "sourceText": "Nous ne sommes, que des mimes",
+      "ipa": "[nu nə sɔm kə de mim]",
+      "ear": "努 讷 索姆 克 德 米姆",
+      "meaning": "我们不过是模仿者。",
+      "suppliedText": "Nous ne sommes, que des mimes",
+      "sourceLineId": "romeo-timed-512-30",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5341,
+        "sourceLineNumber": 512,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5347.957,
+      "sourceText": "À imiter, vos crimes",
+      "ipa": "[a imite vo kʁim]",
+      "ear": "阿 伊米特 沃 克希姆",
+      "meaning": "模仿你们的罪行。",
+      "suppliedText": "À imiter, vos crimes",
+      "sourceLineId": "romeo-timed-512-31",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5341,
+        "sourceLineNumber": 512,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5352.826,
+      "sourceText": "Menteur !",
+      "ipa": "[mɑ̃tœʁ]",
+      "ear": "芒特厄赫",
+      "meaning": "骗子！",
+      "suppliedText": "Menteur !",
+      "sourceLineId": "romeo-timed-512-32",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5341,
+        "sourceLineNumber": 512,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5354.913,
+      "sourceText": "Menteur !",
+      "ipa": "[mɑ̃tœʁ]",
+      "ear": "芒特厄赫",
+      "meaning": "骗子！",
+      "suppliedText": "Menteur !",
+      "sourceLineId": "romeo-timed-512-33",
+      "speaker": "Lady Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5341,
+        "sourceLineNumber": 512,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5357,
+      "sourceText": "Quel est le prix",
+      "ipa": "[kɛl‿ɛ lə pʁi]",
+      "ear": "凯勒 艾 勒 普希",
+      "meaning": "代价是什么？",
+      "suppliedText": "Quel est le prix",
+      "sourceLineId": "romeo-timed-513-34",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5357,
+        "sourceLineNumber": 513,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5359.222,
+      "sourceText": "Qu'on va nous payer pour sa vie",
+      "ipa": "[kɔ̃ va nu pɛje puʁ sa vi]",
+      "ear": "孔 瓦 努 佩耶诶 普赫 萨 维",
+      "meaning": "他们要为他的命，付出什么？",
+      "suppliedText": "Qu'on va nous payer pour sa vie",
+      "sourceLineId": "romeo-timed-513-35",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5357,
+        "sourceLineNumber": 513,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5365,
+      "sourceText": "Quel est le sort",
+      "ipa": "[kɛl‿ɛ lə sɔʁ]",
+      "ear": "凯勒 艾 勒 索赫",
+      "meaning": "怎样的结局。",
+      "suppliedText": "Quel est le sort",
+      "sourceLineId": "romeo-timed-514-36",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5365,
+        "sourceLineNumber": 514,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5367.222,
+      "sourceText": "Qu'on donne à ceux qui donnent la mort",
+      "ipa": "[kɔ̃ dɔn‿a sø ki dɔn la mɔʁ]",
+      "ear": "孔 多恩 阿 瑟厄 基 多恩 拉 莫赫",
+      "meaning": "该降在杀人者身上？",
+      "suppliedText": "Qu'on donne à ceux qui donnent la mort",
+      "sourceLineId": "romeo-timed-514-37",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5365,
+        "sourceLineNumber": 514,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5373,
+      "sourceText": "Quel est le prix",
+      "ipa": "[kɛl‿ɛ lə pʁi]",
+      "ear": "凯勒 艾 勒 普希",
+      "meaning": "代价是什么？",
+      "suppliedText": "Quel est le prix",
+      "sourceLineId": "romeo-timed-515-38",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5373,
+        "sourceLineNumber": 515,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5375.222,
+      "sourceText": "Qu'on va nous payer pour sa vie",
+      "ipa": "[kɔ̃ va nu pɛje puʁ sa vi]",
+      "ear": "孔 瓦 努 佩耶诶 普赫 萨 维",
+      "meaning": "他们要为他的命，付出什么？",
+      "suppliedText": "Qu'on va nous payer pour sa vie",
+      "sourceLineId": "romeo-timed-515-39",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5373,
+        "sourceLineNumber": 515,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5381,
+      "sourceText": "Quel est le sort",
+      "ipa": "[kɛl‿ɛ lə sɔʁ]",
+      "ear": "凯勒 艾 勒 索赫",
+      "meaning": "怎样的结局。",
+      "suppliedText": "Quel est le sort",
+      "sourceLineId": "romeo-timed-516-40",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5381,
+        "sourceLineNumber": 516,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5382.944,
+      "sourceText": "Qu'on donne à ceux qui donnent la mort",
+      "ipa": "[kɔ̃ dɔn‿a sø ki dɔn la mɔʁ]",
+      "ear": "孔 多恩 阿 瑟厄 基 多恩 拉 莫赫",
+      "meaning": "该降在杀人者身上？",
+      "suppliedText": "Qu'on donne à ceux qui donnent la mort",
+      "sourceLineId": "romeo-timed-516-41",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5381,
+        "sourceLineNumber": 516,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5388,
+      "sourceText": "L'affaire est faite",
+      "ipa": "[lafɛʁ‿ɛ fɛt]",
+      "ear": "拉费赫 艾 费特",
+      "meaning": "事情已经发生。",
+      "suppliedText": "L'affaire est faite",
+      "sourceLineId": "romeo-timed-517-42",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5388,
+        "sourceLineNumber": 517,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5390.783,
+      "sourceText": "Mais maintenant pour que tout s'arrête",
+      "ipa": "[mɛ mɛ̃tnɑ̃ puʁ kə tu saʁɛt]",
+      "ear": "梅 曼特南 普赫 克 图 萨赫特",
+      "meaning": "可现在，要让一切结束。",
+      "suppliedText": "Mais maintenant pour que tout s'arrête",
+      "sourceLineId": "romeo-timed-517-43",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5388,
+        "sourceLineNumber": 517,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5396,
+      "sourceText": "Je dois vous croire",
+      "ipa": "[ʒə dwa vu kʁwaʁ]",
+      "ear": "热 德乌阿 乌 克赫乌阿赫",
+      "meaning": "我必须相信你们。",
+      "suppliedText": "Je dois vous croire",
+      "sourceLineId": "romeo-timed-518-44",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5396,
+        "sourceLineNumber": 518,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5400.0,
+      "sourceText": "Je dois savoir",
+      "ipa": "[ʒə dwa savwaʁ]",
+      "ear": "热 德乌阿 萨弗乌阿赫",
+      "meaning": "我必须知道真相。",
+      "suppliedText": "Je dois savoir",
+      "sourceLineId": "romeo-timed-518-45",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5396,
+        "sourceLineNumber": 518,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5403,
+      "sourceText": "Oh, quel est le prix",
+      "ipa": "[ɔ kɛl‿ɛ lə pʁi]",
+      "ear": "哦 凯勒 艾 勒 普希",
+      "meaning": "哦，代价是什么？",
+      "suppliedText": "Oh, quel est le prix",
+      "sourceLineId": "romeo-timed-519-46",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5403,
+        "sourceLineNumber": 519,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5412,
+      "sourceText": "Gens de Vérone !",
+      "ipa": "[ʒɑ̃ də veʁɔn]",
+      "ear": "让 德 韦霍恩",
+      "meaning": "维罗纳的居民们！",
+      "suppliedText": "Gens de Vérone !",
+      "sourceLineId": "romeo-timed-520-47",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5412,
+        "sourceLineNumber": 520,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5415.667,
+      "sourceText": "Suis-je le Roi des stupides ?",
+      "ipa": "[sɥiʒ lə ʁwa de stypid]",
+      "ear": "斯于伊日 勒 赫乌阿 德 斯蒂于皮德",
+      "meaning": "我是愚人的国王吗？",
+      "suppliedText": "Suis-je le Roi des stupides ?",
+      "sourceLineId": "romeo-timed-520-48",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5412,
+        "sourceLineNumber": 520,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5423,
+      "sourceText": "Le Prince de la bêtise pour régner sur des fous ?",
+      "ipa": "[lə pʁɛ̃s də la bɛtiz puʁ ʁenje syʁ de fu]",
+      "ear": "勒 普汉斯 德 拉 贝蒂兹 普赫 赫恩耶诶 西于赫 德 富",
+      "meaning": "统治疯子的愚蠢亲王吗？",
+      "suppliedText": "Le Prince de la bêtise pour régner sur des fous ?",
+      "sourceLineId": "romeo-timed-521-49",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5423,
+        "sourceLineNumber": 521,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5434,
+      "sourceText": "Roméo…",
+      "ipa": "[ʁomeo]",
+      "ear": "霍梅奥",
+      "meaning": "罗密欧……",
+      "suppliedText": "Roméo…",
+      "sourceLineId": "romeo-timed-522-50",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5434,
+        "sourceLineNumber": 522,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5435.2,
+      "sourceText": "Je pourrais ordonner ta mort !",
+      "ipa": "[ʒə puʁɛ ɔʁdɔne ta mɔʁ]",
+      "ear": "热 普赫 哦赫多内 塔 莫赫",
+      "meaning": "我本可以下令处死你！",
+      "suppliedText": "Je pourrais ordonner ta mort !",
+      "sourceLineId": "romeo-timed-522-51",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5434,
+        "sourceLineNumber": 522,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5439.2,
+      "sourceText": "Non !",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不！",
+      "suppliedText": "Non !",
+      "sourceLineId": "romeo-timed-522-52",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5434,
+        "sourceLineNumber": 522,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5439.6,
+      "sourceText": "Assez !",
+      "ipa": "[ase]",
+      "ear": "阿塞",
+      "meaning": "够了！",
+      "suppliedText": "Assez !",
+      "sourceLineId": "romeo-timed-522-53",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5434,
+        "sourceLineNumber": 522,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5440.4,
+      "sourceText": "Je n’exige que ton départ !",
+      "ipa": "[ʒə nɛɡziʒ kə tɔ̃ depaʁ]",
+      "ear": "热 奈格齐日 克 通 德帕赫",
+      "meaning": "我只要求你离开！",
+      "suppliedText": "Je n’exige que ton départ !",
+      "sourceLineId": "romeo-timed-522-54",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5434,
+        "sourceLineNumber": 522,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5444,
+      "sourceText": "Sois banni de cette ville à jamais et pars à l’instant pour",
+      "ipa": "[swa bani də sɛt vil‿a ʒamɛ e paʁ‿a lɛ̃stɑ̃ puʁ]",
+      "ear": "斯乌阿 巴尼 德 塞特 维勒 阿 扎梅 诶 帕赫 阿 兰斯唐 普赫",
+      "meaning": "永远被这座城放逐，立刻前往。",
+      "suppliedText": "Sois banni de cette ville à jamais et pars à l’instant pour",
+      "sourceLineId": "romeo-timed-523-55",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5444,
+        "sourceLineNumber": 523,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5464.0,
+      "sourceText": "Mantoue !",
+      "ipa": "[mɑ̃tu]",
+      "ear": "芒图",
+      "meaning": "曼图亚！",
+      "suppliedText": "Mantoue !",
+      "sourceLineId": "romeo-timed-523-56",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5444,
+        "sourceLineNumber": 523,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5468.0,
+      "sourceText": "Non !",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不！",
+      "suppliedText": "Non !",
+      "sourceLineId": "romeo-timed-523-57",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5444,
+        "sourceLineNumber": 523,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5469.0,
+      "sourceText": "Adieu !",
+      "ipa": "[adjø]",
+      "ear": "阿德耶厄",
+      "meaning": "再见！",
+      "suppliedText": "Adieu !",
+      "sourceLineId": "romeo-timed-523-58",
+      "speaker": "Le Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5444,
+        "sourceLineNumber": 523,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5473,
+      "sourceText": "Roméo !",
+      "ipa": "[ʁomeo]",
+      "ear": "霍梅奥",
+      "meaning": "罗密欧！",
+      "suppliedText": "Roméo !",
+      "sourceLineId": "romeo-timed-524-59",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5473,
+        "sourceLineNumber": 524,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5474.0,
+      "sourceText": "Mère !",
+      "ipa": "[mɛʁ]",
+      "ear": "梅赫",
+      "meaning": "母亲！",
+      "suppliedText": "Mère !",
+      "sourceLineId": "romeo-timed-524-60",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5473,
+        "sourceLineNumber": 524,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5474.667,
+      "sourceText": "Je suis banni.",
+      "ipa": "[ʒə sɥi bani]",
+      "ear": "热 斯于伊 巴尼",
+      "meaning": "我被放逐了。",
+      "suppliedText": "Je suis banni.",
+      "sourceLineId": "romeo-timed-524-61",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5473,
+        "sourceLineNumber": 524,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5476.333,
+      "sourceText": "Je perds Juliette.",
+      "ipa": "[ʒə pɛʁ ʒyljɛt]",
+      "ear": "热 佩赫 日于勒耶艾特",
+      "meaning": "我失去了朱丽叶。",
+      "suppliedText": "Je perds Juliette.",
+      "sourceLineId": "romeo-timed-524-62",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5473,
+        "sourceLineNumber": 524,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5478.333,
+      "sourceText": "Et moi je perds un fils.",
+      "ipa": "[e mwa ʒə pɛʁ‿œ̃ fis]",
+      "ear": "诶 姆乌阿 热 佩赫 恩 菲斯",
+      "meaning": "而我失去了一个儿子。",
+      "suppliedText": "Et moi je perds un fils.",
+      "sourceLineId": "romeo-timed-524-63",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5473,
+        "sourceLineNumber": 524,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5480.667,
+      "sourceText": "Je l’aime !",
+      "ipa": "[ʒə lɛm]",
+      "ear": "热 莱姆",
+      "meaning": "我爱她！",
+      "suppliedText": "Je l’aime !",
+      "sourceLineId": "romeo-timed-524-64",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5473,
+        "sourceLineNumber": 524,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5482,
+      "sourceText": "Je t’aime autant qu’elle.",
+      "ipa": "[ʒə tɛm‿otɑ̃ kɛl]",
+      "ear": "热 泰姆 奥唐 凯勒",
+      "meaning": "我爱你，一点也不比她少。",
+      "suppliedText": "Je t’aime autant qu’elle.",
+      "sourceLineId": "romeo-timed-525-65",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5482,
+        "sourceLineNumber": 525,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5484.222,
+      "sourceText": "Nous souffrons tous les deux.",
+      "ipa": "[nu sufʁɔ̃ tu le dø]",
+      "ear": "努 苏弗洪 图 莱 德厄",
+      "meaning": "我们两个都在受苦。",
+      "suppliedText": "Nous souffrons tous les deux.",
+      "sourceLineId": "romeo-timed-525-66",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5482,
+        "sourceLineNumber": 525,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5486.444,
+      "sourceText": "Comment vais-je faire pour vivre sans elle ?",
+      "ipa": "[kɔmɑ̃ vɛʒ fɛʁ puʁ vivʁ sɑ̃ ɛl]",
+      "ear": "科芒 韦日 费赫 普赫 维弗赫 桑 艾勒",
+      "meaning": "没有她，我要怎么活？",
+      "suppliedText": "Comment vais-je faire pour vivre sans elle ?",
+      "sourceLineId": "romeo-timed-525-67",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5482,
+        "sourceLineNumber": 525,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5489.778,
+      "sourceText": "Vivre sans toi me sera fatal.",
+      "ipa": "[vivʁ sɑ̃ twa mə səʁa fatal]",
+      "ear": "维弗赫 桑 特乌阿 默 瑟哈 法塔勒",
+      "meaning": "没有你，我也活不下去。",
+      "suppliedText": "Vivre sans toi me sera fatal.",
+      "sourceLineId": "romeo-timed-525-68",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5482,
+        "sourceLineNumber": 525,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5492,
+      "sourceText": "Adieu mère.",
+      "ipa": "[adjø mɛʁ]",
+      "ear": "阿德耶厄 梅赫",
+      "meaning": "再见，母亲。",
+      "suppliedText": "Adieu mère.",
+      "sourceLineId": "romeo-timed-526-69",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5492,
+        "sourceLineNumber": 526,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5495.0,
+      "sourceText": "Adieu mon fils.",
+      "ipa": "[adjø mɔ̃ fis]",
+      "ear": "阿德耶厄 蒙 菲斯",
+      "meaning": "再见，我的儿子。",
+      "suppliedText": "Adieu mon fils.",
+      "sourceLineId": "romeo-timed-526-70",
+      "speaker": "Lady Montaigu",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 5492,
+        "sourceLineNumber": 526,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

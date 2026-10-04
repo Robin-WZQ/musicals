@@ -1,0 +1,597 @@
+{
+  "videoId": "romeo-2010-13",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=2418"
+    }
+  ],
+  "entries": [
+    {
+      "start": 2430,
+      "sourceText": "Les souvenirs qu'on s'invente sont les plus beaux",
+      "ipa": "[le suvniʁ kɔ̃ sɛ̃vɑ̃t sɔ̃ le ply bo]",
+      "ear": "莱 苏弗尼赫 孔 森旺特 松 莱 普吕 博",
+      "meaning": "自己编出来的回忆，最美。",
+      "suppliedText": "Les souvenirs qu'on s'invente sont les plus beaux",
+      "sourceLineId": "romeo-timed-228-1",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2430,
+        "sourceLineNumber": 228,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2437.0,
+      "sourceText": "L'enfance est plus troublante quand tout est faux",
+      "ipa": "[lɑ̃fɑ̃s‿ɛ ply tʁublɑ̃t kɑ̃ tut‿ɛ fo]",
+      "ear": "朗芳斯 艾 普吕 特胡布朗特 康 图特 艾 佛",
+      "meaning": "一切都是假的，童年才更令人不安。",
+      "suppliedText": "L'enfance est plus troublante quand tout est faux",
+      "sourceLineId": "romeo-timed-228-2",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2430,
+        "sourceLineNumber": 228,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2444,
+      "sourceText": "On m'a volé la mienne, on m'a trahi",
+      "ipa": "[ɔ̃ ma vole la mjɛn ɔ̃ ma tʁai]",
+      "ear": "翁 玛 沃莱 拉 姆耶艾恩 翁 玛 特哈伊",
+      "meaning": "他们偷走了我的童年，背叛了我。",
+      "suppliedText": "On m'a volé la mienne, on m'a trahi",
+      "sourceLineId": "romeo-timed-229-3",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2444,
+        "sourceLineNumber": 229,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2450.0,
+      "sourceText": "Je suis le fils de la haine et du mépris",
+      "ipa": "[ʒə sɥi lə fis də la ɛn e dy mepʁi]",
+      "ear": "热 斯于伊 勒 菲斯 德 拉 艾恩 诶 迪于 梅普希",
+      "meaning": "我是仇恨与轻蔑的儿子。",
+      "suppliedText": "Je suis le fils de la haine et du mépris",
+      "sourceLineId": "romeo-timed-229-4",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2444,
+        "sourceLineNumber": 229,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2457,
+      "sourceText": "On m'a mis des œillères, et on m'a dit",
+      "ipa": "[ɔ̃ ma mi dez‿œjɛʁ e ɔ̃ ma di]",
+      "ear": "翁 玛 米 德兹 厄耶艾赫 诶 翁 玛 迪",
+      "meaning": "他们给我戴上眼罩，对我说。",
+      "suppliedText": "On m'a mis des œillères, et on m'a dit «",
+      "sourceLineId": "romeo-timed-230-5",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2457,
+        "sourceLineNumber": 230,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2462.625,
+      "sourceText": "Les autres, ils veulent la guerre, tu la voudras aussi",
+      "ipa": "[lez‿otʁ il vœl la ɡɛʁ ty la vudʁa osi]",
+      "ear": "莱兹 奥特赫 伊勒 弗厄勒 拉 盖赫 蒂于 拉 乌德哈 奥西",
+      "meaning": "“别人想打仗，你也得想。”",
+      "suppliedText": "Les autres, ils veulent la guerre, tu la voudras aussi »",
+      "sourceLineId": "romeo-timed-230-6",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2457,
+        "sourceLineNumber": 230,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2472,
+      "sourceText": "Et j'ai grandi à l'ombre de sentiments",
+      "ipa": "[e ʒe ɡʁɑ̃di a lɔ̃bʁ də sɑ̃timɑ̃]",
+      "ear": "诶 热 格杭迪 阿 隆布赫 德 桑蒂芒",
+      "meaning": "我就在这些感情的阴影下长大。",
+      "suppliedText": "Et j'ai grandi à l'ombre de sentiments",
+      "sourceLineId": "romeo-timed-231-7",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2472,
+        "sourceLineNumber": 231,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2477.778,
+      "sourceText": "Bien trop noirs, bien trop sombres, pour un enfant",
+      "ipa": "[bjɛ̃ tʁo nwaʁ bjɛ̃ tʁo sɔ̃bʁ puʁ‿œ̃n‿ɑ̃fɑ̃]",
+      "ear": "布耶安 特霍 恩乌阿赫 布耶安 特霍 松布赫 普赫 恩恩 昂芳",
+      "meaning": "对一个孩子来说，太黑暗，太阴沉。",
+      "suppliedText": "Bien trop noirs, bien trop sombres, pour un enfant",
+      "sourceLineId": "romeo-timed-231-8",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2472,
+        "sourceLineNumber": 231,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2485,
+      "sourceText": "Seul, je suis tout seul",
+      "ipa": "[sœl ʒə sɥi tu sœl]",
+      "ear": "瑟厄勒 热 斯于伊 图 瑟厄勒",
+      "meaning": "孤独，我独自一人。",
+      "suppliedText": "Seul, je suis tout seul",
+      "sourceLineId": "romeo-timed-232-9",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2485,
+        "sourceLineNumber": 232,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2492.0,
+      "sourceText": "Seul, toujours trop seul",
+      "ipa": "[sœl tuʒuʁ tʁo sœl]",
+      "ear": "瑟厄勒 图茹赫 特霍 瑟厄勒",
+      "meaning": "孤独，总是太孤独。",
+      "suppliedText": "Seul, toujours trop seul",
+      "sourceLineId": "romeo-timed-232-10",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2485,
+        "sourceLineNumber": 232,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2499,
+      "sourceText": "C'est pas ma faute",
+      "ipa": "[sɛ pa ma fot]",
+      "ear": "塞 帕 玛 佛特",
+      "meaning": "这不是我的错。（重复）",
+      "suppliedText": "C'est pas ma faute (x2)",
+      "sourceLineId": "romeo-timed-233-11",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2499,
+        "sourceLineNumber": 233,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2502.214,
+      "sourceText": "Si mes parents ont fait de moi",
+      "ipa": "[si me paʁɑ̃ ɔ̃ fɛ də mwa]",
+      "ear": "西 梅 帕杭 翁 费 德 姆乌阿",
+      "meaning": "如果父母把我变成了。",
+      "suppliedText": "Si mes parents ont fait de moi",
+      "sourceLineId": "romeo-timed-233-12",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2499,
+        "sourceLineNumber": 233,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2507.571,
+      "sourceText": "Ce que je suis, ce que tu vois",
+      "ipa": "[sə kə ʒə sɥi sə kə ty vwa]",
+      "ear": "瑟 克 热 斯于伊 瑟 克 蒂于 弗乌阿",
+      "meaning": "如今的我，你眼前的我。",
+      "suppliedText": "Ce que je suis, ce que tu vois",
+      "sourceLineId": "romeo-timed-233-13",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2499,
+        "sourceLineNumber": 233,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2514,
+      "sourceText": "C'est pas ma faute",
+      "ipa": "[sɛ pa ma fot]",
+      "ear": "塞 帕 玛 佛特",
+      "meaning": "这不是我的错。（重复）",
+      "suppliedText": "C'est pas ma faute (x2)",
+      "sourceLineId": "romeo-timed-234-14",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2514,
+        "sourceLineNumber": 234,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2516.69,
+      "sourceText": "Je suis le bras de leur vengeance",
+      "ipa": "[ʒə sɥi lə bʁa də lœʁ vɑ̃ʒɑ̃s]",
+      "ear": "热 斯于伊 勒 布哈 德 勒厄赫 旺让斯",
+      "meaning": "我是他们复仇的手臂。",
+      "suppliedText": "Je suis le bras de leur vengeance",
+      "sourceLineId": "romeo-timed-234-15",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2514,
+        "sourceLineNumber": 234,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2522.069,
+      "sourceText": "Et je leur dois obéissance",
+      "ipa": "[e ʒə lœʁ dwa obeisɑ̃s]",
+      "ear": "诶 热 勒厄赫 德乌阿 奥贝伊桑斯",
+      "meaning": "必须听他们的命令。",
+      "suppliedText": "Et je leur dois obéissance",
+      "sourceLineId": "romeo-timed-234-16",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2514,
+        "sourceLineNumber": 234,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2527,
+      "sourceText": "C'est pas ma faute",
+      "ipa": "[sɛ pa ma fot]",
+      "ear": "塞 帕 玛 佛特",
+      "meaning": "这不是我的错。",
+      "suppliedText": "C'est pas ma faute",
+      "sourceLineId": "romeo-timed-235-17",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2527,
+        "sourceLineNumber": 235,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2530.143,
+      "sourceText": "Ne me regardez pas comme ça",
+      "ipa": "[nə mə ʁəɡaʁde pa kɔm sa]",
+      "ear": "讷 默 赫嘎赫德 帕 科姆 萨",
+      "meaning": "别这样看着我。",
+      "suppliedText": "Ne me regardez pas comme ça",
+      "sourceLineId": "romeo-timed-235-18",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2527,
+        "sourceLineNumber": 235,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2534.857,
+      "sourceText": "C'est pas ma faute",
+      "ipa": "[sɛ pa ma fot]",
+      "ear": "塞 帕 玛 佛特",
+      "meaning": "这不是我的错。",
+      "suppliedText": "C'est pas ma faute",
+      "sourceLineId": "romeo-timed-235-19",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2527,
+        "sourceLineNumber": 235,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2538,
+      "sourceText": "Je n'ai pas eu, non pas le choix",
+      "ipa": "[ʒə ne pa y nɔ̃ pa lə ʃwa]",
+      "ear": "热 内 帕 于 农 帕 勒 什乌阿",
+      "meaning": "我从来没有选择。",
+      "suppliedText": "Je n'ai pas eu, non pas le choix",
+      "sourceLineId": "romeo-timed-236-20",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2538,
+        "sourceLineNumber": 236,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2546.161,
+      "sourceText": "Je suis le fils de leur violence",
+      "ipa": "[ʒə sɥi lə fis də lœʁ vjolɑ̃s]",
+      "ear": "热 斯于伊 勒 菲斯 德 勒厄赫 弗耶奥朗斯",
+      "meaning": "我是他们暴力的儿子。",
+      "suppliedText": "Je suis le fils de leur violence",
+      "sourceLineId": "romeo-timed-236-21",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2538,
+        "sourceLineNumber": 236,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2555.065,
+      "sourceText": "Fier de sa naissance",
+      "ipa": "[fjɛʁ də sa nɛsɑ̃s]",
+      "ear": "弗耶艾赫 德 萨 奈桑斯",
+      "meaning": "为自己的出身骄傲。",
+      "suppliedText": "Fier de sa naissance",
+      "sourceLineId": "romeo-timed-236-22",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2538,
+        "sourceLineNumber": 236,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2561,
+      "sourceText": "C'est pas ma faute, oh",
+      "ipa": "[sɛ pa ma fot ɔ]",
+      "ear": "塞 帕 玛 佛特 哦",
+      "meaning": "这不是我的错，哦。",
+      "suppliedText": "C'est pas ma faute, oh",
+      "sourceLineId": "romeo-timed-237-23",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2561,
+        "sourceLineNumber": 237,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2570.8,
+      "sourceText": "Non, non, non",
+      "ipa": "[nɔ̃ nɔ̃ nɔ̃]",
+      "ear": "农 农 农",
+      "meaning": "不，不，不。",
+      "suppliedText": "Non, non, non",
+      "sourceLineId": "romeo-timed-237-24",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2561,
+        "sourceLineNumber": 237,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2575,
+      "sourceText": "C'est pas ma faute",
+      "ipa": "[sɛ pa ma fot]",
+      "ear": "塞 帕 玛 佛特",
+      "meaning": "这不是我的错。",
+      "suppliedText": "C'est pas ma faute",
+      "sourceLineId": "romeo-timed-238-25",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2575,
+        "sourceLineNumber": 238,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2577.8,
+      "sourceText": "Ne me regardez pas comme ça",
+      "ipa": "[nə mə ʁəɡaʁde pa kɔm sa]",
+      "ear": "讷 默 赫嘎赫德 帕 科姆 萨",
+      "meaning": "别这样看着我。",
+      "suppliedText": "Ne me regardez pas comme ça",
+      "sourceLineId": "romeo-timed-238-26",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2575,
+        "sourceLineNumber": 238,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2582,
+      "sourceText": "C'est pas ma faute",
+      "ipa": "[sɛ pa ma fot]",
+      "ear": "塞 帕 玛 佛特",
+      "meaning": "这不是我的错。",
+      "suppliedText": "C'est pas ma faute",
+      "sourceLineId": "romeo-timed-239-27",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2582,
+        "sourceLineNumber": 239,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2584.471,
+      "sourceText": "Je n'ai pas eu, non pas le choix",
+      "ipa": "[ʒə ne pa y nɔ̃ pa lə ʃwa]",
+      "ear": "热 内 帕 于 农 帕 勒 什乌阿",
+      "meaning": "我从来没有选择。",
+      "suppliedText": "Je n'ai pas eu, non pas le choix",
+      "sourceLineId": "romeo-timed-239-28",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2582,
+        "sourceLineNumber": 239,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2589,
+      "sourceText": "Je suis le fils de leur violence",
+      "ipa": "[ʒə sɥi lə fis də lœʁ vjolɑ̃s]",
+      "ear": "热 斯于伊 勒 菲斯 德 勒厄赫 弗耶奥朗斯",
+      "meaning": "我是他们暴力的儿子。",
+      "suppliedText": "Je suis le fils de leur violence",
+      "sourceLineId": "romeo-timed-240-29",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2589,
+        "sourceLineNumber": 240,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2598.0,
+      "sourceText": "Fier de sa naissance",
+      "ipa": "[fjɛʁ də sa nɛsɑ̃s]",
+      "ear": "弗耶艾赫 德 萨 奈桑斯",
+      "meaning": "为自己的出身骄傲。",
+      "suppliedText": "Fier de sa naissance",
+      "sourceLineId": "romeo-timed-240-30",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2589,
+        "sourceLineNumber": 240,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2604,
+      "sourceText": "Les souvenirs qu'on s'invente",
+      "ipa": "[le suvniʁ kɔ̃ sɛ̃vɑ̃t]",
+      "ear": "莱 苏弗尼赫 孔 森旺特",
+      "meaning": "自己编出来的回忆。",
+      "suppliedText": "Les souvenirs qu'on s'invente",
+      "sourceLineId": "romeo-timed-241-31",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2604,
+        "sourceLineNumber": 241,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2608.375,
+      "sourceText": "Sont les plus beaux",
+      "ipa": "[sɔ̃ le ply bo]",
+      "ear": "松 莱 普吕 博",
+      "meaning": "最美。",
+      "suppliedText": "Sont les plus beaux",
+      "sourceLineId": "romeo-timed-241-32",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2604,
+        "sourceLineNumber": 241,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2611,
+      "sourceText": "L'enfance est plus troublante",
+      "ipa": "[lɑ̃fɑ̃s‿ɛ ply tʁublɑ̃t]",
+      "ear": "朗芳斯 艾 普吕 特胡布朗特",
+      "meaning": "童年更加令人不安。",
+      "suppliedText": "L'enfance est plus troublante",
+      "sourceLineId": "romeo-timed-242-33",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2611,
+        "sourceLineNumber": 242,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2614.375,
+      "sourceText": "Quand tout est faux",
+      "ipa": "[kɑ̃ tut‿ɛ fo]",
+      "ear": "康 图特 艾 佛",
+      "meaning": "当一切都是假的。",
+      "suppliedText": "Quand tout est faux",
+      "sourceLineId": "romeo-timed-242-34",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2611,
+        "sourceLineNumber": 242,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2617,
+      "sourceText": "On m'a volé la mienne, on m'a trahi",
+      "ipa": "[ɔ̃ ma vole la mjɛn ɔ̃ ma tʁai]",
+      "ear": "翁 玛 沃莱 拉 姆耶艾恩 翁 玛 特哈伊",
+      "meaning": "他们偷走了我的童年，背叛了我。",
+      "suppliedText": "On m'a volé la mienne, on m'a trahi",
+      "sourceLineId": "romeo-timed-243-35",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2617,
+        "sourceLineNumber": 243,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2626.231,
+      "sourceText": "Je suis le fils de la haine et du mépris",
+      "ipa": "[ʒə sɥi lə fis də la ɛn e dy mepʁi]",
+      "ear": "热 斯于伊 勒 菲斯 德 拉 艾恩 诶 迪于 梅普希",
+      "meaning": "我是仇恨与轻蔑的儿子。",
+      "suppliedText": "Je suis le fils de la haine et du mépris",
+      "sourceLineId": "romeo-timed-243-36",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2617,
+        "sourceLineNumber": 243,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

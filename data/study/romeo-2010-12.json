@@ -1,0 +1,821 @@
+{
+  "videoId": "romeo-2010-12",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=2199"
+    }
+  ],
+  "entries": [
+    {
+      "start": 2218,
+      "sourceText": "Elle porte une robe légère",
+      "ipa": "[ɛl pɔʁt‿yn ʁɔb leʒɛʁ]",
+      "ear": "艾勒 珀赫特 于恩 霍布 莱热赫",
+      "meaning": "她穿着轻薄的裙子。",
+      "suppliedText": "Elle porte une robe légère",
+      "sourceLineId": "romeo-timed-207-1",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2218,
+        "sourceLineNumber": 207,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2223.0,
+      "sourceText": "Un peu de soie pour qui",
+      "ipa": "[œ̃ pø də swa puʁ ki]",
+      "ear": "恩 珀厄 德 斯乌阿 普赫 基",
+      "meaning": "这一身丝绸，是为谁穿的？",
+      "suppliedText": "Un peu de soie pour qui",
+      "sourceLineId": "romeo-timed-207-2",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2218,
+        "sourceLineNumber": 207,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2228,
+      "sourceText": "Elle est belle, belle à mourir",
+      "ipa": "[ɛl‿ɛ bɛl bɛl‿a muʁiʁ]",
+      "ear": "艾勒 艾 贝勒 贝勒 阿 穆希赫",
+      "meaning": "她美得令人心碎。",
+      "suppliedText": "Elle est belle, belle à mourir",
+      "sourceLineId": "romeo-timed-208-3",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2228,
+        "sourceLineNumber": 208,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2232.529,
+      "sourceText": "Belle à choisir",
+      "ipa": "[bɛl‿a ʃwaziʁ]",
+      "ear": "贝勒 阿 什乌阿齐赫",
+      "meaning": "美得让人甘愿选择。",
+      "suppliedText": "Belle à choisir",
+      "sourceLineId": "romeo-timed-208-4",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2228,
+        "sourceLineNumber": 208,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2235,
+      "sourceText": "Un jour de mourir pour elle",
+      "ipa": "[œ̃ ʒuʁ də muʁiʁ puʁ‿ɛl]",
+      "ear": "恩 茹赫 德 穆希赫 普赫 艾勒",
+      "meaning": "有一天为她死去。",
+      "suppliedText": "Un jour de mourir pour elle",
+      "sourceLineId": "romeo-timed-209-5",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 2235,
+        "sourceLineNumber": 209,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2243,
+      "sourceText": "Que sont les yeux des hommes",
+      "ipa": "[kə sɔ̃ lez‿jø dez‿ɔm]",
+      "ear": "克 松 莱兹 耶厄 德兹 哦姆",
+      "meaning": "别的男人的眼睛算什么？",
+      "suppliedText": "Que sont les yeux des hommes",
+      "sourceLineId": "romeo-timed-210-6",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2243,
+        "sourceLineNumber": 210,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2248.263,
+      "sourceText": "Quand les siens me regardent",
+      "ipa": "[kɑ̃ le sjɛ̃ mə ʁəɡaʁd]",
+      "ear": "康 莱 斯耶安 默 赫嘎赫德",
+      "meaning": "当他的眼睛望向我。",
+      "suppliedText": "Quand les siens me regardent",
+      "sourceLineId": "romeo-timed-210-7",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2243,
+        "sourceLineNumber": 210,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2253,
+      "sourceText": "Et il brûle",
+      "ipa": "[e il bʁyl]",
+      "ear": "诶 伊勒 布许勒",
+      "meaning": "他燃烧着。",
+      "suppliedText": "Et il brûle",
+      "sourceLineId": "romeo-timed-211-8",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2253,
+        "sourceLineNumber": 211,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2254.29,
+      "sourceText": "Comme un ange en enfer",
+      "ipa": "[kɔm‿œ̃n‿ɑ̃ʒ‿ɑ̃n‿ɑ̃fɛʁ]",
+      "ear": "科姆 恩恩 昂日 昂恩 昂费赫",
+      "meaning": "像地狱中的天使。",
+      "suppliedText": "Comme un ange en enfer",
+      "sourceLineId": "romeo-timed-211-9",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2253,
+        "sourceLineNumber": 211,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2256.871,
+      "sourceText": "Comme un ange sur la terre",
+      "ipa": "[kɔm‿œ̃n‿ɑ̃ʒ syʁ la tɛʁ]",
+      "ear": "科姆 恩恩 昂日 西于赫 拉 泰赫",
+      "meaning": "像人间的天使。",
+      "suppliedText": "Comme un ange sur la terre",
+      "sourceLineId": "romeo-timed-211-10",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2253,
+        "sourceLineNumber": 211,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2259.774,
+      "sourceText": "Comme un ange de lumière",
+      "ipa": "[kɔm‿œ̃n‿ɑ̃ʒ də lymjɛʁ]",
+      "ear": "科姆 恩恩 昂日 德 吕姆耶艾赫",
+      "meaning": "像光明的天使。",
+      "suppliedText": "Comme un ange de lumière",
+      "sourceLineId": "romeo-timed-211-11",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2253,
+        "sourceLineNumber": 211,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2263,
+      "sourceText": "Il brûle",
+      "ipa": "[il bʁyl]",
+      "ear": "伊勒 布许勒",
+      "meaning": "他燃烧着。",
+      "suppliedText": "Il brûle",
+      "sourceLineId": "romeo-timed-212-12",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 2263,
+        "sourceLineNumber": 212,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2268,
+      "sourceText": "Est-ce que tu m'aimeras un jour",
+      "ipa": "[ɛs kə ty mɛmʁa œ̃ ʒuʁ]",
+      "ear": "艾斯 克 蒂于 梅姆哈 恩 茹赫",
+      "meaning": "有一天，你会爱上我吗？",
+      "suppliedText": "Est-ce que tu m'aimeras un jour",
+      "sourceLineId": "romeo-timed-213-13",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2268,
+        "sourceLineNumber": 213,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2273.217,
+      "sourceText": "Jusqu'à la fin du dernier jour",
+      "ipa": "[ʒyska la fɛ̃ dy dɛʁnje ʒuʁ]",
+      "ear": "日于斯卡 拉 凡 迪于 戴赫恩耶诶 茹赫",
+      "meaning": "直到最后一天结束。",
+      "suppliedText": "Jusqu'à la fin du dernier jour",
+      "sourceLineId": "romeo-timed-213-14",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2268,
+        "sourceLineNumber": 213,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2278,
+      "sourceText": "Est-ce que tu m'aimeras encore",
+      "ipa": "[ɛs kə ty mɛmʁa ɑ̃kɔʁ]",
+      "ear": "艾斯 克 蒂于 梅姆哈 昂科赫",
+      "meaning": "你还会继续爱我吗？",
+      "suppliedText": "Est-ce que tu m'aimeras encore",
+      "sourceLineId": "romeo-timed-214-15",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2278,
+        "sourceLineNumber": 214,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2284.0,
+      "sourceText": "Jusqu'à la fin jusqu'à la mort",
+      "ipa": "[ʒyska la fɛ̃ ʒyska la mɔʁ]",
+      "ear": "日于斯卡 拉 凡 日于斯卡 拉 莫赫",
+      "meaning": "直到最后，直到死亡。",
+      "suppliedText": "Jusqu'à la fin jusqu'à la mort",
+      "sourceLineId": "romeo-timed-214-16",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2278,
+        "sourceLineNumber": 214,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2289,
+      "sourceText": "Est-ce que tu m'aimeras un jour mon amour",
+      "ipa": "[ɛs kə ty mɛmʁa œ̃ ʒuʁ mɔ̃n‿amuʁ]",
+      "ear": "艾斯 克 蒂于 梅姆哈 恩 茹赫 蒙恩 阿穆赫",
+      "meaning": "有一天，你会爱上我吗，我的爱人？",
+      "suppliedText": "Est-ce que tu m'aimeras un jour mon amour",
+      "sourceLineId": "romeo-timed-215-17",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 2289,
+        "sourceLineNumber": 215,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2297,
+      "sourceText": "Est-ce que tu m'aimeras toujours mon amour",
+      "ipa": "[ɛs kə ty mɛmʁa tuʒuʁ mɔ̃n‿amuʁ]",
+      "ear": "艾斯 克 蒂于 梅姆哈 图茹赫 蒙恩 阿穆赫",
+      "meaning": "你会永远爱我吗，我的爱人？",
+      "suppliedText": "Est-ce que tu m'aimeras toujours mon amour",
+      "sourceLineId": "romeo-timed-216-18",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 2297,
+        "sourceLineNumber": 216,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2306,
+      "sourceText": "Est-ce que tu m'aimeras encore",
+      "ipa": "[ɛs kə ty mɛmʁa ɑ̃kɔʁ]",
+      "ear": "艾斯 克 蒂于 梅姆哈 昂科赫",
+      "meaning": "你还会继续爱我吗？",
+      "suppliedText": "Est-ce que tu m'aimeras encore",
+      "sourceLineId": "romeo-timed-217-19",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2306,
+        "sourceLineNumber": 217,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2311.455,
+      "sourceText": "Jusqu'à la fin jusqu'à la mort",
+      "ipa": "[ʒyska la fɛ̃ ʒyska la mɔʁ]",
+      "ear": "日于斯卡 拉 凡 日于斯卡 拉 莫赫",
+      "meaning": "直到最后，直到死亡。",
+      "suppliedText": "Jusqu'à la fin jusqu'à la mort",
+      "sourceLineId": "romeo-timed-217-20",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2306,
+        "sourceLineNumber": 217,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2316,
+      "sourceText": "C'est ce que disent les gens qui s'aiment",
+      "ipa": "[sɛ sə kə diz le ʒɑ̃ ki sɛm]",
+      "ear": "塞 瑟 克 迪兹 莱 让 基 塞姆",
+      "meaning": "相爱的人都会这么说。",
+      "suppliedText": "C'est ce que disent les gens qui s'aiment",
+      "sourceLineId": "romeo-timed-218-21",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2316,
+        "sourceLineNumber": 218,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2330.0,
+      "sourceText": "C'est ce que veut l'amour heureux",
+      "ipa": "[sɛ sə kə vø lamuʁ‿øʁø]",
+      "ear": "塞 瑟 克 弗厄 拉穆赫 厄赫厄",
+      "meaning": "幸福的爱情就是这样期盼的。",
+      "suppliedText": "C'est ce que veut l'amour heureux",
+      "sourceLineId": "romeo-timed-218-22",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2316,
+        "sourceLineNumber": 218,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2344,
+      "sourceText": "Est-ce que tu m'aimeras un jour",
+      "ipa": "[ɛs kə ty mɛmʁa œ̃ ʒuʁ]",
+      "ear": "艾斯 克 蒂于 梅姆哈 恩 茹赫",
+      "meaning": "有一天，你会爱上我吗？",
+      "suppliedText": "Est-ce que tu m'aimeras un jour",
+      "sourceLineId": "romeo-timed-219-23",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2344,
+        "sourceLineNumber": 219,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2349.739,
+      "sourceText": "Jusqu'à la fin du dernier jour",
+      "ipa": "[ʒyska la fɛ̃ dy dɛʁnje ʒuʁ]",
+      "ear": "日于斯卡 拉 凡 迪于 戴赫恩耶诶 茹赫",
+      "meaning": "直到最后一天结束。",
+      "suppliedText": "Jusqu'à la fin du dernier jour",
+      "sourceLineId": "romeo-timed-219-24",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2344,
+        "sourceLineNumber": 219,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2355,
+      "sourceText": "C'est ce que disent les gens qui s'aiment",
+      "ipa": "[sɛ sə kə diz le ʒɑ̃ ki sɛm]",
+      "ear": "塞 瑟 克 迪兹 莱 让 基 塞姆",
+      "meaning": "相爱的人都会这么说。",
+      "suppliedText": "C'est ce que disent les gens qui s'aiment",
+      "sourceLineId": "romeo-timed-220-25",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2355,
+        "sourceLineNumber": 220,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2364.5,
+      "sourceText": "C'est ce que veut l'amour heureux",
+      "ipa": "[sɛ sə kə vø lamuʁ‿øʁø]",
+      "ear": "塞 瑟 克 弗厄 拉穆赫 厄赫厄",
+      "meaning": "幸福的爱情就是这样期盼的。",
+      "suppliedText": "C'est ce que veut l'amour heureux",
+      "sourceLineId": "romeo-timed-220-26",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2355,
+        "sourceLineNumber": 220,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2374,
+      "sourceText": "Mon oncle !",
+      "ipa": "[mɔ̃n‿ɔ̃kl]",
+      "ear": "蒙恩 翁克勒",
+      "meaning": "舅舅！",
+      "suppliedText": "Mon oncle !",
+      "sourceLineId": "romeo-timed-221-27",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2374,
+        "sourceLineNumber": 221,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2374.5,
+      "sourceText": "Oui, qu’y-a-t-il Tybalt ?",
+      "ipa": "[wi kjatil tibalt]",
+      "ear": "乌伊 克耶阿蒂勒 蒂巴勒特",
+      "meaning": "怎么了，提伯尔特？",
+      "suppliedText": "Oui, qu’y-a-t-il Tybalt ?",
+      "sourceLineId": "romeo-timed-221-28",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2374,
+        "sourceLineNumber": 221,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2376.0,
+      "sourceText": "Un Montaigu est là !",
+      "ipa": "[œ̃ mɔ̃tɛɡy ɛ la]",
+      "ear": "恩 蒙泰吉于 艾 拉",
+      "meaning": "这里有个蒙太古！",
+      "suppliedText": "Un Montaigu est là !",
+      "sourceLineId": "romeo-timed-221-29",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2374,
+        "sourceLineNumber": 221,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2377.167,
+      "sourceText": "Là, dans votre maison !",
+      "ipa": "[la dɑ̃ votʁ mɛzɔ̃]",
+      "ear": "拉 当 沃特赫 梅宗",
+      "meaning": "就在这里，在您家里！",
+      "suppliedText": "Là, dans votre maison !",
+      "sourceLineId": "romeo-timed-221-30",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2374,
+        "sourceLineNumber": 221,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2378.333,
+      "sourceText": "Je sais, le jeune Roméo.",
+      "ipa": "[ʒə sɛ lə ʒøn ʁomeo]",
+      "ear": "热 塞 勒 热厄恩 霍梅奥",
+      "meaning": "我知道，年轻的罗密欧。",
+      "suppliedText": "Je sais, le jeune Roméo.",
+      "sourceLineId": "romeo-timed-221-31",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2374,
+        "sourceLineNumber": 221,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2380,
+      "sourceText": "Il est venu ici pour nous narguer !",
+      "ipa": "[il‿ɛ vəny isi puʁ nu naʁɡe]",
+      "ear": "伊勒 艾 弗尼于 伊西 普赫 努 纳赫格",
+      "meaning": "他来这里是为了嘲弄我们！",
+      "suppliedText": "Il est venu ici pour nous narguer !",
+      "sourceLineId": "romeo-timed-222-32",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2380,
+        "sourceLineNumber": 222,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2382.167,
+      "sourceText": "Nous provoquer !",
+      "ipa": "[nu pʁovoke]",
+      "ear": "努 普霍沃克",
+      "meaning": "挑衅我们！",
+      "suppliedText": "Nous provoquer !",
+      "sourceLineId": "romeo-timed-222-33",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2380,
+        "sourceLineNumber": 222,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2383.167,
+      "sourceText": "Chez nous !",
+      "ipa": "[ʃe nu]",
+      "ear": "谢 努",
+      "meaning": "在我们家里！",
+      "suppliedText": "Chez nous !",
+      "sourceLineId": "romeo-timed-222-34",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2380,
+        "sourceLineNumber": 222,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2383.667,
+      "sourceText": "Chez moi, Tybalt.",
+      "ipa": "[ʃe mwa tibalt]",
+      "ear": "谢 姆乌阿 蒂巴勒特",
+      "meaning": "在我家，提伯尔特。",
+      "suppliedText": "Chez moi, Tybalt.",
+      "sourceLineId": "romeo-timed-222-35",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2380,
+        "sourceLineNumber": 222,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2384.5,
+      "sourceText": "Comme toi !",
+      "ipa": "[kɔm twa]",
+      "ear": "科姆 特乌阿",
+      "meaning": "你也一样，是客人！",
+      "suppliedText": "Comme toi !",
+      "sourceLineId": "romeo-timed-222-36",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2380,
+        "sourceLineNumber": 222,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2385.167,
+      "sourceText": "Chez moi, et chez moi je reçois qui je veux !",
+      "ipa": "[ʃe mwa e ʃe mwa ʒə ʁəswa ki ʒə vø]",
+      "ear": "谢 姆乌阿 诶 谢 姆乌阿 热 赫斯乌阿 基 热 弗厄",
+      "meaning": "在我家，我想招待谁就招待谁！",
+      "suppliedText": "Chez moi, et chez moi je reçois qui je veux !",
+      "sourceLineId": "romeo-timed-222-37",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2380,
+        "sourceLineNumber": 222,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2387.833,
+      "sourceText": "De plus, je n’ai rien à reprocher à ce jeune Roméo.",
+      "ipa": "[də ply ʒə ne ʁjɛ̃n‿a ʁəpʁoʃe a sə ʒøn ʁomeo]",
+      "ear": "德 普吕 热 内 赫耶安恩 阿 赫普霍谢 阿 瑟 热厄恩 霍梅奥",
+      "meaning": "何况，这个年轻的罗密欧没什么可指责的。",
+      "suppliedText": "De plus, je n’ai rien à reprocher à ce jeune Roméo.",
+      "sourceLineId": "romeo-timed-222-38",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2380,
+        "sourceLineNumber": 222,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2391,
+      "sourceText": "Mais c’est un Montaigu !",
+      "ipa": "[mɛ sɛt‿œ̃ mɔ̃tɛɡy]",
+      "ear": "梅 塞特 恩 蒙泰吉于",
+      "meaning": "可他是个蒙太古！",
+      "suppliedText": "Mais c’est un Montaigu !",
+      "sourceLineId": "romeo-timed-223-39",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2391,
+        "sourceLineNumber": 223,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2392.143,
+      "sourceText": "C’est un jeune homme beau et fier, tout comme toi Tybalt.",
+      "ipa": "[sɛt‿œ̃ ʒøn‿ɔm bo e fjɛʁ tu kɔm twa tibalt]",
+      "ear": "塞特 恩 热厄恩 哦姆 博 诶 弗耶艾赫 图 科姆 特乌阿 蒂巴勒特",
+      "meaning": "他年轻英俊，神气十足，和你一样，提伯尔特。",
+      "suppliedText": "C’est un jeune homme beau et fier, tout comme toi Tybalt.",
+      "sourceLineId": "romeo-timed-223-40",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2391,
+        "sourceLineNumber": 223,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2395.143,
+      "sourceText": "Eh bien ça, je ne le supporterai pas !",
+      "ipa": "[ɛ bjɛ̃ sa ʒə nə lə sypɔʁtəʁe pa]",
+      "ear": "艾 布耶安 萨 热 讷 勒 西于珀赫特赫 帕",
+      "meaning": "那我绝不能忍！",
+      "suppliedText": "Eh bien ça, je ne le supporterai pas !",
+      "sourceLineId": "romeo-timed-223-41",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2391,
+        "sourceLineNumber": 223,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2397,
+      "sourceText": "Mais qui crois-tu être ?",
+      "ipa": "[mɛ ki kʁwaty ɛtʁ]",
+      "ear": "梅 基 克赫乌阿蒂于 艾特赫",
+      "meaning": "你以为自己是谁？",
+      "suppliedText": "Mais qui crois-tu être ?",
+      "sourceLineId": "romeo-timed-224-42",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2397,
+        "sourceLineNumber": 224,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2398.8,
+      "sourceText": "Et qui crois-tu que je sois ?",
+      "ipa": "[e ki kʁwaty kə ʒə swa]",
+      "ear": "诶 基 克赫乌阿蒂于 克 热 斯乌阿",
+      "meaning": "又以为我是谁？",
+      "suppliedText": "Et qui crois-tu que je sois ?",
+      "sourceLineId": "romeo-timed-224-43",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2397,
+        "sourceLineNumber": 224,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2401.0,
+      "sourceText": "Je suis le maitre chez moi !",
+      "ipa": "[ʒə sɥi lə mɛtʁ ʃe mwa]",
+      "ear": "热 斯于伊 勒 梅特赫 谢 姆乌阿",
+      "meaning": "我是这个家的主人！",
+      "suppliedText": "Je suis le maitre chez moi !",
+      "sourceLineId": "romeo-timed-224-44",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2397,
+        "sourceLineNumber": 224,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2403,
+      "sourceText": "Le maitre de vos âmes agitées, de vos colères ridicules, de vos jalousies d’enfants !",
+      "ipa": "[lə mɛtʁ də voz‿am‿aʒite də vo kolɛʁ ʁidikyl də vo ʒaluzi dɑ̃fɑ̃]",
+      "ear": "勒 梅特赫 德 沃兹 阿姆 阿日特 德 沃 科莱赫 希迪基于勒 德 沃 扎卢齐 当芳",
+      "meaning": "管着你们躁动的心、可笑的怒气，还有孩子般的嫉妒！",
+      "suppliedText": "Le maitre de vos âmes agitées, de vos colères ridicules, de vos jalousies d’enfants !",
+      "sourceLineId": "romeo-timed-225-45",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 2403,
+        "sourceLineNumber": 225,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2410,
+      "sourceText": "Le maitre, entends-tu ?",
+      "ipa": "[lə mɛtʁ ɑ̃tɑ̃ty]",
+      "ear": "勒 梅特赫 昂唐蒂于",
+      "meaning": "主人，你听见了吗？",
+      "suppliedText": "Le maitre, entends-tu ?",
+      "sourceLineId": "romeo-timed-226-46",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2410,
+        "sourceLineNumber": 226,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2411.514,
+      "sourceText": "Quiconque est sous mon toit, est chez lui !",
+      "ipa": "[kikɔ̃k‿ɛ su mɔ̃ twa ɛ ʃe lɥi]",
+      "ear": "基孔克 艾 苏 蒙 特乌阿 艾 谢 勒于伊",
+      "meaning": "在我屋檐下的人，都可以把这里当家！",
+      "suppliedText": "Quiconque est sous mon toit, est chez lui !",
+      "sourceLineId": "romeo-timed-226-47",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2410,
+        "sourceLineNumber": 226,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2414.757,
+      "sourceText": "Comme vous tous !",
+      "ipa": "[kɔm vu tus]",
+      "ear": "科姆 乌 图斯",
+      "meaning": "就像你们所有人一样！",
+      "suppliedText": "Comme vous tous !",
+      "sourceLineId": "romeo-timed-226-48",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2410,
+        "sourceLineNumber": 226,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2416.054,
+      "sourceText": "Mais, mon oncle !",
+      "ipa": "[mɛ mɔ̃n‿ɔ̃kl]",
+      "ear": "梅 蒙恩 翁克勒",
+      "meaning": "可是，叔父！",
+      "suppliedText": "Mais, mon oncle !",
+      "sourceLineId": "romeo-timed-226-49",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2410,
+        "sourceLineNumber": 226,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2417.135,
+      "sourceText": "Tais-toi !",
+      "ipa": "[tɛtwa]",
+      "ear": "泰特乌阿",
+      "meaning": "闭嘴！",
+      "suppliedText": "Tais-toi !",
+      "sourceLineId": "romeo-timed-226-50",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2410,
+        "sourceLineNumber": 226,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

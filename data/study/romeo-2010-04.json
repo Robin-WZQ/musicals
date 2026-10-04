@@ -1,0 +1,437 @@
+{
+  "videoId": "romeo-2010-04",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=735"
+    }
+  ],
+  "entries": [
+    {
+      "start": 747,
+      "sourceText": "Il a 30 ans, il est charmant",
+      "ipa": "[il‿a tʁɑ̃t‿ɑ̃ il‿ɛ ʃaʁmɑ̃]",
+      "ear": "伊勒 阿 特杭特 昂 伊勒 艾 沙赫芒",
+      "meaning": "他三十岁，风度翩翩。",
+      "suppliedText": "Il a 30 ans, il est charmant",
+      "sourceLineId": "romeo-timed-76-1",
+      "speaker": "Chœurs",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 747,
+        "sourceLineNumber": 76,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 750.684,
+      "sourceText": "Aime votre enfant, donnez-la lui",
+      "ipa": "[ɛm votʁ‿ɑ̃fɑ̃ dɔnela lɥi]",
+      "ear": "艾姆 沃特赫 昂芳 多内拉 勒于伊",
+      "meaning": "他爱您的女儿，把她许配给他吧。",
+      "suppliedText": "Aime votre enfant, donnez-la lui",
+      "sourceLineId": "romeo-timed-76-2",
+      "speaker": "Chœurs",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 747,
+        "sourceLineNumber": 76,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 757,
+      "sourceText": "Oui c’est un bon parti",
+      "ipa": "[wi sɛt‿œ̃ bɔ̃ paʁti]",
+      "ear": "乌伊 塞特 恩 崩 帕赫蒂",
+      "meaning": "是啊，这可是门好亲事。",
+      "suppliedText": "Oui c’est un bon parti",
+      "sourceLineId": "romeo-timed-77-3",
+      "speaker": "Chœurs",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 757,
+        "sourceLineNumber": 77,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 760.048,
+      "sourceText": "A derrière lui, des princes, des rois",
+      "ipa": "[a dɛʁjɛʁ lɥi de pʁɛ̃s de ʁwa]",
+      "ear": "阿 戴赫耶艾赫 勒于伊 德 普汉斯 德 赫乌阿",
+      "meaning": "他身后有王公贵族撑腰。",
+      "suppliedText": "A derrière lui, des princes, des rois",
+      "sourceLineId": "romeo-timed-77-4",
+      "speaker": "Chœurs",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 757,
+        "sourceLineNumber": 77,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 765,
+      "sourceText": "Il paiera vos dettes, et vous en avez",
+      "ipa": "[il pɛʁa vo dɛt e vuz‿ɑ̃n‿ave]",
+      "ear": "伊勒 佩哈 沃 戴特 诶 乌兹 昂恩 阿韦",
+      "meaning": "他会替您还债，您的债可不少。",
+      "suppliedText": "Il paiera vos dettes, et vous en avez",
+      "sourceLineId": "romeo-timed-78-5",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 765,
+        "sourceLineNumber": 78,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 769.667,
+      "sourceText": "Il fera des fêtes, pour vous obliger",
+      "ipa": "[il fəʁa de fɛt puʁ vuz‿ɔbliʒe]",
+      "ear": "伊勒 弗哈 德 费特 普赫 乌兹 哦布利热",
+      "meaning": "他会为您设宴，让您承他的情。",
+      "suppliedText": "Il fera des fêtes, pour vous obliger",
+      "sourceLineId": "romeo-timed-78-6",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 765,
+        "sourceLineNumber": 78,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 774,
+      "sourceText": "Mais à genoux je vous implore",
+      "ipa": "[mɛ a ʒənu ʒə vuz‿ɛ̃plɔʁ]",
+      "ear": "梅 阿 热努 热 乌兹 安普洛赫",
+      "meaning": "但我跪下来恳求您。",
+      "suppliedText": "Mais à genoux je vous implore",
+      "sourceLineId": "romeo-timed-79-7",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 774,
+        "sourceLineNumber": 79,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 781.2,
+      "sourceText": "Donnez-moi Juliette, car je l'adore",
+      "ipa": "[dɔnemwa ʒyljɛt kaʁ ʒə ladɔʁ]",
+      "ear": "多内姆乌阿 日于勒耶艾特 卡赫 热 拉多赫",
+      "meaning": "把朱丽叶嫁给我吧，我爱她。",
+      "suppliedText": "Donnez-moi Juliette, car je l'adore",
+      "sourceLineId": "romeo-timed-79-8",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 774,
+        "sourceLineNumber": 79,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 789,
+      "sourceText": "Cher ami, je suis surpris",
+      "ipa": "[ʃɛʁ‿ami ʒə sɥi syʁpʁi]",
+      "ear": "谢赫 阿米 热 斯于伊 西于赫普希",
+      "meaning": "亲爱的朋友，我很惊讶。",
+      "suppliedText": "Cher ami, je suis surpris",
+      "sourceLineId": "romeo-timed-80-9",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 789,
+        "sourceLineNumber": 80,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 792.636,
+      "sourceText": "Que votre amour soit aussi lourd",
+      "ipa": "[kə votʁ‿amuʁ swa osi luʁ]",
+      "ear": "克 沃特赫 阿穆赫 斯乌阿 奥西 卢赫",
+      "meaning": "你的爱情竟如此沉重。",
+      "suppliedText": "Que votre amour soit aussi lourd",
+      "sourceLineId": "romeo-timed-80-10",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 789,
+        "sourceLineNumber": 80,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 799,
+      "sourceText": "Lourde erreur prendre un cœur",
+      "ipa": "[luʁd‿ɛʁœʁ pʁɑ̃dʁ‿œ̃ kœʁ]",
+      "ear": "卢赫德 艾赫厄赫 普杭德赫 恩 克厄赫",
+      "meaning": "过早夺走一颗心，是大错。",
+      "suppliedText": "Lourde erreur prendre un cœur",
+      "sourceLineId": "romeo-timed-81-11",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 799,
+        "sourceLineNumber": 81,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 803.529,
+      "sourceText": "Avant son heure",
+      "ipa": "[avɑ̃ sɔ̃n‿œʁ]",
+      "ear": "阿旺 松恩 厄赫",
+      "meaning": "她还没到时候。",
+      "suppliedText": "Avant son heure",
+      "sourceLineId": "romeo-timed-81-12",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 799,
+        "sourceLineNumber": 81,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 806,
+      "sourceText": "Je vous fais peur mais elle est si tendre",
+      "ipa": "[ʒə vu fɛ pœʁ mɛ ɛl‿ɛ si tɑ̃dʁ]",
+      "ear": "热 乌 费 珀厄赫 梅 艾勒 艾 西 唐德赫",
+      "meaning": "我的话让你担心，可她还太年幼。",
+      "suppliedText": "Je vous fais peur mais elle est si tendre",
+      "sourceLineId": "romeo-timed-82-13",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 806,
+        "sourceLineNumber": 82,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 810.091,
+      "sourceText": "Il faudra attendre",
+      "ipa": "[il fodʁa atɑ̃dʁ]",
+      "ear": "伊勒 佛德哈 阿唐德赫",
+      "meaning": "还得再等等。",
+      "suppliedText": "Il faudra attendre",
+      "sourceLineId": "romeo-timed-82-14",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 806,
+        "sourceLineNumber": 82,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 812,
+      "sourceText": "Venez donc ce soir, vous pourrez la voir",
+      "ipa": "[vəne dɔ̃k sə swaʁ vu puʁe la vwaʁ]",
+      "ear": "弗内 东克 瑟 斯乌阿赫 乌 普赫 拉 弗乌阿赫",
+      "meaning": "今晚来吧，你就能见到她。",
+      "suppliedText": "Venez donc ce soir, vous pourrez la voir",
+      "sourceLineId": "romeo-timed-83-15",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 812,
+        "sourceLineNumber": 83,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 817.185,
+      "sourceText": "Mais par pitié, au moins ayez",
+      "ipa": "[mɛ paʁ pitje o mwɛ̃z‿ɛje]",
+      "ear": "梅 帕赫 皮特耶诶 奥 姆乌安兹 艾耶诶",
+      "meaning": "但拜托你，至少要有。",
+      "suppliedText": "Mais par pitié, au moins ayez",
+      "sourceLineId": "romeo-timed-83-16",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 812,
+        "sourceLineNumber": 83,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 822,
+      "sourceText": "Un peu de patience, commencez par la danse",
+      "ipa": "[œ̃ pø də pasjɑ̃s kɔmɑ̃se paʁ la dɑ̃s]",
+      "ear": "恩 珀厄 德 帕斯耶昂斯 科芒塞 帕赫 拉 当斯",
+      "meaning": "一点耐心，先从跳舞开始。",
+      "suppliedText": "Un peu de patience, commencez par la danse",
+      "sourceLineId": "romeo-timed-84-17",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 822,
+        "sourceLineNumber": 84,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 828.207,
+      "sourceText": "Mais moi, je pense, mais quand j'y pense",
+      "ipa": "[mɛ mwa ʒə pɑ̃s mɛ kɑ̃ ʒi pɑ̃s]",
+      "ear": "梅 姆乌阿 热 庞斯 梅 康 日 庞斯",
+      "meaning": "至于我，想来想去。",
+      "suppliedText": "Mais moi, je pense, mais quand j'y pense",
+      "sourceLineId": "romeo-timed-84-18",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 822,
+        "sourceLineNumber": 84,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 834,
+      "sourceText": "Lourde erreur, de prendre un cœur",
+      "ipa": "[luʁd‿ɛʁœʁ də pʁɑ̃dʁ‿œ̃ kœʁ]",
+      "ear": "卢赫德 艾赫厄赫 德 普杭德赫 恩 克厄赫",
+      "meaning": "夺走一颗心，是大错。",
+      "suppliedText": "Lourde erreur, de prendre un cœur",
+      "sourceLineId": "romeo-timed-85-19",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 834,
+        "sourceLineNumber": 85,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 842.5,
+      "sourceText": "Avant son heure, avant son heure",
+      "ipa": "[avɑ̃ sɔ̃n‿œʁ avɑ̃ sɔ̃n‿œʁ]",
+      "ear": "阿旺 松恩 厄赫 阿旺 松恩 厄赫",
+      "meaning": "她还没到时候，还没到时候。",
+      "suppliedText": "Avant son heure, avant son heure",
+      "sourceLineId": "romeo-timed-85-20",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 834,
+        "sourceLineNumber": 85,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 851,
+      "sourceText": "Tiens, Tybalt.",
+      "ipa": "[tjɛ̃ tibalt]",
+      "ear": "特耶安 蒂巴勒特",
+      "meaning": "哦，提伯尔特。",
+      "suppliedText": "Tiens, Tybalt.",
+      "sourceLineId": "romeo-timed-86-21",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 851,
+        "sourceLineNumber": 86,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 851.947,
+      "sourceText": "Encore toi !",
+      "ipa": "[ɑ̃kɔʁ twa]",
+      "ear": "昂科赫 特乌阿",
+      "meaning": "又是你！",
+      "suppliedText": "Encore toi !",
+      "sourceLineId": "romeo-timed-86-22",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 851,
+        "sourceLineNumber": 86,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 853.132,
+      "sourceText": "Toujours là, chez moi !",
+      "ipa": "[tuʒuʁ la ʃe mwa]",
+      "ear": "图茹赫 拉 谢 姆乌阿",
+      "meaning": "总待在我家里！",
+      "suppliedText": "Toujours là, chez moi !",
+      "sourceLineId": "romeo-timed-86-23",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 851,
+        "sourceLineNumber": 86,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 855.026,
+      "sourceText": "Tu rôdes, tu épies, tu… tu t’ennuies Tybalt et tu m’ennuies !",
+      "ipa": "[ty ʁod ty epi ty ty tɑ̃nɥi tibalt e ty mɑ̃nɥi]",
+      "ear": "蒂于 霍德 蒂于 诶皮 蒂于 蒂于 唐恩于伊 蒂巴勒特 诶 蒂于 芒恩于伊",
+      "meaning": "你游荡、窥探……你无聊，也把我烦透了！",
+      "suppliedText": "Tu rôdes, tu épies, tu… tu t’ennuies Tybalt et tu m’ennuies !",
+      "sourceLineId": "romeo-timed-86-24",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 851,
+        "sourceLineNumber": 86,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 860,
+      "sourceText": "Prends donc un peu de plaisir !",
+      "ipa": "[pʁɑ̃ dɔ̃k‿œ̃ pø də plɛziʁ]",
+      "ear": "普杭 东克 恩 珀厄 德 普莱齐赫",
+      "meaning": "找点乐子去吧！",
+      "suppliedText": "Prends donc un peu de plaisir !",
+      "sourceLineId": "romeo-timed-90-25",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 860,
+        "sourceLineNumber": 90,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 863.462,
+      "sourceText": "Le plaisir !",
+      "ipa": "[lə plɛziʁ]",
+      "ear": "勒 普莱齐赫",
+      "meaning": "乐子！",
+      "suppliedText": "Le plaisir !",
+      "sourceLineId": "romeo-timed-90-26",
+      "speaker": "Comte Capulet",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 860,
+        "sourceLineNumber": 90,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

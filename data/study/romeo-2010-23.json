@@ -1,0 +1,293 @@
+{
+  "videoId": "romeo-2010-23",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=4707"
+    }
+  ],
+  "entries": [
+    {
+      "start": 4707,
+      "sourceText": "ça c'est fou !",
+      "ipa": "[sa sɛ fu]",
+      "ear": "萨 塞 富",
+      "meaning": "这才叫疯狂！",
+      "suppliedText": "ça c'est fou !",
+      "sourceLineId": "romeo-timed-445-1",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4707,
+        "sourceLineNumber": 445,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4708.067,
+      "sourceText": "Qu'est-ce qui fait courir les hommes ?",
+      "ipa": "[kɛs ki fɛ kuʁiʁ lez‿ɔm]",
+      "ear": "凯斯 基 费 库希赫 莱兹 哦姆",
+      "meaning": "是什么让男人们奔忙？",
+      "suppliedText": "Qu'est-ce qui fait courir les hommes ?",
+      "sourceLineId": "romeo-timed-445-2",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4707,
+        "sourceLineNumber": 445,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4711.533,
+      "sourceText": "Savons-nous vraiment, qui nous sommes ?",
+      "ipa": "[savɔ̃nu vʁɛmɑ̃ ki nu sɔm]",
+      "ear": "萨翁努 弗赫芒 基 努 索姆",
+      "meaning": "我们真知道自己是谁吗？",
+      "suppliedText": "Savons-nous vraiment, qui nous sommes ?",
+      "sourceLineId": "romeo-timed-445-3",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4707,
+        "sourceLineNumber": 445,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4715,
+      "sourceText": "Qu'est-ce qui fait brûler nos âmes ?",
+      "ipa": "[kɛs ki fɛ bʁyle noz‿am]",
+      "ear": "凯斯 基 费 布许莱 诺兹 阿姆",
+      "meaning": "是什么让灵魂燃烧？",
+      "suppliedText": "Qu'est- ce qui fait brûler nos âmes ?",
+      "sourceLineId": "romeo-timed-446-4",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4715,
+        "sourceLineNumber": 446,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4717.571,
+      "sourceText": "Pourquoi on court comme ça, après les femmes ?",
+      "ipa": "[puʁkwa ɔ̃ kuʁ kɔm sa apʁɛ le fam]",
+      "ear": "普赫克乌阿 翁 库赫 科姆 萨 阿普赫 莱 法姆",
+      "meaning": "我们为什么这样追着女人跑？",
+      "suppliedText": "Pourquoi on court comme ça, après les femmes ?",
+      "sourceLineId": "romeo-timed-446-5",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4715,
+        "sourceLineNumber": 446,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4721,
+      "sourceText": "Moi, la seule que j'aime vraiment",
+      "ipa": "[mwa la sœl kə ʒɛm vʁɛmɑ̃]",
+      "ear": "姆乌阿 拉 瑟厄勒 克 热姆 弗赫芒",
+      "meaning": "我真正爱的，只有一个。",
+      "suppliedText": "Moi, la seule que j'aime vraiment",
+      "sourceLineId": "romeo-timed-447-6",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4721,
+        "sourceLineNumber": 447,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4724.92,
+      "sourceText": "Celle qui connaît mes tourments",
+      "ipa": "[sɛl ki kɔnɛ me tuʁmɑ̃]",
+      "ear": "塞勒 基 科奈 梅 图赫芒",
+      "meaning": "她懂我的所有痛苦。",
+      "suppliedText": "Celle qui connaît mes tourments",
+      "sourceLineId": "romeo-timed-447-7",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4721,
+        "sourceLineNumber": 447,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4728,
+      "sourceText": "Et qui m'a pris pour amant",
+      "ipa": "[e ki ma pʁi puʁ‿amɑ̃]",
+      "ear": "诶 基 玛 普希 普赫 阿芒",
+      "meaning": "把我收作情人。",
+      "suppliedText": "Et qui m'a pris pour amant",
+      "sourceLineId": "romeo-timed-448-8",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4728,
+        "sourceLineNumber": 448,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4729.8,
+      "sourceText": "Vous ne la verrez jamais",
+      "ipa": "[vu nə la vɛʁe ʒamɛ]",
+      "ear": "乌 讷 拉 韦赫 扎梅",
+      "meaning": "你们永远见不到她。",
+      "suppliedText": "Vous ne la verrez jamais",
+      "sourceLineId": "romeo-timed-448-9",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4728,
+        "sourceLineNumber": 448,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4731.6,
+      "sourceText": "Mais moi je sais qui elle est",
+      "ipa": "[mɛ mwa ʒə sɛ ki ɛl‿ɛ]",
+      "ear": "梅 姆乌阿 热 塞 基 艾勒 艾",
+      "meaning": "可我知道她是谁。",
+      "suppliedText": "Mais moi je sais qui elle est",
+      "sourceLineId": "romeo-timed-448-10",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4728,
+        "sourceLineNumber": 448,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4734,
+      "sourceText": "La folie",
+      "ipa": "[la foli]",
+      "ear": "拉 佛利",
+      "meaning": "疯狂。",
+      "suppliedText": "La folie",
+      "sourceLineId": "romeo-timed-449-11",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 4734,
+        "sourceLineNumber": 449,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4742,
+      "sourceText": "Elle mon amie, c'est la folie",
+      "ipa": "[ɛl mɔ̃n‿ami sɛ la foli]",
+      "ear": "艾勒 蒙恩 阿米 塞 拉 佛利",
+      "meaning": "她是我的朋友，她叫疯狂。",
+      "suppliedText": "Elle mon amie, c'est la folie",
+      "sourceLineId": "romeo-timed-450-12",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4742,
+        "sourceLineNumber": 450,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4745.781,
+      "sourceText": "La folie, qui vous dit, \"allez vas-y, tu pleures ou tu ris\"",
+      "ipa": "[la foli ki vu di ale vazi ty plœʁ‿u ty ʁi]",
+      "ear": "拉 佛利 基 乌 迪 阿莱 瓦齐 蒂于 普勒厄赫 乌 蒂于 希",
+      "meaning": "疯狂对你说：“去吧，你哭，还是你笑？”",
+      "suppliedText": "La folie, qui vous dit, \"allez vas-y, tu pleures ou tu ris\"",
+      "sourceLineId": "romeo-timed-450-13",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4742,
+        "sourceLineNumber": 450,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4753,
+      "sourceText": "Oui, je lui dois tout elle m'a tout appris",
+      "ipa": "[wi ʒə lɥi dwa tut‿ɛl ma tut‿apʁi]",
+      "ear": "乌伊 热 勒于伊 德乌阿 图特 艾勒 玛 图特 阿普希",
+      "meaning": "是的，我的一切都归功于她，她教会了我一切。",
+      "suppliedText": "Oui, je lui dois tout elle m'a tout appris",
+      "sourceLineId": "romeo-timed-451-14",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4753,
+        "sourceLineNumber": 451,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4759.476,
+      "sourceText": "La folie",
+      "ipa": "[la foli]",
+      "ear": "拉 佛利",
+      "meaning": "疯狂。",
+      "suppliedText": "La folie",
+      "sourceLineId": "romeo-timed-451-15",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4753,
+        "sourceLineNumber": 451,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4761,
+      "sourceText": "Elle me tient dans ses mains et je suis bien",
+      "ipa": "[ɛl mə tjɛ̃ dɑ̃ se mɛ̃ e ʒə sɥi bjɛ̃]",
+      "ear": "艾勒 默 特耶安 当 塞 曼 诶 热 斯于伊 布耶安",
+      "meaning": "她把我握在手里，我很自在。",
+      "suppliedText": "Elle me tient dans ses mains et je suis bien",
+      "sourceLineId": "romeo-timed-452-16",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4761,
+        "sourceLineNumber": 452,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4772.053,
+      "sourceText": "La folie !",
+      "ipa": "[la foli]",
+      "ear": "拉 佛利",
+      "meaning": "疯狂！",
+      "suppliedText": "La folie !",
+      "sourceLineId": "romeo-timed-452-17",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4761,
+        "sourceLineNumber": 452,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

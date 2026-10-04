@@ -1,0 +1,1109 @@
+{
+  "videoId": "romeo-2010-22",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=4436"
+    }
+  ],
+  "entries": [
+    {
+      "start": 4441,
+      "sourceText": "Les femmes ne sont que des leçons",
+      "ipa": "[le fam nə sɔ̃ kə de ləsɔ̃]",
+      "ear": "莱 法姆 讷 松 克 德 勒松",
+      "meaning": "女人，不过是一堂堂课。",
+      "suppliedText": "Les femmes ne sont que des leçons",
+      "sourceLineId": "romeo-timed-416-1",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4441,
+        "sourceLineNumber": 416,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4445.444,
+      "sourceText": "J'ai pris ma première auprès de mon père à 15 ans",
+      "ipa": "[ʒe pʁi ma pʁəmjɛʁ‿opʁɛ də mɔ̃ pɛʁ‿a kɛ̃z‿ɑ̃]",
+      "ear": "热 普希 玛 普赫姆耶艾赫 奥普赫 德 蒙 佩赫 阿 坎兹 昂",
+      "meaning": "十五岁时，父亲教给我第一课。",
+      "suppliedText": "J'ai pris ma première auprès de mon père à 15 ans",
+      "sourceLineId": "romeo-timed-416-2",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4441,
+        "sourceLineNumber": 416,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4453,
+      "sourceText": "Tous les désirs, tous les plaisirs, je les connais",
+      "ipa": "[tu le deziʁ tu le plɛziʁ ʒə le kɔnɛ]",
+      "ear": "图 莱 德齐赫 图 莱 普莱齐赫 热 莱 科奈",
+      "meaning": "所有欲望，所有快乐，我都熟悉。",
+      "suppliedText": "Tous les désirs, tous les plaisirs, je les connais",
+      "sourceLineId": "romeo-timed-417-3",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4453,
+        "sourceLineNumber": 417,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4460.385,
+      "sourceText": "Donc, je suis un amant excellent",
+      "ipa": "[dɔ̃k ʒə sɥi œ̃n‿amɑ̃ ɛksɛlɑ̃]",
+      "ear": "东克 热 斯于伊 恩恩 阿芒 艾克塞朗",
+      "meaning": "所以，我是个出色的情人。",
+      "suppliedText": "Donc, je suis un amant excellent",
+      "sourceLineId": "romeo-timed-417-4",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4453,
+        "sourceLineNumber": 417,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4465,
+      "sourceText": "Les blondes les brunes toutes sauf une",
+      "ipa": "[le blɔ̃d le bʁyn tut sof‿yn]",
+      "ear": "莱 布隆德 莱 布许恩 图特 索弗 于恩",
+      "meaning": "金发、棕发，谁都可以，除了那一个。",
+      "suppliedText": "Les blondes les brunes toutes sauf une",
+      "sourceLineId": "romeo-timed-418-5",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4465,
+        "sourceLineNumber": 418,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4469.483,
+      "sourceText": "La seule qui compte, la seule qui compte",
+      "ipa": "[la sœl ki kɔ̃t la sœl ki kɔ̃t]",
+      "ear": "拉 瑟厄勒 基 孔特 拉 瑟厄勒 基 孔特",
+      "meaning": "唯一重要的那一个。",
+      "suppliedText": "La seule qui compte, la seule qui compte",
+      "sourceLineId": "romeo-timed-418-6",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4465,
+        "sourceLineNumber": 418,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4475,
+      "sourceText": "Cousin, cousine, la blague est fine",
+      "ipa": "[kuzɛ̃ kuzin la blaɡ‿ɛ fin]",
+      "ear": "库赞 库齐恩 拉 布拉格 艾 菲恩",
+      "meaning": "堂兄与堂妹，多精妙的玩笑。",
+      "suppliedText": "Cousin, cousine, la blague est fine",
+      "sourceLineId": "romeo-timed-419-7",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4475,
+        "sourceLineNumber": 419,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4479.968,
+      "sourceText": "Je l'ai vue grandir je la vois partir avec lui",
+      "ipa": "[ʒə le vy ɡʁɑ̃diʁ ʒə la vwa paʁtiʁ‿avɛk lɥi]",
+      "ear": "热 莱 维于 格杭迪赫 热 拉 弗乌阿 帕赫蒂赫 阿韦克 勒于伊",
+      "meaning": "我看着她长大，又看着她随他离去。",
+      "suppliedText": "Je l'ai vue grandir je la vois partir avec lui",
+      "sourceLineId": "romeo-timed-419-8",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4475,
+        "sourceLineNumber": 419,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4486,
+      "sourceText": "Comment peut-elle aimer le fils des Montaigu ?",
+      "ipa": "[kɔmɑ̃ pøtɛl‿ɛme lə fis de mɔ̃tɛɡy]",
+      "ear": "科芒 珀厄泰勒 艾梅 勒 菲斯 德 蒙泰吉于",
+      "meaning": "她怎么能爱上蒙太古家的儿子？",
+      "suppliedText": "Comment peut-elle aimer le fils des Montaigu ?",
+      "sourceLineId": "romeo-timed-420-9",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4486,
+        "sourceLineNumber": 420,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4490.5,
+      "sourceText": "C'est le mariage raté du vice et de la vertu",
+      "ipa": "[sɛ lə maʁjaʒ ʁate dy vis e də la vɛʁty]",
+      "ear": "塞 勒 玛赫耶阿日 哈特 迪于 维斯 诶 德 拉 韦赫蒂于",
+      "meaning": "这是罪恶与美德错配的婚姻。",
+      "suppliedText": "C'est le mariage raté du vice et de la vertu",
+      "sourceLineId": "romeo-timed-420-10",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4486,
+        "sourceLineNumber": 420,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4495,
+      "sourceText": "C'est le jour, c'est le jour, c'est le jour, c'est le jour",
+      "ipa": "[sɛ lə ʒuʁ sɛ lə ʒuʁ sɛ lə ʒuʁ sɛ lə ʒuʁ]",
+      "ear": "塞 勒 茹赫 塞 勒 茹赫 塞 勒 茹赫 塞 勒 茹赫",
+      "meaning": "就是今天，就是今天，就是今天。",
+      "suppliedText": "C'est le jour, c'est le jour, c'est le jour, c'est le jour",
+      "sourceLineId": "romeo-timed-421-11",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 4495,
+        "sourceLineNumber": 421,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4505,
+      "sourceText": "Aujourd'hui je fais mon courrier",
+      "ipa": "[oʒuʁdɥi ʒə fɛ mɔ̃ kuʁje]",
+      "ear": "奥茹赫德于伊 热 费 蒙 库赫耶诶",
+      "meaning": "今天，我来写封信。",
+      "suppliedText": "Aujourd'hui je fais mon courrier",
+      "sourceLineId": "romeo-timed-422-12",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4505,
+        "sourceLineNumber": 422,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4509.308,
+      "sourceText": "Cher ami oui je vais te tuer",
+      "ipa": "[ʃɛʁ‿ami wi ʒə vɛ tə tye]",
+      "ear": "谢赫 阿米 乌伊 热 韦 特 蒂于诶",
+      "meaning": "亲爱的朋友，是的，我要杀了你。",
+      "suppliedText": "Cher ami oui je vais te tuer",
+      "sourceLineId": "romeo-timed-422-13",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4505,
+        "sourceLineNumber": 422,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4513,
+      "sourceText": "Je vais le tuer, non le blesser",
+      "ipa": "[ʒə vɛ lə tye nɔ̃ lə blɛse]",
+      "ear": "热 韦 勒 蒂于诶 农 勒 布莱塞",
+      "meaning": "我要杀他，不，只要伤害他。",
+      "suppliedText": "Je vais le tuer, non le blesser",
+      "sourceLineId": "romeo-timed-423-14",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4513,
+        "sourceLineNumber": 423,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4516.529,
+      "sourceText": "Comme elle me blesse",
+      "ipa": "[kɔm‿ɛl mə blɛs]",
+      "ear": "科姆 艾勒 默 布莱斯",
+      "meaning": "像她伤害我那样。",
+      "suppliedText": "Comme elle me blesse",
+      "sourceLineId": "romeo-timed-423-15",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4513,
+        "sourceLineNumber": 423,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4519,
+      "sourceText": "Juliette je vais lui faire payer ta faiblesse",
+      "ipa": "[ʒyljɛt ʒə vɛ lɥi fɛʁ pɛje ta fɛblɛs]",
+      "ear": "日于勒耶艾特 热 韦 勒于伊 费赫 佩耶诶 塔 费布莱斯",
+      "meaning": "朱丽叶，我要让他为你的软弱付出代价。",
+      "suppliedText": "Juliette je vais lui faire payer ta faiblesse",
+      "sourceLineId": "romeo-timed-424-16",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 4519,
+        "sourceLineNumber": 424,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4524,
+      "sourceText": "Les femmes ne sont que des prisons",
+      "ipa": "[le fam nə sɔ̃ kə de pʁizɔ̃]",
+      "ear": "莱 法姆 讷 松 克 德 普希宗",
+      "meaning": "女人，不过是一座座牢房。",
+      "suppliedText": "Les femmes ne sont que des prisons",
+      "sourceLineId": "romeo-timed-425-17",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4524,
+        "sourceLineNumber": 425,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4527.548,
+      "sourceText": "La mienne je l'ai faite au cœur de Juliette à 15 ans",
+      "ipa": "[la mjɛn ʒə le fɛt‿o kœʁ də ʒyljɛt‿a kɛ̃z‿ɑ̃]",
+      "ear": "拉 姆耶艾恩 热 莱 费特 奥 克厄赫 德 日于勒耶艾特 阿 坎兹 昂",
+      "meaning": "十五岁时，我已把牢房建在朱丽叶心里。",
+      "suppliedText": "La mienne je l'ai faite au cœur de Juliette à 15 ans",
+      "sourceLineId": "romeo-timed-425-18",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4524,
+        "sourceLineNumber": 425,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4535,
+      "sourceText": "Je n'ai jamais osé, je n'oserai jamais",
+      "ipa": "[ʒə ne ʒamɛ oze ʒə nozʁe ʒamɛ]",
+      "ear": "热 内 扎梅 奥泽 热 诺兹赫 扎梅",
+      "meaning": "我从未敢，也永远不敢。",
+      "suppliedText": "Je n'ai jamais osé, je n'oserai jamais",
+      "sourceLineId": "romeo-timed-426-19",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4535,
+        "sourceLineNumber": 426,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4539.444,
+      "sourceText": "Lui dire qu'elle est aimée par Tybalt en secret mais",
+      "ipa": "[lɥi diʁ kɛl‿ɛt‿ɛme paʁ tibalt‿ɑ̃ səkʁɛ mɛ]",
+      "ear": "勒于伊 迪赫 凯勒 艾特 艾梅 帕赫 蒂巴勒特 昂 瑟克赫 梅",
+      "meaning": "告诉她，提伯尔特暗恋着她，可是。",
+      "suppliedText": "Lui dire qu'elle est aimée par Tybalt en secret mais",
+      "sourceLineId": "romeo-timed-426-20",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4535,
+        "sourceLineNumber": 426,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4545,
+      "sourceText": "C'est le jour, c'est le jour, c'est le jour, c'est le jour",
+      "ipa": "[sɛ lə ʒuʁ sɛ lə ʒuʁ sɛ lə ʒuʁ sɛ lə ʒuʁ]",
+      "ear": "塞 勒 茹赫 塞 勒 茹赫 塞 勒 茹赫 塞 勒 茹赫",
+      "meaning": "就是今天，就是今天，就是今天。",
+      "suppliedText": "C'est le jour, c'est le jour, c'est le jour, c'est le jour",
+      "sourceLineId": "romeo-timed-427-21",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4545,
+        "sourceLineNumber": 427,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4552.704,
+      "sourceText": "Le jour où les hommes se battent",
+      "ipa": "[lə ʒuʁ‿u lez‿ɔm sə bat]",
+      "ear": "勒 茹赫 乌 莱兹 哦姆 瑟 巴特",
+      "meaning": "男人们交战的日子。",
+      "suppliedText": "Le jour où les hommes se battent",
+      "sourceLineId": "romeo-timed-427-22",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4545,
+        "sourceLineNumber": 427,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4558,
+      "sourceText": "Le jour l'orage éclate",
+      "ipa": "[lə ʒuʁ loʁaʒ‿eklat]",
+      "ear": "勒 茹赫 洛哈日 诶克拉特",
+      "meaning": "暴风雨爆发的日子。",
+      "suppliedText": "Le jour l'orage éclate",
+      "sourceLineId": "romeo-timed-428-23",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4558,
+        "sourceLineNumber": 428,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4561.789,
+      "sourceText": "Je vais le tuer, non le blesser",
+      "ipa": "[ʒə vɛ lə tye nɔ̃ lə blɛse]",
+      "ear": "热 韦 勒 蒂于诶 农 勒 布莱塞",
+      "meaning": "我要杀他，不，只要伤害他。",
+      "suppliedText": "Je vais le tuer, non le blesser",
+      "sourceLineId": "romeo-timed-428-24",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4558,
+        "sourceLineNumber": 428,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4566,
+      "sourceText": "Comme il me blesse Roméo je vais te faire payer ta faiblesse (C'est le jour)",
+      "ipa": "[kɔm‿il mə blɛs ʁomeo ʒə vɛ tə fɛʁ pɛje ta fɛblɛs sɛ lə ʒuʁ]",
+      "ear": "科姆 伊勒 默 布莱斯 霍梅奥 热 韦 特 费赫 佩耶诶 塔 费布莱斯 塞 勒 茹赫",
+      "meaning": "他这样伤我；罗密欧，我要让你为软弱付出代价。（就是今天）",
+      "suppliedText": "Comme il me blesse Roméo je vais te faire payer ta faiblesse (C'est le jour)",
+      "sourceLineId": "romeo-timed-429-25",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4566,
+        "sourceLineNumber": 429,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4574.235,
+      "sourceText": "Mon cœur est trahi",
+      "ipa": "[mɔ̃ kœʁ‿ɛ tʁai]",
+      "ear": "蒙 克厄赫 艾 特哈伊",
+      "meaning": "我的心被背叛了。",
+      "suppliedText": "Mon cœur est trahit",
+      "sourceLineId": "romeo-timed-429-26",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4566,
+        "sourceLineNumber": 429,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4576,
+      "sourceText": "(C'est le jour)",
+      "ipa": "[sɛ lə ʒuʁ]",
+      "ear": "塞 勒 茹赫",
+      "meaning": "就是今天。",
+      "suppliedText": "(C'est le jour)",
+      "sourceLineId": "romeo-timed-430-27",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4576,
+        "sourceLineNumber": 430,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4576.585,
+      "sourceText": "Même si j'ai peur la nuit (C'est le jour)",
+      "ipa": "[mɛm si ʒe pœʁ la nɥi sɛ lə ʒuʁ]",
+      "ear": "梅姆 西 热 珀厄赫 拉 恩于伊 塞 勒 茹赫",
+      "meaning": "哪怕我在夜里害怕。（就是今天）",
+      "suppliedText": "Même si j'ai peur la nuit (C'est le jour)",
+      "sourceLineId": "romeo-timed-430-28",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4576,
+        "sourceLineNumber": 430,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4578.634,
+      "sourceText": "Mourir de jalousie (C'est le jour)",
+      "ipa": "[muʁiʁ də ʒaluzi sɛ lə ʒuʁ]",
+      "ear": "穆希赫 德 扎卢齐 塞 勒 茹赫",
+      "meaning": "因嫉妒而死。（就是今天）",
+      "suppliedText": "Mourir de jalousie (C'est le jour)",
+      "sourceLineId": "romeo-timed-430-29",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4576,
+        "sourceLineNumber": 430,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4580.537,
+      "sourceText": "C'est mourir d'amour aussi",
+      "ipa": "[sɛ muʁiʁ damuʁ‿osi]",
+      "ear": "塞 穆希赫 达穆赫 奥西",
+      "meaning": "也是因爱情而死。",
+      "suppliedText": "C'est mourir d'amour aussi",
+      "sourceLineId": "romeo-timed-430-30",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4576,
+        "sourceLineNumber": 430,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4582,
+      "sourceText": "Ne me parlez pas d'honneur",
+      "ipa": "[nə mə paʁle pa dɔnœʁ]",
+      "ear": "讷 默 帕赫莱 帕 多讷厄赫",
+      "meaning": "别跟我谈荣誉。",
+      "suppliedText": "Ne me parlez pas d'honneur",
+      "sourceLineId": "romeo-timed-431-31",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4582,
+        "sourceLineNumber": 431,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4585.048,
+      "sourceText": "C'est par amour que les hommes meurent",
+      "ipa": "[sɛ paʁ‿amuʁ kə lez‿ɔm mœʁ]",
+      "ear": "塞 帕赫 阿穆赫 克 莱兹 哦姆 默厄赫",
+      "meaning": "男人们死去，是为了爱。",
+      "suppliedText": "C'est par amour que les hommes meurent",
+      "sourceLineId": "romeo-timed-431-32",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4582,
+        "sourceLineNumber": 431,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4590,
+      "sourceText": "Je te trouverai Roméo je te tuerai Roméo",
+      "ipa": "[ʒə tə tʁuvʁe ʁomeo ʒə tə tyʁe ʁomeo]",
+      "ear": "热 特 特胡弗赫 霍梅奥 热 特 蒂于赫 霍梅奥",
+      "meaning": "我会找到你，罗密欧；我会杀了你，罗密欧。",
+      "suppliedText": "Je te trouverai Roméo je te tuerai Roméo",
+      "sourceLineId": "romeo-timed-432-33",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4590,
+        "sourceLineNumber": 432,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4601.205,
+      "sourceText": "Et vous saurez, que tous les hommes ont le cœur déchiré",
+      "ipa": "[e vu soʁe kə tu lez‿ɔm‿ɔ̃ lə kœʁ deʃiʁe]",
+      "ear": "诶 乌 索赫 克 图 莱兹 哦姆 翁 勒 克厄赫 德希赫",
+      "meaning": "你们会明白，每个男人的心都被撕裂。",
+      "suppliedText": "Et vous saurez, que tous les hommes ont le cœur déchiré",
+      "sourceLineId": "romeo-timed-432-34",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4590,
+        "sourceLineNumber": 432,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4613,
+      "sourceText": "Tiens, tiens, tiens...",
+      "ipa": "[tjɛ̃ tjɛ̃ tjɛ̃]",
+      "ear": "特耶安 特耶安 特耶安",
+      "meaning": "哟，哟，哟……",
+      "suppliedText": "Tiens, tiens, tiens...",
+      "sourceLineId": "romeo-timed-433-35",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4613,
+        "sourceLineNumber": 433,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4614.579,
+      "sourceText": "Tu passais parmi nous !",
+      "ipa": "[ty pasɛ paʁmi nu]",
+      "ear": "蒂于 帕塞 帕赫米 努",
+      "meaning": "你从我们这里经过啊！",
+      "suppliedText": "Tu passais parmi nous !",
+      "sourceLineId": "romeo-timed-433-36",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4613,
+        "sourceLineNumber": 433,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4616.684,
+      "sourceText": "Mercutio !",
+      "ipa": "[mɛʁkysjo]",
+      "ear": "梅赫基于斯耶奥",
+      "meaning": "茂丘西奥！",
+      "suppliedText": "Mercutio !",
+      "sourceLineId": "romeo-timed-433-37",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4613,
+        "sourceLineNumber": 433,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4617.737,
+      "sourceText": "Si le chien est là, le maître ne doit pas être bien loin.",
+      "ipa": "[si lə ʃjɛ̃ ɛ la lə mɛtʁ nə dwa pa ɛtʁ bjɛ̃ lwɛ̃]",
+      "ear": "西 勒 什耶安 艾 拉 勒 梅特赫 讷 德乌阿 帕 艾特赫 布耶安 勒乌安",
+      "meaning": "狗在这里，主人也一定不远。",
+      "suppliedText": "Si le chien est là, le maître ne doit pas être bien loin.",
+      "sourceLineId": "romeo-timed-433-38",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4613,
+        "sourceLineNumber": 433,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4623,
+      "sourceText": "Je cherche Roméo.",
+      "ipa": "[ʒə ʃɛʁʃ ʁomeo]",
+      "ear": "热 谢赫什 霍梅奥",
+      "meaning": "我找罗密欧。",
+      "suppliedText": "Je cherche Roméo.",
+      "sourceLineId": "romeo-timed-434-39",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4623,
+        "sourceLineNumber": 434,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4626.143,
+      "sourceText": "Tu cherches Roméo ?",
+      "ipa": "[ty ʃɛʁʃ ʁomeo]",
+      "ear": "蒂于 谢赫什 霍梅奥",
+      "meaning": "你找罗密欧？",
+      "suppliedText": "Tu cherches Roméo ?",
+      "sourceLineId": "romeo-timed-434-40",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4623,
+        "sourceLineNumber": 434,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4629.286,
+      "sourceText": "Il cherche Roméo !",
+      "ipa": "[il ʃɛʁʃ ʁomeo]",
+      "ear": "伊勒 谢赫什 霍梅奥",
+      "meaning": "他找罗密欧！",
+      "suppliedText": "Il cherche Roméo !",
+      "sourceLineId": "romeo-timed-434-41",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4623,
+        "sourceLineNumber": 434,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4632.429,
+      "sourceText": "Ah, Tybalt.",
+      "ipa": "[a tibalt]",
+      "ear": "阿 蒂巴勒特",
+      "meaning": "啊，提伯尔特。",
+      "suppliedText": "Ah, Tybalt.",
+      "sourceLineId": "romeo-timed-434-42",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4623,
+        "sourceLineNumber": 434,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4634,
+      "sourceText": "Tybalt, je t'ai vu chercher tant de choses...",
+      "ipa": "[tibalt ʒə te vy ʃɛʁʃe tɑ̃ də ʃoz]",
+      "ear": "蒂巴勒特 热 特 维于 谢赫谢 唐 德 肖兹",
+      "meaning": "我见你找过这么多东西……",
+      "suppliedText": "Tybalt, je t'ai vu chercher tant de choses...",
+      "sourceLineId": "romeo-timed-435-43",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4634,
+        "sourceLineNumber": 435,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4636.824,
+      "sourceText": "La fortune, l’amour...",
+      "ipa": "[la fɔʁtyn lamuʁ]",
+      "ear": "拉 佛赫蒂于恩 拉穆赫",
+      "meaning": "财富，爱情……",
+      "suppliedText": "La fortune, l’amour...",
+      "sourceLineId": "romeo-timed-435-44",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4634,
+        "sourceLineNumber": 435,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4638.471,
+      "sourceText": "la querelle !",
+      "ipa": "[la kʁɛl]",
+      "ear": "拉 克赫勒",
+      "meaning": "麻烦！",
+      "suppliedText": "la querelle !",
+      "sourceLineId": "romeo-timed-435-45",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4634,
+        "sourceLineNumber": 435,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4639.647,
+      "sourceText": "Mais Roméo, pourquoi ?",
+      "ipa": "[mɛ ʁomeo puʁkwa]",
+      "ear": "梅 霍梅奥 普赫克乌阿",
+      "meaning": "可罗密欧，为什么？",
+      "suppliedText": "Mais Roméo, pourquoi ?",
+      "sourceLineId": "romeo-timed-435-46",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4634,
+        "sourceLineNumber": 435,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4642,
+      "sourceText": "Ne t'inquiète pas pour ça, Mercutio.",
+      "ipa": "[nə tɛ̃kjɛt pa puʁ sa mɛʁkysjo]",
+      "ear": "讷 坦克耶艾特 帕 普赫 萨 梅赫基于斯耶奥",
+      "meaning": "别操这个心，茂丘西奥。",
+      "suppliedText": "Ne t'inquiète pas pour ça, Mercutio.",
+      "sourceLineId": "romeo-timed-436-47",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4642,
+        "sourceLineNumber": 436,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4643.931,
+      "sourceText": "Roméo, lui, sait très bien pourquoi.",
+      "ipa": "[ʁomeo lɥi sɛ tʁɛ bjɛ̃ puʁkwa]",
+      "ear": "霍梅奥 勒于伊 塞 特赫 布耶安 普赫克乌阿",
+      "meaning": "罗密欧自己很清楚原因。",
+      "suppliedText": "Roméo, lui, sait très bien pourquoi.",
+      "sourceLineId": "romeo-timed-436-48",
+      "speaker": "Tybalt",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4642,
+        "sourceLineNumber": 436,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4646,
+      "sourceText": "Tybalt, mon Tybalt, tu es fou.",
+      "ipa": "[tibalt mɔ̃ tibalt ty ɛ fu]",
+      "ear": "蒂巴勒特 蒙 蒂巴勒特 蒂于 艾 富",
+      "meaning": "提伯尔特，我的提伯尔特，你疯了。",
+      "suppliedText": "Tybalt, mon Tybalt, tu es fou.",
+      "sourceLineId": "romeo-timed-437-49",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4646,
+        "sourceLineNumber": 437,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4649.333,
+      "sourceText": "Tu es fou, tu es fou… non, tu crois que tu es fou !",
+      "ipa": "[ty ɛ fu ty ɛ fu nɔ̃ ty kʁwa kə ty ɛ fu]",
+      "ear": "蒂于 艾 富 蒂于 艾 富 农 蒂于 克赫乌阿 克 蒂于 艾 富",
+      "meaning": "你疯了，疯了……不，你只是以为自己疯了！",
+      "suppliedText": "Tu es fou, tu es fou… non, tu crois que tu es fou !",
+      "sourceLineId": "romeo-timed-437-50",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4646,
+        "sourceLineNumber": 437,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4656,
+      "sourceText": "Fou de jalousie peut-être, de chagrin, de colère !",
+      "ipa": "[fu də ʒaluzi pøtɛtʁ də ʃaɡʁɛ̃ də kolɛʁ]",
+      "ear": "富 德 扎卢齐 珀厄泰特赫 德 沙格汉 德 科莱赫",
+      "meaning": "或许为嫉妒、悲伤、愤怒而疯狂！",
+      "suppliedText": "Fou de jalousie peut-être, de chagrin, de colère !",
+      "sourceLineId": "romeo-timed-438-51",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 4656,
+        "sourceLineNumber": 438,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4659,
+      "sourceText": "Mais Tybalt, dit-moi, entre nous, entre amis.",
+      "ipa": "[mɛ tibalt dimwa ɑ̃tʁ nu ɑ̃tʁ‿ami]",
+      "ear": "梅 蒂巴勒特 迪姆乌阿 昂特赫 努 昂特赫 阿米",
+      "meaning": "但告诉我，私下里，朋友之间。",
+      "suppliedText": "Mais Tybalt, dit-moi, entre nous, entre amis.",
+      "sourceLineId": "romeo-timed-439-52",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4659,
+        "sourceLineNumber": 439,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4664.556,
+      "sourceText": "Qu’as-tu fait de fou dans ta vie ?",
+      "ipa": "[katy fɛ də fu dɑ̃ ta vi]",
+      "ear": "卡蒂于 费 德 富 当 塔 维",
+      "meaning": "你这辈子做过什么疯狂的事？",
+      "suppliedText": "Qu’as-tu fait de fou dans ta vie ?",
+      "sourceLineId": "romeo-timed-439-53",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4659,
+        "sourceLineNumber": 439,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4669,
+      "sourceText": "Rien ?",
+      "ipa": "[ʁiɛ̃]",
+      "ear": "希安",
+      "meaning": "什么都不是？",
+      "suppliedText": "Rien ?",
+      "sourceLineId": "romeo-timed-440-54",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4669,
+        "sourceLineNumber": 440,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4671.333,
+      "sourceText": "Rien.",
+      "ipa": "[ʁiɛ̃]",
+      "ear": "希安",
+      "meaning": "没有。",
+      "suppliedText": "Rien.",
+      "sourceLineId": "romeo-timed-440-55",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4669,
+        "sourceLineNumber": 440,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4673.667,
+      "sourceText": "Ah, si !",
+      "ipa": "[a si]",
+      "ear": "阿 西",
+      "meaning": "啊，有！",
+      "suppliedText": "Ah, si !",
+      "sourceLineId": "romeo-timed-440-56",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4669,
+        "sourceLineNumber": 440,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4676,
+      "sourceText": "D’aimer celle qui ne t’aimera jamais !",
+      "ipa": "[dɛme sɛl ki nə tɛmʁa ʒamɛ]",
+      "ear": "戴梅 塞勒 基 讷 泰姆哈 扎梅",
+      "meaning": "爱上了永远不会爱你的人！",
+      "suppliedText": "D’aimer celle qui ne t’aimera jamais !",
+      "sourceLineId": "romeo-timed-441-57",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4676,
+        "sourceLineNumber": 441,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4681.87,
+      "sourceText": "Oh oui, ça c’est fou.",
+      "ipa": "[ɔ wi sa sɛ fu]",
+      "ear": "哦 乌伊 萨 塞 富",
+      "meaning": "哦，是的，那确实疯狂。",
+      "suppliedText": "Oh oui, ça c’est fou.",
+      "sourceLineId": "romeo-timed-441-58",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4676,
+        "sourceLineNumber": 441,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4685,
+      "sourceText": "Mais as-tu déjà dansé avec la mort ?",
+      "ipa": "[mɛ aty deʒa dɑ̃se avɛk la mɔʁ]",
+      "ear": "梅 阿蒂于 德扎 当塞 阿韦克 拉 莫赫",
+      "meaning": "可你和死神跳过舞吗？",
+      "suppliedText": "Mais as-tu déjà dansé avec la mort ?",
+      "sourceLineId": "romeo-timed-442-59",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4685,
+        "sourceLineNumber": 442,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4687.118,
+      "sourceText": "As-tu déjà fait l’amour avec un homme plus vieux que toi ?",
+      "ipa": "[aty deʒa fɛ lamuʁ‿avɛk‿œ̃n‿ɔm ply vjø kə twa]",
+      "ear": "阿蒂于 德扎 费 拉穆赫 阿韦克 恩恩 哦姆 普吕 弗耶厄 克 特乌阿",
+      "meaning": "你和比自己年长的男人做过爱吗？",
+      "suppliedText": "As-tu déjà fait l’amour avec un homme plus vieux que toi ?",
+      "sourceLineId": "romeo-timed-442-60",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4685,
+        "sourceLineNumber": 442,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4691,
+      "sourceText": "As-tu déjà pensé à tuer le prince ?",
+      "ipa": "[aty deʒa pɑ̃se a tye lə pʁɛ̃s]",
+      "ear": "阿蒂于 德扎 庞塞 阿 蒂于诶 勒 普汉斯",
+      "meaning": "你想过杀死亲王吗？",
+      "suppliedText": "As-tu déjà pensé à tuer le prince ?",
+      "sourceLineId": "romeo-timed-443-61",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4691,
+        "sourceLineNumber": 443,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4694.6,
+      "sourceText": "Non, non, rien de tout ça !",
+      "ipa": "[nɔ̃ nɔ̃ ʁjɛ̃ də tu sa]",
+      "ear": "农 农 赫耶安 德 图 萨",
+      "meaning": "没有，这些全没做过！",
+      "suppliedText": "Non, non, rien de tout ça !",
+      "sourceLineId": "romeo-timed-443-62",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4691,
+        "sourceLineNumber": 443,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4697,
+      "sourceText": "Mais je peux t’apprendre…",
+      "ipa": "[mɛ ʒə pø tapʁɑ̃dʁ]",
+      "ear": "梅 热 珀厄 塔普杭德赫",
+      "meaning": "不过，我可以教你……",
+      "suppliedText": "Mais je peux t’apprendre…",
+      "sourceLineId": "romeo-timed-444-63",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4697,
+        "sourceLineNumber": 444,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4699.424,
+      "sourceText": "Oh, quoique non.",
+      "ipa": "[ɔ kwak nɔ̃]",
+      "ear": "哦 克乌阿克 农",
+      "meaning": "哦，还是算了。",
+      "suppliedText": "Oh, quoique non.",
+      "sourceLineId": "romeo-timed-444-64",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4697,
+        "sourceLineNumber": 444,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4701.545,
+      "sourceText": "On ne devient pas fou, on",
+      "ipa": "[ɔ̃ nə dəvjɛ̃ pa fu ɔ̃]",
+      "ear": "翁 讷 德弗耶安 帕 富 翁",
+      "meaning": "人不是后来变疯的，而是。",
+      "suppliedText": "On ne devient pas fou, on",
+      "sourceLineId": "romeo-timed-444-65",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4697,
+        "sourceLineNumber": 444,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4704.273,
+      "sourceText": "Naît fou.",
+      "ipa": "[nɛ fu]",
+      "ear": "奈 富",
+      "meaning": "生来就疯。（naît：出生）",
+      "suppliedText": "NAIT fou.",
+      "sourceLineId": "romeo-timed-444-66",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4697,
+        "sourceLineNumber": 444,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4705.485,
+      "sourceText": "N'est ou",
+      "ipa": "[nɛt‿u]",
+      "ear": "奈特 乌",
+      "meaning": "是“不是”那个词？（n'est）",
+      "suppliedText": "N'E.S.T où",
+      "sourceLineId": "romeo-timed-444-67",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4697,
+        "sourceLineNumber": 444,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4706.394,
+      "sourceText": "Naît ?",
+      "ipa": "[nɛ]",
+      "ear": "奈",
+      "meaning": "还是“出生”那个词？（naît）",
+      "suppliedText": "N.A.I.T?",
+      "sourceLineId": "romeo-timed-444-68",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 4697,
+        "sourceLineNumber": 444,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "videoId": "romeo-2010-34",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=7018"
+    }
+  ],
+  "entries": [
+    {
+      "start": 7018,
+      "sourceText": "Vous qui le soir vous endormez",
+      "ipa": "[vu ki lə swaʁ vuz‿ɑ̃dɔʁme]",
+      "ear": "乌 基 勒 斯乌阿赫 乌兹 昂多赫梅",
+      "meaning": "你在夜晚安然入睡。",
+      "suppliedText": "Vous qui le soir vous endormez",
+      "sourceLineId": "romeo-timed-670-1",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7018,
+        "sourceLineNumber": 670,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7023.739,
+      "sourceText": "En étant certain d'être aimés",
+      "ipa": "[ɑ̃n‿etɑ̃ sɛʁtɛ̃ dɛtʁ‿ɛme]",
+      "ear": "昂恩 诶唐 塞赫坦 戴特赫 艾梅",
+      "meaning": "笃信自己被人爱着。",
+      "suppliedText": "En étant certain d'être aimés",
+      "sourceLineId": "romeo-timed-670-2",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7018,
+        "sourceLineNumber": 670,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7029,
+      "sourceText": "Bienvenue à Vérone",
+      "ipa": "[bjɛ̃vny a veʁɔn]",
+      "ear": "布耶安弗尼于 阿 韦霍恩",
+      "meaning": "欢迎来到维罗纳。",
+      "suppliedText": "Bienvenue à Vérone",
+      "sourceLineId": "romeo-timed-671-3",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7029,
+        "sourceLineNumber": 671,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7033,
+      "sourceText": "Vous qui trouvez que l'homme est bon",
+      "ipa": "[vu ki tʁuve kə lɔm‿ɛ bɔ̃]",
+      "ear": "乌 基 特胡韦 克 洛姆 艾 崩",
+      "meaning": "你觉得人性本善。",
+      "suppliedText": "Vous qui trouvez que l'homme est bon",
+      "sourceLineId": "romeo-timed-672-4",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7033,
+        "sourceLineNumber": 672,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7037.333,
+      "sourceText": "Parce qu'il sait faire de belles chansons",
+      "ipa": "[paʁskil sɛ fɛʁ də bɛl ʃɑ̃sɔ̃]",
+      "ear": "帕赫斯基勒 塞 费赫 德 贝勒 尚松",
+      "meaning": "因为人们能写出美丽的歌。",
+      "suppliedText": "Parce qu'il sait faire de belles chansons",
+      "sourceLineId": "romeo-timed-672-5",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7033,
+        "sourceLineNumber": 672,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7042,
+      "sourceText": "Si vous trouvez que celle-ci est bonne",
+      "ipa": "[si vu tʁuve kə sɛl si ɛ bɔn]",
+      "ear": "西 乌 特胡韦 克 塞勒 西 艾 博恩",
+      "meaning": "如果你觉得这首也不错。",
+      "suppliedText": "Si vous trouvez que celle-ci est bonne",
+      "sourceLineId": "romeo-timed-673-6",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7042,
+        "sourceLineNumber": 673,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7046.261,
+      "sourceText": "Bienvenue à Vérone",
+      "ipa": "[bjɛ̃vny a veʁɔn]",
+      "ear": "布耶安弗尼于 阿 韦霍恩",
+      "meaning": "欢迎来到维罗纳。",
+      "suppliedText": "Bienvenue à Vérone",
+      "sourceLineId": "romeo-timed-673-7",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7042,
+        "sourceLineNumber": 673,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7049,
+      "sourceText": "Bien sûr ici, c'est comme ailleurs",
+      "ipa": "[bjɛ̃ syʁ‿isi sɛ kɔm‿ajœʁ]",
+      "ear": "布耶安 西于赫 伊西 塞 科姆 阿耶厄赫",
+      "meaning": "当然，这里也和别处一样。",
+      "suppliedText": "Bien sûr ici, c'est comme ailleurs",
+      "sourceLineId": "romeo-timed-674-8",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7049,
+        "sourceLineNumber": 674,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7053.8,
+      "sourceText": "Les hommes ne sont ni pires ni meilleurs",
+      "ipa": "[lez‿ɔm nə sɔ̃ ni piʁ ni mɛjœʁ]",
+      "ear": "莱兹 哦姆 讷 松 尼 皮赫 尼 梅耶厄赫",
+      "meaning": "人们没有更坏，也没有更好。",
+      "suppliedText": "Les hommes ne sont ni pires ni meilleurs",
+      "sourceLineId": "romeo-timed-674-9",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7049,
+        "sourceLineNumber": 674,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7059,
+      "sourceText": "Eh !",
+      "ipa": "[ɛ]",
+      "ear": "艾",
+      "meaning": "嘿！",
+      "suppliedText": "Eh !",
+      "sourceLineId": "romeo-timed-675-10",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7059,
+        "sourceLineNumber": 675,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7059.591,
+      "sourceText": "vous qui venez chez moi ce soir",
+      "ipa": "[vu ki vəne ʃe mwa sə swaʁ]",
+      "ear": "乌 基 弗内 谢 姆乌阿 瑟 斯乌阿赫",
+      "meaning": "今晚来到我这里的各位。",
+      "suppliedText": "vous qui venez chez moi ce soir",
+      "sourceLineId": "romeo-timed-675-11",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7059,
+        "sourceLineNumber": 675,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7066.682,
+      "sourceText": "Par erreur ou par hasard",
+      "ipa": "[paʁ‿ɛʁœʁ‿u paʁ azaʁ]",
+      "ear": "帕赫 艾赫厄赫 乌 帕赫 阿扎赫",
+      "meaning": "不论走错了路，还是偶然路过。",
+      "suppliedText": "Par erreur ou par hasard",
+      "sourceLineId": "romeo-timed-675-12",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7059,
+        "sourceLineNumber": 675,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7072,
+      "sourceText": "Vous êtes à Vérone, ma belle Vérone",
+      "ipa": "[vuz‿ɛt‿a veʁɔn ma bɛl veʁɔn]",
+      "ear": "乌兹 艾特 阿 韦霍恩 玛 贝勒 韦霍恩",
+      "meaning": "你来到了维罗纳，我美丽的维罗纳。",
+      "suppliedText": "Vous êtes à Vérone, ma belle Vérone",
+      "sourceLineId": "romeo-timed-676-13",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7072,
+        "sourceLineNumber": 676,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7078.0,
+      "sourceText": "La ville où tout le monde se déteste",
+      "ipa": "[la vil u tulmɔ̃d sə detɛst]",
+      "ear": "拉 维勒 乌 图勒蒙德 瑟 德泰斯特",
+      "meaning": "一座人人彼此憎恨的城。",
+      "suppliedText": "La ville où tout le monde se déteste",
+      "sourceLineId": "romeo-timed-676-14",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7072,
+        "sourceLineNumber": 676,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7084,
+      "sourceText": "On voudrait partir mais on reste",
+      "ipa": "[ɔ̃ vudʁɛ paʁtiʁ mɛ ɔ̃ ʁɛst]",
+      "ear": "翁 乌德赫 帕赫蒂赫 梅 翁 赫斯特",
+      "meaning": "想离开，却又留了下来。",
+      "suppliedText": "On voudrait partir mais on reste",
+      "sourceLineId": "romeo-timed-677-15",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7084,
+        "sourceLineNumber": 677,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7089,
+      "sourceText": "Ici c'est pas l'amour qui est roi",
+      "ipa": "[isi sɛ pa lamuʁ ki ɛ ʁwa]",
+      "ear": "伊西 塞 帕 拉穆赫 基 艾 赫乌阿",
+      "meaning": "这里掌权的不是爱情。",
+      "suppliedText": "Ici c'est pas l'amour qui est roi",
+      "sourceLineId": "romeo-timed-678-16",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7089,
+        "sourceLineNumber": 678,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7093.696,
+      "sourceText": "Ici deux familles font la loi",
+      "ipa": "[isi dø famij fɔ̃ la lwa]",
+      "ear": "伊西 德厄 法米耶 丰 拉 勒乌阿",
+      "meaning": "这里由两大家族说了算。",
+      "suppliedText": "Ici deux familles font la loi",
+      "sourceLineId": "romeo-timed-678-17",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7089,
+        "sourceLineNumber": 678,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7098,
+      "sourceText": "Pas besoin de choisir ton camp",
+      "ipa": "[pa bəzwɛ̃ də ʃwaziʁ tɔ̃ kɑ̃]",
+      "ear": "帕 伯兹乌安 德 什乌阿齐赫 通 康",
+      "meaning": "你用不着选择阵营。",
+      "suppliedText": "Pas besoin de choisir ton camp",
+      "sourceLineId": "romeo-timed-679-18",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7098,
+        "sourceLineNumber": 679,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7101.636,
+      "sourceText": "On l'a fait pour toi y'a longtemps",
+      "ipa": "[ɔ̃ la fɛ puʁ twa ja lɔ̃tɑ̃]",
+      "ear": "翁 拉 费 普赫 特乌阿 耶阿 隆唐",
+      "meaning": "很久以前，他们就替你选好了。",
+      "suppliedText": "On l'a fait pour toi y'a longtemps",
+      "sourceLineId": "romeo-timed-679-19",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7098,
+        "sourceLineNumber": 679,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7106,
+      "sourceText": "Vous êtes à Vérone, ma belle Vérone",
+      "ipa": "[vuz‿ɛt‿a veʁɔn ma bɛl veʁɔn]",
+      "ear": "乌兹 艾特 阿 韦霍恩 玛 贝勒 韦霍恩",
+      "meaning": "你来到了维罗纳，我美丽的维罗纳。",
+      "suppliedText": "Vous êtes à Vérone, ma belle Vérone",
+      "sourceLineId": "romeo-timed-680-20",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7106,
+        "sourceLineNumber": 680,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7114.167,
+      "sourceText": "Ici le venin de la haine",
+      "ipa": "[isi lə vənɛ̃ də la ɛn]",
+      "ear": "伊西 勒 弗南 德 拉 艾恩",
+      "meaning": "这里，仇恨的毒液。",
+      "suppliedText": "Ici le venin de la haine",
+      "sourceLineId": "romeo-timed-680-21",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7106,
+        "sourceLineNumber": 680,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7120,
+      "sourceText": "Coule dans nos vies",
+      "ipa": "[kul dɑ̃ no vi]",
+      "ear": "库勒 当 诺 维",
+      "meaning": "流入我们的生活。",
+      "suppliedText": "Coule dans nos vies",
+      "sourceLineId": "romeo-timed-681-22",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7120,
+        "sourceLineNumber": 681,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7122.0,
+      "sourceText": "Comme dans nos veines",
+      "ipa": "[kɔm dɑ̃ no vɛn]",
+      "ear": "科姆 当 诺 韦恩",
+      "meaning": "也流进我们的血管。",
+      "suppliedText": "Comme dans nos veines",
+      "sourceLineId": "romeo-timed-681-23",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7120,
+        "sourceLineNumber": 681,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7124,
+      "sourceText": "Bien sûr nos jardins sont fleuris",
+      "ipa": "[bjɛ̃ syʁ no ʒaʁdɛ̃ sɔ̃ fløʁi]",
+      "ear": "布耶安 西于赫 诺 扎赫丹 松 弗勒厄希",
+      "meaning": "我们的花园当然鲜花盛开。",
+      "suppliedText": "Bien sûr nos jardins sont fleuris",
+      "sourceLineId": "romeo-timed-682-24",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7124,
+        "sourceLineNumber": 682,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7128.091,
+      "sourceText": "Bien sûr nos femmes sont belles et puis",
+      "ipa": "[bjɛ̃ syʁ no fam sɔ̃ bɛl e pɥi]",
+      "ear": "布耶安 西于赫 诺 法姆 松 贝勒 诶 普于伊",
+      "meaning": "我们的女人当然美丽动人。",
+      "suppliedText": "Bien sûr nos femmes sont belles et puis",
+      "sourceLineId": "romeo-timed-682-25",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7124,
+        "sourceLineNumber": 682,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7133,
+      "sourceText": "C'est comme un paradis sur terre",
+      "ipa": "[sɛ kɔm‿œ̃ paʁadi syʁ tɛʁ]",
+      "ear": "塞 科姆 恩 帕哈迪 西于赫 泰赫",
+      "meaning": "这里就像人间天堂。",
+      "suppliedText": "C'est comme un paradis sur terre",
+      "sourceLineId": "romeo-timed-683-26",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7133,
+        "sourceLineNumber": 683,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7139.19,
+      "sourceText": "Mais nos âmes elles sont en enfer",
+      "ipa": "[mɛ noz‿am‿ɛl sɔ̃t‿ɑ̃n‿ɑ̃fɛʁ]",
+      "ear": "梅 诺兹 阿姆 艾勒 松特 昂恩 昂费赫",
+      "meaning": "可我们的灵魂却身处地狱。",
+      "suppliedText": "Mais nos âmes elles sont en enfer",
+      "sourceLineId": "romeo-timed-683-27",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7133,
+        "sourceLineNumber": 683,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7146,
+      "sourceText": "Vous êtes à Vérone",
+      "ipa": "[vuz‿ɛt‿a veʁɔn]",
+      "ear": "乌兹 艾特 阿 韦霍恩",
+      "meaning": "你来到了维罗纳。",
+      "suppliedText": "Vous êtes à Vérone",
+      "sourceLineId": "romeo-timed-684-28",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7146,
+        "sourceLineNumber": 684,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

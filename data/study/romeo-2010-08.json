@@ -1,0 +1,1173 @@
+{
+  "videoId": "romeo-2010-08",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=1371"
+    }
+  ],
+  "entries": [
+    {
+      "start": 1371,
+      "sourceText": "Les rois du monde, font tout ce qu’ils veulent.",
+      "ipa": "[le ʁwa dy mɔ̃d fɔ̃ tu sə kil vœl]",
+      "ear": "莱 赫乌阿 迪于 蒙德 丰 图 瑟 基勒 弗厄勒",
+      "meaning": "世界之王，为所欲为。",
+      "suppliedText": "Les rois du monde, font tout ce qu’ils veulent.",
+      "sourceLineId": "romeo-timed-138-1",
+      "speaker": "Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1371,
+        "sourceLineNumber": 138,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1388.812,
+      "sourceText": "Ils ont du monde autour d’eux, mais ils sont seuls.",
+      "ipa": "[ilz‿ɔ̃ dy mɔ̃d‿otuʁ dø mɛ il sɔ̃ sœl]",
+      "ear": "伊勒兹 翁 迪于 蒙德 奥图赫 德厄 梅 伊勒 松 瑟厄勒",
+      "meaning": "身边围满了人，却依旧孤独。",
+      "suppliedText": "Ils ont du monde autour d’eux, mais ils sont seuls.",
+      "sourceLineId": "romeo-timed-138-2",
+      "speaker": "Prince",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1371,
+        "sourceLineNumber": 138,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1409,
+      "sourceText": "Les rois du monde vivent au sommet",
+      "ipa": "[le ʁwa dy mɔ̃d viv‿o sɔmɛ]",
+      "ear": "莱 赫乌阿 迪于 蒙德 维弗 奥 索梅",
+      "meaning": "世界之王高居顶端。",
+      "suppliedText": "Les rois du monde vivent au sommet",
+      "sourceLineId": "romeo-timed-142-3",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1409,
+        "sourceLineNumber": 142,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1413.0,
+      "sourceText": "Ils ont la plus belle vue mais y'a un mais",
+      "ipa": "[ilz‿ɔ̃ la ply bɛl vy mɛ ja œ̃ mɛ]",
+      "ear": "伊勒兹 翁 拉 普吕 贝勒 维于 梅 耶阿 恩 梅",
+      "meaning": "他们看尽风景，却有个问题。",
+      "suppliedText": "Ils ont la plus belle vue mais y'a un mais",
+      "sourceLineId": "romeo-timed-142-4",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1409,
+        "sourceLineNumber": 142,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1418,
+      "sourceText": "Ils ne savent pas ce qu'on pense d'eux en bas",
+      "ipa": "[il nə sav pa sə kɔ̃ pɑ̃s dø ɑ̃ ba]",
+      "ear": "伊勒 讷 萨弗 帕 瑟 孔 庞斯 德厄 昂 巴",
+      "meaning": "他们不知道下面的人怎么看他们。",
+      "suppliedText": "Ils ne savent pas ce qu'on pense d'eux en bas",
+      "sourceLineId": "romeo-timed-143-5",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1418,
+        "sourceLineNumber": 143,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1422.0,
+      "sourceText": "Ils ne savent pas qu'ici c'est nous les rois",
+      "ipa": "[il nə sav pa kisi sɛ nu le ʁwa]",
+      "ear": "伊勒 讷 萨弗 帕 基西 塞 努 莱 赫乌阿",
+      "meaning": "不知道在这里，我们才是王。",
+      "suppliedText": "Ils ne savent pas qu'ici c'est nous les rois",
+      "sourceLineId": "romeo-timed-143-6",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1418,
+        "sourceLineNumber": 143,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1426,
+      "sourceText": "Les rois du monde font tout ce qu'ils veulent",
+      "ipa": "[le ʁwa dy mɔ̃d fɔ̃ tu sə kil vœl]",
+      "ear": "莱 赫乌阿 迪于 蒙德 丰 图 瑟 基勒 弗厄勒",
+      "meaning": "世界之王为所欲为。",
+      "suppliedText": "Les rois du monde font tout ce qu'ils veulent",
+      "sourceLineId": "romeo-timed-144-7",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1426,
+        "sourceLineNumber": 144,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1429.75,
+      "sourceText": "Ils ont du monde autour d'eux mais ils sont seuls",
+      "ipa": "[ilz‿ɔ̃ dy mɔ̃d‿otuʁ dø mɛ il sɔ̃ sœl]",
+      "ear": "伊勒兹 翁 迪于 蒙德 奥图赫 德厄 梅 伊勒 松 瑟厄勒",
+      "meaning": "身边围满了人，却依旧孤独。",
+      "suppliedText": "Ils ont du monde autour d'eux mais ils sont seuls",
+      "sourceLineId": "romeo-timed-144-8",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1426,
+        "sourceLineNumber": 144,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1434,
+      "sourceText": "Dans leurs châteaux là-haut, ils s'ennuient",
+      "ipa": "[dɑ̃ lœʁ ʃato lao il sɑ̃nɥi]",
+      "ear": "当 勒厄赫 沙托 拉奥 伊勒 桑恩于伊",
+      "meaning": "他们在高处的城堡里无聊。",
+      "suppliedText": "Dans leurs châteaux là-haut, ils s'ennuient",
+      "sourceLineId": "romeo-timed-145-9",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1434,
+        "sourceLineNumber": 145,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1438.355,
+      "sourceText": "Pendant qu'en bas nous on danse toute la nuit",
+      "ipa": "[pɑ̃dɑ̃ kɑ̃ ba nuz‿ɔ̃ dɑ̃s tut la nɥi]",
+      "ear": "庞当 康 巴 努兹 翁 当斯 图特 拉 恩于伊",
+      "meaning": "而我们在下面，整夜跳舞。",
+      "suppliedText": "Pendant qu'en bas nous on danse toute la nuit",
+      "sourceLineId": "romeo-timed-145-10",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1434,
+        "sourceLineNumber": 145,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1443,
+      "sourceText": "Nous on fait l'amour, on vit la vie",
+      "ipa": "[nuz‿ɔ̃ fɛ lamuʁ ɔ̃ vi la vi]",
+      "ear": "努兹 翁 费 拉穆赫 翁 维 拉 维",
+      "meaning": "我们享受爱情，好好生活。",
+      "suppliedText": "Nous on fait l'amour, on vit la vie",
+      "sourceLineId": "romeo-timed-146-11",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1443,
+        "sourceLineNumber": 146,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1445.294,
+      "sourceText": "Jour après jour nuit après nuit",
+      "ipa": "[ʒuʁ‿apʁɛ ʒuʁ nɥi apʁɛ nɥi]",
+      "ear": "茹赫 阿普赫 茹赫 恩于伊 阿普赫 恩于伊",
+      "meaning": "日复一日，夜复一夜。",
+      "suppliedText": "Jour après jour nuit après nuit",
+      "sourceLineId": "romeo-timed-146-12",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1443,
+        "sourceLineNumber": 146,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1447.412,
+      "sourceText": "À quoi ça sert d'être sur la terre",
+      "ipa": "[a kwa sa sɛʁ dɛtʁ syʁ la tɛʁ]",
+      "ear": "阿 克乌阿 萨 塞赫 戴特赫 西于赫 拉 泰赫",
+      "meaning": "来到这世上，又有什么用？",
+      "suppliedText": "À quoi ça sert d'être sur la terre",
+      "sourceLineId": "romeo-timed-146-13",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1443,
+        "sourceLineNumber": 146,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1449.529,
+      "sourceText": "Si c'est pour faire nos vies à genoux",
+      "ipa": "[si sɛ puʁ fɛʁ no vi a ʒənu]",
+      "ear": "西 塞 普赫 费赫 诺 维 阿 热努",
+      "meaning": "如果一辈子都要跪着活。",
+      "suppliedText": "Si c'est pour faire nos vies à genoux",
+      "sourceLineId": "romeo-timed-146-14",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1443,
+        "sourceLineNumber": 146,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1452,
+      "sourceText": "On sait que le temps c'est comme le vent",
+      "ipa": "[ɔ̃ sɛ kə lə tɑ̃ sɛ kɔm lə vɑ̃]",
+      "ear": "翁 塞 克 勒 唐 塞 科姆 勒 旺",
+      "meaning": "我们知道，时间如风。",
+      "suppliedText": "On sait que le temps c'est comme le vent",
+      "sourceLineId": "romeo-timed-147-15",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1452,
+        "sourceLineNumber": 147,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1454.087,
+      "sourceText": "De vivre y'a que ça d'important",
+      "ipa": "[də vivʁ‿ja kə sa dɛ̃pɔʁtɑ̃]",
+      "ear": "德 维弗赫 耶阿 克 萨 丹珀赫唐",
+      "meaning": "活着，才是最重要的事。",
+      "suppliedText": "De vivre y'a que ça d'important",
+      "sourceLineId": "romeo-timed-147-16",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1452,
+        "sourceLineNumber": 147,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1456.0,
+      "sourceText": "On se fout pas mal de la morale",
+      "ipa": "[ɔ̃ sə fu pa mal də la moʁal]",
+      "ear": "翁 瑟 富 帕 玛勒 德 拉 莫哈勒",
+      "meaning": "我们才不在乎那些道德规矩。",
+      "suppliedText": "On se fout pas mal de la morale",
+      "sourceLineId": "romeo-timed-147-17",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1452,
+        "sourceLineNumber": 147,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1457.913,
+      "sourceText": "On sait bien qu'on fait pas de mal",
+      "ipa": "[ɔ̃ sɛ bjɛ̃ kɔ̃ fɛ pa də mal]",
+      "ear": "翁 塞 布耶安 孔 费 帕 德 玛勒",
+      "meaning": "我们知道自己没做坏事。",
+      "suppliedText": "On sait bien qu'on fait pas de mal",
+      "sourceLineId": "romeo-timed-147-18",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1452,
+        "sourceLineNumber": 147,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1460,
+      "sourceText": "Les rois du monde ont peur de tout",
+      "ipa": "[le ʁwa dy mɔ̃d‿ɔ̃ pœʁ də tu]",
+      "ear": "莱 赫乌阿 迪于 蒙德 翁 珀厄赫 德 图",
+      "meaning": "世界之王害怕一切。",
+      "suppliedText": "Les rois du monde ont peur de tout",
+      "sourceLineId": "romeo-timed-148-19",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1460,
+        "sourceLineNumber": 148,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1463.84,
+      "sourceText": "C'est qu'ils confondent les chiens et les loups",
+      "ipa": "[sɛ kil kɔ̃fɔ̃d le ʃjɛ̃ e le lu]",
+      "ear": "塞 基勒 孔丰德 莱 什耶安 诶 莱 卢",
+      "meaning": "他们分不清狗和狼。",
+      "suppliedText": "C'est qu'ils confondent les chiens et les loups",
+      "sourceLineId": "romeo-timed-148-20",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1460,
+        "sourceLineNumber": 148,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1468,
+      "sourceText": "Ils font des pièges où ils tomberont un jour",
+      "ipa": "[il fɔ̃ de pjɛʒ‿u il tɔ̃bʁɔ̃ œ̃ ʒuʁ]",
+      "ear": "伊勒 丰 德 普耶艾日 乌 伊勒 通布洪 恩 茹赫",
+      "meaning": "设下陷阱，终有一天自己也会掉进去。",
+      "suppliedText": "Ils font des pièges ou ils tomberont un jour",
+      "sourceLineId": "romeo-timed-149-21",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1468,
+        "sourceLineNumber": 149,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1472.138,
+      "sourceText": "Ils se protègent de tout même de l'amour",
+      "ipa": "[il sə pʁotɛʒ də tu mɛm də lamuʁ]",
+      "ear": "伊勒 瑟 普霍泰日 德 图 梅姆 德 拉穆赫",
+      "meaning": "他们防备一切，连爱情也防。",
+      "suppliedText": "Ils se protègent de tout même de l'amour",
+      "sourceLineId": "romeo-timed-149-22",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1468,
+        "sourceLineNumber": 149,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1476,
+      "sourceText": "Les rois du monde se battent entre eux",
+      "ipa": "[le ʁwa dy mɔ̃d sə bat‿ɑ̃tʁ‿ø]",
+      "ear": "莱 赫乌阿 迪于 蒙德 瑟 巴特 昂特赫 厄",
+      "meaning": "世界之王互相争斗。",
+      "suppliedText": "Les rois du monde se battent entre eux",
+      "sourceLineId": "romeo-timed-150-23",
+      "speaker": "Mercutio, Romeo et Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1476,
+        "sourceLineNumber": 150,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1479.774,
+      "sourceText": "C'est qu'y a de la place, mais pour un pas pour deux",
+      "ipa": "[sɛ ki a də la plas mɛ puʁ‿œ̃ pa puʁ dø]",
+      "ear": "塞 基 阿 德 拉 普拉斯 梅 普赫 恩 帕 普赫 德厄",
+      "meaning": "那位置容得下一人，却容不下两人。",
+      "suppliedText": "C'est qu'y a de la place, mais pour un pas pour deux",
+      "sourceLineId": "romeo-timed-150-24",
+      "speaker": "Mercutio, Romeo et Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1476,
+        "sourceLineNumber": 150,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1485,
+      "sourceText": "Et nous en bas leur guerre on la fera pas",
+      "ipa": "[e nuz‿ɑ̃ ba lœʁ ɡɛʁ‿ɔ̃ la fəʁa pa]",
+      "ear": "诶 努兹 昂 巴 勒厄赫 盖赫 翁 拉 弗哈 帕",
+      "meaning": "而我们这些下面的人，不会去打他们的仗。",
+      "suppliedText": "Et nous en bas leur guerre on la fera pas",
+      "sourceLineId": "romeo-timed-151-25",
+      "speaker": "Mercutio, Romeo et Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1485,
+        "sourceLineNumber": 151,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1488.333,
+      "sourceText": "On sait même pas pourquoi tout ça c'est des jeux de rois",
+      "ipa": "[ɔ̃ sɛ mɛm pa puʁkwa tu sa sɛ de ʒø də ʁwa]",
+      "ear": "翁 塞 梅姆 帕 普赫克乌阿 图 萨 塞 德 热厄 德 赫乌阿",
+      "meaning": "都不明白为何要打，那只是国王们的游戏。",
+      "suppliedText": "On sait même pas pourquoi tout ça c'est des jeux de rois",
+      "sourceLineId": "romeo-timed-151-26",
+      "speaker": "Mercutio, Romeo et Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1485,
+        "sourceLineNumber": 151,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1493,
+      "sourceText": "Nous on fait l'amour on vit la vie",
+      "ipa": "[nuz‿ɔ̃ fɛ lamuʁ‿ɔ̃ vi la vi]",
+      "ear": "努兹 翁 费 拉穆赫 翁 维 拉 维",
+      "meaning": "我们享受爱情，好好生活。",
+      "suppliedText": "Nous on fait l'amour on vit la vie",
+      "sourceLineId": "romeo-timed-152-27",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1493,
+        "sourceLineNumber": 152,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1495.294,
+      "sourceText": "Jour après jour nuit après nuit",
+      "ipa": "[ʒuʁ‿apʁɛ ʒuʁ nɥi apʁɛ nɥi]",
+      "ear": "茹赫 阿普赫 茹赫 恩于伊 阿普赫 恩于伊",
+      "meaning": "日复一日，夜复一夜。",
+      "suppliedText": "Jour après jour nuit après nuit",
+      "sourceLineId": "romeo-timed-152-28",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1493,
+        "sourceLineNumber": 152,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1497.412,
+      "sourceText": "À quoi ça sert d'être sur la terre",
+      "ipa": "[a kwa sa sɛʁ dɛtʁ syʁ la tɛʁ]",
+      "ear": "阿 克乌阿 萨 塞赫 戴特赫 西于赫 拉 泰赫",
+      "meaning": "来到这世上，又有什么用？",
+      "suppliedText": "À quoi ça sert d'être sur la terre",
+      "sourceLineId": "romeo-timed-152-29",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1493,
+        "sourceLineNumber": 152,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1499.529,
+      "sourceText": "Si c'est pour faire nos vies à genoux",
+      "ipa": "[si sɛ puʁ fɛʁ no vi a ʒənu]",
+      "ear": "西 塞 普赫 费赫 诺 维 阿 热努",
+      "meaning": "如果一辈子都要跪着活。",
+      "suppliedText": "Si c'est pour faire nos vies à genoux",
+      "sourceLineId": "romeo-timed-152-30",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1493,
+        "sourceLineNumber": 152,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1502,
+      "sourceText": "On sait que le temps c'est comme le vent",
+      "ipa": "[ɔ̃ sɛ kə lə tɑ̃ sɛ kɔm lə vɑ̃]",
+      "ear": "翁 塞 克 勒 唐 塞 科姆 勒 旺",
+      "meaning": "我们知道，时间如风。",
+      "suppliedText": "On sait que le temps c'est comme le vent",
+      "sourceLineId": "romeo-timed-153-31",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1502,
+        "sourceLineNumber": 153,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1508.261,
+      "sourceText": "De vivre y'a que ça d'important",
+      "ipa": "[də vivʁ‿ja kə sa dɛ̃pɔʁtɑ̃]",
+      "ear": "德 维弗赫 耶阿 克 萨 丹珀赫唐",
+      "meaning": "活着，才是最重要的事。",
+      "suppliedText": "De vivre y'a que ça d'important",
+      "sourceLineId": "romeo-timed-153-32",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1502,
+        "sourceLineNumber": 153,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1514.0,
+      "sourceText": "On se fout pas mal de la morale",
+      "ipa": "[ɔ̃ sə fu pa mal də la moʁal]",
+      "ear": "翁 瑟 富 帕 玛勒 德 拉 莫哈勒",
+      "meaning": "我们才不在乎那些道德规矩。",
+      "suppliedText": "On se fout pas mal de la morale",
+      "sourceLineId": "romeo-timed-153-33",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1502,
+        "sourceLineNumber": 153,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1519.739,
+      "sourceText": "On sait bien qu'on fait pas de mal",
+      "ipa": "[ɔ̃ sɛ bjɛ̃ kɔ̃ fɛ pa də mal]",
+      "ear": "翁 塞 布耶安 孔 费 帕 德 玛勒",
+      "meaning": "我们知道自己没做坏事。",
+      "suppliedText": "On sait bien qu'on fait pas de mal",
+      "sourceLineId": "romeo-timed-153-34",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1502,
+        "sourceLineNumber": 153,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1526,
+      "sourceText": "Nous on fait l'amour on vit la vie",
+      "ipa": "[nuz‿ɔ̃ fɛ lamuʁ‿ɔ̃ vi la vi]",
+      "ear": "努兹 翁 费 拉穆赫 翁 维 拉 维",
+      "meaning": "我们享受爱情，好好生活。",
+      "suppliedText": "Nous on fait l'amour on vit la vie",
+      "sourceLineId": "romeo-timed-154-35",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1526,
+        "sourceLineNumber": 154,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1528.294,
+      "sourceText": "Jour après jour nuit après nuit",
+      "ipa": "[ʒuʁ‿apʁɛ ʒuʁ nɥi apʁɛ nɥi]",
+      "ear": "茹赫 阿普赫 茹赫 恩于伊 阿普赫 恩于伊",
+      "meaning": "日复一日，夜复一夜。",
+      "suppliedText": "Jour après jour nuit après nuit",
+      "sourceLineId": "romeo-timed-154-36",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1526,
+        "sourceLineNumber": 154,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1530.412,
+      "sourceText": "À quoi ça sert d'être sur la terre",
+      "ipa": "[a kwa sa sɛʁ dɛtʁ syʁ la tɛʁ]",
+      "ear": "阿 克乌阿 萨 塞赫 戴特赫 西于赫 拉 泰赫",
+      "meaning": "来到这世上，又有什么用？",
+      "suppliedText": "À quoi ça sert d'être sur la terre",
+      "sourceLineId": "romeo-timed-154-37",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1526,
+        "sourceLineNumber": 154,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1532.529,
+      "sourceText": "Si c'est pour faire nos vies à genoux",
+      "ipa": "[si sɛ puʁ fɛʁ no vi a ʒənu]",
+      "ear": "西 塞 普赫 费赫 诺 维 阿 热努",
+      "meaning": "如果一辈子都要跪着活。",
+      "suppliedText": "Si c'est pour faire nos vies à genoux",
+      "sourceLineId": "romeo-timed-154-38",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1526,
+        "sourceLineNumber": 154,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1535,
+      "sourceText": "On sait que le temps c'est comme le vent",
+      "ipa": "[ɔ̃ sɛ kə lə tɑ̃ sɛ kɔm lə vɑ̃]",
+      "ear": "翁 塞 克 勒 唐 塞 科姆 勒 旺",
+      "meaning": "我们知道，时间如风。",
+      "suppliedText": "On sait que le temps c'est comme le vent",
+      "sourceLineId": "romeo-timed-155-39",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1535,
+        "sourceLineNumber": 155,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1537.609,
+      "sourceText": "De vivre y'a que ça d'important",
+      "ipa": "[də vivʁ‿ja kə sa dɛ̃pɔʁtɑ̃]",
+      "ear": "德 维弗赫 耶阿 克 萨 丹珀赫唐",
+      "meaning": "活着，才是最重要的事。",
+      "suppliedText": "De vivre y'a que ça d'important",
+      "sourceLineId": "romeo-timed-155-40",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1535,
+        "sourceLineNumber": 155,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1540,
+      "sourceText": "On se fout pas mal de la morale",
+      "ipa": "[ɔ̃ sə fu pa mal də la moʁal]",
+      "ear": "翁 瑟 富 帕 玛勒 德 拉 莫哈勒",
+      "meaning": "我们才不在乎那些道德规矩。",
+      "suppliedText": "On se fout pas mal de la morale",
+      "sourceLineId": "romeo-timed-156-41",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1540,
+        "sourceLineNumber": 156,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1545.261,
+      "sourceText": "On sait bien qu'on fait pas de mal",
+      "ipa": "[ɔ̃ sɛ bjɛ̃ kɔ̃ fɛ pa də mal]",
+      "ear": "翁 塞 布耶安 孔 费 帕 德 玛勒",
+      "meaning": "我们知道自己没做坏事。",
+      "suppliedText": "On sait bien qu'on fait pas de mal",
+      "sourceLineId": "romeo-timed-156-42",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1540,
+        "sourceLineNumber": 156,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1551,
+      "sourceText": "On sait que le temps c'est comme le vent",
+      "ipa": "[ɔ̃ sɛ kə lə tɑ̃ sɛ kɔm lə vɑ̃]",
+      "ear": "翁 塞 克 勒 唐 塞 科姆 勒 旺",
+      "meaning": "我们知道，时间如风。",
+      "suppliedText": "On sait que le temps c'est comme le vent",
+      "sourceLineId": "romeo-timed-157-43",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1551,
+        "sourceLineNumber": 157,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1555.696,
+      "sourceText": "On se fout pas mal de la morale",
+      "ipa": "[ɔ̃ sə fu pa mal də la moʁal]",
+      "ear": "翁 瑟 富 帕 玛勒 德 拉 莫哈勒",
+      "meaning": "我们才不在乎那些道德规矩。",
+      "suppliedText": "On se fout pas mal de la morale",
+      "sourceLineId": "romeo-timed-157-44",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1551,
+        "sourceLineNumber": 157,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1560,
+      "sourceText": "Nous on fait l'amour on vit la vie",
+      "ipa": "[nuz‿ɔ̃ fɛ lamuʁ‿ɔ̃ vi la vi]",
+      "ear": "努兹 翁 费 拉穆赫 翁 维 拉 维",
+      "meaning": "我们享受爱情，好好生活。",
+      "suppliedText": "Nous on fait l'amour on vit la vie",
+      "sourceLineId": "romeo-timed-158-45",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1560,
+        "sourceLineNumber": 158,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1562.039,
+      "sourceText": "Jour après jour nuit après nuit",
+      "ipa": "[ʒuʁ‿apʁɛ ʒuʁ nɥi apʁɛ nɥi]",
+      "ear": "茹赫 阿普赫 茹赫 恩于伊 阿普赫 恩于伊",
+      "meaning": "日复一日，夜复一夜。",
+      "suppliedText": "Jour après jour nuit après nuit",
+      "sourceLineId": "romeo-timed-158-46",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1560,
+        "sourceLineNumber": 158,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1563.922,
+      "sourceText": "À quoi ça sert d'être sur la terre",
+      "ipa": "[a kwa sa sɛʁ dɛtʁ syʁ la tɛʁ]",
+      "ear": "阿 克乌阿 萨 塞赫 戴特赫 西于赫 拉 泰赫",
+      "meaning": "来到这世上，又有什么用？",
+      "suppliedText": "À quoi ça sert d'être sur la terre",
+      "sourceLineId": "romeo-timed-158-47",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1560,
+        "sourceLineNumber": 158,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1565.804,
+      "sourceText": "Si c'est pour faire nos vies à genoux",
+      "ipa": "[si sɛ puʁ fɛʁ no vi a ʒənu]",
+      "ear": "西 塞 普赫 费赫 诺 维 阿 热努",
+      "meaning": "如果一辈子都要跪着活。",
+      "suppliedText": "Si c'est pour faire nos vies à genoux",
+      "sourceLineId": "romeo-timed-158-48",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1560,
+        "sourceLineNumber": 158,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1568,
+      "sourceText": "On sait que le temps c'est comme le vent",
+      "ipa": "[ɔ̃ sɛ kə lə tɑ̃ sɛ kɔm lə vɑ̃]",
+      "ear": "翁 塞 克 勒 唐 塞 科姆 勒 旺",
+      "meaning": "我们知道，时间如风。",
+      "suppliedText": "On sait que le temps c'est comme le vent",
+      "sourceLineId": "romeo-timed-159-49",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1568,
+        "sourceLineNumber": 159,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1570.348,
+      "sourceText": "De vivre y'a que ça d'important",
+      "ipa": "[də vivʁ‿ja kə sa dɛ̃pɔʁtɑ̃]",
+      "ear": "德 维弗赫 耶阿 克 萨 丹珀赫唐",
+      "meaning": "活着，才是最重要的事。",
+      "suppliedText": "De vivre y'a que ça d'important",
+      "sourceLineId": "romeo-timed-159-50",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1568,
+        "sourceLineNumber": 159,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1572.5,
+      "sourceText": "On se fout pas mal de la morale",
+      "ipa": "[ɔ̃ sə fu pa mal də la moʁal]",
+      "ear": "翁 瑟 富 帕 玛勒 德 拉 莫哈勒",
+      "meaning": "我们才不在乎那些道德规矩。",
+      "suppliedText": "On se fout pas mal de la morale",
+      "sourceLineId": "romeo-timed-159-51",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1568,
+        "sourceLineNumber": 159,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1574.652,
+      "sourceText": "On sait bien qu'on fait pas de mal",
+      "ipa": "[ɔ̃ sɛ bjɛ̃ kɔ̃ fɛ pa də mal]",
+      "ear": "翁 塞 布耶安 孔 费 帕 德 玛勒",
+      "meaning": "我们知道自己没做坏事。",
+      "suppliedText": "On sait bien qu'on fait pas de mal",
+      "sourceLineId": "romeo-timed-159-52",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1568,
+        "sourceLineNumber": 159,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1577,
+      "sourceText": "Nous on fait l'amour on vit la vie",
+      "ipa": "[nuz‿ɔ̃ fɛ lamuʁ‿ɔ̃ vi la vi]",
+      "ear": "努兹 翁 费 拉穆赫 翁 维 拉 维",
+      "meaning": "我们享受爱情，好好生活。",
+      "suppliedText": "Nous on fait l'amour on vit la vie",
+      "sourceLineId": "romeo-timed-160-53",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1577,
+        "sourceLineNumber": 160,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1579.039,
+      "sourceText": "Jour après jour nuit après nuit",
+      "ipa": "[ʒuʁ‿apʁɛ ʒuʁ nɥi apʁɛ nɥi]",
+      "ear": "茹赫 阿普赫 茹赫 恩于伊 阿普赫 恩于伊",
+      "meaning": "日复一日，夜复一夜。",
+      "suppliedText": "Jour après jour nuit après nuit",
+      "sourceLineId": "romeo-timed-160-54",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1577,
+        "sourceLineNumber": 160,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1580.922,
+      "sourceText": "À quoi ça sert d'être sur la terre",
+      "ipa": "[a kwa sa sɛʁ dɛtʁ syʁ la tɛʁ]",
+      "ear": "阿 克乌阿 萨 塞赫 戴特赫 西于赫 拉 泰赫",
+      "meaning": "来到这世上，又有什么用？",
+      "suppliedText": "À quoi ça sert d'être sur la terre",
+      "sourceLineId": "romeo-timed-160-55",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1577,
+        "sourceLineNumber": 160,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1582.804,
+      "sourceText": "Si c'est pour faire nos vies à genoux",
+      "ipa": "[si sɛ puʁ fɛʁ no vi a ʒənu]",
+      "ear": "西 塞 普赫 费赫 诺 维 阿 热努",
+      "meaning": "如果一辈子都要跪着活。",
+      "suppliedText": "Si c'est pour faire nos vies à genoux",
+      "sourceLineId": "romeo-timed-160-56",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1577,
+        "sourceLineNumber": 160,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1585,
+      "sourceText": "On sait que le temps c'est comme le vent",
+      "ipa": "[ɔ̃ sɛ kə lə tɑ̃ sɛ kɔm lə vɑ̃]",
+      "ear": "翁 塞 克 勒 唐 塞 科姆 勒 旺",
+      "meaning": "我们知道，时间如风。",
+      "suppliedText": "On sait que le temps c'est comme le vent",
+      "sourceLineId": "romeo-timed-161-57",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1585,
+        "sourceLineNumber": 161,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1588.391,
+      "sourceText": "De vivre y'a que ça d'important",
+      "ipa": "[də vivʁ‿ja kə sa dɛ̃pɔʁtɑ̃]",
+      "ear": "德 维弗赫 耶阿 克 萨 丹珀赫唐",
+      "meaning": "活着，才是最重要的事。",
+      "suppliedText": "De vivre y'a que ça d'important",
+      "sourceLineId": "romeo-timed-161-58",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1585,
+        "sourceLineNumber": 161,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1591.5,
+      "sourceText": "On se fout pas mal de la morale",
+      "ipa": "[ɔ̃ sə fu pa mal də la moʁal]",
+      "ear": "翁 瑟 富 帕 玛勒 德 拉 莫哈勒",
+      "meaning": "我们才不在乎那些道德规矩。",
+      "suppliedText": "On se fout pas mal de la morale",
+      "sourceLineId": "romeo-timed-161-59",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1585,
+        "sourceLineNumber": 161,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1594.609,
+      "sourceText": "On sait bien qu'on fait pas de mal",
+      "ipa": "[ɔ̃ sɛ bjɛ̃ kɔ̃ fɛ pa də mal]",
+      "ear": "翁 塞 布耶安 孔 费 帕 德 玛勒",
+      "meaning": "我们知道自己没做坏事。",
+      "suppliedText": "On sait bien qu'on fait pas de mal",
+      "sourceLineId": "romeo-timed-161-60",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1585,
+        "sourceLineNumber": 161,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1598,
+      "sourceText": "Alors nous, on est heureux ?",
+      "ipa": "[alɔʁ nu ɔ̃n‿ɛt‿øʁø]",
+      "ear": "阿洛赫 努 翁恩 艾特 厄赫厄",
+      "meaning": "所以，我们很幸福？",
+      "suppliedText": "Alors nous, on est heureux ?",
+      "sourceLineId": "romeo-timed-162-61",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1598,
+        "sourceLineNumber": 162,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1600.903,
+      "sourceText": "Oui",
+      "ipa": "[wi]",
+      "ear": "乌伊",
+      "meaning": "对。",
+      "suppliedText": "Oui",
+      "sourceLineId": "romeo-timed-162-62",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1598,
+        "sourceLineNumber": 162,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1601.774,
+      "sourceText": "Et eux, non ?",
+      "ipa": "[e ø nɔ̃]",
+      "ear": "诶 厄 农",
+      "meaning": "而他们不幸福？",
+      "suppliedText": "Et eux, non ?",
+      "sourceLineId": "romeo-timed-162-63",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1598,
+        "sourceLineNumber": 162,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1602.935,
+      "sourceText": "Voilà",
+      "ipa": "[vwala]",
+      "ear": "弗乌阿拉",
+      "meaning": "就是这样。",
+      "suppliedText": "Voilà",
+      "sourceLineId": "romeo-timed-162-64",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1598,
+        "sourceLineNumber": 162,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1603.806,
+      "sourceText": "Alors c’est qui, les rois du monde ?",
+      "ipa": "[alɔʁ sɛ ki le ʁwa dy mɔ̃d]",
+      "ear": "阿洛赫 塞 基 莱 赫乌阿 迪于 蒙德",
+      "meaning": "那么，谁是世界之王？",
+      "suppliedText": "Alors c’est qui, les rois du monde ?",
+      "sourceLineId": "romeo-timed-162-65",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1598,
+        "sourceLineNumber": 162,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1607,
+      "sourceText": "Mais c’est personne !",
+      "ipa": "[mɛ sɛ pɛʁsɔn]",
+      "ear": "梅 塞 佩赫索恩",
+      "meaning": "根本没人！",
+      "suppliedText": "Mais c’est personne !",
+      "sourceLineId": "romeo-timed-163-66",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1607,
+        "sourceLineNumber": 163,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1608.2,
+      "sourceText": "Pourquoi, c’est ça votre rêve ?",
+      "ipa": "[puʁkwa sɛ sa votʁ ʁɛv]",
+      "ear": "普赫克乌阿 塞 萨 沃特赫 赫弗",
+      "meaning": "怎么，这就是你们的梦想？",
+      "suppliedText": "Pourquoi, c’est ça votre rêve ?",
+      "sourceLineId": "romeo-timed-163-67",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1607,
+        "sourceLineNumber": 163,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1610.4,
+      "sourceText": "Etre les rois du monde ?",
+      "ipa": "[etʁ le ʁwa dy mɔ̃d]",
+      "ear": "诶特赫 莱 赫乌阿 迪于 蒙德",
+      "meaning": "成为世界之王？",
+      "suppliedText": "Etre les rois du monde ?",
+      "sourceLineId": "romeo-timed-163-68",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1607,
+        "sourceLineNumber": 163,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1612,
+      "sourceText": "Un peu d’ambition les amis !",
+      "ipa": "[œ̃ pø dɑ̃bisjɔ̃ lez‿ami]",
+      "ear": "恩 珀厄 当比斯耶翁 莱兹 阿米",
+      "meaning": "朋友们，有点志气！",
+      "suppliedText": "Un peu d’ambition les amis !",
+      "sourceLineId": "romeo-timed-167-69",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1612,
+        "sourceLineNumber": 167,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1614.619,
+      "sourceText": "Il y a de plus grands duos !",
+      "ipa": "[il‿i a də ply ɡʁɑ̃ dyo]",
+      "ear": "伊勒 伊 阿 德 普吕 格杭 迪于奥",
+      "meaning": "还有更伟大的搭档呢！",
+      "suppliedText": "Il y a de plus grands duos !",
+      "sourceLineId": "romeo-timed-167-70",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1612,
+        "sourceLineNumber": 167,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1616.714,
+      "sourceText": "Non, non, vous, vous êtes petits, petits, petits !",
+      "ipa": "[nɔ̃ nɔ̃ vu vuz‿ɛt pəti pəti pəti]",
+      "ear": "农 农 乌 乌兹 艾特 珀蒂 珀蒂 珀蒂",
+      "meaning": "不，你们太渺小，太渺小了！",
+      "suppliedText": "Non, non, vous, vous êtes petits, petits, petits !",
+      "sourceLineId": "romeo-timed-167-71",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1612,
+        "sourceLineNumber": 167,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1620.381,
+      "sourceText": "Un peu d’ambition, p’tit frères !",
+      "ipa": "[œ̃ pø dɑ̃bisjɔ̃ pəti fʁɛʁ]",
+      "ear": "恩 珀厄 当比斯耶翁 珀蒂 弗赫赫",
+      "meaning": "有点志气吧，小兄弟们！",
+      "suppliedText": "Un peu d’ambition, p’tit frères !",
+      "sourceLineId": "romeo-timed-167-72",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1612,
+        "sourceLineNumber": 167,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

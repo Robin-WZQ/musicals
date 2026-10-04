@@ -9,13 +9,99 @@
   "trackNumber": 23,
   "act": 2,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr-FR",
-  "captionDelivery": "youtube-player",
-  "captionSource": "youtube-player",
+  "captionDelivery": "study-page",
+  "captionSource": "editorial",
   "nativeCaptionAvailable": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "ça c'est fou !",
+      "start": 4707,
+      "duration": 1.067
+    },
+    {
+      "text": "Qu'est-ce qui fait courir les hommes ?",
+      "start": 4708.067,
+      "duration": 3.466
+    },
+    {
+      "text": "Savons-nous vraiment, qui nous sommes ?",
+      "start": 4711.533,
+      "duration": 3.467
+    },
+    {
+      "text": "Qu'est-ce qui fait brûler nos âmes ?",
+      "start": 4715,
+      "duration": 2.571
+    },
+    {
+      "text": "Pourquoi on court comme ça, après les femmes ?",
+      "start": 4717.571,
+      "duration": 3.429
+    },
+    {
+      "text": "Moi, la seule que j'aime vraiment",
+      "start": 4721,
+      "duration": 3.92
+    },
+    {
+      "text": "Celle qui connaît mes tourments",
+      "start": 4724.92,
+      "duration": 3.08
+    },
+    {
+      "text": "Et qui m'a pris pour amant",
+      "start": 4728,
+      "duration": 1.8
+    },
+    {
+      "text": "Vous ne la verrez jamais",
+      "start": 4729.8,
+      "duration": 1.8
+    },
+    {
+      "text": "Mais moi je sais qui elle est",
+      "start": 4731.6,
+      "duration": 2.4
+    },
+    {
+      "text": "La folie",
+      "start": 4734,
+      "duration": 8.0
+    },
+    {
+      "text": "Elle mon amie, c'est la folie",
+      "start": 4742,
+      "duration": 3.781
+    },
+    {
+      "text": "La folie, qui vous dit, \"allez vas-y, tu pleures ou tu ris\"",
+      "start": 4745.781,
+      "duration": 7.219
+    },
+    {
+      "text": "Oui, je lui dois tout elle m'a tout appris",
+      "start": 4753,
+      "duration": 6.476
+    },
+    {
+      "text": "La folie",
+      "start": 4759.476,
+      "duration": 1.524
+    },
+    {
+      "text": "Elle me tient dans ses mains et je suis bien",
+      "start": 4761,
+      "duration": 11.053
+    },
+    {
+      "text": "La folie !",
+      "start": 4772.053,
+      "duration": 2.947
+    }
+  ],
   "playbackVideoId": "kgGN5675TAY",
   "sourceDuration": 8831,
   "sourceURL": "https://www.youtube.com/watch?v=kgGN5675TAY&t=4707",
@@ -59,12 +145,15 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "approximate",
   "playableInEmbed": true,
   "performanceYear": 2010,
   "albumReleaseYear": 2009,
   "mediaKind": "stage-video",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "isGenerated": false,
+  "studyVersion": 4
 }

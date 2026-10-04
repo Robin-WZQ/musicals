@@ -9,13 +9,359 @@
   "trackNumber": 21,
   "act": 2,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr-FR",
-  "captionDelivery": "youtube-player",
-  "captionSource": "youtube-player",
+  "captionDelivery": "study-page",
+  "captionSource": "editorial",
   "nativeCaptionAvailable": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "On dit dans la rue, que Roméo est perdu",
+      "start": 4269,
+      "duration": 4.4
+    },
+    {
+      "text": "Qu'il mérite bien la lame, de ceux qui vendent leurs âmes",
+      "start": 4273.4,
+      "duration": 6.6
+    },
+    {
+      "text": "On dit dans la rue, que le fils des Montaigu",
+      "start": 4280,
+      "duration": 5.556
+    },
+    {
+      "text": "A trahi ses parents, déshonoré son rang",
+      "start": 4285.556,
+      "duration": 4.444
+    },
+    {
+      "text": "Mais toi qui vis comme un ange, toi que rien ne dérange",
+      "start": 4290,
+      "duration": 5.628
+    },
+    {
+      "text": "Tu crois que tout s'arrange mais la vie un jour se venge",
+      "start": 4295.628,
+      "duration": 5.372
+    },
+    {
+      "text": "T'avais pas le droit,",
+      "start": 4301,
+      "duration": 0.942
+    },
+    {
+      "text": "Ne me parlez pas de droit",
+      "start": 4301.942,
+      "duration": 1.077
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4303.019,
+      "duration": 0.943
+    },
+    {
+      "text": "Vous n'en avez pas sur moi",
+      "start": 4303.962,
+      "duration": 1.211
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4305.173,
+      "duration": 0.942
+    },
+    {
+      "text": "J’aime comme vous n'aimerez jamais",
+      "start": 4306.115,
+      "duration": 1.885
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4308,
+      "duration": 1.037
+    },
+    {
+      "text": "Pour vous, je n'ai pas de secret",
+      "start": 4309.037,
+      "duration": 1.63
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4310.667,
+      "duration": 1.037
+    },
+    {
+      "text": "Je vous regarde et j'ai honte",
+      "start": 4311.704,
+      "duration": 1.629
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4313.333,
+      "duration": 1.037
+    },
+    {
+      "text": "Je me fous de ce qu'on raconte",
+      "start": 4314.37,
+      "duration": 1.63
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4316,
+      "duration": 0.875
+    },
+    {
+      "text": "La seule chose pour moi qui compte",
+      "start": 4316.875,
+      "duration": 1.75
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4318.625,
+      "duration": 0.875
+    },
+    {
+      "text": "C'est que vous l'aimiez aussi",
+      "start": 4319.5,
+      "duration": 1.5
+    },
+    {
+      "text": "On dit dans la rue qu'en lui prenant sa vertu",
+      "start": 4321,
+      "duration": 5.156
+    },
+    {
+      "text": "Tu as perdu la tienne et réveillé la haine",
+      "start": 4326.156,
+      "duration": 5.844
+    },
+    {
+      "text": "On dit dans la rue que pour toi y a plus d'issue",
+      "start": 4332,
+      "duration": 4.615
+    },
+    {
+      "text": "Que pour sauver ton honneur, il faut quitter cette fleur",
+      "start": 4336.615,
+      "duration": 5.385
+    },
+    {
+      "text": "Mais toi qui vis comme un ange, toi que rien ne dérange",
+      "start": 4342,
+      "duration": 5.628
+    },
+    {
+      "text": "Tu crois que tout s'arrange, mais la vie un jour se venge",
+      "start": 4347.628,
+      "duration": 5.372
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4353,
+      "duration": 0.966
+    },
+    {
+      "text": "Qu'est-ce que vous voulez que je vous dise",
+      "start": 4353.966,
+      "duration": 2.344
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4356.31,
+      "duration": 0.966
+    },
+    {
+      "text": "Me punir pour ma franchise",
+      "start": 4357.276,
+      "duration": 1.241
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4358.517,
+      "duration": 0.966
+    },
+    {
+      "text": "Vous qui savez tout de moi",
+      "start": 4359.483,
+      "duration": 1.517
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4361,
+      "duration": 0.891
+    },
+    {
+      "text": "Vous doutez ainsi, pourquoi",
+      "start": 4361.891,
+      "duration": 1.654
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4363.545,
+      "duration": 0.891
+    },
+    {
+      "text": "Pourquoi me juger ainsi",
+      "start": 4364.436,
+      "duration": 1.4
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4365.836,
+      "duration": 0.891
+    },
+    {
+      "text": "Vous mes frères, vous mes amis",
+      "start": 4366.727,
+      "duration": 1.273
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4368,
+      "duration": 1.167
+    },
+    {
+      "text": "Je suis libre comme vous l'étiez",
+      "start": 4369.167,
+      "duration": 2.0
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4371.167,
+      "duration": 1.166
+    },
+    {
+      "text": "Avant de vouloir me juger",
+      "start": 4372.333,
+      "duration": 1.667
+    },
+    {
+      "text": "Bien sûr c'est la vie qui choisit",
+      "start": 4374,
+      "duration": 2.5
+    },
+    {
+      "text": "Bien sûr c'est la vie qui choisit",
+      "start": 4376.5,
+      "duration": 2.5
+    },
+    {
+      "text": "Mais pourquoi la fille de ton ennemi",
+      "start": 4379,
+      "duration": 3.261
+    },
+    {
+      "text": "Je n'y peux rien, c'était écrit",
+      "start": 4382.261,
+      "duration": 2.391
+    },
+    {
+      "text": "Quand toutes les femmes te veulent dans leurs lits",
+      "start": 4384.652,
+      "duration": 3.478
+    },
+    {
+      "text": "Non, non, oh non!",
+      "start": 4388.13,
+      "duration": 0.87
+    },
+    {
+      "text": "Pourquoi c'est elle que t'as choisie",
+      "start": 4389,
+      "duration": 6.0
+    },
+    {
+      "text": "Je vis ma vie tel que je suis, je vous le dis, oh oui",
+      "start": 4395.0,
+      "duration": 8.0
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4403,
+      "duration": 1.12
+    },
+    {
+      "text": "Allons, regardez-vous",
+      "start": 4404.12,
+      "duration": 1.12
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4405.24,
+      "duration": 1.12
+    },
+    {
+      "text": "Vous êtes simplement jaloux",
+      "start": 4406.36,
+      "duration": 1.6
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4407.96,
+      "duration": 1.12
+    },
+    {
+      "text": "Vous oubliez toutes ces nuits",
+      "start": 4409.08,
+      "duration": 1.92
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4411,
+      "duration": 1.4
+    },
+    {
+      "text": "Avec celles qui nous ennuient",
+      "start": 4412.4,
+      "duration": 2.4
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4414.8,
+      "duration": 1.4
+    },
+    {
+      "text": "Non, je n'ai trahi personne",
+      "start": 4416.2,
+      "duration": 1.8
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4418,
+      "duration": 1.556
+    },
+    {
+      "text": "Je ne veux pas qu'on me pardonne",
+      "start": 4419.556,
+      "duration": 2.444
+    },
+    {
+      "text": "T'avais pas le droit",
+      "start": 4422.0,
+      "duration": 1.556
+    },
+    {
+      "text": "Mais sans elle, je ne suis rien",
+      "start": 4423.556,
+      "duration": 2.444
+    },
+    {
+      "text": "T'avais pas le droit...",
+      "start": 4426,
+      "duration": 3.5
+    },
+    {
+      "text": "Je ne suis rien",
+      "start": 4429.5,
+      "duration": 3.0
+    },
+    {
+      "text": "T'avais pas le droit...",
+      "start": 4432.5,
+      "duration": 3.5
+    }
+  ],
   "playbackVideoId": "kgGN5675TAY",
   "sourceDuration": 8831,
   "sourceURL": "https://www.youtube.com/watch?v=kgGN5675TAY&t=4259",
@@ -111,12 +457,15 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "approximate",
   "playableInEmbed": true,
   "performanceYear": 2010,
   "albumReleaseYear": 2009,
   "mediaKind": "stage-video",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "isGenerated": false,
+  "studyVersion": 4
 }

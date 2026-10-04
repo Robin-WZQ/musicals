@@ -1,0 +1,453 @@
+{
+  "videoId": "romeo-2010-09",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=1623"
+    }
+  ],
+  "entries": [
+    {
+      "start": 1623,
+      "sourceText": "Les rois du monde, les rois de rien,",
+      "ipa": "[le ʁwa dy mɔ̃d le ʁwa də ʁjɛ̃]",
+      "ear": "莱 赫乌阿 迪于 蒙德 莱 赫乌阿 德 赫耶安",
+      "meaning": "世界之王，一无所有的王。",
+      "suppliedText": "Les rois du monde, les rois de rien,",
+      "sourceLineId": "romeo-timed-168-1",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1623,
+        "sourceLineNumber": 168,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1627.5,
+      "sourceText": "Quand papa gronde, couchés, les chiens !",
+      "ipa": "[kɑ̃ papa ɡʁɔ̃d kuʃe le ʃjɛ̃]",
+      "ear": "康 帕帕 格洪德 库谢 莱 什耶安",
+      "meaning": "爸爸一发怒，狗就趴下！",
+      "suppliedText": "Quand papa gronde, couchés, les chiens !",
+      "sourceLineId": "romeo-timed-168-2",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1623,
+        "sourceLineNumber": 168,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1632,
+      "sourceText": "Regardez-nous, des moins que rien !",
+      "ipa": "[ʁəɡaʁdenu de mwɛ̃ kə ʁjɛ̃]",
+      "ear": "赫嘎赫德努 德 姆乌安 克 赫耶安",
+      "meaning": "看看我们，连蝼蚁都不如！",
+      "suppliedText": "Regardez-nous, des moins que rien !",
+      "sourceLineId": "romeo-timed-169-3",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 1632,
+        "sourceLineNumber": 169,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1635,
+      "sourceText": "Les rois du monde, les rois d'égouts,",
+      "ipa": "[le ʁwa dy mɔ̃d le ʁwa deɡu]",
+      "ear": "莱 赫乌阿 迪于 蒙德 莱 赫乌阿 德古",
+      "meaning": "世界之王，下水道的王。",
+      "suppliedText": "Les rois du monde, les rois d'égouts,",
+      "sourceLineId": "romeo-timed-170-4",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1635,
+        "sourceLineNumber": 170,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1639.0,
+      "sourceText": "Ça pue en haut, ça pue en-dessous,",
+      "ipa": "[sa py ɑ̃ o sa py ɑ̃dəsu]",
+      "ear": "萨 普于 昂 奥 萨 普于 昂德苏",
+      "meaning": "上面臭，下面也臭。",
+      "suppliedText": "Ça pue en haut, ça pue en-dessous,",
+      "sourceLineId": "romeo-timed-170-5",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1635,
+        "sourceLineNumber": 170,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1643.333,
+      "sourceText": "On est les rois des riens du tout !",
+      "ipa": "[ɔ̃n‿ɛ le ʁwa de ʁjɛ̃ dy tu]",
+      "ear": "翁恩 艾 莱 赫乌阿 德 赫耶安 迪于 图",
+      "meaning": "我们是虚无的王！",
+      "suppliedText": "On est les rois des riens du tout !",
+      "sourceLineId": "romeo-timed-170-6",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1635,
+        "sourceLineNumber": 170,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1647,
+      "sourceText": "Perdus dans la ville,",
+      "ipa": "[pɛʁdy dɑ̃ la vil]",
+      "ear": "佩赫迪于 当 拉 维勒",
+      "meaning": "迷失在城里。",
+      "suppliedText": "Perdus dans la ville,",
+      "sourceLineId": "romeo-timed-171-7",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1647,
+        "sourceLineNumber": 171,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1648.714,
+      "sourceText": "Pendus à nos fils,",
+      "ipa": "[pɑ̃dy a no fil]",
+      "ear": "庞迪于 阿 诺 菲勒",
+      "meaning": "悬在操纵我们的线上。",
+      "suppliedText": "Pendus à nos fils,",
+      "sourceLineId": "romeo-timed-171-8",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1647,
+        "sourceLineNumber": 171,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1650.143,
+      "sourceText": "Petits coqs de basse-cour,",
+      "ipa": "[pəti kɔk də baskuʁ]",
+      "ear": "珀蒂 科克 德 巴斯库赫",
+      "meaning": "院子里的小公鸡。",
+      "suppliedText": "Petits coqs de basse-cour,",
+      "sourceLineId": "romeo-timed-171-9",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1647,
+        "sourceLineNumber": 171,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1652.429,
+      "sourceText": "Ventriloques de l'amour !",
+      "ipa": "[vɑ̃tʁilok də lamuʁ]",
+      "ear": "旺特希洛克 德 拉穆赫",
+      "meaning": "爱情的腹语木偶！",
+      "suppliedText": "Ventriloques de l'amour !",
+      "sourceLineId": "romeo-timed-171-10",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1647,
+        "sourceLineNumber": 171,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1655,
+      "sourceText": "On fait semblant d'être heureux,",
+      "ipa": "[ɔ̃ fɛ sɑ̃blɑ̃ dɛtʁ‿øʁø]",
+      "ear": "翁 费 桑布朗 戴特赫 厄赫厄",
+      "meaning": "我们假装幸福。",
+      "suppliedText": "On fait semblant d'être heureux,",
+      "sourceLineId": "romeo-timed-172-11",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1655,
+        "sourceLineNumber": 172,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1657.63,
+      "sourceText": "Mais vous savez tous les deux,",
+      "ipa": "[mɛ vu save tu le dø]",
+      "ear": "梅 乌 萨韦 图 莱 德厄",
+      "meaning": "可你们两个都知道。",
+      "suppliedText": "Mais vous savez tous les deux,",
+      "sourceLineId": "romeo-timed-172-12",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1655,
+        "sourceLineNumber": 172,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1660.261,
+      "sourceText": "Que moi, j'suis pas comme vous,",
+      "ipa": "[kə mwa ʒsɥi pa kɔm vu]",
+      "ear": "克 姆乌阿 日斯于伊 帕 科姆 乌",
+      "meaning": "我和你们不一样。",
+      "suppliedText": "Que moi, j'suis pas comme vous,",
+      "sourceLineId": "romeo-timed-172-13",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1655,
+        "sourceLineNumber": 172,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1662.891,
+      "sourceText": "J'ai peur de rien, et vous de tout !",
+      "ipa": "[ʒe pœʁ də ʁjɛ̃n e vu də tu]",
+      "ear": "热 珀厄赫 德 赫耶安恩 诶 乌 德 图",
+      "meaning": "我什么都不怕，你们却什么都怕！",
+      "suppliedText": "J'ai peur de rien, et vous de tout !",
+      "sourceLineId": "romeo-timed-172-14",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1655,
+        "sourceLineNumber": 172,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1666,
+      "sourceText": "Et je rêve !",
+      "ipa": "[e ʒə ʁɛv]",
+      "ear": "诶 热 赫弗",
+      "meaning": "我做着梦！",
+      "suppliedText": "Et je rêve !",
+      "sourceLineId": "romeo-timed-173-15",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1666,
+        "sourceLineNumber": 173,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1669.273,
+      "sourceText": "Oh oui, je rêve !",
+      "ipa": "[ɔ wi ʒə ʁɛv]",
+      "ear": "哦 乌伊 热 赫弗",
+      "meaning": "哦，是的，我做着梦！",
+      "suppliedText": "Oh oui, je rêve !",
+      "sourceLineId": "romeo-timed-173-16",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1666,
+        "sourceLineNumber": 173,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1675,
+      "sourceText": "Je rêve de la mort de mon ennemi,",
+      "ipa": "[ʒə ʁɛv də la mɔʁ də mɔ̃n‿ɛnmi]",
+      "ear": "热 赫弗 德 拉 莫赫 德 蒙恩 艾恩米",
+      "meaning": "我梦见敌人死去。",
+      "suppliedText": "Je rêve de la mort de mon ennemi,",
+      "sourceLineId": "romeo-timed-174-17",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1675,
+        "sourceLineNumber": 174,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1676.833,
+      "sourceText": "De voir les femmes sous moi qui crient,",
+      "ipa": "[də vwaʁ le fam su mwa ki kʁi]",
+      "ear": "德 弗乌阿赫 莱 法姆 苏 姆乌阿 基 克希",
+      "meaning": "梦见女人在我身下叫喊。",
+      "suppliedText": "De voir les femmes sous moi qui crient,",
+      "sourceLineId": "romeo-timed-174-18",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1675,
+        "sourceLineNumber": 174,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1679.167,
+      "sourceText": "Je rêve de voir cette ville en feu,",
+      "ipa": "[ʒə ʁɛv də vwaʁ sɛt vil‿ɑ̃ fø]",
+      "ear": "热 赫弗 德 弗乌阿赫 塞特 维勒 昂 弗厄",
+      "meaning": "梦见这座城市燃烧。",
+      "suppliedText": "Je rêve de voir cette ville en feu,",
+      "sourceLineId": "romeo-timed-174-19",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1675,
+        "sourceLineNumber": 174,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1681.333,
+      "sourceText": "Et lancer un défi à Dieu !",
+      "ipa": "[e lɑ̃se œ̃ defi a djø]",
+      "ear": "诶 朗塞 恩 德菲 阿 德耶厄",
+      "meaning": "向上帝发出挑战！",
+      "suppliedText": "Et lancer un défi à Dieu !",
+      "sourceLineId": "romeo-timed-174-20",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1675,
+        "sourceLineNumber": 174,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1683,
+      "sourceText": "Je rêve !",
+      "ipa": "[ʒə ʁɛv]",
+      "ear": "热 赫弗",
+      "meaning": "我做着梦！",
+      "suppliedText": "Je rêve !",
+      "sourceLineId": "romeo-timed-175-21",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1683,
+        "sourceLineNumber": 175,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1684.286,
+      "sourceText": "Je suis le maître, pas l'élève !",
+      "ipa": "[ʒə sɥi lə mɛtʁ pa lelɛv]",
+      "ear": "热 斯于伊 勒 梅特赫 帕 莱莱弗",
+      "meaning": "我是主人，可不是学生！",
+      "suppliedText": "Je suis le maître, pas l'élève !",
+      "sourceLineId": "romeo-timed-175-22",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1683,
+        "sourceLineNumber": 175,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1689,
+      "sourceText": "Oh je rêve, je rêve !",
+      "ipa": "[ɔ ʒə ʁɛv ʒə ʁɛv]",
+      "ear": "哦 热 赫弗 热 赫弗",
+      "meaning": "哦，我做着梦，做着梦！",
+      "suppliedText": "Oh je rêve, je rêve !",
+      "sourceLineId": "romeo-timed-176-23",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1689,
+        "sourceLineNumber": 176,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1692.294,
+      "sourceText": "Oh, Roméo, j'ai la fièvre !",
+      "ipa": "[ɔ ʁomeo ʒe la fjɛvʁ]",
+      "ear": "哦 霍梅奥 热 拉 弗耶艾弗赫",
+      "meaning": "哦，罗密欧，我发着高烧！",
+      "suppliedText": "Oh, Roméo, j'ai la fièvre !",
+      "sourceLineId": "romeo-timed-176-24",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1689,
+        "sourceLineNumber": 176,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1697,
+      "sourceText": "Et tant pis si j'en crève,",
+      "ipa": "[e tɑ̃pi si ʒɑ̃ kʁɛv]",
+      "ear": "诶 唐皮 西 让 克赫弗",
+      "meaning": "就算因此死去，也无所谓。",
+      "suppliedText": "Et tant pis si j'en crève,",
+      "sourceLineId": "romeo-timed-177-25",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1697,
+        "sourceLineNumber": 177,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1704.0,
+      "sourceText": "Je rêve !",
+      "ipa": "[ʒə ʁɛv]",
+      "ear": "热 赫弗",
+      "meaning": "我做着梦！",
+      "suppliedText": "Je rêve !",
+      "sourceLineId": "romeo-timed-177-26",
+      "speaker": "",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 1697,
+        "sourceLineNumber": 177,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1707,
+      "sourceText": "Je rêve !",
+      "ipa": "[ʒə ʁɛv]",
+      "ear": "热 赫弗",
+      "meaning": "我做着梦！",
+      "suppliedText": "Je rêve !",
+      "sourceLineId": "romeo-timed-178-27",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 1707,
+        "sourceLineNumber": 178,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

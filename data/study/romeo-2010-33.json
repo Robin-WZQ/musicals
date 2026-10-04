@@ -1,0 +1,709 @@
+{
+  "videoId": "romeo-2010-33",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=6861"
+    }
+  ],
+  "entries": [
+    {
+      "start": 6873,
+      "sourceText": "Pour elle, j'ai tout quitté",
+      "ipa": "[puʁ‿ɛl ʒe tu kite]",
+      "ear": "普赫 艾勒 热 图 基特",
+      "meaning": "为了她，我放弃了一切。",
+      "suppliedText": "Pour elle, j'ai tout quitté",
+      "sourceLineId": "romeo-timed-652-1",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6873,
+        "sourceLineNumber": 652,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6879.0,
+      "sourceText": "Pour elle, oh j'ai même tué",
+      "ipa": "[puʁ‿ɛl ɔ ʒe mɛm tye]",
+      "ear": "普赫 艾勒 哦 热 梅姆 蒂于诶",
+      "meaning": "为了她，哦，我甚至杀了人。",
+      "suppliedText": "Pour elle, oh j'ai même tué",
+      "sourceLineId": "romeo-timed-652-2",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6873,
+        "sourceLineNumber": 652,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6885,
+      "sourceText": "J'étais dans une cage",
+      "ipa": "[ʒetɛ dɑ̃ yn kaʒ]",
+      "ear": "热泰 当 于恩 卡日",
+      "meaning": "我曾身处牢笼。",
+      "suppliedText": "J'étais dans une cage",
+      "sourceLineId": "romeo-timed-653-3",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6885,
+        "sourceLineNumber": 653,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6887.947,
+      "sourceText": "Comme un oiseau trop sage",
+      "ipa": "[kɔm‿œ̃n‿wazo tʁo saʒ]",
+      "ear": "科姆 恩恩 乌阿佐 特霍 萨日",
+      "meaning": "像一只太听话的鸟。",
+      "suppliedText": "Comme un oiseau trop sage",
+      "sourceLineId": "romeo-timed-653-4",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6885,
+        "sourceLineNumber": 653,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6892,
+      "sourceText": "Maintenant, j'ai la rage",
+      "ipa": "[mɛ̃tnɑ̃ ʒe la ʁaʒ]",
+      "ear": "曼特南 热 拉 哈日",
+      "meaning": "如今，我满心愤怒。",
+      "suppliedText": "Maintenant, j'ai la rage",
+      "sourceLineId": "romeo-timed-654-5",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6892,
+        "sourceLineNumber": 654,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6896.5,
+      "sourceText": "On m'a chassé, dommage",
+      "ipa": "[ɔ̃ ma ʃase dɔmaʒ]",
+      "ear": "翁 玛 沙塞 多玛日",
+      "meaning": "他们把我赶走了，可惜。",
+      "suppliedText": "On m'a chassé, dommage",
+      "sourceLineId": "romeo-timed-654-6",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6892,
+        "sourceLineNumber": 654,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6900,
+      "sourceText": "Et ce soir je crie",
+      "ipa": "[e sə swaʁ ʒə kʁi]",
+      "ear": "诶 瑟 斯乌阿赫 热 克希",
+      "meaning": "今晚，我大声喊。",
+      "suppliedText": "Et ce soir je crie",
+      "sourceLineId": "romeo-timed-655-7",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6900,
+        "sourceLineNumber": 655,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6903.267,
+      "sourceText": "L'amour n'est pas un crime",
+      "ipa": "[lamuʁ nɛ pa œ̃ kʁim]",
+      "ear": "拉穆赫 奈 帕 恩 克希姆",
+      "meaning": "爱情不是罪。",
+      "suppliedText": "L'amour n'est pas un crime",
+      "sourceLineId": "romeo-timed-655-8",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6900,
+        "sourceLineNumber": 655,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6907,
+      "sourceText": "C'est vous les infirmes",
+      "ipa": "[sɛ vu lez‿ɛ̃fiʁm]",
+      "ear": "塞 乌 莱兹 安菲赫姆",
+      "meaning": "真正残缺的是你们。",
+      "suppliedText": "C'est vous les infirmes",
+      "sourceLineId": "romeo-timed-656-9",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6907,
+        "sourceLineNumber": 656,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6909.471,
+      "sourceText": "De nous croire des victimes",
+      "ipa": "[də nu kʁwaʁ de viktim]",
+      "ear": "德 努 克赫乌阿赫 德 维克蒂姆",
+      "meaning": "把我们当成受害者的你们。",
+      "suppliedText": "De nous croire des victimes",
+      "sourceLineId": "romeo-timed-656-10",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6907,
+        "sourceLineNumber": 656,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6913,
+      "sourceText": "Ouvrez les yeux, ouvrez le cœur",
+      "ipa": "[uvʁe lez‿jø uvʁe lə kœʁ]",
+      "ear": "乌弗赫 莱兹 耶厄 乌弗赫 勒 克厄赫",
+      "meaning": "睁开眼睛，敞开心扉。",
+      "suppliedText": "Ouvrez les yeux, ouvrez le cœur",
+      "sourceLineId": "romeo-timed-657-11",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6913,
+        "sourceLineNumber": 657,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6917.522,
+      "sourceText": "S'aimer c'est voler le malheur",
+      "ipa": "[sɛme sɛ vole lə malœʁ]",
+      "ear": "塞梅 塞 沃莱 勒 玛勒厄赫",
+      "meaning": "相爱，就是偷走不幸。",
+      "suppliedText": "S'aimer c'est voler le malheur",
+      "sourceLineId": "romeo-timed-657-12",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6913,
+        "sourceLineNumber": 657,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6921,
+      "sourceText": "Et je traîne dans les rues de",
+      "ipa": "[e ʒə tʁɛn dɑ̃ le ʁy də]",
+      "ear": "诶 热 特赫恩 当 莱 许 德",
+      "meaning": "我在街头游荡。",
+      "suppliedText": "Et je traîne dans les rues de",
+      "sourceLineId": "romeo-timed-658-13",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6921,
+        "sourceLineNumber": 658,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6925.333,
+      "sourceText": "Mantoue",
+      "ipa": "[mɑ̃tu]",
+      "ear": "芒图",
+      "meaning": "曼图亚。",
+      "suppliedText": "Mantoue",
+      "sourceLineId": "romeo-timed-658-14",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6921,
+        "sourceLineNumber": 658,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6927.067,
+      "sourceText": "Et je sens que je vais devenir, fou, sans elle",
+      "ipa": "[e ʒə sɑ̃ kə ʒə vɛ dəvniʁ fu sɑ̃ ɛl]",
+      "ear": "诶 热 桑 克 热 韦 德弗尼赫 富 桑 艾勒",
+      "meaning": "没有她，我觉得自己就要发疯。",
+      "suppliedText": "Et je sens que je vais devenir, fou, sans elle",
+      "sourceLineId": "romeo-timed-658-15",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6921,
+        "sourceLineNumber": 658,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6934,
+      "sourceText": "D'ombre, elle n'a pas besoin",
+      "ipa": "[dɔ̃bʁ ɛl na pa bəzwɛ̃]",
+      "ear": "东布赫 艾勒 纳 帕 伯兹乌安",
+      "meaning": "她不需要眼影。",
+      "suppliedText": "D'ombre, elle n'a pas besoin",
+      "sourceLineId": "romeo-timed-659-16",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6934,
+        "sourceLineNumber": 659,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6936.5,
+      "sourceText": "Tout ça n’a pas d’importance",
+      "ipa": "[tu sa na pa dɛ̃pɔʁtɑ̃s]",
+      "ear": "图 萨 纳 帕 丹珀赫唐斯",
+      "meaning": "这一切都不重要。",
+      "suppliedText": "Tout ça n’a pas d’importance",
+      "sourceLineId": "romeo-timed-659-17",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6934,
+        "sourceLineNumber": 659,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6939,
+      "sourceText": "Chez elle, tout est jardin",
+      "ipa": "[ʃe ɛl tut‿ɛ ʒaʁdɛ̃]",
+      "ear": "谢 艾勒 图特 艾 扎赫丹",
+      "meaning": "她的一切，都像花园。",
+      "suppliedText": "Chez elle, tout est jardin",
+      "sourceLineId": "romeo-timed-660-18",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6939,
+        "sourceLineNumber": 660,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6942.294,
+      "sourceText": "Nous pardonnons nos enfances",
+      "ipa": "[nu paʁdɔnɔ̃ noz‿ɑ̃fɑ̃s]",
+      "ear": "努 帕赫多农 诺兹 昂芳斯",
+      "meaning": "我们原谅彼此的过去。",
+      "suppliedText": "Nous pardonnons nos enfances",
+      "sourceLineId": "romeo-timed-660-19",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6939,
+        "sourceLineNumber": 660,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6946,
+      "sourceText": "Le bleu de son ciel",
+      "ipa": "[lə blø də sɔ̃ sjɛl]",
+      "ear": "勒 布勒厄 德 松 斯耶艾勒",
+      "meaning": "她天空般的蓝色。",
+      "suppliedText": "Le bleu de son ciel",
+      "sourceLineId": "romeo-timed-661-20",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6946,
+        "sourceLineNumber": 661,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6947.355,
+      "sourceText": "Tout ça n’a pas d’importance",
+      "ipa": "[tu sa na pa dɛ̃pɔʁtɑ̃s]",
+      "ear": "图 萨 纳 帕 丹珀赫唐斯",
+      "meaning": "这一切都不重要。",
+      "suppliedText": "Tout ça n’a pas d’importance",
+      "sourceLineId": "romeo-timed-661-21",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6946,
+        "sourceLineNumber": 661,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6949.097,
+      "sourceText": "C'n'est pas du rimmel",
+      "ipa": "[sə nɛ pa dy ʁimɛl]",
+      "ear": "瑟 奈 帕 迪于 希梅勒",
+      "meaning": "不是睫毛膏画出来的。",
+      "suppliedText": "C'n'est pas du rimmel",
+      "sourceLineId": "romeo-timed-661-22",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6946,
+        "sourceLineNumber": 661,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6950.065,
+      "sourceText": "Et demain, nous serons seuls",
+      "ipa": "[e dəmɛ̃ nu səʁɔ̃ sœl]",
+      "ear": "诶 德曼 努 瑟洪 瑟厄勒",
+      "meaning": "明天，我们会独自相伴。",
+      "suppliedText": "Et demain, nous seront seuls",
+      "sourceLineId": "romeo-timed-661-23",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6946,
+        "sourceLineNumber": 661,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6952,
+      "sourceText": "L'éclat de son cou n'doit rien aux bijoux",
+      "ipa": "[lekla də sɔ̃ ku nə dwa ʁjɛ̃n‿o biʒu]",
+      "ear": "莱克拉 德 松 库 讷 德乌阿 赫耶安恩 奥 比茹",
+      "meaning": "她颈间的光彩，并不来自珠宝。",
+      "suppliedText": "L'éclat de son cou n'doit rien aux bijoux",
+      "sourceLineId": "romeo-timed-662-24",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6952,
+        "sourceLineNumber": 662,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6957.192,
+      "sourceText": "Quand je pense à lui je tremble",
+      "ipa": "[kɑ̃ ʒə pɑ̃s‿a lɥi ʒə tʁɑ̃bl]",
+      "ear": "康 热 庞斯 阿 勒于伊 热 特杭布勒",
+      "meaning": "想到他，我就发抖。",
+      "suppliedText": "Quand je pense à lui je tremble",
+      "sourceLineId": "romeo-timed-662-25",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6952,
+        "sourceLineNumber": 662,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6961,
+      "sourceText": "Quand je suis en elle",
+      "ipa": "[kɑ̃ ʒə sɥi ɑ̃n‿ɛl]",
+      "ear": "康 热 斯于伊 昂恩 艾勒",
+      "meaning": "当我与她融为一体。",
+      "suppliedText": "Quand je suis en elle",
+      "sourceLineId": "romeo-timed-663-26",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6961,
+        "sourceLineNumber": 663,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6964.733,
+      "sourceText": "C'est comme en chapelle",
+      "ipa": "[sɛ kɔm‿ɑ̃ ʃapɛl]",
+      "ear": "塞 科姆 昂 沙佩勒",
+      "meaning": "仿佛身处小教堂。",
+      "suppliedText": "C'est comme en chapelle",
+      "sourceLineId": "romeo-timed-663-27",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6961,
+        "sourceLineNumber": 663,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6968,
+      "sourceText": "Que personne n'appelle",
+      "ipa": "[kə pɛʁsɔn napɛl]",
+      "ear": "克 佩赫索恩 纳佩勒",
+      "meaning": "别让任何人呼唤我。",
+      "suppliedText": "Que personne n'appelle",
+      "sourceLineId": "romeo-timed-664-28",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6968,
+        "sourceLineNumber": 664,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6972.267,
+      "sourceText": "Je ne répondrai pas",
+      "ipa": "[ʒə nə ʁepɔ̃dʁe pa]",
+      "ear": "热 讷 赫蓬德赫 帕",
+      "meaning": "我不会回答。",
+      "suppliedText": "Je ne répondrai pas",
+      "sourceLineId": "romeo-timed-664-29",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6968,
+        "sourceLineNumber": 664,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6976,
+      "sourceText": "Quand je suis dans ses bras",
+      "ipa": "[kɑ̃ ʒə sɥi dɑ̃ se bʁa]",
+      "ear": "康 热 斯于伊 当 塞 布哈",
+      "meaning": "当我在他怀里。",
+      "suppliedText": "Quand je suis dans ses bras",
+      "sourceLineId": "romeo-timed-665-30",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6976,
+        "sourceLineNumber": 665,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6983.6,
+      "sourceText": "J'oublie que vous êtes là",
+      "ipa": "[ʒubli kə vuz‿ɛt la]",
+      "ear": "茹布利 克 乌兹 艾特 拉",
+      "meaning": "我便忘了你们的存在。",
+      "suppliedText": "J'oublie que vous êtes là",
+      "sourceLineId": "romeo-timed-665-31",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6976,
+        "sourceLineNumber": 665,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6994.05,
+      "sourceText": "Oh...",
+      "ipa": "[ɔ]",
+      "ear": "哦",
+      "meaning": "哦……",
+      "suppliedText": "Oh...",
+      "sourceLineId": "romeo-timed-665-32",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6976,
+        "sourceLineNumber": 665,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6995,
+      "sourceText": "Juliette.",
+      "ipa": "[ʒyljɛt]",
+      "ear": "日于勒耶艾特",
+      "meaning": "朱丽叶。",
+      "suppliedText": "Juliette.",
+      "sourceLineId": "romeo-timed-666-33",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6995,
+        "sourceLineNumber": 666,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6995.909,
+      "sourceText": "Juliette.",
+      "ipa": "[ʒyljɛt]",
+      "ear": "日于勒耶艾特",
+      "meaning": "朱丽叶。",
+      "suppliedText": "Juliette.",
+      "sourceLineId": "romeo-timed-666-34",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6995,
+        "sourceLineNumber": 666,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6996.818,
+      "sourceText": "Juliette, réveille-toi ma reine.",
+      "ipa": "[ʒyljɛt ʁevɛjtwa ma ʁɛn]",
+      "ear": "日于勒耶艾特 赫韦耶特乌阿 玛 赫恩",
+      "meaning": "朱丽叶，醒醒，我的宝贝。",
+      "suppliedText": "Juliette, réveille-toi ma reine.",
+      "sourceLineId": "romeo-timed-666-35",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 6995,
+        "sourceLineNumber": 666,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7000,
+      "sourceText": "Aller, c’est l’heure.",
+      "ipa": "[ale sɛ lœʁ]",
+      "ear": "阿莱 塞 勒厄赫",
+      "meaning": "来吧，到时候了。",
+      "suppliedText": "Aller, c’est l’heure.",
+      "sourceLineId": "romeo-timed-667-36",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7000,
+        "sourceLineNumber": 667,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7002.571,
+      "sourceText": "Juliette ?",
+      "ipa": "[ʒyljɛt]",
+      "ear": "日于勒耶艾特",
+      "meaning": "朱丽叶？",
+      "suppliedText": "Juliette ?",
+      "sourceLineId": "romeo-timed-667-37",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7000,
+        "sourceLineNumber": 667,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7004.286,
+      "sourceText": "Juliette !",
+      "ipa": "[ʒyljɛt]",
+      "ear": "日于勒耶艾特",
+      "meaning": "朱丽叶！",
+      "suppliedText": "Juliette !",
+      "sourceLineId": "romeo-timed-667-38",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7000,
+        "sourceLineNumber": 667,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7006,
+      "sourceText": "Juliette ?",
+      "ipa": "[ʒyljɛt]",
+      "ear": "日于勒耶艾特",
+      "meaning": "朱丽叶？",
+      "suppliedText": "Juliette ?",
+      "sourceLineId": "romeo-timed-668-39",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7006,
+        "sourceLineNumber": 668,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7007.333,
+      "sourceText": "Oh mon dieu, Juliette est morte !",
+      "ipa": "[ɔ mɔ̃ djø ʒyljɛt‿ɛ mɔʁt]",
+      "ear": "哦 蒙 德耶厄 日于勒耶艾特 艾 莫赫特",
+      "meaning": "哦，天啊，朱丽叶死了！",
+      "suppliedText": "Oh mon dieu, Juliette est morte !",
+      "sourceLineId": "romeo-timed-668-40",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7006,
+        "sourceLineNumber": 668,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7011.333,
+      "sourceText": "Juliette !",
+      "ipa": "[ʒyljɛt]",
+      "ear": "日于勒耶艾特",
+      "meaning": "朱丽叶！",
+      "suppliedText": "Juliette !",
+      "sourceLineId": "romeo-timed-668-41",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7006,
+        "sourceLineNumber": 668,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7012.667,
+      "sourceText": "Juliette !",
+      "ipa": "[ʒyljɛt]",
+      "ear": "日于勒耶艾特",
+      "meaning": "朱丽叶！",
+      "suppliedText": "Juliette !",
+      "sourceLineId": "romeo-timed-668-42",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 7006,
+        "sourceLineNumber": 668,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7014,
+      "sourceText": "Non !",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不！",
+      "suppliedText": "Non !",
+      "sourceLineId": "romeo-timed-669-43",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7014,
+        "sourceLineNumber": 669,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

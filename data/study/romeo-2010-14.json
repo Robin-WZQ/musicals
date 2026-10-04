@@ -1,0 +1,1029 @@
+{
+  "videoId": "romeo-2010-14",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=2731"
+    }
+  ],
+  "entries": [
+    {
+      "start": 2759,
+      "sourceText": "À quelle étoile, à quel Dieu,",
+      "ipa": "[a kɛl‿etwal a kɛl djø]",
+      "ear": "阿 凯勒 诶特乌阿勒 阿 凯勒 德耶厄",
+      "meaning": "我该感谢哪颗星，哪位神？",
+      "suppliedText": "À quelle étoile, à quel Dieu,",
+      "sourceLineId": "romeo-timed-245-1",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2759,
+        "sourceLineNumber": 245,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2763.846,
+      "sourceText": "Je dois cet amour dans ses yeux",
+      "ipa": "[ʒə dwa sɛt‿amuʁ dɑ̃ sez‿jø]",
+      "ear": "热 德乌阿 塞特 阿穆赫 当 塞兹 耶厄",
+      "meaning": "让我看见他眼中的爱。",
+      "suppliedText": "Je dois cet amour dans ses yeux",
+      "sourceLineId": "romeo-timed-245-2",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2759,
+        "sourceLineNumber": 245,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2768,
+      "sourceText": "Qui a voulu de là-haut",
+      "ipa": "[ki a vuly də lao]",
+      "ear": "基 阿 乌吕 德 拉奥",
+      "meaning": "是谁在天上安排。",
+      "suppliedText": "Qui a voulu de là-haut",
+      "sourceLineId": "romeo-timed-246-3",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2768,
+        "sourceLineNumber": 246,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2772.545,
+      "sourceText": "Que Juliette aime Roméo",
+      "ipa": "[kə ʒyljɛt‿ɛm ʁomeo]",
+      "ear": "克 日于勒耶艾特 艾姆 霍梅奥",
+      "meaning": "让朱丽叶爱上罗密欧？",
+      "suppliedText": "Que Juliette aime Roméo",
+      "sourceLineId": "romeo-timed-246-4",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2768,
+        "sourceLineNumber": 246,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2778,
+      "sourceText": "À quelle étoile, à quel Dieu",
+      "ipa": "[a kɛl‿etwal a kɛl djø]",
+      "ear": "阿 凯勒 诶特乌阿勒 阿 凯勒 德耶厄",
+      "meaning": "我该感谢哪颗星，哪位神？",
+      "suppliedText": "À quelle étoile, à quel Dieu",
+      "sourceLineId": "romeo-timed-247-5",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2778,
+        "sourceLineNumber": 247,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2782.846,
+      "sourceText": "Je dois cet amour dans ses yeux",
+      "ipa": "[ʒə dwa sɛt‿amuʁ dɑ̃ sez‿jø]",
+      "ear": "热 德乌阿 塞特 阿穆赫 当 塞兹 耶厄",
+      "meaning": "让我看见他眼中的爱。",
+      "suppliedText": "Je dois cet amour dans ses yeux",
+      "sourceLineId": "romeo-timed-247-6",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2778,
+        "sourceLineNumber": 247,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2787,
+      "sourceText": "Même si je dois payer le prix",
+      "ipa": "[mɛm si ʒə dwa pɛje lə pʁi]",
+      "ear": "梅姆 西 热 德乌阿 佩耶诶 勒 普希",
+      "meaning": "即便必须付出代价。",
+      "suppliedText": "Même si je dois payer le prix",
+      "sourceLineId": "romeo-timed-248-7",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2787,
+        "sourceLineNumber": 248,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2792.5,
+      "sourceText": "D'un amour interdit",
+      "ipa": "[dœ̃ amuʁ‿ɛ̃tɛʁdi]",
+      "ear": "丹 阿穆赫 安泰赫迪",
+      "meaning": "为了这段禁忌之爱。",
+      "suppliedText": "D'un amour interdit",
+      "sourceLineId": "romeo-timed-248-8",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2787,
+        "sourceLineNumber": 248,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2796,
+      "sourceText": "Pourquoi nos pères se haïssent",
+      "ipa": "[puʁkwa no pɛʁ sə ais]",
+      "ear": "普赫克乌阿 诺 佩赫 瑟 阿伊斯",
+      "meaning": "为什么父亲们互相仇恨。",
+      "suppliedText": "Pourquoi nos pères se haïssent",
+      "sourceLineId": "romeo-timed-249-9",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2796,
+        "sourceLineNumber": 249,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2801.217,
+      "sourceText": "Et que la fille aime le fils",
+      "ipa": "[e kə la fij‿ɛm lə fis]",
+      "ear": "诶 克 拉 菲耶 艾姆 勒 菲斯",
+      "meaning": "女儿却爱上了儿子？",
+      "suppliedText": "Et que la fille aime le fils",
+      "sourceLineId": "romeo-timed-249-10",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2796,
+        "sourceLineNumber": 249,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2806,
+      "sourceText": "Ça doit bien faire rire, là-haut",
+      "ipa": "[sa dwa bjɛ̃ fɛʁ ʁiʁ lao]",
+      "ear": "萨 德乌阿 布耶安 费赫 希赫 拉奥",
+      "meaning": "天上的神一定觉得好笑。",
+      "suppliedText": "Ça doit bien faire rire, là-haut",
+      "sourceLineId": "romeo-timed-250-11",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2806,
+        "sourceLineNumber": 250,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2817.44,
+      "sourceText": "Que Juliette aime Roméo",
+      "ipa": "[kə ʒyljɛt‿ɛm ʁomeo]",
+      "ear": "克 日于勒耶艾特 艾姆 霍梅奥",
+      "meaning": "让朱丽叶爱上罗密欧？",
+      "suppliedText": "Que Juliette aime Roméo",
+      "sourceLineId": "romeo-timed-250-12",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2806,
+        "sourceLineNumber": 250,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2828,
+      "sourceText": "À quelle étoile, à quel Dieu",
+      "ipa": "[a kɛl‿etwal a kɛl djø]",
+      "ear": "阿 凯勒 诶特乌阿勒 阿 凯勒 德耶厄",
+      "meaning": "我该感谢哪颗星，哪位神？",
+      "suppliedText": "À quelle étoile, à quel Dieu",
+      "sourceLineId": "romeo-timed-251-13",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2828,
+        "sourceLineNumber": 251,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2832.846,
+      "sourceText": "Je dois cet amour dans ses yeux",
+      "ipa": "[ʒə dwa sɛt‿amuʁ dɑ̃ sez‿jø]",
+      "ear": "热 德乌阿 塞特 阿穆赫 当 塞兹 耶厄",
+      "meaning": "让我看见他眼中的爱。",
+      "suppliedText": "Je dois cet amour dans ses yeux",
+      "sourceLineId": "romeo-timed-251-14",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2828,
+        "sourceLineNumber": 251,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2837,
+      "sourceText": "Que leur volonté soit faite",
+      "ipa": "[kə lœʁ volɔ̃te swa fɛt]",
+      "ear": "克 勒厄赫 沃隆特 斯乌阿 费特",
+      "meaning": "愿他们的旨意成真。",
+      "suppliedText": "Que leur volonté soit faite",
+      "sourceLineId": "romeo-timed-252-15",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2837,
+        "sourceLineNumber": 252,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2841.696,
+      "sourceText": "Car Roméo aime Juliette",
+      "ipa": "[kaʁ ʁomeo ɛm ʒyljɛt]",
+      "ear": "卡赫 霍梅奥 艾姆 日于勒耶艾特",
+      "meaning": "因为罗密欧爱着朱丽叶。",
+      "suppliedText": "Car Roméo aime Juliette",
+      "sourceLineId": "romeo-timed-252-16",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2837,
+        "sourceLineNumber": 252,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2846,
+      "sourceText": "S'il faut prier je prierais",
+      "ipa": "[sil fo pʁie ʒə pʁiʁɛ]",
+      "ear": "西勒 佛 普希诶 热 普希赫",
+      "meaning": "若需祈祷，我会祈祷。",
+      "suppliedText": "S'il faut prier je prierais",
+      "sourceLineId": "romeo-timed-253-17",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2846,
+        "sourceLineNumber": 253,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2850.286,
+      "sourceText": "S'il faut se battre, je me battrai",
+      "ipa": "[sil fo sə batʁ ʒə mə batʁe]",
+      "ear": "西勒 佛 瑟 巴特赫 热 默 巴特赫",
+      "meaning": "若需战斗，我会战斗。",
+      "suppliedText": "S'il faut se battre, je me battrai",
+      "sourceLineId": "romeo-timed-253-18",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2846,
+        "sourceLineNumber": 253,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2855,
+      "sourceText": "Mais pourquoi faut-il payer",
+      "ipa": "[mɛ puʁkwa fotil pɛje]",
+      "ear": "梅 普赫克乌阿 佛蒂勒 佩耶诶",
+      "meaning": "可为什么我们要付出代价。",
+      "suppliedText": "Mais pourquoi faut-il payer",
+      "sourceLineId": "romeo-timed-254-19",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2855,
+        "sourceLineNumber": 254,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2860.318,
+      "sourceText": "Le droit de nous aimer",
+      "ipa": "[lə dʁwa də nuz‿ɛme]",
+      "ear": "勒 德赫乌阿 德 努兹 艾梅",
+      "meaning": "才能拥有相爱的权利？",
+      "suppliedText": "Le droit de nous aimer",
+      "sourceLineId": "romeo-timed-254-20",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2855,
+        "sourceLineNumber": 254,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2864,
+      "sourceText": "Et que nos pères se déchirent",
+      "ipa": "[e kə no pɛʁ sə deʃiʁ]",
+      "ear": "诶 克 诺 佩赫 瑟 德希赫",
+      "meaning": "父亲们彼此厮杀。",
+      "suppliedText": "Et que nos pères se déchirent",
+      "sourceLineId": "romeo-timed-255-21",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2864,
+        "sourceLineNumber": 255,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2869.0,
+      "sourceText": "Leurs enfants eux se désirent",
+      "ipa": "[lœʁz‿ɑ̃fɑ̃ ø sə deziʁ]",
+      "ear": "勒厄赫兹 昂芳 厄 瑟 德齐赫",
+      "meaning": "他们的孩子却渴望彼此。",
+      "suppliedText": "Leurs enfants eux se désirent",
+      "sourceLineId": "romeo-timed-255-22",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2864,
+        "sourceLineNumber": 255,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2874,
+      "sourceText": "On ne peut pas changer l'histoire",
+      "ipa": "[ɔ̃ nə pø pa ʃɑ̃ʒe listwaʁ]",
+      "ear": "翁 讷 珀厄 帕 尚热 利斯特乌阿赫",
+      "meaning": "我们改变不了过去。",
+      "suppliedText": "On ne peut pas changer l'histoire",
+      "sourceLineId": "romeo-timed-256-23",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2874,
+        "sourceLineNumber": 256,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2878.714,
+      "sourceText": "La nôtre commencera ce soir",
+      "ipa": "[la notʁ kɔmɑ̃sʁa sə swaʁ]",
+      "ear": "拉 诺特赫 科芒斯哈 瑟 斯乌阿赫",
+      "meaning": "我们的故事，就从今晚开始。",
+      "suppliedText": "La nôtre commencera ce soir",
+      "sourceLineId": "romeo-timed-256-24",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2874,
+        "sourceLineNumber": 256,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2883,
+      "sourceText": "Et tant pis si ça dérange",
+      "ipa": "[e tɑ̃pi si sa deʁɑ̃ʒ]",
+      "ear": "诶 唐皮 西 萨 德杭日",
+      "meaning": "若让别人不高兴，那就随他们。",
+      "suppliedText": "Et tant pis si ça dérange",
+      "sourceLineId": "romeo-timed-257-25",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2883,
+        "sourceLineNumber": 257,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2887.8,
+      "sourceText": "Qu'une pucelle aime un ange",
+      "ipa": "[kyn pysɛl‿ɛm‿œ̃n‿ɑ̃ʒ]",
+      "ear": "基于恩 普于塞勒 艾姆 恩恩 昂日",
+      "meaning": "一个少女，爱上了一个天使。",
+      "suppliedText": "Qu'une pucelle aime un ange",
+      "sourceLineId": "romeo-timed-257-26",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2883,
+        "sourceLineNumber": 257,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2895,
+      "sourceText": "À quelle étoile, à quel Dieu",
+      "ipa": "[a kɛl‿etwal a kɛl djø]",
+      "ear": "阿 凯勒 诶特乌阿勒 阿 凯勒 德耶厄",
+      "meaning": "我该感谢哪颗星，哪位神？",
+      "suppliedText": "À quelle étoile, à quel Dieu",
+      "sourceLineId": "romeo-timed-258-27",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2895,
+        "sourceLineNumber": 258,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2899.846,
+      "sourceText": "Je dois cet amour dans ses yeux",
+      "ipa": "[ʒə dwa sɛt‿amuʁ dɑ̃ sez‿jø]",
+      "ear": "热 德乌阿 塞特 阿穆赫 当 塞兹 耶厄",
+      "meaning": "让我看见他眼中的爱。",
+      "suppliedText": "Je dois cet amour dans ses yeux",
+      "sourceLineId": "romeo-timed-258-28",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2895,
+        "sourceLineNumber": 258,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2904,
+      "sourceText": "Que leur volonté soit faite",
+      "ipa": "[kə lœʁ volɔ̃te swa fɛt]",
+      "ear": "克 勒厄赫 沃隆特 斯乌阿 费特",
+      "meaning": "愿他们的旨意成真。",
+      "suppliedText": "Que leur volonté soit faite",
+      "sourceLineId": "romeo-timed-259-29",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2904,
+        "sourceLineNumber": 259,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2908.696,
+      "sourceText": "Car Roméo aime Juliette",
+      "ipa": "[kaʁ ʁomeo ɛm ʒyljɛt]",
+      "ear": "卡赫 霍梅奥 艾姆 日于勒耶艾特",
+      "meaning": "因为罗密欧爱着朱丽叶。",
+      "suppliedText": "Car Roméo aime Juliette",
+      "sourceLineId": "romeo-timed-259-30",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2904,
+        "sourceLineNumber": 259,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2913,
+      "sourceText": "À quelle étoile, à quel Dieu",
+      "ipa": "[a kɛl‿etwal a kɛl djø]",
+      "ear": "阿 凯勒 诶特乌阿勒 阿 凯勒 德耶厄",
+      "meaning": "我该感谢哪颗星，哪位神？",
+      "suppliedText": "À quelle étoile, à quel Dieu",
+      "sourceLineId": "romeo-timed-260-31",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2913,
+        "sourceLineNumber": 260,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2918.385,
+      "sourceText": "Je dois cet amour dans ses yeux",
+      "ipa": "[ʒə dwa sɛt‿amuʁ dɑ̃ sez‿jø]",
+      "ear": "热 德乌阿 塞特 阿穆赫 当 塞兹 耶厄",
+      "meaning": "让我看见他眼中的爱。",
+      "suppliedText": "Je dois cet amour dans ses yeux",
+      "sourceLineId": "romeo-timed-260-32",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2913,
+        "sourceLineNumber": 260,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2923,
+      "sourceText": "Ça doit bien faire rire là-haut",
+      "ipa": "[sa dwa bjɛ̃ fɛʁ ʁiʁ lao]",
+      "ear": "萨 德乌阿 布耶安 费赫 希赫 拉奥",
+      "meaning": "天上的神一定觉得好笑。",
+      "suppliedText": "Ça doit bien faire rire là-haut",
+      "sourceLineId": "romeo-timed-261-33",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2923,
+        "sourceLineNumber": 261,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2929.76,
+      "sourceText": "Que Juliette aime Roméo",
+      "ipa": "[kə ʒyljɛt‿ɛm ʁomeo]",
+      "ear": "克 日于勒耶艾特 艾姆 霍梅奥",
+      "meaning": "让朱丽叶爱上罗密欧？",
+      "suppliedText": "Que Juliette aime Roméo",
+      "sourceLineId": "romeo-timed-261-34",
+      "speaker": "Roméo et Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2923,
+        "sourceLineNumber": 261,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2936,
+      "sourceText": "Roméo...",
+      "ipa": "[ʁomeo]",
+      "ear": "霍梅奥",
+      "meaning": "罗密欧……",
+      "suppliedText": "Roméo...",
+      "sourceLineId": "romeo-timed-262-35",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2936,
+        "sourceLineNumber": 262,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2936.579,
+      "sourceText": "Je t'ai tellement rêvé",
+      "ipa": "[ʒə te tɛlmɑ̃ ʁɛve]",
+      "ear": "热 特 泰勒芒 赫韦",
+      "meaning": "我曾无数次梦见你。",
+      "suppliedText": "Je t'ai tellement rêvé",
+      "sourceLineId": "romeo-timed-262-36",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2936,
+        "sourceLineNumber": 262,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2938.123,
+      "sourceText": "Je te cherche depuis si longtemps",
+      "ipa": "[ʒə tə ʃɛʁʃ dəpɥi si lɔ̃tɑ̃]",
+      "ear": "热 特 谢赫什 德普于伊 西 隆唐",
+      "meaning": "我找你，已经找了那么久。",
+      "suppliedText": "Je te cherche depuis si longtemps",
+      "sourceLineId": "romeo-timed-262-37",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2936,
+        "sourceLineNumber": 262,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2940.053,
+      "sourceText": "Es-tu vraiment celui que j’attendais ?",
+      "ipa": "[ɛty vʁɛmɑ̃ səlɥi kə ʒatɑ̃dɛ]",
+      "ear": "艾蒂于 弗赫芒 瑟勒于伊 克 扎唐戴",
+      "meaning": "你真是我等待的那个人吗？",
+      "suppliedText": "Es-tu vraiment celui que j’attendais ?",
+      "sourceLineId": "romeo-timed-262-38",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2936,
+        "sourceLineNumber": 262,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2942.754,
+      "sourceText": "Mais je le suis !",
+      "ipa": "[mɛ ʒə lə sɥi]",
+      "ear": "梅 热 勒 斯于伊",
+      "meaning": "我就是！",
+      "suppliedText": "Mais je le suis !",
+      "sourceLineId": "romeo-timed-262-39",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2936,
+        "sourceLineNumber": 262,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2943.912,
+      "sourceText": "Je le jure sur la lune qui brille pour nous !",
+      "ipa": "[ʒə lə ʒyʁ syʁ la lyn ki bʁij puʁ nu]",
+      "ear": "热 勒 日于赫 西于赫 拉 吕恩 基 布希耶 普赫 努",
+      "meaning": "我对为我们照耀的月亮起誓！",
+      "suppliedText": "Je le jure sur la lune qui brille pour nous !",
+      "sourceLineId": "romeo-timed-262-40",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2936,
+        "sourceLineNumber": 262,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2947,
+      "sourceText": "Oh, ne jure pas Roméo !",
+      "ipa": "[ɔ nə ʒyʁ pa ʁomeo]",
+      "ear": "哦 讷 日于赫 帕 霍梅奥",
+      "meaning": "哦，别发誓，罗密欧！",
+      "suppliedText": "Oh, ne jure pas Roméo !",
+      "sourceLineId": "romeo-timed-263-41",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2947,
+        "sourceLineNumber": 263,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2948.455,
+      "sourceText": "Ne jure pas.",
+      "ipa": "[nə ʒyʁ pa]",
+      "ear": "讷 日于赫 帕",
+      "meaning": "别发誓。",
+      "suppliedText": "Ne jure pas.",
+      "sourceLineId": "romeo-timed-263-42",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2947,
+        "sourceLineNumber": 263,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2949.182,
+      "sourceText": "Mais je t’aime tellement !",
+      "ipa": "[mɛ ʒə tɛm tɛlmɑ̃]",
+      "ear": "梅 热 泰姆 泰勒芒",
+      "meaning": "可我这么爱你！",
+      "suppliedText": "Mais je t’aime tellement !",
+      "sourceLineId": "romeo-timed-263-43",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2947,
+        "sourceLineNumber": 263,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2950.818,
+      "sourceText": "Avant toi, ma vie n’était rien !",
+      "ipa": "[avɑ̃ twa ma vi netɛ ʁjɛ̃]",
+      "ear": "阿旺 特乌阿 玛 维 内泰 赫耶安",
+      "meaning": "遇见你之前，我的生命什么都不是！",
+      "suppliedText": "Avant toi, ma vie n’était rien !",
+      "sourceLineId": "romeo-timed-263-44",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2947,
+        "sourceLineNumber": 263,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2953,
+      "sourceText": "Rien ?",
+      "ipa": "[ʁiɛ̃]",
+      "ear": "希安",
+      "meaning": "什么都不是？",
+      "suppliedText": "Rien ?",
+      "sourceLineId": "romeo-timed-264-45",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2953,
+        "sourceLineNumber": 264,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2953.621,
+      "sourceText": "On raconte pourtant…",
+      "ipa": "[ɔ̃ ʁakɔ̃t puʁtɑ̃]",
+      "ear": "翁 哈孔特 普赫唐",
+      "meaning": "可听人说……",
+      "suppliedText": "On raconte pourtant…",
+      "sourceLineId": "romeo-timed-264-46",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2953,
+        "sourceLineNumber": 264,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2955.793,
+      "sourceText": "Non Juliette, non.",
+      "ipa": "[nɔ̃ ʒyljɛt nɔ̃]",
+      "ear": "农 日于勒耶艾特 农",
+      "meaning": "不，朱丽叶，不。",
+      "suppliedText": "Non Juliette, non.",
+      "sourceLineId": "romeo-timed-264-47",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2953,
+        "sourceLineNumber": 264,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2957.655,
+      "sourceText": "Moi aussi, j’attendais.",
+      "ipa": "[mwa osi ʒatɑ̃dɛ]",
+      "ear": "姆乌阿 奥西 扎唐戴",
+      "meaning": "我也一直在等。",
+      "suppliedText": "Moi aussi, j’attendais.",
+      "sourceLineId": "romeo-timed-264-48",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2953,
+        "sourceLineNumber": 264,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2960.448,
+      "sourceText": "Je t’attendais.",
+      "ipa": "[ʒə tatɑ̃dɛ]",
+      "ear": "热 塔唐戴",
+      "meaning": "我等的就是你。",
+      "suppliedText": "Je t’attendais.",
+      "sourceLineId": "romeo-timed-264-49",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2953,
+        "sourceLineNumber": 264,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2962,
+      "sourceText": "Prouve-le-moi",
+      "ipa": "[pʁuvləmwa]",
+      "ear": "普胡弗勒姆乌阿",
+      "meaning": "证明给我看。",
+      "suppliedText": "Prouve-le-moi",
+      "sourceLineId": "romeo-timed-265-50",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2962,
+        "sourceLineNumber": 265,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2963.263,
+      "sourceText": "Epouse-moi",
+      "ipa": "[epuzmwa]",
+      "ear": "诶普兹姆乌阿",
+      "meaning": "娶我。",
+      "suppliedText": "Epouse-moi",
+      "sourceLineId": "romeo-timed-265-51",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2962,
+        "sourceLineNumber": 265,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2964.526,
+      "sourceText": "Le mariage...",
+      "ipa": "[lə maʁjaʒ]",
+      "ear": "勒 玛赫耶阿日",
+      "meaning": "结婚……",
+      "suppliedText": "Le mariage...",
+      "sourceLineId": "romeo-timed-265-52",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2962,
+        "sourceLineNumber": 265,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2965.579,
+      "sourceText": "Et à combien de filles avant moi as-tu dis \"épouse-moi\" ?",
+      "ipa": "[e a kɔ̃bjɛ̃ də fij‿avɑ̃ mwa aty di epuzmwa]",
+      "ear": "诶 阿 孔布耶安 德 菲耶 阿旺 姆乌阿 阿蒂于 迪 诶普兹姆乌阿",
+      "meaning": "在我之前，你对多少女孩说过“嫁给我”？",
+      "suppliedText": "Et à combien de filles avant moi as-tu dis \"épouse-moi\" ?",
+      "sourceLineId": "romeo-timed-265-53",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2962,
+        "sourceLineNumber": 265,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2970,
+      "sourceText": "Mais à personne ma Juliette, jamais.",
+      "ipa": "[mɛ a pɛʁsɔn ma ʒyljɛt ʒamɛ]",
+      "ear": "梅 阿 佩赫索恩 玛 日于勒耶艾特 扎梅",
+      "meaning": "没对任何人说过，我的朱丽叶，从来没有。",
+      "suppliedText": "Mais à personne ma Juliette, jamais.",
+      "sourceLineId": "romeo-timed-266-54",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2970,
+        "sourceLineNumber": 266,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2972.053,
+      "sourceText": "Écoute Roméo...",
+      "ipa": "[ekut ʁomeo]",
+      "ear": "诶库特 霍梅奥",
+      "meaning": "听着，罗密欧……",
+      "suppliedText": "Écoute Roméo...",
+      "sourceLineId": "romeo-timed-266-55",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2970,
+        "sourceLineNumber": 266,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2973.08,
+      "sourceText": "Laisse la nuit mourir.",
+      "ipa": "[lɛs la nɥi muʁiʁ]",
+      "ear": "莱斯 拉 恩于伊 穆希赫",
+      "meaning": "让这一夜过去。",
+      "suppliedText": "Laisse la nuit mourir.",
+      "sourceLineId": "romeo-timed-266-56",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2970,
+        "sourceLineNumber": 266,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2974.4,
+      "sourceText": "Demain, je t'enverrai ma nourrice.",
+      "ipa": "[dəmɛ̃ ʒə tɑ̃vɛʁe ma nuʁis]",
+      "ear": "德曼 热 唐韦赫 玛 努希斯",
+      "meaning": "明天，我会让奶妈来找你。",
+      "suppliedText": "Demain, je t'enverrai ma nourrice.",
+      "sourceLineId": "romeo-timed-266-57",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2970,
+        "sourceLineNumber": 266,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2976.307,
+      "sourceText": "Tu lui donneras cette rose, et tu lui diras l’heure de notre mariage chez",
+      "ipa": "[ty lɥi dɔnʁa sɛt ʁɔz e ty lɥi diʁa lœʁ də notʁ maʁjaʒ ʃe]",
+      "ear": "蒂于 勒于伊 多恩哈 塞特 霍兹 诶 蒂于 勒于伊 迪哈 勒厄赫 德 诺特赫 玛赫耶阿日 谢",
+      "meaning": "把玫瑰给她，告诉她我们在神父那里结婚的时间。",
+      "suppliedText": "Tu lui donneras cette rose, et tu lui diras l’heure de notre mariage chez",
+      "sourceLineId": "romeo-timed-266-58",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2970,
+        "sourceLineNumber": 266,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2980.267,
+      "sourceText": "Frère Laurent.",
+      "ipa": "[fʁɛʁ loʁɑ̃]",
+      "ear": "弗赫赫 洛杭",
+      "meaning": "劳伦斯神父。",
+      "suppliedText": "Frère Laurent.",
+      "sourceLineId": "romeo-timed-266-59",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2970,
+        "sourceLineNumber": 266,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2981,
+      "sourceText": "Si tu veux toujours m’épouser.",
+      "ipa": "[si ty vø tuʒuʁ mepuze]",
+      "ear": "西 蒂于 弗厄 图茹赫 梅普泽",
+      "meaning": "如果你依然想娶我。",
+      "suppliedText": "Si tu veux toujours m’épouser.",
+      "sourceLineId": "romeo-timed-267-60",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2981,
+        "sourceLineNumber": 267,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2987.4,
+      "sourceText": "Oh je t’aime Juliette !",
+      "ipa": "[ɔ ʒə tɛm ʒyljɛt]",
+      "ear": "哦 热 泰姆 日于勒耶艾特",
+      "meaning": "哦，我爱你，朱丽叶！",
+      "suppliedText": "Oh je t’aime Juliette !",
+      "sourceLineId": "romeo-timed-267-61",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2981,
+        "sourceLineNumber": 267,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2992.2,
+      "sourceText": "Demain, Roméo.",
+      "ipa": "[dəmɛ̃ ʁomeo]",
+      "ear": "德曼 霍梅奥",
+      "meaning": "明天，罗密欧。",
+      "suppliedText": "Demain, Roméo.",
+      "sourceLineId": "romeo-timed-267-62",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2981,
+        "sourceLineNumber": 267,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2995.4,
+      "sourceText": "Demain.",
+      "ipa": "[dəmɛ̃]",
+      "ear": "德曼",
+      "meaning": "明天。",
+      "suppliedText": "Demain.",
+      "sourceLineId": "romeo-timed-267-63",
+      "speaker": "Juliette",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 2981,
+        "sourceLineNumber": 267,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

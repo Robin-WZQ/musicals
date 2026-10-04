@@ -9,13 +9,149 @@
   "trackNumber": 9,
   "act": 1,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr-FR",
-  "captionDelivery": "youtube-player",
-  "captionSource": "youtube-player",
+  "captionDelivery": "study-page",
+  "captionSource": "editorial",
   "nativeCaptionAvailable": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Les rois du monde, les rois de rien,",
+      "start": 1623,
+      "duration": 4.5
+    },
+    {
+      "text": "Quand papa gronde, couchés, les chiens !",
+      "start": 1627.5,
+      "duration": 4.5
+    },
+    {
+      "text": "Regardez-nous, des moins que rien !",
+      "start": 1632,
+      "duration": 3.0
+    },
+    {
+      "text": "Les rois du monde, les rois d'égouts,",
+      "start": 1635,
+      "duration": 4.0
+    },
+    {
+      "text": "Ça pue en haut, ça pue en-dessous,",
+      "start": 1639.0,
+      "duration": 4.333
+    },
+    {
+      "text": "On est les rois des riens du tout !",
+      "start": 1643.333,
+      "duration": 3.667
+    },
+    {
+      "text": "Perdus dans la ville,",
+      "start": 1647,
+      "duration": 1.714
+    },
+    {
+      "text": "Pendus à nos fils,",
+      "start": 1648.714,
+      "duration": 1.429
+    },
+    {
+      "text": "Petits coqs de basse-cour,",
+      "start": 1650.143,
+      "duration": 2.286
+    },
+    {
+      "text": "Ventriloques de l'amour !",
+      "start": 1652.429,
+      "duration": 2.571
+    },
+    {
+      "text": "On fait semblant d'être heureux,",
+      "start": 1655,
+      "duration": 2.63
+    },
+    {
+      "text": "Mais vous savez tous les deux,",
+      "start": 1657.63,
+      "duration": 2.631
+    },
+    {
+      "text": "Que moi, j'suis pas comme vous,",
+      "start": 1660.261,
+      "duration": 2.63
+    },
+    {
+      "text": "J'ai peur de rien, et vous de tout !",
+      "start": 1662.891,
+      "duration": 3.109
+    },
+    {
+      "text": "Et je rêve !",
+      "start": 1666,
+      "duration": 3.273
+    },
+    {
+      "text": "Oh oui, je rêve !",
+      "start": 1669.273,
+      "duration": 5.727
+    },
+    {
+      "text": "Je rêve de la mort de mon ennemi,",
+      "start": 1675,
+      "duration": 1.833
+    },
+    {
+      "text": "De voir les femmes sous moi qui crient,",
+      "start": 1676.833,
+      "duration": 2.334
+    },
+    {
+      "text": "Je rêve de voir cette ville en feu,",
+      "start": 1679.167,
+      "duration": 2.166
+    },
+    {
+      "text": "Et lancer un défi à Dieu !",
+      "start": 1681.333,
+      "duration": 1.667
+    },
+    {
+      "text": "Je rêve !",
+      "start": 1683,
+      "duration": 1.286
+    },
+    {
+      "text": "Je suis le maître, pas l'élève !",
+      "start": 1684.286,
+      "duration": 4.714
+    },
+    {
+      "text": "Oh je rêve, je rêve !",
+      "start": 1689,
+      "duration": 3.294
+    },
+    {
+      "text": "Oh, Roméo, j'ai la fièvre !",
+      "start": 1692.294,
+      "duration": 4.706
+    },
+    {
+      "text": "Et tant pis si j'en crève,",
+      "start": 1697,
+      "duration": 7.0
+    },
+    {
+      "text": "Je rêve !",
+      "start": 1704.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Je rêve !",
+      "start": 1707,
+      "duration": 8.0
+    }
+  ],
   "playbackVideoId": "kgGN5675TAY",
   "sourceDuration": 8831,
   "sourceURL": "https://www.youtube.com/watch?v=kgGN5675TAY&t=1623",
@@ -75,12 +211,15 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "approximate",
   "playableInEmbed": true,
   "performanceYear": 2010,
   "albumReleaseYear": 2009,
   "mediaKind": "stage-video",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "isGenerated": false,
+  "studyVersion": 4
 }

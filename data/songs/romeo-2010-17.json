@@ -9,13 +9,339 @@
   "trackNumber": 17,
   "act": 1,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr-FR",
-  "captionDelivery": "youtube-player",
-  "captionSource": "youtube-player",
+  "captionDelivery": "study-page",
+  "captionSource": "editorial",
   "nativeCaptionAvailable": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Ha, ha, ha, rient les gens autour",
+      "start": 3373,
+      "duration": 5.762
+    },
+    {
+      "text": "Ha, ha, ha, ils rient d'un amour",
+      "start": 3378.762,
+      "duration": 5.238
+    },
+    {
+      "text": "Qu'ils ne comprennent pas qu'ils ne sentent pas",
+      "start": 3384,
+      "duration": 4.68
+    },
+    {
+      "text": "Alors c'est pour ça qu'ils font ha, ha, ha",
+      "start": 3388.68,
+      "duration": 4.32
+    },
+    {
+      "text": "Riez, riez fort.",
+      "start": 3393,
+      "duration": 1.389
+    },
+    {
+      "text": "Vous verserez des larmes qu'ils riront encore Dieu que c'est facile pour les imbéciles",
+      "start": 3394.389,
+      "duration": 8.611
+    },
+    {
+      "text": "D'être aveugle et sourd à un grand amour",
+      "start": 3403,
+      "duration": 4.375
+    },
+    {
+      "text": "D'être aveugle et sourd",
+      "start": 3407.375,
+      "duration": 2.625
+    },
+    {
+      "text": "Ha, ha, ha, mon Dieu qu'elle est drôle",
+      "start": 3410,
+      "duration": 3.138
+    },
+    {
+      "text": "Avec ces cheveux-là elle a l'air d'un saule",
+      "start": 3413.138,
+      "duration": 3.862
+    },
+    {
+      "text": "Comment Roméo de nous le plus beau",
+      "start": 3417,
+      "duration": 4.0
+    },
+    {
+      "text": "Pourrait-il vraiment tenir ses serments",
+      "start": 3421.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Comme nous tous il ment",
+      "start": 3425,
+      "duration": 3.0
+    },
+    {
+      "text": "On est des beaux des laids on a les mêmes secrets",
+      "start": 3428,
+      "duration": 5.867
+    },
+    {
+      "text": "La vie ne nous fait pas de cadeaux",
+      "start": 3433.867,
+      "duration": 5.133
+    },
+    {
+      "text": "Qu'on soit des laids ou qu'on soit des beaux",
+      "start": 3439,
+      "duration": 5.667
+    },
+    {
+      "text": "On veut tout ce qu'on n'a pas",
+      "start": 3444.667,
+      "duration": 3.333
+    },
+    {
+      "text": "On se prend pour ce qu'on n'est pas",
+      "start": 3448,
+      "duration": 3.478
+    },
+    {
+      "text": "On rit quand l'amour nous fait peur",
+      "start": 3451.478,
+      "duration": 4.522
+    },
+    {
+      "text": "Mais on prie pour qu'il vienne dans nos cœurs",
+      "start": 3456,
+      "duration": 4.0
+    },
+    {
+      "text": "Ha, ha, ha vous n'êtes que des chiens",
+      "start": 3460,
+      "duration": 4.174
+    },
+    {
+      "text": "Ha, ha, ha rien ne vous retient",
+      "start": 3464.174,
+      "duration": 3.826
+    },
+    {
+      "text": "Haine et jalousies sont vos seules amies",
+      "start": 3468,
+      "duration": 4.387
+    },
+    {
+      "text": "Même le vent du nord doit souffler moins fort",
+      "start": 3472.387,
+      "duration": 3.613
+    },
+    {
+      "text": "Que votre bêtise",
+      "start": 3476,
+      "duration": 2.333
+    },
+    {
+      "text": "Ha, ha, ha, quoi que ces deux-là s'aiment",
+      "start": 3478.333,
+      "duration": 5.0
+    },
+    {
+      "text": "Ha, ha, ha on ne parle pas des mêmes",
+      "start": 3483.333,
+      "duration": 3.667
+    },
+    {
+      "text": "Deux enfants gâtés ne peuvent pas s'aimer",
+      "start": 3487,
+      "duration": 3.267
+    },
+    {
+      "text": "L'amour c'est pour ceux oubliés des dieux",
+      "start": 3490.267,
+      "duration": 3.733
+    },
+    {
+      "text": "Qui l'ont mérité",
+      "start": 3494,
+      "duration": 2.0
+    },
+    {
+      "text": "On est des beaux des laids on a les mêmes secrets",
+      "start": 3496,
+      "duration": 6.4
+    },
+    {
+      "text": "La vie ne nous fait pas de cadeaux",
+      "start": 3502.4,
+      "duration": 5.6
+    },
+    {
+      "text": "Qu'on soit des laids ou qu'on soit des beaux",
+      "start": 3508,
+      "duration": 5.667
+    },
+    {
+      "text": "On veut tout ce qu'on n'a pas",
+      "start": 3513.667,
+      "duration": 3.333
+    },
+    {
+      "text": "On se prend pour ce qu'on n'est pas",
+      "start": 3517,
+      "duration": 3.478
+    },
+    {
+      "text": "On rit quand l'amour nous fait peur",
+      "start": 3520.478,
+      "duration": 4.522
+    },
+    {
+      "text": "Mais on prie pour qu'il vienne dans nos cœurs",
+      "start": 3525,
+      "duration": 4.0
+    },
+    {
+      "text": "On est des beaux, des laids...",
+      "start": 3529,
+      "duration": 2.769
+    },
+    {
+      "text": "Oui, mais au fond on sait bien qui l'on est",
+      "start": 3531.769,
+      "duration": 5.231
+    },
+    {
+      "text": "On est des beaux, des laids...",
+      "start": 3537,
+      "duration": 6.0
+    },
+    {
+      "text": "On est des beaux des laids on a les mêmes secrets",
+      "start": 3543,
+      "duration": 6.933
+    },
+    {
+      "text": "La vie ne nous fait pas de cadeaux",
+      "start": 3549.933,
+      "duration": 6.067
+    },
+    {
+      "text": "Qu'on soit des laids ou qu'on soit des beaux",
+      "start": 3556,
+      "duration": 4.0
+    },
+    {
+      "text": "On veut tout ce qu'on n'a pas",
+      "start": 3560,
+      "duration": 4.0
+    },
+    {
+      "text": "On se prend pour ce qu'on n'est pas",
+      "start": 3564.0,
+      "duration": 4.0
+    },
+    {
+      "text": "On rit quand l'amour nous fait peur",
+      "start": 3568,
+      "duration": 3.586
+    },
+    {
+      "text": "Mais on prie pour qu'il vienne dans nos cœurs",
+      "start": 3571.586,
+      "duration": 4.414
+    },
+    {
+      "text": "On veut tout ce qu'on n'a pas",
+      "start": 3576,
+      "duration": 4.0
+    },
+    {
+      "text": "On se prend pour ce qu'on n'est pas",
+      "start": 3580.0,
+      "duration": 4.0
+    },
+    {
+      "text": "On rit quand l'amour nous fait peur",
+      "start": 3584,
+      "duration": 3.138
+    },
+    {
+      "text": "Mais on prie pour qu'il vienne dans nos cœurs",
+      "start": 3587.138,
+      "duration": 3.862
+    },
+    {
+      "text": "Qu'on soit des laids qu'on soit des beaux",
+      "start": 3591,
+      "duration": 9.6
+    },
+    {
+      "text": "Roméo !",
+      "start": 3600.6,
+      "duration": 1.92
+    },
+    {
+      "text": "Roméo, attends-moi !",
+      "start": 3602.52,
+      "duration": 4.48
+    },
+    {
+      "text": "Roméo, je dois te parler seul à seul.",
+      "start": 3607,
+      "duration": 4.48
+    },
+    {
+      "text": "Je viens de la part de Juliette.",
+      "start": 3611.48,
+      "duration": 3.52
+    },
+    {
+      "text": "Es-tu sûr de tes sentiments ?",
+      "start": 3615,
+      "duration": 1.391
+    },
+    {
+      "text": "Oui,",
+      "start": 3616.391,
+      "duration": 0.522
+    },
+    {
+      "text": "Nourrice.",
+      "start": 3616.913,
+      "duration": 0.696
+    },
+    {
+      "text": "Tu diras à Juliette qu’elle me rejoigne chez",
+      "start": 3617.609,
+      "duration": 2.956
+    },
+    {
+      "text": "Frère Laurent et qu’il nous mariera.",
+      "start": 3620.565,
+      "duration": 2.435
+    },
+    {
+      "text": "Je lui dirais, Roméo !",
+      "start": 3623,
+      "duration": 3.971
+    },
+    {
+      "text": "Je lui dirais !",
+      "start": 3626.971,
+      "duration": 2.647
+    },
+    {
+      "text": "Ce sera le plus beau jour de votre vie !",
+      "start": 3629.618,
+      "duration": 6.617
+    },
+    {
+      "text": "De ma vie !",
+      "start": 3636.235,
+      "duration": 1.765
+    }
+  ],
   "playbackVideoId": "kgGN5675TAY",
   "sourceDuration": 8831,
   "sourceURL": "https://www.youtube.com/watch?v=kgGN5675TAY&t=3373",
@@ -155,12 +481,15 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "approximate",
   "playableInEmbed": true,
   "performanceYear": 2010,
   "albumReleaseYear": 2009,
   "mediaKind": "stage-video",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "isGenerated": false,
+  "studyVersion": 4
 }

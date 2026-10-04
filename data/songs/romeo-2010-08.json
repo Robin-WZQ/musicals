@@ -9,13 +9,374 @@
   "trackNumber": 8,
   "act": 1,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr-FR",
-  "captionDelivery": "youtube-player",
-  "captionSource": "youtube-player",
+  "captionDelivery": "study-page",
+  "captionSource": "editorial",
   "nativeCaptionAvailable": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Les rois du monde, font tout ce qu’ils veulent.",
+      "start": 1371,
+      "duration": 17.812
+    },
+    {
+      "text": "Ils ont du monde autour d’eux, mais ils sont seuls.",
+      "start": 1388.812,
+      "duration": 20.188
+    },
+    {
+      "text": "Les rois du monde vivent au sommet",
+      "start": 1409,
+      "duration": 4.0
+    },
+    {
+      "text": "Ils ont la plus belle vue mais y'a un mais",
+      "start": 1413.0,
+      "duration": 5.0
+    },
+    {
+      "text": "Ils ne savent pas ce qu'on pense d'eux en bas",
+      "start": 1418,
+      "duration": 4.0
+    },
+    {
+      "text": "Ils ne savent pas qu'ici c'est nous les rois",
+      "start": 1422.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Les rois du monde font tout ce qu'ils veulent",
+      "start": 1426,
+      "duration": 3.75
+    },
+    {
+      "text": "Ils ont du monde autour d'eux mais ils sont seuls",
+      "start": 1429.75,
+      "duration": 4.25
+    },
+    {
+      "text": "Dans leurs châteaux là-haut, ils s'ennuient",
+      "start": 1434,
+      "duration": 4.355
+    },
+    {
+      "text": "Pendant qu'en bas nous on danse toute la nuit",
+      "start": 1438.355,
+      "duration": 4.645
+    },
+    {
+      "text": "Nous on fait l'amour, on vit la vie",
+      "start": 1443,
+      "duration": 2.294
+    },
+    {
+      "text": "Jour après jour nuit après nuit",
+      "start": 1445.294,
+      "duration": 2.118
+    },
+    {
+      "text": "À quoi ça sert d'être sur la terre",
+      "start": 1447.412,
+      "duration": 2.117
+    },
+    {
+      "text": "Si c'est pour faire nos vies à genoux",
+      "start": 1449.529,
+      "duration": 2.471
+    },
+    {
+      "text": "On sait que le temps c'est comme le vent",
+      "start": 1452,
+      "duration": 2.087
+    },
+    {
+      "text": "De vivre y'a que ça d'important",
+      "start": 1454.087,
+      "duration": 1.913
+    },
+    {
+      "text": "On se fout pas mal de la morale",
+      "start": 1456.0,
+      "duration": 1.913
+    },
+    {
+      "text": "On sait bien qu'on fait pas de mal",
+      "start": 1457.913,
+      "duration": 2.087
+    },
+    {
+      "text": "Les rois du monde ont peur de tout",
+      "start": 1460,
+      "duration": 3.84
+    },
+    {
+      "text": "C'est qu'ils confondent les chiens et les loups",
+      "start": 1463.84,
+      "duration": 4.16
+    },
+    {
+      "text": "Ils font des pièges où ils tomberont un jour",
+      "start": 1468,
+      "duration": 4.138
+    },
+    {
+      "text": "Ils se protègent de tout même de l'amour",
+      "start": 1472.138,
+      "duration": 3.862
+    },
+    {
+      "text": "Les rois du monde se battent entre eux",
+      "start": 1476,
+      "duration": 3.774
+    },
+    {
+      "text": "C'est qu'y a de la place, mais pour un pas pour deux",
+      "start": 1479.774,
+      "duration": 5.226
+    },
+    {
+      "text": "Et nous en bas leur guerre on la fera pas",
+      "start": 1485,
+      "duration": 3.333
+    },
+    {
+      "text": "On sait même pas pourquoi tout ça c'est des jeux de rois",
+      "start": 1488.333,
+      "duration": 4.667
+    },
+    {
+      "text": "Nous on fait l'amour on vit la vie",
+      "start": 1493,
+      "duration": 2.294
+    },
+    {
+      "text": "Jour après jour nuit après nuit",
+      "start": 1495.294,
+      "duration": 2.118
+    },
+    {
+      "text": "À quoi ça sert d'être sur la terre",
+      "start": 1497.412,
+      "duration": 2.117
+    },
+    {
+      "text": "Si c'est pour faire nos vies à genoux",
+      "start": 1499.529,
+      "duration": 2.471
+    },
+    {
+      "text": "On sait que le temps c'est comme le vent",
+      "start": 1502,
+      "duration": 6.261
+    },
+    {
+      "text": "De vivre y'a que ça d'important",
+      "start": 1508.261,
+      "duration": 5.739
+    },
+    {
+      "text": "On se fout pas mal de la morale",
+      "start": 1514.0,
+      "duration": 5.739
+    },
+    {
+      "text": "On sait bien qu'on fait pas de mal",
+      "start": 1519.739,
+      "duration": 6.261
+    },
+    {
+      "text": "Nous on fait l'amour on vit la vie",
+      "start": 1526,
+      "duration": 2.294
+    },
+    {
+      "text": "Jour après jour nuit après nuit",
+      "start": 1528.294,
+      "duration": 2.118
+    },
+    {
+      "text": "À quoi ça sert d'être sur la terre",
+      "start": 1530.412,
+      "duration": 2.117
+    },
+    {
+      "text": "Si c'est pour faire nos vies à genoux",
+      "start": 1532.529,
+      "duration": 2.471
+    },
+    {
+      "text": "On sait que le temps c'est comme le vent",
+      "start": 1535,
+      "duration": 2.609
+    },
+    {
+      "text": "De vivre y'a que ça d'important",
+      "start": 1537.609,
+      "duration": 2.391
+    },
+    {
+      "text": "On se fout pas mal de la morale",
+      "start": 1540,
+      "duration": 5.261
+    },
+    {
+      "text": "On sait bien qu'on fait pas de mal",
+      "start": 1545.261,
+      "duration": 5.739
+    },
+    {
+      "text": "On sait que le temps c'est comme le vent",
+      "start": 1551,
+      "duration": 4.696
+    },
+    {
+      "text": "On se fout pas mal de la morale",
+      "start": 1555.696,
+      "duration": 4.304
+    },
+    {
+      "text": "Nous on fait l'amour on vit la vie",
+      "start": 1560,
+      "duration": 2.039
+    },
+    {
+      "text": "Jour après jour nuit après nuit",
+      "start": 1562.039,
+      "duration": 1.883
+    },
+    {
+      "text": "À quoi ça sert d'être sur la terre",
+      "start": 1563.922,
+      "duration": 1.882
+    },
+    {
+      "text": "Si c'est pour faire nos vies à genoux",
+      "start": 1565.804,
+      "duration": 2.196
+    },
+    {
+      "text": "On sait que le temps c'est comme le vent",
+      "start": 1568,
+      "duration": 2.348
+    },
+    {
+      "text": "De vivre y'a que ça d'important",
+      "start": 1570.348,
+      "duration": 2.152
+    },
+    {
+      "text": "On se fout pas mal de la morale",
+      "start": 1572.5,
+      "duration": 2.152
+    },
+    {
+      "text": "On sait bien qu'on fait pas de mal",
+      "start": 1574.652,
+      "duration": 2.348
+    },
+    {
+      "text": "Nous on fait l'amour on vit la vie",
+      "start": 1577,
+      "duration": 2.039
+    },
+    {
+      "text": "Jour après jour nuit après nuit",
+      "start": 1579.039,
+      "duration": 1.883
+    },
+    {
+      "text": "À quoi ça sert d'être sur la terre",
+      "start": 1580.922,
+      "duration": 1.882
+    },
+    {
+      "text": "Si c'est pour faire nos vies à genoux",
+      "start": 1582.804,
+      "duration": 2.196
+    },
+    {
+      "text": "On sait que le temps c'est comme le vent",
+      "start": 1585,
+      "duration": 3.391
+    },
+    {
+      "text": "De vivre y'a que ça d'important",
+      "start": 1588.391,
+      "duration": 3.109
+    },
+    {
+      "text": "On se fout pas mal de la morale",
+      "start": 1591.5,
+      "duration": 3.109
+    },
+    {
+      "text": "On sait bien qu'on fait pas de mal",
+      "start": 1594.609,
+      "duration": 3.391
+    },
+    {
+      "text": "Alors nous, on est heureux ?",
+      "start": 1598,
+      "duration": 2.903
+    },
+    {
+      "text": "Oui",
+      "start": 1600.903,
+      "duration": 0.871
+    },
+    {
+      "text": "Et eux, non ?",
+      "start": 1601.774,
+      "duration": 1.161
+    },
+    {
+      "text": "Voilà",
+      "start": 1602.935,
+      "duration": 0.871
+    },
+    {
+      "text": "Alors c’est qui, les rois du monde ?",
+      "start": 1603.806,
+      "duration": 3.194
+    },
+    {
+      "text": "Mais c’est personne !",
+      "start": 1607,
+      "duration": 1.2
+    },
+    {
+      "text": "Pourquoi, c’est ça votre rêve ?",
+      "start": 1608.2,
+      "duration": 2.2
+    },
+    {
+      "text": "Etre les rois du monde ?",
+      "start": 1610.4,
+      "duration": 1.6
+    },
+    {
+      "text": "Un peu d’ambition les amis !",
+      "start": 1612,
+      "duration": 2.619
+    },
+    {
+      "text": "Il y a de plus grands duos !",
+      "start": 1614.619,
+      "duration": 2.095
+    },
+    {
+      "text": "Non, non, vous, vous êtes petits, petits, petits !",
+      "start": 1616.714,
+      "duration": 3.667
+    },
+    {
+      "text": "Un peu d’ambition, p’tit frères !",
+      "start": 1620.381,
+      "duration": 2.619
+    }
+  ],
   "playbackVideoId": "kgGN5675TAY",
   "sourceDuration": 8831,
   "sourceURL": "https://www.youtube.com/watch?v=kgGN5675TAY&t=1371",
@@ -131,12 +492,15 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "approximate",
   "playableInEmbed": true,
   "performanceYear": 2010,
   "albumReleaseYear": 2009,
   "mediaKind": "stage-video",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "isGenerated": false,
+  "studyVersion": 4
 }

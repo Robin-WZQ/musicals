@@ -1,0 +1,1061 @@
+{
+  "videoId": "romeo-2010-17",
+  "playbackVideoId": "kgGN5675TAY",
+  "version": 4,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "fb7093c98ef47506a6849b24f6934f38d45127c8fba9a59e8c98027e3b037cff",
+  "textReviewStatus": "user-supplied-with-spelling-corrections",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "editorial-chinese-from-user-french",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with French and liaison corrections",
+  "note": "法语歌词、对白与时间点采用你提供的2010版字幕文本；中文释义逐条编写，音标与空耳按法语参考读法整理。≈ 表示字幕块内分句及片段尾部的近似切点。",
+  "sources": [
+    {
+      "label": "2010版原唱录像",
+      "url": "https://www.youtube.com/watch?v=kgGN5675TAY&t=3373"
+    }
+  ],
+  "entries": [
+    {
+      "start": 3373,
+      "sourceText": "Ha, ha, ha, rient les gens autour",
+      "ipa": "[a a a ʁi le ʒɑ̃ otuʁ]",
+      "ear": "阿 阿 阿 希 莱 让 奥图赫",
+      "meaning": "哈哈哈，周围的人笑着。",
+      "suppliedText": "Ha, ha, ha, rient les gens autour",
+      "sourceLineId": "romeo-timed-306-1",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3373,
+        "sourceLineNumber": 306,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3378.762,
+      "sourceText": "Ha, ha, ha, ils rient d'un amour",
+      "ipa": "[a a a il ʁi dœ̃ amuʁ]",
+      "ear": "阿 阿 阿 伊勒 希 丹 阿穆赫",
+      "meaning": "哈哈哈，他们嘲笑一份爱情。",
+      "suppliedText": "Ha, ha, ha, ils rient d'un amour",
+      "sourceLineId": "romeo-timed-306-2",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3373,
+        "sourceLineNumber": 306,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3384,
+      "sourceText": "Qu'ils ne comprennent pas qu'ils ne sentent pas",
+      "ipa": "[kil nə kɔ̃pʁɛn pa kil nə sɑ̃t pa]",
+      "ear": "基勒 讷 孔普赫恩 帕 基勒 讷 桑特 帕",
+      "meaning": "他们不理解，也感受不到。",
+      "suppliedText": "Qu'ils ne comprennent pas qu'ils ne sentent pas",
+      "sourceLineId": "romeo-timed-307-3",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3384,
+        "sourceLineNumber": 307,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3388.68,
+      "sourceText": "Alors c'est pour ça qu'ils font ha, ha, ha",
+      "ipa": "[alɔʁ sɛ puʁ sa kil fɔ̃ a a a]",
+      "ear": "阿洛赫 塞 普赫 萨 基勒 丰 阿 阿 阿",
+      "meaning": "所以才哈哈大笑。",
+      "suppliedText": "Alors c'est pour ça qu'ils font ha, ha, ha",
+      "sourceLineId": "romeo-timed-307-4",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3384,
+        "sourceLineNumber": 307,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3393,
+      "sourceText": "Riez, riez fort.",
+      "ipa": "[ʁie ʁje fɔʁ]",
+      "ear": "希诶 赫耶诶 佛赫",
+      "meaning": "笑吧，大声地笑。",
+      "suppliedText": "Riez, riez fort.",
+      "sourceLineId": "romeo-timed-308-5",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3393,
+        "sourceLineNumber": 308,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3394.389,
+      "sourceText": "Vous verserez des larmes qu'ils riront encore Dieu que c'est facile pour les imbéciles",
+      "ipa": "[vu vɛʁsəʁe de laʁm kil ʁiʁɔ̃ ɑ̃kɔʁ djø kə sɛ fasil puʁ lez‿ɛ̃besil]",
+      "ear": "乌 韦赫瑟赫 德 拉赫姆 基勒 希洪 昂科赫 德耶厄 克 塞 法西勒 普赫 莱兹 安贝西勒",
+      "meaning": "你流下眼泪，他们还在笑；天啊，蠢人多容易就能。",
+      "suppliedText": "Vous verserez des larmes qu'ils riront encore Dieu que c'est facile pour les imbéciles",
+      "sourceLineId": "romeo-timed-308-6",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3393,
+        "sourceLineNumber": 308,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3403,
+      "sourceText": "D'être aveugle et sourd à un grand amour",
+      "ipa": "[dɛtʁ‿avøɡl e suʁ‿a œ̃ ɡʁɑ̃t‿amuʁ]",
+      "ear": "戴特赫 阿弗厄格勒 诶 苏赫 阿 恩 格杭特 阿穆赫",
+      "meaning": "对伟大的爱情视而不见、充耳不闻。",
+      "suppliedText": "D'être aveugle et sourd à un grand amour",
+      "sourceLineId": "romeo-timed-309-7",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3403,
+        "sourceLineNumber": 309,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3407.375,
+      "sourceText": "D'être aveugle et sourd",
+      "ipa": "[dɛtʁ‿avøɡl e suʁ]",
+      "ear": "戴特赫 阿弗厄格勒 诶 苏赫",
+      "meaning": "视而不见、充耳不闻。",
+      "suppliedText": "D'être aveugle et sourd",
+      "sourceLineId": "romeo-timed-309-8",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3403,
+        "sourceLineNumber": 309,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3410,
+      "sourceText": "Ha, ha, ha, mon Dieu qu'elle est drôle",
+      "ipa": "[a a a mɔ̃ djø kɛl‿ɛ dʁol]",
+      "ear": "阿 阿 阿 蒙 德耶厄 凯勒 艾 德霍勒",
+      "meaning": "哈哈哈，天啊，她真好笑。",
+      "suppliedText": "Ha, ha, ha, mon Dieu qu'elle est drôle",
+      "sourceLineId": "romeo-timed-310-9",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3410,
+        "sourceLineNumber": 310,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3413.138,
+      "sourceText": "Avec ces cheveux-là elle a l'air d'un saule",
+      "ipa": "[avɛk se ʃəvøla ɛl‿a lɛʁ dœ̃ sol]",
+      "ear": "阿韦克 塞 舍弗厄拉 艾勒 阿 莱赫 丹 索勒",
+      "meaning": "那一头头发，让她像棵柳树。",
+      "suppliedText": "Avec ces cheveux-là elle a l'air d'un saule",
+      "sourceLineId": "romeo-timed-310-10",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3410,
+        "sourceLineNumber": 310,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3417,
+      "sourceText": "Comment Roméo de nous le plus beau",
+      "ipa": "[kɔmɑ̃ ʁomeo də nu lə ply bo]",
+      "ear": "科芒 霍梅奥 德 努 勒 普吕 博",
+      "meaning": "罗密欧，我们中最好看的那个。",
+      "suppliedText": "Comment Roméo de nous le plus beau",
+      "sourceLineId": "romeo-timed-311-11",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3417,
+        "sourceLineNumber": 311,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3421.0,
+      "sourceText": "Pourrait-il vraiment tenir ses serments",
+      "ipa": "[puʁɛtil vʁɛmɑ̃ təniʁ se sɛʁmɑ̃]",
+      "ear": "普赫蒂勒 弗赫芒 特尼赫 塞 塞赫芒",
+      "meaning": "怎么可能真守住誓言？",
+      "suppliedText": "Pourrait-il vraiment tenir ses serments",
+      "sourceLineId": "romeo-timed-311-12",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3417,
+        "sourceLineNumber": 311,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3425,
+      "sourceText": "Comme nous tous il ment",
+      "ipa": "[kɔm nu tus‿il mɑ̃]",
+      "ear": "科姆 努 图斯 伊勒 芒",
+      "meaning": "他和我们一样会说谎。",
+      "suppliedText": "Comme nous tous il ment",
+      "sourceLineId": "romeo-timed-312-13",
+      "speaker": "Benvolio",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 3425,
+        "sourceLineNumber": 312,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3428,
+      "sourceText": "On est des beaux des laids on a les mêmes secrets",
+      "ipa": "[ɔ̃n‿ɛ de bo de lɛd‿ɔ̃n‿a le mɛm səkʁɛ]",
+      "ear": "翁恩 艾 德 博 德 莱德 翁恩 阿 莱 梅姆 瑟克赫",
+      "meaning": "无论美丑，我们都有同样的秘密。",
+      "suppliedText": "On est des beaux des laids on a les mêmes secrets",
+      "sourceLineId": "romeo-timed-313-14",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3428,
+        "sourceLineNumber": 313,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3433.867,
+      "sourceText": "La vie ne nous fait pas de cadeaux",
+      "ipa": "[la vi nə nu fɛ pa də kado]",
+      "ear": "拉 维 讷 努 费 帕 德 卡多",
+      "meaning": "生活从不给我们什么礼物。",
+      "suppliedText": "La vie ne nous fait pas de cadeaux",
+      "sourceLineId": "romeo-timed-313-15",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3428,
+        "sourceLineNumber": 313,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3439,
+      "sourceText": "Qu'on soit des laids ou qu'on soit des beaux",
+      "ipa": "[kɔ̃ swa de lɛd‿u kɔ̃ swa de bo]",
+      "ear": "孔 斯乌阿 德 莱德 乌 孔 斯乌阿 德 博",
+      "meaning": "无论我们长得美，还是丑。",
+      "suppliedText": "Qu'on soit des laids ou qu'on soit des beaux",
+      "sourceLineId": "romeo-timed-314-16",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3439,
+        "sourceLineNumber": 314,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3444.667,
+      "sourceText": "On veut tout ce qu'on n'a pas",
+      "ipa": "[ɔ̃ vø tu sə kɔ̃ na pa]",
+      "ear": "翁 弗厄 图 瑟 孔 纳 帕",
+      "meaning": "我们想要自己没有的一切。",
+      "suppliedText": "On veut tout ce qu'on n'a pas",
+      "sourceLineId": "romeo-timed-314-17",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3439,
+        "sourceLineNumber": 314,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3448,
+      "sourceText": "On se prend pour ce qu'on n'est pas",
+      "ipa": "[ɔ̃ sə pʁɑ̃ puʁ sə kɔ̃ nɛ pa]",
+      "ear": "翁 瑟 普杭 普赫 瑟 孔 奈 帕",
+      "meaning": "把自己当成另一个人。",
+      "suppliedText": "On se prend pour ce qu'on n'est pas",
+      "sourceLineId": "romeo-timed-315-18",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3448,
+        "sourceLineNumber": 315,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3451.478,
+      "sourceText": "On rit quand l'amour nous fait peur",
+      "ipa": "[ɔ̃ ʁi kɑ̃ lamuʁ nu fɛ pœʁ]",
+      "ear": "翁 希 康 拉穆赫 努 费 珀厄赫",
+      "meaning": "害怕爱情时，我们就笑。",
+      "suppliedText": "On rit quand l'amour nous fait peur",
+      "sourceLineId": "romeo-timed-315-19",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3448,
+        "sourceLineNumber": 315,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3456,
+      "sourceText": "Mais on prie pour qu'il vienne dans nos cœurs",
+      "ipa": "[mɛ ɔ̃ pʁi puʁ kil vjɛn dɑ̃ no kœʁ]",
+      "ear": "梅 翁 普希 普赫 基勒 弗耶艾恩 当 诺 克厄赫",
+      "meaning": "却又祈祷它走进心里。",
+      "suppliedText": "Mais on prie pour qu'il vienne dans nos cœurs",
+      "sourceLineId": "romeo-timed-316-20",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 3456,
+        "sourceLineNumber": 316,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3460,
+      "sourceText": "Ha, ha, ha vous n'êtes que des chiens",
+      "ipa": "[a a a vu nɛt kə de ʃjɛ̃]",
+      "ear": "阿 阿 阿 乌 奈特 克 德 什耶安",
+      "meaning": "哈哈哈，你们不过是一群狗。",
+      "suppliedText": "Ha, ha, ha vous n'êtes que des chiens",
+      "sourceLineId": "romeo-timed-317-21",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3460,
+        "sourceLineNumber": 317,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3464.174,
+      "sourceText": "Ha, ha, ha rien ne vous retient",
+      "ipa": "[a a a ʁjɛ̃ nə vu ʁətjɛ̃]",
+      "ear": "阿 阿 阿 赫耶安 讷 乌 赫特耶安",
+      "meaning": "哈哈哈，什么都拴不住你们。",
+      "suppliedText": "Ha, ha, ha rien ne vous retient",
+      "sourceLineId": "romeo-timed-317-22",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3460,
+        "sourceLineNumber": 317,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3468,
+      "sourceText": "Haine et jalousies sont vos seules amies",
+      "ipa": "[ɛn e ʒaluzi sɔ̃ vo sœl‿ami]",
+      "ear": "艾恩 诶 扎卢齐 松 沃 瑟厄勒 阿米",
+      "meaning": "你们的朋友，只有仇恨与嫉妒。",
+      "suppliedText": "Haine et jalousies sont vos seules amies",
+      "sourceLineId": "romeo-timed-318-23",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3468,
+        "sourceLineNumber": 318,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3472.387,
+      "sourceText": "Même le vent du nord doit souffler moins fort",
+      "ipa": "[mɛm lə vɑ̃ dy nɔʁ dwa sufle mwɛ̃ fɔʁ]",
+      "ear": "梅姆 勒 旺 迪于 诺赫 德乌阿 苏弗莱 姆乌安 佛赫",
+      "meaning": "连北风都吹得没那么猛。",
+      "suppliedText": "Même le vent du nord doit souffler moins fort",
+      "sourceLineId": "romeo-timed-318-24",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3468,
+        "sourceLineNumber": 318,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3476,
+      "sourceText": "Que votre bêtise",
+      "ipa": "[kə votʁ bɛtiz]",
+      "ear": "克 沃特赫 贝蒂兹",
+      "meaning": "比不过你们的愚蠢。",
+      "suppliedText": "Que votre bêtise",
+      "sourceLineId": "romeo-timed-319-25",
+      "speaker": "La Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3476,
+        "sourceLineNumber": 319,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3478.333,
+      "sourceText": "Ha, ha, ha, quoi que ces deux-là s'aiment",
+      "ipa": "[a a a kwa kə se døla sɛm]",
+      "ear": "阿 阿 阿 克乌阿 克 塞 德厄拉 塞姆",
+      "meaning": "哈哈哈，可那两个人相爱啊。",
+      "suppliedText": "Ha, ha, ha, quoi que ces deux-là s'aiment",
+      "sourceLineId": "romeo-timed-319-26",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3476,
+        "sourceLineNumber": 319,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3483.333,
+      "sourceText": "Ha, ha, ha on ne parle pas des mêmes",
+      "ipa": "[a a a ɔ̃ nə paʁl pa de mɛm]",
+      "ear": "阿 阿 阿 翁 讷 帕赫勒 帕 德 梅姆",
+      "meaning": "哈哈哈，我们说的可不是同一种人。",
+      "suppliedText": "Ha, ha, ha on ne parle pas des mêmes",
+      "sourceLineId": "romeo-timed-319-27",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3476,
+        "sourceLineNumber": 319,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3487,
+      "sourceText": "Deux enfants gâtés ne peuvent pas s'aimer",
+      "ipa": "[døz‿ɑ̃fɑ̃ ɡate nə pøv pa sɛme]",
+      "ear": "德厄兹 昂芳 嘎特 讷 珀厄弗 帕 塞梅",
+      "meaning": "两个被宠坏的孩子，怎会懂爱？",
+      "suppliedText": "Deux enfants gâtés ne peuvent pas s'aimer",
+      "sourceLineId": "romeo-timed-320-28",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3487,
+        "sourceLineNumber": 320,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3490.267,
+      "sourceText": "L'amour c'est pour ceux oubliés des dieux",
+      "ipa": "[lamuʁ sɛ puʁ sø ublie de djø]",
+      "ear": "拉穆赫 塞 普赫 瑟厄 乌布利诶 德 德耶厄",
+      "meaning": "爱情属于被众神遗忘的人。",
+      "suppliedText": "L'amour c'est pour ceux oubliés des dieux",
+      "sourceLineId": "romeo-timed-320-29",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3487,
+        "sourceLineNumber": 320,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3494,
+      "sourceText": "Qui l'ont mérité",
+      "ipa": "[ki lɔ̃ meʁite]",
+      "ear": "基 隆 梅希特",
+      "meaning": "属于值得拥有它的人。",
+      "suppliedText": "Qui l'ont mérité",
+      "sourceLineId": "romeo-timed-321-30",
+      "speaker": "Mercutio",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 3494,
+        "sourceLineNumber": 321,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3496,
+      "sourceText": "On est des beaux des laids on a les mêmes secrets",
+      "ipa": "[ɔ̃n‿ɛ de bo de lɛd‿ɔ̃n‿a le mɛm səkʁɛ]",
+      "ear": "翁恩 艾 德 博 德 莱德 翁恩 阿 莱 梅姆 瑟克赫",
+      "meaning": "无论美丑，我们都有同样的秘密。",
+      "suppliedText": "On est des beaux des laids on a les mêmes secrets",
+      "sourceLineId": "romeo-timed-322-31",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3496,
+        "sourceLineNumber": 322,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3502.4,
+      "sourceText": "La vie ne nous fait pas de cadeaux",
+      "ipa": "[la vi nə nu fɛ pa də kado]",
+      "ear": "拉 维 讷 努 费 帕 德 卡多",
+      "meaning": "生活从不给我们什么礼物。",
+      "suppliedText": "La vie ne nous fait pas de cadeaux",
+      "sourceLineId": "romeo-timed-322-32",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3496,
+        "sourceLineNumber": 322,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3508,
+      "sourceText": "Qu'on soit des laids ou qu'on soit des beaux",
+      "ipa": "[kɔ̃ swa de lɛd‿u kɔ̃ swa de bo]",
+      "ear": "孔 斯乌阿 德 莱德 乌 孔 斯乌阿 德 博",
+      "meaning": "无论我们长得美，还是丑。",
+      "suppliedText": "Qu'on soit des laids ou qu'on soit des beaux",
+      "sourceLineId": "romeo-timed-323-33",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3508,
+        "sourceLineNumber": 323,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3513.667,
+      "sourceText": "On veut tout ce qu'on n'a pas",
+      "ipa": "[ɔ̃ vø tu sə kɔ̃ na pa]",
+      "ear": "翁 弗厄 图 瑟 孔 纳 帕",
+      "meaning": "我们想要自己没有的一切。",
+      "suppliedText": "On veut tout ce qu'on n'a pas",
+      "sourceLineId": "romeo-timed-323-34",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3508,
+        "sourceLineNumber": 323,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3517,
+      "sourceText": "On se prend pour ce qu'on n'est pas",
+      "ipa": "[ɔ̃ sə pʁɑ̃ puʁ sə kɔ̃ nɛ pa]",
+      "ear": "翁 瑟 普杭 普赫 瑟 孔 奈 帕",
+      "meaning": "把自己当成另一个人。",
+      "suppliedText": "On se prend pour ce qu'on n'est pas",
+      "sourceLineId": "romeo-timed-324-35",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3517,
+        "sourceLineNumber": 324,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3520.478,
+      "sourceText": "On rit quand l'amour nous fait peur",
+      "ipa": "[ɔ̃ ʁi kɑ̃ lamuʁ nu fɛ pœʁ]",
+      "ear": "翁 希 康 拉穆赫 努 费 珀厄赫",
+      "meaning": "害怕爱情时，我们就笑。",
+      "suppliedText": "On rit quand l'amour nous fait peur",
+      "sourceLineId": "romeo-timed-324-36",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3517,
+        "sourceLineNumber": 324,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3525,
+      "sourceText": "Mais on prie pour qu'il vienne dans nos cœurs",
+      "ipa": "[mɛ ɔ̃ pʁi puʁ kil vjɛn dɑ̃ no kœʁ]",
+      "ear": "梅 翁 普希 普赫 基勒 弗耶艾恩 当 诺 克厄赫",
+      "meaning": "却又祈祷它走进心里。",
+      "suppliedText": "Mais on prie pour qu'il vienne dans nos cœurs",
+      "sourceLineId": "romeo-timed-325-37",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 3525,
+        "sourceLineNumber": 325,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3529,
+      "sourceText": "On est des beaux, des laids...",
+      "ipa": "[ɔ̃n‿ɛ de bo de lɛd]",
+      "ear": "翁恩 艾 德 博 德 莱德",
+      "meaning": "我们有美的，也有丑的……",
+      "suppliedText": "On est des beaux, des laids...",
+      "sourceLineId": "romeo-timed-326-38",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3529,
+        "sourceLineNumber": 326,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3531.769,
+      "sourceText": "Oui, mais au fond on sait bien qui l'on est",
+      "ipa": "[wi mɛ o fɔ̃ ɔ̃ sɛ bjɛ̃ ki lɔ̃ ɛ]",
+      "ear": "乌伊 梅 奥 丰 翁 塞 布耶安 基 隆 艾",
+      "meaning": "是啊，可心里都清楚自己是谁。",
+      "suppliedText": "Oui, mais au fond on sait bien qui l'on est",
+      "sourceLineId": "romeo-timed-326-39",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3529,
+        "sourceLineNumber": 326,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3537,
+      "sourceText": "On est des beaux, des laids...",
+      "ipa": "[ɔ̃n‿ɛ de bo de lɛd]",
+      "ear": "翁恩 艾 德 博 德 莱德",
+      "meaning": "我们有美的，也有丑的……",
+      "suppliedText": "On est des beaux, des laids...",
+      "sourceLineId": "romeo-timed-327-40",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 3537,
+        "sourceLineNumber": 327,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3543,
+      "sourceText": "On est des beaux des laids on a les mêmes secrets",
+      "ipa": "[ɔ̃n‿ɛ de bo de lɛd‿ɔ̃n‿a le mɛm səkʁɛ]",
+      "ear": "翁恩 艾 德 博 德 莱德 翁恩 阿 莱 梅姆 瑟克赫",
+      "meaning": "无论美丑，我们都有同样的秘密。",
+      "suppliedText": "On est des beaux des laids on a les mêmes secrets",
+      "sourceLineId": "romeo-timed-328-41",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3543,
+        "sourceLineNumber": 328,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3549.933,
+      "sourceText": "La vie ne nous fait pas de cadeaux",
+      "ipa": "[la vi nə nu fɛ pa də kado]",
+      "ear": "拉 维 讷 努 费 帕 德 卡多",
+      "meaning": "生活从不给我们什么礼物。",
+      "suppliedText": "La vie ne nous fait pas de cadeaux",
+      "sourceLineId": "romeo-timed-328-42",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3543,
+        "sourceLineNumber": 328,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3556,
+      "sourceText": "Qu'on soit des laids ou qu'on soit des beaux",
+      "ipa": "[kɔ̃ swa de lɛd‿u kɔ̃ swa de bo]",
+      "ear": "孔 斯乌阿 德 莱德 乌 孔 斯乌阿 德 博",
+      "meaning": "无论我们长得美，还是丑。",
+      "suppliedText": "Qu'on soit des laids ou qu'on soit des beaux",
+      "sourceLineId": "romeo-timed-329-43",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 3556,
+        "sourceLineNumber": 329,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3560,
+      "sourceText": "On veut tout ce qu'on n'a pas",
+      "ipa": "[ɔ̃ vø tu sə kɔ̃ na pa]",
+      "ear": "翁 弗厄 图 瑟 孔 纳 帕",
+      "meaning": "我们想要自己没有的一切。",
+      "suppliedText": "On veut tout ce qu'on n'a pas",
+      "sourceLineId": "romeo-timed-330-44",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3560,
+        "sourceLineNumber": 330,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3564.0,
+      "sourceText": "On se prend pour ce qu'on n'est pas",
+      "ipa": "[ɔ̃ sə pʁɑ̃ puʁ sə kɔ̃ nɛ pa]",
+      "ear": "翁 瑟 普杭 普赫 瑟 孔 奈 帕",
+      "meaning": "把自己当成另一个人。",
+      "suppliedText": "On se prend pour ce qu'on n'est pas",
+      "sourceLineId": "romeo-timed-330-45",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3560,
+        "sourceLineNumber": 330,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3568,
+      "sourceText": "On rit quand l'amour nous fait peur",
+      "ipa": "[ɔ̃ ʁi kɑ̃ lamuʁ nu fɛ pœʁ]",
+      "ear": "翁 希 康 拉穆赫 努 费 珀厄赫",
+      "meaning": "害怕爱情时，我们就笑。",
+      "suppliedText": "On rit quand l'amour nous fait peur",
+      "sourceLineId": "romeo-timed-331-46",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3568,
+        "sourceLineNumber": 331,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3571.586,
+      "sourceText": "Mais on prie pour qu'il vienne dans nos cœurs",
+      "ipa": "[mɛ ɔ̃ pʁi puʁ kil vjɛn dɑ̃ no kœʁ]",
+      "ear": "梅 翁 普希 普赫 基勒 弗耶艾恩 当 诺 克厄赫",
+      "meaning": "却又祈祷它走进心里。",
+      "suppliedText": "Mais on prie pour qu'il vienne dans nos cœurs",
+      "sourceLineId": "romeo-timed-331-47",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3568,
+        "sourceLineNumber": 331,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3576,
+      "sourceText": "On veut tout ce qu'on n'a pas",
+      "ipa": "[ɔ̃ vø tu sə kɔ̃ na pa]",
+      "ear": "翁 弗厄 图 瑟 孔 纳 帕",
+      "meaning": "我们想要自己没有的一切。",
+      "suppliedText": "On veut tout ce qu'on n'a pas",
+      "sourceLineId": "romeo-timed-332-48",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3576,
+        "sourceLineNumber": 332,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3580.0,
+      "sourceText": "On se prend pour ce qu'on n'est pas",
+      "ipa": "[ɔ̃ sə pʁɑ̃ puʁ sə kɔ̃ nɛ pa]",
+      "ear": "翁 瑟 普杭 普赫 瑟 孔 奈 帕",
+      "meaning": "把自己当成另一个人。",
+      "suppliedText": "On se prend pour ce qu'on n'est pas",
+      "sourceLineId": "romeo-timed-332-49",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3576,
+        "sourceLineNumber": 332,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3584,
+      "sourceText": "On rit quand l'amour nous fait peur",
+      "ipa": "[ɔ̃ ʁi kɑ̃ lamuʁ nu fɛ pœʁ]",
+      "ear": "翁 希 康 拉穆赫 努 费 珀厄赫",
+      "meaning": "害怕爱情时，我们就笑。",
+      "suppliedText": "On rit quand l'amour nous fait peur",
+      "sourceLineId": "romeo-timed-333-50",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3584,
+        "sourceLineNumber": 333,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3587.138,
+      "sourceText": "Mais on prie pour qu'il vienne dans nos cœurs",
+      "ipa": "[mɛ ɔ̃ pʁi puʁ kil vjɛn dɑ̃ no kœʁ]",
+      "ear": "梅 翁 普希 普赫 基勒 弗耶艾恩 当 诺 克厄赫",
+      "meaning": "却又祈祷它走进心里。",
+      "suppliedText": "Mais on prie pour qu'il vienne dans nos cœurs",
+      "sourceLineId": "romeo-timed-333-51",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3584,
+        "sourceLineNumber": 333,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3591,
+      "sourceText": "Qu'on soit des laids qu'on soit des beaux",
+      "ipa": "[kɔ̃ swa de lɛd kɔ̃ swa de bo]",
+      "ear": "孔 斯乌阿 德 莱德 孔 斯乌阿 德 博",
+      "meaning": "无论我们长得丑，还是美。",
+      "suppliedText": "Qu'on soit des laids qu'on soit des beaux",
+      "sourceLineId": "romeo-timed-334-52",
+      "speaker": "Tous",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3591,
+        "sourceLineNumber": 334,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3600.6,
+      "sourceText": "Roméo !",
+      "ipa": "[ʁomeo]",
+      "ear": "霍梅奥",
+      "meaning": "罗密欧！",
+      "suppliedText": "Roméo !",
+      "sourceLineId": "romeo-timed-334-53",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3591,
+        "sourceLineNumber": 334,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3602.52,
+      "sourceText": "Roméo, attends-moi !",
+      "ipa": "[ʁomeo atɑ̃mwa]",
+      "ear": "霍梅奥 阿唐姆乌阿",
+      "meaning": "罗密欧，等等我！",
+      "suppliedText": "Roméo, attends-moi !",
+      "sourceLineId": "romeo-timed-334-54",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3591,
+        "sourceLineNumber": 334,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3607,
+      "sourceText": "Roméo, je dois te parler seul à seul.",
+      "ipa": "[ʁomeo ʒə dwa tə paʁle sœl‿a sœl]",
+      "ear": "霍梅奥 热 德乌阿 特 帕赫莱 瑟厄勒 阿 瑟厄勒",
+      "meaning": "罗密欧，我要单独和你谈谈。",
+      "suppliedText": "Roméo, je dois te parler seul à seul.",
+      "sourceLineId": "romeo-timed-335-55",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3607,
+        "sourceLineNumber": 335,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3611.48,
+      "sourceText": "Je viens de la part de Juliette.",
+      "ipa": "[ʒə vjɛ̃ də la paʁ də ʒyljɛt]",
+      "ear": "热 弗耶安 德 拉 帕赫 德 日于勒耶艾特",
+      "meaning": "我替朱丽叶来找你。",
+      "suppliedText": "Je viens de la part de Juliette.",
+      "sourceLineId": "romeo-timed-335-56",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3607,
+        "sourceLineNumber": 335,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3615,
+      "sourceText": "Es-tu sûr de tes sentiments ?",
+      "ipa": "[ɛty syʁ də te sɑ̃timɑ̃]",
+      "ear": "艾蒂于 西于赫 德 特 桑蒂芒",
+      "meaning": "你确定自己的感情吗？",
+      "suppliedText": "Es-tu sûr de tes sentiments ?",
+      "sourceLineId": "romeo-timed-336-57",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3615,
+        "sourceLineNumber": 336,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3616.391,
+      "sourceText": "Oui,",
+      "ipa": "[wi]",
+      "ear": "乌伊",
+      "meaning": "是的。",
+      "suppliedText": "Oui,",
+      "sourceLineId": "romeo-timed-336-58",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3615,
+        "sourceLineNumber": 336,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3616.913,
+      "sourceText": "Nourrice.",
+      "ipa": "[nuʁis]",
+      "ear": "努希斯",
+      "meaning": "奶妈。",
+      "suppliedText": "Nourrice.",
+      "sourceLineId": "romeo-timed-336-59",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3615,
+        "sourceLineNumber": 336,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3617.609,
+      "sourceText": "Tu diras à Juliette qu’elle me rejoigne chez",
+      "ipa": "[ty diʁa a ʒyljɛt kɛl mə ʁəʒwaɲ ʃe]",
+      "ear": "蒂于 迪哈 阿 日于勒耶艾特 凯勒 默 赫日乌阿涅 谢",
+      "meaning": "告诉朱丽叶，让她来神父那里找我。",
+      "suppliedText": "Tu diras à Juliette qu’elle me rejoigne chez",
+      "sourceLineId": "romeo-timed-336-60",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3615,
+        "sourceLineNumber": 336,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3620.565,
+      "sourceText": "Frère Laurent et qu’il nous mariera.",
+      "ipa": "[fʁɛʁ loʁɑ̃ e kil nu maʁiʁa]",
+      "ear": "弗赫赫 洛杭 诶 基勒 努 玛希哈",
+      "meaning": "劳伦斯神父会为我们主持婚礼。",
+      "suppliedText": "Frère Laurent et qu’il nous mariera.",
+      "sourceLineId": "romeo-timed-336-61",
+      "speaker": "Roméo",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3615,
+        "sourceLineNumber": 336,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3623,
+      "sourceText": "Je lui dirais, Roméo !",
+      "ipa": "[ʒə lɥi diʁɛ ʁomeo]",
+      "ear": "热 勒于伊 迪赫 霍梅奥",
+      "meaning": "我会告诉她的，罗密欧！",
+      "suppliedText": "Je lui dirais, Roméo !",
+      "sourceLineId": "romeo-timed-337-62",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3623,
+        "sourceLineNumber": 337,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3626.971,
+      "sourceText": "Je lui dirais !",
+      "ipa": "[ʒə lɥi diʁɛ]",
+      "ear": "热 勒于伊 迪赫",
+      "meaning": "我会告诉她！",
+      "suppliedText": "Je lui dirais !",
+      "sourceLineId": "romeo-timed-337-63",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3623,
+        "sourceLineNumber": 337,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3629.618,
+      "sourceText": "Ce sera le plus beau jour de votre vie !",
+      "ipa": "[sə səʁa lə ply bo ʒuʁ də votʁ vi]",
+      "ear": "瑟 瑟哈 勒 普吕 博 茹赫 德 沃特赫 维",
+      "meaning": "那会是你们一生中最美好的一天！",
+      "suppliedText": "Ce sera le plus beau jour de votre vie !",
+      "sourceLineId": "romeo-timed-337-64",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3623,
+        "sourceLineNumber": 337,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3636.235,
+      "sourceText": "De ma vie !",
+      "ipa": "[də ma vi]",
+      "ear": "德 玛 维",
+      "meaning": "也是我一生中最美好的一天！",
+      "suppliedText": "De ma vie !",
+      "sourceLineId": "romeo-timed-337-65",
+      "speaker": "Nourrice",
+      "timing": {
+        "method": "supplied-timestamp-subdivision",
+        "anchorStart": 3623,
+        "sourceLineNumber": 337,
+        "precision": "approximate"
+      }
+    }
+  ]
+}
