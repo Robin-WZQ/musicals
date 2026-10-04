@@ -1,5 +1,5 @@
-import { musicalURL, learningURL, tracksFor, statusLabel } from './library.mjs?v=20261004-3';
-import { fetchData } from './data.mjs?v=20261004-3';
+import { musicalURL, learningURL, tracksFor, statusLabel } from './library.mjs?v=20261004-4';
+import { fetchData } from './data.mjs?v=20261004-4';
 const $ = id => document.getElementById(id);
 const node = (tag, cls, text) => { const el = document.createElement(tag); if (cls) el.className = cls; if (text) el.textContent = text; return el; };
 async function json(url) { const response = await fetchData(url); if (!response.ok) throw new Error('曲目库暂时无法读取，请刷新重试。'); return response.json(); }
@@ -31,8 +31,6 @@ if (document.body.dataset.view === 'gallery' && old.searchParams.has('v')) {
       const tracks = tracksFor(musical, catalog);
       const ready = tracks.filter(t => t.captionStatus === 'ready').length;
       $('track-count').textContent = `${tracks.length} 首曲目 · ${ready} 首可逐句学习`;
-      const corrected = tracks.filter(t => t.textReviewStatus === 'cross-checked').length;
-      $('caption-disclosure').textContent = `按原播放列表顺序收录 ${tracks.length} 个视频。${corrected ? `${corrected} 个已交叉校正法语文字并重写中文释义；新分句的播放位置仍为近似值。` : ''}${tracks.length - ready ? `${tracks.length - ready} 个暂缺法语字幕。` : ''}${musical.id === 'le-rouge-et-le-noir' ? '原列表末项曲名有误，现已更正为《爱情的诅咒 · 宣传 MV》，保留旧名“总有一天”供搜索。' : ''}`;
       let saved = []; try { saved = JSON.parse(localStorage.getItem('musicals-saved') || '[]'); } catch {}
       let last = ''; try { last = localStorage.getItem(`musicals-last-${musical.id}`) || ''; } catch {}
       if (tracks.some(t => t.id === last)) { $('continue-study').href = learningURL(last); $('continue-study').hidden = false; }

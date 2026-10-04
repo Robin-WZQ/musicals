@@ -1,7 +1,7 @@
-import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.mjs?v=20261004-3';
-import { attachStudyNotes } from './study.mjs?v=20261004-3';
-import { musicalURL, learningURL, tracksFor } from './library.mjs?v=20261004-3';
-import { fetchData } from './data.mjs?v=20261004-3';
+import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.mjs?v=20261004-4';
+import { attachStudyNotes } from './study.mjs?v=20261004-4';
+import { musicalURL, learningURL, tracksFor } from './library.mjs?v=20261004-4';
+import { fetchData } from './data.mjs?v=20261004-4';
 
 const $ = id => document.getElementById(id);
 let catalog = [], musicals = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
@@ -58,6 +58,22 @@ function setSpeeds() {
   $('speed').value = speeds.includes(previous) ? previous : 1;
   player.setPlaybackRate(Number($('speed').value));
 }
+function centerLyric(pane, line) {
+  const paneRect = pane.getBoundingClientRect();
+  const lineRect = line.getBoundingClientRect();
+  const top = pane.scrollTop + lineRect.top - paneRect.top - pane.clientTop
+    + lineRect.height / 2 - pane.clientHeight / 2;
+  pane.scrollTo({ top, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth' });
+}
+function resizeLyricSpace() {
+  const pane = $('lyrics');
+  // Leave enough room to center the first and last lines as well.
+  pane.style.paddingBlock = `${pane.clientHeight / 2}px`;
+  if (following && active >= 0) updateSelection(active, true);
+}
+if ('ResizeObserver' in window) new ResizeObserver(resizeLyricSpace).observe($('lyrics'));
+else window.addEventListener('resize', resizeLyricSpace);
+resizeLyricSpace();
 function updateSelection(index, scroll = false) {
   for (const node of $('lyrics').querySelectorAll('.active')) { node.classList.remove('active'); node.removeAttribute('aria-current'); }
   active = index;
@@ -65,8 +81,7 @@ function updateSelection(index, scroll = false) {
   if (line) {
     line.classList.add('active'); line.setAttribute('aria-current', 'true');
     if (scroll && following) {
-      const pane = $('lyrics');
-      pane.scrollTo({ top: line.offsetTop - pane.offsetTop - pane.clientHeight / 2 + line.clientHeight / 2, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth' });
+      centerLyric($('lyrics'), line);
     }
     $('current-line').textContent = `${index + 1} / ${cues.length} 句`;
   } else $('current-line').textContent = cues.length ? `共 ${cues.length} 句` : '暂无字幕';
@@ -280,9 +295,9 @@ $('next').onclick = () => playCue(Math.min(cues.length - 1, (active >= 0 ? activ
 $('repeat').onclick = () => { repeating = !repeating; pressed('repeat', repeating); if (repeating) playCue(active >= 0 ? active : selected >= 0 ? selected : 0); else boundary = sentenceMode && selected >= 0 ? cues[selected].end : null; };
 $('sentence-mode').onclick = () => { sentenceMode = !sentenceMode; pressed('sentence-mode', sentenceMode); if (sentenceMode && active >= 0) selected = active; boundary = (sentenceMode || repeating) && selected >= 0 ? cues[selected].end : null; };
 $('follow').onclick = () => { following = !following; pressed('follow', following); if (following && active >= 0) updateSelection(active, true); };
-$('translation').onchange = () => $('lyrics').classList.toggle('hide-translations', !$('translation').checked);
-$('ipa-toggle').onclick = () => { const hidden = $('lyrics').classList.toggle('hide-ipa'); pressed('ipa-toggle', !hidden); };
-$('ear-toggle').onclick = () => { const hidden = $('lyrics').classList.toggle('hide-ear'); pressed('ear-toggle', !hidden); };
+$('translation').onchange = () => { $('lyrics').classList.toggle('hide-translations', !$('translation').checked); if (following && active >= 0) updateSelection(active, true); };
+$('ipa-toggle').onclick = () => { const hidden = $('lyrics').classList.toggle('hide-ipa'); pressed('ipa-toggle', !hidden); if (following && active >= 0) updateSelection(active, true); };
+$('ear-toggle').onclick = () => { const hidden = $('lyrics').classList.toggle('hide-ear'); pressed('ear-toggle', !hidden); if (following && active >= 0) updateSelection(active, true); };
 $('description-toggle').onclick = () => { const expanded = $('song-description').classList.toggle('expanded'); $('description-toggle').textContent = expanded ? '收起介绍 ↑' : '展开介绍 ↓'; };
 $('info-toggle').onclick = () => { const expanded = document.querySelector('.sidebar').classList.toggle('info-expanded'); pressed('info-toggle', expanded || innerWidth > 720); };
 for (const id of ['artist', 'album']) $(id).addEventListener('click', () => {
