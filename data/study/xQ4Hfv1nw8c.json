@@ -1,0 +1,730 @@
+{
+  "videoId": "xQ4Hfv1nw8c",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6542"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 6554,
+      "sourceText": "Dieu que le monde est injuste",
+      "ipa": "[djø kə lə mɔ̃d‿ɛt‿ɛ̃ʒyst]",
+      "ear": "德耶厄 克 勒 蒙德 艾特 安日于斯特",
+      "meaning": "老天爷真是不公平啊",
+      "sourceIPA": "/djø kə lə mɔ̃d ɛt ɛ̃ʒyst/",
+      "sourceLineId": "notre-dame-de-paris-45-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6554,
+        "similarity": 0.639,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6558.5,
+      "sourceText": "Lui si beau et moi si laid",
+      "ipa": "[lɥi si bo e mwa si lɛd]",
+      "ear": "勒于伊 西 博 诶 姆乌阿 西 莱德",
+      "meaning": "他那么帅，我却这么丑",
+      "sourceIPA": "/lɥi si bo e mwa si lɛd/",
+      "sourceLineId": "notre-dame-de-paris-45-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6554,
+        "similarity": 0.639,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6563,
+      "sourceText": "Je te donnerais la lune",
+      "ipa": "[ʒə tə dɔnʁɛ la lyn]",
+      "ear": "热 特 多恩赫 拉 吕恩",
+      "meaning": "即使我把天上的月亮给你摘下来",
+      "sourceIPA": "/ʒə tə dɔnʁɛ la lyn/",
+      "sourceLineId": "notre-dame-de-paris-45-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6563,
+        "similarity": 0.503,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6566.692,
+      "sourceText": "Tu ne voudrais pas m'aimer",
+      "ipa": "[ty nə vudʁɛ pa mɛme]",
+      "ear": "蒂于 讷 乌德赫 帕 梅梅",
+      "meaning": "也没什么用",
+      "sourceIPA": "/ty nə vudʁɛ pa mɛme/",
+      "sourceLineId": "notre-dame-de-paris-45-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6563,
+        "similarity": 0.503,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6571,
+      "sourceText": "Et lui sans faire un seul geste",
+      "ipa": "[e lɥi sɑ̃ fɛʁ‿œ̃ sœl ʒɛst]",
+      "ear": "诶 勒于伊 桑 费赫 恩 瑟厄勒 热斯特",
+      "meaning": "而他什么也不用说，不用做",
+      "sourceIPA": "/e lɥi sɑ̃ fɛʁ œ̃ sœl ʒɛst/",
+      "sourceLineId": "notre-dame-de-paris-45-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6571,
+        "similarity": 0.602,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6575.5,
+      "sourceText": "Sans un mot sans un regard",
+      "ipa": "[sɑ̃ œ̃ mo sɑ̃ œ̃ ʁəɡaʁ]",
+      "ear": "桑 恩 莫 桑 恩 赫嘎赫",
+      "meaning": "甚至连一个充满爱意的眼神也不需要",
+      "sourceIPA": "/sɑ̃z œ̃ mo sɑ̃z œ̃ ʁəɡaʁ/",
+      "sourceLineId": "notre-dame-de-paris-45-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6571,
+        "similarity": 0.602,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6580,
+      "sourceText": "Il a mis de la tendresse",
+      "ipa": "[il‿a mi də la tɑ̃dʁɛs]",
+      "ear": "伊勒 阿 米 德 拉 唐德赫斯",
+      "meaning": "他已将温柔注入",
+      "sourceIPA": "/il a mi də la tɑ̃dʁɛs/",
+      "sourceLineId": "notre-dame-de-paris-45-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6580,
+        "similarity": 0.781,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6584.5,
+      "sourceText": "Au fond de tes grands yeux noirs",
+      "ipa": "[o fɔ̃ də te ɡʁɑ̃z‿jø nwaʁ]",
+      "ear": "奥 丰 德 特 格杭兹 耶厄 恩乌阿赫",
+      "meaning": "就已经蓄满了温柔",
+      "sourceIPA": "/o fɔ̃ də te ɡʁɑ̃z jø nwaʁ/",
+      "sourceLineId": "notre-dame-de-paris-45-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6580,
+        "similarity": 0.781,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6589,
+      "sourceText": "Tu lui donneras ton corps",
+      "ipa": "[ty lɥi dɔnʁa tɔ̃ kɔʁ]",
+      "ear": "蒂于 勒于伊 多恩哈 通 科赫",
+      "meaning": "你献出自己的身体",
+      "sourceIPA": "/ty lɥi dɔnʁa tɔ̃ kɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-45-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6589,
+        "similarity": 0.633,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6592.692,
+      "sourceText": "Tu croiras à ses serments",
+      "ipa": "[ty kʁwaʁa a se sɛʁmɑ̃]",
+      "ear": "蒂于 克赫乌阿哈 阿 塞 塞赫芒",
+      "meaning": "还对他的花言巧语深信不疑",
+      "sourceIPA": "/ty kʁwaʁaz a se sɛʁmɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-45-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6589,
+        "similarity": 0.633,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6597,
+      "sourceText": "Tu l'aimes pour le dehors",
+      "ipa": "[ty lɛm puʁ lə dəɔʁ]",
+      "ear": "蒂于 莱姆 普赫 勒 德哦赫",
+      "meaning": "你爱他的帅气",
+      "sourceIPA": "/ty lɛm puʁ lə dəɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-45-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6597,
+        "similarity": 0.764,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6600.857,
+      "sourceText": "Sans voir ce qu'il y a dedans",
+      "ipa": "[sɑ̃ vwaʁ sə kil‿i a dədɑ̃]",
+      "ear": "桑 弗乌阿赫 瑟 基勒 伊 阿 德当",
+      "meaning": "却不去深究内心",
+      "sourceIPA": "/sɑ̃ vwaʁ sə kil i a dədɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-45-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6597,
+        "similarity": 0.764,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6606,
+      "sourceText": "Dieu que le monde est injuste",
+      "ipa": "[djø kə lə mɔ̃d‿ɛt‿ɛ̃ʒyst]",
+      "ear": "德耶厄 克 勒 蒙德 艾特 安日于斯特",
+      "meaning": "老天爷真是不公平啊",
+      "sourceIPA": "/djø kə lə mɔ̃d ɛt ɛ̃ʒyst/",
+      "sourceLineId": "notre-dame-de-paris-45-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6606,
+        "similarity": 0.714,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6610.0,
+      "sourceText": "Lui seigneur et moi vaurien",
+      "ipa": "[lɥi sɛnjœʁ e mwa voʁjɛ̃]",
+      "ear": "勒于伊 塞恩耶厄赫 诶 姆乌阿 沃赫耶安",
+      "meaning": "他身份高贵，我却这么卑微",
+      "sourceIPA": "/lɥi sɛnjœʁ e mwa voʁjɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-45-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6606,
+        "similarity": 0.714,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6614,
+      "sourceText": "Il te donnera la lune",
+      "ipa": "[il tə dɔnʁa la lyn]",
+      "ear": "伊勒 特 多恩哈 拉 吕恩",
+      "meaning": "他给你摘了个月亮",
+      "sourceIPA": "/il tə dɔnʁa la lyn/",
+      "sourceLineId": "notre-dame-de-paris-45-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6614,
+        "similarity": 0.737,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6617.9,
+      "sourceText": "Toi qui ne demandais rien",
+      "ipa": "[twa ki nə dəmɑ̃dɛ ʁjɛ̃]",
+      "ear": "特乌阿 基 讷 德芒戴 赫耶安",
+      "meaning": "虽然你一无所求",
+      "sourceIPA": "/twa ki nə dəmɑ̃dɛ ʁjɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-45-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6614,
+        "similarity": 0.737,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6623,
+      "sourceText": "Dieu que le monde est injuste",
+      "ipa": "[djø kə lə mɔ̃d‿ɛt‿ɛ̃ʒyst]",
+      "ear": "德耶厄 克 勒 蒙德 艾特 安日于斯特",
+      "meaning": "老天爷真是不公平啊",
+      "sourceIPA": "/djø kə lə mɔ̃d ɛt ɛ̃ʒyst/",
+      "sourceLineId": "notre-dame-de-paris-45-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6623,
+        "similarity": 0.662,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6627.308,
+      "sourceText": "Aime ton beau cavalier",
+      "ipa": "[ɛm tɔ̃ bo kavalje]",
+      "ear": "艾姆 通 博 卡瓦勒耶诶",
+      "meaning": "爱你的骑士去吧",
+      "sourceIPA": "/ɛm tɔ̃ bo kavalje/",
+      "sourceLineId": "notre-dame-de-paris-45-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6623,
+        "similarity": 0.662,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6631,
+      "sourceText": "Le satin de ta peau brune",
+      "ipa": "[lə satɛ̃ də ta po bʁyn]",
+      "ear": "勒 萨坦 德 塔 波 布许恩",
+      "meaning": "你穿着精致的绸缎",
+      "sourceIPA": "/lə satɛ̃ də ta po bʁyn/",
+      "sourceLineId": "notre-dame-de-paris-45-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6631,
+        "similarity": 0.621,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6635.5,
+      "sourceText": "N'est pas pour les va-nu-pieds",
+      "ipa": "[nɛ pa puʁ le vanypje]",
+      "ear": "奈 帕 普赫 莱 瓦尼于普耶诶",
+      "meaning": "这样的你，我根本配不上啊",
+      "sourceIPA": "/nɛ pa puʁ le vanypje/",
+      "sourceLineId": "notre-dame-de-paris-45-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6631,
+        "similarity": 0.621,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6640,
+      "sourceText": "Ma laideur est une insulte",
+      "ipa": "[ma lɛdœʁ‿ɛt‿yn‿ɛ̃sylt]",
+      "ear": "玛 莱德厄赫 艾特 于恩 安西于勒特",
+      "meaning": "我的丑陋对你绝美的容颜来说",
+      "sourceIPA": "/ma lɛdœʁ ɛt yn ɛ̃sylt/",
+      "sourceLineId": "notre-dame-de-paris-45-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6640,
+        "similarity": 0.815,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6644.0,
+      "sourceText": "À ta beauté insolente",
+      "ipa": "[a ta bote ɛ̃solɑ̃t]",
+      "ear": "阿 塔 博特 安索朗特",
+      "meaning": "简直是一种冒犯",
+      "sourceIPA": "/a ta bote ɛ̃solɑ̃t/",
+      "sourceLineId": "notre-dame-de-paris-45-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6640,
+        "similarity": 0.815,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6648,
+      "sourceText": "Une erreur de la nature",
+      "ipa": "[yn‿ɛʁœʁ də la natyʁ]",
+      "ear": "于恩 艾赫厄赫 德 拉 纳蒂于赫",
+      "meaning": "造物主对我",
+      "sourceIPA": "/yn ɛʁœʁ də la natyʁ/",
+      "sourceLineId": "notre-dame-de-paris-45-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6648,
+        "similarity": 0.47,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6652.55,
+      "sourceText": "Qui ne me fut pas aimante",
+      "ipa": "[ki nə mə fy pa ɛmɑ̃t]",
+      "ear": "基 讷 默 菲于 帕 艾芒特",
+      "meaning": "没有一丝怜悯",
+      "sourceIPA": "/ki nə mə fy paz ɛmɑ̃t/",
+      "sourceLineId": "notre-dame-de-paris-45-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6648,
+        "similarity": 0.47,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6658,
+      "sourceText": "Dieu que le monde est injuste",
+      "ipa": "[djø kə lə mɔ̃d‿ɛt‿ɛ̃ʒyst]",
+      "ear": "德耶厄 克 勒 蒙德 艾特 安日于斯特",
+      "meaning": "人生何其不公平",
+      "sourceIPA": "/djø kə lə mɔ̃d ɛt ɛ̃ʒyst/",
+      "sourceLineId": "notre-dame-de-paris-45-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6658,
+        "similarity": 0.869,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6662.308,
+      "sourceText": "Notre lot n'est pas le leur",
+      "ipa": "[notʁ lo nɛ pa lə løʁ]",
+      "ear": "诺特赫 洛 奈 帕 勒 勒厄赫",
+      "meaning": "每个人的命运都不相同",
+      "sourceIPA": "/notʁ lo nɛ pa lə løʁ/",
+      "sourceLineId": "notre-dame-de-paris-45-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6658,
+        "similarity": 0.869,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6666,
+      "sourceText": "Nous n'avons pas de fortune",
+      "ipa": "[nu navɔ̃ pa də fɔʁtyn]",
+      "ear": "努 纳翁 帕 德 佛赫蒂于恩",
+      "meaning": "有的人缺少幸运",
+      "sourceIPA": "/nu navɔ̃ pa də fɔʁtyn/",
+      "sourceLineId": "notre-dame-de-paris-45-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6666,
+        "similarity": 0.507,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6670.5,
+      "sourceText": "Mais eux, ont-ils donc un cœur",
+      "ipa": "[mɛ ø ɔ̃til dɔ̃k‿œ̃ kœʁ]",
+      "ear": "梅 厄 翁蒂勒 东克 恩 克厄赫",
+      "meaning": "有的人缺少真心",
+      "sourceIPA": "/mɛz ø ɔ̃til dɔ̃k œ̃ kœʁ/",
+      "sourceLineId": "notre-dame-de-paris-45-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6666,
+        "similarity": 0.507,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6675,
+      "sourceText": "Ils sont nés dans la dentelle",
+      "ipa": "[il sɔ̃ ne dɑ̃ la dɑ̃tɛl]",
+      "ear": "伊勒 松 内 当 拉 当泰勒",
+      "meaning": "幸运的人生来就可以",
+      "sourceIPA": "/il sɔ̃ ne dɑ̃ la dɑ̃tɛl/",
+      "sourceLineId": "notre-dame-de-paris-45-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6675,
+        "similarity": 0.887,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6679.0,
+      "sourceText": "Pour faire l'amour et la guerre",
+      "ipa": "[puʁ fɛʁ lamuʁ e la ɡɛʁ]",
+      "ear": "普赫 费赫 拉穆赫 诶 拉 盖赫",
+      "meaning": "轻易的享有爱情和战斗",
+      "sourceIPA": "/puʁ fɛʁ lamuʁ e la ɡɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-45-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6675,
+        "similarity": 0.887,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6683,
+      "sourceText": "Mais nous pauvres vers de terre",
+      "ipa": "[mɛ nu povʁ vɛʁ də tɛʁ]",
+      "ear": "梅 努 波弗赫 韦赫 德 泰赫",
+      "meaning": "而像我一样的蝼蚁",
+      "sourceIPA": "/mɛ nu povʁ vɛʁ də tɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-45-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6683,
+        "similarity": 0.53,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6686.9,
+      "sourceText": "Notre vie est bien plus belle",
+      "ipa": "[notʁ vi ɛ bjɛ̃ ply bɛl]",
+      "ear": "诺特赫 维 艾 布耶安 普吕 贝勒",
+      "meaning": "却只能奢望拥有更美的身体和生存而已",
+      "sourceIPA": "/notʁ vi ɛ bjɛ̃ ply bɛl/",
+      "sourceLineId": "notre-dame-de-paris-45-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6683,
+        "similarity": 0.53,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6691,
+      "sourceText": "Mais de quel côté est Dieu",
+      "ipa": "[mɛ də kɛl kote ɛ djø]",
+      "ear": "梅 德 凯勒 科特 艾 德耶厄",
+      "meaning": "上帝究竟是站在",
+      "sourceIPA": "/mɛ də kɛl kote ɛ djø/",
+      "sourceLineId": "notre-dame-de-paris-45-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6691,
+        "similarity": 0.795,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6695.5,
+      "sourceText": "Du côté des ostensoirs",
+      "ipa": "[dy kote dez‿ɔstɑ̃swaʁ]",
+      "ear": "迪于 科特 德兹 哦斯唐斯乌阿赫",
+      "meaning": "高高的祭坛上漠视众生",
+      "sourceIPA": "/dy kote dez ɔstɑ̃swaʁ/",
+      "sourceLineId": "notre-dame-de-paris-45-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6691,
+        "similarity": 0.795,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6700,
+      "sourceText": "Ou bien du côté de ceux",
+      "ipa": "[u bjɛ̃ dy kote də sø]",
+      "ear": "乌 布耶安 迪于 科特 德 瑟厄",
+      "meaning": "还是会站在",
+      "sourceIPA": "/u bjɛ̃ dy kote də sø/",
+      "sourceLineId": "notre-dame-de-paris-45-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6700,
+        "similarity": 0.819,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6704.0,
+      "sourceText": "Qui le prient matin et soir",
+      "ipa": "[ki lə pʁi matɛ̃ e swaʁ]",
+      "ear": "基 勒 普希 玛坦 诶 斯乌阿赫",
+      "meaning": "日夜虔诚祈祷的人们的身边呢",
+      "sourceIPA": "/ki lə pʁi matɛ̃ e swaʁ/",
+      "sourceLineId": "notre-dame-de-paris-45-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6700,
+        "similarity": 0.819,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6708,
+      "sourceText": "Ce Jésus que l'on adore",
+      "ipa": "[sə ʒezy kə lɔ̃ adɔʁ]",
+      "ear": "瑟 热齐于 克 隆 阿多赫",
+      "meaning": "我们崇敬的耶稣",
+      "sourceIPA": "/sə ʒezy kə lɔ̃n adɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-45-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6708,
+        "similarity": 0.696,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6712.0,
+      "sourceText": "A-t-il toujours préféré",
+      "ipa": "[atil tuʒuʁ pʁefeʁe]",
+      "ear": "阿蒂勒 图茹赫 普赫费赫",
+      "meaning": "他所爱的究竟是",
+      "sourceIPA": "/atil tuʒuʁ pʁefeʁe/",
+      "sourceLineId": "notre-dame-de-paris-45-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6708,
+        "similarity": 0.696,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6716,
+      "sourceText": "Les Rois Mages avec leur or",
+      "ipa": "[le ʁwa maʒ‿avɛk lœʁ‿ɔʁ]",
+      "ear": "莱 赫乌阿 玛日 阿韦克 勒厄赫 哦赫",
+      "meaning": "三王的献金",
+      "sourceIPA": "/le ʁwa maʒ avɛk lœʁ ɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-45-039",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6716,
+        "similarity": 0.915,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6720.55,
+      "sourceText": "À nous autres pauvres bergers",
+      "ipa": "[a nuz‿otʁ povʁ bɛʁʒe]",
+      "ear": "阿 努兹 奥特赫 波弗赫 贝赫热",
+      "meaning": "还是贫穷的乞丐？",
+      "sourceIPA": "/a nuz otʁ povʁ bɛʁʒe/",
+      "sourceLineId": "notre-dame-de-paris-45-040",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6716,
+        "similarity": 0.915,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6726,
+      "sourceText": "Dieu que la vie est cruelle",
+      "ipa": "[djø kə la vi ɛ kʁyɛl]",
+      "ear": "德耶厄 克 拉 维 艾 克许艾勒",
+      "meaning": "生活对于两颗",
+      "sourceIPA": "/djø kə la vi ɛ kʁyɛl/",
+      "sourceLineId": "notre-dame-de-paris-45-041",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6726,
+        "similarity": 0.65,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6730.0,
+      "sourceText": "Pour deux cœurs qui se cherchaient",
+      "ipa": "[puʁ dø kœʁ ki sə ʃɛʁʃɛ]",
+      "ear": "普赫 德厄 克厄赫 基 瑟 谢赫谢",
+      "meaning": "彷徨无助的心是如此残酷",
+      "sourceIPA": "/puʁ dø kœʁ ki sə ʃɛʁʃɛ/",
+      "sourceLineId": "notre-dame-de-paris-45-042",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6726,
+        "similarity": 0.65,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6734,
+      "sourceText": "Moi si laid et toi si belle",
+      "ipa": "[mwa si lɛd e twa si bɛl]",
+      "ear": "姆乌阿 西 莱德 诶 特乌阿 西 贝勒",
+      "meaning": "我这么丑，你却那么漂亮",
+      "sourceIPA": "/mwa si lɛd e twa si bɛl/",
+      "sourceLineId": "notre-dame-de-paris-45-043",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6734,
+        "similarity": 0.786,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6738.55,
+      "sourceText": "Comment pourrais-tu m'aimer",
+      "ipa": "[kɔmɑ̃ puʁɛty mɛme]",
+      "ear": "科芒 普赫蒂于 梅梅",
+      "meaning": "我怎么可能获得你的爱情",
+      "sourceIPA": "/kɔmɑ̃ puʁɛty mɛme/",
+      "sourceLineId": "notre-dame-de-paris-45-044",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6734,
+        "similarity": 0.786,
+        "groupSize": 2
+      }
+    }
+  ]
+}

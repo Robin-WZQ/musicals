@@ -1,0 +1,1274 @@
+{
+  "videoId": "7rJl3vOWk0c",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6990"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 6996,
+      "sourceText": "Asile!",
+      "ipa": "[azil]",
+      "ear": "阿齐勒",
+      "meaning": "收容！",
+      "sourceIPA": "/azil/",
+      "sourceLineId": "notre-dame-de-paris-47-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6996,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6998.5,
+      "sourceText": "Asile!",
+      "ipa": "[azil]",
+      "ear": "阿齐勒",
+      "meaning": "收容！",
+      "sourceIPA": "/azil/",
+      "sourceLineId": "notre-dame-de-paris-47-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6996,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7004,
+      "sourceText": "Asile!",
+      "ipa": "[azil]",
+      "ear": "阿齐勒",
+      "meaning": "收容！",
+      "sourceIPA": "/azil/",
+      "sourceLineId": "notre-dame-de-paris-47-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7004,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7006.5,
+      "sourceText": "Asile!",
+      "ipa": "[azil]",
+      "ear": "阿齐勒",
+      "meaning": "收容！",
+      "sourceIPA": "/azil/",
+      "sourceLineId": "notre-dame-de-paris-47-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7004,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7010,
+      "sourceText": "Asile!",
+      "ipa": "[azil]",
+      "ear": "阿齐勒",
+      "meaning": "收容！",
+      "sourceIPA": "/azil/",
+      "sourceLineId": "notre-dame-de-paris-47-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7010,
+        "similarity": 0.666,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 7010.581,
+      "sourceText": "Soldat du roi, je vous exhorte",
+      "ipa": "[sɔlda dy ʁwa ʒə vuz‿ɛɡzɔʁt]",
+      "ear": "索勒达 迪于 赫乌阿 热 乌兹 艾格佐赫特",
+      "meaning": "国王的军人 我敦促你们",
+      "sourceIPA": "/sɔlda dy ʁwa ʒə vuz ɛɡzɔʁt/",
+      "sourceLineId": "notre-dame-de-paris-47-006",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7010,
+        "similarity": 0.666,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 7012.903,
+      "sourceText": "A franchir cette porte (Asile!)",
+      "ipa": "[a fʁɑ̃ʃiʁ sɛt pɔʁt‿azil]",
+      "ear": "阿 弗杭希赫 塞特 珀赫特 阿齐勒",
+      "meaning": "进入此门",
+      "sourceIPA": "/a fʁɑ̃ʃiʁ sɛt pɔʁt azil/",
+      "sourceLineId": "notre-dame-de-paris-47-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7010,
+        "similarity": 0.666,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 7014.935,
+      "sourceText": "En votre âme et conscience",
+      "ipa": "[ɑ̃ votʁ‿am e kɔ̃sjɑ̃s]",
+      "ear": "昂 沃特赫 阿姆 诶 孔斯耶昂斯",
+      "meaning": "以各位的灵魂与良知",
+      "sourceIPA": "/ɑ̃ votʁ am e kɔ̃sjɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-47-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7010,
+        "similarity": 0.666,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 7016.677,
+      "sourceText": "Au nom de la décence (Asile!)",
+      "ipa": "[o nɔ̃ də la desɑ̃s‿azil]",
+      "ear": "奥 农 德 拉 德桑斯 阿齐勒",
+      "meaning": "以正义之名义（收容！）",
+      "sourceIPA": "/o nɔ̃ də la desɑ̃s azil/",
+      "sourceLineId": "notre-dame-de-paris-47-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7010,
+        "similarity": 0.666,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 7019,
+      "sourceText": "Je vous donne le droit",
+      "ipa": "[ʒə vu dɔn lə dʁwa]",
+      "ear": "热 乌 多恩 勒 德赫乌阿",
+      "meaning": "我给予各位权力",
+      "sourceIPA": "/ʒə vu dɔn lə dʁwa/",
+      "sourceLineId": "notre-dame-de-paris-47-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7019,
+        "similarity": 0.802,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7022.25,
+      "sourceText": "D'enfreindre le droit (Asile!)",
+      "ipa": "[dɑ̃fʁɛ̃dʁ lə dʁwa azil]",
+      "ear": "当弗汉德赫 勒 德赫乌阿 阿齐勒",
+      "meaning": "剥夺他们的权利（收容！）",
+      "sourceIPA": "/dɑ̃fʁɛ̃dʁ lə dʁwa azil/",
+      "sourceLineId": "notre-dame-de-paris-47-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7019,
+        "similarity": 0.802,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7031,
+      "sourceText": "D'asile! (Asile!)",
+      "ipa": "[dazil azil]",
+      "ear": "达齐勒 阿齐勒",
+      "meaning": "他们要求的收容（收容！）",
+      "sourceIPA": "/dazil azil/",
+      "sourceLineId": "notre-dame-de-paris-47-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7031,
+        "similarity": 0.108,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 7032.75,
+      "sourceText": "À bas",
+      "ipa": "[a ba]",
+      "ear": "阿 巴",
+      "meaning": "滚开！",
+      "sourceIPA": "/a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-013",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7031,
+        "similarity": 0.108,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 7033.625,
+      "sourceText": "Ces sans-papiers",
+      "ipa": "[se sɑ̃papje]",
+      "ear": "塞 桑帕普耶诶",
+      "meaning": "非法移民",
+      "sourceIPA": "/se sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-47-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7031,
+        "similarity": 0.108,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 7035.375,
+      "sourceText": "À bas",
+      "ipa": "[a ba]",
+      "ear": "阿 巴",
+      "meaning": "滚开！",
+      "sourceIPA": "/a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7031,
+        "similarity": 0.108,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 7036.25,
+      "sourceText": "Ces va-nu-pieds",
+      "ipa": "[se vanypje]",
+      "ear": "塞 瓦尼于普耶诶",
+      "meaning": "无业游民",
+      "sourceIPA": "/se vanypje/",
+      "sourceLineId": "notre-dame-de-paris-47-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7031,
+        "similarity": 0.108,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 7038.0,
+      "sourceText": "À bas! À bas!",
+      "ipa": "[a ba a ba]",
+      "ear": "阿 巴 阿 巴",
+      "meaning": "滚开！滚开！",
+      "sourceIPA": "/a ba a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7031,
+        "similarity": 0.108,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 7039.75,
+      "sourceText": "À bas! Ces sans-papiers",
+      "ipa": "[a ba se sɑ̃papje]",
+      "ear": "阿 巴 塞 桑帕普耶诶",
+      "meaning": "滚开！非法移民",
+      "sourceIPA": "/a ba se sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-47-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7031,
+        "similarity": 0.108,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 7042.375,
+      "sourceText": "À bas! Ces va-nu-pieds",
+      "ipa": "[a ba se vanypje]",
+      "ear": "阿 巴 塞 瓦尼于普耶诶",
+      "meaning": "滚开！无业游民",
+      "sourceIPA": "/a ba se vanypje/",
+      "sourceLineId": "notre-dame-de-paris-47-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7031,
+        "similarity": 0.108,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 7059,
+      "sourceText": "À bas! À bas",
+      "ipa": "[a ba a ba]",
+      "ear": "阿 巴 阿 巴",
+      "meaning": "滚开！滚开！",
+      "sourceIPA": "/a ba a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7059,
+        "similarity": 0.494,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7059.973,
+      "sourceText": "Nous sommes des étrangers (À bas! Ces sans-papiers)",
+      "ipa": "[nu sɔm dez‿etʁɑ̃ʒe a ba se sɑ̃papje]",
+      "ear": "努 索姆 德兹 诶特杭热 阿 巴 塞 桑帕普耶诶",
+      "meaning": "我们是异乡人（滚开！非法移民）",
+      "sourceIPA": "/klopɛ̃ nu sɔm dez etʁɑ̃ʒe a ba se sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-47-021",
+      "speaker": "Clopin",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7059,
+        "similarity": 0.494,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7063.378,
+      "sourceText": "Des sans-papiers",
+      "ipa": "[de sɑ̃papje]",
+      "ear": "德 桑帕普耶诶",
+      "meaning": "是非法移民",
+      "sourceIPA": "/de sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-47-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7059,
+        "similarity": 0.494,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7064.351,
+      "sourceText": "Des hommes et des femmes sans domicile (À bas! Ces va-nu-pieds)",
+      "ipa": "[dez‿ɔm e de fam sɑ̃ domisil‿a ba se vanypje]",
+      "ear": "德兹 哦姆 诶 德 法姆 桑 多米西勒 阿 巴 塞 瓦尼于普耶诶",
+      "meaning": "男男女女无家可归（滚开！无业游民）",
+      "sourceIPA": "/dez ɔmz e de fam sɑ̃ domisil a ba se vanypje/",
+      "sourceLineId": "notre-dame-de-paris-47-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7059,
+        "similarity": 0.494,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7068,
+      "sourceText": "Oh! Notre-Dame et nous te demandons (À bas)",
+      "ipa": "[ɔ notʁdam e nu tə dəmɑ̃dɔ̃ a ba]",
+      "ear": "哦 诺特赫达姆 诶 努 特 德芒东 阿 巴",
+      "meaning": "啊，圣母！我们向你乞求— （滚开！）",
+      "sourceIPA": "/ɔ notʁdam e nu tə dəmɑ̃dɔ̃ a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7068,
+        "similarity": 0.513,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7071.882,
+      "sourceText": "Asile! Asile! (À bas)",
+      "ipa": "[azil azil a ba]",
+      "ear": "阿齐勒 阿齐勒 阿 巴",
+      "meaning": "收容！收容！（滚开！）",
+      "sourceIPA": "/azil azil a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7068,
+        "similarity": 0.513,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7074,
+      "sourceText": "Nous sommes des étrangers (À bas! Ces sans-papiers)",
+      "ipa": "[nu sɔm dez‿etʁɑ̃ʒe a ba se sɑ̃papje]",
+      "ear": "努 索姆 德兹 诶特杭热 阿 巴 塞 桑帕普耶诶",
+      "meaning": "我们是异乡人（滚开！非法移民）",
+      "sourceIPA": "/nu sɔm dez etʁɑ̃ʒe a ba se sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-47-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7074,
+        "similarity": 0.512,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7077.484,
+      "sourceText": "Des sans-papiers",
+      "ipa": "[de sɑ̃papje]",
+      "ear": "德 桑帕普耶诶",
+      "meaning": "是非法移民",
+      "sourceIPA": "/de sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-47-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7074,
+        "similarity": 0.512,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7078.645,
+      "sourceText": "Des hommes et des femmes (À bas! Ces va-nu-pieds)",
+      "ipa": "[dez‿ɔm e de fam‿a ba se vanypje]",
+      "ear": "德兹 哦姆 诶 德 法姆 阿 巴 塞 瓦尼于普耶诶",
+      "meaning": "男男女女（滚开！无业游民）",
+      "sourceIPA": "/dez ɔmz e de fam a ba se vanypje/",
+      "sourceLineId": "notre-dame-de-paris-47-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7074,
+        "similarity": 0.512,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7081.839,
+      "sourceText": "Sans domicile",
+      "ipa": "[sɑ̃ domisil]",
+      "ear": "桑 多米西勒",
+      "meaning": "无家可归",
+      "sourceIPA": "/sɑ̃ domisil/",
+      "sourceLineId": "notre-dame-de-paris-47-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7074,
+        "similarity": 0.512,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7083,
+      "sourceText": "Oh! Notre-Dame et nous te demandons (À bas)",
+      "ipa": "[ɔ notʁdam e nu tə dəmɑ̃dɔ̃ a ba]",
+      "ear": "哦 诺特赫达姆 诶 努 特 德芒东 阿 巴",
+      "meaning": "啊，圣母！我们向你乞求—（滚开！）",
+      "sourceIPA": "/ɔ notʁdam e nu tə dəmɑ̃dɔ̃ a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7083,
+        "similarity": 0.498,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7086.882,
+      "sourceText": "Asile! Asile! (À bas)",
+      "ipa": "[azil azil a ba]",
+      "ear": "阿齐勒 阿齐勒 阿 巴",
+      "meaning": "收容！收容！（滚开！）",
+      "sourceIPA": "/azil azil a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7083,
+        "similarity": 0.498,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7089,
+      "sourceText": "Nous sommes des étrangers (À bas! Ces sans-papiers)",
+      "ipa": "[nu sɔm dez‿etʁɑ̃ʒe a ba se sɑ̃papje]",
+      "ear": "努 索姆 德兹 诶特杭热 阿 巴 塞 桑帕普耶诶",
+      "meaning": "我们是异乡人（滚开！非法移民）",
+      "sourceIPA": "/nu sɔm dez etʁɑ̃ʒe a ba se sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-47-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7089,
+        "similarity": 0.5,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 7092.097,
+      "sourceText": "Des sans-papiers",
+      "ipa": "[de sɑ̃papje]",
+      "ear": "德 桑帕普耶诶",
+      "meaning": "是非法移民",
+      "sourceIPA": "/de sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-47-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7089,
+        "similarity": 0.5,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 7093.129,
+      "sourceText": "Des hommes et des femmes sans domicile (À bas! Ces va-nu-pieds)",
+      "ipa": "[dez‿ɔm e de fam sɑ̃ domisil‿a ba se vanypje]",
+      "ear": "德兹 哦姆 诶 德 法姆 桑 多米西勒 阿 巴 塞 瓦尼于普耶诶",
+      "meaning": "男男女女无家可归（滚开！无业游民）",
+      "sourceIPA": "/dez ɔmz e de fam sɑ̃ domisil a ba se vanypje/",
+      "sourceLineId": "notre-dame-de-paris-47-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7089,
+        "similarity": 0.5,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 7097,
+      "sourceText": "Oh! Notre-Dame et nous te demandons (À bas)",
+      "ipa": "[ɔ notʁdam e nu tə dəmɑ̃dɔ̃ a ba]",
+      "ear": "哦 诺特赫达姆 诶 努 特 德芒东 阿 巴",
+      "meaning": "啊，圣母！我们向你乞求—（滚开！）",
+      "sourceIPA": "/ɔ notʁdam e nu tə dəmɑ̃dɔ̃ a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7097,
+        "similarity": 0.498,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7100.882,
+      "sourceText": "Asile! Asile! (À bas)",
+      "ipa": "[azil azil a ba]",
+      "ear": "阿齐勒 阿齐勒 阿 巴",
+      "meaning": "收容！收容！（滚开！）",
+      "sourceIPA": "/azil azil a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7097,
+        "similarity": 0.498,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7103,
+      "sourceText": "Nous sommes des étrangers (À bas Ces sans-papiers)",
+      "ipa": "[nu sɔm dez‿etʁɑ̃ʒe a ba se sɑ̃papje]",
+      "ear": "努 索姆 德兹 诶特杭热 阿 巴 塞 桑帕普耶诶",
+      "meaning": "我们是异乡人（滚开！非法移民）",
+      "sourceIPA": "/nu sɔm dez etʁɑ̃ʒe a ba se sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-47-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7103,
+        "similarity": 0.499,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7106.484,
+      "sourceText": "Des sans-papiers",
+      "ipa": "[de sɑ̃papje]",
+      "ear": "德 桑帕普耶诶",
+      "meaning": "是非法移民",
+      "sourceIPA": "/de sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-47-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7103,
+        "similarity": 0.499,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7107.645,
+      "sourceText": "Des hommes et des femmes (À bas Ces va-nu-pieds)",
+      "ipa": "[dez‿ɔm e de fam‿a ba se vanypje]",
+      "ear": "德兹 哦姆 诶 德 法姆 阿 巴 塞 瓦尼于普耶诶",
+      "meaning": "男男女女（滚开！无业游民）",
+      "sourceIPA": "/dez ɔmz e de fam a ba se vanypje/",
+      "sourceLineId": "notre-dame-de-paris-47-039",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7103,
+        "similarity": 0.499,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7110.839,
+      "sourceText": "Sans domicile",
+      "ipa": "[sɑ̃ domisil]",
+      "ear": "桑 多米西勒",
+      "meaning": "无家可归",
+      "sourceIPA": "/sɑ̃ domisil/",
+      "sourceLineId": "notre-dame-de-paris-47-040",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7103,
+        "similarity": 0.499,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7112,
+      "sourceText": "Oh! Notre-Dame et nous te demandons (À bas)",
+      "ipa": "[ɔ notʁdam e nu tə dəmɑ̃dɔ̃ a ba]",
+      "ear": "哦 诺特赫达姆 诶 努 特 德芒东 阿 巴",
+      "meaning": "啊，圣母！我们向你乞求—（滚开！）",
+      "sourceIPA": "/ɔ notʁdam e nu tə dəmɑ̃dɔ̃ a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-041",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7112,
+        "similarity": 0.498,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7115.235,
+      "sourceText": "Asile! Asile! (À bas)",
+      "ipa": "[azil azil a ba]",
+      "ear": "阿齐勒 阿齐勒 阿 巴",
+      "meaning": "收容！收容！（滚开！）",
+      "sourceIPA": "/azil azil a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-042",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7112,
+        "similarity": 0.498,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7117,
+      "sourceText": "Nous sommes des étrangers (À bas Ces sans-papiers)",
+      "ipa": "[nu sɔm dez‿etʁɑ̃ʒe a ba se sɑ̃papje]",
+      "ear": "努 索姆 德兹 诶特杭热 阿 巴 塞 桑帕普耶诶",
+      "meaning": "我们是异乡人（滚开！非法移民）",
+      "sourceIPA": "/nu sɔm dez etʁɑ̃ʒe a ba se sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-47-043",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7117,
+        "similarity": 0.499,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7120.484,
+      "sourceText": "Des sans-papiers",
+      "ipa": "[de sɑ̃papje]",
+      "ear": "德 桑帕普耶诶",
+      "meaning": "是非法移民",
+      "sourceIPA": "/de sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-47-044",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7117,
+        "similarity": 0.499,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7121.645,
+      "sourceText": "Des hommes et des femmes (À bas Ces va-nu-pieds)",
+      "ipa": "[dez‿ɔm e de fam‿a ba se vanypje]",
+      "ear": "德兹 哦姆 诶 德 法姆 阿 巴 塞 瓦尼于普耶诶",
+      "meaning": "男男女女（滚开！无业游民）",
+      "sourceIPA": "/dez ɔmz e de fam a ba se vanypje/",
+      "sourceLineId": "notre-dame-de-paris-47-045",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7117,
+        "similarity": 0.499,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7124.839,
+      "sourceText": "Sans domicile",
+      "ipa": "[sɑ̃ domisil]",
+      "ear": "桑 多米西勒",
+      "meaning": "无家可归",
+      "sourceIPA": "/sɑ̃ domisil/",
+      "sourceLineId": "notre-dame-de-paris-47-046",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7117,
+        "similarity": 0.499,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7126,
+      "sourceText": "Oh! Notre-Dame et nous te demandons (À bas)",
+      "ipa": "[ɔ notʁdam e nu tə dəmɑ̃dɔ̃ a ba]",
+      "ear": "哦 诺特赫达姆 诶 努 特 德芒东 阿 巴",
+      "meaning": "啊，圣母！我们向你乞求—（滚开！）",
+      "sourceIPA": "/ɔ notʁdam e nu tə dəmɑ̃dɔ̃ a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-047",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7126,
+        "similarity": 0.498,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7133.15,
+      "sourceText": "Asile! Asile! (À bas)",
+      "ipa": "[azil azil a ba]",
+      "ear": "阿齐勒 阿齐勒 阿 巴",
+      "meaning": "收容！收容！（滚开！）",
+      "sourceIPA": "/azil azil a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-048",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7126,
+        "similarity": 0.498,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7140,
+      "sourceText": "Esméralda, je meurs",
+      "ipa": "[ɛsmeʁalda ʒə mœʁ]",
+      "ear": "艾斯梅哈勒达 热 默厄赫",
+      "meaning": "艾斯梅拉达，我已垂危",
+      "sourceIPA": "/klopɛ̃ ɛsmeʁalda ʒə mœʁ/",
+      "sourceLineId": "notre-dame-de-paris-47-049",
+      "speaker": "Clopin",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7140,
+        "similarity": 0.747,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7145.2,
+      "sourceText": "Oh ma petite sœur",
+      "ipa": "[ɔ ma pətit sœʁ]",
+      "ear": "哦 玛 珀蒂特 瑟厄赫",
+      "meaning": "啊！我的妹妹",
+      "sourceIPA": "/ɔ ma pətit sœʁ/",
+      "sourceLineId": "notre-dame-de-paris-47-050",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7140,
+        "similarity": 0.747,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7149,
+      "sourceText": "Au nom de tous tes frères",
+      "ipa": "[o nɔ̃ də tu te fʁɛʁ]",
+      "ear": "奥 农 德 图 特 弗赫赫",
+      "meaning": "以众兄弟之名",
+      "sourceIPA": "/o nɔ̃ də tu te fʁɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-47-051",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7149,
+        "similarity": 0.982,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7152.9,
+      "sourceText": "Écoute ma prière",
+      "ipa": "[ekut ma pʁiɛʁ]",
+      "ear": "诶库特 玛 普希艾赫",
+      "meaning": "聆听我的心声",
+      "sourceIPA": "/ekut ma pʁiɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-47-052",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7149,
+        "similarity": 0.982,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7158,
+      "sourceText": "Ici tu as grandi",
+      "ipa": "[isi ty a ɡʁɑ̃di]",
+      "ear": "伊西 蒂于 阿 格杭迪",
+      "meaning": "你在这里成长",
+      "sourceIPA": "/isi ty a ɡʁɑ̃di/",
+      "sourceLineId": "notre-dame-de-paris-47-053",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7158,
+        "similarity": 0.739,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7161.9,
+      "sourceText": "Ici c'est ton pays",
+      "ipa": "[isi sɛ tɔ̃ pɛi]",
+      "ear": "伊西 塞 通 佩伊",
+      "meaning": "这就是你的故乡",
+      "sourceIPA": "/isi sɛ tɔ̃ pɛi/",
+      "sourceLineId": "notre-dame-de-paris-47-054",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7158,
+        "similarity": 0.739,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7167,
+      "sourceText": "Clame-le à grands cris pour moi, Esméralda",
+      "ipa": "[klamlə a ɡʁɑ̃ kʁi puʁ mwa ɛsmeʁalda]",
+      "ear": "克拉姆勒 阿 格杭 克希 普赫 姆乌阿 艾斯梅哈勒达",
+      "meaning": "为我大声疾呼吧，艾斯梅拉达",
+      "sourceIPA": "/klamlə a ɡʁɑ̃ kʁi puʁ mwa ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-47-055",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7167,
+        "similarity": 0.584,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7197,
+      "sourceText": "Nous sommes des étrangers",
+      "ipa": "[nu sɔm dez‿etʁɑ̃ʒe]",
+      "ear": "努 索姆 德兹 诶特杭热",
+      "meaning": "我们是异乡人",
+      "sourceIPA": "/nu sɔm dez etʁɑ̃ʒe/",
+      "sourceLineId": "notre-dame-de-paris-47-056",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7197,
+        "similarity": 0.76,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7200.158,
+      "sourceText": "Des sans-papiers",
+      "ipa": "[de sɑ̃papje]",
+      "ear": "德 桑帕普耶诶",
+      "meaning": "是非法移民",
+      "sourceIPA": "/de sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-47-057",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7197,
+        "similarity": 0.76,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7202.263,
+      "sourceText": "Des hommes et des femmes",
+      "ipa": "[dez‿ɔm e de fam]",
+      "ear": "德兹 哦姆 诶 德 法姆",
+      "meaning": "男男女女",
+      "sourceIPA": "/dez ɔmz e de fam/",
+      "sourceLineId": "notre-dame-de-paris-47-058",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7197,
+        "similarity": 0.76,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7204.895,
+      "sourceText": "Sans domicile",
+      "ipa": "[sɑ̃ domisil]",
+      "ear": "桑 多米西勒",
+      "meaning": "无家可归",
+      "sourceIPA": "/sɑ̃ domisil/",
+      "sourceLineId": "notre-dame-de-paris-47-059",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7197,
+        "similarity": 0.76,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7207,
+      "sourceText": "Nous sommes des étrangers",
+      "ipa": "[nu sɔm dez‿etʁɑ̃ʒe]",
+      "ear": "努 索姆 德兹 诶特杭热",
+      "meaning": "我们是异乡人",
+      "sourceIPA": "/nu sɔm dez etʁɑ̃ʒe/",
+      "sourceLineId": "notre-dame-de-paris-47-060",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7207,
+        "similarity": 0.354,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 7208.8,
+      "sourceText": "Ils sont bien plus de mille",
+      "ipa": "[il sɔ̃ bjɛ̃ ply də mil]",
+      "ear": "伊勒 松 布耶安 普吕 德 米勒",
+      "meaning": "他们远不止一千人",
+      "sourceIPA": "/il sɔ̃ bjɛ̃ ply də mil/",
+      "sourceLineId": "notre-dame-de-paris-47-061",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7207,
+        "similarity": 0.354,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 7210.6,
+      "sourceText": "Des sans-papiers",
+      "ipa": "[de sɑ̃papje]",
+      "ear": "德 桑帕普耶诶",
+      "meaning": "无证移民",
+      "sourceIPA": "/de sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-47-062",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7207,
+        "similarity": 0.354,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 7211.8,
+      "sourceText": "Des hommes et des femmes (Aux portes de la ville)",
+      "ipa": "[dez‿ɔm e de fam‿o pɔʁt də la vil]",
+      "ear": "德兹 哦姆 诶 德 法姆 奥 珀赫特 德 拉 维勒",
+      "meaning": "男男女女（聚集在各个城门）",
+      "sourceIPA": "/dez ɔmz e de fam o pɔʁt də la vil/",
+      "sourceLineId": "notre-dame-de-paris-47-063",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7207,
+        "similarity": 0.354,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 7214.8,
+      "sourceText": "Sans domicile",
+      "ipa": "[sɑ̃ domisil]",
+      "ear": "桑 多米西勒",
+      "meaning": "无家可归",
+      "sourceIPA": "/sɑ̃ domisil/",
+      "sourceLineId": "notre-dame-de-paris-47-064",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7207,
+        "similarity": 0.354,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 7216,
+      "sourceText": "Nous sommes des étrangers (Et bientôt ils seront)",
+      "ipa": "[nu sɔm dez‿etʁɑ̃ʒe e bjɛ̃to il səʁɔ̃]",
+      "ear": "努 索姆 德兹 诶特杭热 诶 布耶安托 伊勒 瑟洪",
+      "meaning": "我们是异乡人（不久他们就会）",
+      "sourceIPA": "/nu sɔm dez etʁɑ̃ʒe e bjɛ̃to il səʁɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-47-065",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7216,
+        "similarity": 0.555,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7219.273,
+      "sourceText": "Des sans-papiers",
+      "ipa": "[de sɑ̃papje]",
+      "ear": "德 桑帕普耶诶",
+      "meaning": "是非法移民",
+      "sourceIPA": "/de sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-47-066",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7216,
+        "similarity": 0.555,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7220.364,
+      "sourceText": "Des hommes et des femmes (Dix mille et puis cent mille)(À bas)",
+      "ipa": "[dez‿ɔm e de fam di mil e pɥi sɑ̃ mil‿a ba]",
+      "ear": "德兹 哦姆 诶 德 法姆 迪 米勒 诶 普于伊 桑 米勒 阿 巴",
+      "meaning": "男男女女（沸腾成人山人海）（滚开！）",
+      "sourceIPA": "/dez ɔmz e de fam di mil e pɥi sɑ̃ mil a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-067",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7216,
+        "similarity": 0.555,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7223.909,
+      "sourceText": "Sans domicile",
+      "ipa": "[sɑ̃ domisil]",
+      "ear": "桑 多米西勒",
+      "meaning": "无家可归",
+      "sourceIPA": "/sɑ̃ domisil/",
+      "sourceLineId": "notre-dame-de-paris-47-068",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7216,
+        "similarity": 0.555,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7225,
+      "sourceText": "Nous sommes des étrangers (Le monde va changer)(À bas)",
+      "ipa": "[nu sɔm dez‿etʁɑ̃ʒe lə mɔ̃d va ʃɑ̃ʒe a ba]",
+      "ear": "努 索姆 德兹 诶特杭热 勒 蒙德 瓦 尚热 阿 巴",
+      "meaning": "我们是异乡人（世界即将改变）（滚开！）",
+      "sourceIPA": "/nu sɔm dez etʁɑ̃ʒe lə mɔ̃d va ʃɑ̃ʒe a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-069",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7225,
+        "similarity": 0.647,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7233,
+      "sourceText": "Des sans-papiers",
+      "ipa": "[de sɑ̃papje]",
+      "ear": "德 桑帕普耶诶",
+      "meaning": "是非法移民",
+      "sourceIPA": "/de sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-47-070",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7233,
+        "similarity": 0.235,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 7233.606,
+      "sourceText": "Des hommes et des femmes (Et va se mélanger)(À bas)",
+      "ipa": "[dez‿ɔm e de fam e va sə melɑ̃ʒe a ba]",
+      "ear": "德兹 哦姆 诶 德 法姆 诶 瓦 瑟 梅朗热 阿 巴",
+      "meaning": "男男女女（即将融合）（滚开！）",
+      "sourceIPA": "/dez ɔmz e de fam e va sə melɑ̃ʒe a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-071",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7233,
+        "similarity": 0.235,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 7235.576,
+      "sourceText": "Sans domicile",
+      "ipa": "[sɑ̃ domisil]",
+      "ear": "桑 多米西勒",
+      "meaning": "无家可归",
+      "sourceIPA": "/sɑ̃ domisil/",
+      "sourceLineId": "notre-dame-de-paris-47-072",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7233,
+        "similarity": 0.235,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 7236.182,
+      "sourceText": "Nous sommes des étrangers (Ils seront des millions)(À bas)",
+      "ipa": "[nu sɔm dez‿etʁɑ̃ʒe il səʁɔ̃ de miljɔ̃ a ba]",
+      "ear": "努 索姆 德兹 诶特杭热 伊勒 瑟洪 德 米勒耶翁 阿 巴",
+      "meaning": "我们是异乡人（他们将有数百万）（滚开！）",
+      "sourceIPA": "/nu sɔm dez etʁɑ̃ʒe il səʁɔ̃ de miljɔ̃ a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-073",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7233,
+        "similarity": 0.235,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 7238.303,
+      "sourceText": "Des sans-papiers",
+      "ipa": "[de sɑ̃papje]",
+      "ear": "德 桑帕普耶诶",
+      "meaning": "是非法移民",
+      "sourceIPA": "/de sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-47-074",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7233,
+        "similarity": 0.235,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 7238.909,
+      "sourceText": "Des hommes et des femmes (Qui te demanderont)(À bas)",
+      "ipa": "[dez‿ɔm e de fam ki tə dəmɑ̃dʁɔ̃ a ba]",
+      "ear": "德兹 哦姆 诶 德 法姆 基 特 德芒德洪 阿 巴",
+      "meaning": "男男女女（向你乞求）（滚开！）",
+      "sourceIPA": "/dez ɔmz e de fam ki tə dəmɑ̃dʁɔ̃ a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-075",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7233,
+        "similarity": 0.235,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 7240.727,
+      "sourceText": "Sans domicile",
+      "ipa": "[sɑ̃ domisil]",
+      "ear": "桑 多米西勒",
+      "meaning": "无家可归",
+      "sourceIPA": "/sɑ̃ domisil/",
+      "sourceLineId": "notre-dame-de-paris-47-076",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7233,
+        "similarity": 0.235,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 7241.333,
+      "sourceText": "Oh! Notre-Dame et nous te demandons (À bas)",
+      "ipa": "[ɔ notʁdam e nu tə dəmɑ̃dɔ̃ a ba]",
+      "ear": "哦 诺特赫达姆 诶 努 特 德芒东 阿 巴",
+      "meaning": "啊，圣母！我们向你乞求—（滚开！）",
+      "sourceIPA": "/ɔ notʁdam e nu tə dəmɑ̃dɔ̃ a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-077",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7233,
+        "similarity": 0.235,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 7243,
+      "sourceText": "Asile! Asile! (À bas)",
+      "ipa": "[azil azil a ba]",
+      "ear": "阿齐勒 阿齐勒 阿 巴",
+      "meaning": "收容！收容！（滚开！）",
+      "sourceIPA": "/azil azil a ba/",
+      "sourceLineId": "notre-dame-de-paris-47-078",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7243,
+        "similarity": 0.692,
+        "groupSize": 1
+      }
+    }
+  ]
+}

@@ -8,15 +8,126 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 21,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Ave Maria",
+      "start": 3220,
+      "duration": 5.0
+    },
+    {
+      "text": "Pardonne-moi",
+      "start": 3228,
+      "duration": 5.0
+    },
+    {
+      "text": "Si devant toi",
+      "start": 3237,
+      "duration": 2.6
+    },
+    {
+      "text": "Je me tiens debout",
+      "start": 3239.6,
+      "duration": 3.25
+    },
+    {
+      "text": "Ave Maria",
+      "start": 3252,
+      "duration": 1.875
+    },
+    {
+      "text": "Moi qui ne sais pas me mettre à genoux",
+      "start": 3253.875,
+      "duration": 6.25
+    },
+    {
+      "text": "Ave Maria",
+      "start": 3260.125,
+      "duration": 1.875
+    },
+    {
+      "text": "Protège-moi",
+      "start": 3271,
+      "duration": 5.0
+    },
+    {
+      "text": "De la misère, du mal et des fous",
+      "start": 3278,
+      "duration": 5.85
+    },
+    {
+      "text": "Qui règnent sur la terre",
+      "start": 3287,
+      "duration": 5.0
+    },
+    {
+      "text": "Ave Maria",
+      "start": 3300,
+      "duration": 5.0
+    },
+    {
+      "text": "Des étrangers il en vient de partout",
+      "start": 3307,
+      "duration": 6.5
+    },
+    {
+      "text": "Ave Maria",
+      "start": 3318,
+      "duration": 5.0
+    },
+    {
+      "text": "Écoute-moi",
+      "start": 3326,
+      "duration": 5.0
+    },
+    {
+      "text": "Fais tomber les barrières entre nous",
+      "start": 3333,
+      "duration": 5.2
+    },
+    {
+      "text": "Qui sommes tous des frères",
+      "start": 3342,
+      "duration": 3.25
+    },
+    {
+      "text": "Ave Maria",
+      "start": 3345.25,
+      "duration": 1.95
+    },
+    {
+      "text": "Veille sur mes jours et sur mes nuits",
+      "start": 3362,
+      "duration": 5.2
+    },
+    {
+      "text": "Ave Maria",
+      "start": 3372,
+      "duration": 5.0
+    },
+    {
+      "text": "Protège-moi",
+      "start": 3381,
+      "duration": 5.0
+    },
+    {
+      "text": "Veille sur mon amour et ma vie",
+      "start": 3388,
+      "duration": 5.2
+    },
+    {
+      "text": "Ave Maria",
+      "start": 3398,
+      "duration": 5.0
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=3213",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -124,6 +235,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

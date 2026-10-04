@@ -8,15 +8,76 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 27,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Fatalité",
+      "start": 4034,
+      "duration": 2.286
+    },
+    {
+      "text": "Maîtresse de nos destins",
+      "start": 4036.286,
+      "duration": 3.428
+    },
+    {
+      "text": "Fatalité",
+      "start": 4039.714,
+      "duration": 2.286
+    },
+    {
+      "text": "Quand tu croises nos chemins",
+      "start": 4042,
+      "duration": 2.824
+    },
+    {
+      "text": "Fatalité",
+      "start": 4044.824,
+      "duration": 1.882
+    },
+    {
+      "text": "Qu'on soit prince ou moins que rien",
+      "start": 4046.706,
+      "duration": 3.294
+    },
+    {
+      "text": "Fatalité",
+      "start": 4050,
+      "duration": 2.133
+    },
+    {
+      "text": "Qu'on soit reine ou bien putain",
+      "start": 4052.133,
+      "duration": 3.734
+    },
+    {
+      "text": "Fatalité",
+      "start": 4055.867,
+      "duration": 2.133
+    },
+    {
+      "text": "Tu tiens nos vies dans ta mains",
+      "start": 4058,
+      "duration": 4.053
+    },
+    {
+      "text": "Fatalité, fatalité",
+      "start": 4062.053,
+      "duration": 4.631
+    },
+    {
+      "text": "Fatalité",
+      "start": 4066.684,
+      "duration": 2.316
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=4031",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -64,6 +125,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

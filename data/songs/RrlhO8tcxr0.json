@@ -8,15 +8,71 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 3,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Monsieur Phoebus de Chateaupers",
+      "start": 487,
+      "duration": 2.0
+    },
+    {
+      "text": "Capitaine des archers du roi",
+      "start": 489.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Je vous ordonne de chasser",
+      "start": 491.0,
+      "duration": 1.75
+    },
+    {
+      "text": "tous ces hors-la-lois",
+      "start": 492.75,
+      "duration": 1.25
+    },
+    {
+      "text": "Il faut à tout prix empêcher cette cohorte d'étrangers",
+      "start": 494,
+      "duration": 3.63
+    },
+    {
+      "text": "De venir troubler la vie",
+      "start": 497.63,
+      "duration": 1.814
+    },
+    {
+      "text": "Du bon peuple de Paris",
+      "start": 499.444,
+      "duration": 1.556
+    },
+    {
+      "text": "à vos ordres Monseigneur l'Archidiacre",
+      "start": 501,
+      "duration": 4.765
+    },
+    {
+      "text": "Au nom de Dieu j'irai jusqu'au massacre",
+      "start": 505.765,
+      "duration": 5.294
+    },
+    {
+      "text": "Je vais chasser de votre vue",
+      "start": 511.059,
+      "duration": 3.706
+    },
+    {
+      "text": "Tous ces vauriens, tous ces tout-nus",
+      "start": 514.765,
+      "duration": 4.235
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=487",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -48,6 +104,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

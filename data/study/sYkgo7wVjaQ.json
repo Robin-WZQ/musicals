@@ -1,0 +1,874 @@
+{
+  "videoId": "sYkgo7wVjaQ",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=3717"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 3719,
+      "sourceText": "En haut de la rue St-Denis",
+      "ipa": "[ɑ̃ o də la ʁy sɛ̃dəni]",
+      "ear": "昂 奥 德 拉 许 森德尼",
+      "meaning": "在 St-Denis的街底",
+      "sourceIPA": "/ɑ̃ o də la ʁy sɛ̃dəni/",
+      "sourceLineId": "notre-dame-de-paris-26-001",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3719,
+        "similarity": 0.755,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3723.0,
+      "sourceText": "Il existe un endroit béni",
+      "ipa": "[il‿ɛɡzist‿œ̃n‿ɑ̃dʁwa beni]",
+      "ear": "伊勒 艾格齐斯特 恩恩 昂德赫乌阿 贝尼",
+      "meaning": "有个被祝福之地",
+      "sourceIPA": "/il ɛɡzist œ̃n ɑ̃dʁwa beni/",
+      "sourceLineId": "notre-dame-de-paris-26-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3719,
+        "similarity": 0.755,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3727,
+      "sourceText": "Dont on voit briller les bougies",
+      "ipa": "[dɔ̃ ɔ̃ vwa bʁije le buʒi]",
+      "ear": "东 翁 弗乌阿 布希耶诶 莱 布日",
+      "meaning": "夜晚总是",
+      "sourceIPA": "/dɔ̃t ɔ̃ vwa bʁije le buʒi/",
+      "sourceLineId": "notre-dame-de-paris-26-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3727,
+        "similarity": 0.579,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3731.667,
+      "sourceText": "Dès que vient la tombée du jour",
+      "ipa": "[dɛ kə vjɛ̃ la tɔ̃be dy ʒuʁ]",
+      "ear": "戴 克 弗耶安 拉 通贝 迪于 茹赫",
+      "meaning": "灯火通明",
+      "sourceIPA": "/dɛ kə vjɛ̃ la tɔ̃be dy ʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3727,
+        "similarity": 0.579,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3736.333,
+      "sourceText": "Là-bas au milieu de la plaine",
+      "ipa": "[laba o miljø də la plɛn]",
+      "ear": "拉巴 奥 米勒耶厄 德 拉 普莱恩",
+      "meaning": "那儿是沙漠中的绿洲",
+      "sourceIPA": "/labaz o miljø də la plɛn/",
+      "sourceLineId": "notre-dame-de-paris-26-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3727,
+        "similarity": 0.579,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3741,
+      "sourceText": "Il suffit qu'un jour on y vienne",
+      "ipa": "[il syfi kœ̃ ʒuʁ‿ɔ̃n‿i vjɛn]",
+      "ear": "伊勒 西于菲 坎 茹赫 翁恩 伊 弗耶艾恩",
+      "meaning": "去上一次就足以让你",
+      "sourceIPA": "/il syfi kœ̃ ʒuʁ ɔ̃n i vjɛn/",
+      "sourceLineId": "notre-dame-de-paris-26-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3741,
+        "similarity": 0.274,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3743.0,
+      "sourceText": "Pour que toujours on y revienne",
+      "ipa": "[puʁ kə tuʒuʁ‿ɔ̃n‿i ʁəvjɛn]",
+      "ear": "普赫 克 图茹赫 翁恩 伊 赫弗耶艾恩",
+      "meaning": "夜夜流连在",
+      "sourceIPA": "/puʁ kə tuʒuʁz ɔ̃n i ʁəvjɛn/",
+      "sourceLineId": "notre-dame-de-paris-26-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3741,
+        "similarity": 0.274,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3745.0,
+      "sourceText": "Au cabaret du Val d'Amour",
+      "ipa": "[o kabaʁɛ dy val damuʁ]",
+      "ear": "奥 卡巴赫 迪于 瓦勒 达穆赫",
+      "meaning": "爱之谷酒馆",
+      "sourceIPA": "/o kabaʁɛ dy val damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3741,
+        "similarity": 0.274,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3747.0,
+      "sourceText": "Au Val d'Amour",
+      "ipa": "[o val damuʁ]",
+      "ear": "奥 瓦勒 达穆赫",
+      "meaning": "爱之谷的",
+      "sourceIPA": "/o val damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3741,
+        "similarity": 0.274,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3748,
+      "sourceText": "Les femmes d'amour",
+      "ipa": "[le fam damuʁ]",
+      "ear": "莱 法姆 达穆赫",
+      "meaning": "女郎",
+      "sourceIPA": "/le fam damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3748,
+        "similarity": 0.544,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3749.8,
+      "sourceText": "Vous font l'amour",
+      "ipa": "[vu fɔ̃ lamuʁ]",
+      "ear": "乌 丰 拉穆赫",
+      "meaning": "几块钱就能陪你",
+      "sourceIPA": "/vu fɔ̃ lamuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3748,
+        "similarity": 0.544,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3751.6,
+      "sourceText": "Pour quelques sous",
+      "ipa": "[puʁ kɛlkə su]",
+      "ear": "普赫 凯勒克 苏",
+      "meaning": "一度春宵",
+      "sourceIPA": "/puʁ kɛlkə su/",
+      "sourceLineId": "notre-dame-de-paris-26-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3748,
+        "similarity": 0.544,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3753.4,
+      "sourceText": "Pas besoin d'or ou de bijoux",
+      "ipa": "[pa bəzwɛ̃ dɔʁ‿u də biʒu]",
+      "ear": "帕 伯兹乌安 多赫 乌 德 比茹",
+      "meaning": "无需金银珠宝",
+      "sourceIPA": "/pa bəzwɛ̃ dɔʁ u də biʒu/",
+      "sourceLineId": "notre-dame-de-paris-26-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3748,
+        "similarity": 0.544,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3757,
+      "sourceText": "Pas de discours ni de mots doux",
+      "ipa": "[pa də diskuʁ ni də mo du]",
+      "ear": "帕 德 迪斯库赫 尼 德 莫 杜",
+      "meaning": "不需要花言巧语",
+      "sourceIPA": "/pa də diskuʁ ni də mo du/",
+      "sourceLineId": "notre-dame-de-paris-26-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3757,
+        "similarity": 0.632,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3759.333,
+      "sourceText": "Que quelques sous pour faire l'amour",
+      "ipa": "[kə kɛlkə su puʁ fɛʁ lamuʁ]",
+      "ear": "克 凯勒克 苏 普赫 费赫 拉穆赫",
+      "meaning": "爱之谷的女郎",
+      "sourceIPA": "/kə kɛlkə su puʁ fɛʁ lamuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3757,
+        "similarity": 0.632,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3761.667,
+      "sourceText": "Aux femmes d'amour du Val d'Amour",
+      "ipa": "[o fam damuʁ dy val damuʁ]",
+      "ear": "奥 法姆 达穆赫 迪于 瓦勒 达穆赫",
+      "meaning": "几块钱就能和你一度春宵",
+      "sourceIPA": "/o fam damuʁ dy val damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3757,
+        "similarity": 0.632,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3764,
+      "sourceText": "Les Andalous, les Juifs, les Maures",
+      "ipa": "[lez‿ɑ̃dalu le ʒɥif le moʁ]",
+      "ear": "莱兹 昂达卢 莱 日于伊弗 莱 莫赫",
+      "meaning": "安达鲁人，犹太人，摩尔人",
+      "sourceIPA": "/lez ɑ̃dalu le ʒyif le moʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3764,
+        "similarity": 0.598,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3767.176,
+      "sourceText": "Viennent de partout de tous les ports",
+      "ipa": "[vjɛn də paʁtu də tu le pɔʁ]",
+      "ear": "弗耶艾恩 德 帕赫图 德 图 莱 珀赫",
+      "meaning": "各地的商旅们",
+      "sourceIPA": "/vjɛn də paʁtu də tu le pɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3764,
+        "similarity": 0.598,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3770,
+      "sourceText": "les voyageurs et les marchands",
+      "ipa": "[le vwajaʒœʁ e le maʁʃɑ̃]",
+      "ear": "莱 弗乌阿耶阿热厄赫 诶 莱 玛赫尚",
+      "meaning": "在此歇足",
+      "sourceIPA": "/le vwajaʒœʁz e le maʁʃɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-26-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3770,
+        "similarity": 0.699,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3773.0,
+      "sourceText": "Viennent s'y reposer en passant",
+      "ipa": "[vjɛn si ʁəpoze ɑ̃ pasɑ̃]",
+      "ear": "弗耶艾恩 西 赫波泽 昂 帕桑",
+      "meaning": "这南北",
+      "sourceIPA": "/vjɛn si ʁəpoze ɑ̃ pasɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-26-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3770,
+        "similarity": 0.699,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3776,
+      "sourceText": "Les Catalan et les Flamands",
+      "ipa": "[le katalɑ̃ e le flamɑ̃]",
+      "ear": "莱 卡塔朗 诶 莱 弗拉芒",
+      "meaning": "豪客的",
+      "sourceIPA": "/le katalɑ̃ e le flamɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-26-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3776,
+        "similarity": 0.479,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3781.2,
+      "sourceText": "Vont y flamber tout leur argent",
+      "ipa": "[vɔ̃ i flɑ̃be tu lœʁ‿aʁʒɑ̃]",
+      "ear": "翁 伊 弗朗贝 图 勒厄赫 阿赫让",
+      "meaning": "销金窑",
+      "sourceIPA": "/vɔ̃t i flɑ̃be tu lœʁ aʁʒɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-26-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3776,
+        "similarity": 0.479,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3789,
+      "sourceText": "Femmes d'amour qui m'écoutez",
+      "ipa": "[fam damuʁ ki mekute]",
+      "ear": "法姆 达穆赫 基 梅库特",
+      "meaning": "酒馆的女郎啊",
+      "sourceIPA": "/fam damuʁ ki mekute/",
+      "sourceLineId": "notre-dame-de-paris-26-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3789,
+        "similarity": 0.405,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3791.258,
+      "sourceText": "C'est le discours d'un troubadour",
+      "ipa": "[sɛ lə diskuʁ dœ̃ tʁubaduʁ]",
+      "ear": "塞 勒 迪斯库赫 丹 特胡巴杜赫",
+      "meaning": "听我这游吟诗人的吟唱",
+      "sourceIPA": "/sɛ lə diskuʁ dœ̃ tʁubaduʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3789,
+        "similarity": 0.405,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3793.839,
+      "sourceText": "Qui vient pleurer son mal d'amour",
+      "ipa": "[ki vjɛ̃ pløʁe sɔ̃ mal damuʁ]",
+      "ear": "基 弗耶安 普勒厄赫 松 玛勒 达穆赫",
+      "meaning": "吟唱我的相思",
+      "sourceIPA": "/ki vjɛ̃ pløʁe sɔ̃ mal damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3789,
+        "similarity": 0.405,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3796.419,
+      "sourceText": "Au cabaret du Val d'Amour",
+      "ipa": "[o kabaʁɛ dy val damuʁ]",
+      "ear": "奥 卡巴赫 迪于 瓦勒 达穆赫",
+      "meaning": "在爱之谷酒馆",
+      "sourceIPA": "/o kabaʁɛ dy val damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3789,
+        "similarity": 0.405,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3799,
+      "sourceText": "Battez tambour aux alentours",
+      "ipa": "[bate tɑ̃buʁ‿oz‿alɑ̃tuʁ]",
+      "ear": "巴特 唐布赫 奥兹 阿朗图赫",
+      "meaning": "敲起周遭的鼓",
+      "sourceIPA": "/bate tɑ̃buʁ oz alɑ̃tuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3799,
+        "similarity": 0.578,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3802.0,
+      "sourceText": "Que l'on accourt au Val d'Amour",
+      "ipa": "[kə lɔ̃ akuʁ‿o val damuʁ]",
+      "ear": "克 隆 阿库赫 奥 瓦勒 达穆赫",
+      "meaning": "我们快步走进爱之谷",
+      "sourceIPA": "/kə lɔ̃n akuʁ o val damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3799,
+        "similarity": 0.578,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3805.0,
+      "sourceText": "Pas de danger qu'on s'enamoure",
+      "ipa": "[pa də dɑ̃ʒe kɔ̃ sɑ̃namuʁ]",
+      "ear": "帕 德 当热 孔 桑纳穆赫",
+      "meaning": "绝无感情风险",
+      "sourceIPA": "/pa də dɑ̃ʒe kɔ̃ sɑ̃namuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3799,
+        "similarity": 0.578,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3808,
+      "sourceText": "Sous les atours du Val d'Amour",
+      "ipa": "[su lez‿atuʁ dy val damuʁ]",
+      "ear": "苏 莱兹 阿图赫 迪于 瓦勒 达穆赫",
+      "meaning": "在这盛装下的爱之谷",
+      "sourceIPA": "/su lez atuʁ dy val damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3808,
+        "similarity": 0.543,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3811.636,
+      "sourceText": "Vous trouverez sous le velours",
+      "ipa": "[vu tʁuvʁe su lə vəluʁ]",
+      "ear": "乌 特胡弗赫 苏 勒 弗卢赫",
+      "meaning": "在鹅绒被下你会发现",
+      "sourceIPA": "/vu tʁuvʁe su lə vəluʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3808,
+        "similarity": 0.543,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3814.818,
+      "sourceText": "Fleurs d'une nuit, bonheur d'un jour",
+      "ipa": "[flœʁ dyn nɥi bɔnœʁ dœ̃ ʒuʁ]",
+      "ear": "弗勒厄赫 迪于恩 恩于伊 博讷厄赫 丹 茹赫",
+      "meaning": "夜晚的花朵，白日的幸福",
+      "sourceIPA": "/flœʁ dyn nɥi bɔnœʁ dœ̃ ʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3808,
+        "similarity": 0.543,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3818,
+      "sourceText": "Quand j'ai le corps en mal d'amour",
+      "ipa": "[kɑ̃ ʒe lə kɔʁ‿ɑ̃ mal damuʁ]",
+      "ear": "康 热 勒 科赫 昂 玛勒 达穆赫",
+      "meaning": "当我患上相思",
+      "sourceIPA": "/kɑ̃ ʒe lə kɔʁ ɑ̃ mal damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-033",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3818,
+        "similarity": 0.399,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3823.2,
+      "sourceText": "Sitôt j'accours au Val d'Amour",
+      "ipa": "[sito ʒakuʁ‿o val damuʁ]",
+      "ear": "西托 扎库赫 奥 瓦勒 达穆赫",
+      "meaning": "我会来到爱之谷",
+      "sourceIPA": "/sito ʒakuʁz o val damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3818,
+        "similarity": 0.399,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3829,
+      "sourceText": "On n'en ressort qu'au petit jour du cabaret du Val d'Amour",
+      "ipa": "[ɔ̃ nɑ̃ ʁəsɔʁ ko pəti ʒuʁ dy kabaʁɛ dy val damuʁ]",
+      "ear": "翁 南 赫索赫 科 珀蒂 茹赫 迪于 卡巴赫 迪于 瓦勒 达穆赫",
+      "meaning": "在店里呆到天色欲曙",
+      "sourceIPA": "/ɔ̃ nɑ̃ ʁəsɔʁ ko pəti ʒuʁ dy kabaʁɛ dy val damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3829,
+        "similarity": 0.337,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3835.957,
+      "sourceText": "Mesdemoiselles excusez-moi",
+      "ipa": "[medmwazɛl‿ɛkskyzemwa]",
+      "ear": "梅德姆乌阿泽勒 艾克斯基于泽姆乌阿",
+      "meaning": "小姐们 对不起",
+      "sourceIPA": "/medmwazɛlz ɛkskyzemwa/",
+      "sourceLineId": "notre-dame-de-paris-26-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3829,
+        "similarity": 0.337,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3839,
+      "sourceText": "J'attends la belle Esméralda",
+      "ipa": "[ʒatɑ̃ la bɛl‿ɛsmeʁalda]",
+      "ear": "扎唐 拉 贝勒 艾斯梅哈勒达",
+      "meaning": "我等的是美丽的Esméralda",
+      "sourceIPA": "/ʒatɑ̃ la bɛl ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-26-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3839,
+        "similarity": 0.557,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3843.19,
+      "sourceText": "Elle a cru lire son destin",
+      "ipa": "[ɛl‿a kʁy liʁ sɔ̃ dɛstɛ̃]",
+      "ear": "艾勒 阿 克许 利赫 松 戴斯坦",
+      "meaning": "她的命运",
+      "sourceIPA": "/ɛl a kʁy liʁ sɔ̃ dɛstɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-26-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3839,
+        "similarity": 0.557,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3846.857,
+      "sourceText": "Entre les lignes de ma main",
+      "ipa": "[ɑ̃tʁ le linj də ma mɛ̃]",
+      "ear": "昂特赫 莱 利恩耶 德 玛 曼",
+      "meaning": "都印在我的掌纹里",
+      "sourceIPA": "/ɑ̃tʁ le linj də ma mɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-26-039",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3839,
+        "similarity": 0.557,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3850,
+      "sourceText": "Porte du Nord sur les Faubourgs",
+      "ipa": "[pɔʁt dy nɔʁ syʁ le fobuʁ]",
+      "ear": "珀赫特 迪于 诺赫 西于赫 莱 佛布赫",
+      "meaning": "在北门外的市郊",
+      "sourceIPA": "/pɔʁt dy nɔʁ syʁ le fobuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-040",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3850,
+        "similarity": 0.444,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3852.864,
+      "sourceText": "Au carrefour de Popincourt",
+      "ipa": "[o kaʁfuʁ də popɛ̃kuʁ]",
+      "ear": "奥 卡赫富赫 德 波潘库赫",
+      "meaning": "Popincourt的十字路",
+      "sourceIPA": "/o kaʁfuʁ də popɛ̃kuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-041",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3850,
+        "similarity": 0.444,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3855.727,
+      "sourceText": "Tous les voyous, tous les filous",
+      "ipa": "[tu le vwaju tu le filu]",
+      "ear": "图 莱 弗乌阿耶乌 图 莱 菲卢",
+      "meaning": "流氓和小偷们",
+      "sourceIPA": "/tu le vwaju tu le filu/",
+      "sourceLineId": "notre-dame-de-paris-26-042",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3850,
+        "similarity": 0.444,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3859,
+      "sourceText": "Ont rendez-vous au Val d'Amour",
+      "ipa": "[ɔ̃ ʁɑ̃devu o val damuʁ]",
+      "ear": "翁 杭德乌 奥 瓦勒 达穆赫",
+      "meaning": "都聚集在爱之谷",
+      "sourceIPA": "/ɔ̃ ʁɑ̃devuz o val damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-043",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3859,
+        "similarity": 0.482,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3860.806,
+      "sourceText": "Les gens de Cour s'y déshonorent",
+      "ipa": "[le ʒɑ̃ də kuʁ si dezonoʁ]",
+      "ear": "莱 让 德 库赫 西 德佐诺赫",
+      "meaning": "贵族们抛开颜面",
+      "sourceIPA": "/le ʒɑ̃ də kuʁ si dezonoʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-044",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3859,
+        "similarity": 0.482,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3862.613,
+      "sourceText": "On les voit saouls et ivres morts",
+      "ipa": "[ɔ̃ le vwa su e ivʁ mɔʁ]",
+      "ear": "翁 莱 弗乌阿 苏 诶 伊弗赫 莫赫",
+      "meaning": "在这里喝到烂醉",
+      "sourceIPA": "/ɔ̃ le vwa suz e ivʁ mɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-045",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3859,
+        "similarity": 0.482,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3864.194,
+      "sourceText": "Au Val d'Amour les femmes d'amour",
+      "ipa": "[o val damuʁ le fam damuʁ]",
+      "ear": "奥 瓦勒 达穆赫 莱 法姆 达穆赫",
+      "meaning": "爱之谷的女郎们",
+      "sourceIPA": "/o val damuʁ le fam damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-046",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3859,
+        "similarity": 0.482,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3866,
+      "sourceText": "Vous font l'amour pour quelques sous",
+      "ipa": "[vu fɔ̃ lamuʁ puʁ kɛlkə su]",
+      "ear": "乌 丰 拉穆赫 普赫 凯勒克 苏",
+      "meaning": "几块钱就能和你一度春宵",
+      "sourceIPA": "/vu fɔ̃ lamuʁ puʁ kɛlkə su/",
+      "sourceLineId": "notre-dame-de-paris-26-047",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3866,
+        "similarity": 0.519,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3870.0,
+      "sourceText": "Pas besoin d'or ou de bijoux",
+      "ipa": "[pa bəzwɛ̃ dɔʁ‿u də biʒu]",
+      "ear": "帕 伯兹乌安 多赫 乌 德 比茹",
+      "meaning": "无需金银珠宝",
+      "sourceIPA": "/pa bəzwɛ̃ dɔʁ u də biʒu/",
+      "sourceLineId": "notre-dame-de-paris-26-048",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3866,
+        "similarity": 0.519,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3874,
+      "sourceText": "Pas de discours ni de mots doux",
+      "ipa": "[pa də diskuʁ ni də mo du]",
+      "ear": "帕 德 迪斯库赫 尼 德 莫 杜",
+      "meaning": "不需要花言巧语",
+      "sourceIPA": "/pa də diskuʁ ni də mo du/",
+      "sourceLineId": "notre-dame-de-paris-26-049",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3874,
+        "similarity": 0.669,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3879.2,
+      "sourceText": "Que quelques sous pour faire l'amour",
+      "ipa": "[kə kɛlkə su puʁ fɛʁ lamuʁ]",
+      "ear": "克 凯勒克 苏 普赫 费赫 拉穆赫",
+      "meaning": "爱之谷的女郎",
+      "sourceIPA": "/kə kɛlkə su puʁ fɛʁ lamuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-050",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3874,
+        "similarity": 0.669,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3885,
+      "sourceText": "Aux femmes d'amour du Val d'Amour",
+      "ipa": "[o fam damuʁ dy val damuʁ]",
+      "ear": "奥 法姆 达穆赫 迪于 瓦勒 达穆赫",
+      "meaning": "几块钱就能和你一度春宵",
+      "sourceIPA": "/o fam damuʁ dy val damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-051",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3885,
+        "similarity": 0.328,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3890.2,
+      "sourceText": "Au cabaret du Val d'Amour",
+      "ipa": "[o kabaʁɛ dy val damuʁ]",
+      "ear": "奥 卡巴赫 迪于 瓦勒 达穆赫",
+      "meaning": "爱之谷酒馆",
+      "sourceIPA": "/o kabaʁɛ dy val damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-052",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3885,
+        "similarity": 0.328,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3895.4,
+      "sourceText": "Au cabaret du Val d'Amour",
+      "ipa": "[o kabaʁɛ dy val damuʁ]",
+      "ear": "奥 卡巴赫 迪于 瓦勒 达穆赫",
+      "meaning": "爱之谷酒馆",
+      "sourceIPA": "/o kabaʁɛ dy val damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-26-053",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3885,
+        "similarity": 0.328,
+        "groupSize": 3
+      }
+    }
+  ]
+}

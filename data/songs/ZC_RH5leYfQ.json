@@ -8,15 +8,196 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 8,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Le Pape Des Fous",
+      "start": 1302,
+      "duration": 1.63
+    },
+    {
+      "text": "Petites filles",
+      "start": 1303.63,
+      "duration": 1.222
+    },
+    {
+      "text": "Vous ne vous moquerez plus",
+      "start": 1304.852,
+      "duration": 2.444
+    },
+    {
+      "text": "Quand vous verrez dans la rue",
+      "start": 1307.296,
+      "duration": 2.852
+    },
+    {
+      "text": "Quasimodo le bossu",
+      "start": 1310.148,
+      "duration": 2.852
+    },
+    {
+      "text": "Ils m'ont élu",
+      "start": 1313,
+      "duration": 2.526
+    },
+    {
+      "text": "Le Pape des Fous",
+      "start": 1315.526,
+      "duration": 2.527
+    },
+    {
+      "text": "C'est aujourd'hui le jour de la fête des Rois",
+      "start": 1318.053,
+      "duration": 6.947
+    },
+    {
+      "text": "Et pour un jour cela me donne tous les droits",
+      "start": 1325,
+      "duration": 6.471
+    },
+    {
+      "text": "M'aimeras-tu",
+      "start": 1331.471,
+      "duration": 1.764
+    },
+    {
+      "text": "Esmeralda?",
+      "start": 1333.235,
+      "duration": 1.765
+    },
+    {
+      "text": "M'aimeras tu?",
+      "start": 1335,
+      "duration": 5.0
+    },
+    {
+      "text": "Mais tu t'en fous",
+      "start": 1345,
+      "duration": 2.857
+    },
+    {
+      "text": "Esmeralda",
+      "start": 1347.857,
+      "duration": 2.143
+    },
+    {
+      "text": "Oh! tu t'en fous",
+      "start": 1356,
+      "duration": 2.6
+    },
+    {
+      "text": "Qu'ils m'aient élu",
+      "start": 1358.6,
+      "duration": 2.6
+    },
+    {
+      "text": "Le Pape des Fous",
+      "start": 1368,
+      "duration": 2.857
+    },
+    {
+      "text": "Petites filles",
+      "start": 1370.857,
+      "duration": 2.143
+    },
+    {
+      "text": "Qui récitez des rondeaux",
+      "start": 1377,
+      "duration": 3.316
+    },
+    {
+      "text": "En mimant Quasimodo",
+      "start": 1380.316,
+      "duration": 3.316
+    },
+    {
+      "text": "Avec sa bosse au dos",
+      "start": 1383.632,
+      "duration": 2.368
+    },
+    {
+      "text": "Qu'est-ce que ca vous fait",
+      "start": 1386,
+      "duration": 3.0
+    },
+    {
+      "text": "Que je sois si laid?",
+      "start": 1389.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Je hais la femme et l'homme qui m'ont donné le jour",
+      "start": 1392,
+      "duration": 5.0
+    },
+    {
+      "text": "Et m'ont abandonné sans me donner d'amour",
+      "start": 1397.0,
+      "duration": 5.0
+    },
+    {
+      "text": "M'aimeras-tu",
+      "start": 1402,
+      "duration": 1.95
+    },
+    {
+      "text": "Esmeralda?",
+      "start": 1403.95,
+      "duration": 1.95
+    },
+    {
+      "text": "M'aimeras-tu?",
+      "start": 1405.9,
+      "duration": 1.95
+    },
+    {
+      "text": "Mais tu t'en fous",
+      "start": 1418,
+      "duration": 2.857
+    },
+    {
+      "text": "Esmeralda",
+      "start": 1420.857,
+      "duration": 2.143
+    },
+    {
+      "text": "Oh! tu t'en fous",
+      "start": 1430,
+      "duration": 2.6
+    },
+    {
+      "text": "Qu'ils m'aient élu",
+      "start": 1432.6,
+      "duration": 2.6
+    },
+    {
+      "text": "Le Pape des Fous",
+      "start": 1441,
+      "duration": 2.6
+    },
+    {
+      "text": "Le Pape des Fous",
+      "start": 1443.6,
+      "duration": 2.6
+    },
+    {
+      "text": "Le Pape des Fous",
+      "start": 1452,
+      "duration": 5.0
+    },
+    {
+      "text": "Le Pape des Fous",
+      "start": 1458,
+      "duration": 5.0
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=1298",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -100,6 +281,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

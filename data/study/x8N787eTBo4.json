@@ -1,0 +1,634 @@
+{
+  "videoId": "x8N787eTBo4",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6159"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 6181,
+      "sourceText": "Libérés",
+      "ipa": "[libeʁe]",
+      "ear": "利贝赫",
+      "meaning": "解放",
+      "sourceIPA": "/libeʁe/",
+      "sourceLineId": "notre-dame-de-paris-42-001",
+      "speaker": "Quasimodo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6181,
+        "similarity": 0.491,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6183.5,
+      "sourceText": "Évadés",
+      "ipa": "[evade]",
+      "ear": "诶瓦德",
+      "meaning": "脱逃",
+      "sourceIPA": "/evade/",
+      "sourceLineId": "notre-dame-de-paris-42-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6181,
+        "similarity": 0.491,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6189,
+      "sourceText": "Échappés",
+      "ipa": "[eʃape]",
+      "ear": "诶沙佩",
+      "meaning": "远走",
+      "sourceIPA": "/eʃape/",
+      "sourceLineId": "notre-dame-de-paris-42-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6189,
+        "similarity": 0.382,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6190.95,
+      "sourceText": "Envolés",
+      "ipa": "[ɑ̃vole]",
+      "ear": "昂沃莱",
+      "meaning": "高飞",
+      "sourceIPA": "/ɑ̃vole/",
+      "sourceLineId": "notre-dame-de-paris-42-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6189,
+        "similarity": 0.382,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6192.9,
+      "sourceText": "Je les ai",
+      "ipa": "[ʒə lez‿e]",
+      "ear": "热 莱兹 诶",
+      "meaning": "我已将他们",
+      "sourceIPA": "/ʒə lez e/",
+      "sourceLineId": "notre-dame-de-paris-42-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6189,
+        "similarity": 0.382,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6194.85,
+      "sourceText": "Libérés",
+      "ipa": "[libeʁe]",
+      "ear": "利贝赫",
+      "meaning": "解放",
+      "sourceIPA": "/libeʁe/",
+      "sourceLineId": "notre-dame-de-paris-42-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6189,
+        "similarity": 0.382,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6198,
+      "sourceText": "Ils se sont",
+      "ipa": "[il sə sɔ̃]",
+      "ear": "伊勒 瑟 松",
+      "meaning": "他们将会",
+      "sourceIPA": "/il sə sɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-42-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6198,
+        "similarity": 0.493,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6199.75,
+      "sourceText": "Évadés",
+      "ipa": "[evade]",
+      "ear": "诶瓦德",
+      "meaning": "脱逃",
+      "sourceIPA": "/evade/",
+      "sourceLineId": "notre-dame-de-paris-42-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6198,
+        "similarity": 0.493,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6201.5,
+      "sourceText": "Libérés",
+      "ipa": "[libeʁe]",
+      "ear": "利贝赫",
+      "meaning": "解放",
+      "sourceIPA": "/libeʁe/",
+      "sourceLineId": "notre-dame-de-paris-42-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6198,
+        "similarity": 0.493,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6203.25,
+      "sourceText": "Évadés",
+      "ipa": "[evade]",
+      "ear": "诶瓦德",
+      "meaning": "脱逃",
+      "sourceIPA": "/evade/",
+      "sourceLineId": "notre-dame-de-paris-42-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6198,
+        "similarity": 0.493,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6205,
+      "sourceText": "Échappés",
+      "ipa": "[eʃape]",
+      "ear": "诶沙佩",
+      "meaning": "远走",
+      "sourceIPA": "/eʃape/",
+      "sourceLineId": "notre-dame-de-paris-42-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6205,
+        "similarity": 0.404,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 6206.5,
+      "sourceText": "Envolés",
+      "ipa": "[ɑ̃vole]",
+      "ear": "昂沃莱",
+      "meaning": "高飞",
+      "sourceIPA": "/ɑ̃vole/",
+      "sourceLineId": "notre-dame-de-paris-42-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6205,
+        "similarity": 0.404,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 6208.0,
+      "sourceText": "Enflammés",
+      "ipa": "[ɑ̃flame]",
+      "ear": "昂弗拉梅",
+      "meaning": "激励",
+      "sourceIPA": "/ɑ̃flame/",
+      "sourceLineId": "notre-dame-de-paris-42-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6205,
+        "similarity": 0.404,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 6209.5,
+      "sourceText": "Embrasés",
+      "ipa": "[ɑ̃bʁaze]",
+      "ear": "昂布哈泽",
+      "meaning": "鼓舞",
+      "sourceIPA": "/ɑ̃bʁaze/",
+      "sourceLineId": "notre-dame-de-paris-42-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6205,
+        "similarity": 0.404,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 6211.0,
+      "sourceText": "Insurgés",
+      "ipa": "[ɛ̃syʁʒe]",
+      "ear": "安西于赫热",
+      "meaning": "反叛",
+      "sourceIPA": "/ɛ̃syʁʒe/",
+      "sourceLineId": "notre-dame-de-paris-42-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6205,
+        "similarity": 0.404,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 6212.5,
+      "sourceText": "Révoltés",
+      "ipa": "[ʁevɔlte]",
+      "ear": "赫沃勒特",
+      "meaning": "革命",
+      "sourceIPA": "/ʁevɔlte/",
+      "sourceLineId": "notre-dame-de-paris-42-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6205,
+        "similarity": 0.404,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 6214,
+      "sourceText": "Libérés",
+      "ipa": "[libeʁe]",
+      "ear": "利贝赫",
+      "meaning": "解放",
+      "sourceIPA": "/libeʁe/",
+      "sourceLineId": "notre-dame-de-paris-42-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6214,
+        "similarity": 0.4,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 6215.143,
+      "sourceText": "Évadés",
+      "ipa": "[evade]",
+      "ear": "诶瓦德",
+      "meaning": "脱逃",
+      "sourceIPA": "/evade/",
+      "sourceLineId": "notre-dame-de-paris-42-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6214,
+        "similarity": 0.4,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 6216.286,
+      "sourceText": "Échappés",
+      "ipa": "[eʃape]",
+      "ear": "诶沙佩",
+      "meaning": "远走",
+      "sourceIPA": "/eʃape/",
+      "sourceLineId": "notre-dame-de-paris-42-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6214,
+        "similarity": 0.4,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 6217.429,
+      "sourceText": "Envolés",
+      "ipa": "[ɑ̃vole]",
+      "ear": "昂沃莱",
+      "meaning": "高飞",
+      "sourceIPA": "/ɑ̃vole/",
+      "sourceLineId": "notre-dame-de-paris-42-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6214,
+        "similarity": 0.4,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 6218.571,
+      "sourceText": "Enflammés",
+      "ipa": "[ɑ̃flame]",
+      "ear": "昂弗拉梅",
+      "meaning": "激励",
+      "sourceIPA": "/ɑ̃flame/",
+      "sourceLineId": "notre-dame-de-paris-42-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6214,
+        "similarity": 0.4,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 6219.714,
+      "sourceText": "Embrasés",
+      "ipa": "[ɑ̃bʁaze]",
+      "ear": "昂布哈泽",
+      "meaning": "鼓舞",
+      "sourceIPA": "/ɑ̃bʁaze/",
+      "sourceLineId": "notre-dame-de-paris-42-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6214,
+        "similarity": 0.4,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 6220.857,
+      "sourceText": "Insurgés",
+      "ipa": "[ɛ̃syʁʒe]",
+      "ear": "安西于赫热",
+      "meaning": "反叛",
+      "sourceIPA": "/ɛ̃syʁʒe/",
+      "sourceLineId": "notre-dame-de-paris-42-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6214,
+        "similarity": 0.4,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 6222,
+      "sourceText": "Révoltés",
+      "ipa": "[ʁevɔlte]",
+      "ear": "赫沃勒特",
+      "meaning": "革命",
+      "sourceIPA": "/ʁevɔlte/",
+      "sourceLineId": "notre-dame-de-paris-42-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6222,
+        "similarity": 0.658,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6223.95,
+      "sourceText": "Ils étaient enfermés",
+      "ipa": "[ilz‿etɛ ɑ̃fɛʁme]",
+      "ear": "伊勒兹 诶泰 昂费赫梅",
+      "meaning": "他们曾被监禁",
+      "sourceIPA": "/ilz etɛ ɑ̃fɛʁme/",
+      "sourceLineId": "notre-dame-de-paris-42-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6222,
+        "similarity": 0.658,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6230,
+      "sourceText": "Moi, j'ai ouvert la cage",
+      "ipa": "[mwa ʒe uvɛʁ la kaʒ]",
+      "ear": "姆乌阿 热 乌韦赫 拉 卡日",
+      "meaning": "是我打开了牢门",
+      "sourceIPA": "/mwa ʒe uvɛʁ la kaʒ/",
+      "sourceLineId": "notre-dame-de-paris-42-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6230,
+        "similarity": 0.972,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6233.9,
+      "sourceText": "Ils se sont échappés",
+      "ipa": "[il sə sɔ̃t‿eʃape]",
+      "ear": "伊勒 瑟 松特 诶沙佩",
+      "meaning": "让他们逃走",
+      "sourceIPA": "/il sə sɔ̃t eʃape/",
+      "sourceLineId": "notre-dame-de-paris-42-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6230,
+        "similarity": 0.972,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6246,
+      "sourceText": "Et ils ont pris le large",
+      "ipa": "[e ilz‿ɔ̃ pʁi lə laʁʒ]",
+      "ear": "诶 伊勒兹 翁 普希 勒 拉赫日",
+      "meaning": "逃之夭夭",
+      "sourceIPA": "/e ilz ɔ̃ pʁi lə laʁʒ/",
+      "sourceLineId": "notre-dame-de-paris-42-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6246,
+        "similarity": 0.417,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6247.784,
+      "sourceText": "Ils demandent le droit d'asile (Libérés! Évadés! Échappés! Envolés! Enflammés! Embrasés! Insurgés! Révoltés!)",
+      "ipa": "[il dəmɑ̃d lə dʁwa dazil libeʁe evade eʃape ɑ̃vole ɑ̃flame ɑ̃bʁaze ɛ̃syʁʒe ʁevɔlte]",
+      "ear": "伊勒 德芒德 勒 德赫乌阿 达齐勒 利贝赫 诶瓦德 诶沙佩 昂沃莱 昂弗拉梅 昂布哈泽 安西于赫热 赫沃勒特",
+      "meaning": "他们要求庇护权（解放！脱逃！远走！高飞！激励！鼓舞！反叛！革命！）",
+      "sourceIPA": "/il dəmɑ̃d lə dʁwa dazil libeʁe evade eʃape ɑ̃vole ɑ̃flame ɑ̃bʁaze ɛ̃syʁʒe ʁevɔlte/",
+      "sourceLineId": "notre-dame-de-paris-42-029",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6246,
+        "similarity": 0.417,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6257,
+      "sourceText": "Donnez-leur (Libérés! Évadés! Échappés! Envolés!)",
+      "ipa": "[dɔnelœʁ libeʁe evade eʃape ɑ̃vole]",
+      "ear": "多内勒厄赫 利贝赫 诶瓦德 诶沙佩 昂沃莱",
+      "meaning": "请给予他们（解放！脱逃！远走！高飞！）",
+      "sourceIPA": "/dɔnelœʁ libeʁe evade eʃape ɑ̃vole/",
+      "sourceLineId": "notre-dame-de-paris-42-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6257,
+        "similarity": 0.516,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6262.323,
+      "sourceText": "le droit d'asile (Enflammés! Embrasés! Insurgés! Révoltés!)",
+      "ipa": "[lə dʁwa dazil‿ɑ̃flame ɑ̃bʁaze ɛ̃syʁʒe ʁevɔlte]",
+      "ear": "勒 德赫乌阿 达齐勒 昂弗拉梅 昂布哈泽 安西于赫热 赫沃勒特",
+      "meaning": "庇护权（激励！鼓舞！反叛！革命！）",
+      "sourceIPA": "/lə dʁwa dazil ɑ̃flame ɑ̃bʁaze ɛ̃syʁʒe ʁevɔlte/",
+      "sourceLineId": "notre-dame-de-paris-42-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6257,
+        "similarity": 0.516,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6268,
+      "sourceText": "Libérés!",
+      "ipa": "[libeʁe]",
+      "ear": "利贝赫",
+      "meaning": "解放！",
+      "sourceIPA": "/libeʁe/",
+      "sourceLineId": "notre-dame-de-paris-42-032",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6268,
+        "similarity": 0.483,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6269.95,
+      "sourceText": "Évadés!",
+      "ipa": "[evade]",
+      "ear": "诶瓦德",
+      "meaning": "脱逃！",
+      "sourceIPA": "/evade/",
+      "sourceLineId": "notre-dame-de-paris-42-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6268,
+        "similarity": 0.483,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6271.9,
+      "sourceText": "Échappés!",
+      "ipa": "[eʃape]",
+      "ear": "诶沙佩",
+      "meaning": "远走！",
+      "sourceIPA": "/eʃape/",
+      "sourceLineId": "notre-dame-de-paris-42-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6268,
+        "similarity": 0.483,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6276,
+      "sourceText": "Envolés!",
+      "ipa": "[ɑ̃vole]",
+      "ear": "昂沃莱",
+      "meaning": "高飞！",
+      "sourceIPA": "/ɑ̃vole/",
+      "sourceLineId": "notre-dame-de-paris-42-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6276,
+        "similarity": 0.444,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6277.5,
+      "sourceText": "Ils demandent le droit d'asile (Libérés! Évadés! Échappés! Envolés! Enflammés! Embrasés! Insurgés! Révoltés!)",
+      "ipa": "[il dəmɑ̃d lə dʁwa dazil libeʁe evade eʃape ɑ̃vole ɑ̃flame ɑ̃bʁaze ɛ̃syʁʒe ʁevɔlte]",
+      "ear": "伊勒 德芒德 勒 德赫乌阿 达齐勒 利贝赫 诶瓦德 诶沙佩 昂沃莱 昂弗拉梅 昂布哈泽 安西于赫热 赫沃勒特",
+      "meaning": "他们要求庇护权（解放！脱逃！远走！高飞！激励！鼓舞！反叛！革命！）",
+      "sourceIPA": "/il dəmɑ̃d lə dʁwa dazil libeʁe evade eʃape ɑ̃vole ɑ̃flame ɑ̃bʁaze ɛ̃syʁʒe ʁevɔlte/",
+      "sourceLineId": "notre-dame-de-paris-42-036",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6276,
+        "similarity": 0.444,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6293,
+      "sourceText": "Libérés",
+      "ipa": "[libeʁe]",
+      "ear": "利贝赫",
+      "meaning": "解放",
+      "sourceIPA": "/libeʁe/",
+      "sourceLineId": "notre-dame-de-paris-42-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6293,
+        "similarity": 0.291,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6294.95,
+      "sourceText": "Libérés! Libérés!",
+      "ipa": "[libeʁe libeʁe]",
+      "ear": "利贝赫 利贝赫",
+      "meaning": "解放！解放！",
+      "sourceIPA": "/libeʁe libeʁe/",
+      "sourceLineId": "notre-dame-de-paris-42-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6293,
+        "similarity": 0.291,
+        "groupSize": 2
+      }
+    }
+  ]
+}

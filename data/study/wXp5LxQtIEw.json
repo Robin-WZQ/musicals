@@ -1,0 +1,634 @@
+{
+  "videoId": "wXp5LxQtIEw",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5689"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 5700,
+      "sourceText": "Quand on te voit sur ta monture",
+      "ipa": "[kɑ̃t‿ɔ̃ tə vwa syʁ ta mɔ̃tyʁ]",
+      "ear": "康特 翁 特 弗乌阿 西于赫 塔 蒙蒂于赫",
+      "meaning": "当人们看见你骑在马上",
+      "sourceIPA": "/kɑ̃t ɔ̃ tə vwa syʁ ta mɔ̃tyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5700,
+        "similarity": 0.432,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5702.667,
+      "sourceText": "Quelle allure et quelle stature",
+      "ipa": "[kɛl‿alyʁ e kɛl statyʁ]",
+      "ear": "凯勒 阿吕赫 诶 凯勒 斯塔蒂于赫",
+      "meaning": "这样的气度，这样身量",
+      "sourceIPA": "/kɛl alyʁ e kɛl statyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5700,
+        "similarity": 0.432,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5705,
+      "sourceText": "Un vrai modèle de droiture",
+      "ipa": "[œ̃ vʁɛ modɛl də dʁwatyʁ]",
+      "ear": "恩 弗赫 莫戴勒 德 德赫乌阿蒂于赫",
+      "meaning": "一个真正的道德典范",
+      "sourceIPA": "/œ̃ vʁɛ modɛl də dʁwatyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5705,
+        "similarity": 0.239,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5708.231,
+      "sourceText": "Une force de la nature",
+      "ipa": "[yn fɔʁs də la natyʁ]",
+      "ear": "于恩 佛赫斯 德 拉 纳蒂于赫",
+      "meaning": "你的力量与生俱来",
+      "sourceIPA": "/yn fɔʁs də la natyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5705,
+        "similarity": 0.239,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5711,
+      "sourceText": "Ou bien n'es-tu qu'une raclure",
+      "ipa": "[u bjɛ̃ nɛty kyn ʁaklyʁ]",
+      "ear": "乌 布耶安 奈蒂于 基于恩 哈克吕赫",
+      "meaning": "或者你不过是一个人渣",
+      "sourceIPA": "/u bjɛ̃ nɛty kyn ʁaklyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5711,
+        "similarity": 0.399,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5713.655,
+      "sourceText": "Un animal de luxure",
+      "ipa": "[œ̃n‿animal də lyksyʁ]",
+      "ear": "恩恩 阿尼玛勒 德 吕克西于赫",
+      "meaning": "一只欲望的动物",
+      "sourceIPA": "/œ̃n animal də lyksyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5711,
+        "similarity": 0.399,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5716.31,
+      "sourceText": "Qui court à l'aventure?",
+      "ipa": "[ki kuʁ‿a lavɑ̃tyʁ]",
+      "ear": "基 库赫 阿 拉旺蒂于赫",
+      "meaning": "奔向冒险",
+      "sourceIPA": "/ki kuʁ a lavɑ̃tyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5711,
+        "similarity": 0.399,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5718.586,
+      "sourceText": "Y a-t-il un cœur sous ton armure?",
+      "ipa": "[i atil‿œ̃ kœʁ su tɔ̃n‿aʁmyʁ]",
+      "ear": "伊 阿蒂勒 恩 克厄赫 苏 通恩 阿赫米于赫",
+      "meaning": "你的甲胄之下，真的有一颗心吗？",
+      "sourceIPA": "/i atil œ̃ kœʁ su tɔ̃n aʁmyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5711,
+        "similarity": 0.399,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5722,
+      "sourceText": "Le mien est pur comme l'azur",
+      "ipa": "[lə mjɛ̃ ɛ pyʁ kɔm lazyʁ]",
+      "ear": "勒 姆耶安 艾 普于赫 科姆 拉齐于赫",
+      "meaning": "而我的心纯净得像蓝天",
+      "sourceIPA": "/lə mjɛ̃ ɛ pyʁ kɔm lazyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5722,
+        "similarity": 0.818,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5725.0,
+      "sourceText": "Laisse-moi panser tes blessures",
+      "ipa": "[lɛsmwa pɑ̃se te blɛsyʁ]",
+      "ear": "莱斯姆乌阿 庞塞 特 布莱西于赫",
+      "meaning": "让我为你包扎伤口",
+      "sourceIPA": "/lɛsmwa pɑ̃se te blɛsyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5722,
+        "similarity": 0.818,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5728,
+      "sourceText": "Oublions cette mésaventure",
+      "ipa": "[ubliɔ̃ sɛt mezavɑ̃tyʁ]",
+      "ear": "乌布利翁 塞特 梅扎旺蒂于赫",
+      "meaning": "让我们一起忘掉不幸",
+      "sourceIPA": "/ubliɔ̃ sɛt mezavɑ̃tyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5728,
+        "similarity": 0.624,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5731.077,
+      "sourceText": "Je t'aimerai si tu me jures",
+      "ipa": "[ʒə tɛmʁe si ty mə ʒyʁ]",
+      "ear": "热 泰姆赫 西 蒂于 默 日于赫",
+      "meaning": "我会爱你的，如果你发誓",
+      "sourceIPA": "/ʒə tɛmʁe si ty mə ʒyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5728,
+        "similarity": 0.624,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5733.769,
+      "sourceText": "Je t'aimerai si tu me jures",
+      "ipa": "[ʒə tɛmʁe si ty mə ʒyʁ]",
+      "ear": "热 泰姆赫 西 蒂于 默 日于赫",
+      "meaning": "我会爱你的，如果你发誓",
+      "sourceIPA": "/ʒə tɛmʁe si ty mə ʒyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5728,
+        "similarity": 0.624,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5736.462,
+      "sourceText": "Qu'on la pendra",
+      "ipa": "[kɔ̃ la pɑ̃dʁa]",
+      "ear": "孔 拉 庞德哈",
+      "meaning": "发誓吊死",
+      "sourceIPA": "/kɔ̃ la pɑ̃dʁa/",
+      "sourceLineId": "notre-dame-de-paris-38-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5728,
+        "similarity": 0.624,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5738,
+      "sourceText": "La Zingara",
+      "ipa": "[la zɛ̃ɡaʁa]",
+      "ear": "拉 赞嘎哈",
+      "meaning": "那个吉普赛女人",
+      "sourceIPA": "/la zɛ̃ɡaʁa/",
+      "sourceLineId": "notre-dame-de-paris-38-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5738,
+        "similarity": 0.762,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5740.6,
+      "sourceText": "Mes rêves de petite fille",
+      "ipa": "[me ʁɛv də pətit fij]",
+      "ear": "梅 赫弗 德 珀蒂特 菲耶",
+      "meaning": "我那些小女孩的美梦",
+      "sourceIPA": "/me ʁɛv də pətit fij/",
+      "sourceLineId": "notre-dame-de-paris-38-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5738,
+        "similarity": 0.762,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5747,
+      "sourceText": "Cousus de fil en aiguille",
+      "ipa": "[kuzy də fil‿ɑ̃n‿ɛɡɥij]",
+      "ear": "库齐于 德 菲勒 昂恩 艾格于伊耶",
+      "meaning": "由丝线编织而成",
+      "sourceIPA": "/kuzy də fil ɑ̃n ɛɡyij/",
+      "sourceLineId": "notre-dame-de-paris-38-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5747,
+        "similarity": 0.261,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5749.667,
+      "sourceText": "Je les ai jetés au loup",
+      "ipa": "[ʒə lez‿e ʒəte o lu]",
+      "ear": "热 莱兹 诶 热特 奥 卢",
+      "meaning": "而我已把它们丢给野狼",
+      "sourceIPA": "/ʒə lez e ʒətez o lu/",
+      "sourceLineId": "notre-dame-de-paris-38-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5747,
+        "similarity": 0.261,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5752.0,
+      "sourceText": "Détrompe-toi car je suis",
+      "ipa": "[detʁɔ̃ptwa kaʁ ʒə sɥi]",
+      "ear": "德特洪普特乌阿 卡赫 热 斯于伊",
+      "meaning": "让我醒悟吧，因为我",
+      "sourceIPA": "/detʁɔ̃ptwa kaʁ ʒə sɥi/",
+      "sourceLineId": "notre-dame-de-paris-38-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5747,
+        "similarity": 0.261,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5754.0,
+      "sourceText": "Aussi blanche qu'une brebis",
+      "ipa": "[osi blɑ̃ʃ kyn bʁəbi]",
+      "ear": "奥西 布朗什 基于恩 布赫比",
+      "meaning": "像羊羔一样洁白",
+      "sourceIPA": "/osi blɑ̃ʃ kyn bʁəbi/",
+      "sourceLineId": "notre-dame-de-paris-38-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5747,
+        "similarity": 0.261,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5756,
+      "sourceText": "Qui se roule dans la boue",
+      "ipa": "[ki sə ʁul dɑ̃ la bu]",
+      "ear": "基 瑟 胡勒 当 拉 布",
+      "meaning": "却让自己在污泥中打滚",
+      "sourceIPA": "/ki sə ʁul dɑ̃ la bu/",
+      "sourceLineId": "notre-dame-de-paris-38-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5756,
+        "similarity": 0.386,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5758.571,
+      "sourceText": "Tes mots d'amour sont des injures",
+      "ipa": "[te mo damuʁ sɔ̃ dez‿ɛ̃ʒyʁ]",
+      "ear": "特 莫 达穆赫 松 德兹 安日于赫",
+      "meaning": "你的情话都是辱骂",
+      "sourceIPA": "/te mo damuʁ sɔ̃ dez ɛ̃ʒyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5756,
+        "similarity": 0.386,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5762.0,
+      "sourceText": "Tes serments sont des parjures",
+      "ipa": "[te sɛʁmɑ̃ sɔ̃ de paʁʒyʁ]",
+      "ear": "特 塞赫芒 松 德 帕赫日于赫",
+      "meaning": "你的誓言都是骗局",
+      "sourceIPA": "/te sɛʁmɑ̃ sɔ̃ de paʁʒyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5756,
+        "similarity": 0.386,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5765,
+      "sourceText": "Mon cœur déjà se fait plus dur",
+      "ipa": "[mɔ̃ kœʁ deʒa sə fɛ ply dyʁ]",
+      "ear": "蒙 克厄赫 德扎 瑟 费 普吕 迪于赫",
+      "meaning": "我的心已经硬了下来",
+      "sourceIPA": "/mɔ̃ kœʁ deʒa sə fɛ ply dyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5765,
+        "similarity": 0.573,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5768.2,
+      "sourceText": "Je te mets au pied du mur",
+      "ipa": "[ʒə tə mɛ o pje dy myʁ]",
+      "ear": "热 特 梅 奥 普耶诶 迪于 米于赫",
+      "meaning": "我要把你逼到墙角",
+      "sourceIPA": "/ʒə tə mɛz o pje dy myʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5765,
+        "similarity": 0.573,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5771,
+      "sourceText": "Délivre-moi de ma ceinture",
+      "ipa": "[delivʁmwa də ma sɛ̃tyʁ]",
+      "ear": "德利弗赫姆乌阿 德 玛 森蒂于赫",
+      "meaning": "解开我的腰带，让我得到解脱",
+      "sourceIPA": "/delivʁmwa də ma sɛ̃tyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5771,
+        "similarity": 0.507,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5774.0,
+      "sourceText": "Viens en moi petite ordure",
+      "ipa": "[vjɛ̃ ɑ̃ mwa pətit‿ɔʁdyʁ]",
+      "ear": "弗耶安 昂 姆乌阿 珀蒂特 哦赫迪于赫",
+      "meaning": "到我身上来，你这个小垃圾",
+      "sourceIPA": "/vjɛ̃z ɑ̃ mwa pətit ɔʁdyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5771,
+        "similarity": 0.507,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5777,
+      "sourceText": "Apprends-moi l'art de la luxure",
+      "ipa": "[apʁɑ̃mwa laʁ də la lyksyʁ]",
+      "ear": "阿普杭姆乌阿 拉赫 德 拉 吕克西于赫",
+      "meaning": "教给我欲望的艺术吧",
+      "sourceIPA": "/apʁɑ̃mwa laʁ də la lyksyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5777,
+        "similarity": 0.65,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5780.077,
+      "sourceText": "Je t'aimerai si tu me jures",
+      "ipa": "[ʒə tɛmʁe si ty mə ʒyʁ]",
+      "ear": "热 泰姆赫 西 蒂于 默 日于赫",
+      "meaning": "我会爱你的，如果你发誓",
+      "sourceIPA": "/ʒə tɛmʁe si ty mə ʒyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5777,
+        "similarity": 0.65,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5782.769,
+      "sourceText": "Je t'aimerai si tu me jures",
+      "ipa": "[ʒə tɛmʁe si ty mə ʒyʁ]",
+      "ear": "热 泰姆赫 西 蒂于 默 日于赫",
+      "meaning": "我会爱你的，如果你发誓",
+      "sourceIPA": "/ʒə tɛmʁe si ty mə ʒyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5777,
+        "similarity": 0.65,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5785.462,
+      "sourceText": "Qu'on la pendra",
+      "ipa": "[kɔ̃ la pɑ̃dʁa]",
+      "ear": "孔 拉 庞德哈",
+      "meaning": "发誓吊死",
+      "sourceIPA": "/kɔ̃ la pɑ̃dʁa/",
+      "sourceLineId": "notre-dame-de-paris-38-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5777,
+        "similarity": 0.65,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5787,
+      "sourceText": "La Zingara",
+      "ipa": "[la zɛ̃ɡaʁa]",
+      "ear": "拉 赞嘎哈",
+      "meaning": "那个吉普赛女人",
+      "sourceIPA": "/la zɛ̃ɡaʁa/",
+      "sourceLineId": "notre-dame-de-paris-38-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5787,
+        "similarity": 0.71,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 5799,
+      "sourceText": "Je t'aimerai si tu me jures",
+      "ipa": "[ʒə tɛmʁe si ty mə ʒyʁ]",
+      "ear": "热 泰姆赫 西 蒂于 默 日于赫",
+      "meaning": "我会爱你的，如果你发誓",
+      "sourceIPA": "/ʒə tɛmʁe si ty mə ʒyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5799,
+        "similarity": 0.613,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5802.182,
+      "sourceText": "Je t'aimerai si tu me jures",
+      "ipa": "[ʒə tɛmʁe si ty mə ʒyʁ]",
+      "ear": "热 泰姆赫 西 蒂于 默 日于赫",
+      "meaning": "我会爱你的，如果你发誓",
+      "sourceIPA": "/ʒə tɛmʁe si ty mə ʒyʁ/",
+      "sourceLineId": "notre-dame-de-paris-38-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5799,
+        "similarity": 0.613,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5805.364,
+      "sourceText": "Qu'on la pendra",
+      "ipa": "[kɔ̃ la pɑ̃dʁa]",
+      "ear": "孔 拉 庞德哈",
+      "meaning": "发誓吊死",
+      "sourceIPA": "/kɔ̃ la pɑ̃dʁa/",
+      "sourceLineId": "notre-dame-de-paris-38-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5799,
+        "similarity": 0.613,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5807.182,
+      "sourceText": "L'Esméralda!",
+      "ipa": "[lɛsmeʁalda]",
+      "ear": "莱斯梅哈勒达",
+      "meaning": "那个艾丝美拉达！",
+      "sourceIPA": "/lɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-38-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5799,
+        "similarity": 0.613,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5809,
+      "sourceText": "Qu'on la pendra",
+      "ipa": "[kɔ̃ la pɑ̃dʁa]",
+      "ear": "孔 拉 庞德哈",
+      "meaning": "发誓吊死",
+      "sourceIPA": "/kɔ̃ la pɑ̃dʁa/",
+      "sourceLineId": "notre-dame-de-paris-38-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5809,
+        "similarity": 0.674,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5811.6,
+      "sourceText": "La Zingara",
+      "ipa": "[la zɛ̃ɡaʁa]",
+      "ear": "拉 赞嘎哈",
+      "meaning": "那个吉普赛女人",
+      "sourceIPA": "/la zɛ̃ɡaʁa/",
+      "sourceLineId": "notre-dame-de-paris-38-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5809,
+        "similarity": 0.674,
+        "groupSize": 2
+      }
+    }
+  ]
+}

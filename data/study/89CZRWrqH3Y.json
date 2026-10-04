@@ -1,0 +1,378 @@
+{
+  "videoId": "89CZRWrqH3Y",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=3628"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 3637,
+      "sourceText": "Qui est cet homme",
+      "ipa": "[ki ɛ sɛt‿ɔm]",
+      "ear": "基 艾 塞特 哦姆",
+      "meaning": "那人是谁",
+      "sourceIPA": "/ki ɛ sɛt ɔm/",
+      "sourceLineId": "notre-dame-de-paris-25-001",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3637,
+        "similarity": 0.817,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3639.588,
+      "sourceText": "Est-ce mon ombre qui me suit",
+      "ipa": "[ɛs mɔ̃n‿ɔ̃bʁ ki mə sɥi]",
+      "ear": "艾斯 蒙恩 翁布赫 基 默 斯于伊",
+      "meaning": "跟踪我的 是我的影子？",
+      "sourceIPA": "/ɛs mɔ̃n ɔ̃bʁ ki mə sɥi/",
+      "sourceLineId": "notre-dame-de-paris-25-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3637,
+        "similarity": 0.817,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3643.471,
+      "sourceText": "Ou un fantôme dans la nuit",
+      "ipa": "[u œ̃ fɑ̃tom dɑ̃ la nɥi]",
+      "ear": "乌 恩 芳托姆 当 拉 恩于伊",
+      "meaning": "还是暗夜的幽灵？",
+      "sourceIPA": "/u œ̃ fɑ̃tom dɑ̃ la nɥi/",
+      "sourceLineId": "notre-dame-de-paris-25-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3637,
+        "similarity": 0.817,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3648,
+      "sourceText": "Pourquoi mon ombre",
+      "ipa": "[puʁkwa mɔ̃n‿ɔ̃bʁ]",
+      "ear": "普赫克乌阿 蒙恩 翁布赫",
+      "meaning": "为何我的影子",
+      "sourceIPA": "/puʁkwa mɔ̃n ɔ̃bʁ/",
+      "sourceLineId": "notre-dame-de-paris-25-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3648,
+        "similarity": 0.936,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3650.261,
+      "sourceText": "Porterait-elle donc un manteau",
+      "ipa": "[pɔʁtəʁɛtɛl dɔ̃k‿œ̃ mɑ̃to]",
+      "ear": "珀赫特赫泰勒 东克 恩 芒托",
+      "meaning": "会穿着一件大衣呢",
+      "sourceIPA": "/pɔʁtəʁɛtɛl dɔ̃k œ̃ mɑ̃to/",
+      "sourceLineId": "notre-dame-de-paris-25-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3648,
+        "similarity": 0.936,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3654.783,
+      "sourceText": "Porterait-elle donc un chapeau",
+      "ipa": "[pɔʁtəʁɛtɛl dɔ̃k‿œ̃ ʃapo]",
+      "ear": "珀赫特赫泰勒 东克 恩 沙波",
+      "meaning": "会戴着一顶帽子呢",
+      "sourceIPA": "/pɔʁtəʁɛtɛl dɔ̃k œ̃ ʃapo/",
+      "sourceLineId": "notre-dame-de-paris-25-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3648,
+        "similarity": 0.936,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3659.304,
+      "sourceText": "Qui êtes-vous?",
+      "ipa": "[ki ɛtvu]",
+      "ear": "基 艾特乌",
+      "meaning": "您是谁？",
+      "sourceIPA": "/ki ɛtvu/",
+      "sourceLineId": "notre-dame-de-paris-25-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3648,
+        "similarity": 0.936,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3661,
+      "sourceText": "Démasquez-vous!",
+      "ipa": "[demaskevu]",
+      "ear": "德玛斯克乌",
+      "meaning": "快现身！",
+      "sourceIPA": "/demaskevu/",
+      "sourceLineId": "notre-dame-de-paris-25-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3661,
+        "similarity": 0.826,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3663.6,
+      "sourceText": "Approchez-vous!",
+      "ipa": "[apʁoʃevu]",
+      "ear": "阿普霍谢乌",
+      "meaning": "靠近点！",
+      "sourceIPA": "/apʁoʃevu/",
+      "sourceLineId": "notre-dame-de-paris-25-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3661,
+        "similarity": 0.826,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3666.2,
+      "sourceText": "Présentez-vous!",
+      "ipa": "[pʁezɑ̃tevu]",
+      "ear": "普赫赞特乌",
+      "meaning": "报上名来！",
+      "sourceIPA": "/pʁezɑ̃tevu/",
+      "sourceLineId": "notre-dame-de-paris-25-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3661,
+        "similarity": 0.826,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3669,
+      "sourceText": "Je suis ta conscience",
+      "ipa": "[ʒə sɥi ta kɔ̃sjɑ̃s]",
+      "ear": "热 斯于伊 塔 孔斯耶昂斯",
+      "meaning": "我是你的良知",
+      "sourceIPA": "/ʒə sɥi ta kɔ̃sjɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-25-011",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3669,
+        "similarity": 0.422,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3672.25,
+      "sourceText": "Écoute-moi",
+      "ipa": "[ekutmwa]",
+      "ear": "诶库特姆乌阿",
+      "meaning": "听着",
+      "sourceIPA": "/ekutmwa/",
+      "sourceLineId": "notre-dame-de-paris-25-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3669,
+        "similarity": 0.422,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3675,
+      "sourceText": "Si tu ne veux pas",
+      "ipa": "[si ty nə vø pa]",
+      "ear": "西 蒂于 讷 弗厄 帕",
+      "meaning": "若你不想",
+      "sourceIPA": "/si ty nə vø pa/",
+      "sourceLineId": "notre-dame-de-paris-25-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3675,
+        "similarity": 0.669,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3677.667,
+      "sourceText": "Finir sur la potence",
+      "ipa": "[finiʁ syʁ la potɑ̃s]",
+      "ear": "菲尼赫 西于赫 拉 波唐斯",
+      "meaning": "命丧绞架",
+      "sourceIPA": "/finiʁ syʁ la potɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-25-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3675,
+        "similarity": 0.669,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3680.867,
+      "sourceText": "Soldat du roi",
+      "ipa": "[sɔlda dy ʁwa]",
+      "ear": "索勒达 迪于 赫乌阿",
+      "meaning": "国家的军人",
+      "sourceIPA": "/sɔlda dy ʁwa/",
+      "sourceLineId": "notre-dame-de-paris-25-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3675,
+        "similarity": 0.669,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3683,
+      "sourceText": "Éloigne-toi de cet endroit",
+      "ipa": "[elwaɲtwa də sɛt‿ɑ̃dʁwa]",
+      "ear": "诶勒乌阿涅特乌阿 德 塞特 昂德赫乌阿",
+      "meaning": "离开这个地方",
+      "sourceIPA": "/elwaɲtwa də sɛt ɑ̃dʁwa/",
+      "sourceLineId": "notre-dame-de-paris-25-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3683,
+        "similarity": 0.493,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3687.0,
+      "sourceText": "Où tout droit te mènent tes pas",
+      "ipa": "[u tu dʁwa tə mɛn te pa]",
+      "ear": "乌 图 德赫乌阿 特 梅恩 特 帕",
+      "meaning": "这个你将踏离之所",
+      "sourceIPA": "/u tu dʁwa tə mɛn te pa/",
+      "sourceLineId": "notre-dame-de-paris-25-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3683,
+        "similarity": 0.493,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3691,
+      "sourceText": "Soldat du Roi je suis",
+      "ipa": "[sɔlda dy ʁwa ʒə sɥi]",
+      "ear": "索勒达 迪于 赫乌阿 热 斯于伊",
+      "meaning": "没错 我是国家的军人",
+      "sourceIPA": "/sɔlda dy ʁwa ʒə sɥi/",
+      "sourceLineId": "notre-dame-de-paris-25-018",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3691,
+        "similarity": 0.847,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3693.667,
+      "sourceText": "Mais dites-moi",
+      "ipa": "[mɛ ditmwa]",
+      "ear": "梅 迪特姆乌阿",
+      "meaning": "但是 请告诉我",
+      "sourceIPA": "/mɛ ditmwa/",
+      "sourceLineId": "notre-dame-de-paris-25-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3691,
+        "similarity": 0.847,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3695.0,
+      "sourceText": "Vous qui m'avez suivi jusqu'ici",
+      "ipa": "[vu ki mave sɥivi ʒyskisi]",
+      "ear": "乌 基 玛韦 斯于伊维 日于斯基西",
+      "meaning": "您跟踪我直到此地",
+      "sourceIPA": "/vu ki mave sɥivi ʒyskisi/",
+      "sourceLineId": "notre-dame-de-paris-25-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3691,
+        "similarity": 0.847,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3699,
+      "sourceText": "N'êtes vous pas homme de Dieu",
+      "ipa": "[nɛt vu pa ɔm də djø]",
+      "ear": "奈特 乌 帕 哦姆 德 德耶厄",
+      "meaning": "难道你不是上帝的仆人吗",
+      "sourceIPA": "/nɛt vu paz ɔm də djø/",
+      "sourceLineId": "notre-dame-de-paris-25-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3699,
+        "similarity": 0.495,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3702.9,
+      "sourceText": "Par Dieu",
+      "ipa": "[paʁ djø]",
+      "ear": "帕赫 德耶厄",
+      "meaning": "上帝啊！",
+      "sourceIPA": "/paʁ djø/",
+      "sourceLineId": "notre-dame-de-paris-25-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3699,
+        "similarity": 0.495,
+        "groupSize": 2
+      }
+    }
+  ]
+}

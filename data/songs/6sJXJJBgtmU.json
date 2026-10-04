@@ -8,15 +8,311 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 4,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "D'où viens-tu belle étrangère",
+      "start": 520,
+      "duration": 4.0
+    },
+    {
+      "text": "Fille du ciel ou de la terre",
+      "start": 524,
+      "duration": 4.55
+    },
+    {
+      "text": "Bel oiseau de paradis",
+      "start": 528.55,
+      "duration": 4.55
+    },
+    {
+      "text": "Que viens-tu faire par ici?",
+      "start": 533.1,
+      "duration": 4.55
+    },
+    {
+      "text": "Bohémienne",
+      "start": 548,
+      "duration": 1.071
+    },
+    {
+      "text": "Nul ne sait le pays d'où je viens",
+      "start": 549.071,
+      "duration": 3.215
+    },
+    {
+      "text": "Bohémienne",
+      "start": 552.286,
+      "duration": 1.071
+    },
+    {
+      "text": "Je suis fille de grands chemins",
+      "start": 553.357,
+      "duration": 2.5
+    },
+    {
+      "text": "Bohémienne",
+      "start": 555.857,
+      "duration": 1.072
+    },
+    {
+      "text": "Bohémienne",
+      "start": 556.929,
+      "duration": 1.071
+    },
+    {
+      "text": "Qui peut dire où je serai demain",
+      "start": 579,
+      "duration": 4.2
+    },
+    {
+      "text": "Bohémienne",
+      "start": 583.2,
+      "duration": 1.4
+    },
+    {
+      "text": "Bohémienne",
+      "start": 584.6,
+      "duration": 1.4
+    },
+    {
+      "text": "C'est écrit dans les lignes de ma main",
+      "start": 595,
+      "duration": 5.85
+    },
+    {
+      "text": "Ma mère me parlait de l'Espagne",
+      "start": 606,
+      "duration": 4.267
+    },
+    {
+      "text": "Comme si c'était son pays",
+      "start": 610.267,
+      "duration": 3.733
+    },
+    {
+      "text": "Et des brigands dans les montagnes",
+      "start": 614,
+      "duration": 3.5
+    },
+    {
+      "text": "Dans les montagnes d'Andalousie",
+      "start": 617.5,
+      "duration": 3.5
+    },
+    {
+      "text": "Dans les montagnes d'Andalousie",
+      "start": 621,
+      "duration": 4.267
+    },
+    {
+      "text": "Je n'ai plus ni père ni mère",
+      "start": 625.267,
+      "duration": 3.733
+    },
+    {
+      "text": "J'ai fait de Paris mon pays",
+      "start": 629,
+      "duration": 4.267
+    },
+    {
+      "text": "Mais quand j'imagine la mer",
+      "start": 633.267,
+      "duration": 3.733
+    },
+    {
+      "text": "Elle m'emmène loin d'ici",
+      "start": 637,
+      "duration": 3.857
+    },
+    {
+      "text": "Vers les montagnes d'Andalousie",
+      "start": 640.857,
+      "duration": 5.143
+    },
+    {
+      "text": "Bohémienne",
+      "start": 646,
+      "duration": 1.071
+    },
+    {
+      "text": "Nul ne sait le pays d'où je viens",
+      "start": 647.071,
+      "duration": 3.215
+    },
+    {
+      "text": "Bohémienne",
+      "start": 650.286,
+      "duration": 1.071
+    },
+    {
+      "text": "Je suis fille de grands chemins",
+      "start": 651.357,
+      "duration": 2.5
+    },
+    {
+      "text": "Bohémienne",
+      "start": 653.857,
+      "duration": 1.072
+    },
+    {
+      "text": "Bohémienne",
+      "start": 654.929,
+      "duration": 1.071
+    },
+    {
+      "text": "Qui peut dire qui j'aimerai demain",
+      "start": 676,
+      "duration": 5.2
+    },
+    {
+      "text": "Bohémienne",
+      "start": 681.2,
+      "duration": 1.95
+    },
+    {
+      "text": "Bohémienne",
+      "start": 683.15,
+      "duration": 1.95
+    },
+    {
+      "text": "C'est écrit dans les lignes de ma main",
+      "start": 691,
+      "duration": 5.85
+    },
+    {
+      "text": "J'ai passé toute mon enfance",
+      "start": 703,
+      "duration": 3.267
+    },
+    {
+      "text": "Pieds nus sur les monts de Provence",
+      "start": 706.267,
+      "duration": 3.733
+    },
+    {
+      "text": "Pour les gitans la route est longue",
+      "start": 710,
+      "duration": 5.2
+    },
+    {
+      "text": "La route est longue",
+      "start": 715.2,
+      "duration": 2.6
+    },
+    {
+      "text": "Je continuerai mon errance",
+      "start": 718,
+      "duration": 3.5
+    },
+    {
+      "text": "Au-delà des chemins de France",
+      "start": 721.5,
+      "duration": 3.5
+    },
+    {
+      "text": "Je les suivrai au bout du monde",
+      "start": 725,
+      "duration": 4.667
+    },
+    {
+      "text": "Au bout du monde",
+      "start": 729.667,
+      "duration": 2.333
+    },
+    {
+      "text": "Un fleuve d'Andalousie",
+      "start": 732,
+      "duration": 3.9
+    },
+    {
+      "text": "Coule dans mon sang",
+      "start": 735.9,
+      "duration": 2.6
+    },
+    {
+      "text": "Coule dans mes veines",
+      "start": 742,
+      "duration": 2.6
+    },
+    {
+      "text": "Le ciel d'Andalousie",
+      "start": 744.6,
+      "duration": 3.9
+    },
+    {
+      "text": "Vaut-il la peine",
+      "start": 753,
+      "duration": 2.6
+    },
+    {
+      "text": "Qu'on y revienne?",
+      "start": 755.6,
+      "duration": 2.6
+    },
+    {
+      "text": "Bohémienne",
+      "start": 763,
+      "duration": 1.2
+    },
+    {
+      "text": "Nul ne sait le pays d'où je viens",
+      "start": 764.2,
+      "duration": 3.6
+    },
+    {
+      "text": "Bohémienne",
+      "start": 767.8,
+      "duration": 1.2
+    },
+    {
+      "text": "Je suis fille de grands chemins",
+      "start": 769.0,
+      "duration": 2.8
+    },
+    {
+      "text": "Bohémienne",
+      "start": 771.8,
+      "duration": 1.2
+    },
+    {
+      "text": "Bohémienne",
+      "start": 792,
+      "duration": 1.167
+    },
+    {
+      "text": "Qui peut dire ce que sera demain",
+      "start": 793.167,
+      "duration": 3.5
+    },
+    {
+      "text": "Bohémienne",
+      "start": 796.667,
+      "duration": 1.166
+    },
+    {
+      "text": "Bohémienne",
+      "start": 797.833,
+      "duration": 1.167
+    },
+    {
+      "text": "C'est écrit dans les lignes de ma main",
+      "start": 808,
+      "duration": 5.85
+    },
+    {
+      "text": "C'est écrit dans les lignes de ma main",
+      "start": 815,
+      "duration": 5.85
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=520",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -164,6 +460,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

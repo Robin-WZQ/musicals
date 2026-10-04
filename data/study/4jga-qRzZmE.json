@@ -1,0 +1,1066 @@
+{
+  "videoId": "4jga-qRzZmE",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=2375"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 2378,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2378,
+        "similarity": 0.756,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2379.273,
+      "sourceText": "Je suis un homme partagé",
+      "ipa": "[ʒə sɥi œ̃n‿ɔm paʁtaʒe]",
+      "ear": "热 斯于伊 恩恩 哦姆 帕赫塔热",
+      "meaning": "我是个分成两半的男人",
+      "sourceIPA": "/ʒə sɥiz œ̃n ɔm paʁtaʒe/",
+      "sourceLineId": "notre-dame-de-paris-17-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2378,
+        "similarity": 0.756,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2382.242,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2378,
+        "similarity": 0.756,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2383.515,
+      "sourceText": "Entre deux femmes que j'aime",
+      "ipa": "[ɑ̃tʁ dø fam kə ʒɛm]",
+      "ear": "昂特赫 德厄 法姆 克 热姆",
+      "meaning": "在我爱的两个女人之间",
+      "sourceIPA": "/ɑ̃tʁ dø fam kə ʒɛm/",
+      "sourceLineId": "notre-dame-de-paris-17-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2378,
+        "similarity": 0.756,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2385.636,
+      "sourceText": "Entre deux femmes qui m'aiment",
+      "ipa": "[ɑ̃tʁ dø fam ki mɛm]",
+      "ear": "昂特赫 德厄 法姆 基 梅姆",
+      "meaning": "在爱我的两个女人之间",
+      "sourceIPA": "/ɑ̃tʁ dø fam ki mɛm/",
+      "sourceLineId": "notre-dame-de-paris-17-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2378,
+        "similarity": 0.756,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2387.758,
+      "sourceText": "Faut-il que je me coupe le cœur en deux?",
+      "ipa": "[fotil kə ʒə mə kup lə kœʁ‿ɑ̃ dø]",
+      "ear": "佛蒂勒 克 热 默 库普 勒 克厄赫 昂 德厄",
+      "meaning": "我是否该把心切成两半？",
+      "sourceIPA": "/fotil kə ʒə mə kup lə kœʁ ɑ̃ dø/",
+      "sourceLineId": "notre-dame-de-paris-17-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2378,
+        "similarity": 0.756,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2392,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2392,
+        "similarity": 0.72,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2393.182,
+      "sourceText": "Je suis un homme dédoublé",
+      "ipa": "[ʒə sɥi œ̃n‿ɔm deduble]",
+      "ear": "热 斯于伊 恩恩 哦姆 德杜布莱",
+      "meaning": "我是个分成两半的男人",
+      "sourceIPA": "/ʒə sɥiz œ̃n ɔm deduble/",
+      "sourceLineId": "notre-dame-de-paris-17-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2392,
+        "similarity": 0.72,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2395.939,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2392,
+        "similarity": 0.72,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2397.121,
+      "sourceText": "Entre deux femmes que j'aime",
+      "ipa": "[ɑ̃tʁ dø fam kə ʒɛm]",
+      "ear": "昂特赫 德厄 法姆 克 热姆",
+      "meaning": "在我爱的两个女人之间",
+      "sourceIPA": "/ɑ̃tʁ dø fam kə ʒɛm/",
+      "sourceLineId": "notre-dame-de-paris-17-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2392,
+        "similarity": 0.72,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2399.091,
+      "sourceText": "Entre deux femmes qui m'aiment",
+      "ipa": "[ɑ̃tʁ dø fam ki mɛm]",
+      "ear": "昂特赫 德厄 法姆 基 梅姆",
+      "meaning": "在爱我的两个女人之间",
+      "sourceIPA": "/ɑ̃tʁ dø fam ki mɛm/",
+      "sourceLineId": "notre-dame-de-paris-17-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2392,
+        "similarity": 0.72,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2401.061,
+      "sourceText": "Est-ce ma faute si je suis un homme heureux?",
+      "ipa": "[ɛs ma fot si ʒə sɥi œ̃n‿ɔm‿øʁø]",
+      "ear": "艾斯 玛 佛特 西 热 斯于伊 恩恩 哦姆 厄赫厄",
+      "meaning": "我是否该把心切成两半？",
+      "sourceIPA": "/ɛs ma fot si ʒə sɥiz œ̃n ɔm øʁø/",
+      "sourceLineId": "notre-dame-de-paris-17-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2392,
+        "similarity": 0.72,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2405,
+      "sourceText": "L'une pour le jour",
+      "ipa": "[lyn puʁ lə ʒuʁ]",
+      "ear": "吕恩 普赫 勒 茹赫",
+      "meaning": "一个女人是白天",
+      "sourceIPA": "/lyn puʁ lə ʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-17-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2405,
+        "similarity": 0.948,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2406.636,
+      "sourceText": "Et l'autre pour la nuit",
+      "ipa": "[e lotʁ puʁ la nɥi]",
+      "ear": "诶 洛特赫 普赫 拉 恩于伊",
+      "meaning": "另一个留给夜晚",
+      "sourceIPA": "/e lotʁ puʁ la nɥi/",
+      "sourceLineId": "notre-dame-de-paris-17-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2405,
+        "similarity": 0.948,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2408.682,
+      "sourceText": "L'une pour l'amour",
+      "ipa": "[lyn puʁ lamuʁ]",
+      "ear": "吕恩 普赫 拉穆赫",
+      "meaning": "一个让我去爱",
+      "sourceIPA": "/lyn puʁ lamuʁ/",
+      "sourceLineId": "notre-dame-de-paris-17-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2405,
+        "similarity": 0.948,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2410.318,
+      "sourceText": "Et l'autre pour la vie",
+      "ipa": "[e lotʁ puʁ la vi]",
+      "ear": "诶 洛特赫 普赫 拉 维",
+      "meaning": "另一个让我存在",
+      "sourceIPA": "/e lotʁ puʁ la vi/",
+      "sourceLineId": "notre-dame-de-paris-17-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2405,
+        "similarity": 0.948,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2412.364,
+      "sourceText": "L'une pour toujours",
+      "ipa": "[lyn puʁ tuʒuʁ]",
+      "ear": "吕恩 普赫 图茹赫",
+      "meaning": "一个一生一世",
+      "sourceIPA": "/lyn puʁ tuʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-17-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2405,
+        "similarity": 0.948,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2414,
+      "sourceText": "Jusqu'à la fin des temps",
+      "ipa": "[ʒyska la fɛ̃ de tɑ̃]",
+      "ear": "日于斯卡 拉 凡 德 唐",
+      "meaning": "直到时间尽头",
+      "sourceIPA": "/ʒyska la fɛ̃ de tɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-17-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2414,
+        "similarity": 0.71,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2416.16,
+      "sourceText": "Et l'autre pour un temps",
+      "ipa": "[e lotʁ puʁ‿œ̃ tɑ̃]",
+      "ear": "诶 洛特赫 普赫 恩 唐",
+      "meaning": "另一个只在此时",
+      "sourceIPA": "/e lotʁ puʁ œ̃ tɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-17-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2414,
+        "similarity": 0.71,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2417.96,
+      "sourceText": "Un peu plus court",
+      "ipa": "[œ̃ pø ply kuʁ]",
+      "ear": "恩 珀厄 普吕 库赫",
+      "meaning": "稍微短暂一些",
+      "sourceIPA": "/œ̃ pø ply kuʁ/",
+      "sourceLineId": "notre-dame-de-paris-17-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2414,
+        "similarity": 0.71,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2419.4,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2414,
+        "similarity": 0.71,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2420.48,
+      "sourceText": "Je suis un homme partagé",
+      "ipa": "[ʒə sɥi œ̃n‿ɔm paʁtaʒe]",
+      "ear": "热 斯于伊 恩恩 哦姆 帕赫塔热",
+      "meaning": "我是个分成两半的男人",
+      "sourceIPA": "/ʒə sɥiz œ̃n ɔm paʁtaʒe/",
+      "sourceLineId": "notre-dame-de-paris-17-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2414,
+        "similarity": 0.71,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2423,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2423,
+        "similarity": 0.77,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2424.304,
+      "sourceText": "Entre deux femmes que j'aime",
+      "ipa": "[ɑ̃tʁ dø fam kə ʒɛm]",
+      "ear": "昂特赫 德厄 法姆 克 热姆",
+      "meaning": "在我爱的两个女人之间",
+      "sourceIPA": "/ɑ̃tʁ dø fam kə ʒɛm/",
+      "sourceLineId": "notre-dame-de-paris-17-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2423,
+        "similarity": 0.77,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2426.478,
+      "sourceText": "Entre deux femmes qui m'aiment",
+      "ipa": "[ɑ̃tʁ dø fam ki mɛm]",
+      "ear": "昂特赫 德厄 法姆 基 梅姆",
+      "meaning": "在爱我的两个女人之间",
+      "sourceIPA": "/ɑ̃tʁ dø fam ki mɛm/",
+      "sourceLineId": "notre-dame-de-paris-17-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2423,
+        "similarity": 0.77,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2428.652,
+      "sourceText": "Mais ce n'est pas à moi qu'ça fait du mal",
+      "ipa": "[mɛ sə nɛ pa a mwa ksa fɛ dy mal]",
+      "ear": "梅 瑟 奈 帕 阿 姆乌阿 克萨 费 迪于 玛勒",
+      "meaning": "但受伤的不是我",
+      "sourceIPA": "/mɛ sə nɛ paz a mwa kwsa fɛ dy mal/",
+      "sourceLineId": "notre-dame-de-paris-17-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2423,
+        "similarity": 0.77,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2433,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2433,
+        "similarity": 0.7,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2434.273,
+      "sourceText": "Je suis un homme dédoublé",
+      "ipa": "[ʒə sɥi œ̃n‿ɔm deduble]",
+      "ear": "热 斯于伊 恩恩 哦姆 德杜布莱",
+      "meaning": "我是个分成两半的男人",
+      "sourceIPA": "/ʒə sɥiz œ̃n ɔm deduble/",
+      "sourceLineId": "notre-dame-de-paris-17-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2433,
+        "similarity": 0.7,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2437.242,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2433,
+        "similarity": 0.7,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2438.515,
+      "sourceText": "Entre deux femmes que j'aime",
+      "ipa": "[ɑ̃tʁ dø fam kə ʒɛm]",
+      "ear": "昂特赫 德厄 法姆 克 热姆",
+      "meaning": "在我爱的两个女人之间",
+      "sourceIPA": "/ɑ̃tʁ dø fam kə ʒɛm/",
+      "sourceLineId": "notre-dame-de-paris-17-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2433,
+        "similarity": 0.7,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2440.636,
+      "sourceText": "Entre deux femmes qui m'aiment",
+      "ipa": "[ɑ̃tʁ dø fam ki mɛm]",
+      "ear": "昂特赫 德厄 法姆 基 梅姆",
+      "meaning": "在爱我的两个女人之间",
+      "sourceIPA": "/ɑ̃tʁ dø fam ki mɛm/",
+      "sourceLineId": "notre-dame-de-paris-17-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2433,
+        "similarity": 0.7,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2442.758,
+      "sourceText": "Est-ce ma faute si je suis un homme normal?",
+      "ipa": "[ɛs ma fot si ʒə sɥi œ̃n‿ɔm nɔʁmal]",
+      "ear": "艾斯 玛 佛特 西 热 斯于伊 恩恩 哦姆 诺赫玛勒",
+      "meaning": "如果我是个正常男人，这难道是我的错？",
+      "sourceIPA": "/ɛs ma fot si ʒə sɥiz œ̃n ɔm nɔʁmal/",
+      "sourceLineId": "notre-dame-de-paris-17-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2433,
+        "similarity": 0.7,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2447,
+      "sourceText": "L'une pour le ciel",
+      "ipa": "[lyn puʁ lə sjɛl]",
+      "ear": "吕恩 普赫 勒 斯耶艾勒",
+      "meaning": "一个如同天堂",
+      "sourceIPA": "/lyn puʁ lə sjɛl/",
+      "sourceLineId": "notre-dame-de-paris-17-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2447,
+        "similarity": 0.567,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2448.455,
+      "sourceText": "Et l'autre pour l'enfer",
+      "ipa": "[e lotʁ puʁ lɑ̃fɛʁ]",
+      "ear": "诶 洛特赫 普赫 朗费赫",
+      "meaning": "另一个如同地狱",
+      "sourceIPA": "/e lotʁ puʁ lɑ̃fɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-17-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2447,
+        "similarity": 0.567,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2450.273,
+      "sourceText": "L'une pour le miel",
+      "ipa": "[lyn puʁ lə mjɛl]",
+      "ear": "吕恩 普赫 勒 姆耶艾勒",
+      "meaning": "一个很甜",
+      "sourceIPA": "/lyn puʁ lə mjɛl/",
+      "sourceLineId": "notre-dame-de-paris-17-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2447,
+        "similarity": 0.567,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2451.727,
+      "sourceText": "Et l'autre pour l'amer",
+      "ipa": "[e lotʁ puʁ lame]",
+      "ear": "诶 洛特赫 普赫 拉梅",
+      "meaning": "另一个很酸",
+      "sourceIPA": "/e lotʁ puʁ lame/",
+      "sourceLineId": "notre-dame-de-paris-17-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2447,
+        "similarity": 0.567,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2453.545,
+      "sourceText": "L'une à laquelle",
+      "ipa": "[lyn‿a lakɛl]",
+      "ear": "吕恩 阿 拉凯勒",
+      "meaning": "对其中一个",
+      "sourceIPA": "/lyn a lakɛl/",
+      "sourceLineId": "notre-dame-de-paris-17-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2447,
+        "similarity": 0.567,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2455,
+      "sourceText": "J'ai fait tous les serments",
+      "ipa": "[ʒe fɛ tu le sɛʁmɑ̃]",
+      "ear": "热 费 图 莱 塞赫芒",
+      "meaning": "我发尽誓言",
+      "sourceIPA": "/ʒe fɛ tu le sɛʁmɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-17-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2455,
+        "similarity": 0.494,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2457.077,
+      "sourceText": "Et l'autre avec laquelle",
+      "ipa": "[e lotʁ‿avɛk lakɛl]",
+      "ear": "诶 洛特赫 阿韦克 拉凯勒",
+      "meaning": "到另一边",
+      "sourceIPA": "/e lotʁ avɛk lakɛl/",
+      "sourceLineId": "notre-dame-de-paris-17-039",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2455,
+        "similarity": 0.494,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2459.154,
+      "sourceText": "Je les démens",
+      "ipa": "[ʒə le demɑ̃]",
+      "ear": "热 莱 德芒",
+      "meaning": "我又统统违背",
+      "sourceIPA": "/ʒə le demɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-17-040",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2455,
+        "similarity": 0.494,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2460.538,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-041",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2455,
+        "similarity": 0.494,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2461.577,
+      "sourceText": "Je suis un homme partagé",
+      "ipa": "[ʒə sɥi œ̃n‿ɔm paʁtaʒe]",
+      "ear": "热 斯于伊 恩恩 哦姆 帕赫塔热",
+      "meaning": "我是个分成两半的男人",
+      "sourceIPA": "/ʒə sɥiz œ̃n ɔm paʁtaʒe/",
+      "sourceLineId": "notre-dame-de-paris-17-042",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2455,
+        "similarity": 0.494,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2464,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-043",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2464,
+        "similarity": 0.834,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2465.304,
+      "sourceText": "Entre deux femmes que j'aime",
+      "ipa": "[ɑ̃tʁ dø fam kə ʒɛm]",
+      "ear": "昂特赫 德厄 法姆 克 热姆",
+      "meaning": "在我爱的两个女人之间",
+      "sourceIPA": "/ɑ̃tʁ dø fam kə ʒɛm/",
+      "sourceLineId": "notre-dame-de-paris-17-044",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2464,
+        "similarity": 0.834,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2467.478,
+      "sourceText": "Entre deux femmes qui m'aiment",
+      "ipa": "[ɑ̃tʁ dø fam ki mɛm]",
+      "ear": "昂特赫 德厄 法姆 基 梅姆",
+      "meaning": "在爱我的两个女人之间",
+      "sourceIPA": "/ɑ̃tʁ dø fam ki mɛm/",
+      "sourceLineId": "notre-dame-de-paris-17-045",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2464,
+        "similarity": 0.834,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2469.652,
+      "sourceText": "Faut-il que je me coupe le cœur en deux?",
+      "ipa": "[fotil kə ʒə mə kup lə kœʁ‿ɑ̃ dø]",
+      "ear": "佛蒂勒 克 热 默 库普 勒 克厄赫 昂 德厄",
+      "meaning": "我是否该把心切成两半？",
+      "sourceIPA": "/fotil kə ʒə mə kup lə kœʁ ɑ̃ dø/",
+      "sourceLineId": "notre-dame-de-paris-17-046",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2464,
+        "similarity": 0.834,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2488,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-047",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2488,
+        "similarity": 0.72,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2489.273,
+      "sourceText": "Je suis un homme dédoublé",
+      "ipa": "[ʒə sɥi œ̃n‿ɔm deduble]",
+      "ear": "热 斯于伊 恩恩 哦姆 德杜布莱",
+      "meaning": "我是个分成两半的男人",
+      "sourceIPA": "/ʒə sɥiz œ̃n ɔm deduble/",
+      "sourceLineId": "notre-dame-de-paris-17-048",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2488,
+        "similarity": 0.72,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2492.242,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-049",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2488,
+        "similarity": 0.72,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2493.515,
+      "sourceText": "Entre deux femmes que j'aime",
+      "ipa": "[ɑ̃tʁ dø fam kə ʒɛm]",
+      "ear": "昂特赫 德厄 法姆 克 热姆",
+      "meaning": "在我爱的两个女人之间",
+      "sourceIPA": "/ɑ̃tʁ dø fam kə ʒɛm/",
+      "sourceLineId": "notre-dame-de-paris-17-050",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2488,
+        "similarity": 0.72,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2495.636,
+      "sourceText": "Entre deux femmes qui m'aiment",
+      "ipa": "[ɑ̃tʁ dø fam ki mɛm]",
+      "ear": "昂特赫 德厄 法姆 基 梅姆",
+      "meaning": "在爱我的两个女人之间",
+      "sourceIPA": "/ɑ̃tʁ dø fam ki mɛm/",
+      "sourceLineId": "notre-dame-de-paris-17-051",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2488,
+        "similarity": 0.72,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2497.758,
+      "sourceText": "Est-ce ma faute si je suis un homme heureux?",
+      "ipa": "[ɛs ma fot si ʒə sɥi œ̃n‿ɔm‿øʁø]",
+      "ear": "艾斯 玛 佛特 西 热 斯于伊 恩恩 哦姆 厄赫厄",
+      "meaning": "如果我是个幸福的男人，这难道是我的错？",
+      "sourceIPA": "/ɛs ma fot si ʒə sɥiz œ̃n ɔm øʁø/",
+      "sourceLineId": "notre-dame-de-paris-17-052",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2488,
+        "similarity": 0.72,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 2502,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-053",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2502,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2504.5,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-054",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2502,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2515,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-055",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2515,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2522,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-056",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2522,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2524.5,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-057",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2522,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2531,
+      "sourceText": "Je suis un homme partagé",
+      "ipa": "[ʒə sɥi œ̃n‿ɔm paʁtaʒe]",
+      "ear": "热 斯于伊 恩恩 哦姆 帕赫塔热",
+      "meaning": "我是个分成两半的男人",
+      "sourceIPA": "/ʒə sɥiz œ̃n ɔm paʁtaʒe/",
+      "sourceLineId": "notre-dame-de-paris-17-058",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2531,
+        "similarity": 0.705,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2533.8,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-059",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2531,
+        "similarity": 0.705,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2535.0,
+      "sourceText": "Entre deux femmes que j'aime",
+      "ipa": "[ɑ̃tʁ dø fam kə ʒɛm]",
+      "ear": "昂特赫 德厄 法姆 克 热姆",
+      "meaning": "在我爱的两个女人之间",
+      "sourceIPA": "/ɑ̃tʁ dø fam kə ʒɛm/",
+      "sourceLineId": "notre-dame-de-paris-17-060",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2531,
+        "similarity": 0.705,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2537.0,
+      "sourceText": "Entre deux femmes qui m'aiment",
+      "ipa": "[ɑ̃tʁ dø fam ki mɛm]",
+      "ear": "昂特赫 德厄 法姆 基 梅姆",
+      "meaning": "在爱我的两个女人之间",
+      "sourceIPA": "/ɑ̃tʁ dø fam ki mɛm/",
+      "sourceLineId": "notre-dame-de-paris-17-061",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2531,
+        "similarity": 0.705,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2539.0,
+      "sourceText": "Faut-il que je me coupe le cœur en deux?",
+      "ipa": "[fotil kə ʒə mə kup lə kœʁ‿ɑ̃ dø]",
+      "ear": "佛蒂勒 克 热 默 库普 勒 克厄赫 昂 德厄",
+      "meaning": "我是否该把心切成两半？",
+      "sourceIPA": "/fotil kə ʒə mə kup lə kœʁ ɑ̃ dø/",
+      "sourceLineId": "notre-dame-de-paris-17-062",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2531,
+        "similarity": 0.705,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2543,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-063",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2543,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2550,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-064",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2550,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2552.5,
+      "sourceText": "Déchiré",
+      "ipa": "[deʃiʁe]",
+      "ear": "德希赫",
+      "meaning": "撕裂",
+      "sourceIPA": "/deʃiʁe/",
+      "sourceLineId": "notre-dame-de-paris-17-065",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2550,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    }
+  ]
+}

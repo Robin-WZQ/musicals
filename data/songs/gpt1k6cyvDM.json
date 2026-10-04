@@ -8,15 +8,131 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 11,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Les portes de Paris",
+      "start": 1660,
+      "duration": 5.0
+    },
+    {
+      "text": "déjà se ferment sur la nuit",
+      "start": 1670,
+      "duration": 1.697
+    },
+    {
+      "text": "La nuit de tous les cris",
+      "start": 1671.697,
+      "duration": 1.455
+    },
+    {
+      "text": "De tous les rires et de tous les désirs",
+      "start": 1673.152,
+      "duration": 2.424
+    },
+    {
+      "text": "La nuit de tous les vices qui s'assouvissent",
+      "start": 1675.576,
+      "duration": 2.424
+    },
+    {
+      "text": "Dans le lit de Paris",
+      "start": 1686,
+      "duration": 3.429
+    },
+    {
+      "text": "Cabaret de tous les délires",
+      "start": 1689.429,
+      "duration": 4.571
+    },
+    {
+      "text": "Sur le Pont-au-Change",
+      "start": 1694,
+      "duration": 3.25
+    },
+    {
+      "text": "Ce soir j'ai rencontré un ange",
+      "start": 1697.25,
+      "duration": 5.2
+    },
+    {
+      "text": "Qui m'a souri",
+      "start": 1703,
+      "duration": 2.0
+    },
+    {
+      "text": "Et qui loin de ma vue a disparu",
+      "start": 1705.0,
+      "duration": 5.0
+    },
+    {
+      "text": "Dans les rues de Paris",
+      "start": 1710,
+      "duration": 3.9
+    },
+    {
+      "text": "Je l'ai suivie, je l'ai perdue",
+      "start": 1713.9,
+      "duration": 5.2
+    },
+    {
+      "text": "J'ai poursuivi la nuit",
+      "start": 1720,
+      "duration": 3.375
+    },
+    {
+      "text": "De tous les rires et de tous les désirs",
+      "start": 1723.375,
+      "duration": 5.625
+    },
+    {
+      "text": "La nuit de tous les vices qui s'assouvissent",
+      "start": 1729,
+      "duration": 6.5
+    },
+    {
+      "text": "Dans le lit de Paris",
+      "start": 1736,
+      "duration": 3.857
+    },
+    {
+      "text": "Cabaret de tous les délires",
+      "start": 1739.857,
+      "duration": 5.143
+    },
+    {
+      "text": "Les portes de Paris",
+      "start": 1745,
+      "duration": 5.0
+    },
+    {
+      "text": "Déjà se ferment sur la nuit",
+      "start": 1755,
+      "duration": 2.882
+    },
+    {
+      "text": "La nuit de tous les crimes",
+      "start": 1757.882,
+      "duration": 2.471
+    },
+    {
+      "text": "De tous les rires",
+      "start": 1760.353,
+      "duration": 1.647
+    },
+    {
+      "text": "Et de tous les désirs",
+      "start": 1762,
+      "duration": 5.0
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=1652",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -88,6 +204,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

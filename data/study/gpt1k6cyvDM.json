@@ -1,0 +1,394 @@
+{
+  "videoId": "gpt1k6cyvDM",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=1652"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 1660,
+      "sourceText": "Les portes de Paris",
+      "ipa": "[le pɔʁt də paʁi]",
+      "ear": "莱 珀赫特 德 帕希",
+      "meaning": "巴黎的城门",
+      "sourceIPA": "/le pɔʁt də paʁi/",
+      "sourceLineId": "notre-dame-de-paris-12-002",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1660,
+        "similarity": 0.661,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 1670,
+      "sourceText": "déjà se ferment sur la nuit",
+      "ipa": "[deʒa sə fɛʁm syʁ la nɥi]",
+      "ear": "德扎 瑟 费赫姆 西于赫 拉 恩于伊",
+      "meaning": "已深锁于夜色中",
+      "sourceIPA": "/deʒa sə fɛʁm syʁ la nɥi/",
+      "sourceLineId": "notre-dame-de-paris-12-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1670,
+        "similarity": 0.298,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1671.697,
+      "sourceText": "La nuit de tous les cris",
+      "ipa": "[la nɥi də tu le kʁi]",
+      "ear": "拉 恩于伊 德 图 莱 克希",
+      "meaning": "夜晚 所有呼喊",
+      "sourceIPA": "/la nɥi də tu le kʁi/",
+      "sourceLineId": "notre-dame-de-paris-12-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1670,
+        "similarity": 0.298,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1673.152,
+      "sourceText": "De tous les rires et de tous les désirs",
+      "ipa": "[də tu le ʁiʁ e də tu le deziʁ]",
+      "ear": "德 图 莱 希赫 诶 德 图 莱 德齐赫",
+      "meaning": "狂欢与欲望",
+      "sourceIPA": "/də tu le ʁiʁz e də tu le deziʁ/",
+      "sourceLineId": "notre-dame-de-paris-12-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1670,
+        "similarity": 0.298,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1675.576,
+      "sourceText": "La nuit de tous les vices qui s'assouvissent",
+      "ipa": "[la nɥi də tu le vis ki sasuvis]",
+      "ear": "拉 恩于伊 德 图 莱 维斯 基 萨苏维斯",
+      "meaning": "夜晚 所有罪恶各得其所",
+      "sourceIPA": "/la nɥi də tu le vis ki sasuvis/",
+      "sourceLineId": "notre-dame-de-paris-12-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1670,
+        "similarity": 0.298,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1686,
+      "sourceText": "Dans le lit de Paris",
+      "ipa": "[dɑ̃ lə li də paʁi]",
+      "ear": "当 勒 利 德 帕希",
+      "meaning": "在巴黎的床第间",
+      "sourceIPA": "/dɑ̃ lə li də paʁi/",
+      "sourceLineId": "notre-dame-de-paris-12-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1686,
+        "similarity": 0.412,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1689.429,
+      "sourceText": "Cabaret de tous les délires",
+      "ipa": "[kabaʁɛ də tu le deliʁ]",
+      "ear": "卡巴赫 德 图 莱 德利赫",
+      "meaning": "欲望充斥小酒馆",
+      "sourceIPA": "/kabaʁɛ də tu le deliʁ/",
+      "sourceLineId": "notre-dame-de-paris-12-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1686,
+        "similarity": 0.412,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1694,
+      "sourceText": "Sur le Pont-au-Change",
+      "ipa": "[syʁ lə pɔ̃toʃɑ̃ʒ]",
+      "ear": "西于赫 勒 蓬托尚日",
+      "meaning": "在欧项热桥上",
+      "sourceIPA": "/syʁ lə pɔ̃toʃɑ̃ʒ/",
+      "sourceLineId": "notre-dame-de-paris-12-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1694,
+        "similarity": 0.575,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1697.25,
+      "sourceText": "Ce soir j'ai rencontré un ange",
+      "ipa": "[sə swaʁ ʒe ʁɑ̃kɔ̃tʁe œ̃n‿ɑ̃ʒ]",
+      "ear": "瑟 斯乌阿赫 热 杭孔特赫 恩恩 昂日",
+      "meaning": "我遇见一位天使",
+      "sourceIPA": "/sə swaʁ ʒe ʁɑ̃kɔ̃tʁe œ̃n ɑ̃ʒ/",
+      "sourceLineId": "notre-dame-de-paris-12-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1694,
+        "similarity": 0.575,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1703,
+      "sourceText": "Qui m'a souri",
+      "ipa": "[ki ma suʁi]",
+      "ear": "基 玛 苏希",
+      "meaning": "她对我微笑",
+      "sourceIPA": "/ki ma suʁi/",
+      "sourceLineId": "notre-dame-de-paris-12-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1703,
+        "similarity": 0.586,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1705.0,
+      "sourceText": "Et qui loin de ma vue a disparu",
+      "ipa": "[e ki lwɛ̃ də ma vy a dispaʁy]",
+      "ear": "诶 基 勒乌安 德 玛 维于 阿 迪斯帕许",
+      "meaning": "然后消失在我视野远处",
+      "sourceIPA": "/e ki lwɛ̃ də ma vy a dispaʁy/",
+      "sourceLineId": "notre-dame-de-paris-12-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1703,
+        "similarity": 0.586,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1710,
+      "sourceText": "Dans les rues de Paris",
+      "ipa": "[dɑ̃ le ʁy də paʁi]",
+      "ear": "当 莱 许 德 帕希",
+      "meaning": "在巴黎的街道上",
+      "sourceIPA": "/dɑ̃ le ʁy də paʁi/",
+      "sourceLineId": "notre-dame-de-paris-12-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1710,
+        "similarity": 0.973,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1713.9,
+      "sourceText": "Je l'ai suivie, je l'ai perdue",
+      "ipa": "[ʒə le sɥivi ʒə le pɛʁdy]",
+      "ear": "热 莱 斯于伊维 热 莱 佩赫迪于",
+      "meaning": "我追随她 又迷失她",
+      "sourceIPA": "/ʒə le sɥivi ʒə le pɛʁdy/",
+      "sourceLineId": "notre-dame-de-paris-12-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1710,
+        "similarity": 0.973,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1720,
+      "sourceText": "J'ai poursuivi la nuit",
+      "ipa": "[ʒe puʁsɥivi la nɥi]",
+      "ear": "热 普赫斯于伊维 拉 恩于伊",
+      "meaning": "我追随夜色",
+      "sourceIPA": "/ʒe puʁsɥivi la nɥi/",
+      "sourceLineId": "notre-dame-de-paris-12-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1720,
+        "similarity": 0.58,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1723.375,
+      "sourceText": "De tous les rires et de tous les désirs",
+      "ipa": "[də tu le ʁiʁ e də tu le deziʁ]",
+      "ear": "德 图 莱 希赫 诶 德 图 莱 德齐赫",
+      "meaning": "狂欢与欲望的夜晚",
+      "sourceIPA": "/də tu le ʁiʁz e də tu le deziʁ/",
+      "sourceLineId": "notre-dame-de-paris-12-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1720,
+        "similarity": 0.58,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1729,
+      "sourceText": "La nuit de tous les vices qui s'assouvissent",
+      "ipa": "[la nɥi də tu le vis ki sasuvis]",
+      "ear": "拉 恩于伊 德 图 莱 维斯 基 萨苏维斯",
+      "meaning": "夜晚 所有罪恶各得其所",
+      "sourceIPA": "/la nɥi də tu le vis ki sasuvis/",
+      "sourceLineId": "notre-dame-de-paris-12-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1729,
+        "similarity": 0.23,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 1736,
+      "sourceText": "Dans le lit de Paris",
+      "ipa": "[dɑ̃ lə li də paʁi]",
+      "ear": "当 勒 利 德 帕希",
+      "meaning": "在巴黎的床笫间",
+      "sourceIPA": "/dɑ̃ lə li də paʁi/",
+      "sourceLineId": "notre-dame-de-paris-12-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1736,
+        "similarity": 0.412,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1739.857,
+      "sourceText": "Cabaret de tous les délires",
+      "ipa": "[kabaʁɛ də tu le deliʁ]",
+      "ear": "卡巴赫 德 图 莱 德利赫",
+      "meaning": "欲望充斥小酒馆",
+      "sourceIPA": "/kabaʁɛ də tu le deliʁ/",
+      "sourceLineId": "notre-dame-de-paris-12-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1736,
+        "similarity": 0.412,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1745,
+      "sourceText": "Les portes de Paris",
+      "ipa": "[le pɔʁt də paʁi]",
+      "ear": "莱 珀赫特 德 帕希",
+      "meaning": "巴黎的城门",
+      "sourceIPA": "/le pɔʁt də paʁi/",
+      "sourceLineId": "notre-dame-de-paris-12-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1745,
+        "similarity": 0.661,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 1755,
+      "sourceText": "Déjà se ferment sur la nuit",
+      "ipa": "[deʒa sə fɛʁm syʁ la nɥi]",
+      "ear": "德扎 瑟 费赫姆 西于赫 拉 恩于伊",
+      "meaning": "已深锁于夜色中",
+      "sourceIPA": "/deʒa sə fɛʁm syʁ la nɥi/",
+      "sourceLineId": "notre-dame-de-paris-12-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1755,
+        "similarity": 0.375,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1757.882,
+      "sourceText": "La nuit de tous les crimes",
+      "ipa": "[la nɥi də tu le kʁim]",
+      "ear": "拉 恩于伊 德 图 莱 克希姆",
+      "meaning": "夜晚充斥着罪恶",
+      "sourceIPA": "/la nɥi də tu le kʁim/",
+      "sourceLineId": "notre-dame-de-paris-12-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1755,
+        "similarity": 0.375,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1760.353,
+      "sourceText": "De tous les rires",
+      "ipa": "[də tu le ʁiʁ]",
+      "ear": "德 图 莱 希赫",
+      "meaning": "充满着狂欢",
+      "sourceIPA": "/də tu le ʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-12-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1755,
+        "similarity": 0.375,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1762,
+      "sourceText": "Et de tous les désirs",
+      "ipa": "[e də tu le deziʁ]",
+      "ear": "诶 德 图 莱 德齐赫",
+      "meaning": "充满着欲望",
+      "sourceIPA": "/e də tu le deziʁ/",
+      "sourceLineId": "notre-dame-de-paris-12-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1762,
+        "similarity": 0.52,
+        "groupSize": 1
+      }
+    }
+  ]
+}

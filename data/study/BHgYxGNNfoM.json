@@ -1,0 +1,410 @@
+{
+  "videoId": "BHgYxGNNfoM",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5828"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 5835,
+      "sourceText": "J'étais ensorcelé dans ma tête dans mon corps",
+      "ipa": "[ʒetɛ ɑ̃sɔʁsəle dɑ̃ ma tɛt dɑ̃ mɔ̃ kɔʁ]",
+      "ear": "热泰 昂索赫瑟莱 当 玛 泰特 当 蒙 科赫",
+      "meaning": "当时我的身心受了魅惑",
+      "sourceIPA": "/ʒetɛz ɑ̃sɔʁsəle dɑ̃ ma tɛt dɑ̃ mɔ̃ kɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-39-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5835,
+        "similarity": 0.626,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5839.364,
+      "sourceText": "La bohémienne m'avait jeté un sort",
+      "ipa": "[la boemjɛn mavɛ ʒəte œ̃ sɔʁ]",
+      "ear": "拉 博诶姆耶艾恩 玛韦 热特 恩 索赫",
+      "meaning": "那波希米亚女人对我施了法",
+      "sourceIPA": "/la boemjɛn mavɛ ʒəte œ̃ sɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-39-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5835,
+        "similarity": 0.626,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5843,
+      "sourceText": "J'étais déboussolé",
+      "ipa": "[ʒetɛ debusole]",
+      "ear": "热泰 德布索莱",
+      "meaning": "我当时不知所措",
+      "sourceIPA": "/ʒetɛ debusole/",
+      "sourceLineId": "notre-dame-de-paris-39-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5843,
+        "similarity": 0.224,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5845.455,
+      "sourceText": "J'avais perdu le nord",
+      "ipa": "[ʒavɛ pɛʁdy lə nɔʁ]",
+      "ear": "扎韦 佩赫迪于 勒 诺赫",
+      "meaning": "我一时迷失方向",
+      "sourceIPA": "/ʒavɛ pɛʁdy lə nɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-39-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5843,
+        "similarity": 0.224,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5847.909,
+      "sourceText": "Dans ces méandres où j'ai frôlé la mort",
+      "ipa": "[dɑ̃ se meɑ̃dʁ‿u ʒe fʁole la mɔʁ]",
+      "ear": "当 塞 梅昂德赫 乌 热 弗霍莱 拉 莫赫",
+      "meaning": "在迷宫里与死亡擦肩而过",
+      "sourceIPA": "/dɑ̃ se meɑ̃dʁz u ʒe fʁole la mɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-39-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5843,
+        "similarity": 0.224,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5852,
+      "sourceText": "L'homme qui te trompait",
+      "ipa": "[lɔm ki tə tʁɔ̃pɛ]",
+      "ear": "洛姆 基 特 特洪佩",
+      "meaning": "欺骗你的",
+      "sourceIPA": "/lɔm ki tə tʁɔ̃pɛ/",
+      "sourceLineId": "notre-dame-de-paris-39-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5852,
+        "similarity": 0.747,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5854.143,
+      "sourceText": "N'étais pas le même",
+      "ipa": "[netɛ pa lə mɛm]",
+      "ear": "内泰 帕 勒 梅姆",
+      "meaning": "是昨日的我",
+      "sourceIPA": "/netɛ pa lə mɛm/",
+      "sourceLineId": "notre-dame-de-paris-39-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5852,
+        "similarity": 0.747,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5856.286,
+      "sourceText": "Qu'aujourd'hui celui",
+      "ipa": "[koʒuʁdɥi səlɥi]",
+      "ear": "科茹赫德于伊 瑟勒于伊",
+      "meaning": "今日的我",
+      "sourceIPA": "/kwɔdʒədhjui səlɥi/",
+      "sourceLineId": "notre-dame-de-paris-39-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5852,
+        "similarity": 0.747,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5858.857,
+      "sourceText": "Qui te dit \"Je t'aime\"",
+      "ipa": "[ki tə di ʒə tɛm]",
+      "ear": "基 特 迪 热 泰姆",
+      "meaning": "对你倾诉衷肠",
+      "sourceIPA": "/ki tə di ʒə tɛm/",
+      "sourceLineId": "notre-dame-de-paris-39-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5852,
+        "similarity": 0.747,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5861,
+      "sourceText": "Je me suis guéri le cœur et l'esprit",
+      "ipa": "[ʒə mə sɥi ɡeʁi lə kœʁ e lɛspʁi]",
+      "ear": "热 默 斯于伊 格希 勒 克厄赫 诶 莱斯普希",
+      "meaning": "我的心神已然痊愈",
+      "sourceIPA": "/ʒə mə sɥi ɡeʁi lə kœʁ e lɛspʁi/",
+      "sourceLineId": "notre-dame-de-paris-39-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5861,
+        "similarity": 0.69,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5866.0,
+      "sourceText": "Si tu veux de moi",
+      "ipa": "[si ty vø də mwa]",
+      "ear": "西 蒂于 弗厄 德 姆乌阿",
+      "meaning": "若你还能接纳我",
+      "sourceIPA": "/si ty vø də mwa/",
+      "sourceLineId": "notre-dame-de-paris-39-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5861,
+        "similarity": 0.69,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5868.5,
+      "sourceText": "Je reviens vers toi",
+      "ipa": "[ʒə ʁəvjɛ̃ vɛʁ twa]",
+      "ear": "热 赫弗耶安 韦赫 特乌阿",
+      "meaning": "我就回到你身边",
+      "sourceIPA": "/ʒə ʁəvjɛ̃ vɛʁ twa/",
+      "sourceLineId": "notre-dame-de-paris-39-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5861,
+        "similarity": 0.69,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5871,
+      "sourceText": "J'étais ensorcelé dans me tête dans mon corps",
+      "ipa": "[ʒetɛ ɑ̃sɔʁsəle dɑ̃ mə tɛt dɑ̃ mɔ̃ kɔʁ]",
+      "ear": "热泰 昂索赫瑟莱 当 默 泰特 当 蒙 科赫",
+      "meaning": "当时我的身心受了魅惑",
+      "sourceIPA": "/ʒetɛz ɑ̃sɔʁsəle dɑ̃ mə tɛt dɑ̃ mɔ̃ kɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-39-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5871,
+        "similarity": 0.739,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5875.909,
+      "sourceText": "La bohémienne ne voulait que mon or",
+      "ipa": "[la boemjɛn nə vulɛ kə mɔ̃n‿ɔʁ]",
+      "ear": "拉 博诶姆耶艾恩 讷 乌莱 克 蒙恩 哦赫",
+      "meaning": "那波希米亚女人只想要我的钱",
+      "sourceIPA": "/la boemjɛn nə vulɛ kə mɔ̃n ɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-39-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5871,
+        "similarity": 0.739,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5880,
+      "sourceText": "J'étais déboussolé",
+      "ipa": "[ʒetɛ debusole]",
+      "ear": "热泰 德布索莱",
+      "meaning": "我当时不知所措",
+      "sourceIPA": "/ʒetɛ debusole/",
+      "sourceLineId": "notre-dame-de-paris-39-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5880,
+        "similarity": 0.388,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5882.182,
+      "sourceText": "J'avais perdu le nord",
+      "ipa": "[ʒavɛ pɛʁdy lə nɔʁ]",
+      "ear": "扎韦 佩赫迪于 勒 诺赫",
+      "meaning": "我一时迷失方向",
+      "sourceIPA": "/ʒavɛ pɛʁdy lə nɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-39-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5880,
+        "similarity": 0.388,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5884.364,
+      "sourceText": "Mais aujourd'hui je reviens à bon port",
+      "ipa": "[mɛ oʒuʁdɥi ʒə ʁəvjɛ̃ a bɔ̃ pɔʁ]",
+      "ear": "梅 奥茹赫德于伊 热 赫弗耶安 阿 崩 珀赫",
+      "meaning": "如今才回到你平安的港湾",
+      "sourceIPA": "/mɛz oʒuʁdɥi ʒə ʁəvjɛ̃z a bɔ̃ pɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-39-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5880,
+        "similarity": 0.388,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5888,
+      "sourceText": "J'étais ensorcelé dans ma tête dans mon corps",
+      "ipa": "[ʒetɛ ɑ̃sɔʁsəle dɑ̃ ma tɛt dɑ̃ mɔ̃ kɔʁ]",
+      "ear": "热泰 昂索赫瑟莱 当 玛 泰特 当 蒙 科赫",
+      "meaning": "当时我的身心受了魅惑",
+      "sourceIPA": "/ʒetɛz ɑ̃sɔʁsəle dɑ̃ ma tɛt dɑ̃ mɔ̃ kɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-39-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5888,
+        "similarity": 0.724,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5892.909,
+      "sourceText": "La bohémienne est condamnée à mort",
+      "ipa": "[la boemjɛn‿ɛ kɔ̃dane a mɔʁ]",
+      "ear": "拉 博诶姆耶艾恩 艾 孔达内 阿 莫赫",
+      "meaning": "那波西米亚女人已被判死刑",
+      "sourceIPA": "/la boemjɛn ɛ kɔ̃dane a mɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-39-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5888,
+        "similarity": 0.724,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5897,
+      "sourceText": "J'étais déboussolé",
+      "ipa": "[ʒetɛ debusole]",
+      "ear": "热泰 德布索莱",
+      "meaning": "我当时不知所措",
+      "sourceIPA": "/ʒetɛ debusole/",
+      "sourceLineId": "notre-dame-de-paris-39-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5897,
+        "similarity": 0.499,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5899.727,
+      "sourceText": "J'avais perdu le nord",
+      "ipa": "[ʒavɛ pɛʁdy lə nɔʁ]",
+      "ear": "扎韦 佩赫迪于 勒 诺赫",
+      "meaning": "我一时迷失方向",
+      "sourceIPA": "/ʒavɛ pɛʁdy lə nɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-39-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5897,
+        "similarity": 0.499,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5902.455,
+      "sourceText": "Au fond de moi c'est toi que j'aime encore",
+      "ipa": "[o fɔ̃ də mwa sɛ twa kə ʒɛm‿ɑ̃kɔʁ]",
+      "ear": "奥 丰 德 姆乌阿 塞 特乌阿 克 热姆 昂科赫",
+      "meaning": "在内心深处 我爱的仍是你",
+      "sourceIPA": "/o fɔ̃ də mwa sɛ twa kə ʒɛm ɑ̃kɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-39-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5897,
+        "similarity": 0.499,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5907,
+      "sourceText": "C'est toi que j'aime encore",
+      "ipa": "[sɛ twa kə ʒɛm‿ɑ̃kɔʁ]",
+      "ear": "塞 特乌阿 克 热姆 昂科赫",
+      "meaning": "我爱的仍然是你",
+      "sourceIPA": "/sɛ twa kə ʒɛm ɑ̃kɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-39-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5907,
+        "similarity": 0.913,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5910.9,
+      "sourceText": "C'est toi que j'aime encore",
+      "ipa": "[sɛ twa kə ʒɛm‿ɑ̃kɔʁ]",
+      "ear": "塞 特乌阿 克 热姆 昂科赫",
+      "meaning": "我爱的仍然是你",
+      "sourceIPA": "/sɛ twa kə ʒɛm ɑ̃kɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-39-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5907,
+        "similarity": 0.913,
+        "groupSize": 2
+      }
+    }
+  ]
+}

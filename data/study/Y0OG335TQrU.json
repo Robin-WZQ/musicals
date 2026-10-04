@@ -1,0 +1,394 @@
+{
+  "videoId": "Y0OG335TQrU",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=2253"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 2262,
+      "sourceText": "Il est beau comme le soleil",
+      "ipa": "[il‿ɛ bo kɔm lə solɛj]",
+      "ear": "伊勒 艾 博 科姆 勒 索莱耶",
+      "meaning": "他灿烂如太阳",
+      "sourceIPA": "/il ɛ bo kɔm lə solɛj/",
+      "sourceLineId": "notre-dame-de-paris-16-001",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2262,
+        "similarity": 0.534,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2264.172,
+      "sourceText": "Est-ce un prince un fils de roi",
+      "ipa": "[ɛs‿œ̃ pʁɛ̃s‿œ̃ fis də ʁwa]",
+      "ear": "艾斯 恩 普汉斯 恩 菲斯 德 赫乌阿",
+      "meaning": "难道是位王子？",
+      "sourceIPA": "/ɛs œ̃ pʁɛ̃s œ̃ fis də ʁwa/",
+      "sourceLineId": "notre-dame-de-paris-16-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2262,
+        "similarity": 0.534,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2266.345,
+      "sourceText": "Je sens l'amour qui s'éveille",
+      "ipa": "[ʒə sɑ̃ lamuʁ ki sevɛj]",
+      "ear": "热 桑 拉穆赫 基 塞韦耶",
+      "meaning": "我感觉爱意",
+      "sourceIPA": "/ʒə sɑ̃ lamuʁ ki sevɛj/",
+      "sourceLineId": "notre-dame-de-paris-16-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2262,
+        "similarity": 0.534,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2268.517,
+      "sourceText": "Au fond de moi",
+      "ipa": "[o fɔ̃ də mwa]",
+      "ear": "奥 丰 德 姆乌阿",
+      "meaning": "从心底涌出",
+      "sourceIPA": "/o fɔ̃ də mwa/",
+      "sourceLineId": "notre-dame-de-paris-16-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2262,
+        "similarity": 0.534,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2269.759,
+      "sourceText": "Plus fort que moi",
+      "ipa": "[ply fɔʁ kə mwa]",
+      "ear": "普吕 佛赫 克 姆乌阿",
+      "meaning": "胜过我的生命",
+      "sourceIPA": "/ply fɔʁ kə mwa/",
+      "sourceLineId": "notre-dame-de-paris-16-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2262,
+        "similarity": 0.534,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2271,
+      "sourceText": "Il est beau comme le soleil",
+      "ipa": "[il‿ɛ bo kɔm lə solɛj]",
+      "ear": "伊勒 艾 博 科姆 勒 索莱耶",
+      "meaning": "他灿烂如太阳",
+      "sourceIPA": "/il ɛ bo kɔm lə solɛj/",
+      "sourceLineId": "notre-dame-de-paris-16-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2271,
+        "similarity": 0.718,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2275.5,
+      "sourceText": "C'est un prince, un fils de roi",
+      "ipa": "[sɛt‿œ̃ pʁɛ̃s œ̃ fis də ʁwa]",
+      "ear": "塞特 恩 普汉斯 恩 菲斯 德 赫乌阿",
+      "meaning": "是位真正的王子",
+      "sourceIPA": "/sɛt œ̃ pʁɛ̃s œ̃ fis də ʁwa/",
+      "sourceLineId": "notre-dame-de-paris-16-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2271,
+        "similarity": 0.718,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2280,
+      "sourceText": "De roi... je crois",
+      "ipa": "[də ʁwa ʒə kʁwa]",
+      "ear": "德 赫乌阿 热 克赫乌阿",
+      "meaning": "我深信……如此",
+      "sourceIPA": "/də ʁwa ʒə kʁwa/",
+      "sourceLineId": "notre-dame-de-paris-16-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2280,
+        "similarity": 0.6,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2289,
+      "sourceText": "Il est beau comme le soleil",
+      "ipa": "[il‿ɛ bo kɔm lə solɛj]",
+      "ear": "伊勒 艾 博 科姆 勒 索莱耶",
+      "meaning": "他灿烂如太阳",
+      "sourceIPA": "/il ɛ bo kɔm lə solɛj/",
+      "sourceLineId": "notre-dame-de-paris-16-009",
+      "speaker": "Fleur-de-Lys",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2289,
+        "similarity": 0.613,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2293.0,
+      "sourceText": "C'est un voyou, un soldat",
+      "ipa": "[sɛt‿œ̃ vwaju œ̃ sɔlda]",
+      "ear": "塞特 恩 弗乌阿耶乌 恩 索勒达",
+      "meaning": "亦正亦邪",
+      "sourceIPA": "/sɛt œ̃ vwaju œ̃ sɔlda/",
+      "sourceLineId": "notre-dame-de-paris-16-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2289,
+        "similarity": 0.613,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2297,
+      "sourceText": "Quand il me serre contre lui",
+      "ipa": "[kɑ̃t‿il mə sɛʁ kɔ̃tʁ lɥi]",
+      "ear": "康特 伊勒 默 塞赫 孔特赫 勒于伊",
+      "meaning": "当他拥我入怀中",
+      "sourceIPA": "/kɑ̃t il mə sɛʁ kɔ̃tʁ lɥi/",
+      "sourceLineId": "notre-dame-de-paris-16-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2297,
+        "similarity": 0.718,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2300.6,
+      "sourceText": "Je voudrais fuir mais je ne puis",
+      "ipa": "[ʒə vudʁɛ fɥiʁ mɛ ʒə nə pɥi]",
+      "ear": "热 乌德赫 弗于伊赫 梅 热 讷 普于伊",
+      "meaning": "我想逃脱 却身不由己",
+      "sourceIPA": "/ʒə vudʁɛ fyiʁ mɛ ʒə nə pɥi/",
+      "sourceLineId": "notre-dame-de-paris-16-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2297,
+        "similarity": 0.718,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2306,
+      "sourceText": "Il est beau comme le soleil",
+      "ipa": "[il‿ɛ bo kɔm lə solɛj]",
+      "ear": "伊勒 艾 博 科姆 勒 索莱耶",
+      "meaning": "他灿烂如太阳",
+      "sourceIPA": "/il ɛ bo kɔm lə solɛj/",
+      "sourceLineId": "notre-dame-de-paris-16-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2306,
+        "similarity": 0.609,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2310.55,
+      "sourceText": "C'est un voyou, un soldat",
+      "ipa": "[sɛt‿œ̃ vwaju œ̃ sɔlda]",
+      "ear": "塞特 恩 弗乌阿耶乌 恩 索勒达",
+      "meaning": "亦正亦邪",
+      "sourceIPA": "/sɛt œ̃ vwaju œ̃ sɔlda/",
+      "sourceLineId": "notre-dame-de-paris-16-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2306,
+        "similarity": 0.609,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2316,
+      "sourceText": "Soldat... du roi",
+      "ipa": "[sɔlda dy ʁwa]",
+      "ear": "索勒达 迪于 赫乌阿",
+      "meaning": "臣属于国王",
+      "sourceIPA": "/sɔlda dy ʁwa/",
+      "sourceLineId": "notre-dame-de-paris-16-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2316,
+        "similarity": 0.978,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2325,
+      "sourceText": "Il est beau comme le soleil",
+      "ipa": "[il‿ɛ bo kɔm lə solɛj]",
+      "ear": "伊勒 艾 博 科姆 勒 索莱耶",
+      "meaning": "他灿烂如太阳",
+      "sourceIPA": "/il ɛ bo kɔm lə solɛj/",
+      "sourceLineId": "notre-dame-de-paris-16-016",
+      "speaker": "Esméralda / Fleur-de-Lys",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2325,
+        "similarity": 0.673,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2329.0,
+      "sourceText": "Ma merveille, mon homme à moi",
+      "ipa": "[ma mɛʁvɛj mɔ̃n‿ɔm‿a mwa]",
+      "ear": "玛 梅赫韦耶 蒙恩 哦姆 阿 姆乌阿",
+      "meaning": "我的奇迹 我挚爱的男人",
+      "sourceIPA": "/ma mɛʁvɛj mɔ̃n ɔm a mwa/",
+      "sourceLineId": "notre-dame-de-paris-16-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2325,
+        "similarity": 0.673,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2333,
+      "sourceText": "Il me prendra dans ses bras",
+      "ipa": "[il mə pʁɑ̃dʁa dɑ̃ se bʁa]",
+      "ear": "伊勒 默 普杭德哈 当 塞 布哈",
+      "meaning": "他拥我入怀",
+      "sourceIPA": "/il mə pʁɑ̃dʁa dɑ̃ se bʁa/",
+      "sourceLineId": "notre-dame-de-paris-16-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2333,
+        "similarity": 0.737,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2337.5,
+      "sourceText": "Et pour la vie, il m'aimera",
+      "ipa": "[e puʁ la vi il mɛmʁa]",
+      "ear": "诶 普赫 拉 维 伊勒 梅姆哈",
+      "meaning": "爱我终生不渝",
+      "sourceIPA": "/e puʁ la vi il mɛmʁa/",
+      "sourceLineId": "notre-dame-de-paris-16-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2333,
+        "similarity": 0.737,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2342,
+      "sourceText": "Il est beau comme le soleil",
+      "ipa": "[il‿ɛ bo kɔm lə solɛj]",
+      "ear": "伊勒 艾 博 科姆 勒 索莱耶",
+      "meaning": "他灿烂如太阳",
+      "sourceIPA": "/il ɛ bo kɔm lə solɛj/",
+      "sourceLineId": "notre-dame-de-paris-16-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2342,
+        "similarity": 0.673,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2346.5,
+      "sourceText": "Ma merveille, mon homme à moi",
+      "ipa": "[ma mɛʁvɛj mɔ̃n‿ɔm‿a mwa]",
+      "ear": "玛 梅赫韦耶 蒙恩 哦姆 阿 姆乌阿",
+      "meaning": "我的奇迹 我挚爱的男人",
+      "sourceIPA": "/ma mɛʁvɛj mɔ̃n ɔm a mwa/",
+      "sourceLineId": "notre-dame-de-paris-16-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2342,
+        "similarity": 0.673,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2351,
+      "sourceText": "Il est beau comme le soleil",
+      "ipa": "[il‿ɛ bo kɔm lə solɛj]",
+      "ear": "伊勒 艾 博 科姆 勒 索莱耶",
+      "meaning": "他灿烂如太阳",
+      "sourceIPA": "/il ɛ bo kɔm lə solɛj/",
+      "sourceLineId": "notre-dame-de-paris-16-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2351,
+        "similarity": 0.42,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2360,
+      "sourceText": "Beau comme le soleil",
+      "ipa": "[bo kɔm lə solɛj]",
+      "ear": "博 科姆 勒 索莱耶",
+      "meaning": "如太阳",
+      "sourceIPA": "/bo kɔm lə solɛj/",
+      "sourceLineId": "notre-dame-de-paris-16-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2360,
+        "similarity": 0.667,
+        "groupSize": 1
+      }
+    }
+  ]
+}

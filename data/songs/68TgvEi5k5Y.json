@@ -8,15 +8,46 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 22,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Je sens ma vie qui bascule",
+      "start": 3440,
+      "duration": 2.026
+    },
+    {
+      "text": "Vers une terre inconnue",
+      "start": 3442.026,
+      "duration": 1.737
+    },
+    {
+      "text": "Je vois la foule qui recule",
+      "start": 3443.763,
+      "duration": 2.026
+    },
+    {
+      "text": "Quand je marche dans la rue",
+      "start": 3445.789,
+      "duration": 1.737
+    },
+    {
+      "text": "Je suis un homme mis à nu",
+      "start": 3447.526,
+      "duration": 2.027
+    },
+    {
+      "text": "Un homme mis à nu",
+      "start": 3449.553,
+      "duration": 1.447
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=3430",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -40,6 +71,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

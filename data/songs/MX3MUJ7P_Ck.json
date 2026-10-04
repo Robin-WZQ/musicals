@@ -8,15 +8,111 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 33,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Esméralda vous êtes accusée",
+      "start": 5233,
+      "duration": 4.0
+    },
+    {
+      "text": "D'avoir blessé le chef des archers",
+      "start": 5237.0,
+      "duration": 4.0
+    },
+    {
+      "text": "S'il est blessé c'est qu'il est vivant",
+      "start": 5241,
+      "duration": 3.429
+    },
+    {
+      "text": "Oh! Laissez-moi le voir rien qu'un seul instant",
+      "start": 5244.429,
+      "duration": 4.571
+    },
+    {
+      "text": "Vous l'avez séduit et ensorcelé",
+      "start": 5249,
+      "duration": 4.5
+    },
+    {
+      "text": "D'un coup de couteau vous l'avez frappé",
+      "start": 5253.5,
+      "duration": 4.5
+    },
+    {
+      "text": "Ce n'est pas moi, juré sur ma vie",
+      "start": 5258,
+      "duration": 4.05
+    },
+    {
+      "text": "Mais vous étiez seule avec lui dans ce lit",
+      "start": 5262.05,
+      "duration": 4.95
+    },
+    {
+      "text": "C'est un prêtre infernal qui me pour suit",
+      "start": 5267,
+      "duration": 4.211
+    },
+    {
+      "text": "Il m'apparaît partout dans la nuit",
+      "start": 5271.211,
+      "duration": 3.789
+    },
+    {
+      "text": "Cette fille a des hallucinations",
+      "start": 5275,
+      "duration": 3.429
+    },
+    {
+      "text": "Qui sont le fruit de son imagination",
+      "start": 5278.429,
+      "duration": 4.571
+    },
+    {
+      "text": "Il vous ressemble un peu, Monsieur",
+      "start": 5283,
+      "duration": 4.0
+    },
+    {
+      "text": "Regardez le feu qu'elle a dans les yeux",
+      "start": 5287.0,
+      "duration": 5.0
+    },
+    {
+      "text": "C'est une sorcière. C'est une étrangère",
+      "start": 5292,
+      "duration": 4.0
+    },
+    {
+      "text": "C'est une bohémienne, c'est une païenne",
+      "start": 5296.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Avouez-vous ce crime dont vous êtes accusés?",
+      "start": 5300,
+      "duration": 5.261
+    },
+    {
+      "text": "Moi, je suis la victime",
+      "start": 5305.261,
+      "duration": 2.869
+    },
+    {
+      "text": "Je n'ai rien à avouer",
+      "start": 5308.13,
+      "duration": 2.87
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5221",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -76,6 +172,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

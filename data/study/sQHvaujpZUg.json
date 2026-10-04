@@ -1,0 +1,634 @@
+{
+  "videoId": "sQHvaujpZUg",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=4696"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 4698,
+      "sourceText": "Gringoire qu'as-tu fait de ta femme?",
+      "ipa": "[ɡʁɛ̃ɡwaʁ katy fɛ də ta fam]",
+      "ear": "格汉格乌阿赫 卡蒂于 费 德 塔 法姆",
+      "meaning": "葛林果 你妻子怎么了",
+      "sourceIPA": "/ɡʁɛ̃ɡwaʁ katy fɛ də ta fam/",
+      "sourceLineId": "notre-dame-de-paris-31-001",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4698,
+        "similarity": 0.631,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4701,
+      "sourceText": "Qu'on ne voit plus danser à Notre-Dame",
+      "ipa": "[kɔ̃ nə vwa ply dɑ̃se a notʁdam]",
+      "ear": "孔 讷 弗乌阿 普吕 当塞 阿 诺特赫达姆",
+      "meaning": "没见她在圣母院前起舞",
+      "sourceIPA": "/kɔ̃ nə vwa ply dɑ̃se a notʁdam/",
+      "sourceLineId": "notre-dame-de-paris-31-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4701,
+        "similarity": 0.572,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4705.765,
+      "sourceText": "Je n'en sais rien pour être honnête",
+      "ipa": "[ʒə nɑ̃ sɛ ʁjɛ̃ puʁ‿ɛtʁ‿ɔnɛt]",
+      "ear": "热 南 塞 赫耶安 普赫 艾特赫 哦奈特",
+      "meaning": "说实话 我不知道",
+      "sourceIPA": "/ʒə nɑ̃ sɛ ʁjɛ̃ puʁ ɛtʁ ɔnɛt/",
+      "sourceLineId": "notre-dame-de-paris-31-003",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4701,
+        "similarity": 0.572,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4710,
+      "sourceText": "Vous êtes prêtre et moi poète",
+      "ipa": "[vuz‿ɛt pʁɛtʁ e mwa pɔɛt]",
+      "ear": "乌兹 艾特 普赫特赫 诶 姆乌阿 珀艾特",
+      "meaning": "你是神甫 我是诗人",
+      "sourceIPA": "/vuz ɛt pʁɛtʁ e mwa pɔɛt/",
+      "sourceLineId": "notre-dame-de-paris-31-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4710,
+        "similarity": 0.71,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4713.652,
+      "sourceText": "Nous n'avons pas des femmes",
+      "ipa": "[nu navɔ̃ pa de fam]",
+      "ear": "努 纳翁 帕 德 法姆",
+      "meaning": "我们有不同的伴侣",
+      "sourceIPA": "/nu navɔ̃ pa de fam/",
+      "sourceLineId": "notre-dame-de-paris-31-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4710,
+        "similarity": 0.71,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4716.783,
+      "sourceText": "La même religion, la même poésie",
+      "ipa": "[la mɛm ʁəliʒjɔ̃ la mɛm pɔezi]",
+      "ear": "拉 梅姆 赫利日耶翁 拉 梅姆 珀诶齐",
+      "meaning": "你的是宗教 我的是诗歌",
+      "sourceIPA": "/la mɛm ʁəliʒjɔ̃ la mɛm pɔezi/",
+      "sourceLineId": "notre-dame-de-paris-31-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4710,
+        "similarity": 0.71,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4722,
+      "sourceText": "Où est-elle",
+      "ipa": "[u ɛtɛl]",
+      "ear": "乌 艾泰勒",
+      "meaning": "她在何方",
+      "sourceIPA": "/u ɛtɛl/",
+      "sourceLineId": "notre-dame-de-paris-31-007",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4722,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4723.95,
+      "sourceText": "Ton Esméralda",
+      "ipa": "[tɔ̃n‿ɛsmeʁalda]",
+      "ear": "通恩 艾斯梅哈勒达",
+      "meaning": "你的艾斯美拉达",
+      "sourceIPA": "/tɔ̃n ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-31-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4722,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4730,
+      "sourceText": "Les rues de Paris",
+      "ipa": "[le ʁy də paʁi]",
+      "ear": "莱 许 德 帕希",
+      "meaning": "巴黎的街道",
+      "sourceIPA": "/le ʁy də paʁi/",
+      "sourceLineId": "notre-dame-de-paris-31-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4730,
+        "similarity": 0.814,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4733.25,
+      "sourceText": "sont tristes sans elle",
+      "ipa": "[sɔ̃ tʁist sɑ̃ ɛl]",
+      "ear": "松 特希斯特 桑 艾勒",
+      "meaning": "因失去她而忧伤",
+      "sourceIPA": "/sɔ̃ tʁist sɑ̃z ɛl/",
+      "sourceLineId": "notre-dame-de-paris-31-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4730,
+        "similarity": 0.814,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4739,
+      "sourceText": "Elle est seule",
+      "ipa": "[ɛl‿ɛ sœl]",
+      "ear": "艾勒 艾 瑟厄勒",
+      "meaning": "她一个人",
+      "sourceIPA": "/ɛl ɛ sœl/",
+      "sourceLineId": "notre-dame-de-paris-31-011",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4739,
+        "similarity": 0.658,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4741.143,
+      "sourceText": "Dans une tourelle",
+      "ipa": "[dɑ̃ yn tuʁɛl]",
+      "ear": "当 于恩 图赫勒",
+      "meaning": "待在塔楼里",
+      "sourceIPA": "/dɑ̃z yn tuʁɛl/",
+      "sourceLineId": "notre-dame-de-paris-31-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4739,
+        "similarity": 0.658,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4747,
+      "sourceText": "Loin de ceux qui craignent",
+      "ipa": "[lwɛ̃ də sø ki kʁɛnj]",
+      "ear": "勒乌安 德 瑟厄 基 克赫恩耶",
+      "meaning": "远离那些害怕",
+      "sourceIPA": "/lwɛ̃ də sø ki kʁɛnj/",
+      "sourceLineId": "notre-dame-de-paris-31-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4747,
+        "similarity": 0.769,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4750.25,
+      "sourceText": "Qu'on les ensorcelle",
+      "ipa": "[kɔ̃ lez‿ɑ̃sɔʁsɛl]",
+      "ear": "孔 莱兹 昂索赫塞勒",
+      "meaning": "被她诱惑的人",
+      "sourceIPA": "/kɔ̃ lez ɑ̃sɔʁsɛl/",
+      "sourceLineId": "notre-dame-de-paris-31-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4747,
+        "similarity": 0.769,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4757,
+      "sourceText": "Que veux-tu dire, poète",
+      "ipa": "[kə vøty diʁ pɔɛt]",
+      "ear": "克 弗厄蒂于 迪赫 珀艾特",
+      "meaning": "诗人 你到底想说什么",
+      "sourceIPA": "/kə vøty diʁ pɔɛt/",
+      "sourceLineId": "notre-dame-de-paris-31-015",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4757,
+        "similarity": 0.677,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 4760.13,
+      "sourceText": "Tu as la langue fourchue",
+      "ipa": "[ty a la lɑ̃ɡ fuʁʃy]",
+      "ear": "蒂于 阿 拉 朗格 富赫许",
+      "meaning": "嘴舌像蛇一般恶毒",
+      "sourceIPA": "/ty a la lɑ̃ɡ fuʁʃy/",
+      "sourceLineId": "notre-dame-de-paris-31-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4757,
+        "similarity": 0.677,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 4763.261,
+      "sourceText": "Ne fais de pirouettes",
+      "ipa": "[nə fɛ də piʁwɛt]",
+      "ear": "讷 费 德 皮赫乌艾特",
+      "meaning": "别故意绕圈子",
+      "sourceIPA": "/nə fɛ də piʁwɛt/",
+      "sourceLineId": "notre-dame-de-paris-31-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4757,
+        "similarity": 0.677,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 4765.87,
+      "sourceText": "Dis-moi si tu l'as vue",
+      "ipa": "[dimwa si ty la vy]",
+      "ear": "迪姆乌阿 西 蒂于 拉 维于",
+      "meaning": "见到她就告诉我",
+      "sourceIPA": "/dimwa si ty la vy/",
+      "sourceLineId": "notre-dame-de-paris-31-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4757,
+        "similarity": 0.677,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 4769,
+      "sourceText": "Où est-elle",
+      "ipa": "[u ɛtɛl]",
+      "ear": "乌 艾泰勒",
+      "meaning": "她在何方",
+      "sourceIPA": "/klopɛ̃ u ɛtɛl/",
+      "sourceLineId": "notre-dame-de-paris-31-019",
+      "speaker": "Clopin",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4769,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4772.25,
+      "sourceText": "Mon Esméralda",
+      "ipa": "[mɔ̃n‿ɛsmeʁalda]",
+      "ear": "蒙恩 艾斯梅哈勒达",
+      "meaning": "我的艾斯美拉达",
+      "sourceIPA": "/mɔ̃n ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-31-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4769,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4777,
+      "sourceText": "La Cour de Miracles",
+      "ipa": "[la kuʁ də miʁakl]",
+      "ear": "拉 库赫 德 米哈克勒",
+      "meaning": "圣迹区啊",
+      "sourceIPA": "/la kuʁ də miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-31-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4777,
+        "similarity": 0.553,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4780.25,
+      "sourceText": "A perdu sa reine",
+      "ipa": "[a pɛʁdy sa ʁɛn]",
+      "ear": "阿 佩赫迪于 萨 赫恩",
+      "meaning": "失去了女王",
+      "sourceIPA": "/a pɛʁdy sa ʁɛn/",
+      "sourceLineId": "notre-dame-de-paris-31-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4777,
+        "similarity": 0.553,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4786,
+      "sourceText": "Elle ressemble",
+      "ipa": "[ɛl ʁəsɑ̃bl]",
+      "ear": "艾勒 赫桑布勒",
+      "meaning": "她就像",
+      "sourceIPA": "/ɛl ʁəsɑ̃bl/",
+      "sourceLineId": "notre-dame-de-paris-31-023",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4786,
+        "similarity": 0.815,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4787.95,
+      "sourceText": "à une hirondelle",
+      "ipa": "[a yn‿iʁɔ̃dɛl]",
+      "ear": "阿 于恩 伊洪戴勒",
+      "meaning": "一只燕子",
+      "sourceIPA": "/a yn iʁɔ̃dɛl/",
+      "sourceLineId": "notre-dame-de-paris-31-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4786,
+        "similarity": 0.815,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4794,
+      "sourceText": "à qui on aurait",
+      "ipa": "[a ki ɔ̃n‿oʁɛ]",
+      "ear": "阿 基 翁恩 奥赫",
+      "meaning": "已经被人",
+      "sourceIPA": "/a ki ɔ̃n oʁɛ/",
+      "sourceLineId": "notre-dame-de-paris-31-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4794,
+        "similarity": 0.293,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4797.25,
+      "sourceText": "Coupé les deux ailes",
+      "ipa": "[kupe le døz‿ɛl]",
+      "ear": "库佩 莱 德厄兹 艾勒",
+      "meaning": "剪去了双翅",
+      "sourceIPA": "/kupe le døz ɛl/",
+      "sourceLineId": "notre-dame-de-paris-31-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4794,
+        "similarity": 0.293,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4805,
+      "sourceText": "Vous la trouverez à la prison de la Santé",
+      "ipa": "[vu la tʁuvʁe a la pʁizɔ̃ də la sɑ̃te]",
+      "ear": "乌 拉 特胡弗赫 阿 拉 普希宗 德 拉 桑特",
+      "meaning": "她身陷囹圄",
+      "sourceIPA": "/vu la tʁuvʁez a la pʁizɔ̃ də la sɑ̃te/",
+      "sourceLineId": "notre-dame-de-paris-31-027",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4805,
+        "similarity": 0.719,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 4808.857,
+      "sourceText": "Si vous ne la sauvez",
+      "ipa": "[si vu nə la sove]",
+      "ear": "西 乌 讷 拉 索韦",
+      "meaning": "你若不救她",
+      "sourceIPA": "/si vu nə la sove/",
+      "sourceLineId": "notre-dame-de-paris-31-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4805,
+        "similarity": 0.719,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 4810.786,
+      "sourceText": "Elle sera condamnée",
+      "ipa": "[ɛl səʁa kɔ̃dane]",
+      "ear": "艾勒 瑟哈 孔达内",
+      "meaning": "她将会被判",
+      "sourceIPA": "/ɛl səʁa kɔ̃dane/",
+      "sourceLineId": "notre-dame-de-paris-31-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4805,
+        "similarity": 0.719,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 4812.714,
+      "sourceText": "à être pendue",
+      "ipa": "[a ɛtʁ pɑ̃dy]",
+      "ear": "阿 艾特赫 庞迪于",
+      "meaning": "绞刑",
+      "sourceIPA": "/a ɛtʁ pɑ̃dy/",
+      "sourceLineId": "notre-dame-de-paris-31-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4805,
+        "similarity": 0.719,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 4814,
+      "sourceText": "Ne m'en dites pas plus",
+      "ipa": "[nə mɑ̃ dit pa ply]",
+      "ear": "讷 芒 迪特 帕 普吕",
+      "meaning": "勿再多言",
+      "sourceIPA": "/klopɛ̃ nə mɑ̃ dit pa ply/",
+      "sourceLineId": "notre-dame-de-paris-31-031",
+      "speaker": "Clopin",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4814,
+        "similarity": 0.684,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4818.55,
+      "sourceText": "Où est-elle",
+      "ipa": "[u ɛtɛl]",
+      "ear": "乌 艾泰勒",
+      "meaning": "她在何方",
+      "sourceIPA": "/u ɛtɛl/",
+      "sourceLineId": "notre-dame-de-paris-31-032",
+      "speaker": "Ensemble",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4814,
+        "similarity": 0.684,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4820.5,
+      "sourceText": "Notre Esméralda?",
+      "ipa": "[notʁ‿ɛsmeʁalda]",
+      "ear": "诺特赫 艾斯梅哈勒达",
+      "meaning": "我们的艾斯美拉达",
+      "sourceIPA": "/notʁ ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-31-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4814,
+        "similarity": 0.684,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4827,
+      "sourceText": "Les rues de Paris",
+      "ipa": "[le ʁy də paʁi]",
+      "ear": "莱 许 德 帕希",
+      "meaning": "巴黎的街道",
+      "sourceIPA": "/le ʁy də paʁi/",
+      "sourceLineId": "notre-dame-de-paris-31-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4827,
+        "similarity": 0.814,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4830.25,
+      "sourceText": "sont tristes sans elle",
+      "ipa": "[sɔ̃ tʁist sɑ̃ ɛl]",
+      "ear": "松 特希斯特 桑 艾勒",
+      "meaning": "因失去她而忧伤",
+      "sourceIPA": "/sɔ̃ tʁist sɑ̃z ɛl/",
+      "sourceLineId": "notre-dame-de-paris-31-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4827,
+        "similarity": 0.814,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4836,
+      "sourceText": "Elle ressemble a une hirondelle",
+      "ipa": "[ɛl ʁəsɑ̃bl‿a yn‿iʁɔ̃dɛl]",
+      "ear": "艾勒 赫桑布勒 阿 于恩 伊洪戴勒",
+      "meaning": "她仿佛一只燕子",
+      "sourceIPA": "/ɛl ʁəsɑ̃bl a yn iʁɔ̃dɛl/",
+      "sourceLineId": "notre-dame-de-paris-31-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4836,
+        "similarity": 0.84,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4844,
+      "sourceText": "A qui on aurait",
+      "ipa": "[a ki ɔ̃n‿oʁɛ]",
+      "ear": "阿 基 翁恩 奥赫",
+      "meaning": "但已被人",
+      "sourceIPA": "/a ki ɔ̃n oʁɛ/",
+      "sourceLineId": "notre-dame-de-paris-31-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4844,
+        "similarity": 0.293,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4847.25,
+      "sourceText": "Coupé les deux ailes",
+      "ipa": "[kupe le døz‿ɛl]",
+      "ear": "库佩 莱 德厄兹 艾勒",
+      "meaning": "被剪去了双翅",
+      "sourceIPA": "/kupe le døz ɛl/",
+      "sourceLineId": "notre-dame-de-paris-31-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4844,
+        "similarity": 0.293,
+        "groupSize": 2
+      }
+    }
+  ]
+}

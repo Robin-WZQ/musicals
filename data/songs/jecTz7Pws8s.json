@@ -8,15 +8,236 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 42,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Lune",
+      "start": 6321,
+      "duration": 0.833
+    },
+    {
+      "text": "Qui là-haut s'allume",
+      "start": 6321.833,
+      "duration": 4.167
+    },
+    {
+      "text": "Sur les toits de Paris",
+      "start": 6329,
+      "duration": 3.9
+    },
+    {
+      "text": "Vois",
+      "start": 6332.9,
+      "duration": 0.65
+    },
+    {
+      "text": "Comme un homme",
+      "start": 6333.55,
+      "duration": 1.95
+    },
+    {
+      "text": "Peut souffrir d'amour",
+      "start": 6335.5,
+      "duration": 3.25
+    },
+    {
+      "text": "Bel astre solitaire",
+      "start": 6339,
+      "duration": 3.25
+    },
+    {
+      "text": "Qui meurt quand revient le jour",
+      "start": 6342.25,
+      "duration": 4.55
+    },
+    {
+      "text": "Entends",
+      "start": 6348,
+      "duration": 1.2
+    },
+    {
+      "text": "Monter vers toi le chant de la terre",
+      "start": 6349.2,
+      "duration": 5.4
+    },
+    {
+      "text": "Entends le cri",
+      "start": 6354.6,
+      "duration": 2.4
+    },
+    {
+      "text": "D'un homme qui a mal",
+      "start": 6357,
+      "duration": 3.25
+    },
+    {
+      "text": "Pour qui",
+      "start": 6360.25,
+      "duration": 1.3
+    },
+    {
+      "text": "Un million d'étoiles",
+      "start": 6361.55,
+      "duration": 3.25
+    },
+    {
+      "text": "Ne valent",
+      "start": 6365,
+      "duration": 1.3
+    },
+    {
+      "text": "Pas les yeux de celle",
+      "start": 6366.3,
+      "duration": 3.25
+    },
+    {
+      "text": "Qu'il aime",
+      "start": 6369.55,
+      "duration": 1.3
+    },
+    {
+      "text": "D'un amour mortel",
+      "start": 6372,
+      "duration": 4.167
+    },
+    {
+      "text": "Lune",
+      "start": 6376.167,
+      "duration": 0.833
+    },
+    {
+      "text": "Lune",
+      "start": 6398,
+      "duration": 0.65
+    },
+    {
+      "text": "Qui là-haut s'embrume",
+      "start": 6398.65,
+      "duration": 3.25
+    },
+    {
+      "text": "Avant que le jour ne vienne",
+      "start": 6401.9,
+      "duration": 4.55
+    },
+    {
+      "text": "Entends",
+      "start": 6407,
+      "duration": 1.2
+    },
+    {
+      "text": "Rugir le cœur de la bête humaine",
+      "start": 6408.2,
+      "duration": 5.4
+    },
+    {
+      "text": "C'est la complainte",
+      "start": 6413.6,
+      "duration": 2.4
+    },
+    {
+      "text": "De Quasimodo",
+      "start": 6416,
+      "duration": 3.25
+    },
+    {
+      "text": "Qui pleure",
+      "start": 6419.25,
+      "duration": 1.3
+    },
+    {
+      "text": "Sa détresse folle",
+      "start": 6420.55,
+      "duration": 2.6
+    },
+    {
+      "text": "Sa voix",
+      "start": 6424,
+      "duration": 1.0
+    },
+    {
+      "text": "Par monts et par vaux",
+      "start": 6425.0,
+      "duration": 2.5
+    },
+    {
+      "text": "S'envole",
+      "start": 6427.5,
+      "duration": 1.0
+    },
+    {
+      "text": "Pour arriver jusqu'à toi",
+      "start": 6428.5,
+      "duration": 3.5
+    },
+    {
+      "text": "Lune!",
+      "start": 6432,
+      "duration": 5.0
+    },
+    {
+      "text": "Veille",
+      "start": 6444,
+      "duration": 0.65
+    },
+    {
+      "text": "Sur ce monde étrange",
+      "start": 6444.65,
+      "duration": 3.25
+    },
+    {
+      "text": "Qui mêle",
+      "start": 6447.9,
+      "duration": 1.3
+    },
+    {
+      "text": "Sa voix au chœur des anges",
+      "start": 6452,
+      "duration": 4.286
+    },
+    {
+      "text": "Lune",
+      "start": 6456.286,
+      "duration": 0.714
+    },
+    {
+      "text": "Qui là-haut s'allume",
+      "start": 6462,
+      "duration": 3.25
+    },
+    {
+      "text": "Pour éclairer ma plume",
+      "start": 6465.25,
+      "duration": 3.9
+    },
+    {
+      "text": "Vois",
+      "start": 6470,
+      "duration": 0.65
+    },
+    {
+      "text": "Comme un homme",
+      "start": 6470.65,
+      "duration": 1.95
+    },
+    {
+      "text": "Peut souffrir d'amour",
+      "start": 6472.6,
+      "duration": 3.25
+    },
+    {
+      "text": "D'amour",
+      "start": 6483,
+      "duration": 5.0
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6308",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -104,6 +325,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

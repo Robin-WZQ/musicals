@@ -8,15 +8,86 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 18,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Bossu! Boiteux! Borgne! Violeur!",
+      "start": 2619,
+      "duration": 5.0
+    },
+    {
+      "text": "Sonneur de cloches de malheur",
+      "start": 2624,
+      "duration": 3.5
+    },
+    {
+      "text": "Priez pour lui, pauvre pécheur",
+      "start": 2627.5,
+      "duration": 3.5
+    },
+    {
+      "text": "Ayez pitié de lui. Seigneur",
+      "start": 2631,
+      "duration": 5.2
+    },
+    {
+      "text": "Pitié pour le pauvre Quasimodo",
+      "start": 2641,
+      "duration": 4.8
+    },
+    {
+      "text": "Qui porte déjà sur son dos",
+      "start": 2645.8,
+      "duration": 3.2
+    },
+    {
+      "text": "Tous les malheurs du monde",
+      "start": 2649,
+      "duration": 3.9
+    },
+    {
+      "text": "Et qui ne vous demande",
+      "start": 2652.9,
+      "duration": 3.9
+    },
+    {
+      "text": "Qu'une goutte d'eau",
+      "start": 2656.8,
+      "duration": 1.95
+    },
+    {
+      "text": "Pitié badauds pour votre bedeau",
+      "start": 2664,
+      "duration": 5.2
+    },
+    {
+      "text": "Une goutte d'eau pour Quasimodo",
+      "start": 2669.2,
+      "duration": 5.2
+    },
+    {
+      "text": "à boire",
+      "start": 2678,
+      "duration": 1.3
+    },
+    {
+      "text": "Donnez-moi à boire à boire! à boire",
+      "start": 2679.3,
+      "duration": 5.85
+    },
+    {
+      "text": "Donnez-moi à boire",
+      "start": 2714,
+      "duration": 5.0
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=2619",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -72,6 +143,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

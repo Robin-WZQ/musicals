@@ -8,15 +8,136 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 38,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "J'étais ensorcelé dans ma tête dans mon corps",
+      "start": 5835,
+      "duration": 4.364
+    },
+    {
+      "text": "La bohémienne m'avait jeté un sort",
+      "start": 5839.364,
+      "duration": 3.636
+    },
+    {
+      "text": "J'étais déboussolé",
+      "start": 5843,
+      "duration": 2.455
+    },
+    {
+      "text": "J'avais perdu le nord",
+      "start": 5845.455,
+      "duration": 2.454
+    },
+    {
+      "text": "Dans ces méandres où j'ai frôlé la mort",
+      "start": 5847.909,
+      "duration": 4.091
+    },
+    {
+      "text": "L'homme qui te trompait",
+      "start": 5852,
+      "duration": 2.143
+    },
+    {
+      "text": "N'étais pas le même",
+      "start": 5854.143,
+      "duration": 2.143
+    },
+    {
+      "text": "Qu'aujourd'hui celui",
+      "start": 5856.286,
+      "duration": 2.571
+    },
+    {
+      "text": "Qui te dit \"Je t'aime\"",
+      "start": 5858.857,
+      "duration": 2.143
+    },
+    {
+      "text": "Je me suis guéri le cœur et l'esprit",
+      "start": 5861,
+      "duration": 5.0
+    },
+    {
+      "text": "Si tu veux de moi",
+      "start": 5866.0,
+      "duration": 2.5
+    },
+    {
+      "text": "Je reviens vers toi",
+      "start": 5868.5,
+      "duration": 2.5
+    },
+    {
+      "text": "J'étais ensorcelé dans me tête dans mon corps",
+      "start": 5871,
+      "duration": 4.909
+    },
+    {
+      "text": "La bohémienne ne voulait que mon or",
+      "start": 5875.909,
+      "duration": 4.091
+    },
+    {
+      "text": "J'étais déboussolé",
+      "start": 5880,
+      "duration": 2.182
+    },
+    {
+      "text": "J'avais perdu le nord",
+      "start": 5882.182,
+      "duration": 2.182
+    },
+    {
+      "text": "Mais aujourd'hui je reviens à bon port",
+      "start": 5884.364,
+      "duration": 3.636
+    },
+    {
+      "text": "J'étais ensorcelé dans ma tête dans mon corps",
+      "start": 5888,
+      "duration": 4.909
+    },
+    {
+      "text": "La bohémienne est condamnée à mort",
+      "start": 5892.909,
+      "duration": 4.091
+    },
+    {
+      "text": "J'étais déboussolé",
+      "start": 5897,
+      "duration": 2.727
+    },
+    {
+      "text": "J'avais perdu le nord",
+      "start": 5899.727,
+      "duration": 2.728
+    },
+    {
+      "text": "Au fond de moi c'est toi que j'aime encore",
+      "start": 5902.455,
+      "duration": 4.545
+    },
+    {
+      "text": "C'est toi que j'aime encore",
+      "start": 5907,
+      "duration": 3.9
+    },
+    {
+      "text": "C'est toi que j'aime encore",
+      "start": 5910.9,
+      "duration": 3.9
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5828",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -72,6 +193,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

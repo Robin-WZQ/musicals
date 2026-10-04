@@ -1,0 +1,730 @@
+{
+  "videoId": "jecTz7Pws8s",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6308"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 6321,
+      "sourceText": "Lune",
+      "ipa": "[lyn]",
+      "ear": "吕恩",
+      "meaning": "月亮",
+      "sourceIPA": "/lyn/",
+      "sourceLineId": "notre-dame-de-paris-43-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6321,
+        "similarity": 0.343,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6321.833,
+      "sourceText": "Qui là-haut s'allume",
+      "ipa": "[ki lao salym]",
+      "ear": "基 拉奥 萨吕姆",
+      "meaning": "在高空放光芒",
+      "sourceIPA": "/ki lao salym/",
+      "sourceLineId": "notre-dame-de-paris-43-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6321,
+        "similarity": 0.343,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6329,
+      "sourceText": "Sur les toits de Paris",
+      "ipa": "[syʁ le twa də paʁi]",
+      "ear": "西于赫 莱 特乌阿 德 帕希",
+      "meaning": "照在巴黎的屋顶上",
+      "sourceIPA": "/syʁ le twa də paʁi/",
+      "sourceLineId": "notre-dame-de-paris-43-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6329,
+        "similarity": 0.759,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6332.9,
+      "sourceText": "Vois",
+      "ipa": "[vwa]",
+      "ear": "弗乌阿",
+      "meaning": "看",
+      "sourceIPA": "/vwa/",
+      "sourceLineId": "notre-dame-de-paris-43-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6329,
+        "similarity": 0.759,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6333.55,
+      "sourceText": "Comme un homme",
+      "ipa": "[kɔm‿œ̃n‿ɔm]",
+      "ear": "科姆 恩恩 哦姆",
+      "meaning": "一个男人",
+      "sourceIPA": "/kɔm œ̃n ɔm/",
+      "sourceLineId": "notre-dame-de-paris-43-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6329,
+        "similarity": 0.759,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6335.5,
+      "sourceText": "Peut souffrir d'amour",
+      "ipa": "[pø sufʁiʁ damuʁ]",
+      "ear": "珀厄 苏弗希赫 达穆赫",
+      "meaning": "如何为爱所苦",
+      "sourceIPA": "/pø sufʁiʁ damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-43-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6329,
+        "similarity": 0.759,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6339,
+      "sourceText": "Bel astre solitaire",
+      "ipa": "[bɛl‿astʁ solitɛʁ]",
+      "ear": "贝勒 阿斯特赫 索利泰赫",
+      "meaning": "明亮的孤星",
+      "sourceIPA": "/bɛl astʁ solitɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-43-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6339,
+        "similarity": 0.485,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6342.25,
+      "sourceText": "Qui meurt quand revient le jour",
+      "ipa": "[ki mœʁ kɑ̃ ʁəvjɛ̃ lə ʒuʁ]",
+      "ear": "基 默厄赫 康 赫弗耶安 勒 茹赫",
+      "meaning": "在破晓时消逝无踪",
+      "sourceIPA": "/ki mœʁ kɑ̃ ʁəvjɛ̃ lə ʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-43-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6339,
+        "similarity": 0.485,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6348,
+      "sourceText": "Entends",
+      "ipa": "[ɑ̃tɑ̃]",
+      "ear": "昂唐",
+      "meaning": "听",
+      "sourceIPA": "/ɑ̃tɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-43-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6348,
+        "similarity": 0.693,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6349.2,
+      "sourceText": "Monter vers toi le chant de la terre",
+      "ipa": "[mɔ̃te vɛʁ twa lə ʃɑ̃ də la tɛʁ]",
+      "ear": "蒙特 韦赫 特乌阿 勒 尚 德 拉 泰赫",
+      "meaning": "听大地的歌声向你升起",
+      "sourceIPA": "/mɔ̃te vɛʁ twa lə ʃɑ̃ də la tɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-43-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6348,
+        "similarity": 0.693,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6354.6,
+      "sourceText": "Entends le cri",
+      "ipa": "[ɑ̃tɑ̃ lə kʁi]",
+      "ear": "昂唐 勒 克希",
+      "meaning": "倾听",
+      "sourceIPA": "/ɑ̃tɑ̃ lə kʁi/",
+      "sourceLineId": "notre-dame-de-paris-43-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6348,
+        "similarity": 0.693,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6357,
+      "sourceText": "D'un homme qui a mal",
+      "ipa": "[dœ̃ ɔm ki a mal]",
+      "ear": "丹 哦姆 基 阿 玛勒",
+      "meaning": "一个痛苦的人的呼喊",
+      "sourceIPA": "/dœ̃n ɔm ki a mal/",
+      "sourceLineId": "notre-dame-de-paris-43-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6357,
+        "similarity": 0.915,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6360.25,
+      "sourceText": "Pour qui",
+      "ipa": "[puʁ ki]",
+      "ear": "普赫 基",
+      "meaning": "对他而言",
+      "sourceIPA": "/puʁ ki/",
+      "sourceLineId": "notre-dame-de-paris-43-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6357,
+        "similarity": 0.915,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6361.55,
+      "sourceText": "Un million d'étoiles",
+      "ipa": "[œ̃ miljɔ̃ detwal]",
+      "ear": "恩 米勒耶翁 德特乌阿勒",
+      "meaning": "百万星辰",
+      "sourceIPA": "/œ̃ miljɔ̃ detwal/",
+      "sourceLineId": "notre-dame-de-paris-43-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6357,
+        "similarity": 0.915,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6365,
+      "sourceText": "Ne valent",
+      "ipa": "[nə val]",
+      "ear": "讷 瓦勒",
+      "meaning": "也比不上",
+      "sourceIPA": "/nə val/",
+      "sourceLineId": "notre-dame-de-paris-43-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6365,
+        "similarity": 0.581,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6366.3,
+      "sourceText": "Pas les yeux de celle",
+      "ipa": "[pa lez‿jø də sɛl]",
+      "ear": "帕 莱兹 耶厄 德 塞勒",
+      "meaning": "情人的眼睛",
+      "sourceIPA": "/pa lez jø də sɛl/",
+      "sourceLineId": "notre-dame-de-paris-43-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6365,
+        "similarity": 0.581,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6369.55,
+      "sourceText": "Qu'il aime",
+      "ipa": "[kil‿ɛm]",
+      "ear": "基勒 艾姆",
+      "meaning": "闪亮",
+      "sourceIPA": "/kil ɛm/",
+      "sourceLineId": "notre-dame-de-paris-43-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6365,
+        "similarity": 0.581,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6372,
+      "sourceText": "D'un amour mortel",
+      "ipa": "[dœ̃ amuʁ mɔʁtɛl]",
+      "ear": "丹 阿穆赫 莫赫泰勒",
+      "meaning": "致命的爱情",
+      "sourceIPA": "/dœ̃n amuʁ mɔʁtɛl/",
+      "sourceLineId": "notre-dame-de-paris-43-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6372,
+        "similarity": 0.667,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6376.167,
+      "sourceText": "Lune",
+      "ipa": "[lyn]",
+      "ear": "吕恩",
+      "meaning": "月亮",
+      "sourceIPA": "/lyn/",
+      "sourceLineId": "notre-dame-de-paris-43-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6372,
+        "similarity": 0.667,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6398,
+      "sourceText": "Lune",
+      "ipa": "[lyn]",
+      "ear": "吕恩",
+      "meaning": "月亮",
+      "sourceIPA": "/lyn/",
+      "sourceLineId": "notre-dame-de-paris-43-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6398,
+        "similarity": 0.474,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6398.65,
+      "sourceText": "Qui là-haut s'embrume",
+      "ipa": "[ki lao sɑ̃bʁym]",
+      "ear": "基 拉奥 桑布许姆",
+      "meaning": "在天空放光芒",
+      "sourceIPA": "/ki lao sɑ̃bʁym/",
+      "sourceLineId": "notre-dame-de-paris-43-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6398,
+        "similarity": 0.474,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6401.9,
+      "sourceText": "Avant que le jour ne vienne",
+      "ipa": "[avɑ̃ kə lə ʒuʁ nə vjɛn]",
+      "ear": "阿旺 克 勒 茹赫 讷 弗耶艾恩",
+      "meaning": "直到破晓",
+      "sourceIPA": "/avɑ̃ kə lə ʒuʁ nə vjɛn/",
+      "sourceLineId": "notre-dame-de-paris-43-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6398,
+        "similarity": 0.474,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6407,
+      "sourceText": "Entends",
+      "ipa": "[ɑ̃tɑ̃]",
+      "ear": "昂唐",
+      "meaning": "听",
+      "sourceIPA": "/ɑ̃tɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-43-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6407,
+        "similarity": 0.676,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6408.2,
+      "sourceText": "Rugir le cœur de la bête humaine",
+      "ipa": "[ʁyʒiʁ lə kœʁ də la bɛt‿ymɛn]",
+      "ear": "许日赫 勒 克厄赫 德 拉 贝特 于梅恩",
+      "meaning": "我心狂野的呼号",
+      "sourceIPA": "/ʁyʒiʁ lə kœʁ də la bɛt ymɛn/",
+      "sourceLineId": "notre-dame-de-paris-43-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6407,
+        "similarity": 0.676,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6413.6,
+      "sourceText": "C'est la complainte",
+      "ipa": "[sɛ la kɔ̃plɛ̃t]",
+      "ear": "塞 拉 孔普兰特",
+      "meaning": "悲歌",
+      "sourceIPA": "/sɛ la kɔ̃plɛ̃t/",
+      "sourceLineId": "notre-dame-de-paris-43-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6407,
+        "similarity": 0.676,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6416,
+      "sourceText": "De Quasimodo",
+      "ipa": "[də kazimodo]",
+      "ear": "德 卡齐莫多",
+      "meaning": "这是加西莫多的悲歌",
+      "sourceIPA": "/də kazimodo/",
+      "sourceLineId": "notre-dame-de-paris-43-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6416,
+        "similarity": 0.819,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6419.25,
+      "sourceText": "Qui pleure",
+      "ipa": "[ki plœʁ]",
+      "ear": "基 普勒厄赫",
+      "meaning": "哭泣",
+      "sourceIPA": "/ki plœʁ/",
+      "sourceLineId": "notre-dame-de-paris-43-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6416,
+        "similarity": 0.819,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6420.55,
+      "sourceText": "Sa détresse folle",
+      "ipa": "[sa detʁɛs fɔl]",
+      "ear": "萨 德特赫斯 佛勒",
+      "meaning": "他疯狂绝望的哭泣",
+      "sourceIPA": "/sa detʁɛs fɔl/",
+      "sourceLineId": "notre-dame-de-paris-43-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6416,
+        "similarity": 0.819,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6424,
+      "sourceText": "Sa voix",
+      "ipa": "[sa vwa]",
+      "ear": "萨 弗乌阿",
+      "meaning": "哭泣",
+      "sourceIPA": "/sa vwa/",
+      "sourceLineId": "notre-dame-de-paris-43-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6424,
+        "similarity": 0.652,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6425.0,
+      "sourceText": "Par monts et par vaux",
+      "ipa": "[paʁ mɔ̃ e paʁ vo]",
+      "ear": "帕赫 蒙 诶 帕赫 沃",
+      "meaning": "他疯狂绝望的哭泣",
+      "sourceIPA": "/paʁ mɔ̃z e paʁ vo/",
+      "sourceLineId": "notre-dame-de-paris-43-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6424,
+        "similarity": 0.652,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6427.5,
+      "sourceText": "S'envole",
+      "ipa": "[sɑ̃vɔl]",
+      "ear": "桑沃勒",
+      "meaning": "他的歌声穿越高山低谷",
+      "sourceIPA": "/sɑ̃vɔl/",
+      "sourceLineId": "notre-dame-de-paris-43-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6424,
+        "similarity": 0.652,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6428.5,
+      "sourceText": "Pour arriver jusqu'à toi",
+      "ipa": "[puʁ‿aʁive ʒyska twa]",
+      "ear": "普赫 阿希韦 日于斯卡 特乌阿",
+      "meaning": "向你飞升",
+      "sourceIPA": "/puʁ aʁive ʒyska twa/",
+      "sourceLineId": "notre-dame-de-paris-43-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6424,
+        "similarity": 0.652,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6432,
+      "sourceText": "Lune!",
+      "ipa": "[lyn]",
+      "ear": "吕恩",
+      "meaning": "月亮",
+      "sourceIPA": "/lyn/",
+      "sourceLineId": "notre-dame-de-paris-43-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6432,
+        "similarity": 0.79,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 6444,
+      "sourceText": "Veille",
+      "ipa": "[vɛj]",
+      "ear": "韦耶",
+      "meaning": "看顾",
+      "sourceIPA": "/vɛj/",
+      "sourceLineId": "notre-dame-de-paris-43-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6444,
+        "similarity": 0.672,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6444.65,
+      "sourceText": "Sur ce monde étrange",
+      "ipa": "[syʁ sə mɔ̃d‿etʁɑ̃ʒ]",
+      "ear": "西于赫 瑟 蒙德 诶特杭日",
+      "meaning": "这奇异的尘世",
+      "sourceIPA": "/syʁ sə mɔ̃d etʁɑ̃ʒ/",
+      "sourceLineId": "notre-dame-de-paris-43-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6444,
+        "similarity": 0.672,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6447.9,
+      "sourceText": "Qui mêle",
+      "ipa": "[ki mɛl]",
+      "ear": "基 梅勒",
+      "meaning": "混合",
+      "sourceIPA": "/ki mɛl/",
+      "sourceLineId": "notre-dame-de-paris-43-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6444,
+        "similarity": 0.672,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6452,
+      "sourceText": "Sa voix au chœur des anges",
+      "ipa": "[sa vwa o kœʁ dez‿ɑ̃ʒ]",
+      "ear": "萨 弗乌阿 奥 克厄赫 德兹 昂日",
+      "meaning": "将自己的声音融入天使的合唱",
+      "sourceIPA": "/sa vwaz o kœʁ dez ɑ̃ʒ/",
+      "sourceLineId": "notre-dame-de-paris-43-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6452,
+        "similarity": 0.68,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6456.286,
+      "sourceText": "Lune",
+      "ipa": "[lyn]",
+      "ear": "吕恩",
+      "meaning": "月亮",
+      "sourceIPA": "/lyn/",
+      "sourceLineId": "notre-dame-de-paris-43-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6452,
+        "similarity": 0.68,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6462,
+      "sourceText": "Qui là-haut s'allume",
+      "ipa": "[ki lao salym]",
+      "ear": "基 拉奥 萨吕姆",
+      "meaning": "在高空放光芒",
+      "sourceIPA": "/ki lao salym/",
+      "sourceLineId": "notre-dame-de-paris-43-039",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6462,
+        "similarity": 0.295,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6465.25,
+      "sourceText": "Pour éclairer ma plume",
+      "ipa": "[puʁ‿eklɛʁe ma plym]",
+      "ear": "普赫 诶克莱赫 玛 普吕姆",
+      "meaning": "照耀我的羽毛笔",
+      "sourceIPA": "/puʁ eklɛʁe ma plym/",
+      "sourceLineId": "notre-dame-de-paris-43-040",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6462,
+        "similarity": 0.295,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6470,
+      "sourceText": "Vois",
+      "ipa": "[vwa]",
+      "ear": "弗乌阿",
+      "meaning": "看",
+      "sourceIPA": "/vwa/",
+      "sourceLineId": "notre-dame-de-paris-43-041",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6470,
+        "similarity": 0.876,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6470.65,
+      "sourceText": "Comme un homme",
+      "ipa": "[kɔm‿œ̃n‿ɔm]",
+      "ear": "科姆 恩恩 哦姆",
+      "meaning": "一个男人",
+      "sourceIPA": "/kɔm œ̃n ɔm/",
+      "sourceLineId": "notre-dame-de-paris-43-042",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6470,
+        "similarity": 0.876,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6472.6,
+      "sourceText": "Peut souffrir d'amour",
+      "ipa": "[pø sufʁiʁ damuʁ]",
+      "ear": "珀厄 苏弗希赫 达穆赫",
+      "meaning": "如何为爱所苦",
+      "sourceIPA": "/pø sufʁiʁ damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-43-043",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6470,
+        "similarity": 0.876,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6483,
+      "sourceText": "D'amour",
+      "ipa": "[damuʁ]",
+      "ear": "达穆赫",
+      "meaning": "为爱所苦",
+      "sourceIPA": "/damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-43-044",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6483,
+        "similarity": 0.827,
+        "groupSize": 1
+      }
+    }
+  ]
+}

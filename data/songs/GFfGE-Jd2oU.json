@@ -8,15 +8,171 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 28,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Parlez-moi de Florence",
+      "start": 4137,
+      "duration": 3.9
+    },
+    {
+      "text": "Et de la Renaissance",
+      "start": 4140.9,
+      "duration": 3.9
+    },
+    {
+      "text": "Parlez-moi de Bramante",
+      "start": 4145,
+      "duration": 3.9
+    },
+    {
+      "text": "Et de l'Enfer de Dante",
+      "start": 4148.9,
+      "duration": 3.9
+    },
+    {
+      "text": "A Florence on raconte",
+      "start": 4153,
+      "duration": 3.9
+    },
+    {
+      "text": "Que le terre serait ronde",
+      "start": 4156.9,
+      "duration": 3.9
+    },
+    {
+      "text": "Et qu'il y aurait un autre",
+      "start": 4161,
+      "duration": 4.55
+    },
+    {
+      "text": "Continent en ce monde",
+      "start": 4165.55,
+      "duration": 3.9
+    },
+    {
+      "text": "Des bateaux sont partis déjà sur l'océan",
+      "start": 4173,
+      "duration": 4.696
+    },
+    {
+      "text": "Pour y chercher la porte de la route des Indes",
+      "start": 4177.696,
+      "duration": 4.304
+    },
+    {
+      "text": "Luther va réécrire le Nouveau Testament",
+      "start": 4190,
+      "duration": 7.15
+    },
+    {
+      "text": "Et nous sommes à l'aube d'un monde qui se scinde",
+      "start": 4198,
+      "duration": 6.5
+    },
+    {
+      "text": "Un dénommé Gutenberg",
+      "start": 4208,
+      "duration": 4.0
+    },
+    {
+      "text": "A changé la face du monde",
+      "start": 4212.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Sur les presse de Nuremberg",
+      "start": 4216,
+      "duration": 4.0
+    },
+    {
+      "text": "On imprime à chaque seconde",
+      "start": 4220.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Des poèmes sur du papier",
+      "start": 4224,
+      "duration": 4.5
+    },
+    {
+      "text": "Des discours et des pamphlets",
+      "start": 4228.5,
+      "duration": 4.5
+    },
+    {
+      "text": "Des nouvelles idées",
+      "start": 4233,
+      "duration": 3.25
+    },
+    {
+      "text": "Qui vont tout balayer",
+      "start": 4236.25,
+      "duration": 3.9
+    },
+    {
+      "text": "Les petites choses toujours viennent à bout des grandes",
+      "start": 4243,
+      "duration": 7.15
+    },
+    {
+      "text": "Et la littérature tuera l'architecture",
+      "start": 4253,
+      "duration": 7.8
+    },
+    {
+      "text": "Les livres des écoles tueront les cathédrales",
+      "start": 4261,
+      "duration": 7.15
+    },
+    {
+      "text": "La Bible tuera l'Eglise et l'homme tuera Dieu",
+      "start": 4269,
+      "duration": 7.15
+    },
+    {
+      "text": "Ceci tuera cela",
+      "start": 4281,
+      "duration": 5.0
+    },
+    {
+      "text": "Des bateaux sont partis déjà sur l'océan",
+      "start": 4289,
+      "duration": 4.174
+    },
+    {
+      "text": "Pour y chercher la porte de la route des Indes",
+      "start": 4293.174,
+      "duration": 3.826
+    },
+    {
+      "text": "Luther va réécrire le Nouveau Testament",
+      "start": 4305,
+      "duration": 7.15
+    },
+    {
+      "text": "Et nous sommes à l'aube d'un monde qui se scinde",
+      "start": 4314,
+      "duration": 6.5
+    },
+    {
+      "text": "Ceci tuera cela",
+      "start": 4326,
+      "duration": 5.0
+    },
+    {
+      "text": "Ceci tuera cela",
+      "start": 4334,
+      "duration": 5.0
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=4111",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -128,6 +284,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

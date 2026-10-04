@@ -1,0 +1,970 @@
+{
+  "videoId": "6sJXJJBgtmU",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=520"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 520,
+      "sourceText": "D'où viens-tu belle étrangère",
+      "ipa": "[du vjɛ̃ty bɛl‿etʁɑ̃ʒɛʁ]",
+      "ear": "杜 弗耶安蒂于 贝勒 诶特杭热赫",
+      "meaning": "美丽的异乡人，你来自何方？",
+      "sourceIPA": "/du vjɛ̃ty bɛl etʁɑ̃ʒɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-05-001",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 520,
+        "similarity": 0.679,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 524,
+      "sourceText": "Fille du ciel ou de la terre",
+      "ipa": "[fij dy sjɛl‿u də la tɛʁ]",
+      "ear": "菲耶 迪于 斯耶艾勒 乌 德 拉 泰赫",
+      "meaning": "你是这片天空下和土地上的生灵",
+      "sourceIPA": "/fij dy sjɛl u də la tɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-05-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 524,
+        "similarity": 0.681,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 528.55,
+      "sourceText": "Bel oiseau de paradis",
+      "ipa": "[bɛl‿wazo də paʁadi]",
+      "ear": "贝勒 乌阿佐 德 帕哈迪",
+      "meaning": "我美丽的天堂鸟",
+      "sourceIPA": "/bɛl wazo də paʁadi/",
+      "sourceLineId": "notre-dame-de-paris-05-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 524,
+        "similarity": 0.681,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 533.1,
+      "sourceText": "Que viens-tu faire par ici?",
+      "ipa": "[kə vjɛ̃ty fɛʁ paʁ‿isi]",
+      "ear": "克 弗耶安蒂于 费赫 帕赫 伊西",
+      "meaning": "你为何来到此地",
+      "sourceIPA": "/kə vjɛ̃ty fɛʁ paʁ isi/",
+      "sourceLineId": "notre-dame-de-paris-05-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 524,
+        "similarity": 0.681,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 548,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-005",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 548,
+        "similarity": 0.186,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 549.071,
+      "sourceText": "Nul ne sait le pays d'où je viens",
+      "ipa": "[nyl nə sɛ lə pɛi du ʒə vjɛ̃]",
+      "ear": "尼于勒 讷 塞 勒 佩伊 杜 热 弗耶安",
+      "meaning": "没有人知道我来自何方",
+      "sourceIPA": "/nyl nə sɛ lə pɛi du ʒə vjɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-05-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 548,
+        "similarity": 0.186,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 552.286,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 548,
+        "similarity": 0.186,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 553.357,
+      "sourceText": "Je suis fille de grands chemins",
+      "ipa": "[ʒə sɥi fij də ɡʁɑ̃ ʃəmɛ̃]",
+      "ear": "热 斯于伊 菲耶 德 格杭 舍曼",
+      "meaning": "我流落天涯",
+      "sourceIPA": "/ʒə sɥi fij də ɡʁɑ̃ ʃəmɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-05-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 548,
+        "similarity": 0.186,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 555.857,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 548,
+        "similarity": 0.186,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 556.929,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 548,
+        "similarity": 0.186,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 579,
+      "sourceText": "Qui peut dire où je serai demain",
+      "ipa": "[ki pø diʁ‿u ʒə səʁe dəmɛ̃]",
+      "ear": "基 珀厄 迪赫 乌 热 瑟赫 德曼",
+      "meaning": "谁知我明日又将去向何方",
+      "sourceIPA": "/ki pø diʁ u ʒə səʁe dəmɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-05-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 579,
+        "similarity": 0.584,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 583.2,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 579,
+        "similarity": 0.584,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 584.6,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 579,
+        "similarity": 0.584,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 595,
+      "sourceText": "C'est écrit dans les lignes de ma main",
+      "ipa": "[sɛt‿ekʁi dɑ̃ le linj də ma mɛ̃]",
+      "ear": "塞特 诶克希 当 莱 利恩耶 德 玛 曼",
+      "meaning": "我的命运写在我的掌纹间",
+      "sourceIPA": "/sɛt ekʁi dɑ̃ le linj də ma mɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-05-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 595,
+        "similarity": 0.76,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 606,
+      "sourceText": "Ma mère me parlait de l'Espagne",
+      "ipa": "[ma mɛʁ mə paʁlɛ də lɛspaɲ]",
+      "ear": "玛 梅赫 默 帕赫莱 德 莱斯帕涅",
+      "meaning": "我的母亲向我说起西班牙",
+      "sourceIPA": "/ma mɛʁ mə paʁlɛ də lɛspaɲ/",
+      "sourceLineId": "notre-dame-de-paris-05-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 606,
+        "similarity": 0.697,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 610.267,
+      "sourceText": "Comme si c'était son pays",
+      "ipa": "[kɔm si setɛ sɔ̃ pɛi]",
+      "ear": "科姆 西 塞泰 松 佩伊",
+      "meaning": "好像那里就是她的故乡",
+      "sourceIPA": "/kɔm si setɛ sɔ̃ pɛi/",
+      "sourceLineId": "notre-dame-de-paris-05-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 606,
+        "similarity": 0.697,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 614,
+      "sourceText": "Et des brigands dans les montagnes",
+      "ipa": "[e de bʁiɡɑ̃ dɑ̃ le mɔ̃tanj]",
+      "ear": "诶 德 布希冈 当 莱 蒙塔恩耶",
+      "meaning": "还有那些盗匪",
+      "sourceIPA": "/e de bʁiɡɑ̃ dɑ̃ le mɔ̃tanj/",
+      "sourceLineId": "notre-dame-de-paris-05-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 614,
+        "similarity": 0.646,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 617.5,
+      "sourceText": "Dans les montagnes d'Andalousie",
+      "ipa": "[dɑ̃ le mɔ̃tanj dɑ̃daluzi]",
+      "ear": "当 莱 蒙塔恩耶 当达卢齐",
+      "meaning": "横行在安达卢西亚的山间",
+      "sourceIPA": "/dɑ̃ le mɔ̃tanj dɑ̃daluzi/",
+      "sourceLineId": "notre-dame-de-paris-05-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 614,
+        "similarity": 0.646,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 621,
+      "sourceText": "Dans les montagnes d'Andalousie",
+      "ipa": "[dɑ̃ le mɔ̃tanj dɑ̃daluzi]",
+      "ear": "当 莱 蒙塔恩耶 当达卢齐",
+      "meaning": "在安达卢西亚的山间",
+      "sourceIPA": "/dɑ̃ le mɔ̃tanj dɑ̃daluzi/",
+      "sourceLineId": "notre-dame-de-paris-05-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 621,
+        "similarity": 0.514,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 625.267,
+      "sourceText": "Je n'ai plus ni père ni mère",
+      "ipa": "[ʒə ne ply ni pɛʁ ni mɛʁ]",
+      "ear": "热 内 普吕 尼 佩赫 尼 梅赫",
+      "meaning": "我无父无母",
+      "sourceIPA": "/ʒə ne ply ni pɛʁ ni mɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-05-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 621,
+        "similarity": 0.514,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 629,
+      "sourceText": "J'ai fait de Paris mon pays",
+      "ipa": "[ʒe fɛ də paʁi mɔ̃ pɛi]",
+      "ear": "热 费 德 帕希 蒙 佩伊",
+      "meaning": "巴黎成了我的故乡",
+      "sourceIPA": "/ʒe fɛ də paʁi mɔ̃ pɛi/",
+      "sourceLineId": "notre-dame-de-paris-05-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 629,
+        "similarity": 0.597,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 633.267,
+      "sourceText": "Mais quand j'imagine la mer",
+      "ipa": "[mɛ kɑ̃ ʒimaʒin la mɛʁ]",
+      "ear": "梅 康 日玛日恩 拉 梅赫",
+      "meaning": "但每当我遥想大海",
+      "sourceIPA": "/mɛ kɑ̃ ʒimaʒin la mɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-05-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 629,
+        "similarity": 0.597,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 637,
+      "sourceText": "Elle m'emmène loin d'ici",
+      "ipa": "[ɛl mɑ̃mɛn lwɛ̃ disi]",
+      "ear": "艾勒 芒梅恩 勒乌安 迪西",
+      "meaning": "她就把我带向远方",
+      "sourceIPA": "/ɛl mɑ̃mɛn lwɛ̃ disi/",
+      "sourceLineId": "notre-dame-de-paris-05-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 637,
+        "similarity": 0.408,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 640.857,
+      "sourceText": "Vers les montagnes d'Andalousie",
+      "ipa": "[vɛʁ le mɔ̃tanj dɑ̃daluzi]",
+      "ear": "韦赫 莱 蒙塔恩耶 当达卢齐",
+      "meaning": "带去安达卢西亚的山间",
+      "sourceIPA": "/vɛʁ le mɔ̃tanj dɑ̃daluzi/",
+      "sourceLineId": "notre-dame-de-paris-05-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 637,
+        "similarity": 0.408,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 646,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 646,
+        "similarity": 0.186,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 647.071,
+      "sourceText": "Nul ne sait le pays d'où je viens",
+      "ipa": "[nyl nə sɛ lə pɛi du ʒə vjɛ̃]",
+      "ear": "尼于勒 讷 塞 勒 佩伊 杜 热 弗耶安",
+      "meaning": "没有人知道我来自何方",
+      "sourceIPA": "/nyl nə sɛ lə pɛi du ʒə vjɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-05-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 646,
+        "similarity": 0.186,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 650.286,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 646,
+        "similarity": 0.186,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 651.357,
+      "sourceText": "Je suis fille de grands chemins",
+      "ipa": "[ʒə sɥi fij də ɡʁɑ̃ ʃəmɛ̃]",
+      "ear": "热 斯于伊 菲耶 德 格杭 舍曼",
+      "meaning": "我流落天涯",
+      "sourceIPA": "/ʒə sɥi fij də ɡʁɑ̃ ʃəmɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-05-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 646,
+        "similarity": 0.186,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 653.857,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 646,
+        "similarity": 0.186,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 654.929,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 646,
+        "similarity": 0.186,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 676,
+      "sourceText": "Qui peut dire qui j'aimerai demain",
+      "ipa": "[ki pø diʁ ki ʒɛmʁe dəmɛ̃]",
+      "ear": "基 珀厄 迪赫 基 热姆赫 德曼",
+      "meaning": "谁知明日我又将爱上何人",
+      "sourceIPA": "/ki pø diʁ ki ʒɛmʁe dəmɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-05-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 676,
+        "similarity": 0.42,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 681.2,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 676,
+        "similarity": 0.42,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 683.15,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 676,
+        "similarity": 0.42,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 691,
+      "sourceText": "C'est écrit dans les lignes de ma main",
+      "ipa": "[sɛt‿ekʁi dɑ̃ le linj də ma mɛ̃]",
+      "ear": "塞特 诶克希 当 莱 利恩耶 德 玛 曼",
+      "meaning": "我的命运写在我的掌纹间",
+      "sourceIPA": "/sɛt ekʁi dɑ̃ le linj də ma mɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-05-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 691,
+        "similarity": 0.76,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 703,
+      "sourceText": "J'ai passé toute mon enfance",
+      "ipa": "[ʒe pase tut mɔ̃n‿ɑ̃fɑ̃s]",
+      "ear": "热 帕塞 图特 蒙恩 昂芳斯",
+      "meaning": "我在普罗旺斯的山间",
+      "sourceIPA": "/ʒe pase tut mɔ̃n ɑ̃fɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-05-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 703,
+        "similarity": 0.62,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 706.267,
+      "sourceText": "Pieds nus sur les monts de Provence",
+      "ipa": "[pje ny syʁ le mɔ̃ də pʁovɑ̃s]",
+      "ear": "普耶诶 尼于 西于赫 莱 蒙 德 普霍旺斯",
+      "meaning": "赤脚度过了我的童年",
+      "sourceIPA": "/pje ny syʁ le mɔ̃ də pʁovɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-05-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 703,
+        "similarity": 0.62,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 710,
+      "sourceText": "Pour les gitans la route est longue",
+      "ipa": "[puʁ le ʒitɑ̃ la ʁut‿ɛ lɔ̃ɡ]",
+      "ear": "普赫 莱 日唐 拉 胡特 艾 隆格",
+      "meaning": "对于吉普赛人来说，长路漫漫",
+      "sourceIPA": "/puʁ le ʒitɑ̃ la ʁut ɛ lɔ̃ɡ/",
+      "sourceLineId": "notre-dame-de-paris-05-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 710,
+        "similarity": 0.807,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 715.2,
+      "sourceText": "La route est longue",
+      "ipa": "[la ʁut‿ɛ lɔ̃ɡ]",
+      "ear": "拉 胡特 艾 隆格",
+      "meaning": "长路漫漫",
+      "sourceIPA": "/la ʁut ɛ lɔ̃ɡ/",
+      "sourceLineId": "notre-dame-de-paris-05-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 710,
+        "similarity": 0.807,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 718,
+      "sourceText": "Je continuerai mon errance",
+      "ipa": "[ʒə kɔ̃tinyʁe mɔ̃n‿ɛʁɑ̃s]",
+      "ear": "热 孔蒂尼于赫 蒙恩 艾杭斯",
+      "meaning": "我将在法国的大道上",
+      "sourceIPA": "/ʒə kɔ̃tinyʁe mɔ̃n ɛʁɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-05-039",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 718,
+        "similarity": 0.717,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 721.5,
+      "sourceText": "Au-delà des chemins de France",
+      "ipa": "[odəla de ʃəmɛ̃ də fʁɑ̃s]",
+      "ear": "奥德拉 德 舍曼 德 弗杭斯",
+      "meaning": "继续我的流浪",
+      "sourceIPA": "/odəla de ʃəmɛ̃ də fʁɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-05-040",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 718,
+        "similarity": 0.717,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 725,
+      "sourceText": "Je les suivrai au bout du monde",
+      "ipa": "[ʒə le sɥivʁe o bu dy mɔ̃d]",
+      "ear": "热 莱 斯于伊弗赫 奥 布 迪于 蒙德",
+      "meaning": "我将追随它们到天涯海角",
+      "sourceIPA": "/ʒə le sɥivʁe o bu dy mɔ̃d/",
+      "sourceLineId": "notre-dame-de-paris-05-041",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 725,
+        "similarity": 0.439,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 729.667,
+      "sourceText": "Au bout du monde",
+      "ipa": "[o bu dy mɔ̃d]",
+      "ear": "奥 布 迪于 蒙德",
+      "meaning": "到天涯海角",
+      "sourceIPA": "/o bu dy mɔ̃d/",
+      "sourceLineId": "notre-dame-de-paris-05-042",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 725,
+        "similarity": 0.439,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 732,
+      "sourceText": "Un fleuve d'Andalousie",
+      "ipa": "[œ̃ fløv dɑ̃daluzi]",
+      "ear": "恩 弗勒厄弗 当达卢齐",
+      "meaning": "安达卢西亚的河流",
+      "sourceIPA": "/œ̃ fløv dɑ̃daluzi/",
+      "sourceLineId": "notre-dame-de-paris-05-043",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 732,
+        "similarity": 0.579,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 735.9,
+      "sourceText": "Coule dans mon sang",
+      "ipa": "[kul dɑ̃ mɔ̃ sɑ̃]",
+      "ear": "库勒 当 蒙 桑",
+      "meaning": "在我的血液里流淌",
+      "sourceIPA": "/kul dɑ̃ mɔ̃ sɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-05-044",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 732,
+        "similarity": 0.579,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 742,
+      "sourceText": "Coule dans mes veines",
+      "ipa": "[kul dɑ̃ me vɛn]",
+      "ear": "库勒 当 梅 韦恩",
+      "meaning": "在我的血管内翻涌",
+      "sourceIPA": "/kul dɑ̃ me vɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-045",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 742,
+        "similarity": 0.706,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 744.6,
+      "sourceText": "Le ciel d'Andalousie",
+      "ipa": "[lə sjɛl dɑ̃daluzi]",
+      "ear": "勒 斯耶艾勒 当达卢齐",
+      "meaning": "安达卢西亚的碧空",
+      "sourceIPA": "/lə sjɛl dɑ̃daluzi/",
+      "sourceLineId": "notre-dame-de-paris-05-046",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 742,
+        "similarity": 0.706,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 753,
+      "sourceText": "Vaut-il la peine",
+      "ipa": "[votil la pɛn]",
+      "ear": "沃蒂勒 拉 佩恩",
+      "meaning": "它是否又值得",
+      "sourceIPA": "/votil la pɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-047",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 753,
+        "similarity": 0.548,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 755.6,
+      "sourceText": "Qu'on y revienne?",
+      "ipa": "[kɔ̃ i ʁəvjɛn]",
+      "ear": "孔 伊 赫弗耶艾恩",
+      "meaning": "我苦苦地追寻",
+      "sourceIPA": "/kɔ̃n i ʁəvjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-048",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 753,
+        "similarity": 0.548,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 763,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-049",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 763,
+        "similarity": 0.194,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 764.2,
+      "sourceText": "Nul ne sait le pays d'où je viens",
+      "ipa": "[nyl nə sɛ lə pɛi du ʒə vjɛ̃]",
+      "ear": "尼于勒 讷 塞 勒 佩伊 杜 热 弗耶安",
+      "meaning": "没有人知道我来自何方",
+      "sourceIPA": "/nyl nə sɛ lə pɛi du ʒə vjɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-05-050",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 763,
+        "similarity": 0.194,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 767.8,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-051",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 763,
+        "similarity": 0.194,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 769.0,
+      "sourceText": "Je suis fille de grands chemins",
+      "ipa": "[ʒə sɥi fij də ɡʁɑ̃ ʃəmɛ̃]",
+      "ear": "热 斯于伊 菲耶 德 格杭 舍曼",
+      "meaning": "我流落天涯",
+      "sourceIPA": "/ʒə sɥi fij də ɡʁɑ̃ ʃəmɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-05-052",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 763,
+        "similarity": 0.194,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 771.8,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-053",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 763,
+        "similarity": 0.194,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 792,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-054",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 792,
+        "similarity": 0.352,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 793.167,
+      "sourceText": "Qui peut dire ce que sera demain",
+      "ipa": "[ki pø diʁ sə kə səʁa dəmɛ̃]",
+      "ear": "基 珀厄 迪赫 瑟 克 瑟哈 德曼",
+      "meaning": "谁知我明日又将去向何方",
+      "sourceIPA": "/ki pø diʁ sə kə səʁa dəmɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-05-055",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 792,
+        "similarity": 0.352,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 796.667,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-056",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 792,
+        "similarity": 0.352,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 797.833,
+      "sourceText": "Bohémienne",
+      "ipa": "[boemjɛn]",
+      "ear": "博诶姆耶艾恩",
+      "meaning": "吉普赛女郎",
+      "sourceIPA": "/boemjɛn/",
+      "sourceLineId": "notre-dame-de-paris-05-057",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 792,
+        "similarity": 0.352,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 808,
+      "sourceText": "C'est écrit dans les lignes de ma main",
+      "ipa": "[sɛt‿ekʁi dɑ̃ le linj də ma mɛ̃]",
+      "ear": "塞特 诶克希 当 莱 利恩耶 德 玛 曼",
+      "meaning": "我的命运写在我的掌纹间",
+      "sourceIPA": "/sɛt ekʁi dɑ̃ le linj də ma mɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-05-058",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 808,
+        "similarity": 0.76,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 815,
+      "sourceText": "C'est écrit dans les lignes de ma main",
+      "ipa": "[sɛt‿ekʁi dɑ̃ le linj də ma mɛ̃]",
+      "ear": "塞特 诶克希 当 莱 利恩耶 德 玛 曼",
+      "meaning": "一切都写在我的掌纹间",
+      "sourceIPA": "/sɛt ekʁi dɑ̃ le linj də ma mɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-05-059",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 815,
+        "similarity": 0.76,
+        "groupSize": 1
+      }
+    }
+  ]
+}

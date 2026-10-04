@@ -43,6 +43,8 @@ jobs:
         run: python tests/editorial-refresh.test.py
       - name: Verify local study pack alignment and pronunciation boundaries
         run: python tests/prepare-study-pack.test.py
+      - name: Verify supplied lyric import and liaison corrections
+        run: python tests/notre-study-import.test.py
       - name: Read YouTube metadata and captions (no audio download)
         env:
           VIDEO_INPUT: ${{ inputs.youtube_url }}

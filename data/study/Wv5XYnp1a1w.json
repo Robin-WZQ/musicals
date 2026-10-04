@@ -1,0 +1,346 @@
+{
+  "videoId": "Wv5XYnp1a1w",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=840"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 843,
+      "sourceText": "Esméralda tu sais",
+      "ipa": "[ɛsmeʁalda ty sɛ]",
+      "ear": "艾斯梅哈勒达 蒂于 塞",
+      "meaning": "艾斯美拉达，你知道",
+      "sourceIPA": "/ɛsmeʁalda ty sɛ/",
+      "sourceLineId": "notre-dame-de-paris-06-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 843,
+        "similarity": 0.852,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 846.9,
+      "sourceText": "Tu n'es plus une enfant",
+      "ipa": "[ty nɛ plyz‿yn‿ɑ̃fɑ̃]",
+      "ear": "蒂于 奈 普吕兹 于恩 昂芳",
+      "meaning": "你已经不再是个孩子了",
+      "sourceIPA": "/ty nɛ plyz yn ɑ̃fɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-06-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 843,
+        "similarity": 0.852,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 851,
+      "sourceText": "Il m'arrive maintenant",
+      "ipa": "[il maʁiv mɛ̃tnɑ̃]",
+      "ear": "伊勒 玛希弗 曼特南",
+      "meaning": "如今的我已",
+      "sourceIPA": "/il maʁiv mɛ̃tnɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-06-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 851,
+        "similarity": 0.477,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 854.214,
+      "sourceText": "de te regarder différemment",
+      "ipa": "[də tə ʁəɡaʁde difeʁamɑ̃]",
+      "ear": "德 特 赫嘎赫德 迪费哈芒",
+      "meaning": "不能像从前那样看待你",
+      "sourceIPA": "/də tə ʁəɡaʁde difeʁamɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-06-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 851,
+        "similarity": 0.477,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 860,
+      "sourceText": "Tu n'avais pas huit ans",
+      "ipa": "[ty navɛ pa ɥit‿ɑ̃]",
+      "ear": "蒂于 纳韦 帕 于伊特 昂",
+      "meaning": "你不再是当年那个八岁的孩子",
+      "sourceIPA": "/ty navɛ pa yit ɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-06-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 860,
+        "similarity": 0.899,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 864.55,
+      "sourceText": "quand ta mère est partie",
+      "ipa": "[kɑ̃ ta mɛʁ‿ɛ paʁti]",
+      "ear": "康 塔 梅赫 艾 帕赫蒂",
+      "meaning": "那时你母亲将你托付于我",
+      "sourceIPA": "/kɑ̃ ta mɛʁ ɛ paʁti/",
+      "sourceLineId": "notre-dame-de-paris-06-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 860,
+        "similarity": 0.899,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 870,
+      "sourceText": "emportée par la mort",
+      "ipa": "[ɑ̃pɔʁte paʁ la mɔʁ]",
+      "ear": "昂珀赫特 帕赫 拉 莫赫",
+      "meaning": "而她被死亡带走",
+      "sourceIPA": "/ɑ̃pɔʁte paʁ la mɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-06-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 870,
+        "similarity": 0.657,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 873.9,
+      "sourceText": "vers son Andalousie",
+      "ipa": "[vɛʁ sɔ̃n‿ɑ̃daluzi]",
+      "ear": "韦赫 松恩 昂达卢齐",
+      "meaning": "带去她的安达卢西亚",
+      "sourceIPA": "/vɛʁ sɔ̃n ɑ̃daluzi/",
+      "sourceLineId": "notre-dame-de-paris-06-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 870,
+        "similarity": 0.657,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 881,
+      "sourceText": "Elle t'a confiée à moi",
+      "ipa": "[ɛl ta kɔ̃fje a mwa]",
+      "ear": "艾勒 塔 孔弗耶诶 阿 姆乌阿",
+      "meaning": "她把你托付于我",
+      "sourceIPA": "/ɛl ta kɔ̃fje a mwa/",
+      "sourceLineId": "notre-dame-de-paris-06-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 881,
+        "similarity": 0.805,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 884.9,
+      "sourceText": "et avec jalousie",
+      "ipa": "[e avɛk ʒaluzi]",
+      "ear": "诶 阿韦克 扎卢齐",
+      "meaning": "不无妒忌",
+      "sourceIPA": "/e avɛk ʒaluzi/",
+      "sourceLineId": "notre-dame-de-paris-06-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 881,
+        "similarity": 0.805,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 890,
+      "sourceText": "J'ai veillé sur ta vie",
+      "ipa": "[ʒe vɛje syʁ ta vi]",
+      "ear": "热 韦耶诶 西于赫 塔 维",
+      "meaning": "我从此看顾你",
+      "sourceIPA": "/ʒe vɛje syʁ ta vi/",
+      "sourceLineId": "notre-dame-de-paris-06-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 890,
+        "similarity": 0.898,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 893.9,
+      "sourceText": "Jusqu'au jour d'aujourd'hui",
+      "ipa": "[ʒysko ʒuʁ doʒuʁdɥi]",
+      "ear": "日于斯科 茹赫 多茹赫德于伊",
+      "meaning": "从那日直到如今",
+      "sourceIPA": "/ʒysko ʒuʁ dɔdʒədhjui/",
+      "sourceLineId": "notre-dame-de-paris-06-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 890,
+        "similarity": 0.898,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 899,
+      "sourceText": "Esméralda tu sais",
+      "ipa": "[ɛsmeʁalda ty sɛ]",
+      "ear": "艾斯梅哈勒达 蒂于 塞",
+      "meaning": "艾斯美拉达，你知道",
+      "sourceIPA": "/ɛsmeʁalda ty sɛ/",
+      "sourceLineId": "notre-dame-de-paris-06-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 899,
+        "similarity": 0.68,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 902.9,
+      "sourceText": "Les hommes sont méchants",
+      "ipa": "[lez‿ɔm sɔ̃ meʃɑ̃]",
+      "ear": "莱兹 哦姆 松 梅尚",
+      "meaning": "男人是恶毒的",
+      "sourceIPA": "/lez ɔm sɔ̃ meʃɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-06-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 899,
+        "similarity": 0.68,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 910,
+      "sourceText": "Prend garde quand tu cours",
+      "ipa": "[pʁɑ̃ ɡaʁd kɑ̃ ty kuʁ]",
+      "ear": "普杭 嘎赫德 康 蒂于 库赫",
+      "meaning": "奔跑时候要当心",
+      "sourceIPA": "/pʁɑ̃ ɡaʁd kɑ̃ ty kuʁ/",
+      "sourceLineId": "notre-dame-de-paris-06-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 910,
+        "similarity": 0.919,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 912.647,
+      "sourceText": "dans les rues, dans les champs",
+      "ipa": "[dɑ̃ le ʁy dɑ̃ le ʃɑ̃]",
+      "ear": "当 莱 许 当 莱 尚",
+      "meaning": "在路上 在田际",
+      "sourceIPA": "/dɑ̃ le ʁy dɑ̃ le ʃɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-06-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 910,
+        "similarity": 0.919,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 915.824,
+      "sourceText": "Est-ce que tu me comprends?",
+      "ipa": "[ɛs kə ty mə kɔ̃pʁɑ̃]",
+      "ear": "艾斯 克 蒂于 默 孔普杭",
+      "meaning": "你可否明了我意",
+      "sourceIPA": "/ɛs kə ty mə kɔ̃pʁɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-06-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 910,
+        "similarity": 0.919,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 919,
+      "sourceText": "Tu arrives maintenant",
+      "ipa": "[ty aʁiv mɛ̃tnɑ̃]",
+      "ear": "蒂于 阿希弗 曼特南",
+      "meaning": "你已然到抵",
+      "sourceIPA": "/ty aʁiv mɛ̃tnɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-06-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 919,
+        "similarity": 0.416,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 922.25,
+      "sourceText": "à l'âge de l'amour",
+      "ipa": "[a laʒ də lamuʁ]",
+      "ear": "阿 拉日 德 拉穆赫",
+      "meaning": "恋爱的年纪",
+      "sourceIPA": "/a laʒ də lamuʁ/",
+      "sourceLineId": "notre-dame-de-paris-06-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 919,
+        "similarity": 0.416,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 928,
+      "sourceText": "Rien n'est plus comme avant",
+      "ipa": "[ʁiɛ̃ nɛ ply kɔm‿avɑ̃]",
+      "ear": "希安 奈 普吕 科姆 阿旺",
+      "meaning": "一切都今非昔比",
+      "sourceIPA": "/ʁiɛ̃ nɛ ply kɔm avɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-06-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 928,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    }
+  ]
+}

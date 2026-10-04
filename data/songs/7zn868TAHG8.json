@@ -8,15 +8,286 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 32,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "http://lang-zi.blog.ntu.edu.tw/ \r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Condamnés",
+      "start": 5057,
+      "duration": 1.6
+    },
+    {
+      "text": "Arrêtés",
+      "start": 5058.6,
+      "duration": 1.6
+    },
+    {
+      "text": "Accusés",
+      "start": 5060.2,
+      "duration": 1.6
+    },
+    {
+      "text": "Enfermés",
+      "start": 5061.8,
+      "duration": 1.6
+    },
+    {
+      "text": "Délogés",
+      "start": 5063.4,
+      "duration": 1.6
+    },
+    {
+      "text": "Expulsés",
+      "start": 5065,
+      "duration": 1.6
+    },
+    {
+      "text": "Exilés",
+      "start": 5066.6,
+      "duration": 1.6
+    },
+    {
+      "text": "Déportés",
+      "start": 5068.2,
+      "duration": 1.6
+    },
+    {
+      "text": "La couleur de ma peau",
+      "start": 5069.8,
+      "duration": 3.2
+    },
+    {
+      "text": "Contre celle de ta peau",
+      "start": 5073,
+      "duration": 3.25
+    },
+    {
+      "text": "La musique que tu chantes",
+      "start": 5076.25,
+      "duration": 3.9
+    },
+    {
+      "text": "Contre celle que je danse",
+      "start": 5082,
+      "duration": 2.941
+    },
+    {
+      "text": "La douleur de l'exil",
+      "start": 5084.941,
+      "duration": 3.53
+    },
+    {
+      "text": "Dans les rues de ta ville",
+      "start": 5088.471,
+      "duration": 3.529
+    },
+    {
+      "text": "Comment faire un monde",
+      "start": 5092,
+      "duration": 5.0
+    },
+    {
+      "text": "Où il n'y aurait plus d'exclus?",
+      "start": 5099,
+      "duration": 5.2
+    },
+    {
+      "text": "Comment faire un monde",
+      "start": 5106,
+      "duration": 5.0
+    },
+    {
+      "text": "Sans misère",
+      "start": 5112,
+      "duration": 1.95
+    },
+    {
+      "text": "Et sans frontières?",
+      "start": 5113.95,
+      "duration": 2.6
+    },
+    {
+      "text": "Humiliés",
+      "start": 5116.55,
+      "duration": 1.95
+    },
+    {
+      "text": "Rejetés",
+      "start": 5120,
+      "duration": 1.143
+    },
+    {
+      "text": "Opprimés",
+      "start": 5121.143,
+      "duration": 1.714
+    },
+    {
+      "text": "Révoltés",
+      "start": 5122.857,
+      "duration": 1.714
+    },
+    {
+      "text": "Torturés",
+      "start": 5124.571,
+      "duration": 1.715
+    },
+    {
+      "text": "Écrasés",
+      "start": 5126.286,
+      "duration": 1.714
+    },
+    {
+      "text": "Décimés",
+      "start": 5128,
+      "duration": 1.8
+    },
+    {
+      "text": "Massacrés",
+      "start": 5129.8,
+      "duration": 1.8
+    },
+    {
+      "text": "Mon pays",
+      "start": 5131.6,
+      "duration": 1.8
+    },
+    {
+      "text": "Que je porte",
+      "start": 5133.4,
+      "duration": 1.8
+    },
+    {
+      "text": "Dans mon cœur",
+      "start": 5135.2,
+      "duration": 1.8
+    },
+    {
+      "text": "Dans mon corps",
+      "start": 5137,
+      "duration": 1.6
+    },
+    {
+      "text": "Ton pays",
+      "start": 5138.6,
+      "duration": 1.6
+    },
+    {
+      "text": "Qui m'apporte",
+      "start": 5140.2,
+      "duration": 1.6
+    },
+    {
+      "text": "Le malheur",
+      "start": 5141.8,
+      "duration": 1.6
+    },
+    {
+      "text": "Et la mort",
+      "start": 5143.4,
+      "duration": 1.6
+    },
+    {
+      "text": "Ma chaleur du midi",
+      "start": 5145,
+      "duration": 3.9
+    },
+    {
+      "text": "Sous ton ciel",
+      "start": 5148.9,
+      "duration": 1.95
+    },
+    {
+      "text": "Toujours gris",
+      "start": 5150.85,
+      "duration": 1.95
+    },
+    {
+      "text": "Comment faire un monde",
+      "start": 5154,
+      "duration": 5.0
+    },
+    {
+      "text": "Sans misère",
+      "start": 5161,
+      "duration": 2.143
+    },
+    {
+      "text": "Et sans frontières",
+      "start": 5163.143,
+      "duration": 2.857
+    },
+    {
+      "text": "Mais comment faire un monde",
+      "start": 5167,
+      "duration": 3.9
+    },
+    {
+      "text": "Où il n'y aurait plus",
+      "start": 5170.9,
+      "duration": 3.9
+    },
+    {
+      "text": "D'exclus?",
+      "start": 5179,
+      "duration": 1.3
+    },
+    {
+      "text": "Condamnés",
+      "start": 5180.3,
+      "duration": 1.95
+    },
+    {
+      "text": "Arrêtés",
+      "start": 5182.25,
+      "duration": 1.95
+    },
+    {
+      "text": "Accusés",
+      "start": 5184.2,
+      "duration": 1.95
+    },
+    {
+      "text": "Enfermés",
+      "start": 5187,
+      "duration": 1.6
+    },
+    {
+      "text": "Délogés",
+      "start": 5188.6,
+      "duration": 1.6
+    },
+    {
+      "text": "Expulsés",
+      "start": 5190.2,
+      "duration": 1.6
+    },
+    {
+      "text": "Exilés",
+      "start": 5191.8,
+      "duration": 1.6
+    },
+    {
+      "text": "Déportés",
+      "start": 5193.4,
+      "duration": 1.6
+    },
+    {
+      "text": "Condamnés",
+      "start": 5195,
+      "duration": 5.0
+    },
+    {
+      "text": "Condamnés",
+      "start": 5202,
+      "duration": 5.0
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5047",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -112,6 +383,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

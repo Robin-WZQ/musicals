@@ -8,15 +8,71 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 43,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Je te laisse un sifflet pour pouvoir m'appeler",
+      "start": 6502,
+      "duration": 3.667
+    },
+    {
+      "text": "Le jour tu resteras ici",
+      "start": 6505.667,
+      "duration": 2.333
+    },
+    {
+      "text": "Mais tu pourras te promener la nuit",
+      "start": 6508.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Sur les toits de la cathédrale",
+      "start": 6511,
+      "duration": 3.429
+    },
+    {
+      "text": "Sous les étoiles",
+      "start": 6514.429,
+      "duration": 1.714
+    },
+    {
+      "text": "Tu ne m'écoute pas.",
+      "start": 6516.143,
+      "duration": 2.143
+    },
+    {
+      "text": "Tu dors déjà",
+      "start": 6518.286,
+      "duration": 1.714
+    },
+    {
+      "text": "Le monde est si méchant dehors",
+      "start": 6520,
+      "duration": 4.267
+    },
+    {
+      "text": "Que tu es belle quand tu dors",
+      "start": 6524.267,
+      "duration": 3.733
+    },
+    {
+      "text": "Dans ton sommeil, Esméralda",
+      "start": 6528,
+      "duration": 5.2
+    },
+    {
+      "text": "Est-ce que tu rêves à ton soleil",
+      "start": 6533.2,
+      "duration": 5.2
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6500",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -52,6 +108,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

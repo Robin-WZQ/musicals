@@ -1,0 +1,522 @@
+{
+  "videoId": "GFfGE-Jd2oU",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=4111"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 4137,
+      "sourceText": "Parlez-moi de Florence",
+      "ipa": "[paʁlemwa də floʁɑ̃s]",
+      "ear": "帕赫莱姆乌阿 德 弗洛杭斯",
+      "meaning": "跟我谈谈佛罗伦斯",
+      "sourceIPA": "/paʁlemwa də floʁɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-29-001",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4137,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4140.9,
+      "sourceText": "Et de la Renaissance",
+      "ipa": "[e də la ʁənɛsɑ̃s]",
+      "ear": "诶 德 拉 赫奈桑斯",
+      "meaning": "还有文艺复兴",
+      "sourceIPA": "/e də la ʁənɛsɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-29-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4137,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4145,
+      "sourceText": "Parlez-moi de Bramante",
+      "ipa": "[paʁlemwa də bʁamɑ̃t]",
+      "ear": "帕赫莱姆乌阿 德 布哈芒特",
+      "meaning": "谈谈Bramante宏伟的教堂",
+      "sourceIPA": "/paʁlemwa də bʁamɑ̃t/",
+      "sourceLineId": "notre-dame-de-paris-29-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4145,
+        "similarity": 0.915,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4148.9,
+      "sourceText": "Et de l'Enfer de Dante",
+      "ipa": "[e də lɑ̃fɛʁ də dɑ̃t]",
+      "ear": "诶 德 朗费赫 德 当特",
+      "meaning": "还有但丁笔中的地狱",
+      "sourceIPA": "/e də lɑ̃fɛʁ də dɑ̃t/",
+      "sourceLineId": "notre-dame-de-paris-29-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4145,
+        "similarity": 0.915,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4153,
+      "sourceText": "A Florence on raconte",
+      "ipa": "[a floʁɑ̃s‿ɔ̃ ʁakɔ̃t]",
+      "ear": "阿 弗洛杭斯 翁 哈孔特",
+      "meaning": "佛罗伦斯有人说",
+      "sourceIPA": "/a floʁɑ̃s ɔ̃ ʁakɔ̃t/",
+      "sourceLineId": "notre-dame-de-paris-29-005",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4153,
+        "similarity": 0.584,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4156.9,
+      "sourceText": "Que le terre serait ronde",
+      "ipa": "[kə lə tɛʁ səʁɛ ʁɔ̃d]",
+      "ear": "克 勒 泰赫 瑟赫 洪德",
+      "meaning": "地球是圆的",
+      "sourceIPA": "/kə lə tɛʁ səʁɛ ʁɔ̃d/",
+      "sourceLineId": "notre-dame-de-paris-29-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4153,
+        "similarity": 0.584,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4161,
+      "sourceText": "Et qu'il y aurait un autre",
+      "ipa": "[e kil‿i oʁɛ œ̃n‿otʁ]",
+      "ear": "诶 基勒 伊 奥赫 恩恩 奥特赫",
+      "meaning": "还有其他的大陆",
+      "sourceIPA": "/e kil i oʁɛt œ̃n otʁ/",
+      "sourceLineId": "notre-dame-de-paris-29-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4161,
+        "similarity": 0.545,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4165.55,
+      "sourceText": "Continent en ce monde",
+      "ipa": "[kɔ̃tinɑ̃ ɑ̃ sə mɔ̃d]",
+      "ear": "孔蒂南 昂 瑟 蒙德",
+      "meaning": "在世界的另一头",
+      "sourceIPA": "/kɔ̃tinɑ̃ ɑ̃ sə mɔ̃d/",
+      "sourceLineId": "notre-dame-de-paris-29-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4161,
+        "similarity": 0.545,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4173,
+      "sourceText": "Des bateaux sont partis déjà sur l'océan",
+      "ipa": "[de bato sɔ̃ paʁti deʒa syʁ loseɑ̃]",
+      "ear": "德 巴托 松 帕赫蒂 德扎 西于赫 洛塞昂",
+      "meaning": "大船已经离开远行在海上",
+      "sourceIPA": "/de bato sɔ̃ paʁti deʒa syʁ loseɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-29-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4173,
+        "similarity": 0.162,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4177.696,
+      "sourceText": "Pour y chercher la porte de la route des Indes",
+      "ipa": "[puʁ‿i ʃɛʁʃe la pɔʁt də la ʁut dez‿ɛ̃d]",
+      "ear": "普赫 伊 谢赫谢 拉 珀赫特 德 拉 胡特 德兹 安德",
+      "meaning": "寻找前往印度的航道",
+      "sourceIPA": "/puʁ i ʃɛʁʃe la pɔʁt də la ʁut dez ɛ̃d/",
+      "sourceLineId": "notre-dame-de-paris-29-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4173,
+        "similarity": 0.162,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4190,
+      "sourceText": "Luther va réécrire le Nouveau Testament",
+      "ipa": "[lytɛʁ va ʁeekʁiʁ lə nuvo tɛstamɑ̃]",
+      "ear": "吕泰赫 瓦 赫诶克希赫 勒 努沃 泰斯塔芒",
+      "meaning": "马丁路德将重写新约",
+      "sourceIPA": "/luðə va ʁeekʁiʁ lə nuvo tɛstam/",
+      "sourceLineId": "notre-dame-de-paris-29-011",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4190,
+        "similarity": 0.878,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4198,
+      "sourceText": "Et nous sommes à l'aube d'un monde qui se scinde",
+      "ipa": "[e nu sɔm‿a lob dœ̃ mɔ̃d ki sə sɛ̃d]",
+      "ear": "诶 努 索姆 阿 洛布 丹 蒙德 基 瑟 森德",
+      "meaning": "我们的世界正开始分裂",
+      "sourceIPA": "/e nu sɔmz a lob dœ̃ mɔ̃d ki sə sɛ̃d/",
+      "sourceLineId": "notre-dame-de-paris-29-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4198,
+        "similarity": 0.572,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4208,
+      "sourceText": "Un dénommé Gutenberg",
+      "ipa": "[œ̃ denɔme ɡytɑ̃bɛʁɡ]",
+      "ear": "恩 德诺梅 吉于唐贝赫格",
+      "meaning": "那个名为古腾堡的人",
+      "sourceIPA": "/œ̃ denɔme ɡytɑ̃bɛʁɡ/",
+      "sourceLineId": "notre-dame-de-paris-29-013",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4208,
+        "similarity": 0.534,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4212.0,
+      "sourceText": "A changé la face du monde",
+      "ipa": "[a ʃɑ̃ʒe la fas dy mɔ̃d]",
+      "ear": "阿 尚热 拉 法斯 迪于 蒙德",
+      "meaning": "整个改变了这个世界",
+      "sourceIPA": "/a ʃɑ̃ʒe la fas dy mɔ̃d/",
+      "sourceLineId": "notre-dame-de-paris-29-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4208,
+        "similarity": 0.534,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4216,
+      "sourceText": "Sur les presse de Nuremberg",
+      "ipa": "[syʁ le pʁɛs də nyʁɑ̃bɛʁɡ]",
+      "ear": "西于赫 莱 普赫斯 德 尼于杭贝赫格",
+      "meaning": "在纽伦堡的报社与印刷厂",
+      "sourceIPA": "/syʁ le pʁɛs də nyʁɑ̃bɛʁɡ/",
+      "sourceLineId": "notre-dame-de-paris-29-015",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4216,
+        "similarity": 0.766,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4220.0,
+      "sourceText": "On imprime à chaque seconde",
+      "ipa": "[ɔ̃n‿ɛ̃pʁim‿a ʃak səɡɔ̃d]",
+      "ear": "翁恩 安普希姆 阿 沙克 瑟贡德",
+      "meaning": "每秒钟都有印刷物问世",
+      "sourceIPA": "/ɔ̃n ɛ̃pʁim a ʃak səɡɔ̃d/",
+      "sourceLineId": "notre-dame-de-paris-29-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4216,
+        "similarity": 0.766,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4224,
+      "sourceText": "Des poèmes sur du papier",
+      "ipa": "[de pɔɛm syʁ dy papje]",
+      "ear": "德 珀艾姆 西于赫 迪于 帕普耶诶",
+      "meaning": "印在纸上的有诗",
+      "sourceIPA": "/de pɔɛm syʁ dy papje/",
+      "sourceLineId": "notre-dame-de-paris-29-017",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4224,
+        "similarity": 0.805,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4228.5,
+      "sourceText": "Des discours et des pamphlets",
+      "ipa": "[de diskuʁ e de pɑ̃flɛ]",
+      "ear": "德 迪斯库赫 诶 德 庞弗莱",
+      "meaning": "还有传单和讲辞",
+      "sourceIPA": "/de diskuʁz e de pɑ̃flɛ/",
+      "sourceLineId": "notre-dame-de-paris-29-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4224,
+        "similarity": 0.805,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4233,
+      "sourceText": "Des nouvelles idées",
+      "ipa": "[de nuvɛl‿ide]",
+      "ear": "德 努韦勒 伊德",
+      "meaning": "新思想",
+      "sourceIPA": "/de nuvɛlz ide/",
+      "sourceLineId": "notre-dame-de-paris-29-019",
+      "speaker": "Frollo / Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4233,
+        "similarity": 0.503,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4236.25,
+      "sourceText": "Qui vont tout balayer",
+      "ipa": "[ki vɔ̃ tu balɛje]",
+      "ear": "基 翁 图 巴莱耶诶",
+      "meaning": "正横扫世界每一个人",
+      "sourceIPA": "/ki vɔ̃ tu balɛje/",
+      "sourceLineId": "notre-dame-de-paris-29-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4233,
+        "similarity": 0.503,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4243,
+      "sourceText": "Les petites choses toujours viennent à bout des grandes",
+      "ipa": "[le pətit ʃoz tuʒuʁ vjɛn‿a bu de ɡʁɑ̃d]",
+      "ear": "莱 珀蒂特 肖兹 图茹赫 弗耶艾恩 阿 布 德 格杭德",
+      "meaning": "小总会战胜大",
+      "sourceIPA": "/le pətit ʃoz tuʒuʁ vjɛnt a bu de ɡʁɑ̃d/",
+      "sourceLineId": "notre-dame-de-paris-29-021",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4243,
+        "similarity": 0.704,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4253,
+      "sourceText": "Et la littérature tuera l'architecture",
+      "ipa": "[e la liteʁatyʁ tyʁa laʁʃitɛktyʁ]",
+      "ear": "诶 拉 利特哈蒂于赫 蒂于哈 拉赫希泰克蒂于赫",
+      "meaning": "文学的地位也将取代建筑",
+      "sourceIPA": "/e la liteʁatyʁ tyʁa laʁʃitɛktyʁ/",
+      "sourceLineId": "notre-dame-de-paris-29-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4253,
+        "similarity": 0.687,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4261,
+      "sourceText": "Les livres des écoles tueront les cathédrales",
+      "ipa": "[le livʁ dez‿ekol tyʁɔ̃ le katedʁal]",
+      "ear": "莱 利弗赫 德兹 诶科勒 蒂于洪 莱 卡特德哈勒",
+      "meaning": "学校课本会战胜教堂",
+      "sourceIPA": "/le livʁ dez ekol tyʁɔ̃ le katedʁal/",
+      "sourceLineId": "notre-dame-de-paris-29-023",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4261,
+        "similarity": 0.612,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4269,
+      "sourceText": "La Bible tuera l'Eglise et l'homme tuera Dieu",
+      "ipa": "[la bibl tyʁa leɡliz e lɔm tyʁa djø]",
+      "ear": "拉 比布勒 蒂于哈 莱格利兹 诶 洛姆 蒂于哈 德耶厄",
+      "meaning": "圣经摧毁教堂 人会杀死上帝",
+      "sourceIPA": "/la bibl tyʁa leɡliz e lɔm tyʁa djø/",
+      "sourceLineId": "notre-dame-de-paris-29-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4269,
+        "similarity": 0.818,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4281,
+      "sourceText": "Ceci tuera cela",
+      "ipa": "[səsi tyʁa səla]",
+      "ear": "瑟西 蒂于哈 瑟拉",
+      "meaning": "这些会摧毁那些",
+      "sourceIPA": "/səsi tyʁa səla/",
+      "sourceLineId": "notre-dame-de-paris-29-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4281,
+        "similarity": 0.604,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4289,
+      "sourceText": "Des bateaux sont partis déjà sur l'océan",
+      "ipa": "[de bato sɔ̃ paʁti deʒa syʁ loseɑ̃]",
+      "ear": "德 巴托 松 帕赫蒂 德扎 西于赫 洛塞昂",
+      "meaning": "大船已经离开远行在海上",
+      "sourceIPA": "/de bato sɔ̃ paʁti deʒa syʁ loseɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-29-026",
+      "speaker": "Frollo / Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4289,
+        "similarity": 0.157,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4293.174,
+      "sourceText": "Pour y chercher la porte de la route des Indes",
+      "ipa": "[puʁ‿i ʃɛʁʃe la pɔʁt də la ʁut dez‿ɛ̃d]",
+      "ear": "普赫 伊 谢赫谢 拉 珀赫特 德 拉 胡特 德兹 安德",
+      "meaning": "寻找前往印度的航道",
+      "sourceIPA": "/puʁ i ʃɛʁʃe la pɔʁt də la ʁut dez ɛ̃d/",
+      "sourceLineId": "notre-dame-de-paris-29-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4289,
+        "similarity": 0.157,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4305,
+      "sourceText": "Luther va réécrire le Nouveau Testament",
+      "ipa": "[lytɛʁ va ʁeekʁiʁ lə nuvo tɛstamɑ̃]",
+      "ear": "吕泰赫 瓦 赫诶克希赫 勒 努沃 泰斯塔芒",
+      "meaning": "马丁路德将重写新约",
+      "sourceIPA": "/luðə va ʁeekʁiʁ lə nuvo tɛstam/",
+      "sourceLineId": "notre-dame-de-paris-29-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4305,
+        "similarity": 0.878,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4314,
+      "sourceText": "Et nous sommes à l'aube d'un monde qui se scinde",
+      "ipa": "[e nu sɔm‿a lob dœ̃ mɔ̃d ki sə sɛ̃d]",
+      "ear": "诶 努 索姆 阿 洛布 丹 蒙德 基 瑟 森德",
+      "meaning": "我们的世界正开始分裂",
+      "sourceIPA": "/e nu sɔmz a lob dœ̃ mɔ̃d ki sə sɛ̃d/",
+      "sourceLineId": "notre-dame-de-paris-29-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4314,
+        "similarity": 0.572,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4326,
+      "sourceText": "Ceci tuera cela",
+      "ipa": "[səsi tyʁa səla]",
+      "ear": "瑟西 蒂于哈 瑟拉",
+      "meaning": "这些会摧毁那些",
+      "sourceIPA": "/səsi tyʁa səla/",
+      "sourceLineId": "notre-dame-de-paris-29-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4326,
+        "similarity": 0.604,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4334,
+      "sourceText": "Ceci tuera cela",
+      "ipa": "[səsi tyʁa səla]",
+      "ear": "瑟西 蒂于哈 瑟拉",
+      "meaning": "这些会摧毁那些",
+      "sourceIPA": "/səsi tyʁa səla/",
+      "sourceLineId": "notre-dame-de-paris-29-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4334,
+        "similarity": 0.604,
+        "groupSize": 1
+      }
+    }
+  ]
+}

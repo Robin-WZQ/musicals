@@ -8,15 +8,126 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 24,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Qui est cet homme",
+      "start": 3637,
+      "duration": 2.588
+    },
+    {
+      "text": "Est-ce mon ombre qui me suit",
+      "start": 3639.588,
+      "duration": 3.883
+    },
+    {
+      "text": "Ou un fantôme dans la nuit",
+      "start": 3643.471,
+      "duration": 4.529
+    },
+    {
+      "text": "Pourquoi mon ombre",
+      "start": 3648,
+      "duration": 2.261
+    },
+    {
+      "text": "Porterait-elle donc un manteau",
+      "start": 3650.261,
+      "duration": 4.522
+    },
+    {
+      "text": "Porterait-elle donc un chapeau",
+      "start": 3654.783,
+      "duration": 4.521
+    },
+    {
+      "text": "Qui êtes-vous?",
+      "start": 3659.304,
+      "duration": 1.696
+    },
+    {
+      "text": "Démasquez-vous!",
+      "start": 3661,
+      "duration": 2.6
+    },
+    {
+      "text": "Approchez-vous!",
+      "start": 3663.6,
+      "duration": 2.6
+    },
+    {
+      "text": "Présentez-vous!",
+      "start": 3666.2,
+      "duration": 2.6
+    },
+    {
+      "text": "Je suis ta conscience",
+      "start": 3669,
+      "duration": 3.25
+    },
+    {
+      "text": "Écoute-moi",
+      "start": 3672.25,
+      "duration": 1.95
+    },
+    {
+      "text": "Si tu ne veux pas",
+      "start": 3675,
+      "duration": 2.667
+    },
+    {
+      "text": "Finir sur la potence",
+      "start": 3677.667,
+      "duration": 3.2
+    },
+    {
+      "text": "Soldat du roi",
+      "start": 3680.867,
+      "duration": 2.133
+    },
+    {
+      "text": "Éloigne-toi de cet endroit",
+      "start": 3683,
+      "duration": 4.0
+    },
+    {
+      "text": "Où tout droit te mènent tes pas",
+      "start": 3687.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Soldat du Roi je suis",
+      "start": 3691,
+      "duration": 2.667
+    },
+    {
+      "text": "Mais dites-moi",
+      "start": 3693.667,
+      "duration": 1.333
+    },
+    {
+      "text": "Vous qui m'avez suivi jusqu'ici",
+      "start": 3695.0,
+      "duration": 4.0
+    },
+    {
+      "text": "N'êtes vous pas homme de Dieu",
+      "start": 3699,
+      "duration": 3.9
+    },
+    {
+      "text": "Par Dieu",
+      "start": 3702.9,
+      "duration": 1.3
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=3628",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -72,6 +183,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

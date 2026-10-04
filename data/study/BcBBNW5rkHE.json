@@ -1,0 +1,330 @@
+{
+  "videoId": "BcBBNW5rkHE",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=2568"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 2568,
+      "sourceText": "Qui est cette fille qui vient danser",
+      "ipa": "[ki ɛ sɛt fij ki vjɛ̃ dɑ̃se]",
+      "ear": "基 艾 塞特 菲耶 基 弗耶安 当塞",
+      "meaning": "那常来跳舞的女子是谁",
+      "sourceIPA": "/ki ɛ sɛt fij ki vjɛ̃ dɑ̃se/",
+      "sourceLineId": "notre-dame-de-paris-18-001",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2568,
+        "similarity": 0.666,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2570.0,
+      "sourceText": "Ses danses infâmes devant Notre-Dame",
+      "ipa": "[se dɑ̃s‿ɛ̃fam dəvɑ̃ notʁdam]",
+      "ear": "塞 当斯 安法姆 德旺 诺特赫达姆",
+      "meaning": "她在圣母面前跳着下流舞步",
+      "sourceIPA": "/se dɑ̃sz ɛ̃fam dəvɑ̃ notʁdam/",
+      "sourceLineId": "notre-dame-de-paris-18-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2568,
+        "similarity": 0.666,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2572,
+      "sourceText": "Cette fille est ma femme",
+      "ipa": "[sɛt fij‿ɛ ma fam]",
+      "ear": "塞特 菲耶 艾 玛 法姆",
+      "meaning": "那女人是我妻子",
+      "sourceIPA": "/sɛt fij ɛ ma fam/",
+      "sourceLineId": "notre-dame-de-paris-18-003",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2572,
+        "similarity": 0.708,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2573.667,
+      "sourceText": "Elle m'a été donnée",
+      "ipa": "[ɛl ma ete dɔne]",
+      "ear": "艾勒 玛 诶特 多内",
+      "meaning": "她是我的恩赐",
+      "sourceIPA": "/ɛl ma ete dɔne/",
+      "sourceLineId": "notre-dame-de-paris-18-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2572,
+        "similarity": 0.708,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2575.667,
+      "sourceText": "Par le roi des gitans",
+      "ipa": "[paʁ lə ʁwa de ʒitɑ̃]",
+      "ear": "帕赫 勒 赫乌阿 德 日唐",
+      "meaning": "是吉普赛王所给",
+      "sourceIPA": "/paʁ lə ʁwa de ʒitɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-18-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2572,
+        "similarity": 0.708,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2577.667,
+      "sourceText": "L'avez-vous touchée, vassal de Satan?",
+      "ipa": "[lavevu tuʃe vasal də satɑ̃]",
+      "ear": "拉韦乌 图谢 瓦萨勒 德 萨唐",
+      "meaning": "你可碰了她，你这魔鬼的仆人？",
+      "sourceIPA": "/lavevu tuʃe vasal də satɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-18-006",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2572,
+        "similarity": 0.708,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2581,
+      "sourceText": "Je ne me s'rais pas permis",
+      "ipa": "[ʒə nə mə sʁɛ pa pɛʁmi]",
+      "ear": "热 讷 默 斯赫 帕 佩赫米",
+      "meaning": "我还没敢动手",
+      "sourceIPA": "/ʒə nə mə sʁɛ pa pɛʁmi/",
+      "sourceLineId": "notre-dame-de-paris-18-007",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2581,
+        "similarity": 0.735,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2583.625,
+      "sourceText": "Je vous l'interdis",
+      "ipa": "[ʒə vu lɛ̃tɛʁdi]",
+      "ear": "热 乌 兰泰赫迪",
+      "meaning": "我不准！",
+      "sourceIPA": "/ʒə vu lɛ̃tɛʁdi/",
+      "sourceLineId": "notre-dame-de-paris-18-008",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2581,
+        "similarity": 0.735,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2585.5,
+      "sourceText": "Je voudrais vous montrer",
+      "ipa": "[ʒə vudʁɛ vu mɔ̃tʁe]",
+      "ear": "热 乌德赫 乌 蒙特赫",
+      "meaning": "我想请你来看看",
+      "sourceIPA": "/ʒə vudʁɛ vu mɔ̃tʁe/",
+      "sourceLineId": "notre-dame-de-paris-18-009",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2581,
+        "similarity": 0.735,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2587.75,
+      "sourceText": "Une inscription gravée",
+      "ipa": "[yn‿ɛ̃skʁipsjɔ̃ ɡʁave]",
+      "ear": "于恩 安斯克希普斯耶翁 格哈韦",
+      "meaning": "一个印记",
+      "sourceIPA": "/yn ɛ̃skʁipsjɔ̃ ɡʁave/",
+      "sourceLineId": "notre-dame-de-paris-18-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2581,
+        "similarity": 0.735,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2590,
+      "sourceText": "Sur une pierre au-delà",
+      "ipa": "[syʁ‿yn pjɛʁ‿odəla]",
+      "ear": "西于赫 于恩 普耶艾赫 奥德拉",
+      "meaning": "它刻在石头上",
+      "sourceIPA": "/syʁ yn pjɛʁ odəla/",
+      "sourceLineId": "notre-dame-de-paris-18-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2590,
+        "similarity": 0.762,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2592.087,
+      "sourceText": "de la galerie des rois",
+      "ipa": "[də la ɡalʁi de ʁwa]",
+      "ear": "德 拉 嘎勒希 德 赫乌阿",
+      "meaning": "就在皇家走廊",
+      "sourceIPA": "/də la ɡalʁi de ʁwa/",
+      "sourceLineId": "notre-dame-de-paris-18-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2590,
+        "similarity": 0.762,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2594.174,
+      "sourceText": "Dites-moi ce qui veut dire ce mot, Anarkia",
+      "ipa": "[ditmwa sə ki vø diʁ sə mo anaʁkja]",
+      "ear": "迪特姆乌阿 瑟 基 弗厄 迪赫 瑟 莫 阿纳赫克耶阿",
+      "meaning": "告诉我Anarkia是什么意思？",
+      "sourceIPA": "/ditmwa sə ki vø diʁ sə mo anaʁkja/",
+      "sourceLineId": "notre-dame-de-paris-18-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2590,
+        "similarity": 0.762,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2598,
+      "sourceText": "Tu es un possédé",
+      "ipa": "[ty ɛ œ̃ pɔsede]",
+      "ear": "蒂于 艾 恩 珀塞德",
+      "meaning": "你着了魔",
+      "sourceIPA": "/ty ɛz œ̃ pɔsede/",
+      "sourceLineId": "notre-dame-de-paris-18-014",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2598,
+        "similarity": 0.432,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2599.929,
+      "sourceText": "Le grec Anarkia veut dire fatalité",
+      "ipa": "[lə ɡʁɛk‿anaʁkja vø diʁ fatalite]",
+      "ear": "勒 格赫克 阿纳赫克耶阿 弗厄 迪赫 法塔利特",
+      "meaning": "这个希腊文意指“宿命”",
+      "sourceIPA": "/lə ɡʁɛk anaʁkja vø diʁ fatalite/",
+      "sourceLineId": "notre-dame-de-paris-18-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2598,
+        "similarity": 0.432,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2603.464,
+      "sourceText": "N'est-ce pas Quasimodo",
+      "ipa": "[nɛs pa kazimodo]",
+      "ear": "奈斯 帕 卡齐莫多",
+      "meaning": "那不是卡西莫多嘛",
+      "sourceIPA": "/nɛs pa kazimodo/",
+      "sourceLineId": "notre-dame-de-paris-18-016",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2598,
+        "similarity": 0.432,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2605.393,
+      "sourceText": "Qu'on amène là-bas",
+      "ipa": "[kɔ̃ amɛn laba]",
+      "ear": "孔 阿梅恩 拉巴",
+      "meaning": "他们给带来的 就在那儿",
+      "sourceIPA": "/kɔ̃n amɛn laba/",
+      "sourceLineId": "notre-dame-de-paris-18-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2598,
+        "similarity": 0.432,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2607,
+      "sourceText": "Il s'est fait arrêter l'idiot",
+      "ipa": "[il sɛ fɛ aʁɛte lidjo]",
+      "ear": "伊勒 塞 费 阿赫特 利德耶奥",
+      "meaning": "那白痴给人逮到了",
+      "sourceIPA": "/il sɛ fɛt aʁɛte lidjo/",
+      "sourceLineId": "notre-dame-de-paris-18-018",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2607,
+        "similarity": 0.43,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2612.2,
+      "sourceText": "Allez savoir pourquoi",
+      "ipa": "[ale savwaʁ puʁkwa]",
+      "ear": "阿莱 萨弗乌阿赫 普赫克乌阿",
+      "meaning": "天晓得怎么了",
+      "sourceIPA": "/ale savwaʁ puʁkwa/",
+      "sourceLineId": "notre-dame-de-paris-18-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2607,
+        "similarity": 0.43,
+        "groupSize": 2
+      }
+    }
+  ]
+}

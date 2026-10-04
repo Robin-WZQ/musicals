@@ -1,0 +1,202 @@
+{
+  "videoId": "21rIwWNJ_B4",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6500"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 6502,
+      "sourceText": "Je te laisse un sifflet pour pouvoir m'appeler",
+      "ipa": "[ʒə tə lɛs‿œ̃ siflɛ puʁ puvwaʁ maple]",
+      "ear": "热 特 莱斯 恩 西弗莱 普赫 普弗乌阿赫 玛普莱",
+      "meaning": "我留给你一只哨子用来召唤我",
+      "sourceIPA": "/ʒə tə lɛs œ̃ siflɛ puʁ puvwaʁ maple/",
+      "sourceLineId": "notre-dame-de-paris-44-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6502,
+        "similarity": 0.927,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6505.667,
+      "sourceText": "Le jour tu resteras ici",
+      "ipa": "[lə ʒuʁ ty ʁɛstʁa isi]",
+      "ear": "勒 茹赫 蒂于 赫斯特哈 伊西",
+      "meaning": "白天你呆在这儿",
+      "sourceIPA": "/lə ʒuʁ ty ʁɛstʁaz isi/",
+      "sourceLineId": "notre-dame-de-paris-44-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6502,
+        "similarity": 0.927,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6508.0,
+      "sourceText": "Mais tu pourras te promener la nuit",
+      "ipa": "[mɛ ty puʁa tə pʁomne la nɥi]",
+      "ear": "梅 蒂于 普哈 特 普霍姆内 拉 恩于伊",
+      "meaning": "但是晚上你可以出去走走",
+      "sourceIPA": "/mɛ ty puʁa tə pʁomne la nɥi/",
+      "sourceLineId": "notre-dame-de-paris-44-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6502,
+        "similarity": 0.927,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6511,
+      "sourceText": "Sur les toits de la cathédrale",
+      "ipa": "[syʁ le twa də la katedʁal]",
+      "ear": "西于赫 莱 特乌阿 德 拉 卡特德哈勒",
+      "meaning": "在大教堂的屋顶上",
+      "sourceIPA": "/syʁ le twa də la katedʁal/",
+      "sourceLineId": "notre-dame-de-paris-44-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6511,
+        "similarity": 0.704,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6514.429,
+      "sourceText": "Sous les étoiles",
+      "ipa": "[su lez‿etwal]",
+      "ear": "苏 莱兹 诶特乌阿勒",
+      "meaning": "在繁星下",
+      "sourceIPA": "/su lez etwal/",
+      "sourceLineId": "notre-dame-de-paris-44-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6511,
+        "similarity": 0.704,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6516.143,
+      "sourceText": "Tu ne m'écoute pas.",
+      "ipa": "[ty nə mekut pa]",
+      "ear": "蒂于 讷 梅库特 帕",
+      "meaning": "你听不见我说话",
+      "sourceIPA": "/ty nə mekut pa/",
+      "sourceLineId": "notre-dame-de-paris-44-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6511,
+        "similarity": 0.704,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6518.286,
+      "sourceText": "Tu dors déjà",
+      "ipa": "[ty dɔʁ deʒa]",
+      "ear": "蒂于 多赫 德扎",
+      "meaning": "你已经睡着了",
+      "sourceIPA": "/ty dɔʁ deʒa/",
+      "sourceLineId": "notre-dame-de-paris-44-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6511,
+        "similarity": 0.704,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 6520,
+      "sourceText": "Le monde est si méchant dehors",
+      "ipa": "[lə mɔ̃d‿ɛ si meʃɑ̃ dəɔʁ]",
+      "ear": "勒 蒙德 艾 西 梅尚 德哦赫",
+      "meaning": "外面的世界如此险恶",
+      "sourceIPA": "/lə mɔ̃d ɛ si meʃɑ̃ dəɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-44-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6520,
+        "similarity": 0.54,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6524.267,
+      "sourceText": "Que tu es belle quand tu dors",
+      "ipa": "[kə ty ɛ bɛl kɑ̃ ty dɔʁ]",
+      "ear": "克 蒂于 艾 贝勒 康 蒂于 多赫",
+      "meaning": "你睡着的样子真好看",
+      "sourceIPA": "/kə ty ɛ bɛl kɑ̃ ty dɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-44-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6520,
+        "similarity": 0.54,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6528,
+      "sourceText": "Dans ton sommeil, Esméralda",
+      "ipa": "[dɑ̃ tɔ̃ sɔmɛj ɛsmeʁalda]",
+      "ear": "当 通 索梅耶 艾斯梅哈勒达",
+      "meaning": "在你的睡梦里 艾斯美拉达",
+      "sourceIPA": "/dɑ̃ tɔ̃ sɔmɛj ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-44-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6528,
+        "similarity": 0.827,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6533.2,
+      "sourceText": "Est-ce que tu rêves à ton soleil",
+      "ipa": "[ɛs kə ty ʁɛv‿a tɔ̃ solɛj]",
+      "ear": "艾斯 克 蒂于 赫弗 阿 通 索莱耶",
+      "meaning": "你是不是梦到了你的太阳呢",
+      "sourceIPA": "/ɛs kə ty ʁɛv a tɔ̃ solɛj/",
+      "sourceLineId": "notre-dame-de-paris-44-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6528,
+        "similarity": 0.827,
+        "groupSize": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,746 @@
+{
+  "videoId": "AzJj0pQ2cs8",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6762"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 6781,
+      "sourceText": "La nuit est si belle",
+      "ipa": "[la nɥi ɛ si bɛl]",
+      "ear": "拉 恩于伊 艾 西 贝勒",
+      "meaning": "夜色如此美丽",
+      "sourceIPA": "/la nɥi ɛ si bɛl/",
+      "sourceLineId": "notre-dame-de-paris-46-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6781,
+        "similarity": 0.495,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6784.25,
+      "sourceText": "Et je suis si seule",
+      "ipa": "[e ʒə sɥi si sœl]",
+      "ear": "诶 热 斯于伊 西 瑟厄勒",
+      "meaning": "我却如此孤寂",
+      "sourceIPA": "/e ʒə sɥi si sœl/",
+      "sourceLineId": "notre-dame-de-paris-46-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6781,
+        "similarity": 0.495,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6789,
+      "sourceText": "Je n'ai pas envie de mourir",
+      "ipa": "[ʒə ne pa ɑ̃vi də muʁiʁ]",
+      "ear": "热 内 帕 昂维 德 穆希赫",
+      "meaning": "我并不想死去",
+      "sourceIPA": "/ʒə ne paz ɑ̃vi də muʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6789,
+        "similarity": 0.873,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6794.2,
+      "sourceText": "Je veux encore chanter",
+      "ipa": "[ʒə vø ɑ̃kɔʁ ʃɑ̃te]",
+      "ear": "热 弗厄 昂科赫 尚特",
+      "meaning": "我还想歌唱",
+      "sourceIPA": "/ʒə vøz ɑ̃kɔʁ ʃɑ̃te/",
+      "sourceLineId": "notre-dame-de-paris-46-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6789,
+        "similarity": 0.873,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6798.1,
+      "sourceText": "Danser et rire",
+      "ipa": "[dɑ̃se e ʁiʁ]",
+      "ear": "当塞 诶 希赫",
+      "meaning": "还想舞蹈 还想欢笑",
+      "sourceIPA": "/dɑ̃se e ʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6789,
+        "similarity": 0.873,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6802,
+      "sourceText": "Je ne veux pas mourir",
+      "ipa": "[ʒə nə vø pa muʁiʁ]",
+      "ear": "热 讷 弗厄 帕 穆希赫",
+      "meaning": "我并不想死去",
+      "sourceIPA": "/ʒə nə vø pa muʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6802,
+        "similarity": 1.0,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6805.9,
+      "sourceText": "Mourir",
+      "ipa": "[muʁiʁ]",
+      "ear": "穆希赫",
+      "meaning": "死去……",
+      "sourceIPA": "/muʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6802,
+        "similarity": 1.0,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6807.2,
+      "sourceText": "Avant d'avoir aimé",
+      "ipa": "[avɑ̃ davwaʁ‿ɛme]",
+      "ear": "阿旺 达弗乌阿赫 艾梅",
+      "meaning": "在真正爱过之前",
+      "sourceIPA": "/avɑ̃ davwaʁ ɛme/",
+      "sourceLineId": "notre-dame-de-paris-46-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6802,
+        "similarity": 1.0,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6814,
+      "sourceText": "Vivre",
+      "ipa": "[vivʁ]",
+      "ear": "维弗赫",
+      "meaning": "活着",
+      "sourceIPA": "/vivʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6814,
+        "similarity": 0.975,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6814.833,
+      "sourceText": "Pour celui qu'on aime",
+      "ipa": "[puʁ səlɥi kɔ̃ ɛm]",
+      "ear": "普赫 瑟勒于伊 孔 艾姆",
+      "meaning": "为爱的人活",
+      "sourceIPA": "/puʁ səlɥi kɔ̃n ɛm/",
+      "sourceLineId": "notre-dame-de-paris-46-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6814,
+        "similarity": 0.975,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6823,
+      "sourceText": "Aimer",
+      "ipa": "[ɛme]",
+      "ear": "艾梅",
+      "meaning": "爱吧",
+      "sourceIPA": "/ɛme/",
+      "sourceLineId": "notre-dame-de-paris-46-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6823,
+        "similarity": 0.968,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6824.429,
+      "sourceText": "Plus que l'amour même",
+      "ipa": "[ply kə lamuʁ mɛm]",
+      "ear": "普吕 克 拉穆赫 梅姆",
+      "meaning": "至死不渝",
+      "sourceIPA": "/ply kə lamuʁ mɛm/",
+      "sourceLineId": "notre-dame-de-paris-46-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6823,
+        "similarity": 0.968,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6831,
+      "sourceText": "Donner",
+      "ipa": "[dɔne]",
+      "ear": "多内",
+      "meaning": "给予",
+      "sourceIPA": "/dɔne/",
+      "sourceLineId": "notre-dame-de-paris-46-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6831,
+        "similarity": 0.489,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6832.3,
+      "sourceText": "Sans rien attendre en retour",
+      "ipa": "[sɑ̃ ʁjɛ̃n‿atɑ̃dʁ‿ɑ̃ ʁətuʁ]",
+      "ear": "桑 赫耶安恩 阿唐德赫 昂 赫图赫",
+      "meaning": "不求回报",
+      "sourceIPA": "/sɑ̃ ʁjɛ̃n atɑ̃dʁ ɑ̃ ʁətuʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6831,
+        "similarity": 0.489,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6840,
+      "sourceText": "Libre",
+      "ipa": "[libʁ]",
+      "ear": "利布赫",
+      "meaning": "自由",
+      "sourceIPA": "/libʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6840,
+        "similarity": 0.563,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6840.65,
+      "sourceText": "De choisir sa vie",
+      "ipa": "[də ʃwaziʁ sa vi]",
+      "ear": "德 什乌阿齐赫 萨 维",
+      "meaning": "选择人生",
+      "sourceIPA": "/də ʃwaziʁ sa vi/",
+      "sourceLineId": "notre-dame-de-paris-46-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6840,
+        "similarity": 0.563,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6843.9,
+      "sourceText": "Sans un anathème",
+      "ipa": "[sɑ̃ œ̃n‿anatɛm]",
+      "ear": "桑 恩恩 阿纳泰姆",
+      "meaning": "没有排挤",
+      "sourceIPA": "/sɑ̃z œ̃n anatɛm/",
+      "sourceLineId": "notre-dame-de-paris-46-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6840,
+        "similarity": 0.563,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6851,
+      "sourceText": "Sans un interdit",
+      "ipa": "[sɑ̃ œ̃n‿ɛ̃tɛʁdi]",
+      "ear": "桑 恩恩 安泰赫迪",
+      "meaning": "没有禁忌",
+      "sourceIPA": "/sɑ̃z œ̃n ɛ̃tɛʁdi/",
+      "sourceLineId": "notre-dame-de-paris-46-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6851,
+        "similarity": 0.696,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6855.167,
+      "sourceText": "Libre",
+      "ipa": "[libʁ]",
+      "ear": "利布赫",
+      "meaning": "自由",
+      "sourceIPA": "/libʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6851,
+        "similarity": 0.696,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6860,
+      "sourceText": "Sans dieu ni patrie",
+      "ipa": "[sɑ̃ djø ni patʁi]",
+      "ear": "桑 德耶厄 尼 帕特希",
+      "meaning": "没有偶像 没有故乡",
+      "sourceIPA": "/sɑ̃ djø ni patʁi/",
+      "sourceLineId": "notre-dame-de-paris-46-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6860,
+        "similarity": 0.962,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6863.25,
+      "sourceText": "Avec pour seul baptême",
+      "ipa": "[avɛk puʁ sœl batɛm]",
+      "ear": "阿韦克 普赫 瑟厄勒 巴泰姆",
+      "meaning": "唯一的洗礼",
+      "sourceIPA": "/avɛk puʁ sœl batɛm/",
+      "sourceLineId": "notre-dame-de-paris-46-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6860,
+        "similarity": 0.962,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6868,
+      "sourceText": "Celui de l'eau de pluie",
+      "ipa": "[səlɥi də lo də plɥi]",
+      "ear": "瑟勒于伊 德 洛 德 普勒于伊",
+      "meaning": "是天降的甘霖",
+      "sourceIPA": "/səlɥi də lo də plɥi/",
+      "sourceLineId": "notre-dame-de-paris-46-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6868,
+        "similarity": 0.36,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6872.286,
+      "sourceText": "Vivre",
+      "ipa": "[vivʁ]",
+      "ear": "维弗赫",
+      "meaning": "活着",
+      "sourceIPA": "/vivʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6868,
+        "similarity": 0.36,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6878,
+      "sourceText": "Pour celui qu'on aime",
+      "ipa": "[puʁ səlɥi kɔ̃ ɛm]",
+      "ear": "普赫 瑟勒于伊 孔 艾姆",
+      "meaning": "为爱的人活",
+      "sourceIPA": "/puʁ səlɥi kɔ̃n ɛm/",
+      "sourceLineId": "notre-dame-de-paris-46-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6878,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6881.571,
+      "sourceText": "Aimer",
+      "ipa": "[ɛme]",
+      "ear": "艾梅",
+      "meaning": "爱吧",
+      "sourceIPA": "/ɛme/",
+      "sourceLineId": "notre-dame-de-paris-46-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6878,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6886,
+      "sourceText": "Plus que l'amour même",
+      "ipa": "[ply kə lamuʁ mɛm]",
+      "ear": "普吕 克 拉穆赫 梅姆",
+      "meaning": "至死不渝",
+      "sourceIPA": "/ply kə lamuʁ mɛm/",
+      "sourceLineId": "notre-dame-de-paris-46-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6886,
+        "similarity": 0.947,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6889.571,
+      "sourceText": "Donner",
+      "ipa": "[dɔne]",
+      "ear": "多内",
+      "meaning": "给予",
+      "sourceIPA": "/dɔne/",
+      "sourceLineId": "notre-dame-de-paris-46-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6886,
+        "similarity": 0.947,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6894,
+      "sourceText": "Sans rien attendre en retour",
+      "ipa": "[sɑ̃ ʁjɛ̃n‿atɑ̃dʁ‿ɑ̃ ʁətuʁ]",
+      "ear": "桑 赫耶安恩 阿唐德赫 昂 赫图赫",
+      "meaning": "不求回报",
+      "sourceIPA": "/sɑ̃ ʁjɛ̃n atɑ̃dʁ ɑ̃ ʁətuʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6894,
+        "similarity": 0.628,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6898.55,
+      "sourceText": "Ces deux mondes qui nous séparent",
+      "ipa": "[se dø mɔ̃d ki nu sepaʁ]",
+      "ear": "塞 德厄 蒙德 基 努 塞帕赫",
+      "meaning": "将我们分隔的两个世界",
+      "sourceIPA": "/se dø mɔ̃d ki nu sepaʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6894,
+        "similarity": 0.628,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6905,
+      "sourceText": "Un jour seront-ils réunis",
+      "ipa": "[œ̃ ʒuʁ səʁɔ̃til ʁeyni]",
+      "ear": "恩 茹赫 瑟洪蒂勒 赫于尼",
+      "meaning": "终有一日会融合",
+      "sourceIPA": "/œ̃ ʒuʁ səʁɔ̃til ʁeyni/",
+      "sourceLineId": "notre-dame-de-paris-46-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6905,
+        "similarity": 0.631,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6909.5,
+      "sourceText": "Oh! je voudrais tellement y croire",
+      "ipa": "[ɔ ʒə vudʁɛ tɛlmɑ̃ i kʁwaʁ]",
+      "ear": "哦 热 乌德赫 泰勒芒 伊 克赫乌阿赫",
+      "meaning": "啊！我真切地想相信这一点",
+      "sourceIPA": "/ɔ ʒə vudʁɛ tɛlmɑ̃ i kʁwaʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6905,
+        "similarity": 0.631,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6914,
+      "sourceText": "Même s'il me faut donner ma vie",
+      "ipa": "[mɛm sil mə fo dɔne ma vi]",
+      "ear": "梅姆 西勒 默 佛 多内 玛 维",
+      "meaning": "哪怕献出生命",
+      "sourceIPA": "/mɛm sil mə fo dɔne ma vi/",
+      "sourceLineId": "notre-dame-de-paris-46-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6914,
+        "similarity": 0.558,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6918.0,
+      "sourceText": "Donner ma vie",
+      "ipa": "[dɔne ma vi]",
+      "ear": "多内 玛 维",
+      "meaning": "献出生命",
+      "sourceIPA": "/dɔne ma vi/",
+      "sourceLineId": "notre-dame-de-paris-46-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6914,
+        "similarity": 0.558,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6920,
+      "sourceText": "pour changer l'histoire",
+      "ipa": "[puʁ ʃɑ̃ʒe listwaʁ]",
+      "ear": "普赫 尚热 利斯特乌阿赫",
+      "meaning": "为了改变历史",
+      "sourceIPA": "/puʁ ʃɑ̃ʒe listwaʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6920,
+        "similarity": 0.971,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6924.167,
+      "sourceText": "Vivre",
+      "ipa": "[vivʁ]",
+      "ear": "维弗赫",
+      "meaning": "活着",
+      "sourceIPA": "/vivʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6920,
+        "similarity": 0.971,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6929,
+      "sourceText": "pour celui qu'on aime",
+      "ipa": "[puʁ səlɥi kɔ̃ ɛm]",
+      "ear": "普赫 瑟勒于伊 孔 艾姆",
+      "meaning": "为爱的人活",
+      "sourceIPA": "/puʁ səlɥi kɔ̃n ɛm/",
+      "sourceLineId": "notre-dame-de-paris-46-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6929,
+        "similarity": 0.954,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6932.571,
+      "sourceText": "Aimer",
+      "ipa": "[ɛme]",
+      "ear": "艾梅",
+      "meaning": "爱吧",
+      "sourceIPA": "/ɛme/",
+      "sourceLineId": "notre-dame-de-paris-46-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6929,
+        "similarity": 0.954,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6938,
+      "sourceText": "Plus que l'amour même",
+      "ipa": "[ply kə lamuʁ mɛm]",
+      "ear": "普吕 克 拉穆赫 梅姆",
+      "meaning": "至死不渝",
+      "sourceIPA": "/ply kə lamuʁ mɛm/",
+      "sourceLineId": "notre-dame-de-paris-46-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6938,
+        "similarity": 0.947,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6941.571,
+      "sourceText": "Donner",
+      "ipa": "[dɔne]",
+      "ear": "多内",
+      "meaning": "给予",
+      "sourceIPA": "/dɔne/",
+      "sourceLineId": "notre-dame-de-paris-46-039",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6938,
+        "similarity": 0.947,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6946,
+      "sourceText": "Sans rien attendre en retour",
+      "ipa": "[sɑ̃ ʁjɛ̃n‿atɑ̃dʁ‿ɑ̃ ʁətuʁ]",
+      "ear": "桑 赫耶安恩 阿唐德赫 昂 赫图赫",
+      "meaning": "不求回报",
+      "sourceIPA": "/sɑ̃ ʁjɛ̃n atɑ̃dʁ ɑ̃ ʁətuʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-040",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6946,
+        "similarity": 0.53,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6950.55,
+      "sourceText": "Aimer",
+      "ipa": "[ɛme]",
+      "ear": "艾梅",
+      "meaning": "爱吧",
+      "sourceIPA": "/ɛme/",
+      "sourceLineId": "notre-dame-de-paris-46-041",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6946,
+        "similarity": 0.53,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6955,
+      "sourceText": "Comme la nuit aime le jour",
+      "ipa": "[kɔm la nɥi ɛm lə ʒuʁ]",
+      "ear": "科姆 拉 恩于伊 艾姆 勒 茹赫",
+      "meaning": "像黑夜恋着白昼",
+      "sourceIPA": "/kɔm la nɥi ɛm lə ʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-042",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6955,
+        "similarity": 0.897,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6958.9,
+      "sourceText": "Aimer",
+      "ipa": "[ɛme]",
+      "ear": "艾梅",
+      "meaning": "爱吧",
+      "sourceIPA": "/ɛme/",
+      "sourceLineId": "notre-dame-de-paris-46-043",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6955,
+        "similarity": 0.897,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6964,
+      "sourceText": "Jusqu'à en mourir d'amour",
+      "ipa": "[ʒyska ɑ̃ muʁiʁ damuʁ]",
+      "ear": "日于斯卡 昂 穆希赫 达穆赫",
+      "meaning": "直到为爱牺牲",
+      "sourceIPA": "/ʒyska ɑ̃ muʁiʁ damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-044",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6964,
+        "similarity": 0.953,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 6972,
+      "sourceText": "Jusqu'à en mourir d'amour",
+      "ipa": "[ʒyska ɑ̃ muʁiʁ damuʁ]",
+      "ear": "日于斯卡 昂 穆希赫 达穆赫",
+      "meaning": "直到为爱牺牲",
+      "sourceIPA": "/ʒyska ɑ̃ muʁiʁ damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-46-045",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6972,
+        "similarity": 0.953,
+        "groupSize": 1
+      }
+    }
+  ]
+}

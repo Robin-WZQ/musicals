@@ -8,15 +8,191 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 40,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Un matin tu dansais",
+      "start": 6003,
+      "duration": 3.9
+    },
+    {
+      "text": "Sur la place au soleil",
+      "start": 6006.9,
+      "duration": 3.9
+    },
+    {
+      "text": "Et jamais je n'avais",
+      "start": 6011,
+      "duration": 3.692
+    },
+    {
+      "text": "rien connu de pareil",
+      "start": 6014.692,
+      "duration": 4.308
+    },
+    {
+      "text": "Violemment un frisson",
+      "start": 6019,
+      "duration": 3.789
+    },
+    {
+      "text": "Envahit tout mon corps",
+      "start": 6022.789,
+      "duration": 3.79
+    },
+    {
+      "text": "Oh! Je m'en souviens encore",
+      "start": 6026.579,
+      "duration": 4.421
+    },
+    {
+      "text": "Depuis ce jour-là",
+      "start": 6031,
+      "duration": 3.25
+    },
+    {
+      "text": "Quand je vois ma face dans la glace",
+      "start": 6034.25,
+      "duration": 5.2
+    },
+    {
+      "text": "Je crois voir Lucifer apparaître à ma place",
+      "start": 6040,
+      "duration": 7.8
+    },
+    {
+      "text": "Il viendra je l'attends",
+      "start": 6049,
+      "duration": 3.9
+    },
+    {
+      "text": "Mon Phoebus, mon soleil",
+      "start": 6052.9,
+      "duration": 3.9
+    },
+    {
+      "text": "Il sera mon amant",
+      "start": 6057,
+      "duration": 3.9
+    },
+    {
+      "text": "Mon amour, ma merveille",
+      "start": 6060.9,
+      "duration": 3.9
+    },
+    {
+      "text": "Approche-toi, assassin!",
+      "start": 6065,
+      "duration": 3.789
+    },
+    {
+      "text": "Tu mourras de mes mains",
+      "start": 6068.789,
+      "duration": 3.79
+    },
+    {
+      "text": "Non tu ne me fais pas peur",
+      "start": 6072.579,
+      "duration": 4.421
+    },
+    {
+      "text": "Je mords comme un chien",
+      "start": 6077,
+      "duration": 3.25
+    },
+    {
+      "text": "éloigne-toi oiseau de malheur",
+      "start": 6080.25,
+      "duration": 5.2
+    },
+    {
+      "text": "Je ne demandais rien qu'un instant de bonheur",
+      "start": 6086,
+      "duration": 7.8
+    },
+    {
+      "text": "Je te donne le choix",
+      "start": 6095,
+      "duration": 3.25
+    },
+    {
+      "text": "avant le petit jour",
+      "start": 6098.25,
+      "duration": 3.9
+    },
+    {
+      "text": "C'est le gibet ou moi",
+      "start": 6103,
+      "duration": 3.9
+    },
+    {
+      "text": "C'est la mort ou l'amour",
+      "start": 6106.9,
+      "duration": 3.9
+    },
+    {
+      "text": "C'est la tombe ou mon lit",
+      "start": 6111,
+      "duration": 3.474
+    },
+    {
+      "text": "C'est la mort ou la vie",
+      "start": 6114.474,
+      "duration": 4.631
+    },
+    {
+      "text": "Tu n'as qu'à dire oui",
+      "start": 6119.105,
+      "duration": 2.895
+    },
+    {
+      "text": "Si je te sors d'ici",
+      "start": 6122,
+      "duration": 3.9
+    },
+    {
+      "text": "Je promets que je te rendrais",
+      "start": 6125.9,
+      "duration": 5.2
+    },
+    {
+      "text": "à tes frères les gitans",
+      "start": 6132,
+      "duration": 3.9
+    },
+    {
+      "text": "à tes frères en Satan",
+      "start": 6135.9,
+      "duration": 3.9
+    },
+    {
+      "text": "Vas-t-en!",
+      "start": 6139.8,
+      "duration": 1.3
+    },
+    {
+      "text": "Vas-t-en!",
+      "start": 6145,
+      "duration": 2.5
+    },
+    {
+      "text": "Vas-t-en!",
+      "start": 6147.5,
+      "duration": 2.5
+    },
+    {
+      "text": "Vas-t-en!",
+      "start": 6153,
+      "duration": 5.0
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6001",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -104,6 +280,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

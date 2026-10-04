@@ -1,0 +1,618 @@
+{
+  "videoId": "MCprmXOuQf4",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=2733"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 2746,
+      "sourceText": "Belle, c'est un mot qu'on dirait inventé pour elle",
+      "ipa": "[bɛl sɛt‿œ̃ mo kɔ̃ diʁɛ ɛ̃vɑ̃te puʁ‿ɛl]",
+      "ear": "贝勒 塞特 恩 莫 孔 迪赫 安旺特 普赫 艾勒",
+      "meaning": "美人，这个词似乎就是为她而创",
+      "sourceIPA": "/bɛl sɛt œ̃ mo kɔ̃ diʁɛt ɛ̃vɑ̃te puʁ ɛl/",
+      "sourceLineId": "notre-dame-de-paris-20-002",
+      "speaker": "Quasimodo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2746,
+        "similarity": 0.667,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2753,
+      "sourceText": "Quand elle danse et qu'elle met son corps à jour, tel",
+      "ipa": "[kɑ̃t‿ɛl dɑ̃s e kɛl mɛ sɔ̃ kɔʁ‿a ʒuʁ tɛl]",
+      "ear": "康特 艾勒 当斯 诶 凯勒 梅 松 科赫 阿 茹赫 泰勒",
+      "meaning": "舞至酣时，她曼妙的胴体展现于世",
+      "sourceIPA": "/kɑ̃t ɛl dɑ̃s e kɛl mɛ sɔ̃ kɔʁ a ʒuʁ tɛl/",
+      "sourceLineId": "notre-dame-de-paris-20-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2753,
+        "similarity": 0.674,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2760,
+      "sourceText": "Un oiseau qui étend ses ailes pour s'envoler",
+      "ipa": "[œ̃n‿wazo ki etɑ̃ sez‿ɛl puʁ sɑ̃vole]",
+      "ear": "恩恩 乌阿佐 基 诶唐 塞兹 艾勒 普赫 桑沃莱",
+      "meaning": "像只振翅的鸟儿，即将飞入苍穹",
+      "sourceIPA": "/œ̃n wazo ki etɑ̃ sez ɛl puʁ sɑ̃vole/",
+      "sourceLineId": "notre-dame-de-paris-20-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2760,
+        "similarity": 0.651,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2765.739,
+      "sourceText": "Alors je sens l'enfer s'ouvrir sous mes pieds",
+      "ipa": "[alɔʁ ʒə sɑ̃ lɑ̃fɛʁ suvʁiʁ su me pje]",
+      "ear": "阿洛赫 热 桑 朗费赫 苏弗希赫 苏 梅 普耶诶",
+      "meaning": "而我感到，地狱在足底张开血口",
+      "sourceIPA": "/alɔʁ ʒə sɑ̃ lɑ̃fɛʁ suvʁiʁ su me pje/",
+      "sourceLineId": "notre-dame-de-paris-20-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2760,
+        "similarity": 0.651,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2771,
+      "sourceText": "J'ai posé mes yeux sous sa robe de gitane",
+      "ipa": "[ʒe poze mez‿jø su sa ʁɔb də ʒitan]",
+      "ear": "热 波泽 梅兹 耶厄 苏 萨 霍布 德 日塔恩",
+      "meaning": "目光投在她茨冈裙摆之下",
+      "sourceIPA": "/ʒe poze mez jø su sa ʁɔb də ʒitan/",
+      "sourceLineId": "notre-dame-de-paris-20-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2771,
+        "similarity": 0.509,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2776.5,
+      "sourceText": "À quoi me sert encore de prier Notre-Dame?",
+      "ipa": "[a kwa mə sɛʁ‿ɑ̃kɔʁ də pʁie notʁdam]",
+      "ear": "阿 克乌阿 默 塞赫 昂科赫 德 普希诶 诺特赫达姆",
+      "meaning": "现在祈祷圣母还有何用？",
+      "sourceIPA": "/a kwa mə sɛʁ ɑ̃kɔʁ də pʁie notʁdam/",
+      "sourceLineId": "notre-dame-de-paris-20-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2771,
+        "similarity": 0.509,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2782,
+      "sourceText": "Quel est celui qui lui jettera la première pierre?",
+      "ipa": "[kɛl‿ɛ səlɥi ki lɥi ʒɛtʁa la pʁəmjɛʁ pjɛʁ]",
+      "ear": "凯勒 艾 瑟勒于伊 基 勒于伊 热特哈 拉 普赫姆耶艾赫 普耶艾赫",
+      "meaning": "谁人第一个向她投去石子？",
+      "sourceIPA": "/kɛl ɛ səlɥi ki lɥi ʒɛtʁa la pʁəmjɛʁ pjɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-20-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2782,
+        "similarity": 0.795,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2790,
+      "sourceText": "Celui-là ne mérite pas d'être sur terre",
+      "ipa": "[səlɥila nə meʁit pa dɛtʁ syʁ tɛʁ]",
+      "ear": "瑟勒于伊拉 讷 梅希特 帕 戴特赫 西于赫 泰赫",
+      "meaning": "那他便根本不配存在于世",
+      "sourceIPA": "/səlɥila nə meʁit pa dɛtʁ syʁ tɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-20-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2790,
+        "similarity": 0.418,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2796,
+      "sourceText": "Oh! Lucifer! Oh! Laisse-moi rien qu'une fois",
+      "ipa": "[ɔ lysife ɔ lɛsmwa ʁjɛ̃ kyn fwa]",
+      "ear": "哦 吕西费 哦 莱斯姆乌阿 赫耶安 基于恩 弗乌阿",
+      "meaning": "哦！魔王路西法！我别无所求，只需一次",
+      "sourceIPA": "/ɔ lysife ɔ lɛsmwa ʁjɛ̃ kyn fwa/",
+      "sourceLineId": "notre-dame-de-paris-20-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2796,
+        "similarity": 0.77,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2801,
+      "sourceText": "Glisser mes doigts dans les cheveux d'Esmeralda",
+      "ipa": "[ɡlise me dwa dɑ̃ le ʃəvø dɛsmʁalda]",
+      "ear": "格利塞 梅 德乌阿 当 莱 舍弗厄 戴斯姆哈勒达",
+      "meaning": "让我手指滑过，艾丝美拉达的秀发",
+      "sourceIPA": "/ɡlise me dwa dɑ̃ le ʃəvø dɛsmʁalda/",
+      "sourceLineId": "notre-dame-de-paris-20-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2801,
+        "similarity": 0.675,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2817,
+      "sourceText": "Belle, est-ce le diable qui s'est incarné en elle",
+      "ipa": "[bɛl ɛs lə djabl ki sɛt‿ɛ̃kaʁne ɑ̃n‿ɛl]",
+      "ear": "贝勒 艾斯 勒 德耶阿布勒 基 塞特 安卡赫内 昂恩 艾勒",
+      "meaning": "美人，难道魔鬼已幻化在她身上",
+      "sourceIPA": "/bɛl ɛs lə djabl ki sɛt ɛ̃kaʁne ɑ̃n ɛl/",
+      "sourceLineId": "notre-dame-de-paris-20-013",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2817,
+        "similarity": 0.422,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2825,
+      "sourceText": "Pour détourner mes yeux du Dieu éternel?",
+      "ipa": "[puʁ detuʁne mez‿jø dy djø etɛʁnɛl]",
+      "ear": "普赫 德图赫内 梅兹 耶厄 迪于 德耶厄 诶泰赫奈勒",
+      "meaning": "好夺去我献给上帝的目光？",
+      "sourceIPA": "/puʁ detuʁne mez jø dy djø etɛʁnɛl/",
+      "sourceLineId": "notre-dame-de-paris-20-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2825,
+        "similarity": 0.553,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2831.0,
+      "sourceText": "Qui a mis dans mon être ce désir charnel",
+      "ipa": "[ki a mi dɑ̃ mɔ̃n‿ɛtʁ sə deziʁ ʃaʁnɛl]",
+      "ear": "基 阿 米 当 蒙恩 艾特赫 瑟 德齐赫 沙赫奈勒",
+      "meaning": "于我灵魂中点燃肉体的欲望",
+      "sourceIPA": "/ki a mi dɑ̃ mɔ̃n ɛtʁ sə deziʁ ʃaʁnɛl/",
+      "sourceLineId": "notre-dame-de-paris-20-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2825,
+        "similarity": 0.553,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2837,
+      "sourceText": "Pour m'empêcher de regarder vers le Ciel?",
+      "ipa": "[puʁ mɑ̃pɛʃe də ʁəɡaʁde vɛʁ lə sjɛl]",
+      "ear": "普赫 芒佩谢 德 赫嘎赫德 韦赫 勒 斯耶艾勒",
+      "meaning": "好阻止我对天国的凝望？",
+      "sourceIPA": "/puʁ mɑ̃pɛʃe də ʁəɡaʁde vɛʁ lə sjɛl/",
+      "sourceLineId": "notre-dame-de-paris-20-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2837,
+        "similarity": 0.561,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2842,
+      "sourceText": "Elle porte en elle le péché originel",
+      "ipa": "[ɛl pɔʁt‿ɑ̃n‿ɛl lə peʃe oʁiʒinɛl]",
+      "ear": "艾勒 珀赫特 昂恩 艾勒 勒 佩谢 奥希日奈勒",
+      "meaning": "她身上带着原初的罪恶",
+      "sourceIPA": "/ɛl pɔʁt ɑ̃n ɛl lə peʃe oʁiʒinɛl/",
+      "sourceLineId": "notre-dame-de-paris-20-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2842,
+        "similarity": 0.526,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2854,
+      "sourceText": "La désirer fait-il de moi un criminel?",
+      "ipa": "[la deziʁe fɛtil də mwa œ̃ kʁiminɛl]",
+      "ear": "拉 德齐赫 费蒂勒 德 姆乌阿 恩 克希米奈勒",
+      "meaning": "渴望她是否会让我堕落？",
+      "sourceIPA": "/la deziʁe fɛtil də mwa œ̃ kʁiminɛl/",
+      "sourceLineId": "notre-dame-de-paris-20-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2854,
+        "similarity": 0.239,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2857.36,
+      "sourceText": "Celle qu'on prenait pour une fille de joie, une fille de rien",
+      "ipa": "[sɛl kɔ̃ pʁənɛ puʁ‿yn fij də ʒwa yn fij də ʁjɛ̃]",
+      "ear": "塞勒 孔 普赫奈 普赫 于恩 菲耶 德 日乌阿 于恩 菲耶 德 赫耶安",
+      "meaning": "世人视其为轻浮女子，放荡下作，但她",
+      "sourceIPA": "/sɛl kɔ̃ pʁənɛ puʁ yn fij də ʒwa yn fij də ʁjɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-20-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2854,
+        "similarity": 0.239,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2861,
+      "sourceText": "Semble soudain porter la croix du genre humain",
+      "ipa": "[sɑ̃bl sudɛ̃ pɔʁte la kʁwa dy ʒɑ̃ʁ‿ymɛ̃]",
+      "ear": "桑布勒 苏丹 珀赫特 拉 克赫乌阿 迪于 让赫 于曼",
+      "meaning": "似乎突然，替人类背负起了十字圣架",
+      "sourceIPA": "/sɑ̃bl sudɛ̃ pɔʁte la kʁwa dy ʒɑ̃ʁ ymɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-20-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2861,
+        "similarity": 0.483,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2867,
+      "sourceText": "Oh! Notre-Dame! Oh! Laisse-moi rien qu'une fois",
+      "ipa": "[ɔ notʁdam ɔ lɛsmwa ʁjɛ̃ kyn fwa]",
+      "ear": "哦 诺特赫达姆 哦 莱斯姆乌阿 赫耶安 基于恩 弗乌阿",
+      "meaning": "哦！圣母玛利亚！我别无所求，只需一次",
+      "sourceIPA": "/ɔ notʁdam ɔ lɛsmwa ʁjɛ̃ kyn fwa/",
+      "sourceLineId": "notre-dame-de-paris-20-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2867,
+        "similarity": 0.589,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2873,
+      "sourceText": "Pousser la porte du jardin d'Esmeralda",
+      "ipa": "[puse la pɔʁt dy ʒaʁdɛ̃ dɛsmʁalda]",
+      "ear": "普塞 拉 珀赫特 迪于 扎赫丹 戴斯姆哈勒达",
+      "meaning": "让我推开，艾丝美拉达花园的门扉",
+      "sourceIPA": "/puse la pɔʁt dy ʒaʁdɛ̃ dɛsmʁalda/",
+      "sourceLineId": "notre-dame-de-paris-20-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2873,
+        "similarity": 0.719,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2889,
+      "sourceText": "Belle, malgré ses grands yeux noirs qui vous ensorcellent",
+      "ipa": "[bɛl malɡʁe se ɡʁɑ̃z‿jø nwaʁ ki vuz‿ɑ̃sɔʁsɛl]",
+      "ear": "贝勒 玛勒格赫 塞 格杭兹 耶厄 恩乌阿赫 基 乌兹 昂索赫塞勒",
+      "meaning": "美人，她乌黑的双目让人神魂颠倒",
+      "sourceIPA": "/bɛl malɡʁe se ɡʁɑ̃z jø nwaʁ ki vuz ɑ̃sɔʁsɛl/",
+      "sourceLineId": "notre-dame-de-paris-20-024",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2889,
+        "similarity": 0.297,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2895.783,
+      "sourceText": "La demoiselle serait-elle encore pucelle?",
+      "ipa": "[la dəmwazɛl səʁɛtɛl‿ɑ̃kɔʁ pysɛl]",
+      "ear": "拉 德姆乌阿泽勒 瑟赫泰勒 昂科赫 普于塞勒",
+      "meaning": "但她或许依然从未被人玷污？",
+      "sourceIPA": "/la dəmwazɛl səʁɛtɛl ɑ̃kɔʁ pysɛl/",
+      "sourceLineId": "notre-dame-de-paris-20-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2889,
+        "similarity": 0.297,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2902,
+      "sourceText": "Quand ses mouvements me font voir monts et merveilles",
+      "ipa": "[kɑ̃ se muvmɑ̃ mə fɔ̃ vwaʁ mɔ̃ e mɛʁvɛj]",
+      "ear": "康 塞 穆弗芒 默 丰 弗乌阿赫 蒙 诶 梅赫韦耶",
+      "meaning": "她举手投足间，彩虹裙摆下",
+      "sourceIPA": "/kɑ̃ se muvmɑ̃ mə fɔ̃ vwaʁ mɔ̃z e mɛʁvɛj/",
+      "sourceLineId": "notre-dame-de-paris-20-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2902,
+        "similarity": 0.401,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2908,
+      "sourceText": "Sous son jupon aux couleurs de l'arc-en-ciel",
+      "ipa": "[su sɔ̃ ʒypɔ̃ o kulœʁ də laʁkɑ̃sjɛl]",
+      "ear": "苏 松 日于蓬 奥 库勒厄赫 德 拉赫康斯耶艾勒",
+      "meaning": "我看到了奇迹和山峦",
+      "sourceIPA": "/su sɔ̃ ʒypɔ̃ o kulœʁ də laʁkɑ̃sjɛl/",
+      "sourceLineId": "notre-dame-de-paris-20-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2908,
+        "similarity": 0.358,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2914,
+      "sourceText": "Ma dulcinée laissez-moi vous être infidèle",
+      "ipa": "[ma dylsine lɛsemwa vuz‿ɛtʁ‿ɛ̃fidɛl]",
+      "ear": "玛 迪于勒西内 莱塞姆乌阿 乌兹 艾特赫 安菲戴勒",
+      "meaning": "我的杜尔西内亚，把你领向圣坛之前",
+      "sourceIPA": "/ma dylsine lɛsemwa vuz ɛtʁ ɛ̃fidɛl/",
+      "sourceLineId": "notre-dame-de-paris-20-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2914,
+        "similarity": 0.368,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2920,
+      "sourceText": "Avant de vous avoir mené jusqu'à l'autel",
+      "ipa": "[avɑ̃ də vuz‿avwaʁ məne ʒyska lotɛl]",
+      "ear": "阿旺 德 乌兹 阿弗乌阿赫 默内 日于斯卡 洛泰勒",
+      "meaning": "就让我再纵情一次吧",
+      "sourceIPA": "/avɑ̃ də vuz avwaʁ məne ʒyska lotɛl/",
+      "sourceLineId": "notre-dame-de-paris-20-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2920,
+        "similarity": 0.332,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2927,
+      "sourceText": "Quel est l'homme qui détournerait son regard d'elle",
+      "ipa": "[kɛl‿ɛ lɔm ki detuʁnəʁɛ sɔ̃ ʁəɡaʁ dɛl]",
+      "ear": "凯勒 艾 洛姆 基 德图赫讷赫 松 赫嘎赫 戴勒",
+      "meaning": "谁人能把视线从她身上移开",
+      "sourceIPA": "/kɛl ɛ lɔm ki detuʁnəʁɛ sɔ̃ ʁəɡaʁ dɛl/",
+      "sourceLineId": "notre-dame-de-paris-20-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2927,
+        "similarity": 0.196,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2933.545,
+      "sourceText": "Sous peine d'être changé en statue de sel?",
+      "ipa": "[su pɛn dɛtʁ ʃɑ̃ʒe ɑ̃ staty də sɛl]",
+      "ear": "苏 佩恩 戴特赫 尚热 昂 斯塔蒂于 德 塞勒",
+      "meaning": "冒着变成沙像的危险？",
+      "sourceIPA": "/su pɛn dɛtʁ ʃɑ̃ʒe ɑ̃ staty də sɛl/",
+      "sourceLineId": "notre-dame-de-paris-20-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2927,
+        "similarity": 0.196,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2939,
+      "sourceText": "Oh! Fleur-de-Lys! Je ne suis pas homme de foi",
+      "ipa": "[ɔ flœʁdəlis ʒə nə sɥi pa ɔm də fwa]",
+      "ear": "哦 弗勒厄赫德利斯 热 讷 斯于伊 帕 哦姆 德 弗乌阿",
+      "meaning": "哦，鸢尾！我不是一个忠心的男子",
+      "sourceIPA": "/ɔ flœʁdəlis ʒə nə sɥi paz ɔm də fwa/",
+      "sourceLineId": "notre-dame-de-paris-20-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2939,
+        "similarity": 0.476,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2945,
+      "sourceText": "J'irai cueillir la fleur d'amour d'Esmeralda",
+      "ipa": "[ʒiʁe kœjiʁ la flœʁ damuʁ dɛsmʁalda]",
+      "ear": "日赫 克厄耶伊赫 拉 弗勒厄赫 达穆赫 戴斯姆哈勒达",
+      "meaning": "我要去采摘，艾丝美拉达的爱情之花",
+      "sourceIPA": "/ʒiʁe kœjiʁ la flœʁ damuʁ dɛsmʁalda/",
+      "sourceLineId": "notre-dame-de-paris-20-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2945,
+        "similarity": 0.565,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2963,
+      "sourceText": "J'ai posé mes yeux sous sa robe de gitane",
+      "ipa": "[ʒe poze mez‿jø su sa ʁɔb də ʒitan]",
+      "ear": "热 波泽 梅兹 耶厄 苏 萨 霍布 德 日塔恩",
+      "meaning": "目光投在她茨冈裙摆之下",
+      "sourceIPA": "/ʒe poze mez jø su sa ʁɔb də ʒitan/",
+      "sourceLineId": "notre-dame-de-paris-20-035",
+      "speaker": "Ensemble",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2963,
+        "similarity": 0.507,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2968.5,
+      "sourceText": "À quoi me sert encore de prier Notre-Dame",
+      "ipa": "[a kwa mə sɛʁ‿ɑ̃kɔʁ də pʁie notʁdam]",
+      "ear": "阿 克乌阿 默 塞赫 昂科赫 德 普希诶 诺特赫达姆",
+      "meaning": "现在祈祷圣母还有何用？",
+      "sourceIPA": "/a kwa mə sɛʁ ɑ̃kɔʁ də pʁie notʁdam/",
+      "sourceLineId": "notre-dame-de-paris-20-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2963,
+        "similarity": 0.507,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2974,
+      "sourceText": "Quel est celui qui lui jettera la première pierre",
+      "ipa": "[kɛl‿ɛ səlɥi ki lɥi ʒɛtʁa la pʁəmjɛʁ pjɛʁ]",
+      "ear": "凯勒 艾 瑟勒于伊 基 勒于伊 热特哈 拉 普赫姆耶艾赫 普耶艾赫",
+      "meaning": "谁人第一个向她投去石子？",
+      "sourceIPA": "/kɛl ɛ səlɥi ki lɥi ʒɛtʁa la pʁəmjɛʁ pjɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-20-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2974,
+        "similarity": 0.738,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2982,
+      "sourceText": "Celui-là ne mérite pas d'être sur terre",
+      "ipa": "[səlɥila nə meʁit pa dɛtʁ syʁ tɛʁ]",
+      "ear": "瑟勒于伊拉 讷 梅希特 帕 戴特赫 西于赫 泰赫",
+      "meaning": "那他便根本不配存在于世",
+      "sourceIPA": "/səlɥila nə meʁit pa dɛtʁ syʁ tɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-20-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2982,
+        "similarity": 0.418,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2987,
+      "sourceText": "Oh! Lucifer! Oh! Laisse-moi rien qu'une fois",
+      "ipa": "[ɔ lysife ɔ lɛsmwa ʁjɛ̃ kyn fwa]",
+      "ear": "哦 吕西费 哦 莱斯姆乌阿 赫耶安 基于恩 弗乌阿",
+      "meaning": "哦！魔王路西法！我别无所求，只需一次",
+      "sourceIPA": "/ɔ lysife ɔ lɛsmwa ʁjɛ̃ kyn fwa/",
+      "sourceLineId": "notre-dame-de-paris-20-039",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2987,
+        "similarity": 0.77,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2993,
+      "sourceText": "Glisser mes doigts dans les cheveux d'Esmeralda",
+      "ipa": "[ɡlise me dwa dɑ̃ le ʃəvø dɛsmʁalda]",
+      "ear": "格利塞 梅 德乌阿 当 莱 舍弗厄 戴斯姆哈勒达",
+      "meaning": "让我手指滑过，艾丝美拉达的秀发",
+      "sourceIPA": "/ɡlise me dwa dɑ̃ le ʃəvø dɛsmʁalda/",
+      "sourceLineId": "notre-dame-de-paris-20-040",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2993,
+        "similarity": 0.718,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3003,
+      "sourceText": "Esmeralda.",
+      "ipa": "[ɛsmʁalda]",
+      "ear": "艾斯姆哈勒达",
+      "meaning": "艾丝美拉达",
+      "sourceIPA": "/ɛsmʁalda/",
+      "sourceLineId": "notre-dame-de-paris-20-041",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3003,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    }
+  ]
+}

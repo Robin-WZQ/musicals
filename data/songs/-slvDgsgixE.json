@@ -8,15 +8,116 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 26,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "La volupté",
+      "start": 3929,
+      "duration": 2.6
+    },
+    {
+      "text": "A moi la volupté",
+      "start": 3931.6,
+      "duration": 3.9
+    },
+    {
+      "text": "de ce corps non encore souillé",
+      "start": 3937,
+      "duration": 4.8
+    },
+    {
+      "text": "A moi toute la volupté",
+      "start": 3941.8,
+      "duration": 4.2
+    },
+    {
+      "text": "Personne d'autre que moi",
+      "start": 3946,
+      "duration": 3.25
+    },
+    {
+      "text": "ne mettra les mains sur toi",
+      "start": 3949.25,
+      "duration": 4.55
+    },
+    {
+      "text": "Ange noir de ma vie",
+      "start": 3956,
+      "duration": 5.0
+    },
+    {
+      "text": "Je t'aimerai",
+      "start": 3964,
+      "duration": 1.95
+    },
+    {
+      "text": "Au plus secret des nuits",
+      "start": 3965.95,
+      "duration": 3.9
+    },
+    {
+      "text": "D'un seul regard",
+      "start": 3973,
+      "duration": 2.6
+    },
+    {
+      "text": "Tu as mis le feu à ma vie",
+      "start": 3975.6,
+      "duration": 5.2
+    },
+    {
+      "text": "Nos deux couleurs de peau",
+      "start": 3982,
+      "duration": 5.0
+    },
+    {
+      "text": "Comme en un seul flambeau",
+      "start": 3990,
+      "duration": 5.0
+    },
+    {
+      "text": "Je voudrai t'aimer",
+      "start": 3999,
+      "duration": 3.25
+    },
+    {
+      "text": "T'aimer au risque de ma vie",
+      "start": 4002.25,
+      "duration": 4.55
+    },
+    {
+      "text": "Prends-moi",
+      "start": 4007,
+      "duration": 1.3
+    },
+    {
+      "text": "Prends-moi si c'est ma destinée",
+      "start": 4008.3,
+      "duration": 5.2
+    },
+    {
+      "text": "Voyons, voyons si c'est ta destinée",
+      "start": 4016,
+      "duration": 6.5
+    },
+    {
+      "text": "Phoebus",
+      "start": 4025,
+      "duration": 1.667
+    },
+    {
+      "text": "Esméralda",
+      "start": 4026.667,
+      "duration": 3.333
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=3903",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -84,6 +185,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

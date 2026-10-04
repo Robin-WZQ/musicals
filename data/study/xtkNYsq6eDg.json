@@ -1,0 +1,346 @@
+{
+  "videoId": "xtkNYsq6eDg",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5928"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 5930,
+      "sourceText": "Je suis prêtre et je viens te préparer à mourir",
+      "ipa": "[ʒə sɥi pʁɛtʁ e ʒə vjɛ̃ tə pʁepaʁe a muʁiʁ]",
+      "ear": "热 斯于伊 普赫特赫 诶 热 弗耶安 特 普赫帕赫 阿 穆希赫",
+      "meaning": "我是你行刑前的告解神父",
+      "sourceIPA": "/ʒə sɥi pʁɛtʁ e ʒə vjɛ̃ tə pʁepaʁe a muʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-40-001",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5930,
+        "similarity": 0.608,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5937.682,
+      "sourceText": "J'ai froid, j'ai faim",
+      "ipa": "[ʒe fʁwa ʒe fɛ̃]",
+      "ear": "热 弗赫乌阿 热 凡",
+      "meaning": "我冷 我饿",
+      "sourceIPA": "/ʒe fʁwa ʒe fɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-40-002",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5930,
+        "similarity": 0.608,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5940.045,
+      "sourceText": "Laissez-moi sortir",
+      "ipa": "[lɛsemwa sɔʁtiʁ]",
+      "ear": "莱塞姆乌阿 索赫蒂赫",
+      "meaning": "请放我出去",
+      "sourceIPA": "/lɛsemwa sɔʁtiʁ/",
+      "sourceLineId": "notre-dame-de-paris-40-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5930,
+        "similarity": 0.608,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5943,
+      "sourceText": "Je n'ai rien fait contre personne",
+      "ipa": "[ʒə ne ʁjɛ̃ fɛ kɔ̃tʁ pɛʁsɔn]",
+      "ear": "热 内 赫耶安 费 孔特赫 佩赫索恩",
+      "meaning": "我未曾和任何人作对",
+      "sourceIPA": "/ʒə ne ʁjɛ̃ fɛ kɔ̃tʁ pɛʁsɔn/",
+      "sourceLineId": "notre-dame-de-paris-40-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5943,
+        "similarity": 0.612,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5945.8,
+      "sourceText": "écoute la cloche qui sonne",
+      "ipa": "[ekut la klɔʃ ki sɔn]",
+      "ear": "诶库特 拉 克洛什 基 索恩",
+      "meaning": "听那钟点",
+      "sourceIPA": "/ekut la klɔʃ ki sɔn/",
+      "sourceLineId": "notre-dame-de-paris-40-005",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5943,
+        "similarity": 0.612,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5948.2,
+      "sourceText": "Il est cinq heures du matin",
+      "ipa": "[il‿ɛ sɛ̃k‿œʁ dy matɛ̃]",
+      "ear": "伊勒 艾 森克 厄赫 迪于 玛坦",
+      "meaning": "现在是清晨五点",
+      "sourceIPA": "/il ɛ sɛ̃k œʁ dy matɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-40-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5943,
+        "similarity": 0.612,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5951,
+      "sourceText": "Bientôt s'ouvrira cette porte",
+      "ipa": "[bjɛ̃to suvʁiʁa sɛt pɔʁt]",
+      "ear": "布耶安托 苏弗希哈 塞特 珀赫特",
+      "meaning": "门将会开启",
+      "sourceIPA": "/bjɛ̃to suvʁiʁa sɛt pɔʁt/",
+      "sourceLineId": "notre-dame-de-paris-40-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5951,
+        "similarity": 0.913,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5954.667,
+      "sourceText": "Dans une heure tu seras morte",
+      "ipa": "[dɑ̃ yn‿œʁ ty səʁa mɔʁt]",
+      "ear": "当 于恩 厄赫 蒂于 瑟哈 莫赫特",
+      "meaning": "你只剩一小时可活",
+      "sourceIPA": "/dɑ̃z yn œʁ ty səʁa mɔʁt/",
+      "sourceLineId": "notre-dame-de-paris-40-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5951,
+        "similarity": 0.913,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5958.333,
+      "sourceText": "Dans une heure je serais bien!",
+      "ipa": "[dɑ̃ yn‿œʁ ʒə səʁɛ bjɛ̃]",
+      "ear": "当 于恩 厄赫 热 瑟赫 布耶安",
+      "meaning": "一小时后我就解脱了",
+      "sourceIPA": "/dɑ̃z yn œʁ ʒə səʁɛ bjɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-40-009",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5951,
+        "similarity": 0.913,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5962,
+      "sourceText": "On verra bien si tu danses",
+      "ipa": "[ɔ̃ vɛʁa bjɛ̃ si ty dɑ̃s]",
+      "ear": "翁 韦哈 布耶安 西 蒂于 当斯",
+      "meaning": "让我再看看你的舞步吧",
+      "sourceIPA": "/ɔ̃ vɛʁa bjɛ̃ si ty dɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-40-010",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5962,
+        "similarity": 0.663,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5964.75,
+      "sourceText": "Encore devant la potence",
+      "ipa": "[ɑ̃kɔʁ dəvɑ̃ la potɑ̃s]",
+      "ear": "昂科赫 德旺 拉 波唐斯",
+      "meaning": "在绞架前 再一次",
+      "sourceIPA": "/ɑ̃kɔʁ dəvɑ̃ la potɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-40-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5962,
+        "similarity": 0.663,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5967.5,
+      "sourceText": "Mais qu'est ce que je vous ai fait",
+      "ipa": "[mɛ kɛskə ʒə vuz e fɛ]",
+      "ear": "梅 凯斯克 热 乌兹 诶 费",
+      "meaning": "我到底对您做了什么",
+      "sourceIPA": "/mɛ kɛskə ʒə vuz e fɛ/",
+      "sourceLineId": "notre-dame-de-paris-40-012",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5962,
+        "similarity": 0.663,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5970.25,
+      "sourceText": "Pour que vous me haïssiez?",
+      "ipa": "[puʁ kə vu mə aisje]",
+      "ear": "普赫 克 乌 默 阿伊斯耶诶",
+      "meaning": "以至于您如此恨我？",
+      "sourceIPA": "/puʁ kə vu mə aisje/",
+      "sourceLineId": "notre-dame-de-paris-40-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5962,
+        "similarity": 0.663,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5973,
+      "sourceText": "Ce n'est pas de la haine",
+      "ipa": "[sə nɛ pa də la ɛn]",
+      "ear": "瑟 奈 帕 德 拉 艾恩",
+      "meaning": "我没有恨你",
+      "sourceIPA": "/sə nɛ pa də la ɛn/",
+      "sourceLineId": "notre-dame-de-paris-40-014",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5973,
+        "similarity": 0.763,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5975.4,
+      "sourceText": "C'est que je t'aime",
+      "ipa": "[sɛ kə ʒə tɛm]",
+      "ear": "塞 克 热 泰姆",
+      "meaning": "我只是爱你",
+      "sourceIPA": "/sɛ kə ʒə tɛm/",
+      "sourceLineId": "notre-dame-de-paris-40-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5973,
+        "similarity": 0.763,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5977,
+      "sourceText": "Je t'aime!",
+      "ipa": "[ʒə tɛm]",
+      "ear": "热 泰姆",
+      "meaning": "我爱你！",
+      "sourceIPA": "/ʒə tɛm/",
+      "sourceLineId": "notre-dame-de-paris-40-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5977,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 5989,
+      "sourceText": "Mais qu'est-ce que j'ai donc fait",
+      "ipa": "[mɛ kɛskə ʒe dɔ̃k fɛ]",
+      "ear": "梅 凯斯克 热 东克 费",
+      "meaning": "那我到底做了什么",
+      "sourceIPA": "/mɛ kɛskə ʒe dɔ̃k fɛ/",
+      "sourceLineId": "notre-dame-de-paris-40-017",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5989,
+        "similarity": 0.67,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5991.5,
+      "sourceText": "Pour qu'ainsi vous m'aimiez",
+      "ipa": "[puʁ kɛ̃si vu mɛmje]",
+      "ear": "普赫 坎西 乌 梅姆耶诶",
+      "meaning": "以至于您这般爱我？",
+      "sourceIPA": "/puʁ kɛ̃si vu mɛmje/",
+      "sourceLineId": "notre-dame-de-paris-40-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5989,
+        "similarity": 0.67,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5994,
+      "sourceText": "Moi pauvre gitane",
+      "ipa": "[mwa povʁ ʒitan]",
+      "ear": "姆乌阿 波弗赫 日塔恩",
+      "meaning": "我是个穷苦的茨冈人",
+      "sourceIPA": "/mwa povʁ ʒitan/",
+      "sourceLineId": "notre-dame-de-paris-40-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5994,
+        "similarity": 0.97,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5996.545,
+      "sourceText": "Et vous curé de Notre-Dame",
+      "ipa": "[e vu kyʁe də notʁdam]",
+      "ear": "诶 乌 基于赫 德 诺特赫达姆",
+      "meaning": "而您是圣母院的神甫",
+      "sourceIPA": "/e vu kyʁe də notʁdam/",
+      "sourceLineId": "notre-dame-de-paris-40-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5994,
+        "similarity": 0.97,
+        "groupSize": 2
+      }
+    }
+  ]
+}

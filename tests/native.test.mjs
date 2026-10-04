@@ -25,7 +25,7 @@ test('explicit recording times avoid ambiguity and preserve all four study layer
 });
 test('all fifty songs have ordered time-only ranges within their own recording segment',()=>{
  const root=new URL('../',import.meta.url);
- const catalog=JSON.parse(fs.readFileSync(new URL('data/catalog.json',root),'utf8')).filter(t=>t.musicalId==='notre-dame-de-paris');
+ const catalog=JSON.parse(fs.readFileSync(new URL('data/catalog.json',root),'utf8')).filter(t=>t.musicalId==='notre-dame-de-paris'&&!t.isEncore);
  let end=0,count=0;
  for(const track of catalog){
   const data=JSON.parse(fs.readFileSync(new URL(`data/songs/${track.id}.json`,root),'utf8'));

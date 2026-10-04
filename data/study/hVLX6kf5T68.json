@@ -1,0 +1,714 @@
+{
+  "videoId": "hVLX6kf5T68",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=945"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 952,
+      "sourceText": "Mes quatorze printemps sont à toi",
+      "ipa": "[me katɔʁz pʁɛ̃tɑ̃ sɔ̃t‿a twa]",
+      "ear": "梅 卡托赫兹 普汉唐 松特 阿 特乌阿",
+      "meaning": "我献给你十四岁的华年",
+      "sourceIPA": "/me katɔʁz pʁɛ̃tɑ̃ sɔ̃t a twa/",
+      "sourceLineId": "notre-dame-de-paris-07-001",
+      "speaker": "Fleur-de-Lys",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 952,
+        "similarity": 0.613,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 954.462,
+      "sourceText": "Ce collier de diamants est pour moi",
+      "ipa": "[sə kɔlje də djamɑ̃ ɛ puʁ mwa]",
+      "ear": "瑟 科勒耶诶 德 德耶阿芒 艾 普赫 姆乌阿",
+      "meaning": "你赠与我钻石项链",
+      "sourceIPA": "/sə kɔlje də djamɑ̃z ɛ puʁ mwa/",
+      "sourceLineId": "notre-dame-de-paris-07-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 952,
+        "similarity": 0.613,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 957.231,
+      "sourceText": "Les mots de tes serments si tu mens",
+      "ipa": "[le mo də te sɛʁmɑ̃ si ty mɑ̃]",
+      "ear": "莱 莫 德 特 塞赫芒 西 蒂于 芒",
+      "meaning": "若你的承诺全为戏言",
+      "sourceIPA": "/le mo də te sɛʁmɑ̃ si ty mɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-07-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 952,
+        "similarity": 0.613,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 960,
+      "sourceText": "Je n'y croirai pas",
+      "ipa": "[ʒə ni kʁwaʁe pa]",
+      "ear": "热 尼 克赫乌阿赫 帕",
+      "meaning": "我便不再信你",
+      "sourceIPA": "/ʒə ni kʁwaʁe pa/",
+      "sourceLineId": "notre-dame-de-paris-07-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 960,
+        "similarity": 0.81,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 961.522,
+      "sourceText": "Ton cœur de jouvencelle est à moi",
+      "ipa": "[tɔ̃ kœʁ də ʒuvɑ̃sɛl‿ɛt‿a mwa]",
+      "ear": "通 克厄赫 德 茹旺塞勒 艾特 阿 姆乌阿",
+      "meaning": "你献给我少女的真情",
+      "sourceIPA": "/tɔ̃ kœʁ də ʒuvɑ̃sɛl ɛt a mwa/",
+      "sourceLineId": "notre-dame-de-paris-07-005",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 960,
+        "similarity": 0.81,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 964.261,
+      "sourceText": "Tes yeux de tourterelle sont pour moi",
+      "ipa": "[tez‿jø də tuʁtəʁɛl sɔ̃ puʁ mwa]",
+      "ear": "特兹 耶厄 德 图赫特赫勒 松 普赫 姆乌阿",
+      "meaning": "注视着我的是你斑斓的眼睛",
+      "sourceIPA": "/tez jø də tuʁtəʁɛl sɔ̃ puʁ mwa/",
+      "sourceLineId": "notre-dame-de-paris-07-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 960,
+        "similarity": 0.81,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 967,
+      "sourceText": "Les étoiles étincellent dans le ciel",
+      "ipa": "[lez‿etwal‿etɛ̃sɛl dɑ̃ lə sjɛl]",
+      "ear": "莱兹 诶特乌阿勒 诶坦塞勒 当 勒 斯耶艾勒",
+      "meaning": "空中闪耀的繁星",
+      "sourceIPA": "/lez etwalz etɛ̃sɛl dɑ̃ lə sjɛl/",
+      "sourceLineId": "notre-dame-de-paris-07-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 967,
+        "similarity": 0.588,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 970.0,
+      "sourceText": "Moins que ces diamants-là",
+      "ipa": "[mwɛ̃ kə se djamɑ̃la]",
+      "ear": "姆乌安 克 塞 德耶阿芒拉",
+      "meaning": "也不及你双眸的光明",
+      "sourceIPA": "/mwɛ̃ kə se djamɑ̃la/",
+      "sourceLineId": "notre-dame-de-paris-07-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 967,
+        "similarity": 0.588,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 972.0,
+      "sourceText": "Celui que mon cœur aime",
+      "ipa": "[səlɥi kə mɔ̃ kœʁ‿ɛm]",
+      "ear": "瑟勒于伊 克 蒙 克厄赫 艾姆",
+      "meaning": "我心眷恋的",
+      "sourceIPA": "/səlɥi kə mɔ̃ kœʁ ɛm/",
+      "sourceLineId": "notre-dame-de-paris-07-009",
+      "speaker": "Fleur-de-Lys",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 967,
+        "similarity": 0.588,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 974,
+      "sourceText": "Est un beau chevalier",
+      "ipa": "[ɛt‿œ̃ bo ʃəvalje]",
+      "ear": "艾特 恩 博 舍瓦勒耶诶",
+      "meaning": "是一位俊美的骑士",
+      "sourceIPA": "/ɛt œ̃ bo ʃəvalje/",
+      "sourceLineId": "notre-dame-de-paris-07-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 974,
+        "similarity": 0.465,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 977.333,
+      "sourceText": "Qui ne sait pas lui-même",
+      "ipa": "[ki nə sɛ pa lɥimɛm]",
+      "ear": "基 讷 塞 帕 勒于伊梅姆",
+      "meaning": "他却不知",
+      "sourceIPA": "/ki nə sɛ pa lɥimɛm/",
+      "sourceLineId": "notre-dame-de-paris-07-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 974,
+        "similarity": 0.465,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 980.667,
+      "sourceText": "Combien je peux l'aimer",
+      "ipa": "[kɔ̃bjɛ̃ ʒə pø lɛme]",
+      "ear": "孔布耶安 热 珀厄 莱梅",
+      "meaning": "我的款款深情 浓浓爱意",
+      "sourceIPA": "/kɔ̃bjɛ̃ ʒə pø lɛme/",
+      "sourceLineId": "notre-dame-de-paris-07-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 974,
+        "similarity": 0.465,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 984,
+      "sourceText": "Si je ne le sais pas",
+      "ipa": "[si ʒə nə lə sɛ pa]",
+      "ear": "西 热 讷 勒 塞 帕",
+      "meaning": "如果我不明了",
+      "sourceIPA": "/si ʒə nə lə sɛ pa/",
+      "sourceLineId": "notre-dame-de-paris-07-013",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 984,
+        "similarity": 0.588,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 985.929,
+      "sourceText": "Je le vois dans tes yeux",
+      "ipa": "[ʒə lə vwa dɑ̃ tez‿jø]",
+      "ear": "热 勒 弗乌阿 当 特兹 耶厄",
+      "meaning": "也可从你眼中看出",
+      "sourceIPA": "/ʒə lə vwa dɑ̃ tez jø/",
+      "sourceLineId": "notre-dame-de-paris-07-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 984,
+        "similarity": 0.588,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 987.857,
+      "sourceText": "Celui qui t'aimera",
+      "ipa": "[səlɥi ki tɛmʁa]",
+      "ear": "瑟勒于伊 基 泰姆哈",
+      "meaning": "爱你的人",
+      "sourceIPA": "/səlɥi ki tɛmʁa/",
+      "sourceLineId": "notre-dame-de-paris-07-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 984,
+        "similarity": 0.588,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 989.464,
+      "sourceText": "Sera un homme heureux",
+      "ipa": "[səʁa œ̃n‿ɔm‿øʁø]",
+      "ear": "瑟哈 恩恩 哦姆 厄赫厄",
+      "meaning": "有多幸福",
+      "sourceIPA": "/səʁa œ̃n ɔm øʁø/",
+      "sourceLineId": "notre-dame-de-paris-07-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 984,
+        "similarity": 0.588,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 991.393,
+      "sourceText": "Ne cherche plus l'amour",
+      "ipa": "[nə ʃɛʁʃ ply lamuʁ]",
+      "ear": "讷 谢赫什 普吕 拉穆赫",
+      "meaning": "勿再寻觅 真爱—",
+      "sourceIPA": "/nə ʃɛʁʃ ply lamuʁ/",
+      "sourceLineId": "notre-dame-de-paris-07-017",
+      "speaker": "Fleur-de-Lys",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 984,
+        "similarity": 0.588,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 993,
+      "sourceText": "Il est là",
+      "ipa": "[il‿ɛ la]",
+      "ear": "伊勒 艾 拉",
+      "meaning": "就在此",
+      "sourceIPA": "/il ɛ la/",
+      "sourceLineId": "notre-dame-de-paris-07-018",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 993,
+        "similarity": 0.584,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 994.333,
+      "sourceText": "Il est là pour toujours",
+      "ipa": "[il‿ɛ la puʁ tuʒuʁ]",
+      "ear": "伊勒 艾 拉 普赫 图茹赫",
+      "meaning": "永远相伴",
+      "sourceIPA": "/il ɛ la puʁ tuʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-07-019",
+      "speaker": "Fleur-de-Lys",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 993,
+        "similarity": 0.584,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 997.0,
+      "sourceText": "Je le crois",
+      "ipa": "[ʒə lə kʁwa]",
+      "ear": "热 勒 克赫乌阿",
+      "meaning": "我坚信",
+      "sourceIPA": "/ʒə lə kʁwa/",
+      "sourceLineId": "notre-dame-de-paris-07-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 993,
+        "similarity": 0.584,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 998.333,
+      "sourceText": "Ce sera un beau jour que le jour",
+      "ipa": "[sə səʁa œ̃ bo ʒuʁ kə lə ʒuʁ]",
+      "ear": "瑟 瑟哈 恩 博 茹赫 克 勒 茹赫",
+      "meaning": "我们幸福的未来",
+      "sourceIPA": "/sə səʁa œ̃ bo ʒuʁ kə lə ʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-07-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 993,
+        "similarity": 0.584,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1002.333,
+      "sourceText": "Où l'on se mariera",
+      "ipa": "[u lɔ̃ sə maʁiʁa]",
+      "ear": "乌 隆 瑟 玛希哈",
+      "meaning": "就在我们的结合中",
+      "sourceIPA": "/u lɔ̃ sə maʁiʁa/",
+      "sourceLineId": "notre-dame-de-paris-07-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 993,
+        "similarity": 0.584,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1005,
+      "sourceText": "Tout l'or qui dort encore",
+      "ipa": "[tu lɔʁ ki dɔʁ‿ɑ̃kɔʁ]",
+      "ear": "图 洛赫 基 多赫 昂科赫",
+      "meaning": "所有的黄金还都沉睡",
+      "sourceIPA": "/tu lɔʁ ki dɔʁ ɑ̃kɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-07-023",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1005,
+        "similarity": 0.528,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1007.667,
+      "sourceText": "Sous le lit de la terre",
+      "ipa": "[su lə li də la tɛʁ]",
+      "ear": "苏 勒 利 德 拉 泰赫",
+      "meaning": "在地下",
+      "sourceIPA": "/su lə li də la tɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-07-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1005,
+        "similarity": 0.528,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1010.333,
+      "sourceText": "J'en couvrirai ton corps",
+      "ipa": "[ʒɑ̃ kuvʁiʁe tɔ̃ kɔʁ]",
+      "ear": "让 库弗希赫 通 科赫",
+      "meaning": "我会呵护",
+      "sourceIPA": "/ʒɑ̃ kuvʁiʁe tɔ̃ kɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-07-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1005,
+        "similarity": 0.528,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1013,
+      "sourceText": "Que tu m'auras offert",
+      "ipa": "[kə ty moʁa ɔfɛʁ]",
+      "ear": "克 蒂于 莫哈 哦费赫",
+      "meaning": "你献与我的身躯",
+      "sourceIPA": "/kə ty moʁaz ɔfɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-07-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1013,
+        "similarity": 0.5,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1015.333,
+      "sourceText": "Tous les mots de l'amour",
+      "ipa": "[tu le mo də lamuʁ]",
+      "ear": "图 莱 莫 德 拉穆赫",
+      "meaning": "这些爱情的倾诉",
+      "sourceIPA": "/tu le mo də lamuʁ/",
+      "sourceLineId": "notre-dame-de-paris-07-027",
+      "speaker": "Fleur-de-Lys",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1013,
+        "similarity": 0.5,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1017.667,
+      "sourceText": "Tous les mots du désir",
+      "ipa": "[tu le mo dy deziʁ]",
+      "ear": "图 莱 莫 迪于 德齐赫",
+      "meaning": "这些欲望的话语",
+      "sourceIPA": "/tu le mo dy deziʁ/",
+      "sourceLineId": "notre-dame-de-paris-07-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1013,
+        "similarity": 0.5,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1020,
+      "sourceText": "Mieux que les troubadours",
+      "ipa": "[mjø kə le tʁubaduʁ]",
+      "ear": "姆耶厄 克 莱 特胡巴杜赫",
+      "meaning": "胜过任何诗句",
+      "sourceIPA": "/mjø kə le tʁubaduʁ/",
+      "sourceLineId": "notre-dame-de-paris-07-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1020,
+        "similarity": 0.561,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1022.1,
+      "sourceText": "Tu sauras me les dire",
+      "ipa": "[ty soʁa mə le diʁ]",
+      "ear": "蒂于 索哈 默 莱 迪赫",
+      "meaning": "只因是你倾吐",
+      "sourceIPA": "/ty soʁa mə le diʁ/",
+      "sourceLineId": "notre-dame-de-paris-07-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1020,
+        "similarity": 0.561,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1024.2,
+      "sourceText": "Ne cherche plus l'amour",
+      "ipa": "[nə ʃɛʁʃ ply lamuʁ]",
+      "ear": "讷 谢赫什 普吕 拉穆赫",
+      "meaning": "勿再寻觅 真爱—",
+      "sourceIPA": "/nə ʃɛʁʃ ply lamuʁ/",
+      "sourceLineId": "notre-dame-de-paris-07-031",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1020,
+        "similarity": 0.561,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1025.95,
+      "sourceText": "Il est là",
+      "ipa": "[il‿ɛ la]",
+      "ear": "伊勒 艾 拉",
+      "meaning": "就在此",
+      "sourceIPA": "/il ɛ la/",
+      "sourceLineId": "notre-dame-de-paris-07-032",
+      "speaker": "Fleur-de-Lys",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1020,
+        "similarity": 0.561,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1027,
+      "sourceText": "Il est là pour toujours",
+      "ipa": "[il‿ɛ la puʁ tuʒuʁ]",
+      "ear": "伊勒 艾 拉 普赫 图茹赫",
+      "meaning": "永远相伴",
+      "sourceIPA": "/il ɛ la puʁ tuʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-07-033",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1027,
+        "similarity": 0.555,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1030.9,
+      "sourceText": "Je le crois",
+      "ipa": "[ʒə lə kʁwa]",
+      "ear": "热 勒 克赫乌阿",
+      "meaning": "我坚信",
+      "sourceIPA": "/ʒə lə kʁwa/",
+      "sourceLineId": "notre-dame-de-paris-07-034",
+      "speaker": "Fleur-de-Lys",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1027,
+        "similarity": 0.555,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1032.85,
+      "sourceText": "Ce sera un beau jour que le jour",
+      "ipa": "[sə səʁa œ̃ bo ʒuʁ kə lə ʒuʁ]",
+      "ear": "瑟 瑟哈 恩 博 茹赫 克 勒 茹赫",
+      "meaning": "我们幸福的未来",
+      "sourceIPA": "/sə səʁa œ̃ bo ʒuʁ kə lə ʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-07-035",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1027,
+        "similarity": 0.555,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1038.7,
+      "sourceText": "Où l'on se mariera",
+      "ipa": "[u lɔ̃ sə maʁiʁa]",
+      "ear": "乌 隆 瑟 玛希哈",
+      "meaning": "就在我们的结合中",
+      "sourceIPA": "/u lɔ̃ sə maʁiʁa/",
+      "sourceLineId": "notre-dame-de-paris-07-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1027,
+        "similarity": 0.555,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1044,
+      "sourceText": "Ne cherche plus l'amour. Il est là",
+      "ipa": "[nə ʃɛʁʃ ply lamuʁ il‿ɛ la]",
+      "ear": "讷 谢赫什 普吕 拉穆赫 伊勒 艾 拉",
+      "meaning": "勿再寻觅 真爱就在此",
+      "sourceIPA": "/nə ʃɛʁʃ ply lamuʁ il ɛ la/",
+      "sourceLineId": "notre-dame-de-paris-07-038",
+      "speaker": "Ensemble",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1044,
+        "similarity": 0.606,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1046.154,
+      "sourceText": "Il est là pour toujours. Je le crois",
+      "ipa": "[il‿ɛ la puʁ tuʒuʁ ʒə lə kʁwa]",
+      "ear": "伊勒 艾 拉 普赫 图茹赫 热 勒 克赫乌阿",
+      "meaning": "永远相伴 我坚信",
+      "sourceIPA": "/il ɛ la puʁ tuʒuʁ ʒə lə kʁwa/",
+      "sourceLineId": "notre-dame-de-paris-07-039",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1044,
+        "similarity": 0.606,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1048.577,
+      "sourceText": "Ce sera un beau jour que le jour",
+      "ipa": "[sə səʁa œ̃ bo ʒuʁ kə lə ʒuʁ]",
+      "ear": "瑟 瑟哈 恩 博 茹赫 克 勒 茹赫",
+      "meaning": "我们幸福的未来",
+      "sourceIPA": "/sə səʁa œ̃ bo ʒuʁ kə lə ʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-07-040",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1044,
+        "similarity": 0.606,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1051,
+      "sourceText": "Où l'on se mariera",
+      "ipa": "[u lɔ̃ sə maʁiʁa]",
+      "ear": "乌 隆 瑟 玛希哈",
+      "meaning": "就在我们的结合中",
+      "sourceIPA": "/u lɔ̃ sə maʁiʁa/",
+      "sourceLineId": "notre-dame-de-paris-07-041",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1051,
+        "similarity": 0.616,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1053.286,
+      "sourceText": "Ce sera un beau jour que le jour",
+      "ipa": "[sə səʁa œ̃ bo ʒuʁ kə lə ʒuʁ]",
+      "ear": "瑟 瑟哈 恩 博 茹赫 克 勒 茹赫",
+      "meaning": "我们幸福的未来",
+      "sourceIPA": "/sə səʁa œ̃ bo ʒuʁ kə lə ʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-07-042",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1051,
+        "similarity": 0.616,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1056.714,
+      "sourceText": "Où l'on se mariera",
+      "ipa": "[u lɔ̃ sə maʁiʁa]",
+      "ear": "乌 隆 瑟 玛希哈",
+      "meaning": "就在我们的结合中",
+      "sourceIPA": "/u lɔ̃ sə maʁiʁa/",
+      "sourceLineId": "notre-dame-de-paris-07-043",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1051,
+        "similarity": 0.616,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1059,
+      "sourceText": "Où l'on se mariera",
+      "ipa": "[u lɔ̃ sə maʁiʁa]",
+      "ear": "乌 隆 瑟 玛希哈",
+      "meaning": "就在我们的结合中",
+      "sourceIPA": "/u lɔ̃ sə maʁiʁa/",
+      "sourceLineId": "notre-dame-de-paris-07-044",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1059,
+        "similarity": 0.558,
+        "groupSize": 1
+      }
+    }
+  ]
+}

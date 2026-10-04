@@ -8,15 +8,151 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 36,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "J'étais un homme heureux avant de te connaître",
+      "start": 5484,
+      "duration": 5.217
+    },
+    {
+      "text": "J'avais refoulé tout au fond de mon être",
+      "start": 5489.217,
+      "duration": 4.783
+    },
+    {
+      "text": "Cette force du sexe étouffée dans mon adolescence",
+      "start": 5494,
+      "duration": 5.296
+    },
+    {
+      "text": "Je n'avais que deux maîtresses, la religion et la science",
+      "start": 5499.296,
+      "duration": 5.704
+    },
+    {
+      "text": "Oh! être prêtre et aimer une femme",
+      "start": 5505,
+      "duration": 4.0
+    },
+    {
+      "text": "L'aimer de toutes les fureurs de son âme!",
+      "start": 5509.0,
+      "duration": 5.0
+    },
+    {
+      "text": "Contre vents et marées j'étais inébranlable",
+      "start": 5526,
+      "duration": 5.238
+    },
+    {
+      "text": "Droit et fier comme une tour de cathédrale",
+      "start": 5531.238,
+      "duration": 4.762
+    },
+    {
+      "text": "Quand tu vins comme un ver me ronger par dedans",
+      "start": 5536,
+      "duration": 5.0
+    },
+    {
+      "text": "Et réveiller en moi le feu d'un vieux volcan",
+      "start": 5541.0,
+      "duration": 5.0
+    },
+    {
+      "text": "Oh! être prêtre et aimer une femme",
+      "start": 5546,
+      "duration": 4.444
+    },
+    {
+      "text": "L'aimer de toutes les fureurs de son âme!",
+      "start": 5550.444,
+      "duration": 5.556
+    },
+    {
+      "text": "Je vivais loin des femmes, flagellais dans ma chair",
+      "start": 5567,
+      "duration": 5.5
+    },
+    {
+      "text": "Quand au cœur de la nuit, ce fût comme un éclair",
+      "start": 5572.5,
+      "duration": 5.5
+    },
+    {
+      "text": "Distrait de ma prière, j'ai ouvert ma fenêtre",
+      "start": 5578,
+      "duration": 5.0
+    },
+    {
+      "text": "Au jour qui se levait pour te voir apparaître",
+      "start": 5583.0,
+      "duration": 5.0
+    },
+    {
+      "text": "Oh! être prêtre et aimer une femme",
+      "start": 5588,
+      "duration": 5.2
+    },
+    {
+      "text": "L'aimer, oui l'aimer, de toutes les fureurs de son âme!",
+      "start": 5598,
+      "duration": 8.45
+    },
+    {
+      "text": "Oh! être prêtre et aimer une femme",
+      "start": 5609,
+      "duration": 5.2
+    },
+    {
+      "text": "Caresse-moi d'une main, torture-moi de l'autre",
+      "start": 5623,
+      "duration": 5.625
+    },
+    {
+      "text": "Fais-moi expier ma faute",
+      "start": 5628.625,
+      "duration": 3.375
+    },
+    {
+      "text": "L'enfer où tu iras, j'irai aussi",
+      "start": 5632,
+      "duration": 6.111
+    },
+    {
+      "text": "Et ce sera mon paradis",
+      "start": 5638.111,
+      "duration": 4.889
+    },
+    {
+      "text": "Oh! être prêtre et aimer une femme",
+      "start": 5643,
+      "duration": 5.2
+    },
+    {
+      "text": "L'aimer, oui l'aimer, de toutes les fureurs de son âme!",
+      "start": 5653,
+      "duration": 8.45
+    },
+    {
+      "text": "Oh! être prêtre et aimer une femme",
+      "start": 5663,
+      "duration": 5.2
+    },
+    {
+      "text": "Une femme",
+      "start": 5676,
+      "duration": 5.0
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5479",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -112,6 +248,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

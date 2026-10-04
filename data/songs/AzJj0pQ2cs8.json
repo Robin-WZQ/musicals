@@ -8,15 +8,241 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 45,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "La nuit est si belle",
+      "start": 6781,
+      "duration": 3.25
+    },
+    {
+      "text": "Et je suis si seule",
+      "start": 6784.25,
+      "duration": 3.25
+    },
+    {
+      "text": "Je n'ai pas envie de mourir",
+      "start": 6789,
+      "duration": 5.2
+    },
+    {
+      "text": "Je veux encore chanter",
+      "start": 6794.2,
+      "duration": 3.9
+    },
+    {
+      "text": "Danser et rire",
+      "start": 6798.1,
+      "duration": 2.6
+    },
+    {
+      "text": "Je ne veux pas mourir",
+      "start": 6802,
+      "duration": 3.9
+    },
+    {
+      "text": "Mourir",
+      "start": 6805.9,
+      "duration": 1.3
+    },
+    {
+      "text": "Avant d'avoir aimé",
+      "start": 6807.2,
+      "duration": 3.9
+    },
+    {
+      "text": "Vivre",
+      "start": 6814,
+      "duration": 0.833
+    },
+    {
+      "text": "Pour celui qu'on aime",
+      "start": 6814.833,
+      "duration": 4.167
+    },
+    {
+      "text": "Aimer",
+      "start": 6823,
+      "duration": 1.429
+    },
+    {
+      "text": "Plus que l'amour même",
+      "start": 6824.429,
+      "duration": 3.571
+    },
+    {
+      "text": "Donner",
+      "start": 6831,
+      "duration": 1.3
+    },
+    {
+      "text": "Sans rien attendre en retour",
+      "start": 6832.3,
+      "duration": 4.55
+    },
+    {
+      "text": "Libre",
+      "start": 6840,
+      "duration": 0.65
+    },
+    {
+      "text": "De choisir sa vie",
+      "start": 6840.65,
+      "duration": 3.25
+    },
+    {
+      "text": "Sans un anathème",
+      "start": 6843.9,
+      "duration": 3.25
+    },
+    {
+      "text": "Sans un interdit",
+      "start": 6851,
+      "duration": 4.167
+    },
+    {
+      "text": "Libre",
+      "start": 6855.167,
+      "duration": 0.833
+    },
+    {
+      "text": "Sans dieu ni patrie",
+      "start": 6860,
+      "duration": 3.25
+    },
+    {
+      "text": "Avec pour seul baptême",
+      "start": 6863.25,
+      "duration": 3.9
+    },
+    {
+      "text": "Celui de l'eau de pluie",
+      "start": 6868,
+      "duration": 4.286
+    },
+    {
+      "text": "Vivre",
+      "start": 6872.286,
+      "duration": 0.714
+    },
+    {
+      "text": "Pour celui qu'on aime",
+      "start": 6878,
+      "duration": 3.571
+    },
+    {
+      "text": "Aimer",
+      "start": 6881.571,
+      "duration": 1.429
+    },
+    {
+      "text": "Plus que l'amour même",
+      "start": 6886,
+      "duration": 3.571
+    },
+    {
+      "text": "Donner",
+      "start": 6889.571,
+      "duration": 1.429
+    },
+    {
+      "text": "Sans rien attendre en retour",
+      "start": 6894,
+      "duration": 4.55
+    },
+    {
+      "text": "Ces deux mondes qui nous séparent",
+      "start": 6898.55,
+      "duration": 4.55
+    },
+    {
+      "text": "Un jour seront-ils réunis",
+      "start": 6905,
+      "duration": 4.5
+    },
+    {
+      "text": "Oh! je voudrais tellement y croire",
+      "start": 6909.5,
+      "duration": 4.5
+    },
+    {
+      "text": "Même s'il me faut donner ma vie",
+      "start": 6914,
+      "duration": 4.0
+    },
+    {
+      "text": "Donner ma vie",
+      "start": 6918.0,
+      "duration": 2.0
+    },
+    {
+      "text": "pour changer l'histoire",
+      "start": 6920,
+      "duration": 4.167
+    },
+    {
+      "text": "Vivre",
+      "start": 6924.167,
+      "duration": 0.833
+    },
+    {
+      "text": "pour celui qu'on aime",
+      "start": 6929,
+      "duration": 3.571
+    },
+    {
+      "text": "Aimer",
+      "start": 6932.571,
+      "duration": 1.429
+    },
+    {
+      "text": "Plus que l'amour même",
+      "start": 6938,
+      "duration": 3.571
+    },
+    {
+      "text": "Donner",
+      "start": 6941.571,
+      "duration": 1.429
+    },
+    {
+      "text": "Sans rien attendre en retour",
+      "start": 6946,
+      "duration": 4.55
+    },
+    {
+      "text": "Aimer",
+      "start": 6950.55,
+      "duration": 1.3
+    },
+    {
+      "text": "Comme la nuit aime le jour",
+      "start": 6955,
+      "duration": 3.9
+    },
+    {
+      "text": "Aimer",
+      "start": 6958.9,
+      "duration": 1.3
+    },
+    {
+      "text": "Jusqu'à en mourir d'amour",
+      "start": 6964,
+      "duration": 5.0
+    },
+    {
+      "text": "Jusqu'à en mourir d'amour",
+      "start": 6972,
+      "duration": 5.0
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6762",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -124,6 +350,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

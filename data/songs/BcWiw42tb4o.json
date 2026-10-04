@@ -8,15 +8,106 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 14,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Maintenant pourrais je savoir",
+      "start": 2197,
+      "duration": 3.938
+    },
+    {
+      "text": "Qui j'ai l'honneur d'avoir pour mari",
+      "start": 2200.938,
+      "duration": 5.062
+    },
+    {
+      "text": "Je suis le poète Gringoire",
+      "start": 2206,
+      "duration": 2.333
+    },
+    {
+      "text": "Je suis prince des rues de Paris",
+      "start": 2208.333,
+      "duration": 2.667
+    },
+    {
+      "text": "Il est le prince des rues de Paris!",
+      "start": 2211.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Je ne suis pas un homme à femmes",
+      "start": 2214,
+      "duration": 3.333
+    },
+    {
+      "text": "Si tu veux je ferai de toi",
+      "start": 2217.333,
+      "duration": 3.334
+    },
+    {
+      "text": "Mon égérie, ma muse, ma dame",
+      "start": 2220.667,
+      "duration": 3.333
+    },
+    {
+      "text": "Toi qui sais lire et écrire",
+      "start": 2224,
+      "duration": 3.0
+    },
+    {
+      "text": "Toi le poète peux-tu me dire",
+      "start": 2227.0,
+      "duration": 3.429
+    },
+    {
+      "text": "Ce que veut dire Phoebus?",
+      "start": 2230.429,
+      "duration": 2.571
+    },
+    {
+      "text": "Par Jupiter",
+      "start": 2233,
+      "duration": 1.333
+    },
+    {
+      "text": "Qui donc sur terre",
+      "start": 2234.333,
+      "duration": 1.334
+    },
+    {
+      "text": "Ose porter un nom pareil",
+      "start": 2235.667,
+      "duration": 2.333
+    },
+    {
+      "text": "C'est celui pour qui mon cœur bat",
+      "start": 2238,
+      "duration": 2.88
+    },
+    {
+      "text": "Si je me souviens de mon latin",
+      "start": 2240.88,
+      "duration": 3.24
+    },
+    {
+      "text": "Le mot Phoebus veut dire soleil",
+      "start": 2244.12,
+      "duration": 2.88
+    },
+    {
+      "text": "Phoebus veut dire soleil",
+      "start": 2247,
+      "duration": 5.0
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=2193",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -64,6 +155,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

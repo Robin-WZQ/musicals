@@ -8,15 +8,116 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 10,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Toi qui m'as recueilli",
+      "start": 1557,
+      "duration": 1.412
+    },
+    {
+      "text": "Adopté et nourri",
+      "start": 1558.412,
+      "duration": 1.412
+    },
+    {
+      "text": "Moi l'enfant trouvé",
+      "start": 1559.824,
+      "duration": 1.176
+    },
+    {
+      "text": "L'enfant rejeté",
+      "start": 1561.0,
+      "duration": 0.941
+    },
+    {
+      "text": "Par ceux qui avaient honte",
+      "start": 1561.941,
+      "duration": 1.412
+    },
+    {
+      "text": "D'avoir mis au monde un monstre",
+      "start": 1563.353,
+      "duration": 1.647
+    },
+    {
+      "text": "Toi qui m'as vu grandir",
+      "start": 1565,
+      "duration": 3.9
+    },
+    {
+      "text": "Toi qui m'as vu souffrir",
+      "start": 1568.9,
+      "duration": 3.9
+    },
+    {
+      "text": "Toi qui m'as protégé",
+      "start": 1574,
+      "duration": 2.824
+    },
+    {
+      "text": "contre le monde entier",
+      "start": 1576.824,
+      "duration": 2.352
+    },
+    {
+      "text": "Tu m'as fait le bonheur",
+      "start": 1579.176,
+      "duration": 2.824
+    },
+    {
+      "text": "De me nommer sonneur des cloches",
+      "start": 1582,
+      "duration": 5.2
+    },
+    {
+      "text": "Tu m'as appris à parler à lire et à écrire",
+      "start": 1589,
+      "duration": 8.45
+    },
+    {
+      "text": "Mais je ne sais pas lire",
+      "start": 1599,
+      "duration": 5.0
+    },
+    {
+      "text": "Le fond de tes pensées",
+      "start": 1618,
+      "duration": 3.429
+    },
+    {
+      "text": "Je t'appartiens de tout mon être",
+      "start": 1621.429,
+      "duration": 4.571
+    },
+    {
+      "text": "Comme jamais un chien n'a aimé son maître",
+      "start": 1626,
+      "duration": 6.111
+    },
+    {
+      "text": "Je t'appartiens de tout mon être",
+      "start": 1632.111,
+      "duration": 4.889
+    },
+    {
+      "text": "Comme jamais un chien",
+      "start": 1637,
+      "duration": 3.25
+    },
+    {
+      "text": "N'a aimé son maître",
+      "start": 1640.25,
+      "duration": 3.25
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=1549",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -76,6 +177,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

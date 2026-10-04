@@ -1,0 +1,330 @@
+{
+  "videoId": "QkVp6n7IMCA",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=7260"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 7260,
+      "sourceText": "Au nom du roi",
+      "ipa": "[o nɔ̃ dy ʁwa]",
+      "ear": "奥 农 迪于 赫乌阿",
+      "meaning": "以国王之名",
+      "sourceIPA": "/o nɔ̃ dy ʁwa/",
+      "sourceLineId": "notre-dame-de-paris-48-001",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7260,
+        "similarity": 0.822,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7261.524,
+      "sourceText": "Ordre est ici rendu",
+      "ipa": "[ɔʁdʁ‿ɛt‿isi ʁɑ̃dy]",
+      "ear": "哦赫德赫 艾特 伊西 杭迪于",
+      "meaning": "命令抵达此地",
+      "sourceIPA": "/ɔʁdʁ ɛt isi ʁɑ̃dy/",
+      "sourceLineId": "notre-dame-de-paris-48-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7260,
+        "similarity": 0.822,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7263.81,
+      "sourceText": "Par la Cour de Paris",
+      "ipa": "[paʁ la kuʁ də paʁi]",
+      "ear": "帕赫 拉 库赫 德 帕希",
+      "meaning": "巴黎宫廷下令",
+      "sourceIPA": "/paʁ la kuʁ də paʁi/",
+      "sourceLineId": "notre-dame-de-paris-48-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7260,
+        "similarity": 0.822,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7266.095,
+      "sourceText": "Fille Esméralda",
+      "ipa": "[fij‿ɛsmeʁalda]",
+      "ear": "菲耶 艾斯梅哈勒达",
+      "meaning": "女子艾斯美拉达",
+      "sourceIPA": "/fij ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-48-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7260,
+        "similarity": 0.822,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7268,
+      "sourceText": "Vous serez pendue",
+      "ipa": "[vu səʁe pɑ̃dy]",
+      "ear": "乌 瑟赫 庞迪于",
+      "meaning": "将被绞死",
+      "sourceIPA": "/vu səʁe pɑ̃dy/",
+      "sourceLineId": "notre-dame-de-paris-48-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7268,
+        "similarity": 0.588,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7270.174,
+      "sourceText": "Pour cause de sorcellerie",
+      "ipa": "[puʁ koz də sɔʁsɛlʁi]",
+      "ear": "普赫 科兹 德 索赫塞勒希",
+      "meaning": "罪名是施行巫术",
+      "sourceIPA": "/puʁ koz də sɔʁsɛlʁi/",
+      "sourceLineId": "notre-dame-de-paris-48-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7268,
+        "similarity": 0.588,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7272.783,
+      "sourceText": "Quant à vous sans-papiers",
+      "ipa": "[kɑ̃ a vu sɑ̃papje]",
+      "ear": "康 阿 乌 桑帕普耶诶",
+      "meaning": "至于你们这些非法移民",
+      "sourceIPA": "/kɑ̃t a vu sɑ̃papje/",
+      "sourceLineId": "notre-dame-de-paris-48-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7268,
+        "similarity": 0.588,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7275.391,
+      "sourceText": "Vous serez expulsés",
+      "ipa": "[vu səʁe ɛkspylse]",
+      "ear": "乌 瑟赫 艾克斯普于勒塞",
+      "meaning": "你们将被驱逐",
+      "sourceIPA": "/vu səʁez ɛkspylse/",
+      "sourceLineId": "notre-dame-de-paris-48-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7268,
+        "similarity": 0.588,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7278,
+      "sourceText": "Exilés",
+      "ipa": "[ɛɡzile]",
+      "ear": "艾格齐莱",
+      "meaning": "流放",
+      "sourceIPA": "/ɛɡzile/",
+      "sourceLineId": "notre-dame-de-paris-48-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7278,
+        "similarity": 1.0,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 7279.95,
+      "sourceText": "Déportés",
+      "ipa": "[depɔʁte]",
+      "ear": "德珀赫特",
+      "meaning": "遣送出境",
+      "sourceIPA": "/depɔʁte/",
+      "sourceLineId": "notre-dame-de-paris-48-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7278,
+        "similarity": 1.0,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 7281.9,
+      "sourceText": "Expulsés",
+      "ipa": "[ɛkspylse]",
+      "ear": "艾克斯普于勒塞",
+      "meaning": "驱逐",
+      "sourceIPA": "/ɛkspylse/",
+      "sourceLineId": "notre-dame-de-paris-48-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7278,
+        "similarity": 1.0,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 7287,
+      "sourceText": "Exilés",
+      "ipa": "[ɛɡzile]",
+      "ear": "艾格齐莱",
+      "meaning": "流放",
+      "sourceIPA": "/ɛɡzile/",
+      "sourceLineId": "notre-dame-de-paris-48-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7287,
+        "similarity": 1.0,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 7288.95,
+      "sourceText": "Déportés",
+      "ipa": "[depɔʁte]",
+      "ear": "德珀赫特",
+      "meaning": "遣送出境",
+      "sourceIPA": "/depɔʁte/",
+      "sourceLineId": "notre-dame-de-paris-48-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7287,
+        "similarity": 1.0,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 7290.9,
+      "sourceText": "Expulsés",
+      "ipa": "[ɛkspylse]",
+      "ear": "艾克斯普于勒塞",
+      "meaning": "驱逐",
+      "sourceIPA": "/ɛkspylse/",
+      "sourceLineId": "notre-dame-de-paris-48-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7287,
+        "similarity": 1.0,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 7295,
+      "sourceText": "Exilés",
+      "ipa": "[ɛɡzile]",
+      "ear": "艾格齐莱",
+      "meaning": "流放",
+      "sourceIPA": "/ɛɡzile/",
+      "sourceLineId": "notre-dame-de-paris-48-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7295,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7297.5,
+      "sourceText": "Déportés",
+      "ipa": "[depɔʁte]",
+      "ear": "德珀赫特",
+      "meaning": "遣送出境",
+      "sourceIPA": "/depɔʁte/",
+      "sourceLineId": "notre-dame-de-paris-48-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7295,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7305,
+      "sourceText": "(Expulsés)",
+      "ipa": "[ɛkspylse]",
+      "ear": "艾克斯普于勒塞",
+      "meaning": "（驱逐）",
+      "sourceIPA": "/ɛkspylse/",
+      "sourceLineId": "notre-dame-de-paris-48-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7305,
+        "similarity": 1.0,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 7306.95,
+      "sourceText": "(Exilés)",
+      "ipa": "[ɛɡzile]",
+      "ear": "艾格齐莱",
+      "meaning": "（流放）",
+      "sourceIPA": "/ɛɡzile/",
+      "sourceLineId": "notre-dame-de-paris-48-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7305,
+        "similarity": 1.0,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 7308.9,
+      "sourceText": "(Déportés)",
+      "ipa": "[depɔʁte]",
+      "ear": "德珀赫特",
+      "meaning": "（遣送出境）",
+      "sourceIPA": "/depɔʁte/",
+      "sourceLineId": "notre-dame-de-paris-48-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7305,
+        "similarity": 1.0,
+        "groupSize": 3
+      }
+    }
+  ]
+}

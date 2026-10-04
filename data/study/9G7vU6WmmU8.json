@@ -1,0 +1,858 @@
+{
+  "videoId": "9G7vU6WmmU8",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=4358"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 4358,
+      "sourceText": "Les cloches ne sonnent plus",
+      "ipa": "[le kloʃ nə sɔn ply]",
+      "ear": "莱 克洛什 讷 索恩 普吕",
+      "meaning": "钟声不再响起",
+      "sourceIPA": "/le kloʃ nə sɔn ply/",
+      "sourceLineId": "notre-dame-de-paris-30-001",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4358,
+        "similarity": 0.667,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4361.25,
+      "sourceText": "La cathédrale s'est tue.",
+      "ipa": "[la katedʁal sɛ ty]",
+      "ear": "拉 卡特德哈勒 塞 蒂于",
+      "meaning": "教堂陷入沉寂",
+      "sourceIPA": "/la katedʁal sɛ ty/",
+      "sourceLineId": "notre-dame-de-paris-30-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4358,
+        "similarity": 0.667,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4367,
+      "sourceText": "Quasimodo est malheureux",
+      "ipa": "[kazimodo ɛ maløʁø]",
+      "ear": "卡齐莫多 艾 玛勒厄赫厄",
+      "meaning": "卡西莫多遭遇了不幸",
+      "sourceIPA": "/kazimodo ɛ maløʁø/",
+      "sourceLineId": "notre-dame-de-paris-30-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4367,
+        "similarity": 0.683,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4372.2,
+      "sourceText": "Quasimodo est amoureux",
+      "ipa": "[kazimodo ɛt‿amuʁø]",
+      "ear": "卡齐莫多 艾特 阿穆赫厄",
+      "meaning": "卡西莫多陷入了爱情",
+      "sourceIPA": "/kazimodo ɛt amuʁø/",
+      "sourceLineId": "notre-dame-de-paris-30-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4367,
+        "similarity": 0.683,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4378,
+      "sourceText": "Il fait la grève des cloches",
+      "ipa": "[il fɛ la ɡʁɛv de kloʃ]",
+      "ear": "伊勒 费 拉 格赫弗 德 克洛什",
+      "meaning": "他不再敲钟",
+      "sourceIPA": "/il fɛ la ɡʁɛv de kloʃ/",
+      "sourceLineId": "notre-dame-de-paris-30-005",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4378,
+        "similarity": 0.439,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4381.9,
+      "sourceText": "depuis déjà trois jours",
+      "ipa": "[dəpɥi deʒa tʁwa ʒuʁ]",
+      "ear": "德普于伊 德扎 特赫乌阿 茹赫",
+      "meaning": "已经三天了",
+      "sourceIPA": "/dəpɥi deʒa tʁwa ʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-30-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4378,
+        "similarity": 0.439,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4387,
+      "sourceText": "Quasimodo est triste",
+      "ipa": "[kazimodo ɛ tʁist]",
+      "ear": "卡齐莫多 艾 特希斯特",
+      "meaning": "卡西莫多十分忧伤",
+      "sourceIPA": "/kazimodo ɛ tʁist/",
+      "sourceLineId": "notre-dame-de-paris-30-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4387,
+        "similarity": 0.777,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4390.9,
+      "sourceText": "Quasimodo est fou",
+      "ipa": "[kazimodo ɛ fu]",
+      "ear": "卡齐莫多 艾 富",
+      "meaning": "卡西莫多几近疯狂",
+      "sourceIPA": "/kazimodo ɛ fu/",
+      "sourceLineId": "notre-dame-de-paris-30-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4387,
+        "similarity": 0.777,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4395,
+      "sourceText": "Parce qu'il se meurt d'amour",
+      "ipa": "[paʁskil sə mœʁ damuʁ]",
+      "ear": "帕赫斯基勒 瑟 默厄赫 达穆赫",
+      "meaning": "因为他患了严重的相思病",
+      "sourceIPA": "/ɑ̃sɑ̃bl paʁskil sə mœʁ damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-30-009",
+      "speaker": "Ensemble",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4395,
+        "similarity": 0.502,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4415,
+      "sourceText": "Les cloches que je sonne",
+      "ipa": "[le kloʃ kə ʒə sɔn]",
+      "ear": "莱 克洛什 克 热 索恩",
+      "meaning": "鸣响的钟声",
+      "sourceIPA": "/le kloʃ kə ʒə sɔn/",
+      "sourceLineId": "notre-dame-de-paris-30-011",
+      "speaker": "Quasimodo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4415,
+        "similarity": 0.809,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4422,
+      "sourceText": "sont mes amours, sont mes amantes",
+      "ipa": "[sɔ̃ mez‿amuʁ sɔ̃ mez‿amɑ̃t]",
+      "ear": "松 梅兹 阿穆赫 松 梅兹 阿芒特",
+      "meaning": "是我的爱，是我的爱人",
+      "sourceIPA": "/sɔ̃ mez amuʁ sɔ̃ mez amɑ̃t/",
+      "sourceLineId": "notre-dame-de-paris-30-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4422,
+        "similarity": 0.65,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4429,
+      "sourceText": "Je veux qu'elles claironnent",
+      "ipa": "[ʒə vø kɛl klɛʁɔn]",
+      "ear": "热 弗厄 凯勒 克莱霍恩",
+      "meaning": "我要它们高声呼喊",
+      "sourceIPA": "/ʒə vø kɛl klɛʁɔn/",
+      "sourceLineId": "notre-dame-de-paris-30-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4429,
+        "similarity": 0.71,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4436,
+      "sourceText": "qu'elles tambourinent et qu'elles chantent",
+      "ipa": "[kɛl tɑ̃buʁin e kɛl ʃɑ̃t]",
+      "ear": "凯勒 唐布希恩 诶 凯勒 尚特",
+      "meaning": "把它们敲响，让它们歌唱",
+      "sourceIPA": "/kɛl tɑ̃buʁint e kɛl ʃɑ̃t/",
+      "sourceLineId": "notre-dame-de-paris-30-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4436,
+        "similarity": 0.376,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4443,
+      "sourceText": "Qu'il grêle ou qu'il tonne",
+      "ipa": "[kil ɡʁɛl‿u kil tɔn]",
+      "ear": "基勒 格赫勒 乌 基勒 托恩",
+      "meaning": "不论是下冰雹也好，电闪雷鸣也好",
+      "sourceIPA": "/kil ɡʁɛl u kil tɔn/",
+      "sourceLineId": "notre-dame-de-paris-30-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4443,
+        "similarity": 0.276,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4450,
+      "sourceText": "ou qu'il pleuve ou qu'il vent",
+      "ipa": "[u kil pløv‿u kil vɑ̃]",
+      "ear": "乌 基勒 普勒厄弗 乌 基勒 旺",
+      "meaning": "大雨倾盆也好，狂风阵阵也好",
+      "sourceIPA": "/u kil pløv u kil vɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-30-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4450,
+        "similarity": 0.843,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4457,
+      "sourceText": "Je veux qu'elles résonnent",
+      "ipa": "[ʒə vø kɛl ʁezɔn]",
+      "ear": "热 弗厄 凯勒 赫佐恩",
+      "meaning": "我要它们大声响起",
+      "sourceIPA": "/ʒə vø kɛl ʁezɔn/",
+      "sourceLineId": "notre-dame-de-paris-30-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4457,
+        "similarity": 0.767,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4464,
+      "sourceText": "dans la joie comme dans la tourmente",
+      "ipa": "[dɑ̃ la ʒwa kɔm dɑ̃ la tuʁmɑ̃t]",
+      "ear": "当 拉 日乌阿 科姆 当 拉 图赫芒特",
+      "meaning": "在快乐中如同在痛苦中一般",
+      "sourceIPA": "/dɑ̃ la ʒwa kɔm dɑ̃ la tuʁmɑ̃t/",
+      "sourceLineId": "notre-dame-de-paris-30-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4464,
+        "similarity": 0.678,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4486,
+      "sourceText": "Celles qui sonnent quand on naît",
+      "ipa": "[sɛl ki sɔn kɑ̃t‿ɔ̃ nɛ]",
+      "ear": "塞勒 基 索恩 康特 翁 奈",
+      "meaning": "它为出生而鸣",
+      "sourceIPA": "/sɛl ki sɔn kɑ̃t ɔ̃ nɛ/",
+      "sourceLineId": "notre-dame-de-paris-30-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4486,
+        "similarity": 0.856,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4488.25,
+      "sourceText": "celles qui sonnent quand on meurt",
+      "ipa": "[sɛl ki sɔn kɑ̃t‿ɔ̃ mœʁ]",
+      "ear": "塞勒 基 索恩 康特 翁 默厄赫",
+      "meaning": "它为死亡而鸣",
+      "sourceIPA": "/sɛl ki sɔn kɑ̃t ɔ̃ mœʁ/",
+      "sourceLineId": "notre-dame-de-paris-30-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4486,
+        "similarity": 0.856,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4490.5,
+      "sourceText": "Celles qui sonnent tous les jours, toutes les nuits, toutes les heures",
+      "ipa": "[sɛl ki sɔn tu le ʒuʁ tut le nɥi tut lez‿œʁ]",
+      "ear": "塞勒 基 索恩 图 莱 茹赫 图特 莱 恩于伊 图特 莱兹 厄赫",
+      "meaning": "日日夜夜，时刻不息",
+      "sourceIPA": "/sɛl ki sɔn tu le ʒuʁ tut le nɥi tut lez œʁ/",
+      "sourceLineId": "notre-dame-de-paris-30-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4486,
+        "similarity": 0.856,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4495,
+      "sourceText": "Celles qui sonnent quand on prie, celles qui sonnent quand on pleure",
+      "ipa": "[sɛl ki sɔn kɑ̃t‿ɔ̃ pʁi sɛl ki sɔn kɑ̃t‿ɔ̃ plœʁ]",
+      "ear": "塞勒 基 索恩 康特 翁 普希 塞勒 基 索恩 康特 翁 普勒厄赫",
+      "meaning": "它为祈祷而鸣，它为哭泣而鸣",
+      "sourceIPA": "/sɛl ki sɔn kɑ̃t ɔ̃ pʁi sɛl ki sɔn kɑ̃t ɔ̃ plœʁ/",
+      "sourceLineId": "notre-dame-de-paris-30-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4495,
+        "similarity": 0.821,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4497.667,
+      "sourceText": "Celles qui sonnent pour le peuple qui se lève de bonne heure",
+      "ipa": "[sɛl ki sɔn puʁ lə pøpl ki sə lɛv də bɔn‿œʁ]",
+      "ear": "塞勒 基 索恩 普赫 勒 珀厄普勒 基 瑟 莱弗 德 博恩 厄赫",
+      "meaning": "为唤醒早起的人而鸣",
+      "sourceIPA": "/sɛl ki sɔn puʁ lə pøpl ki sə lɛv də bɔn œʁ/",
+      "sourceLineId": "notre-dame-de-paris-30-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4495,
+        "similarity": 0.821,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4500.333,
+      "sourceText": "Pour la fête des Rameaux, pour la Quasimodo",
+      "ipa": "[puʁ la fɛt de ʁamo puʁ la kazimodo]",
+      "ear": "普赫 拉 费特 德 哈莫 普赫 拉 卡齐莫多",
+      "meaning": "为了棕枝主日，为了复活节后的第一个主日",
+      "sourceIPA": "/puʁ la fɛt de ʁamo puʁ la kazimodo/",
+      "sourceLineId": "notre-dame-de-paris-30-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4495,
+        "similarity": 0.821,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4503,
+      "sourceText": "Pour le jour de Noël et le jour de la Toussaint",
+      "ipa": "[puʁ lə ʒuʁ də nɔɛl e lə ʒuʁ də la tusɛ̃]",
+      "ear": "普赫 勒 茹赫 德 诺艾勒 诶 勒 茹赫 德 拉 图森",
+      "meaning": "为了圣诞节，为了朝圣节",
+      "sourceIPA": "/puʁ lə ʒuʁ də nɔɛl e lə ʒuʁ də la tusɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-30-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4503,
+        "similarity": 0.976,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4507.333,
+      "sourceText": "Pour l'Annonciation, pour la Résurrection",
+      "ipa": "[puʁ lanɔ̃sjasjɔ̃ puʁ la ʁezyʁɛksjɔ̃]",
+      "ear": "普赫 拉农斯耶阿斯耶翁 普赫 拉 赫齐于赫克斯耶翁",
+      "meaning": "为了圣告日，为了复活日",
+      "sourceIPA": "/puʁ lanɔ̃sjasjɔ̃ puʁ la ʁezyʁɛksjɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-30-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4503,
+        "similarity": 0.976,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4511,
+      "sourceText": "Pour la St-Valentin et pour le Vendredi Saint",
+      "ipa": "[puʁ la sɛ̃valɑ̃tɛ̃ e puʁ lə vɑ̃dʁədi sɛ̃]",
+      "ear": "普赫 拉 森瓦朗坦 诶 普赫 勒 旺德赫迪 森",
+      "meaning": "为了情人节，为了受难日",
+      "sourceIPA": "/puʁ la sɛ̃valɑ̃tɛ̃ e puʁ lə vɑ̃dʁədi sɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-30-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4511,
+        "similarity": 0.975,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4514.64,
+      "sourceText": "Pour les célébrations et pour les processions",
+      "ipa": "[puʁ le selebʁasjɔ̃ e puʁ le pʁosɛsjɔ̃]",
+      "ear": "普赫 莱 塞莱布哈斯耶翁 诶 普赫 莱 普霍塞斯耶翁",
+      "meaning": "为了节庆，为了游行",
+      "sourceIPA": "/puʁ le selebʁasjɔ̃z e puʁ le pʁosɛsjɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-30-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4511,
+        "similarity": 0.975,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4518,
+      "sourceText": "La plus belle, c'est celle qu'on appelle la Fête-Dieu",
+      "ipa": "[la ply bɛl sɛ sɛl kɔ̃ apɛl la fɛtdjø]",
+      "ear": "拉 普吕 贝勒 塞 塞勒 孔 阿佩勒 拉 费特德耶厄",
+      "meaning": "最美的那一口，是人们称作“圣体节”的钟",
+      "sourceIPA": "/la ply bɛl sɛ sɛl kɔ̃n apɛl la fɛtdjø/",
+      "sourceLineId": "notre-dame-de-paris-30-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4518,
+        "similarity": 0.705,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4521.348,
+      "sourceText": "Jour de l'An, jour des rois, jour de Pâques, jour de joie",
+      "ipa": "[ʒuʁ də lɑ̃ ʒuʁ de ʁwa ʒuʁ də pak ʒuʁ də ʒwa]",
+      "ear": "茹赫 德 朗 茹赫 德 赫乌阿 茹赫 德 帕克 茹赫 德 日乌阿",
+      "meaning": "元旦节，主显节，复活节，欢乐节",
+      "sourceIPA": "/ʒuʁ də lɑ̃ ʒuʁ de ʁwa ʒuʁ də pak ʒuʁ də ʒwa/",
+      "sourceLineId": "notre-dame-de-paris-30-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4518,
+        "similarity": 0.705,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4525,
+      "sourceText": "Jour de la Pentecôte avec ses langues de feu",
+      "ipa": "[ʒuʁ də la pɑ̃tkot‿avɛk se lɑ̃ɡ də fø]",
+      "ear": "茹赫 德 拉 庞特科特 阿韦克 塞 朗格 德 弗厄",
+      "meaning": "还有以火舌传告的圣灵降临节",
+      "sourceIPA": "/ʒuʁ də la pɑ̃tkot avɛk se lɑ̃ɡ də fø/",
+      "sourceLineId": "notre-dame-de-paris-30-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4525,
+        "similarity": 0.625,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4528.348,
+      "sourceText": "Pour les confirmations et pour les communions",
+      "ipa": "[puʁ le kɔ̃fiʁmasjɔ̃ e puʁ le kɔmynjɔ̃]",
+      "ear": "普赫 莱 孔菲赫玛斯耶翁 诶 普赫 莱 科米于恩耶翁",
+      "meaning": "为了坚振礼，也为了圣餐礼",
+      "sourceIPA": "/puʁ le kɔ̃fiʁmasjɔ̃z e puʁ le kɔmynjɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-30-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4525,
+        "similarity": 0.625,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4532,
+      "sourceText": "L'angélus et le glas, dies irae dies illa",
+      "ipa": "[lɑ̃ʒely e lə ɡla di iʁe di ila]",
+      "ear": "朗热吕 诶 勒 格拉 迪 伊赫 迪 伊拉",
+      "meaning": "三钟经与丧钟，“愤怒之日，那一天”",
+      "sourceIPA": "/lɑ̃ʒely e lə ɡla diz iʁe diz ila/",
+      "sourceLineId": "notre-dame-de-paris-30-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4532,
+        "similarity": 0.883,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4535.5,
+      "sourceText": "Le jour de l'Ascension, le jour de l'Assomption",
+      "ipa": "[lə ʒuʁ də lasɑ̃sjɔ̃ lə ʒuʁ də lasɔ̃psjɔ̃]",
+      "ear": "勒 茹赫 德 拉桑斯耶翁 勒 茹赫 德 拉松普斯耶翁",
+      "meaning": "为了耶稣升天，为了圣母升天",
+      "sourceIPA": "/lə ʒuʁ də lasɑ̃sjɔ̃ lə ʒuʁ də lasɔ̃psjɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-30-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4532,
+        "similarity": 0.883,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4539,
+      "sourceText": "Pour tous les Hosanna et tous les alléluias",
+      "ipa": "[puʁ tu lez‿ozana e tu lez‿alelyja]",
+      "ear": "普赫 图 莱兹 奥扎纳 诶 图 莱兹 阿莱吕耶阿",
+      "meaning": "为了高呼的和散那与哈利路亚",
+      "sourceIPA": "/puʁ tu lez ozana e tu lez alelyja/",
+      "sourceLineId": "notre-dame-de-paris-30-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4539,
+        "similarity": 0.747,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4548,
+      "sourceText": "Mais celle que je préfère, parmi toutes ces femmes de fer",
+      "ipa": "[mɛ sɛl kə ʒə pʁefɛʁ paʁmi tut se fam də fɛʁ]",
+      "ear": "梅 塞勒 克 热 普赫费赫 帕赫米 图特 塞 法姆 德 费赫",
+      "meaning": "但在这些铁娘子中，我最喜欢的",
+      "sourceIPA": "/mɛ sɛl kə ʒə pʁefɛʁ paʁmi tut se fam də fɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-30-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4548,
+        "similarity": 0.668,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4556,
+      "sourceText": "Ce sont les trois Maries qui sont mes meilleures amies",
+      "ipa": "[sə sɔ̃ le tʁwa maʁi ki sɔ̃ me mɛjœʁ‿ami]",
+      "ear": "瑟 松 莱 特赫乌阿 玛希 基 松 梅 梅耶厄赫 阿米",
+      "meaning": "是三位玛利亚，我最亲近的朋友",
+      "sourceIPA": "/sə sɔ̃ le tʁwa maʁi ki sɔ̃ me mɛjœʁz ami/",
+      "sourceLineId": "notre-dame-de-paris-30-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4556,
+        "similarity": 0.556,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4566,
+      "sourceText": "Il y a la petite Marie pour les enfants qu'on met en terre",
+      "ipa": "[il‿i a la pətit maʁi puʁ lez‿ɑ̃fɑ̃ kɔ̃ mɛ ɑ̃ tɛʁ]",
+      "ear": "伊勒 伊 阿 拉 珀蒂特 玛希 普赫 莱兹 昂芳 孔 梅 昂 泰赫",
+      "meaning": "小玛利亚是用来保佑早夭的婴孩",
+      "sourceIPA": "/il i a la pətit maʁi puʁ lez ɑ̃fɑ̃ kɔ̃ mɛt ɑ̃ tɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-30-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4566,
+        "similarity": 0.562,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4574,
+      "sourceText": "Il y a la grande Marie pour les marins qui partent en mer",
+      "ipa": "[il‿i a la ɡʁɑ̃d maʁi puʁ le maʁɛ̃ ki paʁt‿ɑ̃ mɛʁ]",
+      "ear": "伊勒 伊 阿 拉 格杭德 玛希 普赫 莱 玛汉 基 帕赫特 昂 梅赫",
+      "meaning": "中玛利亚是用来保佑水手出海",
+      "sourceIPA": "/il i a la ɡʁɑ̃d maʁi puʁ le maʁɛ̃ ki paʁtt ɑ̃ mɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-30-039",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4574,
+        "similarity": 0.526,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4582,
+      "sourceText": "Mais quand je sonne la grosse Marie pour les amants qui se marient",
+      "ipa": "[mɛ kɑ̃ ʒə sɔn la ɡʁos maʁi puʁ lez‿amɑ̃ ki sə maʁi]",
+      "ear": "梅 康 热 索恩 拉 格霍斯 玛希 普赫 莱兹 阿芒 基 瑟 玛希",
+      "meaning": "而当我敲响大玛利亚，是用来祝福婚礼的新人",
+      "sourceIPA": "/mɛ kɑ̃ ʒə sɔn la ɡʁos maʁi puʁ lez amɑ̃ ki sə maʁi/",
+      "sourceLineId": "notre-dame-de-paris-30-040",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4582,
+        "similarity": 0.594,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4590,
+      "sourceText": "C'est pas que j'aie le cœur à rire",
+      "ipa": "[sɛ pa kə ʒɛ lə kœʁ‿a ʁiʁ]",
+      "ear": "塞 帕 克 热 勒 克厄赫 阿 希赫",
+      "meaning": "我的心里却并不开心",
+      "sourceIPA": "/sɛ pa kə ʒɛ lə kœʁ a ʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-30-041",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4590,
+        "similarity": 0.346,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4595.2,
+      "sourceText": "je l'aurais plutôt à mourir",
+      "ipa": "[ʒə loʁɛ plyto a muʁiʁ]",
+      "ear": "热 洛赫 普吕托 阿 穆希赫",
+      "meaning": "我宁可死去",
+      "sourceIPA": "/ʒə loʁɛ plyto a muʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-30-042",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4590,
+        "similarity": 0.346,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4601,
+      "sourceText": "De les voir si joyeux, de les voir si heureux",
+      "ipa": "[də le vwaʁ si ʒwajø də le vwaʁ si øʁø]",
+      "ear": "德 莱 弗乌阿赫 西 日乌阿耶厄 德 莱 弗乌阿赫 西 厄赫厄",
+      "meaning": "目睹他们如此快乐，如此幸福",
+      "sourceIPA": "/də le vwaʁ si ʒwajø də le vwaʁ si øʁø/",
+      "sourceLineId": "notre-dame-de-paris-30-043",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4601,
+        "similarity": 0.651,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4604.231,
+      "sourceText": "Moi qu'aucune femme ne regardera jamais dans les yeux",
+      "ipa": "[mwa kokyn fam nə ʁəɡaʁdəʁa ʒamɛ dɑ̃ lez‿jø]",
+      "ear": "姆乌阿 科基于恩 法姆 讷 赫嘎赫德哈 扎梅 当 莱兹 耶厄",
+      "meaning": "却从没有女人注视我的双眼",
+      "sourceIPA": "/mwa kokyn fam nə ʁəɡaʁdəʁa ʒamɛ dɑ̃ lez jø/",
+      "sourceLineId": "notre-dame-de-paris-30-044",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4601,
+        "similarity": 0.651,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4608,
+      "sourceText": "De les voir convoler, de les voir s'envoler",
+      "ipa": "[də le vwaʁ kɔ̃vole də le vwaʁ sɑ̃vole]",
+      "ear": "德 莱 弗乌阿赫 孔沃莱 德 莱 弗乌阿赫 桑沃莱",
+      "meaning": "目睹他们一同离去，携手并肩",
+      "sourceIPA": "/də le vwaʁ kɔ̃vole də le vwaʁ sɑ̃vole/",
+      "sourceLineId": "notre-dame-de-paris-30-045",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4608,
+        "similarity": 0.613,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4611.652,
+      "sourceText": "Au milieu des étoiles sous la voûte des cieux",
+      "ipa": "[o miljø dez‿etwal su la vut de sjø]",
+      "ear": "奥 米勒耶厄 德兹 诶特乌阿勒 苏 拉 乌特 德 斯耶厄",
+      "meaning": "飞向苍穹下的群星",
+      "sourceIPA": "/o miljø dez etwal su la vut de sjø/",
+      "sourceLineId": "notre-dame-de-paris-30-046",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4608,
+        "similarity": 0.613,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4615,
+      "sourceText": "Toutes les cloches que je sonne, Kyrie Eleison",
+      "ipa": "[tut le kloʃ kə ʒə sɔn kiʁi elɛzɔ̃]",
+      "ear": "图特 莱 克洛什 克 热 索恩 基希 诶莱宗",
+      "meaning": "所有我敲响的钟啊，愿主垂怜",
+      "sourceIPA": "/tut le kloʃ kə ʒə sɔn kiʁi elɛzɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-30-047",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4615,
+        "similarity": 0.918,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4618.208,
+      "sourceText": "Hosanna alléluia, dies irae dies illa",
+      "ipa": "[ozana alelyja di iʁe di ila]",
+      "ear": "奥扎纳 阿莱吕耶阿 迪 伊赫 迪 伊拉",
+      "meaning": "和散那哈利路亚和安魂弥撒",
+      "sourceIPA": "/ozana alelyja diz iʁe diz ila/",
+      "sourceLineId": "notre-dame-de-paris-30-048",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4615,
+        "similarity": 0.918,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4622,
+      "sourceText": "Toutes ces cloches de malheur, toutes ces cloches de bonheur",
+      "ipa": "[tut se kloʃ də malœʁ tut se kloʃ də bɔnœʁ]",
+      "ear": "图特 塞 克洛什 德 玛勒厄赫 图特 塞 克洛什 德 博讷厄赫",
+      "meaning": "祈祷的钟声，庆祝的钟声",
+      "sourceIPA": "/tut se kloʃ də malœʁ tut se kloʃ də bɔnœʁ/",
+      "sourceLineId": "notre-dame-de-paris-30-049",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4622,
+        "similarity": 0.604,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4629.8,
+      "sourceText": "Toutes ces cloches qui n'ont jamais encore sonné pour moi",
+      "ipa": "[tut se kloʃ ki nɔ̃ ʒamɛ ɑ̃kɔʁ sɔne puʁ mwa]",
+      "ear": "图特 塞 克洛什 基 农 扎梅 昂科赫 索内 普赫 姆乌阿",
+      "meaning": "这些钟声从未为我敲响",
+      "sourceIPA": "/tut se kloʃ ki nɔ̃ ʒamɛz ɑ̃kɔʁ sɔne puʁ mwa/",
+      "sourceLineId": "notre-dame-de-paris-30-050",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4622,
+        "similarity": 0.604,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4653,
+      "sourceText": "Les cloches que je sonne sont mes amies, sont mes amantes",
+      "ipa": "[le kloʃ kə ʒə sɔn sɔ̃ mez‿ami sɔ̃ mez‿amɑ̃t]",
+      "ear": "莱 克洛什 克 热 索恩 松 梅兹 阿米 松 梅兹 阿芒特",
+      "meaning": "鸣响的钟声是我的朋友，我的情人",
+      "sourceIPA": "/le kloʃ kə ʒə sɔn sɔ̃ mez ami sɔ̃ mez amɑ̃t/",
+      "sourceLineId": "notre-dame-de-paris-30-051",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4653,
+        "similarity": 0.69,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4661,
+      "sourceText": "Je veux qu'elles claironnent, si Esméralda est vivante",
+      "ipa": "[ʒə vø kɛl klɛʁɔn si ɛsmeʁalda ɛ vivɑ̃t]",
+      "ear": "热 弗厄 凯勒 克莱霍恩 西 艾斯梅哈勒达 艾 维旺特",
+      "meaning": "只要她还在这里，我便要它们大声喊出",
+      "sourceIPA": "/ʒə vø kɛl klɛʁɔn si ɛsmeʁalda ɛ vivɑ̃t/",
+      "sourceLineId": "notre-dame-de-paris-30-052",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4661,
+        "similarity": 0.451,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4676,
+      "sourceText": "Pour dire au monde que Quasimodo aime Esméralda.",
+      "ipa": "[puʁ diʁ‿o mɔ̃d kə kazimodo ɛm‿ɛsmeʁalda]",
+      "ear": "普赫 迪赫 奥 蒙德 克 卡齐莫多 艾姆 艾斯梅哈勒达",
+      "meaning": "卡西莫多对艾丝美拉达的爱",
+      "sourceIPA": "/puʁ diʁ o mɔ̃d kə kazimodo ɛm ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-30-053",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4676,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    }
+  ]
+}

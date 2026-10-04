@@ -8,15 +8,146 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 35,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Phoebus",
+      "start": 5388,
+      "duration": 0.457
+    },
+    {
+      "text": "Si par bonheur il n'est pas mort",
+      "start": 5388.457,
+      "duration": 1.829
+    },
+    {
+      "text": "Dites-lui que je l'aime encore",
+      "start": 5390.286,
+      "duration": 1.6
+    },
+    {
+      "text": "Phoebus",
+      "start": 5391.886,
+      "duration": 0.457
+    },
+    {
+      "text": "Si tu m'entends viens me sauver",
+      "start": 5392.343,
+      "duration": 1.828
+    },
+    {
+      "text": "Viens leur crier la vérité",
+      "start": 5394.171,
+      "duration": 1.829
+    },
+    {
+      "text": "Phoebus",
+      "start": 5396,
+      "duration": 1.3
+    },
+    {
+      "text": "Dis-leur que je ne t'ai pas tué",
+      "start": 5397.3,
+      "duration": 5.85
+    },
+    {
+      "text": "Phoebus",
+      "start": 5405,
+      "duration": 1.0
+    },
+    {
+      "text": "Ce couteau que je possédais",
+      "start": 5406.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Je l'ai posé sur le plancher",
+      "start": 5410.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Phoebus",
+      "start": 5414,
+      "duration": 0.889
+    },
+    {
+      "text": "Cet homme en noir qui nous suivait",
+      "start": 5414.889,
+      "duration": 3.555
+    },
+    {
+      "text": "Sur toi je l'ai vu se pencher",
+      "start": 5418.444,
+      "duration": 3.556
+    },
+    {
+      "text": "Phoebus",
+      "start": 5422,
+      "duration": 1.3
+    },
+    {
+      "text": "De mon couteau il t'a frappé",
+      "start": 5423.3,
+      "duration": 5.2
+    },
+    {
+      "text": "Phoebus",
+      "start": 5432,
+      "duration": 1.059
+    },
+    {
+      "text": "Promets-moi que tu garderas",
+      "start": 5433.059,
+      "duration": 4.235
+    },
+    {
+      "text": "Le souvenir d'Esméralda",
+      "start": 5437.294,
+      "duration": 3.706
+    },
+    {
+      "text": "Phoebus",
+      "start": 5441,
+      "duration": 1.0
+    },
+    {
+      "text": "Celle qui dansait sur le parvis",
+      "start": 5442.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Et qui t'avais donné sa vie",
+      "start": 5446.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Phoebus",
+      "start": 5450,
+      "duration": 1.3
+    },
+    {
+      "text": "Oh! viens m'emporter loin d'ici",
+      "start": 5451.3,
+      "duration": 5.2
+    },
+    {
+      "text": "Vers les montagnes d'Andalousie",
+      "start": 5459,
+      "duration": 5.2
+    },
+    {
+      "text": "Phoebus",
+      "start": 5464.2,
+      "duration": 1.3
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5380",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -72,6 +203,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

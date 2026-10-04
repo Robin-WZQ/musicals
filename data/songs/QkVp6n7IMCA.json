@@ -8,15 +8,111 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 47,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Au nom du roi",
+      "start": 7260,
+      "duration": 1.524
+    },
+    {
+      "text": "Ordre est ici rendu",
+      "start": 7261.524,
+      "duration": 2.286
+    },
+    {
+      "text": "Par la Cour de Paris",
+      "start": 7263.81,
+      "duration": 2.285
+    },
+    {
+      "text": "Fille Esméralda",
+      "start": 7266.095,
+      "duration": 1.905
+    },
+    {
+      "text": "Vous serez pendue",
+      "start": 7268,
+      "duration": 2.174
+    },
+    {
+      "text": "Pour cause de sorcellerie",
+      "start": 7270.174,
+      "duration": 2.609
+    },
+    {
+      "text": "Quant à vous sans-papiers",
+      "start": 7272.783,
+      "duration": 2.608
+    },
+    {
+      "text": "Vous serez expulsés",
+      "start": 7275.391,
+      "duration": 2.609
+    },
+    {
+      "text": "Exilés",
+      "start": 7278,
+      "duration": 1.95
+    },
+    {
+      "text": "Déportés",
+      "start": 7279.95,
+      "duration": 1.95
+    },
+    {
+      "text": "Expulsés",
+      "start": 7281.9,
+      "duration": 1.95
+    },
+    {
+      "text": "Exilés",
+      "start": 7287,
+      "duration": 1.95
+    },
+    {
+      "text": "Déportés",
+      "start": 7288.95,
+      "duration": 1.95
+    },
+    {
+      "text": "Expulsés",
+      "start": 7290.9,
+      "duration": 1.95
+    },
+    {
+      "text": "Exilés",
+      "start": 7295,
+      "duration": 2.5
+    },
+    {
+      "text": "Déportés",
+      "start": 7297.5,
+      "duration": 2.5
+    },
+    {
+      "text": "(Expulsés)",
+      "start": 7305,
+      "duration": 1.95
+    },
+    {
+      "text": "(Exilés)",
+      "start": 7306.95,
+      "duration": 1.95
+    },
+    {
+      "text": "(Déportés)",
+      "start": 7308.9,
+      "duration": 1.95
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=7260",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -60,6 +156,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

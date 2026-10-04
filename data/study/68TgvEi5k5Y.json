@@ -1,0 +1,122 @@
+{
+  "videoId": "68TgvEi5k5Y",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=3430"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 3440,
+      "sourceText": "Je sens ma vie qui bascule",
+      "ipa": "[ʒə sɑ̃ ma vi ki baskyl]",
+      "ear": "热 桑 玛 维 基 巴斯基于勒",
+      "meaning": "我感到我的生命摆荡",
+      "sourceIPA": "/ʒə sɑ̃ ma vi ki baskyl/",
+      "sourceLineId": "notre-dame-de-paris-23-001",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3440,
+        "similarity": 0.43,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 3442.026,
+      "sourceText": "Vers une terre inconnue",
+      "ipa": "[vɛʁ‿yn tɛʁ‿ɛ̃kɔny]",
+      "ear": "韦赫 于恩 泰赫 安科尼于",
+      "meaning": "向一个未知的领地",
+      "sourceIPA": "/vɛʁ yn tɛʁ ɛ̃kɔny/",
+      "sourceLineId": "notre-dame-de-paris-23-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3440,
+        "similarity": 0.43,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 3443.763,
+      "sourceText": "Je vois la foule qui recule",
+      "ipa": "[ʒə vwa la ful ki ʁəkyl]",
+      "ear": "热 弗乌阿 拉 富勒 基 赫基于勒",
+      "meaning": "我看到人群退去",
+      "sourceIPA": "/ʒə vwa la ful ki ʁəkyl/",
+      "sourceLineId": "notre-dame-de-paris-23-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3440,
+        "similarity": 0.43,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 3445.789,
+      "sourceText": "Quand je marche dans la rue",
+      "ipa": "[kɑ̃ ʒə maʁʃ dɑ̃ la ʁy]",
+      "ear": "康 热 玛赫什 当 拉 许",
+      "meaning": "当我步于街道",
+      "sourceIPA": "/kɑ̃ ʒə maʁʃ dɑ̃ la ʁy/",
+      "sourceLineId": "notre-dame-de-paris-23-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3440,
+        "similarity": 0.43,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 3447.526,
+      "sourceText": "Je suis un homme mis à nu",
+      "ipa": "[ʒə sɥi œ̃n‿ɔm mi a ny]",
+      "ear": "热 斯于伊 恩恩 哦姆 米 阿 尼于",
+      "meaning": "我有如全身赤裸",
+      "sourceIPA": "/ʒə sɥiz œ̃n ɔm mi a ny/",
+      "sourceLineId": "notre-dame-de-paris-23-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3440,
+        "similarity": 0.43,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 3449.553,
+      "sourceText": "Un homme mis à nu",
+      "ipa": "[œ̃n‿ɔm mi a ny]",
+      "ear": "恩恩 哦姆 米 阿 尼于",
+      "meaning": "全身赤裸",
+      "sourceIPA": "/œ̃n ɔm mi a ny/",
+      "sourceLineId": "notre-dame-de-paris-23-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3440,
+        "similarity": 0.43,
+        "groupSize": 6
+      }
+    }
+  ]
+}

@@ -8,15 +8,191 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 20,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Mes amies les gargouilles qui veillent sur toi",
+      "start": 3032,
+      "duration": 6.5
+    },
+    {
+      "text": "Te protégeront de tous les imbéciles",
+      "start": 3040,
+      "duration": 6.5
+    },
+    {
+      "text": "Quand tu auras besoin d'un abri",
+      "start": 3047,
+      "duration": 5.85
+    },
+    {
+      "text": "Tu n'auras qu'à venir demander asile",
+      "start": 3053,
+      "duration": 6.188
+    },
+    {
+      "text": "Notre-Dame de Paris",
+      "start": 3059.188,
+      "duration": 2.812
+    },
+    {
+      "text": "C'est ma maison mon nid",
+      "start": 3062,
+      "duration": 3.9
+    },
+    {
+      "text": "C'est ma ville c'est ma vie",
+      "start": 3065.9,
+      "duration": 3.9
+    },
+    {
+      "text": "Mon air mon toit mon lit",
+      "start": 3070,
+      "duration": 3.5
+    },
+    {
+      "text": "C'est ma chanson mon cri",
+      "start": 3073.5,
+      "duration": 3.5
+    },
+    {
+      "text": "Ma raison ma folie",
+      "start": 3077,
+      "duration": 3.0
+    },
+    {
+      "text": "Ma passion mon pays",
+      "start": 3080.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Ma prison ma patrie",
+      "start": 3083.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Tes amies les gargouilles sont aussi mes amies",
+      "start": 3086,
+      "duration": 6.0
+    },
+    {
+      "text": "C'est elles qui me font rire le jour quand je m'ennuie",
+      "start": 3092,
+      "duration": 7.8
+    },
+    {
+      "text": "Et toi tu leur ressembles et tu me plais pour ça",
+      "start": 3100,
+      "duration": 6.0
+    },
+    {
+      "text": "Même si j'ai peur de toi toujours quand je te vois",
+      "start": 3106.0,
+      "duration": 6.0
+    },
+    {
+      "text": "Dans ma maison à moi",
+      "start": 3112,
+      "duration": 3.5
+    },
+    {
+      "text": "Il y fait toujours beau",
+      "start": 3115.5,
+      "duration": 3.5
+    },
+    {
+      "text": "L'hiver il fait moins froid",
+      "start": 3119,
+      "duration": 3.5
+    },
+    {
+      "text": "L'été il fait moins chaud",
+      "start": 3122.5,
+      "duration": 3.5
+    },
+    {
+      "text": "Tu viendras quand tu veux",
+      "start": 3133,
+      "duration": 3.9
+    },
+    {
+      "text": "Quelle que soit la saison",
+      "start": 3136.9,
+      "duration": 3.9
+    },
+    {
+      "text": "Ma maison si tu veux",
+      "start": 3140.8,
+      "duration": 3.9
+    },
+    {
+      "text": "Ce sera ta maison",
+      "start": 3144.7,
+      "duration": 3.9
+    },
+    {
+      "text": "Quand tu auras besoin d'un abri",
+      "start": 3155,
+      "duration": 5.85
+    },
+    {
+      "text": "Tu n'auras qu'à venir demander asile",
+      "start": 3162,
+      "duration": 5.824
+    },
+    {
+      "text": "Dans ma maison à moi",
+      "start": 3167.824,
+      "duration": 3.176
+    },
+    {
+      "text": "Il y fait toujours beau",
+      "start": 3171,
+      "duration": 3.5
+    },
+    {
+      "text": "L'hiver il fait moins froid",
+      "start": 3174.5,
+      "duration": 3.5
+    },
+    {
+      "text": "L'été il fait moins chaud",
+      "start": 3178,
+      "duration": 3.5
+    },
+    {
+      "text": "Tu viendras quand tu veux",
+      "start": 3181.5,
+      "duration": 3.5
+    },
+    {
+      "text": "Quelle que soit la saison",
+      "start": 3185,
+      "duration": 1.75
+    },
+    {
+      "text": "Ma maison si tu veux",
+      "start": 3186.75,
+      "duration": 1.75
+    },
+    {
+      "text": "Ce sera ta maison",
+      "start": 3188.5,
+      "duration": 1.75
+    },
+    {
+      "text": "Ce sera ta maison",
+      "start": 3190.25,
+      "duration": 1.75
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=3026",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -116,6 +292,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

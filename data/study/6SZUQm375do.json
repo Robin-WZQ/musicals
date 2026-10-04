@@ -1,0 +1,458 @@
+{
+  "videoId": "6SZUQm375do",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5479"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 5484,
+      "sourceText": "J'étais un homme heureux avant de te connaître",
+      "ipa": "[ʒetɛ œ̃n‿ɔm‿øʁø avɑ̃ də tə kɔnɛtʁ]",
+      "ear": "热泰 恩恩 哦姆 厄赫厄 阿旺 德 特 科奈特赫",
+      "meaning": "认识你之前我是何等幸福",
+      "sourceIPA": "/ʒetɛz œ̃n ɔm øʁøz avɑ̃ də tə kɔnɛtʁ/",
+      "sourceLineId": "notre-dame-de-paris-37-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5484,
+        "similarity": 0.48,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5489.217,
+      "sourceText": "J'avais refoulé tout au fond de mon être",
+      "ipa": "[ʒavɛ ʁəfule tut‿o fɔ̃ də mɔ̃n‿ɛtʁ]",
+      "ear": "扎韦 赫富莱 图特 奥 丰 德 蒙恩 艾特赫",
+      "meaning": "我曾把一切压在内心深处",
+      "sourceIPA": "/ʒavɛ ʁəfule tut o fɔ̃ də mɔ̃n ɛtʁ/",
+      "sourceLineId": "notre-dame-de-paris-37-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5484,
+        "similarity": 0.48,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5494,
+      "sourceText": "Cette force du sexe étouffée dans mon adolescence",
+      "ipa": "[sɛt fɔʁs dy sɛks‿etufe dɑ̃ mɔ̃n‿adolɛsɑ̃s]",
+      "ear": "塞特 佛赫斯 迪于 塞克斯 诶图费 当 蒙恩 阿多莱桑斯",
+      "meaning": "这股性欲在我的青春期便已被压抑",
+      "sourceIPA": "/sɛt fɔʁs dy sɛks etufe dɑ̃ mɔ̃n adɔlɛsɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-37-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5494,
+        "similarity": 0.608,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5499.296,
+      "sourceText": "Je n'avais que deux maîtresses, la religion et la science",
+      "ipa": "[ʒə navɛ kə dø mɛtʁɛs la ʁəliʒjɔ̃ e la sjɑ̃s]",
+      "ear": "热 纳韦 克 德厄 梅特赫斯 拉 赫利日耶翁 诶 拉 斯耶昂斯",
+      "meaning": "仅有的两位情人是宗教和科学",
+      "sourceIPA": "/ʒə navɛ kə dø mɛtʁɛs la ʁəliʒjɔ̃ e la sjɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-37-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5494,
+        "similarity": 0.608,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5505,
+      "sourceText": "Oh! être prêtre et aimer une femme",
+      "ipa": "[ɔ ɛtʁ pʁɛtʁ e ɛme yn fam]",
+      "ear": "哦 艾特赫 普赫特赫 诶 艾梅 于恩 法姆",
+      "meaning": "啊！身为神父，心仪女郎",
+      "sourceIPA": "/ɔ ɛtʁ pʁɛtʁ e ɛme yn fam/",
+      "sourceLineId": "notre-dame-de-paris-37-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5505,
+        "similarity": 0.215,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5509.0,
+      "sourceText": "L'aimer de toutes les fureurs de son âme!",
+      "ipa": "[lɛme də tut le fyʁœʁ də sɔ̃ am]",
+      "ear": "莱梅 德 图特 莱 菲于赫厄赫 德 松 阿姆",
+      "meaning": "爱她 用尽灵魂之激狂",
+      "sourceIPA": "/lɛme də tut le fyʁœʁ də sɔ̃ am/",
+      "sourceLineId": "notre-dame-de-paris-37-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5505,
+        "similarity": 0.215,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5526,
+      "sourceText": "Contre vents et marées j'étais inébranlable",
+      "ipa": "[kɔ̃tʁ vɑ̃ e maʁe ʒetɛ inebʁɑ̃labl]",
+      "ear": "孔特赫 旺 诶 玛赫 热泰 伊内布杭拉布勒",
+      "meaning": "我曾抵御风浪屹立不摇",
+      "sourceIPA": "/kɔ̃tʁ vɑ̃z e maʁe ʒetɛz inebʁɑ̃labl/",
+      "sourceLineId": "notre-dame-de-paris-37-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5526,
+        "similarity": 0.302,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5531.238,
+      "sourceText": "Droit et fier comme une tour de cathédrale",
+      "ipa": "[dʁwa e fjɛʁ kɔm‿yn tuʁ də katedʁal]",
+      "ear": "德赫乌阿 诶 弗耶艾赫 科姆 于恩 图赫 德 卡特德哈勒",
+      "meaning": "如教堂高塔般正直骄傲",
+      "sourceIPA": "/dʁwa e fjɛʁ kɔm yn tuʁ də katedʁal/",
+      "sourceLineId": "notre-dame-de-paris-37-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5526,
+        "similarity": 0.302,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5536,
+      "sourceText": "Quand tu vins comme un ver me ronger par dedans",
+      "ipa": "[kɑ̃ ty vɛ̃ kɔm‿œ̃ vɛʁ mə ʁɔ̃ʒe paʁ dədɑ̃]",
+      "ear": "康 蒂于 万 科姆 恩 韦赫 默 洪热 帕赫 德当",
+      "meaning": "怎料想你像虫豸钻进我心头啮咬",
+      "sourceIPA": "/kɑ̃ ty vɛ̃ kɔm œ̃ vɛʁ mə ʁɔ̃ʒe paʁ dədɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-37-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5536,
+        "similarity": 0.558,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5541.0,
+      "sourceText": "Et réveiller en moi le feu d'un vieux volcan",
+      "ipa": "[e ʁevɛje ɑ̃ mwa lə fø dœ̃ vjø vɔlkɑ̃]",
+      "ear": "诶 赫韦耶诶 昂 姆乌阿 勒 弗厄 丹 弗耶厄 沃勒康",
+      "meaning": "于我心中唤醒沉埋已久的火山焰苗",
+      "sourceIPA": "/e ʁevɛje ɑ̃ mwa lə fø dœ̃ vjø vɔlkɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-37-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5536,
+        "similarity": 0.558,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5546,
+      "sourceText": "Oh! être prêtre et aimer une femme",
+      "ipa": "[ɔ ɛtʁ pʁɛtʁ e ɛme yn fam]",
+      "ear": "哦 艾特赫 普赫特赫 诶 艾梅 于恩 法姆",
+      "meaning": "啊！身为神父，心仪女郎",
+      "sourceIPA": "/ɔ ɛtʁ pʁɛtʁ e ɛme yn fam/",
+      "sourceLineId": "notre-dame-de-paris-37-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5546,
+        "similarity": 0.215,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5550.444,
+      "sourceText": "L'aimer de toutes les fureurs de son âme!",
+      "ipa": "[lɛme də tut le fyʁœʁ də sɔ̃ am]",
+      "ear": "莱梅 德 图特 莱 菲于赫厄赫 德 松 阿姆",
+      "meaning": "爱她 用尽灵魂之激狂",
+      "sourceIPA": "/lɛme də tut le fyʁœʁ də sɔ̃ am/",
+      "sourceLineId": "notre-dame-de-paris-37-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5546,
+        "similarity": 0.215,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5567,
+      "sourceText": "Je vivais loin des femmes, flagellais dans ma chair",
+      "ipa": "[ʒə vivɛ lwɛ̃ de fam flaʒɛlɛ dɑ̃ ma ʃɛʁ]",
+      "ear": "热 维韦 勒乌安 德 法姆 弗拉热莱 当 玛 谢赫",
+      "meaning": "我曾远离女人，鞭挞己之肉身",
+      "sourceIPA": "/ʒə vivɛ lwɛ̃ de fam flaʒɛlɛ dɑ̃ ma ʃɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-37-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5567,
+        "similarity": 0.632,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5572.5,
+      "sourceText": "Quand au cœur de la nuit, ce fût comme un éclair",
+      "ipa": "[kɑ̃t‿o kœʁ də la nɥi sə fy kɔm‿œ̃n‿eklɛʁ]",
+      "ear": "康特 奥 克厄赫 德 拉 恩于伊 瑟 菲于 科姆 恩恩 诶克莱赫",
+      "meaning": "暗夜中却仿佛闪进一道光芒",
+      "sourceIPA": "/kɑ̃t o kœʁ də la nɥi sə fy kɔm œ̃n eklɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-37-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5567,
+        "similarity": 0.632,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5578,
+      "sourceText": "Distrait de ma prière, j'ai ouvert ma fenêtre",
+      "ipa": "[distʁɛ də ma pʁiɛʁ ʒe uvɛʁ ma fənɛtʁ]",
+      "ear": "迪斯特赫 德 玛 普希艾赫 热 乌韦赫 玛 弗奈特赫",
+      "meaning": "让我从祷告中分心，起身开窗",
+      "sourceIPA": "/distʁɛ də ma pʁiɛʁ ʒe uvɛʁ ma fənɛtʁ/",
+      "sourceLineId": "notre-dame-de-paris-37-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5578,
+        "similarity": 0.543,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5583.0,
+      "sourceText": "Au jour qui se levait pour te voir apparaître",
+      "ipa": "[o ʒuʁ ki sə ləvɛ puʁ tə vwaʁ‿apaʁɛtʁ]",
+      "ear": "奥 茹赫 基 瑟 勒韦 普赫 特 弗乌阿赫 阿帕赫特赫",
+      "meaning": "迎向那让你现身的曙光",
+      "sourceIPA": "/o ʒuʁ ki sə ləvɛ puʁ tə vwaʁ apaʁɛtʁ/",
+      "sourceLineId": "notre-dame-de-paris-37-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5578,
+        "similarity": 0.543,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5588,
+      "sourceText": "Oh! être prêtre et aimer une femme",
+      "ipa": "[ɔ ɛtʁ pʁɛtʁ e ɛme yn fam]",
+      "ear": "哦 艾特赫 普赫特赫 诶 艾梅 于恩 法姆",
+      "meaning": "啊！身为神父，心仪女郎",
+      "sourceIPA": "/ɔ ɛtʁ pʁɛtʁ e ɛme yn fam/",
+      "sourceLineId": "notre-dame-de-paris-37-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5588,
+        "similarity": 0.266,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 5598,
+      "sourceText": "L'aimer, oui l'aimer, de toutes les fureurs de son âme!",
+      "ipa": "[lɛme wi lɛme də tut le fyʁœʁ də sɔ̃ am]",
+      "ear": "莱梅 乌伊 莱梅 德 图特 莱 菲于赫厄赫 德 松 阿姆",
+      "meaning": "爱她 啊 爱她 用尽灵魂之激狂",
+      "sourceIPA": "/lɛme wi lɛme də tut le fyʁœʁ də sɔ̃ am/",
+      "sourceLineId": "notre-dame-de-paris-37-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5598,
+        "similarity": 0.574,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 5609,
+      "sourceText": "Oh! être prêtre et aimer une femme",
+      "ipa": "[ɔ ɛtʁ pʁɛtʁ e ɛme yn fam]",
+      "ear": "哦 艾特赫 普赫特赫 诶 艾梅 于恩 法姆",
+      "meaning": "啊！身为神父，心仪女郎",
+      "sourceIPA": "/ɔ ɛtʁ pʁɛtʁ e ɛme yn fam/",
+      "sourceLineId": "notre-dame-de-paris-37-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5609,
+        "similarity": 0.266,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 5623,
+      "sourceText": "Caresse-moi d'une main, torture-moi de l'autre",
+      "ipa": "[kaʁɛsmwa dyn mɛ̃ tɔʁtyʁmwa də lotʁ]",
+      "ear": "卡赫斯姆乌阿 迪于恩 曼 托赫蒂于赫姆乌阿 德 洛特赫",
+      "meaning": "一手抚爱我，另一手鞭挞我",
+      "sourceIPA": "/kaʁɛsmwa dyn mɛ̃ tɔʁtyʁmwa də lotʁ/",
+      "sourceLineId": "notre-dame-de-paris-37-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5623,
+        "similarity": 0.671,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5628.625,
+      "sourceText": "Fais-moi expier ma faute",
+      "ipa": "[fɛmwa ɛkspje ma fot]",
+      "ear": "费姆乌阿 艾克斯普耶诶 玛 佛特",
+      "meaning": "让我偿赎我的罪过",
+      "sourceIPA": "/fɛmwa ɛkspje ma fot/",
+      "sourceLineId": "notre-dame-de-paris-37-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5623,
+        "similarity": 0.671,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5632,
+      "sourceText": "L'enfer où tu iras, j'irai aussi",
+      "ipa": "[lɑ̃fɛʁ‿u ty iʁa ʒiʁe osi]",
+      "ear": "朗费赫 乌 蒂于 伊哈 日赫 奥西",
+      "meaning": "你若进地狱，我愿跟上",
+      "sourceIPA": "/lɑ̃fɛʁ u ty iʁa ʒiʁe osi/",
+      "sourceLineId": "notre-dame-de-paris-37-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5632,
+        "similarity": 0.652,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5638.111,
+      "sourceText": "Et ce sera mon paradis",
+      "ipa": "[e sə səʁa mɔ̃ paʁadi]",
+      "ear": "诶 瑟 瑟哈 蒙 帕哈迪",
+      "meaning": "那儿便是我的天堂",
+      "sourceIPA": "/e sə səʁa mɔ̃ paʁadi/",
+      "sourceLineId": "notre-dame-de-paris-37-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5632,
+        "similarity": 0.652,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5643,
+      "sourceText": "Oh! être prêtre et aimer une femme",
+      "ipa": "[ɔ ɛtʁ pʁɛtʁ e ɛme yn fam]",
+      "ear": "哦 艾特赫 普赫特赫 诶 艾梅 于恩 法姆",
+      "meaning": "啊！身为神父，心仪女郎",
+      "sourceIPA": "/ɔ ɛtʁ pʁɛtʁ e ɛme yn fam/",
+      "sourceLineId": "notre-dame-de-paris-37-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5643,
+        "similarity": 0.266,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 5653,
+      "sourceText": "L'aimer, oui l'aimer, de toutes les fureurs de son âme!",
+      "ipa": "[lɛme wi lɛme də tut le fyʁœʁ də sɔ̃ am]",
+      "ear": "莱梅 乌伊 莱梅 德 图特 莱 菲于赫厄赫 德 松 阿姆",
+      "meaning": "爱她 啊 爱她 用尽灵魂之激狂",
+      "sourceIPA": "/lɛme wi lɛme də tut le fyʁœʁ də sɔ̃ am/",
+      "sourceLineId": "notre-dame-de-paris-37-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5653,
+        "similarity": 0.574,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 5663,
+      "sourceText": "Oh! être prêtre et aimer une femme",
+      "ipa": "[ɔ ɛtʁ pʁɛtʁ e ɛme yn fam]",
+      "ear": "哦 艾特赫 普赫特赫 诶 艾梅 于恩 法姆",
+      "meaning": "啊！身为神父，心仪女郎",
+      "sourceIPA": "/ɔ ɛtʁ pʁɛtʁ e ɛme yn fam/",
+      "sourceLineId": "notre-dame-de-paris-37-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5663,
+        "similarity": 0.266,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 5676,
+      "sourceText": "Une femme",
+      "ipa": "[yn fam]",
+      "ear": "于恩 法姆",
+      "meaning": "一位女郎",
+      "sourceIPA": "/yn fam/",
+      "sourceLineId": "notre-dame-de-paris-37-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5676,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    }
+  ]
+}

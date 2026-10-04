@@ -8,15 +8,131 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 48,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Frollo",
+      "start": 7337,
+      "duration": 3.0
+    },
+    {
+      "text": "Mon maitre, mon sauveur",
+      "start": 7340,
+      "duration": 3.25
+    },
+    {
+      "text": "Toi prêtre du Seigneur",
+      "start": 7343.25,
+      "duration": 3.25
+    },
+    {
+      "text": "Tu avais donc un cœur",
+      "start": 7347,
+      "duration": 3.9
+    },
+    {
+      "text": "Un cœur",
+      "start": 7350.9,
+      "duration": 1.3
+    },
+    {
+      "text": "Un cœur qui peut aimer",
+      "start": 7354,
+      "duration": 3.5
+    },
+    {
+      "text": "Un cœur qui peut pleurer",
+      "start": 7357.5,
+      "duration": 3.5
+    },
+    {
+      "text": "Un cœur qui peut saigner",
+      "start": 7361,
+      "duration": 3.9
+    },
+    {
+      "text": "Un cœur qui peut tuer",
+      "start": 7364.9,
+      "duration": 3.9
+    },
+    {
+      "text": "Regarde-là!",
+      "start": 7369,
+      "duration": 1.95
+    },
+    {
+      "text": "Ta belle Esméralda",
+      "start": 7370.95,
+      "duration": 3.9
+    },
+    {
+      "text": "Rappelle-toi, Quasimodo",
+      "start": 7374.85,
+      "duration": 4.55
+    },
+    {
+      "text": "Celle qui dansait sur là son tréteau",
+      "start": 7380,
+      "duration": 5.211
+    },
+    {
+      "text": "C'est moi qui l'ai livrée à son bourreau",
+      "start": 7385.211,
+      "duration": 5.789
+    },
+    {
+      "text": "Parce qu'elle n'a pas voulu de moi",
+      "start": 7391,
+      "duration": 5.2
+    },
+    {
+      "text": "Tu as fait ça! Toi!",
+      "start": 7396.2,
+      "duration": 3.25
+    },
+    {
+      "text": "Elle mourra comme un Jésus en croix",
+      "start": 7406,
+      "duration": 5.85
+    },
+    {
+      "text": "Regarde là-bas",
+      "start": 7411.85,
+      "duration": 2.6
+    },
+    {
+      "text": "Le gibet l'attend sur la place de Grève",
+      "start": 7415,
+      "duration": 5.926
+    },
+    {
+      "text": "Ton Esméralda",
+      "start": 7420.926,
+      "duration": 2.963
+    },
+    {
+      "text": "C'est elle que l'on pend dans le jour qui se lève",
+      "start": 7423.889,
+      "duration": 6.518
+    },
+    {
+      "text": "(rires)",
+      "start": 7430.407,
+      "duration": 0.593
+    },
+    {
+      "text": "Frollo!",
+      "start": 7431,
+      "duration": 5.0
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=7334",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -80,6 +196,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

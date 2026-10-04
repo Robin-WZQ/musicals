@@ -8,15 +8,111 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 17,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Qui est cette fille qui vient danser",
+      "start": 2568,
+      "duration": 2.0
+    },
+    {
+      "text": "Ses danses infâmes devant Notre-Dame",
+      "start": 2570.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Cette fille est ma femme",
+      "start": 2572,
+      "duration": 1.667
+    },
+    {
+      "text": "Elle m'a été donnée",
+      "start": 2573.667,
+      "duration": 2.0
+    },
+    {
+      "text": "Par le roi des gitans",
+      "start": 2575.667,
+      "duration": 2.0
+    },
+    {
+      "text": "L'avez-vous touchée, vassal de Satan?",
+      "start": 2577.667,
+      "duration": 3.333
+    },
+    {
+      "text": "Je ne me s'rais pas permis",
+      "start": 2581,
+      "duration": 2.625
+    },
+    {
+      "text": "Je vous l'interdis",
+      "start": 2583.625,
+      "duration": 1.875
+    },
+    {
+      "text": "Je voudrais vous montrer",
+      "start": 2585.5,
+      "duration": 2.25
+    },
+    {
+      "text": "Une inscription gravée",
+      "start": 2587.75,
+      "duration": 2.25
+    },
+    {
+      "text": "Sur une pierre au-delà",
+      "start": 2590,
+      "duration": 2.087
+    },
+    {
+      "text": "de la galerie des rois",
+      "start": 2592.087,
+      "duration": 2.087
+    },
+    {
+      "text": "Dites-moi ce qui veut dire ce mot, Anarkia",
+      "start": 2594.174,
+      "duration": 3.826
+    },
+    {
+      "text": "Tu es un possédé",
+      "start": 2598,
+      "duration": 1.929
+    },
+    {
+      "text": "Le grec Anarkia veut dire fatalité",
+      "start": 2599.929,
+      "duration": 3.535
+    },
+    {
+      "text": "N'est-ce pas Quasimodo",
+      "start": 2603.464,
+      "duration": 1.929
+    },
+    {
+      "text": "Qu'on amène là-bas",
+      "start": 2605.393,
+      "duration": 1.607
+    },
+    {
+      "text": "Il s'est fait arrêter l'idiot",
+      "start": 2607,
+      "duration": 5.2
+    },
+    {
+      "text": "Allez savoir pourquoi",
+      "start": 2612.2,
+      "duration": 3.9
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=2568",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -60,6 +156,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

@@ -1,0 +1,1018 @@
+{
+  "videoId": "-Q0l8nxnBtA",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=1064"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 1101,
+      "sourceText": "La fête des fous!",
+      "ipa": "[la fɛt de fu]",
+      "ear": "拉 费特 德 富",
+      "meaning": "愚人庆典",
+      "sourceIPA": "/la fɛt de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1101,
+        "similarity": 0.561,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1103.6,
+      "sourceText": "La fête des fous!",
+      "ipa": "[la fɛt de fu]",
+      "ear": "拉 费特 德 富",
+      "meaning": "愚人庆典",
+      "sourceIPA": "/la fɛt de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1101,
+        "similarity": 0.561,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1109,
+      "sourceText": "La fête des fous!",
+      "ipa": "[la fɛt de fu]",
+      "ear": "拉 费特 德 富",
+      "meaning": "愚人庆典",
+      "sourceIPA": "/la fɛt de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1109,
+        "similarity": 0.561,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1111.6,
+      "sourceText": "La fête des fous!",
+      "ipa": "[la fɛt de fu]",
+      "ear": "拉 费特 德 富",
+      "meaning": "愚人庆典",
+      "sourceIPA": "/la fɛt de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1109,
+        "similarity": 0.561,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1124,
+      "sourceText": "Laissez-moi présider",
+      "ipa": "[lɛsemwa pʁezide]",
+      "ear": "莱塞姆乌阿 普赫齐德",
+      "meaning": "让我来主持",
+      "sourceIPA": "/lɛsemwa pʁezide/",
+      "sourceLineId": "notre-dame-de-paris-08-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1124,
+        "similarity": 0.615,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1126.308,
+      "sourceText": "Cette Fête des Fous",
+      "ipa": "[sɛt fɛt de fu]",
+      "ear": "塞特 费特 德 富",
+      "meaning": "这场愚人庆典",
+      "sourceIPA": "/sɛt fɛt de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1124,
+        "similarity": 0.615,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1127.846,
+      "sourceText": "Comme on en fait chez nous",
+      "ipa": "[kɔm‿ɔ̃n‿ɑ̃ fɛ ʃe nu]",
+      "ear": "科姆 翁恩 昂 费 谢 努",
+      "meaning": "按照我们这里的方式",
+      "sourceIPA": "/kɔm ɔ̃n ɑ̃ fɛ ʃe nu/",
+      "sourceLineId": "notre-dame-de-paris-08-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1124,
+        "similarity": 0.615,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1130.154,
+      "sourceText": "Où l'on sait s'amuser",
+      "ipa": "[u lɔ̃ sɛ samyze]",
+      "ear": "乌 隆 塞 萨米于泽",
+      "meaning": "我们最懂得寻欢作乐",
+      "sourceIPA": "/u lɔ̃ sɛ samyze/",
+      "sourceLineId": "notre-dame-de-paris-08-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1124,
+        "similarity": 0.615,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1132.462,
+      "sourceText": "La fête des fous!",
+      "ipa": "[la fɛt de fu]",
+      "ear": "拉 费特 德 富",
+      "meaning": "愚人庆典",
+      "sourceIPA": "/la fɛt de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1124,
+        "similarity": 0.615,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1134,
+      "sourceText": "La fête des fous!",
+      "ipa": "[la fɛt de fu]",
+      "ear": "拉 费特 德 富",
+      "meaning": "愚人庆典",
+      "sourceIPA": "/la fɛt de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1134,
+        "similarity": 0.556,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 1146,
+      "sourceText": "Choisissez le plus laid",
+      "ipa": "[ʃwazise lə ply lɛd]",
+      "ear": "什乌阿齐塞 勒 普吕 莱德",
+      "meaning": "选出最丑的那一个",
+      "sourceIPA": "/ʃwazise lə ply lɛd/",
+      "sourceLineId": "notre-dame-de-paris-08-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1146,
+        "similarity": 0.357,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 1147.35,
+      "sourceText": "Parmi les gens qui passent",
+      "ipa": "[paʁmi le ʒɑ̃ ki pas]",
+      "ear": "帕赫米 莱 让 基 帕斯",
+      "meaning": "从来往的人群中",
+      "sourceIPA": "/paʁmi le ʒɑ̃ ki pas/",
+      "sourceLineId": "notre-dame-de-paris-08-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1146,
+        "similarity": 0.357,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 1148.7,
+      "sourceText": "Faites-le parader",
+      "ipa": "[fɛtlə paʁade]",
+      "ear": "费特勒 帕哈德",
+      "meaning": "让他列队游行",
+      "sourceIPA": "/fɛtlə paʁade/",
+      "sourceLineId": "notre-dame-de-paris-08-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1146,
+        "similarity": 0.357,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 1149.825,
+      "sourceText": "Au milieu de la place",
+      "ipa": "[o miljø də la plas]",
+      "ear": "奥 米勒耶厄 德 拉 普拉斯",
+      "meaning": "穿过广场中央",
+      "sourceIPA": "/o miljø də la plas/",
+      "sourceLineId": "notre-dame-de-paris-08-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1146,
+        "similarity": 0.357,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 1151.175,
+      "sourceText": "De toute la populace",
+      "ipa": "[də tut la popylas]",
+      "ear": "德 图特 拉 波普于拉斯",
+      "meaning": "在全体民众之中",
+      "sourceIPA": "/də tut la popylas/",
+      "sourceLineId": "notre-dame-de-paris-08-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1146,
+        "similarity": 0.357,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 1152.525,
+      "sourceText": "Celui qui nous fera",
+      "ipa": "[səlɥi ki nu fəʁa]",
+      "ear": "瑟勒于伊 基 努 弗哈",
+      "meaning": "谁能向我们做出",
+      "sourceIPA": "/səlɥi ki nu fəʁa/",
+      "sourceLineId": "notre-dame-de-paris-08-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1146,
+        "similarity": 0.357,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 1153.875,
+      "sourceText": "La plus belle grimace",
+      "ipa": "[la ply bɛl ɡʁimas]",
+      "ear": "拉 普吕 贝勒 格希玛斯",
+      "meaning": "最精彩的鬼脸",
+      "sourceIPA": "/la ply bɛl ɡʁimas/",
+      "sourceLineId": "notre-dame-de-paris-08-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1146,
+        "similarity": 0.357,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 1155,
+      "sourceText": "C'est lui qu'on élira",
+      "ipa": "[sɛ lɥi kɔ̃ eliʁa]",
+      "ear": "塞 勒于伊 孔 诶利哈",
+      "meaning": "我们会选他",
+      "sourceIPA": "/sɛ lɥi kɔ̃n eliʁa/",
+      "sourceLineId": "notre-dame-de-paris-08-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1155,
+        "similarity": 0.533,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1158.9,
+      "sourceText": "Le Pape des Fous!",
+      "ipa": "[lə pap de fu]",
+      "ear": "勒 帕普 德 富",
+      "meaning": "愚人教皇",
+      "sourceIPA": "/lə pap de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1155,
+        "similarity": 0.533,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1164,
+      "sourceText": "Le Pape des Fous!",
+      "ipa": "[lə pap de fu]",
+      "ear": "勒 帕普 德 富",
+      "meaning": "愚人教皇",
+      "sourceIPA": "/lə pap de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1164,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 1168,
+      "sourceText": "C'est lui qu'on élira",
+      "ipa": "[sɛ lɥi kɔ̃ eliʁa]",
+      "ear": "塞 勒于伊 孔 诶利哈",
+      "meaning": "我们会选他",
+      "sourceIPA": "/sɛ lɥi kɔ̃n eliʁa/",
+      "sourceLineId": "notre-dame-de-paris-08-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1168,
+        "similarity": 0.561,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 1171.9,
+      "sourceText": "C'est lui qu'on élira",
+      "ipa": "[sɛ lɥi kɔ̃ eliʁa]",
+      "ear": "塞 勒于伊 孔 诶利哈",
+      "meaning": "我们会选他",
+      "sourceIPA": "/sɛ lɥi kɔ̃n eliʁa/",
+      "sourceLineId": "notre-dame-de-paris-08-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1168,
+        "similarity": 0.561,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 1175.8,
+      "sourceText": "Le Pape des Fous",
+      "ipa": "[lə pap de fu]",
+      "ear": "勒 帕普 德 富",
+      "meaning": "愚人教皇",
+      "sourceIPA": "/lə pap de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1168,
+        "similarity": 0.561,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 1178.4,
+      "sourceText": "La...",
+      "ipa": "[la]",
+      "ear": "拉",
+      "meaning": "愚人庆典",
+      "sourceIPA": "/la/",
+      "sourceLineId": "notre-dame-de-paris-08-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1168,
+        "similarity": 0.561,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 1179.05,
+      "sourceText": "Fête...",
+      "ipa": "[fɛt]",
+      "ear": "费特",
+      "meaning": "愚人庆典",
+      "sourceIPA": "/fɛt/",
+      "sourceLineId": "notre-dame-de-paris-08-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1168,
+        "similarity": 0.561,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 1179.7,
+      "sourceText": "Des...",
+      "ipa": "[de]",
+      "ear": "德",
+      "meaning": "愚人庆典",
+      "sourceIPA": "/de/",
+      "sourceLineId": "notre-dame-de-paris-08-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1168,
+        "similarity": 0.561,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 1180.35,
+      "sourceText": "Fous...",
+      "ipa": "[fu]",
+      "ear": "富",
+      "meaning": "愚人庆典",
+      "sourceIPA": "/fu/",
+      "sourceLineId": "notre-dame-de-paris-08-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1168,
+        "similarity": 0.561,
+        "groupSize": 7
+      }
+    },
+    {
+      "start": 1183,
+      "sourceText": "La fête des fous",
+      "ipa": "[la fɛt de fu]",
+      "ear": "拉 费特 德 富",
+      "meaning": "愚人庆典",
+      "sourceIPA": "/la fɛt de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1183,
+        "similarity": 0.727,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 1194,
+      "sourceText": "La fête des fous",
+      "ipa": "[la fɛt de fu]",
+      "ear": "拉 费特 德 富",
+      "meaning": "愚人庆典",
+      "sourceIPA": "/la fɛt de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1194,
+        "similarity": 0.936,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 1202,
+      "sourceText": "La fête des fous",
+      "ipa": "[la fɛt de fu]",
+      "ear": "拉 费特 德 富",
+      "meaning": "愚人庆典",
+      "sourceIPA": "/la fɛt de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1202,
+        "similarity": 0.845,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 1209,
+      "sourceText": "La fête des fous",
+      "ipa": "[la fɛt de fu]",
+      "ear": "拉 费特 德 富",
+      "meaning": "愚人庆典",
+      "sourceIPA": "/la fɛt de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1209,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1211.6,
+      "sourceText": "La fête des fous",
+      "ipa": "[la fɛt de fu]",
+      "ear": "拉 费特 德 富",
+      "meaning": "愚人庆典",
+      "sourceIPA": "/la fɛt de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1209,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1217,
+      "sourceText": "La fête des fous",
+      "ipa": "[la fɛt de fu]",
+      "ear": "拉 费特 德 富",
+      "meaning": "愚人庆典",
+      "sourceIPA": "/la fɛt de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1217,
+        "similarity": 0.804,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1218.867,
+      "sourceText": "Mais qui est celui-là",
+      "ipa": "[mɛ ki ɛ səlɥila]",
+      "ear": "梅 基 艾 瑟勒于伊拉",
+      "meaning": "可那个家伙是谁？",
+      "sourceIPA": "/mɛ ki ɛ səlɥila/",
+      "sourceLineId": "notre-dame-de-paris-08-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1217,
+        "similarity": 0.804,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1221.667,
+      "sourceText": "Qui se cache là bas?",
+      "ipa": "[ki sə kaʃ la ba]",
+      "ear": "基 瑟 卡什 拉 巴",
+      "meaning": "谁藏在那儿？",
+      "sourceIPA": "/ki sə kaʃ la ba/",
+      "sourceLineId": "notre-dame-de-paris-08-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1217,
+        "similarity": 0.804,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1224,
+      "sourceText": "Ce monstre n'est-il pas",
+      "ipa": "[sə mɔ̃stʁ nɛtil pa]",
+      "ear": "瑟 蒙斯特赫 奈蒂勒 帕",
+      "meaning": "这个怪物不就是",
+      "sourceIPA": "/sə mɔ̃stʁ nɛtil pa/",
+      "sourceLineId": "notre-dame-de-paris-08-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1224,
+        "similarity": 0.6,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1226.667,
+      "sourceText": "Celui qu'on élira?",
+      "ipa": "[səlɥi kɔ̃ eliʁa]",
+      "ear": "瑟勒于伊 孔 诶利哈",
+      "meaning": "我们将要选择的",
+      "sourceIPA": "/səlɥi kɔ̃n eliʁa/",
+      "sourceLineId": "notre-dame-de-paris-08-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1224,
+        "similarity": 0.6,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1229.867,
+      "sourceText": "Le Pape des Fous!",
+      "ipa": "[lə pap de fu]",
+      "ear": "勒 帕普 德 富",
+      "meaning": "愚人教皇",
+      "sourceIPA": "/lə pap de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1224,
+        "similarity": 0.6,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1232,
+      "sourceText": "Le Pape des Fous!",
+      "ipa": "[lə pap de fu]",
+      "ear": "勒 帕普 德 富",
+      "meaning": "愚人教皇",
+      "sourceIPA": "/lə pap de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-039",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1232,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 1235,
+      "sourceText": "C'est lui qu'on élira",
+      "ipa": "[sɛ lɥi kɔ̃ eliʁa]",
+      "ear": "塞 勒于伊 孔 诶利哈",
+      "meaning": "我们会选他",
+      "sourceIPA": "/sɛ lɥi kɔ̃n eliʁa/",
+      "sourceLineId": "notre-dame-de-paris-08-040",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1235,
+        "similarity": 0.628,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1238.0,
+      "sourceText": "C'est lui qu'on élira",
+      "ipa": "[sɛ lɥi kɔ̃ eliʁa]",
+      "ear": "塞 勒于伊 孔 诶利哈",
+      "meaning": "我们会选他",
+      "sourceIPA": "/sɛ lɥi kɔ̃n eliʁa/",
+      "sourceLineId": "notre-dame-de-paris-08-041",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1235,
+        "similarity": 0.628,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1241.0,
+      "sourceText": "Le Pape des Fous",
+      "ipa": "[lə pap de fu]",
+      "ear": "勒 帕普 德 富",
+      "meaning": "愚人教皇",
+      "sourceIPA": "/lə pap de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-042",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1235,
+        "similarity": 0.628,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1243,
+      "sourceText": "C'est le sonneur des cloches",
+      "ipa": "[sɛ lə sɔnœʁ de kloʃ]",
+      "ear": "塞 勒 索讷厄赫 德 克洛什",
+      "meaning": "他就是那个敲钟人",
+      "sourceIPA": "/sɛ lə sɔnœʁ de kloʃ/",
+      "sourceLineId": "notre-dame-de-paris-08-043",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1243,
+        "similarity": 0.619,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1245.25,
+      "sourceText": "Avec sa bosse au dos",
+      "ipa": "[avɛk sa bɔs‿o do]",
+      "ear": "阿韦克 萨 博斯 奥 多",
+      "meaning": "背上隆起着驼峰",
+      "sourceIPA": "/avɛk sa bɔs o do/",
+      "sourceLineId": "notre-dame-de-paris-08-044",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1243,
+        "similarity": 0.619,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1247.5,
+      "sourceText": "C'est bien lui le plus moche",
+      "ipa": "[sɛ bjɛ̃ lɥi lə ply mɔʃ]",
+      "ear": "塞 布耶安 勒于伊 勒 普吕 莫什",
+      "meaning": "他最丑陋",
+      "sourceIPA": "/sɛ bjɛ̃ lɥi lə ply mɔʃ/",
+      "sourceLineId": "notre-dame-de-paris-08-045",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1243,
+        "similarity": 0.619,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1249.75,
+      "sourceText": "C'est le Quasimodo",
+      "ipa": "[sɛ lə kazimodo]",
+      "ear": "塞 勒 卡齐莫多",
+      "meaning": "加西莫多",
+      "sourceIPA": "/sɛ lə kazimodo/",
+      "sourceLineId": "notre-dame-de-paris-08-046",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1243,
+        "similarity": 0.619,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1252,
+      "sourceText": "Voilà qu'en plus il lorgne",
+      "ipa": "[vwala kɑ̃ plyz‿il lɔʁɲ]",
+      "ear": "弗乌阿拉 康 普吕兹 伊勒 洛赫涅",
+      "meaning": "更何况他还色眯眯地盯着",
+      "sourceIPA": "/vwala kɑ̃ plyz il lɔʁɲ/",
+      "sourceLineId": "notre-dame-de-paris-08-047",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1252,
+        "similarity": 0.513,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 1254.516,
+      "sourceText": "La pauvre Esmeralda",
+      "ipa": "[la povʁ‿ɛsmʁalda]",
+      "ear": "拉 波弗赫 艾斯姆哈勒达",
+      "meaning": "可怜的艾丝美拉达",
+      "sourceIPA": "/la povʁ ɛsmʁalda/",
+      "sourceLineId": "notre-dame-de-paris-08-048",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1252,
+        "similarity": 0.513,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 1256.613,
+      "sourceText": "Bossu, boiteux et borgne",
+      "ipa": "[bɔsy bwatø e bɔʁɲ]",
+      "ear": "博西于 布乌阿特厄 诶 博赫涅",
+      "meaning": "那人，畸形，跛足，独眼",
+      "sourceIPA": "/bɔsy bwatøz e bɔʁɲ/",
+      "sourceLineId": "notre-dame-de-paris-08-049",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1252,
+        "similarity": 0.513,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 1259.129,
+      "sourceText": "C'est lui qu'on élira",
+      "ipa": "[sɛ lɥi kɔ̃ eliʁa]",
+      "ear": "塞 勒于伊 孔 诶利哈",
+      "meaning": "我们会选他",
+      "sourceIPA": "/sɛ lɥi kɔ̃n eliʁa/",
+      "sourceLineId": "notre-dame-de-paris-08-050",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1252,
+        "similarity": 0.513,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 1261.645,
+      "sourceText": "Le Pape des Fous",
+      "ipa": "[lə pap de fu]",
+      "ear": "勒 帕普 德 富",
+      "meaning": "愚人教皇",
+      "sourceIPA": "/lə pap de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-051",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1252,
+        "similarity": 0.513,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 1263.323,
+      "sourceText": "Le Pape des Fous",
+      "ipa": "[lə pap de fu]",
+      "ear": "勒 帕普 德 富",
+      "meaning": "愚人教皇",
+      "sourceIPA": "/lə pap de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-052",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1252,
+        "similarity": 0.513,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 1265,
+      "sourceText": "C'est lui qu'on élira",
+      "ipa": "[sɛ lɥi kɔ̃ eliʁa]",
+      "ear": "塞 勒于伊 孔 诶利哈",
+      "meaning": "我们会选他",
+      "sourceIPA": "/sɛ lɥi kɔ̃n eliʁa/",
+      "sourceLineId": "notre-dame-de-paris-08-053",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1265,
+        "similarity": 0.652,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1267.625,
+      "sourceText": "C'est lui qu'on élira",
+      "ipa": "[sɛ lɥi kɔ̃ eliʁa]",
+      "ear": "塞 勒于伊 孔 诶利哈",
+      "meaning": "我们会选他",
+      "sourceIPA": "/sɛ lɥi kɔ̃n eliʁa/",
+      "sourceLineId": "notre-dame-de-paris-08-054",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1265,
+        "similarity": 0.652,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1270.25,
+      "sourceText": "Qua-si-mo-do!",
+      "ipa": "[kazimodo]",
+      "ear": "卡齐莫多",
+      "meaning": "加西莫多",
+      "sourceIPA": "/kasimodu/",
+      "sourceLineId": "notre-dame-de-paris-08-055",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1265,
+        "similarity": 0.652,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1272,
+      "sourceText": "C'est lui qu'on élira!",
+      "ipa": "[sɛ lɥi kɔ̃ eliʁa]",
+      "ear": "塞 勒于伊 孔 诶利哈",
+      "meaning": "我们会选他",
+      "sourceIPA": "/sɛ lɥi kɔ̃n eliʁa/",
+      "sourceLineId": "notre-dame-de-paris-08-056",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1272,
+        "similarity": 0.47,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1275.0,
+      "sourceText": "C'est lui qu'on élira!",
+      "ipa": "[sɛ lɥi kɔ̃ eliʁa]",
+      "ear": "塞 勒于伊 孔 诶利哈",
+      "meaning": "我们会选他",
+      "sourceIPA": "/sɛ lɥi kɔ̃n eliʁa/",
+      "sourceLineId": "notre-dame-de-paris-08-057",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1272,
+        "similarity": 0.47,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1278.0,
+      "sourceText": "Le Pape des Fous!",
+      "ipa": "[lə pap de fu]",
+      "ear": "勒 帕普 德 富",
+      "meaning": "愚人教皇",
+      "sourceIPA": "/lə pap de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-058",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1272,
+        "similarity": 0.47,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1280,
+      "sourceText": "C'est lui qu'on élira",
+      "ipa": "[sɛ lɥi kɔ̃ eliʁa]",
+      "ear": "塞 勒于伊 孔 诶利哈",
+      "meaning": "我们会选他",
+      "sourceIPA": "/sɛ lɥi kɔ̃n eliʁa/",
+      "sourceLineId": "notre-dame-de-paris-08-059",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1280,
+        "similarity": 0.652,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1282.625,
+      "sourceText": "C'est lui qu'on élira",
+      "ipa": "[sɛ lɥi kɔ̃ eliʁa]",
+      "ear": "塞 勒于伊 孔 诶利哈",
+      "meaning": "我们会选他",
+      "sourceIPA": "/sɛ lɥi kɔ̃n eliʁa/",
+      "sourceLineId": "notre-dame-de-paris-08-060",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1280,
+        "similarity": 0.652,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1285.25,
+      "sourceText": "Qua-si-mo-do!",
+      "ipa": "[kazimodo]",
+      "ear": "卡齐莫多",
+      "meaning": "加西莫多",
+      "sourceIPA": "/kasimodu/",
+      "sourceLineId": "notre-dame-de-paris-08-061",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1280,
+        "similarity": 0.652,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1287,
+      "sourceText": "Le Pape des Fous",
+      "ipa": "[lə pap de fu]",
+      "ear": "勒 帕普 德 富",
+      "meaning": "愚人教皇",
+      "sourceIPA": "/lə pap de fu/",
+      "sourceLineId": "notre-dame-de-paris-08-062",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1287,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    }
+  ]
+}

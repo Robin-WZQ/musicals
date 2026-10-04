@@ -1,0 +1,282 @@
+{
+  "videoId": "IWoU2QwodwE",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=1770"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 1812,
+      "sourceText": "(la nuit)",
+      "ipa": "[la nɥi]",
+      "ear": "拉 恩于伊",
+      "meaning": "（夜晚）",
+      "sourceIPA": "/la nɥi/",
+      "sourceLineId": "notre-dame-de-paris-13-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1812,
+        "similarity": 0.789,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1812.571,
+      "sourceText": "Je suis le capitaine",
+      "ipa": "[ʒə sɥi lə kapitɛn]",
+      "ear": "热 斯于伊 勒 卡皮泰恩",
+      "meaning": "我是近卫队长",
+      "sourceIPA": "/ʒə sɥi lə kapitɛn/",
+      "sourceLineId": "notre-dame-de-paris-13-002",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1812,
+        "similarity": 0.789,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1814.286,
+      "sourceText": "chargé de la sécurité",
+      "ipa": "[ʃaʁʒe də la sekyʁite]",
+      "ear": "沙赫热 德 拉 塞基于希特",
+      "meaning": "负责保卫市民安全",
+      "sourceIPA": "/ʃaʁʒe də la sekyʁite/",
+      "sourceLineId": "notre-dame-de-paris-13-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1812,
+        "similarity": 0.789,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1816.571,
+      "sourceText": "de tous les citoyens et toutes les citoyennes",
+      "ipa": "[də tu le sitwajɛ̃ e tut le sitwajɛn]",
+      "ear": "德 图 莱 西特乌阿耶安 诶 图特 莱 西特乌阿耶艾恩",
+      "meaning": "无论男女",
+      "sourceIPA": "/də tu le sitwajɛ̃z e tut le sitwajɛn/",
+      "sourceLineId": "notre-dame-de-paris-13-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1812,
+        "similarity": 0.789,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1820,
+      "sourceText": "Permettez que je vous ramène",
+      "ipa": "[pɛʁmɛte kə ʒə vu ʁamɛn]",
+      "ear": "佩赫梅特 克 热 乌 哈梅恩",
+      "meaning": "请允许我护送你",
+      "sourceIPA": "/pɛʁmɛte kə ʒə vu ʁamɛn/",
+      "sourceLineId": "notre-dame-de-paris-13-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1820,
+        "similarity": 0.448,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 1828,
+      "sourceText": "Hors des murs de la Cité",
+      "ipa": "[ɔʁ de myʁ də la site]",
+      "ear": "哦赫 德 米于赫 德 拉 西特",
+      "meaning": "去城门外",
+      "sourceIPA": "/ɔʁ de myʁ də la site/",
+      "sourceLineId": "notre-dame-de-paris-13-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1828,
+        "similarity": 0.583,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1832.053,
+      "sourceText": "Où vivent les bohémiens",
+      "ipa": "[u viv le boemjɛ̃]",
+      "ear": "乌 维弗 莱 博诶姆耶安",
+      "meaning": "波希米亚人的居所",
+      "sourceIPA": "/u viv le boemjɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-13-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1828,
+        "similarity": 0.583,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1835.526,
+      "sourceText": "Où vivent les bohémiens",
+      "ipa": "[u viv le boemjɛ̃]",
+      "ear": "乌 维弗 莱 博诶姆耶安",
+      "meaning": "波希米亚人的居所",
+      "sourceIPA": "/u viv le boemjɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-13-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1828,
+        "similarity": 0.583,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1839,
+      "sourceText": "Passez tout droit",
+      "ipa": "[pase tu dʁwa]",
+      "ear": "帕塞 图 德赫乌阿",
+      "meaning": "请走开",
+      "sourceIPA": "/pase tu dʁwa/",
+      "sourceLineId": "notre-dame-de-paris-13-009",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1839,
+        "similarity": 0.28,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1841.6,
+      "sourceText": "Vous vous trompez sur moi je crois",
+      "ipa": "[vu vu tʁɔ̃pe syʁ mwa ʒə kʁwa]",
+      "ear": "乌 乌 特洪佩 西于赫 姆乌阿 热 克赫乌阿",
+      "meaning": "想必您有所误会",
+      "sourceIPA": "/vu vu tʁɔ̃pe syʁ mwa ʒə kʁwa/",
+      "sourceLineId": "notre-dame-de-paris-13-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1839,
+        "similarity": 0.28,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1847,
+      "sourceText": "Esméralda, Monsieur, n'est pas fille à soldats",
+      "ipa": "[ɛsmeʁalda məsjø nɛ pa fij‿a sɔlda]",
+      "ear": "艾斯梅哈勒达 默斯耶厄 奈 帕 菲耶 阿 索勒达",
+      "meaning": "先生，我艾斯美拉达不是军人的良伴",
+      "sourceIPA": "/ɛsmeʁalda məsjø nɛ pa fij a sɔlda/",
+      "sourceLineId": "notre-dame-de-paris-13-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1847,
+        "similarity": 0.803,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 1856,
+      "sourceText": "Entre chien et loup",
+      "ipa": "[ɑ̃tʁ ʃjɛ̃ e lu]",
+      "ear": "昂特赫 什耶安 诶 卢",
+      "meaning": "黄昏时分",
+      "sourceIPA": "/ɑ̃tʁ ʃjɛ̃ e lu/",
+      "sourceLineId": "notre-dame-de-paris-13-012",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1856,
+        "similarity": 0.412,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1858.6,
+      "sourceText": "Demain à la tombée du jour",
+      "ipa": "[dəmɛ̃ a la tɔ̃be dy ʒuʁ]",
+      "ear": "德曼 阿 拉 通贝 迪于 茹赫",
+      "meaning": "明天夜幕降临时",
+      "sourceIPA": "/dəmɛ̃ a la tɔ̃be dy ʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-13-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1856,
+        "similarity": 0.412,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1864,
+      "sourceText": "Je te donne rendez-vous",
+      "ipa": "[ʒə tə dɔn ʁɑ̃devu]",
+      "ear": "热 特 多恩 杭德乌",
+      "meaning": "我约你去",
+      "sourceIPA": "/ʒə tə dɔn ʁɑ̃devu/",
+      "sourceLineId": "notre-dame-de-paris-13-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1864,
+        "similarity": 0.284,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1866.455,
+      "sourceText": "au Cabaret du Val d'Amour",
+      "ipa": "[o kabaʁɛ dy val damuʁ]",
+      "ear": "奥 卡巴赫 迪于 瓦勒 达穆赫",
+      "meaning": "“爱之谷”酒店",
+      "sourceIPA": "/o kabaʁɛ dy val damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-13-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1864,
+        "similarity": 0.284,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1869.727,
+      "sourceText": "Au Cabaret du Val d'Amour",
+      "ipa": "[o kabaʁɛ dy val damuʁ]",
+      "ear": "奥 卡巴赫 迪于 瓦勒 达穆赫",
+      "meaning": "“爱之谷”酒店……",
+      "sourceIPA": "/o kabaʁɛ dy val damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-13-016",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1864,
+        "similarity": 0.284,
+        "groupSize": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "videoId": "3BlxDHq69C0",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5380"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 5388,
+      "sourceText": "Phoebus",
+      "ipa": "[febys]",
+      "ear": "费比于斯",
+      "meaning": "福波斯",
+      "sourceIPA": "/febys/",
+      "sourceLineId": "notre-dame-de-paris-36-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5388,
+        "similarity": 0.527,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 5388.457,
+      "sourceText": "Si par bonheur il n'est pas mort",
+      "ipa": "[si paʁ bɔnœʁ‿il nɛ pa mɔʁ]",
+      "ear": "西 帕赫 博讷厄赫 伊勒 奈 帕 莫赫",
+      "meaning": "若他幸而未死",
+      "sourceIPA": "/si paʁ bɔnœʁ il nɛ pa mɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-36-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5388,
+        "similarity": 0.527,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 5390.286,
+      "sourceText": "Dites-lui que je l'aime encore",
+      "ipa": "[ditlɥi kə ʒə lɛm‿ɑ̃kɔʁ]",
+      "ear": "迪特勒于伊 克 热 莱姆 昂科赫",
+      "meaning": "告诉他我仍然爱他",
+      "sourceIPA": "/ditlɥi kə ʒə lɛm ɑ̃kɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-36-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5388,
+        "similarity": 0.527,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 5391.886,
+      "sourceText": "Phoebus",
+      "ipa": "[febys]",
+      "ear": "费比于斯",
+      "meaning": "菲比斯",
+      "sourceIPA": "/febys/",
+      "sourceLineId": "notre-dame-de-paris-36-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5388,
+        "similarity": 0.527,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 5392.343,
+      "sourceText": "Si tu m'entends viens me sauver",
+      "ipa": "[si ty mɑ̃tɑ̃ vjɛ̃ mə sove]",
+      "ear": "西 蒂于 芒唐 弗耶安 默 索韦",
+      "meaning": "若你听得见我 快来救我",
+      "sourceIPA": "/si ty mɑ̃tɑ̃ vjɛ̃ mə sove/",
+      "sourceLineId": "notre-dame-de-paris-36-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5388,
+        "similarity": 0.527,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 5394.171,
+      "sourceText": "Viens leur crier la vérité",
+      "ipa": "[vjɛ̃ lœʁ kʁie la veʁite]",
+      "ear": "弗耶安 勒厄赫 克希诶 拉 韦希特",
+      "meaning": "来向他们宣告真相",
+      "sourceIPA": "/vjɛ̃ lœʁ kʁie la veʁite/",
+      "sourceLineId": "notre-dame-de-paris-36-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5388,
+        "similarity": 0.527,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 5396,
+      "sourceText": "Phoebus",
+      "ipa": "[febys]",
+      "ear": "费比于斯",
+      "meaning": "菲比斯",
+      "sourceIPA": "/febys/",
+      "sourceLineId": "notre-dame-de-paris-36-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5396,
+        "similarity": 0.798,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5397.3,
+      "sourceText": "Dis-leur que je ne t'ai pas tué",
+      "ipa": "[dilœʁ kə ʒə nə te pa tye]",
+      "ear": "迪勒厄赫 克 热 讷 特 帕 蒂于诶",
+      "meaning": "告诉他们我没有害你",
+      "sourceIPA": "/dilœʁ kə ʒə nə te pa tye/",
+      "sourceLineId": "notre-dame-de-paris-36-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5396,
+        "similarity": 0.798,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5405,
+      "sourceText": "Phoebus",
+      "ipa": "[febys]",
+      "ear": "费比于斯",
+      "meaning": "菲比斯",
+      "sourceIPA": "/febys/",
+      "sourceLineId": "notre-dame-de-paris-36-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5405,
+        "similarity": 0.958,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5406.0,
+      "sourceText": "Ce couteau que je possédais",
+      "ipa": "[sə kuto kə ʒə pɔsedɛ]",
+      "ear": "瑟 库托 克 热 珀塞戴",
+      "meaning": "我拥有的那把刀",
+      "sourceIPA": "/sə kuto kə ʒə pɔsedɛ/",
+      "sourceLineId": "notre-dame-de-paris-36-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5405,
+        "similarity": 0.958,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5410.0,
+      "sourceText": "Je l'ai posé sur le plancher",
+      "ipa": "[ʒə le poze syʁ lə plɑ̃ʃe]",
+      "ear": "热 莱 波泽 西于赫 勒 普朗谢",
+      "meaning": "当时就放在地板上",
+      "sourceIPA": "/ʒə le poze syʁ lə plɑ̃ʃe/",
+      "sourceLineId": "notre-dame-de-paris-36-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5405,
+        "similarity": 0.958,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5414,
+      "sourceText": "Phoebus",
+      "ipa": "[febys]",
+      "ear": "费比于斯",
+      "meaning": "菲比斯",
+      "sourceIPA": "/febys/",
+      "sourceLineId": "notre-dame-de-paris-36-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5414,
+        "similarity": 0.941,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5414.889,
+      "sourceText": "Cet homme en noir qui nous suivait",
+      "ipa": "[sɛt‿ɔm‿ɑ̃ nwaʁ ki nu sɥivɛ]",
+      "ear": "塞特 哦姆 昂 恩乌阿赫 基 努 斯于伊韦",
+      "meaning": "那跟着我们的黑衣人",
+      "sourceIPA": "/sɛt ɔm ɑ̃ nwaʁ ki nu sɥivɛ/",
+      "sourceLineId": "notre-dame-de-paris-36-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5414,
+        "similarity": 0.941,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5418.444,
+      "sourceText": "Sur toi je l'ai vu se pencher",
+      "ipa": "[syʁ twa ʒə le vy sə pɑ̃ʃe]",
+      "ear": "西于赫 特乌阿 热 莱 维于 瑟 庞谢",
+      "meaning": "我看到他向你俯身",
+      "sourceIPA": "/syʁ twa ʒə le vy sə pɑ̃ʃe/",
+      "sourceLineId": "notre-dame-de-paris-36-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5414,
+        "similarity": 0.941,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5422,
+      "sourceText": "Phoebus",
+      "ipa": "[febys]",
+      "ear": "费比于斯",
+      "meaning": "菲比斯",
+      "sourceIPA": "/febys/",
+      "sourceLineId": "notre-dame-de-paris-36-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5422,
+        "similarity": 0.76,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5423.3,
+      "sourceText": "De mon couteau il t'a frappé",
+      "ipa": "[də mɔ̃ kuto il ta fʁape]",
+      "ear": "德 蒙 库托 伊勒 塔 弗哈佩",
+      "meaning": "他用我的刀刺向你",
+      "sourceIPA": "/də mɔ̃ kuto il ta fʁape/",
+      "sourceLineId": "notre-dame-de-paris-36-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5422,
+        "similarity": 0.76,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5432,
+      "sourceText": "Phoebus",
+      "ipa": "[febys]",
+      "ear": "费比于斯",
+      "meaning": "菲比斯",
+      "sourceIPA": "/febys/",
+      "sourceLineId": "notre-dame-de-paris-36-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5432,
+        "similarity": 0.732,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5433.059,
+      "sourceText": "Promets-moi que tu garderas",
+      "ipa": "[pʁomɛmwa kə ty ɡaʁdəʁa]",
+      "ear": "普霍梅姆乌阿 克 蒂于 嘎赫德哈",
+      "meaning": "答应我 痊愈后",
+      "sourceIPA": "/pʁomɛmwa kə ty ɡaʁdəʁa/",
+      "sourceLineId": "notre-dame-de-paris-36-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5432,
+        "similarity": 0.732,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5437.294,
+      "sourceText": "Le souvenir d'Esméralda",
+      "ipa": "[lə suvniʁ dɛsmeʁalda]",
+      "ear": "勒 苏弗尼赫 戴斯梅哈勒达",
+      "meaning": "要记起艾斯美拉达",
+      "sourceIPA": "/lə suvniʁ dɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-36-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5432,
+        "similarity": 0.732,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5441,
+      "sourceText": "Phoebus",
+      "ipa": "[febys]",
+      "ear": "费比于斯",
+      "meaning": "菲比斯",
+      "sourceIPA": "/febys/",
+      "sourceLineId": "notre-dame-de-paris-36-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5441,
+        "similarity": 0.876,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5442.0,
+      "sourceText": "Celle qui dansait sur le parvis",
+      "ipa": "[sɛl ki dɑ̃sɛ syʁ lə paʁvi]",
+      "ear": "塞勒 基 当塞 西于赫 勒 帕赫维",
+      "meaning": "她在广场上起舞",
+      "sourceIPA": "/sɛl ki dɑ̃sɛ syʁ lə paʁvi/",
+      "sourceLineId": "notre-dame-de-paris-36-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5441,
+        "similarity": 0.876,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5446.0,
+      "sourceText": "Et qui t'avais donné sa vie",
+      "ipa": "[e ki tavɛ dɔne sa vi]",
+      "ear": "诶 基 塔韦 多内 萨 维",
+      "meaning": "她为你献出生命",
+      "sourceIPA": "/e ki tavɛ dɔne sa vi/",
+      "sourceLineId": "notre-dame-de-paris-36-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5441,
+        "similarity": 0.876,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5450,
+      "sourceText": "Phoebus",
+      "ipa": "[febys]",
+      "ear": "费比于斯",
+      "meaning": "菲比斯",
+      "sourceIPA": "/febys/",
+      "sourceLineId": "notre-dame-de-paris-36-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5450,
+        "similarity": 0.877,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5451.3,
+      "sourceText": "Oh! viens m'emporter loin d'ici",
+      "ipa": "[ɔ vjɛ̃ mɑ̃pɔʁte lwɛ̃ disi]",
+      "ear": "哦 弗耶安 芒珀赫特 勒乌安 迪西",
+      "meaning": "啊！来带我远走高飞",
+      "sourceIPA": "/ɔ vjɛ̃ mɑ̃pɔʁte lwɛ̃ disi/",
+      "sourceLineId": "notre-dame-de-paris-36-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5450,
+        "similarity": 0.877,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5459,
+      "sourceText": "Vers les montagnes d'Andalousie",
+      "ipa": "[vɛʁ le mɔ̃tanj dɑ̃daluzi]",
+      "ear": "韦赫 莱 蒙塔恩耶 当达卢齐",
+      "meaning": "去安达卢西亚的山间",
+      "sourceIPA": "/vɛʁ le mɔ̃tanj dɑ̃daluzi/",
+      "sourceLineId": "notre-dame-de-paris-36-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5459,
+        "similarity": 0.674,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5464.2,
+      "sourceText": "Phoebus",
+      "ipa": "[febys]",
+      "ear": "费比于斯",
+      "meaning": "菲比斯",
+      "sourceIPA": "/febys/",
+      "sourceLineId": "notre-dame-de-paris-36-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5459,
+        "similarity": 0.674,
+        "groupSize": 2
+      }
+    }
+  ]
+}

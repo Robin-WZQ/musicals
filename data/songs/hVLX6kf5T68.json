@@ -8,15 +8,231 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 6,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Mes quatorze printemps sont à toi",
+      "start": 952,
+      "duration": 2.462
+    },
+    {
+      "text": "Ce collier de diamants est pour moi",
+      "start": 954.462,
+      "duration": 2.769
+    },
+    {
+      "text": "Les mots de tes serments si tu mens",
+      "start": 957.231,
+      "duration": 2.769
+    },
+    {
+      "text": "Je n'y croirai pas",
+      "start": 960,
+      "duration": 1.522
+    },
+    {
+      "text": "Ton cœur de jouvencelle est à moi",
+      "start": 961.522,
+      "duration": 2.739
+    },
+    {
+      "text": "Tes yeux de tourterelle sont pour moi",
+      "start": 964.261,
+      "duration": 2.739
+    },
+    {
+      "text": "Les étoiles étincellent dans le ciel",
+      "start": 967,
+      "duration": 3.0
+    },
+    {
+      "text": "Moins que ces diamants-là",
+      "start": 970.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Celui que mon cœur aime",
+      "start": 972.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Est un beau chevalier",
+      "start": 974,
+      "duration": 3.333
+    },
+    {
+      "text": "Qui ne sait pas lui-même",
+      "start": 977.333,
+      "duration": 3.334
+    },
+    {
+      "text": "Combien je peux l'aimer",
+      "start": 980.667,
+      "duration": 3.333
+    },
+    {
+      "text": "Si je ne le sais pas",
+      "start": 984,
+      "duration": 1.929
+    },
+    {
+      "text": "Je le vois dans tes yeux",
+      "start": 985.929,
+      "duration": 1.928
+    },
+    {
+      "text": "Celui qui t'aimera",
+      "start": 987.857,
+      "duration": 1.607
+    },
+    {
+      "text": "Sera un homme heureux",
+      "start": 989.464,
+      "duration": 1.929
+    },
+    {
+      "text": "Ne cherche plus l'amour",
+      "start": 991.393,
+      "duration": 1.607
+    },
+    {
+      "text": "Il est là",
+      "start": 993,
+      "duration": 1.333
+    },
+    {
+      "text": "Il est là pour toujours",
+      "start": 994.333,
+      "duration": 2.667
+    },
+    {
+      "text": "Je le crois",
+      "start": 997.0,
+      "duration": 1.333
+    },
+    {
+      "text": "Ce sera un beau jour que le jour",
+      "start": 998.333,
+      "duration": 4.0
+    },
+    {
+      "text": "Où l'on se mariera",
+      "start": 1002.333,
+      "duration": 2.667
+    },
+    {
+      "text": "Tout l'or qui dort encore",
+      "start": 1005,
+      "duration": 2.667
+    },
+    {
+      "text": "Sous le lit de la terre",
+      "start": 1007.667,
+      "duration": 2.666
+    },
+    {
+      "text": "J'en couvrirai ton corps",
+      "start": 1010.333,
+      "duration": 2.667
+    },
+    {
+      "text": "Que tu m'auras offert",
+      "start": 1013,
+      "duration": 2.333
+    },
+    {
+      "text": "Tous les mots de l'amour",
+      "start": 1015.333,
+      "duration": 2.334
+    },
+    {
+      "text": "Tous les mots du désir",
+      "start": 1017.667,
+      "duration": 2.333
+    },
+    {
+      "text": "Mieux que les troubadours",
+      "start": 1020,
+      "duration": 2.1
+    },
+    {
+      "text": "Tu sauras me les dire",
+      "start": 1022.1,
+      "duration": 2.1
+    },
+    {
+      "text": "Ne cherche plus l'amour",
+      "start": 1024.2,
+      "duration": 1.75
+    },
+    {
+      "text": "Il est là",
+      "start": 1025.95,
+      "duration": 1.05
+    },
+    {
+      "text": "Il est là pour toujours",
+      "start": 1027,
+      "duration": 3.9
+    },
+    {
+      "text": "Je le crois",
+      "start": 1030.9,
+      "duration": 1.95
+    },
+    {
+      "text": "Ce sera un beau jour que le jour",
+      "start": 1032.85,
+      "duration": 5.85
+    },
+    {
+      "text": "Où l'on se mariera",
+      "start": 1038.7,
+      "duration": 3.9
+    },
+    {
+      "text": "Ne cherche plus l'amour. Il est là",
+      "start": 1044,
+      "duration": 2.154
+    },
+    {
+      "text": "Il est là pour toujours. Je le crois",
+      "start": 1046.154,
+      "duration": 2.423
+    },
+    {
+      "text": "Ce sera un beau jour que le jour",
+      "start": 1048.577,
+      "duration": 2.423
+    },
+    {
+      "text": "Où l'on se mariera",
+      "start": 1051,
+      "duration": 2.286
+    },
+    {
+      "text": "Ce sera un beau jour que le jour",
+      "start": 1053.286,
+      "duration": 3.428
+    },
+    {
+      "text": "Où l'on se mariera",
+      "start": 1056.714,
+      "duration": 2.286
+    },
+    {
+      "text": "Où l'on se mariera",
+      "start": 1059,
+      "duration": 5.0
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=945",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -88,6 +304,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

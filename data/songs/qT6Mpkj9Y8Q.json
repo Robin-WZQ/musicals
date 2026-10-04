@@ -8,15 +8,221 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 1,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nLe Temps des cathedrales（大教堂時代）",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "C'est une histoire qui a pour lieu",
+      "start": 71,
+      "duration": 3.636
+    },
+    {
+      "text": "Paris la belle en l'an de Dieu",
+      "start": 74.636,
+      "duration": 3.637
+    },
+    {
+      "text": "Mil quatre cent quatre vingt deux",
+      "start": 78.273,
+      "duration": 2.727
+    },
+    {
+      "text": "Histoire d'amour et de désir",
+      "start": 81,
+      "duration": 3.478
+    },
+    {
+      "text": "Nous les artistes anonymes",
+      "start": 84.478,
+      "duration": 3.044
+    },
+    {
+      "text": "De la sculpture ou de la rime",
+      "start": 87.522,
+      "duration": 3.478
+    },
+    {
+      "text": "Tenterons de vous la transcrire",
+      "start": 91,
+      "duration": 3.231
+    },
+    {
+      "text": "Pour les siècles à venir",
+      "start": 94.231,
+      "duration": 2.769
+    },
+    {
+      "text": "Il est venu le temps des cathédrales",
+      "start": 97,
+      "duration": 6.5
+    },
+    {
+      "text": "Le monde est entré",
+      "start": 105,
+      "duration": 2.917
+    },
+    {
+      "text": "Dans un nouveau millénaire",
+      "start": 107.917,
+      "duration": 4.083
+    },
+    {
+      "text": "L'homme a voulu monter vers les étoiles",
+      "start": 112,
+      "duration": 6.0
+    },
+    {
+      "text": "Ecrire son histoire",
+      "start": 118,
+      "duration": 3.25
+    },
+    {
+      "text": "Dans le verre ou dans la pierre",
+      "start": 121.25,
+      "duration": 4.55
+    },
+    {
+      "text": "Pierre après pierre, jour après jour",
+      "start": 128,
+      "duration": 3.478
+    },
+    {
+      "text": "De siècle en siècle avec amour",
+      "start": 131.478,
+      "duration": 3.479
+    },
+    {
+      "text": "Il a vu s'élever les tours",
+      "start": 134.957,
+      "duration": 3.043
+    },
+    {
+      "text": "Qu'il avait baties de ses mains",
+      "start": 138,
+      "duration": 3.333
+    },
+    {
+      "text": "Les poètes et les troubadours",
+      "start": 141.333,
+      "duration": 3.334
+    },
+    {
+      "text": "Ont chanté des chansons d'amour",
+      "start": 144.667,
+      "duration": 3.333
+    },
+    {
+      "text": "Qui promettaient au genre humain",
+      "start": 148,
+      "duration": 4.308
+    },
+    {
+      "text": "De meilleurs lendemains",
+      "start": 152.308,
+      "duration": 2.692
+    },
+    {
+      "text": "Il est venu le temps des cathédrales",
+      "start": 155,
+      "duration": 6.5
+    },
+    {
+      "text": "Le monde est entré",
+      "start": 162,
+      "duration": 2.917
+    },
+    {
+      "text": "Dans un nouveau millénaire",
+      "start": 164.917,
+      "duration": 4.083
+    },
+    {
+      "text": "L'homme a voulu monter vers les étoiles",
+      "start": 169,
+      "duration": 6.5
+    },
+    {
+      "text": "Ecrire son histoire",
+      "start": 176,
+      "duration": 3.25
+    },
+    {
+      "text": "Dans le verre ou dans la pierre",
+      "start": 179.25,
+      "duration": 4.55
+    },
+    {
+      "text": "Il est venu le temps des cathédrales",
+      "start": 186,
+      "duration": 6.5
+    },
+    {
+      "text": "Le monde est entré",
+      "start": 194,
+      "duration": 2.917
+    },
+    {
+      "text": "Dans un nouveau millénaire",
+      "start": 196.917,
+      "duration": 4.083
+    },
+    {
+      "text": "L'homme a voulu monter vers les étoiles",
+      "start": 201,
+      "duration": 6.0
+    },
+    {
+      "text": "Ecrire son histoire",
+      "start": 207,
+      "duration": 3.25
+    },
+    {
+      "text": "Dans le verre ou dans la pierre",
+      "start": 210.25,
+      "duration": 4.55
+    },
+    {
+      "text": "Il est foutu le temps des cathédrales",
+      "start": 219,
+      "duration": 6.5
+    },
+    {
+      "text": "La foule des barbares",
+      "start": 227,
+      "duration": 3.182
+    },
+    {
+      "text": "Est aux portes de la ville",
+      "start": 230.182,
+      "duration": 3.818
+    },
+    {
+      "text": "Laissez entrer ces païens ces vandales",
+      "start": 234,
+      "duration": 6.5
+    },
+    {
+      "text": "La fin de ce monde",
+      "start": 241,
+      "duration": 3.25
+    },
+    {
+      "text": "Est prévue pour l'an deux mille",
+      "start": 244.25,
+      "duration": 4.55
+    },
+    {
+      "text": "Est prévue pour l'an deux mille",
+      "start": 251,
+      "duration": 5.0
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=68",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -128,6 +334,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

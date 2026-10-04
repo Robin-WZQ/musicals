@@ -1,0 +1,266 @@
+{
+  "videoId": "z8eZR8QvCw0",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5312"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 5319,
+      "sourceText": "Qu'on la torture",
+      "ipa": "[kɔ̃ la tɔʁtyʁ]",
+      "ear": "孔 拉 托赫蒂于赫",
+      "meaning": "上刑",
+      "sourceIPA": "/kɔ̃ la tɔʁtyʁ/",
+      "sourceLineId": "notre-dame-de-paris-35-001",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5319,
+        "similarity": 0.271,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5320.818,
+      "sourceText": "Qu'on la mette à la question",
+      "ipa": "[kɔ̃ la mɛt‿a la kɛstjɔ̃]",
+      "ear": "孔 拉 梅特 阿 拉 凯斯特耶翁",
+      "meaning": "拷问",
+      "sourceIPA": "/kɔ̃ la mɛt a la kɛstjɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-35-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5319,
+        "similarity": 0.271,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5324.0,
+      "sourceText": "Si elle endure",
+      "ipa": "[si ɛl‿ɑ̃dyʁ]",
+      "ear": "西 艾勒 昂迪于赫",
+      "meaning": "若她不招",
+      "sourceIPA": "/si ɛl ɑ̃dyʁ/",
+      "sourceLineId": "notre-dame-de-paris-35-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5319,
+        "similarity": 0.271,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5325.818,
+      "sourceText": "C'est qu'elle est dure d'opinion",
+      "ipa": "[sɛ kɛl‿ɛ dyʁ dopinjɔ̃]",
+      "ear": "塞 凯勒 艾 迪于赫 多皮恩耶翁",
+      "meaning": "那就看看她有多顽强",
+      "sourceIPA": "/sɛ kɛl ɛ dyʁ dopinjɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-35-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5319,
+        "similarity": 0.271,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5329,
+      "sourceText": "Mettez-lui son petit pied dans l'étau et puis serrez",
+      "ipa": "[mɛtelɥi sɔ̃ pəti pje dɑ̃ leto e pɥi sɛʁe]",
+      "ear": "梅特勒于伊 松 珀蒂 普耶诶 当 莱托 诶 普于伊 塞赫",
+      "meaning": "钳住她的小脚 夹紧",
+      "sourceIPA": "/mɛtelɥi sɔ̃ pəti pje dɑ̃ leto e pɥi sɛʁe/",
+      "sourceLineId": "notre-dame-de-paris-35-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5329,
+        "similarity": 0.849,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5335.125,
+      "sourceText": "Serrez",
+      "ipa": "[sɛʁe]",
+      "ear": "塞赫",
+      "meaning": "夹紧！",
+      "sourceIPA": "/sɛʁe/",
+      "sourceLineId": "notre-dame-de-paris-35-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5329,
+        "similarity": 0.849,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5336,
+      "sourceText": "Avouez-vous?",
+      "ipa": "[avwevu]",
+      "ear": "阿弗乌诶乌",
+      "meaning": "招不招？",
+      "sourceIPA": "/avwevu/",
+      "sourceLineId": "notre-dame-de-paris-35-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5336,
+        "similarity": 0.826,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5337.95,
+      "sourceText": "Je l'aime je l'avoue",
+      "ipa": "[ʒə lɛm ʒə lavu]",
+      "ear": "热 莱姆 热 拉乌",
+      "meaning": "我招：我爱他！",
+      "sourceIPA": "/ʒə lɛm ʒə lavu/",
+      "sourceLineId": "notre-dame-de-paris-35-008",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5336,
+        "similarity": 0.826,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5348,
+      "sourceText": "Déliez-lui les pieds et les mains",
+      "ipa": "[deljelɥi le pje e le mɛ̃]",
+      "ear": "德勒耶诶勒于伊 莱 普耶诶 诶 莱 曼",
+      "meaning": "松开她的手脚",
+      "sourceIPA": "/deljelɥi le pjez e le mɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-35-009",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5348,
+        "similarity": 0.397,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5353.2,
+      "sourceText": "Assassins! Assassins!",
+      "ipa": "[asasɛ̃ asasɛ̃]",
+      "ear": "阿萨森 阿萨森",
+      "meaning": "凶手们！凶手们！",
+      "sourceIPA": "/asasɛ̃ asasɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-35-010",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5348,
+        "similarity": 0.397,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5363,
+      "sourceText": "Fille bohème, vous avez avoué tous vos faits",
+      "ipa": "[fij boɛm vuz‿ave avwe tu vo fɛ]",
+      "ear": "菲耶 博艾姆 乌兹 阿韦 阿弗乌诶 图 沃 费",
+      "meaning": "吉普赛女人 您已招供全部罪行",
+      "sourceIPA": "/fij boɛm vuz avez avwe tu vo fɛ/",
+      "sourceLineId": "notre-dame-de-paris-35-011",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5363,
+        "similarity": 0.833,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5365.484,
+      "sourceText": "de magie de prostitution et de harassement sur Phoebus de Chateaupers",
+      "ipa": "[də maʒi də pʁɔstitysjɔ̃ e də aʁasmɑ̃ syʁ febys də ʃatope]",
+      "ear": "德 玛日 德 普霍斯蒂蒂于斯耶翁 诶 德 阿哈斯芒 西于赫 费比于斯 德 沙托佩",
+      "meaning": "对菲比斯·沙多倍尔施法术，卖淫，纠缠",
+      "sourceIPA": "/də maʒi də pʁɔstitysjɔ̃ e də aʁasmɑ̃ syʁ febys də ʃatope/",
+      "sourceLineId": "notre-dame-de-paris-35-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5363,
+        "similarity": 0.833,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5370,
+      "sourceText": "Vous serez menée en chemise, pieds nus",
+      "ipa": "[vu səʁe məne ɑ̃ ʃəmiz pje ny]",
+      "ear": "乌 瑟赫 默内 昂 舍米兹 普耶诶 尼于",
+      "meaning": "您将要披袍赤足",
+      "sourceIPA": "/vu səʁe məne ɑ̃ ʃəmiz pje ny/",
+      "sourceLineId": "notre-dame-de-paris-35-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5370,
+        "similarity": 0.707,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5373.0,
+      "sourceText": "la corde au cou en place de Grève",
+      "ipa": "[la kɔʁd‿o ku ɑ̃ plas də ɡʁɛv]",
+      "ear": "拉 科赫德 奥 库 昂 普拉斯 德 格赫弗",
+      "meaning": "系上绞索 在格雷沃广场",
+      "sourceIPA": "/la kɔʁd o ku ɑ̃ plas də ɡʁɛv/",
+      "sourceLineId": "notre-dame-de-paris-35-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5370,
+        "similarity": 0.707,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5375.4,
+      "sourceText": "où vous serez pendue au gibet de la ville",
+      "ipa": "[u vu səʁe pɑ̃dy o ʒibɛ də la vil]",
+      "ear": "乌 乌 瑟赫 庞迪于 奥 日贝 德 拉 维勒",
+      "meaning": "被悬吊在城市的绞架",
+      "sourceIPA": "/u vu səʁe pɑ̃dy o ʒibɛ də la vil/",
+      "sourceLineId": "notre-dame-de-paris-35-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5370,
+        "similarity": 0.707,
+        "groupSize": 3
+      }
+    }
+  ]
+}

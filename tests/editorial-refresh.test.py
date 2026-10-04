@@ -34,6 +34,12 @@ class EditorialRefreshTests(unittest.TestCase):
     def test_uncorrected_song_can_still_receive_normal_caption_refresh(self):
         self.assertIsNone(ingest.protect_editorial({'captionSource':'youtube'}, {'captionStatus':'ready'}, 'today'))
 
+    def test_user_lyrics_keep_their_full_recording_segment_and_source(self):
+        previous = {**self.previous, 'lyricsStorage': 'user-provided', 'playbackSegment': {'start': 68, 'end': 278}, 'studyVersion': 3}
+        result = ingest.protect_editorial(previous, {'captionStatus': 'error'}, 'today')
+        for key in ('cues', 'lyricsStorage', 'playbackSegment', 'playbackVideoId', 'studyVersion'):
+            self.assertEqual(result[key], previous[key])
+
     def test_external_song_refresh_reads_metadata_without_requesting_or_storing_lyrics(self):
         with tempfile.TemporaryDirectory(dir=Path(__file__).resolve().parent) as directory:
             root = Path(directory); path = root / 'data' / 'songs' / 'AAAAAAAAAAA.json'

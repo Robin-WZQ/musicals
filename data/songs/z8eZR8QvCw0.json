@@ -8,15 +8,91 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 34,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "Notre-Dame de Paris (DVD - ONLY AUDIO)",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Qu'on la torture",
+      "start": 5319,
+      "duration": 1.818
+    },
+    {
+      "text": "Qu'on la mette à la question",
+      "start": 5320.818,
+      "duration": 3.182
+    },
+    {
+      "text": "Si elle endure",
+      "start": 5324.0,
+      "duration": 1.818
+    },
+    {
+      "text": "C'est qu'elle est dure d'opinion",
+      "start": 5325.818,
+      "duration": 3.182
+    },
+    {
+      "text": "Mettez-lui son petit pied dans l'étau et puis serrez",
+      "start": 5329,
+      "duration": 6.125
+    },
+    {
+      "text": "Serrez",
+      "start": 5335.125,
+      "duration": 0.875
+    },
+    {
+      "text": "Avouez-vous?",
+      "start": 5336,
+      "duration": 1.95
+    },
+    {
+      "text": "Je l'aime je l'avoue",
+      "start": 5337.95,
+      "duration": 3.25
+    },
+    {
+      "text": "Déliez-lui les pieds et les mains",
+      "start": 5348,
+      "duration": 5.2
+    },
+    {
+      "text": "Assassins! Assassins!",
+      "start": 5353.2,
+      "duration": 3.9
+    },
+    {
+      "text": "Fille bohème, vous avez avoué tous vos faits",
+      "start": 5363,
+      "duration": 2.484
+    },
+    {
+      "text": "de magie de prostitution et de harassement sur Phoebus de Chateaupers",
+      "start": 5365.484,
+      "duration": 4.516
+    },
+    {
+      "text": "Vous serez menée en chemise, pieds nus",
+      "start": 5370,
+      "duration": 3.0
+    },
+    {
+      "text": "la corde au cou en place de Grève",
+      "start": 5373.0,
+      "duration": 2.4
+    },
+    {
+      "text": "où vous serez pendue au gibet de la ville",
+      "start": 5375.4,
+      "duration": 3.6
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5312",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -65,5 +141,8 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps"
+  "timingReviewStatus": "approximate",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

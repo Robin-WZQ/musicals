@@ -5,7 +5,7 @@
 ## 曲目与播放来源
 
 - [舞台 DVD 曲目列表](https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj) 前 50 项为独立演唱曲目，前 27 首属第一幕，后 23 首属第二幕。末尾两个整幕视频不重复计入。
-- 序曲及谢幕段落留在 [全剧录像](https://www.youtube.com/watch?v=3AnTqOIgPr0) 中。该来源元数据列有人工法语、英语、德语、俄语和西班牙语字幕。
+- 序曲留在 [全剧录像](https://www.youtube.com/watch?v=3AnTqOIgPr0) 中；本次另加《大教堂时代》的谢幕合唱，共51个独立学习页。该来源列有人工法语、英语、德语、俄语和西班牙语字幕。
 - 每首保留独立页面，实际播放统一使用全剧录像 `3AnTqOIgPr0` 的本曲范围。原片段 ID 保留为路由及 `alternateVideoId`；《酷刑》保留公开 DVD 音轨 `SxYNkMYEJN8` 作为备用来源。
 - 发布前核对 50 个实际播放来源的公开可嵌入状态、时长和频道。这个检查不代表已逐句听校，也不保证来源以后始终可用。
 
@@ -27,14 +27,16 @@
 
 ## 字幕状态
 
-50 首的 `captionStatus` 为 `native`：播放器默认打开人工法语字幕。仓库保存 761 个时间范围，供点击跳转、段末暂停和循环；歌词与译文由 YouTube 播放器显示。
+51 页的 `captionStatus` 为 `ready`、`captionSource` 为 `editorial`、`lyricsStorage` 为 `user-provided`。用户直接提供的 `songs.js` 包含50首正曲1658行和返场19行，共1677行；全部接入法语、音标、中文空耳和中文释义四层卡片。资料对应 [fufu-life 学习页](https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html) 和 [来源项目](https://github.com/fufu-life/musicals)。
 
-歌曲起止位置来自同一录像评论中的曲目时间表。分段起点来自该录像人工英语字幕的转录面板，面板精度为整秒；结束位置采用下一个起点，并在本曲结尾截断。因此时间段可能包括间奏，也可能与法语字幕的换行位置不同。这批范围没有标记为法语逐句听校完成。
+导入器只解析 `window.songs=` 后的JSON，不执行文件中的JavaScript。保留源文件摘要、原行ID和 `sourceIPA`，便于对照。读音参考整句和单词独立读音，去掉复数名词和部分变位动词后多出的 /z/、/t/；保留冠词和代词等的联诵，`et` 和嘘音h阻断潜在联诵。整理 `suis`、`lui` 等的 /ɥ/，修正 `dos`、`aujourd’hui`、`Luther`、`Testament` 等误切到英语的读音。中文空耳由整理后的音标生成，中文释义保留所提供的译文。参考音标仍需结合原唱核对演唱发音。
 
-原唱播放器默认放在左侧，可手动放大到右侧；窄屏或低窗口回到侧栏播放器，底部控制保留。导入本曲相对时间的 VTT、SRT 或 JSON 会加上本曲在全剧中的起点；导入全剧时间字幕则截取本曲范围。JSON 条目可携带 `ipa`、`ear`、`studyMeaning`，直接沿用原四层歌词卡片。导入内容只留在本次页面内存中。完整音标、空耳与中文逐句释义尚未补入这批曲目。
+歌曲起止来自同一录像评论区的曲目时间表。转录面板提供761条人工英语字幕和整秒起点。与用户文件中的英语对照文本按顺序匹配，一条字幕可对应多行法语；合并字幕内部按法语音节权重拆分。未匹配行在相邻锚点之间估算，谢幕按本曲范围估算。较长的尾部空白保留为间奏。每行 `timing` 保存锚点、匹配分数和拆分方法，可用于优先听校低分条目。全部切点保持 `timingReviewStatus: approximate` 和页面的 `≈` 标记，尚未完成逐句听唱核对。
 
-2026-10-04 实测：真实播放器成功播放并选中 `fr` 字幕轨；当前测试网络的字幕请求返回 HTTP 429，字幕文字未能呈现。50 页的范围跳转、段末暂停、循环、曲末边界、字幕导入与布局通过模拟播放器检查；原有歌词字号与居中通过回归检查。字幕轨存在与字幕在当前网络成功加载分别记录。
+原唱播放器默认留在左侧，右侧采用用户确认的四层卡片和原有字号。第一句靠顶，后续跟随句居中；低窗口保留完整底部控制栏。数据使用全剧绝对秒数，页面显示本曲相对时间。导入本曲相对时间的 VTT、SRT 或 JSON 会加上本曲在全剧中的起点；导入全剧时间字幕则截取本曲范围。JSON 条目可携带 `ipa`、`ear`、`studyMeaning`。导入内容留在本次页面内存中。
 
-刷新脚本只更新这批曲目的来源元数据，保留独立路由、本曲时长与时间范围。播放器参数参考 [YouTube 播放器参数](https://developers.google.com/youtube/player_parameters) 与 [IFrame API](https://developers.google.com/youtube/iframe_api_reference)；调用 `seekTo` 后，由本站继续检查本曲结束边界。
+YouTube内置字幕与本站文字分别处理。前次真实播放器能播放原唱，内置字幕请求返回HTTP 429；当前四层文字从本站学习数据读取，可独立显示。
+
+刷新脚本读取实际 `playbackVideoId`，把新字幕存入来源归档，保留学习歌词、注释、独立路由和本曲范围。原有761段时间数据作为来源记录保留。导入脚本 `scripts/import_notre_study.py` 接收用户歌词文件、同一录像的转录锚点、发音参考文件及输出报告路径；不能将其他录像时间直接套用。播放器参数参考 [YouTube 播放器参数](https://developers.google.com/youtube/player_parameters) 与 [IFrame API](https://developers.google.com/youtube/iframe_api_reference)；调用 `seekTo` 后，本站继续检查本曲结束边界。
 
 总页封面保存自 [1998 原版现场唱片目录](https://music.apple.com/fr/album/513913352)，图片和音乐权利归原权利人。

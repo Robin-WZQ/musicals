@@ -1,0 +1,247 @@
+{
+  "videoId": "G4iPw7pJ0lU",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=2619"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 2619,
+      "sourceText": "Bossu! Boiteux! Borgne! Violeur!",
+      "ipa": "[bɔsy bwatø bɔʁɲ vjolœʁ]",
+      "ear": "博西于 布乌阿特厄 博赫涅 弗耶奥勒厄赫",
+      "meaning": "驼背！瘸子！独眼！强奸犯！",
+      "sourceIPA": "/busy bwatø bɔʁɲ vjolœʁ/",
+      "sourceLineId": "notre-dame-de-paris-19-001",
+      "speaker": "",
+      "timing": {
+        "method": "between-anchor-interpolation"
+      }
+    },
+    {
+      "start": 2624,
+      "sourceText": "Sonneur de cloches de malheur",
+      "ipa": "[sɔnœʁ də kloʃ də malœʁ]",
+      "ear": "索讷厄赫 德 克洛什 德 玛勒厄赫",
+      "meaning": "可悲的敲钟人",
+      "sourceIPA": "/sɔnœʁ də kloʃ də malœʁ/",
+      "sourceLineId": "notre-dame-de-paris-19-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2624,
+        "similarity": 0.729,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2627.5,
+      "sourceText": "Priez pour lui, pauvre pécheur",
+      "ipa": "[pʁie puʁ lɥi povʁ peʃœʁ]",
+      "ear": "普希诶 普赫 勒于伊 波弗赫 佩舍厄赫",
+      "meaning": "为他祈祷吧 这可怜的罪人",
+      "sourceIPA": "/pʁie puʁ lɥi povʁ peʃœʁ/",
+      "sourceLineId": "notre-dame-de-paris-19-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2624,
+        "similarity": 0.729,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2631,
+      "sourceText": "Ayez pitié de lui. Seigneur",
+      "ipa": "[ɛje pitje də lɥi sɛnjœʁ]",
+      "ear": "艾耶诶 皮特耶诶 德 勒于伊 塞恩耶厄赫",
+      "meaning": "上主垂怜",
+      "sourceIPA": "/ɛje pitje də lɥi sɛnjœʁ/",
+      "sourceLineId": "notre-dame-de-paris-19-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2631,
+        "similarity": 0.652,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2641,
+      "sourceText": "Pitié pour le pauvre Quasimodo",
+      "ipa": "[pitje puʁ lə povʁ kazimodo]",
+      "ear": "皮特耶诶 普赫 勒 波弗赫 卡齐莫多",
+      "meaning": "可怜可怜悲惨的卡西莫多吧",
+      "sourceIPA": "/pitje puʁ lə povʁ kazimodo/",
+      "sourceLineId": "notre-dame-de-paris-19-005",
+      "speaker": "Quasimodo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2641,
+        "similarity": 0.808,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2645.8,
+      "sourceText": "Qui porte déjà sur son dos",
+      "ipa": "[ki pɔʁt deʒa syʁ sɔ̃ do]",
+      "ear": "基 珀赫特 德扎 西于赫 松 多",
+      "meaning": "他的背上扛着",
+      "sourceIPA": "/ki pɔʁt deʒa syʁ sɔ̃ dɒs/",
+      "sourceLineId": "notre-dame-de-paris-19-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2641,
+        "similarity": 0.808,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2649,
+      "sourceText": "Tous les malheurs du monde",
+      "ipa": "[tu le malœʁ dy mɔ̃d]",
+      "ear": "图 莱 玛勒厄赫 迪于 蒙德",
+      "meaning": "世间所有的苦难",
+      "sourceIPA": "/tu le malœʁ dy mɔ̃d/",
+      "sourceLineId": "notre-dame-de-paris-19-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2649,
+        "similarity": 0.735,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2652.9,
+      "sourceText": "Et qui ne vous demande",
+      "ipa": "[e ki nə vu dəmɑ̃d]",
+      "ear": "诶 基 讷 乌 德芒德",
+      "meaning": "求求你们",
+      "sourceIPA": "/e ki nə vu dəmɑ̃d/",
+      "sourceLineId": "notre-dame-de-paris-19-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2649,
+        "similarity": 0.735,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2656.8,
+      "sourceText": "Qu'une goutte d'eau",
+      "ipa": "[kyn ɡut do]",
+      "ear": "基于恩 古特 多",
+      "meaning": "给我一滴水喝",
+      "sourceIPA": "/kyn ɡut do/",
+      "sourceLineId": "notre-dame-de-paris-19-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2649,
+        "similarity": 0.735,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2664,
+      "sourceText": "Pitié badauds pour votre bedeau",
+      "ipa": "[pitje bado puʁ votʁ bədo]",
+      "ear": "皮特耶诶 巴多 普赫 沃特赫 伯多",
+      "meaning": "看客们啊 可怜可怜我这教堂的仆役",
+      "sourceIPA": "/pitje bado puʁ votʁ bədo/",
+      "sourceLineId": "notre-dame-de-paris-19-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2664,
+        "similarity": 0.497,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2669.2,
+      "sourceText": "Une goutte d'eau pour Quasimodo",
+      "ipa": "[yn ɡut do puʁ kazimodo]",
+      "ear": "于恩 古特 多 普赫 卡齐莫多",
+      "meaning": "给卡西莫多一滴水喝",
+      "sourceIPA": "/yn ɡut do puʁ kazimodo/",
+      "sourceLineId": "notre-dame-de-paris-19-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2664,
+        "similarity": 0.497,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2678,
+      "sourceText": "à boire",
+      "ipa": "[a bwaʁ]",
+      "ear": "阿 布乌阿赫",
+      "meaning": "我渴",
+      "sourceIPA": "/a bwaʁ/",
+      "sourceLineId": "notre-dame-de-paris-19-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2678,
+        "similarity": 0.611,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2679.3,
+      "sourceText": "Donnez-moi à boire à boire! à boire",
+      "ipa": "[dɔnemwa a bwaʁ‿a bwaʁ a bwaʁ]",
+      "ear": "多内姆乌阿 阿 布乌阿赫 阿 布乌阿赫 阿 布乌阿赫",
+      "meaning": "给我水喝我渴！我渴！",
+      "sourceIPA": "/dɔnemwa a bwaʁ a bwaʁ a bwaʁ/",
+      "sourceLineId": "notre-dame-de-paris-19-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2678,
+        "similarity": 0.611,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2714,
+      "sourceText": "Donnez-moi à boire",
+      "ipa": "[dɔnemwa a bwaʁ]",
+      "ear": "多内姆乌阿 阿 布乌阿赫",
+      "meaning": "给我水喝",
+      "sourceIPA": "/dɔnemwa a bwaʁ/",
+      "sourceLineId": "notre-dame-de-paris-19-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2714,
+        "similarity": 0.779,
+        "groupSize": 1
+      }
+    }
+  ]
+}

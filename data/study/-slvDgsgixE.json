@@ -1,0 +1,346 @@
+{
+  "videoId": "-slvDgsgixE",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=3903"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 3929,
+      "sourceText": "La volupté",
+      "ipa": "[la volypte]",
+      "ear": "拉 沃吕普特",
+      "meaning": "欢愉",
+      "sourceIPA": "/la volypte/",
+      "sourceLineId": "notre-dame-de-paris-27-001",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3929,
+        "similarity": 0.228,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3931.6,
+      "sourceText": "A moi la volupté",
+      "ipa": "[a mwa la volypte]",
+      "ear": "阿 姆乌阿 拉 沃吕普特",
+      "meaning": "给予我欢愉",
+      "sourceIPA": "/a mwa la volypte/",
+      "sourceLineId": "notre-dame-de-paris-27-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3929,
+        "similarity": 0.228,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3937,
+      "sourceText": "de ce corps non encore souillé",
+      "ipa": "[də sə kɔʁ nɔ̃ ɑ̃kɔʁ suje]",
+      "ear": "德 瑟 科赫 农 昂科赫 苏耶诶",
+      "meaning": "纯净的身体",
+      "sourceIPA": "/də sə kɔʁ nɔ̃ ɑ̃kɔʁ suje/",
+      "sourceLineId": "notre-dame-de-paris-27-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3937,
+        "similarity": 0.414,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3941.8,
+      "sourceText": "A moi toute la volupté",
+      "ipa": "[a mwa tut la volypte]",
+      "ear": "阿 姆乌阿 图特 拉 沃吕普特",
+      "meaning": "予我无尽欢愉",
+      "sourceIPA": "/a mwa tut la volypte/",
+      "sourceLineId": "notre-dame-de-paris-27-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3937,
+        "similarity": 0.414,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3946,
+      "sourceText": "Personne d'autre que moi",
+      "ipa": "[pɛʁsɔn dotʁ kə mwa]",
+      "ear": "佩赫索恩 多特赫 克 姆乌阿",
+      "meaning": "我是你的唯一",
+      "sourceIPA": "/pɛʁsɔn dotʁ kə mwa/",
+      "sourceLineId": "notre-dame-de-paris-27-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3946,
+        "similarity": 0.491,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3949.25,
+      "sourceText": "ne mettra les mains sur toi",
+      "ipa": "[nə mɛtʁa le mɛ̃ syʁ twa]",
+      "ear": "讷 梅特哈 莱 曼 西于赫 特乌阿",
+      "meaning": "不许别人染指",
+      "sourceIPA": "/nə mɛtʁa le mɛ̃ syʁ twa/",
+      "sourceLineId": "notre-dame-de-paris-27-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3946,
+        "similarity": 0.491,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3956,
+      "sourceText": "Ange noir de ma vie",
+      "ipa": "[ɑ̃ʒ nwaʁ də ma vi]",
+      "ear": "昂日 恩乌阿赫 德 玛 维",
+      "meaning": "我生命的黑天使",
+      "sourceIPA": "/ɑ̃ʒ nwaʁ də ma vi/",
+      "sourceLineId": "notre-dame-de-paris-27-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3956,
+        "similarity": 0.762,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3964,
+      "sourceText": "Je t'aimerai",
+      "ipa": "[ʒə tɛmʁe]",
+      "ear": "热 泰姆赫",
+      "meaning": "我将爱你",
+      "sourceIPA": "/ʒə tɛmʁe/",
+      "sourceLineId": "notre-dame-de-paris-27-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3964,
+        "similarity": 0.369,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3965.95,
+      "sourceText": "Au plus secret des nuits",
+      "ipa": "[o ply səkʁɛ de nɥi]",
+      "ear": "奥 普吕 瑟克赫 德 恩于伊",
+      "meaning": "在最隐秘的夜里",
+      "sourceIPA": "/o ply səkʁɛ de nɥi/",
+      "sourceLineId": "notre-dame-de-paris-27-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3964,
+        "similarity": 0.369,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3973,
+      "sourceText": "D'un seul regard",
+      "ipa": "[dœ̃ sœl ʁəɡaʁ]",
+      "ear": "丹 瑟厄勒 赫嘎赫",
+      "meaning": "只需一眼",
+      "sourceIPA": "/dœ̃ sœl ʁəɡaʁ/",
+      "sourceLineId": "notre-dame-de-paris-27-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3973,
+        "similarity": 0.665,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3975.6,
+      "sourceText": "Tu as mis le feu à ma vie",
+      "ipa": "[ty a mi lə fø a ma vi]",
+      "ear": "蒂于 阿 米 勒 弗厄 阿 玛 维",
+      "meaning": "你就点燃我的生命",
+      "sourceIPA": "/ty a mi lə fø a ma vi/",
+      "sourceLineId": "notre-dame-de-paris-27-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3973,
+        "similarity": 0.665,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3982,
+      "sourceText": "Nos deux couleurs de peau",
+      "ipa": "[no dø kulœʁ də po]",
+      "ear": "诺 德厄 库勒厄赫 德 波",
+      "meaning": "我们不同的肤色",
+      "sourceIPA": "/no dø kulœʁ də po/",
+      "sourceLineId": "notre-dame-de-paris-27-012",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3982,
+        "similarity": 0.688,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3990,
+      "sourceText": "Comme en un seul flambeau",
+      "ipa": "[kɔm‿ɑ̃n‿œ̃ sœl flɑ̃bo]",
+      "ear": "科姆 昂恩 恩 瑟厄勒 弗朗博",
+      "meaning": "汇成同一束火焰",
+      "sourceIPA": "/kɔm ɑ̃n œ̃ sœl flɑ̃bo/",
+      "sourceLineId": "notre-dame-de-paris-27-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3990,
+        "similarity": 0.513,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3999,
+      "sourceText": "Je voudrai t'aimer",
+      "ipa": "[ʒə vudʁe tɛme]",
+      "ear": "热 乌德赫 泰梅",
+      "meaning": "我愿爱你",
+      "sourceIPA": "/ʒə vudʁe tɛme/",
+      "sourceLineId": "notre-dame-de-paris-27-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3999,
+        "similarity": 0.369,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4002.25,
+      "sourceText": "T'aimer au risque de ma vie",
+      "ipa": "[tɛme o ʁisk də ma vi]",
+      "ear": "泰梅 奥 希斯克 德 玛 维",
+      "meaning": "冒生命的危险爱你",
+      "sourceIPA": "/tɛme o ʁisk də ma vi/",
+      "sourceLineId": "notre-dame-de-paris-27-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3999,
+        "similarity": 0.369,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4007,
+      "sourceText": "Prends-moi",
+      "ipa": "[pʁɑ̃mwa]",
+      "ear": "普杭姆乌阿",
+      "meaning": "占有我吧",
+      "sourceIPA": "/pʁɑ̃mwa/",
+      "sourceLineId": "notre-dame-de-paris-27-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4007,
+        "similarity": 0.727,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4008.3,
+      "sourceText": "Prends-moi si c'est ma destinée",
+      "ipa": "[pʁɑ̃mwa si sɛ ma dɛstine]",
+      "ear": "普杭姆乌阿 西 塞 玛 戴斯蒂内",
+      "meaning": "如果这是我的命运",
+      "sourceIPA": "/pʁɑ̃mwa si sɛ ma dɛstine/",
+      "sourceLineId": "notre-dame-de-paris-27-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4007,
+        "similarity": 0.727,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4016,
+      "sourceText": "Voyons, voyons si c'est ta destinée",
+      "ipa": "[vwajɔ̃ vwajɔ̃ si sɛ ta dɛstine]",
+      "ear": "弗乌阿耶翁 弗乌阿耶翁 西 塞 塔 戴斯蒂内",
+      "meaning": "等着瞧，看这是否这是你的命运",
+      "sourceIPA": "/vwajɔ̃ vwajɔ̃ si sɛ ta dɛstine/",
+      "sourceLineId": "notre-dame-de-paris-27-018",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4016,
+        "similarity": 0.764,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 4025,
+      "sourceText": "Phoebus",
+      "ipa": "[febys]",
+      "ear": "费比于斯",
+      "meaning": "菲比斯",
+      "sourceIPA": "/febys/",
+      "sourceLineId": "notre-dame-de-paris-27-019",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4025,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4026.667,
+      "sourceText": "Esméralda",
+      "ipa": "[ɛsmeʁalda]",
+      "ear": "艾斯梅哈勒达",
+      "meaning": "艾斯美拉达",
+      "sourceIPA": "/ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-27-020",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4025,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    }
+  ]
+}

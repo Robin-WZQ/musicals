@@ -1,0 +1,378 @@
+{
+  "videoId": "GEwYfV4W9W8",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=3213"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 3220,
+      "sourceText": "Ave Maria",
+      "ipa": "[av maʁja]",
+      "ear": "阿弗 玛赫耶阿",
+      "meaning": "圣母玛利亚",
+      "sourceIPA": "/av maʁja/",
+      "sourceLineId": "notre-dame-de-paris-22-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3220,
+        "similarity": 0.25,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3228,
+      "sourceText": "Pardonne-moi",
+      "ipa": "[paʁdɔnmwa]",
+      "ear": "帕赫多恩姆乌阿",
+      "meaning": "原谅我",
+      "sourceIPA": "/paʁdɔnmwa/",
+      "sourceLineId": "notre-dame-de-paris-22-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3228,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3237,
+      "sourceText": "Si devant toi",
+      "ipa": "[si dəvɑ̃ twa]",
+      "ear": "西 德旺 特乌阿",
+      "meaning": "如果在你面前",
+      "sourceIPA": "/si dəvɑ̃ twa/",
+      "sourceLineId": "notre-dame-de-paris-22-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3237,
+        "similarity": 0.422,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3239.6,
+      "sourceText": "Je me tiens debout",
+      "ipa": "[ʒə mə tjɛ̃ dəbu]",
+      "ear": "热 默 特耶安 德布",
+      "meaning": "我不跪下",
+      "sourceIPA": "/ʒə mə tjɛ̃ dəbu/",
+      "sourceLineId": "notre-dame-de-paris-22-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3237,
+        "similarity": 0.422,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3252,
+      "sourceText": "Ave Maria",
+      "ipa": "[av maʁja]",
+      "ear": "阿弗 玛赫耶阿",
+      "meaning": "圣母玛利亚",
+      "sourceIPA": "/av maʁja/",
+      "sourceLineId": "notre-dame-de-paris-22-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3252,
+        "similarity": 0.269,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3253.875,
+      "sourceText": "Moi qui ne sais pas me mettre à genoux",
+      "ipa": "[mwa ki nə sɛ pa mə mɛtʁ‿a ʒənu]",
+      "ear": "姆乌阿 基 讷 塞 帕 默 梅特赫 阿 热努",
+      "meaning": "我不懂如何屈膝",
+      "sourceIPA": "/mwa ki nə sɛ pa mə mɛtʁ a ʒənu/",
+      "sourceLineId": "notre-dame-de-paris-22-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3252,
+        "similarity": 0.269,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3260.125,
+      "sourceText": "Ave Maria",
+      "ipa": "[av maʁja]",
+      "ear": "阿弗 玛赫耶阿",
+      "meaning": "圣母玛利亚",
+      "sourceIPA": "/av maʁja/",
+      "sourceLineId": "notre-dame-de-paris-22-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3252,
+        "similarity": 0.269,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3271,
+      "sourceText": "Protège-moi",
+      "ipa": "[pʁotɛʒmwa]",
+      "ear": "普霍泰日姆乌阿",
+      "meaning": "保佑我",
+      "sourceIPA": "/pʁotɛʒmwa/",
+      "sourceLineId": "notre-dame-de-paris-22-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3271,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3278,
+      "sourceText": "De la misère, du mal et des fous",
+      "ipa": "[də la mizɛʁ dy mal e de fu]",
+      "ear": "德 拉 米泽赫 迪于 玛勒 诶 德 富",
+      "meaning": "悲惨 病态与疯狂",
+      "sourceIPA": "/də la mizɛʁ dy mal e de fu/",
+      "sourceLineId": "notre-dame-de-paris-22-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3278,
+        "similarity": 0.625,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3287,
+      "sourceText": "Qui règnent sur la terre",
+      "ipa": "[ki ʁɛnj syʁ la tɛʁ]",
+      "ear": "基 赫恩耶 西于赫 拉 泰赫",
+      "meaning": "横行于世间",
+      "sourceIPA": "/ki ʁɛnj syʁ la tɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-22-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3287,
+        "similarity": 0.717,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3300,
+      "sourceText": "Ave Maria",
+      "ipa": "[av maʁja]",
+      "ear": "阿弗 玛赫耶阿",
+      "meaning": "圣母玛利亚",
+      "sourceIPA": "/av maʁja/",
+      "sourceLineId": "notre-dame-de-paris-22-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3300,
+        "similarity": 0.25,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3307,
+      "sourceText": "Des étrangers il en vient de partout",
+      "ipa": "[dez‿etʁɑ̃ʒe il‿ɑ̃ vjɛ̃ də paʁtu]",
+      "ear": "德兹 诶特杭热 伊勒 昂 弗耶安 德 帕赫图",
+      "meaning": "异乡人来自各地",
+      "sourceIPA": "/dez etʁɑ̃ʒez il ɑ̃ vjɛ̃ də paʁtu/",
+      "sourceLineId": "notre-dame-de-paris-22-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3307,
+        "similarity": 0.478,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3318,
+      "sourceText": "Ave Maria",
+      "ipa": "[av maʁja]",
+      "ear": "阿弗 玛赫耶阿",
+      "meaning": "圣母玛利亚",
+      "sourceIPA": "/av maʁja/",
+      "sourceLineId": "notre-dame-de-paris-22-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3318,
+        "similarity": 0.25,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3326,
+      "sourceText": "Écoute-moi",
+      "ipa": "[ekutmwa]",
+      "ear": "诶库特姆乌阿",
+      "meaning": "请听我言",
+      "sourceIPA": "/ekutmwa/",
+      "sourceLineId": "notre-dame-de-paris-22-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3326,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3333,
+      "sourceText": "Fais tomber les barrières entre nous",
+      "ipa": "[fɛ tɔ̃be le baʁjɛʁ‿ɑ̃tʁ nu]",
+      "ear": "费 通贝 莱 巴赫耶艾赫 昂特赫 努",
+      "meaning": "移除我们之间的藩篱",
+      "sourceIPA": "/fɛ tɔ̃be le baʁjɛʁz ɑ̃tʁ nu/",
+      "sourceLineId": "notre-dame-de-paris-22-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3333,
+        "similarity": 0.529,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3342,
+      "sourceText": "Qui sommes tous des frères",
+      "ipa": "[ki sɔm tus de fʁɛʁ]",
+      "ear": "基 索姆 图斯 德 弗赫赫",
+      "meaning": "我们本是手足",
+      "sourceIPA": "/ki sɔm tus de fʁɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-22-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3342,
+        "similarity": 0.363,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3345.25,
+      "sourceText": "Ave Maria",
+      "ipa": "[av maʁja]",
+      "ear": "阿弗 玛赫耶阿",
+      "meaning": "圣母玛利亚",
+      "sourceIPA": "/av maʁja/",
+      "sourceLineId": "notre-dame-de-paris-22-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3342,
+        "similarity": 0.363,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3362,
+      "sourceText": "Veille sur mes jours et sur mes nuits",
+      "ipa": "[vɛj syʁ me ʒuʁ e syʁ me nɥi]",
+      "ear": "韦耶 西于赫 梅 茹赫 诶 西于赫 梅 恩于伊",
+      "meaning": "看顾我 日日夜夜",
+      "sourceIPA": "/vɛj syʁ me ʒuʁz e syʁ me nɥi/",
+      "sourceLineId": "notre-dame-de-paris-22-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3362,
+        "similarity": 0.641,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3372,
+      "sourceText": "Ave Maria",
+      "ipa": "[av maʁja]",
+      "ear": "阿弗 玛赫耶阿",
+      "meaning": "圣母玛利亚",
+      "sourceIPA": "/av maʁja/",
+      "sourceLineId": "notre-dame-de-paris-22-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3372,
+        "similarity": 0.25,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3381,
+      "sourceText": "Protège-moi",
+      "ipa": "[pʁotɛʒmwa]",
+      "ear": "普霍泰日姆乌阿",
+      "meaning": "保佑我",
+      "sourceIPA": "/pʁotɛʒmwa/",
+      "sourceLineId": "notre-dame-de-paris-22-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3381,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3388,
+      "sourceText": "Veille sur mon amour et ma vie",
+      "ipa": "[vɛj syʁ mɔ̃n‿amuʁ e ma vi]",
+      "ear": "韦耶 西于赫 蒙恩 阿穆赫 诶 玛 维",
+      "meaning": "看顾我的爱情和人生",
+      "sourceIPA": "/vɛj syʁ mɔ̃n amuʁ e ma vi/",
+      "sourceLineId": "notre-dame-de-paris-22-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3388,
+        "similarity": 0.643,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3398,
+      "sourceText": "Ave Maria",
+      "ipa": "[av maʁja]",
+      "ear": "阿弗 玛赫耶阿",
+      "meaning": "圣母玛利亚",
+      "sourceIPA": "/av maʁja/",
+      "sourceLineId": "notre-dame-de-paris-22-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3398,
+        "similarity": 0.25,
+        "groupSize": 1
+      }
+    }
+  ]
+}

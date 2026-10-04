@@ -1,0 +1,1290 @@
+{
+  "videoId": "pJo-awLOSKw",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=1880"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 1900,
+      "sourceText": "Ici on est tous des frères",
+      "ipa": "[isi ɔ̃n‿ɛ tus de fʁɛʁ]",
+      "ear": "伊西 翁恩 艾 图斯 德 弗赫赫",
+      "meaning": "这里大家亲同手足",
+      "sourceIPA": "/klopɛ̃ isi ɔ̃n ɛ tus de fʁɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-14-001",
+      "speaker": "Clopin",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1900,
+        "similarity": 0.685,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1903.536,
+      "sourceText": "Dans la joie dans la misère",
+      "ipa": "[dɑ̃ la ʒwa dɑ̃ la mizɛʁ]",
+      "ear": "当 拉 日乌阿 当 拉 米泽赫",
+      "meaning": "同甘共苦",
+      "sourceIPA": "/dɑ̃ la ʒwa dɑ̃ la mizɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-14-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1900,
+        "similarity": 0.685,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1906.286,
+      "sourceText": "Vous ne trouverez chez nous ni le ciel ni l'enfer",
+      "ipa": "[vu nə tʁuvʁe ʃe nu ni lə sjɛl ni lɑ̃fɛʁ]",
+      "ear": "乌 讷 特胡弗赫 谢 努 尼 勒 斯耶艾勒 尼 朗费赫",
+      "meaning": "我们这儿没有天堂也没有地狱",
+      "sourceIPA": "/vu nə tʁuvʁe ʃe nu ni lə sjɛl ni lɑ̃fɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-14-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1900,
+        "similarity": 0.685,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1911,
+      "sourceText": "Ni le ciel ni l'enfer",
+      "ipa": "[ni lə sjɛl ni lɑ̃fɛʁ]",
+      "ear": "尼 勒 斯耶艾勒 尼 朗费赫",
+      "meaning": "没有天堂也没有地狱",
+      "sourceIPA": "/ni lə sjɛl ni lɑ̃fɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-14-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1911,
+        "similarity": 0.664,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1914.9,
+      "sourceText": "Nous sommes comme des vers",
+      "ipa": "[nu sɔm kɔm de vɛʁ]",
+      "ear": "努 索姆 科姆 德 韦赫",
+      "meaning": "我们如蠹虫一般",
+      "sourceIPA": "/nu sɔm kɔm de vɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-14-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1911,
+        "similarity": 0.664,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1919,
+      "sourceText": "Comme des vers dans le ventre pourri de la terre",
+      "ipa": "[kɔm de vɛʁ dɑ̃ lə vɑ̃tʁ puʁi də la tɛʁ]",
+      "ear": "科姆 德 韦赫 当 勒 旺特赫 普希 德 拉 泰赫",
+      "meaning": "像大地腐烂腹部的蠹虫",
+      "sourceIPA": "/kɔm de vɛʁ dɑ̃ lə vɑ̃tʁ puʁi də la tɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-14-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1919,
+        "similarity": 0.777,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1923.714,
+      "sourceText": "Le sang et le vin ont la même couleur",
+      "ipa": "[lə sɑ̃ e lə vɛ̃ ɔ̃ la mɛm kulœʁ]",
+      "ear": "勒 桑 诶 勒 万 翁 拉 梅姆 库勒厄赫",
+      "meaning": "血液与美酒同享一色",
+      "sourceIPA": "/lə sɑ̃ e lə vɛ̃ ɔ̃ la mɛm kulœʁ/",
+      "sourceLineId": "notre-dame-de-paris-14-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1919,
+        "similarity": 0.777,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1928,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1928,
+        "similarity": 0.42,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1929.588,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1928,
+        "similarity": 0.42,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1931.176,
+      "sourceText": "Les filles de joie dansent avec les voleurs",
+      "ipa": "[le fij də ʒwa dɑ̃s‿avɛk le volœʁ]",
+      "ear": "莱 菲耶 德 日乌阿 当斯 阿韦克 莱 沃勒厄赫",
+      "meaning": "妓女与盗贼共舞",
+      "sourceIPA": "/le fij də ʒwa dɑ̃s avɛk le volœʁ/",
+      "sourceLineId": "notre-dame-de-paris-14-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1928,
+        "similarity": 0.42,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1933.824,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1928,
+        "similarity": 0.42,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1935.412,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1928,
+        "similarity": 0.42,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1937,
+      "sourceText": "Mendiants et brigands dansent la même danse",
+      "ipa": "[mɑ̃djɑ̃ e bʁiɡɑ̃ dɑ̃s la mɛm dɑ̃s]",
+      "ear": "芒德耶昂 诶 布希冈 当斯 拉 梅姆 当斯",
+      "meaning": "乞丐与劫匪共舞",
+      "sourceIPA": "/mɑ̃djɑ̃z e bʁiɡɑ̃ dɑ̃s la mɛm dɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-14-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1937,
+        "similarity": 0.521,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1939.812,
+      "sourceText": "À la Cour des Miracles. À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒 阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区 在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1937,
+        "similarity": 0.521,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1943.562,
+      "sourceText": "Puisque nous sommes tous des gibiers de potence",
+      "ipa": "[pɥiskə nu sɔm tus de ʒibje də potɑ̃s]",
+      "ear": "普于伊斯克 努 索姆 图斯 德 日布耶诶 德 波唐斯",
+      "meaning": "既然我们都是绞架的猎物",
+      "sourceIPA": "/pɥiskə nu sɔm tus de ʒibje də potɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-14-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1937,
+        "similarity": 0.521,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1947,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1947,
+        "similarity": 0.214,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1948.75,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1947,
+        "similarity": 0.214,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1950.5,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1947,
+        "similarity": 0.214,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1952.25,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1947,
+        "similarity": 0.214,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 1954,
+      "sourceText": "Nous sommes de la même race",
+      "ipa": "[nu sɔm də la mɛm ʁas]",
+      "ear": "努 索姆 德 拉 梅姆 哈斯",
+      "meaning": "我们是同族",
+      "sourceIPA": "/nu sɔm də la mɛm ʁas/",
+      "sourceLineId": "notre-dame-de-paris-14-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1954,
+        "similarity": 0.376,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1956.64,
+      "sourceText": "La race des gens qui passent",
+      "ipa": "[la ʁas de ʒɑ̃ ki pas]",
+      "ear": "拉 哈斯 德 让 基 帕斯",
+      "meaning": "命如浮萍",
+      "sourceIPA": "/la ʁas de ʒɑ̃ ki pas/",
+      "sourceLineId": "notre-dame-de-paris-14-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1954,
+        "similarity": 0.376,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1959.28,
+      "sourceText": "Vous ne trouverez chez nous ni religion ni nation",
+      "ipa": "[vu nə tʁuvʁe ʃe nu ni ʁəliʒjɔ̃ ni nasjɔ̃]",
+      "ear": "乌 讷 特胡弗赫 谢 努 尼 赫利日耶翁 尼 纳斯耶翁",
+      "meaning": "我们没有宗教也没有祖国",
+      "sourceIPA": "/vu nə tʁuvʁe ʃe nu ni ʁəliʒjɔ̃ ni nasjɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-14-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1954,
+        "similarity": 0.376,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1965,
+      "sourceText": "Ni religion ni nation",
+      "ipa": "[ni ʁəliʒjɔ̃ ni nasjɔ̃]",
+      "ear": "尼 赫利日耶翁 尼 纳斯耶翁",
+      "meaning": "没有宗教也没有祖国",
+      "sourceIPA": "/ni ʁəliʒjɔ̃ ni nasjɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-14-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1965,
+        "similarity": 0.454,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1969.5,
+      "sourceText": "Nos oripeaux pour drapeaux",
+      "ipa": "[noz‿oʁipo puʁ dʁapo]",
+      "ear": "诺兹 奥希波 普赫 德哈波",
+      "meaning": "我们以旧衣为帜",
+      "sourceIPA": "/noz oʁipo puʁ dʁapo/",
+      "sourceLineId": "notre-dame-de-paris-14-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1965,
+        "similarity": 0.454,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1974,
+      "sourceText": "La couleur de ma peau contre celle de ta peau",
+      "ipa": "[la kulœʁ də ma po kɔ̃tʁ sɛl də ta po]",
+      "ear": "拉 库勒厄赫 德 玛 波 孔特赫 塞勒 德 塔 波",
+      "meaning": "皮肤是同样的颜色",
+      "sourceIPA": "/la kulœʁ də ma po kɔ̃tʁ sɛl də ta po/",
+      "sourceLineId": "notre-dame-de-paris-14-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1974,
+        "similarity": 0.672,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1978.19,
+      "sourceText": "Truands et Gitans chantent la même chanson",
+      "ipa": "[tʁyɑ̃ e ʒitɑ̃ ʃɑ̃t la mɛm ʃɑ̃sɔ̃]",
+      "ear": "特许昂 诶 日唐 尚特 拉 梅姆 尚松",
+      "meaning": "乞丐和茨冈人同歌一曲",
+      "sourceIPA": "/tʁyɑ̃z e ʒitɑ̃ ʃɑ̃t la mɛm ʃɑ̃sɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-14-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1974,
+        "similarity": 0.672,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1982,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1982,
+        "similarity": 0.261,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1983.543,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1982,
+        "similarity": 0.261,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1985.086,
+      "sourceText": "Puisque nous sommes tous évadés de prison",
+      "ipa": "[pɥiskə nu sɔm tus‿evade də pʁizɔ̃]",
+      "ear": "普于伊斯克 努 索姆 图斯 诶瓦德 德 普希宗",
+      "meaning": "既然我们都是逃犯",
+      "sourceIPA": "/pɥiskə nu sɔm tus evade də pʁizɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-14-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1982,
+        "similarity": 0.261,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1987.914,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1982,
+        "similarity": 0.261,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1989.457,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1982,
+        "similarity": 0.261,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1991,
+      "sourceText": "Voleurs et tueurs boivent au même calice",
+      "ipa": "[volœʁ e tyœʁ bwav‿o mɛm kalis]",
+      "ear": "沃勒厄赫 诶 蒂于厄赫 布乌阿弗 奥 梅姆 卡利斯",
+      "meaning": "窃贼与杀人犯同杯共盏",
+      "sourceIPA": "/volœʁz e tyœʁ bwavt o mɛm kalis/",
+      "sourceLineId": "notre-dame-de-paris-14-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1991,
+        "similarity": 0.594,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1993.368,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1991,
+        "similarity": 0.594,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1994.789,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1991,
+        "similarity": 0.594,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1996.211,
+      "sourceText": "Puisque nous sommes tous repris de justice",
+      "ipa": "[pɥiskə nu sɔm tus ʁəpʁi də ʒystis]",
+      "ear": "普于伊斯克 努 索姆 图斯 赫普希 德 日于斯蒂斯",
+      "meaning": "既然我们都是惯犯",
+      "sourceIPA": "/pɥiskə nu sɔm tus ʁəpʁi də ʒystis/",
+      "sourceLineId": "notre-dame-de-paris-14-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1991,
+        "similarity": 0.594,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1998.579,
+      "sourceText": "À la Cour des miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1991,
+        "similarity": 0.594,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2010,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2010,
+        "similarity": 0.262,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 2011.038,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2010,
+        "similarity": 0.262,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 2012.077,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-039",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2010,
+        "similarity": 0.262,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 2013.115,
+      "sourceText": "Poète Gringoire",
+      "ipa": "[pɔɛt ɡʁɛ̃ɡwaʁ]",
+      "ear": "珀艾特 格汉格乌阿赫",
+      "meaning": "诗人葛林果",
+      "sourceIPA": "/pɔɛt ɡʁɛ̃ɡwaʁ/",
+      "sourceLineId": "notre-dame-de-paris-14-040",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2010,
+        "similarity": 0.262,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 2013.808,
+      "sourceText": "Vous serez pendu",
+      "ipa": "[vu səʁe pɑ̃dy]",
+      "ear": "乌 瑟赫 庞迪于",
+      "meaning": "您得被吊死",
+      "sourceIPA": "/vu səʁe pɑ̃dy/",
+      "sourceLineId": "notre-dame-de-paris-14-041",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2010,
+        "similarity": 0.262,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 2014.673,
+      "sourceText": "Pour avoir comme un intrus pénétré",
+      "ipa": "[puʁ‿avwaʁ kɔm‿œ̃n‿ɛ̃tʁy penetʁe]",
+      "ear": "普赫 阿弗乌阿赫 科姆 恩恩 安特许 佩内特赫",
+      "meaning": "罪名是擅闯",
+      "sourceIPA": "/puʁ avwaʁ kɔm œ̃n ɛ̃tʁy penetʁe/",
+      "sourceLineId": "notre-dame-de-paris-14-042",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2010,
+        "similarity": 0.262,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 2016.404,
+      "sourceText": "le cénacle de la Cour des Miracles",
+      "ipa": "[lə senakl də la kuʁ de miʁakl]",
+      "ear": "勒 塞纳克勒 德 拉 库赫 德 米哈克勒",
+      "meaning": "圣迹区的殿堂",
+      "sourceIPA": "/lə senakl də la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-043",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2010,
+        "similarity": 0.262,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 2017.962,
+      "sourceText": "Pénétré le cénacle",
+      "ipa": "[penetʁe lə senakl]",
+      "ear": "佩内特赫 勒 塞纳克勒",
+      "meaning": "擅闯殿堂",
+      "sourceIPA": "/penetʁe lə senakl/",
+      "sourceLineId": "notre-dame-de-paris-14-044",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2010,
+        "similarity": 0.262,
+        "groupSize": 8
+      }
+    },
+    {
+      "start": 2028,
+      "sourceText": "Pénétré le cénacle de la Cour des Miracles",
+      "ipa": "[penetʁe lə senakl də la kuʁ de miʁakl]",
+      "ear": "佩内特赫 勒 塞纳克勒 德 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/penetʁe lə senakl də la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-045",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2028,
+        "similarity": 0.373,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2035.5,
+      "sourceText": "À moins qu'une femme",
+      "ipa": "[a mwɛ̃ kyn fam]",
+      "ear": "阿 姆乌安 基于恩 法姆",
+      "meaning": "除非哪位女子",
+      "sourceIPA": "/a mwɛ̃ kyn fam/",
+      "sourceLineId": "notre-dame-de-paris-14-046",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2028,
+        "similarity": 0.373,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2038,
+      "sourceText": "Ne vous prenne pour époux garde-à-vous",
+      "ipa": "[nə vu pʁɛn puʁ‿epu ɡaʁdavu]",
+      "ear": "讷 乌 普赫恩 普赫 诶普 嘎赫达乌",
+      "meaning": "愿意嫁您为妻—立正！",
+      "sourceIPA": "/nə vu pʁɛn puʁ epu ɡaʁdavu/",
+      "sourceLineId": "notre-dame-de-paris-14-047",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2038,
+        "similarity": 0.541,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2042.125,
+      "sourceText": "Je le proclame les poètes en France",
+      "ipa": "[ʒə lə pʁɔklam le pɔɛt‿ɑ̃ fʁɑ̃s]",
+      "ear": "热 勒 普霍克拉姆 莱 珀艾特 昂 弗杭斯",
+      "meaning": "我要给法国的诗人们",
+      "sourceIPA": "/ʒə lə pʁɔklam le pɔɛtz ɑ̃ fʁɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-14-048",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2038,
+        "similarity": 0.541,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2046.25,
+      "sourceText": "Sont bons pour la potence",
+      "ipa": "[sɔ̃ bɔ̃ puʁ la potɑ̃s]",
+      "ear": "松 崩 普赫 拉 波唐斯",
+      "meaning": "都判绞刑",
+      "sourceIPA": "/sɔ̃ bɔ̃ puʁ la potɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-14-049",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2038,
+        "similarity": 0.541,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2049,
+      "sourceText": "Les poètes en France",
+      "ipa": "[le pɔɛt‿ɑ̃ fʁɑ̃s]",
+      "ear": "莱 珀艾特 昂 弗杭斯",
+      "meaning": "法国的诗人们",
+      "sourceIPA": "/le pɔɛtz ɑ̃ fʁɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-14-050",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2049,
+        "similarity": 0.718,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2052.25,
+      "sourceText": "Les poètes en France sont bons pour la potence",
+      "ipa": "[le pɔɛt‿ɑ̃ fʁɑ̃s sɔ̃ bɔ̃ puʁ la potɑ̃s]",
+      "ear": "莱 珀艾特 昂 弗杭斯 松 崩 普赫 拉 波唐斯",
+      "meaning": "法国的诗人们最适合绞刑咯",
+      "sourceIPA": "/le pɔɛtz ɑ̃ fʁɑ̃s sɔ̃ bɔ̃ puʁ la potɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-14-051",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2049,
+        "similarity": 0.718,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2063,
+      "sourceText": "Et toi le belle que voilà",
+      "ipa": "[e twa lə bɛl kə vwala]",
+      "ear": "诶 特乌阿 勒 贝勒 克 弗乌阿拉",
+      "meaning": "我的美人儿在那儿",
+      "sourceIPA": "/e twa lə bɛl kə vwala/",
+      "sourceLineId": "notre-dame-de-paris-14-052",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2063,
+        "similarity": 0.436,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2065.032,
+      "sourceText": "Ma belle Esméralda",
+      "ipa": "[ma bɛl‿ɛsmeʁalda]",
+      "ear": "玛 贝勒 艾斯梅哈勒达",
+      "meaning": "我美貌的艾斯美拉达",
+      "sourceIPA": "/ma bɛl ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-14-053",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2063,
+        "similarity": 0.436,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2066.774,
+      "sourceText": "Veux-tu prendre pour époux",
+      "ipa": "[vøty pʁɑ̃dʁ puʁ‿epu]",
+      "ear": "弗厄蒂于 普杭德赫 普赫 诶普",
+      "meaning": "你可愿委身",
+      "sourceIPA": "/vøty pʁɑ̃dʁ puʁ epu/",
+      "sourceLineId": "notre-dame-de-paris-14-054",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2063,
+        "similarity": 0.436,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2068.516,
+      "sourceText": "Ce poète de quatre sous?",
+      "ipa": "[sə pɔɛt də katʁ su]",
+      "ear": "瑟 珀艾特 德 卡特赫 苏",
+      "meaning": "这个蹩脚诗人",
+      "sourceIPA": "/sə pɔɛt də katʁ su/",
+      "sourceLineId": "notre-dame-de-paris-14-055",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2063,
+        "similarity": 0.436,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2070.258,
+      "sourceText": "Ce poète de quatre sous?",
+      "ipa": "[sə pɔɛt də katʁ su]",
+      "ear": "瑟 珀艾特 德 卡特赫 苏",
+      "meaning": "这个蹩脚诗人",
+      "sourceIPA": "/sə pɔɛt də katʁ su/",
+      "sourceLineId": "notre-dame-de-paris-14-056",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2063,
+        "similarity": 0.436,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 2077,
+      "sourceText": "S'il est à prendre, je le prends",
+      "ipa": "[sil‿ɛt‿a pʁɑ̃dʁ ʒə lə pʁɑ̃]",
+      "ear": "西勒 艾特 阿 普杭德赫 热 勒 普杭",
+      "meaning": "既然这样 我要他",
+      "sourceIPA": "/sil ɛt a pʁɑ̃dʁ ʒə lə pʁɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-14-057",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2077,
+        "similarity": 0.614,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2083,
+      "sourceText": "Je te le donne pour mari, mais certes pas pour amant",
+      "ipa": "[ʒə tə lə dɔn puʁ maʁi mɛ sɛʁt pa puʁ‿amɑ̃]",
+      "ear": "热 特 勒 多恩 普赫 玛希 梅 塞赫特 帕 普赫 阿芒",
+      "meaning": "我把他送你作丈夫 但当然不是情人",
+      "sourceIPA": "/klopɛ̃ ʒə tə lə dɔn puʁ maʁi mɛ sɛʁt pa puʁ amɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-14-058",
+      "speaker": "Clopin",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2083,
+        "similarity": 0.46,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 2095,
+      "sourceText": "Le sang et le vin ont la même couleur",
+      "ipa": "[lə sɑ̃ e lə vɛ̃ ɔ̃ la mɛm kulœʁ]",
+      "ear": "勒 桑 诶 勒 万 翁 拉 梅姆 库勒厄赫",
+      "meaning": "血液与美酒同享一色",
+      "sourceIPA": "/lə sɑ̃ e lə vɛ̃ ɔ̃ la mɛm kulœʁ/",
+      "sourceLineId": "notre-dame-de-paris-14-059",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2095,
+        "similarity": 0.585,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2097.812,
+      "sourceText": "À la Cour des Miracles. À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒 阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区 在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-060",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2095,
+        "similarity": 0.585,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2101.188,
+      "sourceText": "Les filles de joie dansent avec les voleurs",
+      "ipa": "[le fij də ʒwa dɑ̃s‿avɛk le volœʁ]",
+      "ear": "莱 菲耶 德 日乌阿 当斯 阿韦克 莱 沃勒厄赫",
+      "meaning": "妓女与盗贼共舞",
+      "sourceIPA": "/le fij də ʒwa dɑ̃s avɛk le volœʁ/",
+      "sourceLineId": "notre-dame-de-paris-14-061",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2095,
+        "similarity": 0.585,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2104,
+      "sourceText": "À la Cour des Miracles. À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒 阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区 在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-062",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2104,
+        "similarity": 0.423,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2107.273,
+      "sourceText": "Mendiants et brigands dansent la même danse",
+      "ipa": "[mɑ̃djɑ̃ e bʁiɡɑ̃ dɑ̃s la mɛm dɑ̃s]",
+      "ear": "芒德耶昂 诶 布希冈 当斯 拉 梅姆 当斯",
+      "meaning": "乞丐与劫匪共舞",
+      "sourceIPA": "/mɑ̃djɑ̃z e bʁiɡɑ̃ dɑ̃s la mɛm dɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-14-063",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2104,
+        "similarity": 0.423,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2109.727,
+      "sourceText": "À la Cour des Miracles. À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒 阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区 在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-064",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2104,
+        "similarity": 0.423,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2113,
+      "sourceText": "Puisque nous sommes tous des gibiers de potence",
+      "ipa": "[pɥiskə nu sɔm tus de ʒibje də potɑ̃s]",
+      "ear": "普于伊斯克 努 索姆 图斯 德 日布耶诶 德 波唐斯",
+      "meaning": "既然我们都是绞架的猎物",
+      "sourceIPA": "/pɥiskə nu sɔm tus de ʒibje də potɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-14-065",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2113,
+        "similarity": 0.442,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2114.886,
+      "sourceText": "À la Cour des Miracles. À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒 阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区 在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-066",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2113,
+        "similarity": 0.442,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2116.943,
+      "sourceText": "À la Cour des Miracles. À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒 阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区 在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-067",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2113,
+        "similarity": 0.442,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2127,
+      "sourceText": "Truands et Gitans chantent la même chanson",
+      "ipa": "[tʁyɑ̃ e ʒitɑ̃ ʃɑ̃t la mɛm ʃɑ̃sɔ̃]",
+      "ear": "特许昂 诶 日唐 尚特 拉 梅姆 尚松",
+      "meaning": "乞丐和茨冈人同歌一曲",
+      "sourceIPA": "/tʁyɑ̃z e ʒitɑ̃ ʃɑ̃t la mɛm ʃɑ̃sɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-14-068",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2127,
+        "similarity": 0.437,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2129.424,
+      "sourceText": "À la Cour des Miracles. À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒 阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区 在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-069",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2127,
+        "similarity": 0.437,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2132.333,
+      "sourceText": "Puisque nous sommes tous évadés de prison",
+      "ipa": "[pɥiskə nu sɔm tus‿evade də pʁizɔ̃]",
+      "ear": "普于伊斯克 努 索姆 图斯 诶瓦德 德 普希宗",
+      "meaning": "既然我们都是逃犯",
+      "sourceIPA": "/pɥiskə nu sɔm tus evade də pʁizɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-14-070",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2127,
+        "similarity": 0.437,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2135,
+      "sourceText": "À la Cour des Miracles. À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒 阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区 在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-071",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2135,
+        "similarity": 0.627,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2138.176,
+      "sourceText": "Voleurs et tueurs boivent au même calice",
+      "ipa": "[volœʁ e tyœʁ bwav‿o mɛm kalis]",
+      "ear": "沃勒厄赫 诶 蒂于厄赫 布乌阿弗 奥 梅姆 卡利斯",
+      "meaning": "窃贼与杀人犯同杯共盏",
+      "sourceIPA": "/volœʁz e tyœʁ bwavt o mɛm kalis/",
+      "sourceLineId": "notre-dame-de-paris-14-072",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2135,
+        "similarity": 0.627,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2140.824,
+      "sourceText": "À la Cour des Miracles. À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒 阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区 在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-073",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2135,
+        "similarity": 0.627,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2144,
+      "sourceText": "Puisque nous sommes tous des repris de justice",
+      "ipa": "[pɥiskə nu sɔm tus de ʁəpʁi də ʒystis]",
+      "ear": "普于伊斯克 努 索姆 图斯 德 赫普希 德 日于斯蒂斯",
+      "meaning": "既然我们都是惯犯",
+      "sourceIPA": "/pɥiskə nu sɔm tus de ʁəpʁi də ʒystis/",
+      "sourceLineId": "notre-dame-de-paris-14-074",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2144,
+        "similarity": 0.352,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2146.87,
+      "sourceText": "À la Cour des Miracles. À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒 阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区 在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-075",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2144,
+        "similarity": 0.352,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2150,
+      "sourceText": "À la Cour des Miracles. À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒 阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区 在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-076",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2150,
+        "similarity": 0.202,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2154.4,
+      "sourceText": "À la Cour des Miracles.",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-077",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2150,
+        "similarity": 0.202,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2156.6,
+      "sourceText": "À la Cour des Miracles",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-078",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2150,
+        "similarity": 0.202,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 2158.8,
+      "sourceText": "À la Cour des Miracles.",
+      "ipa": "[a la kuʁ de miʁakl]",
+      "ear": "阿 拉 库赫 德 米哈克勒",
+      "meaning": "在圣迹区",
+      "sourceIPA": "/a la kuʁ de miʁakl/",
+      "sourceLineId": "notre-dame-de-paris-14-079",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2150,
+        "similarity": 0.202,
+        "groupSize": 4
+      }
+    }
+  ]
+}

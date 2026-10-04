@@ -1,0 +1,682 @@
+{
+  "videoId": "qT6Mpkj9Y8Q",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=68"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 71,
+      "sourceText": "C'est une histoire qui a pour lieu",
+      "ipa": "[sɛt‿yn‿istwaʁ ki a puʁ ljø]",
+      "ear": "塞特 于恩 伊斯特乌阿赫 基 阿 普赫 勒耶厄",
+      "meaning": "这个故事发生于",
+      "sourceIPA": "/sɛt yn istwaʁ ki a puʁ ljø/",
+      "sourceLineId": "notre-dame-de-paris-02-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 71,
+        "similarity": 0.848,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 74.636,
+      "sourceText": "Paris la belle en l'an de Dieu",
+      "ipa": "[paʁi la bɛl‿ɑ̃ lɑ̃ də djø]",
+      "ear": "帕希 拉 贝勒 昂 朗 德 德耶厄",
+      "meaning": "美丽的巴黎，时值公元",
+      "sourceIPA": "/paʁi la bɛl ɑ̃ lɑ̃ də djø/",
+      "sourceLineId": "notre-dame-de-paris-02-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 71,
+        "similarity": 0.848,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 78.273,
+      "sourceText": "Mil quatre cent quatre vingt deux",
+      "ipa": "[mil katʁ sɑ̃ katʁ vɛ̃t dø]",
+      "ear": "米勒 卡特赫 桑 卡特赫 万特 德厄",
+      "meaning": "一四八二年",
+      "sourceIPA": "/mil katʁ sɑ̃ katʁ vɛ̃t dø/",
+      "sourceLineId": "notre-dame-de-paris-02-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 71,
+        "similarity": 0.848,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 81,
+      "sourceText": "Histoire d'amour et de désir",
+      "ipa": "[istwaʁ damuʁ e də deziʁ]",
+      "ear": "伊斯特乌阿赫 达穆赫 诶 德 德齐赫",
+      "meaning": "叙述爱与欲望的故事",
+      "sourceIPA": "/istwaʁ damuʁ e də deziʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 81,
+        "similarity": 0.583,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 84.478,
+      "sourceText": "Nous les artistes anonymes",
+      "ipa": "[nu lez‿aʁtist‿anonim]",
+      "ear": "努 莱兹 阿赫蒂斯特 阿诺尼姆",
+      "meaning": "我们这些无名艺术家",
+      "sourceIPA": "/nu lez aʁtistz anonim/",
+      "sourceLineId": "notre-dame-de-paris-02-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 81,
+        "similarity": 0.583,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 87.522,
+      "sourceText": "De la sculpture ou de la rime",
+      "ipa": "[də la skyltyʁ‿u də la ʁim]",
+      "ear": "德 拉 斯基于勒蒂于赫 乌 德 拉 希姆",
+      "meaning": "运用意象和诗韵",
+      "sourceIPA": "/də la skyltyʁ u də la ʁim/",
+      "sourceLineId": "notre-dame-de-paris-02-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 81,
+        "similarity": 0.583,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 91,
+      "sourceText": "Tenterons de vous la transcrire",
+      "ipa": "[tɑ̃tʁɔ̃ də vu la tʁɑ̃skʁiʁ]",
+      "ear": "唐特洪 德 乌 拉 特杭斯克希赫",
+      "meaning": "试着赋予它生命",
+      "sourceIPA": "/tɑ̃tʁɔ̃ də vu la tʁɑ̃skʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 91,
+        "similarity": 0.365,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 94.231,
+      "sourceText": "Pour les siècles à venir",
+      "ipa": "[puʁ le sjɛkl‿a vəniʁ]",
+      "ear": "普赫 莱 斯耶艾克勒 阿 弗尼赫",
+      "meaning": "献给未来的世纪",
+      "sourceIPA": "/puʁ le sjɛklz a vəniʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 91,
+        "similarity": 0.365,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 97,
+      "sourceText": "Il est venu le temps des cathédrales",
+      "ipa": "[il‿ɛ vəny lə tɑ̃ de katedʁal]",
+      "ear": "伊勒 艾 弗尼于 勒 唐 德 卡特德哈勒",
+      "meaning": "大教堂撑起这信仰的时代",
+      "sourceIPA": "/il ɛ vəny lə tɑ̃ de katedʁal/",
+      "sourceLineId": "notre-dame-de-paris-02-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 97,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 105,
+      "sourceText": "Le monde est entré",
+      "ipa": "[lə mɔ̃d‿ɛt‿ɑ̃tʁe]",
+      "ear": "勒 蒙德 艾特 昂特赫",
+      "meaning": "世界进入了",
+      "sourceIPA": "/lə mɔ̃d ɛt ɑ̃tʁe/",
+      "sourceLineId": "notre-dame-de-paris-02-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 105,
+        "similarity": 0.624,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 107.917,
+      "sourceText": "Dans un nouveau millénaire",
+      "ipa": "[dɑ̃ œ̃ nuvo milenɛʁ]",
+      "ear": "当 恩 努沃 米莱奈赫",
+      "meaning": "一个新的纪元",
+      "sourceIPA": "/dɑ̃z œ̃ nuvo milenɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 105,
+        "similarity": 0.624,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 112,
+      "sourceText": "L'homme a voulu monter vers les étoiles",
+      "ipa": "[lɔm‿a vuly mɔ̃te vɛʁ lez‿etwal]",
+      "ear": "洛姆 阿 乌吕 蒙特 韦赫 莱兹 诶特乌阿勒",
+      "meaning": "人类企图攀及星星",
+      "sourceIPA": "/lɔm a vuly mɔ̃te vɛʁ lez etwal/",
+      "sourceLineId": "notre-dame-de-paris-02-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 112,
+        "similarity": 0.609,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 118,
+      "sourceText": "Ecrire son histoire",
+      "ipa": "[ekʁiʁ sɔ̃n‿istwaʁ]",
+      "ear": "诶克希赫 松恩 伊斯特乌阿赫",
+      "meaning": "镂刻下自己的事迹",
+      "sourceIPA": "/ekʁiʁ sɔ̃n istwaʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 118,
+        "similarity": 0.744,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 121.25,
+      "sourceText": "Dans le verre ou dans la pierre",
+      "ipa": "[dɑ̃ lə vɛʁ‿u dɑ̃ la pjɛʁ]",
+      "ear": "当 勒 韦赫 乌 当 拉 普耶艾赫",
+      "meaning": "在彩色玻璃或石块上",
+      "sourceIPA": "/dɑ̃ lə vɛʁ u dɑ̃ la pjɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 118,
+        "similarity": 0.744,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 128,
+      "sourceText": "Pierre après pierre, jour après jour",
+      "ipa": "[pjɛʁ‿apʁɛ pjɛʁ ʒuʁ‿apʁɛ ʒuʁ]",
+      "ear": "普耶艾赫 阿普赫 普耶艾赫 茹赫 阿普赫 茹赫",
+      "meaning": "一砖一石，日复一日",
+      "sourceIPA": "/pjɛʁ apʁɛ pjɛʁ ʒuʁ apʁɛ ʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 128,
+        "similarity": 0.682,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 131.478,
+      "sourceText": "De siècle en siècle avec amour",
+      "ipa": "[də sjɛkl‿ɑ̃ sjɛkl‿avɛk‿amuʁ]",
+      "ear": "德 斯耶艾克勒 昂 斯耶艾克勒 阿韦克 阿穆赫",
+      "meaning": "一世纪接一世纪，爱从未消逝",
+      "sourceIPA": "/də sjɛkl ɑ̃ sjɛkl avɛk amuʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 128,
+        "similarity": 0.682,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 134.957,
+      "sourceText": "Il a vu s'élever les tours",
+      "ipa": "[il‿a vy selve le tuʁ]",
+      "ear": "伊勒 阿 维于 塞勒韦 莱 图赫",
+      "meaning": "眼看越升越高的大厦",
+      "sourceIPA": "/il a vy selve le tuʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 128,
+        "similarity": 0.682,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 138,
+      "sourceText": "Qu'il avait baties de ses mains",
+      "ipa": "[kil‿avɛ bati də se mɛ̃]",
+      "ear": "基勒 阿韦 巴蒂 德 塞 曼",
+      "meaning": "人类亲手把它们建造",
+      "sourceIPA": "/kil avɛ bati də se mɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-02-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 138,
+        "similarity": 0.632,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 141.333,
+      "sourceText": "Les poètes et les troubadours",
+      "ipa": "[le pɔɛt e le tʁubaduʁ]",
+      "ear": "莱 珀艾特 诶 莱 特胡巴杜赫",
+      "meaning": "诗人和吟游诗人",
+      "sourceIPA": "/le pɔɛtz e le tʁubaduʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 138,
+        "similarity": 0.632,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 144.667,
+      "sourceText": "Ont chanté des chansons d'amour",
+      "ipa": "[ɔ̃ ʃɑ̃te de ʃɑ̃sɔ̃ damuʁ]",
+      "ear": "翁 尚特 德 尚松 达穆赫",
+      "meaning": "唱着爱曲情歌",
+      "sourceIPA": "/ɔ̃ ʃɑ̃te de ʃɑ̃sɔ̃ damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 138,
+        "similarity": 0.632,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 148,
+      "sourceText": "Qui promettaient au genre humain",
+      "ipa": "[ki pʁomɛtɛ o ʒɑ̃ʁ‿ymɛ̃]",
+      "ear": "基 普霍梅泰 奥 让赫 于曼",
+      "meaning": "许诺要带给全人类",
+      "sourceIPA": "/ki pʁomɛtɛt o ʒɑ̃ʁ ymɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-02-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 148,
+        "similarity": 0.42,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 152.308,
+      "sourceText": "De meilleurs lendemains",
+      "ipa": "[də mɛjœʁ lɑ̃dmɛ̃]",
+      "ear": "德 梅耶厄赫 朗德曼",
+      "meaning": "一个更好的明天",
+      "sourceIPA": "/də mɛjœʁ lɑ̃dmɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-02-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 148,
+        "similarity": 0.42,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 155,
+      "sourceText": "Il est venu le temps des cathédrales",
+      "ipa": "[il‿ɛ vəny lə tɑ̃ de katedʁal]",
+      "ear": "伊勒 艾 弗尼于 勒 唐 德 卡特德哈勒",
+      "meaning": "大教堂撑起这信仰的时代",
+      "sourceIPA": "/il ɛ vəny lə tɑ̃ de katedʁal/",
+      "sourceLineId": "notre-dame-de-paris-02-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 155,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 162,
+      "sourceText": "Le monde est entré",
+      "ipa": "[lə mɔ̃d‿ɛt‿ɑ̃tʁe]",
+      "ear": "勒 蒙德 艾特 昂特赫",
+      "meaning": "世界进入了",
+      "sourceIPA": "/lə mɔ̃d ɛt ɑ̃tʁe/",
+      "sourceLineId": "notre-dame-de-paris-02-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 162,
+        "similarity": 0.602,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 164.917,
+      "sourceText": "Dans un nouveau millénaire",
+      "ipa": "[dɑ̃ œ̃ nuvo milenɛʁ]",
+      "ear": "当 恩 努沃 米莱奈赫",
+      "meaning": "一个新的纪元",
+      "sourceIPA": "/dɑ̃z œ̃ nuvo milenɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 162,
+        "similarity": 0.602,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 169,
+      "sourceText": "L'homme a voulu monter vers les étoiles",
+      "ipa": "[lɔm‿a vuly mɔ̃te vɛʁ lez‿etwal]",
+      "ear": "洛姆 阿 乌吕 蒙特 韦赫 莱兹 诶特乌阿勒",
+      "meaning": "人类企图攀及星星",
+      "sourceIPA": "/lɔm a vuly mɔ̃te vɛʁ lez etwal/",
+      "sourceLineId": "notre-dame-de-paris-02-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 169,
+        "similarity": 0.609,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 176,
+      "sourceText": "Ecrire son histoire",
+      "ipa": "[ekʁiʁ sɔ̃n‿istwaʁ]",
+      "ear": "诶克希赫 松恩 伊斯特乌阿赫",
+      "meaning": "镂刻下自己的事迹",
+      "sourceIPA": "/ekʁiʁ sɔ̃n istwaʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 176,
+        "similarity": 0.744,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 179.25,
+      "sourceText": "Dans le verre ou dans la pierre",
+      "ipa": "[dɑ̃ lə vɛʁ‿u dɑ̃ la pjɛʁ]",
+      "ear": "当 勒 韦赫 乌 当 拉 普耶艾赫",
+      "meaning": "在彩色玻璃或石块上",
+      "sourceIPA": "/dɑ̃ lə vɛʁ u dɑ̃ la pjɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 176,
+        "similarity": 0.744,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 186,
+      "sourceText": "Il est venu le temps des cathédrales",
+      "ipa": "[il‿ɛ vəny lə tɑ̃ de katedʁal]",
+      "ear": "伊勒 艾 弗尼于 勒 唐 德 卡特德哈勒",
+      "meaning": "大教堂撑起这信仰的时代",
+      "sourceIPA": "/il ɛ vəny lə tɑ̃ de katedʁal/",
+      "sourceLineId": "notre-dame-de-paris-02-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 186,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 194,
+      "sourceText": "Le monde est entré",
+      "ipa": "[lə mɔ̃d‿ɛt‿ɑ̃tʁe]",
+      "ear": "勒 蒙德 艾特 昂特赫",
+      "meaning": "世界进入了",
+      "sourceIPA": "/lə mɔ̃d ɛt ɑ̃tʁe/",
+      "sourceLineId": "notre-dame-de-paris-02-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 194,
+        "similarity": 0.602,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 196.917,
+      "sourceText": "Dans un nouveau millénaire",
+      "ipa": "[dɑ̃ œ̃ nuvo milenɛʁ]",
+      "ear": "当 恩 努沃 米莱奈赫",
+      "meaning": "一个新的纪元",
+      "sourceIPA": "/dɑ̃z œ̃ nuvo milenɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 194,
+        "similarity": 0.602,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 201,
+      "sourceText": "L'homme a voulu monter vers les étoiles",
+      "ipa": "[lɔm‿a vuly mɔ̃te vɛʁ lez‿etwal]",
+      "ear": "洛姆 阿 乌吕 蒙特 韦赫 莱兹 诶特乌阿勒",
+      "meaning": "人类企图攀及星星",
+      "sourceIPA": "/lɔm a vuly mɔ̃te vɛʁ lez etwal/",
+      "sourceLineId": "notre-dame-de-paris-02-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 201,
+        "similarity": 0.609,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 207,
+      "sourceText": "Ecrire son histoire",
+      "ipa": "[ekʁiʁ sɔ̃n‿istwaʁ]",
+      "ear": "诶克希赫 松恩 伊斯特乌阿赫",
+      "meaning": "镂刻下自己的事迹",
+      "sourceIPA": "/ekʁiʁ sɔ̃n istwaʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 207,
+        "similarity": 0.744,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 210.25,
+      "sourceText": "Dans le verre ou dans la pierre",
+      "ipa": "[dɑ̃ lə vɛʁ‿u dɑ̃ la pjɛʁ]",
+      "ear": "当 勒 韦赫 乌 当 拉 普耶艾赫",
+      "meaning": "在彩色玻璃或石块上",
+      "sourceIPA": "/dɑ̃ lə vɛʁ u dɑ̃ la pjɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 207,
+        "similarity": 0.744,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 219,
+      "sourceText": "Il est foutu le temps des cathédrales",
+      "ipa": "[il‿ɛ futy lə tɑ̃ de katedʁal]",
+      "ear": "伊勒 艾 富蒂于 勒 唐 德 卡特德哈勒",
+      "meaning": "信仰的时代已成云烟",
+      "sourceIPA": "/il ɛ futy lə tɑ̃ de katedʁal/",
+      "sourceLineId": "notre-dame-de-paris-02-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 219,
+        "similarity": 0.79,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 227,
+      "sourceText": "La foule des barbares",
+      "ipa": "[la ful de baʁbaʁ]",
+      "ear": "拉 富勒 德 巴赫巴赫",
+      "meaning": "一群群野蛮人",
+      "sourceIPA": "/la ful de baʁbaʁ/",
+      "sourceLineId": "notre-dame-de-paris-02-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 227,
+        "similarity": 0.65,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 230.182,
+      "sourceText": "Est aux portes de la ville",
+      "ipa": "[ɛt‿o pɔʁt də la vil]",
+      "ear": "艾特 奥 珀赫特 德 拉 维勒",
+      "meaning": "聚集在城门",
+      "sourceIPA": "/ɛt o pɔʁt də la vil/",
+      "sourceLineId": "notre-dame-de-paris-02-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 227,
+        "similarity": 0.65,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 234,
+      "sourceText": "Laissez entrer ces païens ces vandales",
+      "ipa": "[lɛse ɑ̃tʁe se pajɛ̃ se vɑ̃dal]",
+      "ear": "莱塞 昂特赫 塞 帕耶安 塞 旺达勒",
+      "meaning": "异教徒和破坏者纷纷涌进",
+      "sourceIPA": "/lɛsez ɑ̃tʁe se pajɛ̃ se vɑ̃dal/",
+      "sourceLineId": "notre-dame-de-paris-02-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 234,
+        "similarity": 0.735,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 241,
+      "sourceText": "La fin de ce monde",
+      "ipa": "[la fɛ̃ də sə mɔ̃d]",
+      "ear": "拉 凡 德 瑟 蒙德",
+      "meaning": "世界末日就要来到",
+      "sourceIPA": "/la fɛ̃ də sə mɔ̃d/",
+      "sourceLineId": "notre-dame-de-paris-02-039",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 241,
+        "similarity": 0.43,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 244.25,
+      "sourceText": "Est prévue pour l'an deux mille",
+      "ipa": "[ɛ pʁevy puʁ lɑ̃ dø mil]",
+      "ear": "艾 普赫维于 普赫 朗 德厄 米勒",
+      "meaning": "预言在那西元两千年",
+      "sourceIPA": "/ɛ pʁevy puʁ lɑ̃ dø mil/",
+      "sourceLineId": "notre-dame-de-paris-02-040",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 241,
+        "similarity": 0.43,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 251,
+      "sourceText": "Est prévue pour l'an deux mille",
+      "ipa": "[ɛ pʁevy puʁ lɑ̃ dø mil]",
+      "ear": "艾 普赫维于 普赫 朗 德厄 米勒",
+      "meaning": "预言在那西元两千年",
+      "sourceIPA": "/ɛ pʁevy puʁ lɑ̃ dø mil/",
+      "sourceLineId": "notre-dame-de-paris-02-041",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 251,
+        "similarity": 0.217,
+        "groupSize": 1
+      }
+    }
+  ]
+}

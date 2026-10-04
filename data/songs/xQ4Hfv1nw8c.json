@@ -8,15 +8,236 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 44,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Dieu que le monde est injuste",
+      "start": 6554,
+      "duration": 4.5
+    },
+    {
+      "text": "Lui si beau et moi si laid",
+      "start": 6558.5,
+      "duration": 4.5
+    },
+    {
+      "text": "Je te donnerais la lune",
+      "start": 6563,
+      "duration": 3.692
+    },
+    {
+      "text": "Tu ne voudrais pas m'aimer",
+      "start": 6566.692,
+      "duration": 4.308
+    },
+    {
+      "text": "Et lui sans faire un seul geste",
+      "start": 6571,
+      "duration": 4.5
+    },
+    {
+      "text": "Sans un mot sans un regard",
+      "start": 6575.5,
+      "duration": 4.5
+    },
+    {
+      "text": "Il a mis de la tendresse",
+      "start": 6580,
+      "duration": 4.5
+    },
+    {
+      "text": "Au fond de tes grands yeux noirs",
+      "start": 6584.5,
+      "duration": 4.5
+    },
+    {
+      "text": "Tu lui donneras ton corps",
+      "start": 6589,
+      "duration": 3.692
+    },
+    {
+      "text": "Tu croiras à ses serments",
+      "start": 6592.692,
+      "duration": 4.308
+    },
+    {
+      "text": "Tu l'aimes pour le dehors",
+      "start": 6597,
+      "duration": 3.857
+    },
+    {
+      "text": "Sans voir ce qu'il y a dedans",
+      "start": 6600.857,
+      "duration": 5.143
+    },
+    {
+      "text": "Dieu que le monde est injuste",
+      "start": 6606,
+      "duration": 4.0
+    },
+    {
+      "text": "Lui seigneur et moi vaurien",
+      "start": 6610.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Il te donnera la lune",
+      "start": 6614,
+      "duration": 3.9
+    },
+    {
+      "text": "Toi qui ne demandais rien",
+      "start": 6617.9,
+      "duration": 4.55
+    },
+    {
+      "text": "Dieu que le monde est injuste",
+      "start": 6623,
+      "duration": 4.308
+    },
+    {
+      "text": "Aime ton beau cavalier",
+      "start": 6627.308,
+      "duration": 3.692
+    },
+    {
+      "text": "Le satin de ta peau brune",
+      "start": 6631,
+      "duration": 4.5
+    },
+    {
+      "text": "N'est pas pour les va-nu-pieds",
+      "start": 6635.5,
+      "duration": 4.5
+    },
+    {
+      "text": "Ma laideur est une insulte",
+      "start": 6640,
+      "duration": 4.0
+    },
+    {
+      "text": "À ta beauté insolente",
+      "start": 6644.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Une erreur de la nature",
+      "start": 6648,
+      "duration": 4.55
+    },
+    {
+      "text": "Qui ne me fut pas aimante",
+      "start": 6652.55,
+      "duration": 4.55
+    },
+    {
+      "text": "Dieu que le monde est injuste",
+      "start": 6658,
+      "duration": 4.308
+    },
+    {
+      "text": "Notre lot n'est pas le leur",
+      "start": 6662.308,
+      "duration": 3.692
+    },
+    {
+      "text": "Nous n'avons pas de fortune",
+      "start": 6666,
+      "duration": 4.5
+    },
+    {
+      "text": "Mais eux, ont-ils donc un cœur",
+      "start": 6670.5,
+      "duration": 4.5
+    },
+    {
+      "text": "Ils sont nés dans la dentelle",
+      "start": 6675,
+      "duration": 4.0
+    },
+    {
+      "text": "Pour faire l'amour et la guerre",
+      "start": 6679.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Mais nous pauvres vers de terre",
+      "start": 6683,
+      "duration": 3.9
+    },
+    {
+      "text": "Notre vie est bien plus belle",
+      "start": 6686.9,
+      "duration": 3.9
+    },
+    {
+      "text": "Mais de quel côté est Dieu",
+      "start": 6691,
+      "duration": 4.5
+    },
+    {
+      "text": "Du côté des ostensoirs",
+      "start": 6695.5,
+      "duration": 4.5
+    },
+    {
+      "text": "Ou bien du côté de ceux",
+      "start": 6700,
+      "duration": 4.0
+    },
+    {
+      "text": "Qui le prient matin et soir",
+      "start": 6704.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Ce Jésus que l'on adore",
+      "start": 6708,
+      "duration": 4.0
+    },
+    {
+      "text": "A-t-il toujours préféré",
+      "start": 6712.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Les Rois Mages avec leur or",
+      "start": 6716,
+      "duration": 4.55
+    },
+    {
+      "text": "À nous autres pauvres bergers",
+      "start": 6720.55,
+      "duration": 3.9
+    },
+    {
+      "text": "Dieu que la vie est cruelle",
+      "start": 6726,
+      "duration": 4.0
+    },
+    {
+      "text": "Pour deux cœurs qui se cherchaient",
+      "start": 6730.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Moi si laid et toi si belle",
+      "start": 6734,
+      "duration": 4.55
+    },
+    {
+      "text": "Comment pourrais-tu m'aimer",
+      "start": 6738.55,
+      "duration": 4.55
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6542",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -124,6 +345,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

@@ -1,0 +1,273 @@
+{
+  "videoId": "3AnTqOIgPr0",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=7947"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 7947,
+      "sourceText": "Il est venu le temps des cathédrales",
+      "ipa": "[il‿ɛ vəny lə tɑ̃ de katedʁal]",
+      "ear": "伊勒 艾 弗尼于 勒 唐 德 卡特德哈勒",
+      "meaning": "大教堂撑起这信仰的时代",
+      "sourceIPA": "/il ɛ vəny lə tɑ̃ de katedʁal/",
+      "sourceLineId": "notre-dame-de-paris-53-001",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 7955.261,
+      "sourceText": "Le monde est entré",
+      "ipa": "[lə mɔ̃d‿ɛt‿ɑ̃tʁe]",
+      "ear": "勒 蒙德 艾特 昂特赫",
+      "meaning": "世界进入了",
+      "sourceIPA": "/lə mɔ̃d ɛt ɑ̃tʁe/",
+      "sourceLineId": "notre-dame-de-paris-53-002",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 7959.391,
+      "sourceText": "Dans un nouveau millénaire",
+      "ipa": "[dɑ̃ œ̃ nuvo milenɛʁ]",
+      "ear": "当 恩 努沃 米莱奈赫",
+      "meaning": "一个新的纪元",
+      "sourceIPA": "/dɑ̃z œ̃ nuvo milenɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-53-003",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 7965.174,
+      "sourceText": "L'homme a voulu monter vers les étoiles",
+      "ipa": "[lɔm‿a vuly mɔ̃te vɛʁ lez‿etwal]",
+      "ear": "洛姆 阿 乌吕 蒙特 韦赫 莱兹 诶特乌阿勒",
+      "meaning": "人类企图攀及星星",
+      "sourceIPA": "/lɔm a vuly mɔ̃te vɛʁ lez etwal/",
+      "sourceLineId": "notre-dame-de-paris-53-004",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 7973.435,
+      "sourceText": "Ecrire son histoire",
+      "ipa": "[ekʁiʁ sɔ̃n‿istwaʁ]",
+      "ear": "诶克希赫 松恩 伊斯特乌阿赫",
+      "meaning": "镂刻下自己的事迹",
+      "sourceIPA": "/ekʁiʁ sɔ̃n istwaʁ/",
+      "sourceLineId": "notre-dame-de-paris-53-005",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 7977.565,
+      "sourceText": "Dans le verre ou dans la pierre",
+      "ipa": "[dɑ̃ lə vɛʁ‿u dɑ̃ la pjɛʁ]",
+      "ear": "当 勒 韦赫 乌 当 拉 普耶艾赫",
+      "meaning": "在彩色玻璃或石块上",
+      "sourceIPA": "/dɑ̃ lə vɛʁ u dɑ̃ la pjɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-53-006",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 7983.348,
+      "sourceText": "Il est venu le temps des cathédrales",
+      "ipa": "[il‿ɛ vəny lə tɑ̃ de katedʁal]",
+      "ear": "伊勒 艾 弗尼于 勒 唐 德 卡特德哈勒",
+      "meaning": "大教堂撑起这信仰的时代",
+      "sourceIPA": "/il ɛ vəny lə tɑ̃ de katedʁal/",
+      "sourceLineId": "notre-dame-de-paris-53-007",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 7991.609,
+      "sourceText": "Le monde est entré",
+      "ipa": "[lə mɔ̃d‿ɛt‿ɑ̃tʁe]",
+      "ear": "勒 蒙德 艾特 昂特赫",
+      "meaning": "世界进入了",
+      "sourceIPA": "/lə mɔ̃d ɛt ɑ̃tʁe/",
+      "sourceLineId": "notre-dame-de-paris-53-008",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 7995.739,
+      "sourceText": "Dans un nouveau millénaire",
+      "ipa": "[dɑ̃ œ̃ nuvo milenɛʁ]",
+      "ear": "当 恩 努沃 米莱奈赫",
+      "meaning": "一个新的纪元",
+      "sourceIPA": "/dɑ̃z œ̃ nuvo milenɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-53-009",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 8001.522,
+      "sourceText": "L'homme a voulu monter vers les étoiles",
+      "ipa": "[lɔm‿a vuly mɔ̃te vɛʁ lez‿etwal]",
+      "ear": "洛姆 阿 乌吕 蒙特 韦赫 莱兹 诶特乌阿勒",
+      "meaning": "人类企图攀及星星",
+      "sourceIPA": "/lɔm a vuly mɔ̃te vɛʁ lez etwal/",
+      "sourceLineId": "notre-dame-de-paris-53-010",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 8009.783,
+      "sourceText": "Ecrire son histoire",
+      "ipa": "[ekʁiʁ sɔ̃n‿istwaʁ]",
+      "ear": "诶克希赫 松恩 伊斯特乌阿赫",
+      "meaning": "镂刻下自己的事迹",
+      "sourceIPA": "/ekʁiʁ sɔ̃n istwaʁ/",
+      "sourceLineId": "notre-dame-de-paris-53-011",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 8013.913,
+      "sourceText": "Dans le verre ou dans la pierre",
+      "ipa": "[dɑ̃ lə vɛʁ‿u dɑ̃ la pjɛʁ]",
+      "ear": "当 勒 韦赫 乌 当 拉 普耶艾赫",
+      "meaning": "在彩色玻璃或石块上",
+      "sourceIPA": "/dɑ̃ lə vɛʁ u dɑ̃ la pjɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-53-012",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 8019.696,
+      "sourceText": "Il est foutu le temps des cathédrales",
+      "ipa": "[il‿ɛ futy lə tɑ̃ de katedʁal]",
+      "ear": "伊勒 艾 富蒂于 勒 唐 德 卡特德哈勒",
+      "meaning": "信仰的时代已成云烟",
+      "sourceIPA": "/il ɛ futy lə tɑ̃ de katedʁal/",
+      "sourceLineId": "notre-dame-de-paris-53-013",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 8027.957,
+      "sourceText": "La foule des barbares",
+      "ipa": "[la ful de baʁbaʁ]",
+      "ear": "拉 富勒 德 巴赫巴赫",
+      "meaning": "一群群野蛮人",
+      "sourceIPA": "/la ful de baʁbaʁ/",
+      "sourceLineId": "notre-dame-de-paris-53-014",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 8032.087,
+      "sourceText": "Est aux portes de la ville",
+      "ipa": "[ɛt‿o pɔʁt də la vil]",
+      "ear": "艾特 奥 珀赫特 德 拉 维勒",
+      "meaning": "聚集在城门",
+      "sourceIPA": "/ɛt o pɔʁt də la vil/",
+      "sourceLineId": "notre-dame-de-paris-53-015",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 8037.043,
+      "sourceText": "Laissez entrer ces païens, ces vandales",
+      "ipa": "[lɛse ɑ̃tʁe se pajɛ̃ se vɑ̃dal]",
+      "ear": "莱塞 昂特赫 塞 帕耶安 塞 旺达勒",
+      "meaning": "异教徒和破坏者纷纷涌进",
+      "sourceIPA": "/lɛsez ɑ̃tʁe se pajɛ̃ se vɑ̃dal/",
+      "sourceLineId": "notre-dame-de-paris-53-016",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 8045.304,
+      "sourceText": "La fin de ce monde",
+      "ipa": "[la fɛ̃ də sə mɔ̃d]",
+      "ear": "拉 凡 德 瑟 蒙德",
+      "meaning": "世界末日就要来到",
+      "sourceIPA": "/la fɛ̃ də sə mɔ̃d/",
+      "sourceLineId": "notre-dame-de-paris-53-017",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 8049.435,
+      "sourceText": "Est prévue pour l'an deux-mille",
+      "ipa": "[ɛ pʁevy puʁ lɑ̃ dømil]",
+      "ear": "艾 普赫维于 普赫 朗 德厄米勒",
+      "meaning": "预言在那西元两千年",
+      "sourceIPA": "/ɛ pʁevy puʁ lɑ̃ dømil/",
+      "sourceLineId": "notre-dame-de-paris-53-018",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    },
+    {
+      "start": 8055.217,
+      "sourceText": "Est prévue pour l'an deux-mille",
+      "ipa": "[ɛ pʁevy puʁ lɑ̃ dømil]",
+      "ear": "艾 普赫维于 普赫 朗 德厄米勒",
+      "meaning": "预言在那西元两千年",
+      "sourceIPA": "/ɛ pʁevy puʁ lɑ̃ dømil/",
+      "sourceLineId": "notre-dame-de-paris-53-019",
+      "speaker": "",
+      "timing": {
+        "method": "chapter-interpolation"
+      }
+    }
+  ]
+}

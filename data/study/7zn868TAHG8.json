@@ -1,0 +1,890 @@
+{
+  "videoId": "7zn868TAHG8",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5047"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 5057,
+      "sourceText": "Condamnés",
+      "ipa": "[kɔ̃dane]",
+      "ear": "孔达内",
+      "meaning": "定罪",
+      "sourceIPA": "/kɔ̃dane/",
+      "sourceLineId": "notre-dame-de-paris-33-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5057,
+        "similarity": 0.581,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5058.6,
+      "sourceText": "Arrêtés",
+      "ipa": "[aʁɛte]",
+      "ear": "阿赫特",
+      "meaning": "逮捕",
+      "sourceIPA": "/aʁɛte/",
+      "sourceLineId": "notre-dame-de-paris-33-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5057,
+        "similarity": 0.581,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5060.2,
+      "sourceText": "Accusés",
+      "ipa": "[akyze]",
+      "ear": "阿基于泽",
+      "meaning": "指控",
+      "sourceIPA": "/akyze/",
+      "sourceLineId": "notre-dame-de-paris-33-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5057,
+        "similarity": 0.581,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5061.8,
+      "sourceText": "Enfermés",
+      "ipa": "[ɑ̃fɛʁme]",
+      "ear": "昂费赫梅",
+      "meaning": "囚禁",
+      "sourceIPA": "/ɑ̃fɛʁme/",
+      "sourceLineId": "notre-dame-de-paris-33-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5057,
+        "similarity": 0.581,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5063.4,
+      "sourceText": "Délogés",
+      "ipa": "[deloʒe]",
+      "ear": "德洛热",
+      "meaning": "赶走",
+      "sourceIPA": "/deloʒe/",
+      "sourceLineId": "notre-dame-de-paris-33-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5057,
+        "similarity": 0.581,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5065,
+      "sourceText": "Expulsés",
+      "ipa": "[ɛkspylse]",
+      "ear": "艾克斯普于勒塞",
+      "meaning": "驱逐",
+      "sourceIPA": "/ɛkspylse/",
+      "sourceLineId": "notre-dame-de-paris-33-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5065,
+        "similarity": 1.0,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5066.6,
+      "sourceText": "Exilés",
+      "ipa": "[ɛɡzile]",
+      "ear": "艾格齐莱",
+      "meaning": "流放",
+      "sourceIPA": "/ɛɡzile/",
+      "sourceLineId": "notre-dame-de-paris-33-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5065,
+        "similarity": 1.0,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5068.2,
+      "sourceText": "Déportés",
+      "ipa": "[depɔʁte]",
+      "ear": "德珀赫特",
+      "meaning": "遣送出境",
+      "sourceIPA": "/depɔʁte/",
+      "sourceLineId": "notre-dame-de-paris-33-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5065,
+        "similarity": 1.0,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5069.8,
+      "sourceText": "La couleur de ma peau",
+      "ipa": "[la kulœʁ də ma po]",
+      "ear": "拉 库勒厄赫 德 玛 波",
+      "meaning": "我的肤色",
+      "sourceIPA": "/la kulœʁ də ma po/",
+      "sourceLineId": "notre-dame-de-paris-33-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5065,
+        "similarity": 1.0,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5073,
+      "sourceText": "Contre celle de ta peau",
+      "ipa": "[kɔ̃tʁ sɛl də ta po]",
+      "ear": "孔特赫 塞勒 德 塔 波",
+      "meaning": "和你的相对",
+      "sourceIPA": "/kɔ̃tʁ sɛl də ta po/",
+      "sourceLineId": "notre-dame-de-paris-33-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5073,
+        "similarity": 0.472,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5076.25,
+      "sourceText": "La musique que tu chantes",
+      "ipa": "[la myzik kə ty ʃɑ̃t]",
+      "ear": "拉 米于齐克 克 蒂于 尚特",
+      "meaning": "你歌唱的乐声",
+      "sourceIPA": "/la myzik kə ty ʃɑ̃t/",
+      "sourceLineId": "notre-dame-de-paris-33-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5073,
+        "similarity": 0.472,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5082,
+      "sourceText": "Contre celle que je danse",
+      "ipa": "[kɔ̃tʁ sɛl kə ʒə dɑ̃s]",
+      "ear": "孔特赫 塞勒 克 热 当斯",
+      "meaning": "和我的舞步相对",
+      "sourceIPA": "/kɔ̃tʁ sɛl kə ʒə dɑ̃s/",
+      "sourceLineId": "notre-dame-de-paris-33-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5082,
+        "similarity": 0.842,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5084.941,
+      "sourceText": "La douleur de l'exil",
+      "ipa": "[la dulœʁ də lɛɡzil]",
+      "ear": "拉 杜勒厄赫 德 莱格齐勒",
+      "meaning": "流放之苦",
+      "sourceIPA": "/la dulœʁ də lɛɡzil/",
+      "sourceLineId": "notre-dame-de-paris-33-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5082,
+        "similarity": 0.842,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5088.471,
+      "sourceText": "Dans les rues de ta ville",
+      "ipa": "[dɑ̃ le ʁy də ta vil]",
+      "ear": "当 莱 许 德 塔 维勒",
+      "meaning": "在你城市的道路上",
+      "sourceIPA": "/dɑ̃ le ʁy də ta vil/",
+      "sourceLineId": "notre-dame-de-paris-33-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5082,
+        "similarity": 0.842,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5092,
+      "sourceText": "Comment faire un monde",
+      "ipa": "[kɔmɑ̃ fɛʁ‿œ̃ mɔ̃d]",
+      "ear": "科芒 费赫 恩 蒙德",
+      "meaning": "如何造一个世界",
+      "sourceIPA": "/kɔmɑ̃ fɛʁ œ̃ mɔ̃d/",
+      "sourceLineId": "notre-dame-de-paris-33-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5092,
+        "similarity": 0.786,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 5099,
+      "sourceText": "Où il n'y aurait plus d'exclus?",
+      "ipa": "[u il ni oʁɛ ply dɛkskly]",
+      "ear": "乌 伊勒 尼 奥赫 普吕 戴克斯克吕",
+      "meaning": "没有隔阂",
+      "sourceIPA": "/u il ni oʁɛ ply dɛkskly/",
+      "sourceLineId": "notre-dame-de-paris-33-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5099,
+        "similarity": 0.474,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 5106,
+      "sourceText": "Comment faire un monde",
+      "ipa": "[kɔmɑ̃ fɛʁ‿œ̃ mɔ̃d]",
+      "ear": "科芒 费赫 恩 蒙德",
+      "meaning": "如何造一个世界",
+      "sourceIPA": "/kɔmɑ̃ fɛʁ œ̃ mɔ̃d/",
+      "sourceLineId": "notre-dame-de-paris-33-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5106,
+        "similarity": 0.786,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 5112,
+      "sourceText": "Sans misère",
+      "ipa": "[sɑ̃ mizɛʁ]",
+      "ear": "桑 米泽赫",
+      "meaning": "没有苦难",
+      "sourceIPA": "/sɑ̃ mizɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-33-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5112,
+        "similarity": 0.764,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5113.95,
+      "sourceText": "Et sans frontières?",
+      "ipa": "[e sɑ̃ fʁɔ̃tjɛʁ]",
+      "ear": "诶 桑 弗洪特耶艾赫",
+      "meaning": "没有疆界",
+      "sourceIPA": "/e sɑ̃ fʁɔ̃tjɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-33-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5112,
+        "similarity": 0.764,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5116.55,
+      "sourceText": "Humiliés",
+      "ipa": "[ymilje]",
+      "ear": "于米勒耶诶",
+      "meaning": "侮辱",
+      "sourceIPA": "/ymilje/",
+      "sourceLineId": "notre-dame-de-paris-33-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5112,
+        "similarity": 0.764,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5120,
+      "sourceText": "Rejetés",
+      "ipa": "[ʁəʒte]",
+      "ear": "赫日特",
+      "meaning": "排斥",
+      "sourceIPA": "/ʁəʒte/",
+      "sourceLineId": "notre-dame-de-paris-33-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5120,
+        "similarity": 0.845,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5121.143,
+      "sourceText": "Opprimés",
+      "ipa": "[ɔpʁime]",
+      "ear": "哦普希梅",
+      "meaning": "压迫",
+      "sourceIPA": "/ɔpʁime/",
+      "sourceLineId": "notre-dame-de-paris-33-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5120,
+        "similarity": 0.845,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5122.857,
+      "sourceText": "Révoltés",
+      "ipa": "[ʁevɔlte]",
+      "ear": "赫沃勒特",
+      "meaning": "反抗",
+      "sourceIPA": "/ʁevɔlte/",
+      "sourceLineId": "notre-dame-de-paris-33-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5120,
+        "similarity": 0.845,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5124.571,
+      "sourceText": "Torturés",
+      "ipa": "[tɔʁtyʁe]",
+      "ear": "托赫蒂于赫",
+      "meaning": "凌虐",
+      "sourceIPA": "/tɔʁtyʁe/",
+      "sourceLineId": "notre-dame-de-paris-33-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5120,
+        "similarity": 0.845,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5126.286,
+      "sourceText": "Écrasés",
+      "ipa": "[ekʁaze]",
+      "ear": "诶克哈泽",
+      "meaning": "镇压",
+      "sourceIPA": "/ekʁaze/",
+      "sourceLineId": "notre-dame-de-paris-33-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5120,
+        "similarity": 0.845,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5128,
+      "sourceText": "Décimés",
+      "ipa": "[desime]",
+      "ear": "德西梅",
+      "meaning": "毁灭",
+      "sourceIPA": "/desime/",
+      "sourceLineId": "notre-dame-de-paris-33-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5128,
+        "similarity": 0.979,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5129.8,
+      "sourceText": "Massacrés",
+      "ipa": "[masakʁe]",
+      "ear": "玛萨克赫",
+      "meaning": "屠杀",
+      "sourceIPA": "/masakʁe/",
+      "sourceLineId": "notre-dame-de-paris-33-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5128,
+        "similarity": 0.979,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5131.6,
+      "sourceText": "Mon pays",
+      "ipa": "[mɔ̃ pɛi]",
+      "ear": "蒙 佩伊",
+      "meaning": "我的祖国",
+      "sourceIPA": "/mɔ̃ pɛi/",
+      "sourceLineId": "notre-dame-de-paris-33-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5128,
+        "similarity": 0.979,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5133.4,
+      "sourceText": "Que je porte",
+      "ipa": "[kə ʒə pɔʁt]",
+      "ear": "克 热 珀赫特",
+      "meaning": "我将其",
+      "sourceIPA": "/kə ʒə pɔʁt/",
+      "sourceLineId": "notre-dame-de-paris-33-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5128,
+        "similarity": 0.979,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5135.2,
+      "sourceText": "Dans mon cœur",
+      "ipa": "[dɑ̃ mɔ̃ kœʁ]",
+      "ear": "当 蒙 克厄赫",
+      "meaning": "放在心间",
+      "sourceIPA": "/dɑ̃ mɔ̃ kœʁ/",
+      "sourceLineId": "notre-dame-de-paris-33-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5128,
+        "similarity": 0.979,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5137,
+      "sourceText": "Dans mon corps",
+      "ipa": "[dɑ̃ mɔ̃ kɔʁ]",
+      "ear": "当 蒙 科赫",
+      "meaning": "印在身上",
+      "sourceIPA": "/dɑ̃ mɔ̃ kɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-33-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5137,
+        "similarity": 0.934,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5138.6,
+      "sourceText": "Ton pays",
+      "ipa": "[tɔ̃ pɛi]",
+      "ear": "通 佩伊",
+      "meaning": "你的国家",
+      "sourceIPA": "/tɔ̃ pɛi/",
+      "sourceLineId": "notre-dame-de-paris-33-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5137,
+        "similarity": 0.934,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5140.2,
+      "sourceText": "Qui m'apporte",
+      "ipa": "[ki mapɔʁt]",
+      "ear": "基 玛珀赫特",
+      "meaning": "给我带来",
+      "sourceIPA": "/ki mapɔʁt/",
+      "sourceLineId": "notre-dame-de-paris-33-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5137,
+        "similarity": 0.934,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5141.8,
+      "sourceText": "Le malheur",
+      "ipa": "[lə malœʁ]",
+      "ear": "勒 玛勒厄赫",
+      "meaning": "厄运",
+      "sourceIPA": "/lə malœʁ/",
+      "sourceLineId": "notre-dame-de-paris-33-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5137,
+        "similarity": 0.934,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5143.4,
+      "sourceText": "Et la mort",
+      "ipa": "[e la mɔʁ]",
+      "ear": "诶 拉 莫赫",
+      "meaning": "和死亡",
+      "sourceIPA": "/e la mɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-33-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5137,
+        "similarity": 0.934,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5145,
+      "sourceText": "Ma chaleur du midi",
+      "ipa": "[ma ʃalœʁ dy midi]",
+      "ear": "玛 沙勒厄赫 迪于 米迪",
+      "meaning": "我正午的热情",
+      "sourceIPA": "/ma ʃalœʁ dy midi/",
+      "sourceLineId": "notre-dame-de-paris-33-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5145,
+        "similarity": 0.485,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5148.9,
+      "sourceText": "Sous ton ciel",
+      "ipa": "[su tɔ̃ sjɛl]",
+      "ear": "苏 通 斯耶艾勒",
+      "meaning": "你的天空下",
+      "sourceIPA": "/su tɔ̃ sjɛl/",
+      "sourceLineId": "notre-dame-de-paris-33-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5145,
+        "similarity": 0.485,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5150.85,
+      "sourceText": "Toujours gris",
+      "ipa": "[tuʒuʁ ɡʁi]",
+      "ear": "图茹赫 格希",
+      "meaning": "总是一片灰暗",
+      "sourceIPA": "/tuʒuʁ ɡʁi/",
+      "sourceLineId": "notre-dame-de-paris-33-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5145,
+        "similarity": 0.485,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5154,
+      "sourceText": "Comment faire un monde",
+      "ipa": "[kɔmɑ̃ fɛʁ‿œ̃ mɔ̃d]",
+      "ear": "科芒 费赫 恩 蒙德",
+      "meaning": "如何造一个世界",
+      "sourceIPA": "/kɔmɑ̃ fɛʁ œ̃ mɔ̃d/",
+      "sourceLineId": "notre-dame-de-paris-33-039",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5154,
+        "similarity": 0.786,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 5161,
+      "sourceText": "Sans misère",
+      "ipa": "[sɑ̃ mizɛʁ]",
+      "ear": "桑 米泽赫",
+      "meaning": "没有苦难",
+      "sourceIPA": "/sɑ̃ mizɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-33-040",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5161,
+        "similarity": 0.682,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5163.143,
+      "sourceText": "Et sans frontières",
+      "ipa": "[e sɑ̃ fʁɔ̃tjɛʁ]",
+      "ear": "诶 桑 弗洪特耶艾赫",
+      "meaning": "没有疆界",
+      "sourceIPA": "/e sɑ̃ fʁɔ̃tjɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-33-041",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5161,
+        "similarity": 0.682,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5167,
+      "sourceText": "Mais comment faire un monde",
+      "ipa": "[mɛ kɔmɑ̃ fɛʁ‿œ̃ mɔ̃d]",
+      "ear": "梅 科芒 费赫 恩 蒙德",
+      "meaning": "如何造一个世界",
+      "sourceIPA": "/mɛ kɔmɑ̃ fɛʁ œ̃ mɔ̃d/",
+      "sourceLineId": "notre-dame-de-paris-33-042",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5167,
+        "similarity": 0.499,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5170.9,
+      "sourceText": "Où il n'y aurait plus",
+      "ipa": "[u il ni oʁɛ ply]",
+      "ear": "乌 伊勒 尼 奥赫 普吕",
+      "meaning": "那里不再有",
+      "sourceIPA": "/u il ni oʁɛ ply/",
+      "sourceLineId": "notre-dame-de-paris-33-043",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5167,
+        "similarity": 0.499,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5179,
+      "sourceText": "D'exclus?",
+      "ipa": "[dɛkskly]",
+      "ear": "戴克斯克吕",
+      "meaning": "隔阂",
+      "sourceIPA": "/dɛkskly/",
+      "sourceLineId": "notre-dame-de-paris-33-044",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5179,
+        "similarity": 0.898,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5180.3,
+      "sourceText": "Condamnés",
+      "ipa": "[kɔ̃dane]",
+      "ear": "孔达内",
+      "meaning": "定罪",
+      "sourceIPA": "/kɔ̃dane/",
+      "sourceLineId": "notre-dame-de-paris-33-045",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5179,
+        "similarity": 0.898,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5182.25,
+      "sourceText": "Arrêtés",
+      "ipa": "[aʁɛte]",
+      "ear": "阿赫特",
+      "meaning": "逮捕",
+      "sourceIPA": "/aʁɛte/",
+      "sourceLineId": "notre-dame-de-paris-33-046",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5179,
+        "similarity": 0.898,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5184.2,
+      "sourceText": "Accusés",
+      "ipa": "[akyze]",
+      "ear": "阿基于泽",
+      "meaning": "指控",
+      "sourceIPA": "/akyze/",
+      "sourceLineId": "notre-dame-de-paris-33-047",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5179,
+        "similarity": 0.898,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 5187,
+      "sourceText": "Enfermés",
+      "ipa": "[ɑ̃fɛʁme]",
+      "ear": "昂费赫梅",
+      "meaning": "囚禁",
+      "sourceIPA": "/ɑ̃fɛʁme/",
+      "sourceLineId": "notre-dame-de-paris-33-048",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5187,
+        "similarity": 0.575,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5188.6,
+      "sourceText": "Délogés",
+      "ipa": "[deloʒe]",
+      "ear": "德洛热",
+      "meaning": "赶走",
+      "sourceIPA": "/deloʒe/",
+      "sourceLineId": "notre-dame-de-paris-33-049",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5187,
+        "similarity": 0.575,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5190.2,
+      "sourceText": "Expulsés",
+      "ipa": "[ɛkspylse]",
+      "ear": "艾克斯普于勒塞",
+      "meaning": "驱逐",
+      "sourceIPA": "/ɛkspylse/",
+      "sourceLineId": "notre-dame-de-paris-33-050",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5187,
+        "similarity": 0.575,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5191.8,
+      "sourceText": "Exilés",
+      "ipa": "[ɛɡzile]",
+      "ear": "艾格齐莱",
+      "meaning": "流放",
+      "sourceIPA": "/ɛɡzile/",
+      "sourceLineId": "notre-dame-de-paris-33-051",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5187,
+        "similarity": 0.575,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5193.4,
+      "sourceText": "Déportés",
+      "ipa": "[depɔʁte]",
+      "ear": "德珀赫特",
+      "meaning": "遣送出境",
+      "sourceIPA": "/depɔʁte/",
+      "sourceLineId": "notre-dame-de-paris-33-052",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5187,
+        "similarity": 0.575,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 5195,
+      "sourceText": "Condamnés",
+      "ipa": "[kɔ̃dane]",
+      "ear": "孔达内",
+      "meaning": "定罪",
+      "sourceIPA": "/kɔ̃dane/",
+      "sourceLineId": "notre-dame-de-paris-33-053",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5195,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 5202,
+      "sourceText": "Condamnés",
+      "ipa": "[kɔ̃dane]",
+      "ear": "孔达内",
+      "meaning": "定罪",
+      "sourceIPA": "/kɔ̃dane/",
+      "sourceLineId": "notre-dame-de-paris-33-054",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5202,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    }
+  ]
+}

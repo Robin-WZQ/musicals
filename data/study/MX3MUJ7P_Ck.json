@@ -1,0 +1,330 @@
+{
+  "videoId": "MX3MUJ7P_Ck",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5221"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 5233,
+      "sourceText": "Esméralda vous êtes accusée",
+      "ipa": "[ɛsmeʁalda vuz‿ɛt‿akyze]",
+      "ear": "艾斯梅哈勒达 乌兹 艾特 阿基于泽",
+      "meaning": "艾斯美拉达 您被指控",
+      "sourceIPA": "/ɛsmeʁalda vuz ɛtz akyze/",
+      "sourceLineId": "notre-dame-de-paris-34-001",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5233,
+        "similarity": 0.57,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5237.0,
+      "sourceText": "D'avoir blessé le chef des archers",
+      "ipa": "[davwaʁ blɛse lə ʃɛf dez‿aʁʃe]",
+      "ear": "达弗乌阿赫 布莱塞 勒 谢弗 德兹 阿赫谢",
+      "meaning": "刺伤弓箭队长",
+      "sourceIPA": "/davwaʁ blɛse lə ʃɛf dez aʁʃe/",
+      "sourceLineId": "notre-dame-de-paris-34-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5233,
+        "similarity": 0.57,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5241,
+      "sourceText": "S'il est blessé c'est qu'il est vivant",
+      "ipa": "[sil‿ɛ blɛse sɛ kil‿ɛ vivɑ̃]",
+      "ear": "西勒 艾 布莱塞 塞 基勒 艾 维旺",
+      "meaning": "受伤？那他还活着！",
+      "sourceIPA": "/sil ɛ blɛse sɛ kil ɛ vivɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-34-003",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5241,
+        "similarity": 0.711,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5244.429,
+      "sourceText": "Oh! Laissez-moi le voir rien qu'un seul instant",
+      "ipa": "[ɔ lɛsemwa lə vwaʁ ʁiɛ̃ kœ̃ sœl‿ɛ̃stɑ̃]",
+      "ear": "哦 莱塞姆乌阿 勒 弗乌阿赫 希安 坎 瑟厄勒 安斯唐",
+      "meaning": "哦！请让我看看他 就一眼就好",
+      "sourceIPA": "/ɔ lɛsemwa lə vwaʁ ʁiɛ̃ kœ̃ sœl ɛ̃stɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-34-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5241,
+        "similarity": 0.711,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5249,
+      "sourceText": "Vous l'avez séduit et ensorcelé",
+      "ipa": "[vu lave sedɥi e ɑ̃sɔʁsəle]",
+      "ear": "乌 拉韦 塞德于伊 诶 昂索赫瑟莱",
+      "meaning": "您引诱他魅惑他",
+      "sourceIPA": "/vu lave sedɥi e ɑ̃sɔʁsəle/",
+      "sourceLineId": "notre-dame-de-paris-34-005",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5249,
+        "similarity": 0.638,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5253.5,
+      "sourceText": "D'un coup de couteau vous l'avez frappé",
+      "ipa": "[dœ̃ ku də kuto vu lave fʁape]",
+      "ear": "丹 库 德 库托 乌 拉韦 弗哈佩",
+      "meaning": "继而持刀行凶",
+      "sourceIPA": "/dœ̃ ku də kuto vu lave fʁape/",
+      "sourceLineId": "notre-dame-de-paris-34-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5249,
+        "similarity": 0.638,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5258,
+      "sourceText": "Ce n'est pas moi, juré sur ma vie",
+      "ipa": "[sə nɛ pa mwa ʒyʁe syʁ ma vi]",
+      "ear": "瑟 奈 帕 姆乌阿 日于赫 西于赫 玛 维",
+      "meaning": "以我性命起誓 绝不是我",
+      "sourceIPA": "/sə nɛ pa mwa ʒyʁe syʁ ma vi/",
+      "sourceLineId": "notre-dame-de-paris-34-007",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5258,
+        "similarity": 0.559,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5262.05,
+      "sourceText": "Mais vous étiez seule avec lui dans ce lit",
+      "ipa": "[mɛ vuz‿etje sœl‿avɛk lɥi dɑ̃ sə li]",
+      "ear": "梅 乌兹 诶特耶诶 瑟厄勒 阿韦克 勒于伊 当 瑟 利",
+      "meaning": "但当时和他同床的只有您",
+      "sourceIPA": "/mɛ vuz etje sœl avɛk lɥi dɑ̃ sə li/",
+      "sourceLineId": "notre-dame-de-paris-34-008",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5258,
+        "similarity": 0.559,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5267,
+      "sourceText": "C'est un prêtre infernal qui me pour suit",
+      "ipa": "[sɛt‿œ̃ pʁɛtʁ‿ɛ̃fɛʁnal ki mə puʁ sɥi]",
+      "ear": "塞特 恩 普赫特赫 安费赫纳勒 基 默 普赫 斯于伊",
+      "meaning": "有位恶魔似的神甫跟踪我",
+      "sourceIPA": "/sɛt œ̃ pʁɛtʁ ɛ̃fɛʁnal ki mə puʁ sɥi/",
+      "sourceLineId": "notre-dame-de-paris-34-009",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5267,
+        "similarity": 0.656,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5271.211,
+      "sourceText": "Il m'apparaît partout dans la nuit",
+      "ipa": "[il mapaʁɛ paʁtu dɑ̃ la nɥi]",
+      "ear": "伊勒 玛帕赫 帕赫图 当 拉 恩于伊",
+      "meaning": "暗夜里无处不在",
+      "sourceIPA": "/il mapaʁɛ paʁtu dɑ̃ la nɥi/",
+      "sourceLineId": "notre-dame-de-paris-34-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5267,
+        "similarity": 0.656,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5275,
+      "sourceText": "Cette fille a des hallucinations",
+      "ipa": "[sɛt fij‿a de alysinasjɔ̃]",
+      "ear": "塞特 菲耶 阿 德 阿吕西纳斯耶翁",
+      "meaning": "这女子幻觉连连",
+      "sourceIPA": "/sɛt fij a de alysinasjɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-34-011",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5275,
+        "similarity": 0.715,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5278.429,
+      "sourceText": "Qui sont le fruit de son imagination",
+      "ipa": "[ki sɔ̃ lə fʁɥi də sɔ̃ imaʒinasjɔ̃]",
+      "ear": "基 松 勒 弗赫于伊 德 松 伊玛日纳斯耶翁",
+      "meaning": "全凭臆想",
+      "sourceIPA": "/ki sɔ̃ lə fʁyi də sɔ̃ imaʒinasjɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-34-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5275,
+        "similarity": 0.715,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5283,
+      "sourceText": "Il vous ressemble un peu, Monsieur",
+      "ipa": "[il vu ʁəsɑ̃bl‿œ̃ pø məsjø]",
+      "ear": "伊勒 乌 赫桑布勒 恩 珀厄 默斯耶厄",
+      "meaning": "先生 他跟您有点像",
+      "sourceIPA": "/il vu ʁəsɑ̃bl œ̃ pø məsjø/",
+      "sourceLineId": "notre-dame-de-paris-34-013",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5283,
+        "similarity": 0.602,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5287.0,
+      "sourceText": "Regardez le feu qu'elle a dans les yeux",
+      "ipa": "[ʁəɡaʁde lə fø kɛl‿a dɑ̃ lez‿jø]",
+      "ear": "赫嘎赫德 勒 弗厄 凯勒 阿 当 莱兹 耶厄",
+      "meaning": "看看她眼里的火光",
+      "sourceIPA": "/ʁəɡaʁde lə fø kɛl a dɑ̃ lez jø/",
+      "sourceLineId": "notre-dame-de-paris-34-014",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5283,
+        "similarity": 0.602,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5292,
+      "sourceText": "C'est une sorcière. C'est une étrangère",
+      "ipa": "[sɛt‿yn sɔʁsjɛʁ sɛt‿yn‿etʁɑ̃ʒɛʁ]",
+      "ear": "塞特 于恩 索赫斯耶艾赫 塞特 于恩 诶特杭热赫",
+      "meaning": "这是个女巫 是个异乡人",
+      "sourceIPA": "/sɛt yn sɔʁsjɛʁ sɛt yn etʁɑ̃ʒɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-34-015",
+      "speaker": "Frollo / la foule",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5292,
+        "similarity": 0.635,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5296.0,
+      "sourceText": "C'est une bohémienne, c'est une païenne",
+      "ipa": "[sɛt‿yn boemjɛn sɛt‿yn pajɛn]",
+      "ear": "塞特 于恩 博诶姆耶艾恩 塞特 于恩 帕耶艾恩",
+      "meaning": "是个吉普赛人 是个异教徒",
+      "sourceIPA": "/sɛt yn boemjɛn sɛt yn pajɛn/",
+      "sourceLineId": "notre-dame-de-paris-34-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5292,
+        "similarity": 0.635,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5300,
+      "sourceText": "Avouez-vous ce crime dont vous êtes accusés?",
+      "ipa": "[avwevu sə kʁim dɔ̃ vuz‿ɛt‿akyze]",
+      "ear": "阿弗乌诶乌 瑟 克希姆 东 乌兹 艾特 阿基于泽",
+      "meaning": "您可要招供您被指控的罪过？",
+      "sourceIPA": "/avwevu sə kʁim dɔ̃ vuz ɛtz akyze/",
+      "sourceLineId": "notre-dame-de-paris-34-017",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5300,
+        "similarity": 0.983,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5305.261,
+      "sourceText": "Moi, je suis la victime",
+      "ipa": "[mwa ʒə sɥi la viktim]",
+      "ear": "姆乌阿 热 斯于伊 拉 维克蒂姆",
+      "meaning": "我是受害者",
+      "sourceIPA": "/mwa ʒə sɥi la viktim/",
+      "sourceLineId": "notre-dame-de-paris-34-018",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5300,
+        "similarity": 0.983,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5308.13,
+      "sourceText": "Je n'ai rien à avouer",
+      "ipa": "[ʒə ne ʁjɛ̃n‿a avwe]",
+      "ear": "热 内 赫耶安恩 阿 阿弗乌诶",
+      "meaning": "没什么好招的",
+      "sourceIPA": "/ʒə ne ʁjɛ̃n a avwe/",
+      "sourceLineId": "notre-dame-de-paris-34-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5300,
+        "similarity": 0.983,
+        "groupSize": 3
+      }
+    }
+  ]
+}

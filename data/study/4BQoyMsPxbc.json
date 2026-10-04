@@ -1,0 +1,394 @@
+{
+  "videoId": "4BQoyMsPxbc",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=7334"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 7337,
+      "sourceText": "Frollo",
+      "ipa": "[fʁɔlo]",
+      "ear": "弗霍洛",
+      "meaning": "孚罗洛",
+      "sourceIPA": "/fʁɔlo/",
+      "sourceLineId": "notre-dame-de-paris-49-001",
+      "speaker": "Quasimodo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7337,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7340,
+      "sourceText": "Mon maitre, mon sauveur",
+      "ipa": "[mɔ̃ mɛtʁ mɔ̃ sovœʁ]",
+      "ear": "蒙 梅特赫 蒙 索弗厄赫",
+      "meaning": "我的主宰 我的恩人",
+      "sourceIPA": "/mɔ̃ mɛtʁ mɔ̃ sovœʁ/",
+      "sourceLineId": "notre-dame-de-paris-49-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7340,
+        "similarity": 0.978,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7343.25,
+      "sourceText": "Toi prêtre du Seigneur",
+      "ipa": "[twa pʁɛtʁ dy sɛnjœʁ]",
+      "ear": "特乌阿 普赫特赫 迪于 塞恩耶厄赫",
+      "meaning": "上主的凡间代理",
+      "sourceIPA": "/twa pʁɛtʁ dy sɛnjœʁ/",
+      "sourceLineId": "notre-dame-de-paris-49-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7340,
+        "similarity": 0.978,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7347,
+      "sourceText": "Tu avais donc un cœur",
+      "ipa": "[ty avɛ dɔ̃k‿œ̃ kœʁ]",
+      "ear": "蒂于 阿韦 东克 恩 克厄赫",
+      "meaning": "到底还是你有一颗心",
+      "sourceIPA": "/ty avɛ dɔ̃k œ̃ kœʁ/",
+      "sourceLineId": "notre-dame-de-paris-49-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7347,
+        "similarity": 0.55,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7350.9,
+      "sourceText": "Un cœur",
+      "ipa": "[œ̃ kœʁ]",
+      "ear": "恩 克厄赫",
+      "meaning": "一颗心",
+      "sourceIPA": "/œ̃ kœʁ/",
+      "sourceLineId": "notre-dame-de-paris-49-005",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7347,
+        "similarity": 0.55,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7354,
+      "sourceText": "Un cœur qui peut aimer",
+      "ipa": "[œ̃ kœʁ ki pø ɛme]",
+      "ear": "恩 克厄赫 基 珀厄 艾梅",
+      "meaning": "一颗会爱的心",
+      "sourceIPA": "/œ̃ kœʁ ki pøt ɛme/",
+      "sourceLineId": "notre-dame-de-paris-49-006",
+      "speaker": "Quasimodo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7354,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7357.5,
+      "sourceText": "Un cœur qui peut pleurer",
+      "ipa": "[œ̃ kœʁ ki pø pløʁe]",
+      "ear": "恩 克厄赫 基 珀厄 普勒厄赫",
+      "meaning": "一颗会哭泣的心",
+      "sourceIPA": "/œ̃ kœʁ ki pø pløʁe/",
+      "sourceLineId": "notre-dame-de-paris-49-007",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7354,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7361,
+      "sourceText": "Un cœur qui peut saigner",
+      "ipa": "[œ̃ kœʁ ki pø sɛnje]",
+      "ear": "恩 克厄赫 基 珀厄 塞恩耶诶",
+      "meaning": "一颗会流血的心",
+      "sourceIPA": "/œ̃ kœʁ ki pø sɛnje/",
+      "sourceLineId": "notre-dame-de-paris-49-008",
+      "speaker": "Quasimodo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7361,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7364.9,
+      "sourceText": "Un cœur qui peut tuer",
+      "ipa": "[œ̃ kœʁ ki pø tye]",
+      "ear": "恩 克厄赫 基 珀厄 蒂于诶",
+      "meaning": "一颗会杀戮的心",
+      "sourceIPA": "/œ̃ kœʁ ki pø tye/",
+      "sourceLineId": "notre-dame-de-paris-49-009",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7361,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7369,
+      "sourceText": "Regarde-là!",
+      "ipa": "[ʁəɡaʁdla]",
+      "ear": "赫嘎赫德拉",
+      "meaning": "看那儿！",
+      "sourceIPA": "/ʁəɡaʁdla/",
+      "sourceLineId": "notre-dame-de-paris-49-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7369,
+        "similarity": 0.851,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 7370.95,
+      "sourceText": "Ta belle Esméralda",
+      "ipa": "[ta bɛl‿ɛsmeʁalda]",
+      "ear": "塔 贝勒 艾斯梅哈勒达",
+      "meaning": "你那漂亮的艾斯美拉达",
+      "sourceIPA": "/ta bɛl ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-49-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7369,
+        "similarity": 0.851,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 7374.85,
+      "sourceText": "Rappelle-toi, Quasimodo",
+      "ipa": "[ʁapɛltwa kazimodo]",
+      "ear": "哈佩勒特乌阿 卡齐莫多",
+      "meaning": "卡西莫多 你可记得",
+      "sourceIPA": "/ʁapɛltwa kazimodo/",
+      "sourceLineId": "notre-dame-de-paris-49-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7369,
+        "similarity": 0.851,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 7380,
+      "sourceText": "Celle qui dansait sur là son tréteau",
+      "ipa": "[sɛl ki dɑ̃sɛ syʁ la sɔ̃ tʁeto]",
+      "ear": "塞勒 基 当塞 西于赫 拉 松 特赫托",
+      "meaning": "她在集市上的舞姿",
+      "sourceIPA": "/sɛl ki dɑ̃sɛ syʁ la sɔ̃ tʁeto/",
+      "sourceLineId": "notre-dame-de-paris-49-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7380,
+        "similarity": 0.691,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7385.211,
+      "sourceText": "C'est moi qui l'ai livrée à son bourreau",
+      "ipa": "[sɛ mwa ki le livʁe a sɔ̃ buʁo]",
+      "ear": "塞 姆乌阿 基 莱 利弗赫 阿 松 布霍",
+      "meaning": "是我把她送给刽子手",
+      "sourceIPA": "/sɛ mwa ki le livʁe a sɔ̃ buʁo/",
+      "sourceLineId": "notre-dame-de-paris-49-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7380,
+        "similarity": 0.691,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7391,
+      "sourceText": "Parce qu'elle n'a pas voulu de moi",
+      "ipa": "[paʁskɛl na pa vuly də mwa]",
+      "ear": "帕赫斯凯勒 纳 帕 乌吕 德 姆乌阿",
+      "meaning": "因为她不愿要我",
+      "sourceIPA": "/paʁskɛl na pa vuly də mwa/",
+      "sourceLineId": "notre-dame-de-paris-49-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7391,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7396.2,
+      "sourceText": "Tu as fait ça! Toi!",
+      "ipa": "[ty a fɛ sa twa]",
+      "ear": "蒂于 阿 费 萨 特乌阿",
+      "meaning": "你竟然这么做！你……",
+      "sourceIPA": "/ty a fɛ sa twa/",
+      "sourceLineId": "notre-dame-de-paris-49-016",
+      "speaker": "Quasimodo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7391,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7406,
+      "sourceText": "Elle mourra comme un Jésus en croix",
+      "ipa": "[ɛl muʁʁa kɔm‿œ̃ ʒezy ɑ̃ kʁwa]",
+      "ear": "艾勒 穆赫哈 科姆 恩 热齐于 昂 克赫乌阿",
+      "meaning": "她将像十字架上的耶稣一般死去",
+      "sourceIPA": "/ɛl muʁʁa kɔm œ̃ ʒezy ɑ̃ kʁwa/",
+      "sourceLineId": "notre-dame-de-paris-49-017",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7406,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7411.85,
+      "sourceText": "Regarde là-bas",
+      "ipa": "[ʁəɡaʁd laba]",
+      "ear": "赫嘎赫德 拉巴",
+      "meaning": "看呐！",
+      "sourceIPA": "/ʁəɡaʁd laba/",
+      "sourceLineId": "notre-dame-de-paris-49-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7406,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7415,
+      "sourceText": "Le gibet l'attend sur la place de Grève",
+      "ipa": "[lə ʒibɛ latɑ̃ syʁ la plas də ɡʁɛv]",
+      "ear": "勒 日贝 拉唐 西于赫 拉 普拉斯 德 格赫弗",
+      "meaning": "格雷沃广场上的绞架在等着呢",
+      "sourceIPA": "/lə ʒibɛ latɑ̃ syʁ la plas də ɡʁɛv/",
+      "sourceLineId": "notre-dame-de-paris-49-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7415,
+        "similarity": 0.49,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7420.926,
+      "sourceText": "Ton Esméralda",
+      "ipa": "[tɔ̃n‿ɛsmeʁalda]",
+      "ear": "通恩 艾斯梅哈勒达",
+      "meaning": "你的艾斯美拉达",
+      "sourceIPA": "/tɔ̃n ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-49-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7415,
+        "similarity": 0.49,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7423.889,
+      "sourceText": "C'est elle que l'on pend dans le jour qui se lève",
+      "ipa": "[sɛt‿ɛl kə lɔ̃ pɑ̃ dɑ̃ lə ʒuʁ ki sə lɛv]",
+      "ear": "塞特 艾勒 克 隆 庞 当 勒 茹赫 基 瑟 莱弗",
+      "meaning": "将在黎明时刻被绞杀",
+      "sourceIPA": "/sɛt ɛl kə lɔ̃ pɑ̃ dɑ̃ lə ʒuʁ ki sə lɛv/",
+      "sourceLineId": "notre-dame-de-paris-49-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7415,
+        "similarity": 0.49,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7430.407,
+      "sourceText": "(rires)",
+      "ipa": "[ʁiʁ]",
+      "ear": "希赫",
+      "meaning": "（孚罗洛狂笑）",
+      "sourceIPA": "/ʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-49-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7415,
+        "similarity": 0.49,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 7431,
+      "sourceText": "Frollo!",
+      "ipa": "[fʁɔlo]",
+      "ear": "弗霍洛",
+      "meaning": "孚罗洛！",
+      "sourceIPA": "/fʁɔlo/",
+      "sourceLineId": "notre-dame-de-paris-49-023",
+      "speaker": "Quasimodo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7431,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    }
+  ]
+}

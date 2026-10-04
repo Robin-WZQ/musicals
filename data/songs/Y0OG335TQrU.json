@@ -8,15 +8,131 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 15,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Il est beau comme le soleil",
+      "start": 2262,
+      "duration": 2.172
+    },
+    {
+      "text": "Est-ce un prince un fils de roi",
+      "start": 2264.172,
+      "duration": 2.173
+    },
+    {
+      "text": "Je sens l'amour qui s'éveille",
+      "start": 2266.345,
+      "duration": 2.172
+    },
+    {
+      "text": "Au fond de moi",
+      "start": 2268.517,
+      "duration": 1.242
+    },
+    {
+      "text": "Plus fort que moi",
+      "start": 2269.759,
+      "duration": 1.241
+    },
+    {
+      "text": "Il est beau comme le soleil",
+      "start": 2271,
+      "duration": 4.5
+    },
+    {
+      "text": "C'est un prince, un fils de roi",
+      "start": 2275.5,
+      "duration": 4.5
+    },
+    {
+      "text": "De roi... je crois",
+      "start": 2280,
+      "duration": 5.0
+    },
+    {
+      "text": "Il est beau comme le soleil",
+      "start": 2289,
+      "duration": 4.0
+    },
+    {
+      "text": "C'est un voyou, un soldat",
+      "start": 2293.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Quand il me serre contre lui",
+      "start": 2297,
+      "duration": 3.6
+    },
+    {
+      "text": "Je voudrais fuir mais je ne puis",
+      "start": 2300.6,
+      "duration": 5.4
+    },
+    {
+      "text": "Il est beau comme le soleil",
+      "start": 2306,
+      "duration": 4.55
+    },
+    {
+      "text": "C'est un voyou, un soldat",
+      "start": 2310.55,
+      "duration": 4.55
+    },
+    {
+      "text": "Soldat... du roi",
+      "start": 2316,
+      "duration": 5.0
+    },
+    {
+      "text": "Il est beau comme le soleil",
+      "start": 2325,
+      "duration": 4.0
+    },
+    {
+      "text": "Ma merveille, mon homme à moi",
+      "start": 2329.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Il me prendra dans ses bras",
+      "start": 2333,
+      "duration": 4.5
+    },
+    {
+      "text": "Et pour la vie, il m'aimera",
+      "start": 2337.5,
+      "duration": 4.5
+    },
+    {
+      "text": "Il est beau comme le soleil",
+      "start": 2342,
+      "duration": 4.5
+    },
+    {
+      "text": "Ma merveille, mon homme à moi",
+      "start": 2346.5,
+      "duration": 4.5
+    },
+    {
+      "text": "Il est beau comme le soleil",
+      "start": 2351,
+      "duration": 5.0
+    },
+    {
+      "text": "Beau comme le soleil",
+      "start": 2360,
+      "duration": 5.0
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=2253",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -84,6 +200,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

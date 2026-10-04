@@ -1,8 +1,8 @@
-import { videoId, clock, normalizeCues, cueAt } from './captions.mjs?v=20261004-10';
-import { attachStudyNotes } from './study.mjs?v=20261004-10';
-import { musicalURL, learningURL, tracksFor } from './library.mjs?v=20261004-10';
-import { fetchData } from './data.mjs?v=20261004-10';
-import { playbackStart, nativeCues, importStudyCaptions } from './native.mjs?v=20261004-10';
+import { videoId, clock, normalizeCues, cueAt } from './captions.mjs?v=20261004-11';
+import { attachStudyNotes } from './study.mjs?v=20261004-11';
+import { musicalURL, learningURL, tracksFor } from './library.mjs?v=20261004-11';
+import { fetchData } from './data.mjs?v=20261004-11';
+import { playbackStart, nativeCues, importStudyCaptions } from './native.mjs?v=20261004-11';
 
 const $ = id => document.getElementById(id);
 let catalog = [], musicals = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
@@ -205,8 +205,9 @@ function renderLyrics() {
   cues.forEach((cue, index) => {
     const line = document.createElement('button'); line.className = 'lyric-line'; line.dataset.index = index;
       const approximate = song.timingReviewStatus === 'approximate';
-      line.title = `${approximate ? '近似位置 ' : ''}${clock(cue.start)} — ${clock(cue.end)} · 点击听这一句`;
-      const stamp = document.createElement('span'); stamp.className = 'timestamp'; stamp.textContent = `${approximate ? '≈ ' : ''}${clock(cue.start)}`; stamp.setAttribute('aria-hidden', 'true');
+      const timeOrigin = song.playbackSegment?.start || 0;
+      line.title = `${approximate ? '近似位置 ' : ''}${clock(cue.start-timeOrigin)} — ${clock(cue.end-timeOrigin)} · 点击听这一句`;
+      const stamp = document.createElement('span'); stamp.className = 'timestamp'; stamp.textContent = `${approximate ? '≈ ' : ''}${clock(cue.start-timeOrigin)}`; stamp.setAttribute('aria-hidden', 'true');
     const original = document.createElement('span'); original.className = 'original'; original.textContent = cue.displayText || cue.text;
     line.append(stamp, original);
       if (cue.kind === 'dialogue') { const tag = document.createElement('span'); tag.className = 'cue-note'; tag.textContent = '舞台对白'; line.append(tag); }
@@ -255,7 +256,10 @@ function studyRow(label, text, className) {
   const tag = document.createElement('span'); tag.className = 'study-label'; tag.textContent = label;
   const content = document.createElement('span'); content.className = 'study-content';
   if (className === 'study-ipa') {
-    for (const part of text.split(/(‿)/u)) {
+    // The stylesheet supplies one pair of brackets for every IPA reading.
+    const reading = String(text).trim();
+    const unwrapped = /^\[.*\]$|^\/.*\/$/u.test(reading) ? reading.slice(1,-1) : reading;
+    for (const part of unwrapped.split(/(‿)/u)) {
       if (part === '‿') { const mark = document.createElement('span'); mark.className = 'link-mark'; mark.textContent = part; mark.title = '联诵 / 连读'; content.append(mark); }
       else content.append(document.createTextNode(part));
     }
@@ -286,6 +290,10 @@ function renderInfo() {
     $('caption-badge').textContent = song.timingReviewStatus === 'approximate' ? '校正歌词 · 近似时间轴' : reviewed ? 'YouTube 时间轴 · 校正歌词' : 'YouTube 自动字幕 · 参考注释';
     $('source-note').textContent = song.studyNotes.note || '字幕和时间戳来自 YouTube。音标、空耳和中文释义为本站参考注释。';
     $('study-note').textContent = reviewed ? `${song.timingReviewStatus === 'approximate' ? '句子已重新整理，≈ 表示播放位置仍为近似值。' : ''}参考音标标出部分联诵与连读（‿）；并非原唱逐音转写。空耳仅辅助记忆，演唱发音以原唱为准。` : '新曲目学习注释自动生成，尚未逐句校对。音标是字幕文本的参考读法，‿ 表示可能的联诵或连读；空耳与中文机译均为近似参考，无法纠正字幕识别错误。';
+    if (song.studyNotes.textSource === 'user-supplied-songs-js') {
+      $('caption-badge').textContent = '学习歌词 · 近似时间轴';
+      $('study-note').textContent = '‿ 表示联诵或连读；空耳辅助记忆读音。≈ 表示原唱片段的近似切点。';
+    }
   }
   renderNavigation();
   renderEditorialInfo(song.editorialInfo);

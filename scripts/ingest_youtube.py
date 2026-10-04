@@ -157,7 +157,7 @@ def ingest(vid, language, translation, proxy=None):
     session.headers['User-Agent'] = 'Mozilla/5.0'
     path = ROOT / 'data' / 'songs' / f'{vid}.json'
     previous = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
-    source_id = previous.get('playbackVideoId', vid) if previous.get('lyricsStorage') == 'external' else vid
+    source_id = previous.get('playbackVideoId', vid)
     meta, info = metadata(source_id, session, proxy)
     if previous.get('lyricsStorage') == 'external':
         data = {**previous, **meta, 'lastAttemptAt': datetime.now(timezone.utc).isoformat()}
@@ -169,7 +169,7 @@ def ingest(vid, language, translation, proxy=None):
         path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
         print(f'{vid}: metadata refreshed; captions stay in the YouTube player', flush=True)
         return
-    captions = fetch_captions(vid, language, translation, session, info)
+    captions = fetch_captions(source_id, language, translation, session, info)
     if previous.get('musicalId') == 'le-rouge-et-le-noir' and captions.get('captionStatus') == 'ready' and captions.get('captionLanguage', '').split('-')[0] != 'fr':
         # Some playlist videos contain French singing that YouTube misdetects
         # as Spanish, Dutch or English. Do not advertise those as French lyrics.

@@ -1,0 +1,586 @@
+{
+  "videoId": "_2RUBc5mHvg",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6001"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 6003,
+      "sourceText": "Un matin tu dansais",
+      "ipa": "[œ̃ matɛ̃ ty dɑ̃sɛ]",
+      "ear": "恩 玛坦 蒂于 当塞",
+      "meaning": "一天清晨 你踏起舞步",
+      "sourceIPA": "/œ̃ matɛ̃ ty dɑ̃sɛ/",
+      "sourceLineId": "notre-dame-de-paris-41-001",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6003,
+        "similarity": 0.845,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6006.9,
+      "sourceText": "Sur la place au soleil",
+      "ipa": "[syʁ la plas‿o solɛj]",
+      "ear": "西于赫 拉 普拉斯 奥 索莱耶",
+      "meaning": "在广场上 阳光里",
+      "sourceIPA": "/syʁ la plas o solɛj/",
+      "sourceLineId": "notre-dame-de-paris-41-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6003,
+        "similarity": 0.845,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6011,
+      "sourceText": "Et jamais je n'avais",
+      "ipa": "[e ʒamɛ ʒə navɛ]",
+      "ear": "诶 扎梅 热 纳韦",
+      "meaning": "我未曾见过",
+      "sourceIPA": "/e ʒamɛ ʒə navɛ/",
+      "sourceLineId": "notre-dame-de-paris-41-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6011,
+        "similarity": 0.651,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6014.692,
+      "sourceText": "rien connu de pareil",
+      "ipa": "[ʁiɛ̃ kɔny də paʁɛj]",
+      "ear": "希安 科尼于 德 帕赫耶",
+      "meaning": "如此美丽的景象",
+      "sourceIPA": "/ʁiɛ̃ kɔny də paʁɛj/",
+      "sourceLineId": "notre-dame-de-paris-41-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6011,
+        "similarity": 0.651,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6019,
+      "sourceText": "Violemment un frisson",
+      "ipa": "[vjolamɑ̃ œ̃ fʁisɔ̃]",
+      "ear": "弗耶奥拉芒 恩 弗希松",
+      "meaning": "一阵颤栗 刻骨铭心",
+      "sourceIPA": "/vjolamɑ̃ œ̃ fʁisɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-41-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6019,
+        "similarity": 0.456,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6022.789,
+      "sourceText": "Envahit tout mon corps",
+      "ipa": "[ɑ̃vai tu mɔ̃ kɔʁ]",
+      "ear": "昂瓦伊 图 蒙 科赫",
+      "meaning": "俘获我的身体",
+      "sourceIPA": "/ɑ̃vai tu mɔ̃ kɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-41-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6019,
+        "similarity": 0.456,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6026.579,
+      "sourceText": "Oh! Je m'en souviens encore",
+      "ipa": "[ɔ ʒə mɑ̃ suvjɛ̃ ɑ̃kɔʁ]",
+      "ear": "哦 热 芒 苏弗耶安 昂科赫",
+      "meaning": "啊！我记忆犹新",
+      "sourceIPA": "/ɔ ʒə mɑ̃ suvjɛ̃z ɑ̃kɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-41-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6019,
+        "similarity": 0.456,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6031,
+      "sourceText": "Depuis ce jour-là",
+      "ipa": "[dəpɥi sə ʒuʁla]",
+      "ear": "德普于伊 瑟 茹赫拉",
+      "meaning": "自那日起",
+      "sourceIPA": "/dəpɥi sə ʒuʁla/",
+      "sourceLineId": "notre-dame-de-paris-41-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6031,
+        "similarity": 0.731,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6034.25,
+      "sourceText": "Quand je vois ma face dans la glace",
+      "ipa": "[kɑ̃ ʒə vwa ma fas dɑ̃ la ɡlas]",
+      "ear": "康 热 弗乌阿 玛 法斯 当 拉 格拉斯",
+      "meaning": "当我面对镜中的自己",
+      "sourceIPA": "/kɑ̃ ʒə vwa ma fas dɑ̃ la ɡlas/",
+      "sourceLineId": "notre-dame-de-paris-41-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6031,
+        "similarity": 0.731,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6040,
+      "sourceText": "Je crois voir Lucifer apparaître à ma place",
+      "ipa": "[ʒə kʁwa vwaʁ lysife apaʁɛtʁ‿a ma plas]",
+      "ear": "热 克赫乌阿 弗乌阿赫 吕西费 阿帕赫特赫 阿 玛 普拉斯",
+      "meaning": "我看到路西法取代了我的位置",
+      "sourceIPA": "/ʒə kʁwa vwaʁ lysife apaʁɛtʁ a ma plas/",
+      "sourceLineId": "notre-dame-de-paris-41-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6040,
+        "similarity": 0.386,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 6049,
+      "sourceText": "Il viendra je l'attends",
+      "ipa": "[il vjɛ̃dʁa ʒə latɑ̃]",
+      "ear": "伊勒 弗耶安德哈 热 拉唐",
+      "meaning": "我在等 他会来的",
+      "sourceIPA": "/il vjɛ̃dʁa ʒə latɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-41-011",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6049,
+        "similarity": 0.707,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6052.9,
+      "sourceText": "Mon Phoebus, mon soleil",
+      "ipa": "[mɔ̃ febys mɔ̃ solɛj]",
+      "ear": "蒙 费比于斯 蒙 索莱耶",
+      "meaning": "我的菲比斯 我的太阳神",
+      "sourceIPA": "/mɔ̃ febys mɔ̃ solɛj/",
+      "sourceLineId": "notre-dame-de-paris-41-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6049,
+        "similarity": 0.707,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6057,
+      "sourceText": "Il sera mon amant",
+      "ipa": "[il səʁa mɔ̃n‿amɑ̃]",
+      "ear": "伊勒 瑟哈 蒙恩 阿芒",
+      "meaning": "他是我的情郎",
+      "sourceIPA": "/il səʁa mɔ̃n amɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-41-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6057,
+        "similarity": 0.559,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6060.9,
+      "sourceText": "Mon amour, ma merveille",
+      "ipa": "[mɔ̃n‿amuʁ ma mɛʁvɛj]",
+      "ear": "蒙恩 阿穆赫 玛 梅赫韦耶",
+      "meaning": "我的爱人 我的奇迹",
+      "sourceIPA": "/mɔ̃n amuʁ ma mɛʁvɛj/",
+      "sourceLineId": "notre-dame-de-paris-41-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6057,
+        "similarity": 0.559,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6065,
+      "sourceText": "Approche-toi, assassin!",
+      "ipa": "[apʁɔʃtwa asasɛ̃]",
+      "ear": "阿普霍什特乌阿 阿萨森",
+      "meaning": "凶手，靠近点！",
+      "sourceIPA": "/apʁɔʃtwa asasɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-41-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6065,
+        "similarity": 0.503,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6068.789,
+      "sourceText": "Tu mourras de mes mains",
+      "ipa": "[ty muʁʁa də me mɛ̃]",
+      "ear": "蒂于 穆赫哈 德 梅 曼",
+      "meaning": "你会死在我手里",
+      "sourceIPA": "/ty muʁʁa də me mɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-41-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6065,
+        "similarity": 0.503,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6072.579,
+      "sourceText": "Non tu ne me fais pas peur",
+      "ipa": "[nɔ̃ ty nə mə fɛ pa pœʁ]",
+      "ear": "农 蒂于 讷 默 费 帕 珀厄赫",
+      "meaning": "我不怕你",
+      "sourceIPA": "/nɔ̃ ty nə mə fɛ pa pœʁ/",
+      "sourceLineId": "notre-dame-de-paris-41-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6065,
+        "similarity": 0.503,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6077,
+      "sourceText": "Je mords comme un chien",
+      "ipa": "[ʒə mɔʁ kɔm‿œ̃ ʃjɛ̃]",
+      "ear": "热 莫赫 科姆 恩 什耶安",
+      "meaning": "我要像条狗似的咬你",
+      "sourceIPA": "/ʒə mɔʁ kɔm œ̃ ʃjɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-41-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6077,
+        "similarity": 0.761,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6080.25,
+      "sourceText": "éloigne-toi oiseau de malheur",
+      "ipa": "[elwaɲtwa wazo də malœʁ]",
+      "ear": "诶勒乌阿涅特乌阿 乌阿佐 德 玛勒厄赫",
+      "meaning": "滚开 你这灾难的使者",
+      "sourceIPA": "/elwaɲtwa wazo də malœʁ/",
+      "sourceLineId": "notre-dame-de-paris-41-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6077,
+        "similarity": 0.761,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6086,
+      "sourceText": "Je ne demandais rien qu'un instant de bonheur",
+      "ipa": "[ʒə nə dəmɑ̃dɛ ʁjɛ̃ kœ̃ ɛ̃stɑ̃ də bɔnœʁ]",
+      "ear": "热 讷 德芒戴 赫耶安 坎 安斯唐 德 博讷厄赫",
+      "meaning": "我只求片刻欢愉",
+      "sourceIPA": "/ʒə nə dəmɑ̃dɛ ʁjɛ̃ kœ̃n ɛ̃stɑ̃ də bɔnœʁ/",
+      "sourceLineId": "notre-dame-de-paris-41-020",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6086,
+        "similarity": 0.563,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 6095,
+      "sourceText": "Je te donne le choix",
+      "ipa": "[ʒə tə dɔn lə ʃwa]",
+      "ear": "热 特 多恩 勒 什乌阿",
+      "meaning": "我给你一个选择",
+      "sourceIPA": "/ʒə tə dɔn lə ʃwa/",
+      "sourceLineId": "notre-dame-de-paris-41-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6095,
+        "similarity": 0.869,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6098.25,
+      "sourceText": "avant le petit jour",
+      "ipa": "[avɑ̃ lə pəti ʒuʁ]",
+      "ear": "阿旺 勒 珀蒂 茹赫",
+      "meaning": "在黎明之前",
+      "sourceIPA": "/avɑ̃ lə pəti ʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-41-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6095,
+        "similarity": 0.869,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6103,
+      "sourceText": "C'est le gibet ou moi",
+      "ipa": "[sɛ lə ʒibɛ u mwa]",
+      "ear": "塞 勒 日贝 乌 姆乌阿",
+      "meaning": "是要绞架 还是要我",
+      "sourceIPA": "/sɛ lə ʒibɛ u mwa/",
+      "sourceLineId": "notre-dame-de-paris-41-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6103,
+        "similarity": 0.876,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6106.9,
+      "sourceText": "C'est la mort ou l'amour",
+      "ipa": "[sɛ la mɔʁ‿u lamuʁ]",
+      "ear": "塞 拉 莫赫 乌 拉穆赫",
+      "meaning": "要死 还是要爱",
+      "sourceIPA": "/sɛ la mɔʁ u lamuʁ/",
+      "sourceLineId": "notre-dame-de-paris-41-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6103,
+        "similarity": 0.876,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6111,
+      "sourceText": "C'est la tombe ou mon lit",
+      "ipa": "[sɛ la tɔ̃b‿u mɔ̃ li]",
+      "ear": "塞 拉 通布 乌 蒙 利",
+      "meaning": "要坟墓 还是要我的床",
+      "sourceIPA": "/sɛ la tɔ̃b u mɔ̃ li/",
+      "sourceLineId": "notre-dame-de-paris-41-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6111,
+        "similarity": 0.657,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6114.474,
+      "sourceText": "C'est la mort ou la vie",
+      "ipa": "[sɛ la mɔʁ‿u la vi]",
+      "ear": "塞 拉 莫赫 乌 拉 维",
+      "meaning": "要死还是要生",
+      "sourceIPA": "/ɑ̃sɑ̃bl sɛ la mɔʁ u la vi/",
+      "sourceLineId": "notre-dame-de-paris-41-026",
+      "speaker": "Ensemble",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6111,
+        "similarity": 0.657,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6119.105,
+      "sourceText": "Tu n'as qu'à dire oui",
+      "ipa": "[ty na ka diʁ wi]",
+      "ear": "蒂于 纳 卡 迪赫 乌伊",
+      "meaning": "你只需点个头",
+      "sourceIPA": "/ty na ka diʁ wi/",
+      "sourceLineId": "notre-dame-de-paris-41-027",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6111,
+        "similarity": 0.657,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6122,
+      "sourceText": "Si je te sors d'ici",
+      "ipa": "[si ʒə tə sɔʁ disi]",
+      "ear": "西 热 特 索赫 迪西",
+      "meaning": "我就可以放走你",
+      "sourceIPA": "/si ʒə tə sɔʁ disi/",
+      "sourceLineId": "notre-dame-de-paris-41-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6122,
+        "similarity": 0.676,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6125.9,
+      "sourceText": "Je promets que je te rendrais",
+      "ipa": "[ʒə pʁomɛ kə ʒə tə ʁɑ̃dʁɛ]",
+      "ear": "热 普霍梅 克 热 特 杭德赫",
+      "meaning": "我保证把你交还给",
+      "sourceIPA": "/ʒə pʁomɛ kə ʒə tə ʁɑ̃dʁɛ/",
+      "sourceLineId": "notre-dame-de-paris-41-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6122,
+        "similarity": 0.676,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6132,
+      "sourceText": "à tes frères les gitans",
+      "ipa": "[a te fʁɛʁ le ʒitɑ̃]",
+      "ear": "阿 特 弗赫赫 莱 日唐",
+      "meaning": "你的茨冈兄弟们",
+      "sourceIPA": "/a te fʁɛʁ le ʒitɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-41-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6132,
+        "similarity": 0.567,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6135.9,
+      "sourceText": "à tes frères en Satan",
+      "ipa": "[a te fʁɛʁ‿ɑ̃ satɑ̃]",
+      "ear": "阿 特 弗赫赫 昂 萨唐",
+      "meaning": "你的魔鬼同伴们",
+      "sourceIPA": "/a te fʁɛʁz ɑ̃ satɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-41-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6132,
+        "similarity": 0.567,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6139.8,
+      "sourceText": "Vas-t-en!",
+      "ipa": "[vatɑ̃]",
+      "ear": "瓦唐",
+      "meaning": "走开！",
+      "sourceIPA": "/vatɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-41-032",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6132,
+        "similarity": 0.567,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 6145,
+      "sourceText": "Vas-t-en!",
+      "ipa": "[vatɑ̃]",
+      "ear": "瓦唐",
+      "meaning": "走开！",
+      "sourceIPA": "/vatɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-41-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6145,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6147.5,
+      "sourceText": "Vas-t-en!",
+      "ipa": "[vatɑ̃]",
+      "ear": "瓦唐",
+      "meaning": "走开！",
+      "sourceIPA": "/vatɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-41-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6145,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 6153,
+      "sourceText": "Vas-t-en!",
+      "ipa": "[vatɑ̃]",
+      "ear": "瓦唐",
+      "meaning": "走开！",
+      "sourceIPA": "/vatɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-41-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 6153,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    }
+  ]
+}

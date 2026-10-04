@@ -1,0 +1,346 @@
+{
+  "videoId": "hApu7i2GB3o",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=1549"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 1557,
+      "sourceText": "Toi qui m'as recueilli",
+      "ipa": "[twa ki ma ʁəkœji]",
+      "ear": "特乌阿 基 玛 赫克厄耶伊",
+      "meaning": "是你收容了我",
+      "sourceIPA": "/twa ki ma ʁəkœji/",
+      "sourceLineId": "notre-dame-de-paris-11-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1557,
+        "similarity": 0.334,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 1558.412,
+      "sourceText": "Adopté et nourri",
+      "ipa": "[adɔpte e nuʁi]",
+      "ear": "阿多普特 诶 努希",
+      "meaning": "领养我抚育我",
+      "sourceIPA": "/adɔpte e nuʁi/",
+      "sourceLineId": "notre-dame-de-paris-11-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1557,
+        "similarity": 0.334,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 1559.824,
+      "sourceText": "Moi l'enfant trouvé",
+      "ipa": "[mwa lɑ̃fɑ̃ tʁuve]",
+      "ear": "姆乌阿 朗芳 特胡韦",
+      "meaning": "我这被遗弃的孩子",
+      "sourceIPA": "/mwa lɑ̃fɑ̃ tʁuve/",
+      "sourceLineId": "notre-dame-de-paris-11-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1557,
+        "similarity": 0.334,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 1561.0,
+      "sourceText": "L'enfant rejeté",
+      "ipa": "[lɑ̃fɑ̃ ʁəʒte]",
+      "ear": "朗芳 赫日特",
+      "meaning": "饱受排挤",
+      "sourceIPA": "/lɑ̃fɑ̃ ʁəʒte/",
+      "sourceLineId": "notre-dame-de-paris-11-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1557,
+        "similarity": 0.334,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 1561.941,
+      "sourceText": "Par ceux qui avaient honte",
+      "ipa": "[paʁ sø ki avɛ ɔ̃t]",
+      "ear": "帕赫 瑟厄 基 阿韦 翁特",
+      "meaning": "人人憎恶",
+      "sourceIPA": "/paʁ sø ki avɛ ɔ̃t/",
+      "sourceLineId": "notre-dame-de-paris-11-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1557,
+        "similarity": 0.334,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 1563.353,
+      "sourceText": "D'avoir mis au monde un monstre",
+      "ipa": "[davwaʁ mi o mɔ̃d‿œ̃ mɔ̃stʁ]",
+      "ear": "达弗乌阿赫 米 奥 蒙德 恩 蒙斯特赫",
+      "meaning": "世间视为怪物",
+      "sourceIPA": "/davwaʁ mi o mɔ̃d œ̃ mɔ̃stʁ/",
+      "sourceLineId": "notre-dame-de-paris-11-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1557,
+        "similarity": 0.334,
+        "groupSize": 6
+      }
+    },
+    {
+      "start": 1565,
+      "sourceText": "Toi qui m'as vu grandir",
+      "ipa": "[twa ki ma vy ɡʁɑ̃diʁ]",
+      "ear": "特乌阿 基 玛 维于 格杭迪赫",
+      "meaning": "而你看顾我成长",
+      "sourceIPA": "/twa ki ma vy ɡʁɑ̃diʁ/",
+      "sourceLineId": "notre-dame-de-paris-11-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1565,
+        "similarity": 0.733,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1568.9,
+      "sourceText": "Toi qui m'as vu souffrir",
+      "ipa": "[twa ki ma vy sufʁiʁ]",
+      "ear": "特乌阿 基 玛 维于 苏弗希赫",
+      "meaning": "包容我",
+      "sourceIPA": "/twa ki ma vy sufʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-11-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1565,
+        "similarity": 0.733,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1574,
+      "sourceText": "Toi qui m'as protégé",
+      "ipa": "[twa ki ma pʁoteʒe]",
+      "ear": "特乌阿 基 玛 普霍特热",
+      "meaning": "保护我",
+      "sourceIPA": "/twa ki ma pʁoteʒe/",
+      "sourceLineId": "notre-dame-de-paris-11-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1574,
+        "similarity": 0.454,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1576.824,
+      "sourceText": "contre le monde entier",
+      "ipa": "[kɔ̃tʁ lə mɔ̃d‿ɑ̃tje]",
+      "ear": "孔特赫 勒 蒙德 昂特耶诶",
+      "meaning": "远离世界的伤害",
+      "sourceIPA": "/kɔ̃tʁ lə mɔ̃d ɑ̃tje/",
+      "sourceLineId": "notre-dame-de-paris-11-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1574,
+        "similarity": 0.454,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1579.176,
+      "sourceText": "Tu m'as fait le bonheur",
+      "ipa": "[ty ma fɛ lə bɔnœʁ]",
+      "ear": "蒂于 玛 费 勒 博讷厄赫",
+      "meaning": "你带给我快乐",
+      "sourceIPA": "/ty ma fɛ lə bɔnœʁ/",
+      "sourceLineId": "notre-dame-de-paris-11-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1574,
+        "similarity": 0.454,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1582,
+      "sourceText": "De me nommer sonneur des cloches",
+      "ipa": "[də mə nɔme sɔnœʁ de kloʃ]",
+      "ear": "德 默 诺梅 索讷厄赫 德 克洛什",
+      "meaning": "让我担任敲钟的职务",
+      "sourceIPA": "/də mə nɔme sɔnœʁ de kloʃ/",
+      "sourceLineId": "notre-dame-de-paris-11-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1582,
+        "similarity": 0.482,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 1589,
+      "sourceText": "Tu m'as appris à parler à lire et à écrire",
+      "ipa": "[ty ma apʁi a paʁle a liʁ e a ekʁiʁ]",
+      "ear": "蒂于 玛 阿普希 阿 帕赫莱 阿 利赫 诶 阿 诶克希赫",
+      "meaning": "你教我说话 读书 写字",
+      "sourceIPA": "/ty maz apʁi a paʁle a liʁ e a ekʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-11-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1589,
+        "similarity": 0.966,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 1599,
+      "sourceText": "Mais je ne sais pas lire",
+      "ipa": "[mɛ ʒə nə sɛ pa liʁ]",
+      "ear": "梅 热 讷 塞 帕 利赫",
+      "meaning": "然而我却读不出",
+      "sourceIPA": "/mɛ ʒə nə sɛ pa liʁ/",
+      "sourceLineId": "notre-dame-de-paris-11-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1599,
+        "similarity": 0.561,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 1618,
+      "sourceText": "Le fond de tes pensées",
+      "ipa": "[lə fɔ̃ də te pɑ̃se]",
+      "ear": "勒 丰 德 特 庞塞",
+      "meaning": "你思想的深处",
+      "sourceIPA": "/lə fɔ̃ də te pɑ̃se/",
+      "sourceLineId": "notre-dame-de-paris-11-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1618,
+        "similarity": 0.354,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1621.429,
+      "sourceText": "Je t'appartiens de tout mon être",
+      "ipa": "[ʒə tapaʁtjɛ̃ də tu mɔ̃n‿ɛtʁ]",
+      "ear": "热 塔帕赫特耶安 德 图 蒙恩 艾特赫",
+      "meaning": "我从内心臣服于你",
+      "sourceIPA": "/ʒə tapaʁtjɛ̃ də tu mɔ̃n ɛtʁ/",
+      "sourceLineId": "notre-dame-de-paris-11-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1618,
+        "similarity": 0.354,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1626,
+      "sourceText": "Comme jamais un chien n'a aimé son maître",
+      "ipa": "[kɔm ʒamɛ œ̃ ʃjɛ̃ na ɛme sɔ̃ mɛtʁ]",
+      "ear": "科姆 扎梅 恩 什耶安 纳 艾梅 松 梅特赫",
+      "meaning": "胜过忠犬对主人的感情",
+      "sourceIPA": "/kɔm ʒamɛz œ̃ ʃjɛ̃ na ɛme sɔ̃ mɛtʁ/",
+      "sourceLineId": "notre-dame-de-paris-11-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1626,
+        "similarity": 0.445,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1632.111,
+      "sourceText": "Je t'appartiens de tout mon être",
+      "ipa": "[ʒə tapaʁtjɛ̃ də tu mɔ̃n‿ɛtʁ]",
+      "ear": "热 塔帕赫特耶安 德 图 蒙恩 艾特赫",
+      "meaning": "我从内心臣服于你",
+      "sourceIPA": "/ʒə tapaʁtjɛ̃ də tu mɔ̃n ɛtʁ/",
+      "sourceLineId": "notre-dame-de-paris-11-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1626,
+        "similarity": 0.445,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1637,
+      "sourceText": "Comme jamais un chien",
+      "ipa": "[kɔm ʒamɛ œ̃ ʃjɛ̃]",
+      "ear": "科姆 扎梅 恩 什耶安",
+      "meaning": "胜过忠犬",
+      "sourceIPA": "/kɔm ʒamɛz œ̃ ʃjɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-11-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1637,
+        "similarity": 0.507,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1640.25,
+      "sourceText": "N'a aimé son maître",
+      "ipa": "[na ɛme sɔ̃ mɛtʁ]",
+      "ear": "纳 艾梅 松 梅特赫",
+      "meaning": "对主人的赤诚",
+      "sourceIPA": "/na ɛme sɔ̃ mɛtʁ/",
+      "sourceLineId": "notre-dame-de-paris-11-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1637,
+        "similarity": 0.507,
+        "groupSize": 2
+      }
+    }
+  ]
+}

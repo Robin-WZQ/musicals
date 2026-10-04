@@ -1,0 +1,922 @@
+{
+  "videoId": "NAeYJNGDN6s",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=3451"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 3459,
+      "sourceText": "Cet océan de passion",
+      "ipa": "[sɛt‿oseɑ̃ də pasjɔ̃]",
+      "ear": "塞特 奥塞昂 德 帕斯耶翁",
+      "meaning": "激情之海",
+      "sourceIPA": "/sɛt oseɑ̃ də pasjɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-24-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3459,
+        "similarity": 0.678,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3461.8,
+      "sourceText": "Qui déferle dans mes veines",
+      "ipa": "[ki defɛʁl dɑ̃ me vɛn]",
+      "ear": "基 德费赫勒 当 梅 韦恩",
+      "meaning": "在我血脉中澎湃",
+      "sourceIPA": "/ki defɛʁl dɑ̃ me vɛn/",
+      "sourceLineId": "notre-dame-de-paris-24-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3459,
+        "similarity": 0.678,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3464.2,
+      "sourceText": "Qui cause ma déraison",
+      "ipa": "[ki koz ma deʁɛzɔ̃]",
+      "ear": "基 科兹 玛 德赫宗",
+      "meaning": "导致我的疯狂、",
+      "sourceIPA": "/ki koz ma deʁɛzɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-24-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3459,
+        "similarity": 0.678,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3466.6,
+      "sourceText": "Ma déroute, ma déveine",
+      "ipa": "[ma deʁut ma devɛn]",
+      "ear": "玛 德胡特 玛 德韦恩",
+      "meaning": "沉沦和厄运",
+      "sourceIPA": "/ma deʁut ma devɛn/",
+      "sourceLineId": "notre-dame-de-paris-24-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3459,
+        "similarity": 0.678,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3469,
+      "sourceText": "Doucement j'y plongerai",
+      "ipa": "[dusmɑ̃ ʒi plɔ̃ʒʁe]",
+      "ear": "杜斯芒 日 普隆日赫",
+      "meaning": "我缓慢的坠入",
+      "sourceIPA": "/dusmɑ̃ ʒi plɔ̃ʒʁe/",
+      "sourceLineId": "notre-dame-de-paris-24-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3469,
+        "similarity": 0.657,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3470.875,
+      "sourceText": "Sans qu'une main me retienne",
+      "ipa": "[sɑ̃ kyn mɛ̃ mə ʁətjɛn]",
+      "ear": "桑 基于恩 曼 默 赫特耶艾恩",
+      "meaning": "却一无援手",
+      "sourceIPA": "/sɑ̃ kyn mɛ̃ mə ʁətjɛn/",
+      "sourceLineId": "notre-dame-de-paris-24-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3469,
+        "similarity": 0.657,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3473.125,
+      "sourceText": "Lentement je m'y noierai",
+      "ipa": "[lɑ̃tmɑ̃ ʒə mi nwaʁe]",
+      "ear": "朗特芒 热 米 恩乌阿赫",
+      "meaning": "我被逐渐淹没",
+      "sourceIPA": "/lɑ̃tmɑ̃ ʒə mi nwaʁe/",
+      "sourceLineId": "notre-dame-de-paris-24-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3469,
+        "similarity": 0.657,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3475.375,
+      "sourceText": "Sans qu'un remords ne me vienne",
+      "ipa": "[sɑ̃ kœ̃ ʁəmɔʁ nə mə vjɛn]",
+      "ear": "桑 坎 赫莫赫 讷 默 弗耶艾恩",
+      "meaning": "却全不悔疚",
+      "sourceIPA": "/sɑ̃ kœ̃ ʁəmɔʁ nə mə vjɛn/",
+      "sourceLineId": "notre-dame-de-paris-24-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3469,
+        "similarity": 0.657,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3478,
+      "sourceText": "Tu vas me détruire",
+      "ipa": "[ty va mə detʁɥiʁ]",
+      "ear": "蒂于 瓦 默 德特赫于伊赫",
+      "meaning": "你会毁了我",
+      "sourceIPA": "/ty va mə detʁyiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3478,
+        "similarity": 0.692,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3480.16,
+      "sourceText": "Tu vas me détruire",
+      "ipa": "[ty va mə detʁɥiʁ]",
+      "ear": "蒂于 瓦 默 德特赫于伊赫",
+      "meaning": "你会毁了我",
+      "sourceIPA": "/ty va mə detʁyiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3478,
+        "similarity": 0.692,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3482.32,
+      "sourceText": "Et je vais te maudire",
+      "ipa": "[e ʒə vɛ tə modiʁ]",
+      "ear": "诶 热 韦 特 莫迪赫",
+      "meaning": "我要诅咒你",
+      "sourceIPA": "/e ʒə vɛ tə modiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3478,
+        "similarity": 0.692,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3484.48,
+      "sourceText": "Jusqu'à la fin de ma vie",
+      "ipa": "[ʒyska la fɛ̃ də ma vi]",
+      "ear": "日于斯卡 拉 凡 德 玛 维",
+      "meaning": "直到我生命的尽头",
+      "sourceIPA": "/ʒyska la fɛ̃ də ma vi/",
+      "sourceLineId": "notre-dame-de-paris-24-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3478,
+        "similarity": 0.692,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3487,
+      "sourceText": "Tu vas me détruire",
+      "ipa": "[ty va mə detʁɥiʁ]",
+      "ear": "蒂于 瓦 默 德特赫于伊赫",
+      "meaning": "你会毁了我",
+      "sourceIPA": "/ty va mə detʁyiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3487,
+        "similarity": 0.893,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3489.087,
+      "sourceText": "Tu vas me détruire",
+      "ipa": "[ty va mə detʁɥiʁ]",
+      "ear": "蒂于 瓦 默 德特赫于伊赫",
+      "meaning": "你会毁了我",
+      "sourceIPA": "/ty va mə detʁyiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3487,
+        "similarity": 0.893,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3491.174,
+      "sourceText": "J'aurais pu le prédire",
+      "ipa": "[ʒoʁɛ py lə pʁediʁ]",
+      "ear": "若赫 普于 勒 普赫迪赫",
+      "meaning": "我本该预见到这点",
+      "sourceIPA": "/ʒoʁɛ py lə pʁediʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3487,
+        "similarity": 0.893,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3493.261,
+      "sourceText": "Dès le premier jour",
+      "ipa": "[dɛ lə pʁəmje ʒuʁ]",
+      "ear": "戴 勒 普赫姆耶诶 茹赫",
+      "meaning": "在最初的那天",
+      "sourceIPA": "/dɛ lə pʁəmje ʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3487,
+        "similarity": 0.893,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3495,
+      "sourceText": "Dès la première nuit",
+      "ipa": "[dɛ la pʁəmjɛʁ nɥi]",
+      "ear": "戴 拉 普赫姆耶艾赫 恩于伊",
+      "meaning": "在最初的那夜",
+      "sourceIPA": "/dɛ la pʁəmjɛʁ nɥi/",
+      "sourceLineId": "notre-dame-de-paris-24-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3495,
+        "similarity": 1.0,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3497.391,
+      "sourceText": "Tu vas me détruire",
+      "ipa": "[ty va mə detʁɥiʁ]",
+      "ear": "蒂于 瓦 默 德特赫于伊赫",
+      "meaning": "你会毁了我",
+      "sourceIPA": "/ty va mə detʁyiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3495,
+        "similarity": 1.0,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3500.261,
+      "sourceText": "Tu vas me détruire",
+      "ipa": "[ty va mə detʁɥiʁ]",
+      "ear": "蒂于 瓦 默 德特赫于伊赫",
+      "meaning": "你会毁了我",
+      "sourceIPA": "/ty va mə detʁyiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3495,
+        "similarity": 1.0,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3503.13,
+      "sourceText": "Tu vas me détruire",
+      "ipa": "[ty va mə detʁɥiʁ]",
+      "ear": "蒂于 瓦 默 德特赫于伊赫",
+      "meaning": "你会毁了我",
+      "sourceIPA": "/ty va mə detʁyiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3495,
+        "similarity": 1.0,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3506,
+      "sourceText": "Mon péché, mon obsession",
+      "ipa": "[mɔ̃ peʃe mɔ̃n‿ɔbsɛsjɔ̃]",
+      "ear": "蒙 佩谢 蒙恩 哦布塞斯耶翁",
+      "meaning": "我的罪过，我的痴迷",
+      "sourceIPA": "/mɔ̃ peʃe mɔ̃n ɔbsɛsjɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-24-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3506,
+        "similarity": 0.534,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3508.0,
+      "sourceText": "Désir fou qui me tourmente",
+      "ipa": "[deziʁ fu ki mə tuʁmɑ̃t]",
+      "ear": "德齐赫 富 基 默 图赫芒特",
+      "meaning": "狂热的欲念",
+      "sourceIPA": "/deziʁ fu ki mə tuʁmɑ̃t/",
+      "sourceLineId": "notre-dame-de-paris-24-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3506,
+        "similarity": 0.534,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3510.0,
+      "sourceText": "Qui me tourne en dérision",
+      "ipa": "[ki mə tuʁn‿ɑ̃ deʁizjɔ̃]",
+      "ear": "基 默 图赫恩 昂 德希兹耶翁",
+      "meaning": "折磨我嘲笑我",
+      "sourceIPA": "/ki mə tuʁn ɑ̃ deʁizjɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-24-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3506,
+        "similarity": 0.534,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3512.0,
+      "sourceText": "Qui me déchire et me hante",
+      "ipa": "[ki mə deʃiʁ e mə ɑ̃t]",
+      "ear": "基 默 德希赫 诶 默 昂特",
+      "meaning": "撕裂我纠缠我",
+      "sourceIPA": "/ki mə deʃiʁ e mə ɑ̃t/",
+      "sourceLineId": "notre-dame-de-paris-24-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3506,
+        "similarity": 0.534,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3514,
+      "sourceText": "Petite marchande d'illusion",
+      "ipa": "[pətit maʁʃɑ̃d dilyzjɔ̃]",
+      "ear": "珀蒂特 玛赫尚德 迪吕兹耶翁",
+      "meaning": "交易幻想的商人啊",
+      "sourceIPA": "/pətit maʁʃɑ̃d dilyzjɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-24-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3514,
+        "similarity": 0.508,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3516.25,
+      "sourceText": "Je ne vis que dans l'attente",
+      "ipa": "[ʒə nə vi kə dɑ̃ latɑ̃t]",
+      "ear": "热 讷 维 克 当 拉唐特",
+      "meaning": "我只有一个小小的愿望—",
+      "sourceIPA": "/ʒə nə vi kə dɑ̃ latɑ̃t/",
+      "sourceLineId": "notre-dame-de-paris-24-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3514,
+        "similarity": 0.508,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3518.5,
+      "sourceText": "De voir voler ton jupon",
+      "ipa": "[də vwaʁ vole tɔ̃ ʒypɔ̃]",
+      "ear": "德 弗乌阿赫 沃莱 通 日于蓬",
+      "meaning": "看一看你",
+      "sourceIPA": "/də vwaʁ vole tɔ̃ ʒypɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-24-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3514,
+        "similarity": 0.508,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3520.75,
+      "sourceText": "Et que tu danses et tu chantes",
+      "ipa": "[e kə ty dɑ̃s e ty ʃɑ̃t]",
+      "ear": "诶 克 蒂于 当斯 诶 蒂于 尚特",
+      "meaning": "歌舞时裙子飞扬的模样",
+      "sourceIPA": "/e kə ty dɑ̃sz e ty ʃɑ̃t/",
+      "sourceLineId": "notre-dame-de-paris-24-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3514,
+        "similarity": 0.508,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3523,
+      "sourceText": "Tu vas me détruire",
+      "ipa": "[ty va mə detʁɥiʁ]",
+      "ear": "蒂于 瓦 默 德特赫于伊赫",
+      "meaning": "你会毁了我",
+      "sourceIPA": "/ty va mə detʁyiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3523,
+        "similarity": 0.692,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3525.16,
+      "sourceText": "Tu vas me détruire",
+      "ipa": "[ty va mə detʁɥiʁ]",
+      "ear": "蒂于 瓦 默 德特赫于伊赫",
+      "meaning": "你会毁了我",
+      "sourceIPA": "/ty va mə detʁyiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3523,
+        "similarity": 0.692,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3527.32,
+      "sourceText": "Et je vais te maudire",
+      "ipa": "[e ʒə vɛ tə modiʁ]",
+      "ear": "诶 热 韦 特 莫迪赫",
+      "meaning": "我要诅咒你",
+      "sourceIPA": "/e ʒə vɛ tə modiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3523,
+        "similarity": 0.692,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3529.48,
+      "sourceText": "Jusqu'à la fin de ma vie",
+      "ipa": "[ʒyska la fɛ̃ də ma vi]",
+      "ear": "日于斯卡 拉 凡 德 玛 维",
+      "meaning": "直到我生命的尽头",
+      "sourceIPA": "/ʒyska la fɛ̃ də ma vi/",
+      "sourceLineId": "notre-dame-de-paris-24-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3523,
+        "similarity": 0.692,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3532,
+      "sourceText": "Tu vas me détruire",
+      "ipa": "[ty va mə detʁɥiʁ]",
+      "ear": "蒂于 瓦 默 德特赫于伊赫",
+      "meaning": "你会毁了我",
+      "sourceIPA": "/ty va mə detʁyiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3532,
+        "similarity": 0.893,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3534.087,
+      "sourceText": "Tu vas me détruire",
+      "ipa": "[ty va mə detʁɥiʁ]",
+      "ear": "蒂于 瓦 默 德特赫于伊赫",
+      "meaning": "你会毁了我",
+      "sourceIPA": "/ty va mə detʁyiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3532,
+        "similarity": 0.893,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3536.174,
+      "sourceText": "J'aurais pu le prédire",
+      "ipa": "[ʒoʁɛ py lə pʁediʁ]",
+      "ear": "若赫 普于 勒 普赫迪赫",
+      "meaning": "我本应能够预见",
+      "sourceIPA": "/ʒoʁɛ py lə pʁediʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3532,
+        "similarity": 0.893,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3538.261,
+      "sourceText": "Dès le premier jour",
+      "ipa": "[dɛ lə pʁəmje ʒuʁ]",
+      "ear": "戴 勒 普赫姆耶诶 茹赫",
+      "meaning": "在最初的那天",
+      "sourceIPA": "/dɛ lə pʁəmje ʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3532,
+        "similarity": 0.893,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3540,
+      "sourceText": "Dès la première nuit",
+      "ipa": "[dɛ la pʁəmjɛʁ nɥi]",
+      "ear": "戴 拉 普赫姆耶艾赫 恩于伊",
+      "meaning": "在最初的那夜",
+      "sourceIPA": "/dɛ la pʁəmjɛʁ nɥi/",
+      "sourceLineId": "notre-dame-de-paris-24-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3540,
+        "similarity": 0.85,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3543.25,
+      "sourceText": "Tu vas me détruire",
+      "ipa": "[ty va mə detʁɥiʁ]",
+      "ear": "蒂于 瓦 默 德特赫于伊赫",
+      "meaning": "你会毁了我",
+      "sourceIPA": "/ty va mə detʁyiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3540,
+        "similarity": 0.85,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 3559,
+      "sourceText": "Moi qui me croyais l'hiver",
+      "ipa": "[mwa ki mə kʁwajɛ livɛʁ]",
+      "ear": "姆乌阿 基 默 克赫乌阿耶艾 利韦赫",
+      "meaning": "本以为生命入冬",
+      "sourceIPA": "/mwa ki mə kʁwajɛ livɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-039",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3559,
+        "similarity": 0.321,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 3560.909,
+      "sourceText": "Me voici un arbre vert",
+      "ipa": "[mə vwasi œ̃n‿aʁbʁ vɛʁ]",
+      "ear": "默 弗乌阿西 恩恩 阿赫布赫 韦赫",
+      "meaning": "现在树木青葱",
+      "sourceIPA": "/mə vwasi œ̃n aʁbʁ vɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-040",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3559,
+        "similarity": 0.321,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 3562.545,
+      "sourceText": "Moi qui me croyais de fer",
+      "ipa": "[mwa ki mə kʁwajɛ də fɛʁ]",
+      "ear": "姆乌阿 基 默 克赫乌阿耶艾 德 费赫",
+      "meaning": "自以为铁石心肠",
+      "sourceIPA": "/mwa ki mə kʁwajɛ də fɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-041",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3559,
+        "similarity": 0.321,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 3564.455,
+      "sourceText": "Contre le feu de la chair",
+      "ipa": "[kɔ̃tʁ lə fø də la ʃɛʁ]",
+      "ear": "孔特赫 勒 弗厄 德 拉 谢赫",
+      "meaning": "可以抵挡欲望",
+      "sourceIPA": "/kɔ̃tʁ lə fø də la ʃɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-042",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3559,
+        "similarity": 0.321,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 3566.091,
+      "sourceText": "Je m'enflamme et me consume",
+      "ipa": "[ʒə mɑ̃flam e mə kɔ̃sym]",
+      "ear": "热 芒弗拉姆 诶 默 孔西于姆",
+      "meaning": "我的欲火被点燃",
+      "sourceIPA": "/ʒə mɑ̃flam e mə kɔ̃sym/",
+      "sourceLineId": "notre-dame-de-paris-24-043",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3559,
+        "similarity": 0.321,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 3568,
+      "sourceText": "Pour les yeux d'une étrangère",
+      "ipa": "[puʁ lez‿jø dyn‿etʁɑ̃ʒɛʁ]",
+      "ear": "普赫 莱兹 耶厄 迪于恩 诶特杭热赫",
+      "meaning": "心里被异乡人的眼神占满",
+      "sourceIPA": "/puʁ lez jø dyn etʁɑ̃ʒɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-044",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3568,
+        "similarity": 0.759,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3571.0,
+      "sourceText": "Qui ont bien plus de mystère",
+      "ipa": "[ki ɔ̃ bjɛ̃ ply də mistɛʁ]",
+      "ear": "基 翁 布耶安 普吕 德 米斯泰赫",
+      "meaning": "那双眼睛",
+      "sourceIPA": "/ki ɔ̃ bjɛ̃ ply də mistɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-045",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3568,
+        "similarity": 0.759,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3574.0,
+      "sourceText": "Que la lumière de la lune",
+      "ipa": "[kə la lymjɛʁ də la lyn]",
+      "ear": "克 拉 吕姆耶艾赫 德 拉 吕恩",
+      "meaning": "比月光承载了更多的秘密",
+      "sourceIPA": "/kə la lymjɛʁ də la lyn/",
+      "sourceLineId": "notre-dame-de-paris-24-046",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3568,
+        "similarity": 0.759,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 3577,
+      "sourceText": "Tu vas me détruire",
+      "ipa": "[ty va mə detʁɥiʁ]",
+      "ear": "蒂于 瓦 默 德特赫于伊赫",
+      "meaning": "你会毁了我",
+      "sourceIPA": "/ty va mə detʁyiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-047",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3577,
+        "similarity": 0.692,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3579.16,
+      "sourceText": "Tu vas me détruire",
+      "ipa": "[ty va mə detʁɥiʁ]",
+      "ear": "蒂于 瓦 默 德特赫于伊赫",
+      "meaning": "你会毁了我",
+      "sourceIPA": "/ty va mə detʁyiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-048",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3577,
+        "similarity": 0.692,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3581.32,
+      "sourceText": "Et je vais te maudire",
+      "ipa": "[e ʒə vɛ tə modiʁ]",
+      "ear": "诶 热 韦 特 莫迪赫",
+      "meaning": "我要诅咒你",
+      "sourceIPA": "/e ʒə vɛ tə modiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-049",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3577,
+        "similarity": 0.692,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3583.48,
+      "sourceText": "Jusqu'à la fin de ma vie",
+      "ipa": "[ʒyska la fɛ̃ də ma vi]",
+      "ear": "日于斯卡 拉 凡 德 玛 维",
+      "meaning": "直到我生命的尽头",
+      "sourceIPA": "/ʒyska la fɛ̃ də ma vi/",
+      "sourceLineId": "notre-dame-de-paris-24-050",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3577,
+        "similarity": 0.692,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3586,
+      "sourceText": "Tu vas me détruire",
+      "ipa": "[ty va mə detʁɥiʁ]",
+      "ear": "蒂于 瓦 默 德特赫于伊赫",
+      "meaning": "你会毁了我",
+      "sourceIPA": "/ty va mə detʁyiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-051",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3586,
+        "similarity": 0.893,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3588.087,
+      "sourceText": "Tu vas me détruire",
+      "ipa": "[ty va mə detʁɥiʁ]",
+      "ear": "蒂于 瓦 默 德特赫于伊赫",
+      "meaning": "你会毁了我",
+      "sourceIPA": "/ty va mə detʁyiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-052",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3586,
+        "similarity": 0.893,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3590.174,
+      "sourceText": "J'aurais pu le prédire",
+      "ipa": "[ʒoʁɛ py lə pʁediʁ]",
+      "ear": "若赫 普于 勒 普赫迪赫",
+      "meaning": "我本应能够预见",
+      "sourceIPA": "/ʒoʁɛ py lə pʁediʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-053",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3586,
+        "similarity": 0.893,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3592.261,
+      "sourceText": "Dès le premier jour",
+      "ipa": "[dɛ lə pʁəmje ʒuʁ]",
+      "ear": "戴 勒 普赫姆耶诶 茹赫",
+      "meaning": "在最初的那天",
+      "sourceIPA": "/dɛ lə pʁəmje ʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-054",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3586,
+        "similarity": 0.893,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 3594,
+      "sourceText": "Dès la première nuit",
+      "ipa": "[dɛ la pʁəmjɛʁ nɥi]",
+      "ear": "戴 拉 普赫姆耶艾赫 恩于伊",
+      "meaning": "在最初的那夜",
+      "sourceIPA": "/dɛ la pʁəmjɛʁ nɥi/",
+      "sourceLineId": "notre-dame-de-paris-24-055",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3594,
+        "similarity": 0.592,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 3616,
+      "sourceText": "Tu vas me détruire",
+      "ipa": "[ty va mə detʁɥiʁ]",
+      "ear": "蒂于 瓦 默 德特赫于伊赫",
+      "meaning": "你会毁了我",
+      "sourceIPA": "/ty va mə detʁyiʁ/",
+      "sourceLineId": "notre-dame-de-paris-24-056",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 3616,
+        "similarity": 0.845,
+        "groupSize": 1
+      }
+    }
+  ]
+}

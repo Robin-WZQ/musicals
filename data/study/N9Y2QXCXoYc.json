@@ -1,0 +1,634 @@
+{
+  "videoId": "N9Y2QXCXoYc",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=7505"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 7505,
+      "sourceText": "Quand les années auront passé",
+      "ipa": "[kɑ̃ lez‿ane oʁɔ̃ pase]",
+      "ear": "康 莱兹 阿内 奥洪 帕塞",
+      "meaning": "当时光流转，有一天",
+      "sourceIPA": "/kɑ̃ lez anez oʁɔ̃ pase/",
+      "sourceLineId": "notre-dame-de-paris-51-001",
+      "speaker": "Quasimodo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7505,
+        "similarity": 0.392,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7510.143,
+      "sourceText": "On retrouvera sous terre",
+      "ipa": "[ɔ̃ ʁətʁuvʁa su tɛʁ]",
+      "ear": "翁 赫特胡弗哈 苏 泰赫",
+      "meaning": "人们会在地下发现",
+      "sourceIPA": "/ɔ̃ ʁətʁuvʁa su tɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-51-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7505,
+        "similarity": 0.392,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7514,
+      "sourceText": "Nos squelettes enlacés",
+      "ipa": "[no skəlɛt‿ɑ̃lase]",
+      "ear": "诺 斯克莱特 昂拉塞",
+      "meaning": "两具缠抱的骸骨",
+      "sourceIPA": "/no skəlɛtz ɑ̃lase/",
+      "sourceLineId": "notre-dame-de-paris-51-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7514,
+        "similarity": 0.843,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7517.9,
+      "sourceText": "Pour dire à l'univers",
+      "ipa": "[puʁ diʁ‿a lynivɛʁ]",
+      "ear": "普赫 迪赫 阿 吕尼韦赫",
+      "meaning": "向整个宇宙宣告",
+      "sourceIPA": "/puʁ diʁ a lynivɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-51-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7514,
+        "similarity": 0.843,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7522,
+      "sourceText": "Combien Quasimodo aimait",
+      "ipa": "[kɔ̃bjɛ̃ kazimodo ɛmɛ]",
+      "ear": "孔布耶安 卡齐莫多 艾梅",
+      "meaning": "加西莫多 如何深爱着",
+      "sourceIPA": "/kɔ̃bjɛ̃ kazimodo ɛmɛ/",
+      "sourceLineId": "notre-dame-de-paris-51-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7522,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7526.0,
+      "sourceText": "Esméralda la zingara",
+      "ipa": "[ɛsmeʁalda la zɛ̃ɡaʁa]",
+      "ear": "艾斯梅哈勒达 拉 赞嘎哈",
+      "meaning": "吉卜赛女郎 艾丝美拉达",
+      "sourceIPA": "/ɛsmeʁalda la zɛ̃ɡaʁa/",
+      "sourceLineId": "notre-dame-de-paris-51-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7522,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7530,
+      "sourceText": "Lui qui Dieu avait fait si laid",
+      "ipa": "[lɥi ki djø avɛ fɛ si lɛd]",
+      "ear": "勒于伊 基 德耶厄 阿韦 费 西 莱德",
+      "meaning": "上帝将他造的如此丑陋",
+      "sourceIPA": "/lɥi ki djø avɛ fɛ si lɛd/",
+      "sourceLineId": "notre-dame-de-paris-51-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7530,
+        "similarity": 0.938,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7534.5,
+      "sourceText": "Pour l'aider à porter sa croix",
+      "ipa": "[puʁ lɛde a pɔʁte sa kʁwa]",
+      "ear": "普赫 莱德 阿 珀赫特 萨 克赫乌阿",
+      "meaning": "是为了帮他背十字架",
+      "sourceIPA": "/puʁ lɛde a pɔʁte sa kʁwa/",
+      "sourceLineId": "notre-dame-de-paris-51-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7530,
+        "similarity": 0.938,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7539,
+      "sourceText": "pour l'aider à porter sa croix",
+      "ipa": "[puʁ lɛde a pɔʁte sa kʁwa]",
+      "ear": "普赫 莱德 阿 珀赫特 萨 克赫乌阿",
+      "meaning": "是为了帮他背十字架",
+      "sourceIPA": "/puʁ lɛde a pɔʁte sa kʁwa/",
+      "sourceLineId": "notre-dame-de-paris-51-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7539,
+        "similarity": 0.903,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7544.0,
+      "sourceText": "Mangez mon corps, buvez mon sang",
+      "ipa": "[mɑ̃ʒe mɔ̃ kɔʁ byve mɔ̃ sɑ̃]",
+      "ear": "芒热 蒙 科赫 比于韦 蒙 桑",
+      "meaning": "吃我的肉吧，饮我的血",
+      "sourceIPA": "/mɑ̃ʒe mɔ̃ kɔʁ byve mɔ̃ sɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-51-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7539,
+        "similarity": 0.903,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7549,
+      "sourceText": "Vautours de Montfaucon",
+      "ipa": "[votuʁ də mɔ̃tfokɔ̃]",
+      "ear": "沃图赫 德 蒙特佛孔",
+      "meaning": "鹫山上的秃鹰",
+      "sourceIPA": "/votuʁ də mɔ̃tfokɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-51-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7549,
+        "similarity": 0.853,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7552.857,
+      "sourceText": "Que la mort au-delà du temps",
+      "ipa": "[kə la mɔʁ‿odəla dy tɑ̃]",
+      "ear": "克 拉 莫赫 奥德拉 迪于 唐",
+      "meaning": "只有死亡超越时间",
+      "sourceIPA": "/kə la mɔʁ odəla dy tɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-51-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7549,
+        "similarity": 0.853,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7558,
+      "sourceText": "Unisse nos deux noms",
+      "ipa": "[ynis no dø nɔ̃]",
+      "ear": "于尼斯 诺 德厄 农",
+      "meaning": "能将我俩的名字结合",
+      "sourceIPA": "/ynis no dø nɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-51-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7558,
+        "similarity": 0.928,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7560.917,
+      "sourceText": "Laissez mon âme s'envoler",
+      "ipa": "[lɛse mɔ̃n‿am sɑ̃vole]",
+      "ear": "莱塞 蒙恩 阿姆 桑沃莱",
+      "meaning": "让我的灵魂飞翔",
+      "sourceIPA": "/lɛse mɔ̃n am sɑ̃vole/",
+      "sourceLineId": "notre-dame-de-paris-51-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7558,
+        "similarity": 0.928,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7565,
+      "sourceText": "Loin des misères de la terre",
+      "ipa": "[lwɛ̃ de mizɛʁ də la tɛʁ]",
+      "ear": "勒乌安 德 米泽赫 德 拉 泰赫",
+      "meaning": "远离这苦难的土壤",
+      "sourceIPA": "/lwɛ̃ de mizɛʁ də la tɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-51-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7565,
+        "similarity": 0.681,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7569.2,
+      "sourceText": "Laisser mon amour se mêler",
+      "ipa": "[lɛse mɔ̃n‿amuʁ sə mɛle]",
+      "ear": "莱塞 蒙恩 阿穆赫 瑟 梅莱",
+      "meaning": "让我的爱",
+      "sourceIPA": "/lɛse mɔ̃n amuʁ sə mɛle/",
+      "sourceLineId": "notre-dame-de-paris-51-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7565,
+        "similarity": 0.681,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7574,
+      "sourceText": "A la lumière de l'Univers",
+      "ipa": "[a la lymjɛʁ də lynivɛʁ]",
+      "ear": "阿 拉 吕姆耶艾赫 德 吕尼韦赫",
+      "meaning": "融入宇宙之光",
+      "sourceIPA": "/a la lymjɛʁ də lynivɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-51-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7574,
+        "similarity": 0.969,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7579.2,
+      "sourceText": "A la lumière de l'Univers",
+      "ipa": "[a la lymjɛʁ də lynivɛʁ]",
+      "ear": "阿 拉 吕姆耶艾赫 德 吕尼韦赫",
+      "meaning": "融入宇宙之光",
+      "sourceIPA": "/a la lymjɛʁ də lynivɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-51-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7574,
+        "similarity": 0.969,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7585,
+      "sourceText": "Danse mon Esméralda",
+      "ipa": "[dɑ̃s mɔ̃n‿ɛsmeʁalda]",
+      "ear": "当斯 蒙恩 艾斯梅哈勒达",
+      "meaning": "舞吧，我的艾丝美拉达",
+      "sourceIPA": "/dɑ̃s mɔ̃n ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-51-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7585,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7593,
+      "sourceText": "Chante mon Esméralda",
+      "ipa": "[ʃɑ̃t mɔ̃n‿ɛsmeʁalda]",
+      "ear": "尚特 蒙恩 艾斯梅哈勒达",
+      "meaning": "唱吧，我的艾丝美拉达",
+      "sourceIPA": "/ʃɑ̃t mɔ̃n ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-51-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7593,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7602,
+      "sourceText": "Danse encore un peu pour moi",
+      "ipa": "[dɑ̃s‿ɑ̃kɔʁ‿œ̃ pø puʁ mwa]",
+      "ear": "当斯 昂科赫 恩 珀厄 普赫 姆乌阿",
+      "meaning": "再为我跳一支舞吧",
+      "sourceIPA": "/dɑ̃s ɑ̃kɔʁ œ̃ pø puʁ mwa/",
+      "sourceLineId": "notre-dame-de-paris-51-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7602,
+        "similarity": 0.769,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7609,
+      "sourceText": "Je te désire à en mourir",
+      "ipa": "[ʒə tə deziʁ‿a ɑ̃ muʁiʁ]",
+      "ear": "热 特 德齐赫 阿 昂 穆希赫",
+      "meaning": "我爱你至死不渝",
+      "sourceIPA": "/ʒə tə deziʁ a ɑ̃ muʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-51-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7609,
+        "similarity": 0.554,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7616,
+      "sourceText": "Dans mon Esméralda",
+      "ipa": "[dɑ̃ mɔ̃n‿ɛsmeʁalda]",
+      "ear": "当 蒙恩 艾斯梅哈勒达",
+      "meaning": "舞吧，我的艾丝美拉达",
+      "sourceIPA": "/dɑ̃ mɔ̃n ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-51-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7616,
+        "similarity": 0.748,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7624,
+      "sourceText": "Chante mon Esméralda",
+      "ipa": "[ʃɑ̃t mɔ̃n‿ɛsmeʁalda]",
+      "ear": "尚特 蒙恩 艾斯梅哈勒达",
+      "meaning": "唱吧，我的艾丝美拉达",
+      "sourceIPA": "/ʃɑ̃t mɔ̃n ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-51-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7624,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7632,
+      "sourceText": "Laisse moi partir avec toi",
+      "ipa": "[lɛs mwa paʁtiʁ‿avɛk twa]",
+      "ear": "莱斯 姆乌阿 帕赫蒂赫 阿韦克 特乌阿",
+      "meaning": "让我和你一同离去",
+      "sourceIPA": "/lɛs mwa paʁtiʁ avɛk twa/",
+      "sourceLineId": "notre-dame-de-paris-51-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7632,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7639,
+      "sourceText": "Mourir pour toi n'est pas mourir",
+      "ipa": "[muʁiʁ puʁ twa nɛ pa muʁiʁ]",
+      "ear": "穆希赫 普赫 特乌阿 奈 帕 穆希赫",
+      "meaning": "为你而死，虽死犹生",
+      "sourceIPA": "/muʁiʁ puʁ twa nɛ pa muʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-51-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7639,
+        "similarity": 0.543,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7645,
+      "sourceText": "Danse mon Esméralda",
+      "ipa": "[dɑ̃s mɔ̃n‿ɛsmeʁalda]",
+      "ear": "当斯 蒙恩 艾斯梅哈勒达",
+      "meaning": "舞吧，我的艾丝美拉达",
+      "sourceIPA": "/dɑ̃s mɔ̃n ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-51-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7645,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7653,
+      "sourceText": "Chante mon Esméralda",
+      "ipa": "[ʃɑ̃t mɔ̃n‿ɛsmeʁalda]",
+      "ear": "尚特 蒙恩 艾斯梅哈勒达",
+      "meaning": "唱吧，我的艾丝美拉达",
+      "sourceIPA": "/ʃɑ̃t mɔ̃n ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-51-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7653,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7661,
+      "sourceText": "Viens t'endormir dans mes bras",
+      "ipa": "[vjɛ̃ tɑ̃dɔʁmiʁ dɑ̃ me bʁa]",
+      "ear": "弗耶安 唐多赫米赫 当 梅 布哈",
+      "meaning": "来睡在我的怀里",
+      "sourceIPA": "/vjɛ̃ tɑ̃dɔʁmiʁ dɑ̃ me bʁa/",
+      "sourceLineId": "notre-dame-de-paris-51-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7661,
+        "similarity": 0.712,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7668,
+      "sourceText": "Je te désire à en mourir",
+      "ipa": "[ʒə tə deziʁ‿a ɑ̃ muʁiʁ]",
+      "ear": "热 特 德齐赫 阿 昂 穆希赫",
+      "meaning": "我爱你至死不渝",
+      "sourceIPA": "/ʒə tə deziʁ a ɑ̃ muʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-51-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7668,
+        "similarity": 0.554,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7675,
+      "sourceText": "Danse mon Esméralda",
+      "ipa": "[dɑ̃s mɔ̃n‿ɛsmeʁalda]",
+      "ear": "当斯 蒙恩 艾斯梅哈勒达",
+      "meaning": "舞吧，我的艾丝美拉达",
+      "sourceIPA": "/dɑ̃s mɔ̃n ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-51-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7675,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7683,
+      "sourceText": "Chante mon Esméralda",
+      "ipa": "[ʃɑ̃t mɔ̃n‿ɛsmeʁalda]",
+      "ear": "尚特 蒙恩 艾斯梅哈勒达",
+      "meaning": "唱吧，我的艾丝美拉达",
+      "sourceIPA": "/ʃɑ̃t mɔ̃n ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-51-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7683,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7691,
+      "sourceText": "Au delà de l'au-delà",
+      "ipa": "[o dəla də lodəla]",
+      "ear": "奥 德拉 德 洛德拉",
+      "meaning": "在遥远的遥远的前方",
+      "sourceIPA": "/o dəla də lodəla/",
+      "sourceLineId": "notre-dame-de-paris-51-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7691,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7699,
+      "sourceText": "Mourir pour toi n'est pas mourir",
+      "ipa": "[muʁiʁ puʁ twa nɛ pa muʁiʁ]",
+      "ear": "穆希赫 普赫 特乌阿 奈 帕 穆希赫",
+      "meaning": "为你而死，虽死犹生",
+      "sourceIPA": "/muʁiʁ puʁ twa nɛ pa muʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-51-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7699,
+        "similarity": 0.601,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7717,
+      "sourceText": "Danse mon Esméralda",
+      "ipa": "[dɑ̃s mɔ̃n‿ɛsmeʁalda]",
+      "ear": "当斯 蒙恩 艾斯梅哈勒达",
+      "meaning": "舞吧，我的艾丝美拉达",
+      "sourceIPA": "/dɑ̃s mɔ̃n ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-51-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7717,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7724,
+      "sourceText": "Chante mon Esméralda",
+      "ipa": "[ʃɑ̃t mɔ̃n‿ɛsmeʁalda]",
+      "ear": "尚特 蒙恩 艾斯梅哈勒达",
+      "meaning": "唱吧，我的艾丝美拉达",
+      "sourceIPA": "/ʃɑ̃t mɔ̃n ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-51-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7724,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7732,
+      "sourceText": "Laisse-moi partir avec toi",
+      "ipa": "[lɛsmwa paʁtiʁ‿avɛk twa]",
+      "ear": "莱斯姆乌阿 帕赫蒂赫 阿韦克 特乌阿",
+      "meaning": "让我和你一同离去",
+      "sourceIPA": "/lɛsmwa paʁtiʁ avɛk twa/",
+      "sourceLineId": "notre-dame-de-paris-51-037",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7732,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 7740,
+      "sourceText": "Mourir pour toi n'est pas mourir",
+      "ipa": "[muʁiʁ puʁ twa nɛ pa muʁiʁ]",
+      "ear": "穆希赫 普赫 特乌阿 奈 帕 穆希赫",
+      "meaning": "为你而死，虽死犹生",
+      "sourceIPA": "/muʁiʁ puʁ twa nɛ pa muʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-51-038",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7740,
+        "similarity": 0.601,
+        "groupSize": 1
+      }
+    }
+  ]
+}

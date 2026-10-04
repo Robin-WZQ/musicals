@@ -8,15 +8,96 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 12,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "(la nuit)",
+      "start": 1812,
+      "duration": 0.571
+    },
+    {
+      "text": "Je suis le capitaine",
+      "start": 1812.571,
+      "duration": 1.715
+    },
+    {
+      "text": "chargé de la sécurité",
+      "start": 1814.286,
+      "duration": 2.285
+    },
+    {
+      "text": "de tous les citoyens et toutes les citoyennes",
+      "start": 1816.571,
+      "duration": 3.429
+    },
+    {
+      "text": "Permettez que je vous ramène",
+      "start": 1820,
+      "duration": 5.2
+    },
+    {
+      "text": "Hors des murs de la Cité",
+      "start": 1828,
+      "duration": 4.053
+    },
+    {
+      "text": "Où vivent les bohémiens",
+      "start": 1832.053,
+      "duration": 3.473
+    },
+    {
+      "text": "Où vivent les bohémiens",
+      "start": 1835.526,
+      "duration": 3.474
+    },
+    {
+      "text": "Passez tout droit",
+      "start": 1839,
+      "duration": 2.6
+    },
+    {
+      "text": "Vous vous trompez sur moi je crois",
+      "start": 1841.6,
+      "duration": 5.2
+    },
+    {
+      "text": "Esméralda, Monsieur, n'est pas fille à soldats",
+      "start": 1847,
+      "duration": 7.8
+    },
+    {
+      "text": "Entre chien et loup",
+      "start": 1856,
+      "duration": 2.6
+    },
+    {
+      "text": "Demain à la tombée du jour",
+      "start": 1858.6,
+      "duration": 5.2
+    },
+    {
+      "text": "Je te donne rendez-vous",
+      "start": 1864,
+      "duration": 2.455
+    },
+    {
+      "text": "au Cabaret du Val d'Amour",
+      "start": 1866.455,
+      "duration": 3.272
+    },
+    {
+      "text": "Au Cabaret du Val d'Amour",
+      "start": 1869.727,
+      "duration": 3.273
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=1770",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -68,6 +149,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

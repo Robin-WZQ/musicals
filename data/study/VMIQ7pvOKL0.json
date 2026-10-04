@@ -1,0 +1,138 @@
+{
+  "videoId": "VMIQ7pvOKL0",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=7460"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 7462,
+      "sourceText": "Donnez-la-moi!",
+      "ipa": "[dɔnelamwa]",
+      "ear": "多内拉姆乌阿",
+      "meaning": "请把她交给我",
+      "sourceIPA": "/dɔnelamwa/",
+      "sourceLineId": "notre-dame-de-paris-50-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7462,
+        "similarity": 0.652,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7464.6,
+      "sourceText": "Rendez-la-moi!",
+      "ipa": "[ʁɑ̃delamwa]",
+      "ear": "杭德拉姆乌阿",
+      "meaning": "请把她还给我",
+      "sourceIPA": "/ʁɑ̃delamwa/",
+      "sourceLineId": "notre-dame-de-paris-50-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7462,
+        "similarity": 0.652,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7469,
+      "sourceText": "Laissez-la-moi!",
+      "ipa": "[lɛselamwa]",
+      "ear": "莱塞拉姆乌阿",
+      "meaning": "请把她留给我",
+      "sourceIPA": "/lɛselamwa/",
+      "sourceLineId": "notre-dame-de-paris-50-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7469,
+        "similarity": 0.967,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7471.6,
+      "sourceText": "Elle est à moi!",
+      "ipa": "[ɛl‿ɛt‿a mwa]",
+      "ear": "艾勒 艾特 阿 姆乌阿",
+      "meaning": "她是我的！",
+      "sourceIPA": "/ɛl ɛt a mwa/",
+      "sourceLineId": "notre-dame-de-paris-50-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7469,
+        "similarity": 0.967,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7477,
+      "sourceText": "Mon Esméralda",
+      "ipa": "[mɔ̃n‿ɛsmeʁalda]",
+      "ear": "蒙恩 艾斯梅哈勒达",
+      "meaning": "我的艾斯美拉达",
+      "sourceIPA": "/mɔ̃n ɛsmeʁalda/",
+      "sourceLineId": "notre-dame-de-paris-50-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7477,
+        "similarity": 0.891,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7480.25,
+      "sourceText": "Ne t'en va pas",
+      "ipa": "[nə tɑ̃ va pa]",
+      "ear": "讷 唐 瓦 帕",
+      "meaning": "不要离我而去",
+      "sourceIPA": "/nə tɑ̃ va pa/",
+      "sourceLineId": "notre-dame-de-paris-50-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7477,
+        "similarity": 0.891,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 7486,
+      "sourceText": "Reste avec moi",
+      "ipa": "[ʁɛst‿avɛk mwa]",
+      "ear": "赫斯特 阿韦克 姆乌阿",
+      "meaning": "留在我身边啊",
+      "sourceIPA": "/ʁɛst avɛk mwa/",
+      "sourceLineId": "notre-dame-de-paris-50-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 7486,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    }
+  ]
+}

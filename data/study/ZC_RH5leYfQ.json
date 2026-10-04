@@ -1,0 +1,602 @@
+{
+  "videoId": "ZC_RH5leYfQ",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=1298"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 1302,
+      "sourceText": "Le Pape Des Fous",
+      "ipa": "[lə pap de fu]",
+      "ear": "勒 帕普 德 富",
+      "meaning": "愚人之王",
+      "sourceIPA": "/lə pap de fu/",
+      "sourceLineId": "notre-dame-de-paris-09-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1302,
+        "similarity": 0.495,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1303.63,
+      "sourceText": "Petites filles",
+      "ipa": "[pətit fij]",
+      "ear": "珀蒂特 菲耶",
+      "meaning": "小女孩们啊",
+      "sourceIPA": "/pətit fij/",
+      "sourceLineId": "notre-dame-de-paris-09-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1302,
+        "similarity": 0.495,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1304.852,
+      "sourceText": "Vous ne vous moquerez plus",
+      "ipa": "[vu nə vu mokʁe ply]",
+      "ear": "乌 讷 乌 莫克赫 普吕",
+      "meaning": "你们不要再嘲笑了",
+      "sourceIPA": "/vu nə vu mokʁe ply/",
+      "sourceLineId": "notre-dame-de-paris-09-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1302,
+        "similarity": 0.495,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1307.296,
+      "sourceText": "Quand vous verrez dans la rue",
+      "ipa": "[kɑ̃ vu vɛʁe dɑ̃ la ʁy]",
+      "ear": "康 乌 韦赫 当 拉 许",
+      "meaning": "当你们再街道上看见",
+      "sourceIPA": "/kɑ̃ vu vɛʁe dɑ̃ la ʁy/",
+      "sourceLineId": "notre-dame-de-paris-09-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1302,
+        "similarity": 0.495,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1310.148,
+      "sourceText": "Quasimodo le bossu",
+      "ipa": "[kazimodo lə bɔsy]",
+      "ear": "卡齐莫多 勒 博西于",
+      "meaning": "驼子卡西莫多",
+      "sourceIPA": "/kazimodo lə bɔsy/",
+      "sourceLineId": "notre-dame-de-paris-09-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1302,
+        "similarity": 0.495,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1313,
+      "sourceText": "Ils m'ont élu",
+      "ipa": "[il mɔ̃ ely]",
+      "ear": "伊勒 蒙 诶吕",
+      "meaning": "他们把我选为了",
+      "sourceIPA": "/il mɔ̃t ely/",
+      "sourceLineId": "notre-dame-de-paris-09-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1313,
+        "similarity": 0.676,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1315.526,
+      "sourceText": "Le Pape des Fous",
+      "ipa": "[lə pap de fu]",
+      "ear": "勒 帕普 德 富",
+      "meaning": "愚人之王",
+      "sourceIPA": "/lə pap de fu/",
+      "sourceLineId": "notre-dame-de-paris-09-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1313,
+        "similarity": 0.676,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1318.053,
+      "sourceText": "C'est aujourd'hui le jour de la fête des Rois",
+      "ipa": "[sɛt‿oʒuʁdɥi lə ʒuʁ də la fɛt de ʁwa]",
+      "ear": "塞特 奥茹赫德于伊 勒 茹赫 德 拉 费特 德 赫乌阿",
+      "meaning": "今天是国王们的节日",
+      "sourceIPA": "/sɛt oʒuʁdɥi lə ʒuʁ də la fɛt de ʁwa/",
+      "sourceLineId": "notre-dame-de-paris-09-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1313,
+        "similarity": 0.676,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1325,
+      "sourceText": "Et pour un jour cela me donne tous les droits",
+      "ipa": "[e puʁ‿œ̃ ʒuʁ səla mə dɔn tu le dʁwa]",
+      "ear": "诶 普赫 恩 茹赫 瑟拉 默 多恩 图 莱 德赫乌阿",
+      "meaning": "在这一天我被赋予的所有的权利",
+      "sourceIPA": "/e puʁ œ̃ ʒuʁ səla mə dɔn tu le dʁwa/",
+      "sourceLineId": "notre-dame-de-paris-09-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1325,
+        "similarity": 0.7,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1331.471,
+      "sourceText": "M'aimeras-tu",
+      "ipa": "[mɛmʁaty]",
+      "ear": "梅姆哈蒂于",
+      "meaning": "你会爱我吗？",
+      "sourceIPA": "/mɛmʁaty/",
+      "sourceLineId": "notre-dame-de-paris-09-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1325,
+        "similarity": 0.7,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1333.235,
+      "sourceText": "Esmeralda?",
+      "ipa": "[ɛsmʁalda]",
+      "ear": "艾斯姆哈勒达",
+      "meaning": "艾斯米拉达",
+      "sourceIPA": "/ɛsmʁalda/",
+      "sourceLineId": "notre-dame-de-paris-09-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1325,
+        "similarity": 0.7,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1335,
+      "sourceText": "M'aimeras tu?",
+      "ipa": "[mɛmʁa ty]",
+      "ear": "梅姆哈 蒂于",
+      "meaning": "你会爱我吗？",
+      "sourceIPA": "/mɛmʁa ty/",
+      "sourceLineId": "notre-dame-de-paris-09-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1335,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 1345,
+      "sourceText": "Mais tu t'en fous",
+      "ipa": "[mɛ ty tɑ̃ fu]",
+      "ear": "梅 蒂于 唐 富",
+      "meaning": "但是你毫不在乎",
+      "sourceIPA": "/mɛ ty tɑ̃ fu/",
+      "sourceLineId": "notre-dame-de-paris-09-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1345,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1347.857,
+      "sourceText": "Esmeralda",
+      "ipa": "[ɛsmʁalda]",
+      "ear": "艾斯姆哈勒达",
+      "meaning": "艾斯米拉达",
+      "sourceIPA": "/ɛsmʁalda/",
+      "sourceLineId": "notre-dame-de-paris-09-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1345,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1356,
+      "sourceText": "Oh! tu t'en fous",
+      "ipa": "[ɔ ty tɑ̃ fu]",
+      "ear": "哦 蒂于 唐 富",
+      "meaning": "啊，你根本不在乎",
+      "sourceIPA": "/ɔ ty tɑ̃ fu/",
+      "sourceLineId": "notre-dame-de-paris-09-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1356,
+        "similarity": 0.692,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1358.6,
+      "sourceText": "Qu'ils m'aient élu",
+      "ipa": "[kil mɛ ely]",
+      "ear": "基勒 梅 诶吕",
+      "meaning": "他们把我选为了",
+      "sourceIPA": "/kil mɛt ely/",
+      "sourceLineId": "notre-dame-de-paris-09-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1356,
+        "similarity": 0.692,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1368,
+      "sourceText": "Le Pape des Fous",
+      "ipa": "[lə pap de fu]",
+      "ear": "勒 帕普 德 富",
+      "meaning": "愚人之王",
+      "sourceIPA": "/lə pap de fu/",
+      "sourceLineId": "notre-dame-de-paris-09-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1368,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1370.857,
+      "sourceText": "Petites filles",
+      "ipa": "[pətit fij]",
+      "ear": "珀蒂特 菲耶",
+      "meaning": "小女孩们啊",
+      "sourceIPA": "/pətit fij/",
+      "sourceLineId": "notre-dame-de-paris-09-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1368,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1377,
+      "sourceText": "Qui récitez des rondeaux",
+      "ipa": "[ki ʁesite de ʁɔ̃do]",
+      "ear": "基 赫西特 德 洪多",
+      "meaning": "在朗诵着回旋曲的同时",
+      "sourceIPA": "/ki ʁesite de ʁɔ̃do/",
+      "sourceLineId": "notre-dame-de-paris-09-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1377,
+        "similarity": 0.328,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1380.316,
+      "sourceText": "En mimant Quasimodo",
+      "ipa": "[ɑ̃ mimɑ̃ kazimodo]",
+      "ear": "昂 米芒 卡齐莫多",
+      "meaning": "还在模仿卡西莫多",
+      "sourceIPA": "/ɑ̃ mimɑ̃ kazimodo/",
+      "sourceLineId": "notre-dame-de-paris-09-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1377,
+        "similarity": 0.328,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1383.632,
+      "sourceText": "Avec sa bosse au dos",
+      "ipa": "[avɛk sa bɔs‿o do]",
+      "ear": "阿韦克 萨 博斯 奥 多",
+      "meaning": "和他的驼背",
+      "sourceIPA": "/avɛk sa bɔs o dɒs/",
+      "sourceLineId": "notre-dame-de-paris-09-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1377,
+        "similarity": 0.328,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1386,
+      "sourceText": "Qu'est-ce que ca vous fait",
+      "ipa": "[kɛskə ka vu fɛ]",
+      "ear": "凯斯克 卡 乌 费",
+      "meaning": "这和你们有什么关系吗",
+      "sourceIPA": "/kɛskə ka vu fɛ/",
+      "sourceLineId": "notre-dame-de-paris-09-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1386,
+        "similarity": 0.551,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1389.0,
+      "sourceText": "Que je sois si laid?",
+      "ipa": "[kə ʒə swa si lɛd]",
+      "ear": "克 热 斯乌阿 西 莱德",
+      "meaning": "我这么丑",
+      "sourceIPA": "/kə ʒə swa si lɛd/",
+      "sourceLineId": "notre-dame-de-paris-09-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1386,
+        "similarity": 0.551,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1392,
+      "sourceText": "Je hais la femme et l'homme qui m'ont donné le jour",
+      "ipa": "[ʒə ɛ la fam e lɔm ki mɔ̃ dɔne lə ʒuʁ]",
+      "ear": "热 艾 拉 法姆 诶 洛姆 基 蒙 多内 勒 茹赫",
+      "meaning": "我痛恨在那一天把我生下来",
+      "sourceIPA": "/ʒə ɛ la fam e lɔm ki mɔ̃ dɔne lə ʒuʁ/",
+      "sourceLineId": "notre-dame-de-paris-09-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1392,
+        "similarity": 0.74,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1397.0,
+      "sourceText": "Et m'ont abandonné sans me donner d'amour",
+      "ipa": "[e mɔ̃ abɑ̃dɔne sɑ̃ mə dɔne damuʁ]",
+      "ear": "诶 蒙 阿邦多内 桑 默 多内 达穆赫",
+      "meaning": "又毫无感情地把我抛弃的那对男女",
+      "sourceIPA": "/e mɔ̃t abɑ̃dɔne sɑ̃ mə dɔne damuʁ/",
+      "sourceLineId": "notre-dame-de-paris-09-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1392,
+        "similarity": 0.74,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1402,
+      "sourceText": "M'aimeras-tu",
+      "ipa": "[mɛmʁaty]",
+      "ear": "梅姆哈蒂于",
+      "meaning": "你会爱我吗",
+      "sourceIPA": "/mɛmʁaty/",
+      "sourceLineId": "notre-dame-de-paris-09-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1402,
+        "similarity": 1.0,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1403.95,
+      "sourceText": "Esmeralda?",
+      "ipa": "[ɛsmʁalda]",
+      "ear": "艾斯姆哈勒达",
+      "meaning": "艾斯米拉达",
+      "sourceIPA": "/ɛsmʁalda/",
+      "sourceLineId": "notre-dame-de-paris-09-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1402,
+        "similarity": 1.0,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1405.9,
+      "sourceText": "M'aimeras-tu?",
+      "ipa": "[mɛmʁaty]",
+      "ear": "梅姆哈蒂于",
+      "meaning": "你会爱我吗",
+      "sourceIPA": "/mɛmʁaty/",
+      "sourceLineId": "notre-dame-de-paris-09-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1402,
+        "similarity": 1.0,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1418,
+      "sourceText": "Mais tu t'en fous",
+      "ipa": "[mɛ ty tɑ̃ fu]",
+      "ear": "梅 蒂于 唐 富",
+      "meaning": "但是你并不在意",
+      "sourceIPA": "/mɛ ty tɑ̃ fu/",
+      "sourceLineId": "notre-dame-de-paris-09-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1418,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1420.857,
+      "sourceText": "Esmeralda",
+      "ipa": "[ɛsmʁalda]",
+      "ear": "艾斯姆哈勒达",
+      "meaning": "艾斯米拉达",
+      "sourceIPA": "/ɛsmʁalda/",
+      "sourceLineId": "notre-dame-de-paris-09-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1418,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1430,
+      "sourceText": "Oh! tu t'en fous",
+      "ipa": "[ɔ ty tɑ̃ fu]",
+      "ear": "哦 蒂于 唐 富",
+      "meaning": "噢，你毫不在意",
+      "sourceIPA": "/ɔ ty tɑ̃ fu/",
+      "sourceLineId": "notre-dame-de-paris-09-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1430,
+        "similarity": 0.692,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1432.6,
+      "sourceText": "Qu'ils m'aient élu",
+      "ipa": "[kil mɛ ely]",
+      "ear": "基勒 梅 诶吕",
+      "meaning": "他们把我选为了",
+      "sourceIPA": "/kil mɛt ely/",
+      "sourceLineId": "notre-dame-de-paris-09-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1430,
+        "similarity": 0.692,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1441,
+      "sourceText": "Le Pape des Fous",
+      "ipa": "[lə pap de fu]",
+      "ear": "勒 帕普 德 富",
+      "meaning": "愚人之王",
+      "sourceIPA": "/lə pap de fu/",
+      "sourceLineId": "notre-dame-de-paris-09-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1441,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1443.6,
+      "sourceText": "Le Pape des Fous",
+      "ipa": "[lə pap de fu]",
+      "ear": "勒 帕普 德 富",
+      "meaning": "愚人之王",
+      "sourceIPA": "/lə pap de fu/",
+      "sourceLineId": "notre-dame-de-paris-09-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1441,
+        "similarity": 1.0,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1452,
+      "sourceText": "Le Pape des Fous",
+      "ipa": "[lə pap de fu]",
+      "ear": "勒 帕普 德 富",
+      "meaning": "愚人之王",
+      "sourceIPA": "/lə pap de fu/",
+      "sourceLineId": "notre-dame-de-paris-09-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1452,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 1458,
+      "sourceText": "Le Pape des Fous",
+      "ipa": "[lə pap de fu]",
+      "ear": "勒 帕普 德 富",
+      "meaning": "愚人之王",
+      "sourceIPA": "/lə pap de fu/",
+      "sourceLineId": "notre-dame-de-paris-09-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1458,
+        "similarity": 1.0,
+        "groupSize": 1
+      }
+    }
+  ]
+}

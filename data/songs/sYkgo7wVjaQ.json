@@ -8,15 +8,281 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 25,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "En haut de la rue St-Denis",
+      "start": 3719,
+      "duration": 4.0
+    },
+    {
+      "text": "Il existe un endroit béni",
+      "start": 3723.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Dont on voit briller les bougies",
+      "start": 3727,
+      "duration": 4.667
+    },
+    {
+      "text": "Dès que vient la tombée du jour",
+      "start": 3731.667,
+      "duration": 4.666
+    },
+    {
+      "text": "Là-bas au milieu de la plaine",
+      "start": 3736.333,
+      "duration": 4.667
+    },
+    {
+      "text": "Il suffit qu'un jour on y vienne",
+      "start": 3741,
+      "duration": 2.0
+    },
+    {
+      "text": "Pour que toujours on y revienne",
+      "start": 3743.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Au cabaret du Val d'Amour",
+      "start": 3745.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Au Val d'Amour",
+      "start": 3747.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Les femmes d'amour",
+      "start": 3748,
+      "duration": 1.8
+    },
+    {
+      "text": "Vous font l'amour",
+      "start": 3749.8,
+      "duration": 1.8
+    },
+    {
+      "text": "Pour quelques sous",
+      "start": 3751.6,
+      "duration": 1.8
+    },
+    {
+      "text": "Pas besoin d'or ou de bijoux",
+      "start": 3753.4,
+      "duration": 3.6
+    },
+    {
+      "text": "Pas de discours ni de mots doux",
+      "start": 3757,
+      "duration": 2.333
+    },
+    {
+      "text": "Que quelques sous pour faire l'amour",
+      "start": 3759.333,
+      "duration": 2.334
+    },
+    {
+      "text": "Aux femmes d'amour du Val d'Amour",
+      "start": 3761.667,
+      "duration": 2.333
+    },
+    {
+      "text": "Les Andalous, les Juifs, les Maures",
+      "start": 3764,
+      "duration": 3.176
+    },
+    {
+      "text": "Viennent de partout de tous les ports",
+      "start": 3767.176,
+      "duration": 2.824
+    },
+    {
+      "text": "les voyageurs et les marchands",
+      "start": 3770,
+      "duration": 3.0
+    },
+    {
+      "text": "Viennent s'y reposer en passant",
+      "start": 3773.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Les Catalan et les Flamands",
+      "start": 3776,
+      "duration": 5.2
+    },
+    {
+      "text": "Vont y flamber tout leur argent",
+      "start": 3781.2,
+      "duration": 5.2
+    },
+    {
+      "text": "Femmes d'amour qui m'écoutez",
+      "start": 3789,
+      "duration": 2.258
+    },
+    {
+      "text": "C'est le discours d'un troubadour",
+      "start": 3791.258,
+      "duration": 2.581
+    },
+    {
+      "text": "Qui vient pleurer son mal d'amour",
+      "start": 3793.839,
+      "duration": 2.58
+    },
+    {
+      "text": "Au cabaret du Val d'Amour",
+      "start": 3796.419,
+      "duration": 2.581
+    },
+    {
+      "text": "Battez tambour aux alentours",
+      "start": 3799,
+      "duration": 3.0
+    },
+    {
+      "text": "Que l'on accourt au Val d'Amour",
+      "start": 3802.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Pas de danger qu'on s'enamoure",
+      "start": 3805.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Sous les atours du Val d'Amour",
+      "start": 3808,
+      "duration": 3.636
+    },
+    {
+      "text": "Vous trouverez sous le velours",
+      "start": 3811.636,
+      "duration": 3.182
+    },
+    {
+      "text": "Fleurs d'une nuit, bonheur d'un jour",
+      "start": 3814.818,
+      "duration": 3.182
+    },
+    {
+      "text": "Quand j'ai le corps en mal d'amour",
+      "start": 3818,
+      "duration": 5.2
+    },
+    {
+      "text": "Sitôt j'accours au Val d'Amour",
+      "start": 3823.2,
+      "duration": 5.2
+    },
+    {
+      "text": "On n'en ressort qu'au petit jour du cabaret du Val d'Amour",
+      "start": 3829,
+      "duration": 6.957
+    },
+    {
+      "text": "Mesdemoiselles excusez-moi",
+      "start": 3835.957,
+      "duration": 3.043
+    },
+    {
+      "text": "J'attends la belle Esméralda",
+      "start": 3839,
+      "duration": 4.19
+    },
+    {
+      "text": "Elle a cru lire son destin",
+      "start": 3843.19,
+      "duration": 3.667
+    },
+    {
+      "text": "Entre les lignes de ma main",
+      "start": 3846.857,
+      "duration": 3.143
+    },
+    {
+      "text": "Porte du Nord sur les Faubourgs",
+      "start": 3850,
+      "duration": 2.864
+    },
+    {
+      "text": "Au carrefour de Popincourt",
+      "start": 3852.864,
+      "duration": 2.863
+    },
+    {
+      "text": "Tous les voyous, tous les filous",
+      "start": 3855.727,
+      "duration": 3.273
+    },
+    {
+      "text": "Ont rendez-vous au Val d'Amour",
+      "start": 3859,
+      "duration": 1.806
+    },
+    {
+      "text": "Les gens de Cour s'y déshonorent",
+      "start": 3860.806,
+      "duration": 1.807
+    },
+    {
+      "text": "On les voit saouls et ivres morts",
+      "start": 3862.613,
+      "duration": 1.581
+    },
+    {
+      "text": "Au Val d'Amour les femmes d'amour",
+      "start": 3864.194,
+      "duration": 1.806
+    },
+    {
+      "text": "Vous font l'amour pour quelques sous",
+      "start": 3866,
+      "duration": 4.0
+    },
+    {
+      "text": "Pas besoin d'or ou de bijoux",
+      "start": 3870.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Pas de discours ni de mots doux",
+      "start": 3874,
+      "duration": 5.2
+    },
+    {
+      "text": "Que quelques sous pour faire l'amour",
+      "start": 3879.2,
+      "duration": 5.2
+    },
+    {
+      "text": "Aux femmes d'amour du Val d'Amour",
+      "start": 3885,
+      "duration": 5.2
+    },
+    {
+      "text": "Au cabaret du Val d'Amour",
+      "start": 3890.2,
+      "duration": 5.2
+    },
+    {
+      "text": "Au cabaret du Val d'Amour",
+      "start": 3895.4,
+      "duration": 5.2
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=3717",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -112,6 +378,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

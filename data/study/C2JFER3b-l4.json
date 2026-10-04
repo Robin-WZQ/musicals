@@ -1,0 +1,602 @@
+{
+  "videoId": "C2JFER3b-l4",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=4857"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 4866,
+      "sourceText": "Les oiseaux qu'on met en cage",
+      "ipa": "[lez‿wazo kɔ̃ mɛ ɑ̃ kaʒ]",
+      "ear": "莱兹 乌阿佐 孔 梅 昂 卡日",
+      "meaning": "笼中之鸟",
+      "sourceIPA": "/lez wazo kɔ̃ mɛt ɑ̃ kaʒ/",
+      "sourceLineId": "notre-dame-de-paris-32-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4866,
+        "similarity": 0.716,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4870.55,
+      "sourceText": "Peuvent-ils encore voler?",
+      "ipa": "[pøvtil‿ɑ̃kɔʁ vole]",
+      "ear": "珀厄弗蒂勒 昂科赫 沃莱",
+      "meaning": "能再飞吗",
+      "sourceIPA": "/pøvtilz ɑ̃kɔʁ vole/",
+      "sourceLineId": "notre-dame-de-paris-32-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4866,
+        "similarity": 0.716,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4875,
+      "sourceText": "Les enfants que l'on outrage",
+      "ipa": "[lez‿ɑ̃fɑ̃ kə lɔ̃ utʁaʒ]",
+      "ear": "莱兹 昂芳 克 隆 乌特哈日",
+      "meaning": "受辱的孩子",
+      "sourceIPA": "/lez ɑ̃fɑ̃ kə lɔ̃n utʁaʒ/",
+      "sourceLineId": "notre-dame-de-paris-32-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4875,
+        "similarity": 0.724,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4879.55,
+      "sourceText": "Peuvent-ils encore aimer?",
+      "ipa": "[pøvtil‿ɑ̃kɔʁ‿ɛme]",
+      "ear": "珀厄弗蒂勒 昂科赫 艾梅",
+      "meaning": "能再爱吗",
+      "sourceIPA": "/pøvtilz ɑ̃kɔʁ ɛme/",
+      "sourceLineId": "notre-dame-de-paris-32-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4875,
+        "similarity": 0.724,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4884,
+      "sourceText": "J'étais comme une hirondelle",
+      "ipa": "[ʒetɛ kɔm‿yn‿iʁɔ̃dɛl]",
+      "ear": "热泰 科姆 于恩 伊洪戴勒",
+      "meaning": "我曾像一只燕子",
+      "sourceIPA": "/ʒetɛ kɔm yn iʁɔ̃dɛl/",
+      "sourceLineId": "notre-dame-de-paris-32-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4884,
+        "similarity": 0.98,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4888.2,
+      "sourceText": "J'arrivais avec le printemps",
+      "ipa": "[ʒaʁivɛ avɛk lə pʁɛ̃tɑ̃]",
+      "ear": "扎希韦 阿韦克 勒 普汉唐",
+      "meaning": "随春天一同到临",
+      "sourceIPA": "/ʒaʁivɛ avɛk lə pʁɛ̃tɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-32-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4884,
+        "similarity": 0.98,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4893,
+      "sourceText": "Je courrais par les ruelles",
+      "ipa": "[ʒə kuʁʁɛ paʁ le ʁyɛl]",
+      "ear": "热 库赫赫 帕赫 莱 许艾勒",
+      "meaning": "我在街上奔跑",
+      "sourceIPA": "/ʒə kuʁʁɛ paʁ le ʁyɛl/",
+      "sourceLineId": "notre-dame-de-paris-32-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4893,
+        "similarity": 0.81,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4897.55,
+      "sourceText": "En chantant des chants gitans",
+      "ipa": "[ɑ̃ ʃɑ̃tɑ̃ de ʃɑ̃ ʒitɑ̃]",
+      "ear": "昂 尚唐 德 尚 日唐",
+      "meaning": "唱着吉普赛的歌谣",
+      "sourceIPA": "/ɑ̃ ʃɑ̃tɑ̃ de ʃɑ̃ ʒitɑ̃/",
+      "sourceLineId": "notre-dame-de-paris-32-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4893,
+        "similarity": 0.81,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4902.1,
+      "sourceText": "Où es-tu sonneur de cloches",
+      "ipa": "[u ɛty sɔnœʁ də kloʃ]",
+      "ear": "乌 艾蒂于 索讷厄赫 德 克洛什",
+      "meaning": "你在哪儿，敲钟的人啊",
+      "sourceIPA": "/u ɛty sɔnœʁ də kloʃ/",
+      "sourceLineId": "notre-dame-de-paris-32-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4893,
+        "similarity": 0.81,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4907,
+      "sourceText": "Où es-tu mon Quasimodo?",
+      "ipa": "[u ɛty mɔ̃ kazimodo]",
+      "ear": "乌 艾蒂于 蒙 卡齐莫多",
+      "meaning": "你在哪儿，我的加西莫多",
+      "sourceIPA": "/u ɛty mɔ̃ kazimodo/",
+      "sourceLineId": "notre-dame-de-paris-32-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4907,
+        "similarity": 0.975,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4911.8,
+      "sourceText": "Viens me sauver de la corde",
+      "ipa": "[vjɛ̃ mə sove də la kɔʁd]",
+      "ear": "弗耶安 默 索韦 德 拉 科赫德",
+      "meaning": "帮我解开这些绳索",
+      "sourceIPA": "/vjɛ̃ mə sove də la kɔʁd/",
+      "sourceLineId": "notre-dame-de-paris-32-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4907,
+        "similarity": 0.975,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4916,
+      "sourceText": "Viens écarter mes barreaux",
+      "ipa": "[vjɛ̃ ekaʁte me baʁo]",
+      "ear": "弗耶安 诶卡赫特 梅 巴霍",
+      "meaning": "帮我除去这些栅栏",
+      "sourceIPA": "/vjɛ̃z ekaʁte me baʁo/",
+      "sourceLineId": "notre-dame-de-paris-32-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4916,
+        "similarity": 0.624,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4920.55,
+      "sourceText": "Où es-tu mon Esmeralda",
+      "ipa": "[u ɛty mɔ̃n‿ɛsmʁalda]",
+      "ear": "乌 艾蒂于 蒙恩 艾斯姆哈勒达",
+      "meaning": "你在哪儿，我的爱丝梅拉达",
+      "sourceIPA": "/u ɛty mɔ̃n ɛsmʁalda/",
+      "sourceLineId": "notre-dame-de-paris-32-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4916,
+        "similarity": 0.624,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4928,
+      "sourceText": "Où te caches-tu de moi?",
+      "ipa": "[u tə kaʃty də mwa]",
+      "ear": "乌 特 卡什蒂于 德 姆乌阿",
+      "meaning": "你在哪里躲藏",
+      "sourceIPA": "/u tə kaʃty də mwa/",
+      "sourceLineId": "notre-dame-de-paris-32-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4928,
+        "similarity": 0.695,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4931.857,
+      "sourceText": "Voilà au moins trois jours déjà",
+      "ipa": "[vwala o mwɛ̃ tʁwa ʒuʁ deʒa]",
+      "ear": "弗乌阿拉 奥 姆乌安 特赫乌阿 茹赫 德扎",
+      "meaning": "已经至少三天",
+      "sourceIPA": "/vwala o mwɛ̃ tʁwa ʒuʁ deʒa/",
+      "sourceLineId": "notre-dame-de-paris-32-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4928,
+        "similarity": 0.695,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4937,
+      "sourceText": "Qu'on ne te voit plus par là",
+      "ipa": "[kɔ̃ nə tə vwa ply paʁ la]",
+      "ear": "孔 讷 特 弗乌阿 普吕 帕赫 拉",
+      "meaning": "你都没再出现",
+      "sourceIPA": "/kɔ̃ nə tə vwa ply paʁ la/",
+      "sourceLineId": "notre-dame-de-paris-32-016",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4937,
+        "similarity": 0.27,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4941.5,
+      "sourceText": "Es-tu partie en voyage",
+      "ipa": "[ɛty paʁti ɑ̃ vwajaʒ]",
+      "ear": "艾蒂于 帕赫蒂 昂 弗乌阿耶阿日",
+      "meaning": "你是否已远走高飞",
+      "sourceIPA": "/ɛty paʁti ɑ̃ vwajaʒ/",
+      "sourceLineId": "notre-dame-de-paris-32-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4937,
+        "similarity": 0.27,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4946,
+      "sourceText": "Avec ton beau capitaine",
+      "ipa": "[avɛk tɔ̃ bo kapitɛn]",
+      "ear": "阿韦克 通 博 卡皮泰恩",
+      "meaning": "随同你英俊的队长",
+      "sourceIPA": "/avɛk tɔ̃ bo kapitɛn/",
+      "sourceLineId": "notre-dame-de-paris-32-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4946,
+        "similarity": 0.673,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4950.55,
+      "sourceText": "Sans fiançailles, sans mariage",
+      "ipa": "[sɑ̃ fjɑ̃saj sɑ̃ maʁjaʒ]",
+      "ear": "桑 弗耶昂萨耶 桑 玛赫耶阿日",
+      "meaning": "没有定亲或成婚",
+      "sourceIPA": "/sɑ̃ fjɑ̃saj sɑ̃ maʁjaʒ/",
+      "sourceLineId": "notre-dame-de-paris-32-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4946,
+        "similarity": 0.673,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4955,
+      "sourceText": "Comme à la mode païenne?",
+      "ipa": "[kɔm‿a la mɔd pajɛn]",
+      "ear": "科姆 阿 拉 莫德 帕耶艾恩",
+      "meaning": "像异教徒一样",
+      "sourceIPA": "/kɔm a la mɔd pajɛn/",
+      "sourceLineId": "notre-dame-de-paris-32-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4955,
+        "similarity": 0.407,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4958.9,
+      "sourceText": "Serais-tu morte peut-être",
+      "ipa": "[səʁɛty mɔʁt pøtɛtʁ]",
+      "ear": "瑟赫蒂于 莫赫特 珀厄泰特赫",
+      "meaning": "你也许已经不在人世",
+      "sourceIPA": "/səʁɛty mɔʁt pøtɛtʁ/",
+      "sourceLineId": "notre-dame-de-paris-32-021",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4955,
+        "similarity": 0.407,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4964,
+      "sourceText": "Sans prière et sans couronne?",
+      "ipa": "[sɑ̃ pʁiɛʁ e sɑ̃ kuʁɔn]",
+      "ear": "桑 普希艾赫 诶 桑 库霍恩",
+      "meaning": "没有祈祷也没有花环",
+      "sourceIPA": "/sɑ̃ pʁiɛʁ e sɑ̃ kuʁɔn/",
+      "sourceLineId": "notre-dame-de-paris-32-022",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4964,
+        "similarity": 0.589,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4968.55,
+      "sourceText": "Ne laisse jamais un prêtre",
+      "ipa": "[nə lɛs ʒamɛ œ̃ pʁɛtʁ]",
+      "ear": "讷 莱斯 扎梅 恩 普赫特赫",
+      "meaning": "临死也不让一位神父",
+      "sourceIPA": "/nə lɛs ʒamɛz œ̃ pʁɛtʁ/",
+      "sourceLineId": "notre-dame-de-paris-32-023",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4964,
+        "similarity": 0.589,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4973,
+      "sourceText": "S'approcher de ta personne",
+      "ipa": "[sapʁoʃe də ta pɛʁsɔn]",
+      "ear": "萨普霍谢 德 塔 佩赫索恩",
+      "meaning": "靠近你身旁",
+      "sourceIPA": "/sapʁoʃe də ta pɛʁsɔn/",
+      "sourceLineId": "notre-dame-de-paris-32-024",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4973,
+        "similarity": 0.823,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4977.55,
+      "sourceText": "Souviens-toi d'un jour de foire",
+      "ipa": "[suvjɛ̃twa dœ̃ ʒuʁ də fwaʁ]",
+      "ear": "苏弗耶安特乌阿 丹 茹赫 德 弗乌阿赫",
+      "meaning": "可记得那天在市场",
+      "sourceIPA": "/suvjɛ̃twa dœ̃ ʒuʁ də fwaʁ/",
+      "sourceLineId": "notre-dame-de-paris-32-025",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4973,
+        "similarity": 0.823,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4983,
+      "sourceText": "Où l'on m'avait mis à la roue",
+      "ipa": "[u lɔ̃ mavɛ mi a la ʁu]",
+      "ear": "乌 隆 玛韦 米 阿 拉 胡",
+      "meaning": "我被绑在轮上",
+      "sourceIPA": "/u lɔ̃ mavɛ mi a la ʁu/",
+      "sourceLineId": "notre-dame-de-paris-32-026",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4983,
+        "similarity": 0.782,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4987.267,
+      "sourceText": "Quand je t'ai donné à boire",
+      "ipa": "[kɑ̃ ʒə te dɔne a bwaʁ]",
+      "ear": "康 热 特 多内 阿 布乌阿赫",
+      "meaning": "当我给你水喝",
+      "sourceIPA": "/kɑ̃ ʒə te dɔne a bwaʁ/",
+      "sourceLineId": "notre-dame-de-paris-32-027",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4983,
+        "similarity": 0.782,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4991,
+      "sourceText": "Je suis tombé à genoux",
+      "ipa": "[ʒə sɥi tɔ̃be a ʒənu]",
+      "ear": "热 斯于伊 通贝 阿 热努",
+      "meaning": "我不禁跪在地上",
+      "sourceIPA": "/ʒə sɥi tɔ̃be a ʒənu/",
+      "sourceLineId": "notre-dame-de-paris-32-028",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4991,
+        "similarity": 0.71,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 4995.55,
+      "sourceText": "On est devenus ce jour-là",
+      "ipa": "[ɔ̃n‿ɛ dəvny sə ʒuʁla]",
+      "ear": "翁恩 艾 德弗尼于 瑟 茹赫拉",
+      "meaning": "那天起我们就成了",
+      "sourceIPA": "/ɔ̃n ɛ dəvny sə ʒuʁla/",
+      "sourceLineId": "notre-dame-de-paris-32-029",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4991,
+        "similarity": 0.71,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5001,
+      "sourceText": "Amis à la vie à la mort",
+      "ipa": "[ami a la vi a la mɔʁ]",
+      "ear": "阿米 阿 拉 维 阿 拉 莫赫",
+      "meaning": "生死之交",
+      "sourceIPA": "/ami a la vi a la mɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-32-030",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5001,
+        "similarity": 0.581,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5005.8,
+      "sourceText": "Il se passe entre toi et moi",
+      "ipa": "[il sə pas‿ɑ̃tʁ twa e mwa]",
+      "ear": "伊勒 瑟 帕斯 昂特赫 特乌阿 诶 姆乌阿",
+      "meaning": "你我之间产生出",
+      "sourceIPA": "/il sə pas ɑ̃tʁ twa e mwa/",
+      "sourceLineId": "notre-dame-de-paris-32-031",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5001,
+        "similarity": 0.581,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5010,
+      "sourceText": "Quelque chose de tell'ment fort",
+      "ipa": "[kɛlkə ʃɔz də tɛlmɑ̃ fɔʁ]",
+      "ear": "凯勒克 肖兹 德 泰勒芒 佛赫",
+      "meaning": "某种强烈的联系",
+      "sourceIPA": "/kɛlkə ʃɔz də tɛlmənt fɔʁ/",
+      "sourceLineId": "notre-dame-de-paris-32-032",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5010,
+        "similarity": 0.703,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5014.55,
+      "sourceText": "Les oiseaux qu'on met en cage",
+      "ipa": "[lez‿wazo kɔ̃ mɛ ɑ̃ kaʒ]",
+      "ear": "莱兹 乌阿佐 孔 梅 昂 卡日",
+      "meaning": "笼中之鸟",
+      "sourceIPA": "/lez wazo kɔ̃ mɛt ɑ̃ kaʒ/",
+      "sourceLineId": "notre-dame-de-paris-32-033",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5010,
+        "similarity": 0.703,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5019.1,
+      "sourceText": "Peuvent-ils encore voler?",
+      "ipa": "[pøvtil‿ɑ̃kɔʁ vole]",
+      "ear": "珀厄弗蒂勒 昂科赫 沃莱",
+      "meaning": "能再飞吗",
+      "sourceIPA": "/pøvtilz ɑ̃kɔʁ vole/",
+      "sourceLineId": "notre-dame-de-paris-32-034",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5010,
+        "similarity": 0.703,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 5026,
+      "sourceText": "Les enfants que l'on outrage",
+      "ipa": "[lez‿ɑ̃fɑ̃ kə lɔ̃ utʁaʒ]",
+      "ear": "莱兹 昂芳 克 隆 乌特哈日",
+      "meaning": "受辱的孩子",
+      "sourceIPA": "/lez ɑ̃fɑ̃ kə lɔ̃n utʁaʒ/",
+      "sourceLineId": "notre-dame-de-paris-32-035",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5026,
+        "similarity": 0.724,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 5030.55,
+      "sourceText": "Peuvent-ils encore aimer?",
+      "ipa": "[pøvtil‿ɑ̃kɔʁ‿ɛme]",
+      "ear": "珀厄弗蒂勒 昂科赫 艾梅",
+      "meaning": "能再爱吗",
+      "sourceIPA": "/pøvtilz ɑ̃kɔʁ ɛme/",
+      "sourceLineId": "notre-dame-de-paris-32-036",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 5026,
+        "similarity": 0.724,
+        "groupSize": 2
+      }
+    }
+  ]
+}

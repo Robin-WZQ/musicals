@@ -1,0 +1,218 @@
+{
+  "videoId": "u7jvvteckgQ",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=4031"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 4034,
+      "sourceText": "Fatalité",
+      "ipa": "[fatalite]",
+      "ear": "法塔利特",
+      "meaning": "命运",
+      "sourceIPA": "/fatalite/",
+      "sourceLineId": "notre-dame-de-paris-28-001",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4034,
+        "similarity": 0.747,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4036.286,
+      "sourceText": "Maîtresse de nos destins",
+      "ipa": "[mɛtʁɛs də no dɛstɛ̃]",
+      "ear": "梅特赫斯 德 诺 戴斯坦",
+      "meaning": "我们前途的主导",
+      "sourceIPA": "/mɛtʁɛs də no dɛstɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-28-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4034,
+        "similarity": 0.747,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4039.714,
+      "sourceText": "Fatalité",
+      "ipa": "[fatalite]",
+      "ear": "法塔利特",
+      "meaning": "命运",
+      "sourceIPA": "/fatalite/",
+      "sourceLineId": "notre-dame-de-paris-28-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4034,
+        "similarity": 0.747,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4042,
+      "sourceText": "Quand tu croises nos chemins",
+      "ipa": "[kɑ̃ ty kʁwaz no ʃəmɛ̃]",
+      "ear": "康 蒂于 克赫乌阿兹 诺 舍曼",
+      "meaning": "使我们道路相交",
+      "sourceIPA": "/kɑ̃ ty kʁwaz no ʃəmɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-28-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4042,
+        "similarity": 0.518,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4044.824,
+      "sourceText": "Fatalité",
+      "ipa": "[fatalite]",
+      "ear": "法塔利特",
+      "meaning": "命运",
+      "sourceIPA": "/fatalite/",
+      "sourceLineId": "notre-dame-de-paris-28-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4042,
+        "similarity": 0.518,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4046.706,
+      "sourceText": "Qu'on soit prince ou moins que rien",
+      "ipa": "[kɔ̃ swa pʁɛ̃s‿u mwɛ̃ kə ʁjɛ̃]",
+      "ear": "孔 斯乌阿 普汉斯 乌 姆乌安 克 赫耶安",
+      "meaning": "决定谁为君王谁为庶人",
+      "sourceIPA": "/kɔ̃ swa pʁɛ̃s u mwɛ̃ kə ʁjɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-28-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4042,
+        "similarity": 0.518,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4050,
+      "sourceText": "Fatalité",
+      "ipa": "[fatalite]",
+      "ear": "法塔利特",
+      "meaning": "命运",
+      "sourceIPA": "/fatalite/",
+      "sourceLineId": "notre-dame-de-paris-28-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4050,
+        "similarity": 0.351,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4052.133,
+      "sourceText": "Qu'on soit reine ou bien putain",
+      "ipa": "[kɔ̃ swa ʁɛn‿u bjɛ̃ pytɛ̃]",
+      "ear": "孔 斯乌阿 赫恩 乌 布耶安 普于坦",
+      "meaning": "决定谁为王后谁为娼妓",
+      "sourceIPA": "/kɔ̃ swa ʁɛn u bjɛ̃ pytɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-28-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4050,
+        "similarity": 0.351,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4055.867,
+      "sourceText": "Fatalité",
+      "ipa": "[fatalite]",
+      "ear": "法塔利特",
+      "meaning": "命运",
+      "sourceIPA": "/fatalite/",
+      "sourceLineId": "notre-dame-de-paris-28-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4050,
+        "similarity": 0.351,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4058,
+      "sourceText": "Tu tiens nos vies dans ta mains",
+      "ipa": "[ty tjɛ̃ no vi dɑ̃ ta mɛ̃]",
+      "ear": "蒂于 特耶安 诺 维 当 塔 曼",
+      "meaning": "将我们的生命握于指掌",
+      "sourceIPA": "/ty tjɛ̃ no vi dɑ̃ ta mɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-28-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4058,
+        "similarity": 0.624,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4062.053,
+      "sourceText": "Fatalité, fatalité",
+      "ipa": "[fatalite fatalite]",
+      "ear": "法塔利特 法塔利特",
+      "meaning": "命运啊命运",
+      "sourceIPA": "/fatalite fatalite/",
+      "sourceLineId": "notre-dame-de-paris-28-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4058,
+        "similarity": 0.624,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 4066.684,
+      "sourceText": "Fatalité",
+      "ipa": "[fatalite]",
+      "ear": "法塔利特",
+      "meaning": "命运",
+      "sourceIPA": "/fatalite/",
+      "sourceLineId": "notre-dame-de-paris-28-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 4058,
+        "similarity": 0.624,
+        "groupSize": 3
+      }
+    }
+  ]
+}

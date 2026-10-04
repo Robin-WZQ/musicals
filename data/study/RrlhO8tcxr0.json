@@ -1,0 +1,202 @@
+{
+  "videoId": "RrlhO8tcxr0",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=487"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 487,
+      "sourceText": "Monsieur Phoebus de Chateaupers",
+      "ipa": "[məsjø febys də ʃatope]",
+      "ear": "默斯耶厄 费比于斯 德 沙托佩",
+      "meaning": "菲比斯·沙多倍尔先生",
+      "sourceIPA": "/məsjø febys də ʃatope/",
+      "sourceLineId": "notre-dame-de-paris-04-001",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 487,
+        "similarity": 0.799,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 489.0,
+      "sourceText": "Capitaine des archers du roi",
+      "ipa": "[kapitɛn dez‿aʁʃe dy ʁwa]",
+      "ear": "卡皮泰恩 德兹 阿赫谢 迪于 赫乌阿",
+      "meaning": "国王的近卫弓箭队长",
+      "sourceIPA": "/kapitɛn dez aʁʃe dy ʁwa/",
+      "sourceLineId": "notre-dame-de-paris-04-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 487,
+        "similarity": 0.799,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 491.0,
+      "sourceText": "Je vous ordonne de chasser",
+      "ipa": "[ʒə vuz‿ɔʁdɔn də ʃase]",
+      "ear": "热 乌兹 哦赫多恩 德 沙塞",
+      "meaning": "我命令您驱逐",
+      "sourceIPA": "/ʒə vuz ɔʁdɔn də ʃase/",
+      "sourceLineId": "notre-dame-de-paris-04-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 487,
+        "similarity": 0.799,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 492.75,
+      "sourceText": "tous ces hors-la-lois",
+      "ipa": "[tu se ɔʁlalwa]",
+      "ear": "图 塞 哦赫拉勒乌阿",
+      "meaning": "这群不法之徒",
+      "sourceIPA": "/tu se ɔʁlalwa/",
+      "sourceLineId": "notre-dame-de-paris-04-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 487,
+        "similarity": 0.799,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 494,
+      "sourceText": "Il faut à tout prix empêcher cette cohorte d'étrangers",
+      "ipa": "[il fo a tu pʁi ɑ̃pɛʃe sɛt koɔʁt detʁɑ̃ʒe]",
+      "ear": "伊勒 佛 阿 图 普希 昂佩谢 塞特 科哦赫特 德特杭热",
+      "meaning": "必须不惜一切代价阻止这帮异乡人",
+      "sourceIPA": "/il fot a tu pʁi ɑ̃pɛʃe sɛt koɔʁt detʁɑ̃ʒe/",
+      "sourceLineId": "notre-dame-de-paris-04-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 494,
+        "similarity": 0.322,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 497.63,
+      "sourceText": "De venir troubler la vie",
+      "ipa": "[də vəniʁ tʁuble la vi]",
+      "ear": "德 弗尼赫 特胡布莱 拉 维",
+      "meaning": "不能让他们扰乱",
+      "sourceIPA": "/də vəniʁ tʁuble la vi/",
+      "sourceLineId": "notre-dame-de-paris-04-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 494,
+        "similarity": 0.322,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 499.444,
+      "sourceText": "Du bon peuple de Paris",
+      "ipa": "[dy bɔ̃ pøpl də paʁi]",
+      "ear": "迪于 崩 珀厄普勒 德 帕希",
+      "meaning": "巴黎善良人民的生活",
+      "sourceIPA": "/dy bɔ̃ pøpl də paʁi/",
+      "sourceLineId": "notre-dame-de-paris-04-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 494,
+        "similarity": 0.322,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 501,
+      "sourceText": "à vos ordres Monseigneur l'Archidiacre",
+      "ipa": "[a voz‿ɔʁdʁ mɔ̃sɛnjœʁ laʁʃidjakʁ]",
+      "ear": "阿 沃兹 哦赫德赫 蒙塞恩耶厄赫 拉赫希德耶阿克赫",
+      "meaning": "遵命 副主教大人",
+      "sourceIPA": "/a voz ɔʁdʁ mɔ̃sɛnjœʁ laʁʃidjakʁ/",
+      "sourceLineId": "notre-dame-de-paris-04-008",
+      "speaker": "Phoebus",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 501,
+        "similarity": 0.453,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 505.765,
+      "sourceText": "Au nom de Dieu j'irai jusqu'au massacre",
+      "ipa": "[o nɔ̃ də djø ʒiʁe ʒysko masakʁ]",
+      "ear": "奥 农 德 德耶厄 日赫 日于斯科 玛萨克赫",
+      "meaning": "以上帝之名 我会将他们赶尽杀绝",
+      "sourceIPA": "/o nɔ̃ də djø ʒiʁe ʒysko masakʁ/",
+      "sourceLineId": "notre-dame-de-paris-04-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 501,
+        "similarity": 0.453,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 511.059,
+      "sourceText": "Je vais chasser de votre vue",
+      "ipa": "[ʒə vɛ ʃase də votʁ vy]",
+      "ear": "热 韦 沙塞 德 沃特赫 维于",
+      "meaning": "把他们赶出您的视野",
+      "sourceIPA": "/ʒə vɛ ʃase də votʁ vy/",
+      "sourceLineId": "notre-dame-de-paris-04-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 501,
+        "similarity": 0.453,
+        "groupSize": 4
+      }
+    },
+    {
+      "start": 514.765,
+      "sourceText": "Tous ces vauriens, tous ces tout-nus",
+      "ipa": "[tu se voʁjɛ̃ tu se tuny]",
+      "ear": "图 塞 沃赫耶安 图 塞 图尼于",
+      "meaning": "不放过任何一个流氓穷光蛋",
+      "sourceIPA": "/tu se voʁjɛ̃ tu se tuny/",
+      "sourceLineId": "notre-dame-de-paris-04-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 501,
+        "similarity": 0.453,
+        "groupSize": 4
+      }
+    }
+  ]
+}

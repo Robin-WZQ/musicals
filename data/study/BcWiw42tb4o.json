@@ -1,0 +1,314 @@
+{
+  "videoId": "BcWiw42tb4o",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=2193"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 2197,
+      "sourceText": "Maintenant pourrais je savoir",
+      "ipa": "[mɛ̃tnɑ̃ puʁɛ ʒə savwaʁ]",
+      "ear": "曼特南 普赫 热 萨弗乌阿赫",
+      "meaning": "现在我可否知道",
+      "sourceIPA": "/mɛ̃tnɑ̃ puʁɛ ʒə savwaʁ/",
+      "sourceLineId": "notre-dame-de-paris-15-001",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2197,
+        "similarity": 0.607,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2200.938,
+      "sourceText": "Qui j'ai l'honneur d'avoir pour mari",
+      "ipa": "[ki ʒe lɔnœʁ davwaʁ puʁ maʁi]",
+      "ear": "基 热 洛讷厄赫 达弗乌阿赫 普赫 玛希",
+      "meaning": "我有幸以为丈夫的是何人",
+      "sourceIPA": "/ki ʒe lɔnœʁ davwaʁ puʁ maʁi/",
+      "sourceLineId": "notre-dame-de-paris-15-002",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2197,
+        "similarity": 0.607,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 2206,
+      "sourceText": "Je suis le poète Gringoire",
+      "ipa": "[ʒə sɥi lə pɔɛt ɡʁɛ̃ɡwaʁ]",
+      "ear": "热 斯于伊 勒 珀艾特 格汉格乌阿赫",
+      "meaning": "我是诗人葛林果",
+      "sourceIPA": "/ʒə sɥi lə pɔɛt ɡʁɛ̃ɡwaʁ/",
+      "sourceLineId": "notre-dame-de-paris-15-003",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2206,
+        "similarity": 0.496,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2208.333,
+      "sourceText": "Je suis prince des rues de Paris",
+      "ipa": "[ʒə sɥi pʁɛ̃s de ʁy də paʁi]",
+      "ear": "热 斯于伊 普汉斯 德 许 德 帕希",
+      "meaning": "巴黎的街头王子",
+      "sourceIPA": "/ʒə sɥi pʁɛ̃s de ʁy də paʁi/",
+      "sourceLineId": "notre-dame-de-paris-15-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2206,
+        "similarity": 0.496,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2211.0,
+      "sourceText": "Il est le prince des rues de Paris!",
+      "ipa": "[il‿ɛ lə pʁɛ̃s de ʁy də paʁi]",
+      "ear": "伊勒 艾 勒 普汉斯 德 许 德 帕希",
+      "meaning": "（呵呵）这还是个王子嘞",
+      "sourceIPA": "/il ɛ lə pʁɛ̃s de ʁy də paʁi/",
+      "sourceLineId": "notre-dame-de-paris-15-005",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2206,
+        "similarity": 0.496,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2214,
+      "sourceText": "Je ne suis pas un homme à femmes",
+      "ipa": "[ʒə nə sɥi pa œ̃n‿ɔm‿a fam]",
+      "ear": "热 讷 斯于伊 帕 恩恩 哦姆 阿 法姆",
+      "meaning": "我不是个讨女人喜欢的男人",
+      "sourceIPA": "/ʒə nə sɥi paz œ̃n ɔm a fam/",
+      "sourceLineId": "notre-dame-de-paris-15-006",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2214,
+        "similarity": 0.789,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2217.333,
+      "sourceText": "Si tu veux je ferai de toi",
+      "ipa": "[si ty vø ʒə fəʁe də twa]",
+      "ear": "西 蒂于 弗厄 热 弗赫 德 特乌阿",
+      "meaning": "但是如果你愿意 我愿奉你为",
+      "sourceIPA": "/si ty vø ʒə fəʁe də twa/",
+      "sourceLineId": "notre-dame-de-paris-15-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2214,
+        "similarity": 0.789,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2220.667,
+      "sourceText": "Mon égérie, ma muse, ma dame",
+      "ipa": "[mɔ̃n‿eʒeʁi ma myz ma dam]",
+      "ear": "蒙恩 诶热希 玛 米于兹 玛 达姆",
+      "meaning": "我的艾洁丽 我的缪斯 我的妻子",
+      "sourceIPA": "/mɔ̃n eʒeʁi ma myz ma dam/",
+      "sourceLineId": "notre-dame-de-paris-15-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2214,
+        "similarity": 0.789,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2224,
+      "sourceText": "Toi qui sais lire et écrire",
+      "ipa": "[twa ki sɛ liʁ e ekʁiʁ]",
+      "ear": "特乌阿 基 塞 利赫 诶 诶克希赫",
+      "meaning": "你能读能写",
+      "sourceIPA": "/twa ki sɛ liʁ e ekʁiʁ/",
+      "sourceLineId": "notre-dame-de-paris-15-009",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2224,
+        "similarity": 0.771,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2227.0,
+      "sourceText": "Toi le poète peux-tu me dire",
+      "ipa": "[twa lə pɔɛt pøty mə diʁ]",
+      "ear": "特乌阿 勒 珀艾特 珀厄蒂于 默 迪赫",
+      "meaning": "你这诗人 可否说与我",
+      "sourceIPA": "/twa lə pɔɛt pøty mə diʁ/",
+      "sourceLineId": "notre-dame-de-paris-15-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2224,
+        "similarity": 0.771,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2230.429,
+      "sourceText": "Ce que veut dire Phoebus?",
+      "ipa": "[sə kə vø diʁ febys]",
+      "ear": "瑟 克 弗厄 迪赫 费比于斯",
+      "meaning": "菲比斯这名字的含义",
+      "sourceIPA": "/sə kə vø diʁ febys/",
+      "sourceLineId": "notre-dame-de-paris-15-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2224,
+        "similarity": 0.771,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2233,
+      "sourceText": "Par Jupiter",
+      "ipa": "[paʁ ʒypite]",
+      "ear": "帕赫 日于皮特",
+      "meaning": "老天！",
+      "sourceIPA": "/paʁ ʒypite/",
+      "sourceLineId": "notre-dame-de-paris-15-012",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2233,
+        "similarity": 0.776,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2234.333,
+      "sourceText": "Qui donc sur terre",
+      "ipa": "[ki dɔ̃k syʁ tɛʁ]",
+      "ear": "基 东克 西于赫 泰赫",
+      "meaning": "这尘世上",
+      "sourceIPA": "/ki dɔ̃k syʁ tɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-15-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2233,
+        "similarity": 0.776,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2235.667,
+      "sourceText": "Ose porter un nom pareil",
+      "ipa": "[ɔz pɔʁte œ̃ nɔ̃ paʁɛj]",
+      "ear": "哦兹 珀赫特 恩 农 帕赫耶",
+      "meaning": "谁敢擅用此名",
+      "sourceIPA": "/ɔz pɔʁte œ̃ nɔ̃ paʁɛj/",
+      "sourceLineId": "notre-dame-de-paris-15-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2233,
+        "similarity": 0.776,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2238,
+      "sourceText": "C'est celui pour qui mon cœur bat",
+      "ipa": "[sɛ səlɥi puʁ ki mɔ̃ kœʁ ba]",
+      "ear": "塞 瑟勒于伊 普赫 基 蒙 克厄赫 巴",
+      "meaning": "他就是令我心动之人",
+      "sourceIPA": "/sɛ səlɥi puʁ ki mɔ̃ kœʁ ba/",
+      "sourceLineId": "notre-dame-de-paris-15-015",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2238,
+        "similarity": 0.846,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2240.88,
+      "sourceText": "Si je me souviens de mon latin",
+      "ipa": "[si ʒə mə suvjɛ̃ də mɔ̃ latɛ̃]",
+      "ear": "西 热 默 苏弗耶安 德 蒙 拉坦",
+      "meaning": "如果我没忘记我的拉丁语",
+      "sourceIPA": "/si ʒə mə suvjɛ̃ də mɔ̃ latɛ̃/",
+      "sourceLineId": "notre-dame-de-paris-15-016",
+      "speaker": "Gringoire",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2238,
+        "similarity": 0.846,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2244.12,
+      "sourceText": "Le mot Phoebus veut dire soleil",
+      "ipa": "[lə mo febys vø diʁ solɛj]",
+      "ear": "勒 莫 费比于斯 弗厄 迪赫 索莱耶",
+      "meaning": "菲比斯这个词是太阳的意思",
+      "sourceIPA": "/lə mo febys vø diʁ solɛj/",
+      "sourceLineId": "notre-dame-de-paris-15-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2238,
+        "similarity": 0.846,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 2247,
+      "sourceText": "Phoebus veut dire soleil",
+      "ipa": "[febys vø diʁ solɛj]",
+      "ear": "费比于斯 弗厄 迪赫 索莱耶",
+      "meaning": "菲比斯是太阳的意思……",
+      "sourceIPA": "/febys vø diʁ solɛj/",
+      "sourceLineId": "notre-dame-de-paris-15-018",
+      "speaker": "Esméralda",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 2247,
+        "similarity": 0.445,
+        "groupSize": 1
+      }
+    }
+  ]
+}

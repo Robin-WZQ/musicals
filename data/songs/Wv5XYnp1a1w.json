@@ -8,15 +8,116 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 5,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Esméralda tu sais",
+      "start": 843,
+      "duration": 3.9
+    },
+    {
+      "text": "Tu n'es plus une enfant",
+      "start": 846.9,
+      "duration": 3.9
+    },
+    {
+      "text": "Il m'arrive maintenant",
+      "start": 851,
+      "duration": 3.214
+    },
+    {
+      "text": "de te regarder différemment",
+      "start": 854.214,
+      "duration": 5.786
+    },
+    {
+      "text": "Tu n'avais pas huit ans",
+      "start": 860,
+      "duration": 4.55
+    },
+    {
+      "text": "quand ta mère est partie",
+      "start": 864.55,
+      "duration": 3.9
+    },
+    {
+      "text": "emportée par la mort",
+      "start": 870,
+      "duration": 3.9
+    },
+    {
+      "text": "vers son Andalousie",
+      "start": 873.9,
+      "duration": 3.9
+    },
+    {
+      "text": "Elle t'a confiée à moi",
+      "start": 881,
+      "duration": 3.9
+    },
+    {
+      "text": "et avec jalousie",
+      "start": 884.9,
+      "duration": 3.9
+    },
+    {
+      "text": "J'ai veillé sur ta vie",
+      "start": 890,
+      "duration": 3.9
+    },
+    {
+      "text": "Jusqu'au jour d'aujourd'hui",
+      "start": 893.9,
+      "duration": 4.55
+    },
+    {
+      "text": "Esméralda tu sais",
+      "start": 899,
+      "duration": 3.9
+    },
+    {
+      "text": "Les hommes sont méchants",
+      "start": 902.9,
+      "duration": 3.25
+    },
+    {
+      "text": "Prend garde quand tu cours",
+      "start": 910,
+      "duration": 2.647
+    },
+    {
+      "text": "dans les rues, dans les champs",
+      "start": 912.647,
+      "duration": 3.177
+    },
+    {
+      "text": "Est-ce que tu me comprends?",
+      "start": 915.824,
+      "duration": 3.176
+    },
+    {
+      "text": "Tu arrives maintenant",
+      "start": 919,
+      "duration": 3.25
+    },
+    {
+      "text": "à l'âge de l'amour",
+      "start": 922.25,
+      "duration": 3.25
+    },
+    {
+      "text": "Rien n'est plus comme avant",
+      "start": 928,
+      "duration": 5.0
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=840",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -76,6 +177,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }

@@ -1,0 +1,330 @@
+{
+  "videoId": "stk1D6kwNBY",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "textReviewStatus": "user-supplied",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "reviewStatus": "user-text-reference-pronunciation-approximate-timing",
+  "meaningSource": "user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "sourceFileSHA256": "96211528135f99ee693cb740330ab290a329f0ebc462dc2dd98b084159d18c4a",
+  "sources": [
+    {
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/notre-dame-de-paris/index.html"
+    },
+    {
+      "label": "1998 年法语原卡司演出",
+      "url": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=1472"
+    }
+  ],
+  "note": "法语和中文译文来自你提供的 songs.js；音标按词尾和联诵规则整理，中文空耳由音标生成。原唱采用1998年法语原卡司演出；逐句切点依据同一录像的字幕内容匹配及分句估算，≈ 表示近似位置。",
+  "entries": [
+    {
+      "start": 1485,
+      "sourceText": "Attention! Cette fille est étrangère",
+      "ipa": "[atɑ̃sjɔ̃ sɛt fij‿ɛt‿etʁɑ̃ʒɛʁ]",
+      "ear": "阿唐斯耶翁 塞特 菲耶 艾特 诶特杭热赫",
+      "meaning": "当心！这女子是异乡人",
+      "sourceIPA": "/atɑ̃sjɔ̃ sɛt fij ɛt etʁɑ̃ʒɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-10-002",
+      "speaker": "Frollo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1485,
+        "similarity": 0.501,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1487.432,
+      "sourceText": "C'est une bohémienne, une sorcière",
+      "ipa": "[sɛt‿yn boemjɛn yn sɔʁsjɛʁ]",
+      "ear": "塞特 于恩 博诶姆耶艾恩 于恩 索赫斯耶艾赫",
+      "meaning": "是个吉普赛人 是个女巫",
+      "sourceIPA": "/sɛt yn boemjɛn yn sɔʁsjɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-10-003",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1485,
+        "similarity": 0.501,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1489.595,
+      "sourceText": "C'est une chienne",
+      "ipa": "[sɛt‿yn ʃjɛn]",
+      "ear": "塞特 于恩 什耶艾恩",
+      "meaning": "是条母狗",
+      "sourceIPA": "/sɛt yn ʃjɛn/",
+      "sourceLineId": "notre-dame-de-paris-10-004",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1485,
+        "similarity": 0.501,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1490.405,
+      "sourceText": "une chatte de gouttière",
+      "ipa": "[yn ʃat də ɡutjɛʁ]",
+      "ear": "于恩 沙特 德 古特耶艾赫",
+      "meaning": "阴沟里的母猫",
+      "sourceIPA": "/yn ʃat də ɡutjɛʁ/",
+      "sourceLineId": "notre-dame-de-paris-10-005",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1485,
+        "similarity": 0.501,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1491.757,
+      "sourceText": "un animal qui traîne pieds nu sur les pavés",
+      "ipa": "[œ̃n‿animal ki tʁɛn pje ny syʁ le pave]",
+      "ear": "恩恩 阿尼玛勒 基 特赫恩 普耶诶 尼于 西于赫 莱 帕韦",
+      "meaning": "赤脚游荡在路上的野兽",
+      "sourceIPA": "/œ̃n animal ki tʁɛn pje ny syʁ le pave/",
+      "sourceLineId": "notre-dame-de-paris-10-006",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1485,
+        "similarity": 0.501,
+        "groupSize": 5
+      }
+    },
+    {
+      "start": 1495,
+      "sourceText": "C'est un péché mortel à regarder",
+      "ipa": "[sɛt‿œ̃ peʃe mɔʁtɛl‿a ʁəɡaʁde]",
+      "ear": "塞特 恩 佩谢 莫赫泰勒 阿 赫嘎赫德",
+      "meaning": "看她就会犯死罪",
+      "sourceIPA": "/sɛt œ̃ peʃe mɔʁtɛl a ʁəɡaʁde/",
+      "sourceLineId": "notre-dame-de-paris-10-007",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1495,
+        "similarity": 0.306,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1498.75,
+      "sourceText": "Il faudrait la mettre en cage",
+      "ipa": "[il fodʁɛ la mɛtʁ‿ɑ̃ kaʒ]",
+      "ear": "伊勒 佛德赫 拉 梅特赫 昂 卡日",
+      "meaning": "她该被囚禁",
+      "sourceIPA": "/il fodʁɛ la mɛtʁ ɑ̃ kaʒ/",
+      "sourceLineId": "notre-dame-de-paris-10-008",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1495,
+        "similarity": 0.306,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1501.375,
+      "sourceText": "Qu'elle ne fasse plus de ravages",
+      "ipa": "[kɛl nə fas ply də ʁavaʒ]",
+      "ear": "凯勒 讷 法斯 普吕 德 哈瓦日",
+      "meaning": "以免她再祸害",
+      "sourceIPA": "/kɛl nə fas ply də ʁavaʒ/",
+      "sourceLineId": "notre-dame-de-paris-10-009",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1495,
+        "similarity": 0.306,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1504,
+      "sourceText": "Dans les cœurs dans les âmes des fidèles de Notre-Dame",
+      "ipa": "[dɑ̃ le kœʁ dɑ̃ lez‿am de fidɛl də notʁdam]",
+      "ear": "当 莱 克厄赫 当 莱兹 阿姆 德 菲戴勒 德 诺特赫达姆",
+      "meaning": "在圣母院信众的心中、灵魂里",
+      "sourceIPA": "/dɑ̃ le kœʁ dɑ̃ lez am de fidɛl də notʁdam/",
+      "sourceLineId": "notre-dame-de-paris-10-010",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1504,
+        "similarity": 0.703,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1508.909,
+      "sourceText": "Ce soir nous la suivrons dans les ruelles",
+      "ipa": "[sə swaʁ nu la sɥivʁɔ̃ dɑ̃ le ʁyɛl]",
+      "ear": "瑟 斯乌阿赫 努 拉 斯于伊弗洪 当 莱 许艾勒",
+      "meaning": "今晚我们跟踪她去小巷",
+      "sourceIPA": "/sə swaʁ nu la sɥivʁɔ̃ dɑ̃ le ʁyɛl/",
+      "sourceLineId": "notre-dame-de-paris-10-011",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1504,
+        "similarity": 0.703,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1513,
+      "sourceText": "Et nous l'enlèverons",
+      "ipa": "[e nu lɑ̃lɛvʁɔ̃]",
+      "ear": "诶 努 朗莱弗洪",
+      "meaning": "在那儿把她抓走",
+      "sourceIPA": "/e nu lɑ̃lɛvʁɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-10-012",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1513,
+        "similarity": 0.267,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1514.75,
+      "sourceText": "Nous l'emprisonnerons dans une tourelle",
+      "ipa": "[nu lɑ̃pʁizɔnʁɔ̃ dɑ̃ yn tuʁɛl]",
+      "ear": "努 朗普希佐恩洪 当 于恩 图赫勒",
+      "meaning": "我们会把她关进塔里",
+      "sourceIPA": "/nu lɑ̃pʁizɔnʁɔ̃ dɑ̃z yn tuʁɛl/",
+      "sourceLineId": "notre-dame-de-paris-10-013",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1513,
+        "similarity": 0.267,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1517.9,
+      "sourceText": "Et nous lui montrerons",
+      "ipa": "[e nu lɥi mɔ̃tʁəʁɔ̃]",
+      "ear": "诶 努 勒于伊 蒙特赫洪",
+      "meaning": "我们会教导她",
+      "sourceIPA": "/e nu lɥi mɔ̃tʁəʁɔ̃/",
+      "sourceLineId": "notre-dame-de-paris-10-014",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1513,
+        "similarity": 0.267,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1520,
+      "sourceText": "La religion de Jésus-Christ et de sa Sainte Mère Marie",
+      "ipa": "[la ʁəliʒjɔ̃ də ʒezykʁist e də sa sɛ̃t mɛʁ maʁi]",
+      "ear": "拉 赫利日耶翁 德 热齐于克希斯特 诶 德 萨 森特 梅赫 玛希",
+      "meaning": "信仰耶稣基督和圣母玛利亚",
+      "sourceIPA": "/la ʁəliʒjɔ̃ də ʒezykʁist e də sa sɛ̃t mɛʁ maʁi/",
+      "sourceLineId": "notre-dame-de-paris-10-015",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1520,
+        "similarity": 0.704,
+        "groupSize": 1
+      }
+    },
+    {
+      "start": 1527,
+      "sourceText": "Tu me demanderais n'importe quoi",
+      "ipa": "[ty mə dəmɑ̃dʁɛ nɛ̃pɔʁt kwa]",
+      "ear": "蒂于 默 德芒德赫 南珀赫特 克乌阿",
+      "meaning": "你可以任意使唤我",
+      "sourceIPA": "/ty mə dəmɑ̃dʁɛ nɛ̃pɔʁt kwa/",
+      "sourceLineId": "notre-dame-de-paris-10-016",
+      "speaker": "Quasimodo",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1527,
+        "similarity": 0.625,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1531.0,
+      "sourceText": "Je le ferais pour toi tout ce que tu voudras",
+      "ipa": "[ʒə lə fəʁɛ puʁ twa tu sə kə ty vudʁa]",
+      "ear": "热 勒 弗赫 普赫 特乌阿 图 瑟 克 蒂于 乌德哈",
+      "meaning": "我愿顺从你愿 为你做任何事",
+      "sourceIPA": "/ʒə lə fəʁɛ puʁ twa tu sə kə ty vudʁa/",
+      "sourceLineId": "notre-dame-de-paris-10-017",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1527,
+        "similarity": 0.625,
+        "groupSize": 2
+      }
+    },
+    {
+      "start": 1537,
+      "sourceText": "Tu le sais tout ce que tu voudras",
+      "ipa": "[ty lə sɛ tu sə kə ty vudʁa]",
+      "ear": "蒂于 勒 塞 图 瑟 克 蒂于 乌德哈",
+      "meaning": "顺从你愿",
+      "sourceIPA": "/ty lə sɛ tu sə kə ty vudʁa/",
+      "sourceLineId": "notre-dame-de-paris-10-018",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1537,
+        "similarity": 0.481,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1541.714,
+      "sourceText": "Je le ferais pour toi",
+      "ipa": "[ʒə lə fəʁɛ puʁ twa]",
+      "ear": "热 勒 弗赫 普赫 特乌阿",
+      "meaning": "我效命于你",
+      "sourceIPA": "/ʒə lə fəʁɛ puʁ twa/",
+      "sourceLineId": "notre-dame-de-paris-10-019",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1537,
+        "similarity": 0.481,
+        "groupSize": 3
+      }
+    },
+    {
+      "start": 1544.857,
+      "sourceText": "Je le ferais pour toi",
+      "ipa": "[ʒə lə fəʁɛ puʁ twa]",
+      "ear": "热 勒 弗赫 普赫 特乌阿",
+      "meaning": "我效命于你",
+      "sourceIPA": "/ʒə lə fəʁɛ puʁ twa/",
+      "sourceLineId": "notre-dame-de-paris-10-020",
+      "speaker": "",
+      "timing": {
+        "method": "matched-transcript-anchor",
+        "anchorStart": 1537,
+        "similarity": 0.481,
+        "groupSize": 3
+      }
+    }
+  ]
+}

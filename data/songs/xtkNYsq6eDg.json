@@ -8,15 +8,116 @@
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 39,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
-  "captionSource": "youtube-player",
-  "cues": [],
-  "lyricsStorage": "external",
+  "captionSource": "editorial",
+  "cues": [
+    {
+      "text": "Je suis prêtre et je viens te préparer à mourir",
+      "start": 5930,
+      "duration": 7.682
+    },
+    {
+      "text": "J'ai froid, j'ai faim",
+      "start": 5937.682,
+      "duration": 2.363
+    },
+    {
+      "text": "Laissez-moi sortir",
+      "start": 5940.045,
+      "duration": 2.955
+    },
+    {
+      "text": "Je n'ai rien fait contre personne",
+      "start": 5943,
+      "duration": 2.8
+    },
+    {
+      "text": "écoute la cloche qui sonne",
+      "start": 5945.8,
+      "duration": 2.4
+    },
+    {
+      "text": "Il est cinq heures du matin",
+      "start": 5948.2,
+      "duration": 2.8
+    },
+    {
+      "text": "Bientôt s'ouvrira cette porte",
+      "start": 5951,
+      "duration": 3.667
+    },
+    {
+      "text": "Dans une heure tu seras morte",
+      "start": 5954.667,
+      "duration": 3.666
+    },
+    {
+      "text": "Dans une heure je serais bien!",
+      "start": 5958.333,
+      "duration": 3.667
+    },
+    {
+      "text": "On verra bien si tu danses",
+      "start": 5962,
+      "duration": 2.75
+    },
+    {
+      "text": "Encore devant la potence",
+      "start": 5964.75,
+      "duration": 2.75
+    },
+    {
+      "text": "Mais qu'est ce que je vous ai fait",
+      "start": 5967.5,
+      "duration": 2.75
+    },
+    {
+      "text": "Pour que vous me haïssiez?",
+      "start": 5970.25,
+      "duration": 2.75
+    },
+    {
+      "text": "Ce n'est pas de la haine",
+      "start": 5973,
+      "duration": 2.4
+    },
+    {
+      "text": "C'est que je t'aime",
+      "start": 5975.4,
+      "duration": 1.6
+    },
+    {
+      "text": "Je t'aime!",
+      "start": 5977,
+      "duration": 5.0
+    },
+    {
+      "text": "Mais qu'est-ce que j'ai donc fait",
+      "start": 5989,
+      "duration": 2.5
+    },
+    {
+      "text": "Pour qu'ainsi vous m'aimiez",
+      "start": 5991.5,
+      "duration": 2.5
+    },
+    {
+      "text": "Moi pauvre gitane",
+      "start": 5994,
+      "duration": 2.545
+    },
+    {
+      "text": "Et vous curé de Notre-Dame",
+      "start": 5996.545,
+      "duration": 4.455
+    }
+  ],
+  "lyricsStorage": "user-provided",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
   "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5928",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
@@ -68,6 +169,9 @@
   "nativeTimingSource": "youtube-transcript-ui-timestamps",
   "nativeTimingLanguage": "en",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "mediaKind": "stage-video"
+  "timingReviewStatus": "approximate",
+  "mediaKind": "stage-video",
+  "isGenerated": false,
+  "textReviewStatus": "user-supplied",
+  "studyVersion": 3
 }
