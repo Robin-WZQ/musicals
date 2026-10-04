@@ -1,7 +1,7 @@
-import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.mjs?v=20261004-5';
-import { attachStudyNotes } from './study.mjs?v=20261004-5';
-import { musicalURL, learningURL, tracksFor } from './library.mjs?v=20261004-5';
-import { fetchData } from './data.mjs?v=20261004-5';
+import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.mjs?v=20261004-6';
+import { attachStudyNotes } from './study.mjs?v=20261004-6';
+import { musicalURL, learningURL, tracksFor } from './library.mjs?v=20261004-6';
+import { fetchData } from './data.mjs?v=20261004-6';
 
 const $ = id => document.getElementById(id);
 let catalog = [], musicals = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
@@ -67,8 +67,9 @@ function centerLyric(pane, line, atTop = false, instant = false) {
 }
 function resizeLyricSpace() {
   const pane = $('lyrics');
-  // Leave enough room to center the first and last lines as well.
-  pane.style.paddingBlock = `${pane.clientHeight / 2}px`;
+  // Scrollable spacers keep centering room without forcing the flex pane taller.
+  pane.style.paddingBlock = '0px';
+  pane.style.setProperty('--lyric-edge-space', `${pane.clientHeight / 2}px`);
   if (following && active >= 0) updateSelection(active, true);
   else if (active < 0) {
     const first = pane.querySelector('.lyric-line');
