@@ -1,7 +1,7 @@
-import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.mjs?v=20261004-7';
-import { attachStudyNotes } from './study.mjs?v=20261004-7';
-import { musicalURL, learningURL, tracksFor } from './library.mjs?v=20261004-7';
-import { fetchData } from './data.mjs?v=20261004-7';
+import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.mjs?v=20261004-8';
+import { attachStudyNotes } from './study.mjs?v=20261004-8';
+import { musicalURL, learningURL, tracksFor } from './library.mjs?v=20261004-8';
+import { fetchData } from './data.mjs?v=20261004-8';
 
 const $ = id => document.getElementById(id);
 let catalog = [], musicals = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
@@ -36,7 +36,7 @@ async function ensurePlayer() {
     if (player) return;
     player = new YT.Player('youtube-player', {
       width: '100%', height: '100%', videoId: song.playbackVideoId || song.id,
-      playerVars: { playsinline: 1, rel: 0, origin: location.origin, start: Math.floor(initialSeek), cc_load_policy: 0 },
+      playerVars: { playsinline: 1, rel: 0, origin: location.origin, start: Math.floor(initialSeek), cc_load_policy: song.captionSource === 'youtube-player' ? 1 : 0, cc_lang_pref: 'fr' },
       events: {
         onReady: () => { playerReady = true; $('player-placeholder').hidden = true; setSpeeds(); if (initialSeek > 0) { player.seekTo(initialSeek, true); initialSeek = 0; } },
         onStateChange: event => {
@@ -133,6 +133,19 @@ function renderLyrics() {
   $('lyrics').classList.toggle('hide-translations', !availableTranslation);
   $('repeat').disabled = $('sentence-mode').disabled = $('previous').disabled = $('next').disabled = !cues.length;
   if (!cues.length) {
+    if (song.captionSource === 'youtube-player') {
+      const state = document.createElement('div'); state.className = 'empty-state native-source';
+      const icon = document.createElement('span'); icon.className = 'empty-icon'; icon.textContent = '♫';
+      const heading = document.createElement('h3'); heading.textContent = song.editorialInfo?.titleZh || song.title;
+      const original = document.createElement('p'); original.className = 'native-original'; original.textContent = song.editorialInfo?.titleOriginal || song.title;
+      const info = document.createElement('p'); info.textContent = '听这一曲原唱，或打开带法语字幕的全剧录像。导入本曲字幕后，这里会显示逐句播放内容。';
+      const actions = document.createElement('div'); actions.className = 'empty-actions';
+      const play = document.createElement('button'); play.className = 'solid-button'; play.textContent = '▶ 播放本曲'; play.onclick = togglePlay;
+      const full = document.createElement('a'); full.className = 'outline-button'; full.textContent = '全剧 · 法语字幕 ↗'; full.href = song.fullPerformanceURL; full.target = '_blank'; full.rel = 'noopener noreferrer';
+      const upload = document.createElement('button'); upload.className = 'outline-button'; upload.textContent = '导入本曲字幕'; upload.onclick = () => $('caption-file').click();
+      actions.append(play, full, upload); state.append(icon, heading, original, info, actions); $('lyrics').append(state);
+      $('current-line').textContent = '原唱播放'; return;
+    }
     const status = song.captionStatus || 'pending';
     const title = status === 'unavailable' ? '这个视频暂无可用字幕' : status === 'error' ? '这次没能读取 YouTube 字幕' : '先听原唱，再开启逐句学习';
     const state = document.createElement('div'); state.className = 'empty-state';
@@ -194,6 +207,10 @@ function renderInfo() {
   $('caption-badge').textContent = song.captionSource === 'local' ? '本地导入字幕' : cues.length ? (song.isGenerated ? 'YouTube 自动字幕' : 'YouTube 字幕') : song.captionStatus === 'pending' ? '字幕待读取' : '字幕不可用';
   const translated = cues.some(c => c.translation);
   $('source-note').textContent = song.captionSource === 'local' ? '你导入的字幕仅用于当前页面，不会上传。请使用对应视频的 YouTube 字幕。' : `字幕与时间戳来自 YouTube${song.isGenerated ? ' 自动字幕' : ''}。${translated ? `译文来自 YouTube（${languageName(song.translationLanguage || 'en')}）。` : '当前没有可用译文。'}${song.fetchedAt ? ` 更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
+  if (song.captionSource === 'youtube-player') {
+    $('language-label').textContent = '法语'; $('caption-badge').textContent = '1998 原卡司';
+    $('source-note').textContent = song.mediaKind === 'audio' ? '本曲使用原版 DVD 的音轨视频。全剧录像另有人工法语字幕，可在 YouTube 中开启。' : '本曲使用法语原卡司舞台视频。全剧录像另有人工法语字幕，可在 YouTube 中开启。';
+  }
   if (song.studyNotes && cues.some(c => c.ipa)) {
     const reviewed = song.studyNotes.textSource === 'youtube-video-description' || song.studyNotes.textReviewStatus === 'cross-checked';
     $('caption-badge').textContent = song.timingReviewStatus === 'approximate' ? '校正歌词 · 近似时间轴' : reviewed ? 'YouTube 时间轴 · 校正歌词' : 'YouTube 自动字幕 · 参考注释';

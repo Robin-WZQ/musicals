@@ -158,6 +158,11 @@ def ingest(vid, language, translation, proxy=None):
     path = ROOT / 'data' / 'songs' / f'{vid}.json'
     previous = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
     meta, info = metadata(vid, session, proxy)
+    if previous.get('lyricsStorage') == 'external':
+        data = {**previous, **meta, 'lastAttemptAt': datetime.now(timezone.utc).isoformat()}
+        path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+        print(f'{vid}: metadata refreshed; captions stay in the YouTube player', flush=True)
+        return
     captions = fetch_captions(vid, language, translation, session, info)
     if previous.get('musicalId') == 'le-rouge-et-le-noir' and captions.get('captionStatus') == 'ready' and captions.get('captionLanguage', '').split('-')[0] != 'fr':
         # Some playlist videos contain French singing that YouTube misdetects

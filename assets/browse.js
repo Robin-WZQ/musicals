@@ -1,5 +1,5 @@
-import { musicalURL, learningURL, tracksFor, statusLabel } from './library.mjs?v=20261004-7';
-import { fetchData } from './data.mjs?v=20261004-7';
+import { musicalURL, learningURL, tracksFor, statusLabel } from './library.mjs?v=20261004-8';
+import { fetchData } from './data.mjs?v=20261004-8';
 const $ = id => document.getElementById(id);
 const node = (tag, cls, text) => { const el = document.createElement(tag); if (cls) el.className = cls; if (text) el.textContent = text; return el; };
 async function json(url) { const response = await fetchData(url); if (!response.ok) throw new Error('曲目库暂时无法读取，请刷新重试。'); return response.json(); }
@@ -25,9 +25,11 @@ if (document.body.dataset.view === 'gallery' && old.searchParams.has('v')) {
       document.title = `${musical.titleZh} · Musicals`;
       $('album-cover').src = musical.cover; $('album-cover').alt = `${musical.titleZh}专辑封面`;
       $('album-title').textContent = musical.titleZh; $('album-original').textContent = musical.titleOriginal;
-      $('album-meta').textContent = `${musical.languageShort}　${musical.year}　${musical.country}　摇滚音乐剧`;
+      $('album-meta').textContent = `${musical.languageShort}　${musical.year}　${musical.country}　${musical.genreZh || '摇滚音乐剧'}`;
       $('album-summary').textContent = musical.summary; $('album-background').textContent = musical.background;
       $('playlist-source').href = musical.playlistURL; $('art-source').href = musical.coverSource;
+      if (musical.playlistLabel) $('playlist-source').textContent = `${musical.playlistLabel} ↗`;
+      if (musical.fullPerformanceURL) { $('full-performance').href = musical.fullPerformanceURL; $('full-performance').hidden = false; }
       const tracks = tracksFor(musical, catalog);
       const ready = tracks.filter(t => t.captionStatus === 'ready').length;
       $('track-count').textContent = `${tracks.length} 首曲目 · ${ready} 首可逐句学习`;
@@ -37,14 +39,19 @@ if (document.body.dataset.view === 'gallery' && old.searchParams.has('v')) {
       function render() {
         const query = $('track-search').value.trim().toLocaleLowerCase(); const readyOnly = $('ready-only').checked;
           const shown = tracks.filter(t => (!readyOnly || t.captionStatus === 'ready') && `${t.titleZh} ${t.titleOriginal} ${t.title} ${(t.aliases || []).join(' ')}`.toLocaleLowerCase().includes(query));
-        $('track-list').replaceChildren(...shown.map(track => {
+        const elements = []; let act = null;
+        for (const track of shown) {
+          if (track.act && track.act !== act) {
+            act = track.act; elements.push(node('h3', 'act-heading', act === 1 ? '第一幕' : '第二幕'));
+          }
           const link = node('a', 'track-row'); link.href = learningURL(track.id);
           link.append(node('span', 'track-number', String(track.trackNumber).padStart(2, '0')));
           const name = node('div', 'track-name'); name.append(node('h3', '', track.titleZh), node('span', '', track.titleOriginal || '播放列表原曲')); link.append(name);
           const state = node('span', `track-state ${track.captionStatus === 'ready' ? 'ready' : 'pending'}`, statusLabel(track));
           const duration = node('span', 'track-duration', `${Math.floor(track.duration / 60)}:${String(track.duration % 60).padStart(2, '0')}`);
-          link.append(state, duration, node('span', 'track-arrow', saved.includes(track.id) ? '★ →' : '→')); return link;
-        }));
+          link.append(state, duration, node('span', 'track-arrow', saved.includes(track.id) ? '★ →' : '→')); elements.push(link);
+        }
+        $('track-list').replaceChildren(...elements);
         $('search-empty').hidden = Boolean(shown.length);
       }
       $('track-search').addEventListener('input', render); $('ready-only').addEventListener('change', render); render();

@@ -1,6 +1,9 @@
 import unittest
 import importlib.util
+import json
+import tempfile
 from pathlib import Path
+from unittest.mock import patch
 
 spec = importlib.util.spec_from_file_location('ingest', Path(__file__).parents[1] / 'scripts/ingest_youtube.py')
 ingest = importlib.util.module_from_spec(spec)
@@ -30,6 +33,24 @@ class EditorialRefreshTests(unittest.TestCase):
 
     def test_uncorrected_song_can_still_receive_normal_caption_refresh(self):
         self.assertIsNone(ingest.protect_editorial({'captionSource':'youtube'}, {'captionStatus':'ready'}, 'today'))
+
+    def test_external_song_refresh_reads_metadata_without_requesting_or_storing_lyrics(self):
+        with tempfile.TemporaryDirectory(dir=Path(__file__).resolve().parent) as directory:
+            root = Path(directory); path = root / 'data' / 'songs' / 'AAAAAAAAAAA.json'
+            self.assertTrue(root.resolve().is_relative_to(Path(__file__).resolve().parent))
+            path.parent.mkdir(parents=True)
+            previous = {'id':'AAAAAAAAAAA','lyricsStorage':'external','captionSource':'youtube-player',
+                        'captionStatus':'external','playbackVideoId':'BBBBBBBBBBB','cues':[]}
+            path.write_text(json.dumps(previous), encoding='utf-8')
+            with patch.object(ingest, 'ROOT', root), \
+                 patch.object(ingest, 'metadata', return_value=({'title':'Source title'}, {})), \
+                 patch.object(ingest, 'fetch_captions') as captions:
+                ingest.ingest('AAAAAAAAAAA', 'fr', 'zh-Hans')
+            captions.assert_not_called()
+            result = json.loads(path.read_text(encoding='utf-8'))
+            self.assertEqual(result['cues'], [])
+            self.assertEqual(result['captionStatus'], 'external')
+            self.assertEqual(result['playbackVideoId'], 'BBBBBBBBBBB')
 
 if __name__ == '__main__':
     unittest.main()
