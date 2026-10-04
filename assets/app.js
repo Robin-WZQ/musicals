@@ -1,7 +1,7 @@
-import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.mjs?v=20261004-4';
-import { attachStudyNotes } from './study.mjs?v=20261004-4';
-import { musicalURL, learningURL, tracksFor } from './library.mjs?v=20261004-4';
-import { fetchData } from './data.mjs?v=20261004-4';
+import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.mjs?v=20261004-5';
+import { attachStudyNotes } from './study.mjs?v=20261004-5';
+import { musicalURL, learningURL, tracksFor } from './library.mjs?v=20261004-5';
+import { fetchData } from './data.mjs?v=20261004-5';
 
 const $ = id => document.getElementById(id);
 let catalog = [], musicals = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
@@ -58,18 +58,22 @@ function setSpeeds() {
   $('speed').value = speeds.includes(previous) ? previous : 1;
   player.setPlaybackRate(Number($('speed').value));
 }
-function centerLyric(pane, line) {
+function centerLyric(pane, line, atTop = false, instant = false) {
   const paneRect = pane.getBoundingClientRect();
   const lineRect = line.getBoundingClientRect();
   const top = pane.scrollTop + lineRect.top - paneRect.top - pane.clientTop
-    + lineRect.height / 2 - pane.clientHeight / 2;
-  pane.scrollTo({ top, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth' });
+    + (atTop ? 0 : lineRect.height / 2 - pane.clientHeight / 2);
+  pane.scrollTo({ top, behavior: instant || matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth' });
 }
 function resizeLyricSpace() {
   const pane = $('lyrics');
   // Leave enough room to center the first and last lines as well.
   pane.style.paddingBlock = `${pane.clientHeight / 2}px`;
   if (following && active >= 0) updateSelection(active, true);
+  else if (active < 0) {
+    const first = pane.querySelector('.lyric-line');
+    if (first) centerLyric(pane, first, true, true);
+  }
 }
 if ('ResizeObserver' in window) new ResizeObserver(resizeLyricSpace).observe($('lyrics'));
 else window.addEventListener('resize', resizeLyricSpace);
@@ -81,7 +85,7 @@ function updateSelection(index, scroll = false) {
   if (line) {
     line.classList.add('active'); line.setAttribute('aria-current', 'true');
     if (scroll && following) {
-      centerLyric($('lyrics'), line);
+      centerLyric($('lyrics'), line, index === 0);
     }
     $('current-line').textContent = `${index + 1} / ${cues.length} 句`;
   } else $('current-line').textContent = cues.length ? `共 ${cues.length} 句` : '暂无字幕';
@@ -158,7 +162,11 @@ function renderLyrics() {
     } else if (cue.translation) { const translated = document.createElement('span'); translated.className = 'translated'; translated.textContent = cue.translation; line.append(translated); }
     line.onclick = () => playCue(index); fragment.append(line);
   });
-  $('lyrics').append(fragment); $('lyrics').scrollTop = 0; $('current-line').textContent = `共 ${cues.length} 句`;
+  const pane = $('lyrics'); pane.append(fragment);
+  const first = pane.querySelector('.lyric-line');
+  if (first) centerLyric(pane, first, true, true);
+  else pane.scrollTop = 0;
+  $('current-line').textContent = `共 ${cues.length} 句`;
 }
 function studyRow(label, text, className) {
   const row = document.createElement('span'); row.className = `study-row ${className}`;
