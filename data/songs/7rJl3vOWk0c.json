@@ -3,23 +3,147 @@
   "title": "L’attaque de Notre-Dame",
   "titleZh": "进攻圣母院",
   "titleOriginal": "L’attaque de Notre-Dame",
-  "channel": "yenjanw",
-  "duration": 269,
+  "channel": "Music lover🎵",
+  "duration": 270,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 46,
   "act": 2,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=7rJl3vOWk0c",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6990",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "7rJl3vOWk0c",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 6990,
+    "end": 7260,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 6996,
+      "duration": 8
+    },
+    {
+      "start": 7004,
+      "duration": 6
+    },
+    {
+      "start": 7010,
+      "duration": 9
+    },
+    {
+      "start": 7019,
+      "duration": 12
+    },
+    {
+      "start": 7031,
+      "duration": 14
+    },
+    {
+      "start": 7045,
+      "duration": 8
+    },
+    {
+      "start": 7053,
+      "duration": 6
+    },
+    {
+      "start": 7059,
+      "duration": 9
+    },
+    {
+      "start": 7068,
+      "duration": 6
+    },
+    {
+      "start": 7074,
+      "duration": 9
+    },
+    {
+      "start": 7083,
+      "duration": 6
+    },
+    {
+      "start": 7089,
+      "duration": 8
+    },
+    {
+      "start": 7097,
+      "duration": 6
+    },
+    {
+      "start": 7103,
+      "duration": 9
+    },
+    {
+      "start": 7112,
+      "duration": 5
+    },
+    {
+      "start": 7117,
+      "duration": 9
+    },
+    {
+      "start": 7126,
+      "duration": 14
+    },
+    {
+      "start": 7140,
+      "duration": 9
+    },
+    {
+      "start": 7149,
+      "duration": 9
+    },
+    {
+      "start": 7158,
+      "duration": 9
+    },
+    {
+      "start": 7167,
+      "duration": 30
+    },
+    {
+      "start": 7197,
+      "duration": 10
+    },
+    {
+      "start": 7207,
+      "duration": 9
+    },
+    {
+      "start": 7216,
+      "duration": 9
+    },
+    {
+      "start": 7225,
+      "duration": 8
+    },
+    {
+      "start": 7233,
+      "duration": 10
+    },
+    {
+      "start": 7243,
+      "duration": 17
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

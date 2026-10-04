@@ -3,23 +3,79 @@
   "title": "Esmeralda tu sais",
   "titleZh": "艾丝美拉达，你知道吗",
   "titleOriginal": "Esmeralda tu sais",
-  "channel": "yenjanw",
-  "duration": 107,
+  "channel": "Music lover🎵",
+  "duration": 105,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 5,
   "act": 1,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=Wv5XYnp1a1w",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=840",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "Wv5XYnp1a1w",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 840,
+    "end": 945,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 843,
+      "duration": 8
+    },
+    {
+      "start": 851,
+      "duration": 9
+    },
+    {
+      "start": 860,
+      "duration": 10
+    },
+    {
+      "start": 870,
+      "duration": 11
+    },
+    {
+      "start": 881,
+      "duration": 9
+    },
+    {
+      "start": 890,
+      "duration": 9
+    },
+    {
+      "start": 899,
+      "duration": 11
+    },
+    {
+      "start": 910,
+      "duration": 9
+    },
+    {
+      "start": 919,
+      "duration": 9
+    },
+    {
+      "start": 928,
+      "duration": 17
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

@@ -3,23 +3,115 @@
   "title": "Condamnés",
   "titleZh": "被判罪的人",
   "titleOriginal": "Condamnés",
-  "channel": "yenjanw",
+  "channel": "Music lover🎵",
   "duration": 174,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 32,
   "act": 2,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "http://lang-zi.blog.ntu.edu.tw/ \r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=7zn868TAHG8",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5047",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "7zn868TAHG8",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 5047,
+    "end": 5221,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 5057,
+      "duration": 8
+    },
+    {
+      "start": 5065,
+      "duration": 8
+    },
+    {
+      "start": 5073,
+      "duration": 9
+    },
+    {
+      "start": 5082,
+      "duration": 10
+    },
+    {
+      "start": 5092,
+      "duration": 7
+    },
+    {
+      "start": 5099,
+      "duration": 7
+    },
+    {
+      "start": 5106,
+      "duration": 6
+    },
+    {
+      "start": 5112,
+      "duration": 8
+    },
+    {
+      "start": 5120,
+      "duration": 8
+    },
+    {
+      "start": 5128,
+      "duration": 9
+    },
+    {
+      "start": 5137,
+      "duration": 8
+    },
+    {
+      "start": 5145,
+      "duration": 9
+    },
+    {
+      "start": 5154,
+      "duration": 7
+    },
+    {
+      "start": 5161,
+      "duration": 6
+    },
+    {
+      "start": 5167,
+      "duration": 12
+    },
+    {
+      "start": 5179,
+      "duration": 8
+    },
+    {
+      "start": 5187,
+      "duration": 8
+    },
+    {
+      "start": 5195,
+      "duration": 7
+    },
+    {
+      "start": 5202,
+      "duration": 19
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

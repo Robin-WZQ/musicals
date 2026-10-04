@@ -3,23 +3,107 @@
   "title": "Un matin tu dansais",
   "titleZh": "那天清晨你在跳舞",
   "titleOriginal": "Un matin tu dansais",
-  "channel": "yenjanw",
-  "duration": 157,
+  "channel": "Music lover🎵",
+  "duration": 158,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 40,
   "act": 2,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=_2RUBc5mHvg",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6001",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "_2RUBc5mHvg",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 6001,
+    "end": 6159,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 6003,
+      "duration": 8
+    },
+    {
+      "start": 6011,
+      "duration": 8
+    },
+    {
+      "start": 6019,
+      "duration": 12
+    },
+    {
+      "start": 6031,
+      "duration": 9
+    },
+    {
+      "start": 6040,
+      "duration": 9
+    },
+    {
+      "start": 6049,
+      "duration": 8
+    },
+    {
+      "start": 6057,
+      "duration": 8
+    },
+    {
+      "start": 6065,
+      "duration": 12
+    },
+    {
+      "start": 6077,
+      "duration": 9
+    },
+    {
+      "start": 6086,
+      "duration": 9
+    },
+    {
+      "start": 6095,
+      "duration": 8
+    },
+    {
+      "start": 6103,
+      "duration": 8
+    },
+    {
+      "start": 6111,
+      "duration": 11
+    },
+    {
+      "start": 6122,
+      "duration": 10
+    },
+    {
+      "start": 6132,
+      "duration": 13
+    },
+    {
+      "start": 6145,
+      "duration": 8
+    },
+    {
+      "start": 6153,
+      "duration": 6
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

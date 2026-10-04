@@ -3,23 +3,163 @@
   "title": "La cour des miracles",
   "titleZh": "奇迹宫",
   "titleOriginal": "La cour des miracles",
-  "channel": "yenjanw",
+  "channel": "Music lover🎵",
   "duration": 313,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 13,
   "act": 1,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=pJo-awLOSKw",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=1880",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "pJo-awLOSKw",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 1880,
+    "end": 2193,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 1900,
+      "duration": 11
+    },
+    {
+      "start": 1911,
+      "duration": 8
+    },
+    {
+      "start": 1919,
+      "duration": 9
+    },
+    {
+      "start": 1928,
+      "duration": 9
+    },
+    {
+      "start": 1937,
+      "duration": 10
+    },
+    {
+      "start": 1947,
+      "duration": 7
+    },
+    {
+      "start": 1954,
+      "duration": 11
+    },
+    {
+      "start": 1965,
+      "duration": 9
+    },
+    {
+      "start": 1974,
+      "duration": 8
+    },
+    {
+      "start": 1982,
+      "duration": 9
+    },
+    {
+      "start": 1991,
+      "duration": 9
+    },
+    {
+      "start": 2000,
+      "duration": 10
+    },
+    {
+      "start": 2010,
+      "duration": 9
+    },
+    {
+      "start": 2019,
+      "duration": 9
+    },
+    {
+      "start": 2028,
+      "duration": 10
+    },
+    {
+      "start": 2038,
+      "duration": 11
+    },
+    {
+      "start": 2049,
+      "duration": 14
+    },
+    {
+      "start": 2063,
+      "duration": 9
+    },
+    {
+      "start": 2072,
+      "duration": 5
+    },
+    {
+      "start": 2077,
+      "duration": 6
+    },
+    {
+      "start": 2083,
+      "duration": 12
+    },
+    {
+      "start": 2095,
+      "duration": 9
+    },
+    {
+      "start": 2104,
+      "duration": 9
+    },
+    {
+      "start": 2113,
+      "duration": 6
+    },
+    {
+      "start": 2119,
+      "duration": 8
+    },
+    {
+      "start": 2127,
+      "duration": 8
+    },
+    {
+      "start": 2135,
+      "duration": 9
+    },
+    {
+      "start": 2144,
+      "duration": 6
+    },
+    {
+      "start": 2150,
+      "duration": 11
+    },
+    {
+      "start": 2161,
+      "duration": 12
+    },
+    {
+      "start": 2173,
+      "duration": 20
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

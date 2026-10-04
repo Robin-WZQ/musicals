@@ -3,23 +3,75 @@
   "title": "L’ombre",
   "titleZh": "影子",
   "titleOriginal": "L’ombre",
-  "channel": "yenjanw",
-  "duration": 90,
+  "channel": "Music lover🎵",
+  "duration": 89,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 24,
   "act": 1,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=89CZRWrqH3Y",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=3628",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "89CZRWrqH3Y",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 3628,
+    "end": 3717,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 3637,
+      "duration": 11
+    },
+    {
+      "start": 3648,
+      "duration": 13
+    },
+    {
+      "start": 3661,
+      "duration": 8
+    },
+    {
+      "start": 3669,
+      "duration": 6
+    },
+    {
+      "start": 3675,
+      "duration": 8
+    },
+    {
+      "start": 3683,
+      "duration": 8
+    },
+    {
+      "start": 3691,
+      "duration": 8
+    },
+    {
+      "start": 3699,
+      "duration": 10
+    },
+    {
+      "start": 3709,
+      "duration": 8
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

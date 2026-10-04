@@ -3,23 +3,103 @@
   "title": "Le pape des fous",
   "titleZh": "愚人教皇",
   "titleOriginal": "Le pape des fous",
-  "channel": "yenjanw",
+  "channel": "Music lover🎵",
   "duration": 174,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 8,
   "act": 1,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=ZC_RH5leYfQ",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=1298",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "ZC_RH5leYfQ",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 1298,
+    "end": 1472,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 1302,
+      "duration": 11
+    },
+    {
+      "start": 1313,
+      "duration": 12
+    },
+    {
+      "start": 1325,
+      "duration": 10
+    },
+    {
+      "start": 1335,
+      "duration": 10
+    },
+    {
+      "start": 1345,
+      "duration": 11
+    },
+    {
+      "start": 1356,
+      "duration": 12
+    },
+    {
+      "start": 1368,
+      "duration": 9
+    },
+    {
+      "start": 1377,
+      "duration": 9
+    },
+    {
+      "start": 1386,
+      "duration": 6
+    },
+    {
+      "start": 1392,
+      "duration": 10
+    },
+    {
+      "start": 1402,
+      "duration": 16
+    },
+    {
+      "start": 1418,
+      "duration": 12
+    },
+    {
+      "start": 1430,
+      "duration": 11
+    },
+    {
+      "start": 1441,
+      "duration": 11
+    },
+    {
+      "start": 1452,
+      "duration": 6
+    },
+    {
+      "start": 1458,
+      "duration": 14
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

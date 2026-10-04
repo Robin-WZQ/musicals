@@ -3,23 +3,159 @@
   "title": "Belle",
   "titleZh": "美人",
   "titleOriginal": "Belle",
-  "channel": "yenjanw",
-  "duration": 292,
+  "channel": "Music lover🎵",
+  "duration": 293,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 19,
   "act": 1,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=MCprmXOuQf4",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=2733",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "MCprmXOuQf4",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 2733,
+    "end": 3026,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 2746,
+      "duration": 7
+    },
+    {
+      "start": 2753,
+      "duration": 7
+    },
+    {
+      "start": 2760,
+      "duration": 11
+    },
+    {
+      "start": 2771,
+      "duration": 11
+    },
+    {
+      "start": 2782,
+      "duration": 8
+    },
+    {
+      "start": 2790,
+      "duration": 6
+    },
+    {
+      "start": 2796,
+      "duration": 5
+    },
+    {
+      "start": 2801,
+      "duration": 16
+    },
+    {
+      "start": 2817,
+      "duration": 8
+    },
+    {
+      "start": 2825,
+      "duration": 12
+    },
+    {
+      "start": 2837,
+      "duration": 5
+    },
+    {
+      "start": 2842,
+      "duration": 12
+    },
+    {
+      "start": 2854,
+      "duration": 7
+    },
+    {
+      "start": 2861,
+      "duration": 6
+    },
+    {
+      "start": 2867,
+      "duration": 6
+    },
+    {
+      "start": 2873,
+      "duration": 16
+    },
+    {
+      "start": 2889,
+      "duration": 13
+    },
+    {
+      "start": 2902,
+      "duration": 6
+    },
+    {
+      "start": 2908,
+      "duration": 6
+    },
+    {
+      "start": 2914,
+      "duration": 6
+    },
+    {
+      "start": 2920,
+      "duration": 7
+    },
+    {
+      "start": 2927,
+      "duration": 12
+    },
+    {
+      "start": 2939,
+      "duration": 6
+    },
+    {
+      "start": 2945,
+      "duration": 18
+    },
+    {
+      "start": 2963,
+      "duration": 11
+    },
+    {
+      "start": 2974,
+      "duration": 8
+    },
+    {
+      "start": 2982,
+      "duration": 5
+    },
+    {
+      "start": 2987,
+      "duration": 6
+    },
+    {
+      "start": 2993,
+      "duration": 10
+    },
+    {
+      "start": 3003,
+      "duration": 23
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

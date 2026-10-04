@@ -3,23 +3,91 @@
   "title": "Ces diamants-là",
   "titleZh": "钻石般的眼眸",
   "titleOriginal": "Ces diamants-là",
-  "channel": "yenjanw",
-  "duration": 121,
+  "channel": "Music lover🎵",
+  "duration": 119,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 6,
   "act": 1,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=hVLX6kf5T68",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=945",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "hVLX6kf5T68",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 945,
+    "end": 1064,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 952,
+      "duration": 8
+    },
+    {
+      "start": 960,
+      "duration": 7
+    },
+    {
+      "start": 967,
+      "duration": 7
+    },
+    {
+      "start": 974,
+      "duration": 10
+    },
+    {
+      "start": 984,
+      "duration": 9
+    },
+    {
+      "start": 993,
+      "duration": 12
+    },
+    {
+      "start": 1005,
+      "duration": 8
+    },
+    {
+      "start": 1013,
+      "duration": 7
+    },
+    {
+      "start": 1020,
+      "duration": 7
+    },
+    {
+      "start": 1027,
+      "duration": 17
+    },
+    {
+      "start": 1044,
+      "duration": 7
+    },
+    {
+      "start": 1051,
+      "duration": 8
+    },
+    {
+      "start": 1059,
+      "duration": 5
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

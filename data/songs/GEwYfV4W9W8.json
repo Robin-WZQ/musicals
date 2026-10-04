@@ -3,23 +3,127 @@
   "title": "Ave Maria païen",
   "titleZh": "异教徒的圣母颂",
   "titleOriginal": "Ave Maria païen",
-  "channel": "yenjanw",
-  "duration": 214,
+  "channel": "Music lover🎵",
+  "duration": 217,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 21,
   "act": 1,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=GEwYfV4W9W8",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=3213",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "GEwYfV4W9W8",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 3213,
+    "end": 3430,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 3220,
+      "duration": 8
+    },
+    {
+      "start": 3228,
+      "duration": 9
+    },
+    {
+      "start": 3237,
+      "duration": 8
+    },
+    {
+      "start": 3245,
+      "duration": 7
+    },
+    {
+      "start": 3252,
+      "duration": 10
+    },
+    {
+      "start": 3262,
+      "duration": 9
+    },
+    {
+      "start": 3271,
+      "duration": 7
+    },
+    {
+      "start": 3278,
+      "duration": 9
+    },
+    {
+      "start": 3287,
+      "duration": 13
+    },
+    {
+      "start": 3300,
+      "duration": 7
+    },
+    {
+      "start": 3307,
+      "duration": 11
+    },
+    {
+      "start": 3318,
+      "duration": 8
+    },
+    {
+      "start": 3326,
+      "duration": 7
+    },
+    {
+      "start": 3333,
+      "duration": 9
+    },
+    {
+      "start": 3342,
+      "duration": 13
+    },
+    {
+      "start": 3355,
+      "duration": 7
+    },
+    {
+      "start": 3362,
+      "duration": 10
+    },
+    {
+      "start": 3372,
+      "duration": 9
+    },
+    {
+      "start": 3381,
+      "duration": 7
+    },
+    {
+      "start": 3388,
+      "duration": 10
+    },
+    {
+      "start": 3398,
+      "duration": 31
+    },
+    {
+      "start": 3429,
+      "duration": 1
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

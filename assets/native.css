@@ -1,0 +1,20 @@
+.native-sidebar-placeholder{display:none;position:relative;aspect-ratio:16/9;min-height:200px;flex:none;background:#02090d;overflow:hidden}
+.native-stage-open .native-sidebar-placeholder{display:grid;place-items:center}
+.native-sidebar-placeholder img{position:absolute;inset:0;object-fit:cover;width:100%;height:100%;opacity:.35}
+.native-sidebar-placeholder button{position:relative;padding:10px 15px;border:1px solid #406672;background:#102e39e8;border-radius:8px;font-size:14px}
+.native-pane{padding:0 20px!important;overflow:hidden}
+.native-pane::before,.native-pane::after{display:none}
+.native-session{height:100%;display:flex;flex-direction:column;min-height:0}
+.native-actions{display:flex;align-items:center;flex-wrap:wrap;gap:10px;flex:none;padding:10px 0;color:#90c7d4;font-size:14px}
+.native-actions>span{margin-right:auto}
+#native-video-stage{flex:none;min-height:200px;background:#02090d}
+.native-hint{font-size:13px;color:#8ba8b8;line-height:1.65;margin:8px 0;flex:none}
+.native-caption-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(105px,1fr));gap:7px;overflow:auto;min-height:0;flex:1;scrollbar-width:thin;scrollbar-color:#345764 transparent;overflow-anchor:none}
+.native-caption-list::before,.native-caption-list::after{content:'';display:block;grid-column:1/-1;height:var(--native-edge-space,0px)}
+.native-cue.lyric-line{padding:10px 8px;margin:0;text-align:center;border:1px solid #294451;border-radius:7px;max-width:none;transition:background .15s}
+.native-cue-label{display:block;color:#cee4e8;font-size:14px;line-height:1.5}
+.native-cue-time{display:block;font-size:12px;color:#819eaf;margin-top:5px;font-variant-numeric:tabular-nums}
+.native-cue.active{border-color:#29bea8;background:#173f40}
+.native-cue.active .native-cue-time{color:#6ce0d1}
+@media(max-width:720px){.native-pane{padding:0 18px!important}.native-actions{font-size:13px}.native-hint{font-size:13px}.native-caption-list{grid-template-columns:repeat(auto-fill,minmax(95px,1fr))}}
+@media(min-width:721px) and (max-height:480px){.native-actions{padding:0}.native-actions>span,.native-hint{display:none}}

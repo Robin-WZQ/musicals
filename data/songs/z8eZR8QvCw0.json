@@ -3,25 +3,67 @@
   "title": "La torture",
   "titleZh": "酷刑",
   "titleOriginal": "La torture",
-  "channel": "Notre-Dame",
-  "duration": 69,
+  "channel": "Music lover🎵",
+  "duration": 68,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 34,
   "act": 2,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UCfUaw6BjQegNHLRa0-o5W-Q",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "Notre-Dame de Paris (DVD - ONLY AUDIO)",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=SxYNkMYEJN8",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5312",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
   "playableInEmbed": true,
-  "playbackVideoId": "SxYNkMYEJN8",
-  "mediaKind": "audio"
+  "playbackVideoId": "3AnTqOIgPr0",
+  "mediaKind": "stage-video",
+  "alternateVideoId": "SxYNkMYEJN8",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 5312,
+    "end": 5380,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 5319,
+      "duration": 10
+    },
+    {
+      "start": 5329,
+      "duration": 7
+    },
+    {
+      "start": 5336,
+      "duration": 12
+    },
+    {
+      "start": 5348,
+      "duration": 15
+    },
+    {
+      "start": 5363,
+      "duration": 7
+    },
+    {
+      "start": 5370,
+      "duration": 9
+    },
+    {
+      "start": 5379,
+      "duration": 1
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps"
 }

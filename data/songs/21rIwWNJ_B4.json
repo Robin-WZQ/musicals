@@ -3,23 +3,55 @@
   "title": "Je te laisse un sifflet",
   "titleZh": "留给你一只哨子",
   "titleOriginal": "Je te laisse un sifflet",
-  "channel": "yenjanw",
-  "duration": 40,
+  "channel": "Music lover🎵",
+  "duration": 42,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 43,
   "act": 2,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=21rIwWNJ_B4",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6500",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "21rIwWNJ_B4",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 6500,
+    "end": 6542,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 6502,
+      "duration": 9
+    },
+    {
+      "start": 6511,
+      "duration": 9
+    },
+    {
+      "start": 6520,
+      "duration": 8
+    },
+    {
+      "start": 6528,
+      "duration": 14
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

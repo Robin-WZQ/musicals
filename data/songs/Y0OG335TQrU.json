@@ -3,23 +3,87 @@
   "title": "Beau comme le soleil",
   "titleZh": "如太阳般英俊",
   "titleOriginal": "Beau comme le soleil",
-  "channel": "yenjanw",
+  "channel": "Music lover🎵",
   "duration": 122,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 15,
   "act": 1,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=Y0OG335TQrU",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=2253",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "Y0OG335TQrU",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 2253,
+    "end": 2375,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 2262,
+      "duration": 9
+    },
+    {
+      "start": 2271,
+      "duration": 9
+    },
+    {
+      "start": 2280,
+      "duration": 9
+    },
+    {
+      "start": 2289,
+      "duration": 8
+    },
+    {
+      "start": 2297,
+      "duration": 9
+    },
+    {
+      "start": 2306,
+      "duration": 10
+    },
+    {
+      "start": 2316,
+      "duration": 9
+    },
+    {
+      "start": 2325,
+      "duration": 8
+    },
+    {
+      "start": 2333,
+      "duration": 9
+    },
+    {
+      "start": 2342,
+      "duration": 9
+    },
+    {
+      "start": 2351,
+      "duration": 9
+    },
+    {
+      "start": 2360,
+      "duration": 15
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

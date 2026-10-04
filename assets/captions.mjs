@@ -22,7 +22,8 @@ function clean(text) {
 }
 
 export function normalizeCues(cues) {
-  const rows = cues.map(c => ({ start: Number(c.start), duration: Number(c.duration), text: clean(c.text), translation: clean(c.translation || '') }))
+  const rows = cues.map(c => ({ start: Number(c.start), duration: Number(c.duration), text: clean(c.text), translation: clean(c.translation || ''),
+    ...(c.ipa && c.ear && (c.studyMeaning || c.meaning) ? {ipa:clean(c.ipa),ear:clean(c.ear),studyMeaning:clean(c.studyMeaning || c.meaning)} : {}) }))
     .filter(c => Number.isFinite(c.start) && c.start >= 0 && Number.isFinite(c.duration) && c.duration > 0 && c.text)
     .sort((a, b) => a.start - b.start);
   const unique = [];

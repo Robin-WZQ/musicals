@@ -3,23 +3,75 @@
   "title": "Phoebus",
   "titleZh": "菲比斯",
   "titleOriginal": "Phoebus",
-  "channel": "yenjanw",
+  "channel": "Music lover🎵",
   "duration": 99,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 35,
   "act": 2,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=3BlxDHq69C0",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5380",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "3BlxDHq69C0",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 5380,
+    "end": 5479,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 5388,
+      "duration": 8
+    },
+    {
+      "start": 5396,
+      "duration": 9
+    },
+    {
+      "start": 5405,
+      "duration": 9
+    },
+    {
+      "start": 5414,
+      "duration": 8
+    },
+    {
+      "start": 5422,
+      "duration": 10
+    },
+    {
+      "start": 5432,
+      "duration": 9
+    },
+    {
+      "start": 5441,
+      "duration": 9
+    },
+    {
+      "start": 5450,
+      "duration": 9
+    },
+    {
+      "start": 5459,
+      "duration": 20
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

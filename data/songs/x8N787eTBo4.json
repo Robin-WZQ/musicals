@@ -3,23 +3,91 @@
   "title": "Libérés",
   "titleZh": "自由了",
   "titleOriginal": "Libérés",
-  "channel": "yenjanw",
-  "duration": 151,
+  "channel": "Music lover🎵",
+  "duration": 149,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 41,
   "act": 2,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=x8N787eTBo4",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6159",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "x8N787eTBo4",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 6159,
+    "end": 6308,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 6181,
+      "duration": 8
+    },
+    {
+      "start": 6189,
+      "duration": 9
+    },
+    {
+      "start": 6198,
+      "duration": 7
+    },
+    {
+      "start": 6205,
+      "duration": 9
+    },
+    {
+      "start": 6214,
+      "duration": 8
+    },
+    {
+      "start": 6222,
+      "duration": 8
+    },
+    {
+      "start": 6230,
+      "duration": 11
+    },
+    {
+      "start": 6241,
+      "duration": 5
+    },
+    {
+      "start": 6246,
+      "duration": 11
+    },
+    {
+      "start": 6257,
+      "duration": 11
+    },
+    {
+      "start": 6268,
+      "duration": 8
+    },
+    {
+      "start": 6276,
+      "duration": 17
+    },
+    {
+      "start": 6293,
+      "duration": 15
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

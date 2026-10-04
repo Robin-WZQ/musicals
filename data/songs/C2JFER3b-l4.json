@@ -3,23 +3,107 @@
   "title": "Les oiseaux qu’on met en cage",
   "titleZh": "笼中鸟",
   "titleOriginal": "Les oiseaux qu’on met en cage",
-  "channel": "yenjanw",
-  "duration": 189,
+  "channel": "Music lover🎵",
+  "duration": 190,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 31,
   "act": 2,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=C2JFER3b-l4",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=4857",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "C2JFER3b-l4",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 4857,
+    "end": 5047,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 4866,
+      "duration": 9
+    },
+    {
+      "start": 4875,
+      "duration": 9
+    },
+    {
+      "start": 4884,
+      "duration": 9
+    },
+    {
+      "start": 4893,
+      "duration": 14
+    },
+    {
+      "start": 4907,
+      "duration": 9
+    },
+    {
+      "start": 4916,
+      "duration": 12
+    },
+    {
+      "start": 4928,
+      "duration": 9
+    },
+    {
+      "start": 4937,
+      "duration": 9
+    },
+    {
+      "start": 4946,
+      "duration": 9
+    },
+    {
+      "start": 4955,
+      "duration": 9
+    },
+    {
+      "start": 4964,
+      "duration": 9
+    },
+    {
+      "start": 4973,
+      "duration": 10
+    },
+    {
+      "start": 4983,
+      "duration": 8
+    },
+    {
+      "start": 4991,
+      "duration": 10
+    },
+    {
+      "start": 5001,
+      "duration": 9
+    },
+    {
+      "start": 5010,
+      "duration": 16
+    },
+    {
+      "start": 5026,
+      "duration": 21
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

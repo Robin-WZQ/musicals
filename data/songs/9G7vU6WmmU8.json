@@ -3,23 +3,183 @@
   "title": "Les cloches",
   "titleZh": "钟声",
   "titleOriginal": "Les cloches",
-  "channel": "yenjanw",
-  "duration": 284,
+  "channel": "Music lover🎵",
+  "duration": 338,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 29,
   "act": 2,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=9G7vU6WmmU8",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=4358",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "9G7vU6WmmU8",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 4358,
+    "end": 4696,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 4358,
+      "duration": 9
+    },
+    {
+      "start": 4367,
+      "duration": 11
+    },
+    {
+      "start": 4378,
+      "duration": 9
+    },
+    {
+      "start": 4387,
+      "duration": 8
+    },
+    {
+      "start": 4395,
+      "duration": 20
+    },
+    {
+      "start": 4415,
+      "duration": 7
+    },
+    {
+      "start": 4422,
+      "duration": 7
+    },
+    {
+      "start": 4429,
+      "duration": 7
+    },
+    {
+      "start": 4436,
+      "duration": 7
+    },
+    {
+      "start": 4443,
+      "duration": 7
+    },
+    {
+      "start": 4450,
+      "duration": 7
+    },
+    {
+      "start": 4457,
+      "duration": 7
+    },
+    {
+      "start": 4464,
+      "duration": 22
+    },
+    {
+      "start": 4486,
+      "duration": 9
+    },
+    {
+      "start": 4495,
+      "duration": 8
+    },
+    {
+      "start": 4503,
+      "duration": 8
+    },
+    {
+      "start": 4511,
+      "duration": 7
+    },
+    {
+      "start": 4518,
+      "duration": 7
+    },
+    {
+      "start": 4525,
+      "duration": 7
+    },
+    {
+      "start": 4532,
+      "duration": 7
+    },
+    {
+      "start": 4539,
+      "duration": 9
+    },
+    {
+      "start": 4548,
+      "duration": 8
+    },
+    {
+      "start": 4556,
+      "duration": 10
+    },
+    {
+      "start": 4566,
+      "duration": 8
+    },
+    {
+      "start": 4574,
+      "duration": 8
+    },
+    {
+      "start": 4582,
+      "duration": 8
+    },
+    {
+      "start": 4590,
+      "duration": 11
+    },
+    {
+      "start": 4601,
+      "duration": 7
+    },
+    {
+      "start": 4608,
+      "duration": 7
+    },
+    {
+      "start": 4615,
+      "duration": 7
+    },
+    {
+      "start": 4622,
+      "duration": 24
+    },
+    {
+      "start": 4646,
+      "duration": 7
+    },
+    {
+      "start": 4653,
+      "duration": 8
+    },
+    {
+      "start": 4661,
+      "duration": 6
+    },
+    {
+      "start": 4667,
+      "duration": 9
+    },
+    {
+      "start": 4676,
+      "duration": 20
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

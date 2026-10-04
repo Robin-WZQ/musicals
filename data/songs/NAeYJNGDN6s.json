@@ -3,23 +3,107 @@
   "title": "Tu vas me détruire",
   "titleZh": "你会毁了我",
   "titleOriginal": "Tu vas me détruire",
-  "channel": "yenjanw",
-  "duration": 169,
+  "channel": "Music lover🎵",
+  "duration": 177,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 23,
   "act": 1,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=NAeYJNGDN6s",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=3451",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "NAeYJNGDN6s",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 3451,
+    "end": 3628,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 3459,
+      "duration": 10
+    },
+    {
+      "start": 3469,
+      "duration": 9
+    },
+    {
+      "start": 3478,
+      "duration": 9
+    },
+    {
+      "start": 3487,
+      "duration": 8
+    },
+    {
+      "start": 3495,
+      "duration": 11
+    },
+    {
+      "start": 3506,
+      "duration": 8
+    },
+    {
+      "start": 3514,
+      "duration": 9
+    },
+    {
+      "start": 3523,
+      "duration": 9
+    },
+    {
+      "start": 3532,
+      "duration": 8
+    },
+    {
+      "start": 3540,
+      "duration": 19
+    },
+    {
+      "start": 3559,
+      "duration": 9
+    },
+    {
+      "start": 3568,
+      "duration": 9
+    },
+    {
+      "start": 3577,
+      "duration": 9
+    },
+    {
+      "start": 3586,
+      "duration": 8
+    },
+    {
+      "start": 3594,
+      "duration": 13
+    },
+    {
+      "start": 3607,
+      "duration": 9
+    },
+    {
+      "start": 3616,
+      "duration": 12
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

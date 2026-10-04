@@ -1,7 +1,8 @@
-import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.mjs?v=20261004-8';
-import { attachStudyNotes } from './study.mjs?v=20261004-8';
-import { musicalURL, learningURL, tracksFor } from './library.mjs?v=20261004-8';
-import { fetchData } from './data.mjs?v=20261004-8';
+import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.mjs?v=20261004-9';
+import { attachStudyNotes } from './study.mjs?v=20261004-9';
+import { musicalURL, learningURL, tracksFor } from './library.mjs?v=20261004-9';
+import { fetchData } from './data.mjs?v=20261004-9';
+import { playbackStart, nativeCues, importedCues } from './native.mjs?v=20261004-9';
 
 const $ = id => document.getElementById(id);
 let catalog = [], musicals = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
@@ -9,6 +10,33 @@ let boundary = null, following = true, sentenceMode = true, repeating = false, p
 const initial = new URL(location.href), preferredId = videoId(initial.searchParams.get('v')) || '7BZhhlQFcbg';
 const initialTime = Math.max(0, Number(initial.searchParams.get('t')) || 0);
 let initialSeek = initialTime, loadGeneration = 0;
+let nativeExpanded = false, heldSongEnd = false;
+function nativeMode() { return song?.captionSource === 'youtube-player' && song.nativeCaptionRanges?.length > 0; }
+const videoShell = document.querySelector('.video-shell');
+const sidebarPlaceholder = document.createElement('div'); sidebarPlaceholder.className = 'native-sidebar-placeholder';
+const nativePoster = document.createElement('img'); nativePoster.alt = '';
+const returnPlayer = document.createElement('button'); returnPlayer.textContent = '↙ 收回播放器';
+returnPlayer.onclick = () => { nativeExpanded = false; resizeNativePlayer(); };
+sidebarPlaceholder.append(nativePoster, returnPlayer); videoShell.before(sidebarPlaceholder);
+function resizeNativePlayer() {
+  const stage = $('native-video-stage'), pane = $('lyrics'), list = $('native-caption-list');
+  const expanded = Boolean(nativeMode() && nativeExpanded && innerWidth > 720 && pane.clientHeight >= 360 && stage);
+  document.body.classList.toggle('native-stage-open', expanded);
+  if (stage) stage.hidden = !expanded;
+  if (expanded) {
+    stage.style.height = `${Math.max(200, Math.min(pane.clientHeight * 0.61, 460))}px`;
+    const rect = stage.getBoundingClientRect();
+    Object.assign(videoShell.style, {position:'fixed',left:`${rect.left}px`,top:`${rect.top}px`,width:`${rect.width}px`,height:`${rect.height}px`,minHeight:'200px',zIndex:'3'});
+  } else videoShell.removeAttribute('style');
+  if (list) {
+    list.style.setProperty('--native-edge-space', `${list.clientHeight / 2}px`);
+    if (active >= 0 && following) updateSelection(active, true);
+    else { const first = list.querySelector('[data-index]'); if (first) centerLyric(list, first, true, true); }
+  }
+}
+function setCaptionSize() {
+  try { if (nativeMode() && player?.getOptions?.('captions')?.includes('fontSize')) player.setOption('captions', 'fontSize', 1); } catch {}
+}
 function toast(message) { $('toast').textContent = message; $('toast').hidden = false; clearTimeout(toastTimer); toastTimer = setTimeout(() => $('toast').hidden = true, 4200); }
 function pressed(id, state) { $(id).classList.toggle('active', state); $(id).setAttribute('aria-pressed', String(state)); }
 function savedSongs() { try { return JSON.parse(localStorage.getItem('musicals-saved') || '[]'); } catch { return []; } }
@@ -36,9 +64,10 @@ async function ensurePlayer() {
     if (player) return;
     player = new YT.Player('youtube-player', {
       width: '100%', height: '100%', videoId: song.playbackVideoId || song.id,
-      playerVars: { playsinline: 1, rel: 0, origin: location.origin, start: Math.floor(initialSeek), cc_load_policy: song.captionSource === 'youtube-player' ? 1 : 0, cc_lang_pref: 'fr' },
+      playerVars: { playsinline: 1, rel: 0, origin: location.origin, start: Math.floor(initialSeek), ...(song.playbackSegment ? {end: Math.floor(song.playbackSegment.end)} : {}), cc_load_policy: song.captionSource === 'youtube-player' ? 1 : 0, cc_lang_pref: 'fr' },
       events: {
-        onReady: () => { playerReady = true; $('player-placeholder').hidden = true; setSpeeds(); if (initialSeek > 0) { player.seekTo(initialSeek, true); initialSeek = 0; } },
+        onReady: () => { playerReady = true; $('player-placeholder').hidden = true; setSpeeds(); setCaptionSize(); if (initialSeek > 0) { player.seekTo(initialSeek, true); initialSeek = 0; } resizeNativePlayer(); },
+        onApiChange: setCaptionSize,
         onStateChange: event => {
           const playing = event.data === 1;
           $('play').textContent = playing ? 'Ⅱ' : '▶';
@@ -70,6 +99,7 @@ function resizeLyricSpace() {
   // Scrollable spacers keep centering room without forcing the flex pane taller.
   pane.style.paddingBlock = '0px';
   pane.style.setProperty('--lyric-edge-space', `${pane.clientHeight / 2}px`);
+  if (nativeMode()) { resizeNativePlayer(); return; }
   if (following && active >= 0) updateSelection(active, true);
   else if (active < 0) {
     const first = pane.querySelector('.lyric-line');
@@ -86,10 +116,10 @@ function updateSelection(index, scroll = false) {
   if (line) {
     line.classList.add('active'); line.setAttribute('aria-current', 'true');
     if (scroll && following) {
-      centerLyric($('lyrics'), line, index === 0);
+      centerLyric(nativeMode() ? $('native-caption-list') : $('lyrics'), line, index === 0);
     }
-    $('current-line').textContent = `${index + 1} / ${cues.length} 句`;
-  } else $('current-line').textContent = cues.length ? `共 ${cues.length} 句` : '暂无字幕';
+    $('current-line').textContent = `${index + 1} / ${cues.length} ${nativeMode() ? '段' : '句'}`;
+  } else $('current-line').textContent = cues.length ? `共 ${cues.length} ${nativeMode() ? '段' : '句'}` : '暂无字幕';
 }
 async function playCue(index) {
   if (!cues.length) return;
@@ -98,11 +128,12 @@ async function playCue(index) {
   const cue = cues[selected]; boundary = sentenceMode || repeating ? cue.end : null;
   pendingSeek = { start: cue.start, end: cue.end, requestedAt: performance.now() };
   heldAtEnd = null;
+  heldSongEnd = false;
   player.seekTo(cue.start, true); player.playVideo(); updateSelection(selected, true);
 }
 function tick() {
   if (!playerReady) return;
-  const time = player.getCurrentTime(); $('time').textContent = clock(time);
+  const time = player.getCurrentTime(); $('time').textContent = clock(song.playbackSegment ? Math.max(0,time-song.playbackSegment.start) : time);
   if (!cues.length) return;
   const playing = player.getPlayerState() === 1;
   if (pendingSeek) {
@@ -110,9 +141,15 @@ function tick() {
     else if (performance.now() - pendingSeek.requestedAt < 8000) return;
     else { pendingSeek = null; boundary = null; toast('跳句未成功，请再点击这一句。'); return; }
   }
+  if (song.playbackSegment && playing && time < song.playbackSegment.start - 0.5) {
+    player.seekTo(song.playbackSegment.start,true); return;
+  }
   if (boundary !== null && playing && time >= boundary - 0.04) {
     if (repeating && selected >= 0) { playCue(selected); return; }
     player.pauseVideo(); heldAtEnd = { time, index: selected }; boundary = null; return;
+  }
+  if (song.playbackSegment && playing && time >= song.playbackSegment.end - 0.04) {
+    player.pauseVideo(); heldSongEnd = true; boundary = null; return;
   }
   if (!playing && heldAtEnd && Math.abs(time - heldAtEnd.time) < 0.35) return;
   heldAtEnd = null;
@@ -123,6 +160,9 @@ setInterval(tick, 80);
 
 function renderLyrics() {
   $('lyrics').replaceChildren(); active = selected = -1; boundary = pendingSeek = heldAtEnd = null;
+  $('lyrics').classList.toggle('native-pane', Boolean(nativeMode()));
+  $('sentence-mode').textContent = nativeMode() ? '段末暂停' : '单句暂停';
+  $('repeat').textContent = nativeMode() ? '↻ 循环这段' : '↻ 循环这句';
   const annotated = cues.some(c => c.ipa && c.ear);
   const availableTranslation = cues.some(c => c.studyMeaning || c.translation);
   $('study-legend').hidden = $('study-note').hidden = !annotated;
@@ -132,6 +172,8 @@ function renderLyrics() {
   $('translation').checked = availableTranslation;
   $('lyrics').classList.toggle('hide-translations', !availableTranslation);
   $('repeat').disabled = $('sentence-mode').disabled = $('previous').disabled = $('next').disabled = !cues.length;
+  if (nativeMode()) { renderNativeCaptions(); return; }
+  resizeNativePlayer();
   if (!cues.length) {
     if (song.captionSource === 'youtube-player') {
       const state = document.createElement('div'); state.className = 'empty-state native-source';
@@ -182,6 +224,32 @@ function renderLyrics() {
   else pane.scrollTop = 0;
   $('current-line').textContent = `共 ${cues.length} 句`;
 }
+function renderNativeCaptions() {
+  const session = document.createElement('div'); session.className = 'native-session';
+  const actions = document.createElement('div'); actions.className = 'native-actions';
+  const label = document.createElement('span'); label.textContent = '原生法语字幕 · 分段重听';
+  const full = document.createElement('button'); full.className = 'pill'; full.textContent = '重听整曲';
+  full.onclick = async () => {
+    if (!playerReady) { await ensurePlayer(); return; }
+    selected = -1; boundary = null; heldAtEnd = null; heldSongEnd = false;
+    repeating = false; pressed('repeat', false);
+    player.seekTo(song.playbackSegment.start,true); player.playVideo();
+  };
+  const expand = document.createElement('button'); expand.className = 'pill'; expand.textContent = '放大字幕';
+  expand.onclick = () => { nativeExpanded = !document.body.classList.contains('native-stage-open'); resizeNativePlayer(); };
+  actions.append(label,full,expand);
+  const stage = document.createElement('div'); stage.id = 'native-video-stage'; stage.setAttribute('aria-hidden','true');
+  const hint = document.createElement('p'); hint.className = 'native-hint'; hint.textContent = '法语字幕在左侧播放器内显示，可点击“放大字幕”。下方时间段用于重听。';
+  const list = document.createElement('div'); list.id = 'native-caption-list'; list.className = 'native-caption-list'; list.setAttribute('aria-label','字幕片段');
+  cues.forEach((cue,index) => {
+    const line = document.createElement('button'); line.className = 'lyric-line native-cue'; line.dataset.index = index;
+    const title = document.createElement('span'); title.className = 'native-cue-label'; title.textContent = cue.text;
+    const range = document.createElement('span'); range.className = 'native-cue-time'; range.textContent = `${clock(cue.start-song.playbackSegment.start)} — ${clock(cue.end-song.playbackSegment.start)}`;
+    line.append(title,range); line.title = '按转录时间点播放这一段'; line.onclick = () => playCue(index); list.append(line);
+  });
+  session.append(actions,stage,hint,list); $('lyrics').append(session);
+  $('current-line').textContent = `共 ${cues.length} 段`; requestAnimationFrame(resizeNativePlayer);
+}
 function studyRow(label, text, className) {
   const row = document.createElement('span'); row.className = `study-row ${className}`;
   const tag = document.createElement('span'); tag.className = 'study-label'; tag.textContent = label;
@@ -201,6 +269,8 @@ function renderInfo() {
   $('channel').href = /^UC[\w-]+$/.test(song.channelId || '') ? `https://www.youtube.com/channel/${song.channelId}` : `https://www.youtube.com/watch?v=${song.playbackVideoId || song.id}`;
   $('youtube-link').href = `https://www.youtube.com/watch?v=${song.playbackVideoId || song.id}`;
   $('cover').src = `https://i.ytimg.com/vi/${song.playbackVideoId || song.id}/hqdefault.jpg`;
+  nativePoster.src = $('cover').src;
+  if (song.playbackSegment) $('youtube-link').href += `&t=${Math.floor(song.playbackSegment.start)}`;
   $('song-description').textContent = song.description || (song.metadataSource ? `YouTube 视频：${song.title}\n\n未读到视频介绍。` : '这首歌的原唱由 YouTube 播放。视频介绍在歌曲信息读取完成后显示。');
   $('song-description').classList.remove('expanded'); $('description-toggle').textContent = '展开介绍 ↓'; $('description-toggle').hidden = (song.description || '').length < 220;
   $('language-label').textContent = song.captionLanguage ? languageName(song.captionLanguage) : '字幕语言待确认';
@@ -208,8 +278,8 @@ function renderInfo() {
   const translated = cues.some(c => c.translation);
   $('source-note').textContent = song.captionSource === 'local' ? '你导入的字幕仅用于当前页面，不会上传。请使用对应视频的 YouTube 字幕。' : `字幕与时间戳来自 YouTube${song.isGenerated ? ' 自动字幕' : ''}。${translated ? `译文来自 YouTube（${languageName(song.translationLanguage || 'en')}）。` : '当前没有可用译文。'}${song.fetchedAt ? ` 更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
   if (song.captionSource === 'youtube-player') {
-    $('language-label').textContent = '法语'; $('caption-badge').textContent = '1998 原卡司';
-    $('source-note').textContent = song.mediaKind === 'audio' ? '本曲使用原版 DVD 的音轨视频。全剧录像另有人工法语字幕，可在 YouTube 中开启。' : '本曲使用法语原卡司舞台视频。全剧录像另有人工法语字幕，可在 YouTube 中开启。';
+    $('language-label').textContent = '法语'; $('caption-badge').textContent = nativeMode() ? '人工法语字幕' : '1998 原卡司';
+    $('source-note').textContent = nativeMode() ? `字幕由 YouTube 播放器显示，默认选择法语。分段时间参考同一录像${song.nativeTimingLanguage === 'en' ? '的英文' : '的法语'}转录面板，精度为整秒，段尾按下一条时间点定位。` : song.mediaKind === 'audio' ? '本曲使用原版 DVD 的音轨视频。全剧录像另有人工法语字幕，可在 YouTube 中开启。' : '本曲使用法语原卡司舞台视频。全剧录像另有人工法语字幕，可在 YouTube 中开启。';
   }
   if (song.studyNotes && cues.some(c => c.ipa)) {
     const reviewed = song.studyNotes.textSource === 'youtube-video-description' || song.studyNotes.textReviewStatus === 'cross-checked';
@@ -252,6 +322,7 @@ function renderEditorialInfo(info) {
 }
 async function loadSong(id, updateURL = true) {
   const generation = ++loadGeneration;
+  const previousNative = song?.captionSource === 'youtube-player';
   boundary = null; playerReady && player.pauseVideo();
   const fallback = catalog.find(s => s.id === id) || { id, title: 'YouTube · 新歌曲', channel: 'YouTube' };
   let data;
@@ -262,10 +333,17 @@ async function loadSong(id, updateURL = true) {
   }
   try { const response = await fetchData(`./data/info/${id}.json`); if (response.ok) { const info = await response.json(); if (info.videoId === id) data.editorialInfo = info; } } catch { /* A missing introduction never blocks the player. */ }
   if (generation !== loadGeneration) return;
-  song = data; cues = attachStudyNotes(normalizeCues(data.cues || []), data.studyNotes);
+  if (player && previousNative !== (data.captionSource === 'youtube-player')) {
+    player.destroy?.(); const replacement = document.createElement('div'); replacement.id = 'youtube-player';
+    const old = $('youtube-player'); if (old) old.replaceWith(replacement); else videoShell.prepend(replacement);
+    player = null; playerReady = false; $('player-placeholder').hidden = false;
+  }
+  song = data; cues = attachStudyNotes(normalizeCues(nativeMode() ? nativeCues(data) : data.cues || []), data.studyNotes);
+  initialSeek = playbackStart(song,initialSeek,initial.searchParams.get('timebase'));
+  heldSongEnd = false;
   renderInfo();
-  if (playerReady) { player.cueVideoById({ videoId: song.playbackVideoId || id, startSeconds: initialSeek }); setSpeeds(); initialSeek = 0; }
-  if (updateURL) { const url = new URL(location.href); url.searchParams.set('v', id); url.searchParams.delete('t'); history.replaceState(null, '', url); }
+  if (playerReady) { player.cueVideoById({ videoId: song.playbackVideoId || id, startSeconds: initialSeek, ...(song.playbackSegment ? {endSeconds:song.playbackSegment.end} : {}) }); setSpeeds(); setCaptionSize(); initialSeek = 0; }
+  if (updateURL) { const url = new URL(location.href); url.searchParams.set('v', id); url.searchParams.delete('t'); url.searchParams.delete('timebase'); history.replaceState(null, '', url); }
   $('song-dialog').open && $('song-dialog').close();
   await ensurePlayer();
 }
@@ -294,6 +372,7 @@ async function share() {
   const url = new URL(location.href); url.searchParams.set('v', song.id);
   const time = playerReady ? Math.floor(player.getCurrentTime()) : 0;
   if (time) url.searchParams.set('t', time); else url.searchParams.delete('t');
+  if (song.playbackSegment) url.searchParams.set('timebase','source'); else url.searchParams.delete('timebase');
   try { await navigator.clipboard.writeText(url.href); toast('链接已复制，包含当前播放位置。'); }
   catch { if (navigator.share) { try { await navigator.share({ title: song.title, url: url.href }); } catch {} } else toast('请复制浏览器地址栏中的链接。'); }
 }
@@ -301,6 +380,7 @@ async function togglePlay() {
   if (!playerReady) { await ensurePlayer(); toast('播放器准备好后，点击播放。'); return; }
   if (player.getPlayerState() === 1) player.pauseVideo();
   else {
+    if (song.playbackSegment && (heldSongEnd || player.getCurrentTime() >= song.playbackSegment.end)) { playCue(0); return; }
     if (heldAtEnd && selected >= 0 && (sentenceMode || repeating)) { playCue(selected); return; }
     if ((sentenceMode || repeating) && cues.length) {
       const current = cueAt(cues, player.getCurrentTime());
@@ -336,7 +416,7 @@ $('caption-file').onchange = async event => {
   const file = event.target.files[0]; if (!file) return;
   try {
     if (file.size > 5 * 1024 * 1024) throw new Error('字幕文件应小于 5 MB');
-    const parsed = parseCaptions(await file.text()); if (!parsed.length) throw new Error('没有识别到有效字幕时间戳');
+    const parsed = importedCues(song, parseCaptions(await file.text())); if (!parsed.length) throw new Error('没有识别到本曲范围内的字幕时间戳');
     playerReady && player.pauseVideo(); cues = parsed; song.captionSource = 'local'; song.cues = cues; renderInfo(); toast(`已导入 ${cues.length} 条字幕；请确认与当前视频一致。`);
   } catch (error) { toast(error.message || '字幕格式无法识别'); } finally { event.target.value = ''; }
 };

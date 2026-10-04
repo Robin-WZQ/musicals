@@ -3,23 +3,131 @@
   "title": "Le temps des cathédrales",
   "titleZh": "大教堂时代",
   "titleOriginal": "Le temps des cathédrales",
-  "channel": "yenjanw",
-  "duration": 200,
+  "channel": "Music lover🎵",
+  "duration": 202,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 1,
   "act": 1,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nLe Temps des cathedrales（大教堂時代）",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=qT6Mpkj9Y8Q",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=68",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "qT6Mpkj9Y8Q",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 68,
+    "end": 270,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 71,
+      "duration": 10
+    },
+    {
+      "start": 81,
+      "duration": 10
+    },
+    {
+      "start": 91,
+      "duration": 6
+    },
+    {
+      "start": 97,
+      "duration": 8
+    },
+    {
+      "start": 105,
+      "duration": 7
+    },
+    {
+      "start": 112,
+      "duration": 6
+    },
+    {
+      "start": 118,
+      "duration": 10
+    },
+    {
+      "start": 128,
+      "duration": 10
+    },
+    {
+      "start": 138,
+      "duration": 10
+    },
+    {
+      "start": 148,
+      "duration": 7
+    },
+    {
+      "start": 155,
+      "duration": 7
+    },
+    {
+      "start": 162,
+      "duration": 7
+    },
+    {
+      "start": 169,
+      "duration": 7
+    },
+    {
+      "start": 176,
+      "duration": 10
+    },
+    {
+      "start": 186,
+      "duration": 8
+    },
+    {
+      "start": 194,
+      "duration": 7
+    },
+    {
+      "start": 201,
+      "duration": 6
+    },
+    {
+      "start": 207,
+      "duration": 12
+    },
+    {
+      "start": 219,
+      "duration": 8
+    },
+    {
+      "start": 227,
+      "duration": 7
+    },
+    {
+      "start": 234,
+      "duration": 7
+    },
+    {
+      "start": 241,
+      "duration": 10
+    },
+    {
+      "start": 251,
+      "duration": 19
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

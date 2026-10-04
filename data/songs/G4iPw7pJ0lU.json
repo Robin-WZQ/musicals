@@ -3,23 +3,75 @@
   "title": "À boire",
   "titleZh": "给我水",
   "titleOriginal": "À boire",
-  "channel": "yenjanw",
-  "duration": 122,
+  "channel": "Music lover🎵",
+  "duration": 114,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 18,
   "act": 1,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=G4iPw7pJ0lU",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=2619",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "G4iPw7pJ0lU",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 2619,
+    "end": 2733,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 2624,
+      "duration": 7
+    },
+    {
+      "start": 2631,
+      "duration": 10
+    },
+    {
+      "start": 2641,
+      "duration": 8
+    },
+    {
+      "start": 2649,
+      "duration": 15
+    },
+    {
+      "start": 2664,
+      "duration": 14
+    },
+    {
+      "start": 2678,
+      "duration": 15
+    },
+    {
+      "start": 2693,
+      "duration": 21
+    },
+    {
+      "start": 2714,
+      "duration": 14
+    },
+    {
+      "start": 2728,
+      "duration": 5
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

@@ -3,23 +3,63 @@
   "title": "Anarkia",
   "titleZh": "宿命之字",
   "titleOriginal": "Anarkia",
-  "channel": "yenjanw",
-  "duration": 44,
+  "channel": "Music lover🎵",
+  "duration": 51,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 17,
   "act": 1,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=BcBBNW5rkHE",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=2568",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "BcBBNW5rkHE",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 2568,
+    "end": 2619,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 2568,
+      "duration": 4
+    },
+    {
+      "start": 2572,
+      "duration": 9
+    },
+    {
+      "start": 2581,
+      "duration": 9
+    },
+    {
+      "start": 2590,
+      "duration": 8
+    },
+    {
+      "start": 2598,
+      "duration": 9
+    },
+    {
+      "start": 2607,
+      "duration": 12
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

@@ -3,23 +3,115 @@
   "title": "Être prêtre et aimer une femme",
   "titleZh": "身为神父却爱上女人",
   "titleOriginal": "Être prêtre et aimer une femme",
-  "channel": "yenjanw",
+  "channel": "Music lover🎵",
   "duration": 210,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 36,
   "act": 2,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=6SZUQm375do",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5479",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "6SZUQm375do",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 5479,
+    "end": 5689,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 5484,
+      "duration": 10
+    },
+    {
+      "start": 5494,
+      "duration": 11
+    },
+    {
+      "start": 5505,
+      "duration": 9
+    },
+    {
+      "start": 5514,
+      "duration": 12
+    },
+    {
+      "start": 5526,
+      "duration": 10
+    },
+    {
+      "start": 5536,
+      "duration": 10
+    },
+    {
+      "start": 5546,
+      "duration": 10
+    },
+    {
+      "start": 5556,
+      "duration": 11
+    },
+    {
+      "start": 5567,
+      "duration": 11
+    },
+    {
+      "start": 5578,
+      "duration": 10
+    },
+    {
+      "start": 5588,
+      "duration": 10
+    },
+    {
+      "start": 5598,
+      "duration": 11
+    },
+    {
+      "start": 5609,
+      "duration": 14
+    },
+    {
+      "start": 5623,
+      "duration": 9
+    },
+    {
+      "start": 5632,
+      "duration": 11
+    },
+    {
+      "start": 5643,
+      "duration": 10
+    },
+    {
+      "start": 5653,
+      "duration": 10
+    },
+    {
+      "start": 5663,
+      "duration": 13
+    },
+    {
+      "start": 5676,
+      "duration": 13
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

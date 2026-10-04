@@ -3,23 +3,71 @@
   "title": "Visite de Frollo à Esmeralda",
   "titleZh": "弗罗洛探监",
   "titleOriginal": "Visite de Frollo à Esmeralda",
-  "channel": "yenjanw",
-  "duration": 74,
+  "channel": "Music lover🎵",
+  "duration": 73,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 39,
   "act": 2,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=xtkNYsq6eDg",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5928",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "xtkNYsq6eDg",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 5928,
+    "end": 6001,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 5930,
+      "duration": 13
+    },
+    {
+      "start": 5943,
+      "duration": 8
+    },
+    {
+      "start": 5951,
+      "duration": 11
+    },
+    {
+      "start": 5962,
+      "duration": 11
+    },
+    {
+      "start": 5973,
+      "duration": 4
+    },
+    {
+      "start": 5977,
+      "duration": 12
+    },
+    {
+      "start": 5989,
+      "duration": 5
+    },
+    {
+      "start": 5994,
+      "duration": 7
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

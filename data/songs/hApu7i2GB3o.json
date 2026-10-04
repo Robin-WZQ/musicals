@@ -3,23 +3,79 @@
   "title": "L’enfant trouvé",
   "titleZh": "被收养的孩子",
   "titleOriginal": "L’enfant trouvé",
-  "channel": "yenjanw",
-  "duration": 110,
+  "channel": "Music lover🎵",
+  "duration": 103,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 10,
   "act": 1,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=hApu7i2GB3o",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=1549",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "hApu7i2GB3o",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 1549,
+    "end": 1652,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 1557,
+      "duration": 8
+    },
+    {
+      "start": 1565,
+      "duration": 9
+    },
+    {
+      "start": 1574,
+      "duration": 8
+    },
+    {
+      "start": 1582,
+      "duration": 7
+    },
+    {
+      "start": 1589,
+      "duration": 10
+    },
+    {
+      "start": 1599,
+      "duration": 5
+    },
+    {
+      "start": 1604,
+      "duration": 14
+    },
+    {
+      "start": 1618,
+      "duration": 8
+    },
+    {
+      "start": 1626,
+      "duration": 11
+    },
+    {
+      "start": 1637,
+      "duration": 15
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

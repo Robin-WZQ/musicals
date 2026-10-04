@@ -3,23 +3,75 @@
   "title": "Je reviens vers toi",
   "titleZh": "我回到你身边",
   "titleOriginal": "Je reviens vers toi",
-  "channel": "yenjanw",
+  "channel": "Music lover🎵",
   "duration": 100,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 38,
   "act": 2,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=BHgYxGNNfoM",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5828",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "BHgYxGNNfoM",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 5828,
+    "end": 5928,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 5835,
+      "duration": 8
+    },
+    {
+      "start": 5843,
+      "duration": 9
+    },
+    {
+      "start": 5852,
+      "duration": 9
+    },
+    {
+      "start": 5861,
+      "duration": 10
+    },
+    {
+      "start": 5871,
+      "duration": 9
+    },
+    {
+      "start": 5880,
+      "duration": 8
+    },
+    {
+      "start": 5888,
+      "duration": 9
+    },
+    {
+      "start": 5897,
+      "duration": 10
+    },
+    {
+      "start": 5907,
+      "duration": 21
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

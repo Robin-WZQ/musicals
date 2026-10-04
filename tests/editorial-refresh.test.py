@@ -40,17 +40,24 @@ class EditorialRefreshTests(unittest.TestCase):
             self.assertTrue(root.resolve().is_relative_to(Path(__file__).resolve().parent))
             path.parent.mkdir(parents=True)
             previous = {'id':'AAAAAAAAAAA','lyricsStorage':'external','captionSource':'youtube-player',
-                        'captionStatus':'external','playbackVideoId':'BBBBBBBBBBB','cues':[]}
+                        'captionStatus':'native','playbackVideoId':'BBBBBBBBBBB','cues':[],
+                        'duration':40,'playbackSegment':{'start':100,'end':140},'nativeCaptionRanges':[{'start':102,'duration':3}]}
             path.write_text(json.dumps(previous), encoding='utf-8')
             with patch.object(ingest, 'ROOT', root), \
-                 patch.object(ingest, 'metadata', return_value=({'title':'Source title'}, {})), \
+                 patch.object(ingest, 'metadata', return_value=({'id':'BBBBBBBBBBB','title':'Source title','duration':8000}, {})) as metadata, \
                  patch.object(ingest, 'fetch_captions') as captions:
                 ingest.ingest('AAAAAAAAAAA', 'fr', 'zh-Hans')
             captions.assert_not_called()
+            self.assertEqual(metadata.call_args.args[0], 'BBBBBBBBBBB')
             result = json.loads(path.read_text(encoding='utf-8'))
             self.assertEqual(result['cues'], [])
-            self.assertEqual(result['captionStatus'], 'external')
+            self.assertEqual(result['captionStatus'], 'native')
             self.assertEqual(result['playbackVideoId'], 'BBBBBBBBBBB')
+            self.assertEqual(result['id'], 'AAAAAAAAAAA')
+            self.assertEqual(result['duration'], 40)
+            self.assertEqual(result['sourceDuration'], 8000)
+            self.assertEqual(result['playbackSegment'], previous['playbackSegment'])
+            self.assertEqual(result['nativeCaptionRanges'], previous['nativeCaptionRanges'])
 
 if __name__ == '__main__':
     unittest.main()

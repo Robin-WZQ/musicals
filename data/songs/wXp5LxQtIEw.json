@@ -3,23 +3,95 @@
   "title": "La monture",
   "titleZh": "坐骑",
   "titleOriginal": "La monture",
-  "channel": "yenjanw",
-  "duration": 138,
+  "channel": "Music lover🎵",
+  "duration": 139,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 37,
   "act": 2,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=wXp5LxQtIEw",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=5689",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "wXp5LxQtIEw",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 5689,
+    "end": 5828,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 5700,
+      "duration": 5
+    },
+    {
+      "start": 5705,
+      "duration": 6
+    },
+    {
+      "start": 5711,
+      "duration": 11
+    },
+    {
+      "start": 5722,
+      "duration": 6
+    },
+    {
+      "start": 5728,
+      "duration": 10
+    },
+    {
+      "start": 5738,
+      "duration": 9
+    },
+    {
+      "start": 5747,
+      "duration": 9
+    },
+    {
+      "start": 5756,
+      "duration": 9
+    },
+    {
+      "start": 5765,
+      "duration": 6
+    },
+    {
+      "start": 5771,
+      "duration": 6
+    },
+    {
+      "start": 5777,
+      "duration": 10
+    },
+    {
+      "start": 5787,
+      "duration": 12
+    },
+    {
+      "start": 5799,
+      "duration": 10
+    },
+    {
+      "start": 5809,
+      "duration": 19
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

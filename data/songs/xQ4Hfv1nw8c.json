@@ -3,23 +3,127 @@
   "title": "Dieu que le monde est injuste",
   "titleZh": "天啊，世界何其不公",
   "titleOriginal": "Dieu que le monde est injuste",
-  "channel": "yenjanw",
-  "duration": 222,
+  "channel": "Music lover🎵",
+  "duration": 220,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 44,
   "act": 2,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=xQ4Hfv1nw8c",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6542",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "xQ4Hfv1nw8c",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 6542,
+    "end": 6762,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 6554,
+      "duration": 9
+    },
+    {
+      "start": 6563,
+      "duration": 8
+    },
+    {
+      "start": 6571,
+      "duration": 9
+    },
+    {
+      "start": 6580,
+      "duration": 9
+    },
+    {
+      "start": 6589,
+      "duration": 8
+    },
+    {
+      "start": 6597,
+      "duration": 9
+    },
+    {
+      "start": 6606,
+      "duration": 8
+    },
+    {
+      "start": 6614,
+      "duration": 9
+    },
+    {
+      "start": 6623,
+      "duration": 8
+    },
+    {
+      "start": 6631,
+      "duration": 9
+    },
+    {
+      "start": 6640,
+      "duration": 8
+    },
+    {
+      "start": 6648,
+      "duration": 10
+    },
+    {
+      "start": 6658,
+      "duration": 8
+    },
+    {
+      "start": 6666,
+      "duration": 9
+    },
+    {
+      "start": 6675,
+      "duration": 8
+    },
+    {
+      "start": 6683,
+      "duration": 8
+    },
+    {
+      "start": 6691,
+      "duration": 9
+    },
+    {
+      "start": 6700,
+      "duration": 8
+    },
+    {
+      "start": 6708,
+      "duration": 8
+    },
+    {
+      "start": 6716,
+      "duration": 10
+    },
+    {
+      "start": 6726,
+      "duration": 8
+    },
+    {
+      "start": 6734,
+      "duration": 28
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

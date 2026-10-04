@@ -157,9 +157,15 @@ def ingest(vid, language, translation, proxy=None):
     session.headers['User-Agent'] = 'Mozilla/5.0'
     path = ROOT / 'data' / 'songs' / f'{vid}.json'
     previous = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
-    meta, info = metadata(vid, session, proxy)
+    source_id = previous.get('playbackVideoId', vid) if previous.get('lyricsStorage') == 'external' else vid
+    meta, info = metadata(source_id, session, proxy)
     if previous.get('lyricsStorage') == 'external':
         data = {**previous, **meta, 'lastAttemptAt': datetime.now(timezone.utc).isoformat()}
+        for key in ('id', 'title', 'duration', 'playbackSegment', 'nativeCaptionRanges', 'captionStatus', 'captionLanguage', 'playbackVideoId'):
+            if key in previous:
+                data[key] = previous[key]
+        if previous.get('playbackSegment') and meta.get('duration'):
+            data['sourceDuration'] = meta['duration']
         path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
         print(f'{vid}: metadata refreshed; captions stay in the YouTube player', flush=True)
         return

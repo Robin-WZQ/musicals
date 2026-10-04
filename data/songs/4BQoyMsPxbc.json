@@ -3,23 +3,83 @@
   "title": "Mon maître, mon sauveur",
   "titleZh": "我的主人，我的救主",
   "titleOriginal": "Mon maître, mon sauveur",
-  "channel": "yenjanw",
-  "duration": 124,
+  "channel": "Music lover🎵",
+  "duration": 126,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 48,
   "act": 2,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=4BQoyMsPxbc",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=7334",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "4BQoyMsPxbc",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 7334,
+    "end": 7460,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 7337,
+      "duration": 3
+    },
+    {
+      "start": 7340,
+      "duration": 7
+    },
+    {
+      "start": 7347,
+      "duration": 7
+    },
+    {
+      "start": 7354,
+      "duration": 7
+    },
+    {
+      "start": 7361,
+      "duration": 8
+    },
+    {
+      "start": 7369,
+      "duration": 11
+    },
+    {
+      "start": 7380,
+      "duration": 11
+    },
+    {
+      "start": 7391,
+      "duration": 15
+    },
+    {
+      "start": 7406,
+      "duration": 9
+    },
+    {
+      "start": 7415,
+      "duration": 16
+    },
+    {
+      "start": 7431,
+      "duration": 29
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

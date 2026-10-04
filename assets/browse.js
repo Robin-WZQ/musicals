@@ -1,5 +1,5 @@
-import { musicalURL, learningURL, tracksFor, statusLabel } from './library.mjs?v=20261004-8';
-import { fetchData } from './data.mjs?v=20261004-8';
+import { musicalURL, learningURL, tracksFor, statusLabel } from './library.mjs?v=20261004-9';
+import { fetchData } from './data.mjs?v=20261004-9';
 const $ = id => document.getElementById(id);
 const node = (tag, cls, text) => { const el = document.createElement(tag); if (cls) el.className = cls; if (text) el.textContent = text; return el; };
 async function json(url) { const response = await fetchData(url); if (!response.ok) throw new Error('曲目库暂时无法读取，请刷新重试。'); return response.json(); }
@@ -32,13 +32,15 @@ if (document.body.dataset.view === 'gallery' && old.searchParams.has('v')) {
       if (musical.fullPerformanceURL) { $('full-performance').href = musical.fullPerformanceURL; $('full-performance').hidden = false; }
       const tracks = tracksFor(musical, catalog);
       const ready = tracks.filter(t => t.captionStatus === 'ready').length;
-      $('track-count').textContent = `${tracks.length} 首曲目 · ${ready} 首可逐句学习`;
+      const native = tracks.filter(t => t.captionStatus === 'native').length;
+      $('track-count').textContent = `${tracks.length} 首曲目 · ${native ? `${native} 首法语字幕` : `${ready} 首可逐句学习`}`;
+      if (native) $('ready-filter-label').textContent = '仅看有字幕的曲目';
       let saved = []; try { saved = JSON.parse(localStorage.getItem('musicals-saved') || '[]'); } catch {}
       let last = ''; try { last = localStorage.getItem(`musicals-last-${musical.id}`) || ''; } catch {}
       if (tracks.some(t => t.id === last)) { $('continue-study').href = learningURL(last); $('continue-study').hidden = false; }
       function render() {
         const query = $('track-search').value.trim().toLocaleLowerCase(); const readyOnly = $('ready-only').checked;
-          const shown = tracks.filter(t => (!readyOnly || t.captionStatus === 'ready') && `${t.titleZh} ${t.titleOriginal} ${t.title} ${(t.aliases || []).join(' ')}`.toLocaleLowerCase().includes(query));
+          const shown = tracks.filter(t => (!readyOnly || t.captionStatus === 'ready' || t.captionStatus === 'native') && `${t.titleZh} ${t.titleOriginal} ${t.title} ${(t.aliases || []).join(' ')}`.toLocaleLowerCase().includes(query));
         const elements = []; let act = null;
         for (const track of shown) {
           if (track.act && track.act !== act) {
@@ -47,7 +49,7 @@ if (document.body.dataset.view === 'gallery' && old.searchParams.has('v')) {
           const link = node('a', 'track-row'); link.href = learningURL(track.id);
           link.append(node('span', 'track-number', String(track.trackNumber).padStart(2, '0')));
           const name = node('div', 'track-name'); name.append(node('h3', '', track.titleZh), node('span', '', track.titleOriginal || '播放列表原曲')); link.append(name);
-          const state = node('span', `track-state ${track.captionStatus === 'ready' ? 'ready' : 'pending'}`, statusLabel(track));
+          const state = node('span', `track-state ${track.captionStatus === 'ready' || track.captionStatus === 'native' ? 'ready' : 'pending'}`, statusLabel(track));
           const duration = node('span', 'track-duration', `${Math.floor(track.duration / 60)}:${String(track.duration % 60).padStart(2, '0')}`);
           link.append(state, duration, node('span', 'track-arrow', saved.includes(track.id) ? '★ →' : '→')); elements.push(link);
         }

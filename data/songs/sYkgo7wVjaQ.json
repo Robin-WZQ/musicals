@@ -3,23 +3,115 @@
   "title": "Le val d’amour",
   "titleZh": "爱之谷",
   "titleOriginal": "Le val d’amour",
-  "channel": "yenjanw",
-  "duration": 185,
+  "channel": "Music lover🎵",
+  "duration": 186,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 25,
   "act": 1,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=sYkgo7wVjaQ",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=3717",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "sYkgo7wVjaQ",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 3717,
+    "end": 3903,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 3719,
+      "duration": 8
+    },
+    {
+      "start": 3727,
+      "duration": 14
+    },
+    {
+      "start": 3741,
+      "duration": 7
+    },
+    {
+      "start": 3748,
+      "duration": 9
+    },
+    {
+      "start": 3757,
+      "duration": 7
+    },
+    {
+      "start": 3764,
+      "duration": 6
+    },
+    {
+      "start": 3770,
+      "duration": 6
+    },
+    {
+      "start": 3776,
+      "duration": 13
+    },
+    {
+      "start": 3789,
+      "duration": 10
+    },
+    {
+      "start": 3799,
+      "duration": 9
+    },
+    {
+      "start": 3808,
+      "duration": 10
+    },
+    {
+      "start": 3818,
+      "duration": 11
+    },
+    {
+      "start": 3829,
+      "duration": 10
+    },
+    {
+      "start": 3839,
+      "duration": 11
+    },
+    {
+      "start": 3850,
+      "duration": 9
+    },
+    {
+      "start": 3859,
+      "duration": 7
+    },
+    {
+      "start": 3866,
+      "duration": 8
+    },
+    {
+      "start": 3874,
+      "duration": 11
+    },
+    {
+      "start": 3885,
+      "duration": 18
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

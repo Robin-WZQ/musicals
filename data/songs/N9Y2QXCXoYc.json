@@ -3,23 +3,163 @@
   "title": "Danse mon Esmeralda",
   "titleZh": "舞吧，艾丝美拉达",
   "titleOriginal": "Danse mon Esmeralda",
-  "channel": "yenjanw",
-  "duration": 271,
+  "channel": "Music lover🎵",
+  "duration": 258,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 50,
   "act": 2,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=N9Y2QXCXoYc",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=7505",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "N9Y2QXCXoYc",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 7505,
+    "end": 7763,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 7505,
+      "duration": 9
+    },
+    {
+      "start": 7514,
+      "duration": 8
+    },
+    {
+      "start": 7522,
+      "duration": 8
+    },
+    {
+      "start": 7530,
+      "duration": 9
+    },
+    {
+      "start": 7539,
+      "duration": 10
+    },
+    {
+      "start": 7549,
+      "duration": 9
+    },
+    {
+      "start": 7558,
+      "duration": 7
+    },
+    {
+      "start": 7565,
+      "duration": 9
+    },
+    {
+      "start": 7574,
+      "duration": 11
+    },
+    {
+      "start": 7585,
+      "duration": 8
+    },
+    {
+      "start": 7593,
+      "duration": 9
+    },
+    {
+      "start": 7602,
+      "duration": 7
+    },
+    {
+      "start": 7609,
+      "duration": 7
+    },
+    {
+      "start": 7616,
+      "duration": 8
+    },
+    {
+      "start": 7624,
+      "duration": 8
+    },
+    {
+      "start": 7632,
+      "duration": 7
+    },
+    {
+      "start": 7639,
+      "duration": 6
+    },
+    {
+      "start": 7645,
+      "duration": 8
+    },
+    {
+      "start": 7653,
+      "duration": 8
+    },
+    {
+      "start": 7661,
+      "duration": 7
+    },
+    {
+      "start": 7668,
+      "duration": 7
+    },
+    {
+      "start": 7675,
+      "duration": 8
+    },
+    {
+      "start": 7683,
+      "duration": 8
+    },
+    {
+      "start": 7691,
+      "duration": 8
+    },
+    {
+      "start": 7699,
+      "duration": 8
+    },
+    {
+      "start": 7707,
+      "duration": 10
+    },
+    {
+      "start": 7717,
+      "duration": 7
+    },
+    {
+      "start": 7724,
+      "duration": 8
+    },
+    {
+      "start": 7732,
+      "duration": 8
+    },
+    {
+      "start": 7740,
+      "duration": 9
+    },
+    {
+      "start": 7749,
+      "duration": 14
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }

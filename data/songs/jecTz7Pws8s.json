@@ -3,23 +3,107 @@
   "title": "Lune",
   "titleZh": "月亮",
   "titleOriginal": "Lune",
-  "channel": "yenjanw",
+  "channel": "Music lover🎵",
   "duration": 192,
   "musicalId": "notre-dame-de-paris",
   "trackNumber": 42,
   "act": 2,
-  "captionStatus": "external",
+  "captionStatus": "native",
   "captionLanguage": "fr",
   "captionDelivery": "youtube-player",
-  "nativeCaptionAvailable": false,
-  "channelId": "UC_pmMBojGHYZAKL1CeRQVYg",
+  "nativeCaptionAvailable": true,
+  "channelId": "UCMWFBTe8EMDQP9aTcXLvzgA",
   "description": "@yenjanw\r\nNotre Dame de Paris 鐘樓怪人",
   "captionSource": "youtube-player",
   "cues": [],
   "lyricsStorage": "external",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0",
-  "sourceURL": "https://www.youtube.com/watch?v=jecTz7Pws8s",
+  "sourceURL": "https://www.youtube.com/watch?v=3AnTqOIgPr0&t=6308",
   "sourcePlaylistURL": "https://www.youtube.com/playlist?list=PLkNGO_Wjl9VRR3xOZRl0qoyUQAIe3m7Fj",
   "sourceCheckedAt": "2026-10-04",
-  "playableInEmbed": true
+  "playableInEmbed": true,
+  "alternateVideoId": "jecTz7Pws8s",
+  "playbackVideoId": "3AnTqOIgPr0",
+  "sourceDuration": 8061,
+  "playbackSegment": {
+    "start": 6308,
+    "end": 6500,
+    "source": "youtube-timestamp-comment",
+    "precision": "seconds"
+  },
+  "nativeCaptionRanges": [
+    {
+      "start": 6321,
+      "duration": 8
+    },
+    {
+      "start": 6329,
+      "duration": 10
+    },
+    {
+      "start": 6339,
+      "duration": 9
+    },
+    {
+      "start": 6348,
+      "duration": 9
+    },
+    {
+      "start": 6357,
+      "duration": 8
+    },
+    {
+      "start": 6365,
+      "duration": 7
+    },
+    {
+      "start": 6372,
+      "duration": 26
+    },
+    {
+      "start": 6398,
+      "duration": 9
+    },
+    {
+      "start": 6407,
+      "duration": 9
+    },
+    {
+      "start": 6416,
+      "duration": 8
+    },
+    {
+      "start": 6424,
+      "duration": 8
+    },
+    {
+      "start": 6432,
+      "duration": 12
+    },
+    {
+      "start": 6444,
+      "duration": 8
+    },
+    {
+      "start": 6452,
+      "duration": 10
+    },
+    {
+      "start": 6462,
+      "duration": 8
+    },
+    {
+      "start": 6470,
+      "duration": 13
+    },
+    {
+      "start": 6483,
+      "duration": 17
+    }
+  ],
+  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingLanguage": "en",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "source-timestamps",
+  "mediaKind": "stage-video"
 }
