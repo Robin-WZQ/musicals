@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {playbackStart,nativeCues,importedCues} from '../assets/native.mjs';
+import {playbackStart,nativeCues,importedCues,importStudyCaptions} from '../assets/native.mjs';
 const song={playbackSegment:{start:100,end:160}};
 test('deep links clamp to the song and support legacy relative times',()=>{
   assert.equal(playbackStart(song),100);
@@ -13,6 +13,15 @@ test('deep links clamp to the song and support legacy relative times',()=>{
 test('imports align relative captions and clip full-recording captions to the song',()=>{
   assert.deepEqual(importedCues(song,[{text:'User text',start:2,end:5}]),[{text:'User text',start:102,end:105,duration:3}]);
   assert.deepEqual(importedCues(song,[{text:'Before',start:90,end:102},{text:'After',start:155,end:165},{text:'Outside',start:170,end:180}]).map(c=>[c.start,c.end]),[[100,102],[155,160]]);
+});
+test('explicit recording times avoid ambiguity and preserve all four study layers',()=>{
+ const track={id:'local-track',playbackVideoId:'recording',playbackSegment:{start:68,end:300}};
+ const cue={text:'Bonjour.',start:71,duration:3,ipa:'[bɔ̃ʒuʁ]',ear:'蹦茹',studyMeaning:'你好。'};
+ const text=JSON.stringify({timebase:'source',playbackVideoId:'recording',cues:[cue]});
+ const [row]=importStudyCaptions(track,text);assert.equal(row.start,71);assert.equal(row.end,74);
+ assert.equal(row.ipa,cue.ipa);assert.equal(row.ear,cue.ear);assert.equal(row.studyMeaning,cue.studyMeaning);
+ assert.throws(()=>importStudyCaptions(track,text.replace('recording','another-recording')),/录像/);
+ assert.throws(()=>importStudyCaptions(track,JSON.stringify({id:'another-track',cues:[cue]})),/另一首/);
 });
 test('all fifty songs have ordered time-only ranges within their own recording segment',()=>{
  const root=new URL('../',import.meta.url);

@@ -1,8 +1,8 @@
-import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.mjs?v=20261004-9';
-import { attachStudyNotes } from './study.mjs?v=20261004-9';
-import { musicalURL, learningURL, tracksFor } from './library.mjs?v=20261004-9';
-import { fetchData } from './data.mjs?v=20261004-9';
-import { playbackStart, nativeCues, importedCues } from './native.mjs?v=20261004-9';
+import { videoId, clock, normalizeCues, cueAt } from './captions.mjs?v=20261004-10';
+import { attachStudyNotes } from './study.mjs?v=20261004-10';
+import { musicalURL, learningURL, tracksFor } from './library.mjs?v=20261004-10';
+import { fetchData } from './data.mjs?v=20261004-10';
+import { playbackStart, nativeCues, importStudyCaptions } from './native.mjs?v=20261004-10';
 
 const $ = id => document.getElementById(id);
 let catalog = [], musicals = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
@@ -416,7 +416,7 @@ $('caption-file').onchange = async event => {
   const file = event.target.files[0]; if (!file) return;
   try {
     if (file.size > 5 * 1024 * 1024) throw new Error('字幕文件应小于 5 MB');
-    const parsed = importedCues(song, parseCaptions(await file.text())); if (!parsed.length) throw new Error('没有识别到本曲范围内的字幕时间戳');
+    const parsed = importStudyCaptions(song, await file.text()); if (!parsed.length) throw new Error('没有识别到本曲范围内的字幕时间戳');
     playerReady && player.pauseVideo(); cues = parsed; song.captionSource = 'local'; song.cues = cues; renderInfo(); toast(`已导入 ${cues.length} 条字幕；请确认与当前视频一致。`);
   } catch (error) { toast(error.message || '字幕格式无法识别'); } finally { event.target.value = ''; }
 };

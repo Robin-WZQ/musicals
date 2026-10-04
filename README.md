@@ -64,6 +64,8 @@ python scripts/ingest_youtube.py --video 'YOUTUBE_URL' --language fr --translati
 
 ## 开发与部署
 
+用户提供的双语字幕可通过 [本地四层字幕制作](docs/study-pack.md) 批量整理为学习包。网页导入后保留联诵音标、空耳、释义，并校验录像来源与本曲范围。
+
 无需前端构建和 API 密钥。GitHub Pages 使用 GitHub Actions 部署。
 
 ```sh
