@@ -1,7 +1,7 @@
-import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.mjs?v=20261004-2';
-import { attachStudyNotes } from './study.mjs?v=20261004-2';
-import { musicalURL, learningURL, tracksFor } from './library.mjs?v=20261004-2';
-import { fetchData } from './data.mjs?v=20261004-2';
+import { videoId, clock, normalizeCues, cueAt, parseCaptions } from './captions.mjs?v=20261004-3';
+import { attachStudyNotes } from './study.mjs?v=20261004-3';
+import { musicalURL, learningURL, tracksFor } from './library.mjs?v=20261004-3';
+import { fetchData } from './data.mjs?v=20261004-3';
 
 const $ = id => document.getElementById(id);
 let catalog = [], musicals = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;

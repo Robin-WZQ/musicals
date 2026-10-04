@@ -2,8 +2,8 @@
   "videoId": "4K0Zn6EVLfs",
   "titleZh": "我等你",
   "titleOriginal": "Je vous laisse hélas",
-  "artistZh": "音乐剧原唱",
-  "artistOriginal": "Le Rouge et le Noir",
+  "artistZh": "海伦",
+  "artistOriginal": "Haylen",
   "language": "法语",
   "genre": "摇滚音乐剧",
   "releaseYear": 2016,
@@ -12,28 +12,27 @@
   "sections": [
     {
       "id": "song-meaning",
-      "heading": "歌曲主题与学习提示",
+      "heading": "这首歌讲什么",
       "kind": "interpretation",
       "paragraphs": [
-        "播放列表命名为“我等你”；法语题名表达“可惜，我要离开你”。留意 hélas 的叹息意味和 vous 的称呼方式，不把中文名当作逐字翻译。"
+        "《我等你》是路易丝在故事末尾唱出的告别。失去于连以后，她觉得日子只剩下思念和痛苦，唱着自己想离开眼前的生活，去追上爱人的心愿。",
+        "这首歌的法语名带着“遗憾地离开”的意思。她的声音里还有温柔，歌词却已经走到生死之间：留在人间的孤独，和想再次相见的盼望，都在这场告别里。"
       ]
     },
     {
       "id": "about-song",
-      "heading": "关于歌曲与音乐剧",
+      "heading": "剧情里的这一幕",
       "kind": "background",
       "paragraphs": [
-        "《摇滚红与黑》是改编自司汤达小说《红与黑》的法国摇滚音乐剧，2016年推出录音专辑。原作围绕于连·索雷尔的野心、爱情与阶层处境展开。",
-        "这里按你指定的 YouTube 播放列表顺序收录，本曲为第 14 首。播放列表共有16首，与唱片目录的14首标准专辑曲目不完全相同，页面不把上传时间当作歌曲发行时间。"
+        "路易丝与于连经历过相爱、分离和误会，也在于连入狱后重新说清了彼此的感情。故事走到结尾，路易丝唱出失去爱人后的悲痛，与前面两人的重逢遥相呼应。"
       ]
     },
     {
       "id": "about-artist",
-      "heading": "关于此播放来源",
+      "heading": "演唱者与角色",
       "kind": "background",
       "paragraphs": [
-        "本页播放来源：Eilleen Shih 上传的 YouTube 视频。上传者与演唱者是不同概念。",
-        "法语文字已参考剧方剧本、歌词资料或视频画面交叉校正；中文释义按校正文字重写。句子重新划分，起止时间为近似定位，仍需逐句听校；音标为标准法语参考读法，空耳仅辅助记忆。"
+        "海伦饰演路易丝·德·雷纳尔。路易丝是韦里埃尔市长的妻子，也是于连最初爱上的人；从《叮咚》的犹疑到这首歌的告别，她在家庭责任和爱情之间走过了很长一段路。"
       ]
     }
   ],
@@ -57,6 +56,18 @@
       "id": "video",
       "label": "当前播放的 YouTube 视频",
       "url": "https://www.youtube.com/watch?v=4K0Zn6EVLfs"
+    },
+    {
+      "id": "cast",
+      "label": "原版角色与演员",
+      "url": "https://www.musicalavenue.fr/critique-dalbum-le-rouge-et-le-noir-lopera-rock/"
+    },
+    {
+      "id": "song-cast",
+      "label": "原版歌曲演唱名单",
+      "url": "https://surnosecrans.com/2016/10/27/le-rouge-et-le-noir-musiques/"
     }
-  ]
+  ],
+  "roleZh": "路易丝·德·雷纳尔",
+  "titleNote": "法语原名"
 }

@@ -2,8 +2,8 @@
   "videoId": "QCAC8EuG9W4",
   "titleZh": "一切无尽",
   "titleOriginal": "Tout se perd",
-  "artistZh": "音乐剧原唱",
-  "artistOriginal": "Le Rouge et le Noir",
+  "artistZh": "帕特里斯·马克塔夫、埃尔莎·佩鲁桑",
+  "artistOriginal": "Patrice Maktav · Elsa Pérusin",
   "language": "法语",
   "genre": "摇滚音乐剧",
   "releaseYear": 2016,
@@ -12,28 +12,27 @@
   "sections": [
     {
       "id": "song-meaning",
-      "heading": "歌曲主题与学习提示",
+      "heading": "这首歌讲什么",
       "kind": "interpretation",
       "paragraphs": [
-        "播放列表使用“一切无尽”这一中文名称；法语题名更接近“一切都在失去”。可以关注 se perdre 的用法，以及失去、消散和变化的表达。"
+        "《一切无尽》是瓦勒诺夫妇的二重唱。他们一唱一和，抱怨年轻人失了规矩、社会坏了风气，越说越觉得自己有道理。法语歌名的意思是“一切都在败坏”。",
+        "这对夫妻很会把私怨说得冠冕堂皇。想报复别人，就说是尽责任；看于连往上走不顺眼，就说是在维护道德。两个人互相附和的样子，正是这首歌的笑点。"
       ]
     },
     {
       "id": "about-song",
-      "heading": "关于歌曲与音乐剧",
+      "heading": "剧情里的这一幕",
       "kind": "background",
       "paragraphs": [
-        "《摇滚红与黑》是改编自司汤达小说《红与黑》的法国摇滚音乐剧，2016年推出录音专辑。原作围绕于连·索雷尔的野心、爱情与阶层处境展开。",
-        "这里按你指定的 YouTube 播放列表顺序收录，本曲为第 8 首。播放列表共有16首，与唱片目录的14首标准专辑曲目不完全相同，页面不把上传时间当作歌曲发行时间。"
+        "来到巴黎的瓦勒诺夫妇遇见了于连，又想借他结识侯爵。于连回绝了他们，侯爵随后还把瓦勒诺请求拨款的事交给于连处理。夫妇俩既想攀关系，又瞧不起这个穷小子。"
       ]
     },
     {
       "id": "about-artist",
-      "heading": "关于此播放来源",
+      "heading": "演唱者与角色",
       "kind": "background",
       "paragraphs": [
-        "本页播放来源：Eilleen Shih 上传的 YouTube 视频。上传者与演唱者是不同概念。",
-        "法语文字已参考剧方剧本、歌词资料或视频画面交叉校正；中文释义按校正文字重写。句子重新划分，起止时间为近似定位，仍需逐句听校；音标为标准法语参考读法，空耳仅辅助记忆。"
+        "帕特里斯·马克塔夫饰演瓦勒诺先生，埃尔莎·佩鲁桑饰演瓦勒诺夫人。两人在剧里常常互相接话，把讨好权贵、议论别人和算计利益演得十分默契。"
       ]
     }
   ],
@@ -57,6 +56,23 @@
       "id": "video",
       "label": "当前播放的 YouTube 视频",
       "url": "https://www.youtube.com/watch?v=QCAC8EuG9W4"
+    },
+    {
+      "id": "cast",
+      "label": "原版角色与演员",
+      "url": "https://www.musicalavenue.fr/critique-dalbum-le-rouge-et-le-noir-lopera-rock/"
+    },
+    {
+      "id": "song-cast",
+      "label": "原版歌曲演唱名单",
+      "url": "https://surnosecrans.com/2016/10/27/le-rouge-et-le-noir-musiques/"
+    },
+    {
+      "id": "scene",
+      "label": "剧方发布的剧本",
+      "url": "https://fr.slideshare.net/slideshow/livret-le-rouge-et-le-noir-scne-11/65771037"
     }
-  ]
+  ],
+  "roleZh": "瓦勒诺先生、瓦勒诺夫人",
+  "titleNote": "法语原名"
 }

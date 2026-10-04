@@ -2,8 +2,8 @@
   "videoId": "okSmChlaU_I",
   "titleZh": "叮咚",
   "titleOriginal": "Ding dong",
-  "artistZh": "音乐剧原唱",
-  "artistOriginal": "Le Rouge et le Noir",
+  "artistZh": "海伦、辛西娅·托勒龙",
+  "artistOriginal": "Haylen · Cynthia Tolleron",
   "language": "法语",
   "genre": "摇滚音乐剧",
   "releaseYear": 2016,
@@ -12,28 +12,27 @@
   "sections": [
     {
       "id": "song-meaning",
-      "heading": "歌曲主题与学习提示",
+      "heading": "这首歌讲什么",
       "kind": "interpretation",
       "paragraphs": [
-        "标题模仿钟声。学习时可以听声音意象如何带动节奏，再观察重复句式怎样积累情绪。"
+        "《叮咚》是路易丝和女仆埃莉莎的二重唱。两个人聊起婚姻和爱情：路易丝想着丈夫、孩子和家庭责任，埃莉莎则满脑子都是想象中的恋人。",
+        "歌里的钟声一遍遍响起，像是在催问她们：该听理智的，还是听心跳的？两人的回答各有不同，对爱情的期待却都藏不住。"
       ]
     },
     {
       "id": "about-song",
-      "heading": "关于歌曲与音乐剧",
+      "heading": "剧情里的这一幕",
       "kind": "background",
       "paragraphs": [
-        "《摇滚红与黑》是改编自司汤达小说《红与黑》的法国摇滚音乐剧，2016年推出录音专辑。原作围绕于连·索雷尔的野心、爱情与阶层处境展开。",
-        "这里按你指定的 YouTube 播放列表顺序收录，本曲为第 2 首。播放列表共有16首，与唱片目录的14首标准专辑曲目不完全相同，页面不把上传时间当作歌曲发行时间。"
+        "于连来到德·雷纳尔家，给孩子们当家庭教师。路易丝和埃莉莎都被这个年轻人吸引。路易丝已经结婚，埃莉莎也盼着于连回应自己，这些心事让她们的谈话多了一层意味。"
       ]
     },
     {
       "id": "about-artist",
-      "heading": "关于此播放来源",
+      "heading": "演唱者与角色",
       "kind": "background",
       "paragraphs": [
-        "本页播放来源：Eilleen Shih 上传的 YouTube 视频。上传者与演唱者是不同概念。",
-        "法语文字已参考剧方剧本、歌词资料或视频画面交叉校正；中文释义按校正文字重写。句子重新划分，起止时间为近似定位，仍需逐句听校；音标为标准法语参考读法，空耳仅辅助记忆。"
+        "海伦饰演路易丝，辛西娅·托勒龙饰演埃莉莎。一个是家里的女主人，一个是她身边的女仆；这首歌把两个身份不同的女人放在一起，听她们各自说出对爱情的想法。"
       ]
     }
   ],
@@ -57,6 +56,18 @@
       "id": "video",
       "label": "当前播放的 YouTube 视频",
       "url": "https://www.youtube.com/watch?v=okSmChlaU_I"
+    },
+    {
+      "id": "cast",
+      "label": "原版角色与演员",
+      "url": "https://www.musicalavenue.fr/critique-dalbum-le-rouge-et-le-noir-lopera-rock/"
+    },
+    {
+      "id": "song-cast",
+      "label": "原版歌曲演唱名单",
+      "url": "https://surnosecrans.com/2016/10/27/le-rouge-et-le-noir-musiques/"
     }
-  ]
+  ],
+  "roleZh": "路易丝·德·雷纳尔、埃莉莎",
+  "titleNote": "法语原名"
 }

@@ -2,8 +2,8 @@
   "videoId": "oz0hz4my3GY",
   "titleZh": "没有她们",
   "titleOriginal": "Sans elles",
-  "artistZh": "音乐剧原唱",
-  "artistOriginal": "Le Rouge et le Noir",
+  "artistZh": "科姆",
+  "artistOriginal": "Côme",
   "language": "法语",
   "genre": "摇滚音乐剧",
   "releaseYear": 2016,
@@ -12,29 +12,27 @@
   "sections": [
     {
       "id": "song-meaning",
-      "heading": "歌曲主题与学习提示",
+      "heading": "这首歌讲什么",
       "kind": "interpretation",
       "paragraphs": [
-        "sans elles 意为“没有她们”。题名适合练习介词 sans 与代词 elles；理解全曲时，需要结合人物关系判断“她们”所指的人。"
+        "《没有她们》是于连对自己的劝告：离爱情远一点，就能把心思放回前途上。歌词里的他把女人比作围着自己的猎手，觉得自己快要被感情吞掉了。",
+        "副歌越喊越用力。他想重新掌握生活，想证明自己的理想足够高。可他越急着说“让我一个人”，越能听出这些感情已经让他乱了阵脚。"
       ]
     },
     {
       "id": "about-song",
-      "heading": "关于歌曲与音乐剧",
+      "heading": "剧情里的这一幕",
       "kind": "background",
       "paragraphs": [
-        "《摇滚红与黑》是改编自司汤达小说《红与黑》的法国摇滚音乐剧，2016年推出录音专辑。原作围绕于连·索雷尔的野心、爱情与阶层处境展开。",
-        "这里按你指定的 YouTube 播放列表顺序收录，本曲为第 9 首。播放列表共有16首，与唱片目录的14首标准专辑曲目不完全相同，页面不把上传时间当作歌曲发行时间。"
+        "于连从韦里埃尔走到巴黎，和路易丝、玛蒂尔德的关系也越来越复杂。爱情占据了他太多心思，还不断碰到他的自尊。他于是试着抽身，把野心重新摆到最前面。"
       ]
     },
     {
       "id": "about-artist",
-      "heading": "关于此播放来源",
+      "heading": "演唱者与角色",
       "kind": "background",
       "paragraphs": [
-        "原播放列表视频没有可用法语字幕，本页改用同一歌曲的其他完整视频，并保留原歌曲页网址。",
-        "本页播放来源：Le Rouge et le Noir Officiel 上传的 YouTube 视频。上传者与演唱者是不同概念。",
-        "法语文字已参考剧方剧本、歌词资料或视频画面交叉校正；中文释义按校正文字重写。句子重新划分，起止时间为近似定位，仍需逐句听校；音标为标准法语参考读法，空耳仅辅助记忆。"
+        "科姆饰演于连。这首独唱把角色的矛盾摆得很近：他渴望被爱，又害怕感情让自己失去控制，常常用愤怒来掩饰受伤。"
       ]
     }
   ],
@@ -58,6 +56,18 @@
       "id": "video",
       "label": "当前播放的 YouTube 视频",
       "url": "https://www.youtube.com/watch?v=RPKjD6ZNHus"
+    },
+    {
+      "id": "cast",
+      "label": "原版角色与演员",
+      "url": "https://www.musicalavenue.fr/critique-dalbum-le-rouge-et-le-noir-lopera-rock/"
+    },
+    {
+      "id": "song-cast",
+      "label": "原版歌曲演唱名单",
+      "url": "https://surnosecrans.com/2016/10/27/le-rouge-et-le-noir-musiques/"
     }
-  ]
+  ],
+  "roleZh": "于连·索雷尔",
+  "titleNote": "法语原名"
 }

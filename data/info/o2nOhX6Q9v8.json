@@ -2,8 +2,8 @@
   "videoId": "o2nOhX6Q9v8",
   "titleZh": "百无聊赖",
   "titleOriginal": "Quel ennui",
-  "artistZh": "音乐剧原唱",
-  "artistOriginal": "Le Rouge et le Noir",
+  "artistZh": "朱莉·富尼耶",
+  "artistOriginal": "Julie Fournier",
   "language": "法语",
   "genre": "摇滚音乐剧",
   "releaseYear": 2016,
@@ -12,28 +12,27 @@
   "sections": [
     {
       "id": "song-meaning",
-      "heading": "歌曲主题与学习提示",
+      "heading": "这首歌讲什么",
       "kind": "interpretation",
       "paragraphs": [
-        "ennui 表示无聊或烦闷。留意感叹句、否定结构与重复，让人物的厌倦如何通过声音显现出来。"
+        "《百无聊赖》是玛蒂尔德对一场上流聚会的抱怨。大家聊着天气，说着恰到好处的客套话，年轻男人围着她献殷勤。她听得直打哈欠，觉得这些人连说话都一个样。",
+        "她想遇见一个有胆量、有主见的人。那些条件优越、举止得体的追求者，在她眼里实在太乏味。歌里穿插的对白，让她和父亲之间的这点分歧也变得很好笑。"
       ]
     },
     {
       "id": "about-song",
-      "heading": "关于歌曲与音乐剧",
+      "heading": "剧情里的这一幕",
       "kind": "background",
       "paragraphs": [
-        "《摇滚红与黑》是改编自司汤达小说《红与黑》的法国摇滚音乐剧，2016年推出录音专辑。原作围绕于连·索雷尔的野心、爱情与阶层处境展开。",
-        "这里按你指定的 YouTube 播放列表顺序收录，本曲为第 7 首。播放列表共有16首，与唱片目录的14首标准专辑曲目不完全相同，页面不把上传时间当作歌曲发行时间。"
+        "玛蒂尔德是德·拉莫尔侯爵的女儿，家世优越，婚事也一直是父亲关心的话题。于连来到巴黎后进入她的生活。他的出身、骄傲和冷淡，恰好让她对这个年轻人起了兴趣。"
       ]
     },
     {
       "id": "about-artist",
-      "heading": "关于此播放来源",
+      "heading": "演唱者与角色",
       "kind": "background",
       "paragraphs": [
-        "本页播放来源：Eilleen Shih 上传的 YouTube 视频。上传者与演唱者是不同概念。",
-        "法语文字已参考剧方剧本、歌词资料或视频画面交叉校正；中文释义按校正文字重写。句子重新划分，起止时间为近似定位，仍需逐句听校；音标为标准法语参考读法，空耳仅辅助记忆。"
+        "朱莉·富尼耶饰演玛蒂尔德。这个姑娘聪明、骄傲，也喜欢冒险；她常常嫌身边的人太平庸，对爱情又有很高的期待。"
       ]
     }
   ],
@@ -57,6 +56,18 @@
       "id": "video",
       "label": "当前播放的 YouTube 视频",
       "url": "https://www.youtube.com/watch?v=o2nOhX6Q9v8"
+    },
+    {
+      "id": "cast",
+      "label": "原版角色与演员",
+      "url": "https://www.musicalavenue.fr/critique-dalbum-le-rouge-et-le-noir-lopera-rock/"
+    },
+    {
+      "id": "song-cast",
+      "label": "原版歌曲演唱名单",
+      "url": "https://surnosecrans.com/2016/10/27/le-rouge-et-le-noir-musiques/"
     }
-  ]
+  ],
+  "roleZh": "玛蒂尔德·德·拉莫尔",
+  "titleNote": "法语原名"
 }

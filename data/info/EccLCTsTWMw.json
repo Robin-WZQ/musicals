@@ -2,8 +2,8 @@
   "videoId": "EccLCTsTWMw",
   "titleZh": "前功尽弃",
   "titleOriginal": "Ces peines perdues",
-  "artistZh": "音乐剧原唱",
-  "artistOriginal": "Le Rouge et le Noir",
+  "artistZh": "米歇尔·勒鲁索",
+  "artistOriginal": "Michel Lerousseau",
   "language": "法语",
   "genre": "摇滚音乐剧",
   "releaseYear": 2016,
@@ -12,29 +12,27 @@
   "sections": [
     {
       "id": "song-meaning",
-      "heading": "歌曲主题与学习提示",
+      "heading": "这首歌讲什么",
       "kind": "interpretation",
       "paragraphs": [
-        "peines perdues 可以表达徒劳的努力。题名让人想到付出与结果之间的落差；学习时可以关注失望、痛苦与遗憾的措辞。"
+        "《前功尽弃》是侯爵唱给女儿玛蒂尔德的。他从她小时候讲起，想起抱她入睡、看她迈出第一步，也想起自己为她安排好的将来。如今女儿选了于连，他觉得这些心血都落了空。",
+        "侯爵生气，也伤心。唱到最后，他仍然把女儿当作最疼爱的孩子，愿意原谅她。歌里那种舍不得松手的父爱，和想替孩子决定人生的习惯，挤在了一起。"
       ]
     },
     {
       "id": "about-song",
-      "heading": "关于歌曲与音乐剧",
+      "heading": "剧情里的这一幕",
       "kind": "background",
       "paragraphs": [
-        "《摇滚红与黑》是改编自司汤达小说《红与黑》的法国摇滚音乐剧，2016年推出录音专辑。原作围绕于连·索雷尔的野心、爱情与阶层处境展开。",
-        "这里按你指定的 YouTube 播放列表顺序收录，本曲为第 13 首。播放列表共有16首，与唱片目录的14首标准专辑曲目不完全相同，页面不把上传时间当作歌曲发行时间。"
+        "玛蒂尔德与于连相爱，让侯爵必须面对女儿自己的选择。于连是他的秘书，出身与家族期待的女婿差得很远。侯爵一时很难接受，便在歌里把这些年对女儿的爱与失望都说了出来。"
       ]
     },
     {
       "id": "about-artist",
-      "heading": "关于此播放来源",
+      "heading": "演唱者与角色",
       "kind": "background",
       "paragraphs": [
-        "原播放列表视频没有可用法语字幕，本页改用同一歌曲的其他完整视频，并保留原歌曲页网址。",
-        "本页播放来源：MttMusic 上传的 YouTube 视频。上传者与演唱者是不同概念。",
-        "法语文字已参考剧方剧本、歌词资料或视频画面交叉校正；中文释义按校正文字重写。句子重新划分，起止时间为近似定位，仍需逐句听校；音标为标准法语参考读法，空耳仅辅助记忆。"
+        "米歇尔·勒鲁索饰演德·拉莫尔侯爵。他既是于连的雇主，也是玛蒂尔德的父亲。这首独唱让人看见他在身份和家族体面之外，对女儿很私人的感情。"
       ]
     }
   ],
@@ -58,6 +56,18 @@
       "id": "video",
       "label": "当前播放的 YouTube 视频",
       "url": "https://www.youtube.com/watch?v=ERRvQGsQSmw"
+    },
+    {
+      "id": "cast",
+      "label": "原版角色与演员",
+      "url": "https://www.musicalavenue.fr/critique-dalbum-le-rouge-et-le-noir-lopera-rock/"
+    },
+    {
+      "id": "song-cast",
+      "label": "原版歌曲演唱名单",
+      "url": "https://surnosecrans.com/2016/10/27/le-rouge-et-le-noir-musiques/"
     }
-  ]
+  ],
+  "roleZh": "德·拉莫尔侯爵",
+  "titleNote": "法语原名"
 }
