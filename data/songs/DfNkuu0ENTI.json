@@ -173,10 +173,10 @@
       "duration": 1
     }
   ],
-  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "user-supplied-timestamps",
   "textReviewStatus": "unreviewed-native-auto",
   "phoneticReviewStatus": "not-generated",
   "studyKind": "native-caption-session",
@@ -185,5 +185,156 @@
   "productionYear": 2023,
   "albumReleaseYear": 2025,
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "originalNativeCaptionRanges": [
+    {
+      "start": 0,
+      "duration": 8
+    },
+    {
+      "start": 8,
+      "duration": 8
+    },
+    {
+      "start": 16,
+      "duration": 7
+    },
+    {
+      "start": 23,
+      "duration": 8
+    },
+    {
+      "start": 31,
+      "duration": 8
+    },
+    {
+      "start": 39,
+      "duration": 8
+    },
+    {
+      "start": 47,
+      "duration": 8
+    },
+    {
+      "start": 55,
+      "duration": 7
+    },
+    {
+      "start": 62,
+      "duration": 8
+    },
+    {
+      "start": 70,
+      "duration": 8
+    },
+    {
+      "start": 78,
+      "duration": 7
+    },
+    {
+      "start": 85,
+      "duration": 9
+    },
+    {
+      "start": 94,
+      "duration": 8
+    },
+    {
+      "start": 102,
+      "duration": 12
+    },
+    {
+      "start": 114,
+      "duration": 8
+    },
+    {
+      "start": 122,
+      "duration": 9
+    },
+    {
+      "start": 131,
+      "duration": 7
+    },
+    {
+      "start": 138,
+      "duration": 7
+    },
+    {
+      "start": 145,
+      "duration": 8
+    },
+    {
+      "start": 153,
+      "duration": 9
+    },
+    {
+      "start": 162,
+      "duration": 8
+    },
+    {
+      "start": 170,
+      "duration": 7
+    },
+    {
+      "start": 177,
+      "duration": 8
+    },
+    {
+      "start": 185,
+      "duration": 6
+    },
+    {
+      "start": 191,
+      "duration": 11
+    },
+    {
+      "start": 202,
+      "duration": 7
+    },
+    {
+      "start": 209,
+      "duration": 7
+    },
+    {
+      "start": 216,
+      "duration": 8
+    },
+    {
+      "start": 224,
+      "duration": 7
+    },
+    {
+      "start": 231,
+      "duration": 7
+    },
+    {
+      "start": 238,
+      "duration": 5
+    },
+    {
+      "start": 243,
+      "duration": 8
+    },
+    {
+      "start": 251,
+      "duration": 7
+    },
+    {
+      "start": 258,
+      "duration": 9
+    },
+    {
+      "start": 267,
+      "duration": 2
+    },
+    {
+      "start": 269,
+      "duration": 1
+    }
+  ],
+  "originalNativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  }
 }

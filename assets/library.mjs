@@ -1,5 +1,5 @@
-import { dataRevision } from './data.mjs?v=20261004-14';
-import { videoId } from './captions.mjs?v=20261004-14';
+import { dataRevision } from './data.mjs?v=20261005-1';
+import { videoId } from './captions.mjs?v=20261005-1';
 
 // Chapter pages have their own stable IDs; the player still receives a real
 // YouTube ID from playbackVideoId. Unknown input remains subject to URL checks.

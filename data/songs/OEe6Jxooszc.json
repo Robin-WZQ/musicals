@@ -105,10 +105,10 @@
       "duration": 6
     }
   ],
-  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "user-supplied-timestamps",
   "textReviewStatus": "unreviewed-native-auto",
   "phoneticReviewStatus": "not-generated",
   "studyKind": "native-caption-session",
@@ -117,5 +117,88 @@
   "productionYear": 2023,
   "albumReleaseYear": 2025,
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "originalNativeCaptionRanges": [
+    {
+      "start": 0,
+      "duration": 8
+    },
+    {
+      "start": 8,
+      "duration": 7
+    },
+    {
+      "start": 15,
+      "duration": 10
+    },
+    {
+      "start": 25,
+      "duration": 8
+    },
+    {
+      "start": 33,
+      "duration": 7
+    },
+    {
+      "start": 40,
+      "duration": 7
+    },
+    {
+      "start": 47,
+      "duration": 2
+    },
+    {
+      "start": 49,
+      "duration": 11
+    },
+    {
+      "start": 60,
+      "duration": 10
+    },
+    {
+      "start": 70,
+      "duration": 8
+    },
+    {
+      "start": 78,
+      "duration": 8
+    },
+    {
+      "start": 86,
+      "duration": 2
+    },
+    {
+      "start": 88,
+      "duration": 10
+    },
+    {
+      "start": 98,
+      "duration": 10
+    },
+    {
+      "start": 108,
+      "duration": 7
+    },
+    {
+      "start": 115,
+      "duration": 9
+    },
+    {
+      "start": 124,
+      "duration": 8
+    },
+    {
+      "start": 132,
+      "duration": 8
+    },
+    {
+      "start": 140,
+      "duration": 6
+    }
+  ],
+  "originalNativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  }
 }

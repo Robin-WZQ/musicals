@@ -29,6 +29,97 @@
   },
   "nativeCaptionRanges": [
     {
+      "start": 8,
+      "duration": 9
+    },
+    {
+      "start": 17,
+      "duration": 8
+    },
+    {
+      "start": 25,
+      "duration": 9
+    },
+    {
+      "start": 34,
+      "duration": 7
+    },
+    {
+      "start": 41,
+      "duration": 9
+    },
+    {
+      "start": 50,
+      "duration": 8
+    },
+    {
+      "start": 58,
+      "duration": 6
+    },
+    {
+      "start": 64,
+      "duration": 7
+    },
+    {
+      "start": 71,
+      "duration": 8
+    },
+    {
+      "start": 79,
+      "duration": 8
+    },
+    {
+      "start": 87,
+      "duration": 7
+    },
+    {
+      "start": 94,
+      "duration": 9
+    },
+    {
+      "start": 103,
+      "duration": 10
+    },
+    {
+      "start": 113,
+      "duration": 4
+    },
+    {
+      "start": 117,
+      "duration": 9
+    },
+    {
+      "start": 126,
+      "duration": 7
+    },
+    {
+      "start": 133,
+      "duration": 8
+    },
+    {
+      "start": 141,
+      "duration": 8
+    },
+    {
+      "start": 149,
+      "duration": 7
+    }
+  ],
+  "nativeTimingSource": "user-supplied-time-caption",
+  "nativeTimingLanguage": "fr",
+  "nativeTimingPrecision": "seconds-next-start",
+  "timingReviewStatus": "user-supplied-timestamps",
+  "textReviewStatus": "unreviewed-native-auto",
+  "phoneticReviewStatus": "not-generated",
+  "studyKind": "native-caption-session",
+  "mediaKind": "stage-video",
+  "uploadDate": "20250329",
+  "productionYear": 2023,
+  "albumReleaseYear": 2025,
+  "sourceCheckedAt": "2026-10-04",
+  "description": "",
+  "originalNativeCaptionRanges": [
+    {
       "start": 0,
       "duration": 8
     },
@@ -109,17 +200,9 @@
       "duration": 7
     }
   ],
-  "nativeTimingSource": "youtube-transcript-ui-timestamps",
-  "nativeTimingLanguage": "fr",
-  "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
-  "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
-  "mediaKind": "stage-video",
-  "uploadDate": "20250329",
-  "productionYear": 2023,
-  "albumReleaseYear": 2025,
-  "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "originalNativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  }
 }

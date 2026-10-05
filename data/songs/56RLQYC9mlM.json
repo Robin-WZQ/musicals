@@ -117,10 +117,10 @@
       "duration": 6
     }
   ],
-  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "user-supplied-timestamps",
   "textReviewStatus": "unreviewed-native-auto",
   "phoneticReviewStatus": "not-generated",
   "studyKind": "native-caption-session",
@@ -129,5 +129,100 @@
   "productionYear": 2023,
   "albumReleaseYear": 2025,
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "originalNativeCaptionRanges": [
+    {
+      "start": 1,
+      "duration": 5
+    },
+    {
+      "start": 6,
+      "duration": 6
+    },
+    {
+      "start": 12,
+      "duration": 8
+    },
+    {
+      "start": 20,
+      "duration": 8
+    },
+    {
+      "start": 28,
+      "duration": 3
+    },
+    {
+      "start": 31,
+      "duration": 7
+    },
+    {
+      "start": 38,
+      "duration": 9
+    },
+    {
+      "start": 47,
+      "duration": 6
+    },
+    {
+      "start": 53,
+      "duration": 8
+    },
+    {
+      "start": 61,
+      "duration": 7
+    },
+    {
+      "start": 68,
+      "duration": 8
+    },
+    {
+      "start": 76,
+      "duration": 9
+    },
+    {
+      "start": 85,
+      "duration": 8
+    },
+    {
+      "start": 93,
+      "duration": 7
+    },
+    {
+      "start": 100,
+      "duration": 8
+    },
+    {
+      "start": 108,
+      "duration": 9
+    },
+    {
+      "start": 117,
+      "duration": 13
+    },
+    {
+      "start": 130,
+      "duration": 5
+    },
+    {
+      "start": 135,
+      "duration": 6
+    },
+    {
+      "start": 141,
+      "duration": 11
+    },
+    {
+      "start": 152,
+      "duration": 8
+    },
+    {
+      "start": 160,
+      "duration": 6
+    }
+  ],
+  "originalNativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  }
 }

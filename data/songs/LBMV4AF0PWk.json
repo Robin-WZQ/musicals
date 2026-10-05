@@ -117,10 +117,10 @@
       "duration": 8
     }
   ],
-  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "user-supplied-timestamps",
   "textReviewStatus": "unreviewed-native-auto",
   "phoneticReviewStatus": "not-generated",
   "studyKind": "native-caption-session",
@@ -129,5 +129,100 @@
   "productionYear": 2023,
   "albumReleaseYear": 2025,
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "originalNativeCaptionRanges": [
+    {
+      "start": 0,
+      "duration": 4
+    },
+    {
+      "start": 4,
+      "duration": 3
+    },
+    {
+      "start": 7,
+      "duration": 7
+    },
+    {
+      "start": 14,
+      "duration": 8
+    },
+    {
+      "start": 22,
+      "duration": 8
+    },
+    {
+      "start": 30,
+      "duration": 7
+    },
+    {
+      "start": 37,
+      "duration": 8
+    },
+    {
+      "start": 45,
+      "duration": 8
+    },
+    {
+      "start": 53,
+      "duration": 8
+    },
+    {
+      "start": 61,
+      "duration": 7
+    },
+    {
+      "start": 68,
+      "duration": 7
+    },
+    {
+      "start": 75,
+      "duration": 8
+    },
+    {
+      "start": 83,
+      "duration": 8
+    },
+    {
+      "start": 91,
+      "duration": 7
+    },
+    {
+      "start": 98,
+      "duration": 8
+    },
+    {
+      "start": 106,
+      "duration": 8
+    },
+    {
+      "start": 114,
+      "duration": 8
+    },
+    {
+      "start": 122,
+      "duration": 10
+    },
+    {
+      "start": 132,
+      "duration": 10
+    },
+    {
+      "start": 142,
+      "duration": 8
+    },
+    {
+      "start": 150,
+      "duration": 7
+    },
+    {
+      "start": 157,
+      "duration": 8
+    }
+  ],
+  "originalNativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  }
 }

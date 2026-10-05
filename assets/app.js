@@ -1,8 +1,8 @@
-import { videoId, clock, normalizeCues, cueAt } from './captions.mjs?v=20261004-14';
-import { attachStudyNotes } from './study.mjs?v=20261004-14';
-import { musicalURL, learningURL, tracksFor, resolveTrackId } from './library.mjs?v=20261004-14';
-import { fetchData } from './data.mjs?v=20261004-14';
-import { playbackStart, nativeCues, importStudyCaptions } from './native.mjs?v=20261004-14';
+import { videoId, clock, normalizeCues, cueAt } from './captions.mjs?v=20261005-1';
+import { attachStudyNotes } from './study.mjs?v=20261005-1';
+import { musicalURL, learningURL, tracksFor, resolveTrackId } from './library.mjs?v=20261005-1';
+import { fetchData } from './data.mjs?v=20261005-1';
+import { playbackStart, nativeCues, importStudyCaptions } from './native.mjs?v=20261005-1';
 
 const $ = id => document.getElementById(id);
 let catalog = [], musicals = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
@@ -295,7 +295,8 @@ function renderInfo() {
   $('source-note').textContent = song.captionSource === 'local' ? '你导入的字幕仅用于当前页面，不会上传。请使用对应视频的 YouTube 字幕。' : `字幕与时间戳来自 YouTube${song.isGenerated ? ' 自动字幕' : ''}。${translated ? `译文来自 YouTube（${languageName(song.translationLanguage || 'en')}）。` : '当前没有可用译文。'}${song.fetchedAt ? ` 更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
   if (song.captionSource === 'youtube-player') {
     $('language-label').textContent = '法语'; $('caption-badge').textContent = song.studyKind === 'instrumental' ? '器乐 · 舞台舞蹈' : nativeMode() ? (song.isGenerated ? '法语自动字幕' : '人工法语字幕') : song.performanceYear ? `${song.performanceYear} 年舞台版` : '法语舞台原唱';
-    $('source-note').textContent = nativeMode() ? `法语${song.isGenerated ? '自动' : '人工'}字幕可在 YouTube 播放器中开启。分段时间参考同一录像${song.nativeTimingLanguage === 'en' ? '的英文' : '的法语'}转录面板，精度为整秒，段尾按下一条时间点定位。${song.isGenerated ? '识别文字尚未校对，分段用于重听原唱。' : ''}` : song.mediaKind === 'audio' ? '本曲使用原版 DVD 的音轨视频。全剧录像另有人工法语字幕，可在 YouTube 中开启。' : '本曲使用法语舞台视频，可在 YouTube 播放器中开启字幕。';
+    const timingSource = song.nativeTimingSource === 'user-supplied-time-caption' ? '分段时间采用你提供的时间字幕文件' : `分段时间参考同一录像${song.nativeTimingLanguage === 'en' ? '的英文' : '的法语'}转录面板`;
+    $('source-note').textContent = nativeMode() ? `法语${song.isGenerated ? '自动' : '人工'}字幕可在 YouTube 播放器中开启。${timingSource}，精度为整秒，段尾按下一条时间点定位。${song.isGenerated ? '识别文字尚未校对，分段用于重听原唱。' : ''}` : song.mediaKind === 'audio' ? '本曲使用原版 DVD 的音轨视频。全剧录像另有人工法语字幕，可在 YouTube 中开启。' : '本曲使用法语舞台视频，可在 YouTube 播放器中开启字幕。';
     if (song.studyKind === 'instrumental') $('source-note').textContent = '舞会器乐选自2010年舞台录像，播放范围按本场曲目时间表定位。';
   }
   if (song.studyNotes && cues.some(c => c.ipa)) {

@@ -125,10 +125,10 @@
       "duration": 6
     }
   ],
-  "nativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "source-timestamps",
+  "timingReviewStatus": "user-supplied-timestamps",
   "textReviewStatus": "unreviewed-native-auto",
   "phoneticReviewStatus": "not-generated",
   "studyKind": "native-caption-session",
@@ -137,5 +137,108 @@
   "productionYear": 2023,
   "albumReleaseYear": 2025,
   "sourceCheckedAt": "2026-10-04",
-  "description": ""
+  "description": "",
+  "originalNativeCaptionRanges": [
+    {
+      "start": 4,
+      "duration": 6
+    },
+    {
+      "start": 10,
+      "duration": 9
+    },
+    {
+      "start": 19,
+      "duration": 9
+    },
+    {
+      "start": 28,
+      "duration": 9
+    },
+    {
+      "start": 37,
+      "duration": 8
+    },
+    {
+      "start": 45,
+      "duration": 9
+    },
+    {
+      "start": 54,
+      "duration": 7
+    },
+    {
+      "start": 61,
+      "duration": 8
+    },
+    {
+      "start": 69,
+      "duration": 6
+    },
+    {
+      "start": 75,
+      "duration": 6
+    },
+    {
+      "start": 81,
+      "duration": 9
+    },
+    {
+      "start": 90,
+      "duration": 3
+    },
+    {
+      "start": 93,
+      "duration": 2
+    },
+    {
+      "start": 95,
+      "duration": 8
+    },
+    {
+      "start": 103,
+      "duration": 9
+    },
+    {
+      "start": 112,
+      "duration": 8
+    },
+    {
+      "start": 120,
+      "duration": 10
+    },
+    {
+      "start": 130,
+      "duration": 9
+    },
+    {
+      "start": 139,
+      "duration": 8
+    },
+    {
+      "start": 147,
+      "duration": 9
+    },
+    {
+      "start": 156,
+      "duration": 7
+    },
+    {
+      "start": 163,
+      "duration": 6
+    },
+    {
+      "start": 169,
+      "duration": 7
+    },
+    {
+      "start": 176,
+      "duration": 6
+    }
+  ],
+  "originalNativeTimingSource": "youtube-transcript-ui-timestamps",
+  "nativeTimingInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  }
 }

@@ -12,7 +12,7 @@ test('Molière keeps the supplied playlist order and time segments for each actu
  assert.equal(tracks.length,45);assert.deepEqual(tracks.map(t=>t.id),musical.trackIds);
  assert.equal(tracks[0].id,'DfNkuu0ENTI');assert.equal(tracks.at(-1).id,'QS_MJxvB93Q');
  assert.equal(musical.year,2023);assert.equal(musical.albumReleaseYear,2025);
- let count=0;
+ let count=0,originalCount=0;
  for(const [i,track] of tracks.entries()){
   const song=read(`data/songs/${track.id}.json`),info=read(`data/info/${track.id}.json`);
   assert.equal(song.playbackVideoId,track.id);assert.equal(song.trackNumber,i+1);
@@ -23,10 +23,18 @@ test('Molière keeps the supplied playlist order and time segments for each actu
   assert.deepEqual(song.cues,[]);assert.match(statusLabel(track),/法语字幕（自动）/);
   assert.equal(song.performanceYear,undefined);assert.match(song.uploadDate,/^2025\d{4}$/);
   const ranges=nativeCues(song);assert.equal(ranges.length,track.nativeCueCount);count+=ranges.length;
+  assert.equal(song.nativeTimingSource,'user-supplied-time-caption');
+  assert.equal(song.nativeTimingInput.file,'time-caption.txt');
+  assert.match(song.nativeTimingInput.sha256,/^[a-f0-9]{64}$/);
+  originalCount+=song.originalNativeCaptionRanges.length;
   assert.ok(ranges.length>0);assert.ok(ranges.every((r,j)=>r.start>=0&&r.duration>0&&r.start+r.duration<=song.duration&&(!j||r.start>=ranges[j-1].start+ranges[j-1].duration)));
   assert.ok(song.nativeCaptionRanges.every(r=>Object.keys(r).sort().join(',')==='duration,start'));
   assert.equal(info.sections.length,3);assert.ok(info.sections.every(s=>s.paragraphs.every(p=>/\p{Script=Han}/u.test(p))));
   assert.ok(info.sources.some(s=>s.url===song.sourceURL));
  }
- assert.equal(count,835);
+ assert.equal(count,831);assert.equal(originalCount,835);
+ const imported=read('data/moliere-timing-import.json');
+ assert.equal(imported.sourceAnchors,833);assert.equal(imported.segments,831);
+ assert.deepEqual(imported.tracks[19].duplicateSourceLines,[401]);
+ assert.deepEqual(imported.tracks[42].endMarkerSourceLines,[860]);
 });

@@ -18,3 +18,11 @@
 - [法兰西喜剧院的莫里哀生平资料](https://www.comedie-francaise.fr/moliere)
 
 中文歌名为本站译名。每条介绍分别概述人物心情、剧情位置和原版角色；部分短对白按播放列表标题及邻接场景介绍。
+
+## 2026-10-05 用户时间轴更新
+
+发布版本 `20261005-1`。采用用户提供的 `time-caption.txt` 中45段、833条时间点；合并第20段重复的零秒时间点，去掉第43段恰好落在视频结束时的标记，得到831个有效重听片段。每段起点对应文件的时间点，段尾取下一起点，最后一段延伸到该视频结束。
+
+原835条转录面板分段保留在 `originalNativeCaptionRanges`。新时间表的文件名和SHA256单独记录，详细报告为 `data/moliere-timing-import.json`。这次仅更新时间轴及来源说明，字幕识别文字和四层学习内容的状态保持原记录。
+
+重新导入时间轴：`python scripts/import_moliere_times.py --input ../time-caption.txt`。

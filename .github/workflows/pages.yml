@@ -47,6 +47,8 @@ jobs:
         run: python tests/notre-study-import.test.py
       - name: Verify user-supplied 2010 transcript timestamps
         run: python -m unittest discover -s scripts -p test_romeo_timed_import.py
+      - name: Verify per-video user-supplied timestamps
+        run: python -m unittest discover -s scripts -p test_moliere_times.py
       - name: Read YouTube metadata and captions (no audio download)
         env:
           VIDEO_INPUT: ${{ inputs.youtube_url }}

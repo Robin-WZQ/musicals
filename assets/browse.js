@@ -1,5 +1,5 @@
-import { musicalURL, learningURL, tracksFor, statusLabel } from './library.mjs?v=20261004-14';
-import { fetchData } from './data.mjs?v=20261004-14';
+import { musicalURL, learningURL, tracksFor, statusLabel } from './library.mjs?v=20261005-1';
+import { fetchData } from './data.mjs?v=20261005-1';
 const $ = id => document.getElementById(id);
 const node = (tag, cls, text) => { const el = document.createElement(tag); if (cls) el.className = cls; if (text) el.textContent = text; return el; };
 async function json(url) { const response = await fetchData(url); if (!response.ok) throw new Error('曲目库暂时无法读取，请刷新重试。'); return response.json(); }
