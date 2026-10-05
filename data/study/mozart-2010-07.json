@@ -1,0 +1,1076 @@
+{
+  "videoId": "mozart-2010-07",
+  "playbackVideoId": "83Qn2IvP_-I",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "97aaf400c790393fcb53f1f43bb1002cc0955e5fa8ec3c8c767c03260daed16c",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "法语原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "2010年巴黎原唱录像",
+      "url": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=1773"
+    }
+  ],
+  "entries": [
+    {
+      "start": 1773,
+      "sourceText": "Mais pourquoi s'en faire",
+      "ipa": "[mɛ puʁkwa sɑ̃ fɛʁ]",
+      "ear": "梅 普赫克乌阿 桑 费赫",
+      "meaning": "可为什么要为此烦恼？",
+      "sourceLineId": "mozart-timed-194-1",
+      "suppliedText": "# Six pieds sous terre # Mais pourquoi s'en faire Demain nos guerres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1773,
+        "anchorEnd": 1783.0,
+        "sourceLineNumber": 194,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1779.111,
+      "sourceText": "Demain nos guerres",
+      "ipa": "[dəmɛ̃ no ɡɛʁ]",
+      "ear": "德曼 诺 盖赫",
+      "meaning": "明天，我们之间的争斗。",
+      "sourceLineId": "mozart-timed-194-2",
+      "suppliedText": "# Six pieds sous terre # Mais pourquoi s'en faire Demain nos guerres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1773,
+        "anchorEnd": 1783.0,
+        "sourceLineNumber": 194,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1784,
+      "sourceText": "Voleront en l'air",
+      "ipa": "[volʁɔ̃ ɑ̃ lɛʁ]",
+      "ear": "沃勒洪 昂 莱赫",
+      "meaning": "全都会烟消云散。",
+      "sourceLineId": "mozart-timed-196-1",
+      "suppliedText": "Voleront en l'air Six pieds sous terre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1784,
+        "anchorEnd": 1790.379,
+        "sourceLineNumber": 196,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1786.944,
+      "sourceText": "Six pieds sous terre",
+      "ipa": "[si pje su tɛʁ]",
+      "ear": "西 普耶诶 苏 泰赫",
+      "meaning": "埋进六尺深的地下。",
+      "sourceLineId": "mozart-timed-196-2",
+      "suppliedText": "Voleront en l'air Six pieds sous terre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1784,
+        "anchorEnd": 1790.379,
+        "sourceLineNumber": 196,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1793,
+      "sourceText": "En attendant, tu m'exaspères",
+      "ipa": "[ɑ̃n‿atɑ̃dɑ̃ ty mɛɡzaspɛʁ]",
+      "ear": "昂恩 阿唐当 蒂于 梅格扎斯佩赫",
+      "meaning": "与此同时，你激怒了我",
+      "sourceLineId": "mozart-timed-197-1",
+      "suppliedText": "En attendant, tu m'exaspères Petite garce sous tes grands airs T'es bonne à vivre avec les soeurs",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1793,
+        "anchorEnd": 1803,
+        "sourceLineNumber": 197,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1795.812,
+      "sourceText": "Petite garce sous tes grands airs",
+      "ipa": "[pətit ɡaʁs su te ɡʁɑ̃z‿ɛʁ]",
+      "ear": "珀蒂特 嘎赫斯 苏 特 格杭兹 艾赫",
+      "meaning": "摆出高傲模样的小婊子。",
+      "sourceLineId": "mozart-timed-197-2",
+      "suppliedText": "En attendant, tu m'exaspères Petite garce sous tes grands airs T'es bonne à vivre avec les soeurs",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1793,
+        "anchorEnd": 1803,
+        "sourceLineNumber": 197,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1799.25,
+      "sourceText": "T'es bonne à vivre avec les soeurs",
+      "ipa": "[tɛ bɔn‿a vivʁ‿avɛk le sœʁ]",
+      "ear": "泰 博恩 阿 维弗赫 阿韦克 莱 瑟厄赫",
+      "meaning": "你倒适合去跟修女们过日子。",
+      "sourceLineId": "mozart-timed-197-3",
+      "suppliedText": "En attendant, tu m'exaspères Petite garce sous tes grands airs T'es bonne à vivre avec les soeurs",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1793,
+        "anchorEnd": 1803,
+        "sourceLineNumber": 197,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1803,
+      "sourceText": "Regarde la gueule de ton bonheur",
+      "ipa": "[ʁəɡaʁd la ɡœl də tɔ̃ bɔnœʁ]",
+      "ear": "赫嘎赫德 拉 格厄勒 德 通 博讷厄赫",
+      "meaning": "看看你那副所谓幸福的嘴脸。",
+      "sourceLineId": "mozart-timed-198-1",
+      "suppliedText": "Regarde la gueule de ton bonheur Mais pourquoi s'en faire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1803,
+        "anchorEnd": 1812.7,
+        "sourceLineNumber": 198,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1808.254,
+      "sourceText": "Mais pourquoi s'en faire",
+      "ipa": "[mɛ puʁkwa sɑ̃ fɛʁ]",
+      "ear": "梅 普赫克乌阿 桑 费赫",
+      "meaning": "可为什么要为此烦恼？",
+      "sourceLineId": "mozart-timed-198-2",
+      "suppliedText": "Regarde la gueule de ton bonheur Mais pourquoi s'en faire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1803,
+        "anchorEnd": 1812.7,
+        "sourceLineNumber": 198,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1813,
+      "sourceText": "Nos petites guerres",
+      "ipa": "[no pətit ɡɛʁ]",
+      "ear": "诺 珀蒂特 盖赫",
+      "meaning": "我们的小战争",
+      "sourceLineId": "mozart-timed-199-1",
+      "suppliedText": "Nos petites guerres Voleront en l'air",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1813,
+        "anchorEnd": 1820.86,
+        "sourceLineNumber": 199,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1817.232,
+      "sourceText": "Voleront en l'air",
+      "ipa": "[volʁɔ̃ ɑ̃ lɛʁ]",
+      "ear": "沃勒洪 昂 莱赫",
+      "meaning": "全都会烟消云散。",
+      "sourceLineId": "mozart-timed-199-2",
+      "suppliedText": "Nos petites guerres Voleront en l'air",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1813,
+        "anchorEnd": 1820.86,
+        "sourceLineNumber": 199,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1821,
+      "sourceText": "Six pieds sous terre",
+      "ipa": "[si pje su tɛʁ]",
+      "ear": "西 普耶诶 苏 泰赫",
+      "meaning": "埋进六尺深的地下。",
+      "sourceLineId": "mozart-timed-200-1",
+      "suppliedText": "Six pieds sous terre Tu triches avec les sentiments",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1821,
+        "anchorEnd": 1828,
+        "sourceLineNumber": 200,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1824.062,
+      "sourceText": "Tu triches avec les sentiments",
+      "ipa": "[ty tʁiʃ‿avɛk le sɑ̃timɑ̃]",
+      "ear": "蒂于 特希什 阿韦克 莱 桑蒂芒",
+      "meaning": "你在感情里耍手段。",
+      "sourceLineId": "mozart-timed-200-2",
+      "suppliedText": "Six pieds sous terre Tu triches avec les sentiments",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1821,
+        "anchorEnd": 1828,
+        "sourceLineNumber": 200,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1828,
+      "sourceText": "Mais c'est à toi-même que tu mens",
+      "ipa": "[mɛ sɛt‿a twamɛm kə ty mɑ̃]",
+      "ear": "梅 塞特 阿 特乌阿梅姆 克 蒂于 芒",
+      "meaning": "可你真正骗的是自己。",
+      "sourceLineId": "mozart-timed-201-1",
+      "suppliedText": "Mais c'est à toi-même que tu mens Avec ta morale de bigote tu prends ton pied quand tu tricotes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1828,
+        "anchorEnd": 1838.46,
+        "sourceLineNumber": 201,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1831.804,
+      "sourceText": "Avec ta morale de bigote tu prends ton pied quand tu tricotes",
+      "ipa": "[avɛk ta moʁal də biɡɔt ty pʁɑ̃ tɔ̃ pje kɑ̃ ty tʁikot]",
+      "ear": "阿韦克 塔 莫哈勒 德 比果特 蒂于 普杭 通 普耶诶 康 蒂于 特希科特",
+      "meaning": "你这装虔诚的人，大概织毛衣就能让你乐上天。",
+      "sourceLineId": "mozart-timed-201-2",
+      "suppliedText": "Mais c'est à toi-même que tu mens Avec ta morale de bigote tu prends ton pied quand tu tricotes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1828,
+        "anchorEnd": 1838.46,
+        "sourceLineNumber": 201,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1842,
+      "sourceText": "Mais pourquoi s'en faire",
+      "ipa": "[mɛ puʁkwa sɑ̃ fɛʁ]",
+      "ear": "梅 普赫克乌阿 桑 费赫",
+      "meaning": "可为什么要为此烦恼？",
+      "sourceLineId": "mozart-timed-202-1",
+      "suppliedText": "Mais pourquoi s'en faire Nos petites guerres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1842,
+        "anchorEnd": 1850,
+        "sourceLineNumber": 202,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1846.889,
+      "sourceText": "Nos petites guerres",
+      "ipa": "[no pətit ɡɛʁ]",
+      "ear": "诺 珀蒂特 盖赫",
+      "meaning": "我们的小战争",
+      "sourceLineId": "mozart-timed-202-2",
+      "suppliedText": "Mais pourquoi s'en faire Nos petites guerres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1842,
+        "anchorEnd": 1850,
+        "sourceLineNumber": 202,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1850,
+      "sourceText": "Voleront en l'air",
+      "ipa": "[volʁɔ̃ ɑ̃ lɛʁ]",
+      "ear": "沃勒洪 昂 莱赫",
+      "meaning": "全都会烟消云散。",
+      "sourceLineId": "mozart-timed-203-1",
+      "suppliedText": "Voleront en l'air Six pieds sous terre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1850,
+        "anchorEnd": 1856.699,
+        "sourceLineNumber": 203,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1853.092,
+      "sourceText": "Six pieds sous terre",
+      "ipa": "[si pje su tɛʁ]",
+      "ear": "西 普耶诶 苏 泰赫",
+      "meaning": "埋进六尺深的地下。",
+      "sourceLineId": "mozart-timed-203-2",
+      "suppliedText": "Voleront en l'air Six pieds sous terre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1850,
+        "anchorEnd": 1856.699,
+        "sourceLineNumber": 203,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1859,
+      "sourceText": "Le temps passe",
+      "ipa": "[lə tɑ̃ pas]",
+      "ear": "勒 唐 帕斯",
+      "meaning": "时间流逝",
+      "sourceLineId": "mozart-timed-204-1",
+      "suppliedText": "Le temps passe Devant nous l'impasse Avant le passage Sachons êtres sages",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1859,
+        "anchorEnd": 1867,
+        "sourceLineNumber": 204,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1860.391,
+      "sourceText": "Devant nous l'impasse",
+      "ipa": "[dəvɑ̃ nu lɛ̃pas]",
+      "ear": "德旺 努 兰帕斯",
+      "meaning": "前方是一条死路。",
+      "sourceLineId": "mozart-timed-204-2",
+      "suppliedText": "Le temps passe Devant nous l'impasse Avant le passage Sachons êtres sages",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1859,
+        "anchorEnd": 1867,
+        "sourceLineNumber": 204,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1862.826,
+      "sourceText": "Avant le passage",
+      "ipa": "[avɑ̃ lə pasaʒ]",
+      "ear": "阿旺 勒 帕萨日",
+      "meaning": "在走到终点之前。",
+      "sourceLineId": "mozart-timed-204-3",
+      "suppliedText": "Le temps passe Devant nous l'impasse Avant le passage Sachons êtres sages",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1859,
+        "anchorEnd": 1867,
+        "sourceLineNumber": 204,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1864.913,
+      "sourceText": "Sachons être sages",
+      "ipa": "[saʃɔ̃ ɛtʁ saʒ]",
+      "ear": "萨雄 艾特赫 萨日",
+      "meaning": "让我们学着成熟一些。",
+      "sourceLineId": "mozart-timed-204-4",
+      "suppliedText": "Le temps passe Devant nous l'impasse Avant le passage Sachons êtres sages",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1859,
+        "anchorEnd": 1867,
+        "sourceLineNumber": 204,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1867,
+      "sourceText": "Je sais la faiblesse",
+      "ipa": "[ʒə sɛ la fɛblɛs]",
+      "ear": "热 塞 拉 费布莱斯",
+      "meaning": "我知道这些话有多无力。",
+      "sourceLineId": "mozart-timed-205-1",
+      "suppliedText": "Je sais la faiblesse De mes mots qui blessent Je m'en veux tant Le temps court",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1867,
+        "anchorEnd": 1877,
+        "sourceLineNumber": 205,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1870.333,
+      "sourceText": "De mes mots qui blessent",
+      "ipa": "[də me mo ki blɛs]",
+      "ear": "德 梅 莫 基 布莱斯",
+      "meaning": "那些伤人的话。",
+      "sourceLineId": "mozart-timed-205-2",
+      "suppliedText": "Je sais la faiblesse De mes mots qui blessent Je m'en veux tant Le temps court",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1867,
+        "anchorEnd": 1877,
+        "sourceLineNumber": 205,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1873.25,
+      "sourceText": "Je m'en veux tant",
+      "ipa": "[ʒə mɑ̃ vø tɑ̃]",
+      "ear": "热 芒 弗厄 唐",
+      "meaning": "我如此自责。",
+      "sourceLineId": "mozart-timed-205-3",
+      "suppliedText": "Je sais la faiblesse De mes mots qui blessent Je m'en veux tant Le temps court",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1867,
+        "anchorEnd": 1877,
+        "sourceLineNumber": 205,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1875.333,
+      "sourceText": "Le temps court",
+      "ipa": "[lə tɑ̃ kuʁ]",
+      "ear": "勒 唐 库赫",
+      "meaning": "时间紧迫",
+      "sourceLineId": "mozart-timed-205-4",
+      "suppliedText": "Je sais la faiblesse De mes mots qui blessent Je m'en veux tant Le temps court",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1867,
+        "anchorEnd": 1877,
+        "sourceLineNumber": 205,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1877,
+      "sourceText": "Sans aucun recours",
+      "ipa": "[sɑ̃z‿okœ̃ ʁəkuʁ]",
+      "ear": "桑兹 奥坎 赫库赫",
+      "meaning": "谁也无法挽回。",
+      "sourceLineId": "mozart-timed-206-1",
+      "suppliedText": "Sans aucun recours Mes peurs m'encouragent À te mordre de rage Un dernier reproche",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1877,
+        "anchorEnd": 1885.939,
+        "sourceLineNumber": 206,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1879.158,
+      "sourceText": "Mes peurs m'encouragent",
+      "ipa": "[me pœʁ mɑ̃kuʁaʒ]",
+      "ear": "梅 珀厄赫 芒库哈日",
+      "meaning": "我的恐惧反而推着我向前。",
+      "sourceLineId": "mozart-timed-206-2",
+      "suppliedText": "Sans aucun recours Mes peurs m'encouragent À te mordre de rage Un dernier reproche",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1877,
+        "anchorEnd": 1885.939,
+        "sourceLineNumber": 206,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1881.624,
+      "sourceText": "À te mordre de rage",
+      "ipa": "[a tə mɔʁdʁ də ʁaʒ]",
+      "ear": "阿 特 莫赫德赫 德 哈日",
+      "meaning": "让我愤怒地咬向你。",
+      "sourceLineId": "mozart-timed-206-3",
+      "suppliedText": "Sans aucun recours Mes peurs m'encouragent À te mordre de rage Un dernier reproche",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1877,
+        "anchorEnd": 1885.939,
+        "sourceLineNumber": 206,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1883.781,
+      "sourceText": "Un dernier reproche",
+      "ipa": "[œ̃ dɛʁnje ʁəpʁɔʃ]",
+      "ear": "恩 戴赫恩耶诶 赫普霍什",
+      "meaning": "最后一次责备。",
+      "sourceLineId": "mozart-timed-206-4",
+      "suppliedText": "Sans aucun recours Mes peurs m'encouragent À te mordre de rage Un dernier reproche",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1877,
+        "anchorEnd": 1885.939,
+        "sourceLineNumber": 206,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1886,
+      "sourceText": "Et le mur se rapproche",
+      "ipa": "[e lə myʁ sə ʁapʁɔʃ]",
+      "ear": "诶 勒 米于赫 瑟 哈普霍什",
+      "meaning": "而高墙正越逼越近。",
+      "sourceLineId": "mozart-timed-207-1",
+      "suppliedText": "Et le mur se rapproche Je m'en veux autant T'en as usé, des miroirs, tu te maquilles trop pour te voir",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1886,
+        "anchorEnd": 1896.27,
+        "sourceLineNumber": 207,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1888.114,
+      "sourceText": "Je m'en veux autant",
+      "ipa": "[ʒə mɑ̃ vø otɑ̃]",
+      "ear": "热 芒 弗厄 奥唐",
+      "meaning": "我同样责怪自己。",
+      "sourceLineId": "mozart-timed-207-2",
+      "suppliedText": "Et le mur se rapproche Je m'en veux autant T'en as usé, des miroirs, tu te maquilles trop pour te voir",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1886,
+        "anchorEnd": 1896.27,
+        "sourceLineNumber": 207,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1890.229,
+      "sourceText": "T'en as usé, des miroirs, tu te maquilles trop pour te voir",
+      "ipa": "[tɑ̃ az‿yze de miʁwaʁ ty tə makij tʁo puʁ tə vwaʁ]",
+      "ear": "唐 阿兹 于泽 德 米赫乌阿赫 蒂于 特 玛基耶 特霍 普赫 特 弗乌阿赫",
+      "meaning": "你用了多少面镜子，妆画得太浓，连自己都看不清。",
+      "sourceLineId": "mozart-timed-207-3",
+      "suppliedText": "Et le mur se rapproche Je m'en veux autant T'en as usé, des miroirs, tu te maquilles trop pour te voir",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1886,
+        "anchorEnd": 1896.27,
+        "sourceLineNumber": 207,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1900,
+      "sourceText": "Toi, dans ta glace tu n'es personne, juste le reflet d'une petite conne",
+      "ipa": "[twa dɑ̃ ta ɡlas ty nɛ pɛʁsɔn ʒyst lə ʁəflɛ dyn pətit kɔn]",
+      "ear": "特乌阿 当 塔 格拉斯 蒂于 奈 佩赫索恩 日于斯特 勒 赫弗莱 迪于恩 珀蒂特 科恩",
+      "meaning": "镜子里的你什么都不是，只映出一个小蠢货。",
+      "sourceLineId": "mozart-timed-208-1",
+      "suppliedText": "Toi, dans ta glace tu n'es personne, juste le reflet d'une petite conne Pourquoi s'en faire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1900,
+        "anchorEnd": 1911.54,
+        "sourceLineNumber": 208,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1908.294,
+      "sourceText": "Pourquoi s'en faire",
+      "ipa": "[puʁkwa sɑ̃ fɛʁ]",
+      "ear": "普赫克乌阿 桑 费赫",
+      "meaning": "为什么要担心",
+      "sourceLineId": "mozart-timed-208-2",
+      "suppliedText": "Toi, dans ta glace tu n'es personne, juste le reflet d'une petite conne Pourquoi s'en faire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1900,
+        "anchorEnd": 1911.54,
+        "sourceLineNumber": 208,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1912,
+      "sourceText": "Nos petites guerres",
+      "ipa": "[no pətit ɡɛʁ]",
+      "ear": "诺 珀蒂特 盖赫",
+      "meaning": "我们的小战争",
+      "sourceLineId": "mozart-timed-209-1",
+      "suppliedText": "Nos petites guerres Voleront en l'air",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1912,
+        "anchorEnd": 1920,
+        "sourceLineNumber": 209,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1916.308,
+      "sourceText": "Voleront en l'air",
+      "ipa": "[volʁɔ̃ ɑ̃ lɛʁ]",
+      "ear": "沃勒洪 昂 莱赫",
+      "meaning": "全都会烟消云散。",
+      "sourceLineId": "mozart-timed-209-2",
+      "suppliedText": "Nos petites guerres Voleront en l'air",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1912,
+        "anchorEnd": 1920,
+        "sourceLineNumber": 209,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1920,
+      "sourceText": "Six pieds sous terre",
+      "ipa": "[si pje su tɛʁ]",
+      "ear": "西 普耶诶 苏 泰赫",
+      "meaning": "埋进六尺深的地下。",
+      "sourceLineId": "mozart-timed-210-1",
+      "suppliedText": "Six pieds sous terre Mais pourquoi s'en faire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1920,
+        "anchorEnd": 1927.74,
+        "sourceLineNumber": 210,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1923.01,
+      "sourceText": "Mais pourquoi s'en faire",
+      "ipa": "[mɛ puʁkwa sɑ̃ fɛʁ]",
+      "ear": "梅 普赫克乌阿 桑 费赫",
+      "meaning": "可为什么要为此烦恼？",
+      "sourceLineId": "mozart-timed-210-2",
+      "suppliedText": "Six pieds sous terre Mais pourquoi s'en faire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1920,
+        "anchorEnd": 1927.74,
+        "sourceLineNumber": 210,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1929,
+      "sourceText": "Nos petites guerres",
+      "ipa": "[no pətit ɡɛʁ]",
+      "ear": "诺 珀蒂特 盖赫",
+      "meaning": "我们的小战争",
+      "sourceLineId": "mozart-timed-211-1",
+      "suppliedText": "Nos petites guerres Voleront en l'air",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1929,
+        "anchorEnd": 1936.54,
+        "sourceLineNumber": 211,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1933.06,
+      "sourceText": "Voleront en l'air",
+      "ipa": "[volʁɔ̃ ɑ̃ lɛʁ]",
+      "ear": "沃勒洪 昂 莱赫",
+      "meaning": "全都会烟消云散。",
+      "sourceLineId": "mozart-timed-211-2",
+      "suppliedText": "Nos petites guerres Voleront en l'air",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1929,
+        "anchorEnd": 1936.54,
+        "sourceLineNumber": 211,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1937,
+      "sourceText": "Six pieds sous terre",
+      "ipa": "[si pje su tɛʁ]",
+      "ear": "西 普耶诶 苏 泰赫",
+      "meaning": "埋进六尺深的地下。",
+      "sourceLineId": "mozart-timed-212-1",
+      "suppliedText": "Six pieds sous terre - C'est un triomphe! - Comme je suis contente pour vous.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1937,
+        "anchorEnd": 1947,
+        "sourceLineNumber": 212,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1939.917,
+      "sourceText": "C'est un triomphe!",
+      "ipa": "[sɛt‿œ̃ tʁiɔ̃f]",
+      "ear": "塞特 恩 特希翁弗",
+      "meaning": "这是一场胜利！",
+      "sourceLineId": "mozart-timed-212-2",
+      "suppliedText": "Six pieds sous terre - C'est un triomphe! - Comme je suis contente pour vous.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1937,
+        "anchorEnd": 1947,
+        "sourceLineNumber": 212,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1942.0,
+      "sourceText": "Comme je suis contente pour vous.",
+      "ipa": "[kɔm ʒə sɥi kɔ̃tɑ̃t puʁ vu]",
+      "ear": "科姆 热 斯于伊 孔唐特 普赫 乌",
+      "meaning": "我为你感到多么高兴。",
+      "sourceLineId": "mozart-timed-212-3",
+      "suppliedText": "Six pieds sous terre - C'est un triomphe! - Comme je suis contente pour vous.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1937,
+        "anchorEnd": 1947,
+        "sourceLineNumber": 212,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1947,
+      "sourceText": "Merci!",
+      "ipa": "[mɛʁsi]",
+      "ear": "梅赫西",
+      "meaning": "谢谢！",
+      "sourceLineId": "mozart-timed-213-1",
+      "suppliedText": "Merci! Racontez-nous!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1947,
+        "anchorEnd": 1949.899,
+        "sourceLineNumber": 213,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1947.828,
+      "sourceText": "Racontez-nous!",
+      "ipa": "[ʁakɔ̃tenu]",
+      "ear": "哈孔特努",
+      "meaning": "告诉我们！",
+      "sourceLineId": "mozart-timed-213-2",
+      "suppliedText": "Merci! Racontez-nous!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1947,
+        "anchorEnd": 1949.899,
+        "sourceLineNumber": 213,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1950,
+      "sourceText": "Chère Aloysia, la princesse renouvelle votre engagement,",
+      "ipa": "[ʃɛʁ‿alwazja la pʁɛ̃sɛs ʁənuvɛl votʁ‿ɑ̃ɡaʒmɑ̃]",
+      "ear": "谢赫 阿勒乌阿兹耶阿 拉 普汉塞斯 赫努韦勒 沃特赫 昂嘎日芒",
+      "meaning": "亲爱的阿洛伊西娅，公主决定继续聘请你演唱，",
+      "sourceLineId": "mozart-timed-214-1",
+      "suppliedText": "Chère Aloysia, la princesse renouvelle votre engagement, - tant votre chant lui a plu! - Ça, j'en étais sûr!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1950,
+        "anchorEnd": 1958,
+        "sourceLineNumber": 214,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1954.889,
+      "sourceText": "tant votre chant lui a plu!",
+      "ipa": "[tɑ̃ votʁ ʃɑ̃ lɥi a ply]",
+      "ear": "唐 沃特赫 尚 勒于伊 阿 普吕",
+      "meaning": "她太喜欢你的歌声了！",
+      "sourceLineId": "mozart-timed-214-2",
+      "suppliedText": "Chère Aloysia, la princesse renouvelle votre engagement, - tant votre chant lui a plu! - Ça, j'en étais sûr!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1950,
+        "anchorEnd": 1958,
+        "sourceLineNumber": 214,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1956.667,
+      "sourceText": "Ça, j'en étais sûr!",
+      "ipa": "[sa ʒɑ̃ etɛ syʁ]",
+      "ear": "萨 让 诶泰 西于赫",
+      "meaning": "那，我确信！",
+      "sourceLineId": "mozart-timed-214-3",
+      "suppliedText": "Chère Aloysia, la princesse renouvelle votre engagement, - tant votre chant lui a plu! - Ça, j'en étais sûr!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1950,
+        "anchorEnd": 1958,
+        "sourceLineNumber": 214,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1958,
+      "sourceText": "Je vous remercie, Wolfgang.",
+      "ipa": "[ʒə vu ʁəmɛʁsi vɔlfɡɑ̃ɡ]",
+      "ear": "热 乌 赫梅赫西 沃勒弗冈格",
+      "meaning": "谢谢你，沃尔夫冈。",
+      "sourceLineId": "mozart-timed-215-1",
+      "suppliedText": "Je vous remercie, Wolfgang. C'était pas si difficile, hein? Wolfgang! Wolfgang!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1958,
+        "anchorEnd": 1965.26,
+        "sourceLineNumber": 215,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1960.723,
+      "sourceText": "C'était pas si difficile, hein?",
+      "ipa": "[setɛ pa si difisil ɛ̃]",
+      "ear": "塞泰 帕 西 迪菲西勒 安",
+      "meaning": "这并没有那么困难，不是吗？",
+      "sourceLineId": "mozart-timed-215-2",
+      "suppliedText": "Je vous remercie, Wolfgang. C'était pas si difficile, hein? Wolfgang! Wolfgang!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1958,
+        "anchorEnd": 1965.26,
+        "sourceLineNumber": 215,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1964.05,
+      "sourceText": "Wolfgang!",
+      "ipa": "[vɔlfɡɑ̃ɡ]",
+      "ear": "沃勒弗冈格",
+      "meaning": "沃尔夫冈！",
+      "sourceLineId": "mozart-timed-215-3",
+      "suppliedText": "Je vous remercie, Wolfgang. C'était pas si difficile, hein? Wolfgang! Wolfgang!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1958,
+        "anchorEnd": 1965.26,
+        "sourceLineNumber": 215,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1964.655,
+      "sourceText": "Wolfgang!",
+      "ipa": "[vɔlfɡɑ̃ɡ]",
+      "ear": "沃勒弗冈格",
+      "meaning": "沃尔夫冈！",
+      "sourceLineId": "mozart-timed-215-4",
+      "suppliedText": "Je vous remercie, Wolfgang. C'était pas si difficile, hein? Wolfgang! Wolfgang!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1958,
+        "anchorEnd": 1965.26,
+        "sourceLineNumber": 215,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1966,
+      "sourceText": "Maman?",
+      "ipa": "[mamɑ̃]",
+      "ear": "玛芒",
+      "meaning": "妈妈？",
+      "sourceLineId": "mozart-timed-216-1",
+      "suppliedText": "Maman? Qu'est-ce que tu fais là? Tiens. C'est pour toi. Pour moi?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1966,
+        "anchorEnd": 1972,
+        "sourceLineNumber": 216,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1966.545,
+      "sourceText": "Qu'est-ce que tu fais là?",
+      "ipa": "[kɛskə ty fɛ la]",
+      "ear": "凯斯克 蒂于 费 拉",
+      "meaning": "你在那里做什么？",
+      "sourceLineId": "mozart-timed-216-2",
+      "suppliedText": "Maman? Qu'est-ce que tu fais là? Tiens. C'est pour toi. Pour moi?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1966,
+        "anchorEnd": 1972,
+        "sourceLineNumber": 216,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1969.0,
+      "sourceText": "Tiens.",
+      "ipa": "[tjɛ̃]",
+      "ear": "特耶安",
+      "meaning": "这里。",
+      "sourceLineId": "mozart-timed-216-3",
+      "suppliedText": "Maman? Qu'est-ce que tu fais là? Tiens. C'est pour toi. Pour moi?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1966,
+        "anchorEnd": 1972,
+        "sourceLineNumber": 216,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1969.545,
+      "sourceText": "C'est pour toi.",
+      "ipa": "[sɛ puʁ twa]",
+      "ear": "塞 普赫 特乌阿",
+      "meaning": "这是给你的。",
+      "sourceLineId": "mozart-timed-216-4",
+      "suppliedText": "Maman? Qu'est-ce que tu fais là? Tiens. C'est pour toi. Pour moi?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1966,
+        "anchorEnd": 1972,
+        "sourceLineNumber": 216,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1970.909,
+      "sourceText": "Pour moi?",
+      "ipa": "[puʁ mwa]",
+      "ear": "普赫 姆乌阿",
+      "meaning": "给我的？",
+      "sourceLineId": "mozart-timed-216-5",
+      "suppliedText": "Maman? Qu'est-ce que tu fais là? Tiens. C'est pour toi. Pour moi?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1966,
+        "anchorEnd": 1972,
+        "sourceLineNumber": 216,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1972,
+      "sourceText": "Oui.",
+      "ipa": "[wi]",
+      "ear": "乌伊",
+      "meaning": "是的。",
+      "sourceLineId": "mozart-timed-217-1",
+      "suppliedText": "- Oui. Une lettre de ton père. - De bonnes nouvelles, au moins?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1972,
+        "anchorEnd": 1976,
+        "sourceLineNumber": 217,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1972.545,
+      "sourceText": "Une lettre de ton père.",
+      "ipa": "[yn lɛtʁ də tɔ̃ pɛʁ]",
+      "ear": "于恩 莱特赫 德 通 佩赫",
+      "meaning": "你父亲的一封信。",
+      "sourceLineId": "mozart-timed-217-2",
+      "suppliedText": "- Oui. Une lettre de ton père. - De bonnes nouvelles, au moins?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1972,
+        "anchorEnd": 1976,
+        "sourceLineNumber": 217,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1974.0,
+      "sourceText": "De bonnes nouvelles, au moins?",
+      "ipa": "[də bɔn nuvɛl o mwɛ̃]",
+      "ear": "德 博恩 努韦勒 奥 姆乌安",
+      "meaning": "至少是个好消息？",
+      "sourceLineId": "mozart-timed-217-3",
+      "suppliedText": "- Oui. Une lettre de ton père. - De bonnes nouvelles, au moins?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1972,
+        "anchorEnd": 1976,
+        "sourceLineNumber": 217,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

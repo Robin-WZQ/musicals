@@ -1,0 +1,1008 @@
+{
+  "videoId": "mozart-2010-16",
+  "playbackVideoId": "83Qn2IvP_-I",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "97aaf400c790393fcb53f1f43bb1002cc0955e5fa8ec3c8c767c03260daed16c",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "法语原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "2010年巴黎原唱录像",
+      "url": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=5323"
+    }
+  ],
+  "entries": [
+    {
+      "start": 5323,
+      "sourceText": "Cette nuit intenable insomnie",
+      "ipa": "[sɛt nɥi ɛ̃tnabl‿ɛ̃sɔmni]",
+      "ear": "塞特 恩于伊 安特纳布勒 安索姆尼",
+      "meaning": "这一夜，难以忍受的失眠。",
+      "sourceLineId": "mozart-timed-576-1",
+      "suppliedText": "# L'assasymphonie # Cette nuit intenable insomnie",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5323,
+        "anchorEnd": 5333.5,
+        "sourceLineNumber": 576,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5334,
+      "sourceText": "La folie me guette",
+      "ipa": "[la foli mə ɡɛt]",
+      "ear": "拉 佛利 默 盖特",
+      "meaning": "疯狂正等着我。",
+      "sourceLineId": "mozart-timed-578-1",
+      "suppliedText": "La folie me guette Je suis ce que je fuis",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5334,
+        "anchorEnd": 5341,
+        "sourceLineNumber": 578,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5337.294,
+      "sourceText": "Je suis ce que je fuis",
+      "ipa": "[ʒə sɥi sə kə ʒə fɥi]",
+      "ear": "热 斯于伊 瑟 克 热 弗于伊",
+      "meaning": "我就是自己想逃避的东西。",
+      "sourceLineId": "mozart-timed-578-2",
+      "suppliedText": "La folie me guette Je suis ce que je fuis",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5334,
+        "anchorEnd": 5341,
+        "sourceLineNumber": 578,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5341,
+      "sourceText": "Je subis cette cacophonie",
+      "ipa": "[ʒə sybi sɛt kakofoni]",
+      "ear": "热 西于比 塞特 卡科佛尼",
+      "meaning": "我忍受着这刺耳的喧响。",
+      "sourceLineId": "mozart-timed-579-1",
+      "suppliedText": "Je subis cette cacophonie Qui me scie la tête",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5341,
+        "anchorEnd": 5348,
+        "sourceLineNumber": 579,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5344.889,
+      "sourceText": "Qui me scie la tête",
+      "ipa": "[ki mə si la tɛt]",
+      "ear": "基 默 西 拉 泰特",
+      "meaning": "它把我的脑袋锯得生疼。",
+      "sourceLineId": "mozart-timed-579-2",
+      "suppliedText": "Je subis cette cacophonie Qui me scie la tête",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5341,
+        "anchorEnd": 5348,
+        "sourceLineNumber": 579,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5348,
+      "sourceText": "Assommante harmonie",
+      "ipa": "[asɔmɑ̃t‿aʁmoni]",
+      "ear": "阿索芒特 阿赫莫尼",
+      "meaning": "令人昏沉的和声。",
+      "sourceLineId": "mozart-timed-580-1",
+      "suppliedText": "Assommante harmonie Elle me dit tu paieras tes délits",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5348,
+        "anchorEnd": 5356,
+        "sourceLineNumber": 580,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5351.2,
+      "sourceText": "Elle me dit tu paieras tes délits",
+      "ipa": "[ɛl mə di ty pɛʁa te deli]",
+      "ear": "艾勒 默 迪 蒂于 佩哈 特 德利",
+      "meaning": "它对我说：你会为过错付出代价。",
+      "sourceLineId": "mozart-timed-580-2",
+      "suppliedText": "Assommante harmonie Elle me dit tu paieras tes délits",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5348,
+        "anchorEnd": 5356,
+        "sourceLineNumber": 580,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5356,
+      "sourceText": "Quoiqu'il advienne",
+      "ipa": "[kwakil‿advjɛn]",
+      "ear": "克乌阿基勒 阿德弗耶艾恩",
+      "meaning": "无论发生什么",
+      "sourceLineId": "mozart-timed-581-1",
+      "suppliedText": "Quoiqu'il advienne On traîne ses chaînes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5356,
+        "anchorEnd": 5365,
+        "sourceLineNumber": 581,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5360.765,
+      "sourceText": "On traîne ses chaînes",
+      "ipa": "[ɔ̃ tʁɛn se ʃɛn]",
+      "ear": "翁 特赫恩 塞 谢恩",
+      "meaning": "我们拖着自己的锁链。",
+      "sourceLineId": "mozart-timed-581-2",
+      "suppliedText": "Quoiqu'il advienne On traîne ses chaînes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5356,
+        "anchorEnd": 5365,
+        "sourceLineNumber": 581,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5365,
+      "sourceText": "Ses peines",
+      "ipa": "[se pɛn]",
+      "ear": "塞 佩恩",
+      "meaning": "自己的痛苦。",
+      "sourceLineId": "mozart-timed-582-1",
+      "suppliedText": "Ses peines Je voue mes nuits À l'Assasymphonie",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5365,
+        "anchorEnd": 5373,
+        "sourceLineNumber": 582,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5366.778,
+      "sourceText": "Je voue mes nuits",
+      "ipa": "[ʒə vu me nɥi]",
+      "ear": "热 乌 梅 恩于伊",
+      "meaning": "我把夜晚献给——",
+      "sourceLineId": "mozart-timed-582-2",
+      "suppliedText": "Ses peines Je voue mes nuits À l'Assasymphonie",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5365,
+        "anchorEnd": 5373,
+        "sourceLineNumber": 582,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5369.889,
+      "sourceText": "À l'Assasymphonie",
+      "ipa": "[a lasazɛ̃foni]",
+      "ear": "阿 拉萨赞佛尼",
+      "meaning": "这首杀人交响曲。",
+      "sourceLineId": "mozart-timed-582-3",
+      "suppliedText": "Ses peines Je voue mes nuits À l'Assasymphonie",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5365,
+        "anchorEnd": 5373,
+        "sourceLineNumber": 582,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5373,
+      "sourceText": "Aux requiems",
+      "ipa": "[o ʁekɥijɛm]",
+      "ear": "奥 赫克于伊耶艾姆",
+      "meaning": "献给那些安魂曲。",
+      "sourceLineId": "mozart-timed-583-1",
+      "suppliedText": "Aux requiems Tuant par dépit Ce que je sème",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5373,
+        "anchorEnd": 5383,
+        "sourceLineNumber": 583,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5376.529,
+      "sourceText": "Tuant par dépit",
+      "ipa": "[tyɑ̃ paʁ depi]",
+      "ear": "蒂于昂 帕赫 德皮",
+      "meaning": "在愤恨中杀死——",
+      "sourceLineId": "mozart-timed-583-2",
+      "suppliedText": "Aux requiems Tuant par dépit Ce que je sème",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5373,
+        "anchorEnd": 5383,
+        "sourceLineNumber": 583,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5379.471,
+      "sourceText": "Ce que je sème",
+      "ipa": "[sə kə ʒə sɛm]",
+      "ear": "瑟 克 热 塞姆",
+      "meaning": "我亲手播下的一切。",
+      "sourceLineId": "mozart-timed-583-3",
+      "suppliedText": "Aux requiems Tuant par dépit Ce que je sème",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5373,
+        "anchorEnd": 5383,
+        "sourceLineNumber": 583,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5383,
+      "sourceText": "Je voue mes nuits à l'Assasymphonie",
+      "ipa": "[ʒə vu me nɥi a lasazɛ̃foni]",
+      "ear": "热 乌 梅 恩于伊 阿 拉萨赞佛尼",
+      "meaning": "我把夜晚献给这首杀人交响曲。",
+      "sourceLineId": "mozart-timed-584-1",
+      "suppliedText": "Je voue mes nuits à l'Assasymphonie Et aux blasphèmes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5383,
+        "anchorEnd": 5391,
+        "sourceLineNumber": 584,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5388.6,
+      "sourceText": "Et aux blasphèmes",
+      "ipa": "[e o blasfɛm]",
+      "ear": "诶 奥 布拉斯费姆",
+      "meaning": "还有那些亵渎的话语。",
+      "sourceLineId": "mozart-timed-584-2",
+      "suppliedText": "Je voue mes nuits à l'Assasymphonie Et aux blasphèmes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5383,
+        "anchorEnd": 5391,
+        "sourceLineNumber": 584,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5391,
+      "sourceText": "J'avoue, je maudis",
+      "ipa": "[ʒavu ʒə modi]",
+      "ear": "扎乌 热 莫迪",
+      "meaning": "我承认，我诅咒着——",
+      "sourceLineId": "mozart-timed-585-1",
+      "suppliedText": "J'avoue, je maudis Tous ceux qui S'aiment L'ennemi",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5391,
+        "anchorEnd": 5399.74,
+        "sourceLineNumber": 585,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5394.496,
+      "sourceText": "Tous ceux qui",
+      "ipa": "[tus sø ki]",
+      "ear": "图斯 瑟厄 基",
+      "meaning": "所有那些——",
+      "sourceLineId": "mozart-timed-585-2",
+      "suppliedText": "J'avoue, je maudis Tous ceux qui S'aiment L'ennemi",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5391,
+        "anchorEnd": 5399.74,
+        "sourceLineNumber": 585,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5397.118,
+      "sourceText": "S'aiment",
+      "ipa": "[sɛm]",
+      "ear": "塞姆",
+      "meaning": "相爱的人。",
+      "sourceLineId": "mozart-timed-585-3",
+      "suppliedText": "J'avoue, je maudis Tous ceux qui S'aiment L'ennemi",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5391,
+        "anchorEnd": 5399.74,
+        "sourceLineNumber": 585,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5398.429,
+      "sourceText": "L'ennemi",
+      "ipa": "[lɛnmi]",
+      "ear": "莱恩米",
+      "meaning": "那个敌人。",
+      "sourceLineId": "mozart-timed-585-4",
+      "suppliedText": "J'avoue, je maudis Tous ceux qui S'aiment L'ennemi",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5391,
+        "anchorEnd": 5399.74,
+        "sourceLineNumber": 585,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5400,
+      "sourceText": "Tapi dans mon esprit",
+      "ipa": "[tapi dɑ̃ mɔ̃n‿ɛspʁi]",
+      "ear": "塔皮 当 蒙恩 艾斯普希",
+      "meaning": "潜伏在我的脑海里。",
+      "sourceLineId": "mozart-timed-586-1",
+      "suppliedText": "Tapi dans mon esprit Fête mes défaites Sans répit, me défie",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5400,
+        "anchorEnd": 5409,
+        "sourceLineNumber": 586,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5402.7,
+      "sourceText": "Fête mes défaites",
+      "ipa": "[fɛt me defɛt]",
+      "ear": "费特 梅 德费特",
+      "meaning": "为我的失败庆祝。",
+      "sourceLineId": "mozart-timed-586-2",
+      "suppliedText": "Tapi dans mon esprit Fête mes défaites Sans répit, me défie",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5400,
+        "anchorEnd": 5409,
+        "sourceLineNumber": 586,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5405.85,
+      "sourceText": "Sans répit, me défie",
+      "ipa": "[sɑ̃ ʁepi mə defi]",
+      "ear": "桑 赫皮 默 德菲",
+      "meaning": "不停地向我挑衅。",
+      "sourceLineId": "mozart-timed-586-3",
+      "suppliedText": "Tapi dans mon esprit Fête mes défaites Sans répit, me défie",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5400,
+        "anchorEnd": 5409,
+        "sourceLineNumber": 586,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5409,
+      "sourceText": "Je renie",
+      "ipa": "[ʒə ʁəni]",
+      "ear": "热 赫尼",
+      "meaning": "我要否认这一切。",
+      "sourceLineId": "mozart-timed-587-1",
+      "suppliedText": "Je renie La fatale hérésie Qui ronge mon être",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5409,
+        "anchorEnd": 5418,
+        "sourceLineNumber": 587,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5410.895,
+      "sourceText": "La fatale hérésie",
+      "ipa": "[la fatal‿eʁezi]",
+      "ear": "拉 法塔勒 诶赫齐",
+      "meaning": "那致命的异端。",
+      "sourceLineId": "mozart-timed-587-2",
+      "suppliedText": "Je renie La fatale hérésie Qui ronge mon être",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5409,
+        "anchorEnd": 5418,
+        "sourceLineNumber": 587,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5414.684,
+      "sourceText": "Qui ronge mon être",
+      "ipa": "[ki ʁɔ̃ʒ mɔ̃n‿ɛtʁ]",
+      "ear": "基 洪日 蒙恩 艾特赫",
+      "meaning": "正吞噬着我的身心。",
+      "sourceLineId": "mozart-timed-587-3",
+      "suppliedText": "Je renie La fatale hérésie Qui ronge mon être",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5409,
+        "anchorEnd": 5418,
+        "sourceLineNumber": 587,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5418,
+      "sourceText": "Je veux renaître",
+      "ipa": "[ʒə vø ʁənɛtʁ]",
+      "ear": "热 弗厄 赫奈特赫",
+      "meaning": "我想重获新生。",
+      "sourceLineId": "mozart-timed-588-1",
+      "suppliedText": "Je veux renaître Renaître",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5418,
+        "anchorEnd": 5426,
+        "sourceLineNumber": 588,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5423.091,
+      "sourceText": "Renaître",
+      "ipa": "[ʁənɛtʁ]",
+      "ear": "赫奈特赫",
+      "meaning": "我要重生。",
+      "sourceLineId": "mozart-timed-588-2",
+      "suppliedText": "Je veux renaître Renaître",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5418,
+        "anchorEnd": 5426,
+        "sourceLineNumber": 588,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5426,
+      "sourceText": "Je voue mes nuits à l'Assasymphonie",
+      "ipa": "[ʒə vu me nɥi a lasazɛ̃foni]",
+      "ear": "热 乌 梅 恩于伊 阿 拉萨赞佛尼",
+      "meaning": "我把夜晚献给这首杀人交响曲。",
+      "sourceLineId": "mozart-timed-589-1",
+      "suppliedText": "Je voue mes nuits à l'Assasymphonie Aux requiems",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5426,
+        "anchorEnd": 5433.82,
+        "sourceLineNumber": 589,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5431.474,
+      "sourceText": "Aux requiems",
+      "ipa": "[o ʁekɥijɛm]",
+      "ear": "奥 赫克于伊耶艾姆",
+      "meaning": "献给那些安魂曲。",
+      "sourceLineId": "mozart-timed-589-2",
+      "suppliedText": "Je voue mes nuits à l'Assasymphonie Aux requiems",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5426,
+        "anchorEnd": 5433.82,
+        "sourceLineNumber": 589,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5434,
+      "sourceText": "Tuant par dépit",
+      "ipa": "[tyɑ̃ paʁ depi]",
+      "ear": "蒂于昂 帕赫 德皮",
+      "meaning": "在愤恨中杀死——",
+      "sourceLineId": "mozart-timed-590-1",
+      "suppliedText": "Tuant par dépit Ce que je sème",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5434,
+        "anchorEnd": 5440.82,
+        "sourceLineNumber": 590,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5437.1,
+      "sourceText": "Ce que je sème",
+      "ipa": "[sə kə ʒə sɛm]",
+      "ear": "瑟 克 热 塞姆",
+      "meaning": "我亲手播下的一切。",
+      "sourceLineId": "mozart-timed-590-2",
+      "suppliedText": "Tuant par dépit Ce que je sème",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5434,
+        "anchorEnd": 5440.82,
+        "sourceLineNumber": 590,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5441,
+      "sourceText": "Je voue mes nuits",
+      "ipa": "[ʒə vu me nɥi]",
+      "ear": "热 乌 梅 恩于伊",
+      "meaning": "我把夜晚献给——",
+      "sourceLineId": "mozart-timed-591-1",
+      "suppliedText": "Je voue mes nuits À l'Assasymphonie et aux blasphèmes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5441,
+        "anchorEnd": 5448,
+        "sourceLineNumber": 591,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5443.45,
+      "sourceText": "À l'Assasymphonie et aux blasphèmes",
+      "ipa": "[a lasazɛ̃foni e o blasfɛm]",
+      "ear": "阿 拉萨赞佛尼 诶 奥 布拉斯费姆",
+      "meaning": "献给杀人交响曲和亵渎的言语。",
+      "sourceLineId": "mozart-timed-591-2",
+      "suppliedText": "Je voue mes nuits À l'Assasymphonie et aux blasphèmes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5441,
+        "anchorEnd": 5448,
+        "sourceLineNumber": 591,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5448,
+      "sourceText": "J'avoue, je maudis",
+      "ipa": "[ʒavu ʒə modi]",
+      "ear": "扎乌 热 莫迪",
+      "meaning": "我承认，我诅咒着——",
+      "sourceLineId": "mozart-timed-592-1",
+      "suppliedText": "J'avoue, je maudis Tous ceux qui s'aiment",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5448,
+        "anchorEnd": 5455.46,
+        "sourceLineNumber": 592,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5451.511,
+      "sourceText": "Tous ceux qui s'aiment",
+      "ipa": "[tus sø ki sɛm]",
+      "ear": "图斯 瑟厄 基 塞姆",
+      "meaning": "所有相爱的人。",
+      "sourceLineId": "mozart-timed-592-2",
+      "suppliedText": "J'avoue, je maudis Tous ceux qui s'aiment",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5448,
+        "anchorEnd": 5455.46,
+        "sourceLineNumber": 592,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5459,
+      "sourceText": "Pleurent les violons de ma vie",
+      "ipa": "[plœʁ le vjolɔ̃ də ma vi]",
+      "ear": "普勒厄赫 莱 弗耶奥隆 德 玛 维",
+      "meaning": "我生命中的小提琴在哭泣。",
+      "sourceLineId": "mozart-timed-593-1",
+      "suppliedText": "Pleurent les violons de ma vie La violence de mes envies",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5459,
+        "anchorEnd": 5467.82,
+        "sourceLineNumber": 593,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5463.62,
+      "sourceText": "La violence de mes envies",
+      "ipa": "[la vjolɑ̃s də mez‿ɑ̃vi]",
+      "ear": "拉 弗耶奥朗斯 德 梅兹 昂维",
+      "meaning": "我的欲望如此猛烈。",
+      "sourceLineId": "mozart-timed-593-2",
+      "suppliedText": "Pleurent les violons de ma vie La violence de mes envies",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5459,
+        "anchorEnd": 5467.82,
+        "sourceLineNumber": 593,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5468,
+      "sourceText": "Siphonnée symphonie",
+      "ipa": "[sifɔne sɛ̃foni]",
+      "ear": "西佛内 森佛尼",
+      "meaning": "这交响曲已被抽空。",
+      "sourceLineId": "mozart-timed-594-1",
+      "suppliedText": "Siphonnée symphonie Déconcertant concerto",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5468,
+        "anchorEnd": 5479,
+        "sourceLineNumber": 594,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5473.867,
+      "sourceText": "Déconcertant concerto",
+      "ipa": "[dekɔ̃sɛʁtɑ̃ kɔ̃sɛʁto]",
+      "ear": "德孔塞赫唐 孔塞赫托",
+      "meaning": "这协奏曲令人无所适从。",
+      "sourceLineId": "mozart-timed-594-2",
+      "suppliedText": "Siphonnée symphonie Déconcertant concerto",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5468,
+        "anchorEnd": 5479,
+        "sourceLineNumber": 594,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5479,
+      "sourceText": "Je joue sans toucher le beau",
+      "ipa": "[ʒə ʒu sɑ̃ tuʃe lə bo]",
+      "ear": "热 茹 桑 图谢 勒 博",
+      "meaning": "我不停演奏，却触不到美。",
+      "sourceLineId": "mozart-timed-595-1",
+      "suppliedText": "Je joue sans toucher le beau Mon talent sonne faux",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5479,
+        "anchorEnd": 5487.5,
+        "sourceLineNumber": 595,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5484.368,
+      "sourceText": "Mon talent sonne faux",
+      "ipa": "[mɔ̃ talɑ̃ sɔn fo]",
+      "ear": "蒙 塔朗 索恩 佛",
+      "meaning": "我的才华听起来如此虚假。",
+      "sourceLineId": "mozart-timed-595-2",
+      "suppliedText": "Je joue sans toucher le beau Mon talent sonne faux",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5479,
+        "anchorEnd": 5487.5,
+        "sourceLineNumber": 595,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5489,
+      "sourceText": "Je noie mon ennui",
+      "ipa": "[ʒə nwa mɔ̃n‿ɑ̃nɥi]",
+      "ear": "热 恩乌阿 蒙恩 昂恩于伊",
+      "meaning": "我把苦闷淹没",
+      "sourceLineId": "mozart-timed-596-1",
+      "suppliedText": "Je noie mon ennui Dans la mélomanie",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5489,
+        "anchorEnd": 5495.02,
+        "sourceLineNumber": 596,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5492.211,
+      "sourceText": "Dans la mélomanie",
+      "ipa": "[dɑ̃ la melomani]",
+      "ear": "当 拉 梅洛玛尼",
+      "meaning": "在对音乐的痴迷中。",
+      "sourceLineId": "mozart-timed-596-2",
+      "suppliedText": "Je noie mon ennui Dans la mélomanie",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5489,
+        "anchorEnd": 5495.02,
+        "sourceLineNumber": 596,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5496,
+      "sourceText": "Je tue mes phobies dans la désharmonie",
+      "ipa": "[ʒə ty me fobi dɑ̃ la dezaʁmoni]",
+      "ear": "热 蒂于 梅 佛比 当 拉 德扎赫莫尼",
+      "meaning": "我在不和谐的音符中杀死自己的恐惧。",
+      "sourceLineId": "mozart-timed-597-1",
+      "suppliedText": "Je tue mes phobies dans la désharmonie Je voue mes nuits",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5496,
+        "anchorEnd": 5506,
+        "sourceLineNumber": 597,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5502.667,
+      "sourceText": "Je voue mes nuits",
+      "ipa": "[ʒə vu me nɥi]",
+      "ear": "热 乌 梅 恩于伊",
+      "meaning": "我把夜晚献给——",
+      "sourceLineId": "mozart-timed-597-2",
+      "suppliedText": "Je tue mes phobies dans la désharmonie Je voue mes nuits",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5496,
+        "anchorEnd": 5506,
+        "sourceLineNumber": 597,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5506,
+      "sourceText": "À l'Assasymphonie",
+      "ipa": "[a lasazɛ̃foni]",
+      "ear": "阿 拉萨赞佛尼",
+      "meaning": "这首杀人交响曲。",
+      "sourceLineId": "mozart-timed-598-1",
+      "suppliedText": "À l'Assasymphonie Aux requiems Tuant par dépit",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5506,
+        "anchorEnd": 5514,
+        "sourceLineNumber": 598,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5509.111,
+      "sourceText": "Aux requiems",
+      "ipa": "[o ʁekɥijɛm]",
+      "ear": "奥 赫克于伊耶艾姆",
+      "meaning": "献给那些安魂曲。",
+      "sourceLineId": "mozart-timed-598-2",
+      "suppliedText": "À l'Assasymphonie Aux requiems Tuant par dépit",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5506,
+        "anchorEnd": 5514,
+        "sourceLineNumber": 598,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5511.778,
+      "sourceText": "Tuant par dépit",
+      "ipa": "[tyɑ̃ paʁ depi]",
+      "ear": "蒂于昂 帕赫 德皮",
+      "meaning": "在愤恨中杀死——",
+      "sourceLineId": "mozart-timed-598-3",
+      "suppliedText": "À l'Assasymphonie Aux requiems Tuant par dépit",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5506,
+        "anchorEnd": 5514,
+        "sourceLineNumber": 598,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5514,
+      "sourceText": "Ce que je sème",
+      "ipa": "[sə kə ʒə sɛm]",
+      "ear": "瑟 克 热 塞姆",
+      "meaning": "我亲手播下的一切。",
+      "sourceLineId": "mozart-timed-599-1",
+      "suppliedText": "Ce que je sème Je voue mes nuits à l'Assasymphonie",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5514,
+        "anchorEnd": 5522.58,
+        "sourceLineNumber": 599,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5516.574,
+      "sourceText": "Je voue mes nuits à l'Assasymphonie",
+      "ipa": "[ʒə vu me nɥi a lasazɛ̃foni]",
+      "ear": "热 乌 梅 恩于伊 阿 拉萨赞佛尼",
+      "meaning": "我把夜晚献给这首杀人交响曲。",
+      "sourceLineId": "mozart-timed-599-2",
+      "suppliedText": "Ce que je sème Je voue mes nuits à l'Assasymphonie",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5514,
+        "anchorEnd": 5522.58,
+        "sourceLineNumber": 599,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5523,
+      "sourceText": "Et aux blasphèmes",
+      "ipa": "[e o blasfɛm]",
+      "ear": "诶 奥 布拉斯费姆",
+      "meaning": "还有那些亵渎的话语。",
+      "sourceLineId": "mozart-timed-600-1",
+      "suppliedText": "Et aux blasphèmes J'avoue, je maudis Tous ceux qui s'aiment",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5523,
+        "anchorEnd": 5533,
+        "sourceLineNumber": 600,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5525.609,
+      "sourceText": "J'avoue, je maudis",
+      "ipa": "[ʒavu ʒə modi]",
+      "ear": "扎乌 热 莫迪",
+      "meaning": "我承认，我诅咒着——",
+      "sourceLineId": "mozart-timed-600-2",
+      "suppliedText": "Et aux blasphèmes J'avoue, je maudis Tous ceux qui s'aiment",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5523,
+        "anchorEnd": 5533,
+        "sourceLineNumber": 600,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5529.087,
+      "sourceText": "Tous ceux qui s'aiment",
+      "ipa": "[tus sø ki sɛm]",
+      "ear": "图斯 瑟厄 基 塞姆",
+      "meaning": "所有相爱的人。",
+      "sourceLineId": "mozart-timed-600-3",
+      "suppliedText": "Et aux blasphèmes J'avoue, je maudis Tous ceux qui s'aiment",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5523,
+        "anchorEnd": 5533,
+        "sourceLineNumber": 600,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5533,
+      "sourceText": "Je voue mes nuits",
+      "ipa": "[ʒə vu me nɥi]",
+      "ear": "热 乌 梅 恩于伊",
+      "meaning": "我把夜晚献给——",
+      "sourceLineId": "mozart-timed-601-1",
+      "suppliedText": "Je voue mes nuits À l'Assasymphonie J'avoue, je maudis",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5533,
+        "anchorEnd": 5542.94,
+        "sourceLineNumber": 601,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5536.163,
+      "sourceText": "À l'Assasymphonie",
+      "ipa": "[a lasazɛ̃foni]",
+      "ear": "阿 拉萨赞佛尼",
+      "meaning": "这首杀人交响曲。",
+      "sourceLineId": "mozart-timed-601-2",
+      "suppliedText": "Je voue mes nuits À l'Assasymphonie J'avoue, je maudis",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5533,
+        "anchorEnd": 5542.94,
+        "sourceLineNumber": 601,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5539.325,
+      "sourceText": "J'avoue, je maudis",
+      "ipa": "[ʒavu ʒə modi]",
+      "ear": "扎乌 热 莫迪",
+      "meaning": "我承认，我诅咒着——",
+      "sourceLineId": "mozart-timed-601-3",
+      "suppliedText": "Je voue mes nuits À l'Assasymphonie J'avoue, je maudis",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5533,
+        "anchorEnd": 5542.94,
+        "sourceLineNumber": 601,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

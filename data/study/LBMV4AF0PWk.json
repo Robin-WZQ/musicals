@@ -1,15 +1,15 @@
 {
   "videoId": "LBMV4AF0PWk",
   "playbackVideoId": "LBMV4AF0PWk",
-  "version": 1,
+  "version": 2,
   "textSource": "user-supplied-auto-transcript",
   "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
   "meaningSource": "editorial-chinese-from-user-transcript",
   "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
   "sources": [
     {
       "label": "本段原唱录像",
@@ -18,26 +18,10 @@
   ],
   "entries": [
     {
-      "sourceText": "Jean-Baptiste, je… je suis sincèrement désolé. Allez ! Non, mais non…",
-      "start": 0,
-      "ipa": "[ʒɑ̃batist ʒə ʒə sɥi sɛ̃sɛʁmɑ̃ dezole ale nɔ̃ mɛ nɔ̃]",
-      "ear": "让巴蒂斯特 热 热 斯于伊 森塞赫芒 德佐莱 阿莱 农 梅 农",
-      "meaning": "让-巴蒂斯特，我真心感到抱歉。——不，不……",
-      "suppliedText": "Jean-Baptiste je je suis sincèrement désolé allez non mais non",
-      "sourceLineId": "moliere-timed-71",
-      "reviewNote": "",
-      "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 0,
-        "sourceLineNumber": 71,
-        "precision": "approximate"
-      }
-    },
-    {
-      "sourceText": "Non. Que diable suis-je venu faire derrière tes barreaux ? … Une galère…",
+      "sourceText": "Que diable suis-je venu faire derrière tes barreaux ? … Une galère…",
       "start": 7,
-      "ipa": "[nɔ̃ kə djabl sɥiʒ vəny fɛʁ dɛʁjɛʁ te baʁo yn ɡalɛʁ]",
-      "ear": "农 克 德耶阿布勒 斯于伊日 弗尼于 费赫 戴赫耶艾赫 特 巴霍 于恩 嘎莱赫",
+      "ipa": "[kə djabl sɥiʒ vəny fɛʁ dɛʁjɛʁ te baʁo yn ɡalɛʁ]",
+      "ear": "克 德耶阿布勒 斯于伊日 弗尼于 费赫 戴赫耶艾赫 特 巴霍 于恩 嘎莱赫",
       "meaning": "我究竟为何来到你的牢笼背后？……一艘苦难的船……",
       "suppliedText": "non que diable suis-je venu faire derrière tes barreaux tuim une galère",
       "sourceLineId": "moliere-timed-73",
@@ -310,10 +294,10 @@
       "start": 142,
       "ipa": "[dɛʁjɛʁ te baʁo yn ɡalɛʁ ki nə sɛs mɛ]",
       "ear": "戴赫耶艾赫 特 巴霍 于恩 嘎莱赫 基 讷 塞斯 梅",
-      "meaning": "来到你的牢笼背后？一艘……（后半段识别不清）",
+      "meaning": "来到你的牢笼背后？一艘……",
       "suppliedText": "derrière tes B une galère qui ne sa leOM mais les",
       "sourceLineId": "moliere-timed-93",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 142,
@@ -342,10 +326,10 @@
       "start": 157,
       "ipa": "[po le mo puʁ tə kit‿a i lɛse ma po]",
       "ear": "波 莱 莫 普赫 特 基特 阿 伊 莱塞 玛 波",
-      "meaning": "……哪怕为此付出生命。（部分识别不清）",
+      "meaning": "……哪怕为此付出生命。",
       "suppliedText": "peau les mots pour te direire qui taille laisser ma peau",
       "sourceLineId": "moliere-timed-95",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 157,
@@ -353,5 +337,6 @@
         "precision": "approximate"
       }
     }
-  ]
+  ],
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

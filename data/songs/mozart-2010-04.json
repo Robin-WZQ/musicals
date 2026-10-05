@@ -10,22 +10,643 @@
   "trackNumber": 4,
   "act": 1,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "isGenerated": false,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Inquisiteurs, citoyens",
+      "start": 810,
+      "duration": 6.94
+    },
+    {
+      "text": "Gardiens dociles du bien commun",
+      "start": 817,
+      "duration": 4.188
+    },
+    {
+      "text": "Sortir de vos droits chemins",
+      "start": 821.188,
+      "duration": 3.047
+    },
+    {
+      "text": "Me fait tant de bien",
+      "start": 824.235,
+      "duration": 2.665
+    },
+    {
+      "text": "Je suis un libre-penseur",
+      "start": 829,
+      "duration": 4.0
+    },
+    {
+      "text": "Un trublion, un emmerdeur",
+      "start": 833.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Messieurs les juges, les procureurs",
+      "start": 837,
+      "duration": 4.101
+    },
+    {
+      "text": "Non, je n'ai cure",
+      "start": 841.101,
+      "duration": 2.05
+    },
+    {
+      "text": "De vos assises",
+      "start": 843.151,
+      "duration": 1.709
+    },
+    {
+      "text": "Je suis assis sur votre honneur",
+      "start": 845,
+      "duration": 3.705
+    },
+    {
+      "text": "Et vos valeurs",
+      "start": 848.705,
+      "duration": 1.684
+    },
+    {
+      "text": "Que je méprise",
+      "start": 850.389,
+      "duration": 2.021
+    },
+    {
+      "text": "Les canons de la justice",
+      "start": 853,
+      "duration": 3.855
+    },
+    {
+      "text": "Allumés par vos milices",
+      "start": 856.855,
+      "duration": 3.855
+    },
+    {
+      "text": "Pour le bien de nos personnes",
+      "start": 861,
+      "duration": 3.81
+    },
+    {
+      "text": "Qu'on ordonne, que l'on condamne",
+      "start": 864.81,
+      "duration": 4.19
+    },
+    {
+      "text": "Je ne rendrai pas",
+      "start": 869,
+      "duration": 4.947
+    },
+    {
+      "text": "Les armes",
+      "start": 873.947,
+      "duration": 2.473
+    },
+    {
+      "text": "Messieurs les juges, les procureurs",
+      "start": 881,
+      "duration": 4.174
+    },
+    {
+      "text": "Non, je n'ai cure de vos assises",
+      "start": 885.174,
+      "duration": 3.826
+    },
+    {
+      "text": "Je suis assis sur votre honneur",
+      "start": 889,
+      "duration": 3.655
+    },
+    {
+      "text": "Et vos valeurs que je méprise",
+      "start": 892.655,
+      "duration": 3.655
+    },
+    {
+      "text": "Si ma folie n'est permise",
+      "start": 897,
+      "duration": 3.933
+    },
+    {
+      "text": "Elle n'en est que plus exquise",
+      "start": 900.933,
+      "duration": 4.807
+    },
+    {
+      "text": "Inquisiteurs",
+      "start": 913,
+      "duration": 2.286
+    },
+    {
+      "text": "Citoyens",
+      "start": 915.286,
+      "duration": 1.524
+    },
+    {
+      "text": "Gardiens dociles du bien commun",
+      "start": 916.81,
+      "duration": 4.19
+    },
+    {
+      "text": "Sortir de vos droits chemins",
+      "start": 921,
+      "duration": 3.189
+    },
+    {
+      "text": "Me fait tant de bien",
+      "start": 924.189,
+      "duration": 2.791
+    },
+    {
+      "text": "Je suis un libre-penseur",
+      "start": 930,
+      "duration": 3.5
+    },
+    {
+      "text": "Un trublion, un emmerdeur",
+      "start": 933.5,
+      "duration": 3.5
+    },
+    {
+      "text": "Messieurs les juges, les procureurs",
+      "start": 937,
+      "duration": 4.174
+    },
+    {
+      "text": "Non, je n'ai cure de vos assises",
+      "start": 941.174,
+      "duration": 3.826
+    },
+    {
+      "text": "Je suis assis sur votre honneur",
+      "start": 945,
+      "duration": 2.895
+    },
+    {
+      "text": "Et vos valeurs que je méprise",
+      "start": 947.895,
+      "duration": 2.894
+    },
+    {
+      "text": "Je crois que tu as besoin d'une bonne leçon.",
+      "start": 950.789,
+      "duration": 4.211
+    },
+    {
+      "text": "Vas-y, alors.",
+      "start": 955,
+      "duration": 1.985
+    },
+    {
+      "text": "Mesdames, messieurs, à mort, le musicien!",
+      "start": 956.985,
+      "duration": 6.946
+    },
+    {
+      "text": "Police!",
+      "start": 963.931,
+      "duration": 1.489
+    },
+    {
+      "text": "Bravo!",
+      "start": 985,
+      "duration": 0.556
+    },
+    {
+      "text": "Comment?",
+      "start": 985.556,
+      "duration": 0.555
+    },
+    {
+      "text": "Je dis bravo.",
+      "start": 986.111,
+      "duration": 1.111
+    },
+    {
+      "text": "Qui êtes-vous, monsieur?",
+      "start": 987.222,
+      "duration": 2.778
+    },
+    {
+      "text": "Je me présente, Fridolin Weber, copiste du",
+      "start": 990,
+      "duration": 3.027
+    },
+    {
+      "text": "Théâtre de la Ville.",
+      "start": 993.027,
+      "duration": 1.514
+    },
+    {
+      "text": "Et en ville, on parle beaucoup de votre fils.",
+      "start": 994.541,
+      "duration": 3.459
+    },
+    {
+      "text": "Son jeune talent semble prometteur.",
+      "start": 998,
+      "duration": 2.526
+    },
+    {
+      "text": "J'ai donc décidé de l'aider.",
+      "start": 1000.526,
+      "duration": 2.106
+    },
+    {
+      "text": "De l'aider?",
+      "start": 1002.632,
+      "duration": 0.842
+    },
+    {
+      "text": "Eh!",
+      "start": 1003.474,
+      "duration": 0.21
+    },
+    {
+      "text": "Mais à quoi, je vous prie?",
+      "start": 1003.684,
+      "duration": 2.316
+    },
+    {
+      "text": "Je propose à l'avenir de copier gratuitement ses compositions, et de vous aider à les diffuser.",
+      "start": 1006,
+      "duration": 7.367
+    },
+    {
+      "text": "Oh, monsieur!",
+      "start": 1013.367,
+      "duration": 1.053
+    },
+    {
+      "text": "Comment vous remercier?",
+      "start": 1015,
+      "duration": 1.905
+    },
+    {
+      "text": "Je ne sais pas.",
+      "start": 1016.905,
+      "duration": 1.19
+    },
+    {
+      "text": "Venez chez moi prendre un chocolat.",
+      "start": 1018.095,
+      "duration": 2.619
+    },
+    {
+      "text": "Avec votre maman.",
+      "start": 1020.714,
+      "duration": 1.429
+    },
+    {
+      "text": "Je vous présenterai ma famille.",
+      "start": 1022.143,
+      "duration": 2.857
+    },
+    {
+      "text": "Monsieur, je...",
+      "start": 1025,
+      "duration": 1.389
+    },
+    {
+      "text": "Nous logeons derrière l'église.",
+      "start": 1026.389,
+      "duration": 3.333
+    },
+    {
+      "text": "Je compte sur vous.",
+      "start": 1029.722,
+      "duration": 1.667
+    },
+    {
+      "text": "Cet homme ne me dit rien qui vaille.",
+      "start": 1031.389,
+      "duration": 3.611
+    },
+    {
+      "text": "Mais pourquoi?",
+      "start": 1035,
+      "duration": 1.697
+    },
+    {
+      "text": "Car c'est trop beau pour être vrai.",
+      "start": 1036.697,
+      "duration": 2.909
+    },
+    {
+      "text": "Psst!",
+      "start": 1039.606,
+      "duration": 0.242
+    },
+    {
+      "text": "Alors?",
+      "start": 1039.848,
+      "duration": 0.485
+    },
+    {
+      "text": "J'ai fait comme tu m'as demandé.",
+      "start": 1040.333,
+      "duration": 2.667
+    },
+    {
+      "text": "Il vient?",
+      "start": 1043,
+      "duration": 0.585
+    },
+    {
+      "text": "Il accepte?",
+      "start": 1043.585,
+      "duration": 0.781
+    },
+    {
+      "text": "Oui, ma Cécilia!",
+      "start": 1044.366,
+      "duration": 1.561
+    },
+    {
+      "text": "Je te l'amène.",
+      "start": 1045.927,
+      "duration": 0.975
+    },
+    {
+      "text": "Et sa mère, elle vient aussi?",
+      "start": 1046.902,
+      "duration": 2.147
+    },
+    {
+      "text": "Oui, j'en ai bien peur.",
+      "start": 1049.049,
+      "duration": 1.951
+    },
+    {
+      "text": "Je t'avais dit, pas avec elle.",
+      "start": 1051,
+      "duration": 2.093
+    },
+    {
+      "text": "Elle va tout faire rater.",
+      "start": 1053.093,
+      "duration": 2.093
+    },
+    {
+      "text": "On peut rien te demander.",
+      "start": 1055.186,
+      "duration": 1.884
+    },
+    {
+      "text": "C'est aussi ton boulot, de l'amadouer.",
+      "start": 1057.07,
+      "duration": 2.93
+    },
+    {
+      "text": "Mais justement, mon grand, mon boulot, moi aussi, je le fais.",
+      "start": 1060,
+      "duration": 6.139
+    },
+    {
+      "text": "Regarde.",
+      "start": 1066.139,
+      "duration": 0.921
+    },
+    {
+      "text": "L'invitation!",
+      "start": 1072,
+      "duration": 1.332
+    },
+    {
+      "text": "Comme ça sent bon!",
+      "start": 1073.332,
+      "duration": 1.332
+    },
+    {
+      "text": "Ha ha!",
+      "start": 1074.664,
+      "duration": 0.532
+    },
+    {
+      "text": "Un vrai parfum de réussite.",
+      "start": 1075.196,
+      "duration": 2.664
+    },
+    {
+      "text": "Notre fille, invitée pour une semaine de concerts, à chanter devant la princesse.",
+      "start": 1078,
+      "duration": 5.78
+    },
+    {
+      "text": "Aloysia Weber, prima donna!",
+      "start": 1085,
+      "duration": 2.962
+    },
+    {
+      "text": "Convainquons Mozart de composer pour elle.",
+      "start": 1087.962,
+      "duration": 4.038
+    },
+    {
+      "text": "Préparons-leur une petite réception.",
+      "start": 1092,
+      "duration": 3.63
+    },
+    {
+      "text": "Mesdemoiselles!",
+      "start": 1095.63,
+      "duration": 1.555
+    },
+    {
+      "text": "Entrez!",
+      "start": 1097.185,
+      "duration": 0.519
+    },
+    {
+      "text": "Mais entrez donc.",
+      "start": 1097.704,
+      "duration": 1.296
+    },
+    {
+      "text": "Ah, merci!",
+      "start": 1099,
+      "duration": 1.34
+    },
+    {
+      "text": "Merci d'être venus.",
+      "start": 1100.34,
+      "duration": 2.68
+    },
+    {
+      "text": "Laissez-moi",
+      "start": 1104,
+      "duration": 1.516
+    },
+    {
+      "text": "vous présenter ma femme, Cécilia.",
+      "start": 1105.516,
+      "duration": 3.638
+    },
+    {
+      "text": "Enchantée.",
+      "start": 1109.154,
+      "duration": 1.213
+    },
+    {
+      "text": "Madame.",
+      "start": 1110.367,
+      "duration": 0.91
+    },
+    {
+      "text": "Ah!",
+      "start": 1111.277,
+      "duration": 0.303
+    },
+    {
+      "text": "Voici donc le fameux",
+      "start": 1112,
+      "duration": 2.495
+    },
+    {
+      "text": "Monsieur Mozart dont mon mari m'a tant parlé.",
+      "start": 1114.495,
+      "duration": 4.365
+    },
+    {
+      "text": "Mes filles, donc,",
+      "start": 1119,
+      "duration": 2.371
+    },
+    {
+      "text": "Sophie,",
+      "start": 1121.371,
+      "duration": 1.779
+    },
+    {
+      "text": "Josepha et Constance.",
+      "start": 1123.15,
+      "duration": 4.15
+    },
+    {
+      "text": "Constance, viens saluer!",
+      "start": 1128,
+      "duration": 2.25
+    },
+    {
+      "text": "Mettez-vous à l'aise.",
+      "start": 1130.25,
+      "duration": 2.25
+    },
+    {
+      "text": "Sophie!",
+      "start": 1132.5,
+      "duration": 0.844
+    },
+    {
+      "text": "Oui?",
+      "start": 1133.344,
+      "duration": 0.844
+    },
+    {
+      "text": "Tu peux servir du chocolat à?",
+      "start": 1134.188,
+      "duration": 2.812
+    },
+    {
+      "text": "Anna Maria.",
+      "start": 1137,
+      "duration": 1.5
+    },
+    {
+      "text": "Anna Maria!",
+      "start": 1138.5,
+      "duration": 1.5
+    },
+    {
+      "text": "Et vous,",
+      "start": 1140,
+      "duration": 0.73
+    },
+    {
+      "text": "Wolfgang, je crois, voulez-vous?",
+      "start": 1140.73,
+      "duration": 2.432
+    },
+    {
+      "text": "Merci.",
+      "start": 1143.162,
+      "duration": 0.487
+    },
+    {
+      "text": "Non.",
+      "start": 1143.649,
+      "duration": 0.243
+    },
+    {
+      "text": "Constance, cesse immédiatement de chanter cette idiotie!",
+      "start": 1143.892,
+      "duration": 5.108
+    },
+    {
+      "text": "Mais c'est charmant.",
+      "start": 1149,
+      "duration": 3.535
+    },
+    {
+      "text": "Bon.",
+      "start": 1152.535,
+      "duration": 0.707
+    },
+    {
+      "text": "Ça suffit, Constance!",
+      "start": 1153.242,
+      "duration": 4.243
+    },
+    {
+      "text": "Bien.",
+      "start": 1157.485,
+      "duration": 1.414
+    },
+    {
+      "text": "Cher Wolfgang, je me suis laissé dire que vous étiez jadis un jeune prodige.",
+      "start": 1159,
+      "duration": 6.0
+    },
+    {
+      "text": "Oh?",
+      "start": 1165,
+      "duration": 0.267
+    },
+    {
+      "text": "Il paraît même que votre père vous faisait jouer du piano les mains attachées dans le dos.",
+      "start": 1165.267,
+      "duration": 9.353
+    },
+    {
+      "text": "Mais non, ma chérie, enfin!",
+      "start": 1178,
+      "duration": 2.862
+    },
+    {
+      "text": "Les yeux bandés.",
+      "start": 1180.862,
+      "duration": 1.908
+    },
+    {
+      "text": "Madame, je suis musicien, pas magicien.",
+      "start": 1182.77,
+      "duration": 4.77
+    }
+  ],
   "playbackVideoId": "83Qn2IvP_-I",
   "sourceDuration": 7252,
-  "sourceURL": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=811",
+  "sourceURL": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=810",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=83Qn2IvP_-I",
   "playbackSegment": {
-    "start": 811,
-    "end": 1190,
-    "source": "youtube-description-chapters",
+    "start": 810,
+    "end": 1189,
+    "source": "user-supplied-mozart-timestamps",
     "precision": "seconds"
   },
   "nativeCaptionRanges": [
@@ -461,10 +1082,10 @@
   "nativeTimingSource": "youtube-manual-caption-file",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "milliseconds",
-  "timingReviewStatus": "source-caption-file",
-  "textReviewStatus": "native-manual-subtitles",
-  "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "phoneticReviewStatus": "reference-with-liaison-corrections",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "performanceYear": 2010,
   "performanceYearSource": "video-description",
@@ -472,5 +1093,12 @@
   "albumReleaseYear": 2009,
   "uploadDate": "20161004",
   "sourceCheckedAt": "2026-10-05",
-  "description": ""
+  "description": "",
+  "originalPlaybackSegment": {
+    "start": 811,
+    "end": 1190,
+    "source": "youtube-description-chapters",
+    "precision": "seconds"
+  },
+  "studyVersion": 1
 }

@@ -1,0 +1,2266 @@
+{
+  "videoId": "mozart-2010-12",
+  "playbackVideoId": "83Qn2IvP_-I",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "97aaf400c790393fcb53f1f43bb1002cc0955e5fa8ec3c8c767c03260daed16c",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "法语原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "2010年巴黎原唱录像",
+      "url": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=3331"
+    }
+  ],
+  "entries": [
+    {
+      "start": 3346,
+      "sourceText": "N'en déplaise aux courtisans qui baisent",
+      "ipa": "[nɑ̃ deplɛz‿o kuʁtizɑ̃ ki bɛz]",
+      "ear": "南 德普莱兹 奥 库赫蒂赞 基 贝兹",
+      "meaning": "随那些阿谀奉承的朝臣不高兴去吧，他们亲吻着——",
+      "sourceLineId": "mozart-timed-357-1",
+      "suppliedText": "N'en déplaise aux courtisans qui baisent Les pieds des hommes les mieux chaussés Je me ris de leurs vies de punaises",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3346,
+        "anchorEnd": 3356,
+        "sourceLineNumber": 357,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3349.81,
+      "sourceText": "Les pieds des hommes les mieux chaussés",
+      "ipa": "[le pje dez‿ɔm le mjø ʃose]",
+      "ear": "莱 普耶诶 德兹 哦姆 莱 姆耶厄 肖塞",
+      "meaning": "那些最有权势之人的脚。",
+      "sourceLineId": "mozart-timed-357-2",
+      "suppliedText": "N'en déplaise aux courtisans qui baisent Les pieds des hommes les mieux chaussés Je me ris de leurs vies de punaises",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3346,
+        "anchorEnd": 3356,
+        "sourceLineNumber": 357,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3352.905,
+      "sourceText": "Je me ris de leurs vies de punaises",
+      "ipa": "[ʒə mə ʁi də lœʁ vi də pynɛz]",
+      "ear": "热 默 希 德 勒厄赫 维 德 普于奈兹",
+      "meaning": "我嘲笑他们臭虫般的生活。",
+      "sourceLineId": "mozart-timed-357-3",
+      "suppliedText": "N'en déplaise aux courtisans qui baisent Les pieds des hommes les mieux chaussés Je me ris de leurs vies de punaises",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3346,
+        "anchorEnd": 3356,
+        "sourceLineNumber": 357,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3356,
+      "sourceText": "Écrasées",
+      "ipa": "[ekʁaze]",
+      "ear": "诶克哈泽",
+      "meaning": "碎",
+      "sourceLineId": "mozart-timed-358-1",
+      "suppliedText": "Écrasées Que se taisent Les futiles fadaises Qui brillent en belle société",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3356,
+        "anchorEnd": 3366.42,
+        "sourceLineNumber": 358,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3357.437,
+      "sourceText": "Que se taisent",
+      "ipa": "[kə sə tɛz]",
+      "ear": "克 瑟 泰兹",
+      "meaning": "让他们闭嘴吧。",
+      "sourceLineId": "mozart-timed-358-2",
+      "suppliedText": "Écrasées Que se taisent Les futiles fadaises Qui brillent en belle société",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3356,
+        "anchorEnd": 3366.42,
+        "sourceLineNumber": 358,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3359.593,
+      "sourceText": "Les futiles fadaises",
+      "ipa": "[le fytil fadɛz]",
+      "ear": "莱 菲于蒂勒 法戴兹",
+      "meaning": "那些空洞的胡言乱语。",
+      "sourceLineId": "mozart-timed-358-3",
+      "suppliedText": "Écrasées Que se taisent Les futiles fadaises Qui brillent en belle société",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3356,
+        "anchorEnd": 3366.42,
+        "sourceLineNumber": 358,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3362.468,
+      "sourceText": "Qui brillent en belle société",
+      "ipa": "[ki bʁij‿ɑ̃ bɛl sosjete]",
+      "ear": "基 布希耶 昂 贝勒 索斯耶诶特",
+      "meaning": "却在上流社会大放光彩。",
+      "sourceLineId": "mozart-timed-358-4",
+      "suppliedText": "Écrasées Que se taisent Les futiles fadaises Qui brillent en belle société",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3356,
+        "anchorEnd": 3366.42,
+        "sourceLineNumber": 358,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3367,
+      "sourceText": "Je suis fort à mon aise dans les crimes de lèse-majesté",
+      "ipa": "[ʒə sɥi fɔʁ‿a mɔ̃n‿ɛz dɑ̃ le kʁim də lɛzmaʒɛste]",
+      "ear": "热 斯于伊 佛赫 阿 蒙恩 艾兹 当 莱 克希姆 德 莱兹玛热斯特",
+      "meaning": "犯下冒犯君主之罪，我倒自在得很。",
+      "sourceLineId": "mozart-timed-359-1",
+      "suppliedText": "Je suis fort à mon aise dans les crimes de lèse-majesté Nul n'est ici-bas",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3367,
+        "anchorEnd": 3376.83,
+        "sourceLineNumber": 359,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3374.782,
+      "sourceText": "Nul n'est ici-bas",
+      "ipa": "[nyl nɛt‿isiba]",
+      "ear": "尼于勒 奈特 伊西巴",
+      "meaning": "这世上没有谁——",
+      "sourceLineId": "mozart-timed-359-2",
+      "suppliedText": "Je suis fort à mon aise dans les crimes de lèse-majesté Nul n'est ici-bas",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3367,
+        "anchorEnd": 3376.83,
+        "sourceLineNumber": 359,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3377,
+      "sourceText": "Maître des hommes",
+      "ipa": "[mɛtʁ dez‿ɔm]",
+      "ear": "梅特赫 德兹 哦姆",
+      "meaning": "能做众人的主人。",
+      "sourceLineId": "mozart-timed-360-1",
+      "suppliedText": "Maître des hommes Prince des lois Place je passe",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3377,
+        "anchorEnd": 3387.98,
+        "sourceLineNumber": 360,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3381.117,
+      "sourceText": "Prince des lois",
+      "ipa": "[pʁɛ̃s de lwa]",
+      "ear": "普汉斯 德 勒乌阿",
+      "meaning": "做凌驾法律的王。",
+      "sourceLineId": "mozart-timed-360-2",
+      "suppliedText": "Maître des hommes Prince des lois Place je passe",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3377,
+        "anchorEnd": 3387.98,
+        "sourceLineNumber": 360,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3384.549,
+      "sourceText": "Place je passe",
+      "ipa": "[plas ʒə pas]",
+      "ear": "普拉斯 热 帕斯",
+      "meaning": "让路，我要过去。",
+      "sourceLineId": "mozart-timed-360-3",
+      "suppliedText": "Maître des hommes Prince des lois Place je passe",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3377,
+        "anchorEnd": 3387.98,
+        "sourceLineNumber": 360,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3388,
+      "sourceText": "Je suis roi de mes rêves",
+      "ipa": "[ʒə sɥi ʁwa də me ʁɛv]",
+      "ear": "热 斯于伊 赫乌阿 德 梅 赫弗",
+      "meaning": "我是自己梦想的王。",
+      "sourceLineId": "mozart-timed-361-1",
+      "suppliedText": "Je suis roi de mes rêves Souverain des libertés Osez, rendez grâce",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3388,
+        "anchorEnd": 3397,
+        "sourceLineNumber": 361,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3391.375,
+      "sourceText": "Souverain des libertés",
+      "ipa": "[suvʁɛ̃ de libɛʁte]",
+      "ear": "苏弗汉 德 利贝赫特",
+      "meaning": "自由的主宰。",
+      "sourceLineId": "mozart-timed-361-2",
+      "suppliedText": "Je suis roi de mes rêves Souverain des libertés Osez, rendez grâce",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3388,
+        "anchorEnd": 3397,
+        "sourceLineNumber": 361,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3394.75,
+      "sourceText": "Osez, rendez grâce",
+      "ipa": "[oze ʁɑ̃de ɡʁas]",
+      "ear": "奥泽 杭德 格哈斯",
+      "meaning": "勇敢些，向他致意吧。",
+      "sourceLineId": "mozart-timed-361-3",
+      "suppliedText": "Je suis roi de mes rêves Souverain des libertés Osez, rendez grâce",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3388,
+        "anchorEnd": 3397,
+        "sourceLineNumber": 361,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3397,
+      "sourceText": "À ce fou qui se lève",
+      "ipa": "[a sə fu ki sə lɛv]",
+      "ear": "阿 瑟 富 基 瑟 莱弗",
+      "meaning": "向这个挺身而出的疯子。",
+      "sourceLineId": "mozart-timed-362-1",
+      "suppliedText": "À ce fou qui se lève Place je passe, je suis roi de mes rêves",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3397,
+        "anchorEnd": 3404.98,
+        "sourceLineNumber": 362,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3400.123,
+      "sourceText": "Place je passe, je suis roi de mes rêves",
+      "ipa": "[plas ʒə pas ʒə sɥi ʁwa də me ʁɛv]",
+      "ear": "普拉斯 热 帕斯 热 斯于伊 赫乌阿 德 梅 赫弗",
+      "meaning": "让开，我要过去，我是自己梦想的君王。",
+      "sourceLineId": "mozart-timed-362-2",
+      "suppliedText": "À ce fou qui se lève Place je passe, je suis roi de mes rêves",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3397,
+        "anchorEnd": 3404.98,
+        "sourceLineNumber": 362,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3405,
+      "sourceText": "Souverain de mes idées",
+      "ipa": "[suvʁɛ̃ də mez‿ide]",
+      "ear": "苏弗汉 德 梅兹 伊德",
+      "meaning": "我的思想的主宰",
+      "sourceLineId": "mozart-timed-363-1",
+      "suppliedText": "Souverain de mes idées Osez, rendez grâce",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3405,
+        "anchorEnd": 3411.939,
+        "sourceLineNumber": 363,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3409.337,
+      "sourceText": "Osez, rendez grâce",
+      "ipa": "[oze ʁɑ̃de ɡʁas]",
+      "ear": "奥泽 杭德 格哈斯",
+      "meaning": "勇敢些，向他致意吧。",
+      "sourceLineId": "mozart-timed-363-2",
+      "suppliedText": "Souverain de mes idées Osez, rendez grâce",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3405,
+        "anchorEnd": 3411.939,
+        "sourceLineNumber": 363,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3412,
+      "sourceText": "Au vilain épris de nobles pensées",
+      "ipa": "[o vilɛ̃ epʁi də nɔbl pɑ̃se]",
+      "ear": "奥 维兰 诶普希 德 诺布勒 庞塞",
+      "meaning": "向这个怀着高贵理想的平民。",
+      "sourceLineId": "mozart-timed-364-1",
+      "suppliedText": "Au vilain épris de nobles pensées N'en déplaise aux altesses qui biaisent",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3412,
+        "anchorEnd": 3420.58,
+        "sourceLineNumber": 364,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3415.846,
+      "sourceText": "N'en déplaise aux altesses qui biaisent",
+      "ipa": "[nɑ̃ deplɛz‿oz‿altɛs ki bjɛz]",
+      "ear": "南 德普莱兹 奥兹 阿勒泰斯 基 布耶艾兹",
+      "meaning": "随那些歪曲我们意愿的殿下们不高兴去吧。",
+      "sourceLineId": "mozart-timed-364-2",
+      "suppliedText": "Au vilain épris de nobles pensées N'en déplaise aux altesses qui biaisent",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3412,
+        "anchorEnd": 3420.58,
+        "sourceLineNumber": 364,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3421,
+      "sourceText": "La moindre de nos volontés",
+      "ipa": "[la mwɛ̃dʁ də no volɔ̃te]",
+      "ear": "拉 姆乌安德赫 德 诺 沃隆特",
+      "meaning": "连我们最小的愿望都要干涉。",
+      "sourceLineId": "mozart-timed-365-1",
+      "suppliedText": "La moindre de nos volontés Sur leurs trônes de glaise en guise de chaise",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3421,
+        "anchorEnd": 3429,
+        "sourceLineNumber": 365,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3423.769,
+      "sourceText": "Sur leurs trônes de glaise en guise de chaise",
+      "ipa": "[syʁ lœʁ tʁon də ɡlɛz‿ɑ̃ ɡiz də ʃɛz]",
+      "ear": "西于赫 勒厄赫 特霍恩 德 格莱兹 昂 吉兹 德 谢兹",
+      "meaning": "我把他们泥做的王座当作椅子。",
+      "sourceLineId": "mozart-timed-365-2",
+      "suppliedText": "La moindre de nos volontés Sur leurs trônes de glaise en guise de chaise",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3421,
+        "anchorEnd": 3429,
+        "sourceLineNumber": 365,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3429,
+      "sourceText": "Je m'assieds",
+      "ipa": "[ʒə masje]",
+      "ear": "热 玛斯耶诶",
+      "meaning": "我坐下",
+      "sourceLineId": "mozart-timed-366-1",
+      "suppliedText": "Je m'assieds Nul n'est ici-bas Dieu pour les hommes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3429,
+        "anchorEnd": 3436.779,
+        "sourceLineNumber": 366,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3430.83,
+      "sourceText": "Nul n'est ici-bas Dieu pour les hommes",
+      "ipa": "[nyl nɛt‿isiba djø puʁ lez‿ɔm]",
+      "ear": "尼于勒 奈特 伊西巴 德耶厄 普赫 莱兹 哦姆",
+      "meaning": "这世上没有谁能成为众人的上帝。",
+      "sourceLineId": "mozart-timed-366-2",
+      "suppliedText": "Je m'assieds Nul n'est ici-bas Dieu pour les hommes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3429,
+        "anchorEnd": 3436.779,
+        "sourceLineNumber": 366,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3437,
+      "sourceText": "Digne de foi",
+      "ipa": "[diɲ də fwa]",
+      "ear": "迪涅 德 弗乌阿",
+      "meaning": "值得信赖",
+      "sourceLineId": "mozart-timed-367-1",
+      "suppliedText": "Digne de foi Place je passe",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3437,
+        "anchorEnd": 3447.94,
+        "sourceLineNumber": 367,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3442.47,
+      "sourceText": "Place je passe",
+      "ipa": "[plas ʒə pas]",
+      "ear": "普拉斯 热 帕斯",
+      "meaning": "让路，我要过去。",
+      "sourceLineId": "mozart-timed-367-2",
+      "suppliedText": "Digne de foi Place je passe",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3437,
+        "anchorEnd": 3447.94,
+        "sourceLineNumber": 367,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3448,
+      "sourceText": "Je suis roi de mes rêves",
+      "ipa": "[ʒə sɥi ʁwa də me ʁɛv]",
+      "ear": "热 斯于伊 赫乌阿 德 梅 赫弗",
+      "meaning": "我是自己梦想的王。",
+      "sourceLineId": "mozart-timed-368-1",
+      "suppliedText": "Je suis roi de mes rêves Souverain des libertés Osez, rendez grâce",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3448,
+        "anchorEnd": 3457,
+        "sourceLineNumber": 368,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3451.375,
+      "sourceText": "Souverain des libertés",
+      "ipa": "[suvʁɛ̃ de libɛʁte]",
+      "ear": "苏弗汉 德 利贝赫特",
+      "meaning": "自由的主宰。",
+      "sourceLineId": "mozart-timed-368-2",
+      "suppliedText": "Je suis roi de mes rêves Souverain des libertés Osez, rendez grâce",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3448,
+        "anchorEnd": 3457,
+        "sourceLineNumber": 368,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3454.75,
+      "sourceText": "Osez, rendez grâce",
+      "ipa": "[oze ʁɑ̃de ɡʁas]",
+      "ear": "奥泽 杭德 格哈斯",
+      "meaning": "勇敢些，向他致意吧。",
+      "sourceLineId": "mozart-timed-368-3",
+      "suppliedText": "Je suis roi de mes rêves Souverain des libertés Osez, rendez grâce",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3448,
+        "anchorEnd": 3457,
+        "sourceLineNumber": 368,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3457,
+      "sourceText": "À ce fou qui se lève",
+      "ipa": "[a sə fu ki sə lɛv]",
+      "ear": "阿 瑟 富 基 瑟 莱弗",
+      "meaning": "向这个挺身而出的疯子。",
+      "sourceLineId": "mozart-timed-369-1",
+      "suppliedText": "À ce fou qui se lève Place je passe Je suis roi de mes rêves",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3457,
+        "anchorEnd": 3464,
+        "sourceLineNumber": 369,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3459.739,
+      "sourceText": "Place je passe",
+      "ipa": "[plas ʒə pas]",
+      "ear": "普拉斯 热 帕斯",
+      "meaning": "让路，我要过去。",
+      "sourceLineId": "mozart-timed-369-2",
+      "suppliedText": "À ce fou qui se lève Place je passe Je suis roi de mes rêves",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3457,
+        "anchorEnd": 3464,
+        "sourceLineNumber": 369,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3461.261,
+      "sourceText": "Je suis roi de mes rêves",
+      "ipa": "[ʒə sɥi ʁwa də me ʁɛv]",
+      "ear": "热 斯于伊 赫乌阿 德 梅 赫弗",
+      "meaning": "我是自己梦想的王。",
+      "sourceLineId": "mozart-timed-369-3",
+      "suppliedText": "À ce fou qui se lève Place je passe Je suis roi de mes rêves",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3457,
+        "anchorEnd": 3464,
+        "sourceLineNumber": 369,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3464,
+      "sourceText": "Souverain de mes idées",
+      "ipa": "[suvʁɛ̃ də mez‿ide]",
+      "ear": "苏弗汉 德 梅兹 伊德",
+      "meaning": "我的思想的主宰",
+      "sourceLineId": "mozart-timed-370-1",
+      "suppliedText": "Souverain de mes idées Osez, rendez grâce",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3464,
+        "anchorEnd": 3471,
+        "sourceLineNumber": 370,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3468.375,
+      "sourceText": "Osez, rendez grâce",
+      "ipa": "[oze ʁɑ̃de ɡʁas]",
+      "ear": "奥泽 杭德 格哈斯",
+      "meaning": "勇敢些，向他致意吧。",
+      "sourceLineId": "mozart-timed-370-2",
+      "suppliedText": "Souverain de mes idées Osez, rendez grâce",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3464,
+        "anchorEnd": 3471,
+        "sourceLineNumber": 370,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3471,
+      "sourceText": "Au vilain épris de nobles pensées",
+      "ipa": "[o vilɛ̃ epʁi də nɔbl pɑ̃se]",
+      "ear": "奥 维兰 诶普希 德 诺布勒 庞塞",
+      "meaning": "向这个怀着高贵理想的平民。",
+      "sourceLineId": "mozart-timed-371-1",
+      "suppliedText": "Au vilain épris de nobles pensées Bravo!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3471,
+        "anchorEnd": 3479.859,
+        "sourceLineNumber": 371,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3478.678,
+      "sourceText": "Bravo!",
+      "ipa": "[bʁavo]",
+      "ear": "布哈沃",
+      "meaning": "干得好！",
+      "sourceLineId": "mozart-timed-371-2",
+      "suppliedText": "Au vilain épris de nobles pensées Bravo!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3471,
+        "anchorEnd": 3479.859,
+        "sourceLineNumber": 371,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3483,
+      "sourceText": "Bravo, Mozart.",
+      "ipa": "[bʁavo mɔtsaʁ]",
+      "ear": "布哈沃 莫特萨赫",
+      "meaning": "太棒了，莫扎特。",
+      "sourceLineId": "mozart-timed-372-1",
+      "suppliedText": "Bravo, Mozart.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3483,
+        "anchorEnd": 3484.14,
+        "sourceLineNumber": 372,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3495,
+      "sourceText": "Enfin, Stefani, un opéra en allemand, c'est une ineptie!",
+      "ipa": "[ɑ̃fɛ̃ stəfani œ̃n‿opeʁa ɑ̃n‿almɑ̃ sɛt‿yn‿inɛpti]",
+      "ear": "昂凡 斯特法尼 恩恩 奥佩哈 昂恩 阿勒芒 塞特 于恩 伊奈普蒂",
+      "meaning": "施特凡尼，德语歌剧根本就是胡闹！",
+      "sourceLineId": "mozart-timed-373-1",
+      "suppliedText": "Enfin, Stefani, un opéra en allemand, c'est une ineptie! Monsieur Rosenberg, je ne partage pas votre avis. Une hérésie, vous dis-je! Psst! Enfin!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3495,
+        "anchorEnd": 3505,
+        "sourceLineNumber": 373,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3499.0,
+      "sourceText": "Monsieur Rosenberg, je ne partage pas votre avis.",
+      "ipa": "[məsjø ʁozɑ̃bɛʁɡ ʒə nə paʁtaʒ pa votʁ‿avi]",
+      "ear": "默斯耶厄 霍赞贝赫格 热 讷 帕赫塔日 帕 沃特赫 阿维",
+      "meaning": "罗森伯格先生，我不同意你的观点。",
+      "sourceLineId": "mozart-timed-373-2",
+      "suppliedText": "Enfin, Stefani, un opéra en allemand, c'est une ineptie! Monsieur Rosenberg, je ne partage pas votre avis. Une hérésie, vous dis-je! Psst! Enfin!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3495,
+        "anchorEnd": 3505,
+        "sourceLineNumber": 373,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3502.4,
+      "sourceText": "Une hérésie, vous dis-je!",
+      "ipa": "[yn‿eʁezi vu diʒ]",
+      "ear": "于恩 诶赫齐 乌 迪日",
+      "meaning": "异端邪说，我告诉你！",
+      "sourceLineId": "mozart-timed-373-3",
+      "suppliedText": "Enfin, Stefani, un opéra en allemand, c'est une ineptie! Monsieur Rosenberg, je ne partage pas votre avis. Une hérésie, vous dis-je! Psst! Enfin!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3495,
+        "anchorEnd": 3505,
+        "sourceLineNumber": 373,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3504.4,
+      "sourceText": "Psst!",
+      "ipa": "[peɛsɛste]",
+      "ear": "佩艾塞斯特",
+      "meaning": "嘘！",
+      "sourceLineId": "mozart-timed-373-4",
+      "suppliedText": "Enfin, Stefani, un opéra en allemand, c'est une ineptie! Monsieur Rosenberg, je ne partage pas votre avis. Une hérésie, vous dis-je! Psst! Enfin!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3495,
+        "anchorEnd": 3505,
+        "sourceLineNumber": 373,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3504.6,
+      "sourceText": "Enfin!",
+      "ipa": "[ɑ̃fɛ̃]",
+      "ear": "昂凡",
+      "meaning": "终于！",
+      "sourceLineId": "mozart-timed-373-5",
+      "suppliedText": "Enfin, Stefani, un opéra en allemand, c'est une ineptie! Monsieur Rosenberg, je ne partage pas votre avis. Une hérésie, vous dis-je! Psst! Enfin!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3495,
+        "anchorEnd": 3505,
+        "sourceLineNumber": 373,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3505,
+      "sourceText": "Des chanteurs de faubourgs, sur la scène du",
+      "ipa": "[de ʃɑ̃tœʁ də fobuʁ syʁ la sɛn dy]",
+      "ear": "德 尚特厄赫 德 佛布赫 西于赫 拉 塞恩 迪于",
+      "meaning": "郊区来的歌手，也要登上——",
+      "sourceLineId": "mozart-timed-374-1",
+      "suppliedText": "Des chanteurs de faubourgs, sur la scène du Théâtre impérial? Salieri, est-ce que vous imaginez, par exemple...",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3505,
+        "anchorEnd": 3513.38,
+        "sourceLineNumber": 374,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3508.008,
+      "sourceText": "Théâtre impérial?",
+      "ipa": "[teatʁ‿ɛ̃peʁjal]",
+      "ear": "特阿特赫 安佩赫耶阿勒",
+      "meaning": "皇家剧院的舞台？",
+      "sourceLineId": "mozart-timed-374-2",
+      "suppliedText": "Des chanteurs de faubourgs, sur la scène du Théâtre impérial? Salieri, est-ce que vous imaginez, par exemple...",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3505,
+        "anchorEnd": 3513.38,
+        "sourceLineNumber": 374,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3509.512,
+      "sourceText": "Salieri, est-ce que vous imaginez, par exemple...",
+      "ipa": "[saljeʁi ɛs kə vuz‿imaʒine paʁ‿ɛɡzɑ̃pl]",
+      "ear": "萨勒耶诶希 艾斯 克 乌兹 伊玛日内 帕赫 艾格赞普勒",
+      "meaning": "萨列里，你能想象吗，例如……",
+      "sourceLineId": "mozart-timed-374-3",
+      "suppliedText": "Des chanteurs de faubourgs, sur la scène du Théâtre impérial? Salieri, est-ce que vous imaginez, par exemple...",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3505,
+        "anchorEnd": 3513.38,
+        "sourceLineNumber": 374,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3521,
+      "sourceText": "Ça ne veut rien dire.",
+      "ipa": "[sa nə vø ʁjɛ̃ diʁ]",
+      "ear": "萨 讷 弗厄 赫耶安 迪赫",
+      "meaning": "这没有任何意义。",
+      "sourceLineId": "mozart-timed-375-1",
+      "suppliedText": "- Ça ne veut rien dire. - Hum... Oui?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3521,
+        "anchorEnd": 3524,
+        "sourceLineNumber": 375,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3523.0,
+      "sourceText": "Hum...",
+      "ipa": "[ɔm]",
+      "ear": "哦姆",
+      "meaning": "唔...",
+      "sourceLineId": "mozart-timed-375-2",
+      "suppliedText": "- Ça ne veut rien dire. - Hum... Oui?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3521,
+        "anchorEnd": 3524,
+        "sourceLineNumber": 375,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3523.25,
+      "sourceText": "Oui?",
+      "ipa": "[wi]",
+      "ear": "乌伊",
+      "meaning": "是吗？",
+      "sourceLineId": "mozart-timed-375-3",
+      "suppliedText": "- Ça ne veut rien dire. - Hum... Oui?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3521,
+        "anchorEnd": 3524,
+        "sourceLineNumber": 375,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3524,
+      "sourceText": "Sa Majesté Joseph II, empereur d'Autriche, soleil du...",
+      "ipa": "[sa maʒɛste ʒozɛf dø ɑ̃pʁœʁ dotʁiʃ solɛj dy]",
+      "ear": "萨 玛热斯特 若泽弗 德厄 昂普赫厄赫 多特希什 索莱耶 迪于",
+      "meaning": "约瑟夫二世陛下，奥地利皇帝，……的太阳。",
+      "sourceLineId": "mozart-timed-376-1",
+      "suppliedText": "Sa Majesté Joseph Il, empereur d'Autriche, soleil du... C'est bon Messieurs, suivez-moi.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3524,
+        "anchorEnd": 3532,
+        "sourceLineNumber": 376,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3529.161,
+      "sourceText": "C'est bon",
+      "ipa": "[sɛ bɔ̃]",
+      "ear": "塞 崩",
+      "meaning": "没关系",
+      "sourceLineId": "mozart-timed-376-2",
+      "suppliedText": "Sa Majesté Joseph Il, empereur d'Autriche, soleil du... C'est bon Messieurs, suivez-moi.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3524,
+        "anchorEnd": 3532,
+        "sourceLineNumber": 376,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3529.677,
+      "sourceText": "Messieurs, suivez-moi.",
+      "ipa": "[mesjø sɥivemwa]",
+      "ear": "梅斯耶厄 斯于伊韦姆乌阿",
+      "meaning": "先生们，跟我来。",
+      "sourceLineId": "mozart-timed-376-3",
+      "suppliedText": "Sa Majesté Joseph Il, empereur d'Autriche, soleil du... C'est bon Messieurs, suivez-moi.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3524,
+        "anchorEnd": 3532,
+        "sourceLineNumber": 376,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3532,
+      "sourceText": "Votre Majesté.",
+      "ipa": "[votʁ maʒɛste]",
+      "ear": "沃特赫 玛热斯特",
+      "meaning": "陛下。",
+      "sourceLineId": "mozart-timed-377-1",
+      "suppliedText": "Votre Majesté. Psst! - Mademoiselle. - Bien.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3532,
+        "anchorEnd": 3537.51,
+        "sourceLineNumber": 377,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3533.968,
+      "sourceText": "Psst!",
+      "ipa": "[peɛsɛste]",
+      "ear": "佩艾塞斯特",
+      "meaning": "嘘！",
+      "sourceLineId": "mozart-timed-377-2",
+      "suppliedText": "Votre Majesté. Psst! - Mademoiselle. - Bien.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3532,
+        "anchorEnd": 3537.51,
+        "sourceLineNumber": 377,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3534.361,
+      "sourceText": "Mademoiselle.",
+      "ipa": "[madmwazɛl]",
+      "ear": "玛德姆乌阿泽勒",
+      "meaning": "小姐。",
+      "sourceLineId": "mozart-timed-377-3",
+      "suppliedText": "Votre Majesté. Psst! - Mademoiselle. - Bien.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3532,
+        "anchorEnd": 3537.51,
+        "sourceLineNumber": 377,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3536.723,
+      "sourceText": "Bien.",
+      "ipa": "[bjɛ̃]",
+      "ear": "布耶安",
+      "meaning": "好。",
+      "sourceLineId": "mozart-timed-377-4",
+      "suppliedText": "Votre Majesté. Psst! - Mademoiselle. - Bien.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3532,
+        "anchorEnd": 3537.51,
+        "sourceLineNumber": 377,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3538,
+      "sourceText": "Je vous écoute.",
+      "ipa": "[ʒə vuz‿ekut]",
+      "ear": "热 乌兹 诶库特",
+      "meaning": "我正在听你说话。",
+      "sourceLineId": "mozart-timed-378-1",
+      "suppliedText": "- Je vous écoute. - Majesté, laissez-moi vous présenter Monsieur Stefani, qui vient vous remettre le livret de l'opéra commandé.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3538,
+        "anchorEnd": 3546.62,
+        "sourceLineNumber": 378,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3539.312,
+      "sourceText": "Majesté, laissez-moi vous présenter",
+      "ipa": "[maʒɛste lɛsemwa vu pʁezɑ̃te]",
+      "ear": "玛热斯特 莱塞姆乌阿 乌 普赫赞特",
+      "meaning": "陛下，我给您介绍一下",
+      "sourceLineId": "mozart-timed-378-2",
+      "suppliedText": "- Je vous écoute. - Majesté, laissez-moi vous présenter Monsieur Stefani, qui vient vous remettre le livret de l'opéra commandé.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3538,
+        "anchorEnd": 3546.62,
+        "sourceLineNumber": 378,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3541.748,
+      "sourceText": "Monsieur Stefani, qui vient vous remettre le livret de l'opéra commandé.",
+      "ipa": "[məsjø stəfani ki vjɛ̃ vu ʁəmɛtʁ lə livʁɛ də lopeʁa kɔmɑ̃de]",
+      "ear": "默斯耶厄 斯特法尼 基 弗耶安 乌 赫梅特赫 勒 利弗赫 德 洛佩哈 科芒德",
+      "meaning": "施特凡尼先生，他来呈交您委托创作的歌剧剧本。",
+      "sourceLineId": "mozart-timed-378-3",
+      "suppliedText": "- Je vous écoute. - Majesté, laissez-moi vous présenter Monsieur Stefani, qui vient vous remettre le livret de l'opéra commandé.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3538,
+        "anchorEnd": 3546.62,
+        "sourceLineNumber": 378,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3547,
+      "sourceText": "En place.",
+      "ipa": "[ɑ̃ plas]",
+      "ear": "昂 普拉斯",
+      "meaning": "就位。",
+      "sourceLineId": "mozart-timed-379-1",
+      "suppliedText": "- En place. - Ah, oui, pardon. - Majesté... - Psst! On se retire. Allez. Plus vite!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3547,
+        "anchorEnd": 3552.42,
+        "sourceLineNumber": 379,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3547.707,
+      "sourceText": "Ah, oui, pardon.",
+      "ipa": "[a wi paʁdɔ̃]",
+      "ear": "阿 乌伊 帕赫东",
+      "meaning": "啊，是的，抱歉。",
+      "sourceLineId": "mozart-timed-379-2",
+      "suppliedText": "- En place. - Ah, oui, pardon. - Majesté... - Psst! On se retire. Allez. Plus vite!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3547,
+        "anchorEnd": 3552.42,
+        "sourceLineNumber": 379,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3549.121,
+      "sourceText": "Majesté...",
+      "ipa": "[maʒɛste]",
+      "ear": "玛热斯特",
+      "meaning": "陛下……",
+      "sourceLineId": "mozart-timed-379-3",
+      "suppliedText": "- En place. - Ah, oui, pardon. - Majesté... - Psst! On se retire. Allez. Plus vite!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3547,
+        "anchorEnd": 3552.42,
+        "sourceLineNumber": 379,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3549.828,
+      "sourceText": "Psst!",
+      "ipa": "[peɛsɛste]",
+      "ear": "佩艾塞斯特",
+      "meaning": "嘘！",
+      "sourceLineId": "mozart-timed-379-4",
+      "suppliedText": "- En place. - Ah, oui, pardon. - Majesté... - Psst! On se retire. Allez. Plus vite!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3547,
+        "anchorEnd": 3552.42,
+        "sourceLineNumber": 379,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3550.063,
+      "sourceText": "On se retire.",
+      "ipa": "[ɔ̃ sə ʁətiʁ]",
+      "ear": "翁 瑟 赫蒂赫",
+      "meaning": "我们撤回。",
+      "sourceLineId": "mozart-timed-379-5",
+      "suppliedText": "- En place. - Ah, oui, pardon. - Majesté... - Psst! On se retire. Allez. Plus vite!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3547,
+        "anchorEnd": 3552.42,
+        "sourceLineNumber": 379,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3551.242,
+      "sourceText": "Allez.",
+      "ipa": "[ale]",
+      "ear": "阿莱",
+      "meaning": "来吧。",
+      "sourceLineId": "mozart-timed-379-6",
+      "suppliedText": "- En place. - Ah, oui, pardon. - Majesté... - Psst! On se retire. Allez. Plus vite!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3547,
+        "anchorEnd": 3552.42,
+        "sourceLineNumber": 379,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3551.713,
+      "sourceText": "Plus vite!",
+      "ipa": "[ply vit]",
+      "ear": "普吕 维特",
+      "meaning": "更快！",
+      "sourceLineId": "mozart-timed-379-7",
+      "suppliedText": "- En place. - Ah, oui, pardon. - Majesté... - Psst! On se retire. Allez. Plus vite!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3547,
+        "anchorEnd": 3552.42,
+        "sourceLineNumber": 379,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3555,
+      "sourceText": "L'Enlèvement au sérail.",
+      "ipa": "[lɑ̃lɛvmɑ̃ o seʁaj]",
+      "ear": "朗莱弗芒 奥 塞哈耶",
+      "meaning": "《后宫诱逃》。",
+      "sourceLineId": "mozart-timed-380-1",
+      "suppliedText": "- L'Enlèvement au sérail. - Oui, Majesté. Quel curieux titre!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3555,
+        "anchorEnd": 3561.54,
+        "sourceLineNumber": 380,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3557.559,
+      "sourceText": "Oui, Majesté.",
+      "ipa": "[wi maʒɛste]",
+      "ear": "乌伊 玛热斯特",
+      "meaning": "是的，陛下。",
+      "sourceLineId": "mozart-timed-380-2",
+      "suppliedText": "- L'Enlèvement au sérail. - Oui, Majesté. Quel curieux titre!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3555,
+        "anchorEnd": 3561.54,
+        "sourceLineNumber": 380,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3559.265,
+      "sourceText": "Quel curieux titre!",
+      "ipa": "[kɛl kyʁjø titʁ]",
+      "ear": "凯勒 基于赫耶厄 蒂特赫",
+      "meaning": "多么奇怪的标题啊！",
+      "sourceLineId": "mozart-timed-380-3",
+      "suppliedText": "- L'Enlèvement au sérail. - Oui, Majesté. Quel curieux titre!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3555,
+        "anchorEnd": 3561.54,
+        "sourceLineNumber": 380,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3562,
+      "sourceText": "Il s'agit là d'un divertissement, d'une turquerie avec rebondissements.",
+      "ipa": "[il saʒi la dœ̃ divɛʁtismɑ̃ dyn tyʁkəʁi avɛk ʁəbɔ̃dismɑ̃]",
+      "ear": "伊勒 萨日 拉 丹 迪韦赫蒂斯芒 迪于恩 蒂于赫克希 阿韦克 赫崩迪斯芒",
+      "meaning": "这是一部充满转折、带有土耳其风情的娱乐剧。",
+      "sourceLineId": "mozart-timed-381-1",
+      "suppliedText": "Il s'agit là d'un divertissement, d'une turquerie avec rebondissements. Fort bien!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3562,
+        "anchorEnd": 3568.14,
+        "sourceLineNumber": 381,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3567.458,
+      "sourceText": "Fort bien!",
+      "ipa": "[fɔʁ bjɛ̃]",
+      "ear": "佛赫 布耶安",
+      "meaning": "很好！",
+      "sourceLineId": "mozart-timed-381-2",
+      "suppliedText": "Il s'agit là d'un divertissement, d'une turquerie avec rebondissements. Fort bien!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3562,
+        "anchorEnd": 3568.14,
+        "sourceLineNumber": 381,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3570,
+      "sourceText": "Et à qui comptez-vous confier la musique?",
+      "ipa": "[e a ki kɔ̃tevu kɔ̃fje la myzik]",
+      "ear": "诶 阿 基 孔特乌 孔弗耶诶 拉 米于齐克",
+      "meaning": "你打算把音乐委托给谁？",
+      "sourceLineId": "mozart-timed-382-1",
+      "suppliedText": "Et à qui comptez-vous confier la musique? J'ai fait appel à Wolfgang Mozart. Un jeune compositeur prometteur. Tout Vienne parle de lui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3570,
+        "anchorEnd": 3581,
+        "sourceLineNumber": 382,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3573.52,
+      "sourceText": "J'ai fait appel à Wolfgang Mozart.",
+      "ipa": "[ʒe fɛ apɛl‿a vɔlfɡɑ̃ɡ mɔtsaʁ]",
+      "ear": "热 费 阿佩勒 阿 沃勒弗冈格 莫特萨赫",
+      "meaning": "我拜访了沃尔夫冈·莫扎特。",
+      "sourceLineId": "mozart-timed-382-2",
+      "suppliedText": "Et à qui comptez-vous confier la musique? J'ai fait appel à Wolfgang Mozart. Un jeune compositeur prometteur. Tout Vienne parle de lui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3570,
+        "anchorEnd": 3581,
+        "sourceLineNumber": 382,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3575.94,
+      "sourceText": "Un jeune compositeur prometteur.",
+      "ipa": "[œ̃ ʒøn kɔ̃pozitœʁ pʁomɛtœʁ]",
+      "ear": "恩 热厄恩 孔波齐特厄赫 普霍梅特厄赫",
+      "meaning": "一位有前途的年轻作曲家。",
+      "sourceLineId": "mozart-timed-382-3",
+      "suppliedText": "Et à qui comptez-vous confier la musique? J'ai fait appel à Wolfgang Mozart. Un jeune compositeur prometteur. Tout Vienne parle de lui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3570,
+        "anchorEnd": 3581,
+        "sourceLineNumber": 382,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3578.8,
+      "sourceText": "Tout Vienne parle de lui.",
+      "ipa": "[tu vjɛn paʁl də lɥi]",
+      "ear": "图 弗耶艾恩 帕赫勒 德 勒于伊",
+      "meaning": "整个维也纳都在谈论他。",
+      "sourceLineId": "mozart-timed-382-4",
+      "suppliedText": "Et à qui comptez-vous confier la musique? J'ai fait appel à Wolfgang Mozart. Un jeune compositeur prometteur. Tout Vienne parle de lui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3570,
+        "anchorEnd": 3581,
+        "sourceLineNumber": 382,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3581,
+      "sourceText": "Un jeune écervelé,",
+      "ipa": "[œ̃ ʒøn‿esɛʁvəle]",
+      "ear": "恩 热厄恩 诶塞赫弗莱",
+      "meaning": "一个年轻的傻瓜，",
+      "sourceLineId": "mozart-timed-383-1",
+      "suppliedText": "Un jeune écervelé, Votre Majesté, qui clame partout ne vouloir composer que pour l'allemand.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3581,
+        "anchorEnd": 3588,
+        "sourceLineNumber": 383,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3582.6,
+      "sourceText": "Votre Majesté, qui clame partout ne vouloir composer que pour l'allemand.",
+      "ipa": "[votʁ maʒɛste ki klam paʁtu nə vulwaʁ kɔ̃poze kə puʁ lalmɑ̃]",
+      "ear": "沃特赫 玛热斯特 基 克拉姆 帕赫图 讷 乌勒乌阿赫 孔波泽 克 普赫 拉勒芒",
+      "meaning": "陛下，他到处宣称只肯写德语作品。",
+      "sourceLineId": "mozart-timed-383-2",
+      "suppliedText": "Un jeune écervelé, Votre Majesté, qui clame partout ne vouloir composer que pour l'allemand.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3581,
+        "anchorEnd": 3588,
+        "sourceLineNumber": 383,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3588,
+      "sourceText": "Justement, je pensais que ce choix",
+      "ipa": "[ʒystmɑ̃ ʒə pɑ̃sɛ kə sə ʃwa]",
+      "ear": "日于斯特芒 热 庞塞 克 瑟 什乌阿",
+      "meaning": "没错，我以为这个选择",
+      "sourceLineId": "mozart-timed-384-1",
+      "suppliedText": "Justement, je pensais que ce choix - vous conviendrait... - Dites, Salieri, qu'en pensez-vous? Alors ça!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3588,
+        "anchorEnd": 3596.18,
+        "sourceLineNumber": 384,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3590.887,
+      "sourceText": "vous conviendrait...",
+      "ipa": "[vu kɔ̃vjɛ̃dʁɛ]",
+      "ear": "乌 孔弗耶安德赫",
+      "meaning": "适合你……",
+      "sourceLineId": "mozart-timed-384-2",
+      "suppliedText": "Justement, je pensais que ce choix - vous conviendrait... - Dites, Salieri, qu'en pensez-vous? Alors ça!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3588,
+        "anchorEnd": 3596.18,
+        "sourceLineNumber": 384,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3592.571,
+      "sourceText": "Dites, Salieri, qu'en pensez-vous?",
+      "ipa": "[dit saljeʁi kɑ̃ pɑ̃sevu]",
+      "ear": "迪特 萨勒耶诶希 康 庞塞乌",
+      "meaning": "说吧，萨列里，你觉得怎么样？",
+      "sourceLineId": "mozart-timed-384-3",
+      "suppliedText": "Justement, je pensais que ce choix - vous conviendrait... - Dites, Salieri, qu'en pensez-vous? Alors ça!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3588,
+        "anchorEnd": 3596.18,
+        "sourceLineNumber": 384,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3595.458,
+      "sourceText": "Alors ça!",
+      "ipa": "[alɔʁ sa]",
+      "ear": "阿洛赫 萨",
+      "meaning": "这样吧！",
+      "sourceLineId": "mozart-timed-384-4",
+      "suppliedText": "Justement, je pensais que ce choix - vous conviendrait... - Dites, Salieri, qu'en pensez-vous? Alors ça!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3588,
+        "anchorEnd": 3596.18,
+        "sourceLineNumber": 384,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3598,
+      "sourceText": "Écervelé... mais infiniment doué.",
+      "ipa": "[esɛʁvəle mɛ ɛ̃finimɑ̃ dwe]",
+      "ear": "诶塞赫弗莱 梅 安菲尼芒 德乌诶",
+      "meaning": "无脑……但天赋无限。",
+      "sourceLineId": "mozart-timed-385-1",
+      "suppliedText": "Écervelé... mais infiniment doué.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3598,
+        "anchorEnd": 3604,
+        "sourceLineNumber": 385,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3604,
+      "sourceText": "Enfin, Salieri!",
+      "ipa": "[ɑ̃fɛ̃ saljeʁi]",
+      "ear": "昂凡 萨勒耶诶希",
+      "meaning": "最后，萨列里！",
+      "sourceLineId": "mozart-timed-386-1",
+      "suppliedText": "- Enfin, Salieri! - Cependant, on ne peut nier sa jeunesse ni son inexpérience.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3604,
+        "anchorEnd": 3611.22,
+        "sourceLineNumber": 386,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3605.547,
+      "sourceText": "Cependant, on ne peut nier sa jeunesse ni son inexpérience.",
+      "ipa": "[səpɑ̃dɑ̃ ɔ̃ nə pø nje sa ʒønɛs ni sɔ̃n‿inɛkspeʁjɑ̃s]",
+      "ear": "瑟庞当 翁 讷 珀厄 恩耶诶 萨 热厄奈斯 尼 松恩 伊奈克斯佩赫耶昂斯",
+      "meaning": "然而，我们不能否认他的年轻或他的缺乏经验。",
+      "sourceLineId": "mozart-timed-386-2",
+      "suppliedText": "- Enfin, Salieri! - Cependant, on ne peut nier sa jeunesse ni son inexpérience.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3604,
+        "anchorEnd": 3611.22,
+        "sourceLineNumber": 386,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3621,
+      "sourceText": "Messieurs, la chose est entendue.",
+      "ipa": "[mesjø la ʃɔz‿ɛt‿ɑ̃tɑ̃dy]",
+      "ear": "梅斯耶厄 拉 肖兹 艾特 昂唐迪于",
+      "meaning": "先生们，事情已经明白了。",
+      "sourceLineId": "mozart-timed-387-1",
+      "suppliedText": "Messieurs, la chose est entendue. Nous choisissons... Mozart!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3621,
+        "anchorEnd": 3625.86,
+        "sourceLineNumber": 387,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3623.916,
+      "sourceText": "Nous choisissons...",
+      "ipa": "[nu ʃwazisɔ̃]",
+      "ear": "努 什乌阿齐松",
+      "meaning": "我们选择……",
+      "sourceLineId": "mozart-timed-387-2",
+      "suppliedText": "Messieurs, la chose est entendue. Nous choisissons... Mozart!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3621,
+        "anchorEnd": 3625.86,
+        "sourceLineNumber": 387,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3625.374,
+      "sourceText": "Mozart!",
+      "ipa": "[mɔtsaʁ]",
+      "ear": "莫特萨赫",
+      "meaning": "莫扎特！",
+      "sourceLineId": "mozart-timed-387-3",
+      "suppliedText": "Messieurs, la chose est entendue. Nous choisissons... Mozart!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3621,
+        "anchorEnd": 3625.86,
+        "sourceLineNumber": 387,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3626,
+      "sourceText": "Merci.",
+      "ipa": "[mɛʁsi]",
+      "ear": "梅赫西",
+      "meaning": "谢谢你。",
+      "sourceLineId": "mozart-timed-388-1",
+      "suppliedText": "- Merci. - Rosenberg, - vous suivrez cette affaire. - Bien. - Vous en serez le garant. - Absolument.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3626,
+        "anchorEnd": 3631.98,
+        "sourceLineNumber": 388,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3626.399,
+      "sourceText": "Rosenberg,",
+      "ipa": "[ʁozɑ̃bɛʁɡ]",
+      "ear": "霍赞贝赫格",
+      "meaning": "罗森伯格，",
+      "sourceLineId": "mozart-timed-388-2",
+      "suppliedText": "- Merci. - Rosenberg, - vous suivrez cette affaire. - Bien. - Vous en serez le garant. - Absolument.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3626,
+        "anchorEnd": 3631.98,
+        "sourceLineNumber": 388,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3626.997,
+      "sourceText": "vous suivrez cette affaire.",
+      "ipa": "[vu sɥivʁe sɛt‿afɛʁ]",
+      "ear": "乌 斯于伊弗赫 塞特 阿费赫",
+      "meaning": "你就关注这件事吧。",
+      "sourceLineId": "mozart-timed-388-3",
+      "suppliedText": "- Merci. - Rosenberg, - vous suivrez cette affaire. - Bien. - Vous en serez le garant. - Absolument.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3626,
+        "anchorEnd": 3631.98,
+        "sourceLineNumber": 388,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3629.189,
+      "sourceText": "Bien.",
+      "ipa": "[bjɛ̃]",
+      "ear": "布耶安",
+      "meaning": "好。",
+      "sourceLineId": "mozart-timed-388-4",
+      "suppliedText": "- Merci. - Rosenberg, - vous suivrez cette affaire. - Bien. - Vous en serez le garant. - Absolument.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3626,
+        "anchorEnd": 3631.98,
+        "sourceLineNumber": 388,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3629.588,
+      "sourceText": "Vous en serez le garant.",
+      "ipa": "[vuz‿ɑ̃ səʁe lə ɡaʁɑ̃]",
+      "ear": "乌兹 昂 瑟赫 勒 嘎杭",
+      "meaning": "你将成为担保人。",
+      "sourceLineId": "mozart-timed-388-5",
+      "suppliedText": "- Merci. - Rosenberg, - vous suivrez cette affaire. - Bien. - Vous en serez le garant. - Absolument.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3626,
+        "anchorEnd": 3631.98,
+        "sourceLineNumber": 388,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3631.183,
+      "sourceText": "Absolument.",
+      "ipa": "[absolymɑ̃]",
+      "ear": "阿布索吕芒",
+      "meaning": "绝对的。",
+      "sourceLineId": "mozart-timed-388-6",
+      "suppliedText": "- Merci. - Rosenberg, - vous suivrez cette affaire. - Bien. - Vous en serez le garant. - Absolument.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3626,
+        "anchorEnd": 3631.98,
+        "sourceLineNumber": 388,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3632,
+      "sourceText": "Et maintenant, fixons le jour de la première!",
+      "ipa": "[e mɛ̃tnɑ̃ fiksɔ̃ lə ʒuʁ də la pʁəmjɛʁ]",
+      "ear": "诶 曼特南 菲克松 勒 茹赫 德 拉 普赫姆耶艾赫",
+      "meaning": "现在，来定首演的日期吧！",
+      "sourceLineId": "mozart-timed-389-1",
+      "suppliedText": "Et maintenant, fixons le jour de la première! Il a choisi Mozart! Il a choisi Mozart!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3632,
+        "anchorEnd": 3639,
+        "sourceLineNumber": 389,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3635.733,
+      "sourceText": "Il a choisi Mozart!",
+      "ipa": "[il‿a ʃwazi mɔtsaʁ]",
+      "ear": "伊勒 阿 什乌阿齐 莫特萨赫",
+      "meaning": "他选择了莫扎特！",
+      "sourceLineId": "mozart-timed-389-2",
+      "suppliedText": "Et maintenant, fixons le jour de la première! Il a choisi Mozart! Il a choisi Mozart!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3632,
+        "anchorEnd": 3639,
+        "sourceLineNumber": 389,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3637.367,
+      "sourceText": "Il a choisi Mozart!",
+      "ipa": "[il‿a ʃwazi mɔtsaʁ]",
+      "ear": "伊勒 阿 什乌阿齐 莫特萨赫",
+      "meaning": "他选择了莫扎特！",
+      "sourceLineId": "mozart-timed-389-3",
+      "suppliedText": "Et maintenant, fixons le jour de la première! Il a choisi Mozart! Il a choisi Mozart!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3632,
+        "anchorEnd": 3639,
+        "sourceLineNumber": 389,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3639,
+      "sourceText": "Il a choisi Mozart!",
+      "ipa": "[il‿a ʃwazi mɔtsaʁ]",
+      "ear": "伊勒 阿 什乌阿齐 莫特萨赫",
+      "meaning": "他选择了莫扎特！",
+      "sourceLineId": "mozart-timed-390-1",
+      "suppliedText": "- Il a choisi Mozart! - Ça y est? - Elle a fini, la Castafiore? - Pardon? - Je vais le faire taire! - Ça y est, c'est fini.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3639,
+        "anchorEnd": 3647.18,
+        "sourceLineNumber": 390,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3640.468,
+      "sourceText": "Ça y est?",
+      "ipa": "[sa i ɛ]",
+      "ear": "萨 伊 艾",
+      "meaning": "在那里吗？",
+      "sourceLineId": "mozart-timed-390-2",
+      "suppliedText": "- Il a choisi Mozart! - Ça y est? - Elle a fini, la Castafiore? - Pardon? - Je vais le faire taire! - Ça y est, c'est fini.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3639,
+        "anchorEnd": 3647.18,
+        "sourceLineNumber": 390,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3641.097,
+      "sourceText": "Elle a fini, la",
+      "ipa": "[ɛl‿a fini la]",
+      "ear": "艾勒 阿 菲尼 拉",
+      "meaning": "她说完，",
+      "sourceLineId": "mozart-timed-390-3",
+      "suppliedText": "- Il a choisi Mozart! - Ça y est? - Elle a fini, la Castafiore? - Pardon? - Je vais le faire taire! - Ça y est, c'est fini.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3639,
+        "anchorEnd": 3647.18,
+        "sourceLineNumber": 390,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3642.356,
+      "sourceText": "Castafiore?",
+      "ipa": "[kastafjɔʁ]",
+      "ear": "卡斯塔弗耶哦赫",
+      "meaning": "卡斯塔菲奥雷？",
+      "sourceLineId": "mozart-timed-390-4",
+      "suppliedText": "- Il a choisi Mozart! - Ça y est? - Elle a fini, la Castafiore? - Pardon? - Je vais le faire taire! - Ça y est, c'est fini.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3639,
+        "anchorEnd": 3647.18,
+        "sourceLineNumber": 390,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3643.405,
+      "sourceText": "Pardon?",
+      "ipa": "[paʁdɔ̃]",
+      "ear": "帕赫东",
+      "meaning": "对不起？",
+      "sourceLineId": "mozart-timed-390-5",
+      "suppliedText": "- Il a choisi Mozart! - Ça y est? - Elle a fini, la Castafiore? - Pardon? - Je vais le faire taire! - Ça y est, c'est fini.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3639,
+        "anchorEnd": 3647.18,
+        "sourceLineNumber": 390,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3643.824,
+      "sourceText": "Je vais le faire taire!",
+      "ipa": "[ʒə vɛ lə fɛʁ tɛʁ]",
+      "ear": "热 韦 勒 费赫 泰赫",
+      "meaning": "我会让他闭嘴！",
+      "sourceLineId": "mozart-timed-390-6",
+      "suppliedText": "- Il a choisi Mozart! - Ça y est? - Elle a fini, la Castafiore? - Pardon? - Je vais le faire taire! - Ça y est, c'est fini.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3639,
+        "anchorEnd": 3647.18,
+        "sourceLineNumber": 390,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3645.922,
+      "sourceText": "Ça y est, c'est fini.",
+      "ipa": "[sa i ɛ sɛ fini]",
+      "ear": "萨 伊 艾 塞 菲尼",
+      "meaning": "就是这样，结束了。",
+      "sourceLineId": "mozart-timed-390-7",
+      "suppliedText": "- Il a choisi Mozart! - Ça y est? - Elle a fini, la Castafiore? - Pardon? - Je vais le faire taire! - Ça y est, c'est fini.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3639,
+        "anchorEnd": 3647.18,
+        "sourceLineNumber": 390,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3648,
+      "sourceText": "Josepha!",
+      "ipa": "[ʒozɛfa]",
+      "ear": "若泽法",
+      "meaning": "约瑟法！",
+      "sourceLineId": "mozart-timed-391-1",
+      "suppliedText": "- Josepha! - Oui?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3648,
+        "anchorEnd": 3649,
+        "sourceLineNumber": 391,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3648.5,
+      "sourceText": "Oui?",
+      "ipa": "[wi]",
+      "ear": "乌伊",
+      "meaning": "是吗？",
+      "sourceLineId": "mozart-timed-391-2",
+      "suppliedText": "- Josepha! - Oui?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3648,
+        "anchorEnd": 3649,
+        "sourceLineNumber": 391,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3649,
+      "sourceText": "Tu changeras les draps",
+      "ipa": "[ty ʃɑ̃ʒʁa le dʁa]",
+      "ear": "蒂于 尚日哈 莱 德哈",
+      "meaning": "你将更换床单",
+      "sourceLineId": "mozart-timed-392-1",
+      "suppliedText": "Tu changeras les draps - de la chambre du 2e étage? - Bien, maman. Constance?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3649,
+        "anchorEnd": 3656.819,
+        "sourceLineNumber": 392,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3651.132,
+      "sourceText": "de la chambre du 2e étage?",
+      "ipa": "[də la ʃɑ̃bʁ dy døks‿etaʒ]",
+      "ear": "德 拉 尚布赫 迪于 德厄克斯 诶塔日",
+      "meaning": "来自二楼卧室？",
+      "sourceLineId": "mozart-timed-392-2",
+      "suppliedText": "Tu changeras les draps - de la chambre du 2e étage? - Bien, maman. Constance?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3649,
+        "anchorEnd": 3656.819,
+        "sourceLineNumber": 392,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3654.331,
+      "sourceText": "Bien, maman.",
+      "ipa": "[bjɛ̃ mamɑ̃]",
+      "ear": "布耶安 玛芒",
+      "meaning": "好，妈妈。",
+      "sourceLineId": "mozart-timed-392-3",
+      "suppliedText": "Tu changeras les draps - de la chambre du 2e étage? - Bien, maman. Constance?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3649,
+        "anchorEnd": 3656.819,
+        "sourceLineNumber": 392,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3655.753,
+      "sourceText": "Constance?",
+      "ipa": "[kɔ̃stɑ̃s]",
+      "ear": "孔斯唐斯",
+      "meaning": "康斯坦丝？",
+      "sourceLineId": "mozart-timed-392-4",
+      "suppliedText": "Tu changeras les draps - de la chambre du 2e étage? - Bien, maman. Constance?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3649,
+        "anchorEnd": 3656.819,
+        "sourceLineNumber": 392,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3657,
+      "sourceText": "Constance!",
+      "ipa": "[kɔ̃stɑ̃s]",
+      "ear": "孔斯唐斯",
+      "meaning": "康斯坦丝！",
+      "sourceLineId": "mozart-timed-393-1",
+      "suppliedText": "- Constance! - Oui, maman? Les chemise de Monsieur Arthur sont prêtes? - J'arrive! - Ben, dépêche-toi!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3657,
+        "anchorEnd": 3664.86,
+        "sourceLineNumber": 393,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3657.761,
+      "sourceText": "Oui, maman?",
+      "ipa": "[wi mamɑ̃]",
+      "ear": "乌伊 玛芒",
+      "meaning": "是啊，妈妈？",
+      "sourceLineId": "mozart-timed-393-2",
+      "suppliedText": "- Constance! - Oui, maman? Les chemise de Monsieur Arthur sont prêtes? - J'arrive! - Ben, dépêche-toi!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3657,
+        "anchorEnd": 3664.86,
+        "sourceLineNumber": 393,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3659.028,
+      "sourceText": "Les chemise de",
+      "ipa": "[le ʃəmiz də]",
+      "ear": "莱 舍米兹 德",
+      "meaning": "衬衫",
+      "sourceLineId": "mozart-timed-393-3",
+      "suppliedText": "- Constance! - Oui, maman? Les chemise de Monsieur Arthur sont prêtes? - J'arrive! - Ben, dépêche-toi!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3657,
+        "anchorEnd": 3664.86,
+        "sourceLineNumber": 393,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3660.296,
+      "sourceText": "Monsieur Arthur sont prêtes?",
+      "ipa": "[məsjø aʁtyʁ sɔ̃ pʁɛt]",
+      "ear": "默斯耶厄 阿赫蒂于赫 松 普赫特",
+      "meaning": "阿瑟先生，都准备好了吗？",
+      "sourceLineId": "mozart-timed-393-4",
+      "suppliedText": "- Constance! - Oui, maman? Les chemise de Monsieur Arthur sont prêtes? - J'arrive! - Ben, dépêche-toi!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3657,
+        "anchorEnd": 3664.86,
+        "sourceLineNumber": 393,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3662.578,
+      "sourceText": "J'arrive!",
+      "ipa": "[ʒaʁiv]",
+      "ear": "扎希弗",
+      "meaning": "我来了！",
+      "sourceLineId": "mozart-timed-393-5",
+      "suppliedText": "- Constance! - Oui, maman? Les chemise de Monsieur Arthur sont prêtes? - J'arrive! - Ben, dépêche-toi!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3657,
+        "anchorEnd": 3664.86,
+        "sourceLineNumber": 393,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3663.339,
+      "sourceText": "Ben, dépêche-toi!",
+      "ipa": "[bɛn depɛʃtwa]",
+      "ear": "贝恩 德佩什特乌阿",
+      "meaning": "好吧，快点！",
+      "sourceLineId": "mozart-timed-393-6",
+      "suppliedText": "- Constance! - Oui, maman? Les chemise de Monsieur Arthur sont prêtes? - J'arrive! - Ben, dépêche-toi!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3657,
+        "anchorEnd": 3664.86,
+        "sourceLineNumber": 393,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3665,
+      "sourceText": "Il attend pour partir.",
+      "ipa": "[il‿atɑ̃ puʁ paʁtiʁ]",
+      "ear": "伊勒 阿唐 普赫 帕赫蒂赫",
+      "meaning": "他正在等待离开。",
+      "sourceLineId": "mozart-timed-394-1",
+      "suppliedText": "Il attend pour partir. Ça nous fait... 2, 4, 6, 8. Voilà, le compte est bon. Alors, ces chemises, là?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3665,
+        "anchorEnd": 3673,
+        "sourceLineNumber": 394,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3667.074,
+      "sourceText": "Ça nous fait... 2, 4, 6, 8.",
+      "ipa": "[sa nu fɛ dø katʁ sis ɥit]",
+      "ear": "萨 努 费 德厄 卡特赫 西斯 于伊特",
+      "meaning": "这使我们...2、4、6、8。",
+      "sourceLineId": "mozart-timed-394-2",
+      "suppliedText": "Il attend pour partir. Ça nous fait... 2, 4, 6, 8. Voilà, le compte est bon. Alors, ces chemises, là?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3665,
+        "anchorEnd": 3673,
+        "sourceLineNumber": 394,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3668.556,
+      "sourceText": "Voilà, le compte est bon.",
+      "ipa": "[vwala lə kɔ̃t‿ɛ bɔ̃]",
+      "ear": "弗乌阿拉 勒 孔特 艾 崩",
+      "meaning": "就这样，计数很好。",
+      "sourceLineId": "mozart-timed-394-3",
+      "suppliedText": "Il attend pour partir. Ça nous fait... 2, 4, 6, 8. Voilà, le compte est bon. Alors, ces chemises, là?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3665,
+        "anchorEnd": 3673,
+        "sourceLineNumber": 394,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3670.926,
+      "sourceText": "Alors, ces chemises, là?",
+      "ipa": "[alɔʁ se ʃəmiz la]",
+      "ear": "阿洛赫 塞 舍米兹 拉",
+      "meaning": "那么，这些衬衫？",
+      "sourceLineId": "mozart-timed-394-4",
+      "suppliedText": "Il attend pour partir. Ça nous fait... 2, 4, 6, 8. Voilà, le compte est bon. Alors, ces chemises, là?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3665,
+        "anchorEnd": 3673,
+        "sourceLineNumber": 394,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3673,
+      "sourceText": "Tenez.",
+      "ipa": "[təne]",
+      "ear": "特内",
+      "meaning": "这里。",
+      "sourceLineId": "mozart-timed-395-1",
+      "suppliedText": "Tenez. Les voilà. Bon Allez, vous, disparaissez! - Que fais-tu? Il y a du travail. - J'en ai assez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3673,
+        "anchorEnd": 3681,
+        "sourceLineNumber": 395,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3673.485,
+      "sourceText": "Les voilà.",
+      "ipa": "[le vwala]",
+      "ear": "莱 弗乌阿拉",
+      "meaning": "他们在这里。",
+      "sourceLineId": "mozart-timed-395-2",
+      "suppliedText": "Tenez. Les voilà. Bon Allez, vous, disparaissez! - Que fais-tu? Il y a du travail. - J'en ai assez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3673,
+        "anchorEnd": 3681,
+        "sourceLineNumber": 395,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3674.455,
+      "sourceText": "Bon",
+      "ipa": "[bɔ̃]",
+      "ear": "崩",
+      "meaning": "好的",
+      "sourceLineId": "mozart-timed-395-3",
+      "suppliedText": "Tenez. Les voilà. Bon Allez, vous, disparaissez! - Que fais-tu? Il y a du travail. - J'en ai assez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3673,
+        "anchorEnd": 3681,
+        "sourceLineNumber": 395,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3674.697,
+      "sourceText": "Allez, vous, disparaissez!",
+      "ipa": "[ale vu dispaʁɛse]",
+      "ear": "阿莱 乌 迪斯帕赫塞",
+      "meaning": "来吧，你，消失吧！",
+      "sourceLineId": "mozart-timed-395-4",
+      "suppliedText": "Tenez. Les voilà. Bon Allez, vous, disparaissez! - Que fais-tu? Il y a du travail. - J'en ai assez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3673,
+        "anchorEnd": 3681,
+        "sourceLineNumber": 395,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3676.879,
+      "sourceText": "Que fais-tu?",
+      "ipa": "[kə fɛty]",
+      "ear": "克 费蒂于",
+      "meaning": "你在做什么？",
+      "sourceLineId": "mozart-timed-395-5",
+      "suppliedText": "Tenez. Les voilà. Bon Allez, vous, disparaissez! - Que fais-tu? Il y a du travail. - J'en ai assez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3673,
+        "anchorEnd": 3681,
+        "sourceLineNumber": 395,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3678.091,
+      "sourceText": "Il y a du travail.",
+      "ipa": "[il‿i a dy tʁavaj]",
+      "ear": "伊勒 伊 阿 迪于 特哈瓦耶",
+      "meaning": "有工作。",
+      "sourceLineId": "mozart-timed-395-6",
+      "suppliedText": "Tenez. Les voilà. Bon Allez, vous, disparaissez! - Que fais-tu? Il y a du travail. - J'en ai assez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3673,
+        "anchorEnd": 3681,
+        "sourceLineNumber": 395,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3679.788,
+      "sourceText": "J'en ai assez!",
+      "ipa": "[ʒɑ̃ e ase]",
+      "ear": "让 诶 阿塞",
+      "meaning": "我已经受够了！",
+      "sourceLineId": "mozart-timed-395-7",
+      "suppliedText": "Tenez. Les voilà. Bon Allez, vous, disparaissez! - Que fais-tu? Il y a du travail. - J'en ai assez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3673,
+        "anchorEnd": 3681,
+        "sourceLineNumber": 395,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3681,
+      "sourceText": "Assez de trimer comme une boniche.",
+      "ipa": "[ase də tʁime kɔm‿yn boniʃ]",
+      "ear": "阿塞 德 特希梅 科姆 于恩 博尼什",
+      "meaning": "我受够了像女佣一样没日没夜地干活。",
+      "sourceLineId": "mozart-timed-396-1",
+      "suppliedText": "Assez de trimer comme une boniche. Engage une gouvernante! Et l'argent pour la payer, il est où?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3681,
+        "anchorEnd": 3687.67,
+        "sourceLineNumber": 396,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3683.287,
+      "sourceText": "Engage une gouvernante!",
+      "ipa": "[ɑ̃ɡaʒ‿yn ɡuvɛʁnɑ̃t]",
+      "ear": "昂嘎日 于恩 古韦赫南特",
+      "meaning": "雇个管家！",
+      "sourceLineId": "mozart-timed-396-2",
+      "suppliedText": "Assez de trimer comme une boniche. Engage une gouvernante! Et l'argent pour la payer, il est où?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3681,
+        "anchorEnd": 3687.67,
+        "sourceLineNumber": 396,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3685.193,
+      "sourceText": "Et l'argent pour la payer, il est où?",
+      "ipa": "[e laʁʒɑ̃ puʁ la pɛje il‿ɛt‿u]",
+      "ear": "诶 拉赫让 普赫 拉 佩耶诶 伊勒 艾特 乌",
+      "meaning": "支付它的钱在哪里？",
+      "sourceLineId": "mozart-timed-396-3",
+      "suppliedText": "Assez de trimer comme une boniche. Engage une gouvernante! Et l'argent pour la payer, il est où?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3681,
+        "anchorEnd": 3687.67,
+        "sourceLineNumber": 396,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3688,
+      "sourceText": "Petite dinde!",
+      "ipa": "[pətit dɛ̃d]",
+      "ear": "珀蒂特 丹德",
+      "meaning": "你这个小傻瓜！",
+      "sourceLineId": "mozart-timed-397-1",
+      "suppliedText": "Petite dinde! Depuis que ton père est mort, qu'Aloysia est mariée, je me tue à la tâche, et tu as des fatigues, des états d'âme!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3688,
+        "anchorEnd": 3697,
+        "sourceLineNumber": 397,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3688.957,
+      "sourceText": "Depuis que ton père est mort, qu'Aloysia est mariée, je me tue à la tâche, et tu as des fatigues, des états d'âme!",
+      "ipa": "[dəpɥi kə tɔ̃ pɛʁ‿ɛ mɔʁ kalwazja ɛ maʁje ʒə mə ty a la taʃ e ty a de fatiɡ dez‿eta dam]",
+      "ear": "德普于伊 克 通 佩赫 艾 莫赫 卡勒乌阿兹耶阿 艾 玛赫耶诶 热 默 蒂于 阿 拉 塔什 诶 蒂于 阿 德 法蒂格 德兹 诶塔 达姆",
+      "meaning": "自从你父亲去世，阿洛伊西娅结婚以来，我一直在努力工作，而你却一直感到疲倦和喜怒无常！",
+      "sourceLineId": "mozart-timed-397-2",
+      "suppliedText": "Petite dinde! Depuis que ton père est mort, qu'Aloysia est mariée, je me tue à la tâche, et tu as des fatigues, des états d'âme!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3688,
+        "anchorEnd": 3697,
+        "sourceLineNumber": 397,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3697,
+      "sourceText": "Je me demande quand tu auras du plomb dans la cervelle.",
+      "ipa": "[ʒə mə dəmɑ̃d kɑ̃ ty oʁa dy plɔ̃ dɑ̃ la sɛʁvɛl]",
+      "ear": "热 默 德芒德 康 蒂于 奥哈 迪于 普隆 当 拉 塞赫韦勒",
+      "meaning": "你到底什么时候才能懂事一点？",
+      "sourceLineId": "mozart-timed-398-1",
+      "suppliedText": "Je me demande quand tu auras du plomb dans la cervelle.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3697,
+        "anchorEnd": 3700,
+        "sourceLineNumber": 398,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

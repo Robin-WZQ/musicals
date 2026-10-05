@@ -8,8 +8,7 @@
   "duration": 162,
   "sourceDuration": 162,
   "musicalId": "moliere",
-  "trackNumber": 41,
-  "act": 2,
+  "trackNumber": 7,
   "captionStatus": "ready",
   "captionLanguage": "fr",
   "captionSource": "editorial",
@@ -19,107 +18,102 @@
   "lyricsStorage": "user-provided",
   "cues": [
     {
-      "text": "… Nuit. Jean-Baptiste, comment tu vas faire ? Tu es épuisé ! Oui, dès demain, dès demain, mes ennemis sauront enfin qui je…",
-      "start": 2,
-      "duration": 8
-    },
-    {
-      "text": "Suis ça fait longtemps que tu n'entends plus la voix de ta raison tu sais",
+      "text": "Ça fait longtemps que tu n'entends plus le son de ta raison. Tu sais",
       "start": 10,
       "duration": 7
     },
     {
-      "text": "Pourtant que l'ambition est devenue ta prison tant de blessur t de fures qui te",
+      "text": "Pourtant que l'ambition est devenue ta prison. Tant de blessures, tant de fêlures qui te",
       "start": 17,
       "duration": 9
     },
     {
-      "text": "Font encore saigner. Dans les regards, dans les égards…",
+      "text": "Font encore saigner. Dans les regards, dans les égards, tu pansais les",
       "start": 26,
       "duration": 7
     },
     {
-      "text": "… Tu finiras par tomber, tomber…",
+      "text": "Pensées. Tu finiras par tomber, tomber,",
       "start": 33,
       "duration": 6
     },
     {
-      "text": "Tomber… Où tes rêves t'ont…",
+      "text": "Tomber du haut des sommets où tes rêves t'ont",
       "start": 39,
       "duration": 6
     },
     {
-      "text": "… Tu finiras par sombrer, sombrer…",
+      "text": "Porté. Tu finiras par sombrer, sombrer,",
       "start": 45,
       "duration": 5
     },
     {
-      "text": "Sombrer… Tomber, tomber, tomber. Tu crains le silence, le vide…",
+      "text": "Sombrer à trop vouloir briller. Tomber, tomber, tomber. Tu crains le silence, le vide",
       "start": 50,
       "duration": 10
     },
     {
-      "text": "Qui te ramène à ton enfance. Il faut que tu avances pour donner un sens à ton…",
+      "text": "Qui te ramènent à ton enfance. Faut que t'avances pour donner un sens à ton",
       "start": 60,
       "duration": 7
     },
     {
-      "text": "Existence. Mais pour effacer ce passé, tu as besoin d'exister. Tu veux…",
+      "text": "Existence. Mais pour effacer ce maudit passé, tu as besoin d'exister. Tu veux",
       "start": 67,
       "duration": 9
     },
     {
-      "text": "… Tu n'en as jamais assez. Tomber, tomber…",
+      "text": "Compter, tu n'en as jamais assez. Tu finiras par tomber, tomber,",
       "start": 76,
       "duration": 8
     },
     {
-      "text": "Tomber… Où tes rêves…",
+      "text": "Tomber du haut des sommets où tes rêves t'ont porté.",
       "start": 84,
       "duration": 6
     },
     {
-      "text": "… Tu finiras par sombrer, sombrer, sombrer… Tomber, tomber…",
+      "text": "Tu finiras par sombrer, sombrer, sombrer à trop vouloir briller. Tomber, tomber,",
       "start": 90,
       "duration": 11
     },
     {
-      "text": "Tomber. Ça fait longtemps que tu n'entends plus la voix de ta raison. Tu…",
+      "text": "Tomber. Ça fait longtemps que tu n'entends plus le son de ta raison. Mais tu",
       "start": 101,
       "duration": 7
     },
     {
-      "text": "Sais pourtant que l'ambition est devenue ta prisson tu cour tu sans jamais fare des dans la",
+      "text": "Sais pourtant que l'ambition est devenue ta prison. Tu cours et tu cours sans jamais faire de détours, dans la",
       "start": 108,
       "duration": 8
     },
     {
-      "text": "Même encore tou jours ce terrible parcours jusqu'à",
+      "text": "Même direction, encore et toujours. Ce terrible parcours jusqu'à",
       "start": 117,
       "duration": 7
     },
     {
-      "text": "L'obsession tu finiras par tomber tomber",
+      "text": "L'obsession. Tu finiras par tomber, tomber,",
       "start": 124,
       "duration": 6
     },
     {
-      "text": "Tomber… Où tes rêves…",
+      "text": "Tomber du haut des sommets où tes rêves",
       "start": 130,
       "duration": 5
     },
     {
-      "text": "… Tu finiras par sombrer, sombrer, sombrer… À trop vouloir…",
+      "text": "T'ont porté. Tu finiras par sombrer, sombrer, sombrer à trop vouloir",
       "start": 135,
       "duration": 9
     },
     {
-      "text": "… Orgueil… Tomber…",
+      "text": "Briller d'orgueil et de vanité. Tomber,",
       "start": 144,
       "duration": 9
     },
     {
-      "text": "Tomber… Tomber, tomber, tomber…",
+      "text": "Tomber, sombrer, tomber, tomber, tomber.",
       "start": 153,
       "duration": 5
     }
@@ -231,7 +225,7 @@
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
   "timingReviewStatus": "approximate",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "phoneticReviewStatus": "not-generated",
   "studyKind": "four-layer",
   "mediaKind": "stage-video",
@@ -339,7 +333,7 @@
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
   },
-  "studyVersion": 1,
+  "studyVersion": 2,
   "studyInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
@@ -460,5 +454,7 @@
       "start": 158,
       "text": "[Musique]"
     }
-  ]
+  ],
+  "originalTrackNumber": 41,
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

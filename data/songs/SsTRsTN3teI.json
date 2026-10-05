@@ -8,8 +8,7 @@
   "duration": 144,
   "sourceDuration": 144,
   "musicalId": "moliere",
-  "trackNumber": 5,
-  "act": 1,
+  "trackNumber": 12,
   "captionStatus": "ready",
   "captionLanguage": "fr",
   "captionSource": "editorial",
@@ -29,7 +28,7 @@
       "duration": 7
     },
     {
-      "text": "Enfance qu'on lui vole ses rêves et son innocence. Son… lui impose un mari.",
+      "text": "Enfance qu'on lui vole ses rêves et son innocence. Son père lui impose un mari.",
       "start": 25,
       "duration": 10
     },
@@ -64,17 +63,7 @@
       "duration": 6
     },
     {
-      "text": "Prénom. Sa fille s'appelle Armande et elle a aujourd'hui trois ans. Et notre sœur ne peut pas lui assurer une éducation…",
-      "start": 80,
-      "duration": 7
-    },
-    {
-      "text": "Dans la précarité d'une tournée. Alors j'ai décidé de la confier à une dame d'un rang distingué. Je ne sais pas quand je la reverrai, ni si elle pourra me le…",
-      "start": 87,
-      "duration": 8
-    },
-    {
-      "text": "Pardonner. Elle a choisi de se moquer de ce que les…",
+      "text": "Elle a choisi de se moquer de ce que les…",
       "start": 95,
       "duration": 8
     },
@@ -87,11 +76,6 @@
       "text": "Où… rencontré un homme marié.",
       "start": 114,
       "duration": 11
-    },
-    {
-      "text": "Louis, va chercher la nourrice, lui remettre ses affaires. Je n'ai pas la force de dire au revoir à ma fille.",
-      "start": 125,
-      "duration": 13
     }
   ],
   "playbackVideoId": "SsTRsTN3teI",
@@ -193,7 +177,7 @@
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
   "timingReviewStatus": "approximate",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "phoneticReviewStatus": "not-generated",
   "studyKind": "four-layer",
   "mediaKind": "stage-video",
@@ -293,7 +277,7 @@
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
   },
-  "studyVersion": 1,
+  "studyVersion": 2,
   "studyInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
@@ -404,5 +388,7 @@
       "start": 141,
       "text": "[Applaudissements]"
     }
-  ]
+  ],
+  "originalTrackNumber": 5,
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

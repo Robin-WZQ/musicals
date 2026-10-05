@@ -1,15 +1,15 @@
 {
   "videoId": "OEe6Jxooszc",
   "playbackVideoId": "OEe6Jxooszc",
-  "version": 1,
+  "version": 2,
   "textSource": "user-supplied-auto-transcript",
   "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
   "meaningSource": "editorial-chinese-from-user-transcript",
   "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
   "sources": [
     {
       "label": "本段原唱录像",
@@ -17,54 +17,6 @@
     }
   ],
   "entries": [
-    {
-      "sourceText": "Quant à moi jour après jour ma santé se détériore et ma dernière heure va",
-      "start": 0,
-      "ipa": "[kɑ̃ a mwa ʒuʁ‿apʁɛ ʒuʁ ma sɑ̃te sə deteʁjɔʁ e ma dɛʁnjɛʁ‿œʁ va]",
-      "ear": "康 阿 姆乌阿 茹赫 阿普赫 茹赫 玛 桑特 瑟 德特赫耶哦赫 诶 玛 戴赫恩耶艾赫 厄赫 瓦",
-      "meaning": "我的健康一天天变差，最后的时刻……",
-      "suppliedText": "quant à moi jour après jour ma santé se détériore et ma dernière heure va",
-      "sourceLineId": "moliere-timed-401",
-      "reviewNote": "",
-      "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 0,
-        "sourceLineNumber": 401,
-        "precision": "approximate"
-      }
-    },
-    {
-      "sourceText": "Bientôt arriver mis à part Louis tous mes compagnons",
-      "start": 8,
-      "ipa": "[bjɛ̃to aʁive mi a paʁ lwi tu me kɔ̃panjɔ̃]",
-      "ear": "布耶安托 阿希韦 米 阿 帕赫 勒乌伊 图 梅 孔帕恩耶翁",
-      "meaning": "快到了。除了路易，伙伴们都……",
-      "suppliedText": "bientôt arriver mis à part Louis tous mes compagnons",
-      "sourceLineId": "moliere-timed-405",
-      "reviewNote": "",
-      "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 8,
-        "sourceLineNumber": 405,
-        "precision": "approximate"
-      }
-    },
-    {
-      "sourceText": "L'ignorent Dieu que je les aime ils vont tellement me",
-      "start": 15,
-      "ipa": "[linjoʁ djø kə ʒə lez‿ɛm‿il vɔ̃ tɛlmɑ̃ mə]",
-      "ear": "利恩耶奥赫 德耶厄 克 热 莱兹 艾姆 伊勒 翁 泰勒芒 默",
-      "meaning": "不知道。天啊，我多么爱他们，会多么……",
-      "suppliedText": "l'ignorent Dieu que je les aime ils vont tellement me",
-      "sourceLineId": "moliere-timed-406",
-      "reviewNote": "",
-      "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 15,
-        "sourceLineNumber": 406,
-        "precision": "approximate"
-      }
-    },
     {
       "sourceText": "Manquer j'ai gardé peu de souvenir de ma mère une voix apaisante une image évanescente tapie dans un coin de mon",
       "start": 25,
@@ -146,7 +98,7 @@
       }
     },
     {
-      "sourceText": "Privé pendant toutes ces années je n'ai cessé de m'enquérir de ces nouvelles on m'écrivait qu'Armande me ressemblait qu'elle était volontaire et rebelle",
+      "sourceText": "Privé pendant toutes ces années je n'ai cessé de m'enquérir de ses nouvelles on m'écrivait qu'Armande me ressemblait qu'elle était volontaire et rebelle",
       "start": 70,
       "ipa": "[pʁive pɑ̃dɑ̃ tut sez‿ane ʒə ne sɛse də mɑ̃keʁiʁ də se nuvɛl‿ɔ̃ mekʁivɛ kaʁmɑ̃d mə ʁəsɑ̃blɛ kɛl‿etɛ volɔ̃tɛʁ e ʁəbɛl]",
       "ear": "普希韦 庞当 图特 塞兹 阿内 热 内 塞塞 德 芒克希赫 德 塞 努韦勒 翁 梅克希韦 卡赫芒德 默 赫桑布莱 凯勒 诶泰 沃隆泰赫 诶 赫贝勒",
@@ -162,10 +114,10 @@
       }
     },
     {
-      "sourceText": "Quand elle devint suffisamment grande en âantf de comprendre dans une longue lettre je lui a tout raconter en lui promettant de venir bientôt la",
+      "sourceText": "Quand elle devint suffisamment grande en âantf de comprendre dans une longue lettre je lui ai tout raconté en lui promettant de venir bientôt la",
       "start": 78,
-      "ipa": "[kɑ̃t‿ɛl dəvɛ̃ syfizamɑ̃ ɡʁɑ̃d‿ɑ̃n‿aɑ̃tf də kɔ̃pʁɑ̃dʁ dɑ̃ yn lɔ̃ɡ lɛtʁ ʒə lɥi a tu ʁakɔ̃te ɑ̃ lɥi pʁomɛtɑ̃ də vəniʁ bjɛ̃to la]",
-      "ear": "康特 艾勒 德万 西于菲扎芒 格杭德 昂恩 阿昂特弗 德 孔普杭德赫 当 于恩 隆格 莱特赫 热 勒于伊 阿 图 哈孔特 昂 勒于伊 普霍梅唐 德 弗尼赫 布耶安托 拉",
+      "ipa": "[kɑ̃t‿ɛl dəvɛ̃ syfizamɑ̃ ɡʁɑ̃d‿ɑ̃n‿aɑ̃tf də kɔ̃pʁɑ̃dʁ dɑ̃ yn lɔ̃ɡ lɛtʁ ʒə lɥi e tu ʁakɔ̃te ɑ̃ lɥi pʁomɛtɑ̃ də vəniʁ bjɛ̃to la]",
+      "ear": "康特 艾勒 德万 西于菲扎芒 格杭德 昂恩 阿昂特弗 德 孔普杭德赫 当 于恩 隆格 莱特赫 热 勒于伊 诶 图 哈孔特 昂 勒于伊 普霍梅唐 德 弗尼赫 布耶安托 拉",
       "meaning": "等她长到能够理解的年纪，我写长信说明一切，答应很快去……",
       "suppliedText": "quand elle devint suffisamment grande en âantf de comprendre dans une longue lettre je lui a tout raconter en lui promettant de venir bientôt la",
       "sourceLineId": "moliere-timed-414",
@@ -289,5 +241,6 @@
         "precision": "approximate"
       }
     }
-  ]
+  ],
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

@@ -51,6 +51,8 @@ jobs:
         run: python -m unittest discover -s scripts -p test_moliere_times.py
       - name: Verify Molière reference annotation import
         run: python -m unittest discover -s scripts -p test_moliere_study.py
+      - name: Verify supplied Mozart chapters and recovered line breaks
+        run: python -m unittest discover -s scripts -p test_mozart_study.py
       - name: Read YouTube metadata and captions (no audio download)
         env:
           VIDEO_INPUT: ${{ inputs.youtube_url }}

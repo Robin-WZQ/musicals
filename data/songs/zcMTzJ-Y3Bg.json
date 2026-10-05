@@ -8,8 +8,7 @@
   "duration": 128,
   "sourceDuration": 128,
   "musicalId": "moliere",
-  "trackNumber": 9,
-  "act": 1,
+  "trackNumber": 14,
   "captionStatus": "ready",
   "captionLanguage": "fr",
   "captionSource": "editorial",
@@ -39,12 +38,12 @@
       "duration": 8
     },
     {
-      "text": "Mais tu n'as jamais d'essayer j'aurais",
+      "text": "Mais tu n'as jamais… J'aurais…",
       "start": 43,
       "duration": 6
     },
     {
-      "text": "Tantôé mais tu avais tenté tant de rêve trop grand pour trouver le",
+      "text": "Tant aimé… mais tu avais tant de rêves trop grands pour trouver le",
       "start": 49,
       "duration": 9
     },
@@ -69,12 +68,12 @@
       "duration": 12
     },
     {
-      "text": "Ma passion mais tu n'as jamais tant d'essayé j'aurais",
+      "text": "Ma passion. Mais tu n'as jamais… J'aurais…",
       "start": 92,
       "duration": 6
     },
     {
-      "text": "Tant pas dégoûter mais tu avais dans des temps de rêve trop grand pour trouver le",
+      "text": "Tant… Pas écouté… mais tu avais tant de rêves trop grands pour trouver le",
       "start": 98,
       "duration": 10
     },
@@ -168,7 +167,7 @@
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
   "timingReviewStatus": "approximate",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "phoneticReviewStatus": "not-generated",
   "studyKind": "four-layer",
   "mediaKind": "stage-video",
@@ -248,7 +247,7 @@
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
   },
-  "studyVersion": 1,
+  "studyVersion": 2,
   "studyInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
@@ -334,5 +333,7 @@
       "start": 116,
       "text": "tous les soirs pour écrire des histoires qui je l'espère te rendront fier Car oui, un jour on jouera les pièces de Monsieur Molière."
     }
-  ]
+  ],
+  "originalTrackNumber": 9,
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

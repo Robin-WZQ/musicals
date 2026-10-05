@@ -8,8 +8,7 @@
   "duration": 146,
   "sourceDuration": 146,
   "musicalId": "moliere",
-  "trackNumber": 20,
-  "act": 1,
+  "trackNumber": 10,
   "captionStatus": "ready",
   "captionLanguage": "fr",
   "captionSource": "editorial",
@@ -18,21 +17,6 @@
   "isGenerated": false,
   "lyricsStorage": "user-provided",
   "cues": [
-    {
-      "text": "Quant à moi jour après jour ma santé se détériore et ma dernière heure va",
-      "start": 0,
-      "duration": 8
-    },
-    {
-      "text": "Bientôt arriver mis à part Louis tous mes compagnons",
-      "start": 8,
-      "duration": 7
-    },
-    {
-      "text": "L'ignorent Dieu que je les aime ils vont tellement me",
-      "start": 15,
-      "duration": 10
-    },
     {
       "text": "Manquer j'ai gardé peu de souvenir de ma mère une voix apaisante une image évanescente tapie dans un coin de mon",
       "start": 25,
@@ -59,12 +43,12 @@
       "duration": 10
     },
     {
-      "text": "Privé pendant toutes ces années je n'ai cessé de m'enquérir de ces nouvelles on m'écrivait qu'Armande me ressemblait qu'elle était volontaire et rebelle",
+      "text": "Privé pendant toutes ces années je n'ai cessé de m'enquérir de ses nouvelles on m'écrivait qu'Armande me ressemblait qu'elle était volontaire et rebelle",
       "start": 70,
       "duration": 8
     },
     {
-      "text": "Quand elle devint suffisamment grande en âantf de comprendre dans une longue lettre je lui a tout raconter en lui promettant de venir bientôt la",
+      "text": "Quand elle devint suffisamment grande en âantf de comprendre dans une longue lettre je lui ai tout raconté en lui promettant de venir bientôt la",
       "start": 78,
       "duration": 8
     },
@@ -195,7 +179,7 @@
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
   "timingReviewStatus": "approximate",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "phoneticReviewStatus": "not-generated",
   "studyKind": "four-layer",
   "mediaKind": "stage-video",
@@ -287,7 +271,7 @@
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
   },
-  "studyVersion": 1,
+  "studyVersion": 2,
   "studyInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
@@ -393,5 +377,7 @@
       "start": 140,
       "text": "celle de ma mère"
     }
-  ]
+  ],
+  "originalTrackNumber": 20,
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

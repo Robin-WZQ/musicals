@@ -1,0 +1,770 @@
+{
+  "videoId": "mozart-2010-22",
+  "playbackVideoId": "83Qn2IvP_-I",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "97aaf400c790393fcb53f1f43bb1002cc0955e5fa8ec3c8c767c03260daed16c",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "法语原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "2010年巴黎原唱录像",
+      "url": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=7020"
+    }
+  ],
+  "entries": [
+    {
+      "start": 7038,
+      "sourceText": "Ce soir c'est le grand bal",
+      "ipa": "[sə swaʁ sɛ lə ɡʁɑ̃ bal]",
+      "ear": "瑟 斯乌阿赫 塞 勒 格杭 巴勒",
+      "meaning": "今晚是一场盛大的舞会。",
+      "sourceLineId": "mozart-timed-742-1",
+      "suppliedText": "Ce soir c'est le grand bal Mets du fard sur tes idées pâles",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7038,
+        "anchorEnd": 7044.9,
+        "sourceLineNumber": 742,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7040.841,
+      "sourceText": "Mets du fard sur tes idées pâles",
+      "ipa": "[mɛ dy faʁ syʁ tez‿ide pal]",
+      "ear": "梅 迪于 法赫 西于赫 特兹 伊德 帕勒",
+      "meaning": "给你苍白的想法添些色彩。",
+      "sourceLineId": "mozart-timed-742-2",
+      "suppliedText": "Ce soir c'est le grand bal Mets du fard sur tes idées pâles",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7038,
+        "anchorEnd": 7044.9,
+        "sourceLineNumber": 742,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7045,
+      "sourceText": "On va faire tanguer les étoiles",
+      "ipa": "[ɔ̃ va fɛʁ tɑ̃ɡe lez‿etwal]",
+      "ear": "翁 瓦 费赫 唐格 莱兹 诶特乌阿勒",
+      "meaning": "我们要让星辰也摇晃起来。",
+      "sourceLineId": "mozart-timed-743-1",
+      "suppliedText": "On va faire tanguer les étoiles Bien plus haut",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7045,
+        "anchorEnd": 7053,
+        "sourceLineNumber": 743,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7050.778,
+      "sourceText": "Bien plus haut",
+      "ipa": "[bjɛ̃ ply o]",
+      "ear": "布耶安 普吕 奥",
+      "meaning": "飞向更高的地方。",
+      "sourceLineId": "mozart-timed-743-2",
+      "suppliedText": "On va faire tanguer les étoiles Bien plus haut",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7045,
+        "anchorEnd": 7053,
+        "sourceLineNumber": 743,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7053,
+      "sourceText": "Ce soir c'est le grand jour",
+      "ipa": "[sə swaʁ sɛ lə ɡʁɑ̃ ʒuʁ]",
+      "ear": "瑟 斯乌阿赫 塞 勒 格杭 茹赫",
+      "meaning": "今晚是个重要的日子。",
+      "sourceLineId": "mozart-timed-744-1",
+      "suppliedText": "Ce soir c'est le grand jour Allons voir tomber les tambours",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7053,
+        "anchorEnd": 7060,
+        "sourceLineNumber": 744,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7056.111,
+      "sourceText": "Allons voir tomber les tambours",
+      "ipa": "[alɔ̃ vwaʁ tɔ̃be le tɑ̃buʁ]",
+      "ear": "阿隆 弗乌阿赫 通贝 莱 唐布赫",
+      "meaning": "去看那些战鼓落下。",
+      "sourceLineId": "mozart-timed-744-2",
+      "suppliedText": "Ce soir c'est le grand jour Allons voir tomber les tambours",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7053,
+        "anchorEnd": 7060,
+        "sourceLineNumber": 744,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7060,
+      "sourceText": "La fanfare des soldats de cour",
+      "ipa": "[la fɑ̃faʁ de sɔlda də kuʁ]",
+      "ear": "拉 芳法赫 德 索勒达 德 库赫",
+      "meaning": "宫廷士兵的军乐。",
+      "sourceLineId": "mozart-timed-745-1",
+      "suppliedText": "La fanfare des soldats de cour Sonne faux",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7060,
+        "anchorEnd": 7068.15,
+        "sourceLineNumber": 745,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7065.821,
+      "sourceText": "Sonne faux",
+      "ipa": "[sɔn fo]",
+      "ear": "索恩 佛",
+      "meaning": "听起来如此虚假。",
+      "sourceLineId": "mozart-timed-745-2",
+      "suppliedText": "La fanfare des soldats de cour Sonne faux",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7060,
+        "anchorEnd": 7068.15,
+        "sourceLineNumber": 745,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7075,
+      "sourceText": "Allez, viens, c'est bientôt la fin",
+      "ipa": "[ale vjɛ̃ sɛ bjɛ̃to la fɛ̃]",
+      "ear": "阿莱 弗耶安 塞 布耶安托 拉 凡",
+      "meaning": "来吧，这一切就快结束。",
+      "sourceLineId": "mozart-timed-746-1",
+      "suppliedText": "Allez, viens, c'est bientôt la fin De ce monde qui n'entend rien",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7075,
+        "anchorEnd": 7082.96,
+        "sourceLineNumber": 746,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7078.98,
+      "sourceText": "De ce monde qui n'entend rien",
+      "ipa": "[də sə mɔ̃d ki nɑ̃tɑ̃ ʁjɛ̃]",
+      "ear": "德 瑟 蒙德 基 南唐 赫耶安",
+      "meaning": "这个什么也听不见的世界。",
+      "sourceLineId": "mozart-timed-746-2",
+      "suppliedText": "Allez, viens, c'est bientôt la fin De ce monde qui n'entend rien",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7075,
+        "anchorEnd": 7082.96,
+        "sourceLineNumber": 746,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7083,
+      "sourceText": "Allez, viens sonner le tocsin",
+      "ipa": "[ale vjɛ̃ sɔne lə tɔksɛ̃]",
+      "ear": "阿莱 弗耶安 索内 勒 托克森",
+      "meaning": "来吧，一起敲响警钟。",
+      "sourceLineId": "mozart-timed-747-1",
+      "suppliedText": "Allez, viens sonner le tocsin Fais valser leurs vieux discours",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7083,
+        "anchorEnd": 7090,
+        "sourceLineNumber": 747,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7086.0,
+      "sourceText": "Fais valser leurs vieux discours",
+      "ipa": "[fɛ valse lœʁ vjø diskuʁ]",
+      "ear": "费 瓦勒塞 勒厄赫 弗耶厄 迪斯库赫",
+      "meaning": "让他们的陈词滥调随风打转。",
+      "sourceLineId": "mozart-timed-747-2",
+      "suppliedText": "Allez, viens sonner le tocsin Fais valser leurs vieux discours",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7083,
+        "anchorEnd": 7090,
+        "sourceLineNumber": 747,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7090,
+      "sourceText": "Viens danser, c'est notre tour",
+      "ipa": "[vjɛ̃ dɑ̃se sɛ notʁ tuʁ]",
+      "ear": "弗耶安 当塞 塞 诺特赫 图赫",
+      "meaning": "来跳舞吧，轮到我们了。",
+      "sourceLineId": "mozart-timed-748-1",
+      "suppliedText": "Viens danser, c'est notre tour",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7090,
+        "anchorEnd": 7094.4,
+        "sourceLineNumber": 748,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7100,
+      "sourceText": "Ce soir c'est le grand soir",
+      "ipa": "[sə swaʁ sɛ lə ɡʁɑ̃ swaʁ]",
+      "ear": "瑟 斯乌阿赫 塞 勒 格杭 斯乌阿赫",
+      "meaning": "今晚，是属于我们的夜晚。",
+      "sourceLineId": "mozart-timed-749-1",
+      "suppliedText": "Ce soir c'est le grand soir De velours nos rêves se parent",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7100,
+        "anchorEnd": 7107,
+        "sourceLineNumber": 749,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7103.111,
+      "sourceText": "De velours nos rêves se parent",
+      "ipa": "[də vəluʁ no ʁɛv sə paʁ]",
+      "ear": "德 弗卢赫 诺 赫弗 瑟 帕赫",
+      "meaning": "我们的梦想披上了天鹅绒。",
+      "sourceLineId": "mozart-timed-749-2",
+      "suppliedText": "Ce soir c'est le grand soir De velours nos rêves se parent",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7100,
+        "anchorEnd": 7107,
+        "sourceLineNumber": 749,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7107,
+      "sourceText": "On accourt pour un nouveau départ",
+      "ipa": "[ɔ̃n‿akuʁ puʁ‿œ̃ nuvo depaʁ]",
+      "ear": "翁恩 阿库赫 普赫 恩 努沃 德帕赫",
+      "meaning": "我们奔向一个崭新的开始。",
+      "sourceLineId": "mozart-timed-750-1",
+      "suppliedText": "On accourt pour un nouveau départ Bien plus beau",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7107,
+        "anchorEnd": 7115.7,
+        "sourceLineNumber": 750,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7113.09,
+      "sourceText": "Bien plus beau",
+      "ipa": "[bjɛ̃ ply bo]",
+      "ear": "布耶安 普吕 博",
+      "meaning": "更加美好。",
+      "sourceLineId": "mozart-timed-750-2",
+      "suppliedText": "On accourt pour un nouveau départ Bien plus beau",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7107,
+        "anchorEnd": 7115.7,
+        "sourceLineNumber": 750,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7122,
+      "sourceText": "Allez, viens, c'est bientôt la fin",
+      "ipa": "[ale vjɛ̃ sɛ bjɛ̃to la fɛ̃]",
+      "ear": "阿莱 弗耶安 塞 布耶安托 拉 凡",
+      "meaning": "来吧，这一切就快结束。",
+      "sourceLineId": "mozart-timed-751-1",
+      "suppliedText": "Allez, viens, c'est bientôt la fin De ce monde qui n'entend rien",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7122,
+        "anchorEnd": 7130,
+        "sourceLineNumber": 751,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7126.0,
+      "sourceText": "De ce monde qui n'entend rien",
+      "ipa": "[də sə mɔ̃d ki nɑ̃tɑ̃ ʁjɛ̃]",
+      "ear": "德 瑟 蒙德 基 南唐 赫耶安",
+      "meaning": "这个什么也听不见的世界。",
+      "sourceLineId": "mozart-timed-751-2",
+      "suppliedText": "Allez, viens, c'est bientôt la fin De ce monde qui n'entend rien",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7122,
+        "anchorEnd": 7130,
+        "sourceLineNumber": 751,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7130,
+      "sourceText": "Allez, viens sonner le tocsin",
+      "ipa": "[ale vjɛ̃ sɔne lə tɔksɛ̃]",
+      "ear": "阿莱 弗耶安 索内 勒 托克森",
+      "meaning": "来吧，一起敲响警钟。",
+      "sourceLineId": "mozart-timed-752-1",
+      "suppliedText": "Allez, viens sonner le tocsin Fais valser leurs vieux discours",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7130,
+        "anchorEnd": 7137,
+        "sourceLineNumber": 752,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7133.0,
+      "sourceText": "Fais valser leurs vieux discours",
+      "ipa": "[fɛ valse lœʁ vjø diskuʁ]",
+      "ear": "费 瓦勒塞 勒厄赫 弗耶厄 迪斯库赫",
+      "meaning": "让他们的陈词滥调随风打转。",
+      "sourceLineId": "mozart-timed-752-2",
+      "suppliedText": "Allez, viens sonner le tocsin Fais valser leurs vieux discours",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7130,
+        "anchorEnd": 7137,
+        "sourceLineNumber": 752,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7137,
+      "sourceText": "Viens danser, c'est notre tour",
+      "ipa": "[vjɛ̃ dɑ̃se sɛ notʁ tuʁ]",
+      "ear": "弗耶安 当塞 塞 诺特赫 图赫",
+      "meaning": "来跳舞吧，轮到我们了。",
+      "sourceLineId": "mozart-timed-753-1",
+      "suppliedText": "Viens danser, c'est notre tour",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7137,
+        "anchorEnd": 7142.08,
+        "sourceLineNumber": 753,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7155,
+      "sourceText": "J'ai bu l'amour au souffle amer",
+      "ipa": "[ʒe by lamuʁ‿o sufl‿ame]",
+      "ear": "热 比于 拉穆赫 奥 苏弗勒 阿梅",
+      "meaning": "我饮下了带着苦涩气息的爱情。",
+      "sourceLineId": "mozart-timed-754-1",
+      "suppliedText": "J'ai bu l'amour au souffle amer J'ai vu les tours tomber sur terre J'ai vu l'or noir saigner la mer",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7155,
+        "anchorEnd": 7161,
+        "sourceLineNumber": 754,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7157.229,
+      "sourceText": "J'ai vu les tours tomber sur terre",
+      "ipa": "[ʒe vy le tuʁ tɔ̃be syʁ tɛʁ]",
+      "ear": "热 维于 莱 图赫 通贝 西于赫 泰赫",
+      "meaning": "我看见高塔轰然倒地。",
+      "sourceLineId": "mozart-timed-754-2",
+      "suppliedText": "J'ai bu l'amour au souffle amer J'ai vu les tours tomber sur terre J'ai vu l'or noir saigner la mer",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7155,
+        "anchorEnd": 7161,
+        "sourceLineNumber": 754,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7159.114,
+      "sourceText": "J'ai vu l'or noir saigner la mer",
+      "ipa": "[ʒe vy lɔʁ nwaʁ sɛnje la mɛʁ]",
+      "ear": "热 维于 洛赫 恩乌阿赫 塞恩耶诶 拉 梅赫",
+      "meaning": "我看见黑色石油让大海流血。",
+      "sourceLineId": "mozart-timed-754-3",
+      "suppliedText": "J'ai bu l'amour au souffle amer J'ai vu les tours tomber sur terre J'ai vu l'or noir saigner la mer",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7155,
+        "anchorEnd": 7161,
+        "sourceLineNumber": 754,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7161,
+      "sourceText": "Tous les regards vers l'éphémère",
+      "ipa": "[tu le ʁəɡaʁ vɛʁ lefemɛʁ]",
+      "ear": "图 莱 赫嘎赫 韦赫 莱费梅赫",
+      "meaning": "所有目光都追逐着转瞬即逝的东西。",
+      "sourceLineId": "mozart-timed-755-1",
+      "suppliedText": "Tous les regards vers l'éphémère Je vois fleurir le jour nouveau",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7161,
+        "anchorEnd": 7172,
+        "sourceLineNumber": 755,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7165.583,
+      "sourceText": "Je vois fleurir le jour nouveau",
+      "ipa": "[ʒə vwa fløʁiʁ lə ʒuʁ nuvo]",
+      "ear": "热 弗乌阿 弗勒厄希赫 勒 茹赫 努沃",
+      "meaning": "我看见崭新的日子盛放。",
+      "sourceLineId": "mozart-timed-755-2",
+      "suppliedText": "Tous les regards vers l'éphémère Je vois fleurir le jour nouveau",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7161,
+        "anchorEnd": 7172,
+        "sourceLineNumber": 755,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7172,
+      "sourceText": "Je crois le rire du fou là-haut",
+      "ipa": "[ʒə kʁwa lə ʁiʁ dy fu lao]",
+      "ear": "热 克赫乌阿 勒 希赫 迪于 富 拉奥",
+      "meaning": "我相信高处那个疯子的笑声。",
+      "sourceLineId": "mozart-timed-756-1",
+      "suppliedText": "Je crois le rire du fou là-haut Je veux saisir tous les mystères Et m'affranchir de l'éphémère",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7172,
+        "anchorEnd": 7180.56,
+        "sourceLineNumber": 756,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7175.113,
+      "sourceText": "Je veux saisir tous les mystères",
+      "ipa": "[ʒə vø sɛziʁ tu le mistɛʁ]",
+      "ear": "热 弗厄 塞齐赫 图 莱 米斯泰赫",
+      "meaning": "我想揭开所有秘密。",
+      "sourceLineId": "mozart-timed-756-2",
+      "suppliedText": "Je crois le rire du fou là-haut Je veux saisir tous les mystères Et m'affranchir de l'éphémère",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7172,
+        "anchorEnd": 7180.56,
+        "sourceLineNumber": 756,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7178.225,
+      "sourceText": "Et m'affranchir de l'éphémère",
+      "ipa": "[e mafʁɑ̃ʃiʁ də lefemɛʁ]",
+      "ear": "诶 玛弗杭希赫 德 莱费梅赫",
+      "meaning": "摆脱这稍纵即逝的一切。",
+      "sourceLineId": "mozart-timed-756-3",
+      "suppliedText": "Je crois le rire du fou là-haut Je veux saisir tous les mystères Et m'affranchir de l'éphémère",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7172,
+        "anchorEnd": 7180.56,
+        "sourceLineNumber": 756,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7185,
+      "sourceText": "Ce soir c'est le grand bal",
+      "ipa": "[sə swaʁ sɛ lə ɡʁɑ̃ bal]",
+      "ear": "瑟 斯乌阿赫 塞 勒 格杭 巴勒",
+      "meaning": "今晚是一场盛大的舞会。",
+      "sourceLineId": "mozart-timed-757-1",
+      "suppliedText": "Ce soir c'est le grand bal Mets du fard sur tes idées pâles",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7185,
+        "anchorEnd": 7192,
+        "sourceLineNumber": 757,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7187.882,
+      "sourceText": "Mets du fard sur tes idées pâles",
+      "ipa": "[mɛ dy faʁ syʁ tez‿ide pal]",
+      "ear": "梅 迪于 法赫 西于赫 特兹 伊德 帕勒",
+      "meaning": "给你苍白的想法添些色彩。",
+      "sourceLineId": "mozart-timed-757-2",
+      "suppliedText": "Ce soir c'est le grand bal Mets du fard sur tes idées pâles",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7185,
+        "anchorEnd": 7192,
+        "sourceLineNumber": 757,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7192,
+      "sourceText": "On va faire tanguer les étoiles",
+      "ipa": "[ɔ̃ va fɛʁ tɑ̃ɡe lez‿etwal]",
+      "ear": "翁 瓦 费赫 唐格 莱兹 诶特乌阿勒",
+      "meaning": "我们要让星辰也摇晃起来。",
+      "sourceLineId": "mozart-timed-758-1",
+      "suppliedText": "On va faire tanguer les étoiles Bien plus haut, bien plus haut",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7192,
+        "anchorEnd": 7200,
+        "sourceLineNumber": 758,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7196.522,
+      "sourceText": "Bien plus haut, bien plus haut",
+      "ipa": "[bjɛ̃ ply o bjɛ̃ ply o]",
+      "ear": "布耶安 普吕 奥 布耶安 普吕 奥",
+      "meaning": "更高，更高。",
+      "sourceLineId": "mozart-timed-758-2",
+      "suppliedText": "On va faire tanguer les étoiles Bien plus haut, bien plus haut",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7192,
+        "anchorEnd": 7200,
+        "sourceLineNumber": 758,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7200,
+      "sourceText": "Allez, viens, c'est bientôt la fin",
+      "ipa": "[ale vjɛ̃ sɛ bjɛ̃to la fɛ̃]",
+      "ear": "阿莱 弗耶安 塞 布耶安托 拉 凡",
+      "meaning": "来吧，这一切就快结束。",
+      "sourceLineId": "mozart-timed-759-1",
+      "suppliedText": "Allez, viens, c'est bientôt la fin De ce monde qui n'entend rien",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7200,
+        "anchorEnd": 7207,
+        "sourceLineNumber": 759,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7203.5,
+      "sourceText": "De ce monde qui n'entend rien",
+      "ipa": "[də sə mɔ̃d ki nɑ̃tɑ̃ ʁjɛ̃]",
+      "ear": "德 瑟 蒙德 基 南唐 赫耶安",
+      "meaning": "这个什么也听不见的世界。",
+      "sourceLineId": "mozart-timed-759-2",
+      "suppliedText": "Allez, viens, c'est bientôt la fin De ce monde qui n'entend rien",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7200,
+        "anchorEnd": 7207,
+        "sourceLineNumber": 759,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7207,
+      "sourceText": "Allez, viens sonner le tocsin",
+      "ipa": "[ale vjɛ̃ sɔne lə tɔksɛ̃]",
+      "ear": "阿莱 弗耶安 索内 勒 托克森",
+      "meaning": "来吧，一起敲响警钟。",
+      "sourceLineId": "mozart-timed-760-1",
+      "suppliedText": "Allez, viens sonner le tocsin Fais valser leurs vieux discours",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7207,
+        "anchorEnd": 7215,
+        "sourceLineNumber": 760,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7210.429,
+      "sourceText": "Fais valser leurs vieux discours",
+      "ipa": "[fɛ valse lœʁ vjø diskuʁ]",
+      "ear": "费 瓦勒塞 勒厄赫 弗耶厄 迪斯库赫",
+      "meaning": "让他们的陈词滥调随风打转。",
+      "sourceLineId": "mozart-timed-760-2",
+      "suppliedText": "Allez, viens sonner le tocsin Fais valser leurs vieux discours",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7207,
+        "anchorEnd": 7215,
+        "sourceLineNumber": 760,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7215,
+      "sourceText": "Viens danser, c'est notre tour",
+      "ipa": "[vjɛ̃ dɑ̃se sɛ notʁ tuʁ]",
+      "ear": "弗耶安 当塞 塞 诺特赫 图赫",
+      "meaning": "来跳舞吧，轮到我们了。",
+      "sourceLineId": "mozart-timed-761-1",
+      "suppliedText": "Viens danser, c'est notre tour Allez, viens, c'est bientôt la fin",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7215,
+        "anchorEnd": 7222.72,
+        "sourceLineNumber": 761,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7218.657,
+      "sourceText": "Allez, viens, c'est bientôt la fin",
+      "ipa": "[ale vjɛ̃ sɛ bjɛ̃to la fɛ̃]",
+      "ear": "阿莱 弗耶安 塞 布耶安托 拉 凡",
+      "meaning": "来吧，这一切就快结束。",
+      "sourceLineId": "mozart-timed-761-2",
+      "suppliedText": "Viens danser, c'est notre tour Allez, viens, c'est bientôt la fin",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7215,
+        "anchorEnd": 7222.72,
+        "sourceLineNumber": 761,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7223,
+      "sourceText": "De ce monde qui n'entend rien",
+      "ipa": "[də sə mɔ̃d ki nɑ̃tɑ̃ ʁjɛ̃]",
+      "ear": "德 瑟 蒙德 基 南唐 赫耶安",
+      "meaning": "这个什么也听不见的世界。",
+      "sourceLineId": "mozart-timed-762-1",
+      "suppliedText": "De ce monde qui n'entend rien Allez, viens sonner le tocsin",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7223,
+        "anchorEnd": 7230,
+        "sourceLineNumber": 762,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7226.684,
+      "sourceText": "Allez, viens sonner le tocsin",
+      "ipa": "[ale vjɛ̃ sɔne lə tɔksɛ̃]",
+      "ear": "阿莱 弗耶安 索内 勒 托克森",
+      "meaning": "来吧，一起敲响警钟。",
+      "sourceLineId": "mozart-timed-762-2",
+      "suppliedText": "De ce monde qui n'entend rien Allez, viens sonner le tocsin",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7223,
+        "anchorEnd": 7230,
+        "sourceLineNumber": 762,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7230,
+      "sourceText": "Aimons-nous sur leurs décombres",
+      "ipa": "[ɛmɔ̃nu syʁ lœʁ dekɔ̃bʁ]",
+      "ear": "艾蒙努 西于赫 勒厄赫 德孔布赫",
+      "meaning": "让我们在他们的废墟上相爱。",
+      "sourceLineId": "mozart-timed-763-1",
+      "suppliedText": "Aimons-nous sur leurs décombres Aimons-nous pour un nouveau monde",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7230,
+        "anchorEnd": 7239.9,
+        "sourceLineNumber": 763,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7234.188,
+      "sourceText": "Aimons-nous pour un nouveau monde",
+      "ipa": "[ɛmɔ̃nu puʁ‿œ̃ nuvo mɔ̃d]",
+      "ear": "艾蒙努 普赫 恩 努沃 蒙德",
+      "meaning": "让我们为一个新世界相爱。",
+      "sourceLineId": "mozart-timed-763-2",
+      "suppliedText": "Aimons-nous sur leurs décombres Aimons-nous pour un nouveau monde",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7230,
+        "anchorEnd": 7239.9,
+        "sourceLineNumber": 763,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

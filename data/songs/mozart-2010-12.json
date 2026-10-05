@@ -10,22 +10,683 @@
   "trackNumber": 12,
   "act": 2,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "isGenerated": false,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "N'en déplaise aux courtisans qui baisent",
+      "start": 3346,
+      "duration": 3.81
+    },
+    {
+      "text": "Les pieds des hommes les mieux chaussés",
+      "start": 3349.81,
+      "duration": 3.095
+    },
+    {
+      "text": "Je me ris de leurs vies de punaises",
+      "start": 3352.905,
+      "duration": 3.095
+    },
+    {
+      "text": "Écrasées",
+      "start": 3356,
+      "duration": 1.437
+    },
+    {
+      "text": "Que se taisent",
+      "start": 3357.437,
+      "duration": 2.156
+    },
+    {
+      "text": "Les futiles fadaises",
+      "start": 3359.593,
+      "duration": 2.875
+    },
+    {
+      "text": "Qui brillent en belle société",
+      "start": 3362.468,
+      "duration": 3.952
+    },
+    {
+      "text": "Je suis fort à mon aise dans les crimes de lèse-majesté",
+      "start": 3367,
+      "duration": 7.782
+    },
+    {
+      "text": "Nul n'est ici-bas",
+      "start": 3374.782,
+      "duration": 2.048
+    },
+    {
+      "text": "Maître des hommes",
+      "start": 3377,
+      "duration": 4.117
+    },
+    {
+      "text": "Prince des lois",
+      "start": 3381.117,
+      "duration": 3.432
+    },
+    {
+      "text": "Place je passe",
+      "start": 3384.549,
+      "duration": 3.431
+    },
+    {
+      "text": "Je suis roi de mes rêves",
+      "start": 3388,
+      "duration": 3.375
+    },
+    {
+      "text": "Souverain des libertés",
+      "start": 3391.375,
+      "duration": 3.375
+    },
+    {
+      "text": "Osez, rendez grâce",
+      "start": 3394.75,
+      "duration": 2.25
+    },
+    {
+      "text": "À ce fou qui se lève",
+      "start": 3397,
+      "duration": 3.123
+    },
+    {
+      "text": "Place je passe, je suis roi de mes rêves",
+      "start": 3400.123,
+      "duration": 4.857
+    },
+    {
+      "text": "Souverain de mes idées",
+      "start": 3405,
+      "duration": 4.337
+    },
+    {
+      "text": "Osez, rendez grâce",
+      "start": 3409.337,
+      "duration": 2.602
+    },
+    {
+      "text": "Au vilain épris de nobles pensées",
+      "start": 3412,
+      "duration": 3.846
+    },
+    {
+      "text": "N'en déplaise aux altesses qui biaisent",
+      "start": 3415.846,
+      "duration": 4.734
+    },
+    {
+      "text": "La moindre de nos volontés",
+      "start": 3421,
+      "duration": 2.769
+    },
+    {
+      "text": "Sur leurs trônes de glaise en guise de chaise",
+      "start": 3423.769,
+      "duration": 5.231
+    },
+    {
+      "text": "Je m'assieds",
+      "start": 3429,
+      "duration": 1.83
+    },
+    {
+      "text": "Nul n'est ici-bas Dieu pour les hommes",
+      "start": 3430.83,
+      "duration": 5.949
+    },
+    {
+      "text": "Digne de foi",
+      "start": 3437,
+      "duration": 5.47
+    },
+    {
+      "text": "Place je passe",
+      "start": 3442.47,
+      "duration": 5.47
+    },
+    {
+      "text": "Je suis roi de mes rêves",
+      "start": 3448,
+      "duration": 3.375
+    },
+    {
+      "text": "Souverain des libertés",
+      "start": 3451.375,
+      "duration": 3.375
+    },
+    {
+      "text": "Osez, rendez grâce",
+      "start": 3454.75,
+      "duration": 2.25
+    },
+    {
+      "text": "À ce fou qui se lève",
+      "start": 3457,
+      "duration": 2.739
+    },
+    {
+      "text": "Place je passe",
+      "start": 3459.739,
+      "duration": 1.522
+    },
+    {
+      "text": "Je suis roi de mes rêves",
+      "start": 3461.261,
+      "duration": 2.739
+    },
+    {
+      "text": "Souverain de mes idées",
+      "start": 3464,
+      "duration": 4.375
+    },
+    {
+      "text": "Osez, rendez grâce",
+      "start": 3468.375,
+      "duration": 2.625
+    },
+    {
+      "text": "Au vilain épris de nobles pensées",
+      "start": 3471,
+      "duration": 7.678
+    },
+    {
+      "text": "Bravo!",
+      "start": 3478.678,
+      "duration": 1.181
+    },
+    {
+      "text": "Bravo, Mozart.",
+      "start": 3483,
+      "duration": 1.14
+    },
+    {
+      "text": "Enfin, Stefani, un opéra en allemand, c'est une ineptie!",
+      "start": 3495,
+      "duration": 4.0
+    },
+    {
+      "text": "Monsieur Rosenberg, je ne partage pas votre avis.",
+      "start": 3499.0,
+      "duration": 3.4
+    },
+    {
+      "text": "Une hérésie, vous dis-je!",
+      "start": 3502.4,
+      "duration": 2.0
+    },
+    {
+      "text": "Psst!",
+      "start": 3504.4,
+      "duration": 0.2
+    },
+    {
+      "text": "Enfin!",
+      "start": 3504.6,
+      "duration": 0.4
+    },
+    {
+      "text": "Des chanteurs de faubourgs, sur la scène du",
+      "start": 3505,
+      "duration": 3.008
+    },
+    {
+      "text": "Théâtre impérial?",
+      "start": 3508.008,
+      "duration": 1.504
+    },
+    {
+      "text": "Salieri, est-ce que vous imaginez, par exemple...",
+      "start": 3509.512,
+      "duration": 3.868
+    },
+    {
+      "text": "Ça ne veut rien dire.",
+      "start": 3521,
+      "duration": 2.0
+    },
+    {
+      "text": "Hum...",
+      "start": 3523.0,
+      "duration": 0.25
+    },
+    {
+      "text": "Oui?",
+      "start": 3523.25,
+      "duration": 0.75
+    },
+    {
+      "text": "Sa Majesté Joseph II, empereur d'Autriche, soleil du...",
+      "start": 3524,
+      "duration": 5.161
+    },
+    {
+      "text": "C'est bon",
+      "start": 3529.161,
+      "duration": 0.516
+    },
+    {
+      "text": "Messieurs, suivez-moi.",
+      "start": 3529.677,
+      "duration": 2.323
+    },
+    {
+      "text": "Votre Majesté.",
+      "start": 3532,
+      "duration": 1.968
+    },
+    {
+      "text": "Psst!",
+      "start": 3533.968,
+      "duration": 0.393
+    },
+    {
+      "text": "Mademoiselle.",
+      "start": 3534.361,
+      "duration": 2.362
+    },
+    {
+      "text": "Bien.",
+      "start": 3536.723,
+      "duration": 0.787
+    },
+    {
+      "text": "Je vous écoute.",
+      "start": 3538,
+      "duration": 1.312
+    },
+    {
+      "text": "Majesté, laissez-moi vous présenter",
+      "start": 3539.312,
+      "duration": 2.436
+    },
+    {
+      "text": "Monsieur Stefani, qui vient vous remettre le livret de l'opéra commandé.",
+      "start": 3541.748,
+      "duration": 4.872
+    },
+    {
+      "text": "En place.",
+      "start": 3547,
+      "duration": 0.707
+    },
+    {
+      "text": "Ah, oui, pardon.",
+      "start": 3547.707,
+      "duration": 1.414
+    },
+    {
+      "text": "Majesté...",
+      "start": 3549.121,
+      "duration": 0.707
+    },
+    {
+      "text": "Psst!",
+      "start": 3549.828,
+      "duration": 0.235
+    },
+    {
+      "text": "On se retire.",
+      "start": 3550.063,
+      "duration": 1.179
+    },
+    {
+      "text": "Allez.",
+      "start": 3551.242,
+      "duration": 0.471
+    },
+    {
+      "text": "Plus vite!",
+      "start": 3551.713,
+      "duration": 0.707
+    },
+    {
+      "text": "L'Enlèvement au sérail.",
+      "start": 3555,
+      "duration": 2.559
+    },
+    {
+      "text": "Oui, Majesté.",
+      "start": 3557.559,
+      "duration": 1.706
+    },
+    {
+      "text": "Quel curieux titre!",
+      "start": 3559.265,
+      "duration": 2.275
+    },
+    {
+      "text": "Il s'agit là d'un divertissement, d'une turquerie avec rebondissements.",
+      "start": 3562,
+      "duration": 5.458
+    },
+    {
+      "text": "Fort bien!",
+      "start": 3567.458,
+      "duration": 0.682
+    },
+    {
+      "text": "Et à qui comptez-vous confier la musique?",
+      "start": 3570,
+      "duration": 3.52
+    },
+    {
+      "text": "J'ai fait appel à Wolfgang Mozart.",
+      "start": 3573.52,
+      "duration": 2.42
+    },
+    {
+      "text": "Un jeune compositeur prometteur.",
+      "start": 3575.94,
+      "duration": 2.86
+    },
+    {
+      "text": "Tout Vienne parle de lui.",
+      "start": 3578.8,
+      "duration": 2.2
+    },
+    {
+      "text": "Un jeune écervelé,",
+      "start": 3581,
+      "duration": 1.6
+    },
+    {
+      "text": "Votre Majesté, qui clame partout ne vouloir composer que pour l'allemand.",
+      "start": 3582.6,
+      "duration": 5.4
+    },
+    {
+      "text": "Justement, je pensais que ce choix",
+      "start": 3588,
+      "duration": 2.887
+    },
+    {
+      "text": "vous conviendrait...",
+      "start": 3590.887,
+      "duration": 1.684
+    },
+    {
+      "text": "Dites, Salieri, qu'en pensez-vous?",
+      "start": 3592.571,
+      "duration": 2.887
+    },
+    {
+      "text": "Alors ça!",
+      "start": 3595.458,
+      "duration": 0.722
+    },
+    {
+      "text": "Écervelé... mais infiniment doué.",
+      "start": 3598,
+      "duration": 6.0
+    },
+    {
+      "text": "Enfin, Salieri!",
+      "start": 3604,
+      "duration": 1.547
+    },
+    {
+      "text": "Cependant, on ne peut nier sa jeunesse ni son inexpérience.",
+      "start": 3605.547,
+      "duration": 5.673
+    },
+    {
+      "text": "Messieurs, la chose est entendue.",
+      "start": 3621,
+      "duration": 2.916
+    },
+    {
+      "text": "Nous choisissons...",
+      "start": 3623.916,
+      "duration": 1.458
+    },
+    {
+      "text": "Mozart!",
+      "start": 3625.374,
+      "duration": 0.486
+    },
+    {
+      "text": "Merci.",
+      "start": 3626,
+      "duration": 0.399
+    },
+    {
+      "text": "Rosenberg,",
+      "start": 3626.399,
+      "duration": 0.598
+    },
+    {
+      "text": "vous suivrez cette affaire.",
+      "start": 3626.997,
+      "duration": 2.192
+    },
+    {
+      "text": "Bien.",
+      "start": 3629.189,
+      "duration": 0.399
+    },
+    {
+      "text": "Vous en serez le garant.",
+      "start": 3629.588,
+      "duration": 1.595
+    },
+    {
+      "text": "Absolument.",
+      "start": 3631.183,
+      "duration": 0.797
+    },
+    {
+      "text": "Et maintenant, fixons le jour de la première!",
+      "start": 3632,
+      "duration": 3.733
+    },
+    {
+      "text": "Il a choisi Mozart!",
+      "start": 3635.733,
+      "duration": 1.634
+    },
+    {
+      "text": "Il a choisi Mozart!",
+      "start": 3637.367,
+      "duration": 1.633
+    },
+    {
+      "text": "Il a choisi Mozart!",
+      "start": 3639,
+      "duration": 1.468
+    },
+    {
+      "text": "Ça y est?",
+      "start": 3640.468,
+      "duration": 0.629
+    },
+    {
+      "text": "Elle a fini, la",
+      "start": 3641.097,
+      "duration": 1.259
+    },
+    {
+      "text": "Castafiore?",
+      "start": 3642.356,
+      "duration": 1.049
+    },
+    {
+      "text": "Pardon?",
+      "start": 3643.405,
+      "duration": 0.419
+    },
+    {
+      "text": "Je vais le faire taire!",
+      "start": 3643.824,
+      "duration": 2.098
+    },
+    {
+      "text": "Ça y est, c'est fini.",
+      "start": 3645.922,
+      "duration": 1.258
+    },
+    {
+      "text": "Josepha!",
+      "start": 3648,
+      "duration": 0.5
+    },
+    {
+      "text": "Oui?",
+      "start": 3648.5,
+      "duration": 0.5
+    },
+    {
+      "text": "Tu changeras les draps",
+      "start": 3649,
+      "duration": 2.132
+    },
+    {
+      "text": "de la chambre du 2e étage?",
+      "start": 3651.132,
+      "duration": 3.199
+    },
+    {
+      "text": "Bien, maman.",
+      "start": 3654.331,
+      "duration": 1.422
+    },
+    {
+      "text": "Constance?",
+      "start": 3655.753,
+      "duration": 1.066
+    },
+    {
+      "text": "Constance!",
+      "start": 3657,
+      "duration": 0.761
+    },
+    {
+      "text": "Oui, maman?",
+      "start": 3657.761,
+      "duration": 1.267
+    },
+    {
+      "text": "Les chemise de",
+      "start": 3659.028,
+      "duration": 1.268
+    },
+    {
+      "text": "Monsieur Arthur sont prêtes?",
+      "start": 3660.296,
+      "duration": 2.282
+    },
+    {
+      "text": "J'arrive!",
+      "start": 3662.578,
+      "duration": 0.761
+    },
+    {
+      "text": "Ben, dépêche-toi!",
+      "start": 3663.339,
+      "duration": 1.521
+    },
+    {
+      "text": "Il attend pour partir.",
+      "start": 3665,
+      "duration": 2.074
+    },
+    {
+      "text": "Ça nous fait... 2, 4, 6, 8.",
+      "start": 3667.074,
+      "duration": 1.482
+    },
+    {
+      "text": "Voilà, le compte est bon.",
+      "start": 3668.556,
+      "duration": 2.37
+    },
+    {
+      "text": "Alors, ces chemises, là?",
+      "start": 3670.926,
+      "duration": 2.074
+    },
+    {
+      "text": "Tenez.",
+      "start": 3673,
+      "duration": 0.485
+    },
+    {
+      "text": "Les voilà.",
+      "start": 3673.485,
+      "duration": 0.97
+    },
+    {
+      "text": "Bon",
+      "start": 3674.455,
+      "duration": 0.242
+    },
+    {
+      "text": "Allez, vous, disparaissez!",
+      "start": 3674.697,
+      "duration": 2.182
+    },
+    {
+      "text": "Que fais-tu?",
+      "start": 3676.879,
+      "duration": 1.212
+    },
+    {
+      "text": "Il y a du travail.",
+      "start": 3678.091,
+      "duration": 1.697
+    },
+    {
+      "text": "J'en ai assez!",
+      "start": 3679.788,
+      "duration": 1.212
+    },
+    {
+      "text": "Assez de trimer comme une boniche.",
+      "start": 3681,
+      "duration": 2.287
+    },
+    {
+      "text": "Engage une gouvernante!",
+      "start": 3683.287,
+      "duration": 1.906
+    },
+    {
+      "text": "Et l'argent pour la payer, il est où?",
+      "start": 3685.193,
+      "duration": 2.477
+    },
+    {
+      "text": "Petite dinde!",
+      "start": 3688,
+      "duration": 0.957
+    },
+    {
+      "text": "Depuis que ton père est mort, qu'Aloysia est mariée, je me tue à la tâche, et tu as des fatigues, des états d'âme!",
+      "start": 3688.957,
+      "duration": 8.043
+    },
+    {
+      "text": "Je me demande quand tu auras du plomb dans la cervelle.",
+      "start": 3697,
+      "duration": 3.0
+    }
+  ],
   "playbackVideoId": "83Qn2IvP_-I",
   "sourceDuration": 7252,
-  "sourceURL": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=3332",
+  "sourceURL": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=3331",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=83Qn2IvP_-I",
   "playbackSegment": {
-    "start": 3332,
-    "end": 3701,
-    "source": "youtube-description-chapters",
+    "start": 3331,
+    "end": 3700,
+    "source": "user-supplied-mozart-timestamps",
     "precision": "seconds"
   },
   "nativeCaptionRanges": [
@@ -477,10 +1138,10 @@
   "nativeTimingSource": "youtube-manual-caption-file",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "milliseconds",
-  "timingReviewStatus": "source-caption-file",
-  "textReviewStatus": "native-manual-subtitles",
-  "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "phoneticReviewStatus": "reference-with-liaison-corrections",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "performanceYear": 2010,
   "performanceYearSource": "video-description",
@@ -488,5 +1149,12 @@
   "albumReleaseYear": 2009,
   "uploadDate": "20161004",
   "sourceCheckedAt": "2026-10-05",
-  "description": ""
+  "description": "",
+  "originalPlaybackSegment": {
+    "start": 3332,
+    "end": 3701,
+    "source": "youtube-description-chapters",
+    "precision": "seconds"
+  },
+  "studyVersion": 1
 }

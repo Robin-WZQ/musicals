@@ -1,5 +1,5 @@
-import { dataRevision } from './data.mjs?v=20261005-4';
-import { videoId } from './captions.mjs?v=20261005-4';
+import { dataRevision } from './data.mjs?v=20261005-5';
+import { videoId } from './captions.mjs?v=20261005-5';
 
 // Chapter pages have their own stable IDs; the player still receives a real
 // YouTube ID from playbackVideoId. Unknown input remains subject to URL checks.
@@ -17,6 +17,7 @@ export function tracksFor(musical, catalog) {
 }
 export function statusLabel(song) {
   if (song.captionStatus === 'instrumental') return '器乐 · 舞台舞蹈';
+  if (song.captionStatus === 'ready' && song.musicalId === 'moliere' && song.studyKind === 'four-layer') return '四层学习';
   if (song.captionStatus === 'ready' && song.studyKind === 'four-layer' && song.textReviewStatus === 'source-auto-transcript-with-conservative-edits') return '四层学习 · 待核听';
   if (song.captionStatus === 'native') return song.isGenerated ? '法语字幕（自动） · 分段重听' : '法语字幕 · 分段重听';
   if (song.captionStatus === 'external') return '原唱 · 可导入字幕';

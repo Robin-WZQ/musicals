@@ -8,8 +8,7 @@
   "duration": 188,
   "sourceDuration": 188,
   "musicalId": "moliere",
-  "trackNumber": 21,
-  "act": 1,
+  "trackNumber": 9,
   "captionStatus": "ready",
   "captionLanguage": "fr",
   "captionSource": "editorial",
@@ -69,34 +68,9 @@
       "duration": 9
     },
     {
-      "text": "Tout est bien tu finit bien fais le PACT carton fais le PA",
+      "text": "Tout est bien qui finit bien fais le PACT carton fais le PA",
       "start": 91,
       "duration": 10
-    },
-    {
-      "text": "Con mes amis mes amis je viens de rencontrer une jeune comédienne d'une rare beauté je vous présente mademoiselle je réalise que j'ai omis de",
-      "start": 101,
-      "duration": 8
-    },
-    {
-      "text": "Demander votre prénom elle s'appelle Armande et elle est mon enfant vous êtes",
-      "start": 109,
-      "duration": 7
-    },
-    {
-      "text": "Molière passe dans ma tête je n'en ai pas le droit je ne peux me le permettre",
-      "start": 118,
-      "duration": 7
-    },
-    {
-      "text": "Cette femme n'est pas pour moi pourquoi de tous les hommes le ciel m'a guidé",
-      "start": 125,
-      "duration": 7
-    },
-    {
-      "text": "Vers la seule personne que je ne peux",
-      "start": 132,
-      "duration": 7
     },
     {
       "text": "Aimer oubliez toutes les galères oubliez toutes misère on va faire laff pour",
@@ -230,7 +204,7 @@
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
   "timingReviewStatus": "approximate",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "phoneticReviewStatus": "not-generated",
   "studyKind": "four-layer",
   "mediaKind": "stage-video",
@@ -342,7 +316,7 @@
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
   },
-  "studyVersion": 1,
+  "studyVersion": 2,
   "studyInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
@@ -468,5 +442,7 @@
       "start": 185,
       "text": "[Applaudissements]"
     }
-  ]
+  ],
+  "originalTrackNumber": 21,
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

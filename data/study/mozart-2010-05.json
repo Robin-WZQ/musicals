@@ -1,0 +1,1535 @@
+{
+  "videoId": "mozart-2010-05",
+  "playbackVideoId": "83Qn2IvP_-I",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "97aaf400c790393fcb53f1f43bb1002cc0955e5fa8ec3c8c767c03260daed16c",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "法语原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "2010年巴黎原唱录像",
+      "url": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=1189"
+    }
+  ],
+  "entries": [
+    {
+      "start": 1206,
+      "sourceText": "Je suis une femme",
+      "ipa": "[ʒə sɥi yn fam]",
+      "ear": "热 斯于伊 于恩 法姆",
+      "meaning": "我是女人",
+      "sourceLineId": "mozart-timed-134-1",
+      "suppliedText": "Je suis une femme Mi-lune, mi-homme Une anagramme, un erratum",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1206,
+        "anchorEnd": 1217.46,
+        "sourceLineNumber": 134,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1209.488,
+      "sourceText": "Mi-lune, mi-homme",
+      "ipa": "[milyn mjɔm]",
+      "ear": "米吕恩 姆耶哦姆",
+      "meaning": "半是月亮，半是男人。",
+      "sourceLineId": "mozart-timed-134-2",
+      "suppliedText": "Je suis une femme Mi-lune, mi-homme Une anagramme, un erratum",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1206,
+        "anchorEnd": 1217.46,
+        "sourceLineNumber": 134,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1212.477,
+      "sourceText": "Une anagramme, un erratum",
+      "ipa": "[yn‿anaɡʁam œ̃n‿ɛʁatɔm]",
+      "ear": "于恩 阿纳格哈姆 恩恩 艾哈托姆",
+      "meaning": "一个字谜，一处错字。",
+      "sourceLineId": "mozart-timed-134-3",
+      "suppliedText": "Je suis une femme Mi-lune, mi-homme Une anagramme, un erratum",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1206,
+        "anchorEnd": 1217.46,
+        "sourceLineNumber": 134,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1218,
+      "sourceText": "On me dessine, on me façonne",
+      "ipa": "[ɔ̃ mə dɛsin ɔ̃ mə fasɔn]",
+      "ear": "翁 默 戴西恩 翁 默 法索恩",
+      "meaning": "别人描绘我、塑造我。",
+      "sourceLineId": "mozart-timed-135-1",
+      "suppliedText": "On me dessine, on me façonne Je vous fascine, ça vous étonne",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1218,
+        "anchorEnd": 1229,
+        "sourceLineNumber": 135,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1223.0,
+      "sourceText": "Je vous fascine, ça vous étonne",
+      "ipa": "[ʒə vu fasin sa vuz‿etɔn]",
+      "ear": "热 乌 法西恩 萨 乌兹 诶托恩",
+      "meaning": "我让你们着迷，也让你们惊讶。",
+      "sourceLineId": "mozart-timed-135-2",
+      "suppliedText": "On me dessine, on me façonne Je vous fascine, ça vous étonne",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1218,
+        "anchorEnd": 1229,
+        "sourceLineNumber": 135,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1229,
+      "sourceText": "J'ai le cœur qui syncope",
+      "ipa": "[ʒe lə kœʁ ki sɛ̃kɔp]",
+      "ear": "热 勒 克厄赫 基 森科普",
+      "meaning": "我的心跳乱了节拍。",
+      "sourceLineId": "mozart-timed-136-1",
+      "suppliedText": "J'ai le cœur qui syncope L'adrénaline me dope En battant la mesure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1229,
+        "anchorEnd": 1238.22,
+        "sourceLineNumber": 136,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1232.688,
+      "sourceText": "L'adrénaline me dope",
+      "ipa": "[ladʁenalin mə dɔp]",
+      "ear": "拉德赫纳利恩 默 多普",
+      "meaning": "肾上腺素让我兴奋。",
+      "sourceLineId": "mozart-timed-136-2",
+      "suppliedText": "J'ai le cœur qui syncope L'adrénaline me dope En battant la mesure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1229,
+        "anchorEnd": 1238.22,
+        "sourceLineNumber": 136,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1235.638,
+      "sourceText": "En battant la mesure",
+      "ipa": "[ɑ̃ batɑ̃ la məzyʁ]",
+      "ear": "昂 巴唐 拉 默齐于赫",
+      "meaning": "随着节奏跳动。",
+      "sourceLineId": "mozart-timed-136-3",
+      "suppliedText": "J'ai le cœur qui syncope L'adrénaline me dope En battant la mesure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1229,
+        "anchorEnd": 1238.22,
+        "sourceLineNumber": 136,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1241,
+      "sourceText": "Bim bam",
+      "ipa": "[bim bam]",
+      "ear": "比姆 巴姆",
+      "meaning": "怦，砰。",
+      "sourceLineId": "mozart-timed-137-1",
+      "suppliedText": "Bim bam Bim boum Bim bam bim boum Bim bam bim boum",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1241,
+        "anchorEnd": 1249.87,
+        "sourceLineNumber": 137,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1242.183,
+      "sourceText": "Bim boum",
+      "ipa": "[bim bum]",
+      "ear": "比姆 布姆",
+      "meaning": "怦，咚。",
+      "sourceLineId": "mozart-timed-137-2",
+      "suppliedText": "Bim bam Bim boum Bim bam bim boum Bim bam bim boum",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1241,
+        "anchorEnd": 1249.87,
+        "sourceLineNumber": 137,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1243.957,
+      "sourceText": "Bim bam bim boum",
+      "ipa": "[bim bam bim bum]",
+      "ear": "比姆 巴姆 比姆 布姆",
+      "meaning": "怦砰，怦咚。",
+      "sourceLineId": "mozart-timed-137-3",
+      "suppliedText": "Bim bam Bim boum Bim bam bim boum Bim bam bim boum",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1241,
+        "anchorEnd": 1249.87,
+        "sourceLineNumber": 137,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1246.913,
+      "sourceText": "Bim bam bim boum",
+      "ipa": "[bim bam bim bum]",
+      "ear": "比姆 巴姆 比姆 布姆",
+      "meaning": "怦砰，怦咚。",
+      "sourceLineId": "mozart-timed-137-4",
+      "suppliedText": "Bim bam Bim boum Bim bam bim boum Bim bam bim boum",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1241,
+        "anchorEnd": 1249.87,
+        "sourceLineNumber": 137,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1250,
+      "sourceText": "Mon cœur susurre",
+      "ipa": "[mɔ̃ kœʁ syzyʁ]",
+      "ear": "蒙 克厄赫 西于齐于赫",
+      "meaning": "我的心轻声低语。",
+      "sourceLineId": "mozart-timed-138-1",
+      "suppliedText": "Mon cœur susurre Bim bam bim boum Bim bam bim boum",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1250,
+        "anchorEnd": 1259.139,
+        "sourceLineNumber": 138,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1253.427,
+      "sourceText": "Bim bam bim boum",
+      "ipa": "[bim bam bim bum]",
+      "ear": "比姆 巴姆 比姆 布姆",
+      "meaning": "怦砰，怦咚。",
+      "sourceLineId": "mozart-timed-138-2",
+      "suppliedText": "Mon cœur susurre Bim bam bim boum Bim bam bim boum",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1250,
+        "anchorEnd": 1259.139,
+        "sourceLineNumber": 138,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1256.283,
+      "sourceText": "Bim bam bim boum",
+      "ipa": "[bim bam bim bum]",
+      "ear": "比姆 巴姆 比姆 布姆",
+      "meaning": "怦砰，怦咚。",
+      "sourceLineId": "mozart-timed-138-3",
+      "suppliedText": "Mon cœur susurre Bim bam bim boum Bim bam bim boum",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1250,
+        "anchorEnd": 1259.139,
+        "sourceLineNumber": 138,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1260,
+      "sourceText": "Tout mon être se fissure",
+      "ipa": "[tu mɔ̃n‿ɛtʁ sə fisyʁ]",
+      "ear": "图 蒙恩 艾特赫 瑟 菲西于赫",
+      "meaning": "我的整个身心都在裂开。",
+      "sourceLineId": "mozart-timed-139-1",
+      "suppliedText": "Tout mon être se fissure Je suis un songe",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1260,
+        "anchorEnd": 1268.9,
+        "sourceLineNumber": 139,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1265.34,
+      "sourceText": "Je suis un songe",
+      "ipa": "[ʒə sɥi œ̃ sɔ̃ʒ]",
+      "ear": "热 斯于伊 恩 松日",
+      "meaning": "我是一个梦。",
+      "sourceLineId": "mozart-timed-139-2",
+      "suppliedText": "Tout mon être se fissure Je suis un songe",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1260,
+        "anchorEnd": 1268.9,
+        "sourceLineNumber": 139,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1269,
+      "sourceText": "Un ectoplasme",
+      "ipa": "[œ̃n‿ɛktɔplasm]",
+      "ear": "恩恩 艾克托普拉斯姆",
+      "meaning": "一道飘忽的幻影。",
+      "sourceLineId": "mozart-timed-140-1",
+      "suppliedText": "Un ectoplasme Juste un mensonge, un pléonasme",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1269,
+        "anchorEnd": 1277.38,
+        "sourceLineNumber": 140,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1271.619,
+      "sourceText": "Juste un mensonge, un pléonasme",
+      "ipa": "[ʒyst‿œ̃ mɑ̃sɔ̃ʒ œ̃ pleonasm]",
+      "ear": "日于斯特 恩 芒松日 恩 普莱奥纳斯姆",
+      "meaning": "只是个谎言，一句多余的话。",
+      "sourceLineId": "mozart-timed-140-2",
+      "suppliedText": "Un ectoplasme Juste un mensonge, un pléonasme",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1269,
+        "anchorEnd": 1277.38,
+        "sourceLineNumber": 140,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1278,
+      "sourceText": "Je reste de glace face à vos spasmes",
+      "ipa": "[ʒə ʁɛst də ɡlas fas‿a vo spasm]",
+      "ear": "热 赫斯特 德 格拉斯 法斯 阿 沃 斯帕斯姆",
+      "meaning": "面对你们的激动，我依旧冷若冰霜。",
+      "sourceLineId": "mozart-timed-141-1",
+      "suppliedText": "Je reste de glace face à vos spasmes Je ne trouve pas ma place",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1278,
+        "anchorEnd": 1286.58,
+        "sourceLineNumber": 141,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1282.903,
+      "sourceText": "Je ne trouve pas ma place",
+      "ipa": "[ʒə nə tʁuv pa ma plas]",
+      "ear": "热 讷 特胡弗 帕 玛 普拉斯",
+      "meaning": "我找不到自己的位置。",
+      "sourceLineId": "mozart-timed-141-2",
+      "suppliedText": "Je reste de glace face à vos spasmes Je ne trouve pas ma place",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1278,
+        "anchorEnd": 1286.58,
+        "sourceLineNumber": 141,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1287,
+      "sourceText": "Dans vos fantasmes",
+      "ipa": "[dɑ̃ vo fɑ̃tasm]",
+      "ear": "当 沃 芳塔斯姆",
+      "meaning": "在你们的幻想里。",
+      "sourceLineId": "mozart-timed-142-1",
+      "suppliedText": "Dans vos fantasmes Sous mon masque de fer Des larmes qui lacèrent",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1287,
+        "anchorEnd": 1295,
+        "sourceLineNumber": 142,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1288.905,
+      "sourceText": "Sous mon masque de fer",
+      "ipa": "[su mɔ̃ mask də fɛʁ]",
+      "ear": "苏 蒙 玛斯克 德 费赫",
+      "meaning": "在我铁一般的面具之下。",
+      "sourceLineId": "mozart-timed-142-2",
+      "suppliedText": "Dans vos fantasmes Sous mon masque de fer Des larmes qui lacèrent",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1287,
+        "anchorEnd": 1295,
+        "sourceLineNumber": 142,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1291.952,
+      "sourceText": "Des larmes qui lacèrent",
+      "ipa": "[de laʁm ki lasɛʁ]",
+      "ear": "德 拉赫姆 基 拉塞赫",
+      "meaning": "眼泪不断撕扯着——",
+      "sourceLineId": "mozart-timed-142-3",
+      "suppliedText": "Dans vos fantasmes Sous mon masque de fer Des larmes qui lacèrent",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1287,
+        "anchorEnd": 1295,
+        "sourceLineNumber": 142,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1295,
+      "sourceText": "Mes anciennes blessures",
+      "ipa": "[mez‿ɑ̃sjɛn blɛsyʁ]",
+      "ear": "梅兹 昂斯耶艾恩 布莱西于赫",
+      "meaning": "我旧日的伤口。",
+      "sourceLineId": "mozart-timed-143-1",
+      "suppliedText": "Mes anciennes blessures Bim bam bim boum",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1295,
+        "anchorEnd": 1303.77,
+        "sourceLineNumber": 143,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1300.397,
+      "sourceText": "Bim bam bim boum",
+      "ipa": "[bim bam bim bum]",
+      "ear": "比姆 巴姆 比姆 布姆",
+      "meaning": "怦砰，怦咚。",
+      "sourceLineId": "mozart-timed-143-2",
+      "suppliedText": "Mes anciennes blessures Bim bam bim boum",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1295,
+        "anchorEnd": 1303.77,
+        "sourceLineNumber": 143,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1304,
+      "sourceText": "Bim bam bim boum",
+      "ipa": "[bim bam bim bum]",
+      "ear": "比姆 巴姆 比姆 布姆",
+      "meaning": "怦砰，怦咚。",
+      "sourceLineId": "mozart-timed-144-1",
+      "suppliedText": "Bim bam bim boum Bim bam bim boum Mon cœur susurre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1304,
+        "anchorEnd": 1312.86,
+        "sourceLineNumber": 144,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1306.769,
+      "sourceText": "Bim bam bim boum",
+      "ipa": "[bim bam bim bum]",
+      "ear": "比姆 巴姆 比姆 布姆",
+      "meaning": "怦砰，怦咚。",
+      "sourceLineId": "mozart-timed-144-2",
+      "suppliedText": "Bim bam bim boum Bim bam bim boum Mon cœur susurre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1304,
+        "anchorEnd": 1312.86,
+        "sourceLineNumber": 144,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1309.537,
+      "sourceText": "Mon cœur susurre",
+      "ipa": "[mɔ̃ kœʁ syzyʁ]",
+      "ear": "蒙 克厄赫 西于齐于赫",
+      "meaning": "我的心轻声低语。",
+      "sourceLineId": "mozart-timed-144-3",
+      "suppliedText": "Bim bam bim boum Bim bam bim boum Mon cœur susurre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1304,
+        "anchorEnd": 1312.86,
+        "sourceLineNumber": 144,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1313,
+      "sourceText": "Bim bam bim boum",
+      "ipa": "[bim bam bim bum]",
+      "ear": "比姆 巴姆 比姆 布姆",
+      "meaning": "怦砰，怦咚。",
+      "sourceLineId": "mozart-timed-145-1",
+      "suppliedText": "Bim bam bim boum Bim bam bim boum",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1313,
+        "anchorEnd": 1319.94,
+        "sourceLineNumber": 145,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1316.47,
+      "sourceText": "Bim bam bim boum",
+      "ipa": "[bim bam bim bum]",
+      "ear": "比姆 巴姆 比姆 布姆",
+      "meaning": "怦砰，怦咚。",
+      "sourceLineId": "mozart-timed-145-2",
+      "suppliedText": "Bim bam bim boum Bim bam bim boum",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1313,
+        "anchorEnd": 1319.94,
+        "sourceLineNumber": 145,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1320,
+      "sourceText": "Tout mon être se fissure",
+      "ipa": "[tu mɔ̃n‿ɛtʁ sə fisyʁ]",
+      "ear": "图 蒙恩 艾特赫 瑟 菲西于赫",
+      "meaning": "我的整个身心都在裂开。",
+      "sourceLineId": "mozart-timed-146-1",
+      "suppliedText": "Tout mon être se fissure Mon cœur susurre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1320,
+        "anchorEnd": 1327.73,
+        "sourceLineNumber": 146,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1324.638,
+      "sourceText": "Mon cœur susurre",
+      "ipa": "[mɔ̃ kœʁ syzyʁ]",
+      "ear": "蒙 克厄赫 西于齐于赫",
+      "meaning": "我的心轻声低语。",
+      "sourceLineId": "mozart-timed-146-2",
+      "suppliedText": "Tout mon être se fissure Mon cœur susurre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1320,
+        "anchorEnd": 1327.73,
+        "sourceLineNumber": 146,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1328,
+      "sourceText": "Mon âme murmure",
+      "ipa": "[mɔ̃n‿am myʁmyʁ]",
+      "ear": "蒙恩 阿姆 米于赫米于赫",
+      "meaning": "我的灵魂低语",
+      "sourceLineId": "mozart-timed-147-1",
+      "suppliedText": "Mon âme murmure Sous mon armure Je me fissure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1328,
+        "anchorEnd": 1336.9,
+        "sourceLineNumber": 147,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1331.141,
+      "sourceText": "Sous mon armure",
+      "ipa": "[su mɔ̃n‿aʁmyʁ]",
+      "ear": "苏 蒙恩 阿赫米于赫",
+      "meaning": "在我的盔甲之下。",
+      "sourceLineId": "mozart-timed-147-2",
+      "suppliedText": "Mon âme murmure Sous mon armure Je me fissure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1328,
+        "anchorEnd": 1336.9,
+        "sourceLineNumber": 147,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1334.282,
+      "sourceText": "Je me fissure",
+      "ipa": "[ʒə mə fisyʁ]",
+      "ear": "热 默 菲西于赫",
+      "meaning": "我要崩溃了",
+      "sourceLineId": "mozart-timed-147-3",
+      "suppliedText": "Mon âme murmure Sous mon armure Je me fissure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1328,
+        "anchorEnd": 1336.9,
+        "sourceLineNumber": 147,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1337,
+      "sourceText": "Mon cœur susurre",
+      "ipa": "[mɔ̃ kœʁ syzyʁ]",
+      "ear": "蒙 克厄赫 西于齐于赫",
+      "meaning": "我的心轻声低语。",
+      "sourceLineId": "mozart-timed-148-1",
+      "suppliedText": "Mon cœur susurre Mon âme murmure Sous mon armure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1337,
+        "anchorEnd": 1346,
+        "sourceLineNumber": 148,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1340.0,
+      "sourceText": "Mon âme murmure",
+      "ipa": "[mɔ̃n‿am myʁmyʁ]",
+      "ear": "蒙恩 阿姆 米于赫米于赫",
+      "meaning": "我的灵魂低语",
+      "sourceLineId": "mozart-timed-148-2",
+      "suppliedText": "Mon cœur susurre Mon âme murmure Sous mon armure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1337,
+        "anchorEnd": 1346,
+        "sourceLineNumber": 148,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1343.0,
+      "sourceText": "Sous mon armure",
+      "ipa": "[su mɔ̃n‿aʁmyʁ]",
+      "ear": "苏 蒙恩 阿赫米于赫",
+      "meaning": "在我的盔甲之下。",
+      "sourceLineId": "mozart-timed-148-3",
+      "suppliedText": "Mon cœur susurre Mon âme murmure Sous mon armure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1337,
+        "anchorEnd": 1346,
+        "sourceLineNumber": 148,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1346,
+      "sourceText": "Je me fissure",
+      "ipa": "[ʒə mə fisyʁ]",
+      "ear": "热 默 菲西于赫",
+      "meaning": "我要崩溃了",
+      "sourceLineId": "mozart-timed-149-1",
+      "suppliedText": "Je me fissure Mon cœur susurre Mon âme Murmure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1346,
+        "anchorEnd": 1354.78,
+        "sourceLineNumber": 149,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1348.582,
+      "sourceText": "Mon cœur susurre",
+      "ipa": "[mɔ̃ kœʁ syzyʁ]",
+      "ear": "蒙 克厄赫 西于齐于赫",
+      "meaning": "我的心轻声低语。",
+      "sourceLineId": "mozart-timed-149-2",
+      "suppliedText": "Je me fissure Mon cœur susurre Mon âme Murmure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1346,
+        "anchorEnd": 1354.78,
+        "sourceLineNumber": 149,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1351.681,
+      "sourceText": "Mon âme",
+      "ipa": "[mɔ̃n‿am]",
+      "ear": "蒙恩 阿姆",
+      "meaning": "我的灵魂",
+      "sourceLineId": "mozart-timed-149-3",
+      "suppliedText": "Je me fissure Mon cœur susurre Mon âme Murmure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1346,
+        "anchorEnd": 1354.78,
+        "sourceLineNumber": 149,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1353.231,
+      "sourceText": "Murmure",
+      "ipa": "[myʁmyʁ]",
+      "ear": "米于赫米于赫",
+      "meaning": "耳语",
+      "sourceLineId": "mozart-timed-149-4",
+      "suppliedText": "Je me fissure Mon cœur susurre Mon âme Murmure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1346,
+        "anchorEnd": 1354.78,
+        "sourceLineNumber": 149,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1355,
+      "sourceText": "Sous mon armure",
+      "ipa": "[su mɔ̃n‿aʁmyʁ]",
+      "ear": "苏 蒙恩 阿赫米于赫",
+      "meaning": "在我的盔甲之下。",
+      "sourceLineId": "mozart-timed-150-1",
+      "suppliedText": "Sous mon armure Je me fissure Bim bam bim boum",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1355,
+        "anchorEnd": 1363.62,
+        "sourceLineNumber": 150,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1358.233,
+      "sourceText": "Je me fissure",
+      "ipa": "[ʒə mə fisyʁ]",
+      "ear": "热 默 菲西于赫",
+      "meaning": "我要崩溃了",
+      "sourceLineId": "mozart-timed-150-2",
+      "suppliedText": "Sous mon armure Je me fissure Bim bam bim boum",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1355,
+        "anchorEnd": 1363.62,
+        "sourceLineNumber": 150,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1360.926,
+      "sourceText": "Bim bam bim boum",
+      "ipa": "[bim bam bim bum]",
+      "ear": "比姆 巴姆 比姆 布姆",
+      "meaning": "怦砰，怦咚。",
+      "sourceLineId": "mozart-timed-150-3",
+      "suppliedText": "Sous mon armure Je me fissure Bim bam bim boum",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1355,
+        "anchorEnd": 1363.62,
+        "sourceLineNumber": 150,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1364,
+      "sourceText": "Bim bam bim boum",
+      "ipa": "[bim bam bim bum]",
+      "ear": "比姆 巴姆 比姆 布姆",
+      "meaning": "怦砰，怦咚。",
+      "sourceLineId": "mozart-timed-151-1",
+      "suppliedText": "Bim bam bim boum Bim bam bim boum Mon cœur susurre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1364,
+        "anchorEnd": 1373.74,
+        "sourceLineNumber": 151,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1367.044,
+      "sourceText": "Bim bam bim boum",
+      "ipa": "[bim bam bim bum]",
+      "ear": "比姆 巴姆 比姆 布姆",
+      "meaning": "怦砰，怦咚。",
+      "sourceLineId": "mozart-timed-151-2",
+      "suppliedText": "Bim bam bim boum Bim bam bim boum Mon cœur susurre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1364,
+        "anchorEnd": 1373.74,
+        "sourceLineNumber": 151,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1370.088,
+      "sourceText": "Mon cœur susurre",
+      "ipa": "[mɔ̃ kœʁ syzyʁ]",
+      "ear": "蒙 克厄赫 西于齐于赫",
+      "meaning": "我的心轻声低语。",
+      "sourceLineId": "mozart-timed-151-3",
+      "suppliedText": "Bim bam bim boum Bim bam bim boum Mon cœur susurre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1364,
+        "anchorEnd": 1373.74,
+        "sourceLineNumber": 151,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1377,
+      "sourceText": "Cher Wolfgang, je vous présente notre fille, Aloysia.",
+      "ipa": "[ʃɛʁ vɔlfɡɑ̃ɡ ʒə vu pʁezɑ̃t notʁ fij alwazja]",
+      "ear": "谢赫 沃勒弗冈格 热 乌 普赫赞特 诺特赫 菲耶 阿勒乌阿兹耶阿",
+      "meaning": "亲爱的沃尔夫冈，我向您介绍我们的女儿，阿洛伊西娅。",
+      "sourceLineId": "mozart-timed-152-1",
+      "suppliedText": "Cher Wolfgang, je vous présente notre fille, Aloysia. Monsieur.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1377,
+        "anchorEnd": 1384.66,
+        "sourceLineNumber": 152,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1383.267,
+      "sourceText": "Monsieur.",
+      "ipa": "[məsjø]",
+      "ear": "默斯耶厄",
+      "meaning": "先生。",
+      "sourceLineId": "mozart-timed-152-2",
+      "suppliedText": "Cher Wolfgang, je vous présente notre fille, Aloysia. Monsieur.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1377,
+        "anchorEnd": 1384.66,
+        "sourceLineNumber": 152,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1386,
+      "sourceText": "Depuis qu'on m'a parlé de vous, je brûle de vous rencontrer.",
+      "ipa": "[dəpɥi kɔ̃ ma paʁle də vu ʒə bʁyl də vu ʁɑ̃kɔ̃tʁe]",
+      "ear": "德普于伊 孔 玛 帕赫莱 德 乌 热 布许勒 德 乌 杭孔特赫",
+      "meaning": "听说您的才华之后，我就一直盼着见到您。",
+      "sourceLineId": "mozart-timed-153-1",
+      "suppliedText": "Depuis qu'on m'a parlé de vous, je brûle de vous rencontrer. Mademoiselle, votre chant m'a bouleversé.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1386,
+        "anchorEnd": 1395,
+        "sourceLineNumber": 153,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1391.143,
+      "sourceText": "Mademoiselle, votre chant m'a bouleversé.",
+      "ipa": "[madmwazɛl votʁ ʃɑ̃ ma bulvɛʁse]",
+      "ear": "玛德姆乌阿泽勒 沃特赫 尚 玛 布勒韦赫塞",
+      "meaning": "小姐，你的歌声让我感动。",
+      "sourceLineId": "mozart-timed-153-2",
+      "suppliedText": "Depuis qu'on m'a parlé de vous, je brûle de vous rencontrer. Mademoiselle, votre chant m'a bouleversé.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1386,
+        "anchorEnd": 1395,
+        "sourceLineNumber": 153,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1395,
+      "sourceText": "Votre voix est si pure, si douce.",
+      "ipa": "[votʁ vwa ɛ si pyʁ si dus]",
+      "ear": "沃特赫 弗乌阿 艾 西 普于赫 西 杜斯",
+      "meaning": "你的声音是那么纯净，那么甜美。",
+      "sourceLineId": "mozart-timed-154-1",
+      "suppliedText": "Votre voix est si pure, si douce.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 1395,
+        "anchorEnd": 1399.899,
+        "sourceLineNumber": 154,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1400,
+      "sourceText": "Oh, je vous en prie, ne soyez pas cruel,",
+      "ipa": "[ɔ ʒə vuz‿ɑ̃ pʁi nə swaje pa kʁyɛl]",
+      "ear": "哦 热 乌兹 昂 普希 讷 斯乌阿耶诶 帕 克许艾勒",
+      "meaning": "哦，请不要残忍，",
+      "sourceLineId": "mozart-timed-155-1",
+      "suppliedText": "Oh, je vous en prie, ne soyez pas cruel, - j'ai encore tant à apprendre. - Justement, Aloysia est invitée à la cour pour donner des concerts.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1400,
+        "anchorEnd": 1409,
+        "sourceLineNumber": 155,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1402.625,
+      "sourceText": "j'ai encore tant à apprendre.",
+      "ipa": "[ʒe ɑ̃kɔʁ tɑ̃ a apʁɑ̃dʁ]",
+      "ear": "热 昂科赫 唐 阿 阿普杭德赫",
+      "meaning": "我还有很多东西要学。",
+      "sourceLineId": "mozart-timed-155-2",
+      "suppliedText": "Oh, je vous en prie, ne soyez pas cruel, - j'ai encore tant à apprendre. - Justement, Aloysia est invitée à la cour pour donner des concerts.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1400,
+        "anchorEnd": 1409,
+        "sourceLineNumber": 155,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1404.5,
+      "sourceText": "Justement, Aloysia est invitée à la cour pour donner des concerts.",
+      "ipa": "[ʒystmɑ̃ alwazja ɛt‿ɛ̃vite a la kuʁ puʁ dɔne de kɔ̃sɛʁ]",
+      "ear": "日于斯特芒 阿勒乌阿兹耶阿 艾特 安维特 阿 拉 库赫 普赫 多内 德 孔塞赫",
+      "meaning": "事实上，阿洛伊西娅被邀请到宫廷举办音乐会。",
+      "sourceLineId": "mozart-timed-155-3",
+      "suppliedText": "Oh, je vous en prie, ne soyez pas cruel, - j'ai encore tant à apprendre. - Justement, Aloysia est invitée à la cour pour donner des concerts.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1400,
+        "anchorEnd": 1409,
+        "sourceLineNumber": 155,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1409,
+      "sourceText": "Et la pauvre ne dispose que d'un maigre répertoire.",
+      "ipa": "[e la povʁ nə dispɔz kə dœ̃ mɛɡʁ ʁepɛʁtwaʁ]",
+      "ear": "诶 拉 波弗赫 讷 迪斯珀兹 克 丹 梅格赫 赫佩赫特乌阿赫",
+      "meaning": "可她能唱的曲目实在太少了。",
+      "sourceLineId": "mozart-timed-156-1",
+      "suppliedText": "Et la pauvre ne dispose que d'un maigre répertoire. Monsieur, accepteriez-vous de me donner des cours?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1409,
+        "anchorEnd": 1418,
+        "sourceLineNumber": 156,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1413.737,
+      "sourceText": "Monsieur, accepteriez-vous de me donner des cours?",
+      "ipa": "[məsjø aksɛptəʁjevu də mə dɔne de kuʁ]",
+      "ear": "默斯耶厄 阿克塞普特赫耶诶乌 德 默 多内 德 库赫",
+      "meaning": "先生，您同意给我上课吗？",
+      "sourceLineId": "mozart-timed-156-2",
+      "suppliedText": "Et la pauvre ne dispose que d'un maigre répertoire. Monsieur, accepteriez-vous de me donner des cours?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1409,
+        "anchorEnd": 1418,
+        "sourceLineNumber": 156,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1418,
+      "sourceText": "Oui, je m'y engage!",
+      "ipa": "[wi ʒə mi ɑ̃ɡaʒ]",
+      "ear": "乌伊 热 米 昂嘎日",
+      "meaning": "是的，我同意！",
+      "sourceLineId": "mozart-timed-157-1",
+      "suppliedText": "Oui, je m'y engage! Je suis prêt à vous aider et composer. Wolfgang!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1418,
+        "anchorEnd": 1423.94,
+        "sourceLineNumber": 157,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1419.98,
+      "sourceText": "Je suis prêt à vous aider et composer.",
+      "ipa": "[ʒə sɥi pʁɛ a vuz‿ɛde e kɔ̃poze]",
+      "ear": "热 斯于伊 普赫 阿 乌兹 艾德 诶 孔波泽",
+      "meaning": "我准备好帮助你并作曲。",
+      "sourceLineId": "mozart-timed-157-2",
+      "suppliedText": "Oui, je m'y engage! Je suis prêt à vous aider et composer. Wolfgang!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1418,
+        "anchorEnd": 1423.94,
+        "sourceLineNumber": 157,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1423.445,
+      "sourceText": "Wolfgang!",
+      "ipa": "[vɔlfɡɑ̃ɡ]",
+      "ear": "沃勒弗冈格",
+      "meaning": "沃尔夫冈！",
+      "sourceLineId": "mozart-timed-157-3",
+      "suppliedText": "Oui, je m'y engage! Je suis prêt à vous aider et composer. Wolfgang!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1418,
+        "anchorEnd": 1423.94,
+        "sourceLineNumber": 157,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1424,
+      "sourceText": "Papa,",
+      "ipa": "[papa]",
+      "ear": "帕帕",
+      "meaning": "爸爸，",
+      "sourceLineId": "mozart-timed-158-1",
+      "suppliedText": "Papa, Monsieur Mozart pourrait nous accompagner au château de la princesse. Vous pourriez diriger votre propre musique.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1424,
+        "anchorEnd": 1432,
+        "sourceLineNumber": 158,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1424.348,
+      "sourceText": "Monsieur Mozart pourrait nous accompagner au château de la princesse.",
+      "ipa": "[məsjø mɔtsaʁ puʁɛ nuz‿akɔ̃panje o ʃato də la pʁɛ̃sɛs]",
+      "ear": "默斯耶厄 莫特萨赫 普赫 努兹 阿孔帕恩耶诶 奥 沙托 德 拉 普汉塞斯",
+      "meaning": "莫扎特先生可以陪我们去公主的城堡。",
+      "sourceLineId": "mozart-timed-158-2",
+      "suppliedText": "Papa, Monsieur Mozart pourrait nous accompagner au château de la princesse. Vous pourriez diriger votre propre musique.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1424,
+        "anchorEnd": 1432,
+        "sourceLineNumber": 158,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1429.043,
+      "sourceText": "Vous pourriez diriger votre propre musique.",
+      "ipa": "[vu puʁje diʁiʒe votʁ pʁɔpʁ myzik]",
+      "ear": "乌 普赫耶诶 迪希热 沃特赫 普霍普赫 米于齐克",
+      "meaning": "你可以指挥你自己的音乐。",
+      "sourceLineId": "mozart-timed-158-3",
+      "suppliedText": "Papa, Monsieur Mozart pourrait nous accompagner au château de la princesse. Vous pourriez diriger votre propre musique.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1424,
+        "anchorEnd": 1432,
+        "sourceLineNumber": 158,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1432,
+      "sourceText": "Quelle bonne idée!",
+      "ipa": "[kɛl bɔn‿ide]",
+      "ear": "凯勒 博恩 伊德",
+      "meaning": "多好的主意啊！",
+      "sourceLineId": "mozart-timed-159-1",
+      "suppliedText": "- Quelle bonne idée! N'est-ce pas? - Mais enfin! Nous ne pouvons quitter Mannheim maintenant. Pense à ton emploi auprès du prince, à ta commande d'opéra.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1432,
+        "anchorEnd": 1442,
+        "sourceLineNumber": 159,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1433.538,
+      "sourceText": "N'est-ce pas?",
+      "ipa": "[nɛs pa]",
+      "ear": "奈斯 帕",
+      "meaning": "不是吗？",
+      "sourceLineId": "mozart-timed-159-2",
+      "suppliedText": "- Quelle bonne idée! N'est-ce pas? - Mais enfin! Nous ne pouvons quitter Mannheim maintenant. Pense à ton emploi auprès du prince, à ta commande d'opéra.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1432,
+        "anchorEnd": 1442,
+        "sourceLineNumber": 159,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1434.115,
+      "sourceText": "Mais enfin!",
+      "ipa": "[mɛ ɑ̃fɛ̃]",
+      "ear": "梅 昂凡",
+      "meaning": "这怎么行！",
+      "sourceLineId": "mozart-timed-159-3",
+      "suppliedText": "- Quelle bonne idée! N'est-ce pas? - Mais enfin! Nous ne pouvons quitter Mannheim maintenant. Pense à ton emploi auprès du prince, à ta commande d'opéra.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1432,
+        "anchorEnd": 1442,
+        "sourceLineNumber": 159,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1434.885,
+      "sourceText": "Nous ne pouvons quitter Mannheim maintenant.",
+      "ipa": "[nu nə puvɔ̃ kite mɑ̃najm mɛ̃tnɑ̃]",
+      "ear": "努 讷 普翁 基特 芒纳耶姆 曼特南",
+      "meaning": "我们现在不能离开曼海姆。",
+      "sourceLineId": "mozart-timed-159-4",
+      "suppliedText": "- Quelle bonne idée! N'est-ce pas? - Mais enfin! Nous ne pouvons quitter Mannheim maintenant. Pense à ton emploi auprès du prince, à ta commande d'opéra.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1432,
+        "anchorEnd": 1442,
+        "sourceLineNumber": 159,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1437.962,
+      "sourceText": "Pense à ton emploi auprès du prince, à ta commande d'opéra.",
+      "ipa": "[pɑ̃s‿a tɔ̃n‿ɑ̃plwa opʁɛ dy pʁɛ̃s a ta kɔmɑ̃d dopeʁa]",
+      "ear": "庞斯 阿 通恩 昂普勒乌阿 奥普赫 迪于 普汉斯 阿 塔 科芒德 多佩哈",
+      "meaning": "想想亲王那边的工作，还有那部委托你写的歌剧。",
+      "sourceLineId": "mozart-timed-159-5",
+      "suppliedText": "- Quelle bonne idée! N'est-ce pas? - Mais enfin! Nous ne pouvons quitter Mannheim maintenant. Pense à ton emploi auprès du prince, à ta commande d'opéra.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1432,
+        "anchorEnd": 1442,
+        "sourceLineNumber": 159,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1442,
+      "sourceText": "Mademoiselle, nous pouvons commencer dès maintenant.",
+      "ipa": "[madmwazɛl nu puvɔ̃ kɔmɑ̃se dɛ mɛ̃tnɑ̃]",
+      "ear": "玛德姆乌阿泽勒 努 普翁 科芒塞 戴 曼特南",
+      "meaning": "小姐，我们现在可以开始了。",
+      "sourceLineId": "mozart-timed-160-1",
+      "suppliedText": "Mademoiselle, nous pouvons commencer dès maintenant. Je vais écrire à ton père. Et tu sais ce qu'il pensera de tout ceci. Ne me touchez pas!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1442,
+        "anchorEnd": 1452.98,
+        "sourceLineNumber": 160,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1446.172,
+      "sourceText": "Je vais écrire à ton père.",
+      "ipa": "[ʒə vɛ ekʁiʁ‿a tɔ̃ pɛʁ]",
+      "ear": "热 韦 诶克希赫 阿 通 佩赫",
+      "meaning": "我要写信给你父亲。",
+      "sourceLineId": "mozart-timed-160-2",
+      "suppliedText": "Mademoiselle, nous pouvons commencer dès maintenant. Je vais écrire à ton père. Et tu sais ce qu'il pensera de tout ceci. Ne me touchez pas!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1442,
+        "anchorEnd": 1452.98,
+        "sourceLineNumber": 160,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1448.368,
+      "sourceText": "Et tu sais ce qu'il pensera de tout ceci.",
+      "ipa": "[e ty sɛ sə kil pɑ̃sʁa də tu səsi]",
+      "ear": "诶 蒂于 塞 瑟 基勒 庞斯哈 德 图 瑟西",
+      "meaning": "你知道他对这一切会怎么想。",
+      "sourceLineId": "mozart-timed-160-3",
+      "suppliedText": "Mademoiselle, nous pouvons commencer dès maintenant. Je vais écrire à ton père. Et tu sais ce qu'il pensera de tout ceci. Ne me touchez pas!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1442,
+        "anchorEnd": 1452.98,
+        "sourceLineNumber": 160,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1451.662,
+      "sourceText": "Ne me touchez pas!",
+      "ipa": "[nə mə tuʃe pa]",
+      "ear": "讷 默 图谢 帕",
+      "meaning": "别碰我！",
+      "sourceLineId": "mozart-timed-160-4",
+      "suppliedText": "Mademoiselle, nous pouvons commencer dès maintenant. Je vais écrire à ton père. Et tu sais ce qu'il pensera de tout ceci. Ne me touchez pas!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1442,
+        "anchorEnd": 1452.98,
+        "sourceLineNumber": 160,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1453,
+      "sourceText": "Constance?",
+      "ipa": "[kɔ̃stɑ̃s]",
+      "ear": "孔斯唐斯",
+      "meaning": "康斯坦丝？",
+      "sourceLineId": "mozart-timed-161-1",
+      "suppliedText": "Constance? Plaît-il? Eh bien, la place! Oh! Votre Altesse.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1453,
+        "anchorEnd": 1461,
+        "sourceLineNumber": 161,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1454.333,
+      "sourceText": "Plaît-il?",
+      "ipa": "[plɛtil]",
+      "ear": "普莱蒂勒",
+      "meaning": "请问？",
+      "sourceLineId": "mozart-timed-161-2",
+      "suppliedText": "Constance? Plaît-il? Eh bien, la place! Oh! Votre Altesse.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1453,
+        "anchorEnd": 1461,
+        "sourceLineNumber": 161,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1455.667,
+      "sourceText": "Eh bien, la place!",
+      "ipa": "[ɛ bjɛ̃ la plas]",
+      "ear": "艾 布耶安 拉 普拉斯",
+      "meaning": "好了，让开！",
+      "sourceLineId": "mozart-timed-161-3",
+      "suppliedText": "Constance? Plaît-il? Eh bien, la place! Oh! Votre Altesse.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1453,
+        "anchorEnd": 1461,
+        "sourceLineNumber": 161,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1458.333,
+      "sourceText": "Oh!",
+      "ipa": "[ɔ]",
+      "ear": "哦",
+      "meaning": "哦！",
+      "sourceLineId": "mozart-timed-161-4",
+      "suppliedText": "Constance? Plaît-il? Eh bien, la place! Oh! Votre Altesse.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1453,
+        "anchorEnd": 1461,
+        "sourceLineNumber": 161,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1458.778,
+      "sourceText": "Votre Altesse.",
+      "ipa": "[votʁ‿altɛs]",
+      "ear": "沃特赫 阿勒泰斯",
+      "meaning": "殿下。",
+      "sourceLineId": "mozart-timed-161-5",
+      "suppliedText": "Constance? Plaît-il? Eh bien, la place! Oh! Votre Altesse.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1453,
+        "anchorEnd": 1461,
+        "sourceLineNumber": 161,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1461,
+      "sourceText": "Oh, mon grand, elle est parfaite, hein?",
+      "ipa": "[ɔ mɔ̃ ɡʁɑ̃ ɛl‿ɛ paʁfɛt ɛ̃]",
+      "ear": "哦 蒙 格杭 艾勒 艾 帕赫费特 安",
+      "meaning": "哦，男孩，她很完美，是吧？",
+      "sourceLineId": "mozart-timed-162-1",
+      "suppliedText": "Oh, mon grand, elle est parfaite, hein? Regarde-le, comme il est fasciné. Ah, oui, ça, vraiment, elle est \"parfaite\".",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1461,
+        "anchorEnd": 1470,
+        "sourceLineNumber": 162,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1463.842,
+      "sourceText": "Regarde-le, comme il est fasciné.",
+      "ipa": "[ʁəɡaʁdlə kɔm‿il‿ɛ fasine]",
+      "ear": "赫嘎赫德勒 科姆 伊勒 艾 法西内",
+      "meaning": "看看他，他是多么着迷啊。",
+      "sourceLineId": "mozart-timed-162-2",
+      "suppliedText": "Oh, mon grand, elle est parfaite, hein? Regarde-le, comme il est fasciné. Ah, oui, ça, vraiment, elle est \"parfaite\".",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1461,
+        "anchorEnd": 1470,
+        "sourceLineNumber": 162,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1466.447,
+      "sourceText": "Ah, oui, ça, vraiment, elle est parfaite.",
+      "ipa": "[a wi sa vʁɛmɑ̃ ɛl‿ɛ paʁfɛt]",
+      "ear": "阿 乌伊 萨 弗赫芒 艾勒 艾 帕赫费特",
+      "meaning": "啊，对，真是完美。",
+      "sourceLineId": "mozart-timed-162-3",
+      "suppliedText": "Oh, mon grand, elle est parfaite, hein? Regarde-le, comme il est fasciné. Ah, oui, ça, vraiment, elle est \"parfaite\".",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1461,
+        "anchorEnd": 1470,
+        "sourceLineNumber": 162,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1470,
+      "sourceText": "On t'a rien demandé!",
+      "ipa": "[ɔ̃ ta ʁjɛ̃ dəmɑ̃de]",
+      "ear": "翁 塔 赫耶安 德芒德",
+      "meaning": "我们什么也没问你！",
+      "sourceLineId": "mozart-timed-163-1",
+      "suppliedText": "On t'a rien demandé! Mais dis-moi, tu ne le trouves pas un peu bizarre? Mais non, mais non. C'est...",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1470,
+        "anchorEnd": 1478.9,
+        "sourceLineNumber": 163,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1471.947,
+      "sourceText": "Mais dis-moi, tu ne le trouves pas un peu bizarre?",
+      "ipa": "[mɛ dimwa ty nə lə tʁuv pa œ̃ pø bizaʁ]",
+      "ear": "梅 迪姆乌阿 蒂于 讷 勒 特胡弗 帕 恩 珀厄 比扎赫",
+      "meaning": "但是告诉我，你不觉得有点奇怪吗？",
+      "sourceLineId": "mozart-timed-163-2",
+      "suppliedText": "On t'a rien demandé! Mais dis-moi, tu ne le trouves pas un peu bizarre? Mais non, mais non. C'est...",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1470,
+        "anchorEnd": 1478.9,
+        "sourceLineNumber": 163,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1476.953,
+      "sourceText": "Mais non, mais non.",
+      "ipa": "[mɛ nɔ̃ mɛ nɔ̃]",
+      "ear": "梅 农 梅 农",
+      "meaning": "但是不，但是不。",
+      "sourceLineId": "mozart-timed-163-3",
+      "suppliedText": "On t'a rien demandé! Mais dis-moi, tu ne le trouves pas un peu bizarre? Mais non, mais non. C'est...",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1470,
+        "anchorEnd": 1478.9,
+        "sourceLineNumber": 163,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1478.622,
+      "sourceText": "C'est...",
+      "ipa": "[sɛ]",
+      "ear": "塞",
+      "meaning": "这是……",
+      "sourceLineId": "mozart-timed-163-4",
+      "suppliedText": "On t'a rien demandé! Mais dis-moi, tu ne le trouves pas un peu bizarre? Mais non, mais non. C'est...",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1470,
+        "anchorEnd": 1478.9,
+        "sourceLineNumber": 163,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1479,
+      "sourceText": "C'est l'émotion.",
+      "ipa": "[sɛ lemosjɔ̃]",
+      "ear": "塞 莱莫斯耶翁",
+      "meaning": "他是太激动了。",
+      "sourceLineId": "mozart-timed-164-1",
+      "suppliedText": "C'est l'émotion. On va dire \"l'émotion\". Et puis, on lui demande pas de l'épouser.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1479,
+        "anchorEnd": 1484,
+        "sourceLineNumber": 164,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1479.893,
+      "sourceText": "On va dire l'émotion.",
+      "ipa": "[ɔ̃ va diʁ lemosjɔ̃]",
+      "ear": "翁 瓦 迪赫 莱莫斯耶翁",
+      "meaning": "就当是太激动了吧。",
+      "sourceLineId": "mozart-timed-164-2",
+      "suppliedText": "C'est l'émotion. On va dire \"l'émotion\". Et puis, on lui demande pas de l'épouser.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1479,
+        "anchorEnd": 1484,
+        "sourceLineNumber": 164,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1481.321,
+      "sourceText": "Et puis, on lui demande pas de l'épouser.",
+      "ipa": "[e pɥi ɔ̃ lɥi dəmɑ̃d pa də lepuze]",
+      "ear": "诶 普于伊 翁 勒于伊 德芒德 帕 德 莱普泽",
+      "meaning": "再说，我们又没让他娶她。",
+      "sourceLineId": "mozart-timed-164-3",
+      "suppliedText": "C'est l'émotion. On va dire \"l'émotion\". Et puis, on lui demande pas de l'épouser.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1479,
+        "anchorEnd": 1484,
+        "sourceLineNumber": 164,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

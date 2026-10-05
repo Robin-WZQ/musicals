@@ -10,14 +10,145 @@
   "trackNumber": 20,
   "act": 2,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "isGenerated": false,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "On part sans savoir",
+      "start": 6450,
+      "duration": 3.375
+    },
+    {
+      "text": "Où meurent les souvenirs",
+      "start": 6453.375,
+      "duration": 5.625
+    },
+    {
+      "text": "Notre vie",
+      "start": 6459,
+      "duration": 2.16
+    },
+    {
+      "text": "Défile",
+      "start": 6461.16,
+      "duration": 1.62
+    },
+    {
+      "text": "En l'espace d'un soupir",
+      "start": 6462.78,
+      "duration": 4.319
+    },
+    {
+      "text": "Nos pleurs",
+      "start": 6469,
+      "duration": 1.8
+    },
+    {
+      "text": "Nos peurs",
+      "start": 6470.8,
+      "duration": 1.8
+    },
+    {
+      "text": "Ne veulent plus rien dire",
+      "start": 6472.6,
+      "duration": 5.4
+    },
+    {
+      "text": "On s'accroche pourtant",
+      "start": 6478,
+      "duration": 4.27
+    },
+    {
+      "text": "Au fil de nos désirs",
+      "start": 6482.27,
+      "duration": 4.27
+    },
+    {
+      "text": "Qu'hier encore",
+      "start": 6487,
+      "duration": 3.75
+    },
+    {
+      "text": "On ne cessait de maudire",
+      "start": 6490.75,
+      "duration": 6.25
+    },
+    {
+      "text": "S'il faut mourir",
+      "start": 6497,
+      "duration": 3.912
+    },
+    {
+      "text": "Autant vivre à en crever",
+      "start": 6500.912,
+      "duration": 5.868
+    },
+    {
+      "text": "Tout retenir",
+      "start": 6507,
+      "duration": 3.425
+    },
+    {
+      "text": "Pour tout immoler",
+      "start": 6510.425,
+      "duration": 4.795
+    },
+    {
+      "text": "S'il faut mourir",
+      "start": 6516,
+      "duration": 3.992
+    },
+    {
+      "text": "Sur nos stèles, je veux graver",
+      "start": 6519.992,
+      "duration": 5.988
+    },
+    {
+      "text": "Que nos rires",
+      "start": 6526,
+      "duration": 2.746
+    },
+    {
+      "text": "Ont berné",
+      "start": 6528.746,
+      "duration": 1.648
+    },
+    {
+      "text": "La mort et le temps",
+      "start": 6530.394,
+      "duration": 2.746
+    },
+    {
+      "text": "On se reverra",
+      "start": 6538,
+      "duration": 2.368
+    },
+    {
+      "text": "On se reverra",
+      "start": 6540.368,
+      "duration": 2.369
+    },
+    {
+      "text": "Là où rien n'est plus rien",
+      "start": 6542.737,
+      "duration": 4.263
+    },
+    {
+      "text": "On comprendra",
+      "start": 6547,
+      "duration": 2.018
+    },
+    {
+      "text": "D'où l'on vient",
+      "start": 6549.018,
+      "duration": 2.522
+    }
+  ],
   "playbackVideoId": "83Qn2IvP_-I",
   "sourceDuration": 7252,
   "sourceURL": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=6441",
@@ -25,7 +156,7 @@
   "playbackSegment": {
     "start": 6441,
     "end": 6651,
-    "source": "youtube-description-chapters",
+    "source": "user-supplied-mozart-timestamps",
     "precision": "seconds"
   },
   "nativeCaptionRanges": [
@@ -141,10 +272,10 @@
   "nativeTimingSource": "youtube-manual-caption-file",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "milliseconds",
-  "timingReviewStatus": "source-caption-file",
-  "textReviewStatus": "native-manual-subtitles",
-  "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "phoneticReviewStatus": "reference-with-liaison-corrections",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "performanceYear": 2010,
   "performanceYearSource": "video-description",
@@ -152,5 +283,12 @@
   "albumReleaseYear": 2009,
   "uploadDate": "20161004",
   "sourceCheckedAt": "2026-10-05",
-  "description": ""
+  "description": "",
+  "originalPlaybackSegment": {
+    "start": 6441,
+    "end": 6651,
+    "source": "youtube-description-chapters",
+    "precision": "seconds"
+  },
+  "studyVersion": 1
 }

@@ -1,15 +1,15 @@
 {
   "videoId": "QS_MJxvB93Q",
   "playbackVideoId": "QS_MJxvB93Q",
-  "version": 1,
+  "version": 2,
   "textSource": "user-supplied-auto-transcript",
   "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
   "meaningSource": "editorial-chinese-from-user-transcript",
   "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
   "sources": [
     {
       "label": "本段原唱录像",
@@ -18,11 +18,11 @@
   ],
   "entries": [
     {
-      "sourceText": "Vous la connaissez… Je crois bien… Les autres, les autres, ils sont…",
+      "sourceText": "Les autres, les autres, ils sont",
       "start": 1,
-      "ipa": "[vu la kɔnɛse ʒə kʁwa bjɛ̃ lez‿otʁ lez‿otʁ il sɔ̃]",
-      "ear": "乌 拉 科奈塞 热 克赫乌阿 布耶安 莱兹 奥特赫 莱兹 奥特赫 伊勒 松",
-      "meaning": "你们认识这首……我想是吧……别人，别人都是……",
+      "ipa": "[lez‿otʁ lez‿otʁ il sɔ̃]",
+      "ear": "莱兹 奥特赫 莱兹 奥特赫 伊勒 松",
+      "meaning": "别人，别人，他们都",
       "suppliedText": "vous la connaissez C je crois bien on vous voir vous entend les autres les autres ils sont",
       "sourceLineId": "moliere-timed-876",
       "reviewNote": "",
@@ -34,11 +34,11 @@
       }
     },
     {
-      "sourceText": "Comme il faut. Je fais ce qu'il faut pour leur… Mais… Pas ma faute, ma faute…",
+      "sourceText": "Comme il faut. Je fais ce qu'il faut pour leur plaire, mais ça sonne faux. Pas ma faute, ma faute, si",
       "start": 11,
-      "ipa": "[kɔm‿il fo ʒə fɛ sə kil fo puʁ lœʁ mɛ pa ma fot ma fot]",
-      "ear": "科姆 伊勒 佛 热 费 瑟 基勒 佛 普赫 勒厄赫 梅 帕 玛 佛特 玛 佛特",
-      "meaning": "合乎规范的。我做该做的事，只为了他们……不是我的错……",
+      "ipa": "[kɔm‿il fo ʒə fɛ sə kil fo puʁ lœʁ plɛʁ mɛ sa sɔn fo pa ma fot ma fot si]",
+      "ear": "科姆 伊勒 佛 热 费 瑟 基勒 佛 普赫 勒厄赫 普莱赫 梅 萨 索恩 佛 帕 玛 佛特 玛 佛特 西",
+      "meaning": "循规蹈矩。我努力做得体的事去讨他们喜欢，可听起来虚假。这不是我的错，如果",
       "suppliedText": "comme il faut je fais ce qu'ilut pour leur bien mais ça fa ma faute ma faute",
       "sourceLineId": "moliere-timed-877",
       "reviewNote": "",
@@ -50,11 +50,11 @@
       }
     },
     {
-      "sourceText": "Je suis mieux dans ma peau, loin de la lumière et derrière le rideau. Ma terre à moi n'est pas ronde. Je…",
+      "sourceText": "J'suis mieux dans ma peau, loin de la lumière et derrière le rideau. Ma terre à moi n'est pas ronde. Je",
       "start": 18,
-      "ipa": "[ʒə sɥi mjø dɑ̃ ma po lwɛ̃ də la lymjɛʁ e dɛʁjɛʁ lə ʁido ma tɛʁ‿a mwa nɛ pa ʁɔ̃d ʒə]",
-      "ear": "热 斯于伊 姆耶厄 当 玛 波 勒乌安 德 拉 吕姆耶艾赫 诶 戴赫耶艾赫 勒 希多 玛 泰赫 阿 姆乌阿 奈 帕 洪德 热",
-      "meaning": "我更自在，远离灯光，躲在幕布后面。我的世界不是圆的，我……",
+      "ipa": "[ʒsɥi mjø dɑ̃ ma po lwɛ̃ də la lymjɛʁ e dɛʁjɛʁ lə ʁido ma tɛʁ‿a mwa nɛ pa ʁɔ̃d ʒə]",
+      "ear": "日斯于伊 姆耶厄 当 玛 波 勒乌安 德 拉 吕姆耶艾赫 诶 戴赫耶艾赫 勒 希多 玛 泰赫 阿 姆乌阿 奈 帕 洪德 热",
+      "meaning": "我在远离灯光、躲在帷幕后时更自在。属于我的世界并不圆满。我",
       "suppliedText": "je suis mieux dans ma peau loin de la lumire et derrière rau ma terre à moi n'est pas ronde je",
       "sourceLineId": "moliere-timed-878",
       "reviewNote": "",
@@ -66,11 +66,11 @@
       }
     },
     {
-      "sourceText": "N'ai pas la bonne attitude, je ne suis pas fait pour ce monde. Rêver, j'en ai…",
+      "sourceText": "N'ai pas la bonne attitude. Je ne suis pas fait pour ce monde. Oui, rêver, j'en ai",
       "start": 27,
-      "ipa": "[ne pa la bɔn‿atityd ʒə nə sɥi pa fɛ puʁ sə mɔ̃d ʁɛve ʒɑ̃ e]",
-      "ear": "内 帕 拉 博恩 阿蒂蒂于德 热 讷 斯于伊 帕 费 普赫 瑟 蒙德 赫韦 让 诶",
-      "meaning": "没有合适的姿态，不属于这个世界。做梦，我早已……",
+      "ipa": "[ne pa la bɔn‿atityd ʒə nə sɥi pa fɛ puʁ sə mɔ̃d wi ʁɛve ʒɑ̃ e]",
+      "ear": "内 帕 拉 博恩 阿蒂蒂于德 热 讷 斯于伊 帕 费 普赫 瑟 蒙德 乌伊 赫韦 让 诶",
+      "meaning": "没有他们想要的态度。我不是为这个世界而生。是的，做梦，我已经",
       "suppliedText": "n'ai pas la bonne attitude je ne suis pas pour ce monde VV j'en ai",
       "sourceLineId": "moliere-timed-879",
       "reviewNote": "",
@@ -82,11 +82,11 @@
       }
     },
     {
-      "sourceText": "L'habitude. Rêver, j'en ai l'habitude pour m'évader, changer…",
+      "sourceText": "L'habitude. Rêver, j'en ai l'habitude, pour m'évader, changer",
       "start": 33,
       "ipa": "[labityd ʁɛve ʒɑ̃ e labityd puʁ mevade ʃɑ̃ʒe]",
       "ear": "拉比蒂于德 赫韦 让 诶 拉比蒂于德 普赫 梅瓦德 尚热",
-      "meaning": "习惯。做梦，我早已习惯，用它逃离，改变……",
+      "meaning": "习惯了。我习惯做梦，好让自己逃离，飞往",
       "suppliedText": "l'habitude VV j'en ai l'habitude pour m'évaser changer",
       "sourceLineId": "moliere-timed-880",
       "reviewNote": "",
@@ -98,11 +98,11 @@
       }
     },
     {
-      "sourceText": "D'attitude, accroché à ma solitude… L'habitude, j'en…",
+      "sourceText": "D'altitude, accrocher à ma solitude. J'en ai l'habitude, j'en ai",
       "start": 42,
-      "ipa": "[datityd akʁoʃe a ma solityd labityd ʒɑ̃]",
-      "ear": "达蒂蒂于德 阿克霍谢 阿 玛 索利蒂于德 拉比蒂于德 让",
-      "meaning": "姿态，守着我的孤独。我早已……",
+      "ipa": "[daltityd akʁoʃe a ma solityd ʒɑ̃ e labityd ʒɑ̃ e]",
+      "ear": "达勒蒂蒂于德 阿克霍谢 阿 玛 索利蒂于德 让 诶 拉比蒂于德 让 诶",
+      "meaning": "另一个高度，抓住我的孤独。我早已习惯，我已经",
       "suppliedText": "d'attitude accrocher à ma solitudeen l'habitude j'en",
       "sourceLineId": "moliere-timed-881",
       "reviewNote": "",
@@ -114,11 +114,11 @@
       }
     },
     {
-      "sourceText": "… L'habitude. Je dois m'enivrer d'incertitudes… Vivre sous d'autres…",
+      "sourceText": "L'habitude. Je dois m'enivrer d'incertitude, vivre sous d'autres",
       "start": 49,
       "ipa": "[labityd ʒə dwa mɑ̃nivʁe dɛ̃sɛʁtityd vivʁ su dotʁ]",
       "ear": "拉比蒂于德 热 德乌阿 芒尼弗赫 丹塞赫蒂蒂于德 维弗赫 苏 多特赫",
-      "meaning": "习惯。我得沉醉于未知，生活在别的……",
+      "meaning": "习惯了。我必须沉醉于未知，生活在别的",
       "suppliedText": "l'habitude je dois m'en livrer l'incertitude vivre sous d're",
       "sourceLineId": "moliere-timed-882",
       "reviewNote": "",
@@ -130,11 +130,11 @@
       }
     },
     {
-      "sourceText": "Latitudes, pour me libérer de ma lassitude. J'en ai l'habitude, j'en ai…",
+      "sourceText": "Latitudes, pour me libérer de ma lassitude. J'en ai l'habitude, j'en ai",
       "start": 57,
       "ipa": "[latityd puʁ mə libeʁe də ma lasityd ʒɑ̃ e labityd ʒɑ̃ e]",
       "ear": "拉蒂蒂于德 普赫 默 利贝赫 德 玛 拉西蒂于德 让 诶 拉比蒂于德 让 诶",
-      "meaning": "纬度，摆脱倦怠。我早已习惯，我早已……",
+      "meaning": "纬度，摆脱我的倦怠。我早已习惯，我已经",
       "suppliedText": "l'attitude pour me libérer de maltitude j'en ai l'habitude j'en ai",
       "sourceLineId": "moliere-timed-883",
       "reviewNote": "",
@@ -146,11 +146,11 @@
       }
     },
     {
-      "sourceText": "L'habitude. Les autres, les autres ont dans les yeux…",
+      "sourceText": "L'habitude. Les autres, les autres, ils ont dans les yeux",
       "start": 67,
-      "ipa": "[labityd lez‿otʁ lez‿otʁ‿ɔ̃ dɑ̃ lez‿jø]",
-      "ear": "拉比蒂于德 莱兹 奥特赫 莱兹 奥特赫 翁 当 莱兹 耶厄",
-      "meaning": "习惯。别人，别人眼中有……",
+      "ipa": "[labityd lez‿otʁ lez‿otʁ ilz‿ɔ̃ dɑ̃ lez‿jø]",
+      "ear": "拉比蒂于德 莱兹 奥特赫 莱兹 奥特赫 伊勒兹 翁 当 莱兹 耶厄",
+      "meaning": "习惯了。别人，别人，他们眼里有",
       "suppliedText": "l'habitude les off et off on dans les yeux",
       "sourceLineId": "moliere-timed-884",
       "reviewNote": "",
@@ -162,11 +162,11 @@
       }
     },
     {
-      "sourceText": "L'assurance… Des gens heureux. C'est pas faute, pas faute de tout faire…",
+      "sourceText": "L'assurance et l'insolence des gens heureux. C'est pas faute, pas faute, de tout faire comme eux.",
       "start": 74,
-      "ipa": "[lasyʁɑ̃s de ʒɑ̃ øʁø sɛ pa fot pa fot də tu fɛʁ]",
-      "ear": "拉西于杭斯 德 让 厄赫厄 塞 帕 佛特 帕 佛特 德 图 费赫",
-      "meaning": "自信……像幸福的人。我也尽力做……",
+      "ipa": "[lasyʁɑ̃s e lɛ̃solɑ̃s de ʒɑ̃ øʁø sɛ pa fot pa fot də tu fɛʁ kɔm‿ø]",
+      "ear": "拉西于杭斯 诶 兰索朗斯 德 让 厄赫厄 塞 帕 佛特 帕 佛特 德 图 费赫 科姆 厄",
+      "meaning": "幸福之人的自信与傲慢。我并非没有努力，努力像他们一样做事。",
       "suppliedText": "l'assuranceolance chance heureux c'est pas faute pas faute de tout faire non",
       "sourceLineId": "moliere-timed-885",
       "reviewNote": "",
@@ -178,11 +178,11 @@
       }
     },
     {
-      "sourceText": "… Mais n'est pas toujours heureux celui… Je veux jouer tous les rôles et…",
+      "sourceText": "Mais n'est pas toujours heureux celui qui veut. Je veux jouer tous les rôles, essayer tous",
       "start": 81,
-      "ipa": "[mɛ nɛ pa tuʒuʁ‿øʁø səlɥi ʒə vø ʒwe tu le ʁol e]",
-      "ear": "梅 奈 帕 图茹赫 厄赫厄 瑟勒于伊 热 弗厄 日乌诶 图 莱 霍勒 诶",
-      "meaning": "……可幸福不会只凭心愿而来。我想扮演所有角色和……",
+      "ipa": "[mɛ nɛ pa tuʒuʁ‿øʁø səlɥi ki vø ʒə vø ʒwe tu le ʁol esɛje tus]",
+      "ear": "梅 奈 帕 图茹赫 厄赫厄 瑟勒于伊 基 弗厄 热 弗厄 日乌诶 图 莱 霍勒 诶塞耶诶 图斯",
+      "meaning": "可想要幸福的人并不总能幸福。我想演遍所有角色，试穿所有",
       "suppliedText": "mais n'est pas toujours heureux celui je vais jouer tous les rôles et T",
       "sourceLineId": "moliere-timed-886",
       "reviewNote": "",
@@ -194,11 +194,11 @@
       }
     },
     {
-      "sourceText": "… Les costumes, les plus sombres et les plus drôles. Rêver, j'en ai…",
+      "sourceText": "Les costumes, les plus sombres et les plus drôles. Oui, rêver, j'en ai",
       "start": 89,
-      "ipa": "[le kɔstym le ply sɔ̃bʁ e le ply dʁol ʁɛve ʒɑ̃ e]",
-      "ear": "莱 科斯蒂于姆 莱 普吕 松布赫 诶 莱 普吕 德霍勒 赫韦 让 诶",
-      "meaning": "试穿戏服，最阴暗的、最滑稽的。做梦，我早已……",
+      "ipa": "[le kɔstym le ply sɔ̃bʁ e le ply dʁol wi ʁɛve ʒɑ̃ e]",
+      "ear": "莱 科斯蒂于姆 莱 普吕 松布赫 诶 莱 普吕 德霍勒 乌伊 赫韦 让 诶",
+      "meaning": "戏服，最阴暗的和最滑稽的。是的，做梦，我已经",
       "suppliedText": "les costumes les plus sombres et les plus tr r j'en est",
       "sourceLineId": "moliere-timed-887",
       "reviewNote": "",
@@ -210,11 +210,11 @@
       }
     },
     {
-      "sourceText": "L'habitude. Rêver, j'en ai l'habitude… Changer…",
+      "sourceText": "L'habitude. Rêver, j'en ai l'habitude, pour m'évader, changer",
       "start": 95,
-      "ipa": "[labityd ʁɛve ʒɑ̃ e labityd ʃɑ̃ʒe]",
-      "ear": "拉比蒂于德 赫韦 让 诶 拉比蒂于德 尚热",
-      "meaning": "习惯。做梦，我早已习惯……改变……",
+      "ipa": "[labityd ʁɛve ʒɑ̃ e labityd puʁ mevade ʃɑ̃ʒe]",
+      "ear": "拉比蒂于德 赫韦 让 诶 拉比蒂于德 普赫 梅瓦德 尚热",
+      "meaning": "习惯了。我习惯做梦，好让自己逃离，飞往",
       "suppliedText": "l'habitude RV j'en est l'habitude m changer",
       "sourceLineId": "moliere-timed-888",
       "reviewNote": "",
@@ -226,11 +226,11 @@
       }
     },
     {
-      "sourceText": "D'attitude, accroché à ma solitude. J'en ai l'habitude, j'en ai…",
+      "sourceText": "D'altitude, accrocher à ma solitude. J'en ai l'habitude, j'en ai",
       "start": 103,
-      "ipa": "[datityd akʁoʃe a ma solityd ʒɑ̃ e labityd ʒɑ̃ e]",
-      "ear": "达蒂蒂于德 阿克霍谢 阿 玛 索利蒂于德 让 诶 拉比蒂于德 让 诶",
-      "meaning": "姿态，守着我的孤独，我早已习惯……",
+      "ipa": "[daltityd akʁoʃe a ma solityd ʒɑ̃ e labityd ʒɑ̃ e]",
+      "ear": "达勒蒂蒂于德 阿克霍谢 阿 玛 索利蒂于德 让 诶 拉比蒂于德 让 诶",
+      "meaning": "另一个高度，抓住我的孤独。我早已习惯，我已经",
       "suppliedText": "d'attitude accroché à ma solitude j'en ai l'habitude j'en ai",
       "sourceLineId": "moliere-timed-889",
       "reviewNote": "",
@@ -242,11 +242,11 @@
       }
     },
     {
-      "sourceText": "L'habitude. Je dois m'enivrer d'incertitudes… Pour me libérer de…",
+      "sourceText": "L'habitude. Je dois m'enivrer d'incertitude, vivre sous d'autres latitudes, pour me libérer de",
       "start": 110,
-      "ipa": "[labityd ʒə dwa mɑ̃nivʁe dɛ̃sɛʁtityd puʁ mə libeʁe də]",
-      "ear": "拉比蒂于德 热 德乌阿 芒尼弗赫 丹塞赫蒂蒂于德 普赫 默 利贝赫 德",
-      "meaning": "习惯。我得沉醉于未知……摆脱……",
+      "ipa": "[labityd ʒə dwa mɑ̃nivʁe dɛ̃sɛʁtityd vivʁ su dotʁ latityd puʁ mə libeʁe də]",
+      "ear": "拉比蒂于德 热 德乌阿 芒尼弗赫 丹塞赫蒂蒂于德 维弗赫 苏 多特赫 拉蒂蒂于德 普赫 默 利贝赫 德",
+      "meaning": "习惯了。我必须沉醉于未知，生活在别的纬度，摆脱",
       "suppliedText": "l'habitude je dois m'enivrer d'un certitudetitudetitude pour me libérer de",
       "sourceLineId": "moliere-timed-890",
       "reviewNote": "",
@@ -258,11 +258,11 @@
       }
     },
     {
-      "sourceText": "Ma lassitude, j'en ai l'habitude, j'en ai…",
+      "sourceText": "Ma lassitude. J'en ai l'habitude, j'en ai",
       "start": 121,
       "ipa": "[ma lasityd ʒɑ̃ e labityd ʒɑ̃ e]",
       "ear": "玛 拉西蒂于德 让 诶 拉比蒂于德 让 诶",
-      "meaning": "倦怠。我早已习惯，我早已……",
+      "meaning": "我的倦怠。我早已习惯，我已经",
       "suppliedText": "ma latitude j'en ai l'habitude j'en ai",
       "sourceLineId": "moliere-timed-891",
       "reviewNote": "",
@@ -274,14 +274,14 @@
       }
     },
     {
-      "sourceText": "L'habitude… Je joue la comédie humaine… J'avoue, je…",
+      "sourceText": "L'habitude. Côté cour, je joue la comédie humaine. Côté cœur, j'avoue, je sais pas me",
       "start": 129,
-      "ipa": "[labityd ʒə ʒu la komedi ymɛn ʒavu ʒə]",
-      "ear": "拉比蒂于德 热 茹 拉 科梅迪 于梅恩 扎乌 热",
-      "meaning": "习惯……我演着人间喜剧……我承认……（部分识别不清）",
+      "ipa": "[labityd kote kuʁ ʒə ʒu la komedi ymɛn kote kœʁ ʒavu ʒə sɛ pa mə]",
+      "ear": "拉比蒂于德 科特 库赫 热 茹 拉 科梅迪 于梅恩 科特 克厄赫 扎乌 热 塞 帕 默",
+      "meaning": "习惯了。舞台的一侧，我演着人间喜剧。至于内心，我承认，不知道如何把自己",
       "suppliedText": "l'habitude cou je joue la comédie humaine cœur j'avoue je sais pas de",
       "sourceLineId": "moliere-timed-893",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 129,
@@ -290,14 +290,14 @@
       }
     },
     {
-      "sourceText": "… Dans ma tête… Et je m'invente des…",
+      "sourceText": "Mettre en scène. Dans ma tête, je fais le noir et je m'invente des",
       "start": 137,
-      "ipa": "[dɑ̃ ma tɛt e ʒə mɛ̃vɑ̃t de]",
-      "ear": "当 玛 泰特 诶 热 曼旺特 德",
-      "meaning": "……在脑海里，我编织……（部分识别不清）",
+      "ipa": "[mɛtʁ‿ɑ̃ sɛn dɑ̃ ma tɛt ʒə fɛ lə nwaʁ e ʒə mɛ̃vɑ̃t de]",
+      "ear": "梅特赫 昂 塞恩 当 玛 泰特 热 费 勒 恩乌阿赫 诶 热 曼旺特 德",
+      "meaning": "搬上舞台。我在脑海里让灯光暗下，为自己编造",
       "suppliedText": "mettre en dans ma tête je vais le VO et je m'invente des",
       "sourceLineId": "moliere-timed-894",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 137,
@@ -306,11 +306,11 @@
       }
     },
     {
-      "sourceText": "Histoires… Changer d'attitude, accroché à ma solitude, j'en…",
+      "sourceText": "Histoires. Pour m'évader, changer d'altitude, accrocher à ma solitude. J'en",
       "start": 143,
-      "ipa": "[istwaʁ ʃɑ̃ʒe datityd akʁoʃe a ma solityd ʒɑ̃]",
-      "ear": "伊斯特乌阿赫 尚热 达蒂蒂于德 阿克霍谢 阿 玛 索利蒂于德 让",
-      "meaning": "故事……改变姿态，守着孤独，我早已……",
+      "ipa": "[istwaʁ puʁ mevade ʃɑ̃ʒe daltityd akʁoʃe a ma solityd ʒɑ̃]",
+      "ear": "伊斯特乌阿赫 普赫 梅瓦德 尚热 达勒蒂蒂于德 阿克霍谢 阿 玛 索利蒂于德 让",
+      "meaning": "故事。让我逃离，飞往另一个高度，抓住我的孤独。我已经",
       "suppliedText": "histoires et va changer d'attitude accrocher à ma solitude j'en",
       "sourceLineId": "moliere-timed-895",
       "reviewNote": "",
@@ -322,11 +322,11 @@
       }
     },
     {
-      "sourceText": "Ai l'habitude j'en ai l'habitude",
+      "sourceText": "Ai l'habitude, j'en ai l'habitude.",
       "start": 152,
       "ipa": "[e labityd ʒɑ̃ e labityd]",
       "ear": "诶 拉比蒂于德 让 诶 拉比蒂于德",
-      "meaning": "习惯，我早已习惯。",
+      "meaning": "习惯了，我早已习惯。",
       "suppliedText": "ai l'habitude j'en ai l'habitude",
       "sourceLineId": "moliere-timed-896",
       "reviewNote": "",
@@ -338,11 +338,11 @@
       }
     },
     {
-      "sourceText": "L'habitude… Changer d'attitude… Accroché à ma solitude, j'en…",
+      "sourceText": "Pour m'évader, changer d'altitude, accrocher à ma solitude. J'en ai",
       "start": 160,
-      "ipa": "[labityd ʃɑ̃ʒe datityd akʁoʃe a ma solityd ʒɑ̃]",
-      "ear": "拉比蒂于德 尚热 达蒂蒂于德 阿克霍谢 阿 玛 索利蒂于德 让",
-      "meaning": "习惯……改变姿态……守着孤独，我早已……",
+      "ipa": "[puʁ mevade ʃɑ̃ʒe daltityd akʁoʃe a ma solityd ʒɑ̃ e]",
+      "ear": "普赫 梅瓦德 尚热 达勒蒂蒂于德 阿克霍谢 阿 玛 索利蒂于德 让 诶",
+      "meaning": "为了逃离，飞往另一个高度，抓住我的孤独。我已经",
       "suppliedText": "l'habitude ma vi changeer d'attitude ch accrocher dans ma solitude j'en",
       "sourceLineId": "moliere-timed-897",
       "reviewNote": "",
@@ -354,11 +354,11 @@
       }
     },
     {
-      "sourceText": "L'habitude, j'en ai l'habitude…",
+      "sourceText": "L'habitude, j'en ai l'habitude. Je dois m'enivrer d'incertitude,",
       "start": 169,
-      "ipa": "[labityd ʒɑ̃ e labityd]",
-      "ear": "拉比蒂于德 让 诶 拉比蒂于德",
-      "meaning": "习惯，我早已习惯……",
+      "ipa": "[labityd ʒɑ̃ e labityd ʒə dwa mɑ̃nivʁe dɛ̃sɛʁtityd]",
+      "ear": "拉比蒂于德 让 诶 拉比蒂于德 热 德乌阿 芒尼弗赫 丹塞赫蒂蒂于德",
+      "meaning": "习惯了，我早已习惯。我必须沉醉于未知，",
       "suppliedText": "l'habitude j'en l'habitude en",
       "sourceLineId": "moliere-timed-898",
       "reviewNote": "",
@@ -370,11 +370,11 @@
       }
     },
     {
-      "sourceText": "… Certitudes, vivre sous d'autres latitudes, me libérer de ma lassitude, j'en ai…",
+      "sourceText": "Vivre sous d'autres latitudes, pour me libérer de ma lassitude. J'en ai",
       "start": 176,
-      "ipa": "[sɛʁtityd vivʁ su dotʁ latityd mə libeʁe də ma lasityd ʒɑ̃ e]",
-      "ear": "塞赫蒂蒂于德 维弗赫 苏 多特赫 拉蒂蒂于德 默 利贝赫 德 玛 拉西蒂于德 让 诶",
-      "meaning": "……在别的纬度生活，摆脱倦怠，我早已……",
+      "ipa": "[vivʁ su dotʁ latityd puʁ mə libeʁe də ma lasityd ʒɑ̃ e]",
+      "ear": "维弗赫 苏 多特赫 拉蒂蒂于德 普赫 默 利贝赫 德 玛 拉西蒂于德 让 诶",
+      "meaning": "生活在别的纬度，摆脱我的倦怠。我已经",
       "suppliedText": "certitude vivre sous notre latitude me libérer de ma latitude j'eni",
       "sourceLineId": "moliere-timed-899",
       "reviewNote": "",
@@ -386,11 +386,11 @@
       }
     },
     {
-      "sourceText": "L'habitude j'en ai l'habitude",
+      "sourceText": "L'habitude, j'en ai l'habitude.",
       "start": 185,
       "ipa": "[labityd ʒɑ̃ e labityd]",
       "ear": "拉比蒂于德 让 诶 拉比蒂于德",
-      "meaning": "习惯，我早已习惯。",
+      "meaning": "习惯了，我早已习惯。",
       "suppliedText": "l'habitude j'en ai l'habitude",
       "sourceLineId": "moliere-timed-900",
       "reviewNote": "",
@@ -401,5 +401,6 @@
         "precision": "approximate"
       }
     }
-  ]
+  ],
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

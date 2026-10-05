@@ -1,15 +1,15 @@
 {
   "videoId": "zcMTzJ-Y3Bg",
   "playbackVideoId": "zcMTzJ-Y3Bg",
-  "version": 1,
+  "version": 2,
   "textSource": "user-supplied-auto-transcript",
   "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
   "meaningSource": "editorial-chinese-from-user-transcript",
   "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
   "sources": [
     {
       "label": "本段原唱录像",
@@ -82,14 +82,14 @@
       }
     },
     {
-      "sourceText": "Mais tu n'as jamais d'essayer j'aurais",
+      "sourceText": "Mais tu n'as jamais… J'aurais…",
       "start": 43,
-      "ipa": "[mɛ ty na ʒamɛ desɛje ʒoʁɛ]",
-      "ear": "梅 蒂于 纳 扎梅 德塞耶诶 若赫",
-      "meaning": "但你从未……我多么希望……（识别不清）",
+      "ipa": "[mɛ ty na ʒamɛ ʒoʁɛ]",
+      "ear": "梅 蒂于 纳 扎梅 若赫",
+      "meaning": "但你从未……我多么希望……",
       "suppliedText": "Mais tu n'as jamais d'essayer j'aurais",
       "sourceLineId": "moliere-timed-182",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 43,
@@ -98,14 +98,14 @@
       }
     },
     {
-      "sourceText": "Tantôé mais tu avais tenté tant de rêve trop grand pour trouver le",
+      "sourceText": "Tant aimé… mais tu avais tant de rêves trop grands pour trouver le",
       "start": 49,
-      "ipa": "[tɑ̃toe mɛ ty avɛ tɑ̃te tɑ̃ də ʁɛv tʁo ɡʁɑ̃ puʁ tʁuve lə]",
-      "ear": "唐托诶 梅 蒂于 阿韦 唐特 唐 德 赫弗 特霍 格杭 普赫 特胡韦 勒",
-      "meaning": "……你有太多宏大的梦，找不到……（识别不清）",
+      "ipa": "[tɑ̃ ɛme mɛ ty avɛ tɑ̃ də ʁɛv tʁo ɡʁɑ̃ puʁ tʁuve lə]",
+      "ear": "唐 艾梅 梅 蒂于 阿韦 唐 德 赫弗 特霍 格杭 普赫 特胡韦 勒",
+      "meaning": "……你有太多宏大的梦，找不到……",
       "suppliedText": "tantôé mais tu avais tenté tant de rêve trop grand pour trouver le",
       "sourceLineId": "moliere-timed-183",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 49,
@@ -178,14 +178,14 @@
       }
     },
     {
-      "sourceText": "Ma passion mais tu n'as jamais tant d'essayé j'aurais",
+      "sourceText": "Ma passion. Mais tu n'as jamais… J'aurais…",
       "start": 92,
-      "ipa": "[ma pasjɔ̃ mɛ ty na ʒamɛ tɑ̃ desɛje ʒoʁɛ]",
-      "ear": "玛 帕斯耶翁 梅 蒂于 纳 扎梅 唐 德塞耶诶 若赫",
-      "meaning": "我的热爱。可你从未……我多么希望……（部分识别不清）",
+      "ipa": "[ma pasjɔ̃ mɛ ty na ʒamɛ ʒoʁɛ]",
+      "ear": "玛 帕斯耶翁 梅 蒂于 纳 扎梅 若赫",
+      "meaning": "我的热爱。可你从未……我多么希望……",
       "suppliedText": "ma passion mais tu n'as jamais tant d'essayé j'aurais",
       "sourceLineId": "moliere-timed-188",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 92,
@@ -194,14 +194,14 @@
       }
     },
     {
-      "sourceText": "Tant pas dégoûter mais tu avais dans des temps de rêve trop grand pour trouver le",
+      "sourceText": "Tant… Pas écouté… mais tu avais tant de rêves trop grands pour trouver le",
       "start": 98,
-      "ipa": "[tɑ̃ pa deɡute mɛ ty avɛ dɑ̃ de tɑ̃ də ʁɛv tʁo ɡʁɑ̃ puʁ tʁuve lə]",
-      "ear": "唐 帕 德古特 梅 蒂于 阿韦 当 德 唐 德 赫弗 特霍 格杭 普赫 特胡韦 勒",
-      "meaning": "……你有太多宏大的梦，找不到……（识别不清）",
+      "ipa": "[tɑ̃ pa ekute mɛ ty avɛ tɑ̃ də ʁɛv tʁo ɡʁɑ̃ puʁ tʁuve lə]",
+      "ear": "唐 帕 诶库特 梅 蒂于 阿韦 唐 德 赫弗 特霍 格杭 普赫 特胡韦 勒",
+      "meaning": "……你有太多宏大的梦，找不到……",
       "suppliedText": "tant pas dégoûter mais tu avais dans des temps de rêve trop grand pour trouver le",
       "sourceLineId": "moliere-timed-189",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 98,
@@ -241,5 +241,6 @@
         "precision": "approximate"
       }
     }
-  ]
+  ],
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

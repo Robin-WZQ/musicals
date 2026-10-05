@@ -1,15 +1,15 @@
 {
   "videoId": "dqxl5YVktz0",
   "playbackVideoId": "dqxl5YVktz0",
-  "version": 1,
+  "version": 2,
   "textSource": "user-supplied-auto-transcript",
   "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
   "meaningSource": "editorial-chinese-from-user-transcript",
   "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
   "sources": [
     {
       "label": "本段原唱录像",
@@ -18,27 +18,11 @@
   ],
   "entries": [
     {
-      "sourceText": "… Nuit. Jean-Baptiste, comment tu vas faire ? Tu es épuisé ! Oui, dès demain, dès demain, mes ennemis sauront enfin qui je…",
-      "start": 2,
-      "ipa": "[nɥi ʒɑ̃batist kɔmɑ̃ ty va fɛʁ ty ɛ epɥize wi dɛ dəmɛ̃ dɛ dəmɛ̃ mez‿ɛnmi soʁɔ̃ ɑ̃fɛ̃ ki ʒə]",
-      "ear": "恩于伊 让巴蒂斯特 科芒 蒂于 瓦 费赫 蒂于 艾 诶普于伊泽 乌伊 戴 德曼 戴 德曼 梅兹 艾恩米 索洪 昂凡 基 热",
-      "meaning": "……整夜？让-巴蒂斯特，你这么疲惫，怎么办？——明天，敌人将知道我……",
-      "suppliedText": "oui nuit Jean-Baptiste comment tu vas faire tu es épusé oui dès demain dès demain mes ennemis seront enfin qui je",
-      "sourceLineId": "moliere-timed-805",
-      "reviewNote": "",
-      "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 2,
-        "sourceLineNumber": 805,
-        "precision": "approximate"
-      }
-    },
-    {
-      "sourceText": "Suis ça fait longtemps que tu n'entends plus la voix de ta raison tu sais",
+      "sourceText": "Ça fait longtemps que tu n'entends plus le son de ta raison. Tu sais",
       "start": 10,
-      "ipa": "[sɥi sa fɛ lɔ̃tɑ̃ kə ty nɑ̃tɑ̃ ply la vwa də ta ʁɛzɔ̃ ty sɛ]",
-      "ear": "斯于伊 萨 费 隆唐 克 蒂于 南唐 普吕 拉 弗乌阿 德 塔 赫宗 蒂于 塞",
-      "meaning": "是谁。你很久没听见理智的声音，可你知道……",
+      "ipa": "[sa fɛ lɔ̃tɑ̃ kə ty nɑ̃tɑ̃ ply lə sɔ̃ də ta ʁɛzɔ̃ ty sɛ]",
+      "ear": "萨 费 隆唐 克 蒂于 南唐 普吕 勒 松 德 塔 赫宗 蒂于 塞",
+      "meaning": "你已经很久听不见理智的声音。你明明",
       "suppliedText": "suis ça fait longtemps que tu n'entends plus la voix de ta raison tu sais",
       "sourceLineId": "moliere-timed-806",
       "reviewNote": "",
@@ -50,11 +34,11 @@
       }
     },
     {
-      "sourceText": "Pourtant que l'ambition est devenue ta prison tant de blessur t de fures qui te",
+      "sourceText": "Pourtant que l'ambition est devenue ta prison. Tant de blessures, tant de fêlures qui te",
       "start": 17,
-      "ipa": "[puʁtɑ̃ kə lɑ̃bisjɔ̃ ɛ dəvny ta pʁizɔ̃ tɑ̃ də blɛsyʁ te də fyʁ ki tə]",
-      "ear": "普赫唐 克 朗比斯耶翁 艾 德弗尼于 塔 普希宗 唐 德 布莱西于赫 特 德 菲于赫 基 特",
-      "meaning": "野心已成为牢笼，那么多伤口、裂痕……",
+      "ipa": "[puʁtɑ̃ kə lɑ̃bisjɔ̃ ɛ dəvny ta pʁizɔ̃ tɑ̃ də blɛsyʁ tɑ̃ də fɛlyʁ ki tə]",
+      "ear": "普赫唐 克 朗比斯耶翁 艾 德弗尼于 塔 普希宗 唐 德 布莱西于赫 唐 德 费吕赫 基 特",
+      "meaning": "知道野心成了你的牢笼。如此多的伤口，如此多的裂痕，让你",
       "suppliedText": "pourtant que l'ambition est devenue ta prison tant de blessur t de fures qui te",
       "sourceLineId": "moliere-timed-807",
       "reviewNote": "",
@@ -66,14 +50,14 @@
       }
     },
     {
-      "sourceText": "Font encore saigner. Dans les regards, dans les égards…",
+      "sourceText": "Font encore saigner. Dans les regards, dans les égards, tu pansais les",
       "start": 26,
-      "ipa": "[fɔ̃ ɑ̃kɔʁ sɛnje dɑ̃ le ʁəɡaʁ dɑ̃ lez‿eɡaʁ]",
-      "ear": "丰 昂科赫 塞恩耶诶 当 莱 赫嘎赫 当 莱兹 诶嘎赫",
-      "meaning": "仍让你流血。在目光和关注中……（部分识别不清）",
+      "ipa": "[fɔ̃ ɑ̃kɔʁ sɛnje dɑ̃ le ʁəɡaʁ dɑ̃ lez‿eɡaʁ ty pɑ̃sɛ le]",
+      "ear": "丰 昂科赫 塞恩耶诶 当 莱 赫嘎赫 当 莱兹 诶嘎赫 蒂于 庞塞 莱",
+      "meaning": "依然流血。在别人的目光与关怀里，你曾包扎自己的",
       "suppliedText": "font encore saigner dans les regards dans les égars tu penses et les",
       "sourceLineId": "moliere-timed-808",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 26,
@@ -82,11 +66,11 @@
       }
     },
     {
-      "sourceText": "… Tu finiras par tomber, tomber…",
+      "sourceText": "Pensées. Tu finiras par tomber, tomber,",
       "start": 33,
-      "ipa": "[ty finiʁa paʁ tɔ̃be tɔ̃be]",
-      "ear": "蒂于 菲尼哈 帕赫 通贝 通贝",
-      "meaning": "……你终会跌落，跌落……",
+      "ipa": "[pɑ̃se ty finiʁa paʁ tɔ̃be tɔ̃be]",
+      "ear": "庞塞 蒂于 菲尼哈 帕赫 通贝 通贝",
+      "meaning": "心事。你终将坠落，坠落，",
       "suppliedText": "pensées tu finiras par tomber tomber",
       "sourceLineId": "moliere-timed-809",
       "reviewNote": "",
@@ -98,14 +82,14 @@
       }
     },
     {
-      "sourceText": "Tomber… Où tes rêves t'ont…",
+      "sourceText": "Tomber du haut des sommets où tes rêves t'ont",
       "start": 39,
-      "ipa": "[tɔ̃be u te ʁɛv tɔ̃]",
-      "ear": "通贝 乌 特 赫弗 通",
-      "meaning": "跌落……你的梦把你……（部分识别不清）",
+      "ipa": "[tɔ̃be dy o de sɔmɛ u te ʁɛv tɔ̃]",
+      "ear": "通贝 迪于 奥 德 索梅 乌 特 赫弗 通",
+      "meaning": "从梦想把你带上的峰顶",
       "suppliedText": "tomber tu des som où tes rêves tont",
       "sourceLineId": "moliere-timed-810",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 39,
@@ -114,11 +98,11 @@
       }
     },
     {
-      "sourceText": "… Tu finiras par sombrer, sombrer…",
+      "sourceText": "Porté. Tu finiras par sombrer, sombrer,",
       "start": 45,
-      "ipa": "[ty finiʁa paʁ sɔ̃bʁe sɔ̃bʁe]",
-      "ear": "蒂于 菲尼哈 帕赫 松布赫 松布赫",
-      "meaning": "……你终会沉沦，沉沦……",
+      "ipa": "[pɔʁte ty finiʁa paʁ sɔ̃bʁe sɔ̃bʁe]",
+      "ear": "珀赫特 蒂于 菲尼哈 帕赫 松布赫 松布赫",
+      "meaning": "坠落。你终将沉没，沉没，",
       "suppliedText": "pter tu finisiras pas sombrer sombrer",
       "sourceLineId": "moliere-timed-811",
       "reviewNote": "",
@@ -130,11 +114,11 @@
       }
     },
     {
-      "sourceText": "Sombrer… Tomber, tomber, tomber. Tu crains le silence, le vide…",
+      "sourceText": "Sombrer à trop vouloir briller. Tomber, tomber, tomber. Tu crains le silence, le vide",
       "start": 50,
-      "ipa": "[sɔ̃bʁe tɔ̃be tɔ̃be tɔ̃be ty kʁɛ̃ lə silɑ̃s lə vid]",
-      "ear": "松布赫 通贝 通贝 通贝 蒂于 克汉 勒 西朗斯 勒 维德",
-      "meaning": "沉沦……跌落，跌落，跌落。你怕沉默，怕空虚……",
+      "ipa": "[sɔ̃bʁe a tʁo vulwaʁ bʁije tɔ̃be tɔ̃be tɔ̃be ty kʁɛ̃ lə silɑ̃s lə vid]",
+      "ear": "松布赫 阿 特霍 乌勒乌阿赫 布希耶诶 通贝 通贝 通贝 蒂于 克汉 勒 西朗斯 勒 维德",
+      "meaning": "沉没，因为你太渴望闪耀。坠落，坠落，坠落。你害怕寂静与空虚，",
       "suppliedText": "sombrer à trop vouloir pr tomber tomber tomber tu crains le silence le vite",
       "sourceLineId": "moliere-timed-812",
       "reviewNote": "",
@@ -146,11 +130,11 @@
       }
     },
     {
-      "sourceText": "Qui te ramène à ton enfance. Il faut que tu avances pour donner un sens à ton…",
+      "sourceText": "Qui te ramènent à ton enfance. Faut que t'avances pour donner un sens à ton",
       "start": 60,
-      "ipa": "[ki tə ʁamɛn‿a tɔ̃n‿ɑ̃fɑ̃s il fo kə ty avɑ̃s puʁ dɔne œ̃ sɑ̃s‿a tɔ̃]",
-      "ear": "基 特 哈梅恩 阿 通恩 昂芳斯 伊勒 佛 克 蒂于 阿旺斯 普赫 多内 恩 桑斯 阿 通",
-      "meaning": "将你带回童年。你必须向前，让你的……",
+      "ipa": "[ki tə ʁamɛn‿a tɔ̃n‿ɑ̃fɑ̃s fo kə tavɑ̃s puʁ dɔne œ̃ sɑ̃s‿a tɔ̃]",
+      "ear": "基 特 哈梅恩 阿 通恩 昂芳斯 佛 克 塔旺斯 普赫 多内 恩 桑斯 阿 通",
+      "meaning": "它们把你带回童年。你必须向前，让自己的人",
       "suppliedText": "qui te ramène à ton enfance faut que tuavan pour donner un sens à Taine",
       "sourceLineId": "moliere-timed-813",
       "reviewNote": "",
@@ -162,11 +146,11 @@
       }
     },
     {
-      "sourceText": "Existence. Mais pour effacer ce passé, tu as besoin d'exister. Tu veux…",
+      "sourceText": "Existence. Mais pour effacer ce maudit passé, tu as besoin d'exister. Tu veux",
       "start": 67,
-      "ipa": "[ɛɡzistɑ̃s mɛ puʁ‿efase sə pase ty a bəzwɛ̃ dɛɡziste ty vø]",
-      "ear": "艾格齐斯唐斯 梅 普赫 诶法塞 瑟 帕塞 蒂于 阿 伯兹乌安 戴格齐斯特 蒂于 弗厄",
-      "meaning": "存在有意义。可为了抹去过去，你需要存在，你想……",
+      "ipa": "[ɛɡzistɑ̃s mɛ puʁ‿efase sə modi pase ty a bəzwɛ̃ dɛɡziste ty vø]",
+      "ear": "艾格齐斯唐斯 梅 普赫 诶法塞 瑟 莫迪 帕塞 蒂于 阿 伯兹乌安 戴格齐斯特 蒂于 弗厄",
+      "meaning": "生有意义。可为了抹去那该死的过去，你需要证明自己的存在。你想",
       "suppliedText": "existence mais pour effasser CEE passé tu as besoin d'exister tu veux",
       "sourceLineId": "moliere-timed-814",
       "reviewNote": "",
@@ -178,11 +162,11 @@
       }
     },
     {
-      "sourceText": "… Tu n'en as jamais assez. Tomber, tomber…",
+      "sourceText": "Compter, tu n'en as jamais assez. Tu finiras par tomber, tomber,",
       "start": 76,
-      "ipa": "[ty nɑ̃ a ʒamɛ ase tɔ̃be tɔ̃be]",
-      "ear": "蒂于 南 阿 扎梅 阿塞 通贝 通贝",
-      "meaning": "……永不知足。跌落，跌落……",
+      "ipa": "[kɔ̃te ty nɑ̃ a ʒamɛ ase ty finiʁa paʁ tɔ̃be tɔ̃be]",
+      "ear": "孔特 蒂于 南 阿 扎梅 阿塞 蒂于 菲尼哈 帕赫 通贝 通贝",
+      "meaning": "成为重要的人，却永远不知满足。你终将坠落，坠落，",
       "suppliedText": "té tu n'en as jamais assez tomber tomber",
       "sourceLineId": "moliere-timed-815",
       "reviewNote": "",
@@ -194,14 +178,14 @@
       }
     },
     {
-      "sourceText": "Tomber… Où tes rêves…",
+      "sourceText": "Tomber du haut des sommets où tes rêves t'ont porté.",
       "start": 84,
-      "ipa": "[tɔ̃be u te ʁɛv]",
-      "ear": "通贝 乌 特 赫弗",
-      "meaning": "跌落……你的梦……（部分识别不清）",
+      "ipa": "[tɔ̃be dy o de sɔmɛ u te ʁɛv tɔ̃ pɔʁte]",
+      "ear": "通贝 迪于 奥 德 索梅 乌 特 赫弗 通 珀赫特",
+      "meaning": "从梦想把你带上的峰顶坠落。",
       "suppliedText": "tomber tu des som où tes rèves t foré",
       "sourceLineId": "moliere-timed-816",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 84,
@@ -210,11 +194,11 @@
       }
     },
     {
-      "sourceText": "… Tu finiras par sombrer, sombrer, sombrer… Tomber, tomber…",
+      "sourceText": "Tu finiras par sombrer, sombrer, sombrer à trop vouloir briller. Tomber, tomber,",
       "start": 90,
-      "ipa": "[ty finiʁa paʁ sɔ̃bʁe sɔ̃bʁe sɔ̃bʁe tɔ̃be tɔ̃be]",
-      "ear": "蒂于 菲尼哈 帕赫 松布赫 松布赫 松布赫 通贝 通贝",
-      "meaning": "……你终会沉沦，沉沦……跌落，跌落……",
+      "ipa": "[ty finiʁa paʁ sɔ̃bʁe sɔ̃bʁe sɔ̃bʁe a tʁo vulwaʁ bʁije tɔ̃be tɔ̃be]",
+      "ear": "蒂于 菲尼哈 帕赫 松布赫 松布赫 松布赫 阿 特霍 乌勒乌阿赫 布希耶诶 通贝 通贝",
+      "meaning": "你终将沉没，沉没，沉没，因为你太渴望闪耀。坠落，坠落，",
       "suppliedText": "finir pas sombrer sombrer sombrer trop vouloir prier tomber tomber",
       "sourceLineId": "moliere-timed-817",
       "reviewNote": "",
@@ -226,11 +210,11 @@
       }
     },
     {
-      "sourceText": "Tomber. Ça fait longtemps que tu n'entends plus la voix de ta raison. Tu…",
+      "sourceText": "Tomber. Ça fait longtemps que tu n'entends plus le son de ta raison. Mais tu",
       "start": 101,
-      "ipa": "[tɔ̃be sa fɛ lɔ̃tɑ̃ kə ty nɑ̃tɑ̃ ply la vwa də ta ʁɛzɔ̃ ty]",
-      "ear": "通贝 萨 费 隆唐 克 蒂于 南唐 普吕 拉 弗乌阿 德 塔 赫宗 蒂于",
-      "meaning": "跌落。你很久没听见理智的声音，可你……",
+      "ipa": "[tɔ̃be sa fɛ lɔ̃tɑ̃ kə ty nɑ̃tɑ̃ ply lə sɔ̃ də ta ʁɛzɔ̃ mɛ ty]",
+      "ear": "通贝 萨 费 隆唐 克 蒂于 南唐 普吕 勒 松 德 塔 赫宗 梅 蒂于",
+      "meaning": "坠落。你已经很久听不见理智的声音。可你",
       "suppliedText": "tomber ça fait longtemps que tu n'entends plus la voir de ta raison tu",
       "sourceLineId": "moliere-timed-818",
       "reviewNote": "",
@@ -242,14 +226,14 @@
       }
     },
     {
-      "sourceText": "Sais pourtant que l'ambition est devenue ta prisson tu cour tu sans jamais fare des dans la",
+      "sourceText": "Sais pourtant que l'ambition est devenue ta prison. Tu cours et tu cours sans jamais faire de détours, dans la",
       "start": 108,
-      "ipa": "[sɛ puʁtɑ̃ kə lɑ̃bisjɔ̃ ɛ dəvny ta pʁisɔ̃ ty kuʁ ty sɑ̃ ʒamɛ faʁ de dɑ̃ la]",
-      "ear": "塞 普赫唐 克 朗比斯耶翁 艾 德弗尼于 塔 普希松 蒂于 库赫 蒂于 桑 扎梅 法赫 德 当 拉",
-      "meaning": "知道野心已成为牢笼。你奔跑，不停……（后半句识别不清）",
+      "ipa": "[sɛ puʁtɑ̃ kə lɑ̃bisjɔ̃ ɛ dəvny ta pʁizɔ̃ ty kuʁ e ty kuʁ sɑ̃ ʒamɛ fɛʁ də detuʁ dɑ̃ la]",
+      "ear": "塞 普赫唐 克 朗比斯耶翁 艾 德弗尼于 塔 普希宗 蒂于 库赫 诶 蒂于 库赫 桑 扎梅 费赫 德 德图赫 当 拉",
+      "meaning": "明明知道野心成了你的牢笼。你不停奔跑，从不绕路，始终朝着同一个",
       "suppliedText": "sais pourtant que l'ambition est devenue ta prisson tu cour tu sans jamais fare des dans la",
       "sourceLineId": "moliere-timed-819",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 108,
@@ -258,14 +242,14 @@
       }
     },
     {
-      "sourceText": "Même encore tou jours ce terrible parcours jusqu'à",
+      "sourceText": "Même direction, encore et toujours. Ce terrible parcours jusqu'à",
       "start": 117,
-      "ipa": "[mɛm‿ɑ̃kɔʁ tu ʒuʁ sə tɛʁibl paʁkuʁ ʒyska]",
-      "ear": "梅姆 昂科赫 图 茹赫 瑟 泰希布勒 帕赫库赫 日于斯卡",
-      "meaning": "……仍然……这条可怕的道路，直到……（识别不清）",
+      "ipa": "[mɛm diʁɛksjɔ̃ ɑ̃kɔʁ e tuʒuʁ sə tɛʁibl paʁkuʁ ʒyska]",
+      "ear": "梅姆 迪赫克斯耶翁 昂科赫 诶 图茹赫 瑟 泰希布勒 帕赫库赫 日于斯卡",
+      "meaning": "方向，一次又一次。沿着这可怕的道路，直到",
       "suppliedText": "même encore tou jours ce terrible parcours jusqu'à",
       "sourceLineId": "moliere-timed-821",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 117,
@@ -274,11 +258,11 @@
       }
     },
     {
-      "sourceText": "L'obsession tu finiras par tomber tomber",
+      "sourceText": "L'obsession. Tu finiras par tomber, tomber,",
       "start": 124,
       "ipa": "[lɔbsɛsjɔ̃ ty finiʁa paʁ tɔ̃be tɔ̃be]",
       "ear": "洛布塞斯耶翁 蒂于 菲尼哈 帕赫 通贝 通贝",
-      "meaning": "痴迷。你终会跌落，跌落……",
+      "meaning": "执念吞没你。你终将坠落，坠落，",
       "suppliedText": "l'obsession tu finiras par tomber tomber",
       "sourceLineId": "moliere-timed-822",
       "reviewNote": "",
@@ -290,14 +274,14 @@
       }
     },
     {
-      "sourceText": "Tomber… Où tes rêves…",
+      "sourceText": "Tomber du haut des sommets où tes rêves",
       "start": 130,
-      "ipa": "[tɔ̃be u te ʁɛv]",
-      "ear": "通贝 乌 特 赫弗",
-      "meaning": "跌落……你的梦……（部分识别不清）",
+      "ipa": "[tɔ̃be dy o de sɔmɛ u te ʁɛv]",
+      "ear": "通贝 迪于 奥 德 索梅 乌 特 赫弗",
+      "meaning": "从梦想把你带上的峰顶",
       "suppliedText": "tomb tu des som où tes rêves",
       "sourceLineId": "moliere-timed-823",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 130,
@@ -306,11 +290,11 @@
       }
     },
     {
-      "sourceText": "… Tu finiras par sombrer, sombrer, sombrer… À trop vouloir…",
+      "sourceText": "T'ont porté. Tu finiras par sombrer, sombrer, sombrer à trop vouloir",
       "start": 135,
-      "ipa": "[ty finiʁa paʁ sɔ̃bʁe sɔ̃bʁe sɔ̃bʁe a tʁo vulwaʁ]",
-      "ear": "蒂于 菲尼哈 帕赫 松布赫 松布赫 松布赫 阿 特霍 乌勒乌阿赫",
-      "meaning": "……你终会沉沦，沉沦……太想要……",
+      "ipa": "[tɔ̃ pɔʁte ty finiʁa paʁ sɔ̃bʁe sɔ̃bʁe sɔ̃bʁe a tʁo vulwaʁ]",
+      "ear": "通 珀赫特 蒂于 菲尼哈 帕赫 松布赫 松布赫 松布赫 阿 特霍 乌勒乌阿赫",
+      "meaning": "坠落。你终将沉没，沉没，沉没，因为你太渴望",
       "suppliedText": "t tu finiras pas sombr sombr sombré à trop vouloir",
       "sourceLineId": "moliere-timed-824",
       "reviewNote": "",
@@ -322,14 +306,14 @@
       }
     },
     {
-      "sourceText": "… Orgueil… Tomber…",
+      "sourceText": "Briller d'orgueil et de vanité. Tomber,",
       "start": 144,
-      "ipa": "[ɔʁɡœj tɔ̃be]",
-      "ear": "哦赫格厄耶 通贝",
-      "meaning": "……骄傲……跌落……（部分识别不清）",
+      "ipa": "[bʁije dɔʁɡœj e də vanite tɔ̃be]",
+      "ear": "布希耶诶 多赫格厄耶 诶 德 瓦尼特 通贝",
+      "meaning": "在骄傲与虚荣中闪耀。坠落，",
       "suppliedText": "prorgueil deé tomber",
       "sourceLineId": "moliere-timed-825",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 144,
@@ -338,11 +322,11 @@
       }
     },
     {
-      "sourceText": "Tomber… Tomber, tomber, tomber…",
+      "sourceText": "Tomber, sombrer, tomber, tomber, tomber.",
       "start": 153,
-      "ipa": "[tɔ̃be tɔ̃be tɔ̃be tɔ̃be]",
-      "ear": "通贝 通贝 通贝 通贝",
-      "meaning": "跌落，跌落，跌落……",
+      "ipa": "[tɔ̃be sɔ̃bʁe tɔ̃be tɔ̃be tɔ̃be]",
+      "ear": "通贝 松布赫 通贝 通贝 通贝",
+      "meaning": "坠落，沉没，坠落，坠落，坠落。",
       "suppliedText": "tomber som tomber tomber tomb",
       "sourceLineId": "moliere-timed-826",
       "reviewNote": "",
@@ -353,5 +337,6 @@
         "precision": "approximate"
       }
     }
-  ]
+  ],
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

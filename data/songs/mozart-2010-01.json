@@ -5,27 +5,123 @@
   "titleOriginal": "Ouverture et scène d’ouverture",
   "channel": "Hartwin",
   "channelId": "UCjgkRbhy8rPYbdeEV4637tg",
-  "duration": 290,
+  "duration": 289,
   "musicalId": "mozart-opera-rock-2010",
   "trackNumber": 1,
   "act": 1,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "isGenerated": false,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Vous entendez?",
+      "start": 79,
+      "duration": 1.667
+    },
+    {
+      "text": "Il me répond.",
+      "start": 80.667,
+      "duration": 1.333
+    },
+    {
+      "text": "C'est lui, Wolfgang Amadeus Mozart, l'homme qui nous a transmis la musique des cieux.",
+      "start": 82,
+      "duration": 8.0
+    },
+    {
+      "text": "Quel homme de génie!",
+      "start": 90,
+      "duration": 1.899
+    },
+    {
+      "text": "À six ans, il achève son premier concerto, à 11 ans, son premier opéra.",
+      "start": 92,
+      "duration": 5.0
+    },
+    {
+      "text": "Il voyage alors dans toute l'Europe, il est adulé, célébré.",
+      "start": 97,
+      "duration": 4.94
+    },
+    {
+      "text": "À 17 ans, maître de chapelle à Salzbourg, il est plein d'espoir et de projets.",
+      "start": 102,
+      "duration": 6.573
+    },
+    {
+      "text": "Mais soudain, son destin bascule.",
+      "start": 108.573,
+      "duration": 3.287
+    },
+    {
+      "text": "Le prince-archevêque, son protecteur, meurt, le terrible Colloredo s'empare du pouvoir!",
+      "start": 112,
+      "duration": 9.39
+    },
+    {
+      "text": "Peuple de Salzbourg, le prince Sigismond est entre les mains de Dieu.",
+      "start": 214,
+      "duration": 6.0
+    },
+    {
+      "text": "Faites hommage à Son Altesse sérénissime, Hieronymus Colloredo, votre nouveau maître!",
+      "start": 220,
+      "duration": 7.82
+    },
+    {
+      "text": "Monsieur Leopold Mozart, approchez.",
+      "start": 258,
+      "duration": 6.0
+    },
+    {
+      "text": "Quel est ce torchon?",
+      "start": 264.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Votre fils me demande un congé.",
+      "start": 267,
+      "duration": 2.8
+    },
+    {
+      "text": "Il veut courir le monde et donner des concerts.",
+      "start": 269.8,
+      "duration": 4.2
+    },
+    {
+      "text": "Si ce jeune prétentieux estime le travail à mon service indigne de son talent, qu'il démissionne!",
+      "start": 274,
+      "duration": 7.34
+    },
+    {
+      "text": "Et vous avec.",
+      "start": 282,
+      "duration": 1.448
+    },
+    {
+      "text": "Comment vais-je nourrir ma famille?",
+      "start": 283.448,
+      "duration": 3.475
+    },
+    {
+      "text": "C'est votre affaire.",
+      "start": 286.923,
+      "duration": 2.027
+    }
+  ],
   "playbackVideoId": "83Qn2IvP_-I",
   "sourceDuration": 7252,
   "sourceURL": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=0",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=83Qn2IvP_-I",
   "playbackSegment": {
     "start": 0,
-    "end": 290,
-    "source": "youtube-description-chapters",
+    "end": 289,
+    "source": "user-supplied-mozart-timestamps",
     "precision": "seconds"
   },
   "nativeCaptionRanges": [
@@ -157,10 +253,10 @@
   "nativeTimingSource": "youtube-manual-caption-file",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "milliseconds",
-  "timingReviewStatus": "source-caption-file",
-  "textReviewStatus": "native-manual-subtitles",
-  "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "phoneticReviewStatus": "reference-with-liaison-corrections",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "performanceYear": 2010,
   "performanceYearSource": "video-description",
@@ -168,5 +264,12 @@
   "albumReleaseYear": 2009,
   "uploadDate": "20161004",
   "sourceCheckedAt": "2026-10-05",
-  "description": ""
+  "description": "",
+  "originalPlaybackSegment": {
+    "start": 0,
+    "end": 290,
+    "source": "youtube-description-chapters",
+    "precision": "seconds"
+  },
+  "studyVersion": 1
 }

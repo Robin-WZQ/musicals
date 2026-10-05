@@ -8,8 +8,7 @@
   "duration": 165,
   "sourceDuration": 165,
   "musicalId": "moliere",
-  "trackNumber": 3,
-  "act": 1,
+  "trackNumber": 11,
   "captionStatus": "ready",
   "captionLanguage": "fr",
   "captionSource": "editorial",
@@ -19,12 +18,7 @@
   "lyricsStorage": "user-provided",
   "cues": [
     {
-      "text": "Jean-Baptiste, je… je suis sincèrement désolé. Allez ! Non, mais non…",
-      "start": 0,
-      "duration": 4
-    },
-    {
-      "text": "Non. Que diable suis-je venu faire derrière tes barreaux ? … Une galère…",
+      "text": "Que diable suis-je venu faire derrière tes barreaux ? … Une galère…",
       "start": 7,
       "duration": 7
     },
@@ -227,7 +221,7 @@
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
   "timingReviewStatus": "approximate",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "phoneticReviewStatus": "not-generated",
   "studyKind": "four-layer",
   "mediaKind": "stage-video",
@@ -331,7 +325,7 @@
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
   },
-  "studyVersion": 1,
+  "studyVersion": 2,
   "studyInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
@@ -447,5 +441,7 @@
       "start": 157,
       "text": "peau les mots pour te direire qui taille laisser ma peau"
     }
-  ]
+  ],
+  "originalTrackNumber": 3,
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

@@ -10,14 +10,235 @@
   "trackNumber": 22,
   "act": 2,
   "isEncore": true,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "isGenerated": false,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Ce soir c'est le grand bal",
+      "start": 7038,
+      "duration": 2.841
+    },
+    {
+      "text": "Mets du fard sur tes idées pâles",
+      "start": 7040.841,
+      "duration": 4.059
+    },
+    {
+      "text": "On va faire tanguer les étoiles",
+      "start": 7045,
+      "duration": 5.778
+    },
+    {
+      "text": "Bien plus haut",
+      "start": 7050.778,
+      "duration": 2.222
+    },
+    {
+      "text": "Ce soir c'est le grand jour",
+      "start": 7053,
+      "duration": 3.111
+    },
+    {
+      "text": "Allons voir tomber les tambours",
+      "start": 7056.111,
+      "duration": 3.889
+    },
+    {
+      "text": "La fanfare des soldats de cour",
+      "start": 7060,
+      "duration": 5.821
+    },
+    {
+      "text": "Sonne faux",
+      "start": 7065.821,
+      "duration": 2.329
+    },
+    {
+      "text": "Allez, viens, c'est bientôt la fin",
+      "start": 7075,
+      "duration": 3.98
+    },
+    {
+      "text": "De ce monde qui n'entend rien",
+      "start": 7078.98,
+      "duration": 3.98
+    },
+    {
+      "text": "Allez, viens sonner le tocsin",
+      "start": 7083,
+      "duration": 3.0
+    },
+    {
+      "text": "Fais valser leurs vieux discours",
+      "start": 7086.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Viens danser, c'est notre tour",
+      "start": 7090,
+      "duration": 4.4
+    },
+    {
+      "text": "Ce soir c'est le grand soir",
+      "start": 7100,
+      "duration": 3.111
+    },
+    {
+      "text": "De velours nos rêves se parent",
+      "start": 7103.111,
+      "duration": 3.889
+    },
+    {
+      "text": "On accourt pour un nouveau départ",
+      "start": 7107,
+      "duration": 6.09
+    },
+    {
+      "text": "Bien plus beau",
+      "start": 7113.09,
+      "duration": 2.61
+    },
+    {
+      "text": "Allez, viens, c'est bientôt la fin",
+      "start": 7122,
+      "duration": 4.0
+    },
+    {
+      "text": "De ce monde qui n'entend rien",
+      "start": 7126.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Allez, viens sonner le tocsin",
+      "start": 7130,
+      "duration": 3.0
+    },
+    {
+      "text": "Fais valser leurs vieux discours",
+      "start": 7133.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Viens danser, c'est notre tour",
+      "start": 7137,
+      "duration": 5.08
+    },
+    {
+      "text": "J'ai bu l'amour au souffle amer",
+      "start": 7155,
+      "duration": 2.229
+    },
+    {
+      "text": "J'ai vu les tours tomber sur terre",
+      "start": 7157.229,
+      "duration": 1.885
+    },
+    {
+      "text": "J'ai vu l'or noir saigner la mer",
+      "start": 7159.114,
+      "duration": 1.886
+    },
+    {
+      "text": "Tous les regards vers l'éphémère",
+      "start": 7161,
+      "duration": 4.583
+    },
+    {
+      "text": "Je vois fleurir le jour nouveau",
+      "start": 7165.583,
+      "duration": 6.417
+    },
+    {
+      "text": "Je crois le rire du fou là-haut",
+      "start": 7172,
+      "duration": 3.113
+    },
+    {
+      "text": "Je veux saisir tous les mystères",
+      "start": 7175.113,
+      "duration": 3.112
+    },
+    {
+      "text": "Et m'affranchir de l'éphémère",
+      "start": 7178.225,
+      "duration": 2.335
+    },
+    {
+      "text": "Ce soir c'est le grand bal",
+      "start": 7185,
+      "duration": 2.882
+    },
+    {
+      "text": "Mets du fard sur tes idées pâles",
+      "start": 7187.882,
+      "duration": 4.118
+    },
+    {
+      "text": "On va faire tanguer les étoiles",
+      "start": 7192,
+      "duration": 4.522
+    },
+    {
+      "text": "Bien plus haut, bien plus haut",
+      "start": 7196.522,
+      "duration": 3.478
+    },
+    {
+      "text": "Allez, viens, c'est bientôt la fin",
+      "start": 7200,
+      "duration": 3.5
+    },
+    {
+      "text": "De ce monde qui n'entend rien",
+      "start": 7203.5,
+      "duration": 3.5
+    },
+    {
+      "text": "Allez, viens sonner le tocsin",
+      "start": 7207,
+      "duration": 3.429
+    },
+    {
+      "text": "Fais valser leurs vieux discours",
+      "start": 7210.429,
+      "duration": 4.571
+    },
+    {
+      "text": "Viens danser, c'est notre tour",
+      "start": 7215,
+      "duration": 3.657
+    },
+    {
+      "text": "Allez, viens, c'est bientôt la fin",
+      "start": 7218.657,
+      "duration": 4.063
+    },
+    {
+      "text": "De ce monde qui n'entend rien",
+      "start": 7223,
+      "duration": 3.684
+    },
+    {
+      "text": "Allez, viens sonner le tocsin",
+      "start": 7226.684,
+      "duration": 3.316
+    },
+    {
+      "text": "Aimons-nous sur leurs décombres",
+      "start": 7230,
+      "duration": 4.188
+    },
+    {
+      "text": "Aimons-nous pour un nouveau monde",
+      "start": 7234.188,
+      "duration": 5.712
+    }
+  ],
   "playbackVideoId": "83Qn2IvP_-I",
   "sourceDuration": 7252,
   "sourceURL": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=7020",
@@ -25,7 +246,7 @@
   "playbackSegment": {
     "start": 7020,
     "end": 7252,
-    "source": "youtube-description-chapters",
+    "source": "user-supplied-mozart-timestamps",
     "precision": "seconds"
   },
   "nativeCaptionRanges": [
@@ -213,10 +434,10 @@
   "nativeTimingSource": "youtube-manual-caption-file",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "milliseconds",
-  "timingReviewStatus": "source-caption-file",
-  "textReviewStatus": "native-manual-subtitles",
-  "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "phoneticReviewStatus": "reference-with-liaison-corrections",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "performanceYear": 2010,
   "performanceYearSource": "video-description",
@@ -224,5 +445,12 @@
   "albumReleaseYear": 2009,
   "uploadDate": "20161004",
   "sourceCheckedAt": "2026-10-05",
-  "description": ""
+  "description": "",
+  "originalPlaybackSegment": {
+    "start": 7020,
+    "end": 7252,
+    "source": "youtube-description-chapters",
+    "precision": "seconds"
+  },
+  "studyVersion": 1
 }

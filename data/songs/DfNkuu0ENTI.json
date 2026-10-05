@@ -8,8 +8,7 @@
   "duration": 270,
   "sourceDuration": 270,
   "musicalId": "moliere",
-  "trackNumber": 1,
-  "act": 1,
+  "trackNumber": 16,
   "captionStatus": "ready",
   "captionLanguage": "fr",
   "captionSource": "editorial",
@@ -19,57 +18,7 @@
   "lyricsStorage": "user-provided",
   "cues": [
     {
-      "text": "Jean-Baptiste, où es-tu ? Jean-Baptiste ! Cet homme s'appelle Jean…",
-      "start": 0,
-      "duration": 8
-    },
-    {
-      "text": "Jean Poquelin, exactement. Il cherche son fils Jean-Baptiste Poquelin, précisément. Il est le père de celui qui se nomme Molière.",
-      "start": 8,
-      "duration": 8
-    },
-    {
-      "text": "Il est très, très en colère, car son fils lui fait des misères. Où te caches-tu, Jean-Baptiste ? Tu dois revenir à la raison. Dans notre famille, il n'y a…",
-      "start": 16,
-      "duration": 7
-    },
-    {
-      "text": "Pas d'artistes, seulement de simples et honnêtes gens. Pourquoi cette ingratitude ? Moi qui t'ai tout donné, qui t'ai offert de belles études et enseigné le plus…",
-      "start": 23,
-      "duration": 8
-    },
-    {
-      "text": "Beau des métiers. Aujourd'hui, je dois te céder du roi la charge de tapissier. On ne peut mieux rêver quand on est comme moi… Qui t'a mis en tête cette…",
-      "start": 31,
-      "duration": 8
-    },
-    {
-      "text": "Folle idée de vouloir devenir comédien ? Tu dois chasser de tes pensées toutes ces… Tu finiras par…",
-      "start": 39,
-      "duration": 8
-    },
-    {
-      "text": "Tomber, tomber, tomber. Bonjour, monsieur Poquelin. Je ne vous connais pas, monsieur. Enfin, c'est…",
-      "start": 47,
-      "duration": 8
-    },
-    {
-      "text": "Moi, Joseph Béjart. Je refuse de saluer le frère de la maudite comédienne que tout Paris appelle Madeleine. Et que…",
-      "start": 55,
-      "duration": 7
-    },
-    {
-      "text": "Reprochez-vous donc à notre sœur Madeleine ? Mère de tous les vices, sournoise et manipulatrice. Je dois retrouver mon fils et le libérer de son…",
-      "start": 62,
-      "duration": 8
-    },
-    {
-      "text": "Emprise. Où te caches-tu, Jean-Baptiste ? Où te caches-tu ?",
-      "start": 70,
-      "duration": 8
-    },
-    {
-      "text": "Jean-Baptiste ! Je m'appelle Jean-Baptiste, Jean-Baptiste Poquelin. Tapissier ou artiste, aujourd'hui… mon destin. Ce même…",
+      "text": "Je m'appelle Jean-Baptiste, Jean-Baptiste Poquelin. Tapissier ou artiste, aujourd'hui se joue mon destin. Ce même…",
       "start": 78,
       "duration": 7
     },
@@ -129,62 +78,7 @@
       "duration": 7
     },
     {
-      "text": "Jean-Baptiste ! Jean-Baptiste ! Mes amis, mes amis, mon fils ne sait plus ce qu'il dit. Je vous en prie, aidez-moi à…",
-      "start": 177,
-      "duration": 8
-    },
-    {
-      "text": "Le faire changer d'avis. Si comédien vous devenez, vous…",
-      "start": 185,
-      "duration": 6
-    },
-    {
-      "text": "Serez interdit à jamais…",
-      "start": 191,
-      "duration": 11
-    },
-    {
-      "text": "… De la bonne société…",
-      "start": 202,
-      "duration": 7
-    },
-    {
-      "text": "… Ce sont des menteurs, des tricheurs…",
-      "start": 209,
-      "duration": 7
-    },
-    {
-      "text": "… Menteur et tricheur… Ne joue que pour l'argent. Jean-Baptiste !",
-      "start": 216,
-      "duration": 8
-    },
-    {
-      "text": "Jean-Baptiste ! Être du roi tapissier est le plus beau des métiers. Tu approcheras les plus…",
-      "start": 224,
-      "duration": 7
-    },
-    {
-      "text": "Grands. Tu recevras trois cents livres par an, sans compter tes récompenses. Tu pourras largement assurer tes dépenses. Ah, mon…",
-      "start": 231,
-      "duration": 7
-    },
-    {
-      "text": "Fils, mon fils, tu es l'aîné, mon préféré. Et toute ma vie j'ai travaillé pour assurer ta…",
-      "start": 238,
-      "duration": 5
-    },
-    {
-      "text": "Prospérité. Mais qu'ai-je raté ? Qu'ai-je mal fait ? Je sais que toute votre vie vous…",
-      "start": 243,
-      "duration": 8
-    },
-    {
-      "text": "Avez œuvré pour que mon avenir soit assuré. Mais je vous implore de respecter mon choix. Je vous jure qu'un jour vous…",
-      "start": 251,
-      "duration": 7
-    },
-    {
-      "text": "Serez fier de moi. Je m'appelle Jean-Baptiste, Jean-Baptiste… Je choisis mon destin. Je…",
+      "text": "Je m'appelle Jean-Baptiste, Jean-Baptiste Poquelin. Je choisis mon destin. Je…",
       "start": 258,
       "duration": 9
     },
@@ -353,7 +247,7 @@
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
   "timingReviewStatus": "approximate",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "phoneticReviewStatus": "not-generated",
   "studyKind": "four-layer",
   "mediaKind": "stage-video",
@@ -513,7 +407,7 @@
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
   },
-  "studyVersion": 1,
+  "studyVersion": 2,
   "studyInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
@@ -699,5 +593,7 @@
       "start": 269,
       "text": "[Musique]"
     }
-  ]
+  ],
+  "originalTrackNumber": 1,
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

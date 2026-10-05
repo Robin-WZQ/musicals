@@ -1,0 +1,464 @@
+{
+  "videoId": "mozart-2010-20",
+  "playbackVideoId": "83Qn2IvP_-I",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "97aaf400c790393fcb53f1f43bb1002cc0955e5fa8ec3c8c767c03260daed16c",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "法语原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "2010年巴黎原唱录像",
+      "url": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=6441"
+    }
+  ],
+  "entries": [
+    {
+      "start": 6450,
+      "sourceText": "On part sans savoir",
+      "ipa": "[ɔ̃ paʁ sɑ̃ savwaʁ]",
+      "ear": "翁 帕赫 桑 萨弗乌阿赫",
+      "meaning": "我们离开时，仍不明白。",
+      "sourceLineId": "mozart-timed-701-1",
+      "suppliedText": "On part sans savoir Où meurent les souvenirs",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6450,
+        "anchorEnd": 6459,
+        "sourceLineNumber": 701,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6453.375,
+      "sourceText": "Où meurent les souvenirs",
+      "ipa": "[u mœʁ le suvniʁ]",
+      "ear": "乌 默厄赫 莱 苏弗尼赫",
+      "meaning": "回忆会在哪里消逝。",
+      "sourceLineId": "mozart-timed-701-2",
+      "suppliedText": "On part sans savoir Où meurent les souvenirs",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6450,
+        "anchorEnd": 6459,
+        "sourceLineNumber": 701,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6459,
+      "sourceText": "Notre vie",
+      "ipa": "[notʁ vi]",
+      "ear": "诺特赫 维",
+      "meaning": "我们的一生。",
+      "sourceLineId": "mozart-timed-702-1",
+      "suppliedText": "Notre vie Défile En l'espace d'un soupir",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6459,
+        "anchorEnd": 6467.099,
+        "sourceLineNumber": 702,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6461.16,
+      "sourceText": "Défile",
+      "ipa": "[defil]",
+      "ear": "德菲勒",
+      "meaning": "匆匆掠过。",
+      "sourceLineId": "mozart-timed-702-2",
+      "suppliedText": "Notre vie Défile En l'espace d'un soupir",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6459,
+        "anchorEnd": 6467.099,
+        "sourceLineNumber": 702,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6462.78,
+      "sourceText": "En l'espace d'un soupir",
+      "ipa": "[ɑ̃ lɛspas dœ̃ supiʁ]",
+      "ear": "昂 莱斯帕斯 丹 苏皮赫",
+      "meaning": "只在一声叹息之间。",
+      "sourceLineId": "mozart-timed-702-3",
+      "suppliedText": "Notre vie Défile En l'espace d'un soupir",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6459,
+        "anchorEnd": 6467.099,
+        "sourceLineNumber": 702,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6469,
+      "sourceText": "Nos pleurs",
+      "ipa": "[no plœʁ]",
+      "ear": "诺 普勒厄赫",
+      "meaning": "我们的眼泪。",
+      "sourceLineId": "mozart-timed-703-1",
+      "suppliedText": "Nos pleurs Nos peurs Ne veulent plus rien dire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6469,
+        "anchorEnd": 6478,
+        "sourceLineNumber": 703,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6470.8,
+      "sourceText": "Nos peurs",
+      "ipa": "[no pœʁ]",
+      "ear": "诺 珀厄赫",
+      "meaning": "我们的恐惧。",
+      "sourceLineId": "mozart-timed-703-2",
+      "suppliedText": "Nos pleurs Nos peurs Ne veulent plus rien dire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6469,
+        "anchorEnd": 6478,
+        "sourceLineNumber": 703,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6472.6,
+      "sourceText": "Ne veulent plus rien dire",
+      "ipa": "[nə vœl ply ʁjɛ̃ diʁ]",
+      "ear": "讷 弗厄勒 普吕 赫耶安 迪赫",
+      "meaning": "都已失去意义。",
+      "sourceLineId": "mozart-timed-703-3",
+      "suppliedText": "Nos pleurs Nos peurs Ne veulent plus rien dire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6469,
+        "anchorEnd": 6478,
+        "sourceLineNumber": 703,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6478,
+      "sourceText": "On s'accroche pourtant",
+      "ipa": "[ɔ̃ sakʁɔʃ puʁtɑ̃]",
+      "ear": "翁 萨克霍什 普赫唐",
+      "meaning": "我们却仍紧紧抓住——",
+      "sourceLineId": "mozart-timed-704-1",
+      "suppliedText": "On s'accroche pourtant Au fil de nos désirs",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6478,
+        "anchorEnd": 6486.54,
+        "sourceLineNumber": 704,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6482.27,
+      "sourceText": "Au fil de nos désirs",
+      "ipa": "[o fil də no deziʁ]",
+      "ear": "奥 菲勒 德 诺 德齐赫",
+      "meaning": "欲望牵起的那条细线。",
+      "sourceLineId": "mozart-timed-704-2",
+      "suppliedText": "On s'accroche pourtant Au fil de nos désirs",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6478,
+        "anchorEnd": 6486.54,
+        "sourceLineNumber": 704,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6487,
+      "sourceText": "Qu'hier encore",
+      "ipa": "[kjɛʁ‿ɑ̃kɔʁ]",
+      "ear": "克耶艾赫 昂科赫",
+      "meaning": "就在昨天，我们还——",
+      "sourceLineId": "mozart-timed-705-1",
+      "suppliedText": "Qu'hier encore On ne cessait de maudire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6487,
+        "anchorEnd": 6497,
+        "sourceLineNumber": 705,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6490.75,
+      "sourceText": "On ne cessait de maudire",
+      "ipa": "[ɔ̃ nə sɛsɛ də modiʁ]",
+      "ear": "翁 讷 塞塞 德 莫迪赫",
+      "meaning": "不断地诅咒它。",
+      "sourceLineId": "mozart-timed-705-2",
+      "suppliedText": "Qu'hier encore On ne cessait de maudire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6487,
+        "anchorEnd": 6497,
+        "sourceLineNumber": 705,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6497,
+      "sourceText": "S'il faut mourir",
+      "ipa": "[sil fo muʁiʁ]",
+      "ear": "西勒 佛 穆希赫",
+      "meaning": "如果终究要死去。",
+      "sourceLineId": "mozart-timed-706-1",
+      "suppliedText": "S'il faut mourir Autant vivre à en crever",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6497,
+        "anchorEnd": 6506.78,
+        "sourceLineNumber": 706,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6500.912,
+      "sourceText": "Autant vivre à en crever",
+      "ipa": "[otɑ̃ vivʁ‿a ɑ̃ kʁəve]",
+      "ear": "奥唐 维弗赫 阿 昂 克赫韦",
+      "meaning": "不如拼尽全力地活。",
+      "sourceLineId": "mozart-timed-706-2",
+      "suppliedText": "S'il faut mourir Autant vivre à en crever",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6497,
+        "anchorEnd": 6506.78,
+        "sourceLineNumber": 706,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6507,
+      "sourceText": "Tout retenir",
+      "ipa": "[tu ʁətniʁ]",
+      "ear": "图 赫特尼赫",
+      "meaning": "留住所有的一切。",
+      "sourceLineId": "mozart-timed-707-1",
+      "suppliedText": "Tout retenir Pour tout immoler",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6507,
+        "anchorEnd": 6515.22,
+        "sourceLineNumber": 707,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6510.425,
+      "sourceText": "Pour tout immoler",
+      "ipa": "[puʁ tut‿imole]",
+      "ear": "普赫 图特 伊莫莱",
+      "meaning": "再把一切全部献祭。",
+      "sourceLineId": "mozart-timed-707-2",
+      "suppliedText": "Tout retenir Pour tout immoler",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6507,
+        "anchorEnd": 6515.22,
+        "sourceLineNumber": 707,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6516,
+      "sourceText": "S'il faut mourir",
+      "ipa": "[sil fo muʁiʁ]",
+      "ear": "西勒 佛 穆希赫",
+      "meaning": "如果终究要死去。",
+      "sourceLineId": "mozart-timed-708-1",
+      "suppliedText": "S'il faut mourir Sur nos stèles, je veux graver",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6516,
+        "anchorEnd": 6525.98,
+        "sourceLineNumber": 708,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6519.992,
+      "sourceText": "Sur nos stèles, je veux graver",
+      "ipa": "[syʁ no stɛl ʒə vø ɡʁave]",
+      "ear": "西于赫 诺 斯泰勒 热 弗厄 格哈韦",
+      "meaning": "我想在我们的墓碑上刻下——",
+      "sourceLineId": "mozart-timed-708-2",
+      "suppliedText": "S'il faut mourir Sur nos stèles, je veux graver",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6516,
+        "anchorEnd": 6525.98,
+        "sourceLineNumber": 708,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6526,
+      "sourceText": "Que nos rires",
+      "ipa": "[kə no ʁiʁ]",
+      "ear": "克 诺 希赫",
+      "meaning": "我们的笑声。",
+      "sourceLineId": "mozart-timed-709-1",
+      "suppliedText": "Que nos rires Ont berné La mort et le temps",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6526,
+        "anchorEnd": 6533.14,
+        "sourceLineNumber": 709,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6528.746,
+      "sourceText": "Ont berné",
+      "ipa": "[ɔ̃ bɛʁne]",
+      "ear": "翁 贝赫内",
+      "meaning": "曾欺骗过——",
+      "sourceLineId": "mozart-timed-709-2",
+      "suppliedText": "Que nos rires Ont berné La mort et le temps",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6526,
+        "anchorEnd": 6533.14,
+        "sourceLineNumber": 709,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6530.394,
+      "sourceText": "La mort et le temps",
+      "ipa": "[la mɔʁ e lə tɑ̃]",
+      "ear": "拉 莫赫 诶 勒 唐",
+      "meaning": "死亡与时间。",
+      "sourceLineId": "mozart-timed-709-3",
+      "suppliedText": "Que nos rires Ont berné La mort et le temps",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6526,
+        "anchorEnd": 6533.14,
+        "sourceLineNumber": 709,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6538,
+      "sourceText": "On se reverra",
+      "ipa": "[ɔ̃ sə ʁəvɛʁa]",
+      "ear": "翁 瑟 赫韦哈",
+      "meaning": "我们会再相见。",
+      "sourceLineId": "mozart-timed-710-1",
+      "suppliedText": "On se reverra On se reverra Là où rien n'est plus rien",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6538,
+        "anchorEnd": 6547,
+        "sourceLineNumber": 710,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6540.368,
+      "sourceText": "On se reverra",
+      "ipa": "[ɔ̃ sə ʁəvɛʁa]",
+      "ear": "翁 瑟 赫韦哈",
+      "meaning": "我们会再相见。",
+      "sourceLineId": "mozart-timed-710-2",
+      "suppliedText": "On se reverra On se reverra Là où rien n'est plus rien",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6538,
+        "anchorEnd": 6547,
+        "sourceLineNumber": 710,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6542.737,
+      "sourceText": "Là où rien n'est plus rien",
+      "ipa": "[la u ʁjɛ̃ nɛ ply ʁjɛ̃]",
+      "ear": "拉 乌 赫耶安 奈 普吕 赫耶安",
+      "meaning": "在一切都不再归于虚无的地方。",
+      "sourceLineId": "mozart-timed-710-3",
+      "suppliedText": "On se reverra On se reverra Là où rien n'est plus rien",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6538,
+        "anchorEnd": 6547,
+        "sourceLineNumber": 710,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6547,
+      "sourceText": "On comprendra",
+      "ipa": "[ɔ̃ kɔ̃pʁɑ̃dʁa]",
+      "ear": "翁 孔普杭德哈",
+      "meaning": "我们会明白。",
+      "sourceLineId": "mozart-timed-711-1",
+      "suppliedText": "On comprendra D'où l'on vient",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6547,
+        "anchorEnd": 6551.54,
+        "sourceLineNumber": 711,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6549.018,
+      "sourceText": "D'où l'on vient",
+      "ipa": "[du lɔ̃ vjɛ̃]",
+      "ear": "杜 隆 弗耶安",
+      "meaning": "自己从何而来。",
+      "sourceLineId": "mozart-timed-711-2",
+      "suppliedText": "On comprendra D'où l'on vient",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6547,
+        "anchorEnd": 6551.54,
+        "sourceLineNumber": 711,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

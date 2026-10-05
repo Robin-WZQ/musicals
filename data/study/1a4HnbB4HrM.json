@@ -1,15 +1,15 @@
 {
   "videoId": "1a4HnbB4HrM",
   "playbackVideoId": "1a4HnbB4HrM",
-  "version": 1,
+  "version": 2,
   "textSource": "user-supplied-auto-transcript",
   "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
   "meaningSource": "editorial-chinese-from-user-transcript",
   "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
   "sources": [
     {
       "label": "本段原唱录像",
@@ -82,11 +82,11 @@
       }
     },
     {
-      "sourceText": "Fragile. Comment supporter l'insupportable quand la douleur… ?",
+      "sourceText": "Fragile. Comment supporter l'insupportable quand la douleur lacère l'âme ?",
       "start": 34,
-      "ipa": "[fʁaʒil kɔmɑ̃ sypɔʁte lɛ̃sypɔʁtabl kɑ̃ la dulœʁ]",
-      "ear": "弗哈日勒 科芒 西于珀赫特 兰西于珀赫塔布勒 康 拉 杜勒厄赫",
-      "meaning": "脆弱的。痛苦袭来，怎样承受无法承受的事……",
+      "ipa": "[fʁaʒil kɔmɑ̃ sypɔʁte lɛ̃sypɔʁtabl kɑ̃ la dulœʁ lasɛʁ lam]",
+      "ear": "弗哈日勒 科芒 西于珀赫特 兰西于珀赫塔布勒 康 拉 杜勒厄赫 拉塞赫 拉姆",
+      "meaning": "脆弱的。当痛苦撕裂灵魂，怎样承受无法承受的事？",
       "suppliedText": "fragile comment supporter l'insupportable quand la douleur la SER",
       "sourceLineId": "moliere-timed-698",
       "reviewNote": "",
@@ -102,10 +102,10 @@
       "start": 42,
       "ipa": "[kɔmɑ̃ ʒystifje lɛ̃ʒystifjabl kɑ̃ linosɑ̃s]",
       "ear": "科芒 日于斯蒂弗耶诶 兰日于斯蒂弗耶阿布勒 康 利诺桑斯",
-      "meaning": "……怎样解释无法解释的事，当无辜……（后半句识别不清）",
+      "meaning": "……怎样解释无法解释的事，当无辜……",
       "suppliedText": "là comment justifier l'injustifiable quand l'innocence que",
       "sourceLineId": "moliere-timed-699",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 42,
@@ -225,5 +225,6 @@
         "precision": "approximate"
       }
     }
-  ]
+  ],
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

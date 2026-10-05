@@ -8,8 +8,7 @@
   "duration": 151,
   "sourceDuration": 151,
   "musicalId": "moliere",
-  "trackNumber": 35,
-  "act": 2,
+  "trackNumber": 15,
   "captionStatus": "ready",
   "captionLanguage": "fr",
   "captionSource": "editorial",
@@ -39,7 +38,7 @@
       "duration": 8
     },
     {
-      "text": "Fragile. Comment supporter l'insupportable quand la douleur… ?",
+      "text": "Fragile. Comment supporter l'insupportable quand la douleur lacère l'âme ?",
       "start": 34,
       "duration": 8
     },
@@ -151,7 +150,7 @@
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
   "timingReviewStatus": "approximate",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "phoneticReviewStatus": "not-generated",
   "studyKind": "four-layer",
   "mediaKind": "stage-video",
@@ -223,7 +222,7 @@
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
   },
-  "studyVersion": 1,
+  "studyVersion": 2,
   "studyInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
@@ -294,5 +293,7 @@
       "start": 103,
       "text": "Brasile ne dis rien"
     }
-  ]
+  ],
+  "originalTrackNumber": 35,
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

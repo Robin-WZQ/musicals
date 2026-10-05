@@ -5,27 +5,333 @@
   "titleOriginal": "La chanson de l’aubergiste",
   "channel": "Hartwin",
   "channelId": "UCjgkRbhy8rPYbdeEV4637tg",
-  "duration": 184,
+  "duration": 183,
   "musicalId": "mozart-opera-rock-2010",
   "trackNumber": 3,
   "act": 1,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "isGenerated": false,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Ja, ja, ja Schnell!",
+      "start": 627,
+      "duration": 5.0
+    },
+    {
+      "text": "Laissez vos déboires à la porte",
+      "start": 632,
+      "duration": 4.154
+    },
+    {
+      "text": "Ici on sait noyer les amours mortes",
+      "start": 636.154,
+      "duration": 4.846
+    },
+    {
+      "text": "Cœur en berne prend verre en main",
+      "start": 641,
+      "duration": 4.213
+    },
+    {
+      "text": "À la taverne de l'art divin",
+      "start": 645.213,
+      "duration": 3.447
+    },
+    {
+      "text": "Taisez vos satanées complaintes",
+      "start": 649,
+      "duration": 3.83
+    },
+    {
+      "text": "Et chantez donc à la gloire de l'absinthe",
+      "start": 652.83,
+      "duration": 4.15
+    },
+    {
+      "text": "Mordicus trinquez sans peur",
+      "start": 657,
+      "duration": 3.403
+    },
+    {
+      "text": "Bacchus est Dieu dans ma demeure",
+      "start": 660.403,
+      "duration": 4.537
+    },
+    {
+      "text": "1, 2, 3, 4, 5, 6",
+      "start": 670,
+      "duration": 0.667
+    },
+    {
+      "text": "Guten Tag, mein Herr!",
+      "start": 670.667,
+      "duration": 4.0
+    },
+    {
+      "text": "Schon Fraulein, mmh!",
+      "start": 674.667,
+      "duration": 3.333
+    },
+    {
+      "text": "Santé!",
+      "start": 678,
+      "duration": 2.01
+    },
+    {
+      "text": "Pile au rendez-vous du bonheur",
+      "start": 681,
+      "duration": 3.073
+    },
+    {
+      "text": "Tu seras bienvenu quelle que soit l'heure",
+      "start": 684.073,
+      "duration": 4.354
+    },
+    {
+      "text": "Avec moi!",
+      "start": 688.427,
+      "duration": 1.024
+    },
+    {
+      "text": "Bois bien plus",
+      "start": 689.451,
+      "duration": 1.28
+    },
+    {
+      "text": "Que tu ne dois",
+      "start": 690.731,
+      "duration": 1.537
+    },
+    {
+      "text": "C'est ça!",
+      "start": 692.268,
+      "duration": 0.512
+    },
+    {
+      "text": "C'est bon pour tout ce que tu as",
+      "start": 693,
+      "duration": 3.826
+    },
+    {
+      "text": "Lève le coude, tiens bon la barre",
+      "start": 696.826,
+      "duration": 4.174
+    },
+    {
+      "text": "Tout oublier c'est pas la mer à boire",
+      "start": 701,
+      "duration": 4.48
+    },
+    {
+      "text": "Bois bien plus que tu ne dois",
+      "start": 705.48,
+      "duration": 3.52
+    },
+    {
+      "text": "C'est bon pour tout ce que tu as",
+      "start": 709,
+      "duration": 3.658
+    },
+    {
+      "text": "Je laisse mes déboires",
+      "start": 712.658,
+      "duration": 2.992
+    },
+    {
+      "text": "À la porte",
+      "start": 715.65,
+      "duration": 1.33
+    },
+    {
+      "text": "Je viens noyer mes amours mortes",
+      "start": 717,
+      "duration": 4.174
+    },
+    {
+      "text": "Bois bien plus que tu ne dois",
+      "start": 721.174,
+      "duration": 3.826
+    },
+    {
+      "text": "C'est bon pour tout ce que tu as",
+      "start": 725,
+      "duration": 3.85
+    },
+    {
+      "text": "Bois bien plus que tu ne dois",
+      "start": 728.85,
+      "duration": 3.85
+    },
+    {
+      "text": "C'est bon pour tout ce que tu as",
+      "start": 733,
+      "duration": 4.531
+    },
+    {
+      "text": "Bonsoir, la compagnie!",
+      "start": 737.531,
+      "duration": 3.296
+    },
+    {
+      "text": "Voici le plus joli!",
+      "start": 740.827,
+      "duration": 2.883
+    },
+    {
+      "text": "Les musiciens, voici vos partitions!",
+      "start": 744,
+      "duration": 2.951
+    },
+    {
+      "text": "Une dernière tournée?",
+      "start": 746.951,
+      "duration": 2.27
+    },
+    {
+      "text": "Allez!",
+      "start": 749.221,
+      "duration": 0.454
+    },
+    {
+      "text": "Wolfgang, ça suffit!",
+      "start": 749.675,
+      "duration": 1.135
+    },
+    {
+      "text": "Si, nous buvons à mon 1er concert ici, à Mannheim!",
+      "start": 751,
+      "duration": 3.136
+    },
+    {
+      "text": "Ah, ça va violoner!",
+      "start": 754.136,
+      "duration": 1.372
+    },
+    {
+      "text": "Vive Mozart et vive la musique!",
+      "start": 755.508,
+      "duration": 2.352
+    },
+    {
+      "text": "Ouais!",
+      "start": 758,
+      "duration": 1.124
+    },
+    {
+      "text": "Dis donc, l'artiste, je te trouve bien sûr de toi.",
+      "start": 759.124,
+      "duration": 4.496
+    },
+    {
+      "text": "Tu t'es pas fait renvoyer de Salzbourg?",
+      "start": 764,
+      "duration": 3.406
+    },
+    {
+      "text": "Monsieur, qui vous permet?",
+      "start": 767.406,
+      "duration": 2.62
+    },
+    {
+      "text": "Maman!",
+      "start": 770.026,
+      "duration": 0.524
+    },
+    {
+      "text": "C'est vrai, Mozart!",
+      "start": 770.55,
+      "duration": 1.31
+    },
+    {
+      "text": "On sait que Colloredo s'est débarrassé de toi.",
+      "start": 772,
+      "duration": 3.498
+    },
+    {
+      "text": "Il n'a pas été renvoyé, monsieur, c'est lui qui est parti.",
+      "start": 775.498,
+      "duration": 4.322
+    },
+    {
+      "text": "Non, sans blague?",
+      "start": 780,
+      "duration": 1.296
+    },
+    {
+      "text": "Parfaitement.",
+      "start": 781.296,
+      "duration": 1.297
+    },
+    {
+      "text": "Ici, je composerai un grand opéra!",
+      "start": 782.593,
+      "duration": 3.37
+    },
+    {
+      "text": "En allemand!",
+      "start": 785.963,
+      "duration": 1.037
+    },
+    {
+      "text": "Non mais vous entendez?",
+      "start": 787,
+      "duration": 1.731
+    },
+    {
+      "text": "Un opéra en allemand!",
+      "start": 788.731,
+      "duration": 1.731
+    },
+    {
+      "text": "Et pourquoi pas en français?",
+      "start": 790.462,
+      "duration": 2.38
+    },
+    {
+      "text": "Ou en chinois!",
+      "start": 792.842,
+      "duration": 1.298
+    },
+    {
+      "text": "Apprenez, petit jeune homme, qu'ici, on a du goût.",
+      "start": 796,
+      "duration": 3.0
+    },
+    {
+      "text": "Oui.",
+      "start": 799,
+      "duration": 1.263
+    },
+    {
+      "text": "Et qu'il n'y a de bon opéra qu'en",
+      "start": 800.263,
+      "duration": 5.053
+    },
+    {
+      "text": "Italien!",
+      "start": 805.316,
+      "duration": 1.684
+    },
+    {
+      "text": "Je me fous de votre bon goût et de vos préjugés.",
+      "start": 807,
+      "duration": 3.0
+    }
+  ],
   "playbackVideoId": "83Qn2IvP_-I",
   "sourceDuration": 7252,
   "sourceURL": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=627",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=83Qn2IvP_-I",
   "playbackSegment": {
     "start": 627,
-    "end": 811,
-    "source": "youtube-description-chapters",
+    "end": 810,
+    "source": "user-supplied-mozart-timestamps",
     "precision": "seconds"
   },
   "nativeCaptionRanges": [
@@ -253,10 +559,10 @@
   "nativeTimingSource": "youtube-manual-caption-file",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "milliseconds",
-  "timingReviewStatus": "source-caption-file",
-  "textReviewStatus": "native-manual-subtitles",
-  "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "phoneticReviewStatus": "reference-with-liaison-corrections",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "performanceYear": 2010,
   "performanceYearSource": "video-description",
@@ -264,5 +570,12 @@
   "albumReleaseYear": 2009,
   "uploadDate": "20161004",
   "sourceCheckedAt": "2026-10-05",
-  "description": ""
+  "description": "",
+  "originalPlaybackSegment": {
+    "start": 627,
+    "end": 811,
+    "source": "youtube-description-chapters",
+    "precision": "seconds"
+  },
+  "studyVersion": 1
 }

@@ -1,0 +1,1059 @@
+{
+  "videoId": "mozart-2010-03",
+  "playbackVideoId": "83Qn2IvP_-I",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "97aaf400c790393fcb53f1f43bb1002cc0955e5fa8ec3c8c767c03260daed16c",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "法语原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "2010年巴黎原唱录像",
+      "url": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=627"
+    }
+  ],
+  "entries": [
+    {
+      "start": 627,
+      "sourceText": "Ja, ja, ja Schnell!",
+      "ipa": "[ja ja ja ʃnɛl]",
+      "ear": "呀 呀 呀 施奈尔",
+      "meaning": "好，好，好，快点！",
+      "sourceLineId": "mozart-timed-62-1",
+      "suppliedText": "# La chanson de l'aubergiste # Ja, ja, ja Schnell!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 627,
+        "anchorEnd": 632,
+        "sourceLineNumber": 62,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 632,
+      "sourceText": "Laissez vos déboires à la porte",
+      "ipa": "[lɛse vo debwaʁ‿a la pɔʁt]",
+      "ear": "莱塞 沃 德布乌阿赫 阿 拉 珀赫特",
+      "meaning": "把烦心事留在门外。",
+      "sourceLineId": "mozart-timed-63-1",
+      "suppliedText": "Laissez vos déboires à la porte Ici on sait noyer les amoures mortes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 632,
+        "anchorEnd": 641,
+        "sourceLineNumber": 63,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 636.154,
+      "sourceText": "Ici on sait noyer les amours mortes",
+      "ipa": "[isi ɔ̃ sɛ nwaje lez‿amuʁ mɔʁt]",
+      "ear": "伊西 翁 塞 恩乌阿耶诶 莱兹 阿穆赫 莫赫特",
+      "meaning": "这里懂得用酒浇灭逝去的爱情。",
+      "sourceLineId": "mozart-timed-63-2",
+      "suppliedText": "Laissez vos déboires à la porte Ici on sait noyer les amoures mortes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 632,
+        "anchorEnd": 641,
+        "sourceLineNumber": 63,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 641,
+      "sourceText": "Cœur en berne prend verre en main",
+      "ipa": "[kœʁ‿ɑ̃ bɛʁn pʁɑ̃ vɛʁ‿ɑ̃ mɛ̃]",
+      "ear": "克厄赫 昂 贝赫恩 普杭 韦赫 昂 曼",
+      "meaning": "心情低落，就拿起酒杯。",
+      "sourceLineId": "mozart-timed-64-1",
+      "suppliedText": "Cœur en berne prend verre en main À la taverne de l'art divin",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 641,
+        "anchorEnd": 648.66,
+        "sourceLineNumber": 64,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 645.213,
+      "sourceText": "À la taverne de l'art divin",
+      "ipa": "[a la tavɛʁn də laʁ divɛ̃]",
+      "ear": "阿 拉 塔韦赫恩 德 拉赫 迪万",
+      "meaning": "来到这间酒艺非凡的酒馆。",
+      "sourceLineId": "mozart-timed-64-2",
+      "suppliedText": "Cœur en berne prend verre en main À la taverne de l'art divin",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 641,
+        "anchorEnd": 648.66,
+        "sourceLineNumber": 64,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 649,
+      "sourceText": "Taisez vos satanées complaintes",
+      "ipa": "[tɛze vo satane kɔ̃plɛ̃t]",
+      "ear": "泰泽 沃 萨塔内 孔普兰特",
+      "meaning": "收起你们那些该死的抱怨。",
+      "sourceLineId": "mozart-timed-65-1",
+      "suppliedText": "Taisez vos satanées complaintes Et chantez donc à la gloire de l'absinthe",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 649,
+        "anchorEnd": 656.98,
+        "sourceLineNumber": 65,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 652.83,
+      "sourceText": "Et chantez donc à la gloire de l'absinthe",
+      "ipa": "[e ʃɑ̃te dɔ̃k‿a la ɡlwaʁ də labsɛ̃t]",
+      "ear": "诶 尚特 东克 阿 拉 格勒乌阿赫 德 拉布森特",
+      "meaning": "唱起来，为苦艾酒喝彩。",
+      "sourceLineId": "mozart-timed-65-2",
+      "suppliedText": "Taisez vos satanées complaintes Et chantez donc à la gloire de l'absinthe",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 649,
+        "anchorEnd": 656.98,
+        "sourceLineNumber": 65,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 657,
+      "sourceText": "Mordicus trinquez sans peur",
+      "ipa": "[mɔʁdikys tʁɛ̃ke sɑ̃ pœʁ]",
+      "ear": "莫赫迪基于斯 特汉克 桑 珀厄赫",
+      "meaning": "痛痛快快地举杯，别怕！",
+      "sourceLineId": "mozart-timed-66-1",
+      "suppliedText": "Mordicus trinquez sans peur Bacchus est Dieu dans ma demeure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 657,
+        "anchorEnd": 664.94,
+        "sourceLineNumber": 66,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 660.403,
+      "sourceText": "Bacchus est Dieu dans ma demeure",
+      "ipa": "[baky ɛ djø dɑ̃ ma dəmœʁ]",
+      "ear": "巴基于 艾 德耶厄 当 玛 德默厄赫",
+      "meaning": "在我这里，酒神巴克斯就是上帝。",
+      "sourceLineId": "mozart-timed-66-2",
+      "suppliedText": "Mordicus trinquez sans peur Bacchus est Dieu dans ma demeure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 657,
+        "anchorEnd": 664.94,
+        "sourceLineNumber": 66,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 670,
+      "sourceText": "1, 2, 3, 4, 5, 6",
+      "ipa": "[œ̃ dø tʁwa katʁ sɛ̃k sis]",
+      "ear": "恩 德厄 特赫乌阿 卡特赫 森克 西斯",
+      "meaning": "一、二、三、四、五、六。",
+      "sourceLineId": "mozart-timed-67-1",
+      "suppliedText": "1, 2, 3, 4, 5, 6 Guten Tag, mein Herr! Schon Fraulein, mmh!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 670,
+        "anchorEnd": 678,
+        "sourceLineNumber": 67,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 670.667,
+      "sourceText": "Guten Tag, mein Herr!",
+      "ipa": "[ɡuːtən taːk maɪn hɛʁ]",
+      "ear": "古腾 塔克 麦恩 赫",
+      "meaning": "您好，先生！",
+      "sourceLineId": "mozart-timed-67-2",
+      "suppliedText": "1, 2, 3, 4, 5, 6 Guten Tag, mein Herr! Schon Fraulein, mmh!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 670,
+        "anchorEnd": 678,
+        "sourceLineNumber": 67,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 674.667,
+      "sourceText": "Schon Fraulein, mmh!",
+      "ipa": "[ʃøːn fʁɔɪlaɪn m]",
+      "ear": "申 弗罗伊莱恩 姆",
+      "meaning": "漂亮的小姐，嗯！",
+      "sourceLineId": "mozart-timed-67-3",
+      "suppliedText": "1, 2, 3, 4, 5, 6 Guten Tag, mein Herr! Schon Fraulein, mmh!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 670,
+        "anchorEnd": 678,
+        "sourceLineNumber": 67,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 678,
+      "sourceText": "Santé!",
+      "ipa": "[sɑ̃te]",
+      "ear": "桑特",
+      "meaning": "干杯！",
+      "sourceLineId": "mozart-timed-68-1",
+      "suppliedText": "Santé!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 678,
+        "anchorEnd": 680.01,
+        "sourceLineNumber": 68,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 681,
+      "sourceText": "Pile au rendez-vous du bonheur",
+      "ipa": "[pil‿o ʁɑ̃devu dy bɔnœʁ]",
+      "ear": "皮勒 奥 杭德乌 迪于 博讷厄赫",
+      "meaning": "正好赶上幸福的约会。",
+      "sourceLineId": "mozart-timed-69-1",
+      "suppliedText": "Pile au rendez-vous du bonheur Tu seras bienvenu quelle que soit l'heure - Avec moi! - Bois bien plus - Que tu ne dois - C'est ça!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 681,
+        "anchorEnd": 692.78,
+        "sourceLineNumber": 69,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 684.073,
+      "sourceText": "Tu seras bienvenu quelle que soit l'heure",
+      "ipa": "[ty səʁa bjɛ̃vny kɛl kə swa lœʁ]",
+      "ear": "蒂于 瑟哈 布耶安弗尼于 凯勒 克 斯乌阿 勒厄赫",
+      "meaning": "无论何时，我们都会欢迎您",
+      "sourceLineId": "mozart-timed-69-2",
+      "suppliedText": "Pile au rendez-vous du bonheur Tu seras bienvenu quelle que soit l'heure - Avec moi! - Bois bien plus - Que tu ne dois - C'est ça!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 681,
+        "anchorEnd": 692.78,
+        "sourceLineNumber": 69,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 688.427,
+      "sourceText": "Avec moi!",
+      "ipa": "[avɛk mwa]",
+      "ear": "阿韦克 姆乌阿",
+      "meaning": "和我一起！",
+      "sourceLineId": "mozart-timed-69-3",
+      "suppliedText": "Pile au rendez-vous du bonheur Tu seras bienvenu quelle que soit l'heure - Avec moi! - Bois bien plus - Que tu ne dois - C'est ça!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 681,
+        "anchorEnd": 692.78,
+        "sourceLineNumber": 69,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 689.451,
+      "sourceText": "Bois bien plus",
+      "ipa": "[bwa bjɛ̃ ply]",
+      "ear": "布乌阿 布耶安 普吕",
+      "meaning": "尽情喝吧。",
+      "sourceLineId": "mozart-timed-69-4",
+      "suppliedText": "Pile au rendez-vous du bonheur Tu seras bienvenu quelle que soit l'heure - Avec moi! - Bois bien plus - Que tu ne dois - C'est ça!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 681,
+        "anchorEnd": 692.78,
+        "sourceLineNumber": 69,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 690.731,
+      "sourceText": "Que tu ne dois",
+      "ipa": "[kə ty nə dwa]",
+      "ear": "克 蒂于 讷 德乌阿",
+      "meaning": "喝到超出你的限度。",
+      "sourceLineId": "mozart-timed-69-5",
+      "suppliedText": "Pile au rendez-vous du bonheur Tu seras bienvenu quelle que soit l'heure - Avec moi! - Bois bien plus - Que tu ne dois - C'est ça!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 681,
+        "anchorEnd": 692.78,
+        "sourceLineNumber": 69,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 692.268,
+      "sourceText": "C'est ça!",
+      "ipa": "[sɛ sa]",
+      "ear": "塞 萨",
+      "meaning": "就是这样！",
+      "sourceLineId": "mozart-timed-69-6",
+      "suppliedText": "Pile au rendez-vous du bonheur Tu seras bienvenu quelle que soit l'heure - Avec moi! - Bois bien plus - Que tu ne dois - C'est ça!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 681,
+        "anchorEnd": 692.78,
+        "sourceLineNumber": 69,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 693,
+      "sourceText": "C'est bon pour tout ce que tu as",
+      "ipa": "[sɛ bɔ̃ puʁ tu sə kə ty a]",
+      "ear": "塞 崩 普赫 图 瑟 克 蒂于 阿",
+      "meaning": "这对你拥有的一切都有好处",
+      "sourceLineId": "mozart-timed-70-1",
+      "suppliedText": "C'est bon pour tout ce que tu as Lève le coude, tiens bon la barre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 693,
+        "anchorEnd": 701,
+        "sourceLineNumber": 70,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 696.826,
+      "sourceText": "Lève le coude, tiens bon la barre",
+      "ipa": "[lɛv lə kud tjɛ̃ bɔ̃ la baʁ]",
+      "ear": "莱弗 勒 库德 特耶安 崩 拉 巴赫",
+      "meaning": "举杯喝酒，稳住阵脚。",
+      "sourceLineId": "mozart-timed-70-2",
+      "suppliedText": "C'est bon pour tout ce que tu as Lève le coude, tiens bon la barre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 693,
+        "anchorEnd": 701,
+        "sourceLineNumber": 70,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 701,
+      "sourceText": "Tout oublier c'est pas la mer à boire",
+      "ipa": "[tut‿ublie sɛ pa la mɛʁ‿a bwaʁ]",
+      "ear": "图特 乌布利诶 塞 帕 拉 梅赫 阿 布乌阿赫",
+      "meaning": "忘掉一切，没那么难。",
+      "sourceLineId": "mozart-timed-71-1",
+      "suppliedText": "Tout oublier c'est pas la mer à boire Bois bien plus que tu ne dois",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 701,
+        "anchorEnd": 709,
+        "sourceLineNumber": 71,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 705.48,
+      "sourceText": "Bois bien plus que tu ne dois",
+      "ipa": "[bwa bjɛ̃ ply kə ty nə dwa]",
+      "ear": "布乌阿 布耶安 普吕 克 蒂于 讷 德乌阿",
+      "meaning": "尽情喝，喝到超过你的限度。",
+      "sourceLineId": "mozart-timed-71-2",
+      "suppliedText": "Tout oublier c'est pas la mer à boire Bois bien plus que tu ne dois",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 701,
+        "anchorEnd": 709,
+        "sourceLineNumber": 71,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 709,
+      "sourceText": "C'est bon pour tout ce que tu as",
+      "ipa": "[sɛ bɔ̃ puʁ tu sə kə ty a]",
+      "ear": "塞 崩 普赫 图 瑟 克 蒂于 阿",
+      "meaning": "这对你拥有的一切都有好处",
+      "sourceLineId": "mozart-timed-72-1",
+      "suppliedText": "C'est bon pour tout ce que tu as Je laisse mes déboires À la porte",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 709,
+        "anchorEnd": 716.98,
+        "sourceLineNumber": 72,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 712.658,
+      "sourceText": "Je laisse mes déboires",
+      "ipa": "[ʒə lɛs me debwaʁ]",
+      "ear": "热 莱斯 梅 德布乌阿赫",
+      "meaning": "我把所有烦恼",
+      "sourceLineId": "mozart-timed-72-2",
+      "suppliedText": "C'est bon pour tout ce que tu as Je laisse mes déboires À la porte",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 709,
+        "anchorEnd": 716.98,
+        "sourceLineNumber": 72,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 715.65,
+      "sourceText": "À la porte",
+      "ipa": "[a la pɔʁt]",
+      "ear": "阿 拉 珀赫特",
+      "meaning": "都留在门外。",
+      "sourceLineId": "mozart-timed-72-3",
+      "suppliedText": "C'est bon pour tout ce que tu as Je laisse mes déboires À la porte",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 709,
+        "anchorEnd": 716.98,
+        "sourceLineNumber": 72,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 717,
+      "sourceText": "Je viens noyer mes amours mortes",
+      "ipa": "[ʒə vjɛ̃ nwaje mez‿amuʁ mɔʁt]",
+      "ear": "热 弗耶安 恩乌阿耶诶 梅兹 阿穆赫 莫赫特",
+      "meaning": "我要用酒浇灭逝去的爱情。",
+      "sourceLineId": "mozart-timed-73-1",
+      "suppliedText": "Je viens noyer mes amoures mortes Bois bien plus que tu ne dois",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 717,
+        "anchorEnd": 725,
+        "sourceLineNumber": 73,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 721.174,
+      "sourceText": "Bois bien plus que tu ne dois",
+      "ipa": "[bwa bjɛ̃ ply kə ty nə dwa]",
+      "ear": "布乌阿 布耶安 普吕 克 蒂于 讷 德乌阿",
+      "meaning": "尽情喝，喝到超过你的限度。",
+      "sourceLineId": "mozart-timed-73-2",
+      "suppliedText": "Je viens noyer mes amoures mortes Bois bien plus que tu ne dois",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 717,
+        "anchorEnd": 725,
+        "sourceLineNumber": 73,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 725,
+      "sourceText": "C'est bon pour tout ce que tu as",
+      "ipa": "[sɛ bɔ̃ puʁ tu sə kə ty a]",
+      "ear": "塞 崩 普赫 图 瑟 克 蒂于 阿",
+      "meaning": "这对你拥有的一切都有好处",
+      "sourceLineId": "mozart-timed-74-1",
+      "suppliedText": "C'est bon pour tout ce que tu as Bois bien plus que tu ne dois",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 725,
+        "anchorEnd": 732.7,
+        "sourceLineNumber": 74,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 728.85,
+      "sourceText": "Bois bien plus que tu ne dois",
+      "ipa": "[bwa bjɛ̃ ply kə ty nə dwa]",
+      "ear": "布乌阿 布耶安 普吕 克 蒂于 讷 德乌阿",
+      "meaning": "尽情喝，喝到超过你的限度。",
+      "sourceLineId": "mozart-timed-74-2",
+      "suppliedText": "C'est bon pour tout ce que tu as Bois bien plus que tu ne dois",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 725,
+        "anchorEnd": 732.7,
+        "sourceLineNumber": 74,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 733,
+      "sourceText": "C'est bon pour tout ce que tu as",
+      "ipa": "[sɛ bɔ̃ puʁ tu sə kə ty a]",
+      "ear": "塞 崩 普赫 图 瑟 克 蒂于 阿",
+      "meaning": "这对你拥有的一切都有好处",
+      "sourceLineId": "mozart-timed-75-1",
+      "suppliedText": "C'est bon pour tout ce que tu as - Bonsoir, la compagnie! - Voici le plus joli!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 733,
+        "anchorEnd": 743.71,
+        "sourceLineNumber": 75,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 737.531,
+      "sourceText": "Bonsoir, la compagnie!",
+      "ipa": "[bɔ̃swaʁ la kɔ̃pani]",
+      "ear": "崩斯乌阿赫 拉 孔帕尼",
+      "meaning": "大家晚上好！",
+      "sourceLineId": "mozart-timed-75-2",
+      "suppliedText": "C'est bon pour tout ce que tu as - Bonsoir, la compagnie! - Voici le plus joli!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 733,
+        "anchorEnd": 743.71,
+        "sourceLineNumber": 75,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 740.827,
+      "sourceText": "Voici le plus joli!",
+      "ipa": "[vwasi lə ply ʒoli]",
+      "ear": "弗乌阿西 勒 普吕 若利",
+      "meaning": "这里是最漂亮的！",
+      "sourceLineId": "mozart-timed-75-3",
+      "suppliedText": "C'est bon pour tout ce que tu as - Bonsoir, la compagnie! - Voici le plus joli!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 733,
+        "anchorEnd": 743.71,
+        "sourceLineNumber": 75,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 744,
+      "sourceText": "Les musiciens, voici vos partitions!",
+      "ipa": "[le myzisjɛ̃ vwasi vo paʁtisjɔ̃]",
+      "ear": "莱 米于齐斯耶安 弗乌阿西 沃 帕赫蒂斯耶翁",
+      "meaning": "音乐家们，这是你们的乐谱！",
+      "sourceLineId": "mozart-timed-76-1",
+      "suppliedText": "- Les musiciens, voici vos partitions! - Une dernière tournée? - Allez! - Wolfgang, ça suffit!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 744,
+        "anchorEnd": 750.81,
+        "sourceLineNumber": 76,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 746.951,
+      "sourceText": "Une dernière tournée?",
+      "ipa": "[yn dɛʁnjɛʁ tuʁne]",
+      "ear": "于恩 戴赫恩耶艾赫 图赫内",
+      "meaning": "再来最后一轮酒？",
+      "sourceLineId": "mozart-timed-76-2",
+      "suppliedText": "- Les musiciens, voici vos partitions! - Une dernière tournée? - Allez! - Wolfgang, ça suffit!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 744,
+        "anchorEnd": 750.81,
+        "sourceLineNumber": 76,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 749.221,
+      "sourceText": "Allez!",
+      "ipa": "[ale]",
+      "ear": "阿莱",
+      "meaning": "来吧！",
+      "sourceLineId": "mozart-timed-76-3",
+      "suppliedText": "- Les musiciens, voici vos partitions! - Une dernière tournée? - Allez! - Wolfgang, ça suffit!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 744,
+        "anchorEnd": 750.81,
+        "sourceLineNumber": 76,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 749.675,
+      "sourceText": "Wolfgang, ça suffit!",
+      "ipa": "[vɔlfɡɑ̃ɡ sa syfi]",
+      "ear": "沃勒弗冈格 萨 西于菲",
+      "meaning": "沃尔夫冈，够了！",
+      "sourceLineId": "mozart-timed-76-4",
+      "suppliedText": "- Les musiciens, voici vos partitions! - Une dernière tournée? - Allez! - Wolfgang, ça suffit!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 744,
+        "anchorEnd": 750.81,
+        "sourceLineNumber": 76,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 751,
+      "sourceText": "Si, nous buvons à mon 1er concert ici, à Mannheim!",
+      "ipa": "[si nu byvɔ̃ a mɔ̃n‿yne kɔ̃sɛʁ‿isi a mɑ̃najm]",
+      "ear": "西 努 比于翁 阿 蒙恩 于内 孔塞赫 伊西 阿 芒纳耶姆",
+      "meaning": "我们正在为我在曼海姆的第一场音乐会干杯！",
+      "sourceLineId": "mozart-timed-77-1",
+      "suppliedText": "Si, nous buvons à mon 1er concert ici, à Mannheim! - Ah, ça va violoner! - Vive Mozart et vive la musique!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 751,
+        "anchorEnd": 757.86,
+        "sourceLineNumber": 77,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 754.136,
+      "sourceText": "Ah, ça va violoner!",
+      "ipa": "[a sa va vjolone]",
+      "ear": "阿 萨 瓦 弗耶奥洛内",
+      "meaning": "啊，这下有音乐听了！",
+      "sourceLineId": "mozart-timed-77-2",
+      "suppliedText": "Si, nous buvons à mon 1er concert ici, à Mannheim! - Ah, ça va violoner! - Vive Mozart et vive la musique!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 751,
+        "anchorEnd": 757.86,
+        "sourceLineNumber": 77,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 755.508,
+      "sourceText": "Vive Mozart et vive la musique!",
+      "ipa": "[viv mɔtsaʁ e viv la myzik]",
+      "ear": "维弗 莫特萨赫 诶 维弗 拉 米于齐克",
+      "meaning": "莫扎特和音乐万岁！",
+      "sourceLineId": "mozart-timed-77-3",
+      "suppliedText": "Si, nous buvons à mon 1er concert ici, à Mannheim! - Ah, ça va violoner! - Vive Mozart et vive la musique!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 751,
+        "anchorEnd": 757.86,
+        "sourceLineNumber": 77,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 758,
+      "sourceText": "Ouais!",
+      "ipa": "[wɛ]",
+      "ear": "乌艾",
+      "meaning": "是啊！",
+      "sourceLineId": "mozart-timed-78-1",
+      "suppliedText": "Ouais! Dis donc, l'artiste, je te trouve bien sûr de toi.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 758,
+        "anchorEnd": 763.62,
+        "sourceLineNumber": 78,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 759.124,
+      "sourceText": "Dis donc, l'artiste, je te trouve bien sûr de toi.",
+      "ipa": "[di dɔ̃k laʁtist ʒə tə tʁuv bjɛ̃ syʁ də twa]",
+      "ear": "迪 东克 拉赫蒂斯特 热 特 特胡弗 布耶安 西于赫 德 特乌阿",
+      "meaning": "说吧，艺术家，我发现你对自己非常有信心。",
+      "sourceLineId": "mozart-timed-78-2",
+      "suppliedText": "Ouais! Dis donc, l'artiste, je te trouve bien sûr de toi.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 758,
+        "anchorEnd": 763.62,
+        "sourceLineNumber": 78,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 764,
+      "sourceText": "Tu t'es pas fait renvoyer de Salzbourg?",
+      "ipa": "[ty tɛ pa fɛ ʁɑ̃vwaje də salzbuʁ]",
+      "ear": "蒂于 泰 帕 费 杭弗乌阿耶诶 德 萨勒兹布赫",
+      "meaning": "你不是被赶出了萨尔茨堡吗？",
+      "sourceLineId": "mozart-timed-79-1",
+      "suppliedText": "Tu t'es pas fait renvoyer de Salzbourg? - Monsieur, qui vous permet? - Maman! C'est vrai, Mozart!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 764,
+        "anchorEnd": 771.86,
+        "sourceLineNumber": 79,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 767.406,
+      "sourceText": "Monsieur, qui vous permet?",
+      "ipa": "[məsjø ki vu pɛʁmɛ]",
+      "ear": "默斯耶厄 基 乌 佩赫梅",
+      "meaning": "先生，谁允许你？",
+      "sourceLineId": "mozart-timed-79-2",
+      "suppliedText": "Tu t'es pas fait renvoyer de Salzbourg? - Monsieur, qui vous permet? - Maman! C'est vrai, Mozart!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 764,
+        "anchorEnd": 771.86,
+        "sourceLineNumber": 79,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 770.026,
+      "sourceText": "Maman!",
+      "ipa": "[mamɑ̃]",
+      "ear": "玛芒",
+      "meaning": "妈妈！",
+      "sourceLineId": "mozart-timed-79-3",
+      "suppliedText": "Tu t'es pas fait renvoyer de Salzbourg? - Monsieur, qui vous permet? - Maman! C'est vrai, Mozart!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 764,
+        "anchorEnd": 771.86,
+        "sourceLineNumber": 79,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 770.55,
+      "sourceText": "C'est vrai, Mozart!",
+      "ipa": "[sɛ vʁɛ mɔtsaʁ]",
+      "ear": "塞 弗赫 莫特萨赫",
+      "meaning": "确实如此，莫扎特！",
+      "sourceLineId": "mozart-timed-79-4",
+      "suppliedText": "Tu t'es pas fait renvoyer de Salzbourg? - Monsieur, qui vous permet? - Maman! C'est vrai, Mozart!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 764,
+        "anchorEnd": 771.86,
+        "sourceLineNumber": 79,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 772,
+      "sourceText": "On sait que Colloredo s'est débarrassé de toi.",
+      "ipa": "[ɔ̃ sɛ kə kɔlɔʁedo sɛ debaʁase də twa]",
+      "ear": "翁 塞 克 科洛赫多 塞 德巴哈塞 德 特乌阿",
+      "meaning": "我们知道科洛雷多摆脱了你。",
+      "sourceLineId": "mozart-timed-80-1",
+      "suppliedText": "On sait que Colloredo s'est débarrassé de toi. Il n'a pas été renvoyé, monsieur, c'est lui qui est parti.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 772,
+        "anchorEnd": 779.82,
+        "sourceLineNumber": 80,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 775.498,
+      "sourceText": "Il n'a pas été renvoyé, monsieur, c'est lui qui est parti.",
+      "ipa": "[il na pa ete ʁɑ̃vwaje məsjø sɛ lɥi ki ɛ paʁti]",
+      "ear": "伊勒 纳 帕 诶特 杭弗乌阿耶诶 默斯耶厄 塞 勒于伊 基 艾 帕赫蒂",
+      "meaning": "他没有被解雇，先生，是他离开了。",
+      "sourceLineId": "mozart-timed-80-2",
+      "suppliedText": "On sait que Colloredo s'est débarrassé de toi. Il n'a pas été renvoyé, monsieur, c'est lui qui est parti.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 772,
+        "anchorEnd": 779.82,
+        "sourceLineNumber": 80,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 780,
+      "sourceText": "Non, sans blague?",
+      "ipa": "[nɔ̃ sɑ̃ blaɡ]",
+      "ear": "农 桑 布拉格",
+      "meaning": "真的假的？",
+      "sourceLineId": "mozart-timed-81-1",
+      "suppliedText": "- Non, sans blague? - Parfaitement. Ici, je composerai un grand opéra! En allemand!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 780,
+        "anchorEnd": 787,
+        "sourceLineNumber": 81,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 781.296,
+      "sourceText": "Parfaitement.",
+      "ipa": "[paʁfɛtmɑ̃]",
+      "ear": "帕赫费特芒",
+      "meaning": "正是如此。",
+      "sourceLineId": "mozart-timed-81-2",
+      "suppliedText": "- Non, sans blague? - Parfaitement. Ici, je composerai un grand opéra! En allemand!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 780,
+        "anchorEnd": 787,
+        "sourceLineNumber": 81,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 782.593,
+      "sourceText": "Ici, je composerai un grand opéra!",
+      "ipa": "[isi ʒə kɔ̃pozʁe œ̃ ɡʁɑ̃t‿opeʁa]",
+      "ear": "伊西 热 孔波兹赫 恩 格杭特 奥佩哈",
+      "meaning": "在这里，我将谱写一出宏大的歌剧！",
+      "sourceLineId": "mozart-timed-81-3",
+      "suppliedText": "- Non, sans blague? - Parfaitement. Ici, je composerai un grand opéra! En allemand!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 780,
+        "anchorEnd": 787,
+        "sourceLineNumber": 81,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 785.963,
+      "sourceText": "En allemand!",
+      "ipa": "[ɑ̃n‿almɑ̃]",
+      "ear": "昂恩 阿勒芒",
+      "meaning": "用德语！",
+      "sourceLineId": "mozart-timed-81-4",
+      "suppliedText": "- Non, sans blague? - Parfaitement. Ici, je composerai un grand opéra! En allemand!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 780,
+        "anchorEnd": 787,
+        "sourceLineNumber": 81,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 787,
+      "sourceText": "Non mais vous entendez?",
+      "ipa": "[nɔ̃ mɛ vuz‿ɑ̃tɑ̃de]",
+      "ear": "农 梅 乌兹 昂唐德",
+      "meaning": "不，但是你听到了吗？",
+      "sourceLineId": "mozart-timed-82-1",
+      "suppliedText": "Non mais vous entendez? Un opéra en allemand! Et pourquoi pas en français? Ou en chinois!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 787,
+        "anchorEnd": 794.14,
+        "sourceLineNumber": 82,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 788.731,
+      "sourceText": "Un opéra en allemand!",
+      "ipa": "[œ̃n‿opeʁa ɑ̃n‿almɑ̃]",
+      "ear": "恩恩 奥佩哈 昂恩 阿勒芒",
+      "meaning": "德语歌剧！",
+      "sourceLineId": "mozart-timed-82-2",
+      "suppliedText": "Non mais vous entendez? Un opéra en allemand! Et pourquoi pas en français? Ou en chinois!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 787,
+        "anchorEnd": 794.14,
+        "sourceLineNumber": 82,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 790.462,
+      "sourceText": "Et pourquoi pas en français?",
+      "ipa": "[e puʁkwa pa ɑ̃ fʁɑ̃sɛ]",
+      "ear": "诶 普赫克乌阿 帕 昂 弗杭塞",
+      "meaning": "为什么不用法语？",
+      "sourceLineId": "mozart-timed-82-3",
+      "suppliedText": "Non mais vous entendez? Un opéra en allemand! Et pourquoi pas en français? Ou en chinois!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 787,
+        "anchorEnd": 794.14,
+        "sourceLineNumber": 82,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 792.842,
+      "sourceText": "Ou en chinois!",
+      "ipa": "[u ɑ̃ ʃinwa]",
+      "ear": "乌 昂 希恩乌阿",
+      "meaning": "还是中文的！",
+      "sourceLineId": "mozart-timed-82-4",
+      "suppliedText": "Non mais vous entendez? Un opéra en allemand! Et pourquoi pas en français? Ou en chinois!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 787,
+        "anchorEnd": 794.14,
+        "sourceLineNumber": 82,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 796,
+      "sourceText": "Apprenez, petit jeune homme, qu'ici, on a du goût.",
+      "ipa": "[apʁəne pəti ʒøn‿ɔm kisi ɔ̃n‿a dy ɡu]",
+      "ear": "阿普赫内 珀蒂 热厄恩 哦姆 基西 翁恩 阿 迪于 古",
+      "meaning": "小伙子，你得知道，我们这里的人很讲究品味。",
+      "sourceLineId": "mozart-timed-83-1",
+      "suppliedText": "Apprenez, petit jeune homme, qu'ici, on a du goût.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 796,
+        "anchorEnd": 799,
+        "sourceLineNumber": 83,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 799,
+      "sourceText": "Oui.",
+      "ipa": "[wi]",
+      "ear": "乌伊",
+      "meaning": "是的。",
+      "sourceLineId": "mozart-timed-84-1",
+      "suppliedText": "- Oui. - Et qu'il n'y a de bon opéra qu'en Italien!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 799,
+        "anchorEnd": 807,
+        "sourceLineNumber": 84,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 800.263,
+      "sourceText": "Et qu'il n'y a de bon opéra qu'en",
+      "ipa": "[e kil ni a də bɔ̃n‿opeʁa kɑ̃]",
+      "ear": "诶 基勒 尼 阿 德 崩恩 奥佩哈 康",
+      "meaning": "而且只有好的歌剧",
+      "sourceLineId": "mozart-timed-84-2",
+      "suppliedText": "- Oui. - Et qu'il n'y a de bon opéra qu'en Italien!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 799,
+        "anchorEnd": 807,
+        "sourceLineNumber": 84,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 805.316,
+      "sourceText": "Italien!",
+      "ipa": "[italjɛ̃]",
+      "ear": "伊塔勒耶安",
+      "meaning": "意大利语！",
+      "sourceLineId": "mozart-timed-84-3",
+      "suppliedText": "- Oui. - Et qu'il n'y a de bon opéra qu'en Italien!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 799,
+        "anchorEnd": 807,
+        "sourceLineNumber": 84,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 807,
+      "sourceText": "Je me fous de votre bon goût et de vos préjugés.",
+      "ipa": "[ʒə mə fu də votʁ bɔ̃ ɡu e də vo pʁeʒyʒe]",
+      "ear": "热 默 富 德 沃特赫 崩 古 诶 德 沃 普赫日于热",
+      "meaning": "我不在乎你的品味和你的偏见。",
+      "sourceLineId": "mozart-timed-85-1",
+      "suppliedText": "Je me fous de votre bon goût et de vos préjugés.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 807,
+        "anchorEnd": 810,
+        "sourceLineNumber": 85,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

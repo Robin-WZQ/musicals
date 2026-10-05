@@ -1,0 +1,1008 @@
+{
+  "videoId": "mozart-2010-17",
+  "playbackVideoId": "83Qn2IvP_-I",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "97aaf400c790393fcb53f1f43bb1002cc0955e5fa8ec3c8c767c03260daed16c",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "法语原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "2010年巴黎原唱录像",
+      "url": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=5543"
+    }
+  ],
+  "entries": [
+    {
+      "start": 5543,
+      "sourceText": "Tous ceux qui s'aiment",
+      "ipa": "[tus sø ki sɛm]",
+      "ear": "图斯 瑟厄 基 塞姆",
+      "meaning": "所有相爱的人。",
+      "sourceLineId": "mozart-timed-602-1",
+      "suppliedText": "Tous ceux qui s'aiment # Vive les noces de Figaro # Vive Figaro!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5543,
+        "anchorEnd": 5557.059,
+        "sourceLineNumber": 602,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5552.038,
+      "sourceText": "Vive Figaro!",
+      "ipa": "[viv fiɡaʁo]",
+      "ear": "维弗 菲嘎霍",
+      "meaning": "费加罗万岁！",
+      "sourceLineId": "mozart-timed-602-2",
+      "suppliedText": "Tous ceux qui s'aiment # Vive les noces de Figaro # Vive Figaro!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5543,
+        "anchorEnd": 5557.059,
+        "sourceLineNumber": 602,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5559,
+      "sourceText": "Aloysia!",
+      "ipa": "[alwazja]",
+      "ear": "阿勒乌阿兹耶阿",
+      "meaning": "阿洛伊西娅！",
+      "sourceLineId": "mozart-timed-604-1",
+      "suppliedText": "Aloysia! Aloysia, jeune sœur.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5559,
+        "anchorEnd": 5563.7,
+        "sourceLineNumber": 604,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5560.567,
+      "sourceText": "Aloysia, jeune sœur.",
+      "ipa": "[alwazja ʒøn sœʁ]",
+      "ear": "阿勒乌阿兹耶阿 热厄恩 瑟厄赫",
+      "meaning": "阿洛伊西娅，妹妹。",
+      "sourceLineId": "mozart-timed-604-2",
+      "suppliedText": "Aloysia! Aloysia, jeune sœur.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5559,
+        "anchorEnd": 5563.7,
+        "sourceLineNumber": 604,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5565,
+      "sourceText": "Faisons la noce",
+      "ipa": "[fəzɔ̃ la nɔs]",
+      "ear": "弗宗 拉 诺斯",
+      "meaning": "让我们一起欢庆。",
+      "sourceLineId": "mozart-timed-605-1",
+      "suppliedText": "Faisons la noce Pour fêter Figaro",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5565,
+        "anchorEnd": 5570.98,
+        "sourceLineNumber": 605,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5567.76,
+      "sourceText": "Pour fêter Figaro",
+      "ipa": "[puʁ fɛte fiɡaʁo]",
+      "ear": "普赫 费特 菲嘎霍",
+      "meaning": "为费加罗庆祝。",
+      "sourceLineId": "mozart-timed-605-2",
+      "suppliedText": "Faisons la noce Pour fêter Figaro",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5565,
+        "anchorEnd": 5570.98,
+        "sourceLineNumber": 605,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5573,
+      "sourceText": "Mozart est un génie",
+      "ipa": "[mɔtsaʁ‿ɛt‿œ̃ ʒeni]",
+      "ear": "莫特萨赫 艾特 恩 热尼",
+      "meaning": "莫扎特是天才。",
+      "sourceLineId": "mozart-timed-606-1",
+      "suppliedText": "Mozart est un génie Quel tour de force",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5573,
+        "anchorEnd": 5581,
+        "sourceLineNumber": 606,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5577.0,
+      "sourceText": "Quel tour de force",
+      "ipa": "[kɛl tuʁ də fɔʁs]",
+      "ear": "凯勒 图赫 德 佛赫斯",
+      "meaning": "真是一场壮举。",
+      "sourceLineId": "mozart-timed-606-2",
+      "suppliedText": "Mozart est un génie Quel tour de force",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5573,
+        "anchorEnd": 5581,
+        "sourceLineNumber": 606,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5581,
+      "sourceText": "Sortir sous les bravos",
+      "ipa": "[sɔʁtiʁ su le bʁavo]",
+      "ear": "索赫蒂赫 苏 莱 布哈沃",
+      "meaning": "在喝彩中谢幕。",
+      "sourceLineId": "mozart-timed-607-1",
+      "suppliedText": "Sortir sous les bravos Devant tant d'ennemis",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5581,
+        "anchorEnd": 5590,
+        "sourceLineNumber": 607,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5585.846,
+      "sourceText": "Devant tant d'ennemis",
+      "ipa": "[dəvɑ̃ tɑ̃ dɛnmi]",
+      "ear": "德旺 唐 戴恩米",
+      "meaning": "面对那么多敌人。",
+      "sourceLineId": "mozart-timed-607-2",
+      "suppliedText": "Sortir sous les bravos Devant tant d'ennemis",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5581,
+        "anchorEnd": 5590,
+        "sourceLineNumber": 607,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5590,
+      "sourceText": "Malgré les malfaisants, Mozart a réussi",
+      "ipa": "[malɡʁe le malfəzɑ̃ mɔtsaʁ‿a ʁeysi]",
+      "ear": "玛勒格赫 莱 玛勒弗赞 莫特萨赫 阿 赫于西",
+      "meaning": "任凭恶人阻挠，莫扎特还是成功了。",
+      "sourceLineId": "mozart-timed-608-1",
+      "suppliedText": "Malgré les malfaisants, Mozart a reussi Malgré les intrigants, le triomphe est acquis Au nez des courtisans, il en ressort grandi",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5590,
+        "anchorEnd": 5600,
+        "sourceLineNumber": 608,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5593.171,
+      "sourceText": "Malgré les intrigants, le triomphe est acquis",
+      "ipa": "[malɡʁe lez‿ɛ̃tʁiɡɑ̃ lə tʁiɔ̃f‿ɛt‿aki]",
+      "ear": "玛勒格赫 莱兹 安特希冈 勒 特希翁弗 艾特 阿基",
+      "meaning": "任凭阴谋家算计，胜利已经到手。",
+      "sourceLineId": "mozart-timed-608-2",
+      "suppliedText": "Malgré les malfaisants, Mozart a reussi Malgré les intrigants, le triomphe est acquis Au nez des courtisans, il en ressort grandi",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5590,
+        "anchorEnd": 5600,
+        "sourceLineNumber": 608,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5596.585,
+      "sourceText": "Au nez des courtisans, il en ressort grandi",
+      "ipa": "[o ne de kuʁtizɑ̃ il‿ɑ̃ ʁəsɔʁ ɡʁɑ̃di]",
+      "ear": "奥 内 德 库赫蒂赞 伊勒 昂 赫索赫 格杭迪",
+      "meaning": "当着朝臣们的面，他更加光彩夺目。",
+      "sourceLineId": "mozart-timed-608-3",
+      "suppliedText": "Malgré les malfaisants, Mozart a reussi Malgré les intrigants, le triomphe est acquis Au nez des courtisans, il en ressort grandi",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5590,
+        "anchorEnd": 5600,
+        "sourceLineNumber": 608,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5600,
+      "sourceText": "La vipère Rosenberg est au tapis",
+      "ipa": "[la vipɛʁ ʁozɑ̃bɛʁɡ‿ɛt‿o tapi]",
+      "ear": "拉 维佩赫 霍赞贝赫格 艾特 奥 塔皮",
+      "meaning": "毒蛇罗森伯格被彻底击倒了。",
+      "sourceLineId": "mozart-timed-609-1",
+      "suppliedText": "La vipère Rosenberg est au tapis Vive Figaro!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5600,
+        "anchorEnd": 5605.9,
+        "sourceLineNumber": 609,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5604.165,
+      "sourceText": "Vive Figaro!",
+      "ipa": "[viv fiɡaʁo]",
+      "ear": "维弗 菲嘎霍",
+      "meaning": "费加罗万岁！",
+      "sourceLineId": "mozart-timed-609-2",
+      "suppliedText": "La vipère Rosenberg est au tapis Vive Figaro!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5600,
+        "anchorEnd": 5605.9,
+        "sourceLineNumber": 609,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5613,
+      "sourceText": "Youhou!",
+      "ipa": "[juu]",
+      "ear": "耶乌乌",
+      "meaning": "喔嗬！",
+      "sourceLineId": "mozart-timed-610-1",
+      "suppliedText": "Youhou! Je peux m'amuser? J'aimerais apporter ma contribution à votre petite fête.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5613,
+        "anchorEnd": 5620.9,
+        "sourceLineNumber": 610,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5614.197,
+      "sourceText": "Je peux m'amuser?",
+      "ipa": "[ʒə pø mamyze]",
+      "ear": "热 珀厄 玛米于泽",
+      "meaning": "我也能来凑个热闹吗？",
+      "sourceLineId": "mozart-timed-610-2",
+      "suppliedText": "Youhou! Je peux m'amuser? J'aimerais apporter ma contribution à votre petite fête.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5613,
+        "anchorEnd": 5620.9,
+        "sourceLineNumber": 610,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5615.633,
+      "sourceText": "J'aimerais apporter ma contribution à votre petite fête.",
+      "ipa": "[ʒɛmʁɛ apɔʁte ma kɔ̃tʁibysjɔ̃ a votʁ pətit fɛt]",
+      "ear": "热姆赫 阿珀赫特 玛 孔特希比于斯耶翁 阿 沃特赫 珀蒂特 费特",
+      "meaning": "我也想给你们这场小庆祝添点节目。",
+      "sourceLineId": "mozart-timed-610-3",
+      "suppliedText": "Youhou! Je peux m'amuser? J'aimerais apporter ma contribution à votre petite fête.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5613,
+        "anchorEnd": 5620.9,
+        "sourceLineNumber": 610,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5621,
+      "sourceText": "Finies,",
+      "ipa": "[fini]",
+      "ear": "菲尼",
+      "meaning": "结束了，",
+      "sourceLineId": "mozart-timed-611-1",
+      "suppliedText": "Finies, Les Noces de Figaro! Retiré de l'affiche, sur ordre de Sa Majesté. Mais enfin, vous mentez. Jamais l'empereur trahirait mon mari!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5621,
+        "anchorEnd": 5631,
+        "sourceLineNumber": 611,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5621.638,
+      "sourceText": "Les Noces de Figaro!",
+      "ipa": "[le nos də fiɡaʁo]",
+      "ear": "莱 诺斯 德 菲嘎霍",
+      "meaning": "《费加罗的婚礼》！",
+      "sourceLineId": "mozart-timed-611-2",
+      "suppliedText": "Finies, Les Noces de Figaro! Retiré de l'affiche, sur ordre de Sa Majesté. Mais enfin, vous mentez. Jamais l'empereur trahirait mon mari!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5621,
+        "anchorEnd": 5631,
+        "sourceLineNumber": 611,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5623.128,
+      "sourceText": "Retiré de l'affiche, sur ordre de",
+      "ipa": "[ʁətiʁe də lafiʃ syʁ‿ɔʁdʁ də]",
+      "ear": "赫蒂赫 德 拉菲什 西于赫 哦赫德赫 德",
+      "meaning": "已被撤出演出，奉……之命。",
+      "sourceLineId": "mozart-timed-611-3",
+      "suppliedText": "Finies, Les Noces de Figaro! Retiré de l'affiche, sur ordre de Sa Majesté. Mais enfin, vous mentez. Jamais l'empereur trahirait mon mari!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5621,
+        "anchorEnd": 5631,
+        "sourceLineNumber": 611,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5625.468,
+      "sourceText": "Sa Majesté.",
+      "ipa": "[sa maʒɛste]",
+      "ear": "萨 玛热斯特",
+      "meaning": "皇帝陛下。",
+      "sourceLineId": "mozart-timed-611-4",
+      "suppliedText": "Finies, Les Noces de Figaro! Retiré de l'affiche, sur ordre de Sa Majesté. Mais enfin, vous mentez. Jamais l'empereur trahirait mon mari!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5621,
+        "anchorEnd": 5631,
+        "sourceLineNumber": 611,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5626.319,
+      "sourceText": "Mais enfin, vous mentez.",
+      "ipa": "[mɛ ɑ̃fɛ̃ vu mɑ̃te]",
+      "ear": "梅 昂凡 乌 芒特",
+      "meaning": "你根本是在撒谎。",
+      "sourceLineId": "mozart-timed-611-5",
+      "suppliedText": "Finies, Les Noces de Figaro! Retiré de l'affiche, sur ordre de Sa Majesté. Mais enfin, vous mentez. Jamais l'empereur trahirait mon mari!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5621,
+        "anchorEnd": 5631,
+        "sourceLineNumber": 611,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5628.021,
+      "sourceText": "Jamais l'empereur trahirait mon mari!",
+      "ipa": "[ʒamɛ lɑ̃pʁœʁ tʁaiʁɛ mɔ̃ maʁi]",
+      "ear": "扎梅 朗普赫厄赫 特哈伊赫 蒙 玛希",
+      "meaning": "皇帝绝不会背弃我的丈夫！",
+      "sourceLineId": "mozart-timed-611-6",
+      "suppliedText": "Finies, Les Noces de Figaro! Retiré de l'affiche, sur ordre de Sa Majesté. Mais enfin, vous mentez. Jamais l'empereur trahirait mon mari!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5621,
+        "anchorEnd": 5631,
+        "sourceLineNumber": 611,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5631,
+      "sourceText": "Vous l'avez monté contre Mozart",
+      "ipa": "[vu lave mɔ̃te kɔ̃tʁ mɔtsaʁ]",
+      "ear": "乌 拉韦 蒙特 孔特赫 莫特萨赫",
+      "meaning": "是你挑拨他对付莫扎特，",
+      "sourceLineId": "mozart-timed-612-1",
+      "suppliedText": "Vous l'avez monté contre Mozart - avec vos calomnies! - Psst! Wolfgang est le plus grand compositeur de Vienne!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5631,
+        "anchorEnd": 5640,
+        "sourceLineNumber": 612,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5633.727,
+      "sourceText": "avec vos calomnies!",
+      "ipa": "[avɛk vo kalɔmni]",
+      "ear": "阿韦克 沃 卡洛姆尼",
+      "meaning": "用的全是诽谤！",
+      "sourceLineId": "mozart-timed-612-2",
+      "suppliedText": "Vous l'avez monté contre Mozart - avec vos calomnies! - Psst! Wolfgang est le plus grand compositeur de Vienne!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5631,
+        "anchorEnd": 5640,
+        "sourceLineNumber": 612,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5635.636,
+      "sourceText": "Psst!",
+      "ipa": "[peɛsɛste]",
+      "ear": "佩艾塞斯特",
+      "meaning": "嘘！",
+      "sourceLineId": "mozart-timed-612-3",
+      "suppliedText": "Vous l'avez monté contre Mozart - avec vos calomnies! - Psst! Wolfgang est le plus grand compositeur de Vienne!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5631,
+        "anchorEnd": 5640,
+        "sourceLineNumber": 612,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5635.909,
+      "sourceText": "Wolfgang est le plus grand compositeur de Vienne!",
+      "ipa": "[vɔlfɡɑ̃ɡ‿ɛ lə ply ɡʁɑ̃ kɔ̃pozitœʁ də vjɛn]",
+      "ear": "沃勒弗冈格 艾 勒 普吕 格杭 孔波齐特厄赫 德 弗耶艾恩",
+      "meaning": "沃尔夫冈是维也纳最伟大的作曲家！",
+      "sourceLineId": "mozart-timed-612-4",
+      "suppliedText": "Vous l'avez monté contre Mozart - avec vos calomnies! - Psst! Wolfgang est le plus grand compositeur de Vienne!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5631,
+        "anchorEnd": 5640,
+        "sourceLineNumber": 612,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5640,
+      "sourceText": "Ouais!",
+      "ipa": "[wɛ]",
+      "ear": "乌艾",
+      "meaning": "是啊！",
+      "sourceLineId": "mozart-timed-613-1",
+      "suppliedText": "Ouais!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5640,
+        "anchorEnd": 5642,
+        "sourceLineNumber": 613,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5642,
+      "sourceText": "Une furie!",
+      "ipa": "[yn fyʁi]",
+      "ear": "于恩 菲于希",
+      "meaning": "真是个泼妇！",
+      "sourceLineId": "mozart-timed-614-1",
+      "suppliedText": "Une furie! Vous direz à votre compositeur qu'il n'est plus rien! Toutes les portes lui seront fermées. Plus personne ne voudra de lui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5642,
+        "anchorEnd": 5651,
+        "sourceLineNumber": 614,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5642.957,
+      "sourceText": "Vous direz à votre compositeur qu'il n'est plus rien!",
+      "ipa": "[vu diʁe a votʁ kɔ̃pozitœʁ kil nɛ ply ʁjɛ̃]",
+      "ear": "乌 迪赫 阿 沃特赫 孔波齐特厄赫 基勒 奈 普吕 赫耶安",
+      "meaning": "告诉你那位作曲家，他已经什么都不是了！",
+      "sourceLineId": "mozart-timed-614-2",
+      "suppliedText": "Une furie! Vous direz à votre compositeur qu'il n'est plus rien! Toutes les portes lui seront fermées. Plus personne ne voudra de lui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5642,
+        "anchorEnd": 5651,
+        "sourceLineNumber": 614,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5646.404,
+      "sourceText": "Toutes les portes lui seront fermées.",
+      "ipa": "[tut le pɔʁt lɥi səʁɔ̃ fɛʁme]",
+      "ear": "图特 莱 珀赫特 勒于伊 瑟洪 费赫梅",
+      "meaning": "所有人都会把他拒之门外。",
+      "sourceLineId": "mozart-timed-614-3",
+      "suppliedText": "Une furie! Vous direz à votre compositeur qu'il n'est plus rien! Toutes les portes lui seront fermées. Plus personne ne voudra de lui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5642,
+        "anchorEnd": 5651,
+        "sourceLineNumber": 614,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5648.894,
+      "sourceText": "Plus personne ne voudra de lui.",
+      "ipa": "[ply pɛʁsɔn nə vudʁa də lɥi]",
+      "ear": "普吕 佩赫索恩 讷 乌德哈 德 勒于伊",
+      "meaning": "再也没人肯要他了。",
+      "sourceLineId": "mozart-timed-614-4",
+      "suppliedText": "Une furie! Vous direz à votre compositeur qu'il n'est plus rien! Toutes les portes lui seront fermées. Plus personne ne voudra de lui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5642,
+        "anchorEnd": 5651,
+        "sourceLineNumber": 614,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5651,
+      "sourceText": "Personne!",
+      "ipa": "[pɛʁsɔn]",
+      "ear": "佩赫索恩",
+      "meaning": "一个都没有！",
+      "sourceLineId": "mozart-timed-615-1",
+      "suppliedText": "Personne! Personne!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5651,
+        "anchorEnd": 5653.9,
+        "sourceLineNumber": 615,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5652.45,
+      "sourceText": "Personne!",
+      "ipa": "[pɛʁsɔn]",
+      "ear": "佩赫索恩",
+      "meaning": "一个都没有！",
+      "sourceLineId": "mozart-timed-615-2",
+      "suppliedText": "Personne! Personne!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5651,
+        "anchorEnd": 5653.9,
+        "sourceLineNumber": 615,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5668,
+      "sourceText": "Non, Mozart, cette fin ne va pas du tout.",
+      "ipa": "[nɔ̃ mɔtsaʁ sɛt fɛ̃ nə va pa dy tu]",
+      "ear": "农 莫特萨赫 塞特 凡 讷 瓦 帕 迪于 图",
+      "meaning": "不行，莫扎特，这个结尾完全不合适。",
+      "sourceLineId": "mozart-timed-616-1",
+      "suppliedText": "Non, Mozart, cette fin ne va pas du tout.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5668,
+        "anchorEnd": 5671,
+        "sourceLineNumber": 616,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5671,
+      "sourceText": "Don Juan englouti dans",
+      "ipa": "[dɔ̃ ʒyɑ̃ ɑ̃ɡluti dɑ̃]",
+      "ear": "东 日于昂 昂格卢蒂 当",
+      "meaning": "唐璜被吞入——",
+      "sourceLineId": "mozart-timed-617-1",
+      "suppliedText": "Don Juan englouti dans Les Enfers! On ne peut pas terminer ainsi, il nous faut une scène ultime, une note positive.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5671,
+        "anchorEnd": 5679,
+        "sourceLineNumber": 617,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5672.524,
+      "sourceText": "Les Enfers!",
+      "ipa": "[lez‿ɑ̃fɛʁ]",
+      "ear": "莱兹 昂费赫",
+      "meaning": "地狱！",
+      "sourceLineId": "mozart-timed-617-2",
+      "suppliedText": "Don Juan englouti dans Les Enfers! On ne peut pas terminer ainsi, il nous faut une scène ultime, une note positive.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5671,
+        "anchorEnd": 5679,
+        "sourceLineNumber": 617,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5673.095,
+      "sourceText": "On ne peut pas terminer ainsi, il nous faut une scène ultime, une note positive.",
+      "ipa": "[ɔ̃ nə pø pa tɛʁmine ɛ̃si il nu fo yn sɛn‿yltim yn nɔt pozitiv]",
+      "ear": "翁 讷 珀厄 帕 泰赫米内 安西 伊勒 努 佛 于恩 塞恩 于勒蒂姆 于恩 诺特 波齐蒂弗",
+      "meaning": "不能就这样结束，得再加一场，给观众一点希望。",
+      "sourceLineId": "mozart-timed-617-3",
+      "suppliedText": "Don Juan englouti dans Les Enfers! On ne peut pas terminer ainsi, il nous faut une scène ultime, une note positive.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5671,
+        "anchorEnd": 5679,
+        "sourceLineNumber": 617,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5679,
+      "sourceText": "Il faut absolument effacer l'effet désastreux des Noces de Figaro.",
+      "ipa": "[il fo absolymɑ̃ efase lefɛ dezastʁø de nos də fiɡaʁo]",
+      "ear": "伊勒 佛 阿布索吕芒 诶法塞 莱费 德扎斯特赫厄 德 诺斯 德 菲嘎霍",
+      "meaning": "必须挽回《费加罗的婚礼》留下的糟糕印象。",
+      "sourceLineId": "mozart-timed-618-1",
+      "suppliedText": "Il faut absolument effacer l'effet désastreux des Noces de Figaro. Vous devez vous réconcilier avec votre public. Quel public?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5679,
+        "anchorEnd": 5688,
+        "sourceLineNumber": 618,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5683.705,
+      "sourceText": "Vous devez vous réconcilier avec votre public.",
+      "ipa": "[vu dəve vu ʁekɔ̃silje avɛk votʁ pyblik]",
+      "ear": "乌 德韦 乌 赫孔西勒耶诶 阿韦克 沃特赫 普于布利克",
+      "meaning": "你得重新赢回观众。",
+      "sourceLineId": "mozart-timed-618-2",
+      "suppliedText": "Il faut absolument effacer l'effet désastreux des Noces de Figaro. Vous devez vous réconcilier avec votre public. Quel public?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5679,
+        "anchorEnd": 5688,
+        "sourceLineNumber": 618,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5687.182,
+      "sourceText": "Quel public?",
+      "ipa": "[kɛl pyblik]",
+      "ear": "凯勒 普于布利克",
+      "meaning": "什么观众？",
+      "sourceLineId": "mozart-timed-618-3",
+      "suppliedText": "Il faut absolument effacer l'effet désastreux des Noces de Figaro. Vous devez vous réconcilier avec votre public. Quel public?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5679,
+        "anchorEnd": 5688,
+        "sourceLineNumber": 618,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5688,
+      "sourceText": "Celui qui vous célèbre un jour et qui vous abat le lendemain?",
+      "ipa": "[səlɥi ki vu selɛbʁ‿œ̃ ʒuʁ e ki vuz‿aba lə lɑ̃dmɛ̃]",
+      "ear": "瑟勒于伊 基 乌 塞莱布赫 恩 茹赫 诶 基 乌兹 阿巴 勒 朗德曼",
+      "meaning": "今天把你捧上天、明天又把你踩下去的那些人？",
+      "sourceLineId": "mozart-timed-619-1",
+      "suppliedText": "Celui qui vous célèbre un jour et qui vous abat le lendemain?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5688,
+        "anchorEnd": 5692.62,
+        "sourceLineNumber": 619,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5695,
+      "sourceText": "Mais nous sommes à 3 mois du début des répétitions, et nous n'avons même pas un acte de prêt.",
+      "ipa": "[mɛ nu sɔm‿a tʁwa mwa dy deby de ʁepetisjɔ̃ e nu navɔ̃ mɛm pa œ̃n‿akt də pʁɛ]",
+      "ear": "梅 努 索姆 阿 特赫乌阿 姆乌阿 迪于 德比于 德 赫佩蒂斯耶翁 诶 努 纳翁 梅姆 帕 恩恩 阿克特 德 普赫",
+      "meaning": "离开始排练只剩三个月了，我们连一幕都没准备好。",
+      "sourceLineId": "mozart-timed-620-1",
+      "suppliedText": "Mais nous sommes à 3 mois du début des répétitions, et nous n'avons même pas un acte de prêt. Wolfgang, que se passe-t-il?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5695,
+        "anchorEnd": 5704.9,
+        "sourceLineNumber": 620,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5702.869,
+      "sourceText": "Wolfgang, que se passe-t-il?",
+      "ipa": "[vɔlfɡɑ̃ɡ kə sə pastil]",
+      "ear": "沃勒弗冈格 克 瑟 帕斯蒂勒",
+      "meaning": "沃尔夫冈，发生什么事了？",
+      "sourceLineId": "mozart-timed-620-2",
+      "suppliedText": "Mais nous sommes à 3 mois du début des répétitions, et nous n'avons même pas un acte de prêt. Wolfgang, que se passe-t-il?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5695,
+        "anchorEnd": 5704.9,
+        "sourceLineNumber": 620,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5705,
+      "sourceText": "Mon père est malade.",
+      "ipa": "[mɔ̃ pɛʁ‿ɛ malad]",
+      "ear": "蒙 佩赫 艾 玛拉德",
+      "meaning": "我父亲病了。",
+      "sourceLineId": "mozart-timed-621-1",
+      "suppliedText": "Mon père est malade. J'ai un mauvais pressentiment. Alors, que faisons-nous?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5705,
+        "anchorEnd": 5713.06,
+        "sourceLineNumber": 621,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5707.09,
+      "sourceText": "J'ai un mauvais pressentiment.",
+      "ipa": "[ʒe œ̃ movɛ pʁɛsɑ̃timɑ̃]",
+      "ear": "热 恩 莫韦 普赫桑蒂芒",
+      "meaning": "我有种不好的预感。",
+      "sourceLineId": "mozart-timed-621-2",
+      "suppliedText": "Mon père est malade. J'ai un mauvais pressentiment. Alors, que faisons-nous?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5705,
+        "anchorEnd": 5713.06,
+        "sourceLineNumber": 621,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5710.373,
+      "sourceText": "Alors, que faisons-nous?",
+      "ipa": "[alɔʁ kə fəzɔ̃nu]",
+      "ear": "阿洛赫 克 弗宗努",
+      "meaning": "那我们怎么办？",
+      "sourceLineId": "mozart-timed-621-3",
+      "suppliedText": "Mon père est malade. J'ai un mauvais pressentiment. Alors, que faisons-nous?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5705,
+        "anchorEnd": 5713.06,
+        "sourceLineNumber": 621,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5715,
+      "sourceText": "Moi, je pars pour Salzbourg.",
+      "ipa": "[mwa ʒə paʁ puʁ salzbuʁ]",
+      "ear": "姆乌阿 热 帕赫 普赫 萨勒兹布赫",
+      "meaning": "我要回萨尔茨堡。",
+      "sourceLineId": "mozart-timed-622-1",
+      "suppliedText": "Moi, je pars pour Salzbourg. Je vais veiller sur lui. Il est trop tard, vous ne rattraperez pas le passé.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5715,
+        "anchorEnd": 5722,
+        "sourceLineNumber": 622,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5716.909,
+      "sourceText": "Je vais veiller sur lui.",
+      "ipa": "[ʒə vɛ vɛje syʁ lɥi]",
+      "ear": "热 韦 韦耶诶 西于赫 勒于伊",
+      "meaning": "我要照顾他。",
+      "sourceLineId": "mozart-timed-622-2",
+      "suppliedText": "Moi, je pars pour Salzbourg. Je vais veiller sur lui. Il est trop tard, vous ne rattraperez pas le passé.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5715,
+        "anchorEnd": 5722,
+        "sourceLineNumber": 622,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5718.818,
+      "sourceText": "Il est trop tard, vous ne rattraperez pas le passé.",
+      "ipa": "[il‿ɛ tʁo taʁ vu nə ʁatʁapʁe pa lə pase]",
+      "ear": "伊勒 艾 特霍 塔赫 乌 讷 哈特哈普赫 帕 勒 帕塞",
+      "meaning": "已经太迟了，你挽回不了过去。",
+      "sourceLineId": "mozart-timed-622-3",
+      "suppliedText": "Moi, je pars pour Salzbourg. Je vais veiller sur lui. Il est trop tard, vous ne rattraperez pas le passé.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5715,
+        "anchorEnd": 5722,
+        "sourceLineNumber": 622,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5722,
+      "sourceText": "Comment pouvez-vous dire cela?",
+      "ipa": "[kɔmɑ̃ puvevu diʁ səla]",
+      "ear": "科芒 普韦乌 迪赫 瑟拉",
+      "meaning": "你怎么能这么说？",
+      "sourceLineId": "mozart-timed-623-1",
+      "suppliedText": "Comment pouvez-vous dire cela? C'est mon père, je lui dois tout. Sûrement pas votre génie. Reprenons, s'il vous plaît.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5722,
+        "anchorEnd": 5730,
+        "sourceLineNumber": 623,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5724.256,
+      "sourceText": "C'est mon père, je lui dois tout.",
+      "ipa": "[sɛ mɔ̃ pɛʁ ʒə lɥi dwa tu]",
+      "ear": "塞 蒙 佩赫 热 勒于伊 德乌阿 图",
+      "meaning": "他是我父亲，我的一切都是他给的。",
+      "sourceLineId": "mozart-timed-623-2",
+      "suppliedText": "Comment pouvez-vous dire cela? C'est mon père, je lui dois tout. Sûrement pas votre génie. Reprenons, s'il vous plaît.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5722,
+        "anchorEnd": 5730,
+        "sourceLineNumber": 623,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5726.513,
+      "sourceText": "Sûrement pas votre génie.",
+      "ipa": "[syʁmɑ̃ pa votʁ ʒeni]",
+      "ear": "西于赫芒 帕 沃特赫 热尼",
+      "meaning": "你的天才可不是他给的。",
+      "sourceLineId": "mozart-timed-623-3",
+      "suppliedText": "Comment pouvez-vous dire cela? C'est mon père, je lui dois tout. Sûrement pas votre génie. Reprenons, s'il vous plaît.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5722,
+        "anchorEnd": 5730,
+        "sourceLineNumber": 623,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5728.359,
+      "sourceText": "Reprenons, s'il vous plaît.",
+      "ipa": "[ʁəpʁənɔ̃ sil vu plɛ]",
+      "ear": "赫普赫农 西勒 乌 普莱",
+      "meaning": "请继续吧。",
+      "sourceLineId": "mozart-timed-623-4",
+      "suppliedText": "Comment pouvez-vous dire cela? C'est mon père, je lui dois tout. Sûrement pas votre génie. Reprenons, s'il vous plaît.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5722,
+        "anchorEnd": 5730,
+        "sourceLineNumber": 623,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5730,
+      "sourceText": "Le génie?",
+      "ipa": "[lə ʒeni]",
+      "ear": "勒 热尼",
+      "meaning": "天才？",
+      "sourceLineId": "mozart-timed-624-1",
+      "suppliedText": "Le génie?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5730,
+        "anchorEnd": 5731.82,
+        "sourceLineNumber": 624,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5733,
+      "sourceText": "Le génie, Da Ponte, c'est aussi l'amour qu'il m'a donné, ce sont les attentions auprès d'un enfant",
+      "ipa": "[lə ʒeni da pɔ̃t sɛt‿osi lamuʁ kil ma dɔne sə sɔ̃ lez‿atɑ̃sjɔ̃ opʁɛ dœ̃ ɑ̃fɑ̃]",
+      "ear": "勒 热尼 达 蓬特 塞特 奥西 拉穆赫 基勒 玛 多内 瑟 松 莱兹 阿唐斯耶翁 奥普赫 丹 昂芳",
+      "meaning": "达·蓬特，我的天才也来自他给我的爱，来自他对一个孩子的呵护，",
+      "sourceLineId": "mozart-timed-625-1",
+      "suppliedText": "Le génie, Da Ponte, c'est aussi l'amour qu'il m'a donné, ce sont les attentions auprès d'un enfant",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5733,
+        "anchorEnd": 5739,
+        "sourceLineNumber": 625,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5739,
+      "sourceText": "et sa passion pour la musique, dont il a fait toute ma vie.",
+      "ipa": "[e sa pasjɔ̃ puʁ la myzik dɔ̃ il‿a fɛ tut ma vi]",
+      "ear": "诶 萨 帕斯耶翁 普赫 拉 米于齐克 东 伊勒 阿 费 图特 玛 维",
+      "meaning": "还来自他对音乐的热爱，他让音乐成了我的一生。",
+      "sourceLineId": "mozart-timed-626-1",
+      "suppliedText": "et sa passion pour la musique, dont il a fait toute ma vie.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5739,
+        "anchorEnd": 5744,
+        "sourceLineNumber": 626,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

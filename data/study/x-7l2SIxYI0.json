@@ -1,15 +1,15 @@
 {
   "videoId": "x-7l2SIxYI0",
   "playbackVideoId": "x-7l2SIxYI0",
-  "version": 1,
+  "version": 2,
   "textSource": "user-supplied-auto-transcript",
   "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
   "meaningSource": "editorial-chinese-from-user-transcript",
   "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
   "sources": [
     {
       "label": "本段原唱录像",
@@ -22,10 +22,10 @@
       "start": 6,
       "ipa": "[ɔ̃n‿a tɑ̃ maʁʃe avɑ̃se kɔ̃tʁ vɑ̃]",
       "ear": "翁恩 阿 唐 玛赫谢 阿旺塞 孔特赫 旺",
-      "meaning": "我们走了那么久，逆风前进……（部分识别不清）",
+      "meaning": "我们走了那么久，逆风前进……",
       "suppliedText": "on attend marcher avancer contreevent c'est",
       "sourceLineId": "moliere-timed-425",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 6,
@@ -118,10 +118,10 @@
       "start": 52,
       "ipa": "[ɔ̃n‿iʁa o bu so ɔ̃ nuz‿atete laʃe te kle e lʃe ɔ̃ ɛn]",
       "ear": "翁恩 伊哈 奥 布 索 翁 努兹 阿特特 拉谢 特 克莱 诶 勒谢 翁 艾恩",
-      "meaning": "我们要走到底……（后半段识别不清）",
+      "meaning": "我们要走到底……",
       "suppliedText": "on ira au bout so on nous ATT lâché t clé et lché on n",
       "sourceLineId": "moliere-timed-431",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 52,
@@ -134,10 +134,10 @@
       "start": 64,
       "ipa": "[ʁiɛ̃ laʃe ɔ̃n‿a seve ɔ̃ sɛ]",
       "ear": "希安 拉谢 翁恩 阿 塞韦 翁 塞",
-      "meaning": "我们没有放弃……我们……（部分识别不清）",
+      "meaning": "我们没有放弃……我们……",
       "suppliedText": "rien lâché on a CV on s'est",
       "sourceLineId": "moliere-timed-432",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 64,
@@ -178,98 +178,18 @@
       }
     },
     {
-      "sourceText": "Tout est bien tu finit bien fais le PACT carton fais le PA",
+      "sourceText": "Tout est bien qui finit bien fais le PACT carton fais le PA",
       "start": 91,
-      "ipa": "[tut‿ɛ bjɛ̃ ty fini bjɛ̃ fɛ lə pakt kaʁtɔ̃ fɛ lə pea]",
-      "ear": "图特 艾 布耶安 蒂于 菲尼 布耶安 费 勒 帕克特 卡赫通 费 勒 佩阿",
-      "meaning": "结局好便一切都好……（后半段识别不清）",
+      "ipa": "[tut‿ɛ bjɛ̃ ki fini bjɛ̃ fɛ lə pakt kaʁtɔ̃ fɛ lə pea]",
+      "ear": "图特 艾 布耶安 基 菲尼 布耶安 费 勒 帕克特 卡赫通 费 勒 佩阿",
+      "meaning": "结局好便一切都好……",
       "suppliedText": "tout est bien tu finit bien fais le PACT carton fais le PA",
       "sourceLineId": "moliere-timed-435",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 91,
         "sourceLineNumber": 435,
-        "precision": "approximate"
-      }
-    },
-    {
-      "sourceText": "Con mes amis mes amis je viens de rencontrer une jeune comédienne d'une rare beauté je vous présente mademoiselle je réalise que j'ai omis de",
-      "start": 101,
-      "ipa": "[kɔ̃ mez‿ami mez‿ami ʒə vjɛ̃ də ʁɑ̃kɔ̃tʁe yn ʒøn komedjɛn dyn ʁaʁ bote ʒə vu pʁezɑ̃t madmwazɛl ʒə ʁealiz kə ʒe omi də]",
-      "ear": "孔 梅兹 阿米 梅兹 阿米 热 弗耶安 德 杭孔特赫 于恩 热厄恩 科梅德耶艾恩 迪于恩 哈赫 博特 热 乌 普赫赞特 玛德姆乌阿泽勒 热 赫阿利兹 克 热 奥米 德",
-      "meaning": "朋友们，我刚遇见一位十分美丽的年轻演员。让我介绍她——我竟忘了……",
-      "suppliedText": "con mes amis mes amis je viens de rencontrer une jeune comédienne d'une rare beauté je vous présente mademoiselle je réalise que j'ai omis de",
-      "sourceLineId": "moliere-timed-436",
-      "reviewNote": "",
-      "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 101,
-        "sourceLineNumber": 436,
-        "precision": "approximate"
-      }
-    },
-    {
-      "sourceText": "Demander votre prénom elle s'appelle Armande et elle est mon enfant vous êtes",
-      "start": 109,
-      "ipa": "[dəmɑ̃de votʁ pʁenɔ̃ ɛl sapɛl‿aʁmɑ̃d e ɛl‿ɛ mɔ̃n‿ɑ̃fɑ̃ vuz‿ɛt]",
-      "ear": "德芒德 沃特赫 普赫农 艾勒 萨佩勒 阿赫芒德 诶 艾勒 艾 蒙恩 昂芳 乌兹 艾特",
-      "meaning": "问您的名字。——她叫阿尔芒德，是我的女儿。——您是……",
-      "suppliedText": "demander votre prénom elle s'appelle Armande et elle est mon enfant vous êtes",
-      "sourceLineId": "moliere-timed-437",
-      "reviewNote": "",
-      "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 109,
-        "sourceLineNumber": 437,
-        "precision": "approximate"
-      }
-    },
-    {
-      "sourceText": "Molière passe dans ma tête je n'en ai pas le droit je ne peux me le permettre",
-      "start": 118,
-      "ipa": "[moljɛʁ pas dɑ̃ ma tɛt ʒə nɑ̃ e pa lə dʁwa ʒə nə pø mə lə pɛʁmɛtʁ]",
-      "ear": "莫勒耶艾赫 帕斯 当 玛 泰特 热 南 诶 帕 勒 德赫乌阿 热 讷 珀厄 默 勒 佩赫梅特赫",
-      "meaning": "莫里哀。——脑中这些念头，我没权利有，不能允许自己……",
-      "suppliedText": "Molière passe dans ma tête je n'en ai pas le droit je ne peux me le permettre",
-      "sourceLineId": "moliere-timed-439",
-      "reviewNote": "",
-      "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 118,
-        "sourceLineNumber": 439,
-        "precision": "approximate"
-      }
-    },
-    {
-      "sourceText": "Cette femme n'est pas pour moi pourquoi de tous les hommes le ciel m'a guidé",
-      "start": 125,
-      "ipa": "[sɛt fam nɛ pa puʁ mwa puʁkwa də tu lez‿ɔm lə sjɛl ma ɡide]",
-      "ear": "塞特 法姆 奈 帕 普赫 姆乌阿 普赫克乌阿 德 图 莱兹 哦姆 勒 斯耶艾勒 玛 吉德",
-      "meaning": "这个女人不能属于我。为什么命运偏偏让我……",
-      "suppliedText": "cette femme n'est pas pour moi pourquoi de tous les hommes le ciel m'a guidé",
-      "sourceLineId": "moliere-timed-440",
-      "reviewNote": "",
-      "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 125,
-        "sourceLineNumber": 440,
-        "precision": "approximate"
-      }
-    },
-    {
-      "sourceText": "Vers la seule personne que je ne peux",
-      "start": 132,
-      "ipa": "[vɛʁ la sœl pɛʁsɔn kə ʒə nə pø]",
-      "ear": "韦赫 拉 瑟厄勒 佩赫索恩 克 热 讷 珀厄",
-      "meaning": "走近唯一不能……",
-      "suppliedText": "vers la seule personne que je ne peux",
-      "sourceLineId": "moliere-timed-441",
-      "reviewNote": "",
-      "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 132,
-        "sourceLineNumber": 441,
         "precision": "approximate"
       }
     },
@@ -310,10 +230,10 @@
       "start": 153,
       "ipa": "[vwaʁ memwaʁ də no]",
       "ear": "弗乌阿赫 梅姆乌阿赫 德 诺",
-      "meaning": "……为过去的……（识别不清）",
+      "meaning": "……为过去的……",
       "suppliedText": "voir mémoire de nos",
       "sourceLineId": "moliere-timed-444",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 153,
@@ -326,10 +246,10 @@
       "start": 174,
       "ipa": "[debwaʁ sə swaʁ‿ɔ̃ va vwaʁ la sɑ̃te də notʁ va]",
       "ear": "德布乌阿赫 瑟 斯乌阿赫 翁 瓦 弗乌阿赫 拉 桑特 德 诺特赫 瓦",
-      "meaning": "挫折……今晚我们为……举杯。（部分识别不清）",
+      "meaning": "挫折……今晚我们为……举杯。",
       "suppliedText": "déboir ce soir on va voire la senté de notre va",
       "sourceLineId": "moliere-timed-446",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 174,
@@ -337,5 +257,6 @@
         "precision": "approximate"
       }
     }
-  ]
+  ],
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

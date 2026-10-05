@@ -1,5 +1,5 @@
-import { musicalURL, learningURL, tracksFor, statusLabel } from './library.mjs?v=20261005-4';
-import { fetchData } from './data.mjs?v=20261005-4';
+import { musicalURL, learningURL, tracksFor, statusLabel } from './library.mjs?v=20261005-5';
+import { fetchData } from './data.mjs?v=20261005-5';
 const $ = id => document.getElementById(id);
 const node = (tag, cls, text) => { const el = document.createElement(tag); if (cls) el.className = cls; if (text) el.textContent = text; return el; };
 async function json(url) { const response = await fetchData(url); if (!response.ok) throw new Error('曲目库暂时无法读取，请刷新重试。'); return response.json(); }
@@ -34,7 +34,7 @@ if (document.body.dataset.view === 'gallery' && old.searchParams.has('v')) {
       const ready = tracks.filter(t => t.captionStatus === 'ready').length;
       const native = tracks.filter(t => t.captionStatus === 'native').length;
       $('track-count').textContent = `${tracks.length} 首曲目 · ${native ? `${native} 首法语字幕` : `${ready} 首可逐句学习`}`;
-      if (tracks.some(t => t.studyKind === 'four-layer' && t.textReviewStatus === 'source-auto-transcript-with-conservative-edits')) {
+      if (musical.id === 'moliere' && tracks.some(t => t.studyKind === 'four-layer')) {
         const instrumental = tracks.filter(t => t.captionStatus === 'instrumental').length;
         const pending = tracks.filter(t => t.captionStatus === 'pending').length;
         $('track-count').textContent = [`${tracks.length} 首曲目`, `${ready} 首四层学习`, instrumental ? `${instrumental} 段器乐` : '', pending ? `${pending} 首字幕待补` : ''].filter(Boolean).join(' · ');

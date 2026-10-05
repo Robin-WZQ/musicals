@@ -1,15 +1,15 @@
 {
   "videoId": "ByZEaeRjtPM",
   "playbackVideoId": "ByZEaeRjtPM",
-  "version": 1,
+  "version": 2,
   "textSource": "user-supplied-auto-transcript",
   "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
   "meaningSource": "editorial-chinese-from-user-transcript",
   "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
   "sources": [
     {
       "label": "本段原唱录像",
@@ -18,14 +18,14 @@
   ],
   "entries": [
     {
-      "sourceText": "Attends entre les jours de liè les nuits que",
+      "sourceText": "Entre les jours de liesse, les nuits que",
       "start": 4,
-      "ipa": "[atɑ̃ ɑ̃tʁ le ʒuʁ də ljɛ le nɥi kə]",
-      "ear": "阿唐 昂特赫 莱 茹赫 德 勒耶艾 莱 恩于伊 克",
-      "meaning": "……欢庆的白昼，夜晚……（识别不清）",
+      "ipa": "[ɑ̃tʁ le ʒuʁ də ljɛs le nɥi kə]",
+      "ear": "昂特赫 莱 茹赫 德 勒耶艾斯 莱 恩于伊 克",
+      "meaning": "在欢庆的日子与那些",
       "suppliedText": "attends entre les jours de liè les nuits que",
       "sourceLineId": "moliere-timed-722",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 4,
@@ -34,14 +34,14 @@
       }
     },
     {
-      "sourceText": "L'on t'a mise on t sur les braises que l'on ATI",
+      "sourceText": "L'on tamise, on danse sur les braises que l'on attise.",
       "start": 10,
-      "ipa": "[lɔ̃ ta miz‿ɔ̃ te syʁ le bʁɛz kə lɔ̃ atei]",
-      "ear": "隆 塔 米兹 翁 特 西于赫 莱 布赫兹 克 隆 阿特伊",
-      "meaning": "……被拨旺的余烬……（识别不清）",
+      "ipa": "[lɔ̃ tamiz ɔ̃ dɑ̃s syʁ le bʁɛz kə lɔ̃ atiz]",
+      "ear": "隆 塔米兹 翁 当斯 西于赫 莱 布赫兹 克 隆 阿蒂兹",
+      "meaning": "灯光朦胧的夜晚之间，我们在亲手拨旺的余烬上跳舞。",
       "suppliedText": "l'on t'a mise on t sur les braises que l'on ATI",
       "sourceLineId": "moliere-timed-723",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 10,
@@ -50,11 +50,11 @@
       }
     },
     {
-      "sourceText": "Entre doues promesses et les leures qui glisse l'amour au cœur me laisse des",
+      "sourceText": "Entre douces promesses et les larmes qui glissent, l'amour au cœur me laisse des",
       "start": 19,
-      "ipa": "[ɑ̃tʁ dw pʁomɛs e le lœʁ ki ɡlis lamuʁ‿o kœʁ mə lɛs de]",
-      "ear": "昂特赫 德乌 普霍梅斯 诶 莱 勒厄赫 基 格利斯 拉穆赫 奥 克厄赫 默 莱斯 德",
-      "meaning": "在温柔的承诺与滑落的诱惑之间，爱情在心里留下……",
+      "ipa": "[ɑ̃tʁ dus pʁomɛs e le laʁm ki ɡlis lamuʁ‿o kœʁ mə lɛs de]",
+      "ear": "昂特赫 杜斯 普霍梅斯 诶 莱 拉赫姆 基 格利斯 拉穆赫 奥 克厄赫 默 莱斯 德",
+      "meaning": "在甜蜜誓言与滑落的眼泪之间，爱情在我心中留下",
       "suppliedText": "entre doues promesses et les leures qui glisse l'amour au cœur me laisse des",
       "sourceLineId": "moliere-timed-724",
       "reviewNote": "",
@@ -66,11 +66,11 @@
       }
     },
     {
-      "sourceText": "Cicatrices danse danse danse danse dis-toi que je danse pour",
+      "sourceText": "Cicatrices. Danse, danse, danse, danse, dis-toi que je danse pour",
       "start": 28,
       "ipa": "[sikatʁis dɑ̃s dɑ̃s dɑ̃s dɑ̃s ditwa kə ʒə dɑ̃s puʁ]",
       "ear": "西卡特希斯 当斯 当斯 当斯 当斯 迪特乌阿 克 热 当斯 普赫",
-      "meaning": "伤痕。跳舞，跳舞，告诉自己，我是为……",
+      "meaning": "伤痕。跳吧，跳吧，告诉自己，我是为了",
       "suppliedText": "cicatrices danse danse danse danse dis-toi que je danse pour",
       "sourceLineId": "moliere-timed-725",
       "reviewNote": "",
@@ -82,11 +82,11 @@
       }
     },
     {
-      "sourceText": "Toi mon amour dans ces dans on se tourne autour même si le jeu est",
+      "sourceText": "Toi. Mon amour, danse et danse, on se tourne autour. Même si le jeu est",
       "start": 37,
-      "ipa": "[twa mɔ̃n‿amuʁ dɑ̃ se dɑ̃ ɔ̃ sə tuʁn‿otuʁ mɛm si lə ʒø ɛ]",
-      "ear": "特乌阿 蒙恩 阿穆赫 当 塞 当 翁 瑟 图赫恩 奥图赫 梅姆 西 勒 热厄 艾",
-      "meaning": "你跳舞。爱人，跳舞，我们绕着彼此，即使游戏……",
+      "ipa": "[twa mɔ̃n‿amuʁ dɑ̃s e dɑ̃s ɔ̃ sə tuʁn‿otuʁ mɛm si lə ʒø ɛ]",
+      "ear": "特乌阿 蒙恩 阿穆赫 当斯 诶 当斯 翁 瑟 图赫恩 奥图赫 梅姆 西 勒 热厄 艾",
+      "meaning": "你而跳。亲爱的，我们不停跳舞，在彼此身边盘旋。即使这场游戏",
       "suppliedText": "toi mon amour dans ces dans on se tourne autour même si le jeu est",
       "sourceLineId": "moliere-timed-726",
       "reviewNote": "",
@@ -98,11 +98,11 @@
       }
     },
     {
-      "sourceText": "Dangereux on pourrait le gagner tout mais mon amour dans S dans on se",
+      "sourceText": "Dangereux, on pourrait le gagner à deux. Mais mon amour, danse et danse, on se",
       "start": 45,
-      "ipa": "[dɑ̃ʒʁø ɔ̃ puʁɛ lə ɡanje tu mɛ mɔ̃n‿amuʁ dɑ̃ ɛs dɑ̃ ɔ̃ sə]",
-      "ear": "当日赫厄 翁 普赫 勒 嘎恩耶诶 图 梅 蒙恩 阿穆赫 当 艾斯 当 翁 瑟",
-      "meaning": "危险，仍可能赢得一切。爱人，跳舞，我们……",
+      "ipa": "[dɑ̃ʒʁø ɔ̃ puʁɛ lə ɡanje a dø mɛ mɔ̃n‿amuʁ dɑ̃s e dɑ̃s ɔ̃ sə]",
+      "ear": "当日赫厄 翁 普赫 勒 嘎恩耶诶 阿 德厄 梅 蒙恩 阿穆赫 当斯 诶 当斯 翁 瑟",
+      "meaning": "危险，我们也许能携手赢下。可亲爱的，我们不停跳舞，在彼此身边",
       "suppliedText": "dangereux on pourrait le gagner tout mais mon amour dans S dans on se",
       "sourceLineId": "moliere-timed-727",
       "reviewNote": "",
@@ -114,11 +114,11 @@
       }
     },
     {
-      "sourceText": "Tourne autour à vouloir jouer avec le feu on",
+      "sourceText": "Tourne autour. À vouloir jouer avec le feu, on en oublie l'enjeu.",
       "start": 54,
-      "ipa": "[tuʁn‿otuʁ‿a vulwaʁ ʒwe avɛk lə fø ɔ̃]",
-      "ear": "图赫恩 奥图赫 阿 乌勒乌阿赫 日乌诶 阿韦克 勒 弗厄 翁",
-      "meaning": "绕着彼此，想要玩火，却……",
+      "ipa": "[tuʁn‿otuʁ a vulwaʁ ʒwe avɛk lə fø ɔ̃n‿ɑ̃n‿ubli lɑ̃ʒø]",
+      "ear": "图赫恩 奥图赫 阿 乌勒乌阿赫 日乌诶 阿韦克 勒 弗厄 翁恩 昂恩 乌布利 朗热厄",
+      "meaning": "盘旋。执意玩火，却忘了其中的代价。",
       "suppliedText": "tourne autour à vouloir jouer avec le feu on",
       "sourceLineId": "moliere-timed-728",
       "reviewNote": "",
@@ -130,11 +130,11 @@
       }
     },
     {
-      "sourceText": "Et si c'était nous… Et si c'était…",
+      "sourceText": "Et si c'était nous deux ? Et si c'était",
       "start": 61,
-      "ipa": "[e si setɛ nu e si setɛ]",
-      "ear": "诶 西 塞泰 努 诶 西 塞泰",
-      "meaning": "如果是我们两个呢？如果是……",
+      "ipa": "[e si setɛ nu dø e si setɛ]",
+      "ear": "诶 西 塞泰 努 德厄 诶 西 塞泰",
+      "meaning": "如果那是我们两个人呢？如果那是",
       "suppliedText": "et si c'était N et si c'était",
       "sourceLineId": "moliere-timed-729",
       "reviewNote": "",
@@ -146,11 +146,11 @@
       }
     },
     {
-      "sourceText": "Nous… Je voudrais sur ta bouche me…",
+      "sourceText": "Nous deux ? Je voudrais sur ta bouche me",
       "start": 69,
-      "ipa": "[nu ʒə vudʁɛ syʁ ta buʃ mə]",
-      "ear": "努 热 乌德赫 西于赫 塔 布什 默",
-      "meaning": "我们呢？我想在你的唇上……",
+      "ipa": "[nu dø ʒə vudʁɛ syʁ ta buʃ mə]",
+      "ear": "努 德厄 热 乌德赫 西于赫 塔 布什 默",
+      "meaning": "我们两个人呢？我想在你的唇上",
       "suppliedText": "n je voudrai sur ta bouche me",
       "sourceLineId": "moliere-timed-730",
       "reviewNote": "",
@@ -162,11 +162,11 @@
       }
     },
     {
-      "sourceText": "Poserfin l'amour dès qu'on le touche",
+      "sourceText": "Poser, mais enfin, l'amour dès qu'on le touche touche à sa fin.",
       "start": 75,
-      "ipa": "[pozɛʁfɛ̃ lamuʁ dɛ kɔ̃ lə tuʃ]",
-      "ear": "波泽赫凡 拉穆赫 戴 孔 勒 图什",
-      "meaning": "停留……一触到爱情……",
+      "ipa": "[poze mɛ ɑ̃fɛ̃ lamuʁ dɛ kɔ̃ lə tuʃ tuʃ‿a sa fɛ̃]",
+      "ear": "波泽 梅 昂凡 拉穆赫 戴 孔 勒 图什 图什 阿 萨 凡",
+      "meaning": "停留，可爱情一旦触碰，便走向终点。",
       "suppliedText": "poserfin l'amour dès qu'on le touche",
       "sourceLineId": "moliere-timed-731",
       "reviewNote": "",
@@ -178,14 +178,14 @@
       }
     },
     {
-      "sourceText": "Chavin même si il y a une fin oh je t'aime",
+      "sourceText": "Même s'il y a une fin aux « je t'aime », dis-",
       "start": 81,
-      "ipa": "[ʃavɛ̃ mɛm si il‿i a yn fɛ̃ ɔ ʒə tɛm]",
-      "ear": "沙万 梅姆 西 伊勒 伊 阿 于恩 凡 哦 热 泰姆",
-      "meaning": "……即使终会结束，我仍爱你……（部分识别不清）",
+      "ipa": "[mɛm sil‿i a yn fɛ̃ o ʒə tɛm di]",
+      "ear": "梅姆 西勒 伊 阿 于恩 凡 奥 热 泰姆 迪",
+      "meaning": "即使每一句“我爱你”终有结束，也请告诉",
       "suppliedText": "Chavin même si il y a une fin oh je t'aime",
       "sourceLineId": "moliere-timed-732",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 81,
@@ -194,14 +194,14 @@
       }
     },
     {
-      "sourceText": "Moi que ça en faut la",
+      "sourceText": "Moi que ça en vaut la",
       "start": 90,
-      "ipa": "[mwa kə sa ɑ̃ fo la]",
-      "ear": "姆乌阿 克 萨 昂 佛 拉",
-      "meaning": "……值得……（识别不清）",
+      "ipa": "[mwa kə sa ɑ̃ vo la]",
+      "ear": "姆乌阿 克 萨 昂 沃 拉",
+      "meaning": "我，这一切仍然",
       "suppliedText": "moi que ça en faut la",
       "sourceLineId": "moliere-timed-733",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 90,
@@ -210,11 +210,11 @@
       }
     },
     {
-      "sourceText": "Peine danse danse danse danse dis-moi tu danses pour qui et pourquoi danse danse",
+      "sourceText": "Peine. Danse, danse, danse, danse, dis-moi : tu danses pour qui et pourquoi ? Danse, danse,",
       "start": 95,
       "ipa": "[pɛn dɑ̃s dɑ̃s dɑ̃s dɑ̃s dimwa ty dɑ̃s puʁ ki e puʁkwa dɑ̃s dɑ̃s]",
       "ear": "佩恩 当斯 当斯 当斯 当斯 迪姆乌阿 蒂于 当斯 普赫 基 诶 普赫克乌阿 当斯 当斯",
-      "meaning": "付出。跳舞，跳舞，告诉我，你为谁而跳，为什么跳？跳舞……",
+      "meaning": "值得。跳吧，跳吧，告诉我：你为谁而跳，又为何而跳？跳吧，跳吧，",
       "suppliedText": "peine danse danse danse danse dis-moi tu danses pour qui et pourquoi danse danse",
       "sourceLineId": "moliere-timed-735",
       "reviewNote": "",
@@ -226,11 +226,11 @@
       }
     },
     {
-      "sourceText": "Danse danse dis-toi que je danse pour toi mon amour danser dans on se tourne",
+      "sourceText": "Danse, danse, dis-toi que je danse pour toi. Mon amour, danse et danse, on se tourne",
       "start": 103,
-      "ipa": "[dɑ̃s dɑ̃s ditwa kə ʒə dɑ̃s puʁ twa mɔ̃n‿amuʁ dɑ̃se dɑ̃ ɔ̃ sə tuʁn]",
-      "ear": "当斯 当斯 迪特乌阿 克 热 当斯 普赫 特乌阿 蒙恩 阿穆赫 当塞 当 翁 瑟 图赫恩",
-      "meaning": "跳舞，告诉自己，我是为你跳舞。爱人，跳舞，我们绕着彼此……",
+      "ipa": "[dɑ̃s dɑ̃s ditwa kə ʒə dɑ̃s puʁ twa mɔ̃n‿amuʁ dɑ̃s e dɑ̃s ɔ̃ sə tuʁn]",
+      "ear": "当斯 当斯 迪特乌阿 克 热 当斯 普赫 特乌阿 蒙恩 阿穆赫 当斯 诶 当斯 翁 瑟 图赫恩",
+      "meaning": "告诉自己，我为你而跳。亲爱的，我们不停跳舞，在彼此身边",
       "suppliedText": "danse danse dis-toi que je danse pour toi mon amour danser dans on se tourne",
       "sourceLineId": "moliere-timed-736",
       "reviewNote": "",
@@ -242,11 +242,11 @@
       }
     },
     {
-      "sourceText": "Autour maisme si le jeu est dangereux on pourrait le gagner",
+      "sourceText": "Autour. Même si le jeu est dangereux, on pourrait le gagner à deux.",
       "start": 112,
-      "ipa": "[otuʁ mɛsm si lə ʒø ɛ dɑ̃ʒʁø ɔ̃ puʁɛ lə ɡanje]",
-      "ear": "奥图赫 梅斯姆 西 勒 热厄 艾 当日赫厄 翁 普赫 勒 嘎恩耶诶",
-      "meaning": "即使游戏危险，仍可能赢得……",
+      "ipa": "[otuʁ mɛm si lə ʒø ɛ dɑ̃ʒʁø ɔ̃ puʁɛ lə ɡanje a dø]",
+      "ear": "奥图赫 梅姆 西 勒 热厄 艾 当日赫厄 翁 普赫 勒 嘎恩耶诶 阿 德厄",
+      "meaning": "盘旋。即使游戏危险，我们也许能携手赢下。",
       "suppliedText": "autour maisme si le jeu est dangereux on pourrait le gagner",
       "sourceLineId": "moliere-timed-737",
       "reviewNote": "",
@@ -258,11 +258,11 @@
       }
     },
     {
-      "sourceText": "Mais mon amour, danse, danse, on se tourne autour. À vouloir jouer avec le feu, on en…",
+      "sourceText": "Mais mon amour, danse et danse, on se tourne autour. À vouloir jouer avec le feu, on en",
       "start": 120,
-      "ipa": "[mɛ mɔ̃n‿amuʁ dɑ̃s dɑ̃s ɔ̃ sə tuʁn‿otuʁ a vulwaʁ ʒwe avɛk lə fø ɔ̃n‿ɑ̃]",
-      "ear": "梅 蒙恩 阿穆赫 当斯 当斯 翁 瑟 图赫恩 奥图赫 阿 乌勒乌阿赫 日乌诶 阿韦克 勒 弗厄 翁恩 昂",
-      "meaning": "……爱人，跳舞，我们绕着彼此，想要玩火，却……",
+      "ipa": "[mɛ mɔ̃n‿amuʁ dɑ̃s e dɑ̃s ɔ̃ sə tuʁn‿otuʁ a vulwaʁ ʒwe avɛk lə fø ɔ̃n‿ɑ̃]",
+      "ear": "梅 蒙恩 阿穆赫 当斯 诶 当斯 翁 瑟 图赫恩 奥图赫 阿 乌勒乌阿赫 日乌诶 阿韦克 勒 弗厄 翁恩 昂",
+      "meaning": "可亲爱的，我们不停跳舞，在彼此身边盘旋。执意玩火，却",
       "suppliedText": "mais mon amour dans ces dans se tourne autour à vouloir jouer avec le feu on en",
       "sourceLineId": "moliere-timed-738",
       "reviewNote": "",
@@ -274,11 +274,11 @@
       }
     },
     {
-      "sourceText": "Oublie l'enjeu. Et si c'était nous deux ? Et si c'était…",
+      "sourceText": "Oublie l'enjeu. Et si c'était nous deux ? Et si c'était nous deux ?",
       "start": 130,
-      "ipa": "[ubli lɑ̃ʒø e si setɛ nu dø e si setɛ]",
-      "ear": "乌布利 朗热厄 诶 西 塞泰 努 德厄 诶 西 塞泰",
-      "meaning": "忘了赌注。如果是我们两个呢？如果是……",
+      "ipa": "[ubli lɑ̃ʒø e si setɛ nu dø e si setɛ nu dø]",
+      "ear": "乌布利 朗热厄 诶 西 塞泰 努 德厄 诶 西 塞泰 努 德厄",
+      "meaning": "忘了其中的代价。如果那是我们两个人呢？如果那是我们两个人呢？",
       "suppliedText": "oubli l'U et si c'était n fe et c'était",
       "sourceLineId": "moliere-timed-739",
       "reviewNote": "",
@@ -290,11 +290,11 @@
       }
     },
     {
-      "sourceText": "Mon mon amour malgré la peine que l'on enct même si le jeu est",
+      "sourceText": "Mon amour, malgré la peine que l'on encourt, même si le jeu est",
       "start": 139,
-      "ipa": "[mɔ̃ mɔ̃n‿amuʁ malɡʁe la pɛn kə lɔ̃ ɑ̃kt mɛm si lə ʒø ɛ]",
-      "ear": "蒙 蒙恩 阿穆赫 玛勒格赫 拉 佩恩 克 隆 昂克特 梅姆 西 勒 热厄 艾",
-      "meaning": "……爱人，尽管承受痛苦，尽管游戏……",
+      "ipa": "[mɔ̃n‿amuʁ malɡʁe la pɛn kə lɔ̃ ɑ̃kuʁ mɛm si lə ʒø ɛ]",
+      "ear": "蒙恩 阿穆赫 玛勒格赫 拉 佩恩 克 隆 昂库赫 梅姆 西 勒 热厄 艾",
+      "meaning": "亲爱的，尽管我们可能受罚，即使这场游戏",
       "suppliedText": "mon mon amour malgré la peine que l'on enct même si le jeu est",
       "sourceLineId": "moliere-timed-740",
       "reviewNote": "",
@@ -306,11 +306,11 @@
       }
     },
     {
-      "sourceText": "Dangereux on pourrait gag à de et mon amour dans ces dans on se",
+      "sourceText": "Dangereux, on pourrait le gagner à deux. Mais mon amour, danse et danse, on se",
       "start": 147,
-      "ipa": "[dɑ̃ʒʁø ɔ̃ puʁɛ ɡaɡ‿a də e mɔ̃n‿amuʁ dɑ̃ se dɑ̃ ɔ̃ sə]",
-      "ear": "当日赫厄 翁 普赫 嘎格 阿 德 诶 蒙恩 阿穆赫 当 塞 当 翁 瑟",
-      "meaning": "危险，我们仍可能一起赢……爱人，跳舞，我们……",
+      "ipa": "[dɑ̃ʒʁø ɔ̃ puʁɛ lə ɡanje a dø mɛ mɔ̃n‿amuʁ dɑ̃s e dɑ̃s ɔ̃ sə]",
+      "ear": "当日赫厄 翁 普赫 勒 嘎恩耶诶 阿 德厄 梅 蒙恩 阿穆赫 当斯 诶 当斯 翁 瑟",
+      "meaning": "危险，我们也许能携手赢下。可亲爱的，我们不停跳舞，在彼此身边",
       "suppliedText": "dangereux on pourrait gag à de et mon amour dans ces dans on se",
       "sourceLineId": "moliere-timed-741",
       "reviewNote": "",
@@ -322,11 +322,11 @@
       }
     },
     {
-      "sourceText": "Tourne autour. À vouloir jouer avec le feu, on en oublie l'en…",
+      "sourceText": "Tourne autour. À vouloir jouer avec le feu, on en oublie l'en-",
       "start": 156,
       "ipa": "[tuʁn‿otuʁ a vulwaʁ ʒwe avɛk lə fø ɔ̃n‿ɑ̃n‿ubli lɑ̃]",
       "ear": "图赫恩 奥图赫 阿 乌勒乌阿赫 日乌诶 阿韦克 勒 弗厄 翁恩 昂恩 乌布利 朗",
-      "meaning": "绕着彼此，想要玩火，却忘了……",
+      "meaning": "盘旋。执意玩火，却忘了其中的代",
       "suppliedText": "tourne autour à vouloir jouer avec le feu on en oublie long",
       "sourceLineId": "moliere-timed-742",
       "reviewNote": "",
@@ -338,11 +338,11 @@
       }
     },
     {
-      "sourceText": "Jeu. Et si c'était nous deux ? Et si c'était nous…",
+      "sourceText": "Jeu. Et si c'était nous deux ? Et si c'était nous",
       "start": 163,
       "ipa": "[ʒø e si setɛ nu dø e si setɛ nu]",
       "ear": "热厄 诶 西 塞泰 努 德厄 诶 西 塞泰 努",
-      "meaning": "赌注。如果是我们两个呢？如果是我们……",
+      "meaning": "价。如果那是我们两个人呢？如果那是我们",
       "suppliedText": "jeu et si c'était n de et si c'était n",
       "sourceLineId": "moliere-timed-743",
       "reviewNote": "",
@@ -354,11 +354,11 @@
       }
     },
     {
-      "sourceText": "Deux ? Et si c'était nous…",
+      "sourceText": "Deux ? Et si c'était nous",
       "start": 169,
       "ipa": "[dø e si setɛ nu]",
       "ear": "德厄 诶 西 塞泰 努",
-      "meaning": "两个呢？如果是我们……",
+      "meaning": "两个人呢？如果那是我们",
       "suppliedText": "de et si c'était n",
       "sourceLineId": "moliere-timed-744",
       "reviewNote": "",
@@ -370,11 +370,11 @@
       }
     },
     {
-      "sourceText": "Deux ? Ce ne sera jamais nous deux.",
+      "sourceText": "Deux ? Mais ce sera jamais nous deux.",
       "start": 176,
-      "ipa": "[dø sə nə səʁa ʒamɛ nu dø]",
-      "ear": "德厄 瑟 讷 瑟哈 扎梅 努 德厄",
-      "meaning": "两个呢？——永远不会是我们两个。",
+      "ipa": "[dø mɛ sə səʁa ʒamɛ nu dø]",
+      "ear": "德厄 梅 瑟 瑟哈 扎梅 努 德厄",
+      "meaning": "两个人呢？可永远不会是我们两个人。",
       "suppliedText": "de ce sera jamais nous deux",
       "sourceLineId": "moliere-timed-745",
       "reviewNote": "",
@@ -385,5 +385,6 @@
         "precision": "approximate"
       }
     }
-  ]
+  ],
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

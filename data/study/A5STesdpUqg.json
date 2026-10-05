@@ -1,15 +1,15 @@
 {
   "videoId": "A5STesdpUqg",
   "playbackVideoId": "A5STesdpUqg",
-  "version": 1,
+  "version": 2,
   "textSource": "user-supplied-auto-transcript",
   "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
   "meaningSource": "editorial-chinese-from-user-transcript",
   "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
   "sources": [
     {
       "label": "本段原唱录像",
@@ -18,11 +18,11 @@
   ],
   "entries": [
     {
-      "sourceText": "Ils sont prêts à tous les hommages pour un instant pourvu que je",
+      "sourceText": "Ils sont prêts à tous les hommages pour un instant, pourvu que je",
       "start": 0,
       "ipa": "[il sɔ̃ pʁɛ a tu lez‿ɔmaʒ puʁ‿œ̃n‿ɛ̃stɑ̃ puʁvy kə ʒə]",
       "ear": "伊勒 松 普赫 阿 图 莱兹 哦玛日 普赫 恩恩 安斯唐 普赫维于 克 热",
-      "meaning": "他们愿献上各种恭维，只求一刻，只要我……",
+      "meaning": "他们愿献上一切殷勤，只为片刻，只要我",
       "suppliedText": "ils sont prêts à tous les hommages pour un instant pourvu que je",
       "sourceLineId": "moliere-timed-629",
       "reviewNote": "",
@@ -34,11 +34,11 @@
       }
     },
     {
-      "sourceText": "M'allonge ils maîtrise tous les rouages pour gagner du temps leur fin justifie les",
+      "sourceText": "M'allonge. Ils maîtrisent tous les rouages pour gagner du temps. Leur fin justifie les",
       "start": 7,
-      "ipa": "[malɔ̃ʒ‿il mɛtʁiz tu le ʁwaʒ puʁ ɡanje dy tɑ̃ lœʁ fɛ̃ ʒystifi le]",
+      "ipa": "[malɔ̃ʒ il mɛtʁiz tu le ʁwaʒ puʁ ɡanje dy tɑ̃ lœʁ fɛ̃ ʒystifi le]",
       "ear": "玛隆日 伊勒 梅特希兹 图 莱 赫乌阿日 普赫 嘎恩耶诶 迪于 唐 勒厄赫 凡 日于斯蒂菲 莱",
-      "meaning": "躺下。他们熟悉所有手段，为拖延时间，目的足以替……",
+      "meaning": "躺下来。他们熟悉一切手段来争取时间。他们的目的为",
       "suppliedText": "m'allonge ils maîtrise tous les rouages pour gagner du temps leur fin justifie les",
       "sourceLineId": "moliere-timed-630",
       "reviewNote": "",
@@ -50,11 +50,11 @@
       }
     },
     {
-      "sourceText": "Mensonges. Ils se donnent dans de beaux discours l'hymne à l'amour en reluquant mes…",
+      "sourceText": "Mensonges. Ils se donnent dans de beaux discours, l'hymne à l'amour, en reluquant mes",
       "start": 15,
-      "ipa": "[mɑ̃sɔ̃ʒ il sə dɔn dɑ̃ də bo diskuʁ limn‿a lamuʁ‿ɑ̃ ʁəlykɑ̃ me]",
+      "ipa": "[mɑ̃sɔ̃ʒ il sə dɔn dɑ̃ də bo diskuʁ limn‿a lamuʁ ɑ̃ ʁəlykɑ̃ me]",
       "ear": "芒松日 伊勒 瑟 多恩 当 德 博 迪斯库赫 利姆恩 阿 拉穆赫 昂 赫吕康 梅",
-      "meaning": "谎言辩解。他们高谈爱情，却盯着我的……",
+      "meaning": "谎言找理由。他们说着漂亮的话，唱着爱的颂歌，却盯着我的",
       "suppliedText": "mensonges il se donne dans de beaux discours l'hyne à l'amour en reluquant mes",
       "sourceLineId": "moliere-timed-631",
       "reviewNote": "",
@@ -66,11 +66,11 @@
       }
     },
     {
-      "sourceText": "Contours. Je ne suis pas toujours sentimentale, je deviens animale dès que l'on me fait mal. Une…",
+      "sourceText": "Contours. J'suis pas toujours sentimentale. Je deviens animale dès que l'on me fait mal. Ni",
       "start": 22,
-      "ipa": "[kɔ̃tuʁ ʒə nə sɥi pa tuʒuʁ sɑ̃timɑ̃tal ʒə dəvjɛ̃ animal dɛ kə lɔ̃ mə fɛ mal yn]",
-      "ear": "孔图赫 热 讷 斯于伊 帕 图茹赫 桑蒂芒塔勒 热 德弗耶安 阿尼玛勒 戴 克 隆 默 费 玛勒 于恩",
-      "meaning": "身体。我并非总是温柔多情，一旦受伤，就会像野兽。一个……",
+      "ipa": "[kɔ̃tuʁ ʒsɥi pa tuʒuʁ sɑ̃timɑ̃tal ʒə dəvjɛ̃ animal dɛ kə lɔ̃ mə fɛ mal ni]",
+      "ear": "孔图赫 日斯于伊 帕 图茹赫 桑蒂芒塔勒 热 德弗耶安 阿尼玛勒 戴 克 隆 默 费 玛勒 尼",
+      "meaning": "身体曲线。我并不总是多愁善感。受伤时，我会像野兽。既不是",
       "suppliedText": "contours je suis pas toujours sentimental je deviensal dès que l'on MEUR fait mal une",
       "sourceLineId": "moliere-timed-632",
       "reviewNote": "",
@@ -82,11 +82,11 @@
       }
     },
     {
-      "sourceText": "Femme, une femme fatale, je suis une femme létale, une tueuse de mâles. Moi, je veux tout donner…",
+      "sourceText": "Femme, ni femme fatale, je suis une femme létale, une tueuse de mâles. Moi, je veux tout donner,",
       "start": 32,
-      "ipa": "[fam yn fam fatal ʒə sɥi yn fam letal yn tyøz də mal mwa ʒə vø tu dɔne]",
-      "ear": "法姆 于恩 法姆 法塔勒 热 斯于伊 于恩 法姆 莱塔勒 于恩 蒂于厄兹 德 玛勒 姆乌阿 热 弗厄 图 多内",
-      "meaning": "危险的女人，致命的女人，猎杀男人的女人。我愿付出一切……",
+      "ipa": "[fam ni fam fatal ʒə sɥi yn fam letal yn tyøz də mal mwa ʒə vø tu dɔne]",
+      "ear": "法姆 尼 法姆 法塔勒 热 斯于伊 于恩 法姆 莱塔勒 于恩 蒂于厄兹 德 玛勒 姆乌阿 热 弗厄 图 多内",
+      "meaning": "普通女人，也不是致命诱惑，我是致命的女人，是男人的杀手。我想付出一切，",
       "suppliedText": "femme une femme fatale je suis une femme létale uneueuse de mal moi je veux tout donner",
       "sourceLineId": "moliere-timed-633",
       "reviewNote": "",
@@ -98,11 +98,11 @@
       }
     },
     {
-      "sourceText": "Tout donner si je veux tout donner tout donner quand je veux donner sans aucunement moi je veux tout donner tout",
+      "sourceText": "Tout donner, si je veux ; tout donner, tout donner, quand je veux me donner sans aucun remords. Moi, je veux tout donner, tout",
       "start": 40,
-      "ipa": "[tu dɔne si ʒə vø tu dɔne tu dɔne kɑ̃ ʒə vø dɔne sɑ̃ okynmɑ̃ mwa ʒə vø tu dɔne tu]",
-      "ear": "图 多内 西 热 弗厄 图 多内 图 多内 康 热 弗厄 多内 桑 奥基于恩芒 姆乌阿 热 弗厄 图 多内 图",
-      "meaning": "只在我愿意的时候，付出一切，只在我想要的时候，没有……",
+      "ipa": "[tu dɔne si ʒə vø tu dɔne tu dɔne kɑ̃ ʒə vø mə dɔne sɑ̃ okœ̃ ʁəmɔʁ mwa ʒə vø tu dɔne tu]",
+      "ear": "图 多内 西 热 弗厄 图 多内 图 多内 康 热 弗厄 默 多内 桑 奥坎 赫莫赫 姆乌阿 热 弗厄 图 多内 图",
+      "meaning": "倾尽所有，如果我愿意；倾尽所有，毫不后悔地在自己愿意时投入。我想付出一切，倾尽",
       "suppliedText": "tout donner si je veux tout donner tout donner quand je veux donner sans aucunement moi je veux tout donner tout",
       "sourceLineId": "moliere-timed-634",
       "reviewNote": "",
@@ -114,14 +114,14 @@
       }
     },
     {
-      "sourceText": "Donner si je veux tout donner tout donner quand je veux pe donner sans aucun ils se ventent de leur pouesse",
+      "sourceText": "Donner, si je veux ; tout donner, tout donner, quand je veux me donner sans aucun effort. Ils se vantent de leurs prouesses,",
       "start": 49,
-      "ipa": "[dɔne si ʒə vø tu dɔne tu dɔne kɑ̃ ʒə vø pə dɔne sɑ̃ okœ̃n‿il sə vɑ̃t də lœʁ pwɛs]",
-      "ear": "多内 西 热 弗厄 图 多内 图 多内 康 热 弗厄 珀 多内 桑 奥坎恩 伊勒 瑟 旺特 德 勒厄赫 普乌艾斯",
-      "meaning": "……只由我决定何时付出。他们吹嘘自己的本领……（部分识别不清）",
+      "ipa": "[dɔne si ʒə vø tu dɔne tu dɔne kɑ̃ ʒə vø mə dɔne sɑ̃ okœ̃n‿efɔʁ il sə vɑ̃t də lœʁ pʁwɛs]",
+      "ear": "多内 西 热 弗厄 图 多内 图 多内 康 热 弗厄 默 多内 桑 奥坎恩 诶佛赫 伊勒 瑟 旺特 德 勒厄赫 普赫乌艾斯",
+      "meaning": "所有，如果我愿意；倾尽所有，在自己愿意时轻松投入。他们夸耀自己的本事，",
       "suppliedText": "donner si je veux tout donner tout donner quand je veux pe donner sans aucun ils se ventent de leur pouesse",
       "sourceLineId": "moliere-timed-635",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 49,
@@ -130,14 +130,14 @@
       }
     },
     {
-      "sourceText": "Maldine non mal dominé par leur sens pourquoi faut-il leur dire sans",
+      "sourceText": "Mâles dominants, mal dominés par leurs sens. Pourquoi faut-il leur dire sans",
       "start": 58,
-      "ipa": "[maldin nɔ̃ mal domine paʁ lœʁ sɑ̃s puʁkwa fotil lœʁ diʁ sɑ̃]",
-      "ear": "玛勒迪恩 农 玛勒 多米内 帕赫 勒厄赫 桑斯 普赫克乌阿 佛蒂勒 勒厄赫 迪赫 桑",
-      "meaning": "……被感官支配。为什么非得一再告诉他们……（部分识别不清）",
+      "ipa": "[mal dominɑ̃ mal domine paʁ lœʁ sɑ̃s puʁkwa fotil lœʁ diʁ sɑ̃]",
+      "ear": "玛勒 多米南 玛勒 多米内 帕赫 勒厄赫 桑斯 普赫克乌阿 佛蒂勒 勒厄赫 迪赫 桑",
+      "meaning": "自称支配者，却被欲望支配。为什么必须不断",
       "suppliedText": "maldine non mal dominé par leur sens pourquoi faut-il leur dire sans",
       "sourceLineId": "moliere-timed-636",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 58,
@@ -146,11 +146,11 @@
       }
     },
     {
-      "sourceText": "Cesse que c'est non, non, non, jusqu'à… Je ne suis pas toujours sentimentale, je…",
+      "sourceText": "Cesse que c'est non, non, non, jusqu'à l'indécence ? J'suis pas toujours sentimentale. Je",
       "start": 66,
-      "ipa": "[sɛs kə sɛ nɔ̃ nɔ̃ nɔ̃ ʒyska ʒə nə sɥi pa tuʒuʁ sɑ̃timɑ̃tal ʒə]",
-      "ear": "塞斯 克 塞 农 农 农 日于斯卡 热 讷 斯于伊 帕 图茹赫 桑蒂芒塔勒 热",
-      "meaning": "不，不，不……我并非总是温柔多情，我……",
+      "ipa": "[sɛs kə sɛ nɔ̃ nɔ̃ nɔ̃ ʒyska lɛ̃desɑ̃s ʒsɥi pa tuʒuʁ sɑ̃timɑ̃tal ʒə]",
+      "ear": "塞斯 克 塞 农 农 农 日于斯卡 兰德桑斯 日斯于伊 帕 图茹赫 桑蒂芒塔勒 热",
+      "meaning": "地告诉他们“不，不，不”，直到失去体面？我并不总是多愁善感。我",
       "suppliedText": "cesse que c'est non non non jusqu'à l' s je suis pas toujours sentimental je",
       "sourceLineId": "moliere-timed-637",
       "reviewNote": "",
@@ -162,11 +162,11 @@
       }
     },
     {
-      "sourceText": "Deviens animale dès que l'on me fait mal. Une femme, c'est une femme fatale. Je suis une…",
+      "sourceText": "Deviens animale dès que l'on me fait mal. Ni femme, ni femme fatale, je suis une",
       "start": 74,
-      "ipa": "[dəvjɛ̃ animal dɛ kə lɔ̃ mə fɛ mal yn fam sɛt‿yn fam fatal ʒə sɥi yn]",
-      "ear": "德弗耶安 阿尼玛勒 戴 克 隆 默 费 玛勒 于恩 法姆 塞特 于恩 法姆 法塔勒 热 斯于伊 于恩",
-      "meaning": "受伤便像野兽。女人，一个危险的女人，我是……",
+      "ipa": "[dəvjɛ̃ animal dɛ kə lɔ̃ mə fɛ mal ni fam ni fam fatal ʒə sɥi yn]",
+      "ear": "德弗耶安 阿尼玛勒 戴 克 隆 默 费 玛勒 尼 法姆 尼 法姆 法塔勒 热 斯于伊 于恩",
+      "meaning": "受伤时会像野兽。既不是普通女人，也不是致命诱惑，我是一个",
       "suppliedText": "deviens un malè que l'on me fait mal une femme c'est une femme fatale je suis une",
       "sourceLineId": "moliere-timed-638",
       "reviewNote": "",
@@ -178,11 +178,11 @@
       }
     },
     {
-      "sourceText": "Femme une tueuse de mal moi je veux tout donner tout don tout je veux tout donner",
+      "sourceText": "Femme létale, une tueuse de mâles. Moi, je veux tout donner, tout donner, si je veux ; tout donner,",
       "start": 83,
-      "ipa": "[fam‿yn tyøz də mal mwa ʒə vø tu dɔne tu dɔ̃ tu ʒə vø tu dɔne]",
-      "ear": "法姆 于恩 蒂于厄兹 德 玛勒 姆乌阿 热 弗厄 图 多内 图 东 图 热 弗厄 图 多内",
-      "meaning": "……猎杀男人的女人。我愿付出一切……",
+      "ipa": "[fam letal yn tyøz də mal mwa ʒə vø tu dɔne tu dɔne si ʒə vø tu dɔne]",
+      "ear": "法姆 莱塔勒 于恩 蒂于厄兹 德 玛勒 姆乌阿 热 弗厄 图 多内 图 多内 西 热 弗厄 图 多内",
+      "meaning": "致命的女人，是男人的杀手。我想付出一切，倾尽所有，如果我愿意；倾尽所有，",
       "suppliedText": "femme une tueuse de mal moi je veux tout donner tout don tout je veux tout donner",
       "sourceLineId": "moliere-timed-639",
       "reviewNote": "",
@@ -194,11 +194,11 @@
       }
     },
     {
-      "sourceText": "Tout donner quand je ve me donner sans aucun effort h me présé l'âme",
+      "sourceText": "Tout donner, quand je veux me donner sans aucun effort. Femme oppressée, l'âme",
       "start": 90,
-      "ipa": "[tu dɔne kɑ̃ ʒə və mə dɔne sɑ̃ okœ̃n‿efɔʁ‿aʃ mə pʁeze lam]",
-      "ear": "图 多内 康 热 弗 默 多内 桑 奥坎恩 诶佛赫 阿什 默 普赫泽 拉姆",
-      "meaning": "只在我愿意、我想要的时候……灵魂受到压迫……",
+      "ipa": "[tu dɔne kɑ̃ ʒə vø mə dɔne sɑ̃ okœ̃n‿efɔʁ fam‿ɔpʁɛse lam]",
+      "ear": "图 多内 康 热 弗厄 默 多内 桑 奥坎恩 诶佛赫 法姆 哦普赫塞 拉姆",
+      "meaning": "在自己愿意时轻松投入。被压迫的女人，灵魂",
       "suppliedText": "tout donner quand je ve me donner sans aucun effort h me présé l'âme",
       "sourceLineId": "moliere-timed-640",
       "reviewNote": "",
@@ -210,14 +210,14 @@
       }
     },
     {
-      "sourceText": "Oppressée par leurs pulsions primaires… L'âme blessée… par…",
+      "sourceText": "Oppressée par leurs primaires pulsions. Femme blessée, l'âme cabossée par",
       "start": 99,
-      "ipa": "[ɔpʁɛse paʁ lœʁ pylsjɔ̃ pʁimɛʁ lam blɛse paʁ]",
-      "ear": "哦普赫塞 帕赫 勒厄赫 普于勒斯耶翁 普希梅赫 拉姆 布莱塞 帕赫",
-      "meaning": "被他们原始的冲动压迫，受伤的灵魂……（部分识别不清）",
+      "ipa": "[ɔpʁɛse paʁ lœʁ pʁimɛʁ pylsjɔ̃ fam blɛse lam kabɔse paʁ]",
+      "ear": "哦普赫塞 帕赫 勒厄赫 普希梅赫 普于勒斯耶翁 法姆 布莱塞 拉姆 卡博塞 帕赫",
+      "meaning": "被他们原始的冲动压迫。受伤的女人，灵魂被",
       "suppliedText": "oppressé par leur primaire pulsion fa me bless l'âme qui a bossé par",
       "sourceLineId": "moliere-timed-641",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 99,
@@ -226,11 +226,11 @@
       }
     },
     {
-      "sourceText": "D'éféè passions ils sont prêt à tous les homages pour un instant pourvu que je",
+      "sourceText": "D'éphémères passions. Ils sont prêts à tous les hommages pour un instant, pourvu que je",
       "start": 109,
-      "ipa": "[defeɛ pasjɔ̃ il sɔ̃ pʁɛ a tu le omaʒ puʁ‿œ̃n‿ɛ̃stɑ̃ puʁvy kə ʒə]",
-      "ear": "德费艾 帕斯耶翁 伊勒 松 普赫 阿 图 莱 奥玛日 普赫 恩恩 安斯唐 普赫维于 克 热",
-      "meaning": "……短暂的激情。他们愿献上所有恭维，只求一刻，只要我……",
+      "ipa": "[defemɛʁ pasjɔ̃ il sɔ̃ pʁɛ a tu lez‿ɔmaʒ puʁ‿œ̃n‿ɛ̃stɑ̃ puʁvy kə ʒə]",
+      "ear": "德费梅赫 帕斯耶翁 伊勒 松 普赫 阿 图 莱兹 哦玛日 普赫 恩恩 安斯唐 普赫维于 克 热",
+      "meaning": "短暂的激情撞得伤痕累累。他们愿献上一切殷勤，只为片刻，只要我",
       "suppliedText": "d'éféè passions ils sont prêt à tous les homages pour un instant pourvu que je",
       "sourceLineId": "moliere-timed-642",
       "reviewNote": "",
@@ -242,11 +242,11 @@
       }
     },
     {
-      "sourceText": "M'allonge mais peu leur importe les dommages avec le temps leur fin justifie les",
+      "sourceText": "M'allonge. Mais peu leur importent les dommages avec le temps. Leur fin justifie les",
       "start": 118,
       "ipa": "[malɔ̃ʒ mɛ pø lœʁ‿ɛ̃pɔʁt le dɔmaʒ‿avɛk lə tɑ̃ lœʁ fɛ̃ ʒystifi le]",
       "ear": "玛隆日 梅 珀厄 勒厄赫 安珀赫特 莱 多玛日 阿韦克 勒 唐 勒厄赫 凡 日于斯蒂菲 莱",
-      "meaning": "躺下。他们不在乎伤害，时间过去，目的替……",
+      "meaning": "躺下来。可他们不在乎岁月留下的伤害。他们的目的为",
       "suppliedText": "m'allonge mais peu leur importe les dommages avec le temps leur fin justifie les",
       "sourceLineId": "moliere-timed-643",
       "reviewNote": "",
@@ -258,11 +258,11 @@
       }
     },
     {
-      "sourceText": "Mensonges. Je ne suis pas toujours sentimentale, je deviens animale dès que l'on me fait…",
+      "sourceText": "Mensonges. J'suis pas toujours sentimentale. Je deviens animale dès que l'on me fait",
       "start": 126,
-      "ipa": "[mɑ̃sɔ̃ʒ ʒə nə sɥi pa tuʒuʁ sɑ̃timɑ̃tal ʒə dəvjɛ̃ animal dɛ kə lɔ̃ mə fɛ]",
-      "ear": "芒松日 热 讷 斯于伊 帕 图茹赫 桑蒂芒塔勒 热 德弗耶安 阿尼玛勒 戴 克 隆 默 费",
-      "meaning": "谎言辩解。我并非总是温柔多情，一旦受伤……",
+      "ipa": "[mɑ̃sɔ̃ʒ ʒsɥi pa tuʒuʁ sɑ̃timɑ̃tal ʒə dəvjɛ̃ animal dɛ kə lɔ̃ mə fɛ]",
+      "ear": "芒松日 日斯于伊 帕 图茹赫 桑蒂芒塔勒 热 德弗耶安 阿尼玛勒 戴 克 隆 默 费",
+      "meaning": "谎言找理由。我并不总是多愁善感。只要受到",
       "suppliedText": "mensonges je suis pas toujours sentimental je deviens animal et que l'on me fait",
       "sourceLineId": "moliere-timed-644",
       "reviewNote": "",
@@ -274,11 +274,11 @@
       }
     },
     {
-      "sourceText": "Mal. Une femme, c'est une femme fatale. Je suis une femme létale, une tueuse de…",
+      "sourceText": "Mal. Ni femme, ni femme fatale, je suis une femme létale, une tueuse de",
       "start": 134,
-      "ipa": "[mal yn fam sɛt‿yn fam fatal ʒə sɥi yn fam letal yn tyøz də]",
-      "ear": "玛勒 于恩 法姆 塞特 于恩 法姆 法塔勒 热 斯于伊 于恩 法姆 莱塔勒 于恩 蒂于厄兹 德",
-      "meaning": "就会像野兽。我是危险的女人，致命的女人，猎杀……",
+      "ipa": "[mal ni fam ni fam fatal ʒə sɥi yn fam letal yn tyøz də]",
+      "ear": "玛勒 尼 法姆 尼 法姆 法塔勒 热 斯于伊 于恩 法姆 莱塔勒 于恩 蒂于厄兹 德",
+      "meaning": "伤害，我便像野兽。既不是普通女人，也不是致命诱惑，我是致命的女人，是男人的",
       "suppliedText": "mal une femme c'est une femme fatale je suis une femme lét une tueuse de",
       "sourceLineId": "moliere-timed-645",
       "reviewNote": "",
@@ -290,11 +290,11 @@
       }
     },
     {
-      "sourceText": "Mal veux tout donner tout donner si je veux tout donner tout donner quand je veux me donner sans au",
+      "sourceText": "Mâles. Moi, je veux tout donner, tout donner, si je veux ; tout donner, tout donner, quand je veux me donner sans aucun remords.",
       "start": 143,
-      "ipa": "[mal vø tu dɔne tu dɔne si ʒə vø tu dɔne tu dɔne kɑ̃ ʒə vø mə dɔne sɑ̃ o]",
-      "ear": "玛勒 弗厄 图 多内 图 多内 西 热 弗厄 图 多内 图 多内 康 热 弗厄 默 多内 桑 奥",
-      "meaning": "男人的女人。我想付出一切，只在我愿意、我想要的时候……",
+      "ipa": "[mal mwa ʒə vø tu dɔne tu dɔne si ʒə vø tu dɔne tu dɔne kɑ̃ ʒə vø mə dɔne sɑ̃ okœ̃ ʁəmɔʁ]",
+      "ear": "玛勒 姆乌阿 热 弗厄 图 多内 图 多内 西 热 弗厄 图 多内 图 多内 康 热 弗厄 默 多内 桑 奥坎 赫莫赫",
+      "meaning": "杀手。我想付出一切，倾尽所有，如果我愿意；在自己愿意时，毫不后悔地倾尽所有。",
       "suppliedText": "mal veux tout donner tout donner si je veux tout donner tout donner quand je veux me donner sans au",
       "sourceLineId": "moliere-timed-646",
       "reviewNote": "",
@@ -306,11 +306,11 @@
       }
     },
     {
-      "sourceText": "Moi je veux tout donner tout donner si je veux tout donner tout donner quand je veux donner sans",
+      "sourceText": "Moi, je veux tout donner, tout donner, si je veux ; tout donner, tout donner, quand je veux me donner sans",
       "start": 151,
-      "ipa": "[mwa ʒə vø tu dɔne tu dɔne si ʒə vø tu dɔne tu dɔne kɑ̃ ʒə vø dɔne sɑ̃]",
-      "ear": "姆乌阿 热 弗厄 图 多内 图 多内 西 热 弗厄 图 多内 图 多内 康 热 弗厄 多内 桑",
-      "meaning": "我要付出一切，只在我愿意、我想要的时候，没有……",
+      "ipa": "[mwa ʒə vø tu dɔne tu dɔne si ʒə vø tu dɔne tu dɔne kɑ̃ ʒə vø mə dɔne sɑ̃]",
+      "ear": "姆乌阿 热 弗厄 图 多内 图 多内 西 热 弗厄 图 多内 图 多内 康 热 弗厄 默 多内 桑",
+      "meaning": "我想付出一切，倾尽所有，如果我愿意；在自己愿意时倾尽所有，不费",
       "suppliedText": "moi je veux tout donner tout donner si je veux tout donner tout donner quand je veux donner sans",
       "sourceLineId": "moliere-timed-647",
       "reviewNote": "",
@@ -322,11 +322,11 @@
       }
     },
     {
-      "sourceText": "Aucun même si parfois je ne suis pas très sage non je ne suis pas fille de",
+      "sourceText": "Aucun effort. Même si parfois je ne suis pas très sage, non, je ne suis pas une fille de",
       "start": 159,
-      "ipa": "[okœ̃ mɛm si paʁfwa ʒə nə sɥi pa tʁɛ saʒ nɔ̃ ʒə nə sɥi pa fij də]",
-      "ear": "奥坎 梅姆 西 帕赫弗乌阿 热 讷 斯于伊 帕 特赫 萨日 农 热 讷 斯于伊 帕 菲耶 德",
-      "meaning": "……即使有时我并不乖巧，我也不是一个……",
+      "ipa": "[okœ̃n‿efɔʁ mɛm si paʁfwa ʒə nə sɥi pa tʁɛ saʒ nɔ̃ ʒə nə sɥi pa yn fij də]",
+      "ear": "奥坎恩 诶佛赫 梅姆 西 帕赫弗乌阿 热 讷 斯于伊 帕 特赫 萨日 农 热 讷 斯于伊 帕 于恩 菲耶 德",
+      "meaning": "任何力气。即使有时我不够乖，不，我也不是一个短暂",
       "suppliedText": "aucun même si parfois je ne suis pas très sage non je ne suis pas fille de",
       "sourceLineId": "moliere-timed-648",
       "reviewNote": "",
@@ -338,11 +338,11 @@
       }
     },
     {
-      "sourceText": "Passage",
+      "sourceText": "Passage.",
       "start": 167,
       "ipa": "[pasaʒ]",
       "ear": "帕萨日",
-      "meaning": "任人路过的姑娘。",
+      "meaning": "过客。",
       "suppliedText": "passage",
       "sourceLineId": "moliere-timed-649",
       "reviewNote": "",
@@ -353,5 +353,6 @@
         "precision": "approximate"
       }
     }
-  ]
+  ],
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

@@ -1,0 +1,1705 @@
+{
+  "videoId": "mozart-2010-02",
+  "playbackVideoId": "83Qn2IvP_-I",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "97aaf400c790393fcb53f1f43bb1002cc0955e5fa8ec3c8c767c03260daed16c",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "法语原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "2010年巴黎原唱录像",
+      "url": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=289"
+    }
+  ],
+  "entries": [
+    {
+      "start": 298,
+      "sourceText": "Encore",
+      "ipa": "[ɑ̃kɔʁ]",
+      "ear": "昂科赫",
+      "meaning": "又一次。",
+      "sourceLineId": "mozart-timed-18-1",
+      "suppliedText": "Encore Nos idées que l'on tord",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 298,
+        "anchorEnd": 304.859,
+        "sourceLineNumber": 18,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 299.871,
+      "sourceText": "Nos idées que l'on tord",
+      "ipa": "[noz‿ide kə lɔ̃ tɔʁ]",
+      "ear": "诺兹 伊德 克 隆 托赫",
+      "meaning": "我们的想法被人扭曲。",
+      "sourceLineId": "mozart-timed-18-2",
+      "suppliedText": "Encore Nos idées que l'on tord",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 298,
+        "anchorEnd": 304.859,
+        "sourceLineNumber": 18,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 306,
+      "sourceText": "Étranglées dès l'aurore",
+      "ipa": "[etʁɑ̃ɡle dɛ loʁɔʁ]",
+      "ear": "诶特杭格莱 戴 洛霍赫",
+      "meaning": "天刚亮就被扼杀。",
+      "sourceLineId": "mozart-timed-19-1",
+      "suppliedText": "Étranglées dès l'aurore Et nos rêves que l'on crève",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 306,
+        "anchorEnd": 313,
+        "sourceLineNumber": 19,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 309.5,
+      "sourceText": "Et nos rêves que l'on crève",
+      "ipa": "[e no ʁɛv kə lɔ̃ kʁɛv]",
+      "ear": "诶 诺 赫弗 克 隆 克赫弗",
+      "meaning": "我们的梦想被人戳破。",
+      "sourceLineId": "mozart-timed-19-2",
+      "suppliedText": "Étranglées dès l'aurore Et nos rêves que l'on crève",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 306,
+        "anchorEnd": 313,
+        "sourceLineNumber": 19,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 313,
+      "sourceText": "Sans un remords",
+      "ipa": "[sɑ̃z‿œ̃ ʁəmɔʁ]",
+      "ear": "桑兹 恩 赫莫赫",
+      "meaning": "他们毫无悔意。",
+      "sourceLineId": "mozart-timed-20-1",
+      "suppliedText": "Sans un remords - Toujours - Jours de défaite",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 313,
+        "anchorEnd": 319.95,
+        "sourceLineNumber": 20,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 314.853,
+      "sourceText": "Toujours",
+      "ipa": "[tuʒuʁ]",
+      "ear": "图茹赫",
+      "meaning": "总是",
+      "sourceLineId": "mozart-timed-20-2",
+      "suppliedText": "Sans un remords - Toujours - Jours de défaite",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 313,
+        "anchorEnd": 319.95,
+        "sourceLineNumber": 20,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 316.707,
+      "sourceText": "Jours de défaite",
+      "ipa": "[ʒuʁ də defɛt]",
+      "ear": "茹赫 德 德费特",
+      "meaning": "尽是挫败的日子。",
+      "sourceLineId": "mozart-timed-20-3",
+      "suppliedText": "Sans un remords - Toujours - Jours de défaite",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 313,
+        "anchorEnd": 319.95,
+        "sourceLineNumber": 20,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 320,
+      "sourceText": "Leurs valeurs qui ont cours",
+      "ipa": "[lœʁ valœʁ ki ɔ̃ kuʁ]",
+      "ear": "勒厄赫 瓦勒厄赫 基 翁 库赫",
+      "meaning": "盛行的尽是他们那套价值观。",
+      "sourceLineId": "mozart-timed-21-1",
+      "suppliedText": "- Leurs valeurs qui ont cours - Courber la tête - Les gardiens de leurs tours - Tours d'ivoire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 320,
+        "anchorEnd": 328,
+        "sourceLineNumber": 21,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 322.581,
+      "sourceText": "Courber la tête",
+      "ipa": "[kuʁbe la tɛt]",
+      "ear": "库赫贝 拉 泰特",
+      "meaning": "低下头",
+      "sourceLineId": "mozart-timed-21-2",
+      "suppliedText": "- Leurs valeurs qui ont cours - Courber la tête - Les gardiens de leurs tours - Tours d'ivoire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 320,
+        "anchorEnd": 328,
+        "sourceLineNumber": 21,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 324.129,
+      "sourceText": "Les gardiens de leurs tours",
+      "ipa": "[le ɡaʁdjɛ̃ də lœʁ tuʁ]",
+      "ear": "莱 嘎赫德耶安 德 勒厄赫 图赫",
+      "meaning": "守着他们高塔的人。",
+      "sourceLineId": "mozart-timed-21-3",
+      "suppliedText": "- Leurs valeurs qui ont cours - Courber la tête - Les gardiens de leurs tours - Tours d'ivoire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 320,
+        "anchorEnd": 328,
+        "sourceLineNumber": 21,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 326.452,
+      "sourceText": "Tours d'ivoire",
+      "ipa": "[tuʁ divwaʁ]",
+      "ear": "图赫 迪弗乌阿赫",
+      "meaning": "象牙塔",
+      "sourceLineId": "mozart-timed-21-4",
+      "suppliedText": "- Leurs valeurs qui ont cours - Courber la tête - Les gardiens de leurs tours - Tours d'ivoire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 320,
+        "anchorEnd": 328,
+        "sourceLineNumber": 21,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 328,
+      "sourceText": "Indécents",
+      "ipa": "[ɛ̃desɑ̃]",
+      "ear": "安德桑",
+      "meaning": "如此无耻。",
+      "sourceLineId": "mozart-timed-22-1",
+      "suppliedText": "- Indécents - Sans nous voir - Ils sont devenus sourds - Devenus sourds",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 328,
+        "anchorEnd": 336.1,
+        "sourceLineNumber": 22,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 329.215,
+      "sourceText": "Sans nous voir",
+      "ipa": "[sɑ̃ nu vwaʁ]",
+      "ear": "桑 努 弗乌阿赫",
+      "meaning": "对我们视而不见。",
+      "sourceLineId": "mozart-timed-22-2",
+      "suppliedText": "- Indécents - Sans nous voir - Ils sont devenus sourds - Devenus sourds",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 328,
+        "anchorEnd": 336.1,
+        "sourceLineNumber": 22,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 331.24,
+      "sourceText": "Ils sont devenus sourds",
+      "ipa": "[il sɔ̃ dəvny suʁ]",
+      "ear": "伊勒 松 德弗尼于 苏赫",
+      "meaning": "他们已经听不见我们的声音。",
+      "sourceLineId": "mozart-timed-22-3",
+      "suppliedText": "- Indécents - Sans nous voir - Ils sont devenus sourds - Devenus sourds",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 328,
+        "anchorEnd": 336.1,
+        "sourceLineNumber": 22,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 334.075,
+      "sourceText": "Devenus sourds",
+      "ipa": "[dəvny suʁ]",
+      "ear": "德弗尼于 苏赫",
+      "meaning": "已经装聋作哑。",
+      "sourceLineId": "mozart-timed-22-4",
+      "suppliedText": "- Indécents - Sans nous voir - Ils sont devenus sourds - Devenus sourds",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 328,
+        "anchorEnd": 336.1,
+        "sourceLineNumber": 22,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 337,
+      "sourceText": "Penser l'impossible avant tout",
+      "ipa": "[pɑ̃se lɛ̃pɔsibl‿avɑ̃ tu]",
+      "ear": "庞塞 兰珀西布勒 阿旺 图",
+      "meaning": "先去想象那些不可能。",
+      "sourceLineId": "mozart-timed-23-1",
+      "suppliedText": "Penser l'impossible avant tout Brûler nos prisons dorées",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 337,
+        "anchorEnd": 343.82,
+        "sourceLineNumber": 23,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 340.789,
+      "sourceText": "Brûler nos prisons dorées",
+      "ipa": "[bʁyle no pʁizɔ̃ doʁe]",
+      "ear": "布许莱 诺 普希宗 多赫",
+      "meaning": "烧掉困住我们的金色牢笼。",
+      "sourceLineId": "mozart-timed-23-2",
+      "suppliedText": "Penser l'impossible avant tout Brûler nos prisons dorées",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 337,
+        "anchorEnd": 343.82,
+        "sourceLineNumber": 23,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 346,
+      "sourceText": "Oser l'utopie jusqu'au bout",
+      "ipa": "[oze lytopi ʒysko bu]",
+      "ear": "奥泽 吕托皮 日于斯科 布",
+      "meaning": "敢把理想坚持到底。",
+      "sourceLineId": "mozart-timed-24-1",
+      "suppliedText": "Oser l'utopie jusqu'au bout Seuls les fous nous ont fait",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 346,
+        "anchorEnd": 353.87,
+        "sourceLineNumber": 24,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 350.293,
+      "sourceText": "Seuls les fous nous ont fait",
+      "ipa": "[sœl le fu nuz‿ɔ̃ fɛ]",
+      "ear": "瑟厄勒 莱 富 努兹 翁 费",
+      "meaning": "只有那些疯子，才推动我们——",
+      "sourceLineId": "mozart-timed-24-2",
+      "suppliedText": "Oser l'utopie jusqu'au bout Seuls les fous nous ont fait",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 346,
+        "anchorEnd": 353.87,
+        "sourceLineNumber": 24,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 354,
+      "sourceText": "Avancer",
+      "ipa": "[avɑ̃se]",
+      "ear": "阿旺塞",
+      "meaning": "向前。",
+      "sourceLineId": "mozart-timed-25-1",
+      "suppliedText": "Avancer Encore",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 354,
+        "anchorEnd": 362,
+        "sourceLineNumber": 25,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 358.0,
+      "sourceText": "Encore",
+      "ipa": "[ɑ̃kɔʁ]",
+      "ear": "昂科赫",
+      "meaning": "又一次。",
+      "sourceLineId": "mozart-timed-25-2",
+      "suppliedText": "Avancer Encore",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 354,
+        "anchorEnd": 362,
+        "sourceLineNumber": 25,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 362,
+      "sourceText": "Corps à genoux",
+      "ipa": "[kɔʁ‿a ʒənu]",
+      "ear": "科赫 阿 热努",
+      "meaning": "身体被迫跪下。",
+      "sourceLineId": "mozart-timed-26-1",
+      "suppliedText": "Corps à genoux La censure pour décor Cordes à nos cous Nos esprits qu'ils essorent",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 362,
+        "anchorEnd": 371,
+        "sourceLineNumber": 26,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 363.667,
+      "sourceText": "La censure pour décor",
+      "ipa": "[la sɑ̃syʁ puʁ dekɔʁ]",
+      "ear": "拉 桑西于赫 普赫 德科赫",
+      "meaning": "四周尽是审查与禁令。",
+      "sourceLineId": "mozart-timed-26-2",
+      "suppliedText": "Corps à genoux La censure pour décor Cordes à nos cous Nos esprits qu'ils essorent",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 362,
+        "anchorEnd": 371,
+        "sourceLineNumber": 26,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 366.333,
+      "sourceText": "Cordes à nos cous",
+      "ipa": "[kɔʁd‿a no ku]",
+      "ear": "科赫德 阿 诺 库",
+      "meaning": "脖子上套着绳索。",
+      "sourceLineId": "mozart-timed-26-3",
+      "suppliedText": "Corps à genoux La censure pour décor Cordes à nos cous Nos esprits qu'ils essorent",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 362,
+        "anchorEnd": 371,
+        "sourceLineNumber": 26,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 368.333,
+      "sourceText": "Nos esprits qu'ils essorent",
+      "ipa": "[noz‿ɛspʁi kil‿esoʁ]",
+      "ear": "诺兹 艾斯普希 基勒 诶索赫",
+      "meaning": "我们的思想被他们榨干。",
+      "sourceLineId": "mozart-timed-26-4",
+      "suppliedText": "Corps à genoux La censure pour décor Cordes à nos cous Nos esprits qu'ils essorent",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 362,
+        "anchorEnd": 371,
+        "sourceLineNumber": 26,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 371,
+      "sourceText": "Sortilèges",
+      "ipa": "[sɔʁtilɛʒ]",
+      "ear": "索赫蒂莱日",
+      "meaning": "咒语",
+      "sourceLineId": "mozart-timed-27-1",
+      "suppliedText": "- Sortilèges - Ils nous piègent Privilèges Au nom Des carnivores",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 371,
+        "anchorEnd": 379,
+        "sourceLineNumber": 27,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 372.455,
+      "sourceText": "Ils nous piègent",
+      "ipa": "[il nu pjɛʒ]",
+      "ear": "伊勒 努 普耶艾日",
+      "meaning": "他们把我们困住。",
+      "sourceLineId": "mozart-timed-27-2",
+      "suppliedText": "- Sortilèges - Ils nous piègent Privilèges Au nom Des carnivores",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 371,
+        "anchorEnd": 379,
+        "sourceLineNumber": 27,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 374.636,
+      "sourceText": "Privilèges",
+      "ipa": "[pʁivilɛʒ]",
+      "ear": "普希维莱日",
+      "meaning": "特权",
+      "sourceLineId": "mozart-timed-27-3",
+      "suppliedText": "- Sortilèges - Ils nous piègent Privilèges Au nom Des carnivores",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 371,
+        "anchorEnd": 379,
+        "sourceLineNumber": 27,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 376.091,
+      "sourceText": "Au nom",
+      "ipa": "[o nɔ̃]",
+      "ear": "奥 农",
+      "meaning": "以……的名义。",
+      "sourceLineId": "mozart-timed-27-4",
+      "suppliedText": "- Sortilèges - Ils nous piègent Privilèges Au nom Des carnivores",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 371,
+        "anchorEnd": 379,
+        "sourceLineNumber": 27,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 377.182,
+      "sourceText": "Des carnivores",
+      "ipa": "[de kaʁnivoʁ]",
+      "ear": "德 卡赫尼沃赫",
+      "meaning": "那些吃人的家伙。",
+      "sourceLineId": "mozart-timed-27-5",
+      "suppliedText": "- Sortilèges - Ils nous piègent Privilèges Au nom Des carnivores",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 371,
+        "anchorEnd": 379,
+        "sourceLineNumber": 27,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 379,
+      "sourceText": "Penser l'impossible avant tout",
+      "ipa": "[pɑ̃se lɛ̃pɔsibl‿avɑ̃ tu]",
+      "ear": "庞塞 兰珀西布勒 阿旺 图",
+      "meaning": "先去想象那些不可能。",
+      "sourceLineId": "mozart-timed-31-1",
+      "suppliedText": "Penser l'impossible avant tout Brûler nos prisons dorées",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 379,
+        "anchorEnd": 387.07,
+        "sourceLineNumber": 31,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 383.483,
+      "sourceText": "Brûler nos prisons dorées",
+      "ipa": "[bʁyle no pʁizɔ̃ doʁe]",
+      "ear": "布许莱 诺 普希宗 多赫",
+      "meaning": "烧掉困住我们的金色牢笼。",
+      "sourceLineId": "mozart-timed-31-2",
+      "suppliedText": "Penser l'impossible avant tout Brûler nos prisons dorées",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 379,
+        "anchorEnd": 387.07,
+        "sourceLineNumber": 31,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 389,
+      "sourceText": "Oser l'utopie jusqu'au bout",
+      "ipa": "[oze lytopi ʒysko bu]",
+      "ear": "奥泽 吕托皮 日于斯科 布",
+      "meaning": "敢把理想坚持到底。",
+      "sourceLineId": "mozart-timed-32-1",
+      "suppliedText": "Oser l'utopie jusqu'au bout Seuls les fous nous ont fait",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 389,
+        "anchorEnd": 396,
+        "sourceLineNumber": 32,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 392.818,
+      "sourceText": "Seuls les fous nous ont fait",
+      "ipa": "[sœl le fu nuz‿ɔ̃ fɛ]",
+      "ear": "瑟厄勒 莱 富 努兹 翁 费",
+      "meaning": "只有那些疯子，才推动我们——",
+      "sourceLineId": "mozart-timed-32-2",
+      "suppliedText": "Oser l'utopie jusqu'au bout Seuls les fous nous ont fait",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 389,
+        "anchorEnd": 396,
+        "sourceLineNumber": 32,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 396,
+      "sourceText": "Avancer",
+      "ipa": "[avɑ̃se]",
+      "ear": "阿旺塞",
+      "meaning": "向前。",
+      "sourceLineId": "mozart-timed-33-1",
+      "suppliedText": "Avancer Ils nous ont promis des jours faciles",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 396,
+        "anchorEnd": 408,
+        "sourceLineNumber": 33,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 398.4,
+      "sourceText": "Ils nous ont promis des jours faciles",
+      "ipa": "[il nuz‿ɔ̃ pʁomi de ʒuʁ fasil]",
+      "ear": "伊勒 努兹 翁 普霍米 德 茹赫 法西勒",
+      "meaning": "他们许诺我们轻松的日子。",
+      "sourceLineId": "mozart-timed-33-2",
+      "suppliedText": "Avancer Ils nous ont promis des jours faciles",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 396,
+        "anchorEnd": 408,
+        "sourceLineNumber": 33,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 408,
+      "sourceText": "Pauvres imbéciles",
+      "ipa": "[povʁ‿ɛ̃besil]",
+      "ear": "波弗赫 安贝西勒",
+      "meaning": "可怜的傻瓜们。",
+      "sourceLineId": "mozart-timed-34-1",
+      "suppliedText": "Pauvres imbéciles Ils nous ont permis des vies dociles",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 408,
+        "anchorEnd": 416.94,
+        "sourceLineNumber": 34,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 411.294,
+      "sourceText": "Ils nous ont permis des vies dociles",
+      "ipa": "[il nuz‿ɔ̃ pɛʁmi de vi dosil]",
+      "ear": "伊勒 努兹 翁 佩赫米 德 维 多西勒",
+      "meaning": "他们只准我们顺从地活着。",
+      "sourceLineId": "mozart-timed-34-2",
+      "suppliedText": "Pauvres imbéciles Ils nous ont permis des vies dociles",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 408,
+        "anchorEnd": 416.94,
+        "sourceLineNumber": 34,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 417,
+      "sourceText": "Sans douce folie, sans poésie",
+      "ipa": "[sɑ̃ dus foli sɑ̃ pɔezi]",
+      "ear": "桑 杜斯 佛利 桑 珀诶齐",
+      "meaning": "没有温柔的疯狂，也没有诗意。",
+      "sourceLineId": "mozart-timed-35-1",
+      "suppliedText": "Sans douce folie, sans poésie L'ennui au fil des nuits sans fin",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 417,
+        "anchorEnd": 426,
+        "sourceLineNumber": 35,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 421.696,
+      "sourceText": "L'ennui au fil des nuits sans fin",
+      "ipa": "[lɑ̃nɥi o fil de nɥi sɑ̃ fɛ̃]",
+      "ear": "朗恩于伊 奥 菲勒 德 恩于伊 桑 凡",
+      "meaning": "无尽的夜里，日复一日的无聊。",
+      "sourceLineId": "mozart-timed-35-2",
+      "suppliedText": "Sans douce folie, sans poésie L'ennui au fil des nuits sans fin",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 417,
+        "anchorEnd": 426,
+        "sourceLineNumber": 35,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 426,
+      "sourceText": "Fit de nous de joyeux pantins",
+      "ipa": "[fi də nu də ʒwajø pɑ̃tɛ̃]",
+      "ear": "菲 德 努 德 日乌阿耶厄 庞坦",
+      "meaning": "把我们变成了快乐的提线木偶。",
+      "sourceLineId": "mozart-timed-36-1",
+      "suppliedText": "Fit de nous de joyeux pantins Wolfgang Amadeus Mozart.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 426,
+        "anchorEnd": 442,
+        "sourceLineNumber": 36,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 435.263,
+      "sourceText": "Wolfgang Amadeus Mozart.",
+      "ipa": "[vɔlfɡɑ̃ɡ‿amadeus mɔtsaʁ]",
+      "ear": "沃勒弗冈格 阿玛德乌斯 莫特萨赫",
+      "meaning": "沃尔夫冈·阿马德乌斯·莫扎特。",
+      "sourceLineId": "mozart-timed-36-2",
+      "suppliedText": "Fit de nous de joyeux pantins Wolfgang Amadeus Mozart.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 426,
+        "anchorEnd": 442,
+        "sourceLineNumber": 36,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 442,
+      "sourceText": "Pour vous servir!",
+      "ipa": "[puʁ vu sɛʁviʁ]",
+      "ear": "普赫 乌 塞赫维赫",
+      "meaning": "竭诚为您服务！",
+      "sourceLineId": "mozart-timed-37-1",
+      "suppliedText": "Pour vous servir!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 442,
+        "anchorEnd": 444,
+        "sourceLineNumber": 37,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 444,
+      "sourceText": "Penser l'impossible avant tout",
+      "ipa": "[pɑ̃se lɛ̃pɔsibl‿avɑ̃ tu]",
+      "ear": "庞塞 兰珀西布勒 阿旺 图",
+      "meaning": "先去想象那些不可能。",
+      "sourceLineId": "mozart-timed-38-1",
+      "suppliedText": "Penser l'impossible avant tout Brûler nos prisons dorées",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 444,
+        "anchorEnd": 450.47,
+        "sourceLineNumber": 38,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 447.594,
+      "sourceText": "Brûler nos prisons dorées",
+      "ipa": "[bʁyle no pʁizɔ̃ doʁe]",
+      "ear": "布许莱 诺 普希宗 多赫",
+      "meaning": "烧掉困住我们的金色牢笼。",
+      "sourceLineId": "mozart-timed-38-2",
+      "suppliedText": "Penser l'impossible avant tout Brûler nos prisons dorées",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 444,
+        "anchorEnd": 450.47,
+        "sourceLineNumber": 38,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 452,
+      "sourceText": "Oser l'utopie jusqu'au bout",
+      "ipa": "[oze lytopi ʒysko bu]",
+      "ear": "奥泽 吕托皮 日于斯科 布",
+      "meaning": "敢把理想坚持到底。",
+      "sourceLineId": "mozart-timed-39-1",
+      "suppliedText": "Oser l'utopie jusqu'au bout Seuls les fous nous ont fait",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 452,
+        "anchorEnd": 458.74,
+        "sourceLineNumber": 39,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 455.676,
+      "sourceText": "Seuls les fous nous ont fait",
+      "ipa": "[sœl le fu nuz‿ɔ̃ fɛ]",
+      "ear": "瑟厄勒 莱 富 努兹 翁 费",
+      "meaning": "只有那些疯子，才推动我们——",
+      "sourceLineId": "mozart-timed-39-2",
+      "suppliedText": "Oser l'utopie jusqu'au bout Seuls les fous nous ont fait",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 452,
+        "anchorEnd": 458.74,
+        "sourceLineNumber": 39,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 460,
+      "sourceText": "Avancer",
+      "ipa": "[avɑ̃se]",
+      "ear": "阿旺塞",
+      "meaning": "向前。",
+      "sourceLineId": "mozart-timed-40-1",
+      "suppliedText": "Avancer",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 460,
+        "anchorEnd": 462.94,
+        "sourceLineNumber": 40,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 483,
+      "sourceText": "C'est non!",
+      "ipa": "[sɛ nɔ̃]",
+      "ear": "塞 农",
+      "meaning": "不！",
+      "sourceLineId": "mozart-timed-41-1",
+      "suppliedText": "C'est non!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 483,
+        "anchorEnd": 485,
+        "sourceLineNumber": 41,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 485,
+      "sourceText": "Et doublement, je refuse votre demande de congé et je vous annonce la fermeture du",
+      "ipa": "[e dubləmɑ̃ ʒə ʁəfyz votʁ dəmɑ̃d də kɔ̃ʒe e ʒə vuz‿anɔ̃s la fɛʁmətyʁ dy]",
+      "ear": "诶 杜布勒芒 热 赫菲于兹 沃特赫 德芒德 德 孔热 诶 热 乌兹 阿农斯 拉 费赫默蒂于赫 迪于",
+      "meaning": "而且，我拒绝你的休假请求，并且我向你宣布关闭",
+      "sourceLineId": "mozart-timed-42-1",
+      "suppliedText": "Et doublement, je refuse votre demande de congé et je vous annonce la fermeture du Théâtre national de Salzbourg.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 485,
+        "anchorEnd": 493,
+        "sourceLineNumber": 42,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 490.854,
+      "sourceText": "Théâtre national de Salzbourg.",
+      "ipa": "[teatʁ nasjonal də salzbuʁ]",
+      "ear": "特阿特赫 纳斯耶奥纳勒 德 萨勒兹布赫",
+      "meaning": "萨尔茨堡国家剧院。",
+      "sourceLineId": "mozart-timed-42-2",
+      "suppliedText": "Et doublement, je refuse votre demande de congé et je vous annonce la fermeture du Théâtre national de Salzbourg.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 485,
+        "anchorEnd": 493,
+        "sourceLineNumber": 42,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 493,
+      "sourceText": "Ainsi, jeune homme, vous pouvez oublier vos rêves chimériques",
+      "ipa": "[ɛ̃si ʒøn‿ɔm vu puve ublie vo ʁɛv ʃimeʁik]",
+      "ear": "安西 热厄恩 哦姆 乌 普韦 乌布利诶 沃 赫弗 希梅希克",
+      "meaning": "所以，年轻人，你可以忘记你的幻想了",
+      "sourceLineId": "mozart-timed-43-1",
+      "suppliedText": "Ainsi, jeune homme, vous pouvez oublier vos rêves chimériques",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 493,
+        "anchorEnd": 500,
+        "sourceLineNumber": 43,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 500,
+      "sourceText": "d'opéra en allemand.",
+      "ipa": "[dopeʁa ɑ̃n‿almɑ̃]",
+      "ear": "多佩哈 昂恩 阿勒芒",
+      "meaning": "德语歌剧。",
+      "sourceLineId": "mozart-timed-44-1",
+      "suppliedText": "d'opéra en allemand. Contentez-vous d'honorer mes travaux commandés.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 500,
+        "anchorEnd": 504.94,
+        "sourceLineNumber": 44,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 501.572,
+      "sourceText": "Contentez-vous d'honorer mes travaux commandés.",
+      "ipa": "[kɔ̃tɑ̃tevu donoʁe me tʁavo kɔmɑ̃de]",
+      "ear": "孔唐特乌 多诺赫 梅 特哈沃 科芒德",
+      "meaning": "只是兑现我委托的工作。",
+      "sourceLineId": "mozart-timed-44-2",
+      "suppliedText": "d'opéra en allemand. Contentez-vous d'honorer mes travaux commandés.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 500,
+        "anchorEnd": 504.94,
+        "sourceLineNumber": 44,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 510,
+      "sourceText": "Père, je n'ai pas le choix.",
+      "ipa": "[pɛʁ ʒə ne pa lə ʃwa]",
+      "ear": "佩赫 热 内 帕 勒 什乌阿",
+      "meaning": "父亲，我别无选择。",
+      "sourceLineId": "mozart-timed-45-1",
+      "suppliedText": "Père, je n'ai pas le choix. Il faut partir!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 510,
+        "anchorEnd": 515,
+        "sourceLineNumber": 45,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 513.214,
+      "sourceText": "Il faut partir!",
+      "ipa": "[il fo paʁtiʁ]",
+      "ear": "伊勒 佛 帕赫蒂赫",
+      "meaning": "我们必须离开！",
+      "sourceLineId": "mozart-timed-45-2",
+      "suppliedText": "Père, je n'ai pas le choix. Il faut partir!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 510,
+        "anchorEnd": 515,
+        "sourceLineNumber": 45,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 515,
+      "sourceText": "Mais c'est impossible!",
+      "ipa": "[mɛ sɛt‿ɛ̃pɔsibl]",
+      "ear": "梅 塞特 安珀西布勒",
+      "meaning": "但这是不可能的！",
+      "sourceLineId": "mozart-timed-46-1",
+      "suppliedText": "Mais c'est impossible! Colloredo a refusé mon congé, - je ne peux t'accompagner. - Je pars seul. Tu ne peux pas. Papa, je t'en prie, écoute-le.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 515,
+        "anchorEnd": 524,
+        "sourceLineNumber": 46,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 516.37,
+      "sourceText": "Colloredo a refusé mon congé,",
+      "ipa": "[kɔlɔʁedo a ʁəfyze mɔ̃ kɔ̃ʒe]",
+      "ear": "科洛赫多 阿 赫菲于泽 蒙 孔热",
+      "meaning": "科洛雷多拒绝我的离开，",
+      "sourceLineId": "mozart-timed-46-2",
+      "suppliedText": "Mais c'est impossible! Colloredo a refusé mon congé, - je ne peux t'accompagner. - Je pars seul. Tu ne peux pas. Papa, je t'en prie, écoute-le.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 515,
+        "anchorEnd": 524,
+        "sourceLineNumber": 46,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 518.522,
+      "sourceText": "je ne peux t'accompagner.",
+      "ipa": "[ʒə nə pø takɔ̃panje]",
+      "ear": "热 讷 珀厄 塔孔帕恩耶诶",
+      "meaning": "我不能陪你。",
+      "sourceLineId": "mozart-timed-46-3",
+      "suppliedText": "Mais c'est impossible! Colloredo a refusé mon congé, - je ne peux t'accompagner. - Je pars seul. Tu ne peux pas. Papa, je t'en prie, écoute-le.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 515,
+        "anchorEnd": 524,
+        "sourceLineNumber": 46,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 520.087,
+      "sourceText": "Je pars seul.",
+      "ipa": "[ʒə paʁ sœl]",
+      "ear": "热 帕赫 瑟厄勒",
+      "meaning": "我要独自离开。",
+      "sourceLineId": "mozart-timed-46-4",
+      "suppliedText": "Mais c'est impossible! Colloredo a refusé mon congé, - je ne peux t'accompagner. - Je pars seul. Tu ne peux pas. Papa, je t'en prie, écoute-le.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 515,
+        "anchorEnd": 524,
+        "sourceLineNumber": 46,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 520.87,
+      "sourceText": "Tu ne peux pas.",
+      "ipa": "[ty nə pø pa]",
+      "ear": "蒂于 讷 珀厄 帕",
+      "meaning": "你不能。",
+      "sourceLineId": "mozart-timed-46-5",
+      "suppliedText": "Mais c'est impossible! Colloredo a refusé mon congé, - je ne peux t'accompagner. - Je pars seul. Tu ne peux pas. Papa, je t'en prie, écoute-le.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 515,
+        "anchorEnd": 524,
+        "sourceLineNumber": 46,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 521.848,
+      "sourceText": "Papa, je t'en prie, écoute-le.",
+      "ipa": "[papa ʒə tɑ̃ pʁi ekutlə]",
+      "ear": "帕帕 热 唐 普希 诶库特勒",
+      "meaning": "爸爸，请听他说。",
+      "sourceLineId": "mozart-timed-46-6",
+      "suppliedText": "Mais c'est impossible! Colloredo a refusé mon congé, - je ne peux t'accompagner. - Je pars seul. Tu ne peux pas. Papa, je t'en prie, écoute-le.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 515,
+        "anchorEnd": 524,
+        "sourceLineNumber": 46,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 524,
+      "sourceText": "Il y va de ma vie!",
+      "ipa": "[il‿i va də ma vi]",
+      "ear": "伊勒 伊 瓦 德 玛 维",
+      "meaning": "这关乎我的人生！",
+      "sourceLineId": "mozart-timed-47-1",
+      "suppliedText": "Il y va de ma vie! - Je te dis non! - Arrêtez, tous les deux. Leopold, s'il le faut, je pars avec lui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 524,
+        "anchorEnd": 532.9,
+        "sourceLineNumber": 47,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 525.947,
+      "sourceText": "Je te dis non!",
+      "ipa": "[ʒə tə di nɔ̃]",
+      "ear": "热 特 迪 农",
+      "meaning": "我告诉你不！",
+      "sourceLineId": "mozart-timed-47-2",
+      "suppliedText": "Il y va de ma vie! - Je te dis non! - Arrêtez, tous les deux. Leopold, s'il le faut, je pars avec lui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 524,
+        "anchorEnd": 532.9,
+        "sourceLineNumber": 47,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 527.059,
+      "sourceText": "Arrêtez, tous les deux.",
+      "ipa": "[aʁɛte tu le dø]",
+      "ear": "阿赫特 图 莱 德厄",
+      "meaning": "停止，你们俩。",
+      "sourceLineId": "mozart-timed-47-3",
+      "suppliedText": "Il y va de ma vie! - Je te dis non! - Arrêtez, tous les deux. Leopold, s'il le faut, je pars avec lui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 524,
+        "anchorEnd": 532.9,
+        "sourceLineNumber": 47,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 529.284,
+      "sourceText": "Leopold, s'il le faut, je pars avec lui.",
+      "ipa": "[leɔpɔld sil lə fo ʒə paʁ‿avɛk lɥi]",
+      "ear": "莱哦珀勒德 西勒 勒 佛 热 帕赫 阿韦克 勒于伊",
+      "meaning": "利奥波德，如果有必要的话，我会和他一起去。",
+      "sourceLineId": "mozart-timed-47-4",
+      "suppliedText": "Il y va de ma vie! - Je te dis non! - Arrêtez, tous les deux. Leopold, s'il le faut, je pars avec lui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 524,
+        "anchorEnd": 532.9,
+        "sourceLineNumber": 47,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 533,
+      "sourceText": "Quoi?",
+      "ipa": "[kwa]",
+      "ear": "克乌阿",
+      "meaning": "什么？",
+      "sourceLineId": "mozart-timed-48-1",
+      "suppliedText": "Quoi? Toi, quitter la maison? Mais enfin, tu n'as jamais voyagé. Eh bien, il y a un début à tout.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 533,
+        "anchorEnd": 541.98,
+        "sourceLineNumber": 48,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 533.728,
+      "sourceText": "Toi, quitter la maison?",
+      "ipa": "[twa kite la mɛzɔ̃]",
+      "ear": "特乌阿 基特 拉 梅宗",
+      "meaning": "你，离开家了吗？",
+      "sourceLineId": "mozart-timed-48-2",
+      "suppliedText": "Quoi? Toi, quitter la maison? Mais enfin, tu n'as jamais voyagé. Eh bien, il y a un début à tout.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 533,
+        "anchorEnd": 541.98,
+        "sourceLineNumber": 48,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 535.912,
+      "sourceText": "Mais enfin, tu n'as jamais voyagé.",
+      "ipa": "[mɛ ɑ̃fɛ̃ ty na ʒamɛ vwajaʒe]",
+      "ear": "梅 昂凡 蒂于 纳 扎梅 弗乌阿耶阿热",
+      "meaning": "但无论如何，你从未旅行过。",
+      "sourceLineId": "mozart-timed-48-3",
+      "suppliedText": "Quoi? Toi, quitter la maison? Mais enfin, tu n'as jamais voyagé. Eh bien, il y a un début à tout.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 533,
+        "anchorEnd": 541.98,
+        "sourceLineNumber": 48,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 539.068,
+      "sourceText": "Eh bien, il y a un début à tout.",
+      "ipa": "[ɛ bjɛ̃ il‿i a œ̃ deby a tu]",
+      "ear": "艾 布耶安 伊勒 伊 阿 恩 德比于 阿 图",
+      "meaning": "嗯，一切都有一个开始。",
+      "sourceLineId": "mozart-timed-48-4",
+      "suppliedText": "Quoi? Toi, quitter la maison? Mais enfin, tu n'as jamais voyagé. Eh bien, il y a un début à tout.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 533,
+        "anchorEnd": 541.98,
+        "sourceLineNumber": 48,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 542,
+      "sourceText": "Maman a raison.",
+      "ipa": "[mamɑ̃ a ʁɛzɔ̃]",
+      "ear": "玛芒 阿 赫宗",
+      "meaning": "妈妈是对的。",
+      "sourceLineId": "mozart-timed-49-1",
+      "suppliedText": "Maman a raison. Wolfgang, tu pars avec ta mère.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 542,
+        "anchorEnd": 550,
+        "sourceLineNumber": 49,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 545.2,
+      "sourceText": "Wolfgang, tu pars avec ta mère.",
+      "ipa": "[vɔlfɡɑ̃ɡ ty paʁ‿avɛk ta mɛʁ]",
+      "ear": "沃勒弗冈格 蒂于 帕赫 阿韦克 塔 梅赫",
+      "meaning": "沃尔夫冈，你要和你的母亲一起离开。",
+      "sourceLineId": "mozart-timed-49-2",
+      "suppliedText": "Maman a raison. Wolfgang, tu pars avec ta mère.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 542,
+        "anchorEnd": 550,
+        "sourceLineNumber": 49,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 550,
+      "sourceText": "Mais veille bien sur elle.",
+      "ipa": "[mɛ vɛj bjɛ̃ syʁ‿ɛl]",
+      "ear": "梅 韦耶 布耶安 西于赫 艾勒",
+      "meaning": "但是看好她。",
+      "sourceLineId": "mozart-timed-50-1",
+      "suppliedText": "Mais veille bien sur elle. Elle est pour moi ce qui compte le plus au monde.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 550,
+        "anchorEnd": 557.41,
+        "sourceLineNumber": 50,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 552.646,
+      "sourceText": "Elle est pour moi ce qui compte le plus au monde.",
+      "ipa": "[ɛl‿ɛ puʁ mwa sə ki kɔ̃t lə plyz‿o mɔ̃d]",
+      "ear": "艾勒 艾 普赫 姆乌阿 瑟 基 孔特 勒 普吕兹 奥 蒙德",
+      "meaning": "她对我来说是世界上最重要的。",
+      "sourceLineId": "mozart-timed-50-2",
+      "suppliedText": "Mais veille bien sur elle. Elle est pour moi ce qui compte le plus au monde.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 550,
+        "anchorEnd": 557.41,
+        "sourceLineNumber": 50,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 560,
+      "sourceText": "Et toi, mon enfant, trouve une situation, et vite.",
+      "ipa": "[e twa mɔ̃n‿ɑ̃fɑ̃ tʁuv‿yn sityasjɔ̃ e vit]",
+      "ear": "诶 特乌阿 蒙恩 昂芳 特胡弗 于恩 西蒂于阿斯耶翁 诶 维特",
+      "meaning": "孩子，你也得赶紧找到一份工作。",
+      "sourceLineId": "mozart-timed-51-1",
+      "suppliedText": "Et toi, mon enfant, trouve une situation, et vite.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 560,
+        "anchorEnd": 563,
+        "sourceLineNumber": 51,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 563,
+      "sourceText": "Un musicien sans emploi est un vagabond,",
+      "ipa": "[œ̃ myzisjɛ̃ sɑ̃z‿ɑ̃plwa ɛt‿œ̃ vaɡabɔ̃]",
+      "ear": "恩 米于齐斯耶安 桑兹 昂普勒乌阿 艾特 恩 瓦嘎崩",
+      "meaning": "失业的音乐家是流浪汉，",
+      "sourceLineId": "mozart-timed-52-1",
+      "suppliedText": "Un musicien sans emploi est un vagabond, - un saltimbanque méprisé de tous. - Papa, merci. Merci!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 563,
+        "anchorEnd": 571,
+        "sourceLineNumber": 52,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 566.5,
+      "sourceText": "un saltimbanque méprisé de tous.",
+      "ipa": "[œ̃ saltɛ̃bɑ̃k mepʁize də tus]",
+      "ear": "恩 萨勒坦邦克 梅普希泽 德 图斯",
+      "meaning": "一个人人看不起的卖艺人。",
+      "sourceLineId": "mozart-timed-52-2",
+      "suppliedText": "Un musicien sans emploi est un vagabond, - un saltimbanque méprisé de tous. - Papa, merci. Merci!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 563,
+        "anchorEnd": 571,
+        "sourceLineNumber": 52,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 569.5,
+      "sourceText": "Papa, merci.",
+      "ipa": "[papa mɛʁsi]",
+      "ear": "帕帕 梅赫西",
+      "meaning": "爸爸，谢谢你。",
+      "sourceLineId": "mozart-timed-52-3",
+      "suppliedText": "Un musicien sans emploi est un vagabond, - un saltimbanque méprisé de tous. - Papa, merci. Merci!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 563,
+        "anchorEnd": 571,
+        "sourceLineNumber": 52,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 570.5,
+      "sourceText": "Merci!",
+      "ipa": "[mɛʁsi]",
+      "ear": "梅赫西",
+      "meaning": "谢谢！",
+      "sourceLineId": "mozart-timed-52-4",
+      "suppliedText": "Un musicien sans emploi est un vagabond, - un saltimbanque méprisé de tous. - Papa, merci. Merci!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 563,
+        "anchorEnd": 571,
+        "sourceLineNumber": 52,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 571,
+      "sourceText": "Calme-toi.",
+      "ipa": "[kalmtwa]",
+      "ear": "卡勒姆特乌阿",
+      "meaning": "冷静下来。",
+      "sourceLineId": "mozart-timed-53-1",
+      "suppliedText": "- Calme-toi. - Tu verras, papa, tu seras fier de moi. Je composerai les plus beaux opéras, pour mon père!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 571,
+        "anchorEnd": 579,
+        "sourceLineNumber": 53,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 571.889,
+      "sourceText": "Tu verras, papa, tu seras fier de moi.",
+      "ipa": "[ty vɛʁa papa ty səʁa fjɛʁ də mwa]",
+      "ear": "蒂于 韦哈 帕帕 蒂于 瑟哈 弗耶艾赫 德 姆乌阿",
+      "meaning": "你会看到，爸爸，你会为我感到骄傲。",
+      "sourceLineId": "mozart-timed-53-2",
+      "suppliedText": "- Calme-toi. - Tu verras, papa, tu seras fier de moi. Je composerai les plus beaux opéras, pour mon père!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 571,
+        "anchorEnd": 579,
+        "sourceLineNumber": 53,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 574.778,
+      "sourceText": "Je composerai les plus beaux opéras, pour mon père!",
+      "ipa": "[ʒə kɔ̃pozʁe le ply boz‿opeʁa puʁ mɔ̃ pɛʁ]",
+      "ear": "热 孔波兹赫 莱 普吕 博兹 奥佩哈 普赫 蒙 佩赫",
+      "meaning": "我将为父亲谱写最美的歌剧！",
+      "sourceLineId": "mozart-timed-53-3",
+      "suppliedText": "- Calme-toi. - Tu verras, papa, tu seras fier de moi. Je composerai les plus beaux opéras, pour mon père!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 571,
+        "anchorEnd": 579,
+        "sourceLineNumber": 53,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 579,
+      "sourceText": "Le meilleur des pères!",
+      "ipa": "[lə mɛjœʁ de pɛʁ]",
+      "ear": "勒 梅耶厄赫 德 佩赫",
+      "meaning": "最好的父亲！",
+      "sourceLineId": "mozart-timed-54-1",
+      "suppliedText": "Le meilleur des pères! Monseigneur, les Mozart ont quitté Salzbourg!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 579,
+        "anchorEnd": 587,
+        "sourceLineNumber": 54,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 581.783,
+      "sourceText": "Monseigneur, les Mozart ont quitté Salzbourg!",
+      "ipa": "[mɔ̃sɛnjœʁ le mɔtsaʁ‿ɔ̃ kite salzbuʁ]",
+      "ear": "蒙塞恩耶厄赫 莱 莫特萨赫 翁 基特 萨勒兹布赫",
+      "meaning": "阁下，莫扎特一家已经离开萨尔茨堡了！",
+      "sourceLineId": "mozart-timed-54-2",
+      "suppliedText": "Le meilleur des pères! Monseigneur, les Mozart ont quitté Salzbourg!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 579,
+        "anchorEnd": 587,
+        "sourceLineNumber": 54,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 587,
+      "sourceText": "Comment?",
+      "ipa": "[kɔmɑ̃]",
+      "ear": "科芒",
+      "meaning": "什么？",
+      "sourceLineId": "mozart-timed-55-1",
+      "suppliedText": "Comment? Le père et le fils? Non, Votre Altesse, Mozart jeune accompagné par sa mère. Ah, oui?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 587,
+        "anchorEnd": 595,
+        "sourceLineNumber": 55,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 587.516,
+      "sourceText": "Le père et le fils?",
+      "ipa": "[lə pɛʁ e lə fis]",
+      "ear": "勒 佩赫 诶 勒 菲斯",
+      "meaning": "父亲和儿子？",
+      "sourceLineId": "mozart-timed-55-2",
+      "suppliedText": "Comment? Le père et le fils? Non, Votre Altesse, Mozart jeune accompagné par sa mère. Ah, oui?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 587,
+        "anchorEnd": 595,
+        "sourceLineNumber": 55,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 589.065,
+      "sourceText": "Non,",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不，",
+      "sourceLineId": "mozart-timed-55-3",
+      "suppliedText": "Comment? Le père et le fils? Non, Votre Altesse, Mozart jeune accompagné par sa mère. Ah, oui?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 587,
+        "anchorEnd": 595,
+        "sourceLineNumber": 55,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 589.323,
+      "sourceText": "Votre Altesse, Mozart jeune accompagné par sa mère.",
+      "ipa": "[votʁ‿altɛs mɔtsaʁ ʒøn‿akɔ̃panje paʁ sa mɛʁ]",
+      "ear": "沃特赫 阿勒泰斯 莫特萨赫 热厄恩 阿孔帕恩耶诶 帕赫 萨 梅赫",
+      "meaning": "殿下，年轻的莫扎特由他的母亲陪伴。",
+      "sourceLineId": "mozart-timed-55-4",
+      "suppliedText": "Comment? Le père et le fils? Non, Votre Altesse, Mozart jeune accompagné par sa mère. Ah, oui?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 587,
+        "anchorEnd": 595,
+        "sourceLineNumber": 55,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 593.968,
+      "sourceText": "Ah, oui?",
+      "ipa": "[a wi]",
+      "ear": "阿 乌伊",
+      "meaning": "啊，是吗？",
+      "sourceLineId": "mozart-timed-55-5",
+      "suppliedText": "Comment? Le père et le fils? Non, Votre Altesse, Mozart jeune accompagné par sa mère. Ah, oui?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 587,
+        "anchorEnd": 595,
+        "sourceLineNumber": 55,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 595,
+      "sourceText": "Et sait-on où ils comptent se rendre?",
+      "ipa": "[e sɛtɔ̃ u il kɔ̃t sə ʁɑ̃dʁ]",
+      "ear": "诶 塞通 乌 伊勒 孔特 瑟 杭德赫",
+      "meaning": "我们知道他们计划去哪里吗？",
+      "sourceLineId": "mozart-timed-56-1",
+      "suppliedText": "Et sait-on où ils comptent se rendre? On dit qu'ils se dirigent vers Mannheim, Sire.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 595,
+        "anchorEnd": 601,
+        "sourceLineNumber": 56,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 597.769,
+      "sourceText": "On dit qu'ils se dirigent vers Mannheim, Sire.",
+      "ipa": "[ɔ̃ di kil sə diʁiʒ vɛʁ mɑ̃najm siʁ]",
+      "ear": "翁 迪 基勒 瑟 迪希日 韦赫 芒纳耶姆 西赫",
+      "meaning": "他们说他们正在前往曼海姆，陛下。",
+      "sourceLineId": "mozart-timed-56-2",
+      "suppliedText": "Et sait-on où ils comptent se rendre? On dit qu'ils se dirigent vers Mannheim, Sire.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 595,
+        "anchorEnd": 601,
+        "sourceLineNumber": 56,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 601,
+      "sourceText": "Partez pour Mannheim et informez le prince Karl Theodor du comportement de cet insensé.",
+      "ipa": "[paʁte puʁ mɑ̃najm e ɛ̃fɔʁme lə pʁɛ̃s kaʁl teodɔʁ dy kɔ̃pɔʁtəmɑ̃ də sɛt‿ɛ̃sɑ̃se]",
+      "ear": "帕赫特 普赫 芒纳耶姆 诶 安佛赫梅 勒 普汉斯 卡赫勒 特奥多赫 迪于 孔珀赫特芒 德 塞特 安桑塞",
+      "meaning": "去曼海姆，向卡尔·特奥多尔亲王告发这个疯子的所作所为。",
+      "sourceLineId": "mozart-timed-57-1",
+      "suppliedText": "Partez pour Mannheim et informez le prince Karl Theodor du comportement de cet insensé.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 601,
+        "anchorEnd": 607,
+        "sourceLineNumber": 57,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 607,
+      "sourceText": "Je ne veux pas, il ne faut pas qu'il obtienne ailleurs un emploi qu'il me refuse ici!",
+      "ipa": "[ʒə nə vø pa il nə fo pa kil‿ɔbtjɛn‿ajœʁ‿œ̃n‿ɑ̃plwa kil mə ʁəfyz‿isi]",
+      "ear": "热 讷 弗厄 帕 伊勒 讷 佛 帕 基勒 哦布特耶艾恩 阿耶厄赫 恩恩 昂普勒乌阿 基勒 默 赫菲于兹 伊西",
+      "meaning": "我绝不允许！他不肯在这里为我效力，也别想去别处找工作！",
+      "sourceLineId": "mozart-timed-58-1",
+      "suppliedText": "Je ne veux pas, il ne faut pas qu'il obtienne ailleurs un emploi qu'il me refuse ici!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 607,
+        "anchorEnd": 614,
+        "sourceLineNumber": 58,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 614,
+      "sourceText": "Permettez,",
+      "ipa": "[pɛʁmɛte]",
+      "ear": "佩赫梅特",
+      "meaning": "请允许我，",
+      "sourceLineId": "mozart-timed-59-1",
+      "suppliedText": "Permettez, Votre Altesse, vous perdez là le meilleur musicien de votre cour. - Oh! - Et un très grand compositeur.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 614,
+        "anchorEnd": 621.98,
+        "sourceLineNumber": 59,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 614.647,
+      "sourceText": "Votre Altesse, vous perdez là le meilleur musicien de votre cour.",
+      "ipa": "[votʁ‿altɛs vu pɛʁde la lə mɛjœʁ myzisjɛ̃ də votʁ kuʁ]",
+      "ear": "沃特赫 阿勒泰斯 乌 佩赫德 拉 勒 梅耶厄赫 米于齐斯耶安 德 沃特赫 库赫",
+      "meaning": "殿下，您失去了宫廷中最好的音乐家。",
+      "sourceLineId": "mozart-timed-59-2",
+      "suppliedText": "Permettez, Votre Altesse, vous perdez là le meilleur musicien de votre cour. - Oh! - Et un très grand compositeur.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 614,
+        "anchorEnd": 621.98,
+        "sourceLineNumber": 59,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 619.823,
+      "sourceText": "Oh!",
+      "ipa": "[ɔ]",
+      "ear": "哦",
+      "meaning": "哦！",
+      "sourceLineId": "mozart-timed-59-3",
+      "suppliedText": "Permettez, Votre Altesse, vous perdez là le meilleur musicien de votre cour. - Oh! - Et un très grand compositeur.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 614,
+        "anchorEnd": 621.98,
+        "sourceLineNumber": 59,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 620.039,
+      "sourceText": "Et un très grand compositeur.",
+      "ipa": "[e œ̃ tʁɛ ɡʁɑ̃ kɔ̃pozitœʁ]",
+      "ear": "诶 恩 特赫 格杭 孔波齐特厄赫",
+      "meaning": "也是一位非常伟大的作曲家。",
+      "sourceLineId": "mozart-timed-59-4",
+      "suppliedText": "Permettez, Votre Altesse, vous perdez là le meilleur musicien de votre cour. - Oh! - Et un très grand compositeur.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 614,
+        "anchorEnd": 621.98,
+        "sourceLineNumber": 59,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 622,
+      "sourceText": "Qu'il aille au diable!",
+      "ipa": "[kil‿aj‿o djabl]",
+      "ear": "基勒 阿耶 奥 德耶阿布勒",
+      "meaning": "让他见鬼去吧！",
+      "sourceLineId": "mozart-timed-60-1",
+      "suppliedText": "Qu'il aille au diable! Je détestais sa musique.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 622,
+        "anchorEnd": 627,
+        "sourceLineNumber": 60,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 624.5,
+      "sourceText": "Je détestais sa musique.",
+      "ipa": "[ʒə detɛstɛ sa myzik]",
+      "ear": "热 德泰斯泰 萨 米于齐克",
+      "meaning": "我讨厌他的音乐。",
+      "sourceLineId": "mozart-timed-60-2",
+      "suppliedText": "Qu'il aille au diable! Je détestais sa musique.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 622,
+        "anchorEnd": 627,
+        "sourceLineNumber": 60,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

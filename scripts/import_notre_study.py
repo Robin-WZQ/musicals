@@ -19,6 +19,7 @@ from pronunciation import annotate, cons, vowels
 ROOT = Path(__file__).resolve().parents[1]
 TOKEN = re.compile(r"[A-Za-zÀ-ÿŒœ]+(?:['’-][A-Za-zÀ-ÿŒœ]+)*")
 LIAISON = set('les des mes tes ses nos vos ces aux leurs nous vous ils elles on un aucun mon ton son en bien rien très plus moins trop quand est sont ont petit petits grand grands gros bon bons beau beaux vieux nouveaux premier dernier deux trois six dix tout tous certains plusieurs quelles quels'.split())
+LIAISON.update({'sans','dans','chez'})
 ASPIRE = set('haut haute hauts hautes héros haines haine hélas hasard honte hontes haineux harpe harpes hors onze oui huit huitième'.split())
 STOP = set('the a an is are was were in of to and or that this it i you we they he she my your his her our their for with on as at be have has will shall do does all so but'.split())
 WORD_OVERRIDES = {

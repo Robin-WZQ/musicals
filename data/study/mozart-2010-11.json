@@ -1,0 +1,651 @@
+{
+  "videoId": "mozart-2010-11",
+  "playbackVideoId": "83Qn2IvP_-I",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "97aaf400c790393fcb53f1f43bb1002cc0955e5fa8ec3c8c767c03260daed16c",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "法语原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "2010年巴黎原唱录像",
+      "url": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=3221"
+    }
+  ],
+  "entries": [
+    {
+      "start": 3221,
+      "sourceText": "Petit poltron",
+      "ipa": "[pəti pɔltʁɔ̃]",
+      "ear": "珀蒂 珀勒特洪",
+      "meaning": "胆怯的小家伙。",
+      "sourceLineId": "mozart-timed-338-1",
+      "suppliedText": "# Comédie tragédie # Petit poltron Veut devenir grand",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3221,
+        "anchorEnd": 3227.34,
+        "sourceLineNumber": 338,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3223.536,
+      "sourceText": "Veut devenir grand",
+      "ipa": "[vø dəvniʁ ɡʁɑ̃]",
+      "ear": "弗厄 德弗尼赫 格杭",
+      "meaning": "想要变得强大。",
+      "sourceLineId": "mozart-timed-338-2",
+      "suppliedText": "# Comédie tragédie # Petit poltron Veut devenir grand",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3221,
+        "anchorEnd": 3227.34,
+        "sourceLineNumber": 338,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3229,
+      "sourceText": "Mais il reste",
+      "ipa": "[mɛ il ʁɛst]",
+      "ear": "梅 伊勒 赫斯特",
+      "meaning": "但还有",
+      "sourceLineId": "mozart-timed-339-1",
+      "suppliedText": "Mais il reste Assis Petit bouffon",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3229,
+        "anchorEnd": 3236.66,
+        "sourceLineNumber": 339,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3232.192,
+      "sourceText": "Assis",
+      "ipa": "[asi]",
+      "ear": "阿西",
+      "meaning": "坐着。",
+      "sourceLineId": "mozart-timed-339-2",
+      "suppliedText": "Mais il reste Assis Petit bouffon",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3229,
+        "anchorEnd": 3236.66,
+        "sourceLineNumber": 339,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3233.468,
+      "sourceText": "Petit bouffon",
+      "ipa": "[pəti bufɔ̃]",
+      "ear": "珀蒂 布丰",
+      "meaning": "小丑。",
+      "sourceLineId": "mozart-timed-339-3",
+      "suppliedText": "Mais il reste Assis Petit bouffon",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3229,
+        "anchorEnd": 3236.66,
+        "sourceLineNumber": 339,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3237,
+      "sourceText": "Insulte le sultan",
+      "ipa": "[ɛ̃sylt lə syltɑ̃]",
+      "ear": "安西于勒特 勒 西于勒唐",
+      "meaning": "辱骂了苏丹。",
+      "sourceLineId": "mozart-timed-340-1",
+      "suppliedText": "Insulte le sultan Mais il est Puni",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3237,
+        "anchorEnd": 3246,
+        "sourceLineNumber": 340,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3241.5,
+      "sourceText": "Mais il est",
+      "ipa": "[mɛ il‿ɛ]",
+      "ear": "梅 伊勒 艾",
+      "meaning": "但他是",
+      "sourceLineId": "mozart-timed-340-2",
+      "suppliedText": "Insulte le sultan Mais il est Puni",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3237,
+        "anchorEnd": 3246,
+        "sourceLineNumber": 340,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3244.5,
+      "sourceText": "Puni",
+      "ipa": "[pyni]",
+      "ear": "普于尼",
+      "meaning": "受到惩罚",
+      "sourceLineId": "mozart-timed-340-3",
+      "suppliedText": "Insulte le sultan Mais il est Puni",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3237,
+        "anchorEnd": 3246,
+        "sourceLineNumber": 340,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3246,
+      "sourceText": "La vie est injuste, mais ça dépend pour qui",
+      "ipa": "[la vi ɛt‿ɛ̃ʒyst mɛ sa depɑ̃ puʁ ki]",
+      "ear": "拉 维 艾特 安日于斯特 梅 萨 德庞 普赫 基",
+      "meaning": "生活不公平，可也得看对谁而言。",
+      "sourceLineId": "mozart-timed-341-1",
+      "suppliedText": "La vie est injuste, mais ça dépend pour qui La vie est injuste, surtout pour les petits La vie est injuste, c'est pour ça qu'on rit",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3246,
+        "anchorEnd": 3255.39,
+        "sourceLineNumber": 341,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3249.339,
+      "sourceText": "La vie est injuste, surtout pour les petits",
+      "ipa": "[la vi ɛt‿ɛ̃ʒyst syʁtu puʁ le pəti]",
+      "ear": "拉 维 艾特 安日于斯特 西于赫图 普赫 莱 珀蒂",
+      "meaning": "生活不公平，尤其对那些小人物。",
+      "sourceLineId": "mozart-timed-341-2",
+      "suppliedText": "La vie est injuste, mais ça dépend pour qui La vie est injuste, surtout pour les petits La vie est injuste, c'est pour ça qu'on rit",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3246,
+        "anchorEnd": 3255.39,
+        "sourceLineNumber": 341,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3252.469,
+      "sourceText": "La vie est injuste, c'est pour ça qu'on rit",
+      "ipa": "[la vi ɛt‿ɛ̃ʒyst sɛ puʁ sa kɔ̃ ʁi]",
+      "ear": "拉 维 艾特 安日于斯特 塞 普赫 萨 孔 希",
+      "meaning": "生活不公平，所以我们才发笑。",
+      "sourceLineId": "mozart-timed-341-3",
+      "suppliedText": "La vie est injuste, mais ça dépend pour qui La vie est injuste, surtout pour les petits La vie est injuste, c'est pour ça qu'on rit",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3246,
+        "anchorEnd": 3255.39,
+        "sourceLineNumber": 341,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3256,
+      "sourceText": "Chez les grands, les puissants, les pourris rient",
+      "ipa": "[ʃe le ɡʁɑ̃ le pɥisɑ̃ le puʁi ʁi]",
+      "ear": "谢 莱 格杭 莱 普于伊桑 莱 普希 希",
+      "meaning": "大人物和掌权者那里，腐败的家伙们正笑着。",
+      "sourceLineId": "mozart-timed-342-1",
+      "suppliedText": "Chez les grands, les puissants, les pourris rient Mon cher frère, je sais que ta vie à Vienne est un enfer.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3256,
+        "anchorEnd": 3264,
+        "sourceLineNumber": 342,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3259.152,
+      "sourceText": "Mon cher frère, je sais que ta vie à Vienne est un enfer.",
+      "ipa": "[mɔ̃ ʃɛʁ fʁɛʁ ʒə sɛ kə ta vi a vjɛn‿ɛt‿œ̃n‿ɑ̃fɛʁ]",
+      "ear": "蒙 谢赫 弗赫赫 热 塞 克 塔 维 阿 弗耶艾恩 艾特 恩恩 昂费赫",
+      "meaning": "我亲爱的兄弟，我知道你在维也纳的生活是地狱。",
+      "sourceLineId": "mozart-timed-342-2",
+      "suppliedText": "Chez les grands, les puissants, les pourris rient Mon cher frère, je sais que ta vie à Vienne est un enfer.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3256,
+        "anchorEnd": 3264,
+        "sourceLineNumber": 342,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3264,
+      "sourceText": "Mais tiens bon.",
+      "ipa": "[mɛ tjɛ̃ bɔ̃]",
+      "ear": "梅 特耶安 崩",
+      "meaning": "可你一定要撑住。",
+      "sourceLineId": "mozart-timed-343-1",
+      "suppliedText": "Mais tiens bon. Comment, monsieur Mozart, vous annulez nos répétitions? Je vous parle, Herr Mozart, est-il sourd?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3264,
+        "anchorEnd": 3272,
+        "sourceLineNumber": 343,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3265.111,
+      "sourceText": "Comment, monsieur Mozart, vous annulez nos répétitions?",
+      "ipa": "[kɔmɑ̃ məsjø mɔtsaʁ vuz‿anyle no ʁepetisjɔ̃]",
+      "ear": "科芒 默斯耶厄 莫特萨赫 乌兹 阿尼于莱 诺 赫佩蒂斯耶翁",
+      "meaning": "莫扎特先生，您如何取消我们的排练？",
+      "sourceLineId": "mozart-timed-343-2",
+      "suppliedText": "Mais tiens bon. Comment, monsieur Mozart, vous annulez nos répétitions? Je vous parle, Herr Mozart, est-il sourd?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3264,
+        "anchorEnd": 3272,
+        "sourceLineNumber": 343,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3269.333,
+      "sourceText": "Je vous parle,",
+      "ipa": "[ʒə vu paʁl]",
+      "ear": "热 乌 帕赫勒",
+      "meaning": "我正在对你说话，",
+      "sourceLineId": "mozart-timed-343-3",
+      "suppliedText": "Mais tiens bon. Comment, monsieur Mozart, vous annulez nos répétitions? Je vous parle, Herr Mozart, est-il sourd?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3264,
+        "anchorEnd": 3272,
+        "sourceLineNumber": 343,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3270.444,
+      "sourceText": "Herr Mozart, est-il sourd?",
+      "ipa": "[ɛʁ mɔtsaʁ ɛtil suʁ]",
+      "ear": "艾赫 莫特萨赫 艾蒂勒 苏赫",
+      "meaning": "莫扎特先生，他聋了吗？",
+      "sourceLineId": "mozart-timed-343-4",
+      "suppliedText": "Mais tiens bon. Comment, monsieur Mozart, vous annulez nos répétitions? Je vous parle, Herr Mozart, est-il sourd?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3264,
+        "anchorEnd": 3272,
+        "sourceLineNumber": 343,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3272,
+      "sourceText": "Il est sourd.",
+      "ipa": "[il‿ɛ suʁ]",
+      "ear": "伊勒 艾 苏赫",
+      "meaning": "他是聋子。",
+      "sourceLineId": "mozart-timed-344-1",
+      "suppliedText": "Il est sourd.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3272,
+        "anchorEnd": 3274.18,
+        "sourceLineNumber": 344,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3275,
+      "sourceText": "Aimons-nous les uns, les autres",
+      "ipa": "[ɛmɔ̃nu lez‿œ̃ lez‿otʁ]",
+      "ear": "艾蒙努 莱兹 恩 莱兹 奥特赫",
+      "meaning": "让我们彼此相爱",
+      "sourceLineId": "mozart-timed-345-1",
+      "suppliedText": "Aimons-nous les uns, les autres Comédie, tragédie",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3275,
+        "anchorEnd": 3282,
+        "sourceLineNumber": 345,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3279.053,
+      "sourceText": "Comédie, tragédie",
+      "ipa": "[komedi tʁaʒedi]",
+      "ear": "科梅迪 特哈热迪",
+      "meaning": "喜剧，悲剧",
+      "sourceLineId": "mozart-timed-345-2",
+      "suppliedText": "Aimons-nous les uns, les autres Comédie, tragédie",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3275,
+        "anchorEnd": 3282,
+        "sourceLineNumber": 345,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3282,
+      "sourceText": "Tous les enfants sont les nôtres",
+      "ipa": "[tu lez‿ɑ̃fɑ̃ sɔ̃ le notʁ]",
+      "ear": "图 莱兹 昂芳 松 莱 诺特赫",
+      "meaning": "所有的孩子都是我们的",
+      "sourceLineId": "mozart-timed-346-1",
+      "suppliedText": "Tous les enfants sont les nôtres Comédie, tragédie Peu importe les coups",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3282,
+        "anchorEnd": 3291.529,
+        "sourceLineNumber": 346,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3285.43,
+      "sourceText": "Comédie, tragédie",
+      "ipa": "[komedi tʁaʒedi]",
+      "ear": "科梅迪 特哈热迪",
+      "meaning": "喜剧，悲剧",
+      "sourceLineId": "mozart-timed-346-2",
+      "suppliedText": "Tous les enfants sont les nôtres Comédie, tragédie Peu importe les coups",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3282,
+        "anchorEnd": 3291.529,
+        "sourceLineNumber": 346,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3288.48,
+      "sourceText": "Peu importe les coups",
+      "ipa": "[pø ɛ̃pɔʁt le ku]",
+      "ear": "珀厄 安珀赫特 莱 库",
+      "meaning": "不管打击",
+      "sourceLineId": "mozart-timed-346-3",
+      "suppliedText": "Tous les enfants sont les nôtres Comédie, tragédie Peu importe les coups",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3282,
+        "anchorEnd": 3291.529,
+        "sourceLineNumber": 346,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3292,
+      "sourceText": "Tu tendras l'autre joue",
+      "ipa": "[ty tɑ̃dʁa lotʁ ʒu]",
+      "ear": "蒂于 唐德哈 洛特赫 茹",
+      "meaning": "你会转过另一边脸",
+      "sourceLineId": "mozart-timed-347-1",
+      "suppliedText": "Tu tendras l'autre joue Comédie, tragédie Heureux, les miséreux",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3292,
+        "anchorEnd": 3299,
+        "sourceLineNumber": 347,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3294.423,
+      "sourceText": "Comédie, tragédie",
+      "ipa": "[komedi tʁaʒedi]",
+      "ear": "科梅迪 特哈热迪",
+      "meaning": "喜剧，悲剧",
+      "sourceLineId": "mozart-timed-347-2",
+      "suppliedText": "Tu tendras l'autre joue Comédie, tragédie Heureux, les miséreux",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3292,
+        "anchorEnd": 3299,
+        "sourceLineNumber": 347,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3296.577,
+      "sourceText": "Heureux, les miséreux",
+      "ipa": "[øʁø le mizeʁø]",
+      "ear": "厄赫厄 莱 米泽赫厄",
+      "meaning": "穷人有福",
+      "sourceLineId": "mozart-timed-347-3",
+      "suppliedText": "Tu tendras l'autre joue Comédie, tragédie Heureux, les miséreux",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3292,
+        "anchorEnd": 3299,
+        "sourceLineNumber": 347,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3299,
+      "sourceText": "Élus au royaume des cieux",
+      "ipa": "[ely o ʁwajom de sjø]",
+      "ear": "诶吕 奥 赫乌阿耶奥姆 德 斯耶厄",
+      "meaning": "他们将被选入天国。",
+      "sourceLineId": "mozart-timed-348-1",
+      "suppliedText": "Élus au royaume des cieux Monsieur Mozart, qu'est-ce que j'apprends?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3299,
+        "anchorEnd": 3306,
+        "sourceLineNumber": 348,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3302.5,
+      "sourceText": "Monsieur Mozart, qu'est-ce que j'apprends?",
+      "ipa": "[məsjø mozaʁ kɛskə ʒapʁɑ̃]",
+      "ear": "默斯耶厄 莫扎赫 凯斯克 扎普杭",
+      "meaning": "莫扎特先生，我听到了什么？",
+      "sourceLineId": "mozart-timed-348-2",
+      "suppliedText": "Élus au royaume des cieux Monsieur Mozart, qu'est-ce que j'apprends?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3299,
+        "anchorEnd": 3306,
+        "sourceLineNumber": 348,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3306,
+      "sourceText": "Colloredo vous interdit de venir dans mes salons?",
+      "ipa": "[kɔlɔʁedo vuz‿ɛ̃tɛʁdi də vəniʁ dɑ̃ me salɔ̃]",
+      "ear": "科洛赫多 乌兹 安泰赫迪 德 弗尼赫 当 梅 萨隆",
+      "meaning": "科洛雷多禁止你来我的沙龙？",
+      "sourceLineId": "mozart-timed-349-1",
+      "suppliedText": "Colloredo vous interdit de venir dans mes salons? Quel dommage! Quel dommage! Assez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3306,
+        "anchorEnd": 3315.06,
+        "sourceLineNumber": 349,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3311.177,
+      "sourceText": "Quel dommage!",
+      "ipa": "[kɛl dɔmaʒ]",
+      "ear": "凯勒 多玛日",
+      "meaning": "真可惜！",
+      "sourceLineId": "mozart-timed-349-2",
+      "suppliedText": "Colloredo vous interdit de venir dans mes salons? Quel dommage! Quel dommage! Assez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3306,
+        "anchorEnd": 3315.06,
+        "sourceLineNumber": 349,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3312.795,
+      "sourceText": "Quel dommage!",
+      "ipa": "[kɛl dɔmaʒ]",
+      "ear": "凯勒 多玛日",
+      "meaning": "真可惜！",
+      "sourceLineId": "mozart-timed-349-3",
+      "suppliedText": "Colloredo vous interdit de venir dans mes salons? Quel dommage! Quel dommage! Assez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3306,
+        "anchorEnd": 3315.06,
+        "sourceLineNumber": 349,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3314.413,
+      "sourceText": "Assez!",
+      "ipa": "[ase]",
+      "ear": "阿塞",
+      "meaning": "够了！",
+      "sourceLineId": "mozart-timed-349-4",
+      "suppliedText": "Colloredo vous interdit de venir dans mes salons? Quel dommage! Quel dommage! Assez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3306,
+        "anchorEnd": 3315.06,
+        "sourceLineNumber": 349,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3317,
+      "sourceText": "Monsieur le mufti, seigneur des petits esprits, regardez-moi bien une dernière fois.",
+      "ipa": "[məsjø lə myfti sɛnjœʁ de pətiz‿ɛspʁi ʁəɡaʁdemwa bjɛ̃n‿yn dɛʁnjɛʁ fwa]",
+      "ear": "默斯耶厄 勒 米于弗蒂 塞恩耶厄赫 德 珀蒂兹 艾斯普希 赫嘎赫德姆乌阿 布耶安恩 于恩 戴赫恩耶艾赫 弗乌阿",
+      "meaning": "穆夫提先生，小头脑之王，最后看我一眼。",
+      "sourceLineId": "mozart-timed-350-1",
+      "suppliedText": "Monsieur le mufti, seigneur des petits esprits, regardez-moi bien une dernière fois.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3317,
+        "anchorEnd": 3322,
+        "sourceLineNumber": 350,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3322,
+      "sourceText": "Moi, Wolfgang Amadeus Mozart, je vous remets dès ce soir ma démission.",
+      "ipa": "[mwa vɔlfɡɑ̃ɡ‿amadeus mɔtsaʁ ʒə vu ʁəmɛ dɛ sə swaʁ ma demisjɔ̃]",
+      "ear": "姆乌阿 沃勒弗冈格 阿玛德乌斯 莫特萨赫 热 乌 赫梅 戴 瑟 斯乌阿赫 玛 德米斯耶翁",
+      "meaning": "我，沃尔夫冈·阿马德乌斯·莫扎特，今晚向您提交辞呈。",
+      "sourceLineId": "mozart-timed-351-1",
+      "suppliedText": "Moi, Wolfgang Amadeus Mozart, je vous remets dès ce soir ma démission. Vous entendez? Je suis libre! Libre!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3322,
+        "anchorEnd": 3331,
+        "sourceLineNumber": 351,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3328.0,
+      "sourceText": "Vous entendez?",
+      "ipa": "[vuz‿ɑ̃tɑ̃de]",
+      "ear": "乌兹 昂唐德",
+      "meaning": "你听到了吗？",
+      "sourceLineId": "mozart-timed-351-2",
+      "suppliedText": "Moi, Wolfgang Amadeus Mozart, je vous remets dès ce soir ma démission. Vous entendez? Je suis libre! Libre!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3322,
+        "anchorEnd": 3331,
+        "sourceLineNumber": 351,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3329.25,
+      "sourceText": "Je suis libre!",
+      "ipa": "[ʒə sɥi libʁ]",
+      "ear": "热 斯于伊 利布赫",
+      "meaning": "我自由了！",
+      "sourceLineId": "mozart-timed-351-3",
+      "suppliedText": "Moi, Wolfgang Amadeus Mozart, je vous remets dès ce soir ma démission. Vous entendez? Je suis libre! Libre!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3322,
+        "anchorEnd": 3331,
+        "sourceLineNumber": 351,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3330.5,
+      "sourceText": "Libre!",
+      "ipa": "[libʁ]",
+      "ear": "利布赫",
+      "meaning": "自由了！",
+      "sourceLineId": "mozart-timed-351-4",
+      "suppliedText": "Moi, Wolfgang Amadeus Mozart, je vous remets dès ce soir ma démission. Vous entendez? Je suis libre! Libre!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3322,
+        "anchorEnd": 3331,
+        "sourceLineNumber": 351,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

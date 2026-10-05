@@ -5,27 +5,783 @@
   "titleOriginal": "Tatoue-moi",
   "channel": "Hartwin",
   "channelId": "UCjgkRbhy8rPYbdeEV4637tg",
-  "duration": 615,
+  "duration": 612,
   "musicalId": "mozart-opera-rock-2010",
   "trackNumber": 9,
   "act": 1,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "isGenerated": false,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Divine, candide, libertine",
+      "start": 2226,
+      "duration": 3.373
+    },
+    {
+      "text": "Ce soir, je viens m'inviter dans ton lit",
+      "start": 2229.373,
+      "duration": 4.047
+    },
+    {
+      "text": "Laissons dormir les maris",
+      "start": 2235,
+      "duration": 2.393
+    },
+    {
+      "text": "Allons nous aimer au nez des braves gens",
+      "start": 2237.393,
+      "duration": 4.187
+    },
+    {
+      "text": "J'apprendrai ta langue et ton accent",
+      "start": 2243,
+      "duration": 5.333
+    },
+    {
+      "text": "Pour te comprendre",
+      "start": 2248.333,
+      "duration": 2.667
+    },
+    {
+      "text": "Je serai frivole et décadent",
+      "start": 2251,
+      "duration": 5.176
+    },
+    {
+      "text": "Pour te surprendre",
+      "start": 2256.176,
+      "duration": 2.824
+    },
+    {
+      "text": "Tatoue-moi sur tes seins, fais-le du bout",
+      "start": 2259,
+      "duration": 5.517
+    },
+    {
+      "text": "De mes lèvres",
+      "start": 2264.517,
+      "duration": 1.38
+    },
+    {
+      "text": "Je baiserai tes mains",
+      "start": 2265.897,
+      "duration": 3.103
+    },
+    {
+      "text": "Je ferai que ça te plaise",
+      "start": 2269,
+      "duration": 3.645
+    },
+    {
+      "text": "Du bout de mes lèvres",
+      "start": 2272.645,
+      "duration": 2.319
+    },
+    {
+      "text": "Tatoue-moi sur tes murs, un futur",
+      "start": 2274.964,
+      "duration": 3.976
+    },
+    {
+      "text": "À composer",
+      "start": 2279,
+      "duration": 1.585
+    },
+    {
+      "text": "Je veux graver toutes mes luxures",
+      "start": 2280.585,
+      "duration": 4.755
+    },
+    {
+      "text": "Sur tes dorures",
+      "start": 2286,
+      "duration": 2.5
+    },
+    {
+      "text": "Sortons bras dessus bras dessous",
+      "start": 2288.5,
+      "duration": 4.5
+    },
+    {
+      "text": "Et n'ayons crainte de leur vile arrogance",
+      "start": 2293,
+      "duration": 3.077
+    },
+    {
+      "text": "Mais quelle inconvenance!",
+      "start": 2296.077,
+      "duration": 1.923
+    },
+    {
+      "text": "Allons chez les bourgeois",
+      "start": 2298,
+      "duration": 2.006
+    },
+    {
+      "text": "Siffler leur vin, taquiner leur conscience",
+      "start": 2300.006,
+      "duration": 3.345
+    },
+    {
+      "text": "Tu paieras cette offense",
+      "start": 2303.351,
+      "duration": 2.229
+    },
+    {
+      "text": "Que m'importent les rires et les regards",
+      "start": 2306,
+      "duration": 5.894
+    },
+    {
+      "text": "Sur mes travers",
+      "start": 2311.894,
+      "duration": 1.965
+    },
+    {
+      "text": "Ils sont ma richesse, mon étendard",
+      "start": 2314,
+      "duration": 4.28
+    },
+    {
+      "text": "Ils sont ma terre",
+      "start": 2318.28,
+      "duration": 2.14
+    },
+    {
+      "text": "Tatoue-moi sur tes seins",
+      "start": 2322,
+      "duration": 3.122
+    },
+    {
+      "text": "Fais-le du bout",
+      "start": 2325.122,
+      "duration": 1.873
+    },
+    {
+      "text": "De mes lèvres",
+      "start": 2326.995,
+      "duration": 1.248
+    },
+    {
+      "text": "Mes lèvres",
+      "start": 2328.243,
+      "duration": 0.937
+    },
+    {
+      "text": "Je baiserai tes mains",
+      "start": 2330,
+      "duration": 2.333
+    },
+    {
+      "text": "Je ferai que ça te plaise",
+      "start": 2332.333,
+      "duration": 2.852
+    },
+    {
+      "text": "Du bout de mes lèvres",
+      "start": 2335.185,
+      "duration": 1.815
+    },
+    {
+      "text": "Tatoue-moi sur tes murs, un futur",
+      "start": 2337,
+      "duration": 5.143
+    },
+    {
+      "text": "À composer",
+      "start": 2342.143,
+      "duration": 1.714
+    },
+    {
+      "text": "Je veux garder",
+      "start": 2343.857,
+      "duration": 2.143
+    },
+    {
+      "text": "Toutes mes luxures",
+      "start": 2346,
+      "duration": 2.527
+    },
+    {
+      "text": "Sur tes dorures",
+      "start": 2348.527,
+      "duration": 1.804
+    },
+    {
+      "text": "Te tatouer sans mesure",
+      "start": 2350.331,
+      "duration": 3.249
+    },
+    {
+      "text": "Sans mesure",
+      "start": 2356,
+      "duration": 2.0
+    },
+    {
+      "text": "Laisse-toi tomber dans mes bras",
+      "start": 2358.0,
+      "duration": 5.0
+    },
+    {
+      "text": "Glisse-moi sous tes draps, dérivons jusqu'à l'outrance",
+      "start": 2363,
+      "duration": 5.226
+    },
+    {
+      "text": "Chantons pour les bienséants les délices",
+      "start": 2368.226,
+      "duration": 3.774
+    },
+    {
+      "text": "De l'indécence",
+      "start": 2372,
+      "duration": 2.0
+    },
+    {
+      "text": "Tatoue-moi sur tes seins",
+      "start": 2374.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Fais-le du bout de mes lèvres",
+      "start": 2378.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Mes lèvres",
+      "start": 2382,
+      "duration": 1.043
+    },
+    {
+      "text": "Je baiserai tes mains",
+      "start": 2383.043,
+      "duration": 3.131
+    },
+    {
+      "text": "Je ferai que ça te plaise",
+      "start": 2386.174,
+      "duration": 3.826
+    },
+    {
+      "text": "Du bout de mes lèvres",
+      "start": 2390,
+      "duration": 2.331
+    },
+    {
+      "text": "Tatoue-moi sur tes murs",
+      "start": 2392.331,
+      "duration": 2.998
+    },
+    {
+      "text": "Un futur à composer",
+      "start": 2395.329,
+      "duration": 2.331
+    },
+    {
+      "text": "Je veux graver",
+      "start": 2399,
+      "duration": 2.076
+    },
+    {
+      "text": "Toutes mes luxures sur tes dorures",
+      "start": 2401.076,
+      "duration": 4.984
+    },
+    {
+      "text": "Wolfgang!",
+      "start": 2417,
+      "duration": 1.429
+    },
+    {
+      "text": "Maman?",
+      "start": 2418.429,
+      "duration": 1.428
+    },
+    {
+      "text": "Maman!",
+      "start": 2419.857,
+      "duration": 1.429
+    },
+    {
+      "text": "Maman, réveille-toi.",
+      "start": 2421.286,
+      "duration": 5.714
+    },
+    {
+      "text": "Réveille-toi, maman.",
+      "start": 2427,
+      "duration": 2.097
+    },
+    {
+      "text": "Je ne me sens pas très bien, mon petit.",
+      "start": 2429.097,
+      "duration": 2.884
+    },
+    {
+      "text": "Je vais chercher un médecin.",
+      "start": 2431.981,
+      "duration": 2.359
+    },
+    {
+      "text": "À l'aide!",
+      "start": 2436,
+      "duration": 0.821
+    },
+    {
+      "text": "C'est pour ma mère, elle a eu un malaise.",
+      "start": 2436.821,
+      "duration": 3.282
+    },
+    {
+      "text": "Je n'ai pas d'argent sur moi, mais je vous paierai.",
+      "start": 2440.103,
+      "duration": 3.897
+    },
+    {
+      "text": "Aidez-nous!",
+      "start": 2444,
+      "duration": 2.812
+    },
+    {
+      "text": "Wolfgang, où es-tu?",
+      "start": 2446.812,
+      "duration": 3.376
+    },
+    {
+      "text": "Tout est noir.",
+      "start": 2450.188,
+      "duration": 2.812
+    },
+    {
+      "text": "Je n'y vois plus.",
+      "start": 2453,
+      "duration": 1.208
+    },
+    {
+      "text": "Je suis là, maman.",
+      "start": 2454.208,
+      "duration": 1.45
+    },
+    {
+      "text": "Ne bouge pas.",
+      "start": 2455.658,
+      "duration": 1.208
+    },
+    {
+      "text": "J'ai demandé un médecin.",
+      "start": 2456.866,
+      "duration": 2.175
+    },
+    {
+      "text": "Oh!",
+      "start": 2459.041,
+      "duration": 0.241
+    },
+    {
+      "text": "Avec quoi vas-tu le payer?",
+      "start": 2459.282,
+      "duration": 2.658
+    },
+    {
+      "text": "Nous n'avons rien.",
+      "start": 2462,
+      "duration": 1.263
+    },
+    {
+      "text": "Hier, un ami du baron Grimm m'a commandé une sonate.",
+      "start": 2463.263,
+      "duration": 3.79
+    },
+    {
+      "text": "Il m'a promis une solide avance.",
+      "start": 2467.053,
+      "duration": 2.527
+    },
+    {
+      "text": "Ne mens pas, Wolfgang.",
+      "start": 2470,
+      "duration": 1.154
+    },
+    {
+      "text": "Je sais que le baron Grimm n'a rien fait pour toi.",
+      "start": 2471.154,
+      "duration": 4.154
+    },
+    {
+      "text": "Je sais que Paris t'a fermé toutes ses portes.",
+      "start": 2475.308,
+      "duration": 3.692
+    },
+    {
+      "text": "Non!",
+      "start": 2479,
+      "duration": 0.4
+    },
+    {
+      "text": "Pars, mon petit.",
+      "start": 2479.4,
+      "duration": 1.6
+    },
+    {
+      "text": "Promets-moi de quitter cette ville maudite, et de rentrer chez nous.",
+      "start": 2481,
+      "duration": 6.479
+    },
+    {
+      "text": "Surtout, prends bien soin de ta sœur.",
+      "start": 2487.479,
+      "duration": 3.38
+    },
+    {
+      "text": "Pourquoi tu dis ça?",
+      "start": 2491,
+      "duration": 1.514
+    },
+    {
+      "text": "C'est toi qui en prendras soin.",
+      "start": 2492.514,
+      "duration": 1.891
+    },
+    {
+      "text": "Promets-moi aussi de ne pas en vouloir à ton père.",
+      "start": 2494.405,
+      "duration": 3.595
+    },
+    {
+      "text": "Il t'aime, tu sais.",
+      "start": 2498,
+      "duration": 1.5
+    },
+    {
+      "text": "Maman...",
+      "start": 2499.5,
+      "duration": 0.429
+    },
+    {
+      "text": "Mais dis-lui bien...",
+      "start": 2499.929,
+      "duration": 1.5
+    },
+    {
+      "text": "Maman, tu dis n'importe quoi...",
+      "start": 2501.429,
+      "duration": 2.142
+    },
+    {
+      "text": "Dis-lui bien...",
+      "start": 2503.571,
+      "duration": 1.072
+    },
+    {
+      "text": "Allez.",
+      "start": 2504.643,
+      "duration": 0.428
+    },
+    {
+      "text": "Tu divagues",
+      "start": 2505.071,
+      "duration": 1.072
+    },
+    {
+      "text": "Allez, viens.",
+      "start": 2506.143,
+      "duration": 0.857
+    },
+    {
+      "text": "On rentre à l'hôtel.",
+      "start": 2507,
+      "duration": 1.759
+    },
+    {
+      "text": "Dès demain, on part pour Salzbourg.",
+      "start": 2508.759,
+      "duration": 3.224
+    },
+    {
+      "text": "Allez, viens.",
+      "start": 2511.983,
+      "duration": 1.172
+    },
+    {
+      "text": "Viens, maman.",
+      "start": 2513.155,
+      "duration": 1.173
+    },
+    {
+      "text": "Maman!",
+      "start": 2514.328,
+      "duration": 0.586
+    },
+    {
+      "text": "Maman!",
+      "start": 2514.914,
+      "duration": 0.586
+    },
+    {
+      "text": "Laissez-moi!",
+      "start": 2516,
+      "duration": 4.469
+    },
+    {
+      "text": "Je t'en prie...",
+      "start": 2520.469,
+      "duration": 3.576
+    },
+    {
+      "text": "Je t'en prie...",
+      "start": 2524.045,
+      "duration": 3.575
+    },
+    {
+      "text": "Aloysia!",
+      "start": 2682,
+      "duration": 3.5
+    },
+    {
+      "text": "Aloysia!",
+      "start": 2685.5,
+      "duration": 3.5
+    },
+    {
+      "text": "Vous ne me reconnaissez pas?",
+      "start": 2689,
+      "duration": 2.8
+    },
+    {
+      "text": "Wolfgang.",
+      "start": 2691.8,
+      "duration": 0.56
+    },
+    {
+      "text": "Wolfgang Mozart.",
+      "start": 2692.36,
+      "duration": 1.12
+    },
+    {
+      "text": "Mon Dieu!",
+      "start": 2693.48,
+      "duration": 1.12
+    },
+    {
+      "text": "Wolfgang?",
+      "start": 2694.6,
+      "duration": 0.56
+    },
+    {
+      "text": "Oui.",
+      "start": 2695.16,
+      "duration": 0.84
+    },
+    {
+      "text": "Quelle joie de vous retrouver!",
+      "start": 2696,
+      "duration": 2.854
+    },
+    {
+      "text": "Je rentre juste de Paris.",
+      "start": 2698.854,
+      "duration": 1.756
+    },
+    {
+      "text": "Quel est donc cet accoutrement?",
+      "start": 2700.61,
+      "duration": 2.195
+    },
+    {
+      "text": "Vous êtes domestique?",
+      "start": 2702.805,
+      "duration": 1.975
+    },
+    {
+      "text": "La musique ne vous plaît plus?",
+      "start": 2705,
+      "duration": 2.34
+    },
+    {
+      "text": "Mais si!",
+      "start": 2707.34,
+      "duration": 0.639
+    },
+    {
+      "text": "Vous portez peut-être la dernière mode de Paris?",
+      "start": 2707.979,
+      "duration": 3.83
+    },
+    {
+      "text": "Ma mère est morte.",
+      "start": 2711.809,
+      "duration": 1.276
+    },
+    {
+      "text": "Ce sont mes habits de deuil.",
+      "start": 2713.085,
+      "duration": 1.915
+    },
+    {
+      "text": "C'est dommage.",
+      "start": 2715,
+      "duration": 0.889
+    },
+    {
+      "text": "Enfin, je veux dire, c'est terrible!",
+      "start": 2715.889,
+      "duration": 2.444
+    },
+    {
+      "text": "En tout cas, c'est affreusement laid.",
+      "start": 2718.333,
+      "duration": 2.667
+    },
+    {
+      "text": "Il faudra penser à vous changer et à vous coiffer, aussi.",
+      "start": 2721,
+      "duration": 6.0
+    },
+    {
+      "text": "Hein?",
+      "start": 2727.0,
+      "duration": 0.571
+    },
+    {
+      "text": "Aloysia, à Paris, je n'ai pensé qu'à vous.",
+      "start": 2727.571,
+      "duration": 4.858
+    },
+    {
+      "text": "Tenez.",
+      "start": 2732.429,
+      "duration": 0.571
+    },
+    {
+      "text": "Je vous en ai rapporté cette aria.",
+      "start": 2733,
+      "duration": 4.098
+    },
+    {
+      "text": "Mais c'est que des mois sont passés, et depuis, j'ai été engagée à l'opéra!",
+      "start": 2737.098,
+      "duration": 7.902
+    },
+    {
+      "text": "À l'opéra!",
+      "start": 2745,
+      "duration": 1.022
+    },
+    {
+      "text": "Oui.",
+      "start": 2746.022,
+      "duration": 0.766
+    },
+    {
+      "text": "Et je croule sous les meilleures partitions.",
+      "start": 2746.788,
+      "duration": 4.342
+    },
+    {
+      "text": "Aloysia, je suis là, devant vous, prêt à vous servir.",
+      "start": 2753,
+      "duration": 5.897
+    },
+    {
+      "text": "Je veux partager votre vie.",
+      "start": 2758.897,
+      "duration": 3.103
+    },
+    {
+      "text": "Je veux vous épouser.",
+      "start": 2762,
+      "duration": 5.129
+    },
+    {
+      "text": "M'épouser?",
+      "start": 2767.129,
+      "duration": 2.28
+    },
+    {
+      "text": "Oh.",
+      "start": 2769.409,
+      "duration": 0.57
+    },
+    {
+      "text": "J'ai oublié de vous présenter",
+      "start": 2771,
+      "duration": 2.545
+    },
+    {
+      "text": "Monsieur Joseph L'Ange.",
+      "start": 2773.545,
+      "duration": 1.697
+    },
+    {
+      "text": "Monsieur.",
+      "start": 2775.242,
+      "duration": 0.849
+    },
+    {
+      "text": "Nous allons nous marier.",
+      "start": 2776.091,
+      "duration": 1.909
+    },
+    {
+      "text": "Bon retour à Salzbourg.",
+      "start": 2778,
+      "duration": 1.943
+    },
+    {
+      "text": "Quand vous repasserez par Münich, venez nous voir.",
+      "start": 2779.943,
+      "duration": 4.128
+    },
+    {
+      "text": "Et saluez bien votre père!",
+      "start": 2784.071,
+      "duration": 2.429
+    },
+    {
+      "text": "Je les déteste tous, avec leurs faux-semblants et leurs manières de petits courtisans.",
+      "start": 2800,
+      "duration": 8.58
+    },
+    {
+      "text": "Je rentre à Salzbourg.",
+      "start": 2811,
+      "duration": 4.006
+    },
+    {
+      "text": "Mais je ne céderai rien.",
+      "start": 2815.006,
+      "duration": 5.724
+    },
+    {
+      "text": "J'irai jusqu'au bout de ma musique.",
+      "start": 2822,
+      "duration": 4.5
+    },
+    {
+      "text": "Jusqu'à vous!",
+      "start": 2826.5,
+      "duration": 1.5
+    },
+    {
+      "text": "Wolfgang Amadeus Mozart, trahi, humilié, vous salue bien.",
+      "start": 2828,
+      "duration": 10.0
+    }
+  ],
   "playbackVideoId": "83Qn2IvP_-I",
   "sourceDuration": 7252,
   "sourceURL": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=2226",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=83Qn2IvP_-I",
   "playbackSegment": {
     "start": 2226,
-    "end": 2841,
-    "source": "youtube-description-chapters",
+    "end": 2838,
+    "source": "user-supplied-mozart-timestamps",
     "precision": "seconds"
   },
   "nativeCaptionRanges": [
@@ -569,10 +1325,10 @@
   "nativeTimingSource": "youtube-manual-caption-file",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "milliseconds",
-  "timingReviewStatus": "source-caption-file",
-  "textReviewStatus": "native-manual-subtitles",
-  "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "phoneticReviewStatus": "reference-with-liaison-corrections",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "performanceYear": 2010,
   "performanceYearSource": "video-description",
@@ -580,5 +1336,12 @@
   "albumReleaseYear": 2009,
   "uploadDate": "20161004",
   "sourceCheckedAt": "2026-10-05",
-  "description": ""
+  "description": "",
+  "originalPlaybackSegment": {
+    "start": 2226,
+    "end": 2841,
+    "source": "youtube-description-chapters",
+    "precision": "seconds"
+  },
+  "studyVersion": 1
 }

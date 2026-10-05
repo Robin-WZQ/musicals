@@ -1,0 +1,1110 @@
+{
+  "videoId": "mozart-2010-18",
+  "playbackVideoId": "83Qn2IvP_-I",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "97aaf400c790393fcb53f1f43bb1002cc0955e5fa8ec3c8c767c03260daed16c",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "法语原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "2010年巴黎原唱录像",
+      "url": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=5744"
+    }
+  ],
+  "entries": [
+    {
+      "start": 5744,
+      "sourceText": "Le sourire qui s'allume",
+      "ipa": "[lə suʁiʁ ki salym]",
+      "ear": "勒 苏希赫 基 萨吕姆",
+      "meaning": "笑容亮了起来。",
+      "sourceLineId": "mozart-timed-627-1",
+      "suppliedText": "# Dors mon ange # Le sourire qui s'allume",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5744,
+        "anchorEnd": 5755,
+        "sourceLineNumber": 627,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5755,
+      "sourceText": "Le regard qui s'embrume",
+      "ipa": "[lə ʁəɡaʁ ki sɑ̃bʁym]",
+      "ear": "勒 赫嘎赫 基 桑布许姆",
+      "meaning": "眼神却渐渐朦胧。",
+      "sourceLineId": "mozart-timed-629-1",
+      "suppliedText": "Le regard qui s'embrume Et tu t'en vas danser au ciel",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5755,
+        "anchorEnd": 5764.9,
+        "sourceLineNumber": 629,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5759.4,
+      "sourceText": "Et tu t'en vas danser au ciel",
+      "ipa": "[e ty tɑ̃ va dɑ̃se o sjɛl]",
+      "ear": "诶 蒂于 唐 瓦 当塞 奥 斯耶艾勒",
+      "meaning": "你将去天上起舞。",
+      "sourceLineId": "mozart-timed-629-2",
+      "suppliedText": "Le regard qui s'embrume Et tu t'en vas danser au ciel",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5755,
+        "anchorEnd": 5764.9,
+        "sourceLineNumber": 629,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5766,
+      "sourceText": "Tu m'apaises, tu me mens",
+      "ipa": "[ty mapɛz ty mə mɑ̃]",
+      "ear": "蒂于 玛佩兹 蒂于 默 芒",
+      "meaning": "你安慰着我，也骗着我。",
+      "sourceLineId": "mozart-timed-630-1",
+      "suppliedText": "Tu m'apaises, tu me mens Puis tu glisses doucement",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5766,
+        "anchorEnd": 5773,
+        "sourceLineNumber": 630,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5769.294,
+      "sourceText": "Puis tu glisses doucement",
+      "ipa": "[pɥi ty ɡlis dusmɑ̃]",
+      "ear": "普于伊 蒂于 格利斯 杜斯芒",
+      "meaning": "随后，你轻轻地滑向——",
+      "sourceLineId": "mozart-timed-630-2",
+      "suppliedText": "Tu m'apaises, tu me mens Puis tu glisses doucement",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5766,
+        "anchorEnd": 5773,
+        "sourceLineNumber": 630,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5773,
+      "sourceText": "Vers le plus beau des sommeils",
+      "ipa": "[vɛʁ lə ply bo de sɔmɛj]",
+      "ear": "韦赫 勒 普吕 博 德 索梅耶",
+      "meaning": "最美的一场长眠。",
+      "sourceLineId": "mozart-timed-631-1",
+      "suppliedText": "Vers le plus beau des sommeils Dors, mon ange",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5773,
+        "anchorEnd": 5782,
+        "sourceLineNumber": 631,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5779.429,
+      "sourceText": "Dors, mon ange",
+      "ipa": "[dɔʁ mɔ̃n‿ɑ̃ʒ]",
+      "ear": "多赫 蒙恩 昂日",
+      "meaning": "睡吧，我的天使。",
+      "sourceLineId": "mozart-timed-631-2",
+      "suppliedText": "Vers le plus beau des sommeils Dors, mon ange",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5773,
+        "anchorEnd": 5782,
+        "sourceLineNumber": 631,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5782,
+      "sourceText": "Dans l'éternelle candeur",
+      "ipa": "[dɑ̃ letɛʁnɛl kɑ̃dœʁ]",
+      "ear": "当 莱泰赫奈勒 康德厄赫",
+      "meaning": "在永恒的纯净里。",
+      "sourceLineId": "mozart-timed-632-1",
+      "suppliedText": "Dans l'éternelle candeur Dors, mon ange",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5782,
+        "anchorEnd": 5789,
+        "sourceLineNumber": 632,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5786.667,
+      "sourceText": "Dors, mon ange",
+      "ipa": "[dɔʁ mɔ̃n‿ɑ̃ʒ]",
+      "ear": "多赫 蒙恩 昂日",
+      "meaning": "睡吧，我的天使。",
+      "sourceLineId": "mozart-timed-632-2",
+      "suppliedText": "Dans l'éternelle candeur Dors, mon ange",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5782,
+        "anchorEnd": 5789,
+        "sourceLineNumber": 632,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5789,
+      "sourceText": "Le ciel est ta demeure",
+      "ipa": "[lə sjɛl‿ɛ ta dəmœʁ]",
+      "ear": "勒 斯耶艾勒 艾 塔 德默厄赫",
+      "meaning": "天空就是你的家。",
+      "sourceLineId": "mozart-timed-633-1",
+      "suppliedText": "Le ciel est ta demeure Vole, mon ange La vie",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5789,
+        "anchorEnd": 5798,
+        "sourceLineNumber": 633,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5793.765,
+      "sourceText": "Vole, mon ange",
+      "ipa": "[vɔl mɔ̃n‿ɑ̃ʒ]",
+      "ear": "沃勒 蒙恩 昂日",
+      "meaning": "飞吧，我的天使。",
+      "sourceLineId": "mozart-timed-633-2",
+      "suppliedText": "Le ciel est ta demeure Vole, mon ange La vie",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5789,
+        "anchorEnd": 5798,
+        "sourceLineNumber": 633,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5796.412,
+      "sourceText": "La vie",
+      "ipa": "[la vi]",
+      "ear": "拉 维",
+      "meaning": "生命。",
+      "sourceLineId": "mozart-timed-633-3",
+      "suppliedText": "Le ciel est ta demeure Vole, mon ange La vie",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5789,
+        "anchorEnd": 5798,
+        "sourceLineNumber": 633,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5798,
+      "sourceText": "Est plus douce ailleurs",
+      "ipa": "[ɛ ply dus‿ajœʁ]",
+      "ear": "艾 普吕 杜斯 阿耶厄赫",
+      "meaning": "在别处会更温柔。",
+      "sourceLineId": "mozart-timed-634-1",
+      "suppliedText": "Est plus douce ailleurs Dors",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5798,
+        "anchorEnd": 5808,
+        "sourceLineNumber": 634,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5807.0,
+      "sourceText": "Dors",
+      "ipa": "[dɔʁ]",
+      "ear": "多赫",
+      "meaning": "睡吧。",
+      "sourceLineId": "mozart-timed-634-2",
+      "suppliedText": "Est plus douce ailleurs Dors",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5798,
+        "anchorEnd": 5808,
+        "sourceLineNumber": 634,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5808,
+      "sourceText": "Dors",
+      "ipa": "[dɔʁ]",
+      "ear": "多赫",
+      "meaning": "睡吧。",
+      "sourceLineId": "mozart-timed-635-1",
+      "suppliedText": "Dors Dors Mon ange, dors",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5808,
+        "anchorEnd": 5814,
+        "sourceLineNumber": 635,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5809.0,
+      "sourceText": "Dors",
+      "ipa": "[dɔʁ]",
+      "ear": "多赫",
+      "meaning": "睡吧。",
+      "sourceLineId": "mozart-timed-635-2",
+      "suppliedText": "Dors Dors Mon ange, dors",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5808,
+        "anchorEnd": 5814,
+        "sourceLineNumber": 635,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5810.0,
+      "sourceText": "Mon ange, dors",
+      "ipa": "[mɔ̃n‿ɑ̃ʒ dɔʁ]",
+      "ear": "蒙恩 昂日 多赫",
+      "meaning": "我的天使，睡吧。",
+      "sourceLineId": "mozart-timed-635-3",
+      "suppliedText": "Dors Dors Mon ange, dors",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5808,
+        "anchorEnd": 5814,
+        "sourceLineNumber": 635,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5814,
+      "sourceText": "Les cloches sonnent l'Angélus",
+      "ipa": "[le kloʃ sɔn lɑ̃ʒely]",
+      "ear": "莱 克洛什 索恩 朗热吕",
+      "meaning": "钟声响起，报着晚祷。",
+      "sourceLineId": "mozart-timed-636-1",
+      "suppliedText": "Les cliches sonnent l'Angélus Vole",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5814,
+        "anchorEnd": 5821.98,
+        "sourceLineNumber": 636,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5820.384,
+      "sourceText": "Vole",
+      "ipa": "[vɔl]",
+      "ear": "沃勒",
+      "meaning": "飞吧。",
+      "sourceLineId": "mozart-timed-636-2",
+      "suppliedText": "Les cliches sonnent l'Angélus Vole",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5814,
+        "anchorEnd": 5821.98,
+        "sourceLineNumber": 636,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5822,
+      "sourceText": "Vole",
+      "ipa": "[vɔl]",
+      "ear": "沃勒",
+      "meaning": "飞吧。",
+      "sourceLineId": "mozart-timed-637-1",
+      "suppliedText": "Vole Vole C'est mon enfance qui s'envole Ce sont mes rêves",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5822,
+        "anchorEnd": 5831,
+        "sourceLineNumber": 637,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5822.947,
+      "sourceText": "Vole",
+      "ipa": "[vɔl]",
+      "ear": "沃勒",
+      "meaning": "飞吧。",
+      "sourceLineId": "mozart-timed-637-2",
+      "suppliedText": "Vole Vole C'est mon enfance qui s'envole Ce sont mes rêves",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5822,
+        "anchorEnd": 5831,
+        "sourceLineNumber": 637,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5823.895,
+      "sourceText": "C'est mon enfance qui s'envole",
+      "ipa": "[sɛ mɔ̃n‿ɑ̃fɑ̃s ki sɑ̃vɔl]",
+      "ear": "塞 蒙恩 昂芳斯 基 桑沃勒",
+      "meaning": "飞走的是我的童年。",
+      "sourceLineId": "mozart-timed-637-3",
+      "suppliedText": "Vole Vole C'est mon enfance qui s'envole Ce sont mes rêves",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5822,
+        "anchorEnd": 5831,
+        "sourceLineNumber": 637,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5828.632,
+      "sourceText": "Ce sont mes rêves",
+      "ipa": "[sə sɔ̃ me ʁɛv]",
+      "ear": "瑟 松 梅 赫弗",
+      "meaning": "那些是我的梦想。",
+      "sourceLineId": "mozart-timed-637-4",
+      "suppliedText": "Vole Vole C'est mon enfance qui s'envole Ce sont mes rêves",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5822,
+        "anchorEnd": 5831,
+        "sourceLineNumber": 637,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5831,
+      "sourceText": "Que l'on viole",
+      "ipa": "[kə lɔ̃ vjɔl]",
+      "ear": "克 隆 弗耶哦勒",
+      "meaning": "却被人践踏。",
+      "sourceLineId": "mozart-timed-638-1",
+      "suppliedText": "Que l'on viole Je suis un funambule",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5831,
+        "anchorEnd": 5839,
+        "sourceLineNumber": 638,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5834.429,
+      "sourceText": "Je suis un funambule",
+      "ipa": "[ʒə sɥi œ̃ fynɑ̃byl]",
+      "ear": "热 斯于伊 恩 菲于南比于勒",
+      "meaning": "我是走钢丝的人。",
+      "sourceLineId": "mozart-timed-638-2",
+      "suppliedText": "Que l'on viole Je suis un funambule",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5831,
+        "anchorEnd": 5839,
+        "sourceLineNumber": 638,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5839,
+      "sourceText": "Suspendue dans la brume",
+      "ipa": "[syspɑ̃dy dɑ̃ la bʁym]",
+      "ear": "西于斯庞迪于 当 拉 布许姆",
+      "meaning": "悬在迷雾里。",
+      "sourceLineId": "mozart-timed-639-1",
+      "suppliedText": "Suspendue dans la brume Je marche sur le fil de tes pas",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5839,
+        "anchorEnd": 5847.66,
+        "sourceLineNumber": 639,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5843.075,
+      "sourceText": "Je marche sur le fil de tes pas",
+      "ipa": "[ʒə maʁʃ syʁ lə fil də te pa]",
+      "ear": "热 玛赫什 西于赫 勒 菲勒 德 特 帕",
+      "meaning": "我沿着你脚步留下的细线行走。",
+      "sourceLineId": "mozart-timed-639-2",
+      "suppliedText": "Suspendue dans la brume Je marche sur le fil de tes pas",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5839,
+        "anchorEnd": 5847.66,
+        "sourceLineNumber": 639,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5850,
+      "sourceText": "Je titube, je bascule",
+      "ipa": "[ʒə tityb ʒə baskyl]",
+      "ear": "热 蒂蒂于布 热 巴斯基于勒",
+      "meaning": "我踉跄着，失去平衡。",
+      "sourceLineId": "mozart-timed-640-1",
+      "suppliedText": "Je titube, je bascule Et je plonge dans l'écume",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5850,
+        "anchorEnd": 5857,
+        "sourceLineNumber": 640,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5853.5,
+      "sourceText": "Et je plonge dans l'écume",
+      "ipa": "[e ʒə plɔ̃ʒ dɑ̃ lekym]",
+      "ear": "诶 热 普隆日 当 莱基于姆",
+      "meaning": "随后落进翻涌的泡沫里。",
+      "sourceLineId": "mozart-timed-640-2",
+      "suppliedText": "Je titube, je bascule Et je plonge dans l'écume",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5850,
+        "anchorEnd": 5857,
+        "sourceLineNumber": 640,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5857,
+      "sourceText": "Des jours qui me parlent de toi",
+      "ipa": "[de ʒuʁ ki mə paʁl də twa]",
+      "ear": "德 茹赫 基 默 帕赫勒 德 特乌阿",
+      "meaning": "那些让我想起你的日子。",
+      "sourceLineId": "mozart-timed-641-1",
+      "suppliedText": "Des jours qui me parlent de toi Dors, mon ange",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5857,
+        "anchorEnd": 5867,
+        "sourceLineNumber": 641,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5864.333,
+      "sourceText": "Dors, mon ange",
+      "ipa": "[dɔʁ mɔ̃n‿ɑ̃ʒ]",
+      "ear": "多赫 蒙恩 昂日",
+      "meaning": "睡吧，我的天使。",
+      "sourceLineId": "mozart-timed-641-2",
+      "suppliedText": "Des jours qui me parlent de toi Dors, mon ange",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5857,
+        "anchorEnd": 5867,
+        "sourceLineNumber": 641,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5867,
+      "sourceText": "Dans l'éternelle candeur",
+      "ipa": "[dɑ̃ letɛʁnɛl kɑ̃dœʁ]",
+      "ear": "当 莱泰赫奈勒 康德厄赫",
+      "meaning": "在永恒的纯净里。",
+      "sourceLineId": "mozart-timed-642-1",
+      "suppliedText": "Dans l'éternelle candeur Dors, mon ange",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5867,
+        "anchorEnd": 5873.95,
+        "sourceLineNumber": 642,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5871.633,
+      "sourceText": "Dors, mon ange",
+      "ipa": "[dɔʁ mɔ̃n‿ɑ̃ʒ]",
+      "ear": "多赫 蒙恩 昂日",
+      "meaning": "睡吧，我的天使。",
+      "sourceLineId": "mozart-timed-642-2",
+      "suppliedText": "Dans l'éternelle candeur Dors, mon ange",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5867,
+        "anchorEnd": 5873.95,
+        "sourceLineNumber": 642,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5874,
+      "sourceText": "Le ciel est ta demeure",
+      "ipa": "[lə sjɛl‿ɛ ta dəmœʁ]",
+      "ear": "勒 斯耶艾勒 艾 塔 德默厄赫",
+      "meaning": "天空就是你的家。",
+      "sourceLineId": "mozart-timed-643-1",
+      "suppliedText": "Le ciel est ta demeure Vole, mon ange",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5874,
+        "anchorEnd": 5880.7,
+        "sourceLineNumber": 643,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5878.307,
+      "sourceText": "Vole, mon ange",
+      "ipa": "[vɔl mɔ̃n‿ɑ̃ʒ]",
+      "ear": "沃勒 蒙恩 昂日",
+      "meaning": "飞吧，我的天使。",
+      "sourceLineId": "mozart-timed-643-2",
+      "suppliedText": "Le ciel est ta demeure Vole, mon ange",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5874,
+        "anchorEnd": 5880.7,
+        "sourceLineNumber": 643,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5881,
+      "sourceText": "Le temps pansera",
+      "ipa": "[lə tɑ̃ pɑ̃sʁa]",
+      "ear": "勒 唐 庞斯哈",
+      "meaning": "时间会治愈",
+      "sourceLineId": "mozart-timed-644-1",
+      "suppliedText": "Le temps pansera Ma douleur",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5881,
+        "anchorEnd": 5889.9,
+        "sourceLineNumber": 644,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5885.45,
+      "sourceText": "Ma douleur",
+      "ipa": "[ma dulœʁ]",
+      "ear": "玛 杜勒厄赫",
+      "meaning": "我的伤痛。",
+      "sourceLineId": "mozart-timed-644-2",
+      "suppliedText": "Le temps pansera Ma douleur",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5881,
+        "anchorEnd": 5889.9,
+        "sourceLineNumber": 644,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5895,
+      "sourceText": "Da Ponte, mon père est mort.",
+      "ipa": "[da pɔ̃t mɔ̃ pɛʁ‿ɛ mɔʁ]",
+      "ear": "达 蓬特 蒙 佩赫 艾 莫赫",
+      "meaning": "达·蓬特，我父亲去世了。",
+      "sourceLineId": "mozart-timed-645-1",
+      "suppliedText": "Da Ponte, mon père est mort.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5895,
+        "anchorEnd": 5898.5,
+        "sourceLineNumber": 645,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5908,
+      "sourceText": "Monsieur Mozart?",
+      "ipa": "[məsjø mɔtsaʁ]",
+      "ear": "默斯耶厄 莫特萨赫",
+      "meaning": "莫扎特先生？",
+      "sourceLineId": "mozart-timed-646-1",
+      "suppliedText": "Monsieur Mozart? Que me voulez-vous?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5908,
+        "anchorEnd": 5916,
+        "sourceLineNumber": 646,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5911.429,
+      "sourceText": "Que me voulez-vous?",
+      "ipa": "[kə mə vulevu]",
+      "ear": "克 默 乌莱乌",
+      "meaning": "找我有什么事？",
+      "sourceLineId": "mozart-timed-646-2",
+      "suppliedText": "Monsieur Mozart? Que me voulez-vous?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5908,
+        "anchorEnd": 5916,
+        "sourceLineNumber": 646,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5916,
+      "sourceText": "Ne posez pas de questions.",
+      "ipa": "[nə poze pa də kɛstjɔ̃]",
+      "ear": "讷 波泽 帕 德 凯斯特耶翁",
+      "meaning": "别问。",
+      "sourceLineId": "mozart-timed-647-1",
+      "suppliedText": "Ne posez pas de questions. L'homme qui m'envoie vous tient pour le plus talentueux des compositeurs.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5916,
+        "anchorEnd": 5926,
+        "sourceLineNumber": 647,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5918.5,
+      "sourceText": "L'homme qui m'envoie vous tient pour le plus talentueux des compositeurs.",
+      "ipa": "[lɔm ki mɑ̃vwa vu tjɛ̃ puʁ lə ply talɑ̃tyø de kɔ̃pozitœʁ]",
+      "ear": "洛姆 基 芒弗乌阿 乌 特耶安 普赫 勒 普吕 塔朗蒂于厄 德 孔波齐特厄赫",
+      "meaning": "派我来的人认为您是最有才华的作曲家。",
+      "sourceLineId": "mozart-timed-647-2",
+      "suppliedText": "Ne posez pas de questions. L'homme qui m'envoie vous tient pour le plus talentueux des compositeurs.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5916,
+        "anchorEnd": 5926,
+        "sourceLineNumber": 647,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5926,
+      "sourceText": "Qu'attend-il de moi?",
+      "ipa": "[katɑ̃til də mwa]",
+      "ear": "卡唐蒂勒 德 姆乌阿",
+      "meaning": "他想让我做什么？",
+      "sourceLineId": "mozart-timed-648-1",
+      "suppliedText": "Qu'attend-il de moi?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5926,
+        "anchorEnd": 5928,
+        "sourceLineNumber": 648,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5928,
+      "sourceText": "Que vous composiez une messe des morts.",
+      "ipa": "[kə vu kɔ̃pozje yn mɛs de mɔʁ]",
+      "ear": "克 乌 孔波兹耶诶 于恩 梅斯 德 莫赫",
+      "meaning": "请您写一部追思弥撒。",
+      "sourceLineId": "mozart-timed-649-1",
+      "suppliedText": "Que vous composiez une messe des morts.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5928,
+        "anchorEnd": 5934.54,
+        "sourceLineNumber": 649,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5936,
+      "sourceText": "Un requiem?",
+      "ipa": "[œ̃ ʁekɥijɛm]",
+      "ear": "恩 赫克于伊耶艾姆",
+      "meaning": "一部安魂曲？",
+      "sourceLineId": "mozart-timed-650-1",
+      "suppliedText": "Un requiem? Mais pour qui? Ça n'est pas votre affaire. Voici 100 ducats.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5936,
+        "anchorEnd": 5945.259,
+        "sourceLineNumber": 650,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5937.852,
+      "sourceText": "Mais pour qui?",
+      "ipa": "[mɛ puʁ ki]",
+      "ear": "梅 普赫 基",
+      "meaning": "为谁写？",
+      "sourceLineId": "mozart-timed-650-2",
+      "suppliedText": "Un requiem? Mais pour qui? Ça n'est pas votre affaire. Voici 100 ducats.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5936,
+        "anchorEnd": 5945.259,
+        "sourceLineNumber": 650,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5940.074,
+      "sourceText": "Ça n'est pas votre affaire.",
+      "ipa": "[sa nɛ pa votʁ‿afɛʁ]",
+      "ear": "萨 奈 帕 沃特赫 阿费赫",
+      "meaning": "这与您无关。",
+      "sourceLineId": "mozart-timed-650-3",
+      "suppliedText": "Un requiem? Mais pour qui? Ça n'est pas votre affaire. Voici 100 ducats.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5936,
+        "anchorEnd": 5945.259,
+        "sourceLineNumber": 650,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5943.407,
+      "sourceText": "Voici 100 ducats.",
+      "ipa": "[vwasi sɑ̃ dyka]",
+      "ear": "弗乌阿西 桑 迪于卡",
+      "meaning": "这里是一百杜卡特。",
+      "sourceLineId": "mozart-timed-650-4",
+      "suppliedText": "Un requiem? Mais pour qui? Ça n'est pas votre affaire. Voici 100 ducats.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5936,
+        "anchorEnd": 5945.259,
+        "sourceLineNumber": 650,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5946,
+      "sourceText": "Vous en aurez autant à l'achèvement de la partition.",
+      "ipa": "[vuz‿ɑ̃n‿oʁe otɑ̃ a laʃɛvmɑ̃ də la paʁtisjɔ̃]",
+      "ear": "乌兹 昂恩 奥赫 奥唐 阿 拉谢弗芒 德 拉 帕赫蒂斯耶翁",
+      "meaning": "完成乐谱后，还会付您同样的数目。",
+      "sourceLineId": "mozart-timed-651-1",
+      "suppliedText": "Vous en aurez autant à l'achèvement de la partition. Travaillez avec tout le soin possible.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5946,
+        "anchorEnd": 5954.39,
+        "sourceLineNumber": 651,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5950.935,
+      "sourceText": "Travaillez avec tout le soin possible.",
+      "ipa": "[tʁavaje avɛk tu lə swɛ̃ pɔsibl]",
+      "ear": "特哈瓦耶诶 阿韦克 图 勒 斯乌安 珀西布勒",
+      "meaning": "请务必用心创作。",
+      "sourceLineId": "mozart-timed-651-2",
+      "suppliedText": "Vous en aurez autant à l'achèvement de la partition. Travaillez avec tout le soin possible.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5946,
+        "anchorEnd": 5954.39,
+        "sourceLineNumber": 651,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5956,
+      "sourceText": "L'homme est connaisseur. 100 ducats, Wolfgang!",
+      "ipa": "[lɔm‿ɛ kɔnɛsœʁ sɑ̃ dyka vɔlfɡɑ̃ɡ]",
+      "ear": "洛姆 艾 科奈瑟厄赫 桑 迪于卡 沃勒弗冈格",
+      "meaning": "那位先生很懂音乐。一百杜卡特啊，沃尔夫冈！",
+      "sourceLineId": "mozart-timed-652-1",
+      "suppliedText": "L'homme est connaisseur. 100 ducats, Wolfgang!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5956,
+        "anchorEnd": 5964,
+        "sourceLineNumber": 652,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5964,
+      "sourceText": "Nous sommes sauvés.",
+      "ipa": "[nu sɔm sove]",
+      "ear": "努 索姆 索韦",
+      "meaning": "我们有救了。",
+      "sourceLineId": "mozart-timed-653-1",
+      "suppliedText": "- Nous sommes sauvés. - Non, Constance. Non. Cet homme est venu de l'au-delà pour m'annoncer la fin.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5964,
+        "anchorEnd": 5971.54,
+        "sourceLineNumber": 653,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5965.759,
+      "sourceText": "Non, Constance.",
+      "ipa": "[nɔ̃ kɔ̃stɑ̃s]",
+      "ear": "农 孔斯唐斯",
+      "meaning": "不，康斯坦丝。",
+      "sourceLineId": "mozart-timed-653-2",
+      "suppliedText": "- Nous sommes sauvés. - Non, Constance. Non. Cet homme est venu de l'au-delà pour m'annoncer la fin.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5964,
+        "anchorEnd": 5971.54,
+        "sourceLineNumber": 653,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5966.765,
+      "sourceText": "Non.",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不。",
+      "sourceLineId": "mozart-timed-653-3",
+      "suppliedText": "- Nous sommes sauvés. - Non, Constance. Non. Cet homme est venu de l'au-delà pour m'annoncer la fin.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5964,
+        "anchorEnd": 5971.54,
+        "sourceLineNumber": 653,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5967.016,
+      "sourceText": "Cet homme est venu de l'au-delà pour m'annoncer la fin.",
+      "ipa": "[sɛt‿ɔm‿ɛ vəny də lodəla puʁ manɔ̃se la fɛ̃]",
+      "ear": "塞特 哦姆 艾 弗尼于 德 洛德拉 普赫 玛农塞 拉 凡",
+      "meaning": "那个人是从另一个世界来的，他来告诉我，终点到了。",
+      "sourceLineId": "mozart-timed-653-4",
+      "suppliedText": "- Nous sommes sauvés. - Non, Constance. Non. Cet homme est venu de l'au-delà pour m'annoncer la fin.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5964,
+        "anchorEnd": 5971.54,
+        "sourceLineNumber": 653,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5973,
+      "sourceText": "Vous savez,",
+      "ipa": "[vu save]",
+      "ear": "乌 萨韦",
+      "meaning": "您知道吗，",
+      "sourceLineId": "mozart-timed-654-1",
+      "suppliedText": "Vous savez, Madame Rosenberg me dit \"Oh, mon ami,\" en parlant de moi, \"vous êtes un être merveilleux.\" Vous savez, j'adore rire.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5973,
+        "anchorEnd": 5983.9,
+        "sourceLineNumber": 654,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5974.014,
+      "sourceText": "Madame Rosenberg me dit",
+      "ipa": "[madam ʁozɑ̃bɛʁɡ mə di]",
+      "ear": "玛达姆 霍赞贝赫格 默 迪",
+      "meaning": "罗森伯格夫人对我说：",
+      "sourceLineId": "mozart-timed-654-2",
+      "suppliedText": "Vous savez, Madame Rosenberg me dit \"Oh, mon ami,\" en parlant de moi, \"vous êtes un être merveilleux.\" Vous savez, j'adore rire.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5973,
+        "anchorEnd": 5983.9,
+        "sourceLineNumber": 654,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5976.042,
+      "sourceText": "Oh, mon ami, en parlant de moi, vous êtes un être merveilleux.",
+      "ipa": "[ɔ mɔ̃n‿ami ɑ̃ paʁlɑ̃ də mwa vuz‿ɛt‿œ̃n‿ɛtʁ mɛʁvɛjø]",
+      "ear": "哦 蒙恩 阿米 昂 帕赫朗 德 姆乌阿 乌兹 艾特 恩恩 艾特赫 梅赫韦耶厄",
+      "meaning": "她说的是我：亲爱的，你真是个了不起的人。",
+      "sourceLineId": "mozart-timed-654-3",
+      "suppliedText": "Vous savez, Madame Rosenberg me dit \"Oh, mon ami,\" en parlant de moi, \"vous êtes un être merveilleux.\" Vous savez, j'adore rire.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5973,
+        "anchorEnd": 5983.9,
+        "sourceLineNumber": 654,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5981.619,
+      "sourceText": "Vous savez, j'adore rire.",
+      "ipa": "[vu save ʒadɔʁ ʁiʁ]",
+      "ear": "乌 萨韦 扎多赫 希赫",
+      "meaning": "您知道的，我最爱笑了。",
+      "sourceLineId": "mozart-timed-654-4",
+      "suppliedText": "Vous savez, Madame Rosenberg me dit \"Oh, mon ami,\" en parlant de moi, \"vous êtes un être merveilleux.\" Vous savez, j'adore rire.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5973,
+        "anchorEnd": 5983.9,
+        "sourceLineNumber": 654,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5984,
+      "sourceText": "Dieu prête longue vie à celui que",
+      "ipa": "[djø pʁɛt lɔ̃ɡ vi a səlɥi kə]",
+      "ear": "德耶厄 普赫特 隆格 维 阿 瑟勒于伊 克",
+      "meaning": "愿上帝赐予他长寿，",
+      "sourceLineId": "mozart-timed-655-1",
+      "suppliedText": "Dieu prête longue vie à celui que Sa Majesté a nommé maître de la Chapelle Impériale, notre ami et compositeur, Antonio Salieri!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5984,
+        "anchorEnd": 5992.62,
+        "sourceLineNumber": 655,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5986.554,
+      "sourceText": "Sa Majesté a nommé maître de la",
+      "ipa": "[sa maʒɛste a nɔme mɛtʁ də la]",
+      "ear": "萨 玛热斯特 阿 诺梅 梅特赫 德 拉",
+      "meaning": "皇帝陛下任命他为——",
+      "sourceLineId": "mozart-timed-655-2",
+      "suppliedText": "Dieu prête longue vie à celui que Sa Majesté a nommé maître de la Chapelle Impériale, notre ami et compositeur, Antonio Salieri!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5984,
+        "anchorEnd": 5992.62,
+        "sourceLineNumber": 655,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5988.47,
+      "sourceText": "Chapelle Impériale, notre ami et compositeur,",
+      "ipa": "[ʃapɛl‿ɛ̃peʁjal notʁ‿ami e kɔ̃pozitœʁ]",
+      "ear": "沙佩勒 安佩赫耶阿勒 诺特赫 阿米 诶 孔波齐特厄赫",
+      "meaning": "皇家宫廷乐长，他就是我们的朋友、作曲家，",
+      "sourceLineId": "mozart-timed-655-3",
+      "suppliedText": "Dieu prête longue vie à celui que Sa Majesté a nommé maître de la Chapelle Impériale, notre ami et compositeur, Antonio Salieri!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5984,
+        "anchorEnd": 5992.62,
+        "sourceLineNumber": 655,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5991.343,
+      "sourceText": "Antonio Salieri!",
+      "ipa": "[ɑ̃tonjo saljeʁi]",
+      "ear": "昂托恩耶奥 萨勒耶诶希",
+      "meaning": "安东尼奥·萨列里！",
+      "sourceLineId": "mozart-timed-655-4",
+      "suppliedText": "Dieu prête longue vie à celui que Sa Majesté a nommé maître de la Chapelle Impériale, notre ami et compositeur, Antonio Salieri!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5984,
+        "anchorEnd": 5992.62,
+        "sourceLineNumber": 655,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5993,
+      "sourceText": "Bravo, maestro!",
+      "ipa": "[bʁavo maɛstʁo]",
+      "ear": "布哈沃 玛艾斯特霍",
+      "meaning": "好啊，大师！",
+      "sourceLineId": "mozart-timed-656-1",
+      "suppliedText": "Bravo, maestro!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5993,
+        "anchorEnd": 5994,
+        "sourceLineNumber": 656,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

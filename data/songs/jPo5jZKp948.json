@@ -8,8 +8,7 @@
   "duration": 170,
   "sourceDuration": 170,
   "musicalId": "moliere",
-  "trackNumber": 24,
-  "act": 2,
+  "trackNumber": 13,
   "captionStatus": "ready",
   "captionLanguage": "fr",
   "captionSource": "editorial",
@@ -19,12 +18,12 @@
   "lyricsStorage": "user-provided",
   "cues": [
     {
-      "text": "… Malgré les âges… Contre tous, tous les…",
+      "text": "Contre tous, malgré les âges, l'aimer contre tous, tous les…",
       "start": 8,
       "duration": 10
     },
     {
-      "text": "Usage adoré tout bas puisquelle a le visage de",
+      "text": "Usage L'adorer tout bas puisqu'elle a le visage de",
       "start": 18,
       "duration": 7
     },
@@ -44,12 +43,12 @@
       "duration": 7
     },
     {
-      "text": "Posose le saut du secret sur mes lèvres se",
+      "text": "Posose le sceau du secret sur mes lèvres se",
       "start": 48,
       "duration": 6
     },
     {
-      "text": "Pose je serai d'é mais je Meur si je",
+      "text": "Pose. Je serai damnée, mais je meurs si je…",
       "start": 54,
       "duration": 7
     },
@@ -69,7 +68,7 @@
       "duration": 11
     },
     {
-      "text": "Sépare tous ceux qui contre nous font des rempards",
+      "text": "Sépare tous ceux qui contre nous font des remparts",
       "start": 83,
       "duration": 10
     },
@@ -229,7 +228,7 @@
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
   "timingReviewStatus": "approximate",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "phoneticReviewStatus": "not-generated",
   "studyKind": "four-layer",
   "mediaKind": "stage-video",
@@ -345,7 +344,7 @@
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
   },
-  "studyVersion": 1,
+  "studyVersion": 2,
   "studyInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
@@ -476,5 +475,7 @@
       "start": 163,
       "text": "[Musique]"
     }
-  ]
+  ],
+  "originalTrackNumber": 24,
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

@@ -1,0 +1,1059 @@
+{
+  "videoId": "mozart-2010-21",
+  "playbackVideoId": "83Qn2IvP_-I",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "97aaf400c790393fcb53f1f43bb1002cc0955e5fa8ec3c8c767c03260daed16c",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "法语原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "2010年巴黎原唱录像",
+      "url": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=6651"
+    }
+  ],
+  "entries": [
+    {
+      "start": 6662,
+      "sourceText": "Debout",
+      "ipa": "[dəbu]",
+      "ear": "德布",
+      "meaning": "站起来。",
+      "sourceLineId": "mozart-timed-714-1",
+      "suppliedText": "Debout Les fous Le monde sans vous",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6662,
+        "anchorEnd": 6671,
+        "sourceLineNumber": 714,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6664.25,
+      "sourceText": "Les fous",
+      "ipa": "[le fu]",
+      "ear": "莱 富",
+      "meaning": "那些疯子。",
+      "sourceLineId": "mozart-timed-714-2",
+      "suppliedText": "Debout Les fous Le monde sans vous",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6662,
+        "anchorEnd": 6671,
+        "sourceLineNumber": 714,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6666.5,
+      "sourceText": "Le monde sans vous",
+      "ipa": "[lə mɔ̃d sɑ̃ vu]",
+      "ear": "勒 蒙德 桑 乌",
+      "meaning": "这个世界若没有你们。",
+      "sourceLineId": "mozart-timed-714-3",
+      "suppliedText": "Debout Les fous Le monde sans vous",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6662,
+        "anchorEnd": 6671,
+        "sourceLineNumber": 714,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6671,
+      "sourceText": "Perd la raison",
+      "ipa": "[pɛʁ la ʁɛzɔ̃]",
+      "ear": "佩赫 拉 赫宗",
+      "meaning": "就会失去理智。",
+      "sourceLineId": "mozart-timed-715-1",
+      "suppliedText": "Perd la raison Suivons, jusqu'au bout",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6671,
+        "anchorEnd": 6679,
+        "sourceLineNumber": 715,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6673.857,
+      "sourceText": "Suivons, jusqu'au bout",
+      "ipa": "[sɥivɔ̃ ʒysko bu]",
+      "ear": "斯于伊翁 日于斯科 布",
+      "meaning": "跟随到底。",
+      "sourceLineId": "mozart-timed-715-2",
+      "suppliedText": "Perd la raison Suivons, jusqu'au bout",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6671,
+        "anchorEnd": 6679,
+        "sourceLineNumber": 715,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6679,
+      "sourceText": "Les fous qui dérangent",
+      "ipa": "[le fu ki deʁɑ̃ʒ]",
+      "ear": "莱 富 基 德杭日",
+      "meaning": "那些让人不安的疯子。",
+      "sourceLineId": "mozart-timed-716-1",
+      "suppliedText": "Les fous qui dérangent Sont des anges",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6679,
+        "anchorEnd": 6687.7,
+        "sourceLineNumber": 716,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6684.8,
+      "sourceText": "Sont des anges",
+      "ipa": "[sɔ̃ dez‿ɑ̃ʒ]",
+      "ear": "松 德兹 昂日",
+      "meaning": "其实都是天使。",
+      "sourceLineId": "mozart-timed-716-2",
+      "suppliedText": "Les fous qui dérangent Sont des anges",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6679,
+        "anchorEnd": 6687.7,
+        "sourceLineNumber": 716,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6700,
+      "sourceText": "Tout le monde y pense, tout le monde y croit",
+      "ipa": "[tulmɔ̃d i pɑ̃s tulmɔ̃d i kʁwa]",
+      "ear": "图勒蒙德 伊 庞斯 图勒蒙德 伊 克赫乌阿",
+      "meaning": "每个人都想着，每个人都相信。",
+      "sourceLineId": "mozart-timed-717-1",
+      "suppliedText": "Tout le monde y pense, tout le monde y croit Tout le monde espère Nous avons le choix d'un monde à refaire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6700,
+        "anchorEnd": 6710.1,
+        "sourceLineNumber": 717,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6704.144,
+      "sourceText": "Tout le monde espère",
+      "ipa": "[tulmɔ̃d ɛspɛʁ]",
+      "ear": "图勒蒙德 艾斯佩赫",
+      "meaning": "每个人都怀着希望。",
+      "sourceLineId": "mozart-timed-717-2",
+      "suppliedText": "Tout le monde y pense, tout le monde y croit Tout le monde espère Nous avons le choix d'un monde à refaire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6700,
+        "anchorEnd": 6710.1,
+        "sourceLineNumber": 717,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6706.215,
+      "sourceText": "Nous avons le choix d'un monde à refaire",
+      "ipa": "[nuz‿avɔ̃ lə ʃwa dœ̃ mɔ̃d‿a ʁəfɛʁ]",
+      "ear": "努兹 阿翁 勒 什乌阿 丹 蒙德 阿 赫费赫",
+      "meaning": "我们可以选择，重新创造这个世界。",
+      "sourceLineId": "mozart-timed-717-3",
+      "suppliedText": "Tout le monde y pense, tout le monde y croit Tout le monde espère Nous avons le choix d'un monde à refaire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6700,
+        "anchorEnd": 6710.1,
+        "sourceLineNumber": 717,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6711,
+      "sourceText": "Mais pourquoi s'en faire à six pieds sous terre",
+      "ipa": "[mɛ puʁkwa sɑ̃ fɛʁ‿a si pje su tɛʁ]",
+      "ear": "梅 普赫克乌阿 桑 费赫 阿 西 普耶诶 苏 泰赫",
+      "meaning": "可既然终归要长眠地下，又何必忧虑？",
+      "sourceLineId": "mozart-timed-718-1",
+      "suppliedText": "Mais pourquoi s'en faire à six pieds sous terre Nous serons debouts Toutes nos misères sembleront légères",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6711,
+        "anchorEnd": 6719.86,
+        "sourceLineNumber": 718,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6715.316,
+      "sourceText": "Nous serons debout",
+      "ipa": "[nu səʁɔ̃ dəbu]",
+      "ear": "努 瑟洪 德布",
+      "meaning": "我们会站起来。",
+      "sourceLineId": "mozart-timed-718-2",
+      "suppliedText": "Mais pourquoi s'en faire à six pieds sous terre Nous serons debouts Toutes nos misères sembleront légères",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6711,
+        "anchorEnd": 6719.86,
+        "sourceLineNumber": 718,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6716.907,
+      "sourceText": "Toutes nos misères sembleront légères",
+      "ipa": "[tut no mizɛʁ sɑ̃bləʁɔ̃ leʒɛʁ]",
+      "ear": "图特 诺 米泽赫 桑布勒洪 莱热赫",
+      "meaning": "我们所有的苦难都会变得轻盈。",
+      "sourceLineId": "mozart-timed-718-3",
+      "suppliedText": "Mais pourquoi s'en faire à six pieds sous terre Nous serons debouts Toutes nos misères sembleront légères",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6711,
+        "anchorEnd": 6719.86,
+        "sourceLineNumber": 718,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6720,
+      "sourceText": "Sens dessus dessous",
+      "ipa": "[sɑ̃s dəsy dəsu]",
+      "ear": "桑斯 德西于 德苏",
+      "meaning": "即使一切天翻地覆。",
+      "sourceLineId": "mozart-timed-719-1",
+      "suppliedText": "Sens dessus dessous Tout le monde y pense Tout le monde y croit, tout le monde espère",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6720,
+        "anchorEnd": 6728,
+        "sourceLineNumber": 719,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6721.6,
+      "sourceText": "Tout le monde y pense",
+      "ipa": "[tulmɔ̃d i pɑ̃s]",
+      "ear": "图勒蒙德 伊 庞斯",
+      "meaning": "每个人都想着。",
+      "sourceLineId": "mozart-timed-719-2",
+      "suppliedText": "Sens dessus dessous Tout le monde y pense Tout le monde y croit, tout le monde espère",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6720,
+        "anchorEnd": 6728,
+        "sourceLineNumber": 719,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6723.733,
+      "sourceText": "Tout le monde y croit, tout le monde espère",
+      "ipa": "[tulmɔ̃d i kʁwa tulmɔ̃d ɛspɛʁ]",
+      "ear": "图勒蒙德 伊 克赫乌阿 图勒蒙德 艾斯佩赫",
+      "meaning": "每个人都相信，每个人都怀着希望。",
+      "sourceLineId": "mozart-timed-719-3",
+      "suppliedText": "Sens dessus dessous Tout le monde y pense Tout le monde y croit, tout le monde espère",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6720,
+        "anchorEnd": 6728,
+        "sourceLineNumber": 719,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6728,
+      "sourceText": "Nous avons le choix d'un monde à refaire",
+      "ipa": "[nuz‿avɔ̃ lə ʃwa dœ̃ mɔ̃d‿a ʁəfɛʁ]",
+      "ear": "努兹 阿翁 勒 什乌阿 丹 蒙德 阿 赫费赫",
+      "meaning": "我们可以选择，重新创造这个世界。",
+      "sourceLineId": "mozart-timed-720-1",
+      "suppliedText": "Nous avons le choix d'un monde à refaire Réveillons les fou qui sommeille en nous",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6728,
+        "anchorEnd": 6737,
+        "sourceLineNumber": 720,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6732.355,
+      "sourceText": "Réveillons le fou qui sommeille en nous",
+      "ipa": "[ʁevɛjɔ̃ lə fu ki sɔmɛj‿ɑ̃ nu]",
+      "ear": "赫韦耶翁 勒 富 基 索梅耶 昂 努",
+      "meaning": "唤醒沉睡在我们心里的疯子。",
+      "sourceLineId": "mozart-timed-720-2",
+      "suppliedText": "Nous avons le choix d'un monde à refaire Réveillons les fou qui sommeille en nous",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6728,
+        "anchorEnd": 6737,
+        "sourceLineNumber": 720,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6737,
+      "sourceText": "Souverain des rêves",
+      "ipa": "[suvʁɛ̃ de ʁɛv]",
+      "ear": "苏弗汉 德 赫弗",
+      "meaning": "做梦的君王。",
+      "sourceLineId": "mozart-timed-721-1",
+      "suppliedText": "Souverain des rêves Vivons jusqu'au bout, vivons avant tout Que les fous se lèvent",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6737,
+        "anchorEnd": 6745,
+        "sourceLineNumber": 721,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6739.133,
+      "sourceText": "Vivons jusqu'au bout, vivons avant tout",
+      "ipa": "[vivɔ̃ ʒysko bu vivɔ̃ avɑ̃ tu]",
+      "ear": "维翁 日于斯科 布 维翁 阿旺 图",
+      "meaning": "活到最后，也把活着放在最前面。",
+      "sourceLineId": "mozart-timed-721-2",
+      "suppliedText": "Souverain des rêves Vivons jusqu'au bout, vivons avant tout Que les fous se lèvent",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6737,
+        "anchorEnd": 6745,
+        "sourceLineNumber": 721,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6742.867,
+      "sourceText": "Que les fous se lèvent",
+      "ipa": "[kə le fu sə lɛv]",
+      "ear": "克 莱 富 瑟 莱弗",
+      "meaning": "让疯子们站起来。",
+      "sourceLineId": "mozart-timed-721-3",
+      "suppliedText": "Souverain des rêves Vivons jusqu'au bout, vivons avant tout Que les fous se lèvent",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6737,
+        "anchorEnd": 6745,
+        "sourceLineNumber": 721,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6745,
+      "sourceText": "Tout le monde y pense",
+      "ipa": "[tulmɔ̃d i pɑ̃s]",
+      "ear": "图勒蒙德 伊 庞斯",
+      "meaning": "每个人都想着。",
+      "sourceLineId": "mozart-timed-722-1",
+      "suppliedText": "Tout le monde y pense Tout le monde y croit Tout le monde espère",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6745,
+        "anchorEnd": 6751,
+        "sourceLineNumber": 722,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6747.0,
+      "sourceText": "Tout le monde y croit",
+      "ipa": "[tulmɔ̃d i kʁwa]",
+      "ear": "图勒蒙德 伊 克赫乌阿",
+      "meaning": "每个人都相信。",
+      "sourceLineId": "mozart-timed-722-2",
+      "suppliedText": "Tout le monde y pense Tout le monde y croit Tout le monde espère",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6745,
+        "anchorEnd": 6751,
+        "sourceLineNumber": 722,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6749.0,
+      "sourceText": "Tout le monde espère",
+      "ipa": "[tulmɔ̃d ɛspɛʁ]",
+      "ear": "图勒蒙德 艾斯佩赫",
+      "meaning": "每个人都怀着希望。",
+      "sourceLineId": "mozart-timed-722-3",
+      "suppliedText": "Tout le monde y pense Tout le monde y croit Tout le monde espère",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6745,
+        "anchorEnd": 6751,
+        "sourceLineNumber": 722,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6751,
+      "sourceText": "Nous avons le choix d'un monde à refaire",
+      "ipa": "[nuz‿avɔ̃ lə ʃwa dœ̃ mɔ̃d‿a ʁəfɛʁ]",
+      "ear": "努兹 阿翁 勒 什乌阿 丹 蒙德 阿 赫费赫",
+      "meaning": "我们可以选择，重新创造这个世界。",
+      "sourceLineId": "mozart-timed-723-1",
+      "suppliedText": "Nous avons le choix d'un monde à refaire Tout le monde y pense, tout le monde y croit",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6751,
+        "anchorEnd": 6759,
+        "sourceLineNumber": 723,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6754.871,
+      "sourceText": "Tout le monde y pense, tout le monde y croit",
+      "ipa": "[tulmɔ̃d i pɑ̃s tulmɔ̃d i kʁwa]",
+      "ear": "图勒蒙德 伊 庞斯 图勒蒙德 伊 克赫乌阿",
+      "meaning": "每个人都想着，每个人都相信。",
+      "sourceLineId": "mozart-timed-723-2",
+      "suppliedText": "Nous avons le choix d'un monde à refaire Tout le monde y pense, tout le monde y croit",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6751,
+        "anchorEnd": 6759,
+        "sourceLineNumber": 723,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6759,
+      "sourceText": "Tout le monde espère",
+      "ipa": "[tulmɔ̃d ɛspɛʁ]",
+      "ear": "图勒蒙德 艾斯佩赫",
+      "meaning": "每个人都怀着希望。",
+      "sourceLineId": "mozart-timed-724-1",
+      "suppliedText": "Tout le monde espère Nous avons le choix d'un monde à refaire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6759,
+        "anchorEnd": 6765.74,
+        "sourceLineNumber": 724,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6761.344,
+      "sourceText": "Nous avons le choix d'un monde à refaire",
+      "ipa": "[nuz‿avɔ̃ lə ʃwa dœ̃ mɔ̃d‿a ʁəfɛʁ]",
+      "ear": "努兹 阿翁 勒 什乌阿 丹 蒙德 阿 赫费赫",
+      "meaning": "我们可以选择，重新创造这个世界。",
+      "sourceLineId": "mozart-timed-724-2",
+      "suppliedText": "Tout le monde espère Nous avons le choix d'un monde à refaire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6759,
+        "anchorEnd": 6765.74,
+        "sourceLineNumber": 724,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6768,
+      "sourceText": "Tout le monde y pense, tout le monde y croit",
+      "ipa": "[tulmɔ̃d i pɑ̃s tulmɔ̃d i kʁwa]",
+      "ear": "图勒蒙德 伊 庞斯 图勒蒙德 伊 克赫乌阿",
+      "meaning": "每个人都想着，每个人都相信。",
+      "sourceLineId": "mozart-timed-725-1",
+      "suppliedText": "Tout le monde y pense, tout le monde y croit Tout le monde espère",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6768,
+        "anchorEnd": 6773.95,
+        "sourceLineNumber": 725,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6771.967,
+      "sourceText": "Tout le monde espère",
+      "ipa": "[tulmɔ̃d ɛspɛʁ]",
+      "ear": "图勒蒙德 艾斯佩赫",
+      "meaning": "每个人都怀着希望。",
+      "sourceLineId": "mozart-timed-725-2",
+      "suppliedText": "Tout le monde y pense, tout le monde y croit Tout le monde espère",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6768,
+        "anchorEnd": 6773.95,
+        "sourceLineNumber": 725,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6774,
+      "sourceText": "Nous avons le choix d'un monde à refaire",
+      "ipa": "[nuz‿avɔ̃ lə ʃwa dœ̃ mɔ̃d‿a ʁəfɛʁ]",
+      "ear": "努兹 阿翁 勒 什乌阿 丹 蒙德 阿 赫费赫",
+      "meaning": "我们可以选择，重新创造这个世界。",
+      "sourceLineId": "mozart-timed-726-1",
+      "suppliedText": "Nous avons le choix d'un monde à refaire Debout",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6774,
+        "anchorEnd": 6783,
+        "sourceLineNumber": 726,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6781.5,
+      "sourceText": "Debout",
+      "ipa": "[dəbu]",
+      "ear": "德布",
+      "meaning": "站起来。",
+      "sourceLineId": "mozart-timed-726-2",
+      "suppliedText": "Nous avons le choix d'un monde à refaire Debout",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6774,
+        "anchorEnd": 6783,
+        "sourceLineNumber": 726,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6783,
+      "sourceText": "Les fous",
+      "ipa": "[le fu]",
+      "ear": "莱 富",
+      "meaning": "那些疯子。",
+      "sourceLineId": "mozart-timed-727-1",
+      "suppliedText": "Les fous",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6783,
+        "anchorEnd": 6787.86,
+        "sourceLineNumber": 727,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6891,
+      "sourceText": "Tatoue-moi sur tes seins",
+      "ipa": "[tatumwa syʁ te sɛ̃]",
+      "ear": "塔图姆乌阿 西于赫 特 森",
+      "meaning": "把我纹在你的胸前。",
+      "sourceLineId": "mozart-timed-728-1",
+      "suppliedText": "Tatoue-moi sur tes seins Fais-le du bout de mes lèvres Mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6891,
+        "anchorEnd": 6899,
+        "sourceLineNumber": 728,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6894.478,
+      "sourceText": "Fais-le du bout de mes lèvres",
+      "ipa": "[fɛlə dy bu də me lɛvʁ]",
+      "ear": "费勒 迪于 布 德 梅 莱弗赫",
+      "meaning": "用我的唇尖来完成。",
+      "sourceLineId": "mozart-timed-728-2",
+      "suppliedText": "Tatoue-moi sur tes seins Fais-le du bout de mes lèvres Mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6891,
+        "anchorEnd": 6899,
+        "sourceLineNumber": 728,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6897.957,
+      "sourceText": "Mes lèvres",
+      "ipa": "[me lɛvʁ]",
+      "ear": "梅 莱弗赫",
+      "meaning": "我的嘴唇",
+      "sourceLineId": "mozart-timed-728-3",
+      "suppliedText": "Tatoue-moi sur tes seins Fais-le du bout de mes lèvres Mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6891,
+        "anchorEnd": 6899,
+        "sourceLineNumber": 728,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6899,
+      "sourceText": "Je baiserai tes mains",
+      "ipa": "[ʒə bɛzʁe te mɛ̃]",
+      "ear": "热 贝兹赫 特 曼",
+      "meaning": "我会亲吻你的双手。",
+      "sourceLineId": "mozart-timed-729-1",
+      "suppliedText": "Je baiserai tes mains Je ferai que ça te plaise Te plaise",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6899,
+        "anchorEnd": 6907,
+        "sourceLineNumber": 729,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6902.0,
+      "sourceText": "Je ferai que ça te plaise",
+      "ipa": "[ʒə fəʁe kə sa tə plɛz]",
+      "ear": "热 弗赫 克 萨 特 普莱兹",
+      "meaning": "我会让你喜欢。",
+      "sourceLineId": "mozart-timed-729-2",
+      "suppliedText": "Je baiserai tes mains Je ferai que ça te plaise Te plaise",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6899,
+        "anchorEnd": 6907,
+        "sourceLineNumber": 729,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6905.667,
+      "sourceText": "Te plaise",
+      "ipa": "[tə plɛz]",
+      "ear": "特 普莱兹",
+      "meaning": "让你喜欢。",
+      "sourceLineId": "mozart-timed-729-3",
+      "suppliedText": "Je baiserai tes mains Je ferai que ça te plaise Te plaise",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6899,
+        "anchorEnd": 6907,
+        "sourceLineNumber": 729,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6907,
+      "sourceText": "Tatoue-moi sur tes murs",
+      "ipa": "[tatumwa syʁ te myʁ]",
+      "ear": "塔图姆乌阿 西于赫 特 米于赫",
+      "meaning": "把我纹身在你的墙上",
+      "sourceLineId": "mozart-timed-730-1",
+      "suppliedText": "Tatoue-moi sur tes murs Un futur à composer Je veux graver toutes mes blessures",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6907,
+        "anchorEnd": 6918,
+        "sourceLineNumber": 730,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6910.536,
+      "sourceText": "Un futur à composer",
+      "ipa": "[œ̃ fytyʁ‿a kɔ̃poze]",
+      "ear": "恩 菲于蒂于赫 阿 孔波泽",
+      "meaning": "一个等待谱写的未来。",
+      "sourceLineId": "mozart-timed-730-2",
+      "suppliedText": "Tatoue-moi sur tes murs Un futur à composer Je veux graver toutes mes blessures",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6907,
+        "anchorEnd": 6918,
+        "sourceLineNumber": 730,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6913.286,
+      "sourceText": "Je veux graver toutes mes blessures",
+      "ipa": "[ʒə vø ɡʁave tut me blɛsyʁ]",
+      "ear": "热 弗厄 格哈韦 图特 梅 布莱西于赫",
+      "meaning": "我要把所有伤痕刻下。",
+      "sourceLineId": "mozart-timed-730-3",
+      "suppliedText": "Tatoue-moi sur tes murs Un futur à composer Je veux graver toutes mes blessures",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6907,
+        "anchorEnd": 6918,
+        "sourceLineNumber": 730,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6918,
+      "sourceText": "Sur tes dorures",
+      "ipa": "[syʁ te doʁyʁ]",
+      "ear": "西于赫 特 多许赫",
+      "meaning": "刻在你的金色装饰上。",
+      "sourceLineId": "mozart-timed-731-1",
+      "suppliedText": "Sur tes dorures Tatoue-moi sur tes seins",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6918,
+        "anchorEnd": 6925,
+        "sourceLineNumber": 731,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6920.333,
+      "sourceText": "Tatoue-moi sur tes seins",
+      "ipa": "[tatumwa syʁ te sɛ̃]",
+      "ear": "塔图姆乌阿 西于赫 特 森",
+      "meaning": "把我纹在你的胸前。",
+      "sourceLineId": "mozart-timed-731-2",
+      "suppliedText": "Sur tes dorures Tatoue-moi sur tes seins",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6918,
+        "anchorEnd": 6925,
+        "sourceLineNumber": 731,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6925,
+      "sourceText": "Fais-le du bout de mes lèvres",
+      "ipa": "[fɛlə dy bu də me lɛvʁ]",
+      "ear": "费勒 迪于 布 德 梅 莱弗赫",
+      "meaning": "用我的唇尖来完成。",
+      "sourceLineId": "mozart-timed-732-1",
+      "suppliedText": "Fais-le du bout de mes lèvres Mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6925,
+        "anchorEnd": 6931,
+        "sourceLineNumber": 732,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6929.615,
+      "sourceText": "Mes lèvres",
+      "ipa": "[me lɛvʁ]",
+      "ear": "梅 莱弗赫",
+      "meaning": "我的嘴唇",
+      "sourceLineId": "mozart-timed-732-2",
+      "suppliedText": "Fais-le du bout de mes lèvres Mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6925,
+        "anchorEnd": 6931,
+        "sourceLineNumber": 732,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6931,
+      "sourceText": "Je baiserai tes mains, je ferai que ça te plaise",
+      "ipa": "[ʒə bɛzʁe te mɛ̃ ʒə fəʁe kə sa tə plɛz]",
+      "ear": "热 贝兹赫 特 曼 热 弗赫 克 萨 特 普莱兹",
+      "meaning": "我会亲吻你的双手，让你喜欢。",
+      "sourceLineId": "mozart-timed-733-1",
+      "suppliedText": "Je baiserai tes mains, je ferai que ça te plaise Te plaise, du bout de mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6931,
+        "anchorEnd": 6938.97,
+        "sourceLineNumber": 733,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6936.142,
+      "sourceText": "Te plaise, du bout de mes lèvres",
+      "ipa": "[tə plɛz dy bu də me lɛvʁ]",
+      "ear": "特 普莱兹 迪于 布 德 梅 莱弗赫",
+      "meaning": "用我的唇，让你喜欢。",
+      "sourceLineId": "mozart-timed-733-2",
+      "suppliedText": "Je baiserai tes mains, je ferai que ça te plaise Te plaise, du bout de mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6931,
+        "anchorEnd": 6938.97,
+        "sourceLineNumber": 733,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6939,
+      "sourceText": "Tatoue-moi sur tes murs, un futur à composer",
+      "ipa": "[tatumwa syʁ te myʁ œ̃ fytyʁ‿a kɔ̃poze]",
+      "ear": "塔图姆乌阿 西于赫 特 米于赫 恩 菲于蒂于赫 阿 孔波泽",
+      "meaning": "把我纹在你的墙上，未来由我们谱写。",
+      "sourceLineId": "mozart-timed-734-1",
+      "suppliedText": "Tatoue-moi sur tes murs, un futur à composer Je veux graver toutes mes blessures",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6939,
+        "anchorEnd": 6949,
+        "sourceLineNumber": 734,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6944.714,
+      "sourceText": "Je veux graver toutes mes blessures",
+      "ipa": "[ʒə vø ɡʁave tut me blɛsyʁ]",
+      "ear": "热 弗厄 格哈韦 图特 梅 布莱西于赫",
+      "meaning": "我要把所有伤痕刻下。",
+      "sourceLineId": "mozart-timed-734-2",
+      "suppliedText": "Tatoue-moi sur tes murs, un futur à composer Je veux graver toutes mes blessures",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6939,
+        "anchorEnd": 6949,
+        "sourceLineNumber": 734,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6949,
+      "sourceText": "Sur tes dorures",
+      "ipa": "[syʁ te doʁyʁ]",
+      "ear": "西于赫 特 多许赫",
+      "meaning": "刻在你的金色装饰上。",
+      "sourceLineId": "mozart-timed-735-1",
+      "suppliedText": "Sur tes dorures Tatoue-moi sur tes seins Fais-le du bout de mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6949,
+        "anchorEnd": 6959,
+        "sourceLineNumber": 735,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6951.0,
+      "sourceText": "Tatoue-moi sur tes seins",
+      "ipa": "[tatumwa syʁ te sɛ̃]",
+      "ear": "塔图姆乌阿 西于赫 特 森",
+      "meaning": "把我纹在你的胸前。",
+      "sourceLineId": "mozart-timed-735-2",
+      "suppliedText": "Sur tes dorures Tatoue-moi sur tes seins Fais-le du bout de mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6949,
+        "anchorEnd": 6959,
+        "sourceLineNumber": 735,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6955.0,
+      "sourceText": "Fais-le du bout de mes lèvres",
+      "ipa": "[fɛlə dy bu də me lɛvʁ]",
+      "ear": "费勒 迪于 布 德 梅 莱弗赫",
+      "meaning": "用我的唇尖来完成。",
+      "sourceLineId": "mozart-timed-735-3",
+      "suppliedText": "Sur tes dorures Tatoue-moi sur tes seins Fais-le du bout de mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6949,
+        "anchorEnd": 6959,
+        "sourceLineNumber": 735,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6959,
+      "sourceText": "Mes lèvres",
+      "ipa": "[me lɛvʁ]",
+      "ear": "梅 莱弗赫",
+      "meaning": "我的嘴唇",
+      "sourceLineId": "mozart-timed-736-1",
+      "suppliedText": "Mes lèvres Je baiserai tes mains, je ferai que ça te plaise",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6959,
+        "anchorEnd": 6967,
+        "sourceLineNumber": 736,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6960.043,
+      "sourceText": "Je baiserai tes mains, je ferai que ça te plaise",
+      "ipa": "[ʒə bɛzʁe te mɛ̃ ʒə fəʁe kə sa tə plɛz]",
+      "ear": "热 贝兹赫 特 曼 热 弗赫 克 萨 特 普莱兹",
+      "meaning": "我会亲吻你的双手，让你喜欢。",
+      "sourceLineId": "mozart-timed-736-2",
+      "suppliedText": "Mes lèvres Je baiserai tes mains, je ferai que ça te plaise",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6959,
+        "anchorEnd": 6967,
+        "sourceLineNumber": 736,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6967,
+      "sourceText": "Du bout de mes lèvres",
+      "ipa": "[dy bu də me lɛvʁ]",
+      "ear": "迪于 布 德 梅 莱弗赫",
+      "meaning": "用我的唇尖。",
+      "sourceLineId": "mozart-timed-737-1",
+      "suppliedText": "Du bout de mes lèvres Tatoue-moi sur tes murs Un futur à composer",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6967,
+        "anchorEnd": 6975.42,
+        "sourceLineNumber": 737,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6969.563,
+      "sourceText": "Tatoue-moi sur tes murs",
+      "ipa": "[tatumwa syʁ te myʁ]",
+      "ear": "塔图姆乌阿 西于赫 特 米于赫",
+      "meaning": "把我纹身在你的墙上",
+      "sourceLineId": "mozart-timed-737-2",
+      "suppliedText": "Du bout de mes lèvres Tatoue-moi sur tes murs Un futur à composer",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6967,
+        "anchorEnd": 6975.42,
+        "sourceLineNumber": 737,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6972.857,
+      "sourceText": "Un futur à composer",
+      "ipa": "[œ̃ fytyʁ‿a kɔ̃poze]",
+      "ear": "恩 菲于蒂于赫 阿 孔波泽",
+      "meaning": "一个等待谱写的未来。",
+      "sourceLineId": "mozart-timed-737-3",
+      "suppliedText": "Du bout de mes lèvres Tatoue-moi sur tes murs Un futur à composer",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6967,
+        "anchorEnd": 6975.42,
+        "sourceLineNumber": 737,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6977,
+      "sourceText": "Je veux graver toutes mes blessures",
+      "ipa": "[ʒə vø ɡʁave tut me blɛsyʁ]",
+      "ear": "热 弗厄 格哈韦 图特 梅 布莱西于赫",
+      "meaning": "我要把所有伤痕刻下。",
+      "sourceLineId": "mozart-timed-738-1",
+      "suppliedText": "Je veux graver toutes mes blessures Sur tes dorures",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6977,
+        "anchorEnd": 6982.42,
+        "sourceLineNumber": 738,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6980.826,
+      "sourceText": "Sur tes dorures",
+      "ipa": "[syʁ te doʁyʁ]",
+      "ear": "西于赫 特 多许赫",
+      "meaning": "刻在你的金色装饰上。",
+      "sourceLineId": "mozart-timed-738-2",
+      "suppliedText": "Je veux graver toutes mes blessures Sur tes dorures",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6977,
+        "anchorEnd": 6982.42,
+        "sourceLineNumber": 738,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7001,
+      "sourceText": "We love you!",
+      "ipa": "[wi lʌv ju]",
+      "ear": "威 拉弗 优",
+      "meaning": "我们爱你们！",
+      "sourceLineId": "mozart-timed-739-1",
+      "suppliedText": "We love you!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7001,
+        "anchorEnd": 7002.42,
+        "sourceLineNumber": 739,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

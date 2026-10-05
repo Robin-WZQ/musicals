@@ -1,15 +1,15 @@
 {
   "videoId": "5MoPwWau5kw",
   "playbackVideoId": "5MoPwWau5kw",
-  "version": 1,
+  "version": 2,
   "textSource": "user-supplied-auto-transcript",
   "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "textReviewStatus": "spelling-and-grammar-edits",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
   "meaningSource": "editorial-chinese-from-user-transcript",
   "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
   "sources": [
     {
       "label": "本段原唱录像",
@@ -18,11 +18,11 @@
   ],
   "entries": [
     {
-      "sourceText": "C'est vrai j'ai des problèmes des défauts par centaines je n'ai pas le sens de vos valeur humaine moi je suis comme la vie je fais jamais de cadeau je",
+      "sourceText": "C'est vrai, j'ai des problèmes, des défauts par centaines. Je n'ai pas le sens de vos valeurs humaines. Moi, je suis comme la vie, j'fais jamais de cadeau. Je",
       "start": 10,
-      "ipa": "[sɛ vʁɛ ʒe de pʁɔblɛm de defo paʁ sɑ̃tɛn ʒə ne pa lə sɑ̃s də vo valœʁ‿ymɛn mwa ʒə sɥi kɔm la vi ʒə fɛ ʒamɛ də kado ʒə]",
-      "ear": "塞 弗赫 热 德 普霍布莱姆 德 德佛 帕赫 桑泰恩 热 内 帕 勒 桑斯 德 沃 瓦勒厄赫 于梅恩 姆乌阿 热 斯于伊 科姆 拉 维 热 费 扎梅 德 卡多 热",
-      "meaning": "是的，我有许多问题，成百上千的缺点，不懂你们那些人性的价值。我像生活一样，从不白送什么……",
+      "ipa": "[sɛ vʁɛ ʒe de pʁɔblɛm de defo paʁ sɑ̃tɛn ʒə ne pa lə sɑ̃s də vo valœʁ‿ymɛn mwa ʒə sɥi kɔm la vi ʒfɛ ʒamɛ də kado ʒə]",
+      "ear": "塞 弗赫 热 德 普霍布莱姆 德 德佛 帕赫 桑泰恩 热 内 帕 勒 桑斯 德 沃 瓦勒厄赫 于梅恩 姆乌阿 热 斯于伊 科姆 拉 维 日费 扎梅 德 卡多 热",
+      "meaning": "没错，我有问题，有成百上千的缺点。我不懂你们的人性价值。我和生活一样，从不白白给予。我",
       "suppliedText": "c'est vrai j'ai des problèmes des défauts par centaines je n'ai pas le sens de vos valeur humaine moi je suis comme la vie je fais jamais de cadeau je",
       "sourceLineId": "moliere-timed-323",
       "reviewNote": "",
@@ -34,11 +34,11 @@
       }
     },
     {
-      "sourceText": "Sais que c'est pas joli, mais moi non plus je ne suis pas… Je m'en fiche, on me déteste. Personne jamais ne m'aimera…",
+      "sourceText": "Sais qu'c'est pas joli, mais moi non plus, j'suis pas beau. J'm'en fous si on me déteste. Personne jamais ne m'aimera",
       "start": 20,
-      "ipa": "[sɛ kə sɛ pa ʒoli mɛ mwa nɔ̃ ply ʒə nə sɥi pa ʒə mɑ̃ fiʃ ɔ̃ mə detɛst pɛʁsɔn ʒamɛ nə mɛmʁa]",
-      "ear": "塞 克 塞 帕 若利 梅 姆乌阿 农 普吕 热 讷 斯于伊 帕 热 芒 菲什 翁 默 德泰斯特 佩赫索恩 扎梅 讷 梅姆哈",
-      "meaning": "我知道这不美好，我也不……别人恨我，我不在乎，没有人会比……",
+      "ipa": "[sɛ kə sɛ pa ʒoli mɛ mwa nɔ̃ ply ʒsɥi pa bo ʒə mɑ̃ fu si ɔ̃ mə detɛst pɛʁsɔn ʒamɛ nə mɛmʁa]",
+      "ear": "塞 克 塞 帕 若利 梅 姆乌阿 农 普吕 日斯于伊 帕 博 热 芒 富 西 翁 默 德泰斯特 佩赫索恩 扎梅 讷 梅姆哈",
+      "meaning": "知道这并不好看，可我也不美。我不在乎别人讨厌我。不会有人爱我",
       "suppliedText": "sais que c'est pas joli mais moi non plus je suis pas pour je m'f on me déteste personne jamais ne m'aimera",
       "sourceLineId": "moliere-timed-324",
       "reviewNote": "",
@@ -50,14 +50,14 @@
       }
     },
     {
-      "sourceText": "Moins que moi t dé jeux la testa mais il me reste ce que vous voyez pas",
+      "sourceText": "Moins que moi, non. J'ai tout raté, je l'atteste, mais il me reste ce que vous ne voyez pas.",
       "start": 27,
-      "ipa": "[mwɛ̃ kə mwa te de ʒø la tɛsta mɛ il mə ʁɛst sə kə vu vwaje pa]",
-      "ear": "姆乌安 克 姆乌阿 特 德 热厄 拉 泰斯塔 梅 伊勒 默 赫斯特 瑟 克 乌 弗乌阿耶诶 帕",
-      "meaning": "我更不爱我自己。……可我还拥有你们看不见的东西。（部分识别不清）",
+      "ipa": "[mwɛ̃ kə mwa nɔ̃ ʒe tu ʁate ʒə latɛst mɛ il mə ʁɛst sə kə vu nə vwaje pa]",
+      "ear": "姆乌安 克 姆乌阿 农 热 图 哈特 热 拉泰斯特 梅 伊勒 默 赫斯特 瑟 克 乌 讷 弗乌阿耶诶 帕",
+      "meaning": "比我自己更少。我承认，我把一切都搞砸了，可我还保有你们看不见的东西。",
       "suppliedText": "moins que moi t dé jeux la testa mais il me reste ce que vous voyez pas",
       "sourceLineId": "moliere-timed-325",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 27,
@@ -66,11 +66,11 @@
       }
     },
     {
-      "sourceText": "Regardez-moi, ne vous détournez pas. L'indifférence a le regard…",
+      "sourceText": "Regardez-moi, ne vous détournez pas. L'indifférence a le regard",
       "start": 36,
       "ipa": "[ʁəɡaʁdemwa nə vu detuʁne pa lɛ̃difeʁɑ̃s‿a lə ʁəɡaʁ]",
       "ear": "赫嘎赫德姆乌阿 讷 乌 德图赫内 帕 兰迪费杭斯 阿 勒 赫嘎赫",
-      "meaning": "看看我，不要移开目光，冷漠有一种……",
+      "meaning": "看看我，别转过身去。冷漠有一种目光，",
       "suppliedText": "regardez-moi ne vous détournez pas l'indifférence à le regard",
       "sourceLineId": "moliere-timed-326",
       "reviewNote": "",
@@ -82,14 +82,14 @@
       }
     },
     {
-      "sourceText": "Qui tue… Regardez-moi, oui, mais…",
+      "sourceText": "Qui tue, à la larme et la manière. Regardez-moi, oui, mais",
       "start": 42,
-      "ipa": "[ki ty ʁəɡaʁdemwa wi mɛ]",
-      "ear": "基 蒂于 赫嘎赫德姆乌阿 乌伊 梅",
-      "meaning": "致命的眼神……看看我，可……（部分识别不清）",
+      "ipa": "[ki ty a la laʁm e la manjɛʁ ʁəɡaʁdemwa wi mɛ]",
+      "ear": "基 蒂于 阿 拉 拉赫姆 诶 拉 玛恩耶艾赫 赫嘎赫德姆乌阿 乌伊 梅",
+      "meaning": "足以致命，连同眼泪与方式。看看我，是的，但请",
       "suppliedText": "qui tu es l'alarme et la manière à regardez-moi oui mais",
       "sourceLineId": "moliere-timed-327",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 42,
@@ -98,11 +98,11 @@
       }
     },
     {
-      "sourceText": "Déshabillez-moi… Mon âme… la lumière. Je suis votre mauvais côté, tout…",
+      "sourceText": "Déshabillez-moi. Dévêtue, mon âme s'évertue à retrouver la lumière. J'suis votre mauvais côté, tout",
       "start": 51,
-      "ipa": "[dezabijemwa mɔ̃n‿am la lymjɛʁ ʒə sɥi votʁ movɛ kote tu]",
-      "ear": "德扎比耶诶姆乌阿 蒙恩 阿姆 拉 吕姆耶艾赫 热 斯于伊 沃特赫 莫韦 科特 图",
-      "meaning": "剥去我的伪装……我的灵魂……光明。我是你们阴暗的一面，是你们……",
+      "ipa": "[dezabijemwa devɛty mɔ̃n‿am sevɛʁty a ʁətʁuve la lymjɛʁ ʒsɥi votʁ movɛ kote tu]",
+      "ear": "德扎比耶诶姆乌阿 德韦蒂于 蒙恩 阿姆 塞韦赫蒂于 阿 赫特胡韦 拉 吕姆耶艾赫 日斯于伊 沃特赫 莫韦 科特 图",
+      "meaning": "褪去我的外衣。赤裸的灵魂努力寻找光明。我是你们阴暗的一面，是一切",
       "suppliedText": "dapz-moi tes vêtu mon âme ses vertue àou la lumière jeis votre mauvais côté tout",
       "sourceLineId": "moliere-timed-329",
       "reviewNote": "",
@@ -114,11 +114,11 @@
       }
     },
     {
-      "sourceText": "Ce que vous n'osez pas. J'ai perdu ma bonté, mais je ne suis pas né comme ça. Tout ce que je fais, c'est moche, mais le monde est plus laid que moi. Faut que je vide…",
+      "sourceText": "Ce que vous n'osez pas. J'ai perdu ma bonté, mais je suis pas né comme ça. Tout ce que j'fais, c'est moche, mais le monde est plus laid que moi. Faut que je vide",
       "start": 60,
-      "ipa": "[sə kə vu noze pa ʒe pɛʁdy ma bɔ̃te mɛ ʒə nə sɥi pa ne kɔm sa tu sə kə ʒə fɛ sɛ mɔʃ mɛ lə mɔ̃d‿ɛ ply lɛd kə mwa fo kə ʒə vid]",
-      "ear": "瑟 克 乌 诺泽 帕 热 佩赫迪于 玛 崩特 梅 热 讷 斯于伊 帕 内 科姆 萨 图 瑟 克 热 费 塞 莫什 梅 勒 蒙德 艾 普吕 莱德 克 姆乌阿 佛 克 热 维德",
-      "meaning": "不敢做的一切。我丢了善意，却并非生来如此。我所做的丑陋，可世界比我更丑陋。我得掏空……",
+      "ipa": "[sə kə vu noze pa ʒe pɛʁdy ma bɔ̃te mɛ ʒə sɥi pa ne kɔm sa tu sə kə ʒfɛ sɛ mɔʃ mɛ lə mɔ̃d‿ɛ ply lɛd kə mwa fo kə ʒə vid]",
+      "ear": "瑟 克 乌 诺泽 帕 热 佩赫迪于 玛 崩特 梅 热 斯于伊 帕 内 科姆 萨 图 瑟 克 日费 塞 莫什 梅 勒 蒙德 艾 普吕 莱德 克 姆乌阿 佛 克 热 维德",
+      "meaning": "你们不敢做的事。我失去了善良，可我并非生来如此。我做的一切很丑陋，可世界比我更丑。我得掏空",
       "suppliedText": "ce que vous n'osez pas j'ai perdu ma bonté mais je suis pas né comme ça tout ce que je fais c'est moche mais le monde est plus lait que moi faut que je vis",
       "sourceLineId": "moliere-timed-330",
       "reviewNote": "",
@@ -130,14 +130,14 @@
       }
     },
     {
-      "sourceText": "Mes poches pour racheter mes faux pas par ex j'emp faut pas la peine moi la peine je la porte déjà les démons qui me",
+      "sourceText": "Mes poches pour racheter mes faux pas. Paraît qu'j'en vaux pas la peine ; moi, la peine, je la porte déjà. Les démons qui me",
       "start": 68,
-      "ipa": "[me poʃ puʁ ʁaʃte me fo pa paʁ‿ɛks ʒɑ̃p fo pa la pɛn mwa la pɛn ʒə la pɔʁt deʒa le demɔ̃ ki mə]",
-      "ear": "梅 波什 普赫 哈什特 梅 佛 帕 帕赫 艾克斯 让普 佛 帕 拉 佩恩 姆乌阿 拉 佩恩 热 拉 珀赫特 德扎 莱 德蒙 基 默",
-      "meaning": "口袋来弥补过错……痛苦我已经背负着，那些折磨我的恶魔……（部分识别不清）",
+      "ipa": "[me poʃ puʁ ʁaʃte me fo pa paʁɛ kə ʒɑ̃ vo pa la pɛn mwa la pɛn ʒə la pɔʁt deʒa le demɔ̃ ki mə]",
+      "ear": "梅 波什 普赫 哈什特 梅 佛 帕 帕赫 克 让 沃 帕 拉 佩恩 姆乌阿 拉 佩恩 热 拉 珀赫特 德扎 莱 德蒙 基 默",
+      "meaning": "口袋，赎回自己的过错。听说我不值得，可我早已承受着痛苦。那些折磨我的恶魔",
       "suppliedText": "mes poches pour racheter mes faux pas par ex j'emp faut pas la peine moi la peine je la porte déjà les démons qui me",
       "sourceLineId": "moliere-timed-331",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 68,
@@ -146,11 +146,11 @@
       }
     },
     {
-      "sourceText": "Malmènent qui me ramènent à ce que je ne veux pas regardez-moi ne vous",
+      "sourceText": "Malmènent me ramènent à ce que je ne veux pas. Regardez-moi, ne vous",
       "start": 77,
-      "ipa": "[malmɛn ki mə ʁamɛn‿a sə kə ʒə nə vø pa ʁəɡaʁdemwa nə vu]",
-      "ear": "玛勒梅恩 基 默 哈梅恩 阿 瑟 克 热 讷 弗厄 帕 赫嘎赫德姆乌阿 讷 乌",
-      "meaning": "把我拉回不愿面对的地方。看看我，不要……",
+      "ipa": "[malmɛn mə ʁamɛn‿a sə kə ʒə nə vø pa ʁəɡaʁdemwa nə vu]",
+      "ear": "玛勒梅恩 默 哈梅恩 阿 瑟 克 热 讷 弗厄 帕 赫嘎赫德姆乌阿 讷 乌",
+      "meaning": "把我带回不愿面对的地方。看看我，别",
       "suppliedText": "malmènent qui me ramènent à ce que je ne veux pas regardez-moi ne vous",
       "sourceLineId": "moliere-timed-332",
       "reviewNote": "",
@@ -162,11 +162,11 @@
       }
     },
     {
-      "sourceText": "Détournez pas. L'indifférence a le regard qui tue…",
+      "sourceText": "Détournez pas. L'indifférence a le regard qui tue, à la larme et la",
       "start": 85,
-      "ipa": "[detuʁne pa lɛ̃difeʁɑ̃s‿a lə ʁəɡaʁ ki ty]",
-      "ear": "德图赫内 帕 兰迪费杭斯 阿 勒 赫嘎赫 基 蒂于",
-      "meaning": "移开目光。冷漠有致命的眼神……",
+      "ipa": "[detuʁne pa lɛ̃difeʁɑ̃s‿a lə ʁəɡaʁ ki ty a la laʁm e la]",
+      "ear": "德图赫内 帕 兰迪费杭斯 阿 勒 赫嘎赫 基 蒂于 阿 拉 拉赫姆 诶 拉",
+      "meaning": "转过身去。冷漠的目光足以致命，连同眼泪与",
       "suppliedText": "détournez pas l'indifférence à le regard qui et tu es l'alarme et la",
       "sourceLineId": "moliere-timed-333",
       "reviewNote": "",
@@ -178,11 +178,11 @@
       }
     },
     {
-      "sourceText": "… Regardez-moi, oui, mais… Mon âme… à retrouver…",
+      "sourceText": "Manière. Regardez-moi, oui, mais déshabillez-moi. Dévêtue, mon âme s'évertue à retrouver",
       "start": 92,
-      "ipa": "[ʁəɡaʁdemwa wi mɛ mɔ̃n‿am a ʁətʁuve]",
-      "ear": "赫嘎赫德姆乌阿 乌伊 梅 蒙恩 阿姆 阿 赫特胡韦",
-      "meaning": "……看看我，可……我的灵魂……重新寻找……",
+      "ipa": "[manjɛʁ ʁəɡaʁdemwa wi mɛ dezabijemwa devɛty mɔ̃n‿am sevɛʁty a ʁətʁuve]",
+      "ear": "玛恩耶艾赫 赫嘎赫德姆乌阿 乌伊 梅 德扎比耶诶姆乌阿 德韦蒂于 蒙恩 阿姆 塞韦赫蒂于 阿 赫特胡韦",
+      "meaning": "方式。看看我，但请褪去我的外衣。赤裸的灵魂努力找回",
       "suppliedText": "manière regardez-moi oui mais çai tu vêtu mon âme s vertu à retrouveré",
       "sourceLineId": "moliere-timed-334",
       "reviewNote": "",
@@ -194,14 +194,14 @@
       }
     },
     {
-      "sourceText": "Ta lumière tout ce folie c'est notre dernière danse on est finie de C nuit",
+      "sourceText": "La lumière. Douce folie, c'est notre dernière danse. C'en est fini de ces nuits",
       "start": 103,
-      "ipa": "[ta lymjɛʁ tu sə foli sɛ notʁ dɛʁnjɛʁ dɑ̃s‿ɔ̃n‿ɛ fini də se nɥi]",
-      "ear": "塔 吕姆耶艾赫 图 瑟 佛利 塞 诺特赫 戴赫恩耶艾赫 当斯 翁恩 艾 菲尼 德 塞 恩于伊",
-      "meaning": "你的光……疯狂，这是我们最后一支舞。这一夜……（部分识别不清）",
+      "ipa": "[la lymjɛʁ dus foli sɛ notʁ dɛʁnjɛʁ dɑ̃s sɑ̃ ɛ fini də se nɥi]",
+      "ear": "拉 吕姆耶艾赫 杜斯 佛利 塞 诺特赫 戴赫恩耶艾赫 当斯 桑 艾 菲尼 德 塞 恩于伊",
+      "meaning": "光明。温柔的疯狂，这是我们最后一支舞。那些夜晚已经结束，那些",
       "suppliedText": "ta lumière tout ce folie c'est notre dernière danse on est finie de C nuit",
       "sourceLineId": "moliere-timed-335",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 103,
@@ -210,11 +210,11 @@
       }
     },
     {
-      "sourceText": "… Car aujourd'hui je tire ma révérence. Je n'ai plus besoin de toi, toi…",
+      "sourceText": "D'indécence, car aujourd'hui, je tire ma révérence. J'n'ai plus besoin de toi. Toi,",
       "start": 110,
-      "ipa": "[kaʁ‿oʒuʁdɥi ʒə tiʁ ma ʁeveʁɑ̃s ʒə ne ply bəzwɛ̃ də twa twa]",
-      "ear": "卡赫 奥茹赫德于伊 热 蒂赫 玛 赫韦杭斯 热 内 普吕 伯兹乌安 德 特乌阿 特乌阿",
-      "meaning": "……今天我要告别，再也不需要你，不需要……",
+      "ipa": "[dɛ̃desɑ̃s kaʁ‿oʒuʁdɥi ʒə tiʁ ma ʁeveʁɑ̃s ʒə ne ply bəzwɛ̃ də twa twa]",
+      "ear": "丹德桑斯 卡赫 奥茹赫德于伊 热 蒂赫 玛 赫韦杭斯 热 内 普吕 伯兹乌安 德 特乌阿 特乌阿",
+      "meaning": "放纵的夜晚，因为今天我要退场。我不再需要你。你，",
       "suppliedText": "d'ind desence car aujourd'hui je tire ma révérence je n'ai plus besoin de toi toi",
       "sourceLineId": "moliere-timed-336",
       "reviewNote": "",
@@ -226,11 +226,11 @@
       }
     },
     {
-      "sourceText": "Ma folie rends-moi mon innocence moi l'envie et de ma vie le sens tu m'as promis un jour ma délivrant je n'ai plus",
+      "sourceText": "Ma folie, rends-moi mon innocence, rends-moi l'envie, et de ma vie le sens. Tu m'as promis un jour ma délivrance. Je n'ai plus",
       "start": 117,
-      "ipa": "[ma foli ʁɑ̃mwa mɔ̃n‿inosɑ̃s mwa lɑ̃vi e də ma vi lə sɑ̃s ty ma pʁomi œ̃ ʒuʁ ma delivʁɑ̃ ʒə ne ply]",
-      "ear": "玛 佛利 杭姆乌阿 蒙恩 伊诺桑斯 姆乌阿 朗维 诶 德 玛 维 勒 桑斯 蒂于 玛 普霍米 恩 茹赫 玛 德利弗杭 热 内 普吕",
-      "meaning": "我的疯狂。把天真、欲望和人生的意义还给我。你曾许诺解脱，如今我不再……",
+      "ipa": "[ma foli ʁɑ̃mwa mɔ̃n‿inosɑ̃s ʁɑ̃mwa lɑ̃vi e də ma vi lə sɑ̃s ty ma pʁomi œ̃ ʒuʁ ma delivʁɑ̃s ʒə ne ply]",
+      "ear": "玛 佛利 杭姆乌阿 蒙恩 伊诺桑斯 杭姆乌阿 朗维 诶 德 玛 维 勒 桑斯 蒂于 玛 普霍米 恩 茹赫 玛 德利弗杭斯 热 内 普吕",
+      "meaning": "我的疯狂，还我纯真，还我渴望，还我人生的意义。你曾许诺终有一天让我解脱。我不再",
       "suppliedText": "ma folie rends-moi mon innocence moi l'envie et de ma vie le sens tu m'as promis un jour ma délivrant je n'ai plus",
       "sourceLineId": "moliere-timed-337",
       "reviewNote": "",
@@ -242,11 +242,11 @@
       }
     },
     {
-      "sourceText": "Besoin de toi regardez-moi non ne vous détournez pas",
+      "sourceText": "Besoin de toi. Regardez-moi, non, ne vous détournez pas.",
       "start": 126,
       "ipa": "[bəzwɛ̃ də twa ʁəɡaʁdemwa nɔ̃ nə vu detuʁne pa]",
       "ear": "伯兹乌安 德 特乌阿 赫嘎赫德姆乌阿 农 讷 乌 德图赫内 帕",
-      "meaning": "需要你。看看我，不要移开目光。",
+      "meaning": "需要你。看看我，不，别转过身去。",
       "suppliedText": "besoin de toi regardez-moi non ne vous détournez pas",
       "sourceLineId": "moliere-timed-338",
       "reviewNote": "",
@@ -258,11 +258,11 @@
       }
     },
     {
-      "sourceText": "L'indifférence a le regard qui tue… Regardez-moi…",
+      "sourceText": "L'indifférence a le regard qui tue, à la larme et la manière. Regardez-moi,",
       "start": 134,
-      "ipa": "[lɛ̃difeʁɑ̃s‿a lə ʁəɡaʁ ki ty ʁəɡaʁdemwa]",
-      "ear": "兰迪费杭斯 阿 勒 赫嘎赫 基 蒂于 赫嘎赫德姆乌阿",
-      "meaning": "冷漠有致命的眼神……看看我……",
+      "ipa": "[lɛ̃difeʁɑ̃s‿a lə ʁəɡaʁ ki ty a la laʁm e la manjɛʁ ʁəɡaʁdemwa]",
+      "ear": "兰迪费杭斯 阿 勒 赫嘎赫 基 蒂于 阿 拉 拉赫姆 诶 拉 玛恩耶艾赫 赫嘎赫德姆乌阿",
+      "meaning": "冷漠的目光足以致命，连同眼泪与方式。看看我，",
       "suppliedText": "l' indifférence à le regard qui tu l'alarme et la manière regardez-moi",
       "sourceLineId": "moliere-timed-339",
       "reviewNote": "",
@@ -274,14 +274,14 @@
       }
     },
     {
-      "sourceText": "Oui, mais… Mon âme… à…",
+      "sourceText": "Oui, mais déshabillez-moi. Dévêtue, mon âme s'évertue à",
       "start": 142,
-      "ipa": "[wi mɛ mɔ̃n‿am a]",
-      "ear": "乌伊 梅 蒙恩 阿姆 阿",
-      "meaning": "可……我的灵魂……（部分识别不清）",
+      "ipa": "[wi mɛ dezabijemwa devɛty mɔ̃n‿am sevɛʁty a]",
+      "ear": "乌伊 梅 德扎比耶诶姆乌阿 德韦蒂于 蒙恩 阿姆 塞韦赫蒂于 阿",
+      "meaning": "是的，但请褪去我的外衣。赤裸的灵魂努力",
       "suppliedText": "oui mais moi t vêtu mon âme ses vert à",
       "sourceLineId": "moliere-timed-340",
-      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "reviewNote": "",
       "timing": {
         "method": "supplied-timestamp",
         "anchorStart": 142,
@@ -294,7 +294,7 @@
       "start": 149,
       "ipa": "[ʁətʁuve la]",
       "ear": "赫特胡韦 拉",
-      "meaning": "重新寻找……",
+      "meaning": "寻找",
       "suppliedText": "retrouver la",
       "sourceLineId": "moliere-timed-341",
       "reviewNote": "",
@@ -306,11 +306,11 @@
       }
     },
     {
-      "sourceText": "Lumière au nom du Père du Fils et du Saint-Esprit nous vous accueillons",
+      "sourceText": "Lumière.",
       "start": 163,
-      "ipa": "[lymjɛʁ‿o nɔ̃ dy pɛʁ dy fis e dy sɛ̃ɛspʁi nu vuz‿akœjɔ̃]",
-      "ear": "吕姆耶艾赫 奥 农 迪于 佩赫 迪于 菲斯 诶 迪于 森艾斯普希 努 乌兹 阿克厄耶翁",
-      "meaning": "光明。奉圣父、圣子、圣灵之名，我们欢迎您……",
+      "ipa": "[lymjɛʁ]",
+      "ear": "吕姆耶艾赫",
+      "meaning": "光明。",
       "suppliedText": "lumière au nom du Père du Fils et du Saint-Esprit nous vous accueillons",
       "sourceLineId": "moliere-timed-342",
       "reviewNote": "",
@@ -322,43 +322,11 @@
       }
     },
     {
-      "sourceText": "Aujourd'hui pour votre profession de foi catholique radicale. J'accepte humblement et de tout cœur la foi catholique…",
-      "start": 170,
-      "ipa": "[oʒuʁdɥi puʁ votʁ pʁofɛsjɔ̃ də fwa katolik ʁadikal ʒaksɛpt‿œ̃bləmɑ̃ e də tu kœʁ la fwa katolik]",
-      "ear": "奥茹赫德于伊 普赫 沃特赫 普霍费斯耶翁 德 弗乌阿 卡托利克 哈迪卡勒 扎克塞普特 恩布勒芒 诶 德 图 克厄赫 拉 弗乌阿 卡托利克",
-      "meaning": "今天宣告坚定的天主教信仰。——我谦卑而诚心地接受……",
-      "suppliedText": "aujourd'hui pour votre profession de foi catholique radical j'accepte humblement et de tout cœur la foi catholique",
-      "sourceLineId": "moliere-timed-343",
-      "reviewNote": "",
-      "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 170,
-        "sourceLineNumber": 343,
-        "precision": "approximate"
-      }
-    },
-    {
-      "sourceText": "Radicale et je m'engage à vivre ma vie en conformité avec les enseignements et les précepts de l'Église",
-      "start": 177,
-      "ipa": "[ʁadikal e ʒə mɑ̃ɡaʒ‿a vivʁ ma vi ɑ̃ kɔ̃fɔʁmite avɛk lez‿ɑ̃sɛɲəmɑ̃ e le pʁesɛpt də leɡliz]",
-      "ear": "哈迪卡勒 诶 热 芒嘎日 阿 维弗赫 玛 维 昂 孔佛赫米特 阿韦克 莱兹 昂塞涅呃芒 诶 莱 普赫塞普特 德 莱格利兹",
-      "meaning": "这一信仰，承诺依照教会的教诲和戒律生活……",
-      "suppliedText": "radicale et je m'engage à vivre ma vie en conformité avec les enseignements et les précepts de l'Église",
-      "sourceLineId": "moliere-timed-344",
-      "reviewNote": "",
-      "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 177,
-        "sourceLineNumber": 344,
-        "precision": "approximate"
-      }
-    },
-    {
-      "sourceText": "Catholique. Regardez-moi, oui, mais déshabillez-moi… Mon âme… à…",
+      "sourceText": "Regardez-moi, oui, mais déshabillez-moi. Dévêtue, mon âme s'évertue à",
       "start": 186,
-      "ipa": "[katolik ʁəɡaʁdemwa wi mɛ dezabijemwa mɔ̃n‿am a]",
-      "ear": "卡托利克 赫嘎赫德姆乌阿 乌伊 梅 德扎比耶诶姆乌阿 蒙恩 阿姆 阿",
-      "meaning": "天主教……看看我，可剥去我的伪装……我的灵魂……",
+      "ipa": "[ʁəɡaʁdemwa wi mɛ dezabijemwa devɛty mɔ̃n‿am sevɛʁty a]",
+      "ear": "赫嘎赫德姆乌阿 乌伊 梅 德扎比耶诶姆乌阿 德韦蒂于 蒙恩 阿姆 塞韦赫蒂于 阿",
+      "meaning": "看看我，但请褪去我的外衣。赤裸的灵魂努力",
       "suppliedText": "catholique regardez-moi oui mais désabz-moi t vêtu mon âme s vertue à",
       "sourceLineId": "moliere-timed-345",
       "reviewNote": "",
@@ -370,11 +338,11 @@
       }
     },
     {
-      "sourceText": "Retrouvé ta lumière",
+      "sourceText": "Retrouver la lumière.",
       "start": 196,
-      "ipa": "[ʁətʁuve ta lymjɛʁ]",
-      "ear": "赫特胡韦 塔 吕姆耶艾赫",
-      "meaning": "重新找到你的光明。",
+      "ipa": "[ʁətʁuve la lymjɛʁ]",
+      "ear": "赫特胡韦 拉 吕姆耶艾赫",
+      "meaning": "找回光明。",
       "suppliedText": "retrouvé ta lumière",
       "sourceLineId": "moliere-timed-346",
       "reviewNote": "",
@@ -385,5 +353,6 @@
         "precision": "approximate"
       }
     }
-  ]
+  ],
+  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
 }

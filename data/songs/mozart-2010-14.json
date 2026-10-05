@@ -10,14 +10,630 @@
   "trackNumber": 14,
   "act": 2,
   "isEncore": false,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
   "isGenerated": false,
-  "lyricsStorage": "external",
-  "cues": [],
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Mais d'où vient l'émotion étrange",
+      "start": 4249,
+      "duration": 2.476
+    },
+    {
+      "text": "Qui me fascine autant qu'elle me dérange",
+      "start": 4251.476,
+      "duration": 3.048
+    },
+    {
+      "text": "Je frissonne poignardé par le beau",
+      "start": 4254.524,
+      "duration": 2.476
+    },
+    {
+      "text": "C'est comme dans l'âme le couteau",
+      "start": 4257,
+      "duration": 2.887
+    },
+    {
+      "text": "La blessure traverse mon coeur",
+      "start": 4259.887,
+      "duration": 2.646
+    },
+    {
+      "text": "Et j'ai la joie dans la douleur",
+      "start": 4262.533,
+      "duration": 3.127
+    },
+    {
+      "text": "Je m'enivre de ce poison",
+      "start": 4266,
+      "duration": 2.375
+    },
+    {
+      "text": "À en perdre la raison",
+      "start": 4268.375,
+      "duration": 2.11
+    },
+    {
+      "text": "C'est le bien qui fait mal",
+      "start": 4270.485,
+      "duration": 2.375
+    },
+    {
+      "text": "Quand tu aimes tout à fait normal",
+      "start": 4274,
+      "duration": 2.853
+    },
+    {
+      "text": "Ta haine prend le plaisir",
+      "start": 4276.853,
+      "duration": 1.975
+    },
+    {
+      "text": "C'est si bon de souffrir",
+      "start": 4278.828,
+      "duration": 1.536
+    },
+    {
+      "text": "Succombe au charme",
+      "start": 4280.364,
+      "duration": 1.536
+    },
+    {
+      "text": "Donne tes larmes",
+      "start": 4282,
+      "duration": 0.8
+    },
+    {
+      "text": "C'est le bien qui fait mal",
+      "start": 4282.8,
+      "duration": 1.44
+    },
+    {
+      "text": "Je me fais mal",
+      "start": 4284.24,
+      "duration": 0.8
+    },
+    {
+      "text": "Quand tu aimes tout à fait banal",
+      "start": 4285.04,
+      "duration": 2.08
+    },
+    {
+      "text": "Ce bien qui fait mal",
+      "start": 4287.12,
+      "duration": 1.28
+    },
+    {
+      "text": "Ta peine, les vrais délices",
+      "start": 4288.4,
+      "duration": 1.6
+    },
+    {
+      "text": "Passent par le supplice",
+      "start": 4290,
+      "duration": 1.878
+    },
+    {
+      "text": "Baisse les armes",
+      "start": 4291.878,
+      "duration": 1.61
+    },
+    {
+      "text": "Donne tes larmes",
+      "start": 4293.488,
+      "duration": 1.341
+    },
+    {
+      "text": "Je ressens de violentes pulsions",
+      "start": 4294.829,
+      "duration": 2.951
+    },
+    {
+      "text": "J'ai l'impression de glisser vers le fond",
+      "start": 4298,
+      "duration": 2.983
+    },
+    {
+      "text": "Si j'ignore d'où vient ce fléau",
+      "start": 4300.983,
+      "duration": 2.983
+    },
+    {
+      "text": "J'adore l'avoir dans la peau",
+      "start": 4303.966,
+      "duration": 2.734
+    },
+    {
+      "text": "Envoûté par des idées folles",
+      "start": 4307,
+      "duration": 3.194
+    },
+    {
+      "text": "Soudain mes envies s'envolent",
+      "start": 4310.194,
+      "duration": 3.193
+    },
+    {
+      "text": "Le désir devient ma prison",
+      "start": 4313.387,
+      "duration": 2.613
+    },
+    {
+      "text": "À en perdre la raison",
+      "start": 4316,
+      "duration": 1.851
+    },
+    {
+      "text": "C'est le bien qui fait mal",
+      "start": 4317.851,
+      "duration": 2.082
+    },
+    {
+      "text": "Quand tu aimes tout à fait normal",
+      "start": 4319.933,
+      "duration": 3.007
+    },
+    {
+      "text": "Ta haine prend le plaisir",
+      "start": 4323,
+      "duration": 1.929
+    },
+    {
+      "text": "C'est si bon de souffrir",
+      "start": 4324.929,
+      "duration": 1.5
+    },
+    {
+      "text": "Succombe au charme",
+      "start": 4326.429,
+      "duration": 1.5
+    },
+    {
+      "text": "Donne tes larmes",
+      "start": 4327.929,
+      "duration": 1.071
+    },
+    {
+      "text": "C'est le bien qui fait mal",
+      "start": 4329.0,
+      "duration": 1.929
+    },
+    {
+      "text": "Qui fait mal",
+      "start": 4330.929,
+      "duration": 1.071
+    },
+    {
+      "text": "Quand tu aimes tout à fait banal",
+      "start": 4332,
+      "duration": 2.553
+    },
+    {
+      "text": "Ce bien qui fait mal",
+      "start": 4334.553,
+      "duration": 1.571
+    },
+    {
+      "text": "Ta peine, les vrais délices",
+      "start": 4336.124,
+      "duration": 1.964
+    },
+    {
+      "text": "Passent par le supplice",
+      "start": 4338.088,
+      "duration": 1.375
+    },
+    {
+      "text": "Baisse les armes",
+      "start": 4339.463,
+      "duration": 1.179
+    },
+    {
+      "text": "Je donne mes larmes",
+      "start": 4340.642,
+      "duration": 1.178
+    },
+    {
+      "text": "C'est le bien qui fait mal",
+      "start": 4364,
+      "duration": 2.323
+    },
+    {
+      "text": "Quand tu aimes tout à fait normal",
+      "start": 4366.323,
+      "duration": 3.354
+    },
+    {
+      "text": "Ta haine prend le plaisir",
+      "start": 4369.677,
+      "duration": 2.323
+    },
+    {
+      "text": "C'est si bon de souffrir",
+      "start": 4372,
+      "duration": 1.441
+    },
+    {
+      "text": "Succombe au charme",
+      "start": 4373.441,
+      "duration": 1.441
+    },
+    {
+      "text": "Je donne mes larmes",
+      "start": 4374.882,
+      "duration": 1.236
+    },
+    {
+      "text": "C'est le bien qui fait mal",
+      "start": 4376.118,
+      "duration": 1.853
+    },
+    {
+      "text": "Il me fait mal",
+      "start": 4377.971,
+      "duration": 1.029
+    },
+    {
+      "text": "Quand tu aimes tout à fait banal",
+      "start": 4379,
+      "duration": 2.977
+    },
+    {
+      "text": "Ta peine, les vrais délices",
+      "start": 4381.977,
+      "duration": 2.29
+    },
+    {
+      "text": "Passent par le supplice",
+      "start": 4384.267,
+      "duration": 1.603
+    },
+    {
+      "text": "Baisse les armes, donne tes larmes",
+      "start": 4386,
+      "duration": 4.442
+    },
+    {
+      "text": "Je donne mes larmes",
+      "start": 4390.442,
+      "duration": 2.423
+    },
+    {
+      "text": "Eh bien, eh bien, maestro?",
+      "start": 4392.865,
+      "duration": 3.635
+    },
+    {
+      "text": "Trop de notes?",
+      "start": 4397,
+      "duration": 1.98
+    },
+    {
+      "text": "Mozart, entendez mon conseil, restez bien à votre place, et tout ira bien entre nous.",
+      "start": 4399,
+      "duration": 9.06
+    },
+    {
+      "text": "Constance!",
+      "start": 4412,
+      "duration": 1.146
+    },
+    {
+      "text": "Wolfi!",
+      "start": 4413.146,
+      "duration": 0.764
+    },
+    {
+      "text": "Pouchi, pouchi!",
+      "start": 4414,
+      "duration": 1.898
+    },
+    {
+      "text": "Oh, mon amour!",
+      "start": 4415.898,
+      "duration": 1.581
+    },
+    {
+      "text": "Constance, tu vas me le donner, ce baiser?",
+      "start": 4417.479,
+      "duration": 4.112
+    },
+    {
+      "text": "Oui!",
+      "start": 4421.591,
+      "duration": 0.949
+    },
+    {
+      "text": "Ciel, les scélérats!",
+      "start": 4424,
+      "duration": 1.412
+    },
+    {
+      "text": "Maman.",
+      "start": 4425.412,
+      "duration": 0.47
+    },
+    {
+      "text": "Ha, mes mignons!",
+      "start": 4425.882,
+      "duration": 0.942
+    },
+    {
+      "text": "Pris sur le fait.",
+      "start": 4426.824,
+      "duration": 1.176
+    },
+    {
+      "text": "Quelle honte!",
+      "start": 4428,
+      "duration": 1.062
+    },
+    {
+      "text": "Cecilia, maman, madame, quelle terrible méprise!",
+      "start": 4429.062,
+      "duration": 3.824
+    },
+    {
+      "text": "Et votre parole?",
+      "start": 4432.886,
+      "duration": 1.275
+    },
+    {
+      "text": "Vous avouez, hein?",
+      "start": 4434.161,
+      "duration": 1.699
+    },
+    {
+      "text": "Ah, Wolfgang, vous êtes notre ruine!",
+      "start": 4436,
+      "duration": 2.545
+    },
+    {
+      "text": "Oui, notre ruine!",
+      "start": 4438.545,
+      "duration": 1.697
+    },
+    {
+      "text": "Vous vous êtes affichés sans pudeur.",
+      "start": 4440.242,
+      "duration": 2.758
+    },
+    {
+      "text": "Tout Vienne va nous montrer du doigt!",
+      "start": 4443,
+      "duration": 3.0
+    },
+    {
+      "text": "Tant d'efforts, de sacrifices, pour voir ma petite Constance déshonorée!",
+      "start": 4446,
+      "duration": 6.02
+    },
+    {
+      "text": "Dieu merci, ton pauvre père n'aura pas vu cela!",
+      "start": 4453,
+      "duration": 4.102
+    },
+    {
+      "text": "Oh, non, maman, comment oses-tu?",
+      "start": 4457.102,
+      "duration": 2.051
+    },
+    {
+      "text": "Tais-toi!",
+      "start": 4459.153,
+      "duration": 0.912
+    },
+    {
+      "text": "Sors immédiatement!",
+      "start": 4460.065,
+      "duration": 1.595
+    },
+    {
+      "text": "Jamais.",
+      "start": 4462,
+      "duration": 1.271
+    },
+    {
+      "text": "Petite peste!",
+      "start": 4463.271,
+      "duration": 2.119
+    },
+    {
+      "text": "Wolfgang!",
+      "start": 4465.39,
+      "duration": 0.848
+    },
+    {
+      "text": "Il vaut mieux que je parte...",
+      "start": 4466.238,
+      "duration": 4.662
+    },
+    {
+      "text": "Psst!",
+      "start": 4471,
+      "duration": 0.217
+    },
+    {
+      "text": "Dites donc, jeune homme, vous ne pensiez tout de même pas fuir?",
+      "start": 4471.217,
+      "duration": 4.783
+    },
+    {
+      "text": "Car si vous tentiez de disparaître, nous ferions appel à la force publique!",
+      "start": 4476,
+      "duration": 6.23
+    },
+    {
+      "text": "La force publique?",
+      "start": 4482.23,
+      "duration": 1.557
+    },
+    {
+      "text": "Non mais qui êtes-vous?",
+      "start": 4483.787,
+      "duration": 2.003
+    },
+    {
+      "text": "Je suis le tuteur de cette pauvre enfant.",
+      "start": 4486,
+      "duration": 4.0
+    },
+    {
+      "text": "Merci d'être venu si vite!",
+      "start": 4490,
+      "duration": 1.841
+    },
+    {
+      "text": "Monsieur le débauché, vous allez réparer dans l'honneur tout le mal",
+      "start": 4491.841,
+      "duration": 4.909
+    },
+    {
+      "text": "que vous avez fait.",
+      "start": 4496.75,
+      "duration": 1.636
+    },
+    {
+      "text": "Et comment?",
+      "start": 4498.386,
+      "duration": 0.614
+    },
+    {
+      "text": "En signant ceci une promesse de mariage en bonne et due forme.",
+      "start": 4499,
+      "duration": 5.339
+    },
+    {
+      "text": "Une promesse de mariage?",
+      "start": 4504.339,
+      "duration": 2.321
+    },
+    {
+      "text": "Mais mon père",
+      "start": 4507,
+      "duration": 0.962
+    },
+    {
+      "text": "refusera.",
+      "start": 4507.962,
+      "duration": 0.77
+    },
+    {
+      "text": "Le filou!",
+      "start": 4508.732,
+      "duration": 0.77
+    },
+    {
+      "text": "Il nous refait le coup du père.",
+      "start": 4509.502,
+      "duration": 2.309
+    },
+    {
+      "text": "Vous vous engagez à épouser Constance Weber dans les 3 ans.",
+      "start": 4511.811,
+      "duration": 3.849
+    },
+    {
+      "text": "En cas de non-respect de cela, vous devrez verser 300 florins à",
+      "start": 4516,
+      "duration": 4.5
+    },
+    {
+      "text": "Madame Cécilia Weber.",
+      "start": 4520.5,
+      "duration": 2.25
+    },
+    {
+      "text": "Au diable!",
+      "start": 4522.75,
+      "duration": 1.25
+    },
+    {
+      "text": "Oh, oui, c'est bien.",
+      "start": 4524,
+      "duration": 2.333
+    },
+    {
+      "text": "Tout est-il bien clair?",
+      "start": 4526.333,
+      "duration": 2.667
+    },
+    {
+      "text": "Ce qui est clair, c'est que votre piège est bien ficelé.",
+      "start": 4529,
+      "duration": 4.922
+    },
+    {
+      "text": "Madame, mes compliments.",
+      "start": 4533.922,
+      "duration": 1.723
+    },
+    {
+      "text": "N'insistez pas, Mozart, et signez.",
+      "start": 4535.645,
+      "duration": 2.215
+    },
+    {
+      "text": "Papa, écoute les nouvelles.",
+      "start": 4544,
+      "duration": 2.502
+    },
+    {
+      "text": "À la demande de Sa Majesté, Mozart a commencé les répétitions de L'Enlèvement au sérail.",
+      "start": 4546.502,
+      "duration": 7.278
+    },
+    {
+      "text": "Nul doute que cette grande œuvre recevra l'accueil chaleureux du public viennois.",
+      "start": 4554,
+      "duration": 7.533
+    },
+    {
+      "text": "Papa, ça y est, notre Wolfgang va devenir célèbre!",
+      "start": 4561.533,
+      "duration": 3.767
+    },
+    {
+      "text": "Pourquoi fais-tu cette tête?",
+      "start": 4568,
+      "duration": 3.2
+    },
+    {
+      "text": "Ton frère...",
+      "start": 4571.2,
+      "duration": 0.8
+    },
+    {
+      "text": "il me demande l'autorisation d'épouser Constance Weber, la soeur d'Aloysia.",
+      "start": 4572,
+      "duration": 5.98
+    },
+    {
+      "text": "Il s'est encore fait harponner par cette maudite famille, mais jamais, moi vivant, je ne le laisserai l'épouser!",
+      "start": 4578,
+      "duration": 8.0
+    },
+    {
+      "text": "Papa, je ne te comprends pas.",
+      "start": 4586,
+      "duration": 1.68
+    },
+    {
+      "text": "Je suis sûre que Constance est sincère.",
+      "start": 4587.68,
+      "duration": 2.94
+    },
+    {
+      "text": "Et si Wolfgang l'aime, pourquoi veux-tu l'empêcher d'être heureux?",
+      "start": 4592,
+      "duration": 5.94
+    }
+  ],
   "playbackVideoId": "83Qn2IvP_-I",
   "sourceDuration": 7252,
   "sourceURL": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=4224",
@@ -25,7 +641,7 @@
   "playbackSegment": {
     "start": 4224,
     "end": 4598,
-    "source": "youtube-description-chapters",
+    "source": "user-supplied-mozart-timestamps",
     "precision": "seconds"
   },
   "nativeCaptionRanges": [
@@ -489,10 +1105,10 @@
   "nativeTimingSource": "youtube-manual-caption-file",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "milliseconds",
-  "timingReviewStatus": "source-caption-file",
-  "textReviewStatus": "native-manual-subtitles",
-  "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "phoneticReviewStatus": "reference-with-liaison-corrections",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "performanceYear": 2010,
   "performanceYearSource": "video-description",
@@ -500,5 +1116,12 @@
   "albumReleaseYear": 2009,
   "uploadDate": "20161004",
   "sourceCheckedAt": "2026-10-05",
-  "description": ""
+  "description": "",
+  "originalPlaybackSegment": {
+    "start": 4224,
+    "end": 4598,
+    "source": "youtube-description-chapters",
+    "precision": "seconds"
+  },
+  "studyVersion": 1
 }

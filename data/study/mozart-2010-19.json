@@ -1,0 +1,1909 @@
+{
+  "videoId": "mozart-2010-19",
+  "playbackVideoId": "83Qn2IvP_-I",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "97aaf400c790393fcb53f1f43bb1002cc0955e5fa8ec3c8c767c03260daed16c",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "法语原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "2010年巴黎原唱录像",
+      "url": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=5994"
+    }
+  ],
+  "entries": [
+    {
+      "start": 5994,
+      "sourceText": "Je me croyais l'élu",
+      "ipa": "[ʒə mə kʁwajɛ lely]",
+      "ear": "热 默 克赫乌阿耶艾 莱吕",
+      "meaning": "我以为自己是被选中的人。",
+      "sourceLineId": "mozart-timed-657-1",
+      "suppliedText": "# Victime de ma victoire # Je me croyais l'élu En volant mon histoire Mais je me suis perdu pour gagner",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5994,
+        "anchorEnd": 6004,
+        "sourceLineNumber": 657,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5996.857,
+      "sourceText": "En volant mon histoire",
+      "ipa": "[ɑ̃ volɑ̃ mɔ̃n‿istwaʁ]",
+      "ear": "昂 沃朗 蒙恩 伊斯特乌阿赫",
+      "meaning": "却偷走了本该属于自己的故事。",
+      "sourceLineId": "mozart-timed-657-2",
+      "suppliedText": "# Victime de ma victoire # Je me croyais l'élu En volant mon histoire Mais je me suis perdu pour gagner",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5994,
+        "anchorEnd": 6004,
+        "sourceLineNumber": 657,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5999.714,
+      "sourceText": "Mais je me suis perdu pour gagner",
+      "ipa": "[mɛ ʒə mə sɥi pɛʁdy puʁ ɡanje]",
+      "ear": "梅 热 默 斯于伊 佩赫迪于 普赫 嘎恩耶诶",
+      "meaning": "为了获胜，我把自己弄丢了。",
+      "sourceLineId": "mozart-timed-657-3",
+      "suppliedText": "# Victime de ma victoire # Je me croyais l'élu En volant mon histoire Mais je me suis perdu pour gagner",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5994,
+        "anchorEnd": 6004,
+        "sourceLineNumber": 657,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6004,
+      "sourceText": "À vaincre sans vertu",
+      "ipa": "[a vɛ̃kʁ sɑ̃ vɛʁty]",
+      "ear": "阿 万克赫 桑 韦赫蒂于",
+      "meaning": "没有德行的胜利。",
+      "sourceLineId": "mozart-timed-659-1",
+      "suppliedText": "À vaincre sans vertu On triomphe sans gloire L'honneur vaut mieux que le trophée C'est ridicule",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6004,
+        "anchorEnd": 6012,
+        "sourceLineNumber": 659,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6005.647,
+      "sourceText": "On triomphe sans gloire",
+      "ipa": "[ɔ̃ tʁiɔ̃f sɑ̃ ɡlwaʁ]",
+      "ear": "翁 特希翁弗 桑 格勒乌阿赫",
+      "meaning": "也就没有真正的荣耀。",
+      "sourceLineId": "mozart-timed-659-2",
+      "suppliedText": "À vaincre sans vertu On triomphe sans gloire L'honneur vaut mieux que le trophée C'est ridicule",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6004,
+        "anchorEnd": 6012,
+        "sourceLineNumber": 659,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6007.529,
+      "sourceText": "L'honneur vaut mieux que le trophée",
+      "ipa": "[lɔnœʁ vo mjø kə lə tʁofe]",
+      "ear": "洛讷厄赫 沃 姆耶厄 克 勒 特霍费",
+      "meaning": "尊严比奖杯更珍贵。",
+      "sourceLineId": "mozart-timed-659-3",
+      "suppliedText": "À vaincre sans vertu On triomphe sans gloire L'honneur vaut mieux que le trophée C'est ridicule",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6004,
+        "anchorEnd": 6012,
+        "sourceLineNumber": 659,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6010.824,
+      "sourceText": "C'est ridicule",
+      "ipa": "[sɛ ʁidikyl]",
+      "ear": "塞 希迪基于勒",
+      "meaning": "真可笑。",
+      "sourceLineId": "mozart-timed-659-4",
+      "suppliedText": "À vaincre sans vertu On triomphe sans gloire L'honneur vaut mieux que le trophée C'est ridicule",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6004,
+        "anchorEnd": 6012,
+        "sourceLineNumber": 659,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6012,
+      "sourceText": "Pas de scrupules, il faut triompher",
+      "ipa": "[pa də skʁypyl il fo tʁiɔ̃fe]",
+      "ear": "帕 德 斯克许普于勒 伊勒 佛 特希翁费",
+      "meaning": "别有顾虑，必须获胜。",
+      "sourceLineId": "mozart-timed-660-1",
+      "suppliedText": "Pas de scrupules, il faut triompher Si on t'adule, pas de scrupules Laisse-toi porter Mais le miroir fuit mon regard",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6012,
+        "anchorEnd": 6021,
+        "sourceLineNumber": 660,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6014.538,
+      "sourceText": "Si on t'adule, pas de scrupules",
+      "ipa": "[si ɔ̃ tadyl pa də skʁypyl]",
+      "ear": "西 翁 塔迪于勒 帕 德 斯克许普于勒",
+      "meaning": "只要有人追捧，就别犹豫。",
+      "sourceLineId": "mozart-timed-660-2",
+      "suppliedText": "Pas de scrupules, il faut triompher Si on t'adule, pas de scrupules Laisse-toi porter Mais le miroir fuit mon regard",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6012,
+        "anchorEnd": 6021,
+        "sourceLineNumber": 660,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6016.846,
+      "sourceText": "Laisse-toi porter",
+      "ipa": "[lɛstwa pɔʁte]",
+      "ear": "莱斯特乌阿 珀赫特",
+      "meaning": "就让自己随波逐流吧。",
+      "sourceLineId": "mozart-timed-660-3",
+      "suppliedText": "Pas de scrupules, il faut triompher Si on t'adule, pas de scrupules Laisse-toi porter Mais le miroir fuit mon regard",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6012,
+        "anchorEnd": 6021,
+        "sourceLineNumber": 660,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6018.462,
+      "sourceText": "Mais le miroir fuit mon regard",
+      "ipa": "[mɛ lə miʁwaʁ fɥi mɔ̃ ʁəɡaʁ]",
+      "ear": "梅 勒 米赫乌阿赫 弗于伊 蒙 赫嘎赫",
+      "meaning": "可镜子躲开了我的目光。",
+      "sourceLineId": "mozart-timed-660-4",
+      "suppliedText": "Pas de scrupules, il faut triompher Si on t'adule, pas de scrupules Laisse-toi porter Mais le miroir fuit mon regard",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6012,
+        "anchorEnd": 6021,
+        "sourceLineNumber": 660,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6021,
+      "sourceText": "Pour ne pas voir que je suis victime de ma victoire",
+      "ipa": "[puʁ nə pa vwaʁ kə ʒə sɥi viktim də ma viktwaʁ]",
+      "ear": "普赫 讷 帕 弗乌阿赫 克 热 斯于伊 维克蒂姆 德 玛 维克特乌阿赫",
+      "meaning": "让我不去看清：我是自己胜利的牺牲品。",
+      "sourceLineId": "mozart-timed-661-1",
+      "suppliedText": "Pour ne pas voir que je suis victime de ma victoire Oui, je m'avoue vaincu par le goût du pouvoir",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6021,
+        "anchorEnd": 6032,
+        "sourceLineNumber": 661,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6026.5,
+      "sourceText": "Oui, je m'avoue vaincu par le goût du pouvoir",
+      "ipa": "[wi ʒə mavu vɛ̃ky paʁ lə ɡu dy puvwaʁ]",
+      "ear": "乌伊 热 玛乌 万基于 帕赫 勒 古 迪于 普弗乌阿赫",
+      "meaning": "是的，我承认自己输给了对权力的渴望。",
+      "sourceLineId": "mozart-timed-661-2",
+      "suppliedText": "Pour ne pas voir que je suis victime de ma victoire Oui, je m'avoue vaincu par le goût du pouvoir",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6021,
+        "anchorEnd": 6032,
+        "sourceLineNumber": 661,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6032,
+      "sourceText": "Parvenu en haut sans m'élever",
+      "ipa": "[paʁvəny ɑ̃ o sɑ̃ melve]",
+      "ear": "帕赫弗尼于 昂 奥 桑 梅勒韦",
+      "meaning": "我登到了高处，却没有让自己变得高尚。",
+      "sourceLineId": "mozart-timed-662-1",
+      "suppliedText": "Parvenu en haut sans m'élever Je suis prince incongru D'un talent dérisoire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6032,
+        "anchorEnd": 6040,
+        "sourceLineNumber": 662,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6035.077,
+      "sourceText": "Je suis prince incongru",
+      "ipa": "[ʒə sɥi pʁɛ̃s‿ɛ̃kɔ̃ɡʁy]",
+      "ear": "热 斯于伊 普汉斯 安孔格许",
+      "meaning": "我成了一个荒唐的王。",
+      "sourceLineId": "mozart-timed-662-2",
+      "suppliedText": "Parvenu en haut sans m'élever Je suis prince incongru D'un talent dérisoire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6032,
+        "anchorEnd": 6040,
+        "sourceLineNumber": 662,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6037.538,
+      "sourceText": "D'un talent dérisoire",
+      "ipa": "[dœ̃ talɑ̃ deʁizwaʁ]",
+      "ear": "丹 塔朗 德希兹乌阿赫",
+      "meaning": "统领着可笑的才能。",
+      "sourceLineId": "mozart-timed-662-3",
+      "suppliedText": "Parvenu en haut sans m'élever Je suis prince incongru D'un talent dérisoire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6032,
+        "anchorEnd": 6040,
+        "sourceLineNumber": 662,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6040,
+      "sourceText": "Me faire aimer des autres sans aimer",
+      "ipa": "[mə fɛʁ‿ɛme dez‿otʁ sɑ̃z‿ɛme]",
+      "ear": "默 费赫 艾梅 德兹 奥特赫 桑兹 艾梅",
+      "meaning": "让别人爱我，自己却不会爱。",
+      "sourceLineId": "mozart-timed-663-1",
+      "suppliedText": "Me faire aimer des autres sans aimer C'est ridicule Pas de scrupules, il faut triompher",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6040,
+        "anchorEnd": 6047,
+        "sourceLineNumber": 663,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6043.387,
+      "sourceText": "C'est ridicule",
+      "ipa": "[sɛ ʁidikyl]",
+      "ear": "塞 希迪基于勒",
+      "meaning": "真可笑。",
+      "sourceLineId": "mozart-timed-663-2",
+      "suppliedText": "Me faire aimer des autres sans aimer C'est ridicule Pas de scrupules, il faut triompher",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6040,
+        "anchorEnd": 6047,
+        "sourceLineNumber": 663,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6044.516,
+      "sourceText": "Pas de scrupules, il faut triompher",
+      "ipa": "[pa də skʁypyl il fo tʁiɔ̃fe]",
+      "ear": "帕 德 斯克许普于勒 伊勒 佛 特希翁费",
+      "meaning": "别有顾虑，必须获胜。",
+      "sourceLineId": "mozart-timed-663-3",
+      "suppliedText": "Me faire aimer des autres sans aimer C'est ridicule Pas de scrupules, il faut triompher",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6040,
+        "anchorEnd": 6047,
+        "sourceLineNumber": 663,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6047,
+      "sourceText": "Si on t'adule, pas de scrupules",
+      "ipa": "[si ɔ̃ tadyl pa də skʁypyl]",
+      "ear": "西 翁 塔迪于勒 帕 德 斯克许普于勒",
+      "meaning": "只要有人追捧，就别犹豫。",
+      "sourceLineId": "mozart-timed-664-1",
+      "suppliedText": "Si on t'adule, pas de scrupules Laisse-toi porter Mais le miroir fuit mon regard Pour ne pas voir que je suis victime de ma victoire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6047,
+        "anchorEnd": 6057.42,
+        "sourceLineNumber": 664,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6049.171,
+      "sourceText": "Laisse-toi porter",
+      "ipa": "[lɛstwa pɔʁte]",
+      "ear": "莱斯特乌阿 珀赫特",
+      "meaning": "就让自己随波逐流吧。",
+      "sourceLineId": "mozart-timed-664-2",
+      "suppliedText": "Si on t'adule, pas de scrupules Laisse-toi porter Mais le miroir fuit mon regard Pour ne pas voir que je suis victime de ma victoire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6047,
+        "anchorEnd": 6057.42,
+        "sourceLineNumber": 664,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6050.69,
+      "sourceText": "Mais le miroir fuit mon regard",
+      "ipa": "[mɛ lə miʁwaʁ fɥi mɔ̃ ʁəɡaʁ]",
+      "ear": "梅 勒 米赫乌阿赫 弗于伊 蒙 赫嘎赫",
+      "meaning": "可镜子躲开了我的目光。",
+      "sourceLineId": "mozart-timed-664-3",
+      "suppliedText": "Si on t'adule, pas de scrupules Laisse-toi porter Mais le miroir fuit mon regard Pour ne pas voir que je suis victime de ma victoire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6047,
+        "anchorEnd": 6057.42,
+        "sourceLineNumber": 664,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6053.078,
+      "sourceText": "Pour ne pas voir que je suis victime de ma victoire",
+      "ipa": "[puʁ nə pa vwaʁ kə ʒə sɥi viktim də ma viktwaʁ]",
+      "ear": "普赫 讷 帕 弗乌阿赫 克 热 斯于伊 维克蒂姆 德 玛 维克特乌阿赫",
+      "meaning": "让我不去看清：我是自己胜利的牺牲品。",
+      "sourceLineId": "mozart-timed-664-4",
+      "suppliedText": "Si on t'adule, pas de scrupules Laisse-toi porter Mais le miroir fuit mon regard Pour ne pas voir que je suis victime de ma victoire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6047,
+        "anchorEnd": 6057.42,
+        "sourceLineNumber": 664,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6059,
+      "sourceText": "Victime de ma victoire",
+      "ipa": "[viktim də ma viktwaʁ]",
+      "ear": "维克蒂姆 德 玛 维克特乌阿赫",
+      "meaning": "自己胜利的牺牲品。",
+      "sourceLineId": "mozart-timed-665-1",
+      "suppliedText": "Victime de ma victoire Mieux vaut être victime d'une victoire que souverain d'un rêve",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6059,
+        "anchorEnd": 6067.86,
+        "sourceLineNumber": 665,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6061.278,
+      "sourceText": "Mieux vaut être victime d'une victoire que souverain d'un rêve",
+      "ipa": "[mjø vo ɛtʁ viktim dyn viktwaʁ kə suvʁɛ̃ dœ̃ ʁɛv]",
+      "ear": "姆耶厄 沃 艾特赫 维克蒂姆 迪于恩 维克特乌阿赫 克 苏弗汉 丹 赫弗",
+      "meaning": "做胜利的受害者，也好过做一场梦的君王，",
+      "sourceLineId": "mozart-timed-665-2",
+      "suppliedText": "Victime de ma victoire Mieux vaut être victime d'une victoire que souverain d'un rêve",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6059,
+        "anchorEnd": 6067.86,
+        "sourceLineNumber": 665,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6068,
+      "sourceText": "illusoire, solitaire et déshonoré comme Mozart, ruiné par l'échec de son Don Juan de malheur.",
+      "ipa": "[ilyzwaʁ solitɛʁ e dezonoʁe kɔm mɔtsaʁ ʁɥine paʁ leʃɛk də sɔ̃ dɔ̃ ʒyɑ̃ də malœʁ]",
+      "ear": "伊吕兹乌阿赫 索利泰赫 诶 德佐诺赫 科姆 莫特萨赫 赫于伊内 帕赫 莱谢克 德 松 东 日于昂 德 玛勒厄赫",
+      "meaning": "像莫扎特那样活在幻想里，孤独又丢尽脸面，被倒霉的《唐璜》的失败拖垮。",
+      "sourceLineId": "mozart-timed-666-1",
+      "suppliedText": "illusoire, solitaire et déshonoré comme Mozart, ruiné par l'échec de son Don Juan de malheur.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6068,
+        "anchorEnd": 6076,
+        "sourceLineNumber": 666,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6076,
+      "sourceText": "Réduit à composer un conte sur le bonheur.",
+      "ipa": "[ʁedɥi a kɔ̃poze œ̃ kɔ̃t syʁ lə bɔnœʁ]",
+      "ear": "赫德于伊 阿 孔波泽 恩 孔特 西于赫 勒 博讷厄赫",
+      "meaning": "落魄到只能写个关于幸福的童话。",
+      "sourceLineId": "mozart-timed-667-1",
+      "suppliedText": "Réduit à composer un conte sur le bonheur. Oui, \"Le Pipeau bavard\", je crois. Non, ça y est, ça me revient, \"La Flûte bouchée\".",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6076,
+        "anchorEnd": 6084.42,
+        "sourceLineNumber": 667,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6078.87,
+      "sourceText": "Oui,",
+      "ipa": "[wi]",
+      "ear": "乌伊",
+      "meaning": "对，",
+      "sourceLineId": "mozart-timed-667-2",
+      "suppliedText": "Réduit à composer un conte sur le bonheur. Oui, \"Le Pipeau bavard\", je crois. Non, ça y est, ça me revient, \"La Flûte bouchée\".",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6076,
+        "anchorEnd": 6084.42,
+        "sourceLineNumber": 667,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6079.445,
+      "sourceText": "Le Pipeau bavard, je crois.",
+      "ipa": "[lə pipo bavaʁ ʒə kʁwa]",
+      "ear": "勒 皮波 巴瓦赫 热 克赫乌阿",
+      "meaning": "好像叫《喋喋不休的笛子》。",
+      "sourceLineId": "mozart-timed-667-3",
+      "suppliedText": "Réduit à composer un conte sur le bonheur. Oui, \"Le Pipeau bavard\", je crois. Non, ça y est, ça me revient, \"La Flûte bouchée\".",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6076,
+        "anchorEnd": 6084.42,
+        "sourceLineNumber": 667,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6081.358,
+      "sourceText": "Non, ça y est, ça me revient,",
+      "ipa": "[nɔ̃ sa i ɛ sa mə ʁəvjɛ̃]",
+      "ear": "农 萨 伊 艾 萨 默 赫弗耶安",
+      "meaning": "不对，想起来了，",
+      "sourceLineId": "mozart-timed-667-4",
+      "suppliedText": "Réduit à composer un conte sur le bonheur. Oui, \"Le Pipeau bavard\", je crois. Non, ça y est, ça me revient, \"La Flûte bouchée\".",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6076,
+        "anchorEnd": 6084.42,
+        "sourceLineNumber": 667,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6083.08,
+      "sourceText": "La Flûte bouchée.",
+      "ipa": "[la flyt buʃe]",
+      "ear": "拉 弗吕特 布谢",
+      "meaning": "《堵住的笛子》。",
+      "sourceLineId": "mozart-timed-667-5",
+      "suppliedText": "Réduit à composer un conte sur le bonheur. Oui, \"Le Pipeau bavard\", je crois. Non, ça y est, ça me revient, \"La Flûte bouchée\".",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6076,
+        "anchorEnd": 6084.42,
+        "sourceLineNumber": 667,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6085,
+      "sourceText": "Cessez vos moqueries, Rosenberg.",
+      "ipa": "[sɛse vo mokəʁi ʁozɑ̃bɛʁɡ]",
+      "ear": "塞塞 沃 莫克希 霍赞贝赫格",
+      "meaning": "罗森伯格，别再嘲笑他了。",
+      "sourceLineId": "mozart-timed-668-1",
+      "suppliedText": "Cessez vos moqueries, Rosenberg. C'est \"La Flûte enchantée\", vous le savez bien.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6085,
+        "anchorEnd": 6091,
+        "sourceLineNumber": 668,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6087.538,
+      "sourceText": "C'est",
+      "ipa": "[sɛ]",
+      "ear": "塞",
+      "meaning": "那是——",
+      "sourceLineId": "mozart-timed-668-2",
+      "suppliedText": "Cessez vos moqueries, Rosenberg. C'est \"La Flûte enchantée\", vous le savez bien.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6085,
+        "anchorEnd": 6091,
+        "sourceLineNumber": 668,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6087.769,
+      "sourceText": "La Flûte enchantée, vous le savez bien.",
+      "ipa": "[la flyt‿ɑ̃ʃɑ̃te vu lə save bjɛ̃]",
+      "ear": "拉 弗吕特 昂尚特 乌 勒 萨韦 布耶安",
+      "meaning": "《魔笛》，你明明知道。",
+      "sourceLineId": "mozart-timed-668-3",
+      "suppliedText": "Cessez vos moqueries, Rosenberg. C'est \"La Flûte enchantée\", vous le savez bien.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6085,
+        "anchorEnd": 6091,
+        "sourceLineNumber": 668,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6091,
+      "sourceText": "Oui, oui, oui, oui, oui!",
+      "ipa": "[wi wi wi wi wi]",
+      "ear": "乌伊 乌伊 乌伊 乌伊 乌伊",
+      "meaning": "对，对，对，对，对！",
+      "sourceLineId": "mozart-timed-669-1",
+      "suppliedText": "Oui, oui, oui, oui, oui! Une farce, pauvre farce de conteur pour artistes aphasiques et désenchantés.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6091,
+        "anchorEnd": 6100,
+        "sourceLineNumber": 669,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6094.14,
+      "sourceText": "Une farce, pauvre farce de conteur pour artistes aphasiques et désenchantés.",
+      "ipa": "[yn faʁs povʁ faʁs də kɔ̃tœʁ puʁ‿aʁtist‿afazik e dezɑ̃ʃɑ̃te]",
+      "ear": "于恩 法赫斯 波弗赫 法赫斯 德 孔特厄赫 普赫 阿赫蒂斯特 阿法齐克 诶 德赞尚特",
+      "meaning": "一场闹剧，给那些失语、失意的艺术家编出来的可怜笑话。",
+      "sourceLineId": "mozart-timed-669-2",
+      "suppliedText": "Oui, oui, oui, oui, oui! Une farce, pauvre farce de conteur pour artistes aphasiques et désenchantés.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6091,
+        "anchorEnd": 6100,
+        "sourceLineNumber": 669,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6100,
+      "sourceText": "C'est comment?",
+      "ipa": "[sɛ kɔmɑ̃]",
+      "ear": "塞 科芒",
+      "meaning": "叫什么来着？",
+      "sourceLineId": "mozart-timed-670-1",
+      "suppliedText": "C'est comment?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6100,
+        "anchorEnd": 6101.62,
+        "sourceLineNumber": 670,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6121,
+      "sourceText": "Le Pipeau bavard, c'est Mozart qu'on assassine!",
+      "ipa": "[lə pipo bavaʁ sɛ mɔtsaʁ kɔ̃ asasin]",
+      "ear": "勒 皮波 巴瓦赫 塞 莫特萨赫 孔 阿萨西恩",
+      "meaning": "《喋喋不休的笛子》？你们是在扼杀莫扎特！",
+      "sourceLineId": "mozart-timed-671-1",
+      "suppliedText": "Le Pipeau bavard, c'est Mozart qu'on assassine!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6121,
+        "anchorEnd": 6124.66,
+        "sourceLineNumber": 671,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6132,
+      "sourceText": "Victime de ma victoire",
+      "ipa": "[viktim də ma viktwaʁ]",
+      "ear": "维克蒂姆 德 玛 维克特乌阿赫",
+      "meaning": "自己胜利的牺牲品。",
+      "sourceLineId": "mozart-timed-672-1",
+      "suppliedText": "Victime de ma victoire Ma gloire est dérisoire C'est ridicule, pas de scrupules",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6132,
+        "anchorEnd": 6141,
+        "sourceLineNumber": 672,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6134.793,
+      "sourceText": "Ma gloire est dérisoire",
+      "ipa": "[ma ɡlwaʁ‿ɛ deʁizwaʁ]",
+      "ear": "玛 格勒乌阿赫 艾 德希兹乌阿赫",
+      "meaning": "我的荣耀如此可笑。",
+      "sourceLineId": "mozart-timed-672-2",
+      "suppliedText": "Victime de ma victoire Ma gloire est dérisoire C'est ridicule, pas de scrupules",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6132,
+        "anchorEnd": 6141,
+        "sourceLineNumber": 672,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6137.897,
+      "sourceText": "C'est ridicule, pas de scrupules",
+      "ipa": "[sɛ ʁidikyl pa də skʁypyl]",
+      "ear": "塞 希迪基于勒 帕 德 斯克许普于勒",
+      "meaning": "真可笑，不必内疚。",
+      "sourceLineId": "mozart-timed-672-3",
+      "suppliedText": "Victime de ma victoire Ma gloire est dérisoire C'est ridicule, pas de scrupules",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6132,
+        "anchorEnd": 6141,
+        "sourceLineNumber": 672,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6141,
+      "sourceText": "Il faut triompher",
+      "ipa": "[il fo tʁiɔ̃fe]",
+      "ear": "伊勒 佛 特希翁费",
+      "meaning": "必须获胜。",
+      "sourceLineId": "mozart-timed-673-1",
+      "suppliedText": "Il faut triompher Si on t'adule, pas de scrupules Laisse-toi porter Mais le miroir fuit mon regard",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6141,
+        "anchorEnd": 6148,
+        "sourceLineNumber": 673,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6142.235,
+      "sourceText": "Si on t'adule, pas de scrupules",
+      "ipa": "[si ɔ̃ tadyl pa də skʁypyl]",
+      "ear": "西 翁 塔迪于勒 帕 德 斯克许普于勒",
+      "meaning": "只要有人追捧，就别犹豫。",
+      "sourceLineId": "mozart-timed-673-2",
+      "suppliedText": "Il faut triompher Si on t'adule, pas de scrupules Laisse-toi porter Mais le miroir fuit mon regard",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6141,
+        "anchorEnd": 6148,
+        "sourceLineNumber": 673,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6144.294,
+      "sourceText": "Laisse-toi porter",
+      "ipa": "[lɛstwa pɔʁte]",
+      "ear": "莱斯特乌阿 珀赫特",
+      "meaning": "就让自己随波逐流吧。",
+      "sourceLineId": "mozart-timed-673-3",
+      "suppliedText": "Il faut triompher Si on t'adule, pas de scrupules Laisse-toi porter Mais le miroir fuit mon regard",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6141,
+        "anchorEnd": 6148,
+        "sourceLineNumber": 673,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6145.735,
+      "sourceText": "Mais le miroir fuit mon regard",
+      "ipa": "[mɛ lə miʁwaʁ fɥi mɔ̃ ʁəɡaʁ]",
+      "ear": "梅 勒 米赫乌阿赫 弗于伊 蒙 赫嘎赫",
+      "meaning": "可镜子躲开了我的目光。",
+      "sourceLineId": "mozart-timed-673-4",
+      "suppliedText": "Il faut triompher Si on t'adule, pas de scrupules Laisse-toi porter Mais le miroir fuit mon regard",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6141,
+        "anchorEnd": 6148,
+        "sourceLineNumber": 673,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6148,
+      "sourceText": "Pour ne pas voir que je suis victime de ma victoire",
+      "ipa": "[puʁ nə pa vwaʁ kə ʒə sɥi viktim də ma viktwaʁ]",
+      "ear": "普赫 讷 帕 弗乌阿赫 克 热 斯于伊 维克蒂姆 德 玛 维克特乌阿赫",
+      "meaning": "让我不去看清：我是自己胜利的牺牲品。",
+      "sourceLineId": "mozart-timed-674-1",
+      "suppliedText": "Pour ne pas voir que je suis victime de ma victoire C'est ridicule, pas de scrupules Pourquoi triompher?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6148,
+        "anchorEnd": 6158,
+        "sourceLineNumber": 674,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6153.263,
+      "sourceText": "C'est ridicule, pas de scrupules",
+      "ipa": "[sɛ ʁidikyl pa də skʁypyl]",
+      "ear": "塞 希迪基于勒 帕 德 斯克许普于勒",
+      "meaning": "真可笑，不必内疚。",
+      "sourceLineId": "mozart-timed-674-2",
+      "suppliedText": "Pour ne pas voir que je suis victime de ma victoire C'est ridicule, pas de scrupules Pourquoi triompher?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6148,
+        "anchorEnd": 6158,
+        "sourceLineNumber": 674,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6155.895,
+      "sourceText": "Pourquoi triompher?",
+      "ipa": "[puʁkwa tʁiɔ̃fe]",
+      "ear": "普赫克乌阿 特希翁费",
+      "meaning": "为什么非要获胜？",
+      "sourceLineId": "mozart-timed-674-3",
+      "suppliedText": "Pour ne pas voir que je suis victime de ma victoire C'est ridicule, pas de scrupules Pourquoi triompher?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6148,
+        "anchorEnd": 6158,
+        "sourceLineNumber": 674,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6158,
+      "sourceText": "Si on t'adule, pas de scrupules",
+      "ipa": "[si ɔ̃ tadyl pa də skʁypyl]",
+      "ear": "西 翁 塔迪于勒 帕 德 斯克许普于勒",
+      "meaning": "只要有人追捧，就别犹豫。",
+      "sourceLineId": "mozart-timed-675-1",
+      "suppliedText": "Si on t'adule, pas de scrupules Pourquoi me porter?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6158,
+        "anchorEnd": 6162,
+        "sourceLineNumber": 675,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6160.222,
+      "sourceText": "Pourquoi me porter?",
+      "ipa": "[puʁkwa mə pɔʁte]",
+      "ear": "普赫克乌阿 默 珀赫特",
+      "meaning": "为什么要把我推上去？",
+      "sourceLineId": "mozart-timed-675-2",
+      "suppliedText": "Si on t'adule, pas de scrupules Pourquoi me porter?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6158,
+        "anchorEnd": 6162,
+        "sourceLineNumber": 675,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6162,
+      "sourceText": "Mais mon orgueil porte le deuil",
+      "ipa": "[mɛ mɔ̃n‿ɔʁɡœj pɔʁt lə dœj]",
+      "ear": "梅 蒙恩 哦赫格厄耶 珀赫特 勒 德厄耶",
+      "meaning": "可我的骄傲已披上丧服。",
+      "sourceLineId": "mozart-timed-676-1",
+      "suppliedText": "Mais mon orgueil porte le deuil Pour ne plus voir que je suis victime De ma victoire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6162,
+        "anchorEnd": 6170,
+        "sourceLineNumber": 676,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6165.152,
+      "sourceText": "Pour ne plus voir que je suis victime",
+      "ipa": "[puʁ nə ply vwaʁ kə ʒə sɥi viktim]",
+      "ear": "普赫 讷 普吕 弗乌阿赫 克 热 斯于伊 维克蒂姆",
+      "meaning": "只为不再看见，我成了受害者，",
+      "sourceLineId": "mozart-timed-676-2",
+      "suppliedText": "Mais mon orgueil porte le deuil Pour ne plus voir que je suis victime De ma victoire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6162,
+        "anchorEnd": 6170,
+        "sourceLineNumber": 676,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6168.545,
+      "sourceText": "De ma victoire",
+      "ipa": "[də ma viktwaʁ]",
+      "ear": "德 玛 维克特乌阿赫",
+      "meaning": "成了自己胜利的受害者。",
+      "sourceLineId": "mozart-timed-676-3",
+      "suppliedText": "Mais mon orgueil porte le deuil Pour ne plus voir que je suis victime De ma victoire",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6162,
+        "anchorEnd": 6170,
+        "sourceLineNumber": 676,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6170,
+      "sourceText": "Victime de ma victoire",
+      "ipa": "[viktim də ma viktwaʁ]",
+      "ear": "维克蒂姆 德 玛 维克特乌阿赫",
+      "meaning": "自己胜利的牺牲品。",
+      "sourceLineId": "mozart-timed-677-1",
+      "suppliedText": "Victime de ma victoire J'ai perdu",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6170,
+        "anchorEnd": 6179.74,
+        "sourceLineNumber": 677,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6176.743,
+      "sourceText": "J'ai perdu",
+      "ipa": "[ʒe pɛʁdy]",
+      "ear": "热 佩赫迪于",
+      "meaning": "我已经失去了",
+      "sourceLineId": "mozart-timed-677-2",
+      "suppliedText": "Victime de ma victoire J'ai perdu",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6170,
+        "anchorEnd": 6179.74,
+        "sourceLineNumber": 677,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6180,
+      "sourceText": "Pour l'Histoire",
+      "ipa": "[puʁ listwaʁ]",
+      "ear": "普赫 利斯特乌阿赫",
+      "meaning": "为了留名历史。",
+      "sourceLineId": "mozart-timed-678-1",
+      "suppliedText": "Pour l'Histoire Wolfgang, tu vas attraper froid.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6180,
+        "anchorEnd": 6193.78,
+        "sourceLineNumber": 678,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6185.512,
+      "sourceText": "Wolfgang, tu vas attraper froid.",
+      "ipa": "[vɔlfɡɑ̃ɡ ty va atʁape fʁwa]",
+      "ear": "沃勒弗冈格 蒂于 瓦 阿特哈佩 弗赫乌阿",
+      "meaning": "沃尔夫冈，你会着凉的。",
+      "sourceLineId": "mozart-timed-678-2",
+      "suppliedText": "Pour l'Histoire Wolfgang, tu vas attraper froid.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6180,
+        "anchorEnd": 6193.78,
+        "sourceLineNumber": 678,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6194,
+      "sourceText": "Voilà, je l'ai.",
+      "ipa": "[vwala ʒə le]",
+      "ear": "弗乌阿拉 热 莱",
+      "meaning": "就是这样，我想到了。",
+      "sourceLineId": "mozart-timed-679-1",
+      "suppliedText": "Voilà, je l'ai. Je l'ai. Notez, écrivez. Lacrimosa, mes larmes.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6194,
+        "anchorEnd": 6202.74,
+        "sourceLineNumber": 679,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6196.497,
+      "sourceText": "Je l'ai.",
+      "ipa": "[ʒə le]",
+      "ear": "热 莱",
+      "meaning": "我想到了。",
+      "sourceLineId": "mozart-timed-679-2",
+      "suppliedText": "Voilà, je l'ai. Je l'ai. Notez, écrivez. Lacrimosa, mes larmes.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6194,
+        "anchorEnd": 6202.74,
+        "sourceLineNumber": 679,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6197.746,
+      "sourceText": "Notez, écrivez.",
+      "ipa": "[note ekʁive]",
+      "ear": "诺特 诶克希韦",
+      "meaning": "记下来，快写。",
+      "sourceLineId": "mozart-timed-679-3",
+      "suppliedText": "Voilà, je l'ai. Je l'ai. Notez, écrivez. Lacrimosa, mes larmes.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6194,
+        "anchorEnd": 6202.74,
+        "sourceLineNumber": 679,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6199.827,
+      "sourceText": "Lacrimosa, mes larmes.",
+      "ipa": "[lakʁimoza me laʁm]",
+      "ear": "拉克希莫扎 梅 拉赫姆",
+      "meaning": "落泪之日，我的泪水。",
+      "sourceLineId": "mozart-timed-679-4",
+      "suppliedText": "Voilà, je l'ai. Je l'ai. Notez, écrivez. Lacrimosa, mes larmes.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6194,
+        "anchorEnd": 6202.74,
+        "sourceLineNumber": 679,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6205,
+      "sourceText": "Ré mineur, première mesure.",
+      "ipa": "[ʁe minœʁ pʁəmjɛʁ məzyʁ]",
+      "ear": "赫 米讷厄赫 普赫姆耶艾赫 默齐于赫",
+      "meaning": "D小调，第一小节。",
+      "sourceLineId": "mozart-timed-680-1",
+      "suppliedText": "Ré mineur, première mesure. Fa, do dièse, ré. Troisième mesure, l'entrée du thème legato.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6205,
+        "anchorEnd": 6212,
+        "sourceLineNumber": 680,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6207.265,
+      "sourceText": "Fa, do dièse, ré.",
+      "ipa": "[fa do djɛz ʁe]",
+      "ear": "法 多 德耶艾兹 赫",
+      "meaning": "发，升哆，来。",
+      "sourceLineId": "mozart-timed-680-2",
+      "suppliedText": "Ré mineur, première mesure. Fa, do dièse, ré. Troisième mesure, l'entrée du thème legato.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6205,
+        "anchorEnd": 6212,
+        "sourceLineNumber": 680,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6208.5,
+      "sourceText": "Troisième mesure, l'entrée du thème legato.",
+      "ipa": "[tʁwazjɛm məzyʁ lɑ̃tʁe dy tɛm ləɡato]",
+      "ear": "特赫乌阿兹耶艾姆 默齐于赫 朗特赫 迪于 泰姆 勒嘎托",
+      "meaning": "第三小节，主题以连奏进入。",
+      "sourceLineId": "mozart-timed-680-3",
+      "suppliedText": "Ré mineur, première mesure. Fa, do dièse, ré. Troisième mesure, l'entrée du thème legato.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6205,
+        "anchorEnd": 6212,
+        "sourceLineNumber": 680,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6212,
+      "sourceText": "La, fa, ré, ré, do.",
+      "ipa": "[la fa ʁe ʁe do]",
+      "ear": "拉 法 赫 赫 多",
+      "meaning": "拉，发，来，来，哆。",
+      "sourceLineId": "mozart-timed-681-1",
+      "suppliedText": "La, fa, ré, ré, do.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6212,
+        "anchorEnd": 6217.219,
+        "sourceLineNumber": 681,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6218,
+      "sourceText": "3e mesure, enfin l'espoir, la montée des chœurs.",
+      "ipa": "[tʁwaz məzyʁ ɑ̃fɛ̃ lɛspwaʁ la mɔ̃te de kœʁ]",
+      "ear": "特赫乌阿兹 默齐于赫 昂凡 莱斯普乌阿赫 拉 蒙特 德 克厄赫",
+      "meaning": "第三小节，希望终于出现，合唱声渐渐升起。",
+      "sourceLineId": "mozart-timed-682-1",
+      "suppliedText": "3e mesure, enfin l'espoir, la montée des chœurs. Si et do naturels, tous par ton. Puis demi-ton.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6218,
+        "anchorEnd": 6226.299,
+        "sourceLineNumber": 682,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6222.283,
+      "sourceText": "Si et do naturels, tous par ton.",
+      "ipa": "[si e do natyʁɛl tus paʁ tɔ̃]",
+      "ear": "西 诶 多 纳蒂于赫勒 图斯 帕赫 通",
+      "meaning": "还原西和哆，按全音进行。",
+      "sourceLineId": "mozart-timed-682-2",
+      "suppliedText": "3e mesure, enfin l'espoir, la montée des chœurs. Si et do naturels, tous par ton. Puis demi-ton.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6218,
+        "anchorEnd": 6226.299,
+        "sourceLineNumber": 682,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6224.96,
+      "sourceText": "Puis demi-ton.",
+      "ipa": "[pɥi dəmitɔ̃]",
+      "ear": "普于伊 德米通",
+      "meaning": "然后是半音。",
+      "sourceLineId": "mozart-timed-682-3",
+      "suppliedText": "3e mesure, enfin l'espoir, la montée des chœurs. Si et do naturels, tous par ton. Puis demi-ton.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6218,
+        "anchorEnd": 6226.299,
+        "sourceLineNumber": 682,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6227,
+      "sourceText": "L'inaccessible.",
+      "ipa": "[linaksɛsibl]",
+      "ear": "利纳克塞西布勒",
+      "meaning": "那无法抵达的地方。",
+      "sourceLineId": "mozart-timed-683-1",
+      "suppliedText": "L'inaccessible. Ma musique me dépassera. Les cieux. - La lumière... - Maître?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6227,
+        "anchorEnd": 6236,
+        "sourceLineNumber": 683,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6228.667,
+      "sourceText": "Ma musique me dépassera.",
+      "ipa": "[ma myzik mə depasʁa]",
+      "ear": "玛 米于齐克 默 德帕斯哈",
+      "meaning": "我的音乐会超越我。",
+      "sourceLineId": "mozart-timed-683-2",
+      "suppliedText": "L'inaccessible. Ma musique me dépassera. Les cieux. - La lumière... - Maître?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6227,
+        "anchorEnd": 6236,
+        "sourceLineNumber": 683,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6232.0,
+      "sourceText": "Les cieux.",
+      "ipa": "[le sjø]",
+      "ear": "莱 斯耶厄",
+      "meaning": "天空。",
+      "sourceLineId": "mozart-timed-683-3",
+      "suppliedText": "L'inaccessible. Ma musique me dépassera. Les cieux. - La lumière... - Maître?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6227,
+        "anchorEnd": 6236,
+        "sourceLineNumber": 683,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6233.333,
+      "sourceText": "La lumière...",
+      "ipa": "[la lymjɛʁ]",
+      "ear": "拉 吕姆耶艾赫",
+      "meaning": "光芒……",
+      "sourceLineId": "mozart-timed-683-4",
+      "suppliedText": "L'inaccessible. Ma musique me dépassera. Les cieux. - La lumière... - Maître?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6227,
+        "anchorEnd": 6236,
+        "sourceLineNumber": 683,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6235.0,
+      "sourceText": "Maître?",
+      "ipa": "[mɛtʁ]",
+      "ear": "梅特赫",
+      "meaning": "大师？",
+      "sourceLineId": "mozart-timed-683-5",
+      "suppliedText": "L'inaccessible. Ma musique me dépassera. Les cieux. - La lumière... - Maître?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6227,
+        "anchorEnd": 6236,
+        "sourceLineNumber": 683,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6236,
+      "sourceText": "Pauvre Mozart, reclus chez lui, la santé déclinante.",
+      "ipa": "[povʁ mɔtsaʁ ʁəkly ʃe lɥi la sɑ̃te deklinɑ̃t]",
+      "ear": "波弗赫 莫特萨赫 赫克吕 谢 勒于伊 拉 桑特 德克利南特",
+      "meaning": "可怜的莫扎特，闭门不出，身体日渐衰弱。",
+      "sourceLineId": "mozart-timed-684-1",
+      "suppliedText": "- Pauvre Mozart, reclus chez lui, la santé déclinante.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6236,
+        "anchorEnd": 6240.98,
+        "sourceLineNumber": 684,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6242,
+      "sourceText": "Il raconte partout que la",
+      "ipa": "[il ʁakɔ̃t paʁtu kə la]",
+      "ear": "伊勒 哈孔特 帕赫图 克 拉",
+      "meaning": "他到处说，是——",
+      "sourceLineId": "mozart-timed-685-1",
+      "suppliedText": "Il raconte partout que la Mort lui aurait passé commande d'un requiem pour ses propres funérailles.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6242,
+        "anchorEnd": 6250,
+        "sourceLineNumber": 685,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6244.162,
+      "sourceText": "Mort lui aurait passé commande d'un requiem pour ses propres funérailles.",
+      "ipa": "[mɔʁ lɥi oʁɛ pase kɔmɑ̃d dœ̃ ʁekɥijɛm puʁ se pʁɔpʁ fyneʁaj]",
+      "ear": "莫赫 勒于伊 奥赫 帕塞 科芒德 丹 赫克于伊耶艾姆 普赫 塞 普霍普赫 菲于内哈耶",
+      "meaning": "死神委托他为自己的葬礼写一部安魂曲。",
+      "sourceLineId": "mozart-timed-685-2",
+      "suppliedText": "Il raconte partout que la Mort lui aurait passé commande d'un requiem pour ses propres funérailles.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6242,
+        "anchorEnd": 6250,
+        "sourceLineNumber": 685,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6250,
+      "sourceText": "Pour ses propres funérailles?",
+      "ipa": "[puʁ se pʁɔpʁ fyneʁaj]",
+      "ear": "普赫 塞 普霍普赫 菲于内哈耶",
+      "meaning": "为他自己的葬礼？",
+      "sourceLineId": "mozart-timed-686-1",
+      "suppliedText": "\"Pour ses propres funérailles\"? Quelle prétention! Vous ne trouvez pas, Da Ponte?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6250,
+        "anchorEnd": 6256,
+        "sourceLineNumber": 686,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6252.222,
+      "sourceText": "Quelle prétention!",
+      "ipa": "[kɛl pʁetɑ̃sjɔ̃]",
+      "ear": "凯勒 普赫唐斯耶翁",
+      "meaning": "多自大啊！",
+      "sourceLineId": "mozart-timed-686-2",
+      "suppliedText": "\"Pour ses propres funérailles\"? Quelle prétention! Vous ne trouvez pas, Da Ponte?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6250,
+        "anchorEnd": 6256,
+        "sourceLineNumber": 686,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6253.778,
+      "sourceText": "Vous ne trouvez pas, Da Ponte?",
+      "ipa": "[vu nə tʁuve pa da pɔ̃t]",
+      "ear": "乌 讷 特胡韦 帕 达 蓬特",
+      "meaning": "您不觉得吗，达·蓬特？",
+      "sourceLineId": "mozart-timed-686-3",
+      "suppliedText": "\"Pour ses propres funérailles\"? Quelle prétention! Vous ne trouvez pas, Da Ponte?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6250,
+        "anchorEnd": 6256,
+        "sourceLineNumber": 686,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6256,
+      "sourceText": "Monsieur, tout ce qui touche Mozart me touche également, et le mépris avec lequel vous le traitez me répugne.",
+      "ipa": "[məsjø tu sə ki tuʃ mɔtsaʁ mə tuʃ‿eɡalmɑ̃ e lə mepʁi avɛk ləkɛl vu lə tʁɛte mə ʁepyɲ]",
+      "ear": "默斯耶厄 图 瑟 基 图什 莫特萨赫 默 图什 诶嘎勒芒 诶 勒 梅普希 阿韦克 勒凯勒 乌 勒 特赫特 默 赫普于涅",
+      "meaning": "先生，莫扎特的遭遇也牵动着我。您对他的轻蔑让我作呕。",
+      "sourceLineId": "mozart-timed-687-1",
+      "suppliedText": "Monsieur, tout ce qui touche Mozart me touche également, et le mépris avec lequel vous le traitez me répugne.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6256,
+        "anchorEnd": 6264.26,
+        "sourceLineNumber": 687,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6265,
+      "sourceText": "Constance!",
+      "ipa": "[kɔ̃stɑ̃s]",
+      "ear": "孔斯唐斯",
+      "meaning": "康斯坦丝！",
+      "sourceLineId": "mozart-timed-688-1",
+      "suppliedText": "Constance! Wolfgang!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6265,
+        "anchorEnd": 6270.94,
+        "sourceLineNumber": 688,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6268.564,
+      "sourceText": "Wolfgang!",
+      "ipa": "[vɔlfɡɑ̃ɡ]",
+      "ear": "沃勒弗冈格",
+      "meaning": "沃尔夫冈！",
+      "sourceLineId": "mozart-timed-688-2",
+      "suppliedText": "Constance! Wolfgang!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6265,
+        "anchorEnd": 6270.94,
+        "sourceLineNumber": 688,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6373,
+      "sourceText": "Que faites-vous là?",
+      "ipa": "[kə fɛtvu la]",
+      "ear": "克 费特乌 拉",
+      "meaning": "你来这里干什么？",
+      "sourceLineId": "mozart-timed-690-1",
+      "suppliedText": "Que faites-vous là? Qui vous a dit d'entrer?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6373,
+        "anchorEnd": 6378,
+        "sourceLineNumber": 690,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6375.5,
+      "sourceText": "Qui vous a dit d'entrer?",
+      "ipa": "[ki vuz‿a di dɑ̃tʁe]",
+      "ear": "基 乌兹 阿 迪 当特赫",
+      "meaning": "谁让你进来的？",
+      "sourceLineId": "mozart-timed-690-2",
+      "suppliedText": "Que faites-vous là? Qui vous a dit d'entrer?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6373,
+        "anchorEnd": 6378,
+        "sourceLineNumber": 690,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6378,
+      "sourceText": "Madame, j'ai appris la maladie de votre mari, et je voulais vous aider.",
+      "ipa": "[madam ʒe apʁi la maladi də votʁ maʁi e ʒə vulɛ vuz‿ɛde]",
+      "ear": "玛达姆 热 阿普希 拉 玛拉迪 德 沃特赫 玛希 诶 热 乌莱 乌兹 艾德",
+      "meaning": "夫人，我听说您丈夫病了，想来帮忙。",
+      "sourceLineId": "mozart-timed-691-1",
+      "suppliedText": "Madame, j'ai appris la maladie de votre mari, et je voulais vous aider.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6378,
+        "anchorEnd": 6387,
+        "sourceLineNumber": 691,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6387,
+      "sourceText": "Non, monsieur, rien.",
+      "ipa": "[nɔ̃ məsjø ʁjɛ̃]",
+      "ear": "农 默斯耶厄 赫耶安",
+      "meaning": "不，先生，什么也不用。",
+      "sourceLineId": "mozart-timed-692-1",
+      "suppliedText": "Non, monsieur, rien. Après tout le mal que vous nous avez fait? Ah, c'est vous! Salieri!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6387,
+        "anchorEnd": 6396,
+        "sourceLineNumber": 692,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6389.032,
+      "sourceText": "Après tout le mal que vous nous avez fait?",
+      "ipa": "[apʁɛ tu lə mal kə vu nuz‿ave fɛ]",
+      "ear": "阿普赫 图 勒 玛勒 克 乌 努兹 阿韦 费",
+      "meaning": "你给我们带来那么多伤害，还想来帮忙？",
+      "sourceLineId": "mozart-timed-692-2",
+      "suppliedText": "Non, monsieur, rien. Après tout le mal que vous nous avez fait? Ah, c'est vous! Salieri!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6387,
+        "anchorEnd": 6396,
+        "sourceLineNumber": 692,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6393.677,
+      "sourceText": "Ah, c'est vous!",
+      "ipa": "[a sɛ vu]",
+      "ear": "阿 塞 乌",
+      "meaning": "啊，是您！",
+      "sourceLineId": "mozart-timed-692-3",
+      "suppliedText": "Non, monsieur, rien. Après tout le mal que vous nous avez fait? Ah, c'est vous! Salieri!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6387,
+        "anchorEnd": 6396,
+        "sourceLineNumber": 692,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6394.839,
+      "sourceText": "Salieri!",
+      "ipa": "[saljeʁi]",
+      "ear": "萨勒耶诶希",
+      "meaning": "萨列里！",
+      "sourceLineId": "mozart-timed-692-4",
+      "suppliedText": "Non, monsieur, rien. Après tout le mal que vous nous avez fait? Ah, c'est vous! Salieri!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6387,
+        "anchorEnd": 6396,
+        "sourceLineNumber": 692,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6396,
+      "sourceText": "Comment allez-vous?",
+      "ipa": "[kɔmɑ̃ alevu]",
+      "ear": "科芒 阿莱乌",
+      "meaning": "您好吗？",
+      "sourceLineId": "mozart-timed-693-1",
+      "suppliedText": "- Comment allez-vous? - Wolfgang, repose-toi. Partez. Partez, je vous en supplie. C'est pas le moment! - Salieri! - Partez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6396,
+        "anchorEnd": 6404.179,
+        "sourceLineNumber": 693,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6397.402,
+      "sourceText": "Wolfgang, repose-toi.",
+      "ipa": "[vɔlfɡɑ̃ɡ ʁəpɔztwa]",
+      "ear": "沃勒弗冈格 赫珀兹特乌阿",
+      "meaning": "沃尔夫冈，好好休息。",
+      "sourceLineId": "mozart-timed-693-2",
+      "suppliedText": "- Comment allez-vous? - Wolfgang, repose-toi. Partez. Partez, je vous en supplie. C'est pas le moment! - Salieri! - Partez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6396,
+        "anchorEnd": 6404.179,
+        "sourceLineNumber": 693,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6399.038,
+      "sourceText": "Partez.",
+      "ipa": "[paʁte]",
+      "ear": "帕赫特",
+      "meaning": "请离开。",
+      "sourceLineId": "mozart-timed-693-3",
+      "suppliedText": "- Comment allez-vous? - Wolfgang, repose-toi. Partez. Partez, je vous en supplie. C'est pas le moment! - Salieri! - Partez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6396,
+        "anchorEnd": 6404.179,
+        "sourceLineNumber": 693,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6399.505,
+      "sourceText": "Partez, je vous en supplie.",
+      "ipa": "[paʁte ʒə vuz‿ɑ̃ sypli]",
+      "ear": "帕赫特 热 乌兹 昂 西于普利",
+      "meaning": "求您离开吧。",
+      "sourceLineId": "mozart-timed-693-4",
+      "suppliedText": "- Comment allez-vous? - Wolfgang, repose-toi. Partez. Partez, je vous en supplie. C'est pas le moment! - Salieri! - Partez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6396,
+        "anchorEnd": 6404.179,
+        "sourceLineNumber": 693,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6401.608,
+      "sourceText": "C'est pas le moment!",
+      "ipa": "[sɛ pa lə momɑ̃]",
+      "ear": "塞 帕 勒 莫芒",
+      "meaning": "现在不是时候！",
+      "sourceLineId": "mozart-timed-693-5",
+      "suppliedText": "- Comment allez-vous? - Wolfgang, repose-toi. Partez. Partez, je vous en supplie. C'est pas le moment! - Salieri! - Partez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6396,
+        "anchorEnd": 6404.179,
+        "sourceLineNumber": 693,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6402.777,
+      "sourceText": "Salieri!",
+      "ipa": "[saljeʁi]",
+      "ear": "萨勒耶诶希",
+      "meaning": "萨列里！",
+      "sourceLineId": "mozart-timed-693-6",
+      "suppliedText": "- Comment allez-vous? - Wolfgang, repose-toi. Partez. Partez, je vous en supplie. C'est pas le moment! - Salieri! - Partez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6396,
+        "anchorEnd": 6404.179,
+        "sourceLineNumber": 693,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6403.712,
+      "sourceText": "Partez!",
+      "ipa": "[paʁte]",
+      "ear": "帕赫特",
+      "meaning": "走吧！",
+      "sourceLineId": "mozart-timed-693-7",
+      "suppliedText": "- Comment allez-vous? - Wolfgang, repose-toi. Partez. Partez, je vous en supplie. C'est pas le moment! - Salieri! - Partez!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6396,
+        "anchorEnd": 6404.179,
+        "sourceLineNumber": 693,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6407,
+      "sourceText": "Vous savez, Salieri, je ne parviendrai jamais à le terminer, mon requiem.",
+      "ipa": "[vu save saljeʁi ʒə nə paʁvjɛ̃dʁe ʒamɛ a lə tɛʁmine mɔ̃ ʁekɥijɛm]",
+      "ear": "乌 萨韦 萨勒耶诶希 热 讷 帕赫弗耶安德赫 扎梅 阿 勒 泰赫米内 蒙 赫克于伊耶艾姆",
+      "meaning": "萨列里，您知道吗，我再也写不完我的安魂曲了。",
+      "sourceLineId": "mozart-timed-694-1",
+      "suppliedText": "Vous savez, Salieri, je ne parviendrai jamais à le terminer, mon requiem.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6407,
+        "anchorEnd": 6415,
+        "sourceLineNumber": 694,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6415,
+      "sourceText": "Mais si, Mozart.",
+      "ipa": "[mɛ si mɔtsaʁ]",
+      "ear": "梅 西 莫特萨赫",
+      "meaning": "能的，莫扎特。",
+      "sourceLineId": "mozart-timed-695-1",
+      "suppliedText": "Mais si, Mozart. Vous guérirez. Non, mon ami.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6415,
+        "anchorEnd": 6421,
+        "sourceLineNumber": 695,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6417.0,
+      "sourceText": "Vous guérirez.",
+      "ipa": "[vu ɡeʁiʁe]",
+      "ear": "乌 格希赫",
+      "meaning": "您会好起来的。",
+      "sourceLineId": "mozart-timed-695-2",
+      "suppliedText": "Mais si, Mozart. Vous guérirez. Non, mon ami.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6415,
+        "anchorEnd": 6421,
+        "sourceLineNumber": 695,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6419.4,
+      "sourceText": "Non, mon ami.",
+      "ipa": "[nɔ̃ mɔ̃n‿ami]",
+      "ear": "农 蒙恩 阿米",
+      "meaning": "不，我的朋友。",
+      "sourceLineId": "mozart-timed-695-3",
+      "suppliedText": "Mais si, Mozart. Vous guérirez. Non, mon ami.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6415,
+        "anchorEnd": 6421,
+        "sourceLineNumber": 695,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6421,
+      "sourceText": "La mort est là.",
+      "ipa": "[la mɔʁ‿ɛ la]",
+      "ear": "拉 莫赫 艾 拉",
+      "meaning": "死神已经来了。",
+      "sourceLineId": "mozart-timed-696-1",
+      "suppliedText": "- La mort est là. - Wolfgang, ne dis pas ça, tu vas nous porter malheur! Je ramène le médecin. Non, Constance!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6421,
+        "anchorEnd": 6429,
+        "sourceLineNumber": 696,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6422.032,
+      "sourceText": "Wolfgang, ne dis pas ça, tu vas nous porter malheur!",
+      "ipa": "[vɔlfɡɑ̃ɡ nə di pa sa ty va nu pɔʁte malœʁ]",
+      "ear": "沃勒弗冈格 讷 迪 帕 萨 蒂于 瓦 努 珀赫特 玛勒厄赫",
+      "meaning": "沃尔夫冈，别这么说，太不吉利了！",
+      "sourceLineId": "mozart-timed-696-2",
+      "suppliedText": "- La mort est là. - Wolfgang, ne dis pas ça, tu vas nous porter malheur! Je ramène le médecin. Non, Constance!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6421,
+        "anchorEnd": 6429,
+        "sourceLineNumber": 696,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6425.903,
+      "sourceText": "Je ramène le médecin.",
+      "ipa": "[ʒə ʁamɛn lə medəsɛ̃]",
+      "ear": "热 哈梅恩 勒 梅德森",
+      "meaning": "我去找医生来。",
+      "sourceLineId": "mozart-timed-696-3",
+      "suppliedText": "- La mort est là. - Wolfgang, ne dis pas ça, tu vas nous porter malheur! Je ramène le médecin. Non, Constance!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6421,
+        "anchorEnd": 6429,
+        "sourceLineNumber": 696,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6427.968,
+      "sourceText": "Non, Constance!",
+      "ipa": "[nɔ̃ kɔ̃stɑ̃s]",
+      "ear": "农 孔斯唐斯",
+      "meaning": "不，康斯坦丝！",
+      "sourceLineId": "mozart-timed-696-4",
+      "suppliedText": "- La mort est là. - Wolfgang, ne dis pas ça, tu vas nous porter malheur! Je ramène le médecin. Non, Constance!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6421,
+        "anchorEnd": 6429,
+        "sourceLineNumber": 696,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6429,
+      "sourceText": "Ça ne sert plus à rien.",
+      "ipa": "[sa nə sɛʁ plyz‿a ʁjɛ̃]",
+      "ear": "萨 讷 塞赫 普吕兹 阿 赫耶安",
+      "meaning": "已经没有用了。",
+      "sourceLineId": "mozart-timed-697-1",
+      "suppliedText": "Ça ne sert plus à rien. Je veux voir Süssmayer, il doit finir le requiem. Va, sur la table, il y a les notes, les esquisses.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6429,
+        "anchorEnd": 6437,
+        "sourceLineNumber": 697,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6430.333,
+      "sourceText": "Je veux voir",
+      "ipa": "[ʒə vø vwaʁ]",
+      "ear": "热 弗厄 弗乌阿赫",
+      "meaning": "我想见——",
+      "sourceLineId": "mozart-timed-697-2",
+      "suppliedText": "Ça ne sert plus à rien. Je veux voir Süssmayer, il doit finir le requiem. Va, sur la table, il y a les notes, les esquisses.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6429,
+        "anchorEnd": 6437,
+        "sourceLineNumber": 697,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6431.286,
+      "sourceText": "Süssmayer, il doit finir le requiem.",
+      "ipa": "[sysmɛje il dwa finiʁ lə ʁekɥijɛm]",
+      "ear": "西于斯梅耶诶 伊勒 德乌阿 菲尼赫 勒 赫克于伊耶艾姆",
+      "meaning": "叙斯迈尔，他得把安魂曲写完。",
+      "sourceLineId": "mozart-timed-697-3",
+      "suppliedText": "Ça ne sert plus à rien. Je veux voir Süssmayer, il doit finir le requiem. Va, sur la table, il y a les notes, les esquisses.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6429,
+        "anchorEnd": 6437,
+        "sourceLineNumber": 697,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6433.952,
+      "sourceText": "Va, sur la table, il y a les notes, les esquisses.",
+      "ipa": "[va syʁ la tabl il‿i a le not lez‿ɛskis]",
+      "ear": "瓦 西于赫 拉 塔布勒 伊勒 伊 阿 莱 诺特 莱兹 艾斯基斯",
+      "meaning": "去吧，桌上有笔记和草稿。",
+      "sourceLineId": "mozart-timed-697-4",
+      "suppliedText": "Ça ne sert plus à rien. Je veux voir Süssmayer, il doit finir le requiem. Va, sur la table, il y a les notes, les esquisses.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6429,
+        "anchorEnd": 6437,
+        "sourceLineNumber": 697,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6437,
+      "sourceText": "Va, maintenant.",
+      "ipa": "[va mɛ̃tnɑ̃]",
+      "ear": "瓦 曼特南",
+      "meaning": "现在就去。",
+      "sourceLineId": "mozart-timed-698-1",
+      "suppliedText": "- Va, maintenant. Va! - Non.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6437,
+        "anchorEnd": 6439.5,
+        "sourceLineNumber": 698,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6438.786,
+      "sourceText": "Va!",
+      "ipa": "[va]",
+      "ear": "瓦",
+      "meaning": "快去！",
+      "sourceLineId": "mozart-timed-698-2",
+      "suppliedText": "- Va, maintenant. Va! - Non.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6437,
+        "anchorEnd": 6439.5,
+        "sourceLineNumber": 698,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6439.143,
+      "sourceText": "Non.",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不。",
+      "sourceLineId": "mozart-timed-698-3",
+      "suppliedText": "- Va, maintenant. Va! - Non.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6437,
+        "anchorEnd": 6439.5,
+        "sourceLineNumber": 698,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

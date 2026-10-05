@@ -1,0 +1,2589 @@
+{
+  "videoId": "mozart-2010-09",
+  "playbackVideoId": "83Qn2IvP_-I",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "97aaf400c790393fcb53f1f43bb1002cc0955e5fa8ec3c8c767c03260daed16c",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "法语原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "2010年巴黎原唱录像",
+      "url": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=2226"
+    }
+  ],
+  "entries": [
+    {
+      "start": 2226,
+      "sourceText": "Divine, candide, libertine",
+      "ipa": "[divin kɑ̃did libɛʁtin]",
+      "ear": "迪维恩 康迪德 利贝赫蒂恩",
+      "meaning": "迷人，天真，又放荡。",
+      "sourceLineId": "mozart-timed-248-1",
+      "suppliedText": "# Tatoue-moi # Divine, candide, libertine Ce soir, je viens m'inviter dans ton lit",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2226,
+        "anchorEnd": 2233.42,
+        "sourceLineNumber": 248,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2229.373,
+      "sourceText": "Ce soir, je viens m'inviter dans ton lit",
+      "ipa": "[sə swaʁ ʒə vjɛ̃ mɛ̃vite dɑ̃ tɔ̃ li]",
+      "ear": "瑟 斯乌阿赫 热 弗耶安 曼维特 当 通 利",
+      "meaning": "今晚，我要不请自来，躺进你的床。",
+      "sourceLineId": "mozart-timed-248-2",
+      "suppliedText": "# Tatoue-moi # Divine, candide, libertine Ce soir, je viens m'inviter dans ton lit",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2226,
+        "anchorEnd": 2233.42,
+        "sourceLineNumber": 248,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2235,
+      "sourceText": "Laissons dormir les maris",
+      "ipa": "[lɛsɔ̃ dɔʁmiʁ le maʁi]",
+      "ear": "莱松 多赫米赫 莱 玛希",
+      "meaning": "就让丈夫们安睡吧。",
+      "sourceLineId": "mozart-timed-249-1",
+      "suppliedText": "Laissons dormir les maris Allons nous aimer au nez des braves gens",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2235,
+        "anchorEnd": 2241.58,
+        "sourceLineNumber": 249,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2237.393,
+      "sourceText": "Allons nous aimer au nez des braves gens",
+      "ipa": "[alɔ̃ nuz‿ɛme o ne de bʁav ʒɑ̃]",
+      "ear": "阿隆 努兹 艾梅 奥 内 德 布哈弗 让",
+      "meaning": "我们就当着那些正派人的面相爱。",
+      "sourceLineId": "mozart-timed-249-2",
+      "suppliedText": "Laissons dormir les maris Allons nous aimer au nez des braves gens",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2235,
+        "anchorEnd": 2241.58,
+        "sourceLineNumber": 249,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2243,
+      "sourceText": "J'apprendrai ta langue et ton accent",
+      "ipa": "[ʒapʁɑ̃dʁe ta lɑ̃ɡ e tɔ̃n‿aksɑ̃]",
+      "ear": "扎普杭德赫 塔 朗格 诶 通恩 阿克桑",
+      "meaning": "我要学会你的语言和口音。",
+      "sourceLineId": "mozart-timed-250-1",
+      "suppliedText": "J'apprendrai ta langue et ton accent Pour te comprendre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2243,
+        "anchorEnd": 2251,
+        "sourceLineNumber": 250,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2248.333,
+      "sourceText": "Pour te comprendre",
+      "ipa": "[puʁ tə kɔ̃pʁɑ̃dʁ]",
+      "ear": "普赫 特 孔普杭德赫",
+      "meaning": "了解你",
+      "sourceLineId": "mozart-timed-250-2",
+      "suppliedText": "J'apprendrai ta langue et ton accent Pour te comprendre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2243,
+        "anchorEnd": 2251,
+        "sourceLineNumber": 250,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2251,
+      "sourceText": "Je serai frivole et décadent",
+      "ipa": "[ʒə səʁe fʁivɔl e dekad]",
+      "ear": "热 瑟赫 弗希沃勒 诶 德卡德",
+      "meaning": "我要轻浮又颓靡。",
+      "sourceLineId": "mozart-timed-251-1",
+      "suppliedText": "Je serai frivole et décadent Pour te surprendre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2251,
+        "anchorEnd": 2259,
+        "sourceLineNumber": 251,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2256.176,
+      "sourceText": "Pour te surprendre",
+      "ipa": "[puʁ tə syʁpʁɑ̃dʁ]",
+      "ear": "普赫 特 西于赫普杭德赫",
+      "meaning": "给你一个惊喜",
+      "sourceLineId": "mozart-timed-251-2",
+      "suppliedText": "Je serai frivole et décadent Pour te surprendre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2251,
+        "anchorEnd": 2259,
+        "sourceLineNumber": 251,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2259,
+      "sourceText": "Tatoue-moi sur tes seins, fais-le du bout",
+      "ipa": "[tatumwa syʁ te sɛ̃ fɛlə dy bu]",
+      "ear": "塔图姆乌阿 西于赫 特 森 费勒 迪于 布",
+      "meaning": "把我纹在你的胸前，用我的——",
+      "sourceLineId": "mozart-timed-252-1",
+      "suppliedText": "Tatoue-moi sur tes seins, fais-le du bout De mes lèvres Je baiserai tes mains",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2259,
+        "anchorEnd": 2269,
+        "sourceLineNumber": 252,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2264.517,
+      "sourceText": "De mes lèvres",
+      "ipa": "[də me lɛvʁ]",
+      "ear": "德 梅 莱弗赫",
+      "meaning": "唇尖。",
+      "sourceLineId": "mozart-timed-252-2",
+      "suppliedText": "Tatoue-moi sur tes seins, fais-le du bout De mes lèvres Je baiserai tes mains",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2259,
+        "anchorEnd": 2269,
+        "sourceLineNumber": 252,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2265.897,
+      "sourceText": "Je baiserai tes mains",
+      "ipa": "[ʒə bɛzʁe te mɛ̃]",
+      "ear": "热 贝兹赫 特 曼",
+      "meaning": "我会亲吻你的双手。",
+      "sourceLineId": "mozart-timed-252-3",
+      "suppliedText": "Tatoue-moi sur tes seins, fais-le du bout De mes lèvres Je baiserai tes mains",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2259,
+        "anchorEnd": 2269,
+        "sourceLineNumber": 252,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2269,
+      "sourceText": "Je ferai que ça te plaise",
+      "ipa": "[ʒə fəʁe kə sa tə plɛz]",
+      "ear": "热 弗赫 克 萨 特 普莱兹",
+      "meaning": "我会让你喜欢。",
+      "sourceLineId": "mozart-timed-253-1",
+      "suppliedText": "Je ferai que ça te plaise Du bout de mes lèvres Tatoue-moi sur tes murs, un futur",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2269,
+        "anchorEnd": 2278.94,
+        "sourceLineNumber": 253,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2272.645,
+      "sourceText": "Du bout de mes lèvres",
+      "ipa": "[dy bu də me lɛvʁ]",
+      "ear": "迪于 布 德 梅 莱弗赫",
+      "meaning": "用我的唇尖。",
+      "sourceLineId": "mozart-timed-253-2",
+      "suppliedText": "Je ferai que ça te plaise Du bout de mes lèvres Tatoue-moi sur tes murs, un futur",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2269,
+        "anchorEnd": 2278.94,
+        "sourceLineNumber": 253,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2274.964,
+      "sourceText": "Tatoue-moi sur tes murs, un futur",
+      "ipa": "[tatumwa syʁ te myʁ œ̃ fytyʁ]",
+      "ear": "塔图姆乌阿 西于赫 特 米于赫 恩 菲于蒂于赫",
+      "meaning": "把我纹在你的墙上，谱写一个——",
+      "sourceLineId": "mozart-timed-253-3",
+      "suppliedText": "Je ferai que ça te plaise Du bout de mes lèvres Tatoue-moi sur tes murs, un futur",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2269,
+        "anchorEnd": 2278.94,
+        "sourceLineNumber": 253,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2279,
+      "sourceText": "À composer",
+      "ipa": "[a kɔ̃poze]",
+      "ear": "阿 孔波泽",
+      "meaning": "未来。",
+      "sourceLineId": "mozart-timed-254-1",
+      "suppliedText": "À composer Je veux graver toutes mes luxures",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2279,
+        "anchorEnd": 2285.34,
+        "sourceLineNumber": 254,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2280.585,
+      "sourceText": "Je veux graver toutes mes luxures",
+      "ipa": "[ʒə vø ɡʁave tut me lyksyʁ]",
+      "ear": "热 弗厄 格哈韦 图特 梅 吕克西于赫",
+      "meaning": "我要刻下我所有的欲望。",
+      "sourceLineId": "mozart-timed-254-2",
+      "suppliedText": "À composer Je veux graver toutes mes luxures",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2279,
+        "anchorEnd": 2285.34,
+        "sourceLineNumber": 254,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2286,
+      "sourceText": "Sur tes dorures",
+      "ipa": "[syʁ te doʁyʁ]",
+      "ear": "西于赫 特 多许赫",
+      "meaning": "刻在你的金色装饰上。",
+      "sourceLineId": "mozart-timed-255-1",
+      "suppliedText": "Sur tes dorures Sortons bras dessus bras dessous",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2286,
+        "anchorEnd": 2293,
+        "sourceLineNumber": 255,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2288.5,
+      "sourceText": "Sortons bras dessus bras dessous",
+      "ipa": "[sɔʁtɔ̃ bʁa dəsy bʁa dəsu]",
+      "ear": "索赫通 布哈 德西于 布哈 德苏",
+      "meaning": "我们挽着手出门吧。",
+      "sourceLineId": "mozart-timed-255-2",
+      "suppliedText": "Sur tes dorures Sortons bras dessus bras dessous",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2286,
+        "anchorEnd": 2293,
+        "sourceLineNumber": 255,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2293,
+      "sourceText": "Et n'ayons crainte de leur vile arrogance",
+      "ipa": "[e nɛjɔ̃ kʁɛ̃t də lœʁ vil‿aʁoɡɑ̃s]",
+      "ear": "诶 奈耶翁 克汉特 德 勒厄赫 维勒 阿霍冈斯",
+      "meaning": "别怕那些卑劣又傲慢的家伙。",
+      "sourceLineId": "mozart-timed-256-1",
+      "suppliedText": "Et n'ayons crainte de leur vile arrogance Mais quelle inconvenance!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2293,
+        "anchorEnd": 2298,
+        "sourceLineNumber": 256,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2296.077,
+      "sourceText": "Mais quelle inconvenance!",
+      "ipa": "[mɛ kɛl‿ɛ̃kɔ̃vnɑ̃s]",
+      "ear": "梅 凯勒 安孔弗南斯",
+      "meaning": "真是太不成体统了！",
+      "sourceLineId": "mozart-timed-256-2",
+      "suppliedText": "Et n'ayons crainte de leur vile arrogance Mais quelle inconvenance!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2293,
+        "anchorEnd": 2298,
+        "sourceLineNumber": 256,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2298,
+      "sourceText": "Allons chez les bourgeois",
+      "ipa": "[alɔ̃ ʃe le buʁʒwa]",
+      "ear": "阿隆 谢 莱 布赫日乌阿",
+      "meaning": "我们去资产阶级吧",
+      "sourceLineId": "mozart-timed-257-1",
+      "suppliedText": "Allons chez les bourgeois Siffler leur vin, taquiner leur conscience Tu paieras cette offense",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2298,
+        "anchorEnd": 2305.58,
+        "sourceLineNumber": 257,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2300.006,
+      "sourceText": "Siffler leur vin, taquiner leur conscience",
+      "ipa": "[sifle lœʁ vɛ̃ takine lœʁ kɔ̃sjɑ̃s]",
+      "ear": "西弗莱 勒厄赫 万 塔基内 勒厄赫 孔斯耶昂斯",
+      "meaning": "喝光他们的酒，撩拨他们的良心。",
+      "sourceLineId": "mozart-timed-257-2",
+      "suppliedText": "Allons chez les bourgeois Siffler leur vin, taquiner leur conscience Tu paieras cette offense",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2298,
+        "anchorEnd": 2305.58,
+        "sourceLineNumber": 257,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2303.351,
+      "sourceText": "Tu paieras cette offense",
+      "ipa": "[ty pɛʁa sɛt‿ɔfɑ̃s]",
+      "ear": "蒂于 佩哈 塞特 哦芳斯",
+      "meaning": "你会为这冒犯付出代价。",
+      "sourceLineId": "mozart-timed-257-3",
+      "suppliedText": "Allons chez les bourgeois Siffler leur vin, taquiner leur conscience Tu paieras cette offense",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2298,
+        "anchorEnd": 2305.58,
+        "sourceLineNumber": 257,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2306,
+      "sourceText": "Que m'importent les rires et les regards",
+      "ipa": "[kə mɛ̃pɔʁt le ʁiʁ e le ʁəɡaʁ]",
+      "ear": "克 曼珀赫特 莱 希赫 诶 莱 赫嘎赫",
+      "meaning": "我哪会在乎那些笑声和目光。",
+      "sourceLineId": "mozart-timed-258-1",
+      "suppliedText": "Que m'importent les rires et les regards Sur mes travers",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2306,
+        "anchorEnd": 2313.859,
+        "sourceLineNumber": 258,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2311.894,
+      "sourceText": "Sur mes travers",
+      "ipa": "[syʁ me tʁavɛʁ]",
+      "ear": "西于赫 梅 特哈韦赫",
+      "meaning": "对我这些怪脾气的嘲笑。",
+      "sourceLineId": "mozart-timed-258-2",
+      "suppliedText": "Que m'importent les rires et les regards Sur mes travers",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2306,
+        "anchorEnd": 2313.859,
+        "sourceLineNumber": 258,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2314,
+      "sourceText": "Ils sont ma richesse, mon étendard",
+      "ipa": "[il sɔ̃ ma ʁiʃɛs mɔ̃n‿etɑ̃daʁ]",
+      "ear": "伊勒 松 玛 希谢斯 蒙恩 诶唐达赫",
+      "meaning": "它们是我的财富，我的旗帜。",
+      "sourceLineId": "mozart-timed-259-1",
+      "suppliedText": "Ils sont ma richesse, mon étendard Ils sont ma terre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2314,
+        "anchorEnd": 2320.42,
+        "sourceLineNumber": 259,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2318.28,
+      "sourceText": "Ils sont ma terre",
+      "ipa": "[il sɔ̃ ma tɛʁ]",
+      "ear": "伊勒 松 玛 泰赫",
+      "meaning": "它们是我安身的土地。",
+      "sourceLineId": "mozart-timed-259-2",
+      "suppliedText": "Ils sont ma richesse, mon étendard Ils sont ma terre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2314,
+        "anchorEnd": 2320.42,
+        "sourceLineNumber": 259,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2322,
+      "sourceText": "Tatoue-moi sur tes seins",
+      "ipa": "[tatumwa syʁ te sɛ̃]",
+      "ear": "塔图姆乌阿 西于赫 特 森",
+      "meaning": "把我纹在你的胸前。",
+      "sourceLineId": "mozart-timed-260-1",
+      "suppliedText": "Tatoue-moi sur tes seins Fais-le du bout De mes lèvres Mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2322,
+        "anchorEnd": 2329.18,
+        "sourceLineNumber": 260,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2325.122,
+      "sourceText": "Fais-le du bout",
+      "ipa": "[fɛlə dy bu]",
+      "ear": "费勒 迪于 布",
+      "meaning": "用你的——",
+      "sourceLineId": "mozart-timed-260-2",
+      "suppliedText": "Tatoue-moi sur tes seins Fais-le du bout De mes lèvres Mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2322,
+        "anchorEnd": 2329.18,
+        "sourceLineNumber": 260,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2326.995,
+      "sourceText": "De mes lèvres",
+      "ipa": "[də me lɛvʁ]",
+      "ear": "德 梅 莱弗赫",
+      "meaning": "唇尖。",
+      "sourceLineId": "mozart-timed-260-3",
+      "suppliedText": "Tatoue-moi sur tes seins Fais-le du bout De mes lèvres Mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2322,
+        "anchorEnd": 2329.18,
+        "sourceLineNumber": 260,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2328.243,
+      "sourceText": "Mes lèvres",
+      "ipa": "[me lɛvʁ]",
+      "ear": "梅 莱弗赫",
+      "meaning": "我的嘴唇",
+      "sourceLineId": "mozart-timed-260-4",
+      "suppliedText": "Tatoue-moi sur tes seins Fais-le du bout De mes lèvres Mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2322,
+        "anchorEnd": 2329.18,
+        "sourceLineNumber": 260,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2330,
+      "sourceText": "Je baiserai tes mains",
+      "ipa": "[ʒə bɛzʁe te mɛ̃]",
+      "ear": "热 贝兹赫 特 曼",
+      "meaning": "我会亲吻你的双手。",
+      "sourceLineId": "mozart-timed-261-1",
+      "suppliedText": "Je baiserai tes mains Je ferai que ça te plaise Du bout de mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2330,
+        "anchorEnd": 2337,
+        "sourceLineNumber": 261,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2332.333,
+      "sourceText": "Je ferai que ça te plaise",
+      "ipa": "[ʒə fəʁe kə sa tə plɛz]",
+      "ear": "热 弗赫 克 萨 特 普莱兹",
+      "meaning": "我会让你喜欢。",
+      "sourceLineId": "mozart-timed-261-2",
+      "suppliedText": "Je baiserai tes mains Je ferai que ça te plaise Du bout de mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2330,
+        "anchorEnd": 2337,
+        "sourceLineNumber": 261,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2335.185,
+      "sourceText": "Du bout de mes lèvres",
+      "ipa": "[dy bu də me lɛvʁ]",
+      "ear": "迪于 布 德 梅 莱弗赫",
+      "meaning": "用我的唇尖。",
+      "sourceLineId": "mozart-timed-261-3",
+      "suppliedText": "Je baiserai tes mains Je ferai que ça te plaise Du bout de mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2330,
+        "anchorEnd": 2337,
+        "sourceLineNumber": 261,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2337,
+      "sourceText": "Tatoue-moi sur tes murs, un futur",
+      "ipa": "[tatumwa syʁ te myʁ œ̃ fytyʁ]",
+      "ear": "塔图姆乌阿 西于赫 特 米于赫 恩 菲于蒂于赫",
+      "meaning": "把我纹在你的墙上，谱写一个——",
+      "sourceLineId": "mozart-timed-262-1",
+      "suppliedText": "Tatoue-moi sur tes murs, un futur À composer Je veux garder",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2337,
+        "anchorEnd": 2346,
+        "sourceLineNumber": 262,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2342.143,
+      "sourceText": "À composer",
+      "ipa": "[a kɔ̃poze]",
+      "ear": "阿 孔波泽",
+      "meaning": "未来。",
+      "sourceLineId": "mozart-timed-262-2",
+      "suppliedText": "Tatoue-moi sur tes murs, un futur À composer Je veux garder",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2337,
+        "anchorEnd": 2346,
+        "sourceLineNumber": 262,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2343.857,
+      "sourceText": "Je veux garder",
+      "ipa": "[ʒə vø ɡaʁde]",
+      "ear": "热 弗厄 嘎赫德",
+      "meaning": "我想保留",
+      "sourceLineId": "mozart-timed-262-3",
+      "suppliedText": "Tatoue-moi sur tes murs, un futur À composer Je veux garder",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2337,
+        "anchorEnd": 2346,
+        "sourceLineNumber": 262,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2346,
+      "sourceText": "Toutes mes luxures",
+      "ipa": "[tut me lyksyʁ]",
+      "ear": "图特 梅 吕克西于赫",
+      "meaning": "我所有的欲望",
+      "sourceLineId": "mozart-timed-263-1",
+      "suppliedText": "Toutes mes luxures Sur tes dorures Te tatouer sans mesure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2346,
+        "anchorEnd": 2353.58,
+        "sourceLineNumber": 263,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2348.527,
+      "sourceText": "Sur tes dorures",
+      "ipa": "[syʁ te doʁyʁ]",
+      "ear": "西于赫 特 多许赫",
+      "meaning": "刻在你的金色装饰上。",
+      "sourceLineId": "mozart-timed-263-2",
+      "suppliedText": "Toutes mes luxures Sur tes dorures Te tatouer sans mesure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2346,
+        "anchorEnd": 2353.58,
+        "sourceLineNumber": 263,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2350.331,
+      "sourceText": "Te tatouer sans mesure",
+      "ipa": "[tə tatwe sɑ̃ məzyʁ]",
+      "ear": "特 塔特乌诶 桑 默齐于赫",
+      "meaning": "尽情把印记留在你身上。",
+      "sourceLineId": "mozart-timed-263-3",
+      "suppliedText": "Toutes mes luxures Sur tes dorures Te tatouer sans mesure",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2346,
+        "anchorEnd": 2353.58,
+        "sourceLineNumber": 263,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2356,
+      "sourceText": "Sans mesure",
+      "ipa": "[sɑ̃ məzyʁ]",
+      "ear": "桑 默齐于赫",
+      "meaning": "毫无节制。",
+      "sourceLineId": "mozart-timed-264-1",
+      "suppliedText": "Sans mesure Laisse-toi tomber dans mes bras",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2356,
+        "anchorEnd": 2363,
+        "sourceLineNumber": 264,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2358.0,
+      "sourceText": "Laisse-toi tomber dans mes bras",
+      "ipa": "[lɛstwa tɔ̃be dɑ̃ me bʁa]",
+      "ear": "莱斯特乌阿 通贝 当 梅 布哈",
+      "meaning": "让自己投入我的怀抱",
+      "sourceLineId": "mozart-timed-264-2",
+      "suppliedText": "Sans mesure Laisse-toi tomber dans mes bras",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2356,
+        "anchorEnd": 2363,
+        "sourceLineNumber": 264,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2363,
+      "sourceText": "Glisse-moi sous tes draps, dérivons jusqu'à l'outrance",
+      "ipa": "[ɡlismwa su te dʁa deʁivɔ̃ ʒyska lutʁɑ̃s]",
+      "ear": "格利斯姆乌阿 苏 特 德哈 德希翁 日于斯卡 卢特杭斯",
+      "meaning": "让我钻进你的被窝，一起放纵到底。",
+      "sourceLineId": "mozart-timed-265-1",
+      "suppliedText": "Glisse-moi sous tes draps, dérivons jusqu'à l'outrance Chantons pour les bienséants les délices",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2363,
+        "anchorEnd": 2372,
+        "sourceLineNumber": 265,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2368.226,
+      "sourceText": "Chantons pour les bienséants les délices",
+      "ipa": "[ʃɑ̃tɔ̃ puʁ le bjɛ̃seɑ̃ le delis]",
+      "ear": "尚通 普赫 莱 布耶安塞昂 莱 德利斯",
+      "meaning": "让我们给那些体面人唱出——",
+      "sourceLineId": "mozart-timed-265-2",
+      "suppliedText": "Glisse-moi sous tes draps, dérivons jusqu'à l'outrance Chantons pour les bienséants les délices",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2363,
+        "anchorEnd": 2372,
+        "sourceLineNumber": 265,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2372,
+      "sourceText": "De l'indécence",
+      "ipa": "[də lɛ̃desɑ̃s]",
+      "ear": "德 兰德桑斯",
+      "meaning": "放纵的欢愉。",
+      "sourceLineId": "mozart-timed-266-1",
+      "suppliedText": "De l'indécence Tatoue-moi sur tes seins Fais-le du bout de mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2372,
+        "anchorEnd": 2382,
+        "sourceLineNumber": 266,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2374.0,
+      "sourceText": "Tatoue-moi sur tes seins",
+      "ipa": "[tatumwa syʁ te sɛ̃]",
+      "ear": "塔图姆乌阿 西于赫 特 森",
+      "meaning": "把我纹在你的胸前。",
+      "sourceLineId": "mozart-timed-266-2",
+      "suppliedText": "De l'indécence Tatoue-moi sur tes seins Fais-le du bout de mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2372,
+        "anchorEnd": 2382,
+        "sourceLineNumber": 266,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2378.0,
+      "sourceText": "Fais-le du bout de mes lèvres",
+      "ipa": "[fɛlə dy bu də me lɛvʁ]",
+      "ear": "费勒 迪于 布 德 梅 莱弗赫",
+      "meaning": "用我的唇尖来完成。",
+      "sourceLineId": "mozart-timed-266-3",
+      "suppliedText": "De l'indécence Tatoue-moi sur tes seins Fais-le du bout de mes lèvres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2372,
+        "anchorEnd": 2382,
+        "sourceLineNumber": 266,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2382,
+      "sourceText": "Mes lèvres",
+      "ipa": "[me lɛvʁ]",
+      "ear": "梅 莱弗赫",
+      "meaning": "我的嘴唇",
+      "sourceLineId": "mozart-timed-267-1",
+      "suppliedText": "Mes lèvres Je baiserai tes mains Je ferai que ça te plaise",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2382,
+        "anchorEnd": 2390,
+        "sourceLineNumber": 267,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2383.043,
+      "sourceText": "Je baiserai tes mains",
+      "ipa": "[ʒə bɛzʁe te mɛ̃]",
+      "ear": "热 贝兹赫 特 曼",
+      "meaning": "我会亲吻你的双手。",
+      "sourceLineId": "mozart-timed-267-2",
+      "suppliedText": "Mes lèvres Je baiserai tes mains Je ferai que ça te plaise",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2382,
+        "anchorEnd": 2390,
+        "sourceLineNumber": 267,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2386.174,
+      "sourceText": "Je ferai que ça te plaise",
+      "ipa": "[ʒə fəʁe kə sa tə plɛz]",
+      "ear": "热 弗赫 克 萨 特 普莱兹",
+      "meaning": "我会让你喜欢。",
+      "sourceLineId": "mozart-timed-267-3",
+      "suppliedText": "Mes lèvres Je baiserai tes mains Je ferai que ça te plaise",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2382,
+        "anchorEnd": 2390,
+        "sourceLineNumber": 267,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2390,
+      "sourceText": "Du bout de mes lèvres",
+      "ipa": "[dy bu də me lɛvʁ]",
+      "ear": "迪于 布 德 梅 莱弗赫",
+      "meaning": "用我的唇尖。",
+      "sourceLineId": "mozart-timed-268-1",
+      "suppliedText": "Du bout de mes lèvres Tatoue-moi sur tes murs Un futur à composer",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2390,
+        "anchorEnd": 2397.66,
+        "sourceLineNumber": 268,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2392.331,
+      "sourceText": "Tatoue-moi sur tes murs",
+      "ipa": "[tatumwa syʁ te myʁ]",
+      "ear": "塔图姆乌阿 西于赫 特 米于赫",
+      "meaning": "把我纹身在你的墙上",
+      "sourceLineId": "mozart-timed-268-2",
+      "suppliedText": "Du bout de mes lèvres Tatoue-moi sur tes murs Un futur à composer",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2390,
+        "anchorEnd": 2397.66,
+        "sourceLineNumber": 268,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2395.329,
+      "sourceText": "Un futur à composer",
+      "ipa": "[œ̃ fytyʁ‿a kɔ̃poze]",
+      "ear": "恩 菲于蒂于赫 阿 孔波泽",
+      "meaning": "一个等待谱写的未来。",
+      "sourceLineId": "mozart-timed-268-3",
+      "suppliedText": "Du bout de mes lèvres Tatoue-moi sur tes murs Un futur à composer",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2390,
+        "anchorEnd": 2397.66,
+        "sourceLineNumber": 268,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2399,
+      "sourceText": "Je veux graver",
+      "ipa": "[ʒə vø ɡʁave]",
+      "ear": "热 弗厄 格哈韦",
+      "meaning": "我想要雕刻",
+      "sourceLineId": "mozart-timed-269-1",
+      "suppliedText": "Je veux graver Toutes mes luxures sur tes dorures",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2399,
+        "anchorEnd": 2406.06,
+        "sourceLineNumber": 269,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2401.076,
+      "sourceText": "Toutes mes luxures sur tes dorures",
+      "ipa": "[tut me lyksyʁ syʁ te doʁyʁ]",
+      "ear": "图特 梅 吕克西于赫 西于赫 特 多许赫",
+      "meaning": "把我所有的欲望刻在你的金饰上。",
+      "sourceLineId": "mozart-timed-269-2",
+      "suppliedText": "Je veux graver Toutes mes luxures sur tes dorures",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2399,
+        "anchorEnd": 2406.06,
+        "sourceLineNumber": 269,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2417,
+      "sourceText": "Wolfgang!",
+      "ipa": "[vɔlfɡɑ̃ɡ]",
+      "ear": "沃勒弗冈格",
+      "meaning": "沃尔夫冈！",
+      "sourceLineId": "mozart-timed-270-1",
+      "suppliedText": "Wolfgang! Maman? Maman! Maman, réveille-toi.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2417,
+        "anchorEnd": 2427,
+        "sourceLineNumber": 270,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2418.429,
+      "sourceText": "Maman?",
+      "ipa": "[mamɑ̃]",
+      "ear": "玛芒",
+      "meaning": "妈妈？",
+      "sourceLineId": "mozart-timed-270-2",
+      "suppliedText": "Wolfgang! Maman? Maman! Maman, réveille-toi.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2417,
+        "anchorEnd": 2427,
+        "sourceLineNumber": 270,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2419.857,
+      "sourceText": "Maman!",
+      "ipa": "[mamɑ̃]",
+      "ear": "玛芒",
+      "meaning": "妈妈！",
+      "sourceLineId": "mozart-timed-270-3",
+      "suppliedText": "Wolfgang! Maman? Maman! Maman, réveille-toi.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2417,
+        "anchorEnd": 2427,
+        "sourceLineNumber": 270,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2421.286,
+      "sourceText": "Maman, réveille-toi.",
+      "ipa": "[mamɑ̃ ʁevɛjtwa]",
+      "ear": "玛芒 赫韦耶特乌阿",
+      "meaning": "妈妈，醒醒。",
+      "sourceLineId": "mozart-timed-270-4",
+      "suppliedText": "Wolfgang! Maman? Maman! Maman, réveille-toi.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2417,
+        "anchorEnd": 2427,
+        "sourceLineNumber": 270,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2427,
+      "sourceText": "Réveille-toi, maman.",
+      "ipa": "[ʁevɛjtwa mamɑ̃]",
+      "ear": "赫韦耶特乌阿 玛芒",
+      "meaning": "醒来吧，妈妈。",
+      "sourceLineId": "mozart-timed-271-1",
+      "suppliedText": "Réveille-toi, maman. Je ne me sens pas très bien, mon petit. Je vais chercher un médecin.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2427,
+        "anchorEnd": 2434.34,
+        "sourceLineNumber": 271,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2429.097,
+      "sourceText": "Je ne me sens pas très bien, mon petit.",
+      "ipa": "[ʒə nə mə sɑ̃ pa tʁɛ bjɛ̃ mɔ̃ pəti]",
+      "ear": "热 讷 默 桑 帕 特赫 布耶安 蒙 珀蒂",
+      "meaning": "我感觉不太舒服，我的小宝贝。",
+      "sourceLineId": "mozart-timed-271-2",
+      "suppliedText": "Réveille-toi, maman. Je ne me sens pas très bien, mon petit. Je vais chercher un médecin.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2427,
+        "anchorEnd": 2434.34,
+        "sourceLineNumber": 271,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2431.981,
+      "sourceText": "Je vais chercher un médecin.",
+      "ipa": "[ʒə vɛ ʃɛʁʃe œ̃ medəsɛ̃]",
+      "ear": "热 韦 谢赫谢 恩 梅德森",
+      "meaning": "我要去请医生。",
+      "sourceLineId": "mozart-timed-271-3",
+      "suppliedText": "Réveille-toi, maman. Je ne me sens pas très bien, mon petit. Je vais chercher un médecin.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2427,
+        "anchorEnd": 2434.34,
+        "sourceLineNumber": 271,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2436,
+      "sourceText": "À l'aide!",
+      "ipa": "[a lɛd]",
+      "ear": "阿 莱德",
+      "meaning": "救命！",
+      "sourceLineId": "mozart-timed-272-1",
+      "suppliedText": "À l'aide! C'est pour ma mère, elle a eu un malaise. Je n'ai pas d'argent sur moi, mais je vous paierai.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2436,
+        "anchorEnd": 2444,
+        "sourceLineNumber": 272,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2436.821,
+      "sourceText": "C'est pour ma mère, elle a eu un malaise.",
+      "ipa": "[sɛ puʁ ma mɛʁ ɛl‿a y œ̃ malɛz]",
+      "ear": "塞 普赫 玛 梅赫 艾勒 阿 于 恩 玛莱兹",
+      "meaning": "这是给我妈妈的，她感觉不舒服。",
+      "sourceLineId": "mozart-timed-272-2",
+      "suppliedText": "À l'aide! C'est pour ma mère, elle a eu un malaise. Je n'ai pas d'argent sur moi, mais je vous paierai.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2436,
+        "anchorEnd": 2444,
+        "sourceLineNumber": 272,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2440.103,
+      "sourceText": "Je n'ai pas d'argent sur moi, mais je vous paierai.",
+      "ipa": "[ʒə ne pa daʁʒɑ̃ syʁ mwa mɛ ʒə vu pɛʁe]",
+      "ear": "热 内 帕 达赫让 西于赫 姆乌阿 梅 热 乌 佩赫",
+      "meaning": "我身上没有钱，但我会付钱给你。",
+      "sourceLineId": "mozart-timed-272-3",
+      "suppliedText": "À l'aide! C'est pour ma mère, elle a eu un malaise. Je n'ai pas d'argent sur moi, mais je vous paierai.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2436,
+        "anchorEnd": 2444,
+        "sourceLineNumber": 272,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2444,
+      "sourceText": "Aidez-nous!",
+      "ipa": "[ɛdenu]",
+      "ear": "艾德努",
+      "meaning": "帮助我们！",
+      "sourceLineId": "mozart-timed-273-1",
+      "suppliedText": "Aidez-nous! Wolfgang, où es-tu? Tout est noir.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2444,
+        "anchorEnd": 2453,
+        "sourceLineNumber": 273,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2446.812,
+      "sourceText": "Wolfgang, où es-tu?",
+      "ipa": "[vɔlfɡɑ̃ɡ u ɛty]",
+      "ear": "沃勒弗冈格 乌 艾蒂于",
+      "meaning": "沃尔夫冈，你在哪里？",
+      "sourceLineId": "mozart-timed-273-2",
+      "suppliedText": "Aidez-nous! Wolfgang, où es-tu? Tout est noir.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2444,
+        "anchorEnd": 2453,
+        "sourceLineNumber": 273,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2450.188,
+      "sourceText": "Tout est noir.",
+      "ipa": "[tut‿ɛ nwaʁ]",
+      "ear": "图特 艾 恩乌阿赫",
+      "meaning": "一切都是黑色的。",
+      "sourceLineId": "mozart-timed-273-3",
+      "suppliedText": "Aidez-nous! Wolfgang, où es-tu? Tout est noir.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2444,
+        "anchorEnd": 2453,
+        "sourceLineNumber": 273,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2453,
+      "sourceText": "Je n'y vois plus.",
+      "ipa": "[ʒə ni vwa ply]",
+      "ear": "热 尼 弗乌阿 普吕",
+      "meaning": "我再也看不见了。",
+      "sourceLineId": "mozart-timed-274-1",
+      "suppliedText": "- Je n'y vois plus. - Je suis là, maman. Ne bouge pas. - J'ai demandé un médecin. - Oh! Avec quoi vas-tu le payer?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2453,
+        "anchorEnd": 2461.94,
+        "sourceLineNumber": 274,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2454.208,
+      "sourceText": "Je suis là, maman.",
+      "ipa": "[ʒə sɥi la mamɑ̃]",
+      "ear": "热 斯于伊 拉 玛芒",
+      "meaning": "我在这里，妈妈。",
+      "sourceLineId": "mozart-timed-274-2",
+      "suppliedText": "- Je n'y vois plus. - Je suis là, maman. Ne bouge pas. - J'ai demandé un médecin. - Oh! Avec quoi vas-tu le payer?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2453,
+        "anchorEnd": 2461.94,
+        "sourceLineNumber": 274,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2455.658,
+      "sourceText": "Ne bouge pas.",
+      "ipa": "[nə buʒ pa]",
+      "ear": "讷 布日 帕",
+      "meaning": "别动。",
+      "sourceLineId": "mozart-timed-274-3",
+      "suppliedText": "- Je n'y vois plus. - Je suis là, maman. Ne bouge pas. - J'ai demandé un médecin. - Oh! Avec quoi vas-tu le payer?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2453,
+        "anchorEnd": 2461.94,
+        "sourceLineNumber": 274,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2456.866,
+      "sourceText": "J'ai demandé un médecin.",
+      "ipa": "[ʒe dəmɑ̃de œ̃ medəsɛ̃]",
+      "ear": "热 德芒德 恩 梅德森",
+      "meaning": "我请了医生。",
+      "sourceLineId": "mozart-timed-274-4",
+      "suppliedText": "- Je n'y vois plus. - Je suis là, maman. Ne bouge pas. - J'ai demandé un médecin. - Oh! Avec quoi vas-tu le payer?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2453,
+        "anchorEnd": 2461.94,
+        "sourceLineNumber": 274,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2459.041,
+      "sourceText": "Oh!",
+      "ipa": "[ɔ]",
+      "ear": "哦",
+      "meaning": "哦！",
+      "sourceLineId": "mozart-timed-274-5",
+      "suppliedText": "- Je n'y vois plus. - Je suis là, maman. Ne bouge pas. - J'ai demandé un médecin. - Oh! Avec quoi vas-tu le payer?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2453,
+        "anchorEnd": 2461.94,
+        "sourceLineNumber": 274,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2459.282,
+      "sourceText": "Avec quoi vas-tu le payer?",
+      "ipa": "[avɛk kwa vaty lə pɛje]",
+      "ear": "阿韦克 克乌阿 瓦蒂于 勒 佩耶诶",
+      "meaning": "你拿什么付医生的钱？",
+      "sourceLineId": "mozart-timed-274-6",
+      "suppliedText": "- Je n'y vois plus. - Je suis là, maman. Ne bouge pas. - J'ai demandé un médecin. - Oh! Avec quoi vas-tu le payer?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2453,
+        "anchorEnd": 2461.94,
+        "sourceLineNumber": 274,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2462,
+      "sourceText": "Nous n'avons rien.",
+      "ipa": "[nu navɔ̃ ʁjɛ̃]",
+      "ear": "努 纳翁 赫耶安",
+      "meaning": "我们什么都没有。",
+      "sourceLineId": "mozart-timed-275-1",
+      "suppliedText": "Nous n'avons rien. Hier, un ami du baron Grimm m'a commandé une sonate. Il m'a promis une solide avance.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2462,
+        "anchorEnd": 2469.58,
+        "sourceLineNumber": 275,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2463.263,
+      "sourceText": "Hier, un ami du baron Grimm m'a commandé une sonate.",
+      "ipa": "[jɛʁ œ̃n‿ami dy baʁɔ̃ ɡʁim ma kɔmɑ̃de yn sonat]",
+      "ear": "耶艾赫 恩恩 阿米 迪于 巴洪 格希姆 玛 科芒德 于恩 索纳特",
+      "meaning": "昨天，格林男爵的一位朋友委托我写一首奏鸣曲。",
+      "sourceLineId": "mozart-timed-275-2",
+      "suppliedText": "Nous n'avons rien. Hier, un ami du baron Grimm m'a commandé une sonate. Il m'a promis une solide avance.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2462,
+        "anchorEnd": 2469.58,
+        "sourceLineNumber": 275,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2467.053,
+      "sourceText": "Il m'a promis une solide avance.",
+      "ipa": "[il ma pʁomi yn solid‿avɑ̃s]",
+      "ear": "伊勒 玛 普霍米 于恩 索利德 阿旺斯",
+      "meaning": "他向我许诺了一笔可观的预付款。",
+      "sourceLineId": "mozart-timed-275-3",
+      "suppliedText": "Nous n'avons rien. Hier, un ami du baron Grimm m'a commandé une sonate. Il m'a promis une solide avance.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2462,
+        "anchorEnd": 2469.58,
+        "sourceLineNumber": 275,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2470,
+      "sourceText": "Ne mens pas, Wolfgang.",
+      "ipa": "[nə mɑ̃ pa vɔlfɡɑ̃ɡ]",
+      "ear": "讷 芒 帕 沃勒弗冈格",
+      "meaning": "别撒谎，沃尔夫冈。",
+      "sourceLineId": "mozart-timed-276-1",
+      "suppliedText": "Ne mens pas, Wolfgang. Je sais que le baron Grimm n'a rien fait pour toi. Je sais que Paris t'a fermé toutes ses portes.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2470,
+        "anchorEnd": 2479,
+        "sourceLineNumber": 276,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2471.154,
+      "sourceText": "Je sais que le baron Grimm n'a rien fait pour toi.",
+      "ipa": "[ʒə sɛ kə lə baʁɔ̃ ɡʁim na ʁjɛ̃ fɛ puʁ twa]",
+      "ear": "热 塞 克 勒 巴洪 格希姆 纳 赫耶安 费 普赫 特乌阿",
+      "meaning": "我知道格林男爵没有帮过你。",
+      "sourceLineId": "mozart-timed-276-2",
+      "suppliedText": "Ne mens pas, Wolfgang. Je sais que le baron Grimm n'a rien fait pour toi. Je sais que Paris t'a fermé toutes ses portes.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2470,
+        "anchorEnd": 2479,
+        "sourceLineNumber": 276,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2475.308,
+      "sourceText": "Je sais que Paris t'a fermé toutes ses portes.",
+      "ipa": "[ʒə sɛ kə paʁi ta fɛʁme tut se pɔʁt]",
+      "ear": "热 塞 克 帕希 塔 费赫梅 图特 塞 珀赫特",
+      "meaning": "我知道巴黎已经向你关闭了所有大门。",
+      "sourceLineId": "mozart-timed-276-3",
+      "suppliedText": "Ne mens pas, Wolfgang. Je sais que le baron Grimm n'a rien fait pour toi. Je sais que Paris t'a fermé toutes ses portes.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2470,
+        "anchorEnd": 2479,
+        "sourceLineNumber": 276,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2479,
+      "sourceText": "Non!",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不！",
+      "sourceLineId": "mozart-timed-277-1",
+      "suppliedText": "- Non! - Pars, mon petit.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2479,
+        "anchorEnd": 2481,
+        "sourceLineNumber": 277,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2479.4,
+      "sourceText": "Pars, mon petit.",
+      "ipa": "[paʁ mɔ̃ pəti]",
+      "ear": "帕赫 蒙 珀蒂",
+      "meaning": "离开，我的小家伙。",
+      "sourceLineId": "mozart-timed-277-2",
+      "suppliedText": "- Non! - Pars, mon petit.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2479,
+        "anchorEnd": 2481,
+        "sourceLineNumber": 277,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2481,
+      "sourceText": "Promets-moi de quitter cette ville maudite, et de rentrer chez nous.",
+      "ipa": "[pʁomɛmwa də kite sɛt vil modit e də ʁɑ̃tʁe ʃe nu]",
+      "ear": "普霍梅姆乌阿 德 基特 塞特 维勒 莫迪特 诶 德 杭特赫 谢 努",
+      "meaning": "答应我离开这座被诅咒的城市并返回家园。",
+      "sourceLineId": "mozart-timed-278-1",
+      "suppliedText": "Promets-moi de quitter cette ville maudite, et de rentrer chez nous. Surtout, prends bien soin de ta sœur.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2481,
+        "anchorEnd": 2490.859,
+        "sourceLineNumber": 278,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2487.479,
+      "sourceText": "Surtout, prends bien soin de ta sœur.",
+      "ipa": "[syʁtu pʁɑ̃ bjɛ̃ swɛ̃ də ta sœʁ]",
+      "ear": "西于赫图 普杭 布耶安 斯乌安 德 塔 瑟厄赫",
+      "meaning": "最重要的是，照顾好你的妹妹。",
+      "sourceLineId": "mozart-timed-278-2",
+      "suppliedText": "Promets-moi de quitter cette ville maudite, et de rentrer chez nous. Surtout, prends bien soin de ta sœur.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2481,
+        "anchorEnd": 2490.859,
+        "sourceLineNumber": 278,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2491,
+      "sourceText": "Pourquoi tu dis ça?",
+      "ipa": "[puʁkwa ty di sa]",
+      "ear": "普赫克乌阿 蒂于 迪 萨",
+      "meaning": "为什么这么说？",
+      "sourceLineId": "mozart-timed-279-1",
+      "suppliedText": "Pourquoi tu dis ça? C'est toi qui en prendras soin. Promets-moi aussi de ne pas en vouloir à ton père.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2491,
+        "anchorEnd": 2498,
+        "sourceLineNumber": 279,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2492.514,
+      "sourceText": "C'est toi qui en prendras soin.",
+      "ipa": "[sɛ twa ki ɑ̃ pʁɑ̃dʁa swɛ̃]",
+      "ear": "塞 特乌阿 基 昂 普杭德哈 斯乌安",
+      "meaning": "照顾她的人会是你。",
+      "sourceLineId": "mozart-timed-279-2",
+      "suppliedText": "Pourquoi tu dis ça? C'est toi qui en prendras soin. Promets-moi aussi de ne pas en vouloir à ton père.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2491,
+        "anchorEnd": 2498,
+        "sourceLineNumber": 279,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2494.405,
+      "sourceText": "Promets-moi aussi de ne pas en vouloir à ton père.",
+      "ipa": "[pʁomɛmwa osi də nə pa ɑ̃ vulwaʁ‿a tɔ̃ pɛʁ]",
+      "ear": "普霍梅姆乌阿 奥西 德 讷 帕 昂 乌勒乌阿赫 阿 通 佩赫",
+      "meaning": "也答应我不要责怪你的父亲。",
+      "sourceLineId": "mozart-timed-279-3",
+      "suppliedText": "Pourquoi tu dis ça? C'est toi qui en prendras soin. Promets-moi aussi de ne pas en vouloir à ton père.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2491,
+        "anchorEnd": 2498,
+        "sourceLineNumber": 279,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2498,
+      "sourceText": "Il t'aime, tu sais.",
+      "ipa": "[il tɛm ty sɛ]",
+      "ear": "伊勒 泰姆 蒂于 塞",
+      "meaning": "他爱你，你知道。",
+      "sourceLineId": "mozart-timed-280-1",
+      "suppliedText": "- Il t'aime, tu sais. - Maman... - Mais dis-lui bien... - Maman, tu dis n'importe quoi... - Dis-lui bien... - Allez. Tu divagues Allez, viens.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2498,
+        "anchorEnd": 2507,
+        "sourceLineNumber": 280,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2499.5,
+      "sourceText": "Maman...",
+      "ipa": "[mamɑ̃]",
+      "ear": "玛芒",
+      "meaning": "妈妈……",
+      "sourceLineId": "mozart-timed-280-2",
+      "suppliedText": "- Il t'aime, tu sais. - Maman... - Mais dis-lui bien... - Maman, tu dis n'importe quoi... - Dis-lui bien... - Allez. Tu divagues Allez, viens.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2498,
+        "anchorEnd": 2507,
+        "sourceLineNumber": 280,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2499.929,
+      "sourceText": "Mais dis-lui bien...",
+      "ipa": "[mɛ dilɥi bjɛ̃]",
+      "ear": "梅 迪勒于伊 布耶安",
+      "meaning": "但是好好告诉他……",
+      "sourceLineId": "mozart-timed-280-3",
+      "suppliedText": "- Il t'aime, tu sais. - Maman... - Mais dis-lui bien... - Maman, tu dis n'importe quoi... - Dis-lui bien... - Allez. Tu divagues Allez, viens.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2498,
+        "anchorEnd": 2507,
+        "sourceLineNumber": 280,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2501.429,
+      "sourceText": "Maman, tu dis n'importe quoi...",
+      "ipa": "[mamɑ̃ ty di nɛ̃pɔʁt kwa]",
+      "ear": "玛芒 蒂于 迪 南珀赫特 克乌阿",
+      "meaning": "妈，你胡说八道……",
+      "sourceLineId": "mozart-timed-280-4",
+      "suppliedText": "- Il t'aime, tu sais. - Maman... - Mais dis-lui bien... - Maman, tu dis n'importe quoi... - Dis-lui bien... - Allez. Tu divagues Allez, viens.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2498,
+        "anchorEnd": 2507,
+        "sourceLineNumber": 280,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2503.571,
+      "sourceText": "Dis-lui bien...",
+      "ipa": "[dilɥi bjɛ̃]",
+      "ear": "迪勒于伊 布耶安",
+      "meaning": "好好告诉他……",
+      "sourceLineId": "mozart-timed-280-5",
+      "suppliedText": "- Il t'aime, tu sais. - Maman... - Mais dis-lui bien... - Maman, tu dis n'importe quoi... - Dis-lui bien... - Allez. Tu divagues Allez, viens.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2498,
+        "anchorEnd": 2507,
+        "sourceLineNumber": 280,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2504.643,
+      "sourceText": "Allez.",
+      "ipa": "[ale]",
+      "ear": "阿莱",
+      "meaning": "来吧。",
+      "sourceLineId": "mozart-timed-280-6",
+      "suppliedText": "- Il t'aime, tu sais. - Maman... - Mais dis-lui bien... - Maman, tu dis n'importe quoi... - Dis-lui bien... - Allez. Tu divagues Allez, viens.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2498,
+        "anchorEnd": 2507,
+        "sourceLineNumber": 280,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2505.071,
+      "sourceText": "Tu divagues",
+      "ipa": "[ty divaɡ]",
+      "ear": "蒂于 迪瓦格",
+      "meaning": "你胡言乱语",
+      "sourceLineId": "mozart-timed-280-7",
+      "suppliedText": "- Il t'aime, tu sais. - Maman... - Mais dis-lui bien... - Maman, tu dis n'importe quoi... - Dis-lui bien... - Allez. Tu divagues Allez, viens.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2498,
+        "anchorEnd": 2507,
+        "sourceLineNumber": 280,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2506.143,
+      "sourceText": "Allez, viens.",
+      "ipa": "[ale vjɛ̃]",
+      "ear": "阿莱 弗耶安",
+      "meaning": "来吧，来吧。",
+      "sourceLineId": "mozart-timed-280-8",
+      "suppliedText": "- Il t'aime, tu sais. - Maman... - Mais dis-lui bien... - Maman, tu dis n'importe quoi... - Dis-lui bien... - Allez. Tu divagues Allez, viens.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2498,
+        "anchorEnd": 2507,
+        "sourceLineNumber": 280,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2507,
+      "sourceText": "On rentre à l'hôtel.",
+      "ipa": "[ɔ̃ ʁɑ̃tʁ‿a lotɛl]",
+      "ear": "翁 杭特赫 阿 洛泰勒",
+      "meaning": "我们返回酒店。",
+      "sourceLineId": "mozart-timed-281-1",
+      "suppliedText": "On rentre à l'hôtel. Dès demain, on part pour Salzbourg. Allez, viens. Viens, maman. Maman! Maman!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2507,
+        "anchorEnd": 2515.5,
+        "sourceLineNumber": 281,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2508.759,
+      "sourceText": "Dès demain, on part pour Salzbourg.",
+      "ipa": "[dɛ dəmɛ̃ ɔ̃ paʁ puʁ salzbuʁ]",
+      "ear": "戴 德曼 翁 帕赫 普赫 萨勒兹布赫",
+      "meaning": "明天开始，我们将启程前往萨尔茨堡。",
+      "sourceLineId": "mozart-timed-281-2",
+      "suppliedText": "On rentre à l'hôtel. Dès demain, on part pour Salzbourg. Allez, viens. Viens, maman. Maman! Maman!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2507,
+        "anchorEnd": 2515.5,
+        "sourceLineNumber": 281,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2511.983,
+      "sourceText": "Allez, viens.",
+      "ipa": "[ale vjɛ̃]",
+      "ear": "阿莱 弗耶安",
+      "meaning": "来吧，来吧。",
+      "sourceLineId": "mozart-timed-281-3",
+      "suppliedText": "On rentre à l'hôtel. Dès demain, on part pour Salzbourg. Allez, viens. Viens, maman. Maman! Maman!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2507,
+        "anchorEnd": 2515.5,
+        "sourceLineNumber": 281,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2513.155,
+      "sourceText": "Viens, maman.",
+      "ipa": "[vjɛ̃ mamɑ̃]",
+      "ear": "弗耶安 玛芒",
+      "meaning": "来吧，妈妈。",
+      "sourceLineId": "mozart-timed-281-4",
+      "suppliedText": "On rentre à l'hôtel. Dès demain, on part pour Salzbourg. Allez, viens. Viens, maman. Maman! Maman!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2507,
+        "anchorEnd": 2515.5,
+        "sourceLineNumber": 281,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2514.328,
+      "sourceText": "Maman!",
+      "ipa": "[mamɑ̃]",
+      "ear": "玛芒",
+      "meaning": "妈妈！",
+      "sourceLineId": "mozart-timed-281-5",
+      "suppliedText": "On rentre à l'hôtel. Dès demain, on part pour Salzbourg. Allez, viens. Viens, maman. Maman! Maman!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2507,
+        "anchorEnd": 2515.5,
+        "sourceLineNumber": 281,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2514.914,
+      "sourceText": "Maman!",
+      "ipa": "[mamɑ̃]",
+      "ear": "玛芒",
+      "meaning": "妈妈！",
+      "sourceLineId": "mozart-timed-281-6",
+      "suppliedText": "On rentre à l'hôtel. Dès demain, on part pour Salzbourg. Allez, viens. Viens, maman. Maman! Maman!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2507,
+        "anchorEnd": 2515.5,
+        "sourceLineNumber": 281,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2516,
+      "sourceText": "Laissez-moi!",
+      "ipa": "[lɛsemwa]",
+      "ear": "莱塞姆乌阿",
+      "meaning": "离开我！",
+      "sourceLineId": "mozart-timed-282-1",
+      "suppliedText": "Laissez-moi! Je t'en prie... Je t'en prie...",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2516,
+        "anchorEnd": 2527.62,
+        "sourceLineNumber": 282,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2520.469,
+      "sourceText": "Je t'en prie...",
+      "ipa": "[ʒə tɑ̃ pʁi]",
+      "ear": "热 唐 普希",
+      "meaning": "请...",
+      "sourceLineId": "mozart-timed-282-2",
+      "suppliedText": "Laissez-moi! Je t'en prie... Je t'en prie...",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2516,
+        "anchorEnd": 2527.62,
+        "sourceLineNumber": 282,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2524.045,
+      "sourceText": "Je t'en prie...",
+      "ipa": "[ʒə tɑ̃ pʁi]",
+      "ear": "热 唐 普希",
+      "meaning": "请...",
+      "sourceLineId": "mozart-timed-282-3",
+      "suppliedText": "Laissez-moi! Je t'en prie... Je t'en prie...",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2516,
+        "anchorEnd": 2527.62,
+        "sourceLineNumber": 282,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2682,
+      "sourceText": "Aloysia!",
+      "ipa": "[alwazja]",
+      "ear": "阿勒乌阿兹耶阿",
+      "meaning": "阿洛伊西娅！",
+      "sourceLineId": "mozart-timed-284-1",
+      "suppliedText": "Aloysia! Aloysia!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2682,
+        "anchorEnd": 2689,
+        "sourceLineNumber": 284,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2685.5,
+      "sourceText": "Aloysia!",
+      "ipa": "[alwazja]",
+      "ear": "阿勒乌阿兹耶阿",
+      "meaning": "阿洛伊西娅！",
+      "sourceLineId": "mozart-timed-284-2",
+      "suppliedText": "Aloysia! Aloysia!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2682,
+        "anchorEnd": 2689,
+        "sourceLineNumber": 284,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2689,
+      "sourceText": "Vous ne me reconnaissez pas?",
+      "ipa": "[vu nə mə ʁəkɔnɛse pa]",
+      "ear": "乌 讷 默 赫科奈塞 帕",
+      "meaning": "你不认识我了？",
+      "sourceLineId": "mozart-timed-285-1",
+      "suppliedText": "Vous ne me reconnaissez pas? Wolfgang. Wolfgang Mozart. - Mon Dieu! Wolfgang? - Oui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2689,
+        "anchorEnd": 2696,
+        "sourceLineNumber": 285,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2691.8,
+      "sourceText": "Wolfgang.",
+      "ipa": "[vɔlfɡɑ̃ɡ]",
+      "ear": "沃勒弗冈格",
+      "meaning": "沃尔夫冈。",
+      "sourceLineId": "mozart-timed-285-2",
+      "suppliedText": "Vous ne me reconnaissez pas? Wolfgang. Wolfgang Mozart. - Mon Dieu! Wolfgang? - Oui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2689,
+        "anchorEnd": 2696,
+        "sourceLineNumber": 285,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2692.36,
+      "sourceText": "Wolfgang Mozart.",
+      "ipa": "[vɔlfɡɑ̃ɡ mɔtsaʁ]",
+      "ear": "沃勒弗冈格 莫特萨赫",
+      "meaning": "沃尔夫冈·莫扎特。",
+      "sourceLineId": "mozart-timed-285-3",
+      "suppliedText": "Vous ne me reconnaissez pas? Wolfgang. Wolfgang Mozart. - Mon Dieu! Wolfgang? - Oui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2689,
+        "anchorEnd": 2696,
+        "sourceLineNumber": 285,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2693.48,
+      "sourceText": "Mon Dieu!",
+      "ipa": "[mɔ̃ djø]",
+      "ear": "蒙 德耶厄",
+      "meaning": "天哪！",
+      "sourceLineId": "mozart-timed-285-4",
+      "suppliedText": "Vous ne me reconnaissez pas? Wolfgang. Wolfgang Mozart. - Mon Dieu! Wolfgang? - Oui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2689,
+        "anchorEnd": 2696,
+        "sourceLineNumber": 285,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2694.6,
+      "sourceText": "Wolfgang?",
+      "ipa": "[vɔlfɡɑ̃ɡ]",
+      "ear": "沃勒弗冈格",
+      "meaning": "沃尔夫冈？",
+      "sourceLineId": "mozart-timed-285-5",
+      "suppliedText": "Vous ne me reconnaissez pas? Wolfgang. Wolfgang Mozart. - Mon Dieu! Wolfgang? - Oui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2689,
+        "anchorEnd": 2696,
+        "sourceLineNumber": 285,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2695.16,
+      "sourceText": "Oui.",
+      "ipa": "[wi]",
+      "ear": "乌伊",
+      "meaning": "是的。",
+      "sourceLineId": "mozart-timed-285-6",
+      "suppliedText": "Vous ne me reconnaissez pas? Wolfgang. Wolfgang Mozart. - Mon Dieu! Wolfgang? - Oui.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2689,
+        "anchorEnd": 2696,
+        "sourceLineNumber": 285,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2696,
+      "sourceText": "Quelle joie de vous retrouver!",
+      "ipa": "[kɛl ʒwa də vu ʁətʁuve]",
+      "ear": "凯勒 日乌阿 德 乌 赫特胡韦",
+      "meaning": "很高兴再次见到你！",
+      "sourceLineId": "mozart-timed-286-1",
+      "suppliedText": "Quelle joie de vous retrouver! Je rentre juste de Paris. Quel est donc cet accoutrement? Vous êtes domestique?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2696,
+        "anchorEnd": 2704.78,
+        "sourceLineNumber": 286,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2698.854,
+      "sourceText": "Je rentre juste de Paris.",
+      "ipa": "[ʒə ʁɑ̃tʁ ʒyst də paʁi]",
+      "ear": "热 杭特赫 日于斯特 德 帕希",
+      "meaning": "我刚从巴黎回来。",
+      "sourceLineId": "mozart-timed-286-2",
+      "suppliedText": "Quelle joie de vous retrouver! Je rentre juste de Paris. Quel est donc cet accoutrement? Vous êtes domestique?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2696,
+        "anchorEnd": 2704.78,
+        "sourceLineNumber": 286,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2700.61,
+      "sourceText": "Quel est donc cet accoutrement?",
+      "ipa": "[kɛl‿ɛ dɔ̃k sɛt‿akutʁəmɑ̃]",
+      "ear": "凯勒 艾 东克 塞特 阿库特赫芒",
+      "meaning": "你这是什么打扮？",
+      "sourceLineId": "mozart-timed-286-3",
+      "suppliedText": "Quelle joie de vous retrouver! Je rentre juste de Paris. Quel est donc cet accoutrement? Vous êtes domestique?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2696,
+        "anchorEnd": 2704.78,
+        "sourceLineNumber": 286,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2702.805,
+      "sourceText": "Vous êtes domestique?",
+      "ipa": "[vuz‿ɛt domɛstik]",
+      "ear": "乌兹 艾特 多梅斯蒂克",
+      "meaning": "你是仆人吗？",
+      "sourceLineId": "mozart-timed-286-4",
+      "suppliedText": "Quelle joie de vous retrouver! Je rentre juste de Paris. Quel est donc cet accoutrement? Vous êtes domestique?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2696,
+        "anchorEnd": 2704.78,
+        "sourceLineNumber": 286,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2705,
+      "sourceText": "La musique ne vous plaît plus?",
+      "ipa": "[la myzik nə vu plɛ ply]",
+      "ear": "拉 米于齐克 讷 乌 普莱 普吕",
+      "meaning": "你不再喜欢音乐了吗？",
+      "sourceLineId": "mozart-timed-287-1",
+      "suppliedText": "- La musique ne vous plaît plus? - Mais si! Vous portez peut-être la dernière mode de Paris? Ma mère est morte. Ce sont mes habits de deuil.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2705,
+        "anchorEnd": 2715,
+        "sourceLineNumber": 287,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2707.34,
+      "sourceText": "Mais si!",
+      "ipa": "[mɛ si]",
+      "ear": "梅 西",
+      "meaning": "但是是的！",
+      "sourceLineId": "mozart-timed-287-2",
+      "suppliedText": "- La musique ne vous plaît plus? - Mais si! Vous portez peut-être la dernière mode de Paris? Ma mère est morte. Ce sont mes habits de deuil.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2705,
+        "anchorEnd": 2715,
+        "sourceLineNumber": 287,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2707.979,
+      "sourceText": "Vous portez peut-être la dernière mode de Paris?",
+      "ipa": "[vu pɔʁte pøtɛtʁ la dɛʁnjɛʁ mɔd də paʁi]",
+      "ear": "乌 珀赫特 珀厄泰特赫 拉 戴赫恩耶艾赫 莫德 德 帕希",
+      "meaning": "也许你穿着来自巴黎的最新时装？",
+      "sourceLineId": "mozart-timed-287-3",
+      "suppliedText": "- La musique ne vous plaît plus? - Mais si! Vous portez peut-être la dernière mode de Paris? Ma mère est morte. Ce sont mes habits de deuil.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2705,
+        "anchorEnd": 2715,
+        "sourceLineNumber": 287,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2711.809,
+      "sourceText": "Ma mère est morte.",
+      "ipa": "[ma mɛʁ‿ɛ mɔʁt]",
+      "ear": "玛 梅赫 艾 莫赫特",
+      "meaning": "我的母亲死了。",
+      "sourceLineId": "mozart-timed-287-4",
+      "suppliedText": "- La musique ne vous plaît plus? - Mais si! Vous portez peut-être la dernière mode de Paris? Ma mère est morte. Ce sont mes habits de deuil.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2705,
+        "anchorEnd": 2715,
+        "sourceLineNumber": 287,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2713.085,
+      "sourceText": "Ce sont mes habits de deuil.",
+      "ipa": "[sə sɔ̃ mez‿abi də dœj]",
+      "ear": "瑟 松 梅兹 阿比 德 德厄耶",
+      "meaning": "这些是我的丧服。",
+      "sourceLineId": "mozart-timed-287-5",
+      "suppliedText": "- La musique ne vous plaît plus? - Mais si! Vous portez peut-être la dernière mode de Paris? Ma mère est morte. Ce sont mes habits de deuil.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2705,
+        "anchorEnd": 2715,
+        "sourceLineNumber": 287,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2715,
+      "sourceText": "C'est dommage.",
+      "ipa": "[sɛ dɔmaʒ]",
+      "ear": "塞 多玛日",
+      "meaning": "真遗憾。",
+      "sourceLineId": "mozart-timed-288-1",
+      "suppliedText": "C'est dommage. Enfin, je veux dire, c'est terrible! En tout cas, c'est affreusement laid.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2715,
+        "anchorEnd": 2721,
+        "sourceLineNumber": 288,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2715.889,
+      "sourceText": "Enfin, je veux dire, c'est terrible!",
+      "ipa": "[ɑ̃fɛ̃ ʒə vø diʁ sɛ tɛʁibl]",
+      "ear": "昂凡 热 弗厄 迪赫 塞 泰希布勒",
+      "meaning": "嗯，我的意思是，这太可怕了！",
+      "sourceLineId": "mozart-timed-288-2",
+      "suppliedText": "C'est dommage. Enfin, je veux dire, c'est terrible! En tout cas, c'est affreusement laid.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2715,
+        "anchorEnd": 2721,
+        "sourceLineNumber": 288,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2718.333,
+      "sourceText": "En tout cas, c'est affreusement laid.",
+      "ipa": "[ɑ̃ tu ka sɛt‿afʁøzmɑ̃ lɛd]",
+      "ear": "昂 图 卡 塞特 阿弗赫厄兹芒 莱德",
+      "meaning": "无论如何，它是非常丑陋的。",
+      "sourceLineId": "mozart-timed-288-3",
+      "suppliedText": "C'est dommage. Enfin, je veux dire, c'est terrible! En tout cas, c'est affreusement laid.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2715,
+        "anchorEnd": 2721,
+        "sourceLineNumber": 288,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2721,
+      "sourceText": "Il faudra penser à vous changer et à vous coiffer, aussi.",
+      "ipa": "[il fodʁa pɑ̃se a vu ʃɑ̃ʒe e a vu kwafe osi]",
+      "ear": "伊勒 佛德哈 庞塞 阿 乌 尚热 诶 阿 乌 克乌阿费 奥西",
+      "meaning": "你也必须考虑改变和打理你的头发。",
+      "sourceLineId": "mozart-timed-289-1",
+      "suppliedText": "Il faudra penser à vous changer et à vous coiffer, aussi. Hein? Aloysia, à Paris, je n'ai pensé qu'à vous. Tenez.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2721,
+        "anchorEnd": 2733,
+        "sourceLineNumber": 289,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2727.0,
+      "sourceText": "Hein?",
+      "ipa": "[ɛ̃]",
+      "ear": "安",
+      "meaning": "嗯？",
+      "sourceLineId": "mozart-timed-289-2",
+      "suppliedText": "Il faudra penser à vous changer et à vous coiffer, aussi. Hein? Aloysia, à Paris, je n'ai pensé qu'à vous. Tenez.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2721,
+        "anchorEnd": 2733,
+        "sourceLineNumber": 289,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2727.571,
+      "sourceText": "Aloysia, à Paris, je n'ai pensé qu'à vous.",
+      "ipa": "[alwazja a paʁi ʒə ne pɑ̃se ka vu]",
+      "ear": "阿勒乌阿兹耶阿 阿 帕希 热 内 庞塞 卡 乌",
+      "meaning": "阿洛伊西娅，在巴黎，我只想到你。",
+      "sourceLineId": "mozart-timed-289-3",
+      "suppliedText": "Il faudra penser à vous changer et à vous coiffer, aussi. Hein? Aloysia, à Paris, je n'ai pensé qu'à vous. Tenez.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2721,
+        "anchorEnd": 2733,
+        "sourceLineNumber": 289,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2732.429,
+      "sourceText": "Tenez.",
+      "ipa": "[təne]",
+      "ear": "特内",
+      "meaning": "这里。",
+      "sourceLineId": "mozart-timed-289-4",
+      "suppliedText": "Il faudra penser à vous changer et à vous coiffer, aussi. Hein? Aloysia, à Paris, je n'ai pensé qu'à vous. Tenez.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2721,
+        "anchorEnd": 2733,
+        "sourceLineNumber": 289,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2733,
+      "sourceText": "Je vous en ai rapporté cette aria.",
+      "ipa": "[ʒə vuz‿ɑ̃n‿e ʁapɔʁte sɛt‿aʁja]",
+      "ear": "热 乌兹 昂恩 诶 哈珀赫特 塞特 阿赫耶阿",
+      "meaning": "我给你带来了这首咏叹调。",
+      "sourceLineId": "mozart-timed-290-1",
+      "suppliedText": "Je vous en ai rapporté cette aria. Mais c'est que des mois sont passés, et depuis, j'ai été engagée à l'opéra!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2733,
+        "anchorEnd": 2745,
+        "sourceLineNumber": 290,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2737.098,
+      "sourceText": "Mais c'est que des mois sont passés, et depuis, j'ai été engagée à l'opéra!",
+      "ipa": "[mɛ sɛ kə de mwa sɔ̃ pase e dəpɥi ʒe ete ɑ̃ɡaʒe a lopeʁa]",
+      "ear": "梅 塞 克 德 姆乌阿 松 帕塞 诶 德普于伊 热 诶特 昂嘎热 阿 洛佩哈",
+      "meaning": "但是几个月过去了，从那时起，我就被歌剧院聘用了！",
+      "sourceLineId": "mozart-timed-290-2",
+      "suppliedText": "Je vous en ai rapporté cette aria. Mais c'est que des mois sont passés, et depuis, j'ai été engagée à l'opéra!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2733,
+        "anchorEnd": 2745,
+        "sourceLineNumber": 290,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2745,
+      "sourceText": "À l'opéra!",
+      "ipa": "[a lopeʁa]",
+      "ear": "阿 洛佩哈",
+      "meaning": "在歌剧院！",
+      "sourceLineId": "mozart-timed-291-1",
+      "suppliedText": "- À l'opéra! - Oui. Et je croule sous les meilleures partitions.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2745,
+        "anchorEnd": 2751.13,
+        "sourceLineNumber": 291,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2746.022,
+      "sourceText": "Oui.",
+      "ipa": "[wi]",
+      "ear": "乌伊",
+      "meaning": "是的。",
+      "sourceLineId": "mozart-timed-291-2",
+      "suppliedText": "- À l'opéra! - Oui. Et je croule sous les meilleures partitions.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2745,
+        "anchorEnd": 2751.13,
+        "sourceLineNumber": 291,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2746.788,
+      "sourceText": "Et je croule sous les meilleures partitions.",
+      "ipa": "[e ʒə kʁul su le mɛjœʁ paʁtisjɔ̃]",
+      "ear": "诶 热 克胡勒 苏 莱 梅耶厄赫 帕赫蒂斯耶翁",
+      "meaning": "如今最好的乐谱多得让我忙不过来。",
+      "sourceLineId": "mozart-timed-291-3",
+      "suppliedText": "- À l'opéra! - Oui. Et je croule sous les meilleures partitions.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2745,
+        "anchorEnd": 2751.13,
+        "sourceLineNumber": 291,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2753,
+      "sourceText": "Aloysia, je suis là, devant vous, prêt à vous servir.",
+      "ipa": "[alwazja ʒə sɥi la dəvɑ̃ vu pʁɛ a vu sɛʁviʁ]",
+      "ear": "阿勒乌阿兹耶阿 热 斯于伊 拉 德旺 乌 普赫 阿 乌 塞赫维赫",
+      "meaning": "阿洛伊西娅，我在这里，在你之前，准备好为你服务。",
+      "sourceLineId": "mozart-timed-292-1",
+      "suppliedText": "Aloysia, je suis là, devant vous, prêt à vous servir. Je veux partager votre vie.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2753,
+        "anchorEnd": 2762,
+        "sourceLineNumber": 292,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2758.897,
+      "sourceText": "Je veux partager votre vie.",
+      "ipa": "[ʒə vø paʁtaʒe votʁ vi]",
+      "ear": "热 弗厄 帕赫塔热 沃特赫 维",
+      "meaning": "我想分享你的生活。",
+      "sourceLineId": "mozart-timed-292-2",
+      "suppliedText": "Aloysia, je suis là, devant vous, prêt à vous servir. Je veux partager votre vie.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2753,
+        "anchorEnd": 2762,
+        "sourceLineNumber": 292,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2762,
+      "sourceText": "Je veux vous épouser.",
+      "ipa": "[ʒə vø vuz‿epuze]",
+      "ear": "热 弗厄 乌兹 诶普泽",
+      "meaning": "我想娶您。",
+      "sourceLineId": "mozart-timed-293-1",
+      "suppliedText": "Je veux vous épouser. M'épouser? Oh.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2762,
+        "anchorEnd": 2769.979,
+        "sourceLineNumber": 293,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2767.129,
+      "sourceText": "M'épouser?",
+      "ipa": "[mepuze]",
+      "ear": "梅普泽",
+      "meaning": "娶我？",
+      "sourceLineId": "mozart-timed-293-2",
+      "suppliedText": "Je veux vous épouser. M'épouser? Oh.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2762,
+        "anchorEnd": 2769.979,
+        "sourceLineNumber": 293,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2769.409,
+      "sourceText": "Oh.",
+      "ipa": "[ɔ]",
+      "ear": "哦",
+      "meaning": "哦。",
+      "sourceLineId": "mozart-timed-293-3",
+      "suppliedText": "Je veux vous épouser. M'épouser? Oh.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2762,
+        "anchorEnd": 2769.979,
+        "sourceLineNumber": 293,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2771,
+      "sourceText": "J'ai oublié de vous présenter",
+      "ipa": "[ʒe ublie də vu pʁezɑ̃te]",
+      "ear": "热 乌布利诶 德 乌 普赫赞特",
+      "meaning": "我忘记介绍你了",
+      "sourceLineId": "mozart-timed-294-1",
+      "suppliedText": "J'ai oublié de vous présenter Monsieur Joseph L'Ange. Monsieur. Nous allons nous marier.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2771,
+        "anchorEnd": 2778,
+        "sourceLineNumber": 294,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2773.545,
+      "sourceText": "Monsieur Joseph L'Ange.",
+      "ipa": "[məsjø ʒozɛf lɑ̃ʒ]",
+      "ear": "默斯耶厄 若泽弗 朗日",
+      "meaning": "约瑟夫·兰格先生。",
+      "sourceLineId": "mozart-timed-294-2",
+      "suppliedText": "J'ai oublié de vous présenter Monsieur Joseph L'Ange. Monsieur. Nous allons nous marier.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2771,
+        "anchorEnd": 2778,
+        "sourceLineNumber": 294,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2775.242,
+      "sourceText": "Monsieur.",
+      "ipa": "[məsjø]",
+      "ear": "默斯耶厄",
+      "meaning": "先生。",
+      "sourceLineId": "mozart-timed-294-3",
+      "suppliedText": "J'ai oublié de vous présenter Monsieur Joseph L'Ange. Monsieur. Nous allons nous marier.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2771,
+        "anchorEnd": 2778,
+        "sourceLineNumber": 294,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2776.091,
+      "sourceText": "Nous allons nous marier.",
+      "ipa": "[nuz‿alɔ̃ nu maʁje]",
+      "ear": "努兹 阿隆 努 玛赫耶诶",
+      "meaning": "我们要结婚了。",
+      "sourceLineId": "mozart-timed-294-4",
+      "suppliedText": "J'ai oublié de vous présenter Monsieur Joseph L'Ange. Monsieur. Nous allons nous marier.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2771,
+        "anchorEnd": 2778,
+        "sourceLineNumber": 294,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2778,
+      "sourceText": "Bon retour à Salzbourg.",
+      "ipa": "[bɔ̃ ʁətuʁ‿a salzbuʁ]",
+      "ear": "崩 赫图赫 阿 萨勒兹布赫",
+      "meaning": "祝您回萨尔茨堡一路顺风。",
+      "sourceLineId": "mozart-timed-295-1",
+      "suppliedText": "Bon retour à Salzbourg. Quand vous repasserez par Münich, venez nous voir. Et saluez bien votre père!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2778,
+        "anchorEnd": 2786.5,
+        "sourceLineNumber": 295,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2779.943,
+      "sourceText": "Quand vous repasserez par Münich, venez nous voir.",
+      "ipa": "[kɑ̃ vu ʁəpasʁe paʁ mynik vəne nu vwaʁ]",
+      "ear": "康 乌 赫帕斯赫 帕赫 米于尼克 弗内 努 弗乌阿赫",
+      "meaning": "下次经过慕尼黑，来看看我们吧。",
+      "sourceLineId": "mozart-timed-295-2",
+      "suppliedText": "Bon retour à Salzbourg. Quand vous repasserez par Münich, venez nous voir. Et saluez bien votre père!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2778,
+        "anchorEnd": 2786.5,
+        "sourceLineNumber": 295,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2784.071,
+      "sourceText": "Et saluez bien votre père!",
+      "ipa": "[e salye bjɛ̃ votʁ pɛʁ]",
+      "ear": "诶 萨吕诶 布耶安 沃特赫 佩赫",
+      "meaning": "好好问候你的父亲！",
+      "sourceLineId": "mozart-timed-295-3",
+      "suppliedText": "Bon retour à Salzbourg. Quand vous repasserez par Münich, venez nous voir. Et saluez bien votre père!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2778,
+        "anchorEnd": 2786.5,
+        "sourceLineNumber": 295,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2800,
+      "sourceText": "Je les déteste tous, avec leurs faux-semblants et leurs manières de petits courtisans.",
+      "ipa": "[ʒə le detɛst tus avɛk lœʁ fosɑ̃blɑ̃ e lœʁ manjɛʁ də pəti kuʁtizɑ̃]",
+      "ear": "热 莱 德泰斯特 图斯 阿韦克 勒厄赫 佛桑布朗 诶 勒厄赫 玛恩耶艾赫 德 珀蒂 库赫蒂赞",
+      "meaning": "我讨厌他们所有人，以及他们的虚伪和小朝臣的方式。",
+      "sourceLineId": "mozart-timed-296-1",
+      "suppliedText": "Je les déteste tous, avec leurs faux-semblants et leurs manières de petits courtisans.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 2800,
+        "anchorEnd": 2808.58,
+        "sourceLineNumber": 296,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2811,
+      "sourceText": "Je rentre à Salzbourg.",
+      "ipa": "[ʒə ʁɑ̃tʁ‿a salzbuʁ]",
+      "ear": "热 杭特赫 阿 萨勒兹布赫",
+      "meaning": "我要返回萨尔茨堡。",
+      "sourceLineId": "mozart-timed-297-1",
+      "suppliedText": "Je rentre à Salzbourg. Mais je ne céderai rien.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2811,
+        "anchorEnd": 2820.73,
+        "sourceLineNumber": 297,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2815.006,
+      "sourceText": "Mais je ne céderai rien.",
+      "ipa": "[mɛ ʒə nə sedəʁe ʁjɛ̃]",
+      "ear": "梅 热 讷 塞德赫 赫耶安",
+      "meaning": "但我不会放弃任何东西。",
+      "sourceLineId": "mozart-timed-297-2",
+      "suppliedText": "Je rentre à Salzbourg. Mais je ne céderai rien.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2811,
+        "anchorEnd": 2820.73,
+        "sourceLineNumber": 297,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2822,
+      "sourceText": "J'irai jusqu'au bout de ma musique.",
+      "ipa": "[ʒiʁe ʒysko bu də ma myzik]",
+      "ear": "日赫 日于斯科 布 德 玛 米于齐克",
+      "meaning": "我会坚持我的音乐。",
+      "sourceLineId": "mozart-timed-298-1",
+      "suppliedText": "J'irai jusqu'au bout de ma musique. Jusqu'à vous!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2822,
+        "anchorEnd": 2828,
+        "sourceLineNumber": 298,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2826.5,
+      "sourceText": "Jusqu'à vous!",
+      "ipa": "[ʒyska vu]",
+      "ear": "日于斯卡 乌",
+      "meaning": "直到你！",
+      "sourceLineId": "mozart-timed-298-2",
+      "suppliedText": "J'irai jusqu'au bout de ma musique. Jusqu'à vous!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2822,
+        "anchorEnd": 2828,
+        "sourceLineNumber": 298,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2828,
+      "sourceText": "Wolfgang Amadeus Mozart, trahi, humilié, vous salue bien.",
+      "ipa": "[vɔlfɡɑ̃ɡ‿amadeus mɔtsaʁ tʁai ymilje vu saly bjɛ̃]",
+      "ear": "沃勒弗冈格 阿玛德乌斯 莫特萨赫 特哈伊 于米勒耶诶 乌 萨吕 布耶安",
+      "meaning": "被背叛、受尽羞辱的沃尔夫冈·阿马德乌斯·莫扎特，向各位告辞。",
+      "sourceLineId": "mozart-timed-299-1",
+      "suppliedText": "Wolfgang Amadeus Mozart, trahi, humilié, vous salue bien.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 2828,
+        "anchorEnd": 2838,
+        "sourceLineNumber": 299,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

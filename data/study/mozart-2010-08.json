@@ -1,0 +1,1382 @@
+{
+  "videoId": "mozart-2010-08",
+  "playbackVideoId": "83Qn2IvP_-I",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "97aaf400c790393fcb53f1f43bb1002cc0955e5fa8ec3c8c767c03260daed16c",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "法语原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "2010年巴黎原唱录像",
+      "url": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=1976"
+    }
+  ],
+  "entries": [
+    {
+      "start": 1989,
+      "sourceText": "Mes erreurs, mes douleurs, mes pudeurs",
+      "ipa": "[mez‿ɛʁœʁ me dulœʁ me pydœʁ]",
+      "ear": "梅兹 艾赫厄赫 梅 杜勒厄赫 梅 普于德厄赫",
+      "meaning": "我的过错、痛苦和难以启齿的心事。",
+      "sourceLineId": "mozart-timed-220-1",
+      "suppliedText": "Mes erreurs, mes douleurs, mes pudeurs Mes regrets, mais pour quoi faire?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1989,
+        "anchorEnd": 1993.3,
+        "sourceLineNumber": 220,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1991.15,
+      "sourceText": "Mes regrets, mais pour quoi faire?",
+      "ipa": "[me ʁəɡʁɛ mɛ puʁ kwa fɛʁ]",
+      "ear": "梅 赫格赫 梅 普赫 克乌阿 费赫",
+      "meaning": "我的后悔，可后悔又有什么用？",
+      "sourceLineId": "mozart-timed-220-2",
+      "suppliedText": "Mes erreurs, mes douleurs, mes pudeurs Mes regrets, mais pour quoi faire?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1989,
+        "anchorEnd": 1993.3,
+        "sourceLineNumber": 220,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1994,
+      "sourceText": "Tu t'en moques, tu révoques tout en bloc",
+      "ipa": "[ty tɑ̃ mok ty ʁevok tut‿ɑ̃ blɔk]",
+      "ear": "蒂于 唐 莫克 蒂于 赫沃克 图特 昂 布洛克",
+      "meaning": "你毫不在意，把一切全部否定。",
+      "sourceLineId": "mozart-timed-221-1",
+      "suppliedText": "Tu t'en moques, tu révoques tout en bloc Tu balayes tout d'un revers Ma mémoire, mon histoire, sans égard",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1994,
+        "anchorEnd": 2001.9,
+        "sourceLineNumber": 221,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1996.989,
+      "sourceText": "Tu balayes tout d'un revers",
+      "ipa": "[ty balɛj tu dœ̃ ʁəvɛʁ]",
+      "ear": "蒂于 巴莱耶 图 丹 赫韦赫",
+      "meaning": "你挥手就把它们扫开。",
+      "sourceLineId": "mozart-timed-221-2",
+      "suppliedText": "Tu t'en moques, tu révoques tout en bloc Tu balayes tout d'un revers Ma mémoire, mon histoire, sans égard",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1994,
+        "anchorEnd": 2001.9,
+        "sourceLineNumber": 221,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1999.124,
+      "sourceText": "Ma mémoire, mon histoire, sans égard",
+      "ipa": "[ma memwaʁ mɔ̃n‿istwaʁ sɑ̃z‿eɡaʁ]",
+      "ear": "玛 梅姆乌阿赫 蒙恩 伊斯特乌阿赫 桑兹 诶嘎赫",
+      "meaning": "我的记忆和过往，你毫不顾惜。",
+      "sourceLineId": "mozart-timed-221-3",
+      "suppliedText": "Tu t'en moques, tu révoques tout en bloc Tu balayes tout d'un revers Ma mémoire, mon histoire, sans égard",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1994,
+        "anchorEnd": 2001.9,
+        "sourceLineNumber": 221,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2002,
+      "sourceText": "Mon passé que tu enterres",
+      "ipa": "[mɔ̃ pase kə ty ɑ̃tɛʁ]",
+      "ear": "蒙 帕塞 克 蒂于 昂泰赫",
+      "meaning": "你埋掉了我的过去。",
+      "sourceLineId": "mozart-timed-222-1",
+      "suppliedText": "Mon passé que tu enterres Demain tu diras pourquoi n'ai-je Pas vu les pièges",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2002,
+        "anchorEnd": 2010.22,
+        "sourceLineNumber": 222,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2004.551,
+      "sourceText": "Demain tu diras pourquoi n'ai-je",
+      "ipa": "[dəmɛ̃ ty diʁa puʁkwa nɛʒ]",
+      "ear": "德曼 蒂于 迪哈 普赫克乌阿 奈日",
+      "meaning": "有一天你会问自己，为什么我没有——",
+      "sourceLineId": "mozart-timed-222-2",
+      "suppliedText": "Mon passé que tu enterres Demain tu diras pourquoi n'ai-je Pas vu les pièges",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2002,
+        "anchorEnd": 2010.22,
+        "sourceLineNumber": 222,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2008.519,
+      "sourceText": "Pas vu les pièges",
+      "ipa": "[pa vy le pjɛʒ]",
+      "ear": "帕 维于 莱 普耶艾日",
+      "meaning": "看见那些陷阱。",
+      "sourceLineId": "mozart-timed-222-3",
+      "suppliedText": "Mon passé que tu enterres Demain tu diras pourquoi n'ai-je Pas vu les pièges",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2002,
+        "anchorEnd": 2010.22,
+        "sourceLineNumber": 222,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2011,
+      "sourceText": "Emporté dans l'odieux manège",
+      "ipa": "[ɑ̃pɔʁte dɑ̃ lodjø manɛʒ]",
+      "ear": "昂珀赫特 当 洛德耶厄 玛奈日",
+      "meaning": "被卷进这令人厌恶的轮回。",
+      "sourceLineId": "mozart-timed-223-1",
+      "suppliedText": "Emporté dans l'odieux manège Des rancoeurs, des frayeurs, des malheurs Au cœur de l'amour amer",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2011,
+        "anchorEnd": 2020.71,
+        "sourceLineNumber": 223,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2014.052,
+      "sourceText": "Des rancoeurs, des frayeurs, des malheurs",
+      "ipa": "[de ʁɑ̃kœʁ de fʁɛjœʁ de malœʁ]",
+      "ear": "德 杭克厄赫 德 弗赫耶厄赫 德 玛勒厄赫",
+      "meaning": "怨恨、恐惧与不幸。",
+      "sourceLineId": "mozart-timed-223-2",
+      "suppliedText": "Emporté dans l'odieux manège Des rancoeurs, des frayeurs, des malheurs Au cœur de l'amour amer",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2011,
+        "anchorEnd": 2020.71,
+        "sourceLineNumber": 223,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2017.936,
+      "sourceText": "Au cœur de l'amour amer",
+      "ipa": "[o kœʁ də lamuʁ‿ame]",
+      "ear": "奥 克厄赫 德 拉穆赫 阿梅",
+      "meaning": "都藏在苦涩的爱里。",
+      "sourceLineId": "mozart-timed-223-3",
+      "suppliedText": "Emporté dans l'odieux manège Des rancoeurs, des frayeurs, des malheurs Au cœur de l'amour amer",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2011,
+        "anchorEnd": 2020.71,
+        "sourceLineNumber": 223,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2021,
+      "sourceText": "Des nuits noires, des déboires à la gloire",
+      "ipa": "[de nɥi nwaʁ de debwaʁ‿a la ɡlwaʁ]",
+      "ear": "德 恩于伊 恩乌阿赫 德 德布乌阿赫 阿 拉 格勒乌阿赫",
+      "meaning": "黑夜与挫折，献给那所谓的荣耀。",
+      "sourceLineId": "mozart-timed-224-1",
+      "suppliedText": "Des nuits noires, des déboires à la gloire Des plaisirs éphémères J'ai beau prêcher dans le désert Comment me taire?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2021,
+        "anchorEnd": 2031.939,
+        "sourceLineNumber": 224,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2025.269,
+      "sourceText": "Des plaisirs éphémères",
+      "ipa": "[de plɛziʁ‿efemɛʁ]",
+      "ear": "德 普莱齐赫 诶费梅赫",
+      "meaning": "还有转瞬即逝的欢愉。",
+      "sourceLineId": "mozart-timed-224-2",
+      "suppliedText": "Des nuits noires, des déboires à la gloire Des plaisirs éphémères J'ai beau prêcher dans le désert Comment me taire?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2021,
+        "anchorEnd": 2031.939,
+        "sourceLineNumber": 224,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2027.403,
+      "sourceText": "J'ai beau prêcher dans le désert",
+      "ipa": "[ʒe bo pʁɛʃe dɑ̃ lə dezɛʁ]",
+      "ear": "热 博 普赫谢 当 勒 德泽赫",
+      "meaning": "我苦口婆心，却像在荒漠中布道。",
+      "sourceLineId": "mozart-timed-224-3",
+      "suppliedText": "Des nuits noires, des déboires à la gloire Des plaisirs éphémères J'ai beau prêcher dans le désert Comment me taire?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2021,
+        "anchorEnd": 2031.939,
+        "sourceLineNumber": 224,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2030.338,
+      "sourceText": "Comment me taire?",
+      "ipa": "[kɔmɑ̃ mə tɛʁ]",
+      "ear": "科芒 默 泰赫",
+      "meaning": "我又怎能保持沉默？",
+      "sourceLineId": "mozart-timed-224-4",
+      "suppliedText": "Des nuits noires, des déboires à la gloire Des plaisirs éphémères J'ai beau prêcher dans le désert Comment me taire?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2021,
+        "anchorEnd": 2031.939,
+        "sourceLineNumber": 224,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2033,
+      "sourceText": "Tourne la terre comme les hommes",
+      "ipa": "[tuʁn la tɛʁ kɔm lez‿ɔm]",
+      "ear": "图赫恩 拉 泰赫 科姆 莱兹 哦姆",
+      "meaning": "地球转着，人也一遍遍兜圈。",
+      "sourceLineId": "mozart-timed-225-1",
+      "suppliedText": "Tourne la terre comme les hommes À refaire encore les erreurs De nos pères",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2033,
+        "anchorEnd": 2038.87,
+        "sourceLineNumber": 225,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2035.391,
+      "sourceText": "À refaire encore les erreurs",
+      "ipa": "[a ʁəfɛʁ‿ɑ̃kɔʁ lez‿ɛʁœʁ]",
+      "ear": "阿 赫费赫 昂科赫 莱兹 艾赫厄赫",
+      "meaning": "不断重复那些过错。",
+      "sourceLineId": "mozart-timed-225-2",
+      "suppliedText": "Tourne la terre comme les hommes À refaire encore les erreurs De nos pères",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2033,
+        "anchorEnd": 2038.87,
+        "sourceLineNumber": 225,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2038.0,
+      "sourceText": "De nos pères",
+      "ipa": "[də no pɛʁ]",
+      "ear": "德 诺 佩赫",
+      "meaning": "我们父辈的过错。",
+      "sourceLineId": "mozart-timed-225-3",
+      "suppliedText": "Tourne la terre comme les hommes À refaire encore les erreurs De nos pères",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2033,
+        "anchorEnd": 2038.87,
+        "sourceLineNumber": 225,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2043,
+      "sourceText": "On mord toujours la même pomme",
+      "ipa": "[ɔ̃ mɔʁ tuʒuʁ la mɛm pɔm]",
+      "ear": "翁 莫赫 图茹赫 拉 梅姆 珀姆",
+      "meaning": "我们总是咬下同一颗禁果。",
+      "sourceLineId": "mozart-timed-226-1",
+      "suppliedText": "On mord toujours la même pomme Et le serpent danse alors que l'on s'enferre Dans les erreurs d'hier",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2043,
+        "anchorEnd": 2052.299,
+        "sourceLineNumber": 226,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2046.197,
+      "sourceText": "Et le serpent danse alors que l'on s'enferre",
+      "ipa": "[e lə sɛʁpɑ̃ dɑ̃s‿alɔʁ kə lɔ̃ sɑ̃fɛʁ]",
+      "ear": "诶 勒 塞赫庞 当斯 阿洛赫 克 隆 桑费赫",
+      "meaning": "毒蛇在起舞，我们却越陷越深。",
+      "sourceLineId": "mozart-timed-226-2",
+      "suppliedText": "On mord toujours la même pomme Et le serpent danse alors que l'on s'enferre Dans les erreurs d'hier",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2043,
+        "anchorEnd": 2052.299,
+        "sourceLineNumber": 226,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2050.265,
+      "sourceText": "Dans les erreurs d'hier",
+      "ipa": "[dɑ̃ lez‿ɛʁœʁ djɛʁ]",
+      "ear": "当 莱兹 艾赫厄赫 德耶艾赫",
+      "meaning": "陷在昨日的错误里。",
+      "sourceLineId": "mozart-timed-226-3",
+      "suppliedText": "On mord toujours la même pomme Et le serpent danse alors que l'on s'enferre Dans les erreurs d'hier",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2043,
+        "anchorEnd": 2052.299,
+        "sourceLineNumber": 226,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2061,
+      "sourceText": "Pour grandir, t'accomplir et sortir de la ronde séculaire",
+      "ipa": "[puʁ ɡʁɑ̃diʁ takɔ̃pliʁ e sɔʁtiʁ də la ʁɔ̃d sekylɛʁ]",
+      "ear": "普赫 格杭迪赫 塔孔普利赫 诶 索赫蒂赫 德 拉 洪德 塞基于莱赫",
+      "meaning": "成长、成就、逃离古老的圈子",
+      "sourceLineId": "mozart-timed-227-1",
+      "suppliedText": "Pour grandir, t'accomplir et sortir de la ronde séculaire Dans mon ombre, les décombres des jours sombres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2061,
+        "anchorEnd": 2069,
+        "sourceLineNumber": 227,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2065.75,
+      "sourceText": "Dans mon ombre, les décombres des jours sombres",
+      "ipa": "[dɑ̃ mɔ̃n‿ɔ̃bʁ le dekɔ̃bʁ de ʒuʁ sɔ̃bʁ]",
+      "ear": "当 蒙恩 翁布赫 莱 德孔布赫 德 茹赫 松布赫",
+      "meaning": "在我的阴影里，在那些灰暗日子的废墟里。",
+      "sourceLineId": "mozart-timed-227-2",
+      "suppliedText": "Pour grandir, t'accomplir et sortir de la ronde séculaire Dans mon ombre, les décombres des jours sombres",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2061,
+        "anchorEnd": 2069,
+        "sourceLineNumber": 227,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2069,
+      "sourceText": "Tu trouveras la lumière",
+      "ipa": "[ty tʁuvʁa la lymjɛʁ]",
+      "ear": "蒂于 特胡弗哈 拉 吕姆耶艾赫",
+      "meaning": "你会找到光。",
+      "sourceLineId": "mozart-timed-228-1",
+      "suppliedText": "Tu trouveras la lumière Ce sont mes travers qui t'éclairent Comment me taire?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2069,
+        "anchorEnd": 2078,
+        "sourceLineNumber": 228,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2072.333,
+      "sourceText": "Ce sont mes travers qui t'éclairent",
+      "ipa": "[sə sɔ̃ me tʁavɛʁ ki teklɛʁ]",
+      "ear": "瑟 松 梅 特哈韦赫 基 特克莱赫",
+      "meaning": "正是我的过错，能为你指路。",
+      "sourceLineId": "mozart-timed-228-2",
+      "suppliedText": "Tu trouveras la lumière Ce sont mes travers qui t'éclairent Comment me taire?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2069,
+        "anchorEnd": 2078,
+        "sourceLineNumber": 228,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2076.0,
+      "sourceText": "Comment me taire?",
+      "ipa": "[kɔmɑ̃ mə tɛʁ]",
+      "ear": "科芒 默 泰赫",
+      "meaning": "我又怎能保持沉默？",
+      "sourceLineId": "mozart-timed-228-3",
+      "suppliedText": "Tu trouveras la lumière Ce sont mes travers qui t'éclairent Comment me taire?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2069,
+        "anchorEnd": 2078,
+        "sourceLineNumber": 228,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2078,
+      "sourceText": "Tourne la terre autour des hommes",
+      "ipa": "[tuʁn la tɛʁ‿otuʁ dez‿ɔm]",
+      "ear": "图赫恩 拉 泰赫 奥图赫 德兹 哦姆",
+      "meaning": "大地围绕着人们转动。",
+      "sourceLineId": "mozart-timed-229-1",
+      "suppliedText": "Tourne la terre autour des hommes Nous sommes la somme des erreurs de nos pères",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2078,
+        "anchorEnd": 2083.79,
+        "sourceLineNumber": 229,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2080.688,
+      "sourceText": "Nous sommes la somme des erreurs de nos pères",
+      "ipa": "[nu sɔm la sɔm dez‿ɛʁœʁ də no pɛʁ]",
+      "ear": "努 索姆 拉 索姆 德兹 艾赫厄赫 德 诺 佩赫",
+      "meaning": "我们身上积累着父辈的过错。",
+      "sourceLineId": "mozart-timed-229-2",
+      "suppliedText": "Tourne la terre autour des hommes Nous sommes la somme des erreurs de nos pères",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2078,
+        "anchorEnd": 2083.79,
+        "sourceLineNumber": 229,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2088,
+      "sourceText": "On mord toujours la même pomme",
+      "ipa": "[ɔ̃ mɔʁ tuʒuʁ la mɛm pɔm]",
+      "ear": "翁 莫赫 图茹赫 拉 梅姆 珀姆",
+      "meaning": "我们总是咬下同一颗禁果。",
+      "sourceLineId": "mozart-timed-230-1",
+      "suppliedText": "On mord toujours la même pomme Et le serpent danse alors que l'on s'enferre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2088,
+        "anchorEnd": 2094.98,
+        "sourceLineNumber": 230,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2091.071,
+      "sourceText": "Et le serpent danse alors que l'on s'enferre",
+      "ipa": "[e lə sɛʁpɑ̃ dɑ̃s‿alɔʁ kə lɔ̃ sɑ̃fɛʁ]",
+      "ear": "诶 勒 塞赫庞 当斯 阿洛赫 克 隆 桑费赫",
+      "meaning": "毒蛇在起舞，我们却越陷越深。",
+      "sourceLineId": "mozart-timed-230-2",
+      "suppliedText": "On mord toujours la même pomme Et le serpent danse alors que l'on s'enferre",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2088,
+        "anchorEnd": 2094.98,
+        "sourceLineNumber": 230,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2097,
+      "sourceText": "Tourne la terre autour des hommes",
+      "ipa": "[tuʁn la tɛʁ‿otuʁ dez‿ɔm]",
+      "ear": "图赫恩 拉 泰赫 奥图赫 德兹 哦姆",
+      "meaning": "大地围绕着人们转动。",
+      "sourceLineId": "mozart-timed-231-1",
+      "suppliedText": "Tourne la terre autour des hommes Il faut défaire ce que nous sommes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2097,
+        "anchorEnd": 2103.1,
+        "sourceLineNumber": 231,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2099.937,
+      "sourceText": "Il faut défaire ce que nous sommes",
+      "ipa": "[il fo defɛʁ sə kə nu sɔm]",
+      "ear": "伊勒 佛 德费赫 瑟 克 努 索姆",
+      "meaning": "我们必须改变如今的自己。",
+      "sourceLineId": "mozart-timed-231-2",
+      "suppliedText": "Tourne la terre autour des hommes Il faut défaire ce que nous sommes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2097,
+        "anchorEnd": 2103.1,
+        "sourceLineNumber": 231,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2105,
+      "sourceText": "En embrassant nos pères",
+      "ipa": "[ɑ̃n‿ɑ̃bʁasɑ̃ no pɛʁ]",
+      "ear": "昂恩 昂布哈桑 诺 佩赫",
+      "meaning": "拥抱我们的父亲。",
+      "sourceLineId": "mozart-timed-232-1",
+      "suppliedText": "En embrassant nos pères Wolfgang, reprends-toi. Abandonne cette Aloysia.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2105,
+        "anchorEnd": 2113.54,
+        "sourceLineNumber": 232,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2107.491,
+      "sourceText": "Wolfgang, reprends-toi.",
+      "ipa": "[vɔlfɡɑ̃ɡ ʁəpʁɑ̃twa]",
+      "ear": "沃勒弗冈格 赫普杭特乌阿",
+      "meaning": "沃尔夫冈，振作起来。",
+      "sourceLineId": "mozart-timed-232-2",
+      "suppliedText": "En embrassant nos pères Wolfgang, reprends-toi. Abandonne cette Aloysia.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2105,
+        "anchorEnd": 2113.54,
+        "sourceLineNumber": 232,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2109.626,
+      "sourceText": "Abandonne cette Aloysia.",
+      "ipa": "[abɑ̃dɔn sɛt‿alwazja]",
+      "ear": "阿邦多恩 塞特 阿勒乌阿兹耶阿",
+      "meaning": "放弃这个阿洛伊西娅。",
+      "sourceLineId": "mozart-timed-232-3",
+      "suppliedText": "En embrassant nos pères Wolfgang, reprends-toi. Abandonne cette Aloysia.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2105,
+        "anchorEnd": 2113.54,
+        "sourceLineNumber": 232,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2114,
+      "sourceText": "Pars pour Paris, et vite.",
+      "ipa": "[paʁ puʁ paʁi e vit]",
+      "ear": "帕赫 普赫 帕希 诶 维特",
+      "meaning": "快速前往巴黎。",
+      "sourceLineId": "mozart-timed-233-1",
+      "suppliedText": "Pars pour Paris, et vite. C'est à Paris que tu trouveras l'honneur et le succès. Fais reconnaître ton talent.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2114,
+        "anchorEnd": 2121.94,
+        "sourceLineNumber": 233,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2115.764,
+      "sourceText": "C'est à Paris que tu trouveras l'honneur et le succès.",
+      "ipa": "[sɛt‿a paʁi kə ty tʁuvʁa lɔnœʁ e lə syksɛ]",
+      "ear": "塞特 阿 帕希 克 蒂于 特胡弗哈 洛讷厄赫 诶 勒 西于克塞",
+      "meaning": "在巴黎，您将找到荣誉和成功。",
+      "sourceLineId": "mozart-timed-233-2",
+      "suppliedText": "Pars pour Paris, et vite. C'est à Paris que tu trouveras l'honneur et le succès. Fais reconnaître ton talent.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2114,
+        "anchorEnd": 2121.94,
+        "sourceLineNumber": 233,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2119.734,
+      "sourceText": "Fais reconnaître ton talent.",
+      "ipa": "[fɛ ʁəkɔnɛtʁ tɔ̃ talɑ̃]",
+      "ear": "费 赫科奈特赫 通 塔朗",
+      "meaning": "让你的才华得到认可。",
+      "sourceLineId": "mozart-timed-233-3",
+      "suppliedText": "Pars pour Paris, et vite. C'est à Paris que tu trouveras l'honneur et le succès. Fais reconnaître ton talent.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2114,
+        "anchorEnd": 2121.94,
+        "sourceLineNumber": 233,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2122,
+      "sourceText": "Alors seulement, tu pourras revenir vers",
+      "ipa": "[alɔʁ sølmɑ̃ ty puʁa ʁəvniʁ vɛʁ]",
+      "ear": "阿洛赫 瑟厄勒芒 蒂于 普哈 赫弗尼赫 韦赫",
+      "meaning": "只有这样，你才能返回",
+      "sourceLineId": "mozart-timed-234-1",
+      "suppliedText": "Alors seulement, tu pourras revenir vers Mademoiselle Weber. Wolfgang, obéis-moi!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2122,
+        "anchorEnd": 2127.78,
+        "sourceLineNumber": 234,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2124.79,
+      "sourceText": "Mademoiselle Weber.",
+      "ipa": "[madmwazɛl vebɛʁ]",
+      "ear": "玛德姆乌阿泽勒 韦贝赫",
+      "meaning": "韦伯小姐。",
+      "sourceLineId": "mozart-timed-234-2",
+      "suppliedText": "Alors seulement, tu pourras revenir vers Mademoiselle Weber. Wolfgang, obéis-moi!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2122,
+        "anchorEnd": 2127.78,
+        "sourceLineNumber": 234,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2126.385,
+      "sourceText": "Wolfgang, obéis-moi!",
+      "ipa": "[vɔlfɡɑ̃ɡ obeimwa]",
+      "ear": "沃勒弗冈格 奥贝伊姆乌阿",
+      "meaning": "沃尔夫冈，听我的！",
+      "sourceLineId": "mozart-timed-234-3",
+      "suppliedText": "Alors seulement, tu pourras revenir vers Mademoiselle Weber. Wolfgang, obéis-moi!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2122,
+        "anchorEnd": 2127.78,
+        "sourceLineNumber": 234,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2132,
+      "sourceText": "Aloysia.",
+      "ipa": "[alwazja]",
+      "ear": "阿勒乌阿兹耶阿",
+      "meaning": "阿洛伊西娅。",
+      "sourceLineId": "mozart-timed-235-1",
+      "suppliedText": "Aloysia. - Aloysia, je dois vous quitter. - Me quitter?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2132,
+        "anchorEnd": 2141,
+        "sourceLineNumber": 235,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2134.045,
+      "sourceText": "Aloysia, je dois vous quitter.",
+      "ipa": "[alwazja ʒə dwa vu kite]",
+      "ear": "阿勒乌阿兹耶阿 热 德乌阿 乌 基特",
+      "meaning": "阿洛伊西娅，我必须离开你。",
+      "sourceLineId": "mozart-timed-235-2",
+      "suppliedText": "Aloysia. - Aloysia, je dois vous quitter. - Me quitter?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2132,
+        "anchorEnd": 2141,
+        "sourceLineNumber": 235,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2139.364,
+      "sourceText": "Me quitter?",
+      "ipa": "[mə kite]",
+      "ear": "默 基特",
+      "meaning": "离开我？",
+      "sourceLineId": "mozart-timed-235-3",
+      "suppliedText": "Aloysia. - Aloysia, je dois vous quitter. - Me quitter?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2132,
+        "anchorEnd": 2141,
+        "sourceLineNumber": 235,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2141,
+      "sourceText": "Oui, dès demain.",
+      "ipa": "[wi dɛ dəmɛ̃]",
+      "ear": "乌伊 戴 德曼",
+      "meaning": "是的，从明天开始。",
+      "sourceLineId": "mozart-timed-236-1",
+      "suppliedText": "- Oui, dès demain. - Mais... Et nos concerts? Je ne sais pas. Vous chanterez sans moi. Wolfgang, qu'y a-t-il?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2141,
+        "anchorEnd": 2149,
+        "sourceLineNumber": 236,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2142.75,
+      "sourceText": "Mais...",
+      "ipa": "[mɛ]",
+      "ear": "梅",
+      "meaning": "但是……",
+      "sourceLineId": "mozart-timed-236-2",
+      "suppliedText": "- Oui, dès demain. - Mais... Et nos concerts? Je ne sais pas. Vous chanterez sans moi. Wolfgang, qu'y a-t-il?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2141,
+        "anchorEnd": 2149,
+        "sourceLineNumber": 236,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2143.25,
+      "sourceText": "Et nos concerts?",
+      "ipa": "[e no kɔ̃sɛʁ]",
+      "ear": "诶 诺 孔塞赫",
+      "meaning": "我们的音乐会呢？",
+      "sourceLineId": "mozart-timed-236-3",
+      "suppliedText": "- Oui, dès demain. - Mais... Et nos concerts? Je ne sais pas. Vous chanterez sans moi. Wolfgang, qu'y a-t-il?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2141,
+        "anchorEnd": 2149,
+        "sourceLineNumber": 236,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2144.25,
+      "sourceText": "Je ne sais pas.",
+      "ipa": "[ʒə nə sɛ pa]",
+      "ear": "热 讷 塞 帕",
+      "meaning": "我不知道。",
+      "sourceLineId": "mozart-timed-236-4",
+      "suppliedText": "- Oui, dès demain. - Mais... Et nos concerts? Je ne sais pas. Vous chanterez sans moi. Wolfgang, qu'y a-t-il?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2141,
+        "anchorEnd": 2149,
+        "sourceLineNumber": 236,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2145.5,
+      "sourceText": "Vous chanterez sans moi.",
+      "ipa": "[vu ʃɑ̃tʁe sɑ̃ mwa]",
+      "ear": "乌 尚特赫 桑 姆乌阿",
+      "meaning": "没有我你也会唱歌。",
+      "sourceLineId": "mozart-timed-236-5",
+      "suppliedText": "- Oui, dès demain. - Mais... Et nos concerts? Je ne sais pas. Vous chanterez sans moi. Wolfgang, qu'y a-t-il?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2141,
+        "anchorEnd": 2149,
+        "sourceLineNumber": 236,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2147.5,
+      "sourceText": "Wolfgang, qu'y a-t-il?",
+      "ipa": "[vɔlfɡɑ̃ɡ ki atil]",
+      "ear": "沃勒弗冈格 基 阿蒂勒",
+      "meaning": "沃尔夫冈，这是什么？",
+      "sourceLineId": "mozart-timed-236-6",
+      "suppliedText": "- Oui, dès demain. - Mais... Et nos concerts? Je ne sais pas. Vous chanterez sans moi. Wolfgang, qu'y a-t-il?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2141,
+        "anchorEnd": 2149,
+        "sourceLineNumber": 236,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2149,
+      "sourceText": "Je dois quitter Mannheim pour Paris.",
+      "ipa": "[ʒə dwa kite mɑ̃najm puʁ paʁi]",
+      "ear": "热 德乌阿 基特 芒纳耶姆 普赫 帕希",
+      "meaning": "我必须离开曼海姆前往巴黎。",
+      "sourceLineId": "mozart-timed-237-1",
+      "suppliedText": "- Je dois quitter Mannheim pour Paris. - Comme ça? Tout de suite? Réfléchissez. Et Aloysia et tous nos projets?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2149,
+        "anchorEnd": 2157,
+        "sourceLineNumber": 237,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2151.737,
+      "sourceText": "Comme ça?",
+      "ipa": "[kɔm sa]",
+      "ear": "科姆 萨",
+      "meaning": "就这样？",
+      "sourceLineId": "mozart-timed-237-2",
+      "suppliedText": "- Je dois quitter Mannheim pour Paris. - Comme ça? Tout de suite? Réfléchissez. Et Aloysia et tous nos projets?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2149,
+        "anchorEnd": 2157,
+        "sourceLineNumber": 237,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2152.368,
+      "sourceText": "Tout de suite?",
+      "ipa": "[tu də sɥit]",
+      "ear": "图 德 斯于伊特",
+      "meaning": "马上？",
+      "sourceLineId": "mozart-timed-237-3",
+      "suppliedText": "- Je dois quitter Mannheim pour Paris. - Comme ça? Tout de suite? Réfléchissez. Et Aloysia et tous nos projets?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2149,
+        "anchorEnd": 2157,
+        "sourceLineNumber": 237,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2153.632,
+      "sourceText": "Réfléchissez.",
+      "ipa": "[ʁefleʃise]",
+      "ear": "赫弗莱希塞",
+      "meaning": "思考。",
+      "sourceLineId": "mozart-timed-237-4",
+      "suppliedText": "- Je dois quitter Mannheim pour Paris. - Comme ça? Tout de suite? Réfléchissez. Et Aloysia et tous nos projets?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2149,
+        "anchorEnd": 2157,
+        "sourceLineNumber": 237,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2154.474,
+      "sourceText": "Et Aloysia et tous nos projets?",
+      "ipa": "[e alwazja e tu no pʁoʒɛ]",
+      "ear": "诶 阿勒乌阿兹耶阿 诶 图 诺 普霍热",
+      "meaning": "那阿洛伊西娅呢？我们所有的计划呢？",
+      "sourceLineId": "mozart-timed-237-5",
+      "suppliedText": "- Je dois quitter Mannheim pour Paris. - Comme ça? Tout de suite? Réfléchissez. Et Aloysia et tous nos projets?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2149,
+        "anchorEnd": 2157,
+        "sourceLineNumber": 237,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2157,
+      "sourceText": "Madame, expliquez-nous!",
+      "ipa": "[madam ɛksplikenu]",
+      "ear": "玛达姆 艾克斯普利克努",
+      "meaning": "夫人，给我们解释一下！",
+      "sourceLineId": "mozart-timed-238-1",
+      "suppliedText": "Madame, expliquez-nous! Non, c'est tout. Je pars. Aloysia, je ne serai pas long. Tout au plus, quelques mois.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2157,
+        "anchorEnd": 2166.86,
+        "sourceLineNumber": 238,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2159.335,
+      "sourceText": "Non, c'est tout.",
+      "ipa": "[nɔ̃ sɛ tu]",
+      "ear": "农 塞 图",
+      "meaning": "不，仅此而已。",
+      "sourceLineId": "mozart-timed-238-2",
+      "suppliedText": "Madame, expliquez-nous! Non, c'est tout. Je pars. Aloysia, je ne serai pas long. Tout au plus, quelques mois.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2157,
+        "anchorEnd": 2166.86,
+        "sourceLineNumber": 238,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2160.373,
+      "sourceText": "Je pars.",
+      "ipa": "[ʒə paʁ]",
+      "ear": "热 帕赫",
+      "meaning": "我要走了。",
+      "sourceLineId": "mozart-timed-238-3",
+      "suppliedText": "Madame, expliquez-nous! Non, c'est tout. Je pars. Aloysia, je ne serai pas long. Tout au plus, quelques mois.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2157,
+        "anchorEnd": 2166.86,
+        "sourceLineNumber": 238,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2160.892,
+      "sourceText": "Aloysia, je ne serai pas long.",
+      "ipa": "[alwazja ʒə nə səʁe pa lɔ̃]",
+      "ear": "阿勒乌阿兹耶阿 热 讷 瑟赫 帕 隆",
+      "meaning": "阿洛伊西娅，我不会太久的。",
+      "sourceLineId": "mozart-timed-238-4",
+      "suppliedText": "Madame, expliquez-nous! Non, c'est tout. Je pars. Aloysia, je ne serai pas long. Tout au plus, quelques mois.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2157,
+        "anchorEnd": 2166.86,
+        "sourceLineNumber": 238,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2164.006,
+      "sourceText": "Tout au plus, quelques mois.",
+      "ipa": "[tut‿o ply kɛlkə mwa]",
+      "ear": "图特 奥 普吕 凯勒克 姆乌阿",
+      "meaning": "最多几个月。",
+      "sourceLineId": "mozart-timed-238-5",
+      "suppliedText": "Madame, expliquez-nous! Non, c'est tout. Je pars. Aloysia, je ne serai pas long. Tout au plus, quelques mois.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2157,
+        "anchorEnd": 2166.86,
+        "sourceLineNumber": 238,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2167,
+      "sourceText": "Quelques mois?",
+      "ipa": "[kɛlkə mwa]",
+      "ear": "凯勒克 姆乌阿",
+      "meaning": "几个月？",
+      "sourceLineId": "mozart-timed-239-1",
+      "suppliedText": "Quelques mois? Mais enfin, c'est une éternité, - une vie entière. - Non. - Non, ne partez pas. - Ah!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2167,
+        "anchorEnd": 2174,
+        "sourceLineNumber": 239,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2168.312,
+      "sourceText": "Mais enfin, c'est une éternité,",
+      "ipa": "[mɛ ɑ̃fɛ̃ sɛt‿yn‿etɛʁnite]",
+      "ear": "梅 昂凡 塞特 于恩 诶泰赫尼特",
+      "meaning": "可那也太久了，",
+      "sourceLineId": "mozart-timed-239-2",
+      "suppliedText": "Quelques mois? Mais enfin, c'est une éternité, - une vie entière. - Non. - Non, ne partez pas. - Ah!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2167,
+        "anchorEnd": 2174,
+        "sourceLineNumber": 239,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2170.719,
+      "sourceText": "une vie entière.",
+      "ipa": "[yn vi ɑ̃tjɛʁ]",
+      "ear": "于恩 维 昂特耶艾赫",
+      "meaning": "一生。",
+      "sourceLineId": "mozart-timed-239-3",
+      "suppliedText": "Quelques mois? Mais enfin, c'est une éternité, - une vie entière. - Non. - Non, ne partez pas. - Ah!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2167,
+        "anchorEnd": 2174,
+        "sourceLineNumber": 239,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2172.469,
+      "sourceText": "Non.",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不。",
+      "sourceLineId": "mozart-timed-239-4",
+      "suppliedText": "Quelques mois? Mais enfin, c'est une éternité, - une vie entière. - Non. - Non, ne partez pas. - Ah!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2167,
+        "anchorEnd": 2174,
+        "sourceLineNumber": 239,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2172.688,
+      "sourceText": "Non, ne partez pas.",
+      "ipa": "[nɔ̃ nə paʁte pa]",
+      "ear": "农 讷 帕赫特 帕",
+      "meaning": "不，不要离开。",
+      "sourceLineId": "mozart-timed-239-5",
+      "suppliedText": "Quelques mois? Mais enfin, c'est une éternité, - une vie entière. - Non. - Non, ne partez pas. - Ah!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2167,
+        "anchorEnd": 2174,
+        "sourceLineNumber": 239,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2173.781,
+      "sourceText": "Ah!",
+      "ipa": "[a]",
+      "ear": "阿",
+      "meaning": "啊！",
+      "sourceLineId": "mozart-timed-239-6",
+      "suppliedText": "Quelques mois? Mais enfin, c'est une éternité, - une vie entière. - Non. - Non, ne partez pas. - Ah!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2167,
+        "anchorEnd": 2174,
+        "sourceLineNumber": 239,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2174,
+      "sourceText": "Cette fois-ci, c'est raté.",
+      "ipa": "[sɛt fwasi sɛ ʁate]",
+      "ear": "塞特 弗乌阿西 塞 哈特",
+      "meaning": "这一次，失败了。",
+      "sourceLineId": "mozart-timed-240-1",
+      "suppliedText": "- Cette fois-ci, c'est raté. - Crétin, va! Aloysia, Aloysia, non.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2174,
+        "anchorEnd": 2181.49,
+        "sourceLineNumber": 240,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2176.724,
+      "sourceText": "Crétin, va!",
+      "ipa": "[kʁetɛ̃ va]",
+      "ear": "克赫坦 瓦",
+      "meaning": "你这个蠢货！",
+      "sourceLineId": "mozart-timed-240-2",
+      "suppliedText": "- Cette fois-ci, c'est raté. - Crétin, va! Aloysia, Aloysia, non.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2174,
+        "anchorEnd": 2181.49,
+        "sourceLineNumber": 240,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2177.745,
+      "sourceText": "Aloysia, Aloysia, non.",
+      "ipa": "[alwazja alwazja nɔ̃]",
+      "ear": "阿勒乌阿兹耶阿 阿勒乌阿兹耶阿 农",
+      "meaning": "阿洛伊西娅，阿洛伊西娅，没有。",
+      "sourceLineId": "mozart-timed-240-3",
+      "suppliedText": "- Cette fois-ci, c'est raté. - Crétin, va! Aloysia, Aloysia, non.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2174,
+        "anchorEnd": 2181.49,
+        "sourceLineNumber": 240,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2183,
+      "sourceText": "Mon père a raison.",
+      "ipa": "[mɔ̃ pɛʁ‿a ʁɛzɔ̃]",
+      "ear": "蒙 佩赫 阿 赫宗",
+      "meaning": "我父亲是对的。",
+      "sourceLineId": "mozart-timed-241-1",
+      "suppliedText": "Mon père a raison. Aujourd'hui, je ne suis rien. À Paris, je ferai fortune pour être digne de vous.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2183,
+        "anchorEnd": 2189,
+        "sourceLineNumber": 241,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2184.105,
+      "sourceText": "Aujourd'hui, je ne suis rien.",
+      "ipa": "[oʒuʁdɥi ʒə nə sɥi ʁjɛ̃]",
+      "ear": "奥茹赫德于伊 热 讷 斯于伊 赫耶安",
+      "meaning": "今天，我什么都不是。",
+      "sourceLineId": "mozart-timed-241-2",
+      "suppliedText": "Mon père a raison. Aujourd'hui, je ne suis rien. À Paris, je ferai fortune pour être digne de vous.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2183,
+        "anchorEnd": 2189,
+        "sourceLineNumber": 241,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2186.0,
+      "sourceText": "À Paris, je ferai fortune pour être digne de vous.",
+      "ipa": "[a paʁi ʒə fəʁe fɔʁtyn puʁ‿ɛtʁ diɲ də vu]",
+      "ear": "阿 帕希 热 弗赫 佛赫蒂于恩 普赫 艾特赫 迪涅 德 乌",
+      "meaning": "我会在巴黎闯出名堂，成为配得上您的人。",
+      "sourceLineId": "mozart-timed-241-3",
+      "suppliedText": "Mon père a raison. Aujourd'hui, je ne suis rien. À Paris, je ferai fortune pour être digne de vous.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2183,
+        "anchorEnd": 2189,
+        "sourceLineNumber": 241,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2189,
+      "sourceText": "Je vous en supplie.",
+      "ipa": "[ʒə vuz‿ɑ̃ sypli]",
+      "ear": "热 乌兹 昂 西于普利",
+      "meaning": "我求你了。",
+      "sourceLineId": "mozart-timed-242-1",
+      "suppliedText": "- Je vous en supplie. - Aloysia, je vous aime. Ne m'oubliez pas. Adieu.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2189,
+        "anchorEnd": 2198.14,
+        "sourceLineNumber": 242,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2191.285,
+      "sourceText": "Aloysia, je vous aime.",
+      "ipa": "[alwazja ʒə vuz‿ɛm]",
+      "ear": "阿勒乌阿兹耶阿 热 乌兹 艾姆",
+      "meaning": "阿洛伊西娅，我爱你。",
+      "sourceLineId": "mozart-timed-242-2",
+      "suppliedText": "- Je vous en supplie. - Aloysia, je vous aime. Ne m'oubliez pas. Adieu.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2189,
+        "anchorEnd": 2198.14,
+        "sourceLineNumber": 242,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2194.876,
+      "sourceText": "Ne m'oubliez pas.",
+      "ipa": "[nə mublie pa]",
+      "ear": "讷 穆布利诶 帕",
+      "meaning": "别忘了我。",
+      "sourceLineId": "mozart-timed-242-3",
+      "suppliedText": "- Je vous en supplie. - Aloysia, je vous aime. Ne m'oubliez pas. Adieu.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2189,
+        "anchorEnd": 2198.14,
+        "sourceLineNumber": 242,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2196.834,
+      "sourceText": "Adieu.",
+      "ipa": "[adjø]",
+      "ear": "阿德耶厄",
+      "meaning": "再见。",
+      "sourceLineId": "mozart-timed-242-4",
+      "suppliedText": "- Je vous en supplie. - Aloysia, je vous aime. Ne m'oubliez pas. Adieu.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2189,
+        "anchorEnd": 2198.14,
+        "sourceLineNumber": 242,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2199,
+      "sourceText": "Adieu.",
+      "ipa": "[adjø]",
+      "ear": "阿德耶厄",
+      "meaning": "再见。",
+      "sourceLineId": "mozart-timed-243-1",
+      "suppliedText": "Adieu. Je vous déteste. Je vous déteste. Je vous déteste!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2199,
+        "anchorEnd": 2206.55,
+        "sourceLineNumber": 243,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2200.373,
+      "sourceText": "Je vous déteste.",
+      "ipa": "[ʒə vu detɛst]",
+      "ear": "热 乌 德泰斯特",
+      "meaning": "我恨你。",
+      "sourceLineId": "mozart-timed-243-2",
+      "suppliedText": "Adieu. Je vous déteste. Je vous déteste. Je vous déteste!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2199,
+        "anchorEnd": 2206.55,
+        "sourceLineNumber": 243,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2202.432,
+      "sourceText": "Je vous déteste.",
+      "ipa": "[ʒə vu detɛst]",
+      "ear": "热 乌 德泰斯特",
+      "meaning": "我恨你。",
+      "sourceLineId": "mozart-timed-243-3",
+      "suppliedText": "Adieu. Je vous déteste. Je vous déteste. Je vous déteste!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2199,
+        "anchorEnd": 2206.55,
+        "sourceLineNumber": 243,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2204.491,
+      "sourceText": "Je vous déteste!",
+      "ipa": "[ʒə vu detɛst]",
+      "ear": "热 乌 德泰斯特",
+      "meaning": "我恨你！",
+      "sourceLineId": "mozart-timed-243-4",
+      "suppliedText": "Adieu. Je vous déteste. Je vous déteste. Je vous déteste!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2199,
+        "anchorEnd": 2206.55,
+        "sourceLineNumber": 243,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

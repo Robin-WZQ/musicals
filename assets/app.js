@@ -1,8 +1,8 @@
-import { videoId, clock, normalizeCues, cueAt } from './captions.mjs?v=20261005-4';
-import { attachStudyNotes } from './study.mjs?v=20261005-4';
-import { musicalURL, learningURL, tracksFor, resolveTrackId } from './library.mjs?v=20261005-4';
-import { fetchData } from './data.mjs?v=20261005-4';
-import { playbackStart, nativeCues, importStudyCaptions, studyStorageKey, studyPack, savedStudyCaptions } from './native.mjs?v=20261005-4';
+import { videoId, clock, normalizeCues, cueAt } from './captions.mjs?v=20261005-5';
+import { attachStudyNotes } from './study.mjs?v=20261005-5';
+import { musicalURL, learningURL, tracksFor, resolveTrackId } from './library.mjs?v=20261005-5';
+import { fetchData } from './data.mjs?v=20261005-5';
+import { playbackStart, nativeCues, importStudyCaptions, studyStorageKey, studyPack, savedStudyCaptions } from './native.mjs?v=20261005-5';
 
 const $ = id => document.getElementById(id);
 let catalog = [], musicals = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
@@ -322,7 +322,7 @@ function renderInfo() {
     }
     if (song.studyNotes.textSource === 'user-supplied-auto-transcript') {
       $('caption-badge').textContent = '四层学习 · 近似时间轴';
-      $('study-note').textContent = '‿ 表示参考联诵或连读；空耳辅助记忆。≈ 是近似分段，原字幕识别不清处请对照原唱。';
+      $('study-note').textContent = '‿ 表示参考联诵或连读；空耳辅助记忆。≈ 表示原唱片段的近似切点。';
     }
   }
   renderNavigation();

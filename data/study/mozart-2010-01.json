@@ -1,0 +1,345 @@
+{
+  "videoId": "mozart-2010-01",
+  "playbackVideoId": "83Qn2IvP_-I",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "97aaf400c790393fcb53f1f43bb1002cc0955e5fa8ec3c8c767c03260daed16c",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "法语原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "2010年巴黎原唱录像",
+      "url": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=0"
+    }
+  ],
+  "entries": [
+    {
+      "start": 79,
+      "sourceText": "Vous entendez?",
+      "ipa": "[vuz‿ɑ̃tɑ̃de]",
+      "ear": "乌兹 昂唐德",
+      "meaning": "你听到了吗？",
+      "sourceLineId": "mozart-timed-2-1",
+      "suppliedText": "Vous entendez? Il me répond.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 79,
+        "anchorEnd": 82,
+        "sourceLineNumber": 2,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 80.667,
+      "sourceText": "Il me répond.",
+      "ipa": "[il mə ʁepɔ̃]",
+      "ear": "伊勒 默 赫蓬",
+      "meaning": "他在回应我。",
+      "sourceLineId": "mozart-timed-2-2",
+      "suppliedText": "Vous entendez? Il me répond.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 79,
+        "anchorEnd": 82,
+        "sourceLineNumber": 2,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 82,
+      "sourceText": "C'est lui, Wolfgang Amadeus Mozart, l'homme qui nous a transmis la musique des cieux.",
+      "ipa": "[sɛ lɥi vɔlfɡɑ̃ɡ‿amadeus mɔtsaʁ lɔm ki nuz‿a tʁɑ̃smi la myzik de sjø]",
+      "ear": "塞 勒于伊 沃勒弗冈格 阿玛德乌斯 莫特萨赫 洛姆 基 努兹 阿 特杭斯米 拉 米于齐克 德 斯耶厄",
+      "meaning": "他就是沃尔夫冈·阿马德乌斯·莫扎特，把天籁之声带给我们的人。",
+      "sourceLineId": "mozart-timed-3-1",
+      "suppliedText": "C'est lui, Wolfgang Amadeus Mozart, l'homme qui nous a transmis la musique des cieux.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 82,
+        "anchorEnd": 90,
+        "sourceLineNumber": 3,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 90,
+      "sourceText": "Quel homme de génie!",
+      "ipa": "[kɛl‿ɔm də ʒeni]",
+      "ear": "凯勒 哦姆 德 热尼",
+      "meaning": "真是一个天才！",
+      "sourceLineId": "mozart-timed-4-1",
+      "suppliedText": "Quel homme de génie!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 90,
+        "anchorEnd": 91.899,
+        "sourceLineNumber": 4,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 92,
+      "sourceText": "À six ans, il achève son premier concerto, à 11 ans, son premier opéra.",
+      "ipa": "[a siz‿ɑ̃ il‿aʃɛv sɔ̃ pʁəmje kɔ̃sɛʁto a ɔ̃z‿ɑ̃ sɔ̃ pʁəmjeʁ‿opeʁa]",
+      "ear": "阿 西兹 昂 伊勒 阿谢弗 松 普赫姆耶诶 孔塞赫托 阿 翁兹 昂 松 普赫姆耶诶赫 奥佩哈",
+      "meaning": "六岁时，他完成了他的第一首协奏曲，十一岁时，他完成了他的第一部歌剧。",
+      "sourceLineId": "mozart-timed-5-1",
+      "suppliedText": "À six ans, il achève son premier concerto, à 11 ans, son premier opéra.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 92,
+        "anchorEnd": 97,
+        "sourceLineNumber": 5,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 97,
+      "sourceText": "Il voyage alors dans toute l'Europe, il est adulé, célébré.",
+      "ipa": "[il vwajaʒ‿alɔʁ dɑ̃ tut løʁɔp il‿ɛt‿adyle selebʁe]",
+      "ear": "伊勒 弗乌阿耶阿日 阿洛赫 当 图特 勒厄霍普 伊勒 艾特 阿迪于莱 塞莱布赫",
+      "meaning": "后来他走遍欧洲，到处受到追捧和赞誉。",
+      "sourceLineId": "mozart-timed-6-1",
+      "suppliedText": "Il voyage alors dans toute l'Europe, il est adulé, célébré.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 97,
+        "anchorEnd": 101.94,
+        "sourceLineNumber": 6,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 102,
+      "sourceText": "À 17 ans, maître de chapelle à Salzbourg, il est plein d'espoir et de projets.",
+      "ipa": "[a disɛt‿ɑ̃ mɛtʁ də ʃapɛl‿a salzbuʁ il‿ɛ plɛ̃ dɛspwaʁ e də pʁoʒɛ]",
+      "ear": "阿 迪塞特 昂 梅特赫 德 沙佩勒 阿 萨勒兹布赫 伊勒 艾 普兰 戴斯普乌阿赫 诶 德 普霍热",
+      "meaning": "十七岁时，他在萨尔茨堡担任宫廷乐长，满怀希望与打算。",
+      "sourceLineId": "mozart-timed-7-1",
+      "suppliedText": "À 17 ans, maître de chapelle à Salzbourg, il est plein d'espoir et de projets. Mais soudain, son destin bascule.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 102,
+        "anchorEnd": 111.86,
+        "sourceLineNumber": 7,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 108.573,
+      "sourceText": "Mais soudain, son destin bascule.",
+      "ipa": "[mɛ sudɛ̃ sɔ̃ dɛstɛ̃ baskyl]",
+      "ear": "梅 苏丹 松 戴斯坦 巴斯基于勒",
+      "meaning": "但突然间，他的命运发生了变化。",
+      "sourceLineId": "mozart-timed-7-2",
+      "suppliedText": "À 17 ans, maître de chapelle à Salzbourg, il est plein d'espoir et de projets. Mais soudain, son destin bascule.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 102,
+        "anchorEnd": 111.86,
+        "sourceLineNumber": 7,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 112,
+      "sourceText": "Le prince-archevêque, son protecteur, meurt, le terrible Colloredo s'empare du pouvoir!",
+      "ipa": "[lə pʁɛ̃saʁʃvɛk sɔ̃ pʁotɛktœʁ mœʁ lə tɛʁibl kɔlɔʁedo sɑ̃paʁ dy puvwaʁ]",
+      "ear": "勒 普汉萨赫什韦克 松 普霍泰克特厄赫 默厄赫 勒 泰希布勒 科洛赫多 桑帕赫 迪于 普弗乌阿赫",
+      "meaning": "庇护他的采邑大主教去世了，可怕的科洛雷多掌握了权力！",
+      "sourceLineId": "mozart-timed-8-1",
+      "suppliedText": "Le prince-archevêque, son protecteur, meurt, le terrible Colloredo s'empare du pouvoir!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 112,
+        "anchorEnd": 121.39,
+        "sourceLineNumber": 8,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 214,
+      "sourceText": "Peuple de Salzbourg, le prince Sigismond est entre les mains de Dieu.",
+      "ipa": "[pøpl də salzbuʁ lə pʁɛ̃s siʒismɔ̃ ɛt‿ɑ̃tʁ le mɛ̃ də djø]",
+      "ear": "珀厄普勒 德 萨勒兹布赫 勒 普汉斯 西日斯蒙 艾特 昂特赫 莱 曼 德 德耶厄",
+      "meaning": "萨尔茨堡的人民，西吉斯蒙德亲王已回到上帝的怀抱。",
+      "sourceLineId": "mozart-timed-10-1",
+      "suppliedText": "Peuple de Salzbourg, le prince Sigismond est entre les mains de Dieu.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 214,
+        "anchorEnd": 220,
+        "sourceLineNumber": 10,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 220,
+      "sourceText": "Faites hommage à Son Altesse sérénissime, Hieronymus Colloredo, votre nouveau maître!",
+      "ipa": "[fɛt‿ɔmaʒ‿a sɔ̃n‿altɛs seʁenisim jʁonimys kɔlɔʁedo votʁ nuvo mɛtʁ]",
+      "ear": "费特 哦玛日 阿 松恩 阿勒泰斯 塞赫尼西姆 耶霍尼米于斯 科洛赫多 沃特赫 努沃 梅特赫",
+      "meaning": "向至高的希罗尼穆斯·科洛雷多殿下致敬，他是你们的新主人！",
+      "sourceLineId": "mozart-timed-11-1",
+      "suppliedText": "Faites hommage à Son Altesse sérénissime, Hieronymus Colloredo, votre nouveau maître!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 220,
+        "anchorEnd": 227.82,
+        "sourceLineNumber": 11,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 258,
+      "sourceText": "Monsieur Leopold Mozart, approchez.",
+      "ipa": "[məsjø leɔpɔld mɔtsaʁ apʁoʃe]",
+      "ear": "默斯耶厄 莱哦珀勒德 莫特萨赫 阿普霍谢",
+      "meaning": "利奥波德·莫扎特先生，靠近点。",
+      "sourceLineId": "mozart-timed-12-1",
+      "suppliedText": "Monsieur Leopold Mozart, approchez. Quel est ce torchon?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 258,
+        "anchorEnd": 267,
+        "sourceLineNumber": 12,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 264.0,
+      "sourceText": "Quel est ce torchon?",
+      "ipa": "[kɛl‿ɛ sə tɔʁʃɔ̃]",
+      "ear": "凯勒 艾 瑟 托赫雄",
+      "meaning": "这是什么破烂东西？",
+      "sourceLineId": "mozart-timed-12-2",
+      "suppliedText": "Monsieur Leopold Mozart, approchez. Quel est ce torchon?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 258,
+        "anchorEnd": 267,
+        "sourceLineNumber": 12,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 267,
+      "sourceText": "Votre fils me demande un congé.",
+      "ipa": "[votʁ fis mə dəmɑ̃d‿œ̃ kɔ̃ʒe]",
+      "ear": "沃特赫 菲斯 默 德芒德 恩 孔热",
+      "meaning": "你儿子向我请假。",
+      "sourceLineId": "mozart-timed-13-1",
+      "suppliedText": "Votre fils me demande un congé. Il veut \"courir le monde et donner des concerts\".",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 267,
+        "anchorEnd": 274,
+        "sourceLineNumber": 13,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 269.8,
+      "sourceText": "Il veut courir le monde et donner des concerts.",
+      "ipa": "[il vø kuʁiʁ lə mɔ̃d e dɔne de kɔ̃sɛʁ]",
+      "ear": "伊勒 弗厄 库希赫 勒 蒙德 诶 多内 德 孔塞赫",
+      "meaning": "他想周游世界，举办音乐会。",
+      "sourceLineId": "mozart-timed-13-2",
+      "suppliedText": "Votre fils me demande un congé. Il veut \"courir le monde et donner des concerts\".",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 267,
+        "anchorEnd": 274,
+        "sourceLineNumber": 13,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 274,
+      "sourceText": "Si ce jeune prétentieux estime le travail à mon service indigne de son talent, qu'il démissionne!",
+      "ipa": "[si sə ʒøn pʁetɑ̃sjø ɛstim lə tʁavaj‿a mɔ̃ sɛʁvis‿ɛ̃diɲ də sɔ̃ talɑ̃ kil demisjɔn]",
+      "ear": "西 瑟 热厄恩 普赫唐斯耶厄 艾斯蒂姆 勒 特哈瓦耶 阿 蒙 塞赫维斯 安迪涅 德 松 塔朗 基勒 德米斯耶哦恩",
+      "meaning": "如果这个自命不凡的年轻人认为我的工作配不上他的才华，那就让他辞职吧！",
+      "sourceLineId": "mozart-timed-14-1",
+      "suppliedText": "Si ce jeune prétentieux estime le travail à mon service indigne de son talent, qu'il démissionne!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 274,
+        "anchorEnd": 281.34,
+        "sourceLineNumber": 14,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 282,
+      "sourceText": "Et vous avec.",
+      "ipa": "[e vuz‿avɛk]",
+      "ear": "诶 乌兹 阿韦克",
+      "meaning": "还有你。",
+      "sourceLineId": "mozart-timed-15-1",
+      "suppliedText": "Et vous avec. - Comment vais-je nourrir ma famille? - C'est votre affaire.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 282,
+        "anchorEnd": 288.95,
+        "sourceLineNumber": 15,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 283.448,
+      "sourceText": "Comment vais-je nourrir ma famille?",
+      "ipa": "[kɔmɑ̃ vɛʒ nuʁiʁ ma famij]",
+      "ear": "科芒 韦日 努希赫 玛 法米耶",
+      "meaning": "我将如何养活我的家人？",
+      "sourceLineId": "mozart-timed-15-2",
+      "suppliedText": "Et vous avec. - Comment vais-je nourrir ma famille? - C'est votre affaire.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 282,
+        "anchorEnd": 288.95,
+        "sourceLineNumber": 15,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 286.923,
+      "sourceText": "C'est votre affaire.",
+      "ipa": "[sɛ votʁ‿afɛʁ]",
+      "ear": "塞 沃特赫 阿费赫",
+      "meaning": "这是你的事。",
+      "sourceLineId": "mozart-timed-15-3",
+      "suppliedText": "Et vous avec. - Comment vais-je nourrir ma famille? - C'est votre affaire.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 282,
+        "anchorEnd": 288.95,
+        "sourceLineNumber": 15,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

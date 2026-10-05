@@ -1,0 +1,2113 @@
+{
+  "videoId": "mozart-2010-14",
+  "playbackVideoId": "83Qn2IvP_-I",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "97aaf400c790393fcb53f1f43bb1002cc0955e5fa8ec3c8c767c03260daed16c",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "法语原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "2010年巴黎原唱录像",
+      "url": "https://www.youtube.com/watch?v=83Qn2IvP_-I&t=4224"
+    }
+  ],
+  "entries": [
+    {
+      "start": 4249,
+      "sourceText": "Mais d'où vient l'émotion étrange",
+      "ipa": "[mɛ du vjɛ̃ lemosjɔ̃ etʁɑ̃ʒ]",
+      "ear": "梅 杜 弗耶安 莱莫斯耶翁 诶特杭日",
+      "meaning": "这种奇怪的感受从何而来？",
+      "sourceLineId": "mozart-timed-455-1",
+      "suppliedText": "Mais d'où vient l'émotion étrange Qui me fascine autant qu'elle me dérange Je frissonne poignardé par le beau",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4249,
+        "anchorEnd": 4257,
+        "sourceLineNumber": 455,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4251.476,
+      "sourceText": "Qui me fascine autant qu'elle me dérange",
+      "ipa": "[ki mə fasin‿otɑ̃ kɛl mə deʁɑ̃ʒ]",
+      "ear": "基 默 法西恩 奥唐 凯勒 默 德杭日",
+      "meaning": "它让我着迷，也让我不安。",
+      "sourceLineId": "mozart-timed-455-2",
+      "suppliedText": "Mais d'où vient l'émotion étrange Qui me fascine autant qu'elle me dérange Je frissonne poignardé par le beau",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4249,
+        "anchorEnd": 4257,
+        "sourceLineNumber": 455,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4254.524,
+      "sourceText": "Je frissonne poignardé par le beau",
+      "ipa": "[ʒə fʁisɔn pwanjaʁde paʁ lə bo]",
+      "ear": "热 弗希索恩 普乌阿恩耶阿赫德 帕赫 勒 博",
+      "meaning": "我颤抖着，被美刺穿。",
+      "sourceLineId": "mozart-timed-455-3",
+      "suppliedText": "Mais d'où vient l'émotion étrange Qui me fascine autant qu'elle me dérange Je frissonne poignardé par le beau",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4249,
+        "anchorEnd": 4257,
+        "sourceLineNumber": 455,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4257,
+      "sourceText": "C'est comme dans l'âme le couteau",
+      "ipa": "[sɛ kɔm dɑ̃ lam lə kuto]",
+      "ear": "塞 科姆 当 拉姆 勒 库托",
+      "meaning": "仿佛有把刀插进了灵魂。",
+      "sourceLineId": "mozart-timed-456-1",
+      "suppliedText": "C'est comme dans l'âme le couteau La blessure traverse mon coeur Et j'ai la joie dans la douleur",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4257,
+        "anchorEnd": 4265.66,
+        "sourceLineNumber": 456,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4259.887,
+      "sourceText": "La blessure traverse mon coeur",
+      "ipa": "[la blɛsyʁ tʁavɛʁs mɔ̃ kœʁ]",
+      "ear": "拉 布莱西于赫 特哈韦赫斯 蒙 克厄赫",
+      "meaning": "伤口穿透了我的心。",
+      "sourceLineId": "mozart-timed-456-2",
+      "suppliedText": "C'est comme dans l'âme le couteau La blessure traverse mon coeur Et j'ai la joie dans la douleur",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4257,
+        "anchorEnd": 4265.66,
+        "sourceLineNumber": 456,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4262.533,
+      "sourceText": "Et j'ai la joie dans la douleur",
+      "ipa": "[e ʒe la ʒwa dɑ̃ la dulœʁ]",
+      "ear": "诶 热 拉 日乌阿 当 拉 杜勒厄赫",
+      "meaning": "我竟在痛苦里尝到了喜悦。",
+      "sourceLineId": "mozart-timed-456-3",
+      "suppliedText": "C'est comme dans l'âme le couteau La blessure traverse mon coeur Et j'ai la joie dans la douleur",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4257,
+        "anchorEnd": 4265.66,
+        "sourceLineNumber": 456,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4266,
+      "sourceText": "Je m'enivre de ce poison",
+      "ipa": "[ʒə mɑ̃nivʁ də sə pwazɔ̃]",
+      "ear": "热 芒尼弗赫 德 瑟 普乌阿宗",
+      "meaning": "我沉醉在这毒药里。",
+      "sourceLineId": "mozart-timed-457-1",
+      "suppliedText": "Je m'enivre de ce poison - À en perdre la raison - C'est le bien qui fait mal",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4266,
+        "anchorEnd": 4272.86,
+        "sourceLineNumber": 457,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4268.375,
+      "sourceText": "À en perdre la raison",
+      "ipa": "[a ɑ̃ pɛʁdʁ la ʁɛzɔ̃]",
+      "ear": "阿 昂 佩赫德赫 拉 赫宗",
+      "meaning": "直到失去理智。",
+      "sourceLineId": "mozart-timed-457-2",
+      "suppliedText": "Je m'enivre de ce poison - À en perdre la raison - C'est le bien qui fait mal",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4266,
+        "anchorEnd": 4272.86,
+        "sourceLineNumber": 457,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4270.485,
+      "sourceText": "C'est le bien qui fait mal",
+      "ipa": "[sɛ lə bjɛ̃ ki fɛ mal]",
+      "ear": "塞 勒 布耶安 基 费 玛勒",
+      "meaning": "这是让人痛苦的美好。",
+      "sourceLineId": "mozart-timed-457-3",
+      "suppliedText": "Je m'enivre de ce poison - À en perdre la raison - C'est le bien qui fait mal",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4266,
+        "anchorEnd": 4272.86,
+        "sourceLineNumber": 457,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4274,
+      "sourceText": "Quand tu aimes tout à fait normal",
+      "ipa": "[kɑ̃ ty ɛm tut‿a fɛ nɔʁmal]",
+      "ear": "康 蒂于 艾姆 图特 阿 费 诺赫玛勒",
+      "meaning": "爱上了，就再正常不过。",
+      "sourceLineId": "mozart-timed-458-1",
+      "suppliedText": "Quand tu aimes tout à fait normal Ta haine prend le plaisir C'est si bon de souffir Succombe au charme",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4274,
+        "anchorEnd": 4281.9,
+        "sourceLineNumber": 458,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4276.853,
+      "sourceText": "Ta haine prend le plaisir",
+      "ipa": "[ta ɛn pʁɑ̃ lə plɛziʁ]",
+      "ear": "塔 艾恩 普杭 勒 普莱齐赫",
+      "meaning": "你的恨意也尝到了快感。",
+      "sourceLineId": "mozart-timed-458-2",
+      "suppliedText": "Quand tu aimes tout à fait normal Ta haine prend le plaisir C'est si bon de souffir Succombe au charme",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4274,
+        "anchorEnd": 4281.9,
+        "sourceLineNumber": 458,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4278.828,
+      "sourceText": "C'est si bon de souffrir",
+      "ipa": "[sɛ si bɔ̃ də sufʁiʁ]",
+      "ear": "塞 西 崩 德 苏弗希赫",
+      "meaning": "受苦竟如此美妙。",
+      "sourceLineId": "mozart-timed-458-3",
+      "suppliedText": "Quand tu aimes tout à fait normal Ta haine prend le plaisir C'est si bon de souffir Succombe au charme",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4274,
+        "anchorEnd": 4281.9,
+        "sourceLineNumber": 458,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4280.364,
+      "sourceText": "Succombe au charme",
+      "ipa": "[sykɔ̃b‿o ʃaʁm]",
+      "ear": "西于孔布 奥 沙赫姆",
+      "meaning": "臣服于这魅力吧。",
+      "sourceLineId": "mozart-timed-458-4",
+      "suppliedText": "Quand tu aimes tout à fait normal Ta haine prend le plaisir C'est si bon de souffir Succombe au charme",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4274,
+        "anchorEnd": 4281.9,
+        "sourceLineNumber": 458,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4282,
+      "sourceText": "Donne tes larmes",
+      "ipa": "[dɔn te laʁm]",
+      "ear": "多恩 特 拉赫姆",
+      "meaning": "献上你的眼泪。",
+      "sourceLineId": "mozart-timed-459-1",
+      "suppliedText": "Donne tes larmes - C'est le bien qui fait mal - Je me fais mal - Quand tu aimes tout à fait banal - Ce bien qui fait mal Ta peine, les vrais délices",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4282,
+        "anchorEnd": 4290,
+        "sourceLineNumber": 459,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4282.8,
+      "sourceText": "C'est le bien qui fait mal",
+      "ipa": "[sɛ lə bjɛ̃ ki fɛ mal]",
+      "ear": "塞 勒 布耶安 基 费 玛勒",
+      "meaning": "这是让人痛苦的美好。",
+      "sourceLineId": "mozart-timed-459-2",
+      "suppliedText": "Donne tes larmes - C'est le bien qui fait mal - Je me fais mal - Quand tu aimes tout à fait banal - Ce bien qui fait mal Ta peine, les vrais délices",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4282,
+        "anchorEnd": 4290,
+        "sourceLineNumber": 459,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4284.24,
+      "sourceText": "Je me fais mal",
+      "ipa": "[ʒə mə fɛ mal]",
+      "ear": "热 默 费 玛勒",
+      "meaning": "我让自己受伤。",
+      "sourceLineId": "mozart-timed-459-3",
+      "suppliedText": "Donne tes larmes - C'est le bien qui fait mal - Je me fais mal - Quand tu aimes tout à fait banal - Ce bien qui fait mal Ta peine, les vrais délices",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4282,
+        "anchorEnd": 4290,
+        "sourceLineNumber": 459,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4285.04,
+      "sourceText": "Quand tu aimes tout à fait banal",
+      "ipa": "[kɑ̃ ty ɛm tut‿a fɛ banal]",
+      "ear": "康 蒂于 艾姆 图特 阿 费 巴纳勒",
+      "meaning": "当你爱上平凡无奇的一切。",
+      "sourceLineId": "mozart-timed-459-4",
+      "suppliedText": "Donne tes larmes - C'est le bien qui fait mal - Je me fais mal - Quand tu aimes tout à fait banal - Ce bien qui fait mal Ta peine, les vrais délices",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4282,
+        "anchorEnd": 4290,
+        "sourceLineNumber": 459,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4287.12,
+      "sourceText": "Ce bien qui fait mal",
+      "ipa": "[sə bjɛ̃ ki fɛ mal]",
+      "ear": "瑟 布耶安 基 费 玛勒",
+      "meaning": "这让人痛苦的美好。",
+      "sourceLineId": "mozart-timed-459-5",
+      "suppliedText": "Donne tes larmes - C'est le bien qui fait mal - Je me fais mal - Quand tu aimes tout à fait banal - Ce bien qui fait mal Ta peine, les vrais délices",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4282,
+        "anchorEnd": 4290,
+        "sourceLineNumber": 459,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4288.4,
+      "sourceText": "Ta peine, les vrais délices",
+      "ipa": "[ta pɛn le vʁɛ delis]",
+      "ear": "塔 佩恩 莱 弗赫 德利斯",
+      "meaning": "你的痛苦，那真正的欢愉。",
+      "sourceLineId": "mozart-timed-459-6",
+      "suppliedText": "Donne tes larmes - C'est le bien qui fait mal - Je me fais mal - Quand tu aimes tout à fait banal - Ce bien qui fait mal Ta peine, les vrais délices",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4282,
+        "anchorEnd": 4290,
+        "sourceLineNumber": 459,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4290,
+      "sourceText": "Passent par le supplice",
+      "ipa": "[pas paʁ lə syplis]",
+      "ear": "帕斯 帕赫 勒 西于普利斯",
+      "meaning": "都要经过折磨。",
+      "sourceLineId": "mozart-timed-460-1",
+      "suppliedText": "Passent par le supplice Baisse les armes Donne tes larmes Je ressens de violentes pulsions",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4290,
+        "anchorEnd": 4297.78,
+        "sourceLineNumber": 460,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4291.878,
+      "sourceText": "Baisse les armes",
+      "ipa": "[bɛs lez‿aʁm]",
+      "ear": "贝斯 莱兹 阿赫姆",
+      "meaning": "放下武器吧。",
+      "sourceLineId": "mozart-timed-460-2",
+      "suppliedText": "Passent par le supplice Baisse les armes Donne tes larmes Je ressens de violentes pulsions",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4290,
+        "anchorEnd": 4297.78,
+        "sourceLineNumber": 460,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4293.488,
+      "sourceText": "Donne tes larmes",
+      "ipa": "[dɔn te laʁm]",
+      "ear": "多恩 特 拉赫姆",
+      "meaning": "献上你的眼泪。",
+      "sourceLineId": "mozart-timed-460-3",
+      "suppliedText": "Passent par le supplice Baisse les armes Donne tes larmes Je ressens de violentes pulsions",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4290,
+        "anchorEnd": 4297.78,
+        "sourceLineNumber": 460,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4294.829,
+      "sourceText": "Je ressens de violentes pulsions",
+      "ipa": "[ʒə ʁəsɛn də vjolɑ̃t pylsjɔ̃]",
+      "ear": "热 赫塞恩 德 弗耶奥朗特 普于勒斯耶翁",
+      "meaning": "我感到强烈的冲动",
+      "sourceLineId": "mozart-timed-460-4",
+      "suppliedText": "Passent par le supplice Baisse les armes Donne tes larmes Je ressens de violentes pulsions",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4290,
+        "anchorEnd": 4297.78,
+        "sourceLineNumber": 460,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4298,
+      "sourceText": "J'ai l'impression de glisser vers le fond",
+      "ipa": "[ʒe lɛ̃pʁɛsjɔ̃ də ɡlise vɛʁ lə fɔ̃]",
+      "ear": "热 兰普赫斯耶翁 德 格利塞 韦赫 勒 丰",
+      "meaning": "我感觉自己正滑向深渊。",
+      "sourceLineId": "mozart-timed-461-1",
+      "suppliedText": "J'ai l'impression de glisser vers le fond Si j'ignore d'où vient ce fléau J'adore l'avoir dans la peau",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4298,
+        "anchorEnd": 4306.7,
+        "sourceLineNumber": 461,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4300.983,
+      "sourceText": "Si j'ignore d'où vient ce fléau",
+      "ipa": "[si ʒinjɔʁ du vjɛ̃ sə fleo]",
+      "ear": "西 日恩耶哦赫 杜 弗耶安 瑟 弗莱奥",
+      "meaning": "即便我不知道这灾祸从何而来。",
+      "sourceLineId": "mozart-timed-461-2",
+      "suppliedText": "J'ai l'impression de glisser vers le fond Si j'ignore d'où vient ce fléau J'adore l'avoir dans la peau",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4298,
+        "anchorEnd": 4306.7,
+        "sourceLineNumber": 461,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4303.966,
+      "sourceText": "J'adore l'avoir dans la peau",
+      "ipa": "[ʒadɔʁ lavwaʁ dɑ̃ la po]",
+      "ear": "扎多赫 拉弗乌阿赫 当 拉 波",
+      "meaning": "可我爱它深入骨髓的感觉。",
+      "sourceLineId": "mozart-timed-461-3",
+      "suppliedText": "J'ai l'impression de glisser vers le fond Si j'ignore d'où vient ce fléau J'adore l'avoir dans la peau",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4298,
+        "anchorEnd": 4306.7,
+        "sourceLineNumber": 461,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4307,
+      "sourceText": "Envoûté par des idées folles",
+      "ipa": "[ɑ̃vute paʁ dez‿ide fɔl]",
+      "ear": "昂乌特 帕赫 德兹 伊德 佛勒",
+      "meaning": "被疯狂的想法所迷惑",
+      "sourceLineId": "mozart-timed-462-1",
+      "suppliedText": "Envoûté par des idées folles Soudain mes envies s'envolent Le désir devient ma prison",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4307,
+        "anchorEnd": 4316,
+        "sourceLineNumber": 462,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4310.194,
+      "sourceText": "Soudain mes envies s'envolent",
+      "ipa": "[sudɛ̃ mez‿ɑ̃vi sɑ̃vol]",
+      "ear": "苏丹 梅兹 昂维 桑沃勒",
+      "meaning": "突然我的欲望飞走了",
+      "sourceLineId": "mozart-timed-462-2",
+      "suppliedText": "Envoûté par des idées folles Soudain mes envies s'envolent Le désir devient ma prison",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4307,
+        "anchorEnd": 4316,
+        "sourceLineNumber": 462,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4313.387,
+      "sourceText": "Le désir devient ma prison",
+      "ipa": "[lə deziʁ dəvjɛ̃ ma pʁizɔ̃]",
+      "ear": "勒 德齐赫 德弗耶安 玛 普希宗",
+      "meaning": "欲望成了我的牢笼。",
+      "sourceLineId": "mozart-timed-462-3",
+      "suppliedText": "Envoûté par des idées folles Soudain mes envies s'envolent Le désir devient ma prison",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4307,
+        "anchorEnd": 4316,
+        "sourceLineNumber": 462,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4316,
+      "sourceText": "À en perdre la raison",
+      "ipa": "[a ɑ̃ pɛʁdʁ la ʁɛzɔ̃]",
+      "ear": "阿 昂 佩赫德赫 拉 赫宗",
+      "meaning": "直到失去理智。",
+      "sourceLineId": "mozart-timed-463-1",
+      "suppliedText": "À en perdre la raison C'est le bien qui fait mal Quand tu aimes tout à fait normal",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4316,
+        "anchorEnd": 4322.94,
+        "sourceLineNumber": 463,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4317.851,
+      "sourceText": "C'est le bien qui fait mal",
+      "ipa": "[sɛ lə bjɛ̃ ki fɛ mal]",
+      "ear": "塞 勒 布耶安 基 费 玛勒",
+      "meaning": "这是让人痛苦的美好。",
+      "sourceLineId": "mozart-timed-463-2",
+      "suppliedText": "À en perdre la raison C'est le bien qui fait mal Quand tu aimes tout à fait normal",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4316,
+        "anchorEnd": 4322.94,
+        "sourceLineNumber": 463,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4319.933,
+      "sourceText": "Quand tu aimes tout à fait normal",
+      "ipa": "[kɑ̃ ty ɛm tut‿a fɛ nɔʁmal]",
+      "ear": "康 蒂于 艾姆 图特 阿 费 诺赫玛勒",
+      "meaning": "爱上了，就再正常不过。",
+      "sourceLineId": "mozart-timed-463-3",
+      "suppliedText": "À en perdre la raison C'est le bien qui fait mal Quand tu aimes tout à fait normal",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4316,
+        "anchorEnd": 4322.94,
+        "sourceLineNumber": 463,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4323,
+      "sourceText": "Ta haine prend le plaisir",
+      "ipa": "[ta ɛn pʁɑ̃ lə plɛziʁ]",
+      "ear": "塔 艾恩 普杭 勒 普莱齐赫",
+      "meaning": "你的恨意也尝到了快感。",
+      "sourceLineId": "mozart-timed-464-1",
+      "suppliedText": "Ta haine prend le plaisir C'est si bon de souffir Succombe au charme Donne tes larmes - C'est le bien qui fait mal - Qui fait mal",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4323,
+        "anchorEnd": 4332,
+        "sourceLineNumber": 464,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4324.929,
+      "sourceText": "C'est si bon de souffrir",
+      "ipa": "[sɛ si bɔ̃ də sufʁiʁ]",
+      "ear": "塞 西 崩 德 苏弗希赫",
+      "meaning": "受苦竟如此美妙。",
+      "sourceLineId": "mozart-timed-464-2",
+      "suppliedText": "Ta haine prend le plaisir C'est si bon de souffir Succombe au charme Donne tes larmes - C'est le bien qui fait mal - Qui fait mal",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4323,
+        "anchorEnd": 4332,
+        "sourceLineNumber": 464,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4326.429,
+      "sourceText": "Succombe au charme",
+      "ipa": "[sykɔ̃b‿o ʃaʁm]",
+      "ear": "西于孔布 奥 沙赫姆",
+      "meaning": "臣服于这魅力吧。",
+      "sourceLineId": "mozart-timed-464-3",
+      "suppliedText": "Ta haine prend le plaisir C'est si bon de souffir Succombe au charme Donne tes larmes - C'est le bien qui fait mal - Qui fait mal",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4323,
+        "anchorEnd": 4332,
+        "sourceLineNumber": 464,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4327.929,
+      "sourceText": "Donne tes larmes",
+      "ipa": "[dɔn te laʁm]",
+      "ear": "多恩 特 拉赫姆",
+      "meaning": "献上你的眼泪。",
+      "sourceLineId": "mozart-timed-464-4",
+      "suppliedText": "Ta haine prend le plaisir C'est si bon de souffir Succombe au charme Donne tes larmes - C'est le bien qui fait mal - Qui fait mal",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4323,
+        "anchorEnd": 4332,
+        "sourceLineNumber": 464,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4329.0,
+      "sourceText": "C'est le bien qui fait mal",
+      "ipa": "[sɛ lə bjɛ̃ ki fɛ mal]",
+      "ear": "塞 勒 布耶安 基 费 玛勒",
+      "meaning": "这是让人痛苦的美好。",
+      "sourceLineId": "mozart-timed-464-5",
+      "suppliedText": "Ta haine prend le plaisir C'est si bon de souffir Succombe au charme Donne tes larmes - C'est le bien qui fait mal - Qui fait mal",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4323,
+        "anchorEnd": 4332,
+        "sourceLineNumber": 464,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4330.929,
+      "sourceText": "Qui fait mal",
+      "ipa": "[ki fɛ mal]",
+      "ear": "基 费 玛勒",
+      "meaning": "那让人痛苦的。",
+      "sourceLineId": "mozart-timed-464-6",
+      "suppliedText": "Ta haine prend le plaisir C'est si bon de souffir Succombe au charme Donne tes larmes - C'est le bien qui fait mal - Qui fait mal",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4323,
+        "anchorEnd": 4332,
+        "sourceLineNumber": 464,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4332,
+      "sourceText": "Quand tu aimes tout à fait banal",
+      "ipa": "[kɑ̃ ty ɛm tut‿a fɛ banal]",
+      "ear": "康 蒂于 艾姆 图特 阿 费 巴纳勒",
+      "meaning": "当你爱上平凡无奇的一切。",
+      "sourceLineId": "mozart-timed-465-1",
+      "suppliedText": "- Quand tu aimes tout à fait banal - Ce bien qui fait mal Ta peine, les vrais délices Passent par le supplice - Baisse les armes - Je donne mes larmes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4332,
+        "anchorEnd": 4341.82,
+        "sourceLineNumber": 465,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4334.553,
+      "sourceText": "Ce bien qui fait mal",
+      "ipa": "[sə bjɛ̃ ki fɛ mal]",
+      "ear": "瑟 布耶安 基 费 玛勒",
+      "meaning": "这让人痛苦的美好。",
+      "sourceLineId": "mozart-timed-465-2",
+      "suppliedText": "- Quand tu aimes tout à fait banal - Ce bien qui fait mal Ta peine, les vrais délices Passent par le supplice - Baisse les armes - Je donne mes larmes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4332,
+        "anchorEnd": 4341.82,
+        "sourceLineNumber": 465,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4336.124,
+      "sourceText": "Ta peine, les vrais délices",
+      "ipa": "[ta pɛn le vʁɛ delis]",
+      "ear": "塔 佩恩 莱 弗赫 德利斯",
+      "meaning": "你的痛苦，那真正的欢愉。",
+      "sourceLineId": "mozart-timed-465-3",
+      "suppliedText": "- Quand tu aimes tout à fait banal - Ce bien qui fait mal Ta peine, les vrais délices Passent par le supplice - Baisse les armes - Je donne mes larmes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4332,
+        "anchorEnd": 4341.82,
+        "sourceLineNumber": 465,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4338.088,
+      "sourceText": "Passent par le supplice",
+      "ipa": "[pas paʁ lə syplis]",
+      "ear": "帕斯 帕赫 勒 西于普利斯",
+      "meaning": "都要经过折磨。",
+      "sourceLineId": "mozart-timed-465-4",
+      "suppliedText": "- Quand tu aimes tout à fait banal - Ce bien qui fait mal Ta peine, les vrais délices Passent par le supplice - Baisse les armes - Je donne mes larmes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4332,
+        "anchorEnd": 4341.82,
+        "sourceLineNumber": 465,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4339.463,
+      "sourceText": "Baisse les armes",
+      "ipa": "[bɛs lez‿aʁm]",
+      "ear": "贝斯 莱兹 阿赫姆",
+      "meaning": "放下武器吧。",
+      "sourceLineId": "mozart-timed-465-5",
+      "suppliedText": "- Quand tu aimes tout à fait banal - Ce bien qui fait mal Ta peine, les vrais délices Passent par le supplice - Baisse les armes - Je donne mes larmes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4332,
+        "anchorEnd": 4341.82,
+        "sourceLineNumber": 465,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4340.642,
+      "sourceText": "Je donne mes larmes",
+      "ipa": "[ʒə dɔn me laʁm]",
+      "ear": "热 多恩 梅 拉赫姆",
+      "meaning": "我献上我的泪水",
+      "sourceLineId": "mozart-timed-465-6",
+      "suppliedText": "- Quand tu aimes tout à fait banal - Ce bien qui fait mal Ta peine, les vrais délices Passent par le supplice - Baisse les armes - Je donne mes larmes",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4332,
+        "anchorEnd": 4341.82,
+        "sourceLineNumber": 465,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4364,
+      "sourceText": "C'est le bien qui fait mal",
+      "ipa": "[sɛ lə bjɛ̃ ki fɛ mal]",
+      "ear": "塞 勒 布耶安 基 费 玛勒",
+      "meaning": "这是让人痛苦的美好。",
+      "sourceLineId": "mozart-timed-466-1",
+      "suppliedText": "C'est le bien qui fait mal Quand tu aimes tout à fait normal Ta haine prend le plaisir",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4364,
+        "anchorEnd": 4372,
+        "sourceLineNumber": 466,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4366.323,
+      "sourceText": "Quand tu aimes tout à fait normal",
+      "ipa": "[kɑ̃ ty ɛm tut‿a fɛ nɔʁmal]",
+      "ear": "康 蒂于 艾姆 图特 阿 费 诺赫玛勒",
+      "meaning": "爱上了，就再正常不过。",
+      "sourceLineId": "mozart-timed-466-2",
+      "suppliedText": "C'est le bien qui fait mal Quand tu aimes tout à fait normal Ta haine prend le plaisir",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4364,
+        "anchorEnd": 4372,
+        "sourceLineNumber": 466,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4369.677,
+      "sourceText": "Ta haine prend le plaisir",
+      "ipa": "[ta ɛn pʁɑ̃ lə plɛziʁ]",
+      "ear": "塔 艾恩 普杭 勒 普莱齐赫",
+      "meaning": "你的恨意也尝到了快感。",
+      "sourceLineId": "mozart-timed-466-3",
+      "suppliedText": "C'est le bien qui fait mal Quand tu aimes tout à fait normal Ta haine prend le plaisir",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4364,
+        "anchorEnd": 4372,
+        "sourceLineNumber": 466,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4372,
+      "sourceText": "C'est si bon de souffrir",
+      "ipa": "[sɛ si bɔ̃ də sufʁiʁ]",
+      "ear": "塞 西 崩 德 苏弗希赫",
+      "meaning": "受苦竟如此美妙。",
+      "sourceLineId": "mozart-timed-467-1",
+      "suppliedText": "C'est si bon de souffir - Succombe au charme - Je donne mes larmes - C'est le bien qui fait mal - Il me fait mal",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4372,
+        "anchorEnd": 4379,
+        "sourceLineNumber": 467,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4373.441,
+      "sourceText": "Succombe au charme",
+      "ipa": "[sykɔ̃b‿o ʃaʁm]",
+      "ear": "西于孔布 奥 沙赫姆",
+      "meaning": "臣服于这魅力吧。",
+      "sourceLineId": "mozart-timed-467-2",
+      "suppliedText": "C'est si bon de souffir - Succombe au charme - Je donne mes larmes - C'est le bien qui fait mal - Il me fait mal",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4372,
+        "anchorEnd": 4379,
+        "sourceLineNumber": 467,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4374.882,
+      "sourceText": "Je donne mes larmes",
+      "ipa": "[ʒə dɔn me laʁm]",
+      "ear": "热 多恩 梅 拉赫姆",
+      "meaning": "我献上我的泪水",
+      "sourceLineId": "mozart-timed-467-3",
+      "suppliedText": "C'est si bon de souffir - Succombe au charme - Je donne mes larmes - C'est le bien qui fait mal - Il me fait mal",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4372,
+        "anchorEnd": 4379,
+        "sourceLineNumber": 467,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4376.118,
+      "sourceText": "C'est le bien qui fait mal",
+      "ipa": "[sɛ lə bjɛ̃ ki fɛ mal]",
+      "ear": "塞 勒 布耶安 基 费 玛勒",
+      "meaning": "这是让人痛苦的美好。",
+      "sourceLineId": "mozart-timed-467-4",
+      "suppliedText": "C'est si bon de souffir - Succombe au charme - Je donne mes larmes - C'est le bien qui fait mal - Il me fait mal",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4372,
+        "anchorEnd": 4379,
+        "sourceLineNumber": 467,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4377.971,
+      "sourceText": "Il me fait mal",
+      "ipa": "[il mə fɛ mal]",
+      "ear": "伊勒 默 费 玛勒",
+      "meaning": "这让我很痛",
+      "sourceLineId": "mozart-timed-467-5",
+      "suppliedText": "C'est si bon de souffir - Succombe au charme - Je donne mes larmes - C'est le bien qui fait mal - Il me fait mal",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4372,
+        "anchorEnd": 4379,
+        "sourceLineNumber": 467,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4379,
+      "sourceText": "Quand tu aimes tout à fait banal",
+      "ipa": "[kɑ̃ ty ɛm tut‿a fɛ banal]",
+      "ear": "康 蒂于 艾姆 图特 阿 费 巴纳勒",
+      "meaning": "当你爱上平凡无奇的一切。",
+      "sourceLineId": "mozart-timed-468-1",
+      "suppliedText": "Quand tu aimes tout à fait banal Ta peine, les vrais délices Passent par le supplice",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4379,
+        "anchorEnd": 4385.87,
+        "sourceLineNumber": 468,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4381.977,
+      "sourceText": "Ta peine, les vrais délices",
+      "ipa": "[ta pɛn le vʁɛ delis]",
+      "ear": "塔 佩恩 莱 弗赫 德利斯",
+      "meaning": "你的痛苦，那真正的欢愉。",
+      "sourceLineId": "mozart-timed-468-2",
+      "suppliedText": "Quand tu aimes tout à fait banal Ta peine, les vrais délices Passent par le supplice",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4379,
+        "anchorEnd": 4385.87,
+        "sourceLineNumber": 468,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4384.267,
+      "sourceText": "Passent par le supplice",
+      "ipa": "[pas paʁ lə syplis]",
+      "ear": "帕斯 帕赫 勒 西于普利斯",
+      "meaning": "都要经过折磨。",
+      "sourceLineId": "mozart-timed-468-3",
+      "suppliedText": "Quand tu aimes tout à fait banal Ta peine, les vrais délices Passent par le supplice",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4379,
+        "anchorEnd": 4385.87,
+        "sourceLineNumber": 468,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4386,
+      "sourceText": "Baisse les armes, donne tes larmes",
+      "ipa": "[bɛs lez‿aʁm dɔn te laʁm]",
+      "ear": "贝斯 莱兹 阿赫姆 多恩 特 拉赫姆",
+      "meaning": "放下武器，流出你的眼泪。",
+      "sourceLineId": "mozart-timed-469-1",
+      "suppliedText": "- Baisse les armes, donne tes larmes - Je donne mes larmes Eh bien, eh bien, maestro?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4386,
+        "anchorEnd": 4396.5,
+        "sourceLineNumber": 469,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4390.442,
+      "sourceText": "Je donne mes larmes",
+      "ipa": "[ʒə dɔn me laʁm]",
+      "ear": "热 多恩 梅 拉赫姆",
+      "meaning": "我献上我的泪水",
+      "sourceLineId": "mozart-timed-469-2",
+      "suppliedText": "- Baisse les armes, donne tes larmes - Je donne mes larmes Eh bien, eh bien, maestro?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4386,
+        "anchorEnd": 4396.5,
+        "sourceLineNumber": 469,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4392.865,
+      "sourceText": "Eh bien, eh bien, maestro?",
+      "ipa": "[ɛ bjɛ̃ ɛ bjɛ̃ maɛstʁo]",
+      "ear": "艾 布耶安 艾 布耶安 玛艾斯特霍",
+      "meaning": "好吧，好吧，大师？",
+      "sourceLineId": "mozart-timed-469-3",
+      "suppliedText": "- Baisse les armes, donne tes larmes - Je donne mes larmes Eh bien, eh bien, maestro?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4386,
+        "anchorEnd": 4396.5,
+        "sourceLineNumber": 469,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4397,
+      "sourceText": "Trop de notes?",
+      "ipa": "[tʁo də not]",
+      "ear": "特霍 德 诺特",
+      "meaning": "音符太多？",
+      "sourceLineId": "mozart-timed-470-1",
+      "suppliedText": "\"Trop de notes\"?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4397,
+        "anchorEnd": 4398.98,
+        "sourceLineNumber": 470,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4399,
+      "sourceText": "Mozart, entendez mon conseil, restez bien à votre place, et tout ira bien entre nous.",
+      "ipa": "[mɔtsaʁ ɑ̃tɑ̃de mɔ̃ kɔ̃sɛj ʁɛste bjɛ̃n‿a votʁ plas e tut‿iʁa bjɛ̃n‿ɑ̃tʁ nu]",
+      "ear": "莫特萨赫 昂唐德 蒙 孔塞耶 赫斯特 布耶安恩 阿 沃特赫 普拉斯 诶 图特 伊哈 布耶安恩 昂特赫 努",
+      "meaning": "莫扎特，接受我的建议，留在你的地方，我们之间一切都会好起来的。",
+      "sourceLineId": "mozart-timed-471-1",
+      "suppliedText": "Mozart, entendez mon conseil, restez bien à votre place, et tout ira bien entre nous.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4399,
+        "anchorEnd": 4408.06,
+        "sourceLineNumber": 471,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4412,
+      "sourceText": "Constance!",
+      "ipa": "[kɔ̃stɑ̃s]",
+      "ear": "孔斯唐斯",
+      "meaning": "康斯坦丝！",
+      "sourceLineId": "mozart-timed-472-1",
+      "suppliedText": "- Constance! - Wolfi!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4412,
+        "anchorEnd": 4413.91,
+        "sourceLineNumber": 472,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4413.146,
+      "sourceText": "Wolfi!",
+      "ipa": "[vɔlfi]",
+      "ear": "沃勒菲",
+      "meaning": "沃尔菲！",
+      "sourceLineId": "mozart-timed-472-2",
+      "suppliedText": "- Constance! - Wolfi!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4412,
+        "anchorEnd": 4413.91,
+        "sourceLineNumber": 472,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4414,
+      "sourceText": "Pouchi, pouchi!",
+      "ipa": "[puʃi puʃi]",
+      "ear": "普希 普希",
+      "meaning": "布奇，布奇！",
+      "sourceLineId": "mozart-timed-473-1",
+      "suppliedText": "# Marche turque # - Pouchi, pouchi! - Oh, mon amour! Constance, tu vas me le donner, ce baiser? Oui!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4414,
+        "anchorEnd": 4422.54,
+        "sourceLineNumber": 473,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4415.898,
+      "sourceText": "Oh, mon amour!",
+      "ipa": "[ɔ mɔ̃n‿amuʁ]",
+      "ear": "哦 蒙恩 阿穆赫",
+      "meaning": "噢，我的爱！",
+      "sourceLineId": "mozart-timed-473-2",
+      "suppliedText": "# Marche turque # - Pouchi, pouchi! - Oh, mon amour! Constance, tu vas me le donner, ce baiser? Oui!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4414,
+        "anchorEnd": 4422.54,
+        "sourceLineNumber": 473,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4417.479,
+      "sourceText": "Constance, tu vas me le donner, ce baiser?",
+      "ipa": "[kɔ̃stɑ̃s ty va mə lə dɔne sə bɛze]",
+      "ear": "孔斯唐斯 蒂于 瓦 默 勒 多内 瑟 贝泽",
+      "meaning": "康斯坦丝，你打算给我这个吻吗？",
+      "sourceLineId": "mozart-timed-473-3",
+      "suppliedText": "# Marche turque # - Pouchi, pouchi! - Oh, mon amour! Constance, tu vas me le donner, ce baiser? Oui!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4414,
+        "anchorEnd": 4422.54,
+        "sourceLineNumber": 473,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4421.591,
+      "sourceText": "Oui!",
+      "ipa": "[wi]",
+      "ear": "乌伊",
+      "meaning": "是的！",
+      "sourceLineId": "mozart-timed-473-4",
+      "suppliedText": "# Marche turque # - Pouchi, pouchi! - Oh, mon amour! Constance, tu vas me le donner, ce baiser? Oui!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4414,
+        "anchorEnd": 4422.54,
+        "sourceLineNumber": 473,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4424,
+      "sourceText": "Ciel, les scélérats!",
+      "ipa": "[sjɛl le seleʁa]",
+      "ear": "斯耶艾勒 莱 塞莱哈",
+      "meaning": "天啊，恶棍们！",
+      "sourceLineId": "mozart-timed-474-1",
+      "suppliedText": "- Ciel, les scélérats! - Maman. Ha, mes mignons! Pris sur le fait.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4424,
+        "anchorEnd": 4428,
+        "sourceLineNumber": 474,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4425.412,
+      "sourceText": "Maman.",
+      "ipa": "[mamɑ̃]",
+      "ear": "玛芒",
+      "meaning": "妈妈。",
+      "sourceLineId": "mozart-timed-474-2",
+      "suppliedText": "- Ciel, les scélérats! - Maman. Ha, mes mignons! Pris sur le fait.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4424,
+        "anchorEnd": 4428,
+        "sourceLineNumber": 474,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4425.882,
+      "sourceText": "Ha, mes mignons!",
+      "ipa": "[a me minjɔ̃]",
+      "ear": "阿 梅 米恩耶翁",
+      "meaning": "哈，亲爱的！",
+      "sourceLineId": "mozart-timed-474-3",
+      "suppliedText": "- Ciel, les scélérats! - Maman. Ha, mes mignons! Pris sur le fait.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4424,
+        "anchorEnd": 4428,
+        "sourceLineNumber": 474,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4426.824,
+      "sourceText": "Pris sur le fait.",
+      "ipa": "[pʁi syʁ lə fɛ]",
+      "ear": "普希 西于赫 勒 费",
+      "meaning": "抓了个正着。",
+      "sourceLineId": "mozart-timed-474-4",
+      "suppliedText": "- Ciel, les scélérats! - Maman. Ha, mes mignons! Pris sur le fait.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4424,
+        "anchorEnd": 4428,
+        "sourceLineNumber": 474,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4428,
+      "sourceText": "Quelle honte!",
+      "ipa": "[kɛl ɔ̃t]",
+      "ear": "凯勒 翁特",
+      "meaning": "真丢人！",
+      "sourceLineId": "mozart-timed-475-1",
+      "suppliedText": "- Quelle honte! - Cecilia, maman, madame, quelle terrible méprise! Et votre parole? Vous avouez, hein?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4428,
+        "anchorEnd": 4435.86,
+        "sourceLineNumber": 475,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4429.062,
+      "sourceText": "Cecilia, maman, madame, quelle terrible méprise!",
+      "ipa": "[səsilja mamɑ̃ madam kɛl tɛʁibl mepʁiz]",
+      "ear": "瑟西勒耶阿 玛芒 玛达姆 凯勒 泰希布勒 梅普希兹",
+      "meaning": "塞西莉娅，妈妈，女士，这是一个多么可怕的错误啊！",
+      "sourceLineId": "mozart-timed-475-2",
+      "suppliedText": "- Quelle honte! - Cecilia, maman, madame, quelle terrible méprise! Et votre parole? Vous avouez, hein?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4428,
+        "anchorEnd": 4435.86,
+        "sourceLineNumber": 475,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4432.886,
+      "sourceText": "Et votre parole?",
+      "ipa": "[e votʁ paʁɔl]",
+      "ear": "诶 沃特赫 帕霍勒",
+      "meaning": "那您的承诺呢？",
+      "sourceLineId": "mozart-timed-475-3",
+      "suppliedText": "- Quelle honte! - Cecilia, maman, madame, quelle terrible méprise! Et votre parole? Vous avouez, hein?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4428,
+        "anchorEnd": 4435.86,
+        "sourceLineNumber": 475,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4434.161,
+      "sourceText": "Vous avouez, hein?",
+      "ipa": "[vuz‿avwe ɛ̃]",
+      "ear": "乌兹 阿弗乌诶 安",
+      "meaning": "你承认吧？",
+      "sourceLineId": "mozart-timed-475-4",
+      "suppliedText": "- Quelle honte! - Cecilia, maman, madame, quelle terrible méprise! Et votre parole? Vous avouez, hein?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4428,
+        "anchorEnd": 4435.86,
+        "sourceLineNumber": 475,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4436,
+      "sourceText": "Ah, Wolfgang, vous êtes notre ruine!",
+      "ipa": "[a vɔlfɡɑ̃ɡ vuz‿ɛt notʁ ʁɥin]",
+      "ear": "阿 沃勒弗冈格 乌兹 艾特 诺特赫 赫于伊恩",
+      "meaning": "啊，沃尔夫冈，你是我们的毁灭！",
+      "sourceLineId": "mozart-timed-476-1",
+      "suppliedText": "Ah, Wolfgang, vous êtes notre ruine! Oui, notre ruine! Vous vous êtes affichés sans pudeur.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4436,
+        "anchorEnd": 4443,
+        "sourceLineNumber": 476,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4438.545,
+      "sourceText": "Oui, notre ruine!",
+      "ipa": "[wi notʁ ʁɥin]",
+      "ear": "乌伊 诺特赫 赫于伊恩",
+      "meaning": "是的，我们的毁灭！",
+      "sourceLineId": "mozart-timed-476-2",
+      "suppliedText": "Ah, Wolfgang, vous êtes notre ruine! Oui, notre ruine! Vous vous êtes affichés sans pudeur.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4436,
+        "anchorEnd": 4443,
+        "sourceLineNumber": 476,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4440.242,
+      "sourceText": "Vous vous êtes affichés sans pudeur.",
+      "ipa": "[vu vuz‿ɛt‿afiʃe sɑ̃ pydœʁ]",
+      "ear": "乌 乌兹 艾特 阿菲谢 桑 普于德厄赫",
+      "meaning": "你毫无羞耻地展示了自己。",
+      "sourceLineId": "mozart-timed-476-3",
+      "suppliedText": "Ah, Wolfgang, vous êtes notre ruine! Oui, notre ruine! Vous vous êtes affichés sans pudeur.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4436,
+        "anchorEnd": 4443,
+        "sourceLineNumber": 476,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4443,
+      "sourceText": "Tout Vienne va nous montrer du doigt!",
+      "ipa": "[tu vjɛn va nu mɔ̃tʁe dy dwa]",
+      "ear": "图 弗耶艾恩 瓦 努 蒙特赫 迪于 德乌阿",
+      "meaning": "整个维也纳都会对我们指手画脚！",
+      "sourceLineId": "mozart-timed-477-1",
+      "suppliedText": "Tout Vienne va nous montrer du doigt!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4443,
+        "anchorEnd": 4446,
+        "sourceLineNumber": 477,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4446,
+      "sourceText": "Tant d'efforts, de sacrifices, pour voir ma petite Constance déshonorée!",
+      "ipa": "[tɑ̃ defɔʁ də sakʁifis puʁ vwaʁ ma pətit kɔ̃stɑ̃s dezonoʁe]",
+      "ear": "唐 德佛赫 德 萨克希菲斯 普赫 弗乌阿赫 玛 珀蒂特 孔斯唐斯 德佐诺赫",
+      "meaning": "这么多的努力，这么多的牺牲，为了看到我的小康斯坦丝被羞辱！",
+      "sourceLineId": "mozart-timed-478-1",
+      "suppliedText": "Tant d'efforts, de sacrifices, pour voir ma petite Constance déshonorée!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4446,
+        "anchorEnd": 4452.02,
+        "sourceLineNumber": 478,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4453,
+      "sourceText": "Dieu merci, ton pauvre père n'aura pas vu cela!",
+      "ipa": "[djø mɛʁsi tɔ̃ povʁ pɛʁ noʁa pa vy səla]",
+      "ear": "德耶厄 梅赫西 通 波弗赫 佩赫 诺哈 帕 维于 瑟拉",
+      "meaning": "感谢上帝，你可怜的父亲不会看到这个！",
+      "sourceLineId": "mozart-timed-479-1",
+      "suppliedText": "Dieu merci, ton pauvre père n'aura pas vu cela! - Oh, non, maman, comment oses-tu? - Tais-toi! Sors immédiatement!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4453,
+        "anchorEnd": 4461.66,
+        "sourceLineNumber": 479,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4457.102,
+      "sourceText": "Oh, non, maman, comment oses-tu?",
+      "ipa": "[ɔ nɔ̃ mamɑ̃ kɔmɑ̃ ozty]",
+      "ear": "哦 农 玛芒 科芒 奥兹蒂于",
+      "meaning": "哦，不，妈妈，你怎么敢？",
+      "sourceLineId": "mozart-timed-479-2",
+      "suppliedText": "Dieu merci, ton pauvre père n'aura pas vu cela! - Oh, non, maman, comment oses-tu? - Tais-toi! Sors immédiatement!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4453,
+        "anchorEnd": 4461.66,
+        "sourceLineNumber": 479,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4459.153,
+      "sourceText": "Tais-toi!",
+      "ipa": "[tɛtwa]",
+      "ear": "泰特乌阿",
+      "meaning": "闭嘴！",
+      "sourceLineId": "mozart-timed-479-3",
+      "suppliedText": "Dieu merci, ton pauvre père n'aura pas vu cela! - Oh, non, maman, comment oses-tu? - Tais-toi! Sors immédiatement!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4453,
+        "anchorEnd": 4461.66,
+        "sourceLineNumber": 479,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4460.065,
+      "sourceText": "Sors immédiatement!",
+      "ipa": "[sɔʁ‿imedjatmɑ̃]",
+      "ear": "索赫 伊梅德耶阿特芒",
+      "meaning": "立即出去！",
+      "sourceLineId": "mozart-timed-479-4",
+      "suppliedText": "Dieu merci, ton pauvre père n'aura pas vu cela! - Oh, non, maman, comment oses-tu? - Tais-toi! Sors immédiatement!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4453,
+        "anchorEnd": 4461.66,
+        "sourceLineNumber": 479,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4462,
+      "sourceText": "Jamais.",
+      "ipa": "[ʒamɛ]",
+      "ear": "扎梅",
+      "meaning": "绝不。",
+      "sourceLineId": "mozart-timed-480-1",
+      "suppliedText": "- Jamais. - Petite peste! - Wolfgang! - Il vaut mieux que je parte...",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4462,
+        "anchorEnd": 4470.9,
+        "sourceLineNumber": 480,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4463.271,
+      "sourceText": "Petite peste!",
+      "ipa": "[pətit pɛst]",
+      "ear": "珀蒂特 佩斯特",
+      "meaning": "你这个小坏蛋！",
+      "sourceLineId": "mozart-timed-480-2",
+      "suppliedText": "- Jamais. - Petite peste! - Wolfgang! - Il vaut mieux que je parte...",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4462,
+        "anchorEnd": 4470.9,
+        "sourceLineNumber": 480,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4465.39,
+      "sourceText": "Wolfgang!",
+      "ipa": "[vɔlfɡɑ̃ɡ]",
+      "ear": "沃勒弗冈格",
+      "meaning": "沃尔夫冈！",
+      "sourceLineId": "mozart-timed-480-3",
+      "suppliedText": "- Jamais. - Petite peste! - Wolfgang! - Il vaut mieux que je parte...",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4462,
+        "anchorEnd": 4470.9,
+        "sourceLineNumber": 480,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4466.238,
+      "sourceText": "Il vaut mieux que je parte...",
+      "ipa": "[il vo mjø kə ʒə paʁt]",
+      "ear": "伊勒 沃 姆耶厄 克 热 帕赫特",
+      "meaning": "我还是离开比较好……",
+      "sourceLineId": "mozart-timed-480-4",
+      "suppliedText": "- Jamais. - Petite peste! - Wolfgang! - Il vaut mieux que je parte...",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4462,
+        "anchorEnd": 4470.9,
+        "sourceLineNumber": 480,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4471,
+      "sourceText": "Psst!",
+      "ipa": "[peɛsɛste]",
+      "ear": "佩艾塞斯特",
+      "meaning": "嘘！",
+      "sourceLineId": "mozart-timed-481-1",
+      "suppliedText": "- Psst! - Dites donc, jeune homme, vous ne pensiez tout de même pas fuir?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4471,
+        "anchorEnd": 4476,
+        "sourceLineNumber": 481,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4471.217,
+      "sourceText": "Dites donc, jeune homme, vous ne pensiez tout de même pas fuir?",
+      "ipa": "[dit dɔ̃k ʒøn‿ɔm vu nə pɑ̃sje tu də mɛm pa fɥiʁ]",
+      "ear": "迪特 东克 热厄恩 哦姆 乌 讷 庞斯耶诶 图 德 梅姆 帕 弗于伊赫",
+      "meaning": "嘿，年轻人，你不是想逃跑吗？",
+      "sourceLineId": "mozart-timed-481-2",
+      "suppliedText": "- Psst! - Dites donc, jeune homme, vous ne pensiez tout de même pas fuir?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4471,
+        "anchorEnd": 4476,
+        "sourceLineNumber": 481,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4476,
+      "sourceText": "Car si vous tentiez de disparaître, nous ferions appel à la force publique!",
+      "ipa": "[kaʁ si vu tɑ̃tje də dispaʁɛtʁ nu fəʁjɔ̃ apɛl‿a la fɔʁs pyblik]",
+      "ear": "卡赫 西 乌 唐特耶诶 德 迪斯帕赫特赫 努 弗赫耶翁 阿佩勒 阿 拉 佛赫斯 普于布利克",
+      "meaning": "如果你敢一走了之，我们就叫警察来！",
+      "sourceLineId": "mozart-timed-482-1",
+      "suppliedText": "Car si vous tentiez de disparaître, nous ferions appel à la force publique! \"La force publique\"? Non mais qui êtes-vous?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4476,
+        "anchorEnd": 4485.79,
+        "sourceLineNumber": 482,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4482.23,
+      "sourceText": "La force publique?",
+      "ipa": "[la fɔʁs pyblik]",
+      "ear": "拉 佛赫斯 普于布利克",
+      "meaning": "警察？",
+      "sourceLineId": "mozart-timed-482-2",
+      "suppliedText": "Car si vous tentiez de disparaître, nous ferions appel à la force publique! \"La force publique\"? Non mais qui êtes-vous?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4476,
+        "anchorEnd": 4485.79,
+        "sourceLineNumber": 482,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4483.787,
+      "sourceText": "Non mais qui êtes-vous?",
+      "ipa": "[nɔ̃ mɛ ki ɛtvu]",
+      "ear": "农 梅 基 艾特乌",
+      "meaning": "不，但是你是谁？",
+      "sourceLineId": "mozart-timed-482-3",
+      "suppliedText": "Car si vous tentiez de disparaître, nous ferions appel à la force publique! \"La force publique\"? Non mais qui êtes-vous?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4476,
+        "anchorEnd": 4485.79,
+        "sourceLineNumber": 482,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4486,
+      "sourceText": "Je suis le tuteur de cette pauvre enfant.",
+      "ipa": "[ʒə sɥi lə tytœʁ də sɛt povʁ‿ɑ̃fɑ̃]",
+      "ear": "热 斯于伊 勒 蒂于特厄赫 德 塞特 波弗赫 昂芳",
+      "meaning": "我是这个可怜孩子的监护人。",
+      "sourceLineId": "mozart-timed-483-1",
+      "suppliedText": "Je suis le tuteur de cette pauvre enfant.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4486,
+        "anchorEnd": 4490,
+        "sourceLineNumber": 483,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4490,
+      "sourceText": "Merci d'être venu si vite!",
+      "ipa": "[mɛʁsi dɛtʁ vəny si vit]",
+      "ear": "梅赫西 戴特赫 弗尼于 西 维特",
+      "meaning": "谢谢你这么快就来了！",
+      "sourceLineId": "mozart-timed-484-1",
+      "suppliedText": "- Merci d'être venu si vite! - Monsieur le débauché, vous allez réparer dans l'honneur tout le mal - que vous avez fait. - Et comment?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4490,
+        "anchorEnd": 4499,
+        "sourceLineNumber": 484,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4491.841,
+      "sourceText": "Monsieur le débauché, vous allez réparer dans l'honneur tout le mal",
+      "ipa": "[məsjø lə deboʃe vuz‿ale ʁepaʁe dɑ̃ lɔnœʁ tu lə mal]",
+      "ear": "默斯耶厄 勒 德博谢 乌兹 阿莱 赫帕赫 当 洛讷厄赫 图 勒 玛勒",
+      "meaning": "这位浪荡先生，你必须用体面的方式弥补——",
+      "sourceLineId": "mozart-timed-484-2",
+      "suppliedText": "- Merci d'être venu si vite! - Monsieur le débauché, vous allez réparer dans l'honneur tout le mal - que vous avez fait. - Et comment?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4490,
+        "anchorEnd": 4499,
+        "sourceLineNumber": 484,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4496.75,
+      "sourceText": "que vous avez fait.",
+      "ipa": "[kə vuz‿ave fɛ]",
+      "ear": "克 乌兹 阿韦 费",
+      "meaning": "你所做的。",
+      "sourceLineId": "mozart-timed-484-3",
+      "suppliedText": "- Merci d'être venu si vite! - Monsieur le débauché, vous allez réparer dans l'honneur tout le mal - que vous avez fait. - Et comment?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4490,
+        "anchorEnd": 4499,
+        "sourceLineNumber": 484,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4498.386,
+      "sourceText": "Et comment?",
+      "ipa": "[e kɔmɑ̃]",
+      "ear": "诶 科芒",
+      "meaning": "又如何呢？",
+      "sourceLineId": "mozart-timed-484-4",
+      "suppliedText": "- Merci d'être venu si vite! - Monsieur le débauché, vous allez réparer dans l'honneur tout le mal - que vous avez fait. - Et comment?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4490,
+        "anchorEnd": 4499,
+        "sourceLineNumber": 484,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4499,
+      "sourceText": "En signant ceci une promesse de mariage en bonne et due forme.",
+      "ipa": "[ɑ̃ sinjɑ̃ səsi yn pʁomɛs də maʁjaʒ‿ɑ̃ bɔn e dy fɔʁm]",
+      "ear": "昂 西恩耶昂 瑟西 于恩 普霍梅斯 德 玛赫耶阿日 昂 博恩 诶 迪于 佛赫姆",
+      "meaning": "签下这份正式的婚约就行。",
+      "sourceLineId": "mozart-timed-485-1",
+      "suppliedText": "En signant ceci une promesse de mariage en bonne et due forme. \"Une promesse de mariage\"?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4499,
+        "anchorEnd": 4506.66,
+        "sourceLineNumber": 485,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4504.339,
+      "sourceText": "Une promesse de mariage?",
+      "ipa": "[yn pʁomɛs də maʁjaʒ]",
+      "ear": "于恩 普霍梅斯 德 玛赫耶阿日",
+      "meaning": "婚约？",
+      "sourceLineId": "mozart-timed-485-2",
+      "suppliedText": "En signant ceci une promesse de mariage en bonne et due forme. \"Une promesse de mariage\"?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4499,
+        "anchorEnd": 4506.66,
+        "sourceLineNumber": 485,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4507,
+      "sourceText": "Mais mon père",
+      "ipa": "[mɛ mɔ̃ pɛʁ]",
+      "ear": "梅 蒙 佩赫",
+      "meaning": "但我的父亲",
+      "sourceLineId": "mozart-timed-486-1",
+      "suppliedText": "Mais mon père - refusera. - Le filou! Il nous refait le coup du père. Vous vous engagez à épouser Constance Weber dans les 3 ans.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4507,
+        "anchorEnd": 4515.66,
+        "sourceLineNumber": 486,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4507.962,
+      "sourceText": "refusera.",
+      "ipa": "[ʁəfyzʁa]",
+      "ear": "赫菲于兹哈",
+      "meaning": "会拒绝。",
+      "sourceLineId": "mozart-timed-486-2",
+      "suppliedText": "Mais mon père - refusera. - Le filou! Il nous refait le coup du père. Vous vous engagez à épouser Constance Weber dans les 3 ans.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4507,
+        "anchorEnd": 4515.66,
+        "sourceLineNumber": 486,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4508.732,
+      "sourceText": "Le filou!",
+      "ipa": "[lə filu]",
+      "ear": "勒 菲卢",
+      "meaning": "骗子！",
+      "sourceLineId": "mozart-timed-486-3",
+      "suppliedText": "Mais mon père - refusera. - Le filou! Il nous refait le coup du père. Vous vous engagez à épouser Constance Weber dans les 3 ans.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4507,
+        "anchorEnd": 4515.66,
+        "sourceLineNumber": 486,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4509.502,
+      "sourceText": "Il nous refait le coup du père.",
+      "ipa": "[il nu ʁəfɛ lə ku dy pɛʁ]",
+      "ear": "伊勒 努 赫费 勒 库 迪于 佩赫",
+      "meaning": "他又玩起了父亲的把戏。",
+      "sourceLineId": "mozart-timed-486-4",
+      "suppliedText": "Mais mon père - refusera. - Le filou! Il nous refait le coup du père. Vous vous engagez à épouser Constance Weber dans les 3 ans.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4507,
+        "anchorEnd": 4515.66,
+        "sourceLineNumber": 486,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4511.811,
+      "sourceText": "Vous vous engagez à épouser Constance Weber dans les 3 ans.",
+      "ipa": "[vu vuz‿ɑ̃ɡaʒe a epuze kɔ̃stɑ̃s vebɛʁ dɑ̃ le tʁwaz‿ɑ̃]",
+      "ear": "乌 乌兹 昂嘎热 阿 诶普泽 孔斯唐斯 韦贝赫 当 莱 特赫乌阿兹 昂",
+      "meaning": "您同意在 3 年内与康斯坦丝·韦伯结婚。",
+      "sourceLineId": "mozart-timed-486-5",
+      "suppliedText": "Mais mon père - refusera. - Le filou! Il nous refait le coup du père. Vous vous engagez à épouser Constance Weber dans les 3 ans.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4507,
+        "anchorEnd": 4515.66,
+        "sourceLineNumber": 486,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4516,
+      "sourceText": "En cas de non-respect de cela, vous devrez verser 300 florins à",
+      "ipa": "[ɑ̃ ka də nɔ̃ʁɛspɛkt də səla vu dəvʁe vɛʁse tʁwa sɑ̃ floʁɛ̃ a]",
+      "ear": "昂 卡 德 农赫斯佩克特 德 瑟拉 乌 德弗赫 韦赫塞 特赫乌阿 桑 弗洛汉 阿",
+      "meaning": "如果违约，您必须支付三百弗罗林给——",
+      "sourceLineId": "mozart-timed-487-1",
+      "suppliedText": "En cas de non-respect de cela, vous devrez verser 300 florins à Madame Cécilia Weber. Au diable!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4516,
+        "anchorEnd": 4524,
+        "sourceLineNumber": 487,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4520.5,
+      "sourceText": "Madame Cécilia Weber.",
+      "ipa": "[madam sesilja vebɛʁ]",
+      "ear": "玛达姆 塞西勒耶阿 韦贝赫",
+      "meaning": "塞西莉娅·韦伯夫人。",
+      "sourceLineId": "mozart-timed-487-2",
+      "suppliedText": "En cas de non-respect de cela, vous devrez verser 300 florins à Madame Cécilia Weber. Au diable!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4516,
+        "anchorEnd": 4524,
+        "sourceLineNumber": 487,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4522.75,
+      "sourceText": "Au diable!",
+      "ipa": "[o djabl]",
+      "ear": "奥 德耶阿布勒",
+      "meaning": "见鬼去吧！",
+      "sourceLineId": "mozart-timed-487-3",
+      "suppliedText": "En cas de non-respect de cela, vous devrez verser 300 florins à Madame Cécilia Weber. Au diable!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4516,
+        "anchorEnd": 4524,
+        "sourceLineNumber": 487,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4524,
+      "sourceText": "Oh, oui, c'est bien.",
+      "ipa": "[ɔ wi sɛ bjɛ̃]",
+      "ear": "哦 乌伊 塞 布耶安",
+      "meaning": "哦，是的，那很好。",
+      "sourceLineId": "mozart-timed-488-1",
+      "suppliedText": "Oh, oui, c'est bien. Tout est-il bien clair?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4524,
+        "anchorEnd": 4529,
+        "sourceLineNumber": 488,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4526.333,
+      "sourceText": "Tout est-il bien clair?",
+      "ipa": "[tut‿ɛtil bjɛ̃ klɛʁ]",
+      "ear": "图特 艾蒂勒 布耶安 克莱赫",
+      "meaning": "一切都清楚了吗？",
+      "sourceLineId": "mozart-timed-488-2",
+      "suppliedText": "Oh, oui, c'est bien. Tout est-il bien clair?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4524,
+        "anchorEnd": 4529,
+        "sourceLineNumber": 488,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4529,
+      "sourceText": "Ce qui est clair, c'est que votre piège est bien ficelé.",
+      "ipa": "[sə ki ɛ klɛʁ sɛ kə votʁ pjɛʒ‿ɛ bjɛ̃ fisle]",
+      "ear": "瑟 基 艾 克莱赫 塞 克 沃特赫 普耶艾日 艾 布耶安 菲斯莱",
+      "meaning": "很明显，你的陷阱已经设好了。",
+      "sourceLineId": "mozart-timed-489-1",
+      "suppliedText": "Ce qui est clair, c'est que votre piège est bien ficelé. Madame, mes compliments. N'insistez pas, Mozart, et signez.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4529,
+        "anchorEnd": 4537.86,
+        "sourceLineNumber": 489,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4533.922,
+      "sourceText": "Madame, mes compliments.",
+      "ipa": "[madam me kɔ̃plimɑ̃]",
+      "ear": "玛达姆 梅 孔普利芒",
+      "meaning": "女士，我的恭喜。",
+      "sourceLineId": "mozart-timed-489-2",
+      "suppliedText": "Ce qui est clair, c'est que votre piège est bien ficelé. Madame, mes compliments. N'insistez pas, Mozart, et signez.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4529,
+        "anchorEnd": 4537.86,
+        "sourceLineNumber": 489,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4535.645,
+      "sourceText": "N'insistez pas, Mozart, et signez.",
+      "ipa": "[nɛ̃siste pa mɔtsaʁ e sinje]",
+      "ear": "南西斯特 帕 莫特萨赫 诶 西恩耶诶",
+      "meaning": "不要坚持，莫扎特，然后签名。",
+      "sourceLineId": "mozart-timed-489-3",
+      "suppliedText": "Ce qui est clair, c'est que votre piège est bien ficelé. Madame, mes compliments. N'insistez pas, Mozart, et signez.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4529,
+        "anchorEnd": 4537.86,
+        "sourceLineNumber": 489,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4544,
+      "sourceText": "Papa, écoute les nouvelles.",
+      "ipa": "[papa ekut le nuvɛl]",
+      "ear": "帕帕 诶库特 莱 努韦勒",
+      "meaning": "爸爸，你听听这个消息。",
+      "sourceLineId": "mozart-timed-490-1",
+      "suppliedText": "Papa, écoute les nouvelles. \"À la demande de Sa Majesté, \"Mozart a commencé les répétitions de L'Enlèvement au sérail.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4544,
+        "anchorEnd": 4553.78,
+        "sourceLineNumber": 490,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4546.502,
+      "sourceText": "À la demande de Sa Majesté, Mozart a commencé les répétitions de L'Enlèvement au sérail.",
+      "ipa": "[a la dəmɑ̃d də sa maʒɛste mɔtsaʁ‿a kɔmɑ̃se le ʁepetisjɔ̃ də lɑ̃lɛvmɑ̃ o seʁaj]",
+      "ear": "阿 拉 德芒德 德 萨 玛热斯特 莫特萨赫 阿 科芒塞 莱 赫佩蒂斯耶翁 德 朗莱弗芒 奥 塞哈耶",
+      "meaning": "应皇帝陛下的要求，莫扎特已开始排练《后宫诱逃》。",
+      "sourceLineId": "mozart-timed-490-2",
+      "suppliedText": "Papa, écoute les nouvelles. \"À la demande de Sa Majesté, \"Mozart a commencé les répétitions de L'Enlèvement au sérail.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4544,
+        "anchorEnd": 4553.78,
+        "sourceLineNumber": 490,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4554,
+      "sourceText": "Nul doute que cette grande œuvre recevra l'accueil chaleureux du public viennois.",
+      "ipa": "[nyl dut kə sɛt ɡʁɑ̃d‿œvʁ ʁəsəvʁa lakœj ʃaløʁø dy pyblik vjɛnwa]",
+      "ear": "尼于勒 杜特 克 塞特 格杭德 厄弗赫 赫瑟弗哈 拉克厄耶 沙勒厄赫厄 迪于 普于布利克 弗耶艾恩乌阿",
+      "meaning": "这部杰作定会受到维也纳观众的热烈欢迎。",
+      "sourceLineId": "mozart-timed-491-1",
+      "suppliedText": "\"Nul doute que cette grande œuvre \"recevra l'accueil chaleureux du public viennois.\" Papa, ça y est, notre Wolfgang va devenir célèbre!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4554,
+        "anchorEnd": 4565.3,
+        "sourceLineNumber": 491,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4561.533,
+      "sourceText": "Papa, ça y est, notre Wolfgang va devenir célèbre!",
+      "ipa": "[papa sa i ɛ notʁ vɔlfɡɑ̃ɡ va dəvniʁ selɛbʁ]",
+      "ear": "帕帕 萨 伊 艾 诺特赫 沃勒弗冈格 瓦 德弗尼赫 塞莱布赫",
+      "meaning": "爸爸，就是这样，我们沃尔夫冈要出名了！",
+      "sourceLineId": "mozart-timed-491-2",
+      "suppliedText": "\"Nul doute que cette grande œuvre \"recevra l'accueil chaleureux du public viennois.\" Papa, ça y est, notre Wolfgang va devenir célèbre!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4554,
+        "anchorEnd": 4565.3,
+        "sourceLineNumber": 491,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4568,
+      "sourceText": "Pourquoi fais-tu cette tête?",
+      "ipa": "[puʁkwa fɛty sɛt tɛt]",
+      "ear": "普赫克乌阿 费蒂于 塞特 泰特",
+      "meaning": "你为什么做出这个表情？",
+      "sourceLineId": "mozart-timed-492-1",
+      "suppliedText": "Pourquoi fais-tu cette tête? Ton frère...",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4568,
+        "anchorEnd": 4572,
+        "sourceLineNumber": 492,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4571.2,
+      "sourceText": "Ton frère...",
+      "ipa": "[tɔ̃ fʁɛʁ]",
+      "ear": "通 弗赫赫",
+      "meaning": "你哥哥……",
+      "sourceLineId": "mozart-timed-492-2",
+      "suppliedText": "Pourquoi fais-tu cette tête? Ton frère...",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4568,
+        "anchorEnd": 4572,
+        "sourceLineNumber": 492,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4572,
+      "sourceText": "il me demande l'autorisation d'épouser Constance Weber, la soeur d'Aloysia.",
+      "ipa": "[il mə dəmɑ̃d lotoʁizasjɔ̃ depuze kɔ̃stɑ̃s vebɛʁ la sœʁ dalwazja]",
+      "ear": "伊勒 默 德芒德 洛托希扎斯耶翁 德普泽 孔斯唐斯 韦贝赫 拉 瑟厄赫 达勒乌阿兹耶阿",
+      "meaning": "他请求我允许与阿洛伊西娅的妹妹康斯坦丝·韦伯结婚。",
+      "sourceLineId": "mozart-timed-493-1",
+      "suppliedText": "il me demande l'autorisation d'épouser Constance Weber, la soeur d'Aloysia.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4572,
+        "anchorEnd": 4577.98,
+        "sourceLineNumber": 493,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4578,
+      "sourceText": "Il s'est encore fait harponner par cette maudite famille, mais jamais, moi vivant, je ne le laisserai l'épouser!",
+      "ipa": "[il sɛt‿ɑ̃kɔʁ fɛ aʁpɔne paʁ sɛt modit famij mɛ ʒamɛ mwa vivɑ̃ ʒə nə lə lɛsʁe lepuze]",
+      "ear": "伊勒 塞特 昂科赫 费 阿赫珀内 帕赫 塞特 莫迪特 法米耶 梅 扎梅 姆乌阿 维旺 热 讷 勒 莱斯赫 莱普泽",
+      "meaning": "他再一次被这个该诅咒的家族所攻击，但我活着，永远不会让他娶她！",
+      "sourceLineId": "mozart-timed-494-1",
+      "suppliedText": "Il s'est encore fait harponner par cette maudite famille, mais jamais, moi vivant, je ne le laisserai l'épouser!",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4578,
+        "anchorEnd": 4586,
+        "sourceLineNumber": 494,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4586,
+      "sourceText": "Papa, je ne te comprends pas.",
+      "ipa": "[papa ʒə nə tə kɔ̃pʁɑ̃ pa]",
+      "ear": "帕帕 热 讷 特 孔普杭 帕",
+      "meaning": "爸爸，我不明白你的意思。",
+      "sourceLineId": "mozart-timed-495-1",
+      "suppliedText": "Papa, je ne te comprends pas. Je suis sûre que Constance est sincère.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4586,
+        "anchorEnd": 4590.62,
+        "sourceLineNumber": 495,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4587.68,
+      "sourceText": "Je suis sûre que Constance est sincère.",
+      "ipa": "[ʒə sɥi syʁ kə kɔ̃stɑ̃s‿ɛ sɛ̃sɛʁ]",
+      "ear": "热 斯于伊 西于赫 克 孔斯唐斯 艾 森塞赫",
+      "meaning": "我确信康斯坦丝是真诚的。",
+      "sourceLineId": "mozart-timed-495-2",
+      "suppliedText": "Papa, je ne te comprends pas. Je suis sûre que Constance est sincère.",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4586,
+        "anchorEnd": 4590.62,
+        "sourceLineNumber": 495,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4592,
+      "sourceText": "Et si Wolfgang l'aime, pourquoi veux-tu l'empêcher d'être heureux?",
+      "ipa": "[e si vɔlfɡɑ̃ɡ lɛm puʁkwa vøty lɑ̃pɛʃe dɛtʁ‿øʁø]",
+      "ear": "诶 西 沃勒弗冈格 莱姆 普赫克乌阿 弗厄蒂于 朗佩谢 戴特赫 厄赫厄",
+      "meaning": "如果沃尔夫冈爱她，你为什么要阻止他幸福？",
+      "sourceLineId": "mozart-timed-496-1",
+      "suppliedText": "Et si Wolfgang l'aime, pourquoi veux-tu l'empêcher d'être heureux?",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4592,
+        "anchorEnd": 4597.94,
+        "sourceLineNumber": 496,
+        "precision": "approximate"
+      }
+    }
+  ]
+}
