@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node tests/captions.test.mjs && node tests/study.test.mjs && node tests/library.test.mjs && node tests/notre-library.test.mjs && node tests/native.test.mjs && node tests/romeo-library.test.mjs && node tests/moliere-library.test.mjs",
+    "test": "node tests/captions.test.mjs && node tests/study.test.mjs && node tests/library.test.mjs && node tests/notre-library.test.mjs && node tests/native.test.mjs && node tests/romeo-library.test.mjs && node tests/moliere-library.test.mjs && node tests/mozart-library.test.mjs",
     "check": "node --check assets/app.js && node --check assets/browse.js && node --check assets/library.mjs && node --check assets/captions.mjs && node --check assets/study.mjs && node --check assets/data.mjs && node --check assets/native.mjs"
   }
 }
