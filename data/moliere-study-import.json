@@ -1,126 +1,298 @@
 {
-  "sourceFile": "time-caption.txt",
-  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "sourceFile": "moliere-supplied-lyrics.json",
+  "sourceFileSHA256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134",
   "pageCount": 16,
   "fourLayerPages": 16,
-  "fourLayerBlocks": 284,
+  "fourLayerBlocks": 625,
+  "suppliedLyricLines": 654,
+  "versionDifferenceLines": 29,
   "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html",
   "retainedArchiveTracks": 45,
   "removedFromCatalog": 29,
-  "correctedBlocks": 180,
-  "reviewScope": "spelling-and-grammar-of-user-supplied-transcript",
+  "textCorrections": 73,
+  "meaningCorrections": 235,
+  "reviewScope": "supplied-lyrics-spelling-grammar-and-chinese-meaning",
+  "timingMethod": "original-stage-transcript-word-alignment-approximate",
   "tracks": [
     {
       "id": "QS_MJxvB93Q",
       "trackNumber": 1,
       "originalTrackNumber": 45,
-      "lines": 24,
-      "editedBlocks": 24
+      "suppliedLines": 47,
+      "lines": 47,
+      "versionDifferenceLines": [],
+      "textCorrections": 0,
+      "meaningCorrections": 22
     },
     {
       "id": "SmW9IpZlvMs",
       "trackNumber": 2,
       "originalTrackNumber": 39,
-      "lines": 19,
-      "editedBlocks": 19
+      "suppliedLines": 59,
+      "lines": 59,
+      "versionDifferenceLines": [],
+      "textCorrections": 2,
+      "meaningCorrections": 33
     },
     {
       "id": "3nvql84Sbfc",
       "trackNumber": 3,
       "originalTrackNumber": 26,
-      "lines": 17,
-      "editedBlocks": 17
+      "suppliedLines": 44,
+      "lines": 44,
+      "versionDifferenceLines": [],
+      "textCorrections": 1,
+      "meaningCorrections": 20
     },
     {
       "id": "ByZEaeRjtPM",
       "trackNumber": 4,
       "originalTrackNumber": 37,
-      "lines": 23,
-      "editedBlocks": 23
+      "suppliedLines": 44,
+      "lines": 44,
+      "versionDifferenceLines": [],
+      "textCorrections": 4,
+      "meaningCorrections": 21
     },
     {
       "id": "5MoPwWau5kw",
       "trackNumber": 5,
       "originalTrackNumber": 17,
-      "lines": 21,
-      "editedBlocks": 20
+      "suppliedLines": 36,
+      "lines": 36,
+      "versionDifferenceLines": [],
+      "textCorrections": 14,
+      "meaningCorrections": 16
     },
     {
       "id": "A5STesdpUqg",
       "trackNumber": 6,
       "originalTrackNumber": 31,
-      "lines": 21,
-      "editedBlocks": 21
+      "suppliedLines": 45,
+      "lines": 45,
+      "versionDifferenceLines": [],
+      "textCorrections": 13,
+      "meaningCorrections": 38
     },
     {
       "id": "dqxl5YVktz0",
       "trackNumber": 7,
       "originalTrackNumber": 41,
-      "lines": 20,
-      "editedBlocks": 20
+      "suppliedLines": 45,
+      "lines": 44,
+      "versionDifferenceLines": [
+        {
+          "id": "moliere-le-spectacle-musical-07-038",
+          "reason": "album-stage-version-difference"
+        }
+      ],
+      "textCorrections": 3,
+      "meaningCorrections": 6
     },
     {
       "id": "pHhXM6TCwns",
       "trackNumber": 8,
       "originalTrackNumber": 32,
-      "lines": 18,
-      "editedBlocks": 18
+      "suppliedLines": 48,
+      "lines": 48,
+      "versionDifferenceLines": [],
+      "textCorrections": 3,
+      "meaningCorrections": 13
     },
     {
       "id": "x-7l2SIxYI0",
       "trackNumber": 9,
       "originalTrackNumber": 21,
-      "lines": 15,
-      "editedBlocks": 1
+      "suppliedLines": 66,
+      "lines": 48,
+      "versionDifferenceLines": [
+        {
+          "id": "moliere-le-spectacle-musical-09-001-a",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-09-001-b",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-09-017",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-09-031-b",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-09-032-a",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-09-032-b",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-09-033-a",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-09-033-b",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-09-038",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-09-039",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-09-040",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-09-041",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-09-042-a",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-09-042-b",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-09-043",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-09-044-a",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-09-044-b",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-09-045",
+          "reason": "album-stage-version-difference"
+        }
+      ],
+      "textCorrections": 6,
+      "meaningCorrections": 11
     },
     {
       "id": "OEe6Jxooszc",
       "trackNumber": 10,
       "originalTrackNumber": 20,
-      "lines": 14,
-      "editedBlocks": 2
+      "suppliedLines": 31,
+      "lines": 31,
+      "versionDifferenceLines": [],
+      "textCorrections": 1,
+      "meaningCorrections": 7
     },
     {
       "id": "LBMV4AF0PWk",
       "trackNumber": 11,
       "originalTrackNumber": 3,
-      "lines": 20,
-      "editedBlocks": 1
+      "suppliedLines": 32,
+      "lines": 32,
+      "versionDifferenceLines": [],
+      "textCorrections": 4,
+      "meaningCorrections": 13
     },
     {
       "id": "SsTRsTN3teI",
       "trackNumber": 12,
       "originalTrackNumber": 5,
-      "lines": 12,
-      "editedBlocks": 2
+      "suppliedLines": 33,
+      "lines": 27,
+      "versionDifferenceLines": [
+        {
+          "id": "moliere-le-spectacle-musical-12-029",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-12-030",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-12-031",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-12-032",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-12-033",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-12-034",
+          "reason": "album-stage-version-difference"
+        }
+      ],
+      "textCorrections": 3,
+      "meaningCorrections": 5
     },
     {
       "id": "jPo5jZKp948",
       "trackNumber": 13,
       "originalTrackNumber": 24,
-      "lines": 19,
-      "editedBlocks": 5
+      "suppliedLines": 25,
+      "lines": 25,
+      "versionDifferenceLines": [],
+      "textCorrections": 3,
+      "meaningCorrections": 7
     },
     {
       "id": "zcMTzJ-Y3Bg",
       "trackNumber": 14,
       "originalTrackNumber": 9,
-      "lines": 14,
-      "editedBlocks": 4
+      "suppliedLines": 34,
+      "lines": 30,
+      "versionDifferenceLines": [
+        {
+          "id": "moliere-le-spectacle-musical-14-025",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-14-026",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-14-027",
+          "reason": "album-stage-version-difference"
+        },
+        {
+          "id": "moliere-le-spectacle-musical-14-028",
+          "reason": "album-stage-version-difference"
+        }
+      ],
+      "textCorrections": 8,
+      "meaningCorrections": 12
     },
     {
       "id": "1a4HnbB4HrM",
       "trackNumber": 15,
       "originalTrackNumber": 35,
-      "lines": 13,
-      "editedBlocks": 1
+      "suppliedLines": 34,
+      "lines": 34,
+      "versionDifferenceLines": [],
+      "textCorrections": 0,
+      "meaningCorrections": 2
     },
     {
       "id": "DfNkuu0ENTI",
       "trackNumber": 16,
       "originalTrackNumber": 1,
-      "lines": 14,
-      "editedBlocks": 2
+      "suppliedLines": 31,
+      "lines": 31,
+      "versionDifferenceLines": [],
+      "textCorrections": 8,
+      "meaningCorrections": 9
     }
   ]
 }

@@ -1,358 +1,871 @@
 {
   "videoId": "5MoPwWau5kw",
   "playbackVideoId": "5MoPwWau5kw",
-  "version": 2,
-  "textSource": "user-supplied-auto-transcript",
-  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "spelling-and-grammar-edits",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "sourceFileSHA256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134",
+  "textReviewStatus": "cross-checked",
+  "textReviewScope": "supplied-lyrics-spelling-grammar-and-chinese-meaning",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
-  "meaningSource": "editorial-chinese-from-user-transcript",
-  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
+  "meaningSource": "reviewed-user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "note": "歌词依据你提供的完整文件校对，中文释义已修订。学习卡片按现有现场录像整理，完整歌词另行归档；≈ 表示依据原字幕估算的分句位置。音标与空耳为文字的参考读法。",
   "sources": [
     {
-      "label": "本段原唱录像",
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+    },
+    {
+      "label": "本曲现场录像",
       "url": "https://www.youtube.com/watch?v=5MoPwWau5kw"
     }
   ],
   "entries": [
     {
-      "sourceText": "C'est vrai, j'ai des problèmes, des défauts par centaines. Je n'ai pas le sens de vos valeurs humaines. Moi, je suis comme la vie, j'fais jamais de cadeau. Je",
-      "start": 10,
-      "ipa": "[sɛ vʁɛ ʒe de pʁɔblɛm de defo paʁ sɑ̃tɛn ʒə ne pa lə sɑ̃s də vo valœʁ‿ymɛn mwa ʒə sɥi kɔm la vi ʒfɛ ʒamɛ də kado ʒə]",
-      "ear": "塞 弗赫 热 德 普霍布莱姆 德 德佛 帕赫 桑泰恩 热 内 帕 勒 桑斯 德 沃 瓦勒厄赫 于梅恩 姆乌阿 热 斯于伊 科姆 拉 维 日费 扎梅 德 卡多 热",
-      "meaning": "没错，我有问题，有成百上千的缺点。我不懂你们的人性价值。我和生活一样，从不白白给予。我",
-      "suppliedText": "c'est vrai j'ai des problèmes des défauts par centaines je n'ai pas le sens de vos valeur humaine moi je suis comme la vie je fais jamais de cadeau je",
-      "sourceLineId": "moliere-timed-323",
+      "sourceLineId": "moliere-le-spectacle-musical-05-001",
+      "sourceLineIndex": 1,
+      "lineIndex": 1,
+      "sourceText": "C'est vrai j'ai des problèmes, des défauts par centaines",
+      "ipa": "[sɛ vʁɛ ʒe de pʁɔblɛm de defo paʁ sɑ̃tɛn]",
+      "ear": "塞 弗赫 热 德 普霍布莱姆 德 德佛 帕赫 桑泰恩",
+      "meaning": "我确实问题缠身，有千百条缺痕",
+      "suppliedText": "C'est vrai j'ai des problèmes, des défauts par centaine",
+      "sourceIPA": "/sɛ vʁɛ ʒe de pʁɔblɛm de defo paʁ sɑ̃tɛn/",
+      "sourceMeaning": "我确实问题缠身，有千百条缺痕",
+      "speaker": "",
+      "start": 10.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 10,
-        "sourceLineNumber": 323,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          323
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Sais qu'c'est pas joli, mais moi non plus, j'suis pas beau. J'm'en fous si on me déteste. Personne jamais ne m'aimera",
-      "start": 20,
-      "ipa": "[sɛ kə sɛ pa ʒoli mɛ mwa nɔ̃ ply ʒsɥi pa bo ʒə mɑ̃ fu si ɔ̃ mə detɛst pɛʁsɔn ʒamɛ nə mɛmʁa]",
-      "ear": "塞 克 塞 帕 若利 梅 姆乌阿 农 普吕 日斯于伊 帕 博 热 芒 富 西 翁 默 德泰斯特 佩赫索恩 扎梅 讷 梅姆哈",
-      "meaning": "知道这并不好看，可我也不美。我不在乎别人讨厌我。不会有人爱我",
-      "suppliedText": "sais que c'est pas joli mais moi non plus je suis pas pour je m'f on me déteste personne jamais ne m'aimera",
-      "sourceLineId": "moliere-timed-324",
+      "sourceLineId": "moliere-le-spectacle-musical-05-002",
+      "sourceLineIndex": 2,
+      "lineIndex": 2,
+      "sourceText": "Je n'ai pas le sens, non, de vos valeurs humaines",
+      "ipa": "[ʒə ne pa lə sɑ̃s nɔ̃ də vo valœʁ‿ymɛn]",
+      "ear": "热 内 帕 勒 桑斯 农 德 沃 瓦勒厄赫 于梅恩",
+      "meaning": "恕我无法感知，您所谓的人世价值",
+      "suppliedText": "Je n'ai pas le sens, non, de vos valeurs humaines",
+      "sourceIPA": "/ʒə ne pa lə sɑ̃s nɔ̃ də vo valœʁz ymɛn/",
+      "sourceMeaning": "恕我无法感知，您所谓的人世价值",
+      "speaker": "",
+      "start": 13.333,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 20,
-        "sourceLineNumber": 324,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          323
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Moins que moi, non. J'ai tout raté, je l'atteste, mais il me reste ce que vous ne voyez pas.",
-      "start": 27,
-      "ipa": "[mwɛ̃ kə mwa nɔ̃ ʒe tu ʁate ʒə latɛst mɛ il mə ʁɛst sə kə vu nə vwaje pa]",
-      "ear": "姆乌安 克 姆乌阿 农 热 图 哈特 热 拉泰斯特 梅 伊勒 默 赫斯特 瑟 克 乌 讷 弗乌阿耶诶 帕",
-      "meaning": "比我自己更少。我承认，我把一切都搞砸了，可我还保有你们看不见的东西。",
-      "suppliedText": "moins que moi t dé jeux la testa mais il me reste ce que vous voyez pas",
-      "sourceLineId": "moliere-timed-325",
+      "sourceLineId": "moliere-le-spectacle-musical-05-003",
+      "sourceLineIndex": 3,
+      "lineIndex": 3,
+      "sourceText": "Moi je suis comme la vie, j'fais jamais de cadeau",
+      "ipa": "[mwa ʒə sɥi kɔm la vi ʒə fɛ ʒamɛ də kado]",
+      "ear": "姆乌阿 热 斯于伊 科姆 拉 维 热 费 扎梅 德 卡多",
+      "meaning": "我就像是生活，不会无私赠予",
+      "suppliedText": "Moi je suis comme la vie, j'fais jamais de cadeau",
+      "sourceIPA": "/mwa ʒə sɥi kɔm la vi ʒfɛ ʒamɛ də kado/",
+      "sourceMeaning": "我就像是生活，不会无私赠予",
+      "speaker": "",
+      "start": 16.364,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 27,
-        "sourceLineNumber": 325,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          323
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Regardez-moi, ne vous détournez pas. L'indifférence a le regard",
-      "start": 36,
-      "ipa": "[ʁəɡaʁdemwa nə vu detuʁne pa lɛ̃difeʁɑ̃s‿a lə ʁəɡaʁ]",
-      "ear": "赫嘎赫德姆乌阿 讷 乌 德图赫内 帕 兰迪费杭斯 阿 勒 赫嘎赫",
-      "meaning": "看看我，别转过身去。冷漠有一种目光，",
-      "suppliedText": "regardez-moi ne vous détournez pas l'indifférence à le regard",
-      "sourceLineId": "moliere-timed-326",
+      "sourceLineId": "moliere-le-spectacle-musical-05-004",
+      "sourceLineIndex": 4,
+      "lineIndex": 4,
+      "sourceText": "Je sais qu'c'est pas joli, mais moi non plus j'suis pas beau",
+      "ipa": "[ʒə sɛ kə sɛ pa ʒoli mɛ mwa nɔ̃ ply ʒə sɥi pa bo]",
+      "ear": "热 塞 克 塞 帕 若利 梅 姆乌阿 农 普吕 热 斯于伊 帕 博",
+      "meaning": "我知道这并不好看，可我也不美。",
+      "suppliedText": "Je sais qu'c'est pas jolie, mais moi non plus j'suis pas beau",
+      "sourceIPA": "/ʒə sɛ kwkɛst pa ʒoli mɛ mwa nɔ̃ ply ʒsɥi pa bo/",
+      "sourceMeaning": "我知道生活并不美丽，而我自己更加丑陋",
+      "speaker": "",
+      "start": 19.697,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 36,
-        "sourceLineNumber": 326,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          323,
+          324
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Qui tue, à la larme et la manière. Regardez-moi, oui, mais",
-      "start": 42,
-      "ipa": "[ki ty a la laʁm e la manjɛʁ ʁəɡaʁdemwa wi mɛ]",
-      "ear": "基 蒂于 阿 拉 拉赫姆 诶 拉 玛恩耶艾赫 赫嘎赫德姆乌阿 乌伊 梅",
-      "meaning": "足以致命，连同眼泪与方式。看看我，是的，但请",
-      "suppliedText": "qui tu es l'alarme et la manière à regardez-moi oui mais",
-      "sourceLineId": "moliere-timed-327",
+      "sourceLineId": "moliere-le-spectacle-musical-05-005",
+      "sourceLineIndex": 5,
+      "lineIndex": 5,
+      "sourceText": "J'm'en fous si on me déteste",
+      "ipa": "[ʒə mɑ̃ fu si ɔ̃ mə detɛst]",
+      "ear": "热 芒 富 西 翁 默 德泰斯特",
+      "meaning": "我不在乎别人讨厌我",
+      "suppliedText": "J'm'en fous si on me déteste",
+      "sourceIPA": "/dʒeɪmɛn fu si ɔ̃ mə detɛst/",
+      "sourceMeaning": "我不在乎别人讨厌我",
+      "speaker": "",
+      "start": 23.63,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 42,
-        "sourceLineNumber": 327,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          324
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Déshabillez-moi. Dévêtue, mon âme s'évertue à retrouver la lumière. J'suis votre mauvais côté, tout",
-      "start": 51,
-      "ipa": "[dezabijemwa devɛty mɔ̃n‿am sevɛʁty a ʁətʁuve la lymjɛʁ ʒsɥi votʁ movɛ kote tu]",
-      "ear": "德扎比耶诶姆乌阿 德韦蒂于 蒙恩 阿姆 塞韦赫蒂于 阿 赫特胡韦 拉 吕姆耶艾赫 日斯于伊 沃特赫 莫韦 科特 图",
-      "meaning": "褪去我的外衣。赤裸的灵魂努力寻找光明。我是你们阴暗的一面，是一切",
-      "suppliedText": "dapz-moi tes vêtu mon âme ses vertue àou la lumière jeis votre mauvais côté tout",
-      "sourceLineId": "moliere-timed-329",
+      "sourceLineId": "moliere-le-spectacle-musical-05-006",
+      "sourceLineIndex": 6,
+      "lineIndex": 6,
+      "sourceText": "Personne jamais ne m'aimera moins que moi, non",
+      "ipa": "[pɛʁsɔn ʒamɛ nə mɛmʁa mwɛ̃ kə mwa nɔ̃]",
+      "ear": "佩赫索恩 扎梅 讷 梅姆哈 姆乌安 克 姆乌阿 农",
+      "meaning": "不会有人比我更不爱我自己",
+      "suppliedText": "Personne jamais ne m'aimera moins que moi, non",
+      "sourceIPA": "/pɛʁsɔn ʒamɛ nə mɛmʁa mwɛ̃ kə mwa nɔ̃/",
+      "sourceMeaning": "不会有人比我更不爱我自己",
+      "speaker": "",
+      "start": 25.704,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 51,
-        "sourceLineNumber": 329,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          324,
+          325
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Ce que vous n'osez pas. J'ai perdu ma bonté, mais je suis pas né comme ça. Tout ce que j'fais, c'est moche, mais le monde est plus laid que moi. Faut que je vide",
-      "start": 60,
-      "ipa": "[sə kə vu noze pa ʒe pɛʁdy ma bɔ̃te mɛ ʒə sɥi pa ne kɔm sa tu sə kə ʒfɛ sɛ mɔʃ mɛ lə mɔ̃d‿ɛ ply lɛd kə mwa fo kə ʒə vid]",
-      "ear": "瑟 克 乌 诺泽 帕 热 佩赫迪于 玛 崩特 梅 热 斯于伊 帕 内 科姆 萨 图 瑟 克 日费 塞 莫什 梅 勒 蒙德 艾 普吕 莱德 克 姆乌阿 佛 克 热 维德",
-      "meaning": "你们不敢做的事。我失去了善良，可我并非生来如此。我做的一切很丑陋，可世界比我更丑。我得掏空",
-      "suppliedText": "ce que vous n'osez pas j'ai perdu ma bonté mais je suis pas né comme ça tout ce que je fais c'est moche mais le monde est plus lait que moi faut que je vis",
-      "sourceLineId": "moliere-timed-330",
+      "sourceLineId": "moliere-le-spectacle-musical-05-007",
+      "sourceLineIndex": 7,
+      "lineIndex": 7,
+      "sourceText": "J'ai tout raté je l'atteste",
+      "ipa": "[ʒe tu ʁate ʒə latɛst]",
+      "ear": "热 图 哈特 热 拉泰斯特",
+      "meaning": "我搞砸这一切，我承认",
+      "suppliedText": "J'ai tout raté je l'atteste",
+      "sourceIPA": "/ʒe tu ʁate ʒə latɛst/",
+      "sourceMeaning": "我搞砸这一切，我承认",
+      "speaker": "",
+      "start": 28.714,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 60,
-        "sourceLineNumber": 330,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          325
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Mes poches pour racheter mes faux pas. Paraît qu'j'en vaux pas la peine ; moi, la peine, je la porte déjà. Les démons qui me",
-      "start": 68,
-      "ipa": "[me poʃ puʁ ʁaʃte me fo pa paʁɛ kə ʒɑ̃ vo pa la pɛn mwa la pɛn ʒə la pɔʁt deʒa le demɔ̃ ki mə]",
-      "ear": "梅 波什 普赫 哈什特 梅 佛 帕 帕赫 克 让 沃 帕 拉 佩恩 姆乌阿 拉 佩恩 热 拉 珀赫特 德扎 莱 德蒙 基 默",
-      "meaning": "口袋，赎回自己的过错。听说我不值得，可我早已承受着痛苦。那些折磨我的恶魔",
-      "suppliedText": "mes poches pour racheter mes faux pas par ex j'emp faut pas la peine moi la peine je la porte déjà les démons qui me",
-      "sourceLineId": "moliere-timed-331",
+      "sourceLineId": "moliere-le-spectacle-musical-05-008",
+      "sourceLineIndex": 8,
+      "lineIndex": 8,
+      "sourceText": "Mais il me reste, ce que vous ne voyez pas",
+      "ipa": "[mɛ il mə ʁɛst sə kə vu nə vwaje pa]",
+      "ear": "梅 伊勒 默 赫斯特 瑟 克 乌 讷 弗乌阿耶诶 帕",
+      "meaning": "可我还保有你们看不见的东西。",
+      "suppliedText": "Mais il me reste, ce que vous ne voyez pas",
+      "sourceIPA": "/mɛz il mə ʁɛst sə kə vu nə vwaje pa/",
+      "sourceMeaning": "但我仍有，你未曾见过的模样",
+      "speaker": "",
+      "start": 31.714,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 68,
-        "sourceLineNumber": 331,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          325
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Malmènent me ramènent à ce que je ne veux pas. Regardez-moi, ne vous",
-      "start": 77,
-      "ipa": "[malmɛn mə ʁamɛn‿a sə kə ʒə nə vø pa ʁəɡaʁdemwa nə vu]",
-      "ear": "玛勒梅恩 默 哈梅恩 阿 瑟 克 热 讷 弗厄 帕 赫嘎赫德姆乌阿 讷 乌",
-      "meaning": "把我带回不愿面对的地方。看看我，别",
-      "suppliedText": "malmènent qui me ramènent à ce que je ne veux pas regardez-moi ne vous",
-      "sourceLineId": "moliere-timed-332",
+      "sourceLineId": "moliere-le-spectacle-musical-05-009",
+      "sourceLineIndex": 9,
+      "lineIndex": 9,
+      "sourceText": "Regardez-moi, ne vous détournez pas",
+      "ipa": "[ʁəɡaʁdemwa nə vu detuʁne pa]",
+      "ear": "赫嘎赫德姆乌阿 讷 乌 德图赫内 帕",
+      "meaning": "看看我吧，请您不要背身而去",
+      "suppliedText": "Regardez-moi, ne vous détournez pas",
+      "sourceIPA": "/ʁəɡaʁdemwa nə vu detuʁne pa/",
+      "sourceMeaning": "看看我吧，请您不要背身而去",
+      "speaker": "",
+      "start": 36.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 77,
-        "sourceLineNumber": 332,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          326
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Détournez pas. L'indifférence a le regard qui tue, à la larme et la",
-      "start": 85,
-      "ipa": "[detuʁne pa lɛ̃difeʁɑ̃s‿a lə ʁəɡaʁ ki ty a la laʁm e la]",
-      "ear": "德图赫内 帕 兰迪费杭斯 阿 勒 赫嘎赫 基 蒂于 阿 拉 拉赫姆 诶 拉",
-      "meaning": "转过身去。冷漠的目光足以致命，连同眼泪与",
-      "suppliedText": "détournez pas l'indifférence à le regard qui et tu es l'alarme et la",
-      "sourceLineId": "moliere-timed-333",
+      "sourceLineId": "moliere-le-spectacle-musical-05-010",
+      "sourceLineIndex": 10,
+      "lineIndex": 10,
+      "sourceText": "L'indifférence a le regard qui tue, à la larme et la manière",
+      "ipa": "[lɛ̃difeʁɑ̃s‿a lə ʁəɡaʁ ki ty a la laʁm e la manjɛʁ]",
+      "ear": "兰迪费杭斯 阿 勒 赫嘎赫 基 蒂于 阿 拉 拉赫姆 诶 拉 玛恩耶艾赫",
+      "meaning": "冷漠的目光足以致命，连同眼泪与方式。",
+      "suppliedText": "L'indifférence a le regard qui tue, à la larme et la manière",
+      "sourceIPA": "/lɛ̃difeʁɑ̃s a lə ʁəɡaʁ ki ty a la laʁm e la manjɛʁ/",
+      "sourceMeaning": "您致命的目光冷漠如霜，暗藏锋刃，却佯装风雅",
+      "speaker": "",
+      "start": 39.273,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 85,
-        "sourceLineNumber": 333,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          326,
+          327
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Manière. Regardez-moi, oui, mais déshabillez-moi. Dévêtue, mon âme s'évertue à retrouver",
-      "start": 92,
-      "ipa": "[manjɛʁ ʁəɡaʁdemwa wi mɛ dezabijemwa devɛty mɔ̃n‿am sevɛʁty a ʁətʁuve]",
-      "ear": "玛恩耶艾赫 赫嘎赫德姆乌阿 乌伊 梅 德扎比耶诶姆乌阿 德韦蒂于 蒙恩 阿姆 塞韦赫蒂于 阿 赫特胡韦",
-      "meaning": "方式。看看我，但请褪去我的外衣。赤裸的灵魂努力找回",
-      "suppliedText": "manière regardez-moi oui mais çai tu vêtu mon âme s vertu à retrouveré",
-      "sourceLineId": "moliere-timed-334",
+      "sourceLineId": "moliere-le-spectacle-musical-05-011",
+      "sourceLineIndex": 11,
+      "lineIndex": 11,
+      "sourceText": "Regardez-moi, oui mais déshabillez-moi",
+      "ipa": "[ʁəɡaʁdemwa wi mɛ dezabijemwa]",
+      "ear": "赫嘎赫德姆乌阿 乌伊 梅 德扎比耶诶姆乌阿",
+      "meaning": "看看我吧，请卸下我的衣装吧",
+      "suppliedText": "Regardez-moi, oui mais déshabillez moi",
+      "sourceIPA": "/ʁəɡaʁdemwa wi mɛ dezabije mwa/",
+      "sourceMeaning": "看看我吧，请卸下我的衣装吧",
+      "speaker": "",
+      "start": 46.667,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 92,
-        "sourceLineNumber": 334,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          327,
+          329
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "La lumière. Douce folie, c'est notre dernière danse. C'en est fini de ces nuits",
-      "start": 103,
-      "ipa": "[la lymjɛʁ dus foli sɛ notʁ dɛʁnjɛʁ dɑ̃s sɑ̃ ɛ fini də se nɥi]",
-      "ear": "拉 吕姆耶艾赫 杜斯 佛利 塞 诺特赫 戴赫恩耶艾赫 当斯 桑 艾 菲尼 德 塞 恩于伊",
-      "meaning": "光明。温柔的疯狂，这是我们最后一支舞。那些夜晚已经结束，那些",
-      "suppliedText": "ta lumière tout ce folie c'est notre dernière danse on est finie de C nuit",
-      "sourceLineId": "moliere-timed-335",
+      "sourceLineId": "moliere-le-spectacle-musical-05-012",
+      "sourceLineIndex": 12,
+      "lineIndex": 12,
+      "sourceText": "Dévêtue, mon âme s'évertue à retrouver la lumière",
+      "ipa": "[devɛty mɔ̃n‿am sevɛʁty a ʁətʁuve la lymjɛʁ]",
+      "ear": "德韦蒂于 蒙恩 阿姆 塞韦赫蒂于 阿 赫特胡韦 拉 吕姆耶艾赫",
+      "meaning": "赤裸的灵魂努力找回光明。",
+      "suppliedText": "Dévêtue, mon âme s'évertu, à retrouver la lumière",
+      "sourceIPA": "/devɛty mɔ̃n am sevɛʁty a ʁətʁuve la lymjɛʁ/",
+      "sourceMeaning": "唯有肉身赤裸，我的灵魂才能奋力寻找亮光",
+      "speaker": "",
+      "start": 52.059,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 103,
-        "sourceLineNumber": 335,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          329
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "D'indécence, car aujourd'hui, je tire ma révérence. J'n'ai plus besoin de toi. Toi,",
-      "start": 110,
-      "ipa": "[dɛ̃desɑ̃s kaʁ‿oʒuʁdɥi ʒə tiʁ ma ʁeveʁɑ̃s ʒə ne ply bəzwɛ̃ də twa twa]",
-      "ear": "丹德桑斯 卡赫 奥茹赫德于伊 热 蒂赫 玛 赫韦杭斯 热 内 普吕 伯兹乌安 德 特乌阿 特乌阿",
-      "meaning": "放纵的夜晚，因为今天我要退场。我不再需要你。你，",
-      "suppliedText": "d'ind desence car aujourd'hui je tire ma révérence je n'ai plus besoin de toi toi",
-      "sourceLineId": "moliere-timed-336",
+      "sourceLineId": "moliere-le-spectacle-musical-05-013",
+      "sourceLineIndex": 13,
+      "lineIndex": 13,
+      "sourceText": "J'suis votre mauvais côté, tout ce que vous n'osez pas",
+      "ipa": "[ʒə sɥi votʁ movɛ kote tu sə kə vu noze pa]",
+      "ear": "热 斯于伊 沃特赫 莫韦 科特 图 瑟 克 乌 诺泽 帕",
+      "meaning": "我是你们阴暗的一面，是你们不敢做的一切。",
+      "suppliedText": "J'suis votre mauvais côté, tout ce que vous n'osez pas",
+      "sourceIPA": "/ʒsɥi votʁ movɛ kote tu sə kə vu noze pa/",
+      "sourceMeaning": "我是您的阴暗面，您恐惧的一切",
+      "speaker": "",
+      "start": 56.824,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 110,
-        "sourceLineNumber": 336,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          329,
+          330
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Ma folie, rends-moi mon innocence, rends-moi l'envie, et de ma vie le sens. Tu m'as promis un jour ma délivrance. Je n'ai plus",
-      "start": 117,
-      "ipa": "[ma foli ʁɑ̃mwa mɔ̃n‿inosɑ̃s ʁɑ̃mwa lɑ̃vi e də ma vi lə sɑ̃s ty ma pʁomi œ̃ ʒuʁ ma delivʁɑ̃s ʒə ne ply]",
-      "ear": "玛 佛利 杭姆乌阿 蒙恩 伊诺桑斯 杭姆乌阿 朗维 诶 德 玛 维 勒 桑斯 蒂于 玛 普霍米 恩 茹赫 玛 德利弗杭斯 热 内 普吕",
-      "meaning": "我的疯狂，还我纯真，还我渴望，还我人生的意义。你曾许诺终有一天让我解脱。我不再",
-      "suppliedText": "ma folie rends-moi mon innocence moi l'envie et de ma vie le sens tu m'as promis un jour ma délivrant je n'ai plus",
-      "sourceLineId": "moliere-timed-337",
+      "sourceLineId": "moliere-le-spectacle-musical-05-014",
+      "sourceLineIndex": 14,
+      "lineIndex": 14,
+      "sourceText": "J'ai perdu ma bonté, mais je suis pas né comme ça",
+      "ipa": "[ʒe pɛʁdy ma bɔ̃te mɛ ʒə sɥi pa ne kɔm sa]",
+      "ear": "热 佩赫迪于 玛 崩特 梅 热 斯于伊 帕 内 科姆 萨",
+      "meaning": "我抛下我的善心，但我不是天生如此",
+      "suppliedText": "J'ai perdu ma bonté, mais je suis pas né comme ça",
+      "sourceIPA": "/ʒe pɛʁdy ma bɔ̃te mɛ ʒə sɥi pa ne kɔm sa/",
+      "sourceMeaning": "我抛下我的善心，但我不是天生如此",
+      "speaker": "",
+      "start": 61.263,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 117,
-        "sourceLineNumber": 337,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          330
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Besoin de toi. Regardez-moi, non, ne vous détournez pas.",
-      "start": 126,
-      "ipa": "[bəzwɛ̃ də twa ʁəɡaʁdemwa nɔ̃ nə vu detuʁne pa]",
-      "ear": "伯兹乌安 德 特乌阿 赫嘎赫德姆乌阿 农 讷 乌 德图赫内 帕",
-      "meaning": "需要你。看看我，不，别转过身去。",
-      "suppliedText": "besoin de toi regardez-moi non ne vous détournez pas",
-      "sourceLineId": "moliere-timed-338",
+      "sourceLineId": "moliere-le-spectacle-musical-05-015",
+      "sourceLineIndex": 15,
+      "lineIndex": 15,
+      "sourceText": "Tout ce que j'fais c'est moche, mais le monde est plus laid que moi",
+      "ipa": "[tu sə kə ʒə fɛ sɛ mɔʃ mɛ lə mɔ̃d‿ɛ ply lɛd kə mwa]",
+      "ear": "图 瑟 克 热 费 塞 莫什 梅 勒 蒙德 艾 普吕 莱德 克 姆乌阿",
+      "meaning": "我所做一切看似丑恶，但世界丑恶更甚",
+      "suppliedText": "Tout ce que j'fais c'est moche, mais le monde est plus laid que moi",
+      "sourceIPA": "/tu sə kə ʒfɛ sɛ mɔʃ mɛ lə mɔ̃d ɛ ply lɛd kə mwa/",
+      "sourceMeaning": "我所做一切看似丑恶，但世界丑恶更甚",
+      "speaker": "",
+      "start": 63.789,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 126,
-        "sourceLineNumber": 338,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          330
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "L'indifférence a le regard qui tue, à la larme et la manière. Regardez-moi,",
-      "start": 134,
-      "ipa": "[lɛ̃difeʁɑ̃s‿a lə ʁəɡaʁ ki ty a la laʁm e la manjɛʁ ʁəɡaʁdemwa]",
-      "ear": "兰迪费杭斯 阿 勒 赫嘎赫 基 蒂于 阿 拉 拉赫姆 诶 拉 玛恩耶艾赫 赫嘎赫德姆乌阿",
-      "meaning": "冷漠的目光足以致命，连同眼泪与方式。看看我，",
-      "suppliedText": "l' indifférence à le regard qui tu l'alarme et la manière regardez-moi",
-      "sourceLineId": "moliere-timed-339",
+      "sourceLineId": "moliere-le-spectacle-musical-05-016",
+      "sourceLineIndex": 16,
+      "lineIndex": 16,
+      "sourceText": "Faut que je vide mes poches, pour racheter mes faux pas",
+      "ipa": "[fo kə ʒə vid me poʃ puʁ ʁaʃte me fo pa]",
+      "ear": "佛 克 热 维德 梅 波什 普赫 哈什特 梅 佛 帕",
+      "meaning": "我必须倾其所有，来弥补我的过错",
+      "suppliedText": "Faut que je vide mes poches, pour racheter mes faux-pas",
+      "sourceIPA": "/fo kə ʒə vid me poʃ puʁ ʁaʃte me fopa/",
+      "sourceMeaning": "我必须倾其所有，来弥补我的过错",
+      "speaker": "",
+      "start": 67.158,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 134,
-        "sourceLineNumber": 339,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          330,
+          331
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Oui, mais déshabillez-moi. Dévêtue, mon âme s'évertue à",
-      "start": 142,
-      "ipa": "[wi mɛ dezabijemwa devɛty mɔ̃n‿am sevɛʁty a]",
-      "ear": "乌伊 梅 德扎比耶诶姆乌阿 德韦蒂于 蒙恩 阿姆 塞韦赫蒂于 阿",
-      "meaning": "是的，但请褪去我的外衣。赤裸的灵魂努力",
-      "suppliedText": "oui mais moi t vêtu mon âme ses vert à",
-      "sourceLineId": "moliere-timed-340",
+      "sourceLineId": "moliere-le-spectacle-musical-05-017",
+      "sourceLineIndex": 17,
+      "lineIndex": 17,
+      "sourceText": "Paraît qu'j'en vaux pas la peine, moi la peine je la porte déjà, ouais",
+      "ipa": "[paʁɛ kə ʒɑ̃ vo pa la pɛn mwa la pɛn ʒə la pɔʁt deʒa wɛ]",
+      "ear": "帕赫 克 让 沃 帕 拉 佩恩 姆乌阿 拉 佩恩 热 拉 珀赫特 德扎 乌艾",
+      "meaning": "听说我不值得，可我早已承受着痛苦。",
+      "suppliedText": "Paraît qu'j'en vaut pas la peine, moi la peine je la porte déjà, ouais",
+      "sourceIPA": "/paʁɛ kwdʒɛn vo pa la pɛn mwa la pɛn ʒə la pɔʁt deʒa wɛ/",
+      "sourceMeaning": "看起来我并不值得，我已经背上了责罚，对",
+      "speaker": "",
+      "start": 70.423,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 142,
-        "sourceLineNumber": 340,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          331
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Retrouver la",
-      "start": 149,
-      "ipa": "[ʁətʁuve la]",
-      "ear": "赫特胡韦 拉",
-      "meaning": "寻找",
-      "suppliedText": "retrouver la",
-      "sourceLineId": "moliere-timed-341",
+      "sourceLineId": "moliere-le-spectacle-musical-05-018",
+      "sourceLineIndex": 18,
+      "lineIndex": 18,
+      "sourceText": "Les démons qui me malmènent, me ramènent à ce que je ne veux pas",
+      "ipa": "[le demɔ̃ ki mə malmɛn mə ʁamɛn‿a sə kə ʒə nə vø pa]",
+      "ear": "莱 德蒙 基 默 玛勒梅恩 默 哈梅恩 阿 瑟 克 热 讷 弗厄 帕",
+      "meaning": "是恶魔将我欺侮，将我带回我不愿面对的过往",
+      "suppliedText": "Les démons qui me malmènent, me ramènent à ce que je ne veux pas",
+      "sourceIPA": "/le demɔ̃ ki mə malmɛn mə ʁamɛnt a sə kə ʒə nə vø pa/",
+      "sourceMeaning": "是恶魔将我欺侮，将我带回我不愿面对的过往",
+      "speaker": "",
+      "start": 75.615,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 149,
-        "sourceLineNumber": 341,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          331,
+          332
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Lumière.",
-      "start": 163,
-      "ipa": "[lymjɛʁ]",
-      "ear": "吕姆耶艾赫",
-      "meaning": "光明。",
-      "suppliedText": "lumière au nom du Père du Fils et du Saint-Esprit nous vous accueillons",
-      "sourceLineId": "moliere-timed-342",
+      "sourceLineId": "moliere-le-spectacle-musical-05-019",
+      "sourceLineIndex": 19,
+      "lineIndex": 19,
+      "sourceText": "Regardez-moi, ne vous détournez pas",
+      "ipa": "[ʁəɡaʁdemwa nə vu detuʁne pa]",
+      "ear": "赫嘎赫德姆乌阿 讷 乌 德图赫内 帕",
+      "meaning": "看看我吧，请您不要背身而去",
+      "suppliedText": "Regardez-moi, ne vous détournez pas",
+      "sourceIPA": "/ʁəɡaʁdemwa nə vu detuʁne pa/",
+      "sourceMeaning": "看看我吧，请您不要背身而去",
+      "speaker": "",
+      "start": 82.714,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 163,
-        "sourceLineNumber": 342,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          332,
+          333
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Regardez-moi, oui, mais déshabillez-moi. Dévêtue, mon âme s'évertue à",
-      "start": 186,
-      "ipa": "[ʁəɡaʁdemwa wi mɛ dezabijemwa devɛty mɔ̃n‿am sevɛʁty a]",
-      "ear": "赫嘎赫德姆乌阿 乌伊 梅 德扎比耶诶姆乌阿 德韦蒂于 蒙恩 阿姆 塞韦赫蒂于 阿",
-      "meaning": "看看我，但请褪去我的外衣。赤裸的灵魂努力",
-      "suppliedText": "catholique regardez-moi oui mais désabz-moi t vêtu mon âme s vertue à",
-      "sourceLineId": "moliere-timed-345",
+      "sourceLineId": "moliere-le-spectacle-musical-05-020",
+      "sourceLineIndex": 20,
+      "lineIndex": 20,
+      "sourceText": "L'indifférence a le regard qui tue, à la larme et la manière",
+      "ipa": "[lɛ̃difeʁɑ̃s‿a lə ʁəɡaʁ ki ty a la laʁm e la manjɛʁ]",
+      "ear": "兰迪费杭斯 阿 勒 赫嘎赫 基 蒂于 阿 拉 拉赫姆 诶 拉 玛恩耶艾赫",
+      "meaning": "冷漠的目光足以致命，连同眼泪与方式。",
+      "suppliedText": "L'indifférence a le regard qui tue, à la larme et la manière",
+      "sourceIPA": "/lɛ̃difeʁɑ̃s a lə ʁəɡaʁ ki ty a la laʁm e la manjɛʁ/",
+      "sourceMeaning": "您致命的目光冷漠如霜，暗藏锋刃，却佯装风雅",
+      "speaker": "",
+      "start": 86.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 186,
-        "sourceLineNumber": 345,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          333,
+          334
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Retrouver la lumière.",
-      "start": 196,
-      "ipa": "[ʁətʁuve la lymjɛʁ]",
-      "ear": "赫特胡韦 拉 吕姆耶艾赫",
-      "meaning": "找回光明。",
-      "suppliedText": "retrouvé ta lumière",
-      "sourceLineId": "moliere-timed-346",
+      "sourceLineId": "moliere-le-spectacle-musical-05-021",
+      "sourceLineIndex": 21,
+      "lineIndex": 21,
+      "sourceText": "Regardez-moi, oui mais déshabillez-moi",
+      "ipa": "[ʁəɡaʁdemwa wi mɛ dezabijemwa]",
+      "ear": "赫嘎赫德姆乌阿 乌伊 梅 德扎比耶诶姆乌阿",
+      "meaning": "看看我吧，请卸下我的衣装吧",
+      "suppliedText": "Regardez-moi, oui mais déshabillez moi",
+      "sourceIPA": "/ʁəɡaʁdemwa wi mɛ dezabije mwa/",
+      "sourceMeaning": "看看我吧，请卸下我的衣装吧",
+      "speaker": "",
+      "start": 92.786,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 196,
-        "sourceLineNumber": 346,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          334
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-05-022",
+      "sourceLineIndex": 22,
+      "lineIndex": 22,
+      "sourceText": "Dévêtue, mon âme s'évertue à retrouver la lumière",
+      "ipa": "[devɛty mɔ̃n‿am sevɛʁty a ʁətʁuve la lymjɛʁ]",
+      "ear": "德韦蒂于 蒙恩 阿姆 塞韦赫蒂于 阿 赫特胡韦 拉 吕姆耶艾赫",
+      "meaning": "赤裸的灵魂努力找回光明。",
+      "suppliedText": "Dévêtue, mon âme s'évertu, à retrouver la lumière",
+      "sourceIPA": "/devɛty mɔ̃n am sevɛʁty a ʁətʁuve la lymjɛʁ/",
+      "sourceMeaning": "唯有肉身赤裸，我的灵魂才能奋力寻找亮光",
+      "speaker": "",
+      "start": 97.5,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          334,
+          335
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-05-023",
+      "sourceLineIndex": 23,
+      "lineIndex": 23,
+      "sourceText": "Douce folie, c'est notre dernière danse",
+      "ipa": "[dus foli sɛ notʁ dɛʁnjɛʁ dɑ̃s]",
+      "ear": "杜斯 佛利 塞 诺特赫 戴赫恩耶艾赫 当斯",
+      "meaning": "温柔的疯狂，这是我们最后一支舞。",
+      "suppliedText": "Douce folie, c'est notre dernière danse",
+      "sourceIPA": "/dus foli sɛ notʁ dɛʁnjɛʁ dɑ̃s/",
+      "sourceMeaning": "轻度疯狂，这是我们最后一支舞",
+      "speaker": "",
+      "start": 103.875,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          335
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-05-024",
+      "sourceLineIndex": 24,
+      "lineIndex": 24,
+      "sourceText": "C'en est fini, de ces nuits d'indécence",
+      "ipa": "[sɑ̃ ɛ fini də se nɥi dɛ̃desɑ̃s]",
+      "ear": "桑 艾 菲尼 德 塞 恩于伊 丹德桑斯",
+      "meaning": "就这样结束，那些离经叛道的夜晚",
+      "suppliedText": "C'en est fini, de ces nuits d'indécence",
+      "sourceIPA": "/sɑ̃n ɛ fini də se nɥi dɛ̃desɑ̃s/",
+      "sourceMeaning": "就这样结束，那些离经叛道的夜晚",
+      "speaker": "",
+      "start": 106.938,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          335,
+          336
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-05-025",
+      "sourceLineIndex": 25,
+      "lineIndex": 25,
+      "sourceText": "Car aujourd'hui, je tire ma révérence",
+      "ipa": "[kaʁ‿oʒuʁdɥi ʒə tiʁ ma ʁeveʁɑ̃s]",
+      "ear": "卡赫 奥茹赫德于伊 热 蒂赫 玛 赫韦杭斯",
+      "meaning": "因为今天，我要告别退场。",
+      "suppliedText": "Car aujourd'hui, je tire ma révérence",
+      "sourceIPA": "/kaʁ oʒuʁdɥi ʒə tiʁ ma ʁeveʁɑ̃s/",
+      "sourceMeaning": "因为今天，我恐怕要说抱歉",
+      "speaker": "",
+      "start": 110.824,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          336
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-05-026",
+      "sourceLineIndex": 26,
+      "lineIndex": 26,
+      "sourceText": "J'n'ai plus besoin de toi",
+      "ipa": "[ʒə ne ply bəzwɛ̃ də twa]",
+      "ear": "热 内 普吕 伯兹乌安 德 特乌阿",
+      "meaning": "我不再需要你",
+      "suppliedText": "J'n'ai plus besoin de toi",
+      "sourceIPA": "/dʒeɪnaɪ ply bəzwɛ̃ də twa/",
+      "sourceMeaning": "我不再需要你",
+      "speaker": "",
+      "start": 113.706,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          336
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-05-027",
+      "sourceLineIndex": 27,
+      "lineIndex": 27,
+      "sourceText": "Toi ma folie, rends-moi mon innocence",
+      "ipa": "[twa ma foli ʁɑ̃mwa mɔ̃n‿inosɑ̃s]",
+      "ear": "特乌阿 玛 佛利 杭姆乌阿 蒙恩 伊诺桑斯",
+      "meaning": "你，我的疯狂，还我纯真。",
+      "suppliedText": "Toi ma folie, rends moi mon innocence",
+      "sourceIPA": "/twa ma foli ʁɑ̃ mwa mɔ̃n inosɑ̃s/",
+      "sourceMeaning": "你是我愚蠢的偏执，归还我的清白",
+      "speaker": "",
+      "start": 116.588,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          336,
+          337
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-05-028",
+      "sourceLineIndex": 28,
+      "lineIndex": 28,
+      "sourceText": "Rends-moi l'envie, et de ma vie le sens",
+      "ipa": "[ʁɑ̃mwa lɑ̃vi e də ma vi lə sɑ̃s]",
+      "ear": "杭姆乌阿 朗维 诶 德 玛 维 勒 桑斯",
+      "meaning": "还我渴望，还我人生的意义。",
+      "suppliedText": "Rends moi l'envie, et demain une vie de sens",
+      "sourceIPA": "/ʁɑ̃ mwa lɑ̃vi e dəmɛ̃ yn vi də sɑ̃s/",
+      "sourceMeaning": "归还我的欲望，还有我的生活意义",
+      "speaker": "",
+      "start": 118.929,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          337
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-05-029",
+      "sourceLineIndex": 29,
+      "lineIndex": 29,
+      "sourceText": "Tu m'as promis, un jour ma délivrance",
+      "ipa": "[ty ma pʁomi œ̃ ʒuʁ ma delivʁɑ̃s]",
+      "ear": "蒂于 玛 普霍米 恩 茹赫 玛 德利弗杭斯",
+      "meaning": "你曾许诺终有一天让我解脱。",
+      "suppliedText": "Tu m'as promis, un jour ma délivrance",
+      "sourceIPA": "/ty ma pʁomi œ̃ ʒuʁ ma delivʁɑ̃s/",
+      "sourceMeaning": "主答应过我，若有天我得到解脱",
+      "speaker": "",
+      "start": 122.143,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          337
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-05-030",
+      "sourceLineIndex": 30,
+      "lineIndex": 30,
+      "sourceText": "J'n'ai plus besoin de toi",
+      "ipa": "[ʒə ne ply bəzwɛ̃ də twa]",
+      "ear": "热 内 普吕 伯兹乌安 德 特乌阿",
+      "meaning": "我便不再需要你",
+      "suppliedText": "J'n'ai plus besoin de toi",
+      "sourceIPA": "/dʒeɪnaɪ ply bəzwɛ̃ də twa/",
+      "sourceMeaning": "我便不再需要你",
+      "speaker": "",
+      "start": 124.714,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          337,
+          338
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-05-031",
+      "sourceLineIndex": 31,
+      "lineIndex": 31,
+      "sourceText": "Regardez-moi, non, ne vous détournez pas",
+      "ipa": "[ʁəɡaʁdemwa nɔ̃ nə vu detuʁne pa]",
+      "ear": "赫嘎赫德姆乌阿 农 讷 乌 德图赫内 帕",
+      "meaning": "看看我吧，您别急着背身离去",
+      "suppliedText": "Regardez-moi, non, ne vous détournez pas",
+      "sourceIPA": "/ʁəɡaʁdemwa nɔ̃ nə vu detuʁne pa/",
+      "sourceMeaning": "看看我吧，您别急着背身离去",
+      "speaker": "",
+      "start": 128.4,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          338
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-05-032",
+      "sourceLineIndex": 32,
+      "lineIndex": 32,
+      "sourceText": "L'indifférence a le regard qui tue, à la larme et la manière",
+      "ipa": "[lɛ̃difeʁɑ̃s‿a lə ʁəɡaʁ ki ty a la laʁm e la manjɛʁ]",
+      "ear": "兰迪费杭斯 阿 勒 赫嘎赫 基 蒂于 阿 拉 拉赫姆 诶 拉 玛恩耶艾赫",
+      "meaning": "冷漠的目光足以致命，连同眼泪与方式。",
+      "suppliedText": "L'indifférence a le regard qui tue, à la larme et la manière",
+      "sourceIPA": "/lɛ̃difeʁɑ̃s a lə ʁəɡaʁ ki ty a la laʁm e la manjɛʁ/",
+      "sourceMeaning": "您致命的目光冷漠如霜，暗藏锋刃，却佯装风雅",
+      "speaker": "",
+      "start": 134.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          339
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-05-033",
+      "sourceLineIndex": 33,
+      "lineIndex": 33,
+      "sourceText": "Regardez-moi, oui mais déshabillez-moi",
+      "ipa": "[ʁəɡaʁdemwa wi mɛ dezabijemwa]",
+      "ear": "赫嘎赫德姆乌阿 乌伊 梅 德扎比耶诶姆乌阿",
+      "meaning": "看看我吧，请卸下我的衣装吧",
+      "suppliedText": "Regardez-moi, oui mais déshabillez moi",
+      "sourceIPA": "/ʁəɡaʁdemwa wi mɛ dezabije mwa/",
+      "sourceMeaning": "看看我吧，请卸下我的衣装吧",
+      "speaker": "",
+      "start": 140.933,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          339,
+          340
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-05-034",
+      "sourceLineIndex": 34,
+      "lineIndex": 34,
+      "sourceText": "Dévêtue, mon âme s'évertue à retrouver la lumière",
+      "ipa": "[devɛty mɔ̃n‿am sevɛʁty a ʁətʁuve la lymjɛʁ]",
+      "ear": "德韦蒂于 蒙恩 阿姆 塞韦赫蒂于 阿 赫特胡韦 拉 吕姆耶艾赫",
+      "meaning": "赤裸的灵魂努力找回光明。",
+      "suppliedText": "Dévêtue, mon âme s'évertu, à retrouver la lumière",
+      "sourceIPA": "/devɛty mɔ̃n am sevɛʁty a ʁətʁuve la lymjɛʁ/",
+      "sourceMeaning": "唯有肉身赤裸，我的灵魂才能奋力寻找亮光",
+      "speaker": "",
+      "start": 144.8,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          340,
+          341,
+          342
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-05-035",
+      "sourceLineIndex": 35,
+      "lineIndex": 35,
+      "sourceText": "Regardez-moi, oui mais déshabillez-moi",
+      "ipa": "[ʁəɡaʁdemwa wi mɛ dezabijemwa]",
+      "ear": "赫嘎赫德姆乌阿 乌伊 梅 德扎比耶诶姆乌阿",
+      "meaning": "看看我吧，请卸下我的衣装吧",
+      "suppliedText": "Regardez-moi, oui mais déshabillez moi",
+      "sourceIPA": "/ʁəɡaʁdemwa wi mɛ dezabije mwa/",
+      "sourceMeaning": "看看我吧，请卸下我的衣装吧",
+      "speaker": "",
+      "start": 186.714,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          345
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-05-036",
+      "sourceLineIndex": 36,
+      "lineIndex": 36,
+      "sourceText": "Dévêtue, mon âme s'évertue à retrouver la lumière",
+      "ipa": "[devɛty mɔ̃n‿am sevɛʁty a ʁətʁuve la lymjɛʁ]",
+      "ear": "德韦蒂于 蒙恩 阿姆 塞韦赫蒂于 阿 赫特胡韦 拉 吕姆耶艾赫",
+      "meaning": "赤裸的灵魂努力找回光明。",
+      "suppliedText": "Dévêtue, mon âme s'évertu, à retrouver la lumière",
+      "sourceIPA": "/devɛty mɔ̃n am sevɛʁty a ʁətʁuve la lymjɛʁ/",
+      "sourceMeaning": "唯有肉身赤裸，我的灵魂才能奋力寻找亮光",
+      "speaker": "",
+      "start": 191.357,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          345,
+          346
+        ],
+        "wordCoverage": 1.0
       }
     }
-  ],
-  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+  ]
 }

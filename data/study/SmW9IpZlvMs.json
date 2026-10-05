@@ -1,326 +1,1396 @@
 {
   "videoId": "SmW9IpZlvMs",
   "playbackVideoId": "SmW9IpZlvMs",
-  "version": 2,
-  "textSource": "user-supplied-auto-transcript",
-  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "spelling-and-grammar-edits",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "sourceFileSHA256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134",
+  "textReviewStatus": "cross-checked",
+  "textReviewScope": "supplied-lyrics-spelling-grammar-and-chinese-meaning",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
-  "meaningSource": "editorial-chinese-from-user-transcript",
-  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
+  "meaningSource": "reviewed-user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "note": "歌词依据你提供的完整文件校对，中文释义已修订。学习卡片按现有现场录像整理，完整歌词另行归档；≈ 表示依据原字幕估算的分句位置。音标与空耳为文字的参考读法。",
   "sources": [
     {
-      "label": "本段原唱录像",
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+    },
+    {
+      "label": "本曲现场录像",
       "url": "https://www.youtube.com/watch?v=SmW9IpZlvMs"
     }
   ],
   "entries": [
     {
-      "sourceText": "J'ai le droit. Libre à toi de vouloir assumer tes choix.",
-      "start": 8,
-      "ipa": "[ʒe lə dʁwa libʁ‿a twa də vulwaʁ‿asyme te ʃwa]",
-      "ear": "热 勒 德赫乌阿 利布赫 阿 特乌阿 德 乌勒乌阿赫 阿西于梅 特 什乌阿",
-      "meaning": "我有这个权利。你可以自由承担自己的选择。",
-      "suppliedText": "droit. Libre à toi de vouloir assumer tes joies.",
-      "sourceLineId": "moliere-timed-758",
+      "sourceLineId": "moliere-le-spectacle-musical-02-001",
+      "sourceLineIndex": 1,
+      "lineIndex": 1,
+      "sourceText": "Libre à moi de vivre comme je l'entends",
+      "ipa": "[libʁ‿a mwa də vivʁ kɔm ʒə lɑ̃tɑ̃]",
+      "ear": "利布赫 阿 姆乌阿 德 维弗赫 科姆 热 朗唐",
+      "meaning": "我可以自由地按自己的意愿生活。",
+      "suppliedText": "Libre à moi de vivre comme je l'entends",
+      "sourceIPA": "/libʁ a mwa də vivʁ kɔm ʒə lɑ̃tɑ̃/",
+      "sourceMeaning": "放开我 我想按我的想法活",
+      "speaker": "",
+      "start": 5.6,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 8,
-        "sourceLineNumber": 758,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          758
+        ],
+        "wordCoverage": 0.222
       }
     },
     {
-      "sourceText": "À quoi ça rime ? Dis-moi, à quoi ça rime quand on me pointe du doigt ? Quel est mon crime ? À quoi ça rime ? Dis-moi, à",
-      "start": 17,
-      "ipa": "[a kwa sa ʁim dimwa a kwa sa ʁim kɑ̃t‿ɔ̃ mə pwɛ̃t dy dwa kɛl‿ɛ mɔ̃ kʁim a kwa sa ʁim dimwa a]",
-      "ear": "阿 克乌阿 萨 希姆 迪姆乌阿 阿 克乌阿 萨 希姆 康特 翁 默 普乌安特 迪于 德乌阿 凯勒 艾 蒙 克希姆 阿 克乌阿 萨 希姆 迪姆乌阿 阿",
-      "meaning": "这有什么意义？告诉我，被人指责究竟有什么意义？我犯了什么罪？告诉我，这有",
-      "suppliedText": "À quoi ça rime ? Dis-moi à quoi ça rime quand on me pointe du doigt ? Quel est mon crime ? À quoi ça rime ? Dis-moi",
-      "sourceLineId": "moliere-timed-759",
+      "sourceLineId": "moliere-le-spectacle-musical-02-002",
+      "sourceLineIndex": 2,
+      "lineIndex": 2,
+      "sourceText": "J'ai le droit",
+      "ipa": "[ʒe lə dʁwa]",
+      "ear": "热 勒 德赫乌阿",
+      "meaning": "我有权这么做",
+      "suppliedText": "J'ai le droit",
+      "sourceIPA": "/ʒe lə dʁwa/",
+      "sourceMeaning": "我有权这么做",
+      "speaker": "",
+      "start": 8.75,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 17,
-        "sourceLineNumber": 759,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          758
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Quoi ça rime quand on te pointe du doigt ? Quel est ton crime ? Moi, je vis, je crois, je perds jamais confiance en",
-      "start": 25,
-      "ipa": "[kwa sa ʁim kɑ̃t‿ɔ̃ tə pwɛ̃t dy dwa kɛl‿ɛ tɔ̃ kʁim mwa ʒə vi ʒə kʁwa ʒə pɛʁ ʒamɛ kɔ̃fjɑ̃s‿ɑ̃]",
-      "ear": "克乌阿 萨 希姆 康特 翁 特 普乌安特 迪于 德乌阿 凯勒 艾 通 克希姆 姆乌阿 热 维 热 克赫乌阿 热 佩赫 扎梅 孔弗耶昂斯 昂",
-      "meaning": "什么意义，他们为什么指责你？你犯了什么罪？我活着，我相信，我从不失去对",
-      "suppliedText": "quoi ça rime. Quand on te pointe du doigt, quel est ton crime ? Je vis, je crois, je ne perds jamais confiance en",
-      "sourceLineId": "moliere-timed-760",
+      "sourceLineId": "moliere-le-spectacle-musical-02-003",
+      "sourceLineIndex": 3,
+      "lineIndex": 3,
+      "sourceText": "Libre à toi de vouloir assumer tes choix",
+      "ipa": "[libʁ‿a twa də vulwaʁ‿asyme te ʃwa]",
+      "ear": "利布赫 阿 特乌阿 德 乌勒乌阿赫 阿西于梅 特 什乌阿",
+      "meaning": "你可以自由选择，并承担自己的选择。",
+      "suppliedText": "Libre à toi de vouloir assumer tes choix",
+      "sourceIPA": "/libʁ a twa də vulwaʁ asyme te ʃwa/",
+      "sourceMeaning": "放过自己 别以为你能担起每个选择",
+      "speaker": "",
+      "start": 11.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 25,
-        "sourceLineNumber": 760,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          758
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Moi. Oh, moi, je vis, je crois, je dois saisir ma chance cette",
-      "start": 34,
-      "ipa": "[mwa ɔ mwa ʒə vi ʒə kʁwa ʒə dwa sɛziʁ ma ʃɑ̃s sɛt]",
-      "ear": "姆乌阿 哦 姆乌阿 热 维 热 克赫乌阿 热 德乌阿 塞齐赫 玛 尚斯 塞特",
-      "meaning": "自己的信心。我活着，我相信，这一",
-      "suppliedText": "moi. Oh moi je vis, je vois, je dois saisir ma chance cette",
-      "sourceLineId": "moliere-timed-761",
+      "sourceLineId": "moliere-le-spectacle-musical-02-004",
+      "sourceLineIndex": 4,
+      "lineIndex": 4,
+      "sourceText": "À quoi ça rime, dis-moi, à quoi ça rime",
+      "ipa": "[a kwa sa ʁim dimwa a kwa sa ʁim]",
+      "ear": "阿 克乌阿 萨 希姆 迪姆乌阿 阿 克乌阿 萨 希姆",
+      "meaning": "这有什么意义？告诉我，这有什么意义？",
+      "suppliedText": "A quoi ça rime, dis-moi, à quoi ça rime",
+      "sourceIPA": "/a kwa sa ʁim dimwa a kwa sa ʁim/",
+      "sourceMeaning": "意义何在 告诉我 为何而执着？",
+      "speaker": "",
+      "start": 17.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 34,
-        "sourceLineNumber": 761,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          759
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Fois. Malgré les humiliations, ça vaut la peine. Tant de remises en question, ça vaut la peine. Ne jamais baisser les bras, ne",
-      "start": 41,
-      "ipa": "[fwa malɡʁe lez‿ymiljasjɔ̃ sa vo la pɛn tɑ̃ də ʁəmiz‿ɑ̃ kɛstjɔ̃ sa vo la pɛn nə ʒamɛ bɛse le bʁa nə]",
-      "ear": "弗乌阿 玛勒格赫 莱兹 于米勒耶阿斯耶翁 萨 沃 拉 佩恩 唐 德 赫米兹 昂 凯斯特耶翁 萨 沃 拉 佩恩 讷 扎梅 贝塞 莱 布哈 讷",
-      "meaning": "次，我必须抓住机会。尽管受到羞辱，仍然值得。尽管反复自问，仍然值得。永不放弃，永不",
-      "suppliedText": "fois malgré les humiliations, ça vaut la peine de remise en question. Ça vaut la peine. Ne jamais baisser les bras, ne",
-      "sourceLineId": "moliere-timed-762",
+      "sourceLineId": "moliere-le-spectacle-musical-02-005",
+      "sourceLineIndex": 5,
+      "lineIndex": 5,
+      "sourceText": "Quand on me pointe du doigt, quel est mon crime?",
+      "ipa": "[kɑ̃t‿ɔ̃ mə pwɛ̃t dy dwa kɛl‿ɛ mɔ̃ kʁim]",
+      "ear": "康特 翁 默 普乌安特 迪于 德乌阿 凯勒 艾 蒙 克希姆",
+      "meaning": "当我被指手画脚 我有何罪过？",
+      "suppliedText": "Quand on me pointe du doigt, quel est mon crime?",
+      "sourceIPA": "/kɑ̃t ɔ̃ mə pwɛ̃t dy dwa kɛl ɛ mɔ̃ kʁim/",
+      "sourceMeaning": "当我被指手画脚 我有何罪过？",
+      "speaker": "",
+      "start": 19.963,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 41,
-        "sourceLineNumber": 762,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          759
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Jamais penser tout bas. Comment exister si je refuse le combat ? Oh, mais qu'est-ce que ça fait ?",
-      "start": 50,
-      "ipa": "[ʒamɛ pɑ̃se tu ba kɔmɑ̃ ɛɡziste si ʒə ʁəfyz lə kɔ̃ba ɔ mɛ kɛskə sa fɛ]",
-      "ear": "扎梅 庞塞 图 巴 科芒 艾格齐斯特 西 热 赫菲于兹 勒 孔巴 哦 梅 凯斯克 萨 费",
-      "meaning": "把想法藏在心底。如果拒绝战斗，我如何存在？那是什么感觉？",
-      "suppliedText": "jamais penser tout ça. Mais comment exister si je refuse le combat ? Mais qu'est-ce que ça fait ? Mais",
-      "sourceLineId": "moliere-timed-763",
+      "sourceLineId": "moliere-le-spectacle-musical-02-006",
+      "sourceLineIndex": 6,
+      "lineIndex": 6,
+      "sourceText": "À quoi ça rime, dis-moi, à quoi ça rime",
+      "ipa": "[a kwa sa ʁim dimwa a kwa sa ʁim]",
+      "ear": "阿 克乌阿 萨 希姆 迪姆乌阿 阿 克乌阿 萨 希姆",
+      "meaning": "这有什么意义？告诉我，这有什么意义？",
+      "suppliedText": "A quoi ça rime, dis-moi, à quoi ça rime",
+      "sourceIPA": "/a kwa sa ʁim dimwa a kwa sa ʁim/",
+      "sourceMeaning": "意义何在 告诉我 为何而执着？",
+      "speaker": "",
+      "start": 22.926,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 50,
-        "sourceLineNumber": 763,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          759,
+          760
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Qu'est-ce que ça fait ? Tout semble si beau, tout semble parfait, tout semble",
-      "start": 58,
-      "ipa": "[kɛskə sa fɛ tu sɑ̃bl si bo tu sɑ̃bl paʁfɛ tu sɑ̃bl]",
-      "ear": "凯斯克 萨 费 图 桑布勒 西 博 图 桑布勒 帕赫费 图 桑布勒",
-      "meaning": "那是什么感觉？一切似乎如此美好，一切似乎完美，一切似乎",
-      "suppliedText": "qu'est-ce que ça fait ? Tout semble si bon. Tout semble parfait. Tout semble",
-      "sourceLineId": "moliere-timed-764",
+      "sourceLineId": "moliere-le-spectacle-musical-02-007",
+      "sourceLineIndex": 7,
+      "lineIndex": 7,
+      "sourceText": "Quand on te pointe du doigt, quel est ton crime?",
+      "ipa": "[kɑ̃t‿ɔ̃ tə pwɛ̃t dy dwa kɛl‿ɛ tɔ̃ kʁim]",
+      "ear": "康特 翁 特 普乌安特 迪于 德乌阿 凯勒 艾 通 克希姆",
+      "meaning": "当你被指手画脚 你有何罪过？",
+      "suppliedText": "Quand on te pointe du doigt, quel est ton crime?",
+      "sourceIPA": "/kɑ̃t ɔ̃ tə pwɛ̃t dy dwa kɛl ɛ tɔ̃ kʁim/",
+      "sourceMeaning": "当你被指手画脚 你有何罪过？",
+      "speaker": "",
+      "start": 26.174,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 58,
-        "sourceLineNumber": 764,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          760
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Parfait. Tu t'envoles loin de tes pensées quand sur la scène tu poses le",
-      "start": 64,
-      "ipa": "[paʁfɛ ty tɑ̃vol lwɛ̃ də te pɑ̃se kɑ̃ syʁ la sɛn ty poz lə]",
-      "ear": "帕赫费 蒂于 唐沃勒 勒乌安 德 特 庞塞 康 西于赫 拉 塞恩 蒂于 波兹 勒",
-      "meaning": "完美。当你踏上舞台，你飞离了自己的思绪，迈出了",
-      "suppliedText": "parfait. Tu t'envoles loin dans tes pensées quand sur la scène tu poses le",
-      "sourceLineId": "moliere-timed-765",
+      "sourceLineId": "moliere-le-spectacle-musical-02-008",
+      "sourceLineIndex": 8,
+      "lineIndex": 8,
+      "sourceText": "Moi, je lis, je vois, je perds jamais confiance",
+      "ipa": "[mwa ʒə li ʒə vwa ʒə pɛʁ ʒamɛ kɔ̃fjɑ̃s]",
+      "ear": "姆乌阿 热 利 热 弗乌阿 热 佩赫 扎梅 孔弗耶昂斯",
+      "meaning": "我阅读，我观察，从不失去信心。",
+      "suppliedText": "Moi, je lis, je vois, je perds jamais confiance",
+      "sourceIPA": "/mwa ʒə li ʒə vwa ʒə pɛʁ ʒamɛ kɔ̃fjɑ̃s/",
+      "sourceMeaning": "我 看书 看世界 从未看扁过自己",
+      "speaker": "",
+      "start": 30.087,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 64,
-        "sourceLineNumber": 765,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          760
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Pied. T'as refusé d'être un homme, d'être un homme blessé quand le rideau s'est levé. À",
-      "start": 71,
-      "ipa": "[pje ta ʁəfyze dɛtʁ‿œ̃n‿ɔm dɛtʁ‿œ̃n‿ɔm blɛse kɑ̃ lə ʁido sɛ ləve a]",
-      "ear": "普耶诶 塔 赫菲于泽 戴特赫 恩恩 哦姆 戴特赫 恩恩 哦姆 布莱塞 康 勒 希多 塞 勒韦 阿",
-      "meaning": "脚步。帷幕升起时，你拒绝再做一个受伤的人。这有",
-      "suppliedText": "pied. Tu as refusé d'être un homme, d'être un homme blessé quand le rideau s'est levé. À",
-      "sourceLineId": "moliere-timed-766",
+      "sourceLineId": "moliere-le-spectacle-musical-02-009",
+      "sourceLineIndex": 9,
+      "lineIndex": 9,
+      "sourceText": "Oh, moi, oh, moi",
+      "ipa": "[ɔ mwa ɔ mwa]",
+      "ear": "哦 姆乌阿 哦 姆乌阿",
+      "meaning": "哦 这就是我",
+      "suppliedText": "Oh, moi, oh, moi",
+      "sourceIPA": "/ɔ mwa ɔ mwa/",
+      "sourceMeaning": "哦 这就是我",
+      "speaker": "",
+      "start": 33.217,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 71,
-        "sourceLineNumber": 766,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          760,
+          761
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Quoi ça rime ? Dis-moi, à quoi ça rime quand on me pointe du doigt ? Quel est mon crime ? À quoi ça rime ? Dis-moi, à",
-      "start": 79,
-      "ipa": "[kwa sa ʁim dimwa a kwa sa ʁim kɑ̃t‿ɔ̃ mə pwɛ̃t dy dwa kɛl‿ɛ mɔ̃ kʁim a kwa sa ʁim dimwa a]",
-      "ear": "克乌阿 萨 希姆 迪姆乌阿 阿 克乌阿 萨 希姆 康特 翁 默 普乌安特 迪于 德乌阿 凯勒 艾 蒙 克希姆 阿 克乌阿 萨 希姆 迪姆乌阿 阿",
-      "meaning": "什么意义？告诉我，被人指责究竟有什么意义？我犯了什么罪？告诉我，这有",
-      "suppliedText": "quoi ça rime ? Dis-moi à quoi ça rime quand on me pointe du doigt. Quel est mon crime ? À quoi ça rimme ? Dis-moi de",
-      "sourceLineId": "moliere-timed-767",
+      "sourceLineId": "moliere-le-spectacle-musical-02-010",
+      "sourceLineIndex": 10,
+      "lineIndex": 10,
+      "sourceText": "Je lis, je crois, je dois saisir ma chance",
+      "ipa": "[ʒə li ʒə kʁwa ʒə dwa sɛziʁ ma ʃɑ̃s]",
+      "ear": "热 利 热 克赫乌阿 热 德乌阿 塞齐赫 玛 尚斯",
+      "meaning": "我阅读，我相信，我必须抓住自己的机会。",
+      "suppliedText": "Je lis, je crois, je dois saisir ma chance",
+      "sourceIPA": "/ʒə li ʒə kʁwa ʒə dwa sɛziʁ ma ʃɑ̃s/",
+      "sourceMeaning": "我阅读 我坚信 我应该抓住我的机会",
+      "speaker": "",
+      "start": 35.615,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 79,
-        "sourceLineNumber": 767,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          761
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Quoi ça rime quand on te pointe du doigt ? Quel est ton crime ? Moi, je veux jamais avoir à",
-      "start": 87,
-      "ipa": "[kwa sa ʁim kɑ̃t‿ɔ̃ tə pwɛ̃t dy dwa kɛl‿ɛ tɔ̃ kʁim mwa ʒə vø ʒamɛ avwaʁ‿a]",
-      "ear": "克乌阿 萨 希姆 康特 翁 特 普乌安特 迪于 德乌阿 凯勒 艾 通 克希姆 姆乌阿 热 弗厄 扎梅 阿弗乌阿赫 阿",
-      "meaning": "什么意义，他们为什么指责你？你犯了什么罪？我不愿再不得不",
-      "suppliedText": "quoi ça rim quand on te pointe du doigt ? Quel est ton crime ? Moi je ne veux jamais avoir à",
-      "sourceLineId": "moliere-timed-768",
+      "sourceLineId": "moliere-le-spectacle-musical-02-011",
+      "sourceLineIndex": 11,
+      "lineIndex": 11,
+      "sourceText": "Cette fois",
+      "ipa": "[sɛt fwa]",
+      "ear": "塞特 弗乌阿",
+      "meaning": "就在这次",
+      "suppliedText": "Cette fois",
+      "sourceIPA": "/sɛt fwa/",
+      "sourceMeaning": "就在这次",
+      "speaker": "",
+      "start": 40.462,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 87,
-        "sourceLineNumber": 768,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          761,
+          762
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "M'excuser. Tu crois ? Jamais. Non, moi, je veux pouvoir ne jamais me passer",
-      "start": 94,
-      "ipa": "[mɛkskyze ty kʁwa ʒamɛ nɔ̃ mwa ʒə vø puvwaʁ nə ʒamɛ mə pase]",
-      "ear": "梅克斯基于泽 蒂于 克赫乌阿 扎梅 农 姆乌阿 热 弗厄 普弗乌阿赫 讷 扎梅 默 帕塞",
-      "meaning": "道歉。你觉得可能吗？永不。我希望能够永远不失去",
-      "suppliedText": "m'excuser. Tu crois jamais en moi je veux pouvoir ne jamais me passer",
-      "sourceLineId": "moliere-timed-769",
+      "sourceLineId": "moliere-le-spectacle-musical-02-012",
+      "sourceLineIndex": 12,
+      "lineIndex": 12,
+      "sourceText": "Malgré les humiliations",
+      "ipa": "[malɡʁe lez‿ymiljasjɔ̃]",
+      "ear": "玛勒格赫 莱兹 于米勒耶阿斯耶翁",
+      "meaning": "尽管羞辱不间断",
+      "suppliedText": "Malgré les humiliations",
+      "sourceIPA": "/malɡʁe lez ymiljasjɔ̃/",
+      "sourceMeaning": "尽管羞辱不间断",
+      "speaker": "",
+      "start": 41.391,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 94,
-        "sourceLineNumber": 769,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          762
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "De toi. Tu en payes le prix. Quelle est ma peine ? Entre mensonge et mépris, quelle est ma peine ? Tu ne baisseras jamais les bras, tu ne penseras jamais tout bas.",
-      "start": 103,
-      "ipa": "[də twa ty ɑ̃ pɛj lə pʁi kɛl‿ɛ ma pɛn ɑ̃tʁ mɑ̃sɔ̃ʒ e mepʁi kɛl‿ɛ ma pɛn ty nə bɛsʁa ʒamɛ le bʁa ty nə pɑ̃sʁa ʒamɛ tu ba]",
-      "ear": "德 特乌阿 蒂于 昂 佩耶 勒 普希 凯勒 艾 玛 佩恩 昂特赫 芒松日 诶 梅普希 凯勒 艾 玛 佩恩 蒂于 讷 贝斯哈 扎梅 莱 布哈 蒂于 讷 庞斯哈 扎梅 图 巴",
-      "meaning": "你。你为此付出代价。我的惩罚是什么？夹在谎言与轻蔑之间，我的惩罚是什么？你永不放弃，永不把想法藏在心底。",
-      "suppliedText": "tes tu en payes le prix. Telle est ma peine entre mensonge et mépris. Telle est ma peine tu baisseras jamais les bras, tu penseras jamais tout droit.",
-      "sourceLineId": "moliere-timed-770",
+      "sourceLineId": "moliere-le-spectacle-musical-02-013",
+      "sourceLineIndex": 13,
+      "lineIndex": 13,
+      "sourceText": "Ça vaut la peine",
+      "ipa": "[sa vo la pɛn]",
+      "ear": "萨 沃 拉 佩恩",
+      "meaning": "它值得一试",
+      "suppliedText": "Ça vaut la peine",
+      "sourceIPA": "/sa vo la pɛn/",
+      "sourceMeaning": "它值得一试",
+      "speaker": "",
+      "start": 42.565,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 103,
-        "sourceLineNumber": 770,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          762
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Comment exister si je refuse le combat ?",
-      "start": 113,
+      "sourceLineId": "moliere-le-spectacle-musical-02-014",
+      "sourceLineIndex": 14,
+      "lineIndex": 14,
+      "sourceText": "Tant de remises en question",
+      "ipa": "[tɑ̃ də ʁəmiz‿ɑ̃ kɛstjɔ̃]",
+      "ear": "唐 德 赫米兹 昂 凯斯特耶翁",
+      "meaning": "经历了那么多自我质疑。",
+      "suppliedText": "Tant de remises en question",
+      "sourceIPA": "/tɑ̃ də ʁəmizz ɑ̃ kɛstjɔ̃/",
+      "sourceMeaning": "问题一环接一环",
+      "speaker": "",
+      "start": 44.13,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          762
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-015",
+      "sourceLineIndex": 15,
+      "lineIndex": 15,
+      "sourceText": "Ça vaut la peine",
+      "ipa": "[sa vo la pɛn]",
+      "ear": "萨 沃 拉 佩恩",
+      "meaning": "它值得一试",
+      "suppliedText": "Ça vaut la peine",
+      "sourceIPA": "/sa vo la pɛn/",
+      "sourceMeaning": "它值得一试",
+      "speaker": "",
+      "start": 46.087,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          762
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-016",
+      "sourceLineIndex": 16,
+      "lineIndex": 16,
+      "sourceText": "Ne jamais baisser les bras",
+      "ipa": "[nə ʒamɛ bɛse le bʁa]",
+      "ear": "讷 扎梅 贝塞 莱 布哈",
+      "meaning": "永远不要放弃。",
+      "suppliedText": "Ne jamais baisser les bras",
+      "sourceIPA": "/nə ʒamɛ bɛse le bʁa/",
+      "sourceMeaning": "你从未举手投降",
+      "speaker": "",
+      "start": 47.652,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          762
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-017",
+      "sourceLineIndex": 17,
+      "lineIndex": 17,
+      "sourceText": "Ne jamais penser tout bas",
+      "ipa": "[nə ʒamɛ pɑ̃se tu ba]",
+      "ear": "讷 扎梅 庞塞 图 巴",
+      "meaning": "永远不要把想法藏在心底。",
+      "suppliedText": "Ne jamais penser tout bas",
+      "sourceIPA": "/nə ʒamɛ pɑ̃se tu ba/",
+      "sourceMeaning": "你从不暗自默想",
+      "speaker": "",
+      "start": 49.609,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          762,
+          763
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-018",
+      "sourceLineIndex": 18,
+      "lineIndex": 18,
+      "sourceText": "Comment exister si je refuse le combat?",
       "ipa": "[kɔmɑ̃ ɛɡziste si ʒə ʁəfyz lə kɔ̃ba]",
       "ear": "科芒 艾格齐斯特 西 热 赫菲于兹 勒 孔巴",
-      "meaning": "如果拒绝战斗，我如何存在？",
-      "suppliedText": "Mais comment exister si je refuse le combat ?",
-      "sourceLineId": "moliere-timed-771",
+      "meaning": "若我拒绝斗争 我又该如何存在？",
+      "suppliedText": "Comment exister si je refuse le combat?",
+      "sourceIPA": "/kɔmɑ̃ ɛɡziste si ʒə ʁəfyz lə kɔ̃ba/",
+      "sourceMeaning": "若我拒绝斗争 我又该如何存在？",
+      "speaker": "",
+      "start": 51.684,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 113,
-        "sourceLineNumber": 771,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          763
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Oh, mais qu'est-ce que ça fait ? Qu'est-ce que ça fait ? Tout semble si beau, tout semble parfait, tout semble",
-      "start": 117,
-      "ipa": "[ɔ mɛ kɛskə sa fɛ kɛskə sa fɛ tu sɑ̃bl si bo tu sɑ̃bl paʁfɛ tu sɑ̃bl]",
-      "ear": "哦 梅 凯斯克 萨 费 凯斯克 萨 费 图 桑布勒 西 博 图 桑布勒 帕赫费 图 桑布勒",
-      "meaning": "那是什么感觉？是什么感觉？一切似乎如此美好，一切似乎完美，一切似乎",
-      "suppliedText": "Oh mais qu'est-ce que ça fait ? Mais qu'est-ce que ça fait ? Tout semble si tu sembles parfait. Tout semble",
-      "sourceLineId": "moliere-timed-772",
+      "sourceLineId": "moliere-le-spectacle-musical-02-019-a",
+      "sourceLineIndex": 19,
+      "lineIndex": 19,
+      "sourceText": "Là",
+      "ipa": "[la]",
+      "ear": "拉",
+      "meaning": "好啦",
+      "suppliedText": "Là",
+      "sourceIPA": "/la/",
+      "sourceMeaning": "好啦",
+      "speaker": "",
+      "start": 54.211,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 117,
-        "sourceLineNumber": 772,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          763
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Parfait. Tu t'envoles loin de tes pensées quand sur la scène tu poses le",
-      "start": 126,
-      "ipa": "[paʁfɛ ty tɑ̃vol lwɛ̃ də te pɑ̃se kɑ̃ syʁ la sɛn ty poz lə]",
-      "ear": "帕赫费 蒂于 唐沃勒 勒乌安 德 特 庞塞 康 西于赫 拉 塞恩 蒂于 波兹 勒",
-      "meaning": "完美。当你踏上舞台，你飞离了自己的思绪，迈出了",
-      "suppliedText": "parfait. Tu t'envoles loin dans tes pensées quand sur la scène tu pousses le",
-      "sourceLineId": "moliere-timed-773",
+      "sourceLineId": "moliere-le-spectacle-musical-02-019-b",
+      "sourceLineIndex": 19,
+      "lineIndex": 20,
+      "sourceText": "Oh, mais qu'est-ce que ça fait?",
+      "ipa": "[ɔ mɛ kɛskə sa fɛ]",
+      "ear": "哦 梅 凯斯克 萨 费",
+      "meaning": "那到底是什么感觉？",
+      "suppliedText": "Oh, mais qu'est-ce que ça fait?",
+      "sourceIPA": "/ɔ mɛ kɛskə sa fɛ/",
+      "sourceMeaning": "可那又怎样？",
+      "speaker": "",
+      "start": 54.632,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 126,
-        "sourceLineNumber": 773,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          763
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Pied. T'as refusé d'être un homme, d'être un homme blessé quand le rideau s'est levé. À",
-      "start": 133,
-      "ipa": "[pje ta ʁəfyze dɛtʁ‿œ̃n‿ɔm dɛtʁ‿œ̃n‿ɔm blɛse kɑ̃ lə ʁido sɛ ləve a]",
-      "ear": "普耶诶 塔 赫菲于泽 戴特赫 恩恩 哦姆 戴特赫 恩恩 哦姆 布莱塞 康 勒 希多 塞 勒韦 阿",
-      "meaning": "脚步。帷幕升起时，你拒绝再做一个受伤的人。这有",
-      "suppliedText": "pied. Tu as refusé d'être un homme d'être un homme laissé. Quand le rideau s'est levé, à",
-      "sourceLineId": "moliere-timed-774",
+      "sourceLineId": "moliere-le-spectacle-musical-02-020",
+      "sourceLineIndex": 20,
+      "lineIndex": 21,
+      "sourceText": "Qu'est-ce que ça fait?",
+      "ipa": "[kɛskə sa fɛ]",
+      "ear": "凯斯克 萨 费",
+      "meaning": "是什么感觉？",
+      "suppliedText": "Qu'est-ce que ça fait?",
+      "sourceIPA": "/kɛskə sa fɛ/",
+      "sourceMeaning": "那又怎样？",
+      "speaker": "",
+      "start": 58.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 133,
-        "sourceLineNumber": 774,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          764
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Quoi ça rime ? Dis-moi, à quoi ça rime quand on te pointe du doigt ? Quel est ton crime ? À quoi ça rime ? Dis-moi, à",
-      "start": 141,
-      "ipa": "[kwa sa ʁim dimwa a kwa sa ʁim kɑ̃t‿ɔ̃ tə pwɛ̃t dy dwa kɛl‿ɛ tɔ̃ kʁim a kwa sa ʁim dimwa a]",
-      "ear": "克乌阿 萨 希姆 迪姆乌阿 阿 克乌阿 萨 希姆 康特 翁 特 普乌安特 迪于 德乌阿 凯勒 艾 通 克希姆 阿 克乌阿 萨 希姆 迪姆乌阿 阿",
-      "meaning": "什么意义？告诉我，被人指责究竟有什么意义？你犯了什么罪？告诉我，这有",
-      "suppliedText": "quoi ça rime ? Dis-moi à quoi ça rime quand on te pointe du doigt. Quel est ton crime ? À quoi ça rime ? Dis-moi à",
-      "sourceLineId": "moliere-timed-775",
+      "sourceLineId": "moliere-le-spectacle-musical-02-021",
+      "sourceLineIndex": 21,
+      "lineIndex": 22,
+      "sourceText": "Tout semble si beau",
+      "ipa": "[tu sɑ̃bl si bo]",
+      "ear": "图 桑布勒 西 博",
+      "meaning": "一切似乎如此美好。",
+      "suppliedText": "Tout semble si beau",
+      "sourceIPA": "/tu sɑ̃bl si bo/",
+      "sourceMeaning": "一切好像很顺利",
+      "speaker": "",
+      "start": 60.4,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 141,
-        "sourceLineNumber": 775,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          764
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Quoi ça rime quand on te pointe du doigt ? Quel est ton crime ?",
-      "start": 149,
-      "ipa": "[kwa sa ʁim kɑ̃t‿ɔ̃ tə pwɛ̃t dy dwa kɛl‿ɛ tɔ̃ kʁim]",
-      "ear": "克乌阿 萨 希姆 康特 翁 特 普乌安特 迪于 德乌阿 凯勒 艾 通 克希姆",
-      "meaning": "什么意义，他们为什么指责你？你犯了什么罪？",
-      "suppliedText": "quoi ça rime quand on te pointe du doigt. Quel est ton crime ?",
-      "sourceLineId": "moliere-timed-776",
+      "sourceLineId": "moliere-le-spectacle-musical-02-022",
+      "sourceLineIndex": 22,
+      "lineIndex": 23,
+      "sourceText": "Tout semble parfait",
+      "ipa": "[tu sɑ̃bl paʁfɛ]",
+      "ear": "图 桑布勒 帕赫费",
+      "meaning": "一切好像很完美",
+      "suppliedText": "Tout semble parfait",
+      "sourceIPA": "/tu sɑ̃bl paʁfɛ/",
+      "sourceMeaning": "一切好像很完美",
+      "speaker": "",
+      "start": 62.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 149,
-        "sourceLineNumber": 776,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          764
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-023",
+      "sourceLineIndex": 23,
+      "lineIndex": 24,
+      "sourceText": "Tout semble parfait",
+      "ipa": "[tu sɑ̃bl paʁfɛ]",
+      "ear": "图 桑布勒 帕赫费",
+      "meaning": "一切好像很完美",
+      "suppliedText": "Tout semble parfait",
+      "sourceIPA": "/tu sɑ̃bl paʁfɛ/",
+      "sourceMeaning": "一切好像很完美",
+      "speaker": "",
+      "start": 63.2,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          764,
+          765
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-024",
+      "sourceLineIndex": 24,
+      "lineIndex": 25,
+      "sourceText": "Tu t'envoles loin de tes pensées",
+      "ipa": "[ty tɑ̃vol lwɛ̃ də te pɑ̃se]",
+      "ear": "蒂于 唐沃勒 勒乌安 德 特 庞塞",
+      "meaning": "你飞离了自己的思绪。",
+      "suppliedText": "Tu t'envoles loin de tes pensées",
+      "sourceIPA": "/ty tɑ̃vol lwɛ̃ də te pɑ̃se/",
+      "sourceMeaning": "曾经的理想 如今你已飞远",
+      "speaker": "",
+      "start": 64.467,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          765
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-025",
+      "sourceLineIndex": 25,
+      "lineIndex": 26,
+      "sourceText": "Quand sur la scène tu poses le pied",
+      "ipa": "[kɑ̃ syʁ la sɛn ty poz lə pje]",
+      "ear": "康 西于赫 拉 塞恩 蒂于 波兹 勒 普耶诶",
+      "meaning": "当你站在这舞台上面",
+      "suppliedText": "Quand sur la scène tu poses le pied",
+      "sourceIPA": "/kɑ̃ syʁ la sɛn ty poz lə pje/",
+      "sourceMeaning": "当你站在这舞台上面",
+      "speaker": "",
+      "start": 67.733,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          765,
+          766
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-026",
+      "sourceLineIndex": 26,
+      "lineIndex": 27,
+      "sourceText": "T'as refusé d'être un homme",
+      "ipa": "[ta ʁəfyze dɛtʁ‿œ̃n‿ɔm]",
+      "ear": "塔 赫菲于泽 戴特赫 恩恩 哦姆",
+      "meaning": "你不愿再做那个",
+      "suppliedText": "T'as refusé d'être un homme",
+      "sourceIPA": "/ta ʁəfyze dɛtʁ œ̃n ɔm/",
+      "sourceMeaning": "而你已拒绝承认",
+      "speaker": "",
+      "start": 71.4,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          766
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-027",
+      "sourceLineIndex": 27,
+      "lineIndex": 28,
+      "sourceText": "D'être un homme blessé",
+      "ipa": "[dɛtʁ‿œ̃n‿ɔm blɛse]",
+      "ear": "戴特赫 恩恩 哦姆 布莱塞",
+      "meaning": "受伤的男人。",
+      "suppliedText": "D'être un homme blessé",
+      "sourceIPA": "/dɛtʁ œ̃n ɔm blɛse/",
+      "sourceMeaning": "你也是会受伤的人",
+      "speaker": "",
+      "start": 74.2,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          766
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-028",
+      "sourceLineIndex": 28,
+      "lineIndex": 29,
+      "sourceText": "Quand le rideau s'est levé",
+      "ipa": "[kɑ̃ lə ʁido sɛ ləve]",
+      "ear": "康 勒 希多 塞 勒韦",
+      "meaning": "当大幕已经升起",
+      "suppliedText": "Quand le rideau s'est levé",
+      "sourceIPA": "/kɑ̃ lə ʁido sɛ ləve/",
+      "sourceMeaning": "当大幕已经升起",
+      "speaker": "",
+      "start": 76.2,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          766
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-029",
+      "sourceLineIndex": 29,
+      "lineIndex": 30,
+      "sourceText": "À quoi ça rime, dis-moi, à quoi ça rime",
+      "ipa": "[a kwa sa ʁim dimwa a kwa sa ʁim]",
+      "ear": "阿 克乌阿 萨 希姆 迪姆乌阿 阿 克乌阿 萨 希姆",
+      "meaning": "这有什么意义？告诉我，这有什么意义？",
+      "suppliedText": "À quoi ça rime, dis-moi, à quoi ça rime",
+      "sourceIPA": "/a kwa sa ʁim dimwa a kwa sa ʁim/",
+      "sourceMeaning": "意义何在 告诉我 为何而执着？",
+      "speaker": "",
+      "start": 78.6,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          766,
+          767
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-030",
+      "sourceLineIndex": 30,
+      "lineIndex": 31,
+      "sourceText": "Quand on te pointe du doigt, quel est ton crime?",
+      "ipa": "[kɑ̃t‿ɔ̃ tə pwɛ̃t dy dwa kɛl‿ɛ tɔ̃ kʁim]",
+      "ear": "康特 翁 特 普乌安特 迪于 德乌阿 凯勒 艾 通 克希姆",
+      "meaning": "当你被指手画脚 你有何罪过？",
+      "suppliedText": "Quand on te pointe du doigt, quel est ton crime?",
+      "sourceIPA": "/kɑ̃t ɔ̃ tə pwɛ̃t dy dwa kɛl ɛ tɔ̃ kʁim/",
+      "sourceMeaning": "当你被指手画脚 你有何罪过？",
+      "speaker": "",
+      "start": 81.769,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          767
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-031",
+      "sourceLineIndex": 31,
+      "lineIndex": 32,
+      "sourceText": "À quoi ça rime, dis-moi, à quoi ça rime",
+      "ipa": "[a kwa sa ʁim dimwa a kwa sa ʁim]",
+      "ear": "阿 克乌阿 萨 希姆 迪姆乌阿 阿 克乌阿 萨 希姆",
+      "meaning": "这有什么意义？告诉我，这有什么意义？",
+      "suppliedText": "À quoi ça rime, dis-moi, à quoi ça rime",
+      "sourceIPA": "/a kwa sa ʁim dimwa a kwa sa ʁim/",
+      "sourceMeaning": "意义何在 告诉我 为何而执着？",
+      "speaker": "",
+      "start": 84.846,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          767,
+          768
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-032",
+      "sourceLineIndex": 32,
+      "lineIndex": 33,
+      "sourceText": "Quand on me pointe du doigt, quel est mon crime?",
+      "ipa": "[kɑ̃t‿ɔ̃ mə pwɛ̃t dy dwa kɛl‿ɛ mɔ̃ kʁim]",
+      "ear": "康特 翁 默 普乌安特 迪于 德乌阿 凯勒 艾 蒙 克希姆",
+      "meaning": "当我被指手画脚 我有何罪过？",
+      "suppliedText": "Quand on me pointe du doigt, quel est mon crime?",
+      "sourceIPA": "/kɑ̃t ɔ̃ mə pwɛ̃t dy dwa kɛl ɛ mɔ̃ kʁim/",
+      "sourceMeaning": "当我被指手画脚 我有何罪过？",
+      "speaker": "",
+      "start": 88.105,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          768
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-033",
+      "sourceLineIndex": 33,
+      "lineIndex": 34,
+      "sourceText": "Moi, je n'veux jamais avoir à m'excuser",
+      "ipa": "[mwa ʒə nə vø ʒamɛ avwaʁ‿a mɛkskyze]",
+      "ear": "姆乌阿 热 讷 弗厄 扎梅 阿弗乌阿赫 阿 梅克斯基于泽",
+      "meaning": "我不愿再不得不道歉。",
+      "suppliedText": "Moi, je n'veux jamais avoir à m'excuser",
+      "sourceIPA": "/mwa ʒə nvø ʒamɛz avwaʁ a mɛkskyze/",
+      "sourceMeaning": "我从来不愿被迫为我的信念",
+      "speaker": "",
+      "start": 91.789,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          768,
+          769
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-034",
+      "sourceLineIndex": 34,
+      "lineIndex": 35,
+      "sourceText": "D'y croire? (Jamais, jamais...)",
+      "ipa": "[di kʁwaʁ ʒamɛ ʒamɛ]",
+      "ear": "迪 克赫乌阿赫 扎梅 扎梅",
+      "meaning": "为自己的信念？（永不，永不……）",
+      "suppliedText": "D'y croire? (Jamais, jamais...)",
+      "sourceIPA": "/di kʁwaʁ ʒamɛ ʒamɛ/",
+      "sourceMeaning": "做什么辩解（你从不愿……）",
+      "speaker": "",
+      "start": 94.643,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          769
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-035",
+      "sourceLineIndex": 35,
+      "lineIndex": 36,
+      "sourceText": "Non, moi, je veux pouvoir",
+      "ipa": "[nɔ̃ mwa ʒə vø puvwaʁ]",
+      "ear": "农 姆乌阿 热 弗厄 普弗乌阿赫",
+      "meaning": "不，我希望能够",
+      "suppliedText": "Non, moi, je veux pouvoir",
+      "sourceIPA": "/nɔ̃ mwa ʒə vø puvwaʁ/",
+      "sourceMeaning": "我呀 只愿能够",
+      "speaker": "",
+      "start": 97.214,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          769
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-036",
+      "sourceLineIndex": 36,
+      "lineIndex": 37,
+      "sourceText": "Ne jamais me passer d'espoir",
+      "ipa": "[nə ʒamɛ mə pase dɛspwaʁ]",
+      "ear": "讷 扎梅 默 帕塞 戴斯普乌阿赫",
+      "meaning": "永远不失去希望。",
+      "suppliedText": "Ne jamais me passer d'espoir",
+      "sourceIPA": "/nə ʒamɛ mə pase dɛspwaʁ/",
+      "sourceMeaning": "永不放弃我的希望",
+      "speaker": "",
+      "start": 100.429,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          769
+        ],
+        "wordCoverage": 0.667
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-037",
+      "sourceLineIndex": 37,
+      "lineIndex": 38,
+      "sourceText": "Oh... Toi tu en payes le prix",
+      "ipa": "[ɔ twa ty ɑ̃ pɛj lə pʁi]",
+      "ear": "哦 特乌阿 蒂于 昂 佩耶 勒 普希",
+      "meaning": "哦……你会为此付出代价",
+      "suppliedText": "Oh... Toi tu en payes le prix",
+      "sourceIPA": "/ɔ twa ty ɑ̃ pɛj lə pʁi/",
+      "sourceMeaning": "哦……你会为此付出代价",
+      "speaker": "",
+      "start": 103.323,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          770
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-038",
+      "sourceLineIndex": 38,
+      "lineIndex": 39,
+      "sourceText": "Quelle est ma peine?",
+      "ipa": "[kɛl‿ɛ ma pɛn]",
+      "ear": "凯勒 艾 玛 佩恩",
+      "meaning": "我的惩罚是什么？",
+      "suppliedText": "Quelle est ma peine?",
+      "sourceIPA": "/kɛl ɛ ma pɛn/",
+      "sourceMeaning": "我将付出什么？",
+      "speaker": "",
+      "start": 105.258,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          770
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-039",
+      "sourceLineIndex": 39,
+      "lineIndex": 40,
+      "sourceText": "Entre mensonge et mépris",
+      "ipa": "[ɑ̃tʁ mɑ̃sɔ̃ʒ e mepʁi]",
+      "ear": "昂特赫 芒松日 诶 梅普希",
+      "meaning": "在轻蔑与谎言之间",
+      "suppliedText": "Entre mensonge et mépris",
+      "sourceIPA": "/ɑ̃tʁ mɑ̃sɔ̃ʒ e mepʁi/",
+      "sourceMeaning": "在轻蔑与谎言之间",
+      "speaker": "",
+      "start": 106.548,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          770
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-040",
+      "sourceLineIndex": 40,
+      "lineIndex": 41,
+      "sourceText": "Quelle est ma peine?",
+      "ipa": "[kɛl‿ɛ ma pɛn]",
+      "ear": "凯勒 艾 玛 佩恩",
+      "meaning": "我的惩罚是什么？",
+      "suppliedText": "Quelle est ma peine?",
+      "sourceIPA": "/kɛl ɛ ma pɛn/",
+      "sourceMeaning": "我将受何种折磨？",
+      "speaker": "",
+      "start": 107.839,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          770
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-041",
+      "sourceLineIndex": 41,
+      "lineIndex": 42,
+      "sourceText": "Tu ne baisseras jamais les bras",
+      "ipa": "[ty nə bɛsʁa ʒamɛ le bʁa]",
+      "ear": "蒂于 讷 贝斯哈 扎梅 莱 布哈",
+      "meaning": "你永远不会放弃。",
+      "suppliedText": "Tu ne baisseras jamais les bras",
+      "sourceIPA": "/ty nə bɛsʁa ʒamɛ le bʁa/",
+      "sourceMeaning": "你从不低下头颅",
+      "speaker": "",
+      "start": 109.129,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          770
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-042",
+      "sourceLineIndex": 42,
+      "lineIndex": 43,
+      "sourceText": "Tu ne penseras jamais tout bas",
+      "ipa": "[ty nə pɑ̃sʁa ʒamɛ tu ba]",
+      "ear": "蒂于 讷 庞斯哈 扎梅 图 巴",
+      "meaning": "你永远不会把想法藏在心底。",
+      "suppliedText": "Tu ne penseras jamais tout bas",
+      "sourceIPA": "/ty nə pɑ̃sʁa ʒamɛ tu ba/",
+      "sourceMeaning": "你从不咽下耻辱",
+      "speaker": "",
+      "start": 111.065,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          770
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-043",
+      "sourceLineIndex": 43,
+      "lineIndex": 44,
+      "sourceText": "Comment exister si je refuse le combat?",
+      "ipa": "[kɔmɑ̃ ɛɡziste si ʒə ʁəfyz lə kɔ̃ba]",
+      "ear": "科芒 艾格齐斯特 西 热 赫菲于兹 勒 孔巴",
+      "meaning": "若我拒绝斗争 我又该如何存在？",
+      "suppliedText": "Comment exister si je refuse le combat?",
+      "sourceIPA": "/kɔmɑ̃ ɛɡziste si ʒə ʁəfyz lə kɔ̃ba/",
+      "sourceMeaning": "若我拒绝斗争 我又该如何存在？",
+      "speaker": "",
+      "start": 113.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          771
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-044-a",
+      "sourceLineIndex": 44,
+      "lineIndex": 45,
+      "sourceText": "Là",
+      "ipa": "[la]",
+      "ear": "拉",
+      "meaning": "好啦",
+      "suppliedText": "Là",
+      "sourceIPA": "/la/",
+      "sourceMeaning": "好啦",
+      "speaker": "",
+      "start": 116.429,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          771
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-044-b",
+      "sourceLineIndex": 44,
+      "lineIndex": 46,
+      "sourceText": "Oh, mais qu'est-ce que ça fait?",
+      "ipa": "[ɔ mɛ kɛskə sa fɛ]",
+      "ear": "哦 梅 凯斯克 萨 费",
+      "meaning": "那到底是什么感觉？",
+      "suppliedText": "Oh, mais qu'est-ce que ça fait?",
+      "sourceIPA": "/ɔ mɛ kɛskə sa fɛ/",
+      "sourceMeaning": "可那又怎样？",
+      "speaker": "",
+      "start": 117.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          772
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-045",
+      "sourceLineIndex": 45,
+      "lineIndex": 47,
+      "sourceText": "Qu'est-ce que ça fait?",
+      "ipa": "[kɛskə sa fɛ]",
+      "ear": "凯斯克 萨 费",
+      "meaning": "是什么感觉？",
+      "suppliedText": "Qu'est-ce que ça fait?",
+      "sourceIPA": "/kɛskə sa fɛ/",
+      "sourceMeaning": "那是什么滋味？",
+      "speaker": "",
+      "start": 120.13,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          772
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-046",
+      "sourceLineIndex": 46,
+      "lineIndex": 48,
+      "sourceText": "Tout semble si beau",
+      "ipa": "[tu sɑ̃bl si bo]",
+      "ear": "图 桑布勒 西 博",
+      "meaning": "一切似乎如此美好。",
+      "suppliedText": "Tout semble si beau",
+      "sourceIPA": "/tu sɑ̃bl si bo/",
+      "sourceMeaning": "一切好像很顺利",
+      "speaker": "",
+      "start": 122.478,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          772
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-047",
+      "sourceLineIndex": 47,
+      "lineIndex": 49,
+      "sourceText": "Tout semble parfait",
+      "ipa": "[tu sɑ̃bl paʁfɛ]",
+      "ear": "图 桑布勒 帕赫费",
+      "meaning": "一切好像很完美",
+      "suppliedText": "Tout semble parfait",
+      "sourceIPA": "/tu sɑ̃bl paʁfɛ/",
+      "sourceMeaning": "一切好像很完美",
+      "speaker": "",
+      "start": 124.043,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          772
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-048",
+      "sourceLineIndex": 48,
+      "lineIndex": 50,
+      "sourceText": "Tout semble parfait",
+      "ipa": "[tu sɑ̃bl paʁfɛ]",
+      "ear": "图 桑布勒 帕赫费",
+      "meaning": "一切好像很完美",
+      "suppliedText": "Tout semble parfait",
+      "sourceIPA": "/tu sɑ̃bl paʁfɛ/",
+      "sourceMeaning": "一切好像很完美",
+      "speaker": "",
+      "start": 125.217,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          772,
+          773
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-049",
+      "sourceLineIndex": 49,
+      "lineIndex": 51,
+      "sourceText": "Tu t'envoles loin de tes pensées",
+      "ipa": "[ty tɑ̃vol lwɛ̃ də te pɑ̃se]",
+      "ear": "蒂于 唐沃勒 勒乌安 德 特 庞塞",
+      "meaning": "你飞离了自己的思绪。",
+      "suppliedText": "Tu t'envoles loin de tes pensées",
+      "sourceIPA": "/ty tɑ̃vol lwɛ̃ də te pɑ̃se/",
+      "sourceMeaning": "曾经的理想 如今你已飞远",
+      "speaker": "",
+      "start": 126.467,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          773
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-050",
+      "sourceLineIndex": 50,
+      "lineIndex": 52,
+      "sourceText": "Quand sur la scène tu poses le pied",
+      "ipa": "[kɑ̃ syʁ la sɛn ty poz lə pje]",
+      "ear": "康 西于赫 拉 塞恩 蒂于 波兹 勒 普耶诶",
+      "meaning": "当你站在这舞台上面",
+      "suppliedText": "Quand sur la scène tu poses le pied",
+      "sourceIPA": "/kɑ̃ syʁ la sɛn ty poz lə pje/",
+      "sourceMeaning": "当你站在这舞台上面",
+      "speaker": "",
+      "start": 129.733,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          773,
+          774
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-051",
+      "sourceLineIndex": 51,
+      "lineIndex": 53,
+      "sourceText": "T'as refusé d'être un homme",
+      "ipa": "[ta ʁəfyze dɛtʁ‿œ̃n‿ɔm]",
+      "ear": "塔 赫菲于泽 戴特赫 恩恩 哦姆",
+      "meaning": "你不愿再做那个",
+      "suppliedText": "T'as refusé d'être un homme",
+      "sourceIPA": "/ta ʁəfyze dɛtʁ œ̃n ɔm/",
+      "sourceMeaning": "你早已拒绝承认",
+      "speaker": "",
+      "start": 133.4,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          774
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-052",
+      "sourceLineIndex": 52,
+      "lineIndex": 54,
+      "sourceText": "D'être un homme blessé",
+      "ipa": "[dɛtʁ‿œ̃n‿ɔm blɛse]",
+      "ear": "戴特赫 恩恩 哦姆 布莱塞",
+      "meaning": "受伤的男人。",
+      "suppliedText": "D'être un homme blessé",
+      "sourceIPA": "/dɛtʁ œ̃n ɔm blɛse/",
+      "sourceMeaning": "你也是会受伤的人",
+      "speaker": "",
+      "start": 136.2,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          774
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-053",
+      "sourceLineIndex": 53,
+      "lineIndex": 55,
+      "sourceText": "Quand le rideau s'est levé",
+      "ipa": "[kɑ̃ lə ʁido sɛ ləve]",
+      "ear": "康 勒 希多 塞 勒韦",
+      "meaning": "当大幕已经升起",
+      "suppliedText": "Quand le rideau s'est levé",
+      "sourceIPA": "/kɑ̃ lə ʁido sɛ ləve/",
+      "sourceMeaning": "当大幕已经升起",
+      "speaker": "",
+      "start": 138.2,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          774
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-054",
+      "sourceLineIndex": 54,
+      "lineIndex": 56,
+      "sourceText": "À quoi ça rime, dis-moi, à quoi ça rime",
+      "ipa": "[a kwa sa ʁim dimwa a kwa sa ʁim]",
+      "ear": "阿 克乌阿 萨 希姆 迪姆乌阿 阿 克乌阿 萨 希姆",
+      "meaning": "这有什么意义？告诉我，这有什么意义？",
+      "suppliedText": "À quoi ça rime, dis-moi, à quoi ça rime",
+      "sourceIPA": "/a kwa sa ʁim dimwa a kwa sa ʁim/",
+      "sourceMeaning": "意义何在 告诉我 为何而执着？",
+      "speaker": "",
+      "start": 140.6,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          774,
+          775
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-055",
+      "sourceLineIndex": 55,
+      "lineIndex": 57,
+      "sourceText": "Quand on te pointe du doigt, quel est ton crime?",
+      "ipa": "[kɑ̃t‿ɔ̃ tə pwɛ̃t dy dwa kɛl‿ɛ tɔ̃ kʁim]",
+      "ear": "康特 翁 特 普乌安特 迪于 德乌阿 凯勒 艾 通 克希姆",
+      "meaning": "当你被指手画脚 你有何罪过？",
+      "suppliedText": "Quand on te pointe du doigt, quel est ton crime?",
+      "sourceIPA": "/kɑ̃t ɔ̃ tə pwɛ̃t dy dwa kɛl ɛ tɔ̃ kʁim/",
+      "sourceMeaning": "当你被指手画脚 你有何罪过？",
+      "speaker": "",
+      "start": 143.769,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          775
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-056",
+      "sourceLineIndex": 56,
+      "lineIndex": 58,
+      "sourceText": "À quoi ça rime, dis-moi, à quoi ça rime",
+      "ipa": "[a kwa sa ʁim dimwa a kwa sa ʁim]",
+      "ear": "阿 克乌阿 萨 希姆 迪姆乌阿 阿 克乌阿 萨 希姆",
+      "meaning": "这有什么意义？告诉我，这有什么意义？",
+      "suppliedText": "À quoi ça rime, dis-moi, à quoi ça rime",
+      "sourceIPA": "/a kwa sa ʁim dimwa a kwa sa ʁim/",
+      "sourceMeaning": "意义何在 告诉我 为何而执着？",
+      "speaker": "",
+      "start": 146.846,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          775,
+          776
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-02-057",
+      "sourceLineIndex": 57,
+      "lineIndex": 59,
+      "sourceText": "Quand on me pointe du doigt, quel est mon crime?",
+      "ipa": "[kɑ̃t‿ɔ̃ mə pwɛ̃t dy dwa kɛl‿ɛ mɔ̃ kʁim]",
+      "ear": "康特 翁 默 普乌安特 迪于 德乌阿 凯勒 艾 蒙 克希姆",
+      "meaning": "当我被指手画脚 我有何罪过？",
+      "suppliedText": "Quand on me pointe du doigt, quel est mon crime?",
+      "sourceIPA": "/kɑ̃t ɔ̃ mə pwɛ̃t dy dwa kɛl ɛ mɔ̃ kʁim/",
+      "sourceMeaning": "当我被指手画脚 我有何罪过？",
+      "speaker": "",
+      "start": 150.615,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          776
+        ],
+        "wordCoverage": 1.0
       }
     }
-  ],
-  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+  ]
 }

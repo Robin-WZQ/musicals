@@ -8,7 +8,7 @@
 
 新增 [《摇滚莫扎特》2010年巴黎录像](https://robin-wzq.github.io/musicals/musical.html?id=mozart-opera-rock-2010)：按原录像章节收录开场和21首歌曲，每项有独立页面与中文介绍。采用用户提供的716个时间对应字幕块，整理为1911条四层学习内容，覆盖歌词、对白和返场。各句可点击重听、单句暂停或循环；字幕块内的新分句切点使用近似标记。[来源与时间说明](docs/mozart-sources.md)。
 
-新增 [《莫里哀》](https://robin-wzq.github.io/musicals/musical.html?id=moliere)：本地曲库按指定歌词学习页筛选为16首歌曲、284段四层学习卡片。已对用户提供的字幕作一轮文字校对，并同步维护参考音标、中文空耳与释义；按用户要求不显示「识别不清」标注。原唱和原始时间档案保留，时间轴仍为近似值。接入范围见 [莫里哀数据说明](docs/moliere-sources.md)。
+新增 [《莫里哀》](https://robin-wzq.github.io/musicals/musical.html?id=moliere)：曲库按指定歌词学习页筛选为16首歌曲、625行四层学习卡片。已校对用户提供的654行完整歌词及中文释义，按现有现场录像的删节与顺序组织学习卡片，并更新参考音标和中文空耳；按用户要求不显示「识别不清」标注。原唱和原始时间档案保留，时间轴仍为近似值。接入范围见 [莫里哀数据说明](docs/moliere-sources.md)。
 
 新增 [《罗密欧与朱丽叶》2010版](https://robin-wzq.github.io/musicals/musical.html?id=romeo-et-juliette-2010)：按用户指定的完整录像收录40段，含舞会和返场；每段有中文资料与介绍。用户提供的整场法语字幕与时间点已接入39首有词曲目，共1,903条法语、联诵音标、中文空耳与释义；《舞会》保留器乐播放页。字幕块内的逐句切点为近似位置。来源、版本和路由说明见 [2010版数据说明](docs/romeo-et-juliette-2010.md)。
 

@@ -1,310 +1,1143 @@
 {
   "videoId": "pHhXM6TCwns",
   "playbackVideoId": "pHhXM6TCwns",
-  "version": 2,
-  "textSource": "user-supplied-auto-transcript",
-  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "spelling-and-grammar-edits",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "sourceFileSHA256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134",
+  "textReviewStatus": "cross-checked",
+  "textReviewScope": "supplied-lyrics-spelling-grammar-and-chinese-meaning",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
-  "meaningSource": "editorial-chinese-from-user-transcript",
-  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
+  "meaningSource": "reviewed-user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "note": "歌词依据你提供的完整文件校对，中文释义已修订。学习卡片按现有现场录像整理，完整歌词另行归档；≈ 表示依据原字幕估算的分句位置。音标与空耳为文字的参考读法。",
   "sources": [
     {
-      "label": "本段原唱录像",
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+    },
+    {
+      "label": "本曲现场录像",
       "url": "https://www.youtube.com/watch?v=pHhXM6TCwns"
     }
   ],
   "entries": [
     {
-      "sourceText": "Je suis né disgracieux et de",
-      "start": 0,
-      "ipa": "[ʒə sɥi ne dizɡʁasjø e də]",
-      "ear": "热 斯于伊 内 迪兹格哈斯耶厄 诶 德",
-      "meaning": "我生来丑陋，而且",
-      "suppliedText": "j'imagine que vous devez être un homme heureux et comblé je suis né disgracieux et de",
-      "sourceLineId": "moliere-timed-651",
+      "sourceLineId": "moliere-le-spectacle-musical-08-001",
+      "sourceLineIndex": 1,
+      "lineIndex": 1,
+      "sourceText": "Je suis né disgracieux et de santé fragile",
+      "ipa": "[ʒə sɥi ne dizɡʁasjø e də sɑ̃te fʁaʒil]",
+      "ear": "热 斯于伊 内 迪兹格哈斯耶厄 诶 德 桑特 弗哈日勒",
+      "meaning": "我生来丑陋，身体虚弱。",
+      "suppliedText": "Je suis né disgracieux et de santé fragile",
+      "sourceIPA": "/ʒə sɥi ne dizɡʁasjøz e də sɑ̃te fʁaʒil/",
+      "sourceMeaning": "我生来就不讨人爱 还落得一身病痛",
+      "speaker": "",
+      "start": 5.176,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 0,
-        "sourceLineNumber": 651,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          651,
+          652
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Santé fragile, le caractère ombrageux et versatile. La haine était devenue mon étendard, le vice et la débauche mes",
-      "start": 8,
-      "ipa": "[sɑ̃te fʁaʒil lə kaʁaktɛʁ‿ɔ̃bʁaʒø e vɛʁsatil la ɛn‿etɛ dəvny mɔ̃n‿etɑ̃daʁ lə vis e la deboʃ me]",
-      "ear": "桑特 弗哈日勒 勒 卡哈克泰赫 翁布哈热厄 诶 韦赫萨蒂勒 拉 艾恩 诶泰 德弗尼于 蒙恩 诶唐达赫 勒 维斯 诶 拉 德博什 梅",
-      "meaning": "身体虚弱，性情多疑善变。仇恨成了我的旗帜，罪恶与放纵成了我",
-      "suppliedText": "senté fragile le caractère ombrage et versatile la haine était devenue mon étendard le vice et la débuche mes",
-      "sourceLineId": "moliere-timed-652",
+      "sourceLineId": "moliere-le-spectacle-musical-08-002",
+      "sourceLineIndex": 2,
+      "lineIndex": 2,
+      "sourceText": "Le caractère ombrageux et versatile",
+      "ipa": "[lə kaʁaktɛʁ‿ɔ̃bʁaʒø e vɛʁsatil]",
+      "ear": "勒 卡哈克泰赫 翁布哈热厄 诶 韦赫萨蒂勒",
+      "meaning": "性情多疑而善变。",
+      "suppliedText": "Le caractère ombrageux et versatile",
+      "sourceIPA": "/lə kaʁaktɛʁ ɔ̃bʁaʒøz e vɛʁsatil/",
+      "sourceMeaning": "性情不安而又无所适从",
+      "speaker": "",
+      "start": 8.842,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 8,
-        "sourceLineNumber": 652,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          652
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Seuls exutoires. Ma vie était sans espoir, j'accumulais les déboires. Mes défaites étaient toujours plus grandes que mes victoires. Qu'importent les histoires,",
-      "start": 16,
-      "ipa": "[sœl‿ɛɡzytwaʁ ma vi etɛ sɑ̃ ɛspwaʁ ʒakymylɛ le debwaʁ me defɛt‿etɛ tuʒuʁ ply ɡʁɑ̃d kə me viktwaʁ kɛ̃pɔʁt lez‿istwaʁ]",
-      "ear": "瑟厄勒 艾格齐于特乌阿赫 玛 维 诶泰 桑 艾斯普乌阿赫 扎基于米于莱 莱 德布乌阿赫 梅 德费特 诶泰 图茹赫 普吕 格杭德 克 梅 维克特乌阿赫 坎珀赫特 莱兹 伊斯特乌阿赫",
-      "meaning": "唯一的宣泄。生活毫无希望，挫折不断积累。我的失败总比胜利更多。那些故事又有什么用，",
-      "suppliedText": "seules exutoires ma vie était senspoir j'accumulais les desoir mes défêtes étaient toujours plus grandes que mes victoires qu'importe les- Y Histoire",
-      "sourceLineId": "moliere-timed-653",
+      "sourceLineId": "moliere-le-spectacle-musical-08-003",
+      "sourceLineIndex": 3,
+      "lineIndex": 3,
+      "sourceText": "La haine était devenue mon étendard",
+      "ipa": "[la ɛn‿etɛ dəvny mɔ̃n‿etɑ̃daʁ]",
+      "ear": "拉 艾恩 诶泰 德弗尼于 蒙恩 诶唐达赫",
+      "meaning": "仇恨 曾经 成为了我的标识",
+      "suppliedText": "La haine était devenue mon étendard",
+      "sourceIPA": "/la ɛn etɛ dəvny mɔ̃n etɑ̃daʁ/",
+      "sourceMeaning": "仇恨 曾经 成为了我的标识",
+      "speaker": "",
+      "start": 10.947,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 16,
-        "sourceLineNumber": 653,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          652
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Impossible d'y croire. Je pensais qu'il était trop tard. C'est la vie qui m'a fait. Moi, je n'ai rien",
-      "start": 25,
-      "ipa": "[ɛ̃pɔsibl di kʁwaʁ ʒə pɑ̃sɛ kil‿etɛ tʁo taʁ sɛ la vi ki ma fɛ mwa ʒə ne ʁjɛ̃]",
-      "ear": "安珀西布勒 迪 克赫乌阿赫 热 庞塞 基勒 诶泰 特霍 塔赫 塞 拉 维 基 玛 费 姆乌阿 热 内 赫耶安",
-      "meaning": "我无法相信。我以为已经太迟。是生活造就了我。我从未",
-      "suppliedText": "impossible d' croire je pensais qu'il était trop tard était trop tard c'est la vie qui m'a fait moi je n'ai rien",
-      "sourceLineId": "moliere-timed-654",
+      "sourceLineId": "moliere-le-spectacle-musical-08-004",
+      "sourceLineIndex": 4,
+      "lineIndex": 4,
+      "sourceText": "Le vice et la débauche, mes seuls exutoires",
+      "ipa": "[lə vis e la deboʃ me sœl‿ɛɡzytwaʁ]",
+      "ear": "勒 维斯 诶 拉 德博什 梅 瑟厄勒 艾格齐于特乌阿赫",
+      "meaning": "罪恶与放纵，是我唯一的出口",
+      "suppliedText": "Le vice et la débauche, mes seuls exutoires",
+      "sourceIPA": "/lə vis e la deboʃ me sœlz ɛɡzytwaʁ/",
+      "sourceMeaning": "罪恶与放纵，是我唯一的出口",
+      "speaker": "",
+      "start": 13.474,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 25,
-        "sourceLineNumber": 654,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          652,
+          653
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Demandé. Cette vie, je l'ai refusée, mais les dieux ont décidé. C'est",
-      "start": 34,
-      "ipa": "[dəmɑ̃de sɛt vi ʒə le ʁəfyze mɛ le djø ɔ̃ deside sɛ]",
-      "ear": "德芒德 塞特 维 热 莱 赫菲于泽 梅 莱 德耶厄 翁 德西德 塞",
-      "meaning": "有所请求。我拒绝过这样的生活，可诸神作出了决定。是",
-      "suppliedText": "deé cette vie je l'ai refusé mais les dieux ont décidé c'est",
-      "sourceLineId": "moliere-timed-655",
+      "sourceLineId": "moliere-le-spectacle-musical-08-005",
+      "sourceLineIndex": 5,
+      "lineIndex": 5,
+      "sourceText": "Ma vie était sans espoir, j'accumulais les déboires",
+      "ipa": "[ma vi etɛ sɑ̃z‿ɛspwaʁ ʒakymylɛ le debwaʁ]",
+      "ear": "玛 维 诶泰 桑兹 艾斯普乌阿赫 扎基于米于莱 莱 德布乌阿赫",
+      "meaning": "生活毫无希望，挫折不断积累。",
+      "suppliedText": "Ma vie était sans espoir, j'accumulais ai les déboires",
+      "sourceIPA": "/ma vi etɛ sɑ̃z ɛspwaʁ ʒakymylɛz e le debwaʁ/",
+      "sourceMeaning": "我的人生曾断了希望 我积攒着绝望",
+      "speaker": "",
+      "start": 16.75,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 34,
-        "sourceLineNumber": 655,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          653
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "La vie qui m'a fait. Moi, je n'ai rien demandé. Cette vie, je l'ai refusée, mais les",
-      "start": 42,
-      "ipa": "[la vi ki ma fɛ mwa ʒə ne ʁjɛ̃ dəmɑ̃de sɛt vi ʒə le ʁəfyze mɛ le]",
-      "ear": "拉 维 基 玛 费 姆乌阿 热 内 赫耶安 德芒德 塞特 维 热 莱 赫菲于泽 梅 莱",
-      "meaning": "生活造就了我。我从未有所请求。我拒绝过这样的生活，可诸",
-      "suppliedText": "la vie qui m'a fait moi je n'ai rien fa cette vie je l'ai refusé mais les",
-      "sourceLineId": "moliere-timed-656",
+      "sourceLineId": "moliere-le-spectacle-musical-08-006",
+      "sourceLineIndex": 6,
+      "lineIndex": 6,
+      "sourceText": "Mes défaites étaient toujours plus grandes que mes victoires",
+      "ipa": "[me defɛt‿etɛ tuʒuʁ ply ɡʁɑ̃d kə me viktwaʁ]",
+      "ear": "梅 德费特 诶泰 图茹赫 普吕 格杭德 克 梅 维克特乌阿赫",
+      "meaning": "细数我的失败 数量总是远在胜利之上",
+      "suppliedText": "Mes défaites étaient toujours plus grandes que mes victoires",
+      "sourceIPA": "/me defɛtz etɛ tuʒuʁ ply ɡʁɑ̃d kə me viktwaʁ/",
+      "sourceMeaning": "细数我的失败 数量总是远在胜利之上",
+      "speaker": "",
+      "start": 20.125,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 42,
-        "sourceLineNumber": 656,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          653
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Dieux ont décidé. J'avais au fond de moi une telle colère qui m'animait, m'exaltait et",
-      "start": 51,
-      "ipa": "[djø ɔ̃ deside ʒavɛ o fɔ̃ də mwa yn tɛl kolɛʁ ki manimɛ mɛɡzaltɛ e]",
-      "ear": "德耶厄 翁 德西德 扎韦 奥 丰 德 姆乌阿 于恩 泰勒 科莱赫 基 玛尼梅 梅格扎勒泰 诶",
-      "meaning": "神作出了决定。我心底曾有如此强烈的愤怒，驱使我，让我激动，让我",
-      "suppliedText": "dieux ont décidé j'avais au fond de moi une telle colère qui m'animait m'exaltait et",
-      "sourceLineId": "moliere-timed-657",
+      "sourceLineId": "moliere-le-spectacle-musical-08-007",
+      "sourceLineIndex": 7,
+      "lineIndex": 7,
+      "sourceText": "Qu'importent les histoires, impossible d'y croire",
+      "ipa": "[kɛ̃pɔʁt lez‿istwaʁ ɛ̃pɔsibl di kʁwaʁ]",
+      "ear": "坎珀赫特 莱兹 伊斯特乌阿赫 安珀西布勒 迪 克赫乌阿赫",
+      "meaning": "那些故事又有什么用，我无法相信。",
+      "suppliedText": "Qu'importe les histoires, impossible d'y croire",
+      "sourceIPA": "/kɛ̃pɔʁt lez istwaʁ ɛ̃pɔsibl di kʁwaʁ/",
+      "sourceMeaning": "管他什么故事 全都当作虚妄",
+      "speaker": "",
+      "start": 23.5,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 51,
-        "sourceLineNumber": 657,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          653,
+          654
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "M'enivrait. Je m'adonnais à tous les plaisirs, n'en déplaise à ceux qui avaient à redire. Cela me faisait souffrir. Souffrir me donnait",
-      "start": 58,
-      "ipa": "[mɑ̃nivʁɛ ʒə madɔnɛ a tu le plɛziʁ nɑ̃ deplɛz‿a sø ki avɛ a ʁədiʁ səla mə fəzɛ sufʁiʁ sufʁiʁ mə dɔnɛ]",
-      "ear": "芒尼弗赫 热 玛多奈 阿 图 莱 普莱齐赫 南 德普莱兹 阿 瑟厄 基 阿韦 阿 赫迪赫 瑟拉 默 弗泽 苏弗希赫 苏弗希赫 默 多奈",
-      "meaning": "沉醉。我纵情于一切享乐，任那些批评的人不满。这让我痛苦，而痛苦又让我露出",
-      "suppliedText": "m'enivrait je m' don à tous les plaisirs en déplais à ce qui avait à redire cela me faisait souffrir souffrir me donnait",
-      "sourceLineId": "moliere-timed-658",
+      "sourceLineId": "moliere-le-spectacle-musical-08-008",
+      "sourceLineIndex": 8,
+      "lineIndex": 8,
+      "sourceText": "Je pensais qu'il était trop tard",
+      "ipa": "[ʒə pɑ̃sɛ kil‿etɛ tʁo taʁ]",
+      "ear": "热 庞塞 基勒 诶泰 特霍 塔赫",
+      "meaning": "我觉得一切都已太迟",
+      "suppliedText": "Je pensais qu'il était trop tard",
+      "sourceIPA": "/ʒə pɑ̃sɛ kil etɛ tʁo taʁ/",
+      "sourceMeaning": "我觉得一切都已太迟",
+      "speaker": "",
+      "start": 26.5,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 58,
-        "sourceLineNumber": 658,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          654
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Le sourire. Puis Dieu m'a sauvé de mes vices, libéré de mes supplices. Désormais, ma vie sera dénuée de tout artifice. Quoi que je",
-      "start": 66,
-      "ipa": "[lə suʁiʁ pɥi djø ma sove də me vis libeʁe də me syplis dezɔʁmɛ ma vi səʁa denye də tut‿aʁtifis kwa kə ʒə]",
-      "ear": "勒 苏希赫 普于伊 德耶厄 玛 索韦 德 梅 维斯 利贝赫 德 梅 西于普利斯 德佐赫梅 玛 维 瑟哈 德尼于诶 德 图特 阿赫蒂菲斯 克乌阿 克 热",
-      "meaning": "笑容。随后，上帝救我摆脱罪恶，解除了我的苦刑。从此，我的生活将不再虚饰。无论我做",
-      "suppliedText": "le sourire puis tu m'a sauvé de mes fils libéré mes sue désormais ma vie sera déué de tout ti fils quoi que je suis",
-      "sourceLineId": "moliere-timed-659",
+      "sourceLineId": "moliere-le-spectacle-musical-08-009",
+      "sourceLineIndex": 9,
+      "lineIndex": 9,
+      "sourceText": "C'est la vie qui m'a fait",
+      "ipa": "[sɛ la vi ki ma fɛ]",
+      "ear": "塞 拉 维 基 玛 费",
+      "meaning": "是命运让我变成这副模样",
+      "suppliedText": "C'est la vie qui m'a fait",
+      "sourceIPA": "/sɛ la vi ki ma fɛ/",
+      "sourceMeaning": "是命运让我变成这副模样",
+      "speaker": "",
+      "start": 29.125,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 66,
-        "sourceLineNumber": 659,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          654
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Fisse, ce sera la justice. Si jamais je dévie, que le ciel me punisse. C'est la vie qui m'a fait.",
-      "start": 75,
-      "ipa": "[fis sə səʁa la ʒystis si ʒamɛ ʒə devi kə lə sjɛl mə pynis sɛ la vi ki ma fɛ]",
-      "ear": "菲斯 瑟 瑟哈 拉 日于斯蒂斯 西 扎梅 热 德维 克 勒 斯耶艾勒 默 普于尼斯 塞 拉 维 基 玛 费",
-      "meaning": "什么，都将是正义。如果我偏离正道，愿上天惩罚我。是生活造就了我。",
-      "suppliedText": "filsira la just si jamais je défie que le ciel meisse c'est la vie qui m'a fait",
-      "sourceLineId": "moliere-timed-660",
+      "sourceLineId": "moliere-le-spectacle-musical-08-010",
+      "sourceLineIndex": 10,
+      "lineIndex": 10,
+      "sourceText": "Non, je n'ai rien demandé",
+      "ipa": "[nɔ̃ ʒə ne ʁjɛ̃ dəmɑ̃de]",
+      "ear": "农 热 内 赫耶安 德芒德",
+      "meaning": "不，我什么也没要求过",
+      "suppliedText": "Non, je n'ai rien demandé",
+      "sourceIPA": "/nɔ̃ ʒə ne ʁjɛ̃ dəmɑ̃de/",
+      "sourceMeaning": "不，我什么也没要求过",
+      "speaker": "",
+      "start": 32.125,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 75,
-        "sourceLineNumber": 660,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          654,
+          655
+        ],
+        "wordCoverage": 0.833
       }
     },
     {
-      "sourceText": "Moi, je n'ai rien demandé. Cette vie, je l'ai refusée,",
-      "start": 82,
-      "ipa": "[mwa ʒə ne ʁjɛ̃ dəmɑ̃de sɛt vi ʒə le ʁəfyze]",
-      "ear": "姆乌阿 热 内 赫耶安 德芒德 塞特 维 热 莱 赫菲于泽",
-      "meaning": "我从未有所请求。我拒绝过这样的生活，",
-      "suppliedText": "moi je n rienander Cette viille je l'ai refusé",
-      "sourceLineId": "moliere-timed-661",
+      "sourceLineId": "moliere-le-spectacle-musical-08-011",
+      "sourceLineIndex": 11,
+      "lineIndex": 11,
+      "sourceText": "Cette vie je l'ai refusée",
+      "ipa": "[sɛt vi ʒə le ʁəfyze]",
+      "ear": "塞特 维 热 莱 赫菲于泽",
+      "meaning": "我也不愿过这样的人生",
+      "suppliedText": "Cette vie je l'ai refusée",
+      "sourceIPA": "/sɛt vi ʒə le ʁəfyze/",
+      "sourceMeaning": "我也不愿过这样的人生",
+      "speaker": "",
+      "start": 34.571,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 82,
-        "sourceLineNumber": 661,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          655
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Mais les dieux ont décidé. Et je",
-      "start": 89,
-      "ipa": "[mɛ le djø ɔ̃ deside e ʒə]",
-      "ear": "梅 莱 德耶厄 翁 德西德 诶 热",
-      "meaning": "可诸神作出了决定。而我",
-      "suppliedText": "mais die on décidé et je",
-      "sourceLineId": "moliere-timed-662",
+      "sourceLineId": "moliere-le-spectacle-musical-08-012",
+      "sourceLineIndex": 12,
+      "lineIndex": 12,
+      "sourceText": "Mais les dieux ont décidé",
+      "ipa": "[mɛ le djø ɔ̃ deside]",
+      "ear": "梅 莱 德耶厄 翁 德西德",
+      "meaning": "可诸神早已做好了决定",
+      "suppliedText": "Mais les dieux ont décidé",
+      "sourceIPA": "/mɛ le djøz ɔ̃ deside/",
+      "sourceMeaning": "可诸神早已做好了决定",
+      "speaker": "",
+      "start": 38.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 89,
-        "sourceLineNumber": 662,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          655
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Pleure, oui, je pleure. Comédie, tragédie,",
-      "start": 99,
-      "ipa": "[plœʁ wi ʒə plœʁ komedi tʁaʒedi]",
-      "ear": "普勒厄赫 乌伊 热 普勒厄赫 科梅迪 特哈热迪",
-      "meaning": "哭泣，是的，我哭泣。喜剧，悲剧，",
-      "suppliedText": "pleure puoui je pleure coméie tragédie",
-      "sourceLineId": "moliere-timed-663",
+      "sourceLineId": "moliere-le-spectacle-musical-08-013",
+      "sourceLineIndex": 13,
+      "lineIndex": 13,
+      "sourceText": "C'est la vie qui m'a fait",
+      "ipa": "[sɛ la vi ki ma fɛ]",
+      "ear": "塞 拉 维 基 玛 费",
+      "meaning": "是命运让我变得这般荒唐",
+      "suppliedText": "C'est la vie qui m'a fait",
+      "sourceIPA": "/sɛ la vi ki ma fɛ/",
+      "sourceMeaning": "是命运让我变得这般荒唐",
+      "speaker": "",
+      "start": 40.857,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 99,
-        "sourceLineNumber": 663,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          655,
+          656
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Avili et maudit. Trahison, perfidie, je n'ai pas choisi. Comédie,",
-      "start": 107,
-      "ipa": "[avili e modi tʁaizɔ̃ pɛʁfidi ʒə ne pa ʃwazi komedi]",
-      "ear": "阿维利 诶 莫迪 特哈伊宗 佩赫菲迪 热 内 帕 什乌阿齐 科梅迪",
-      "meaning": "被贬低，被诅咒。背叛，阴险，这并非我的选择。喜剧，",
-      "suppliedText": "avil est maudit trahison perfidie mon je n'ai pas choisi comédie",
-      "sourceLineId": "moliere-timed-664",
+      "sourceLineId": "moliere-le-spectacle-musical-08-014",
+      "sourceLineIndex": 14,
+      "lineIndex": 14,
+      "sourceText": "Moi je n'ai rien demandé",
+      "ipa": "[mwa ʒə ne ʁjɛ̃ dəmɑ̃de]",
+      "ear": "姆乌阿 热 内 赫耶安 德芒德",
+      "meaning": "我却未曾索要过什么",
+      "suppliedText": "Moi je n'ai rien demandé",
+      "sourceIPA": "/mwa ʒə ne ʁjɛ̃ dəmɑ̃de/",
+      "sourceMeaning": "我却未曾索要过什么",
+      "speaker": "",
+      "start": 44.7,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 107,
-        "sourceLineNumber": 664,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          656
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tragédie, funeste parodie, puis repenti et converti. Non, je n'ai pas",
-      "start": 118,
-      "ipa": "[tʁaʒedi fynɛst paʁodi pɥi ʁəpɑ̃ti e kɔ̃vɛʁti nɔ̃ ʒə ne pa]",
-      "ear": "特哈热迪 菲于奈斯特 帕霍迪 普于伊 赫庞蒂 诶 孔韦赫蒂 农 热 内 帕",
-      "meaning": "悲剧，悲惨的模仿，后来忏悔，皈依。不，我并没有",
-      "suppliedText": "tragédie funesse de parodie puis repenti converti non je n'ai pas",
-      "sourceLineId": "moliere-timed-665",
+      "sourceLineId": "moliere-le-spectacle-musical-08-015",
+      "sourceLineIndex": 15,
+      "lineIndex": 15,
+      "sourceText": "Cette vie je l'ai refusée",
+      "ipa": "[sɛt vi ʒə le ʁəfyze]",
+      "ear": "塞特 维 热 莱 赫菲于泽",
+      "meaning": "我也不愿过这样的人生",
+      "suppliedText": "Cette vie je l'ai refusée",
+      "sourceIPA": "/sɛt vi ʒə le ʁəfyze/",
+      "sourceMeaning": "我也不愿过这样的人生",
+      "speaker": "",
+      "start": 47.4,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 118,
-        "sourceLineNumber": 665,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          656
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Choisi. C'est la vie qui m'a fait. Moi, je n'ai rien demandé. Cette vie, je l'ai",
-      "start": 128,
-      "ipa": "[ʃwazi sɛ la vi ki ma fɛ mwa ʒə ne ʁjɛ̃ dəmɑ̃de sɛt vi ʒə le]",
-      "ear": "什乌阿齐 塞 拉 维 基 玛 费 姆乌阿 热 内 赫耶安 德芒德 塞特 维 热 莱",
-      "meaning": "选择。是生活造就了我。我从未有所请求。这样的生活，我曾",
-      "suppliedText": "choisi c'est la fille qui m'a fait moi je n'ai rien demandé cette vie je l'ai",
-      "sourceLineId": "moliere-timed-666",
+      "sourceLineId": "moliere-le-spectacle-musical-08-016",
+      "sourceLineIndex": 16,
+      "lineIndex": 16,
+      "sourceText": "Mais les dieux ont décidé",
+      "ipa": "[mɛ le djø ɔ̃ deside]",
+      "ear": "梅 莱 德耶厄 翁 德西德",
+      "meaning": "可诸神早已做好了决定",
+      "suppliedText": "Mais les dieux ont décidé",
+      "sourceIPA": "/mɛ le djøz ɔ̃ deside/",
+      "sourceMeaning": "可诸神早已做好了决定",
+      "speaker": "",
+      "start": 50.1,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 128,
-        "sourceLineNumber": 666,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          656,
+          657
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Refusée, mais les dieux ont décidé. Et je pleure,",
-      "start": 138,
-      "ipa": "[ʁəfyze mɛ le djø ɔ̃ deside e ʒə plœʁ]",
-      "ear": "赫菲于泽 梅 莱 德耶厄 翁 德西德 诶 热 普勒厄赫",
-      "meaning": "拒绝，可诸神作出了决定。而我哭泣，",
-      "suppliedText": "refusé mais les yeux ont dcidé et je pleur",
-      "sourceLineId": "moliere-timed-667",
+      "sourceLineId": "moliere-le-spectacle-musical-08-017",
+      "sourceLineIndex": 17,
+      "lineIndex": 17,
+      "sourceText": "J'avais au fond de moi une telle colère qui m'animait",
+      "ipa": "[ʒavɛ o fɔ̃ də mwa yn tɛl kolɛʁ ki manimɛ]",
+      "ear": "扎韦 奥 丰 德 姆乌阿 于恩 泰勒 科莱赫 基 玛尼梅",
+      "meaning": "我心底曾有如此强烈的愤怒，驱使着我。",
+      "suppliedText": "J'avais au fond de moi une telle colère qui m'animait",
+      "sourceIPA": "/ʒavɛz o fɔ̃ də mwa yn tɛl kolɛʁ ki manimɛ/",
+      "sourceMeaning": "在我的心底深处 曾藏着某种愤意 它让我兴奋",
+      "speaker": "",
+      "start": 52.167,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 138,
-        "sourceLineNumber": 667,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          657
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Oui, je pleure.",
-      "start": 148,
+      "sourceLineId": "moliere-le-spectacle-musical-08-018",
+      "sourceLineIndex": 18,
+      "lineIndex": 18,
+      "sourceText": "M'exaltait et m'enivrait",
+      "ipa": "[mɛɡzaltɛ e mɑ̃nivʁɛ]",
+      "ear": "梅格扎勒泰 诶 芒尼弗赫",
+      "meaning": "令我躁动 令我陶醉其中",
+      "suppliedText": "M'exaltait et m'enivrait",
+      "sourceIPA": "/mɛɡzaltɛt e mɑ̃nivʁɛ/",
+      "sourceMeaning": "令我躁动 令我陶醉其中",
+      "speaker": "",
+      "start": 56.833,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          657,
+          658
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-019",
+      "sourceLineIndex": 19,
+      "lineIndex": 19,
+      "sourceText": "Je m'adonnais à tous les plaisirs",
+      "ipa": "[ʒə madɔnɛ a tu le plɛziʁ]",
+      "ear": "热 玛多奈 阿 图 莱 普莱齐赫",
+      "meaning": "我沉湎于每份快乐",
+      "suppliedText": "Je m'adonnais à tous les plaisirs",
+      "sourceIPA": "/ʒə madɔnɛz a tu le plɛziʁ/",
+      "sourceMeaning": "我沉湎于每份快乐",
+      "speaker": "",
+      "start": 58.64,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          658
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-020",
+      "sourceLineIndex": 20,
+      "lineIndex": 20,
+      "sourceText": "N’en déplaise à ceux qui avaient à redire",
+      "ipa": "[nɑ̃ deplɛz‿a sø ki avɛ a ʁədiʁ]",
+      "ear": "南 德普莱兹 阿 瑟厄 基 阿韦 阿 赫迪赫",
+      "meaning": "任那些批评的人不满。",
+      "suppliedText": "En déplaise à ceux qui avaient à redire",
+      "sourceIPA": "/ɑ̃ deplɛz a sø ki avɛt a ʁədiʁ/",
+      "sourceMeaning": "尽情冒犯 每个爱找麻烦的挑剔者",
+      "speaker": "",
+      "start": 60.88,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          658
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-021",
+      "sourceLineIndex": 21,
+      "lineIndex": 21,
+      "sourceText": "Cela me faisait souffrir",
+      "ipa": "[səla mə fəzɛ sufʁiʁ]",
+      "ear": "瑟拉 默 弗泽 苏弗希赫",
+      "meaning": "这让我倍受折磨",
+      "suppliedText": "Cela me faisait souffrir",
+      "sourceIPA": "/səla mə fəzɛ sufʁiʁ/",
+      "sourceMeaning": "这让我倍受折磨",
+      "speaker": "",
+      "start": 63.76,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          658
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-022",
+      "sourceLineIndex": 22,
+      "lineIndex": 22,
+      "sourceText": "Mes souffrances me donnaient le sourire",
+      "ipa": "[me sufʁɑ̃s mə dɔnɛ lə suʁiʁ]",
+      "ear": "梅 苏弗杭斯 默 多奈 勒 苏希赫",
+      "meaning": "可折磨反倒带给我笑意",
+      "suppliedText": "Mes souffrances me donnaient le sourire",
+      "sourceIPA": "/me sufʁɑ̃s mə dɔnɛ lə suʁiʁ/",
+      "sourceMeaning": "可折磨反倒带给我笑意",
+      "speaker": "",
+      "start": 65.04,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          658,
+          659
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-023",
+      "sourceLineIndex": 23,
+      "lineIndex": 23,
+      "sourceText": "Puis Dieu m'a sauvé de mes vices",
+      "ipa": "[pɥi djø ma sove də me vis]",
+      "ear": "普于伊 德耶厄 玛 索韦 德 梅 维斯",
+      "meaning": "后来上帝于堕落中将我解救",
+      "suppliedText": "Puis Dieu m'a sauvé de mes vices",
+      "sourceIPA": "/pɥi djø ma sove də me vis/",
+      "sourceMeaning": "后来上帝于堕落中将我解救",
+      "speaker": "",
+      "start": 66.72,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          659
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-024",
+      "sourceLineIndex": 24,
+      "lineIndex": 24,
+      "sourceText": "Libéré de mes supplices",
+      "ipa": "[libeʁe də me syplis]",
+      "ear": "利贝赫 德 梅 西于普利斯",
+      "meaning": "让我免受种种酷刑",
+      "suppliedText": "Libéré de mes supplices",
+      "sourceIPA": "/libeʁe də me syplis/",
+      "sourceMeaning": "让我免受种种酷刑",
+      "speaker": "",
+      "start": 69.6,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          659
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-025",
+      "sourceLineIndex": 25,
+      "lineIndex": 25,
+      "sourceText": "Désormais ma vie sera dénuée de tout artifice",
+      "ipa": "[dezɔʁmɛ ma vi səʁa denye də tut‿aʁtifis]",
+      "ear": "德佐赫梅 玛 维 瑟哈 德尼于诶 德 图特 阿赫蒂菲斯",
+      "meaning": "从此，我的生活将不再虚饰。",
+      "suppliedText": "Désormais ma vie sera dénuée de tout artifice",
+      "sourceIPA": "/dezɔʁmɛ ma vi səʁa denye də tut aʁtifis/",
+      "sourceMeaning": "从今往后 我的人生将远离一切奇技淫巧",
+      "speaker": "",
+      "start": 71.04,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          659
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-026",
+      "sourceLineIndex": 26,
+      "lineIndex": 26,
+      "sourceText": "Quoi que je subisse, sévira la justice",
+      "ipa": "[kwa kə ʒə sybis seviʁa la ʒystis]",
+      "ear": "克乌阿 克 热 西于比斯 塞维哈 拉 日于斯蒂斯",
+      "meaning": "无论我承受什么，正义终将降临。",
+      "suppliedText": "Quoi que je subisse, sévira la justice",
+      "sourceIPA": "/kwa kə ʒə sybis seviʁa la ʒystis/",
+      "sourceMeaning": "无论蒙受何苦 公道自在人间",
+      "speaker": "",
+      "start": 73.92,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          659,
+          660
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-027",
+      "sourceLineIndex": 27,
+      "lineIndex": 27,
+      "sourceText": "Et si jamais je dévie que le ciel me punisse",
+      "ipa": "[e si ʒamɛ ʒə devi kə lə sjɛl mə pynis]",
+      "ear": "诶 西 扎梅 热 德维 克 勒 斯耶艾勒 默 普于尼斯",
+      "meaning": "如果我偏离正道，愿上天惩罚我。",
+      "suppliedText": "Et si jamais je dévie que le ciel me punisse",
+      "sourceIPA": "/e si ʒamɛ ʒə devi kə lə sjɛl mə pynis/",
+      "sourceMeaning": "而一旦我偏离正轨 则上天会将我惩罚",
+      "speaker": "",
+      "start": 76.273,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          660
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-028",
+      "sourceLineIndex": 28,
+      "lineIndex": 28,
+      "sourceText": "C'est la vie qui m'a fait",
+      "ipa": "[sɛ la vi ki ma fɛ]",
+      "ear": "塞 拉 维 基 玛 费",
+      "meaning": "是命运让我变成这副模样",
+      "suppliedText": "C'est la vie qui m'a fait",
+      "sourceIPA": "/sɛ la vi ki ma fɛ/",
+      "sourceMeaning": "是命运让我变成这副模样",
+      "speaker": "",
+      "start": 79.455,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          660
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-029",
+      "sourceLineIndex": 29,
+      "lineIndex": 29,
+      "sourceText": "Moi je n'ai rien demandé",
+      "ipa": "[mwa ʒə ne ʁjɛ̃ dəmɑ̃de]",
+      "ear": "姆乌阿 热 内 赫耶安 德芒德",
+      "meaning": "我却未曾索要过什么",
+      "suppliedText": "Moi je n'ai rien demandé",
+      "sourceIPA": "/mwa ʒə ne ʁjɛ̃ dəmɑ̃de/",
+      "sourceMeaning": "我却未曾索要过什么",
+      "speaker": "",
+      "start": 82.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          661
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-030",
+      "sourceLineIndex": 30,
+      "lineIndex": 30,
+      "sourceText": "Cette vie je l'ai refusée",
+      "ipa": "[sɛt vi ʒə le ʁəfyze]",
+      "ear": "塞特 维 热 莱 赫菲于泽",
+      "meaning": "我也不愿过这样的人生",
+      "suppliedText": "Cette vie je l'ai refusée",
+      "sourceIPA": "/sɛt vi ʒə le ʁəfyze/",
+      "sourceMeaning": "我也不愿过这样的人生",
+      "speaker": "",
+      "start": 85.5,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          661
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-031",
+      "sourceLineIndex": 31,
+      "lineIndex": 31,
+      "sourceText": "Mais les dieux ont décidé",
+      "ipa": "[mɛ le djø ɔ̃ deside]",
+      "ear": "梅 莱 德耶厄 翁 德西德",
+      "meaning": "可诸神早已做好了决定",
+      "suppliedText": "Mais les dieux ont décidé",
+      "sourceIPA": "/mɛ le djøz ɔ̃ deside/",
+      "sourceMeaning": "可诸神早已做好了决定",
+      "speaker": "",
+      "start": 89.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          662
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-032",
+      "sourceLineIndex": 32,
+      "lineIndex": 32,
+      "sourceText": "Et je pleure",
+      "ipa": "[e ʒə plœʁ]",
+      "ear": "诶 热 普勒厄赫",
+      "meaning": "我在哭泣",
+      "suppliedText": "Et je pleure",
+      "sourceIPA": "/e ʒə plœʁ/",
+      "sourceMeaning": "我在哭泣",
+      "speaker": "",
+      "start": 96.143,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          662,
+          663
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-033",
+      "sourceLineIndex": 33,
+      "lineIndex": 33,
+      "sourceText": "Oui je pleure",
       "ipa": "[wi ʒə plœʁ]",
       "ear": "乌伊 热 普勒厄赫",
-      "meaning": "是的，我哭泣。",
-      "suppliedText": "oui je ple ah",
-      "sourceLineId": "moliere-timed-668",
+      "meaning": "没错 我在哭泣",
+      "suppliedText": "Oui je pleure",
+      "sourceIPA": "/wi ʒə plœʁ/",
+      "sourceMeaning": "没错 我在哭泣",
+      "speaker": "",
+      "start": 100.333,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 148,
-        "sourceLineNumber": 668,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          663
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-034",
+      "sourceLineIndex": 34,
+      "lineIndex": 34,
+      "sourceText": "Comédie, tragédie",
+      "ipa": "[komedi tʁaʒedi]",
+      "ear": "科梅迪 特哈热迪",
+      "meaning": "喜剧，悲剧。",
+      "suppliedText": "Comédie, tragédie",
+      "sourceIPA": "/komedi tʁaʒedi/",
+      "sourceMeaning": "喜剧起 悲剧毕",
+      "speaker": "",
+      "start": 104.333,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          663
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-035",
+      "sourceLineIndex": 35,
+      "lineIndex": 35,
+      "sourceText": "Avili et maudit",
+      "ipa": "[avili e modi]",
+      "ear": "阿维利 诶 莫迪",
+      "meaning": "被贬低，被诅咒。",
+      "suppliedText": "Avili et maudit",
+      "sourceIPA": "/avili e modi/",
+      "sourceMeaning": "被鄙夷 又被厌弃",
+      "speaker": "",
+      "start": 107.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          664
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-036",
+      "sourceLineIndex": 36,
+      "lineIndex": 36,
+      "sourceText": "Trahison, perfidie",
+      "ipa": "[tʁaizɔ̃ pɛʁfidi]",
+      "ear": "特哈伊宗 佩赫菲迪",
+      "meaning": "背叛，阴险。",
+      "suppliedText": "Trahison, perfidie",
+      "sourceIPA": "/tʁaizɔ̃ pɛʁfidi/",
+      "sourceMeaning": "我背信 我弃义",
+      "speaker": "",
+      "start": 110.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          664
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-037",
+      "sourceLineIndex": 37,
+      "lineIndex": 37,
+      "sourceText": "Je n'ai pas choisi",
+      "ipa": "[ʒə ne pa ʃwazi]",
+      "ear": "热 内 帕 什乌阿齐",
+      "meaning": "我没有选择余地",
+      "suppliedText": "Je n'ai pas choisi",
+      "sourceIPA": "/ʒə ne pa ʃwazi/",
+      "sourceMeaning": "我没有选择余地",
+      "speaker": "",
+      "start": 112.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          664
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-038",
+      "sourceLineIndex": 38,
+      "lineIndex": 38,
+      "sourceText": "Comédie, tragédie",
+      "ipa": "[komedi tʁaʒedi]",
+      "ear": "科梅迪 特哈热迪",
+      "meaning": "喜剧，悲剧。",
+      "suppliedText": "Comédie, tragédie",
+      "sourceIPA": "/komedi tʁaʒedi/",
+      "sourceMeaning": "喜剧起 悲剧毕",
+      "speaker": "",
+      "start": 117.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          664,
+          665
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-039",
+      "sourceLineIndex": 39,
+      "lineIndex": 39,
+      "sourceText": "Funeste parodie",
+      "ipa": "[fynɛst paʁodi]",
+      "ear": "菲于奈斯特 帕霍迪",
+      "meaning": "招致不幸的模仿戏",
+      "suppliedText": "Funeste parodie",
+      "sourceIPA": "/fynɛst paʁodi/",
+      "sourceMeaning": "招致不幸的模仿戏",
+      "speaker": "",
+      "start": 118.833,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          665
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-040",
+      "sourceLineIndex": 40,
+      "lineIndex": 40,
+      "sourceText": "Puis repenti et converti",
+      "ipa": "[pɥi ʁəpɑ̃ti e kɔ̃vɛʁti]",
+      "ear": "普于伊 赫庞蒂 诶 孔韦赫蒂",
+      "meaning": "追悔莫及 向主皈依",
+      "suppliedText": "Puis repenti et converti",
+      "sourceIPA": "/pɥi ʁəpɑ̃ti e kɔ̃vɛʁti/",
+      "sourceMeaning": "追悔莫及 向主皈依",
+      "speaker": "",
+      "start": 120.5,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          665
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-041-a",
+      "sourceLineIndex": 41,
+      "lineIndex": 41,
+      "sourceText": "Non",
+      "ipa": "[nɔ̃]",
+      "ear": "农",
+      "meaning": "不",
+      "suppliedText": "Non",
+      "sourceIPA": "/nɔ̃/",
+      "sourceMeaning": "不",
+      "speaker": "",
+      "start": 123.833,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          665
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-041-b",
+      "sourceLineIndex": 41,
+      "lineIndex": 42,
+      "sourceText": "Je n'ai pas choisi (pas choisi)",
+      "ipa": "[ʒə ne pa ʃwazi pa ʃwazi]",
+      "ear": "热 内 帕 什乌阿齐 帕 什乌阿齐",
+      "meaning": "我没有选择（没有选择）",
+      "suppliedText": "Je n'ai pas choisi (pas choisi)",
+      "sourceIPA": "/ʒə ne pa ʃwazi pa ʃwazi/",
+      "sourceMeaning": "我没有选择（没有选择）",
+      "speaker": "",
+      "start": 124.667,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          665,
+          666
+        ],
+        "wordCoverage": 0.857
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-042",
+      "sourceLineIndex": 42,
+      "lineIndex": 43,
+      "sourceText": "C'est la vie qui m'a fait",
+      "ipa": "[sɛ la vi ki ma fɛ]",
+      "ear": "塞 拉 维 基 玛 费",
+      "meaning": "是命运让我变成这副模样",
+      "suppliedText": "C'est la vie qui m'a fait",
+      "sourceIPA": "/sɛ la vi ki ma fɛ/",
+      "sourceMeaning": "是命运让我变成这副模样",
+      "speaker": "",
+      "start": 128.5,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          666
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-043",
+      "sourceLineIndex": 43,
+      "lineIndex": 44,
+      "sourceText": "Moi je n'ai rien demandé",
+      "ipa": "[mwa ʒə ne ʁjɛ̃ dəmɑ̃de]",
+      "ear": "姆乌阿 热 内 赫耶安 德芒德",
+      "meaning": "我却未曾索要过什么",
+      "suppliedText": "Moi je n'ai rien demandé",
+      "sourceIPA": "/mwa ʒə ne ʁjɛ̃ dəmɑ̃de/",
+      "sourceMeaning": "我却未曾索要过什么",
+      "speaker": "",
+      "start": 132.5,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          666
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-044",
+      "sourceLineIndex": 44,
+      "lineIndex": 45,
+      "sourceText": "Cette vie je l'ai refusée",
+      "ipa": "[sɛt vi ʒə le ʁəfyze]",
+      "ear": "塞特 维 热 莱 赫菲于泽",
+      "meaning": "我也不愿过这样的人生",
+      "suppliedText": "Cette vie je l'ai refusée",
+      "sourceIPA": "/sɛt vi ʒə le ʁəfyze/",
+      "sourceMeaning": "我也不愿过这样的人生",
+      "speaker": "",
+      "start": 135.5,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          666,
+          667
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-045",
+      "sourceLineIndex": 45,
+      "lineIndex": 46,
+      "sourceText": "Mais les dieux ont décidé",
+      "ipa": "[mɛ le djø ɔ̃ deside]",
+      "ear": "梅 莱 德耶厄 翁 德西德",
+      "meaning": "可诸神早已做好了决定",
+      "suppliedText": "Mais les dieux ont décidé",
+      "sourceIPA": "/mɛ le djøz ɔ̃ deside/",
+      "sourceMeaning": "可诸神早已做好了决定",
+      "speaker": "",
+      "start": 139.111,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          667
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-046",
+      "sourceLineIndex": 46,
+      "lineIndex": 47,
+      "sourceText": "Et je pleure",
+      "ipa": "[e ʒə plœʁ]",
+      "ear": "诶 热 普勒厄赫",
+      "meaning": "我在哭泣",
+      "suppliedText": "Et je pleure",
+      "sourceIPA": "/e ʒə plœʁ/",
+      "sourceMeaning": "我在哭泣",
+      "speaker": "",
+      "start": 144.667,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          667
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-08-047",
+      "sourceLineIndex": 47,
+      "lineIndex": 48,
+      "sourceText": "Oui je pleure",
+      "ipa": "[wi ʒə plœʁ]",
+      "ear": "乌伊 热 普勒厄赫",
+      "meaning": "没错 我在哭泣",
+      "suppliedText": "Oui je pleure",
+      "sourceIPA": "/wi ʒə plœʁ/",
+      "sourceMeaning": "没错 我在哭泣",
+      "speaker": "",
+      "start": 148.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          668
+        ],
+        "wordCoverage": 1.0
       }
     }
-  ],
-  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+  ]
 }

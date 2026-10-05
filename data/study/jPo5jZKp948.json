@@ -1,326 +1,614 @@
 {
   "videoId": "jPo5jZKp948",
   "playbackVideoId": "jPo5jZKp948",
-  "version": 2,
-  "textSource": "user-supplied-auto-transcript",
-  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "spelling-and-grammar-edits",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "sourceFileSHA256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134",
+  "textReviewStatus": "cross-checked",
+  "textReviewScope": "supplied-lyrics-spelling-grammar-and-chinese-meaning",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
-  "meaningSource": "editorial-chinese-from-user-transcript",
-  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
+  "meaningSource": "reviewed-user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "note": "歌词依据你提供的完整文件校对，中文释义已修订。学习卡片按现有现场录像整理，完整歌词另行归档；≈ 表示依据原字幕估算的分句位置。音标与空耳为文字的参考读法。",
   "sources": [
     {
-      "label": "本段原唱录像",
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+    },
+    {
+      "label": "本曲现场录像",
       "url": "https://www.youtube.com/watch?v=jPo5jZKp948"
     }
   ],
   "entries": [
     {
-      "sourceText": "Contre tous, malgré les âges, l'aimer contre tous, tous les…",
-      "start": 8,
-      "ipa": "[kɔ̃tʁ tus malɡʁe lez‿aʒ lɛme kɔ̃tʁ tus tu le]",
-      "ear": "孔特赫 图斯 玛勒格赫 莱兹 阿日 莱梅 孔特赫 图斯 图 莱",
-      "meaning": "……不顾年龄……违背所有……",
-      "suppliedText": "contreetour malgré les âges l' contre tous tous les",
-      "sourceLineId": "moliere-timed-493",
+      "sourceLineId": "moliere-le-spectacle-musical-13-001",
+      "sourceLineIndex": 1,
+      "lineIndex": 1,
+      "sourceText": "L'aimer contre tout, malgré les âges",
+      "ipa": "[lɛme kɔ̃tʁ tu malɡʁe lez‿aʒ]",
+      "ear": "莱梅 孔特赫 图 玛勒格赫 莱兹 阿日",
+      "meaning": "爱她不顾一切 哪怕是年龄悬殊",
+      "suppliedText": "L'aimer contre tout, malgré les âges",
+      "sourceIPA": "/lɛme kɔ̃tʁ tu malɡʁe lez aʒ/",
+      "sourceMeaning": "爱她不顾一切 哪怕是年龄悬殊",
+      "speaker": "",
+      "start": 7.6,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 8,
-        "sourceLineNumber": 493,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          493
+        ],
+        "wordCoverage": 0.857
       }
     },
     {
-      "sourceText": "Usage L'adorer tout bas puisqu'elle a le visage de",
-      "start": 18,
-      "ipa": "[yzaʒ ladoʁe tu ba pɥiskɛl‿a lə vizaʒ də]",
-      "ear": "于扎日 拉多赫 图 巴 普于伊斯凯勒 阿 勒 维扎日 德",
-      "meaning": "规矩，默默爱她，因为她有……",
-      "suppliedText": "usage adoré tout bas puisquelle a le visage de",
-      "sourceLineId": "moliere-timed-494",
+      "sourceLineId": "moliere-le-spectacle-musical-13-002",
+      "sourceLineIndex": 2,
+      "lineIndex": 2,
+      "sourceText": "L'aimer contre tous, tous les usages",
+      "ipa": "[lɛme kɔ̃tʁ tus tu lez‿yzaʒ]",
+      "ear": "莱梅 孔特赫 图斯 图 莱兹 于扎日",
+      "meaning": "不顾所有人，不顾所有世俗规矩地爱她。",
+      "suppliedText": "L'aimer contre tous, tous les usages",
+      "sourceIPA": "/lɛme kɔ̃tʁ tus tu lez yzaʒ/",
+      "sourceMeaning": "爱她不顾一切 一起所谓的世俗",
+      "speaker": "",
+      "start": 12.545,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 18,
-        "sourceLineNumber": 494,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          493,
+          494
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "L'impossible amour, de l'impossible amour. C'est elle et moi contre le…",
-      "start": 25,
-      "ipa": "[lɛ̃pɔsibl‿amuʁ də lɛ̃pɔsibl‿amuʁ sɛt‿ɛl e mwa kɔ̃tʁ lə]",
-      "ear": "兰珀西布勒 阿穆赫 德 兰珀西布勒 阿穆赫 塞特 艾勒 诶 姆乌阿 孔特赫 勒",
-      "meaning": "不可能的爱情的面容。是她与我，对抗……",
-      "suppliedText": "l'impossible amour de l'impossible l'amour c'est elle et moi contre le",
-      "sourceLineId": "moliere-timed-495",
+      "sourceLineId": "moliere-le-spectacle-musical-13-003",
+      "sourceLineIndex": 3,
+      "lineIndex": 3,
+      "sourceText": "L'adorer tout bas, puisqu'elle a le visage",
+      "ipa": "[ladoʁe tu ba pɥiskɛl‿a lə vizaʒ]",
+      "ear": "拉多赫 图 巴 普于伊斯凯勒 阿 勒 维扎日",
+      "meaning": "悄悄地爱慕她，因为她有着",
+      "suppliedText": "L'adorer tout bas, puisque'elle a le visage",
+      "sourceIPA": "/ladoʁe tu ba pɥiskəɛl a lə vizaʒ/",
+      "sourceMeaning": "爱她只得隐忍 只因她的面容在倾诉：",
+      "speaker": "",
+      "start": 18.636,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 25,
-        "sourceLineNumber": 495,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          494
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Monde entier en a",
-      "start": 35,
-      "ipa": "[mɔ̃d‿ɑ̃tje ɑ̃n‿a]",
-      "ear": "蒙德 昂特耶诶 昂恩 阿",
-      "meaning": "整个世界，在……",
-      "suppliedText": "monde entier en a",
-      "sourceLineId": "moliere-timed-496",
+      "sourceLineId": "moliere-le-spectacle-musical-13-004",
+      "sourceLineIndex": 4,
+      "lineIndex": 4,
+      "sourceText": "De l'impossible amour, de l'impossible amour",
+      "ipa": "[də lɛ̃pɔsibl‿amuʁ də lɛ̃pɔsibl‿amuʁ]",
+      "ear": "德 兰珀西布勒 阿穆赫 德 兰珀西布勒 阿穆赫",
+      "meaning": "无望的爱啊 无望的爱",
+      "suppliedText": "De l'impossible amour, de l'impossible amour",
+      "sourceIPA": "/də lɛ̃pɔsibl amuʁ də lɛ̃pɔsibl amuʁ/",
+      "sourceMeaning": "无望的爱啊 无望的爱",
+      "speaker": "",
+      "start": 24.364,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 35,
-        "sourceLineNumber": 496,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          494,
+          495
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Parti cet amour si vrai pourtant à tout se",
-      "start": 41,
-      "ipa": "[paʁti sɛt‿amuʁ si vʁɛ puʁtɑ̃ a tu sə]",
-      "ear": "帕赫蒂 塞特 阿穆赫 西 弗赫 普赫唐 阿 图 瑟",
-      "meaning": "私语中。这份爱如此真实，却遭到一切……",
-      "suppliedText": "parti cet amour si vrai pourtant à tout se",
-      "sourceLineId": "moliere-timed-498",
+      "sourceLineId": "moliere-le-spectacle-musical-13-005",
+      "sourceLineIndex": 5,
+      "lineIndex": 5,
+      "sourceText": "C'est elle et moi contre le monde entier",
+      "ipa": "[sɛt‿ɛl e mwa kɔ̃tʁ lə mɔ̃d‿ɑ̃tje]",
+      "ear": "塞特 艾勒 诶 姆乌阿 孔特赫 勒 蒙德 昂特耶诶",
+      "meaning": "是她与我 对抗着全世界",
+      "suppliedText": "C'est elle et moi contre le monde entier",
+      "sourceIPA": "/sɛt ɛl e mwa kɔ̃tʁ lə mɔ̃d ɑ̃tje/",
+      "sourceMeaning": "是她与我 对抗着全世界",
+      "speaker": "",
+      "start": 30.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 41,
-        "sourceLineNumber": 498,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          495,
+          496
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Posose le sceau du secret sur mes lèvres se",
-      "start": 48,
-      "ipa": "[pozɔz lə so dy səkʁɛ syʁ me lɛvʁ sə]",
-      "ear": "波佐兹 勒 索 迪于 瑟克赫 西于赫 梅 莱弗赫 瑟",
-      "meaning": "反对。秘密的封印落在我的唇上……",
-      "suppliedText": "posose le saut du secret sur mes lèvres se",
-      "sourceLineId": "moliere-timed-499",
+      "sourceLineId": "moliere-le-spectacle-musical-13-006",
+      "sourceLineIndex": 6,
+      "lineIndex": 6,
+      "sourceText": "En aparté",
+      "ipa": "[ɑ̃n‿apaʁte]",
+      "ear": "昂恩 阿帕赫特",
+      "meaning": "在喃喃私语间",
+      "suppliedText": "En aparté",
+      "sourceIPA": "/ɑ̃n apaʁte/",
+      "sourceMeaning": "在喃喃私语间",
+      "speaker": "",
+      "start": 37.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 48,
-        "sourceLineNumber": 499,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          496
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Pose. Je serai damnée, mais je meurs si je…",
-      "start": 54,
-      "ipa": "[pɔz ʒə səʁe dane mɛ ʒə mœʁ si ʒə]",
-      "ear": "珀兹 热 瑟赫 达内 梅 热 默厄赫 西 热",
-      "meaning": "落下。我会遭到诅咒，可如果我……便会死去。",
-      "suppliedText": "pose je serai d'é mais je Meur si je",
-      "sourceLineId": "moliere-timed-500",
+      "sourceLineId": "moliere-le-spectacle-musical-13-007",
+      "sourceLineIndex": 7,
+      "lineIndex": 7,
+      "sourceText": "Cet amour si vrai, pourtant à tout s'oppose",
+      "ipa": "[sɛt‿amuʁ si vʁɛ puʁtɑ̃ a tu sɔpɔz]",
+      "ear": "塞特 阿穆赫 西 弗赫 普赫唐 阿 图 索珀兹",
+      "meaning": "这份爱这般真实 却与一切都不对付",
+      "suppliedText": "Cet amour si vrai, pourtant à tout s'oppose",
+      "sourceIPA": "/sɛt amuʁ si vʁɛ puʁtɑ̃ a tu sɔpɔz/",
+      "sourceMeaning": "这份爱这般真实 却与一切都不对付",
+      "speaker": "",
+      "start": 41.778,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 54,
-        "sourceLineNumber": 500,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          498,
+          499
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "C'estet impossible amour c'estet impossible",
-      "start": 61,
-      "ipa": "[sɛstɛ ɛ̃pɔsibl‿amuʁ sɛstɛ ɛ̃pɔsibl]",
-      "ear": "塞斯泰 安珀西布勒 阿穆赫 塞斯泰 安珀西布勒",
-      "meaning": "……这不可能的爱情，这不可能的……",
-      "suppliedText": "c'estet impossible amour c'estet impossible",
-      "sourceLineId": "moliere-timed-501",
+      "sourceLineId": "moliere-le-spectacle-musical-13-008",
+      "sourceLineIndex": 8,
+      "lineIndex": 8,
+      "sourceText": "Le sceau du secret sur mes lèvres se pose",
+      "ipa": "[lə so dy səkʁɛ syʁ me lɛvʁ sə pɔz]",
+      "ear": "勒 索 迪于 瑟克赫 西于赫 梅 莱弗赫 瑟 珀兹",
+      "meaning": "秘密的封印落在我的唇上。",
+      "suppliedText": "Le saut du secret sur mes lèvres se pose",
+      "sourceIPA": "/lə so dy səkʁɛ syʁ me lɛvʁ sə pɔz/",
+      "sourceMeaning": "秘密跳动在唇间 却又只能偃旗息鼓",
+      "speaker": "",
+      "start": 48.667,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 61,
-        "sourceLineNumber": 501,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          499,
+          500
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Amour. C'est lui et moi contre le monde…",
-      "start": 67,
-      "ipa": "[amuʁ sɛ lɥi e mwa kɔ̃tʁ lə mɔ̃d]",
-      "ear": "阿穆赫 塞 勒于伊 诶 姆乌阿 孔特赫 勒 蒙德",
-      "meaning": "爱情。是他与我，对抗……",
-      "suppliedText": "amour c'est lui et moi contre le monde",
-      "sourceLineId": "moliere-timed-502",
+      "sourceLineId": "moliere-le-spectacle-musical-13-009",
+      "sourceLineIndex": 9,
+      "lineIndex": 9,
+      "sourceText": "Je serai damnée, mais je meurs si je n'ose",
+      "ipa": "[ʒə səʁe dane mɛ ʒə mœʁ si ʒə nɔz]",
+      "ear": "热 瑟赫 达内 梅 热 默厄赫 西 热 诺兹",
+      "meaning": "我会遭到诅咒，可若不敢尝试，我便会死去。",
+      "suppliedText": "Je serai damnée, mais je meurs si je n'ose",
+      "sourceIPA": "/ʒə səʁe dane mɛ ʒə mœʁ si ʒə nɔz/",
+      "sourceMeaning": "我将受地狱之火 可我不甘心就此心死",
+      "speaker": "",
+      "start": 54.778,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 67,
-        "sourceLineNumber": 502,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          500
+        ],
+        "wordCoverage": 0.9
       }
     },
     {
-      "sourceText": "Entier en apparé oublierz tout ce qui nous",
-      "start": 72,
-      "ipa": "[ɑ̃tje ɑ̃n‿apaʁe ubliɛʁz tu sə ki nu]",
-      "ear": "昂特耶诶 昂恩 阿帕赫 乌布利艾赫兹 图 瑟 基 努",
-      "meaning": "整个世界，私语。忘掉所有将我们……",
-      "suppliedText": "entier en apparé oublierz tout ce qui nous",
-      "sourceLineId": "moliere-timed-503",
+      "sourceLineId": "moliere-le-spectacle-musical-13-010",
+      "sourceLineIndex": 10,
+      "lineIndex": 10,
+      "sourceText": "Cet impossible amour, cet impossible amour",
+      "ipa": "[sɛt‿ɛ̃pɔsibl‿amuʁ sɛt‿ɛ̃pɔsibl‿amuʁ]",
+      "ear": "塞特 安珀西布勒 阿穆赫 塞特 安珀西布勒 阿穆赫",
+      "meaning": "这无望的爱啊 这无望的爱",
+      "suppliedText": "Cet impossible amour, cet impossible amour",
+      "sourceIPA": "/sɛt ɛ̃pɔsibl amuʁ sɛt ɛ̃pɔsibl amuʁ/",
+      "sourceMeaning": "这无望的爱啊 这无望的爱",
+      "speaker": "",
+      "start": 62.714,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 72,
-        "sourceLineNumber": 503,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          501,
+          502
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Sépare tous ceux qui contre nous font des remparts",
-      "start": 83,
-      "ipa": "[sepaʁ tus sø ki kɔ̃tʁ nu fɔ̃ de ʁɑ̃paʁ]",
-      "ear": "塞帕赫 图斯 瑟厄 基 孔特赫 努 丰 德 杭帕赫",
-      "meaning": "分开的东西，忘掉那些筑墙反对我们的人……",
-      "suppliedText": "sépare tous ceux qui contre nous font des rempards",
-      "sourceLineId": "moliere-timed-504",
+      "sourceLineId": "moliere-le-spectacle-musical-13-011",
+      "sourceLineIndex": 11,
+      "lineIndex": 11,
+      "sourceText": "C'est lui et moi contre le monde entier",
+      "ipa": "[sɛ lɥi e mwa kɔ̃tʁ lə mɔ̃d‿ɑ̃tje]",
+      "ear": "塞 勒于伊 诶 姆乌阿 孔特赫 勒 蒙德 昂特耶诶",
+      "meaning": "是他与我 对抗着全世界",
+      "suppliedText": "C'est lui et moi contre le monde entier",
+      "sourceIPA": "/sɛ lɥi e mwa kɔ̃tʁ lə mɔ̃d ɑ̃tje/",
+      "sourceMeaning": "是他与我 对抗着全世界",
+      "speaker": "",
+      "start": 67.556,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 83,
-        "sourceLineNumber": 504,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          502,
+          503
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Ououblier les voix et les regards qui nous criit que la mort",
-      "start": 93,
-      "ipa": "[wublie le vwa e le ʁəɡaʁ ki nu kʁii kə la mɔʁ]",
-      "ear": "乌乌布利诶 莱 弗乌阿 诶 莱 赫嘎赫 基 努 克希伊 克 拉 莫赫",
-      "meaning": "忘掉声音和目光，它们喊着……",
-      "suppliedText": "ououblier les voix et les regards qui nous criit que la mort",
-      "sourceLineId": "moliere-timed-505",
+      "sourceLineId": "moliere-le-spectacle-musical-13-012",
+      "sourceLineIndex": 12,
+      "lineIndex": 12,
+      "sourceText": "En aparté",
+      "ipa": "[ɑ̃n‿apaʁte]",
+      "ear": "昂恩 阿帕赫特",
+      "meaning": "在喃喃私语间",
+      "suppliedText": "En aparté",
+      "sourceIPA": "/ɑ̃n apaʁte/",
+      "sourceMeaning": "在喃喃私语间",
+      "speaker": "",
+      "start": 73.375,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 93,
-        "sourceLineNumber": 505,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          503
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Est vie oublier tout ce qui nous",
-      "start": 100,
-      "ipa": "[ɛ vi ublie tu sə ki nu]",
-      "ear": "艾 维 乌布利诶 图 瑟 基 努",
-      "meaning": "……忘掉所有将我们……",
-      "suppliedText": "est vie oublier tout ce qui nous",
-      "sourceLineId": "moliere-timed-506",
+      "sourceLineId": "moliere-le-spectacle-musical-13-013",
+      "sourceLineIndex": 13,
+      "lineIndex": 13,
+      "sourceText": "Oubliez tout ce qui nous sépare",
+      "ipa": "[ublie tu sə ki nu sepaʁ]",
+      "ear": "乌布利诶 图 瑟 基 努 塞帕赫",
+      "meaning": "忘掉将我们分隔的一切",
+      "suppliedText": "Oubliez tout ce qui nous sépare",
+      "sourceIPA": "/ublie tu sə ki nu sepaʁ/",
+      "sourceMeaning": "忘掉将我们分隔的一切",
+      "speaker": "",
+      "start": 76.125,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 100,
-        "sourceLineNumber": 506,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          503,
+          504
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Sépare et même si l'on s'im jusqu'à en payer le prix",
-      "start": 109,
-      "ipa": "[sepaʁ e mɛm si lɔ̃ sim ʒyska ɑ̃ pɛje lə pʁi]",
-      "ear": "塞帕赫 诶 梅姆 西 隆 西姆 日于斯卡 昂 佩耶诶 勒 普希",
-      "meaning": "分开的东西，即使相爱需要付出代价……",
-      "suppliedText": "sépare et même si l'on s'im jusqu'à en payer le prix",
-      "sourceLineId": "moliere-timed-507",
+      "sourceLineId": "moliere-le-spectacle-musical-13-014",
+      "sourceLineIndex": 14,
+      "lineIndex": 14,
+      "sourceText": "Tous ceux qui contre nous font des remparts",
+      "ipa": "[tus sø ki kɔ̃tʁ nu fɔ̃ de ʁɑ̃paʁ]",
+      "ear": "图斯 瑟厄 基 孔特赫 努 丰 德 杭帕赫",
+      "meaning": "忘掉那些在我们面前筑起壁垒的人。",
+      "suppliedText": "Tout ce qui contre nous font des remparts",
+      "sourceIPA": "/tu sə ki kɔ̃tʁ nu fɔ̃ de ʁɑ̃paʁ/",
+      "sourceMeaning": "为了将我们阻断 它们筑起高墙",
+      "speaker": "",
+      "start": 84.111,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 109,
-        "sourceLineNumber": 507,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          504
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Ignorer les lois imprimées sur les pages",
-      "start": 123,
+      "sourceLineId": "moliere-le-spectacle-musical-13-015",
+      "sourceLineIndex": 15,
+      "lineIndex": 15,
+      "sourceText": "Oubliez les voix et les regards",
+      "ipa": "[ublie le vwa e le ʁəɡaʁ]",
+      "ear": "乌布利诶 莱 弗乌阿 诶 莱 赫嘎赫",
+      "meaning": "忘掉每个声音和每道目光",
+      "suppliedText": "Oubliez les voix et les regards",
+      "sourceIPA": "/ublie le vwa e le ʁəɡaʁ/",
+      "sourceMeaning": "忘掉每个声音和每道目光",
+      "speaker": "",
+      "start": 93.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          505
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-13-016",
+      "sourceLineIndex": 16,
+      "lineIndex": 16,
+      "sourceText": "Qui nous crient que l'amour est interdit",
+      "ipa": "[ki nu kʁi kə lamuʁ‿ɛt‿ɛ̃tɛʁdi]",
+      "ear": "基 努 克希 克 拉穆赫 艾特 安泰赫迪",
+      "meaning": "对我们喊着“不准相爱”的声音与目光。",
+      "suppliedText": "Qui nous crient que l'amour est interdit",
+      "sourceIPA": "/ki nu kʁi kə lamuʁ ɛt ɛ̃tɛʁdi/",
+      "sourceMeaning": "它们对我们高喊着 禁止相爱",
+      "speaker": "",
+      "start": 96.5,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          505,
+          506
+        ],
+        "wordCoverage": 0.875
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-13-017",
+      "sourceLineIndex": 17,
+      "lineIndex": 17,
+      "sourceText": "Oubliez tout ce qui nous sépare",
+      "ipa": "[ublie tu sə ki nu sepaʁ]",
+      "ear": "乌布利诶 图 瑟 基 努 塞帕赫",
+      "meaning": "忘掉将我们分隔的一切",
+      "suppliedText": "Oubliez tout ce qui nous sépare",
+      "sourceIPA": "/ublie tu sə ki nu sepaʁ/",
+      "sourceMeaning": "忘掉将我们分隔的一切",
+      "speaker": "",
+      "start": 102.571,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          506,
+          507
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-13-018",
+      "sourceLineIndex": 18,
+      "lineIndex": 18,
+      "sourceText": "Et même si l'on s'aime jusqu'à en payer le prix",
+      "ipa": "[e mɛm si lɔ̃ sɛm ʒyska ɑ̃ pɛje lə pʁi]",
+      "ear": "诶 梅姆 西 隆 塞姆 日于斯卡 昂 佩耶诶 勒 普希",
+      "meaning": "就让我们相爱 哪怕爱到背负苦果",
+      "suppliedText": "Et même si l'on s'aime jusqu'à en payer le prix",
+      "sourceIPA": "/e mɛm si lɔ̃ sɛm ʒyska ɑ̃ pɛje lə pʁi/",
+      "sourceMeaning": "就让我们相爱 哪怕爱到背负苦果",
+      "speaker": "",
+      "start": 109.571,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          507
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-13-019",
+      "sourceLineIndex": 19,
+      "lineIndex": 19,
+      "sourceText": "Ignorez les lois imprimées sur les pages",
       "ipa": "[injoʁe le lwa ɛ̃pʁime syʁ le paʒ]",
       "ear": "伊恩耶奥赫 莱 勒乌阿 安普希梅 西于赫 莱 帕日",
-      "meaning": "不理会纸上的法律……",
-      "suppliedText": "ignorer les lois imprimées sur les pages",
-      "sourceLineId": "moliere-timed-509",
+      "meaning": "不去理会 印刻在纸页上的法律",
+      "suppliedText": "Ignorez les lois imprimées sur les pages",
+      "sourceIPA": "/injoʁe le lwaz ɛ̃pʁime syʁ le paʒ/",
+      "sourceMeaning": "不去理会 印刻在纸页上的法律",
+      "speaker": "",
+      "start": 123.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 123,
-        "sourceLineNumber": 509,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          509
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Ignorer la foi et les mots des grands sages sffleurer des doigts vivre le doux",
-      "start": 129,
-      "ipa": "[injoʁe la fwa e le mo de ɡʁɑ̃ saʒ sfløʁe de dwa vivʁ lə du]",
-      "ear": "伊恩耶奥赫 拉 弗乌阿 诶 莱 莫 德 格杭 萨日 斯弗勒厄赫 德 德乌阿 维弗赫 勒 杜",
-      "meaning": "不理会信仰和智者的话，指尖轻触，活在柔软的……",
-      "suppliedText": "ignorer la foi et les mots des grands sages sffleurer des doigts vivre le doux",
-      "sourceLineId": "moliere-timed-511",
+      "sourceLineId": "moliere-le-spectacle-musical-13-020",
+      "sourceLineIndex": 20,
+      "lineIndex": 20,
+      "sourceText": "Ignorez la foi et les mots des grands sages",
+      "ipa": "[injoʁe la fwa e le mo de ɡʁɑ̃ saʒ]",
+      "ear": "伊恩耶奥赫 拉 弗乌阿 诶 莱 莫 德 格杭 萨日",
+      "meaning": "不去理会 圣贤口中的警句教条",
+      "suppliedText": "Ignorez la foi et les mots des grands sages",
+      "sourceIPA": "/injoʁe la fwa e le mo de ɡʁɑ̃ saʒ/",
+      "sourceMeaning": "不去理会 圣贤口中的警句教条",
+      "speaker": "",
+      "start": 129.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 129,
-        "sourceLineNumber": 511,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          511
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Mirage de l'impossible amour de l'invincible",
-      "start": 140,
-      "ipa": "[miʁaʒ də lɛ̃pɔsibl‿amuʁ də lɛ̃vɛ̃sibl]",
-      "ear": "米哈日 德 兰珀西布勒 阿穆赫 德 兰万西布勒",
-      "meaning": "幻梦里，那不可能的爱，那不可战胜的……",
-      "suppliedText": "mirage de l'impossible amour de l'invincible",
-      "sourceLineId": "moliere-timed-512",
+      "sourceLineId": "moliere-le-spectacle-musical-13-021",
+      "sourceLineIndex": 21,
+      "lineIndex": 21,
+      "sourceText": "S'effleurer des doigts, vivre le doux mirage",
+      "ipa": "[sefløʁe de dwa vivʁ lə du miʁaʒ]",
+      "ear": "塞弗勒厄赫 德 德乌阿 维弗赫 勒 杜 米哈日",
+      "meaning": "让我们十指摩挲 到甜蜜的幻境去生活",
+      "suppliedText": "S'effleurer des doigts, vivre le doux mirage",
+      "sourceIPA": "/sefløʁe de dwa vivʁ lə du miʁaʒ/",
+      "sourceMeaning": "让我们十指摩挲 到甜蜜的幻境去生活",
+      "speaker": "",
+      "start": 135.6,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 140,
-        "sourceLineNumber": 512,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          511,
+          512
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Amour ce sera nous contre le monde",
-      "start": 147,
-      "ipa": "[amuʁ sə səʁa nu kɔ̃tʁ lə mɔ̃d]",
-      "ear": "阿穆赫 瑟 瑟哈 努 孔特赫 勒 蒙德",
-      "meaning": "爱。将是我们，对抗……",
-      "suppliedText": "amour ce sera nous contre le monde",
-      "sourceLineId": "moliere-timed-514",
+      "sourceLineId": "moliere-le-spectacle-musical-13-022",
+      "sourceLineIndex": 22,
+      "lineIndex": 22,
+      "sourceText": "De l'impossible amour, de l'invincible amour",
+      "ipa": "[də lɛ̃pɔsibl‿amuʁ də lɛ̃vɛ̃sibl‿amuʁ]",
+      "ear": "德 兰珀西布勒 阿穆赫 德 兰万西布勒 阿穆赫",
+      "meaning": "不可能的爱情，不可战胜的爱情。",
+      "suppliedText": "De l'impossible amour, de l'invincible amour",
+      "sourceIPA": "/də lɛ̃pɔsibl amuʁ də lɛ̃vɛ̃sibl amuʁ/",
+      "sourceMeaning": "幻想无望的爱 化作无敌的爱",
+      "speaker": "",
+      "start": 140.75,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 147,
-        "sourceLineNumber": 514,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          512,
+          514
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Entier. Ce sera nous contre le monde entier, sans aparté.",
-      "start": 154,
-      "ipa": "[ɑ̃tje sə səʁa nu kɔ̃tʁ lə mɔ̃d‿ɑ̃tje sɑ̃ apaʁte]",
-      "ear": "昂特耶诶 瑟 瑟哈 努 孔特赫 勒 蒙德 昂特耶诶 桑 阿帕赫特",
-      "meaning": "整个世界。是我们对抗世界，不再只在私语中。",
-      "suppliedText": "entier ce sera nous contre le monde entier sans apartter",
-      "sourceLineId": "moliere-timed-515",
+      "sourceLineId": "moliere-le-spectacle-musical-13-023",
+      "sourceLineIndex": 23,
+      "lineIndex": 23,
+      "sourceText": "Ce sera nous contre le monde entier",
+      "ipa": "[sə səʁa nu kɔ̃tʁ lə mɔ̃d‿ɑ̃tje]",
+      "ear": "瑟 瑟哈 努 孔特赫 勒 蒙德 昂特耶诶",
+      "meaning": "你和我将去对抗全世界",
+      "suppliedText": "Ce sera nous contre le monde entier",
+      "sourceIPA": "/sə səʁa nu kɔ̃tʁ lə mɔ̃d ɑ̃tje/",
+      "sourceMeaning": "你和我将去对抗全世界",
+      "speaker": "",
+      "start": 148.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 154,
-        "sourceLineNumber": 515,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          514,
+          515
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-13-024",
+      "sourceLineIndex": 24,
+      "lineIndex": 24,
+      "sourceText": "Ce sera nous contre le monde entier",
+      "ipa": "[sə səʁa nu kɔ̃tʁ lə mɔ̃d‿ɑ̃tje]",
+      "ear": "瑟 瑟哈 努 孔特赫 勒 蒙德 昂特耶诶",
+      "meaning": "你和我将去对抗全世界",
+      "suppliedText": "Ce sera nous contre le monde entier",
+      "sourceIPA": "/sə səʁa nu kɔ̃tʁ lə mɔ̃d ɑ̃tje/",
+      "sourceMeaning": "你和我将去对抗全世界",
+      "speaker": "",
+      "start": 154.9,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          515
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-13-025",
+      "sourceLineIndex": 25,
+      "lineIndex": 25,
+      "sourceText": "Sans aparté",
+      "ipa": "[sɑ̃z‿apaʁte]",
+      "ear": "桑兹 阿帕赫特",
+      "meaning": "不必再在私语间",
+      "suppliedText": "Sans aparté",
+      "sourceIPA": "/sɑ̃z apaʁte/",
+      "sourceMeaning": "不必再在私语间",
+      "speaker": "",
+      "start": 161.2,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          515
+        ],
+        "wordCoverage": 1.0
       }
     }
-  ],
-  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+  ]
 }

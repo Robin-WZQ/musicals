@@ -1,246 +1,751 @@
 {
   "videoId": "OEe6Jxooszc",
   "playbackVideoId": "OEe6Jxooszc",
-  "version": 2,
-  "textSource": "user-supplied-auto-transcript",
-  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "spelling-and-grammar-edits",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "sourceFileSHA256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134",
+  "textReviewStatus": "cross-checked",
+  "textReviewScope": "supplied-lyrics-spelling-grammar-and-chinese-meaning",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
-  "meaningSource": "editorial-chinese-from-user-transcript",
-  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
+  "meaningSource": "reviewed-user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "note": "歌词依据你提供的完整文件校对，中文释义已修订。学习卡片按现有现场录像整理，完整歌词另行归档；≈ 表示依据原字幕估算的分句位置。音标与空耳为文字的参考读法。",
   "sources": [
     {
-      "label": "本段原唱录像",
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+    },
+    {
+      "label": "本曲现场录像",
       "url": "https://www.youtube.com/watch?v=OEe6Jxooszc"
     }
   ],
   "entries": [
     {
-      "sourceText": "Manquer j'ai gardé peu de souvenir de ma mère une voix apaisante une image évanescente tapie dans un coin de mon",
-      "start": 25,
-      "ipa": "[mɑ̃ke ʒe ɡaʁde pø də suvniʁ də ma mɛʁ‿yn vwa apɛzɑ̃t‿yn‿imaʒ‿evanɛsɑ̃t tapi dɑ̃ œ̃ kwɛ̃ də mɔ̃]",
-      "ear": "芒克 热 嘎赫德 珀厄 德 苏弗尼赫 德 玛 梅赫 于恩 弗乌阿 阿佩赞特 于恩 伊玛日 诶瓦奈桑特 塔皮 当 恩 克乌安 德 蒙",
-      "meaning": "想念他们。对母亲只剩很少的记忆：安抚的声音、淡去的形象，藏在……",
-      "suppliedText": "manquer j'ai gardé peu de souvenir de ma mère une voix apaisante une image évanescente tapie dans un coin de mon",
-      "sourceLineId": "moliere-timed-407",
+      "sourceLineId": "moliere-le-spectacle-musical-10-003",
+      "sourceLineIndex": 3,
+      "lineIndex": 1,
+      "sourceText": "J'ai gardé peu de souvenirs de ma mère",
+      "ipa": "[ʒe ɡaʁde pø də suvniʁ də ma mɛʁ]",
+      "ear": "热 嘎赫德 珀厄 德 苏弗尼赫 德 玛 梅赫",
+      "meaning": "关于母亲 我所记得的并不多",
+      "suppliedText": "J′ai gardé peu de souvenirs de ma mère",
+      "sourceIPA": "/ʒe ɡaʁde pø də suvniʁ də ma mɛʁ/",
+      "sourceMeaning": "关于母亲 我所记得的并不多",
+      "speaker": "",
+      "start": 25.364,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 25,
-        "sourceLineNumber": 407,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          407
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Imaginaire de ma naissance on ne m'a rien dit puis un jour ma mère m'a écrit elle m'aappris que j'étais l'illégitime",
-      "start": 33,
-      "ipa": "[imaʒinɛʁ də ma nɛsɑ̃s‿ɔ̃ nə ma ʁjɛ̃ di pɥi œ̃ ʒuʁ ma mɛʁ ma ekʁi ɛl maapʁi kə ʒetɛ lileʒitim]",
-      "ear": "伊玛日奈赫 德 玛 奈桑斯 翁 讷 玛 赫耶安 迪 普于伊 恩 茹赫 玛 梅赫 玛 诶克希 艾勒 玛阿普希 克 热泰 利莱日蒂姆",
-      "meaning": "想象的角落。没人告诉我身世，直到母亲写信，说我是……",
-      "suppliedText": "imaginaire de ma naissance on ne m'a rien dit puis un jour ma mère m'a écrit elle m'aappris que j'étais l'illégitime",
-      "sourceLineId": "moliere-timed-408",
+      "sourceLineId": "moliere-le-spectacle-musical-10-004",
+      "sourceLineIndex": 4,
+      "lineIndex": 2,
+      "sourceText": "Une voix apaisante, une image évanescente",
+      "ipa": "[yn vwa apɛzɑ̃t yn‿imaʒ‿evanɛsɑ̃t]",
+      "ear": "于恩 弗乌阿 阿佩赞特 于恩 伊玛日 诶瓦奈桑特",
+      "meaning": "她嗓音和缓 印象却逐渐消散",
+      "suppliedText": "Une voix apaisante, une image évanescente",
+      "sourceIPA": "/yn vwa apɛzɑ̃t yn imaʒ evanɛsɑ̃t/",
+      "sourceMeaning": "她嗓音和缓 印象却逐渐消散",
+      "speaker": "",
+      "start": 28.636,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 33,
-        "sourceLineNumber": 408,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          407
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Enfant d'une comédienne et d'un chambelllan seraelle un jour",
-      "start": 40,
-      "ipa": "[ɑ̃fɑ̃ dyn komedjɛn e dœ̃ ʃɑ̃bɛlɑ̃ səʁaɛl‿œ̃ ʒuʁ]",
-      "ear": "昂芳 迪于恩 科梅德耶艾恩 诶 丹 尚贝朗 瑟哈艾勒 恩 茹赫",
-      "meaning": "一位女演员和宫廷侍从的私生女。她有一天能否……",
-      "suppliedText": "enfant d'une comédienne et d'un chambelllan seraelle un jour",
-      "sourceLineId": "moliere-timed-409",
+      "sourceLineId": "moliere-le-spectacle-musical-10-005",
+      "sourceLineIndex": 5,
+      "lineIndex": 3,
+      "sourceText": "Tapie dans un coin de mon imaginaire",
+      "ipa": "[tapi dɑ̃z‿œ̃ kwɛ̃ də mɔ̃n‿imaʒinɛʁ]",
+      "ear": "塔皮 当兹 恩 克乌安 德 蒙恩 伊玛日奈赫",
+      "meaning": "深藏在我幻想的某个角落",
+      "suppliedText": "Tapie dans un coin de mon imaginaire",
+      "sourceIPA": "/tapi dɑ̃z œ̃ kwɛ̃ də mɔ̃n imaʒinɛʁ/",
+      "sourceMeaning": "深藏在我幻想的某个角落",
+      "speaker": "",
+      "start": 30.818,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 40,
-        "sourceLineNumber": 409,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          407,
+          408
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Effacer les ombres et fantômes du passé ?",
-      "start": 49,
-      "ipa": "[efase lez‿ɔ̃bʁ e fɑ̃tom dy pase]",
-      "ear": "诶法塞 莱兹 翁布赫 诶 芳托姆 迪于 帕塞",
-      "meaning": "抹去往昔的阴影与幽灵？",
-      "suppliedText": "effacé les ombres et fantômes du passé",
-      "sourceLineId": "moliere-timed-411",
+      "sourceLineId": "moliere-le-spectacle-musical-10-006",
+      "sourceLineIndex": 6,
+      "lineIndex": 4,
+      "sourceText": "De ma naissance, on m'a rien dit",
+      "ipa": "[də ma nɛsɑ̃s ɔ̃ ma ʁjɛ̃ di]",
+      "ear": "德 玛 奈桑斯 翁 玛 赫耶安 迪",
+      "meaning": "没人告诉我自己的身世。",
+      "suppliedText": "De ma naissance, on m'a rien dit",
+      "sourceIPA": "/də ma nɛsɑ̃s ɔ̃ ma ʁjɛ̃ di/",
+      "sourceMeaning": "自我出生 他们就对我闭口不谈",
+      "speaker": "",
+      "start": 33.269,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 49,
-        "sourceLineNumber": 411,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          408
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "… Un jour enfin me donner l'amour dont elle m'a…",
-      "start": 60,
-      "ipa": "[œ̃ ʒuʁ‿ɑ̃fɛ̃ mə dɔne lamuʁ dɔ̃ ɛl ma]",
-      "ear": "恩 茹赫 昂凡 默 多内 拉穆赫 东 艾勒 玛",
-      "meaning": "……终于有一天给我，她曾让我缺少的爱……",
-      "suppliedText": "B jour enfin me donner l'amour dont elle m'a",
-      "sourceLineId": "moliere-timed-412",
+      "sourceLineId": "moliere-le-spectacle-musical-10-007",
+      "sourceLineIndex": 7,
+      "lineIndex": 5,
+      "sourceText": "Puis un jour ma mère m'a écrit",
+      "ipa": "[pɥi œ̃ ʒuʁ ma mɛʁ ma ekʁi]",
+      "ear": "普于伊 恩 茹赫 玛 梅赫 玛 诶克希",
+      "meaning": "接着有天 我收到母亲的来信",
+      "suppliedText": "Puis un jour ma mère m′a écrit",
+      "sourceIPA": "/pɥiz œ̃ ʒuʁ ma mɛʁ ma ekʁi/",
+      "sourceMeaning": "接着有天 我收到母亲的来信",
+      "speaker": "",
+      "start": 35.692,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 60,
-        "sourceLineNumber": 412,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          408
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Privé pendant toutes ces années je n'ai cessé de m'enquérir de ses nouvelles on m'écrivait qu'Armande me ressemblait qu'elle était volontaire et rebelle",
-      "start": 70,
-      "ipa": "[pʁive pɑ̃dɑ̃ tut sez‿ane ʒə ne sɛse də mɑ̃keʁiʁ də se nuvɛl‿ɔ̃ mekʁivɛ kaʁmɑ̃d mə ʁəsɑ̃blɛ kɛl‿etɛ volɔ̃tɛʁ e ʁəbɛl]",
-      "ear": "普希韦 庞当 图特 塞兹 阿内 热 内 塞塞 德 芒克希赫 德 塞 努韦勒 翁 梅克希韦 卡赫芒德 默 赫桑布莱 凯勒 诶泰 沃隆泰赫 诶 赫贝勒",
-      "meaning": "这些年，我一直打听她的消息。信里说阿尔芒德像我，意志坚定又叛逆。",
-      "suppliedText": "privé pendant toutes ces années je n'ai cessé de m'enquérir de ces nouvelles on m'écrivait qu'Armande me ressemblait qu'elle était volontaire et rebelle",
-      "sourceLineId": "moliere-timed-413",
+      "sourceLineId": "moliere-le-spectacle-musical-10-008",
+      "sourceLineIndex": 8,
+      "lineIndex": 6,
+      "sourceText": "Elle m'a appris que j'étais l'illégitime enfant",
+      "ipa": "[ɛl ma apʁi kə ʒetɛ lileʒitim‿ɑ̃fɑ̃]",
+      "ear": "艾勒 玛 阿普希 克 热泰 利莱日蒂姆 昂芳",
+      "meaning": "她让我知道了我是私生女的事实",
+      "suppliedText": "Elle m'a appris que j'étais l′illégitime enfant",
+      "sourceIPA": "/ɛl ma apʁi kə ʒetɛ lileʒitim ɑ̃fɑ̃/",
+      "sourceMeaning": "她让我知道了我是私生女的事实",
+      "speaker": "",
+      "start": 37.846,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 70,
-        "sourceLineNumber": 413,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          408,
+          409
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Quand elle devint suffisamment grande en âantf de comprendre dans une longue lettre je lui ai tout raconté en lui promettant de venir bientôt la",
-      "start": 78,
-      "ipa": "[kɑ̃t‿ɛl dəvɛ̃ syfizamɑ̃ ɡʁɑ̃d‿ɑ̃n‿aɑ̃tf də kɔ̃pʁɑ̃dʁ dɑ̃ yn lɔ̃ɡ lɛtʁ ʒə lɥi e tu ʁakɔ̃te ɑ̃ lɥi pʁomɛtɑ̃ də vəniʁ bjɛ̃to la]",
-      "ear": "康特 艾勒 德万 西于菲扎芒 格杭德 昂恩 阿昂特弗 德 孔普杭德赫 当 于恩 隆格 莱特赫 热 勒于伊 诶 图 哈孔特 昂 勒于伊 普霍梅唐 德 弗尼赫 布耶安托 拉",
-      "meaning": "等她长到能够理解的年纪，我写长信说明一切，答应很快去……",
-      "suppliedText": "quand elle devint suffisamment grande en âantf de comprendre dans une longue lettre je lui a tout raconter en lui promettant de venir bientôt la",
-      "sourceLineId": "moliere-timed-414",
+      "sourceLineId": "moliere-le-spectacle-musical-10-009",
+      "sourceLineIndex": 9,
+      "lineIndex": 7,
+      "sourceText": "D'une comédienne et d'un chambellan",
+      "ipa": "[dyn komedjɛn e dœ̃ ʃɑ̃bɛlɑ̃]",
+      "ear": "迪于恩 科梅德耶艾恩 诶 丹 尚贝朗",
+      "meaning": "母亲是演员，父亲是宫廷侍从官。",
+      "suppliedText": "D′une comédienne et d'un chambellan",
+      "sourceIPA": "/dyn komedjɛn e dœ̃ ʃɑ̃bɛlɑ̃/",
+      "sourceMeaning": "一个女演员与一个宫廷侍从诞下的野种",
+      "speaker": "",
+      "start": 40.636,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 78,
-        "sourceLineNumber": 414,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          409
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Chercher. … Un jour me pardonner…",
-      "start": 88,
-      "ipa": "[ʃɛʁʃe œ̃ ʒuʁ mə paʁdɔne]",
-      "ear": "谢赫谢 恩 茹赫 默 帕赫多内",
-      "meaning": "接她。……有一天原谅我……",
-      "suppliedText": "chercher c'est un jour me pardonner",
-      "sourceLineId": "moliere-timed-416",
+      "sourceLineId": "moliere-le-spectacle-musical-10-010",
+      "sourceLineIndex": 10,
+      "lineIndex": 8,
+      "sourceText": "Saura-t-elle un jour effacer",
+      "ipa": "[soʁatɛl‿œ̃ ʒuʁ‿efase]",
+      "ear": "索哈泰勒 恩 茹赫 诶法塞",
+      "meaning": "有一天，她是否能抹去",
+      "suppliedText": "Saura-t-elle un jour effacer",
+      "sourceIPA": "/soʁatɛl œ̃ ʒuʁ efase/",
+      "sourceMeaning": "是否会有一天 她能学着淡忘",
+      "speaker": "",
+      "start": 44.455,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 88,
-        "sourceLineNumber": 416,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          409,
+          411
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "… Abandonnée… N'avoir jamais pu lui…",
-      "start": 98,
-      "ipa": "[abɑ̃dɔne navwaʁ ʒamɛ py lɥi]",
-      "ear": "阿邦多内 纳弗乌阿赫 扎梅 普于 勒于伊",
-      "meaning": "……抛下她，没能给她……",
-      "suppliedText": "c'est abandonné c'est n'avoir jamais pu lui",
-      "sourceLineId": "moliere-timed-417",
+      "sourceLineId": "moliere-le-spectacle-musical-10-011",
+      "sourceLineIndex": 11,
+      "lineIndex": 9,
+      "sourceText": "Les ombres et les fantômes du passé?",
+      "ipa": "[lez‿ɔ̃bʁ e le fɑ̃tom dy pase]",
+      "ear": "莱兹 翁布赫 诶 莱 芳托姆 迪于 帕塞",
+      "meaning": "阴魂不散的黑暗过往？",
+      "suppliedText": "Les ombres et les fantômes du passé?",
+      "sourceIPA": "/lez ɔ̃bʁz e le fɑ̃tom dy pase/",
+      "sourceMeaning": "阴魂不散的黑暗过往？",
+      "speaker": "",
+      "start": 50.571,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 98,
-        "sourceLineNumber": 417,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          411
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Donner l'amour que je lui",
-      "start": 108,
-      "ipa": "[dɔne lamuʁ kə ʒə lɥi]",
-      "ear": "多内 拉穆赫 克 热 勒于伊",
-      "meaning": "我欠她的爱……",
-      "suppliedText": "donner l'amour que je lui",
-      "sourceLineId": "moliere-timed-418",
+      "sourceLineId": "moliere-le-spectacle-musical-10-012",
+      "sourceLineIndex": 12,
+      "lineIndex": 10,
+      "sourceText": "Pourra-t-elle un jour enfin me donner",
+      "ipa": "[puʁatɛl‿œ̃ ʒuʁ‿ɑ̃fɛ̃ mə dɔne]",
+      "ear": "普哈泰勒 恩 茹赫 昂凡 默 多内",
+      "meaning": "是否终有一天 她能还给我",
+      "suppliedText": "Pourra-t-elle un jour enfin me donner",
+      "sourceIPA": "/puʁatɛl œ̃ ʒuʁ ɑ̃fɛ̃ mə dɔne/",
+      "sourceMeaning": "是否终有一天 她能还给我",
+      "speaker": "",
+      "start": 58.429,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 108,
-        "sourceLineNumber": 418,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          411,
+          412
+        ],
+        "wordCoverage": 0.75
       }
     },
     {
-      "sourceText": "Devais. L'amour dont elle m'a… Pendant toutes ces années et…",
-      "start": 115,
-      "ipa": "[dəvɛ lamuʁ dɔ̃ ɛl ma pɑ̃dɑ̃ tut sez‿ane e]",
-      "ear": "德韦 拉穆赫 东 艾勒 玛 庞当 图特 塞兹 阿内 诶",
-      "meaning": "……她让我缺少的爱。这些年……",
-      "suppliedText": "devais l'amour dont elle M rveille pendant toutes ces années et",
-      "sourceLineId": "moliere-timed-419",
+      "sourceLineId": "moliere-le-spectacle-musical-10-013",
+      "sourceLineIndex": 13,
+      "lineIndex": 11,
+      "sourceText": "L'amour dont elle m'a privé?",
+      "ipa": "[lamuʁ dɔ̃ ɛl ma pʁive]",
+      "ear": "拉穆赫 东 艾勒 玛 普希韦",
+      "meaning": "我那被她夺走的爱",
+      "suppliedText": "L′amour dont elle m'a privé?",
+      "sourceIPA": "/lamuʁ dɔ̃t ɛl ma pʁive/",
+      "sourceMeaning": "我那被她夺走的爱",
+      "speaker": "",
+      "start": 64.545,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 115,
-        "sourceLineNumber": 419,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          412,
+          413
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Dans le plus grand des secrets à la comédie je n'ai cessé de m'exercer je me suis juré d'en faire mon métier je me",
-      "start": 124,
-      "ipa": "[dɑ̃ lə ply ɡʁɑ̃ de səkʁɛ a la komedi ʒə ne sɛse də mɛɡzɛʁse ʒə mə sɥi ʒyʁe dɑ̃ fɛʁ mɔ̃ metje ʒə mə]",
-      "ear": "当 勒 普吕 格杭 德 瑟克赫 阿 拉 科梅迪 热 内 塞塞 德 梅格泽赫塞 热 默 斯于伊 日于赫 当 费赫 蒙 梅特耶诶 热 默",
-      "meaning": "我始终秘密练习演戏，发誓要以此为职业……",
-      "suppliedText": "dans le plus grand des secrets à la comédie je n'ai cessé de m'exercer je me suis juré d'en faire mon métier je me",
-      "sourceLineId": "moliere-timed-420",
+      "sourceLineId": "moliere-le-spectacle-musical-10-016",
+      "sourceLineIndex": 16,
+      "lineIndex": 12,
+      "sourceText": "Pendant toutes ces années je n'ai cessé",
+      "ipa": "[pɑ̃dɑ̃ tut sez‿ane ʒə ne sɛse]",
+      "ear": "庞当 图特 塞兹 阿内 热 内 塞塞",
+      "meaning": "过往数载 我从没停下过",
+      "suppliedText": "Pendant toutes ces années je n′ai cessé",
+      "sourceIPA": "/pɑ̃dɑ̃ tut sez ane ʒə ne sɛse/",
+      "sourceMeaning": "过往数载 我从没停下过",
+      "speaker": "",
+      "start": 70.286,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 124,
-        "sourceLineNumber": 420,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          413
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Suis jurée d'atteindre les sommets je me suis juré qu'un jour mon étoile brillera bien plus fort que",
-      "start": 132,
-      "ipa": "[sɥi ʒyʁe datɛ̃dʁ le sɔmɛ ʒə mə sɥi ʒyʁe kœ̃ ʒuʁ mɔ̃n‿etwal bʁijʁa bjɛ̃ ply fɔʁ kə]",
-      "ear": "斯于伊 日于赫 达坦德赫 莱 索梅 热 默 斯于伊 日于赫 坎 茹赫 蒙恩 诶特乌阿勒 布希耶哈 布耶安 普吕 佛赫 克",
-      "meaning": "我发誓要登上巅峰，有一天，我的星光将远远超过……",
-      "suppliedText": "suis jurée d'atteindre les sommets je me suis juré qu'un jour mon étoile brillera bien plus fort que",
-      "sourceLineId": "moliere-timed-421",
+      "sourceLineId": "moliere-le-spectacle-musical-10-017",
+      "sourceLineIndex": 17,
+      "lineIndex": 13,
+      "sourceText": "De m'enquérir de ses nouvelles",
+      "ipa": "[də mɑ̃keʁiʁ də se nuvɛl]",
+      "ear": "德 芒克希赫 德 塞 努韦勒",
+      "meaning": "四处探问她的消息",
+      "suppliedText": "De m'enquérir de ses nouvelles",
+      "sourceIPA": "/də mɑ̃keʁiʁ də se nuvɛl/",
+      "sourceMeaning": "四处探问她的消息",
+      "speaker": "",
+      "start": 72.571,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 132,
-        "sourceLineNumber": 421,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          413
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Celle de ma mère",
-      "start": 140,
-      "ipa": "[sɛl də ma mɛʁ]",
-      "ear": "塞勒 德 玛 梅赫",
-      "meaning": "母亲。",
-      "suppliedText": "celle de ma mère",
-      "sourceLineId": "moliere-timed-422",
+      "sourceLineId": "moliere-le-spectacle-musical-10-018",
+      "sourceLineIndex": 18,
+      "lineIndex": 14,
+      "sourceText": "On m'écrivait qu'Armande me ressemblait",
+      "ipa": "[ɔ̃ mekʁivɛ kaʁmɑ̃d mə ʁəsɑ̃blɛ]",
+      "ear": "翁 梅克希韦 卡赫芒德 默 赫桑布莱",
+      "meaning": "有人写信让我知道了阿尔芒德与我相像的事实",
+      "suppliedText": "On m′écrivait qu'Armande me ressemblait",
+      "sourceIPA": "/ɔ̃ mekʁivɛ kaʁmɑ̃d mə ʁəsɑ̃blɛ/",
+      "sourceMeaning": "有人写信让我知道了阿尔芒德与我相像的事实",
+      "speaker": "",
+      "start": 74.286,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 140,
-        "sourceLineNumber": 422,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          413
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-10-019",
+      "sourceLineIndex": 19,
+      "lineIndex": 15,
+      "sourceText": "Qu'elle était volontaire et rebelle",
+      "ipa": "[kɛl‿etɛ volɔ̃tɛʁ e ʁəbɛl]",
+      "ear": "凯勒 诶泰 沃隆泰赫 诶 赫贝勒",
+      "meaning": "她意志坚定而叛逆。",
+      "suppliedText": "Qu'elle était volontaire et rebelle",
+      "sourceIPA": "/kɛl etɛ volɔ̃tɛʁ e ʁəbɛl/",
+      "sourceMeaning": "她像在和我一样叛逆而固执",
+      "speaker": "",
+      "start": 76.286,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          413
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-10-020",
+      "sourceLineIndex": 20,
+      "lineIndex": 16,
+      "sourceText": "Quand elle devint suffisamment grande",
+      "ipa": "[kɑ̃t‿ɛl dəvɛ̃ syfizamɑ̃ ɡʁɑ̃d]",
+      "ear": "康特 艾勒 德万 西于菲扎芒 格杭德",
+      "meaning": "待她初长成时",
+      "suppliedText": "Quand elle devint suffisamment grande",
+      "sourceIPA": "/kɑ̃t ɛl dəvɛ̃ syfizamɑ̃ ɡʁɑ̃d/",
+      "sourceMeaning": "待她初长成时",
+      "speaker": "",
+      "start": 78.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          414
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-10-021",
+      "sourceLineIndex": 21,
+      "lineIndex": 17,
+      "sourceText": "En âge enfin de comprendre",
+      "ipa": "[ɑ̃n‿aʒ‿ɑ̃fɛ̃ də kɔ̃pʁɑ̃dʁ]",
+      "ear": "昂恩 阿日 昂凡 德 孔普杭德赫",
+      "meaning": "终于能谙熟世事",
+      "suppliedText": "En âge enfin de comprendre",
+      "sourceIPA": "/ɑ̃n aʒ ɑ̃fɛ̃ də kɔ̃pʁɑ̃dʁ/",
+      "sourceMeaning": "终于能谙熟世事",
+      "speaker": "",
+      "start": 79.6,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          414
+        ],
+        "wordCoverage": 0.6
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-10-022",
+      "sourceLineIndex": 22,
+      "lineIndex": 18,
+      "sourceText": "Dans une longue lettre je lui ai tout raconté",
+      "ipa": "[dɑ̃z‿yn lɔ̃ɡ lɛtʁ ʒə lɥi e tu ʁakɔ̃te]",
+      "ear": "当兹 于恩 隆格 莱特赫 热 勒于伊 诶 图 哈孔特",
+      "meaning": "我在一封长信中 将一切对她娓娓道来",
+      "suppliedText": "Dans une longue lettre je lui ai tout raconté",
+      "sourceIPA": "/dɑ̃z yn lɔ̃ɡ lɛtʁ ʒə lɥi e tu ʁakɔ̃te/",
+      "sourceMeaning": "我在一封长信中 将一切对她娓娓道来",
+      "speaker": "",
+      "start": 80.88,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          414
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-10-023",
+      "sourceLineIndex": 23,
+      "lineIndex": 19,
+      "sourceText": "En lui promettant de venir bientôt la chercher",
+      "ipa": "[ɑ̃ lɥi pʁomɛtɑ̃ də vəniʁ bjɛ̃to la ʃɛʁʃe]",
+      "ear": "昂 勒于伊 普霍梅唐 德 弗尼赫 布耶安托 拉 谢赫谢",
+      "meaning": "答应很快来接她。",
+      "suppliedText": "En lui promettant de venir bientôt la chercher",
+      "sourceIPA": "/ɑ̃ lɥi pʁomɛtɑ̃ də vəniʁ bjɛ̃to la ʃɛʁʃe/",
+      "sourceMeaning": "我答应她 要尽快来找到她",
+      "speaker": "",
+      "start": 83.76,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          414,
+          416
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-10-024",
+      "sourceLineIndex": 24,
+      "lineIndex": 20,
+      "sourceText": "Pourra-t-elle un jour me pardonner",
+      "ipa": "[puʁatɛl‿œ̃ ʒuʁ mə paʁdɔne]",
+      "ear": "普哈泰勒 恩 茹赫 默 帕赫多内",
+      "meaning": "是否会有一天 她能将我原谅",
+      "suppliedText": "Pourra-t-elle un jour me pardonner",
+      "sourceIPA": "/puʁatɛl œ̃ ʒuʁ mə paʁdɔne/",
+      "sourceMeaning": "是否会有一天 她能将我原谅",
+      "speaker": "",
+      "start": 88.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          416
+        ],
+        "wordCoverage": 0.714
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-10-025",
+      "sourceLineIndex": 25,
+      "lineIndex": 21,
+      "sourceText": "De l'avoir abandonnée?",
+      "ipa": "[də lavwaʁ‿abɑ̃dɔne]",
+      "ear": "德 拉弗乌阿赫 阿邦多内",
+      "meaning": "原谅我曾将她弃之不顾",
+      "suppliedText": "De l′avoir abandonnée?",
+      "sourceIPA": "/də lavwaʁ abɑ̃dɔne/",
+      "sourceMeaning": "原谅我曾将她弃之不顾",
+      "speaker": "",
+      "start": 96.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          416,
+          417
+        ],
+        "wordCoverage": 0.5
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-10-026",
+      "sourceLineIndex": 26,
+      "lineIndex": 22,
+      "sourceText": "De n'avoir jamais pu lui donner",
+      "ipa": "[də navwaʁ ʒamɛ py lɥi dɔne]",
+      "ear": "德 纳弗乌阿赫 扎梅 普于 勒于伊 多内",
+      "meaning": "原谅我从未能给过她",
+      "suppliedText": "De n′avoir jamais pu lui donner",
+      "sourceIPA": "/də navwaʁ ʒamɛ py lɥi dɔne/",
+      "sourceMeaning": "原谅我从未能给过她",
+      "speaker": "",
+      "start": 98.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          417,
+          418
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-10-027",
+      "sourceLineIndex": 27,
+      "lineIndex": 23,
+      "sourceText": "L'amour que je lui devais",
+      "ipa": "[lamuʁ kə ʒə lɥi dəvɛ]",
+      "ear": "拉穆赫 克 热 勒于伊 德韦",
+      "meaning": "我那本应给她的爱",
+      "suppliedText": "L'amour que je lui devais",
+      "sourceIPA": "/lamuʁ kə ʒə lɥi dəvɛ/",
+      "sourceMeaning": "我那本应给她的爱",
+      "speaker": "",
+      "start": 109.167,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          418,
+          419
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-10-030",
+      "sourceLineIndex": 30,
+      "lineIndex": 24,
+      "sourceText": "L'amour dont elle m'a privé",
+      "ipa": "[lamuʁ dɔ̃ ɛl ma pʁive]",
+      "ear": "拉穆赫 东 艾勒 玛 普希韦",
+      "meaning": "我那被她夺去的爱",
+      "suppliedText": "L′amour dont elle m'a privé",
+      "sourceIPA": "/lamuʁ dɔ̃t ɛl ma pʁive/",
+      "sourceMeaning": "我那被她夺去的爱",
+      "speaker": "",
+      "start": 115.75,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          419
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-10-031",
+      "sourceLineIndex": 31,
+      "lineIndex": 25,
+      "sourceText": "Pendant toutes ces années",
+      "ipa": "[pɑ̃dɑ̃ tut sez‿ane]",
+      "ear": "庞当 图特 塞兹 阿内",
+      "meaning": "回看过往数载",
+      "suppliedText": "Pendant toutes ces années",
+      "sourceIPA": "/pɑ̃dɑ̃ tut sez ane/",
+      "sourceMeaning": "回看过往数载",
+      "speaker": "",
+      "start": 120.25,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          419
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-10-032",
+      "sourceLineIndex": 32,
+      "lineIndex": 26,
+      "sourceText": "Et dans le plus grand des secrets",
+      "ipa": "[e dɑ̃ lə ply ɡʁɑ̃ de səkʁɛ]",
+      "ear": "诶 当 勒 普吕 格杭 德 瑟克赫",
+      "meaning": "我始终严守着秘密。",
+      "suppliedText": "Et dans le plus grand des secrets",
+      "sourceIPA": "/e dɑ̃ lə ply ɡʁɑ̃ de səkʁɛ/",
+      "sourceMeaning": "身处这个天大的秘密里面",
+      "speaker": "",
+      "start": 123.25,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          419,
+          420
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-10-033",
+      "sourceLineIndex": 33,
+      "lineIndex": 27,
+      "sourceText": "À la comédie je n'ai cessé de m'exercer",
+      "ipa": "[a la komedi ʒə ne sɛse də mɛɡzɛʁse]",
+      "ear": "阿 拉 科梅迪 热 内 塞塞 德 梅格泽赫塞",
+      "meaning": "不停练习表演。",
+      "suppliedText": "A la comédie je n′ai cessé de m'exercer",
+      "sourceIPA": "/a la komedi ʒə ne sɛse də mɛɡzɛʁse/",
+      "sourceMeaning": "我从没停下过 将那场戏剧排演",
+      "speaker": "",
+      "start": 125.778,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          420
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-10-034",
+      "sourceLineIndex": 34,
+      "lineIndex": 28,
+      "sourceText": "Je me suis juré d'en faire mon métier",
+      "ipa": "[ʒə mə sɥi ʒyʁe dɑ̃ fɛʁ mɔ̃ metje]",
+      "ear": "热 默 斯于伊 日于赫 当 费赫 蒙 梅特耶诶",
+      "meaning": "我已发过誓 要将它做成我的事业",
+      "suppliedText": "Je me suis juré d′en faire mon métier",
+      "sourceIPA": "/ʒə mə sɥi ʒyʁe dɑ̃ fɛʁ mɔ̃ metje/",
+      "sourceMeaning": "我已发过誓 要将它做成我的事业",
+      "speaker": "",
+      "start": 128.741,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          420
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-10-035",
+      "sourceLineIndex": 35,
+      "lineIndex": 29,
+      "sourceText": "Je me suis juré d'atteindre les sommets",
+      "ipa": "[ʒə mə sɥi ʒyʁe datɛ̃dʁ le sɔmɛ]",
+      "ear": "热 默 斯于伊 日于赫 达坦德赫 莱 索梅",
+      "meaning": "我已发过誓 要攀上至高山巅",
+      "suppliedText": "Je me suis juré d'atteindre les sommets",
+      "sourceIPA": "/ʒə mə sɥi ʒyʁe datɛ̃dʁ le sɔmɛ/",
+      "sourceMeaning": "我已发过誓 要攀上至高山巅",
+      "speaker": "",
+      "start": 131.407,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          420,
+          421
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-10-036",
+      "sourceLineIndex": 36,
+      "lineIndex": 30,
+      "sourceText": "Je me suis juré qu'un jour",
+      "ipa": "[ʒə mə sɥi ʒyʁe kœ̃ ʒuʁ]",
+      "ear": "热 默 斯于伊 日于赫 坎 茹赫",
+      "meaning": "我已发过誓 会有一天",
+      "suppliedText": "Je me suis juré qu'un jour",
+      "sourceIPA": "/ʒə mə sɥi ʒyʁe kœ̃ ʒuʁ/",
+      "sourceMeaning": "我已发过誓 会有一天",
+      "speaker": "",
+      "start": 134.4,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          421
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-10-037",
+      "sourceLineIndex": 37,
+      "lineIndex": 31,
+      "sourceText": "Mon étoile brillera bien plus fort que celle de ma mère",
+      "ipa": "[mɔ̃n‿etwal bʁijʁa bjɛ̃ ply fɔʁ kə sɛl də ma mɛʁ]",
+      "ear": "蒙恩 诶特乌阿勒 布希耶哈 布耶安 普吕 佛赫 克 塞勒 德 玛 梅赫",
+      "meaning": "我的星光会远比我母亲的星光 更加闪亮！",
+      "suppliedText": "Mon étoile brillera bien plus fort que celle de ma mère",
+      "sourceIPA": "/mɔ̃n etwal bʁijʁa bjɛ̃ ply fɔʁ kə sɛl də ma mɛʁ/",
+      "sourceMeaning": "我的星光会远比我母亲的星光 更加闪亮！",
+      "speaker": "",
+      "start": 137.2,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          421,
+          422
+        ],
+        "wordCoverage": 1.0
       }
     }
-  ],
-  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+  ]
 }

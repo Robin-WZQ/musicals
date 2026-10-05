@@ -1,262 +1,1140 @@
 {
   "videoId": "x-7l2SIxYI0",
   "playbackVideoId": "x-7l2SIxYI0",
-  "version": 2,
-  "textSource": "user-supplied-auto-transcript",
-  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "spelling-and-grammar-edits",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "sourceFileSHA256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134",
+  "textReviewStatus": "cross-checked",
+  "textReviewScope": "supplied-lyrics-spelling-grammar-and-chinese-meaning",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
-  "meaningSource": "editorial-chinese-from-user-transcript",
-  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
+  "meaningSource": "reviewed-user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "note": "歌词依据你提供的完整文件校对，中文释义已修订。学习卡片按现有现场录像整理，完整歌词另行归档；≈ 表示依据原字幕估算的分句位置。音标与空耳为文字的参考读法。",
   "sources": [
     {
-      "label": "本段原唱录像",
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+    },
+    {
+      "label": "本曲现场录像",
       "url": "https://www.youtube.com/watch?v=x-7l2SIxYI0"
     }
   ],
   "entries": [
     {
-      "sourceText": "On a tant marché, avancé contre vents…",
-      "start": 6,
-      "ipa": "[ɔ̃n‿a tɑ̃ maʁʃe avɑ̃se kɔ̃tʁ vɑ̃]",
-      "ear": "翁恩 阿 唐 玛赫谢 阿旺塞 孔特赫 旺",
-      "meaning": "我们走了那么久，逆风前进……",
-      "suppliedText": "on attend marcher avancer contreevent c'est",
-      "sourceLineId": "moliere-timed-425",
+      "sourceLineId": "moliere-le-spectacle-musical-09-002-a",
+      "sourceLineIndex": 2,
+      "lineIndex": 3,
+      "sourceText": "On a tant marché",
+      "ipa": "[ɔ̃n‿a tɑ̃ maʁʃe]",
+      "ear": "翁恩 阿 唐 玛赫谢",
+      "meaning": "我们一路走来",
+      "suppliedText": "On a tant marché",
+      "sourceIPA": "/ɔ̃n a tɑ̃ maʁʃe/",
+      "sourceMeaning": "我们一路走来",
+      "speaker": "",
+      "start": 6.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 6,
-        "sourceLineNumber": 425,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          425
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Maré on a trébucher on s'est relevé sans",
-      "start": 13,
-      "ipa": "[maʁe ɔ̃n‿a tʁebyʃe ɔ̃ sɛ ʁəlve sɑ̃]",
-      "ear": "玛赫 翁恩 阿 特赫比于谢 翁 塞 赫勒韦 桑",
-      "meaning": "……跌倒，再爬起来，没有……",
-      "suppliedText": "Maré on a trébucher on s'est relevé sans",
-      "sourceLineId": "moliere-timed-426",
+      "sourceLineId": "moliere-le-spectacle-musical-09-002-b",
+      "sourceLineIndex": 2,
+      "lineIndex": 4,
+      "sourceText": "Avancé contre vents et marées",
+      "ipa": "[avɑ̃se kɔ̃tʁ vɑ̃ e maʁe]",
+      "ear": "阿旺塞 孔特赫 旺 诶 玛赫",
+      "meaning": "顶着风浪前进",
+      "suppliedText": "Avancé contre vents et marées",
+      "sourceIPA": "/avɑ̃se kɔ̃tʁ vɑ̃z e maʁe/",
+      "sourceMeaning": "顶着风浪前进",
+      "speaker": "",
+      "start": 10.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 13,
-        "sourceLineNumber": 426,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          425,
+          426
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Renoncer. Aujourd'hui tout va bien, très bien, encore mieux que bien ! Le bonheur, c'est comme l'argent : ça va, ça vient. Tout passe, il n'y a pas d'impasse. Non, ne…",
-      "start": 21,
-      "ipa": "[ʁənɔ̃se oʒuʁdɥi tu va bjɛ̃ tʁɛ bjɛ̃ ɑ̃kɔʁ mjø kə bjɛ̃ lə bɔnœʁ sɛ kɔm laʁʒɑ̃ sa va sa vjɛ̃ tu pas il ni a pa dɛ̃pas nɔ̃ nə]",
-      "ear": "赫农塞 奥茹赫德于伊 图 瓦 布耶安 特赫 布耶安 昂科赫 姆耶厄 克 布耶安 勒 博讷厄赫 塞 科姆 拉赫让 萨 瓦 萨 弗耶安 图 帕斯 伊勒 尼 阿 帕 丹帕斯 农 讷",
-      "meaning": "放弃。今天一切都好，太好了！幸福像金钱，来来去去。一切都会过去，没有绝路，不要……",
-      "suppliedText": "renoncer aujourd'hui tout va bien très bien encore mieux que bien le bonheur c'est comme l'argent ça va ça VI tout passe il n'y a pas d'impasse non ne",
-      "sourceLineId": "moliere-timed-427",
+      "sourceLineId": "moliere-le-spectacle-musical-09-003-a",
+      "sourceLineIndex": 3,
+      "lineIndex": 5,
+      "sourceText": "On a trébuché",
+      "ipa": "[ɔ̃n‿a tʁebyʃe]",
+      "ear": "翁恩 阿 特赫比于谢",
+      "meaning": "我们曾跌倒",
+      "suppliedText": "On a trébuché",
+      "sourceIPA": "/ɔ̃n a tʁebyʃe/",
+      "sourceMeaning": "我们曾跌倒",
+      "speaker": "",
+      "start": 13.889,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 21,
-        "sourceLineNumber": 427,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          426
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Jamais lâcher faire face et face le passé c'est passé qui nous a blessé nos ennuis sont dépassés des problèmes on en",
-      "start": 30,
-      "ipa": "[ʒamɛ laʃe fɛʁ fas e fas lə pase sɛ pase ki nuz‿a blɛse noz‿ɑ̃nɥi sɔ̃ depase de pʁɔblɛm‿ɔ̃n‿ɑ̃]",
-      "ear": "扎梅 拉谢 费赫 法斯 诶 法斯 勒 帕塞 塞 帕塞 基 努兹 阿 布莱塞 诺兹 昂恩于伊 松 德帕塞 德 普霍布莱姆 翁恩 昂",
-      "meaning": "放弃，去面对，让过去过去。伤害我们的事、烦恼都过去了，我们曾有……",
-      "suppliedText": "jamais lâcher faire face et face le passé c'est passé qui nous a blessé nos ennuis sont dépassés des problèmes on en",
-      "sourceLineId": "moliere-timed-428",
+      "sourceLineId": "moliere-le-spectacle-musical-09-003-b",
+      "sourceLineIndex": 3,
+      "lineIndex": 6,
+      "sourceText": "On s'est relevé",
+      "ipa": "[ɔ̃ sɛ ʁəlve]",
+      "ear": "翁 塞 赫勒韦",
+      "meaning": "也曾重新站起",
+      "suppliedText": "On s'est relevé",
+      "sourceIPA": "/ɔ̃ sɛ ʁəlve/",
+      "sourceMeaning": "也曾重新站起",
+      "speaker": "",
+      "start": 16.556,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 30,
-        "sourceLineNumber": 428,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          426
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "A eu à bien qui fin bien oublier toutes les galères oublier toutes nos misères",
-      "start": 37,
-      "ipa": "[a y a bjɛ̃ ki fɛ̃ bjɛ̃n‿ublie tut le ɡalɛʁ‿ublie tut no mizɛʁ]",
-      "ear": "阿 于 阿 布耶安 基 凡 布耶安恩 乌布利诶 图特 莱 嘎莱赫 乌布利诶 图特 诺 米泽赫",
-      "meaning": "许多困难，但结局好便一切都好。忘掉困境，忘掉苦难……",
-      "suppliedText": "a eu à bien qui fin bien oublier toutes les galères oublier toutes nos misères",
-      "sourceLineId": "moliere-timed-429",
+      "sourceLineId": "moliere-le-spectacle-musical-09-004",
+      "sourceLineIndex": 4,
+      "lineIndex": 7,
+      "sourceText": "Sans renoncer",
+      "ipa": "[sɑ̃ ʁənɔ̃se]",
+      "ear": "桑 赫农塞",
+      "meaning": "百折不挠",
+      "suppliedText": "Sans renoncer",
+      "sourceIPA": "/sɑ̃ ʁənɔ̃se/",
+      "sourceMeaning": "百折不挠",
+      "speaker": "",
+      "start": 20.111,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 37,
-        "sourceLineNumber": 429,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          426,
+          427
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "On va faire la fête pour dé faire nos défaites on est encore debout cette fois",
-      "start": 45,
-      "ipa": "[ɔ̃ va fɛʁ la fɛt puʁ de fɛʁ no defɛt‿ɔ̃n‿ɛt‿ɑ̃kɔʁ dəbu sɛt fwa]",
-      "ear": "翁 瓦 费赫 拉 费特 普赫 德 费赫 诺 德费特 翁恩 艾特 昂科赫 德布 塞特 弗乌阿",
-      "meaning": "一起庆祝，让失败不再作数。我们仍站着，这次……",
-      "suppliedText": "on va faire la fête pour dé faire nos défaites on est encore debout cette fois",
-      "sourceLineId": "moliere-timed-430",
+      "sourceLineId": "moliere-le-spectacle-musical-09-005-a",
+      "sourceLineIndex": 5,
+      "lineIndex": 8,
+      "sourceText": "Aujourd'hui tout va bien, très bien",
+      "ipa": "[oʒuʁdɥi tu va bjɛ̃ tʁɛ bjɛ̃]",
+      "ear": "奥茹赫德于伊 图 瓦 布耶安 特赫 布耶安",
+      "meaning": "今天一切都好，非常好。",
+      "suppliedText": "Aujourd'hui tout va bien, très bien",
+      "sourceIPA": "/oʒuʁdyi tu va bjɛ̃ tʁɛ bjɛ̃/",
+      "sourceMeaning": "今天一切都好",
+      "speaker": "",
+      "start": 21.265,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 45,
-        "sourceLineNumber": 430,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          427
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "On ira au bout so on nous ATT lâché t clé et lché on n",
-      "start": 52,
-      "ipa": "[ɔ̃n‿iʁa o bu so ɔ̃ nuz‿atete laʃe te kle e lʃe ɔ̃ ɛn]",
-      "ear": "翁恩 伊哈 奥 布 索 翁 努兹 阿特特 拉谢 特 克莱 诶 勒谢 翁 艾恩",
-      "meaning": "我们要走到底……",
-      "suppliedText": "on ira au bout so on nous ATT lâché t clé et lché on n",
-      "sourceLineId": "moliere-timed-431",
+      "sourceLineId": "moliere-le-spectacle-musical-09-005-b",
+      "sourceLineIndex": 5,
+      "lineIndex": 9,
+      "sourceText": "Encore mieux que bien",
+      "ipa": "[ɑ̃kɔʁ mjø kə bjɛ̃]",
+      "ear": "昂科赫 姆耶厄 克 布耶安",
+      "meaning": "比好还要更好。",
+      "suppliedText": "Encore mieux que bien",
+      "sourceIPA": "/ɑ̃kɔʁ mjø kə bjɛ̃/",
+      "sourceMeaning": "好得很",
+      "speaker": "",
+      "start": 23.118,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 52,
-        "sourceLineNumber": 431,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          427
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Rien lâché on a CV on s'est",
-      "start": 64,
-      "ipa": "[ʁiɛ̃ laʃe ɔ̃n‿a seve ɔ̃ sɛ]",
-      "ear": "希安 拉谢 翁恩 阿 塞韦 翁 塞",
-      "meaning": "我们没有放弃……我们……",
-      "suppliedText": "rien lâché on a CV on s'est",
-      "sourceLineId": "moliere-timed-432",
+      "sourceLineId": "moliere-le-spectacle-musical-09-006-a",
+      "sourceLineIndex": 6,
+      "lineIndex": 10,
+      "sourceText": "Le bonheur c'est comme l'argent",
+      "ipa": "[lə bɔnœʁ sɛ kɔm laʁʒɑ̃]",
+      "ear": "勒 博讷厄赫 塞 科姆 拉赫让",
+      "meaning": "幸福就像金钱",
+      "suppliedText": "Le bonheur c'est comme l'argent",
+      "sourceIPA": "/lə bɔnœʁ sɛ kɔm laʁʒɑ̃/",
+      "sourceMeaning": "幸福就像金钱",
+      "speaker": "",
+      "start": 24.176,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 64,
-        "sourceLineNumber": 432,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          427
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Accrochés. Aujourd'hui tout va bien, très bien, encore mieux que bien. Le bonheur… ça va, ça vient. On casse tous les murs des impasses…",
-      "start": 73,
-      "ipa": "[akʁoʃe oʒuʁdɥi tu va bjɛ̃ tʁɛ bjɛ̃ ɑ̃kɔʁ mjø kə bjɛ̃ lə bɔnœʁ sa va sa vjɛ̃ ɔ̃ kas tu le myʁ dez‿ɛ̃pas]",
-      "ear": "阿克霍谢 奥茹赫德于伊 图 瓦 布耶安 特赫 布耶安 昂科赫 姆耶厄 克 布耶安 勒 博讷厄赫 萨 瓦 萨 弗耶安 翁 卡斯 图 莱 米于赫 德兹 安帕斯",
-      "meaning": "坚持住了。今天一切都好，太好了！幸福来来去去，我们打破困住我们的墙……",
-      "suppliedText": "accrochéoches aujourd'hi tout va bien très bien encore mieux que bien le bonheur c'est comme les gens ça va ça bien on casse tous les murs des impasses",
-      "sourceLineId": "moliere-timed-433",
+      "sourceLineId": "moliere-le-spectacle-musical-09-006-b",
+      "sourceLineIndex": 6,
+      "lineIndex": 11,
+      "sourceText": "Ça va, ça vient",
+      "ipa": "[sa va sa vjɛ̃]",
+      "ear": "萨 瓦 萨 弗耶安",
+      "meaning": "来来去去",
+      "suppliedText": "Ça va, ça vient",
+      "sourceIPA": "/sa va sa vjɛ̃/",
+      "sourceMeaning": "来来去去",
+      "speaker": "",
+      "start": 26.029,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 73,
-        "sourceLineNumber": 433,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          427
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Fait place cassous de pass on avait tellement de choses à prouver la vie nous a éprouvé notre rve on l' retrouver",
-      "start": 82,
-      "ipa": "[fɛ plas kasu də pas‿ɔ̃n‿avɛ tɛlmɑ̃ də ʃoz‿a pʁuve la vi nuz‿a epʁuve notʁ ʁv‿ɔ̃ ɛl ʁətʁuve]",
-      "ear": "费 普拉斯 卡苏 德 帕斯 翁恩 阿韦 泰勒芒 德 肖兹 阿 普胡韦 拉 维 努兹 阿 诶普胡韦 诺特赫 赫弗 翁 艾勒 赫特胡韦",
-      "meaning": "……我们曾有那么多要证明，生活考验过我们，如今找回梦想……",
-      "suppliedText": "fait place cassous de pass on avait tellement de choses à prouver la vie nous a éprouvé notre rve on l' retrouver",
-      "sourceLineId": "moliere-timed-434",
+      "sourceLineId": "moliere-le-spectacle-musical-09-007-a",
+      "sourceLineIndex": 7,
+      "lineIndex": 12,
+      "sourceText": "Tout passe",
+      "ipa": "[tu pas]",
+      "ear": "图 帕斯",
+      "meaning": "一切都会过去",
+      "suppliedText": "Tout passe",
+      "sourceIPA": "/tu pas/",
+      "sourceMeaning": "一切都会过去",
+      "speaker": "",
+      "start": 27.088,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 82,
-        "sourceLineNumber": 434,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          427
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tout est bien qui finit bien fais le PACT carton fais le PA",
-      "start": 91,
-      "ipa": "[tut‿ɛ bjɛ̃ ki fini bjɛ̃ fɛ lə pakt kaʁtɔ̃ fɛ lə pea]",
-      "ear": "图特 艾 布耶安 基 菲尼 布耶安 费 勒 帕克特 卡赫通 费 勒 佩阿",
-      "meaning": "结局好便一切都好……",
-      "suppliedText": "tout est bien tu finit bien fais le PACT carton fais le PA",
-      "sourceLineId": "moliere-timed-435",
+      "sourceLineId": "moliere-le-spectacle-musical-09-007-b",
+      "sourceLineIndex": 7,
+      "lineIndex": 13,
+      "sourceText": "Il n'y a pas d'impasse, non",
+      "ipa": "[il ni a pa dɛ̃pas nɔ̃]",
+      "ear": "伊勒 尼 阿 帕 丹帕斯 农",
+      "meaning": "没有走不通的路",
+      "suppliedText": "Il n'y a pas d'impasse, non",
+      "sourceIPA": "/il ni a pa dɛ̃pas nɔ̃/",
+      "sourceMeaning": "没有走不通的路",
+      "speaker": "",
+      "start": 27.618,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 91,
-        "sourceLineNumber": 435,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          427
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Aimer oubliez toutes les galères oubliez toutes misère on va faire laff pour",
-      "start": 139,
-      "ipa": "[ɛme ublie tut le ɡalɛʁ‿ublie tut mizɛʁ‿ɔ̃ va fɛʁ laf puʁ]",
-      "ear": "艾梅 乌布利诶 图特 莱 嘎莱赫 乌布利诶 图特 米泽赫 翁 瓦 费赫 拉弗 普赫",
-      "meaning": "爱的人？忘掉困境，忘掉苦难，我们要庆祝……",
-      "suppliedText": "aimer oubliez toutes les galères oubliez toutes misère on va faire laff pour",
-      "sourceLineId": "moliere-timed-442",
+      "sourceLineId": "moliere-le-spectacle-musical-09-008",
+      "sourceLineIndex": 8,
+      "lineIndex": 14,
+      "sourceText": "Ne jamais lâcher, faire face",
+      "ipa": "[nə ʒamɛ laʃe fɛʁ fas]",
+      "ear": "讷 扎梅 拉谢 费赫 法斯",
+      "meaning": "永不放弃 顽强挺立",
+      "suppliedText": "Ne jamais lâcher, faire face",
+      "sourceIPA": "/nə ʒamɛ laʃe fɛʁ fas/",
+      "sourceMeaning": "永不放弃 顽强挺立",
+      "speaker": "",
+      "start": 29.735,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 139,
-        "sourceLineNumber": 442,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          427,
+          428
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Défire nos défes on est encore debout cette fome il a au bout ce soir on va",
-      "start": 146,
-      "ipa": "[defiʁ no def‿ɔ̃n‿ɛt‿ɑ̃kɔʁ dəbu sɛt fɔm‿il‿a o bu sə swaʁ‿ɔ̃ va]",
-      "ear": "德菲赫 诺 德弗 翁恩 艾特 昂科赫 德布 塞特 佛姆 伊勒 阿 奥 布 瑟 斯乌阿赫 翁 瓦",
-      "meaning": "让失败不再作数。我们还站着，这次要走到底。今晚……",
-      "suppliedText": "défire nos défes on est encore debout cette fome il a au bout ce soir on va",
-      "sourceLineId": "moliere-timed-443",
+      "sourceLineId": "moliere-le-spectacle-musical-09-009",
+      "sourceLineIndex": 9,
+      "lineIndex": 15,
+      "sourceText": "Efface le passé",
+      "ipa": "[efas lə pase]",
+      "ear": "诶法斯 勒 帕塞",
+      "meaning": "抹去这过往",
+      "suppliedText": "Efface le passé",
+      "sourceIPA": "/efas lə pase/",
+      "sourceMeaning": "抹去这过往",
+      "speaker": "",
+      "start": 31.217,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 146,
-        "sourceLineNumber": 443,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          428
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Voir mémoire de nos",
-      "start": 153,
-      "ipa": "[vwaʁ memwaʁ də no]",
-      "ear": "弗乌阿赫 梅姆乌阿赫 德 诺",
-      "meaning": "……为过去的……",
-      "suppliedText": "voir mémoire de nos",
-      "sourceLineId": "moliere-timed-444",
+      "sourceLineId": "moliere-le-spectacle-musical-09-010",
+      "sourceLineIndex": 10,
+      "lineIndex": 16,
+      "sourceText": "Ce passé qui nous a blessés",
+      "ipa": "[sə pase ki nuz‿a blɛse]",
+      "ear": "瑟 帕塞 基 努兹 阿 布莱塞",
+      "meaning": "这过往令我们受过伤",
+      "suppliedText": "Ce passé qui nous a blessés",
+      "sourceIPA": "/sə pase ki nuz a blɛse/",
+      "sourceMeaning": "这过往令我们受过伤",
+      "speaker": "",
+      "start": 32.435,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 153,
-        "sourceLineNumber": 444,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          428
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Déboir ce soir on va voire la senté de notre va",
-      "start": 174,
-      "ipa": "[debwaʁ sə swaʁ‿ɔ̃ va vwaʁ la sɑ̃te də notʁ va]",
-      "ear": "德布乌阿赫 瑟 斯乌阿赫 翁 瓦 弗乌阿赫 拉 桑特 德 诺特赫 瓦",
-      "meaning": "挫折……今晚我们为……举杯。",
-      "suppliedText": "déboir ce soir on va voire la senté de notre va",
-      "sourceLineId": "moliere-timed-446",
+      "sourceLineId": "moliere-le-spectacle-musical-09-011",
+      "sourceLineIndex": 11,
+      "lineIndex": 17,
+      "sourceText": "Nos ennuis sont dépassés",
+      "ipa": "[noz‿ɑ̃nɥi sɔ̃ depase]",
+      "ear": "诺兹 昂恩于伊 松 德帕塞",
+      "meaning": "现在我们的麻烦都已成过往",
+      "suppliedText": "Nos ennuis sont dépassés",
+      "sourceIPA": "/noz ɑ̃nɥi sɔ̃ depase/",
+      "sourceMeaning": "现在我们的麻烦都已成过往",
+      "speaker": "",
+      "start": 34.565,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 174,
-        "sourceLineNumber": 446,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          428
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-012",
+      "sourceLineIndex": 12,
+      "lineIndex": 18,
+      "sourceText": "Des problèmes on en a eu assez",
+      "ipa": "[de pʁɔblɛm‿ɔ̃n‿ɑ̃n‿a y ase]",
+      "ear": "德 普霍布莱姆 翁恩 昂恩 阿 于 阿塞",
+      "meaning": "早受够了那些难题",
+      "suppliedText": "Des problèmes on en a eu assez",
+      "sourceIPA": "/de pʁɔblɛmz ɔ̃n ɑ̃n a y ase/",
+      "sourceMeaning": "早受够了那些难题",
+      "speaker": "",
+      "start": 35.783,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          428,
+          429
+        ],
+        "wordCoverage": 0.857
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-013",
+      "sourceLineIndex": 13,
+      "lineIndex": 19,
+      "sourceText": "Tout est bien qui finit bien",
+      "ipa": "[tut‿ɛ bjɛ̃ ki fini bjɛ̃]",
+      "ear": "图特 艾 布耶安 基 菲尼 布耶安",
+      "meaning": "结局如意 一切就算顺利",
+      "suppliedText": "Tout est bien qui finit bien",
+      "sourceIPA": "/tut ɛ bjɛ̃ ki fini bjɛ̃/",
+      "sourceMeaning": "结局如意 一切就算顺利",
+      "speaker": "",
+      "start": 38.244,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          429
+        ],
+        "wordCoverage": 0.833
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-014-a",
+      "sourceLineIndex": 14,
+      "lineIndex": 20,
+      "sourceText": "Oubliez toutes les galères",
+      "ipa": "[ublie tut le ɡalɛʁ]",
+      "ear": "乌布利诶 图特 莱 嘎莱赫",
+      "meaning": "忘掉所有困顿",
+      "suppliedText": "Oubliez toutes les galères",
+      "sourceIPA": "/ublie tut le ɡalɛʁ/",
+      "sourceMeaning": "忘掉所有困顿",
+      "speaker": "",
+      "start": 40.733,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          429
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-014-b",
+      "sourceLineIndex": 14,
+      "lineIndex": 21,
+      "sourceText": "Oubliez toutes nos misères",
+      "ipa": "[ublie tut no mizɛʁ]",
+      "ear": "乌布利诶 图特 诺 米泽赫",
+      "meaning": "忘掉我们所有苦难",
+      "suppliedText": "Oubliez toutes nos misères",
+      "sourceIPA": "/ublie tut no mizɛʁ/",
+      "sourceMeaning": "忘掉我们所有苦难",
+      "speaker": "",
+      "start": 42.867,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          429
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-015",
+      "sourceLineIndex": 15,
+      "lineIndex": 22,
+      "sourceText": "On va faire la fête pour défaire nos défaites",
+      "ipa": "[ɔ̃ va fɛʁ la fɛt puʁ defɛʁ no defɛt]",
+      "ear": "翁 瓦 费赫 拉 费特 普赫 德费赫 诺 德费特",
+      "meaning": "我们要齐聚狂欢 庆祝我们将败局翻盘",
+      "suppliedText": "On va faire la fête pour défaire nos défaites",
+      "sourceIPA": "/ɔ̃ va fɛʁ la fɛt puʁ defɛʁ no defɛt/",
+      "sourceMeaning": "我们要齐聚狂欢 庆祝我们将败局翻盘",
+      "speaker": "",
+      "start": 45.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          430
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-016-a",
+      "sourceLineIndex": 16,
+      "lineIndex": 23,
+      "sourceText": "On est encore debout",
+      "ipa": "[ɔ̃n‿ɛt‿ɑ̃kɔʁ dəbu]",
+      "ear": "翁恩 艾特 昂科赫 德布",
+      "meaning": "我们依然屹立",
+      "suppliedText": "On est encore debout",
+      "sourceIPA": "/ɔ̃n ɛt ɑ̃kɔʁ dəbu/",
+      "sourceMeaning": "我们依然屹立",
+      "speaker": "",
+      "start": 49.375,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          430
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-016-b",
+      "sourceLineIndex": 16,
+      "lineIndex": 24,
+      "sourceText": "Cette fois on ira au bout",
+      "ipa": "[sɛt fwa ɔ̃n‿iʁa o bu]",
+      "ear": "塞特 弗乌阿 翁恩 伊哈 奥 布",
+      "meaning": "这次定会坚持到底",
+      "suppliedText": "Cette fois on ira au bout",
+      "sourceIPA": "/sɛt fwaz ɔ̃n iʁa o bu/",
+      "sourceMeaning": "这次定会坚持到底",
+      "speaker": "",
+      "start": 51.125,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          430,
+          431
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-018",
+      "sourceLineIndex": 18,
+      "lineIndex": 26,
+      "sourceText": "On nous a tant bâchés, tant clashés et tant lynchés",
+      "ipa": "[ɔ̃ nuz‿a tɑ̃ baʃe tɑ̃ klaʃe e tɑ̃ lɛ̃ʃe]",
+      "ear": "翁 努兹 阿 唐 巴谢 唐 克拉谢 诶 唐 兰谢",
+      "meaning": "我们被不断贬损、攻击，甚至遭到围剿。",
+      "suppliedText": "On nous a tant bâchés, tant clashés et tant lynchés",
+      "sourceIPA": "/ɔ̃ nuz a tɑ̃ baʃe tɑ̃ klaʃez e tɑ̃ lɛ̃ʃe/",
+      "sourceMeaning": "我们走过筚路蓝缕 一路摩擦一路打架",
+      "speaker": "",
+      "start": 56.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          431
+        ],
+        "wordCoverage": 0.8
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-019",
+      "sourceLineIndex": 19,
+      "lineIndex": 27,
+      "sourceText": "On n'a rien lâché",
+      "ipa": "[ɔ̃ na ʁjɛ̃ laʃe]",
+      "ear": "翁 纳 赫耶安 拉谢",
+      "meaning": "我们没有放弃任何东西。",
+      "suppliedText": "On n'a rien lâché",
+      "sourceIPA": "/ɔ̃ na ʁjɛ̃ laʃe/",
+      "sourceMeaning": "我们不离不弃",
+      "speaker": "",
+      "start": 62.4,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          431,
+          432
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-020-a",
+      "sourceLineIndex": 20,
+      "lineIndex": 28,
+      "sourceText": "On a cravaché",
+      "ipa": "[ɔ̃n‿a kʁavaʃe]",
+      "ear": "翁恩 阿 克哈瓦谢",
+      "meaning": "我们拼命苦干",
+      "suppliedText": "On a cravaché",
+      "sourceIPA": "/ɔ̃n a kʁavaʃe/",
+      "sourceMeaning": "我们拼命苦干",
+      "speaker": "",
+      "start": 66.25,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          432
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-020-b",
+      "sourceLineIndex": 20,
+      "lineIndex": 29,
+      "sourceText": "On s'est accrochés",
+      "ipa": "[ɔ̃ sɛt‿akʁoʃe]",
+      "ear": "翁 塞特 阿克霍谢",
+      "meaning": "我们咬牙坚持",
+      "suppliedText": "On s'est accrochés",
+      "sourceIPA": "/ɔ̃ sɛt akʁoʃe/",
+      "sourceMeaning": "我们咬牙坚持",
+      "speaker": "",
+      "start": 69.625,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          432,
+          433
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-021",
+      "sourceLineIndex": 21,
+      "lineIndex": 30,
+      "sourceText": "À des rochers",
+      "ipa": "[a de ʁoʃe]",
+      "ear": "阿 德 霍谢",
+      "meaning": "于悬崖峭壁",
+      "suppliedText": "À des rochers",
+      "sourceIPA": "/a de ʁoʃe/",
+      "sourceMeaning": "于悬崖峭壁",
+      "speaker": "",
+      "start": 73.321,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          433
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-022-a",
+      "sourceLineIndex": 22,
+      "lineIndex": 31,
+      "sourceText": "Aujourd'hui tout va bien, très bien",
+      "ipa": "[oʒuʁdɥi tu va bjɛ̃ tʁɛ bjɛ̃]",
+      "ear": "奥茹赫德于伊 图 瓦 布耶安 特赫 布耶安",
+      "meaning": "今天一切都好，非常好。",
+      "suppliedText": "Aujourd'hui tout va bien, très bien",
+      "sourceIPA": "/oʒuʁdyi tu va bjɛ̃ tʁɛ bjɛ̃/",
+      "sourceMeaning": "今天一切都好",
+      "speaker": "",
+      "start": 74.286,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          433
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-022-b",
+      "sourceLineIndex": 22,
+      "lineIndex": 32,
+      "sourceText": "Encore mieux que bien",
+      "ipa": "[ɑ̃kɔʁ mjø kə bjɛ̃]",
+      "ear": "昂科赫 姆耶厄 克 布耶安",
+      "meaning": "比好还要更好。",
+      "suppliedText": "Encore mieux que bien",
+      "sourceIPA": "/ɑ̃kɔʁ mjø kə bjɛ̃/",
+      "sourceMeaning": "好得很",
+      "speaker": "",
+      "start": 76.536,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          433
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-023-a",
+      "sourceLineIndex": 23,
+      "lineIndex": 33,
+      "sourceText": "Le bonheur c'est comme les gens",
+      "ipa": "[lə bɔnœʁ sɛ kɔm le ʒɑ̃]",
+      "ear": "勒 博讷厄赫 塞 科姆 莱 让",
+      "meaning": "幸福就像人们",
+      "suppliedText": "Le bonheur c'est comme les gens",
+      "sourceIPA": "/lə bɔnœʁ sɛ kɔm le ʒɑ̃/",
+      "sourceMeaning": "幸福就像人们",
+      "speaker": "",
+      "start": 77.821,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          433
+        ],
+        "wordCoverage": 0.429
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-023-b",
+      "sourceLineIndex": 23,
+      "lineIndex": 34,
+      "sourceText": "Ça va, ça vient",
+      "ipa": "[sa va sa vjɛ̃]",
+      "ear": "萨 瓦 萨 弗耶安",
+      "meaning": "来来去去",
+      "suppliedText": "Ça va, ça vient",
+      "sourceIPA": "/sa va sa vjɛ̃/",
+      "sourceMeaning": "来来去去",
+      "speaker": "",
+      "start": 78.464,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          433
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-024-a",
+      "sourceLineIndex": 24,
+      "lineIndex": 35,
+      "sourceText": "On casse tous les murs des impasses",
+      "ipa": "[ɔ̃ kas tu le myʁ dez‿ɛ̃pas]",
+      "ear": "翁 卡斯 图 莱 米于赫 德兹 安帕斯",
+      "meaning": "我们推倒死路上的所有高墙",
+      "suppliedText": "On casse tous les murs des impasses",
+      "sourceIPA": "/ɔ̃ kas tu le myʁ dez ɛ̃pas/",
+      "sourceMeaning": "我们推倒死路上的所有高墙",
+      "speaker": "",
+      "start": 79.75,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          433
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-024-b",
+      "sourceLineIndex": 24,
+      "lineIndex": 36,
+      "sourceText": "Ay",
+      "ipa": "[ɛ]",
+      "ear": "艾",
+      "meaning": "哎",
+      "suppliedText": "Ay",
+      "sourceIPA": "/ɛ/",
+      "sourceMeaning": "哎",
+      "speaker": "",
+      "start": 81.679,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          433
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-025",
+      "sourceLineIndex": 25,
+      "lineIndex": 37,
+      "sourceText": "Faites place car c'est à nous de passer",
+      "ipa": "[fɛt plas kaʁ sɛt‿a nu də pase]",
+      "ear": "费特 普拉斯 卡赫 塞特 阿 努 德 帕塞",
+      "meaning": "快让路！好让我们继续前行",
+      "suppliedText": "Faites place car c'est à nous de passer",
+      "sourceIPA": "/fɛt plas kaʁ sɛt a nu də pase/",
+      "sourceMeaning": "快让路！好让我们继续前行",
+      "speaker": "",
+      "start": 82.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          434
+        ],
+        "wordCoverage": 0.778
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-026",
+      "sourceLineIndex": 26,
+      "lineIndex": 38,
+      "sourceText": "On avait tellement de choses à prouver",
+      "ipa": "[ɔ̃n‿avɛ tɛlmɑ̃ də ʃoz‿a pʁuve]",
+      "ear": "翁恩 阿韦 泰勒芒 德 肖兹 阿 普胡韦",
+      "meaning": "我们想要证明的东西太多",
+      "suppliedText": "On avait tellement de choses à prouver",
+      "sourceIPA": "/ɔ̃n avɛ tɛlmɑ̃ də ʃozz a pʁuve/",
+      "sourceMeaning": "我们想要证明的东西太多",
+      "speaker": "",
+      "start": 84.045,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          434
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-027",
+      "sourceLineIndex": 27,
+      "lineIndex": 39,
+      "sourceText": "Même quand la vie nous a éprouvés",
+      "ipa": "[mɛm kɑ̃ la vi nuz‿a epʁuve]",
+      "ear": "梅姆 康 拉 维 努兹 阿 诶普胡韦",
+      "meaning": "即便遭受过生活折磨",
+      "suppliedText": "Même quand la vie nous a éprouvé",
+      "sourceIPA": "/mɛm kɑ̃ la vi nuz a epʁuve/",
+      "sourceMeaning": "即便遭受过生活折磨",
+      "speaker": "",
+      "start": 86.5,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          434
+        ],
+        "wordCoverage": 0.857
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-028",
+      "sourceLineIndex": 28,
+      "lineIndex": 40,
+      "sourceText": "Notre rêve on l'a retrouvé",
+      "ipa": "[notʁ ʁɛv‿ɔ̃ la ʁətʁuve]",
+      "ear": "诺特赫 赫弗 翁 拉 赫特胡韦",
+      "meaning": "我们的梦已重新寻得",
+      "suppliedText": "Notre rêve on l'a retrouvé",
+      "sourceIPA": "/notʁ ʁɛv ɔ̃ la ʁətʁuve/",
+      "sourceMeaning": "我们的梦已重新寻得",
+      "speaker": "",
+      "start": 88.955,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          434
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-029",
+      "sourceLineIndex": 29,
+      "lineIndex": 41,
+      "sourceText": "Tout est bien qui finit bien",
+      "ipa": "[tut‿ɛ bjɛ̃ ki fini bjɛ̃]",
+      "ear": "图特 艾 布耶安 基 菲尼 布耶安",
+      "meaning": "结局如意 一切就算顺利",
+      "suppliedText": "Tout est bien qui finit bien",
+      "sourceIPA": "/tut ɛ bjɛ̃ ki fini bjɛ̃/",
+      "sourceMeaning": "结局如意 一切就算顺利",
+      "speaker": "",
+      "start": 91.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          435
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-030-a",
+      "sourceLineIndex": 30,
+      "lineIndex": 42,
+      "sourceText": "Fais le pacte",
+      "ipa": "[fɛ lə pakt]",
+      "ear": "费 勒 帕克特",
+      "meaning": "立下这个约定。",
+      "suppliedText": "Fait le pacte",
+      "sourceIPA": "/fɛ lə pakt/",
+      "sourceMeaning": "立下约定",
+      "speaker": "",
+      "start": 94.75,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          435
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-030-b",
+      "sourceLineIndex": 30,
+      "lineIndex": 43,
+      "sourceText": "Gardons nos rêves intacts",
+      "ipa": "[ɡaʁdɔ̃ no ʁɛv‿ɛ̃takt]",
+      "ear": "嘎赫东 诺 赫弗 安塔克特",
+      "meaning": "让我们的梦想完好如初",
+      "suppliedText": "Gardons nos rêves intacts",
+      "sourceIPA": "/ɡaʁdɔ̃ no ʁɛvz ɛ̃takt/",
+      "sourceMeaning": "让我们的梦想完好如初",
+      "speaker": "",
+      "start": 96.625,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          435
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-031-a",
+      "sourceLineIndex": 31,
+      "lineIndex": 44,
+      "sourceText": "Fais le pacte",
+      "ipa": "[fɛ lə pakt]",
+      "ear": "费 勒 帕克特",
+      "meaning": "立下这个约定。",
+      "suppliedText": "Fait le pacte",
+      "sourceIPA": "/fɛ lə pakt/",
+      "sourceMeaning": "立下约定",
+      "speaker": "",
+      "start": 99.125,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          435
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-034-a",
+      "sourceLineIndex": 34,
+      "lineIndex": 50,
+      "sourceText": "Oubliez toutes les galères",
+      "ipa": "[ublie tut le ɡalɛʁ]",
+      "ear": "乌布利诶 图特 莱 嘎莱赫",
+      "meaning": "忘掉所有困顿",
+      "suppliedText": "Oubliez toutes les galères",
+      "sourceIPA": "/ublie tut le ɡalɛʁ/",
+      "sourceMeaning": "忘掉所有困顿",
+      "speaker": "",
+      "start": 139.538,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          442
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-034-b",
+      "sourceLineIndex": 34,
+      "lineIndex": 51,
+      "sourceText": "Oubliez toutes nos misères",
+      "ipa": "[ublie tut no mizɛʁ]",
+      "ear": "乌布利诶 图特 诺 米泽赫",
+      "meaning": "忘掉我们所有苦难",
+      "suppliedText": "Oubliez toutes nos misères",
+      "sourceIPA": "/ublie tut no mizɛʁ/",
+      "sourceMeaning": "忘掉我们所有苦难",
+      "speaker": "",
+      "start": 142.024,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          442
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-035",
+      "sourceLineIndex": 35,
+      "lineIndex": 52,
+      "sourceText": "On va faire la fête pour défaire nos défaites",
+      "ipa": "[ɔ̃ va fɛʁ la fɛt puʁ defɛʁ no defɛt]",
+      "ear": "翁 瓦 费赫 拉 费特 普赫 德费赫 诺 德费特",
+      "meaning": "我们要齐聚狂欢 庆祝我们将败局翻盘",
+      "suppliedText": "On va faire la fête pour défaire nos défaites",
+      "sourceIPA": "/ɔ̃ va fɛʁ la fɛt puʁ defɛʁ no defɛt/",
+      "sourceMeaning": "我们要齐聚狂欢 庆祝我们将败局翻盘",
+      "speaker": "",
+      "start": 143.515,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          442,
+          443
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-036-a",
+      "sourceLineIndex": 36,
+      "lineIndex": 53,
+      "sourceText": "On est encore debout",
+      "ipa": "[ɔ̃n‿ɛt‿ɑ̃kɔʁ dəbu]",
+      "ear": "翁恩 艾特 昂科赫 德布",
+      "meaning": "我们依然屹立",
+      "suppliedText": "On est encore debout",
+      "sourceIPA": "/ɔ̃n ɛt ɑ̃kɔʁ dəbu/",
+      "sourceMeaning": "我们依然屹立",
+      "speaker": "",
+      "start": 147.235,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          443
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-036-b",
+      "sourceLineIndex": 36,
+      "lineIndex": 54,
+      "sourceText": "Cette fois on ira au bout",
+      "ipa": "[sɛt fwa ɔ̃n‿iʁa o bu]",
+      "ear": "塞特 弗乌阿 翁恩 伊哈 奥 布",
+      "meaning": "这次定会坚持到底",
+      "suppliedText": "Cette fois on ira au bout",
+      "sourceIPA": "/sɛt fwaz ɔ̃n iʁa o bu/",
+      "sourceMeaning": "这次定会坚持到底",
+      "speaker": "",
+      "start": 148.882,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          443
+        ],
+        "wordCoverage": 0.667
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-037",
+      "sourceLineIndex": 37,
+      "lineIndex": 55,
+      "sourceText": "Ce soir on va boire À la mémoire de nos déboires",
+      "ipa": "[sə swaʁ‿ɔ̃ va bwaʁ‿a la memwaʁ də no debwaʁ]",
+      "ear": "瑟 斯乌阿赫 翁 瓦 布乌阿赫 阿 拉 梅姆乌阿赫 德 诺 德布乌阿赫",
+      "meaning": "今夜 我们要举杯 敬我们一路的坎坷",
+      "suppliedText": "Ce soir on va boire À la mémoire de nos déboires",
+      "sourceIPA": "/sə swaʁ ɔ̃ va bwaʁ a la memwaʁ də no debwaʁ/",
+      "sourceMeaning": "今夜 我们要举杯 敬我们一路的坎坷",
+      "speaker": "",
+      "start": 151.353,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          443,
+          444,
+          446
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-09-046",
+      "sourceLineIndex": 46,
+      "lineIndex": 66,
+      "sourceText": "Ce soir on va boire À la mémoire de notre théâtre!",
+      "ipa": "[sə swaʁ‿ɔ̃ va bwaʁ‿a la memwaʁ də notʁ teatʁ]",
+      "ear": "瑟 斯乌阿赫 翁 瓦 布乌阿赫 阿 拉 梅姆乌阿赫 德 诺特赫 特阿特赫",
+      "meaning": "今夜 我们要举杯 敬我们共同的剧团！",
+      "suppliedText": "Ce soir on va boire À la mémoire de notre théâtre!",
+      "sourceIPA": "/sə swaʁ ɔ̃ va bwaʁ a la memwaʁ də notʁ teatʁ/",
+      "sourceMeaning": "今夜 我们要举杯 敬我们共同的剧团！",
+      "speaker": "",
+      "start": 175.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          446
+        ],
+        "wordCoverage": 0.818
       }
     }
-  ],
-  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+  ]
 }

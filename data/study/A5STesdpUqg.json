@@ -1,358 +1,1079 @@
 {
   "videoId": "A5STesdpUqg",
   "playbackVideoId": "A5STesdpUqg",
-  "version": 2,
-  "textSource": "user-supplied-auto-transcript",
-  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "spelling-and-grammar-edits",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "sourceFileSHA256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134",
+  "textReviewStatus": "cross-checked",
+  "textReviewScope": "supplied-lyrics-spelling-grammar-and-chinese-meaning",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
-  "meaningSource": "editorial-chinese-from-user-transcript",
-  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
+  "meaningSource": "reviewed-user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "note": "歌词依据你提供的完整文件校对，中文释义已修订。学习卡片按现有现场录像整理，完整歌词另行归档；≈ 表示依据原字幕估算的分句位置。音标与空耳为文字的参考读法。",
   "sources": [
     {
-      "label": "本段原唱录像",
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+    },
+    {
+      "label": "本曲现场录像",
       "url": "https://www.youtube.com/watch?v=A5STesdpUqg"
     }
   ],
   "entries": [
     {
-      "sourceText": "Ils sont prêts à tous les hommages pour un instant, pourvu que je",
-      "start": 0,
-      "ipa": "[il sɔ̃ pʁɛ a tu lez‿ɔmaʒ puʁ‿œ̃n‿ɛ̃stɑ̃ puʁvy kə ʒə]",
-      "ear": "伊勒 松 普赫 阿 图 莱兹 哦玛日 普赫 恩恩 安斯唐 普赫维于 克 热",
-      "meaning": "他们愿献上一切殷勤，只为片刻，只要我",
-      "suppliedText": "ils sont prêts à tous les hommages pour un instant pourvu que je",
-      "sourceLineId": "moliere-timed-629",
+      "sourceLineId": "moliere-le-spectacle-musical-06-001",
+      "sourceLineIndex": 1,
+      "lineIndex": 1,
+      "sourceText": "Ils sont prêts à tous les hommages pour un instant pourvu que je m'allonge",
+      "ipa": "[il sɔ̃ pʁɛ a tu lez‿ɔmaʒ puʁ‿œ̃n‿ɛ̃stɑ̃ puʁvy kə ʒə malɔ̃ʒ]",
+      "ear": "伊勒 松 普赫 阿 图 莱兹 哦玛日 普赫 恩恩 安斯唐 普赫维于 克 热 玛隆日",
+      "meaning": "他们愿献上一切殷勤，只求片刻，只要我躺下来。",
+      "suppliedText": "Ils sont prêt à tous les hommages pour un instant pourvu que je m'allonge",
+      "sourceIPA": "/il sɔ̃ pʁɛ a tu lez ɔmaʒ puʁ œ̃n ɛ̃stɑ̃ puʁvy kə ʒə malɔ̃ʒ/",
+      "sourceMeaning": "他们已备好了一切诚意 只为与我春宵一刻",
+      "speaker": "",
+      "start": 0.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 0,
-        "sourceLineNumber": 629,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          629,
+          630
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "M'allonge. Ils maîtrisent tous les rouages pour gagner du temps. Leur fin justifie les",
-      "start": 7,
-      "ipa": "[malɔ̃ʒ il mɛtʁiz tu le ʁwaʒ puʁ ɡanje dy tɑ̃ lœʁ fɛ̃ ʒystifi le]",
-      "ear": "玛隆日 伊勒 梅特希兹 图 莱 赫乌阿日 普赫 嘎恩耶诶 迪于 唐 勒厄赫 凡 日于斯蒂菲 莱",
-      "meaning": "躺下来。他们熟悉一切手段来争取时间。他们的目的为",
-      "suppliedText": "m'allonge ils maîtrise tous les rouages pour gagner du temps leur fin justifie les",
-      "sourceLineId": "moliere-timed-630",
+      "sourceLineId": "moliere-le-spectacle-musical-06-002",
+      "sourceLineIndex": 2,
+      "lineIndex": 2,
+      "sourceText": "Ils maîtrisent tous les rouages pour gagner du temps",
+      "ipa": "[il mɛtʁiz tu le ʁwaʒ puʁ ɡanje dy tɑ̃]",
+      "ear": "伊勒 梅特希兹 图 莱 赫乌阿日 普赫 嘎恩耶诶 迪于 唐",
+      "meaning": "他们熟悉一切手段，好争取时间。",
+      "suppliedText": "Ils maitrisent tous les rouages pour gagner du temps",
+      "sourceIPA": "/il mɛtʁiz tu le ʁwaʒ puʁ ɡanje dy tɑ̃/",
+      "sourceMeaning": "他们掌控了每道关卡 为赢得下手时间",
+      "speaker": "",
+      "start": 8.067,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 7,
-        "sourceLineNumber": 630,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          630
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Mensonges. Ils se donnent dans de beaux discours, l'hymne à l'amour, en reluquant mes",
-      "start": 15,
-      "ipa": "[mɑ̃sɔ̃ʒ il sə dɔn dɑ̃ də bo diskuʁ limn‿a lamuʁ ɑ̃ ʁəlykɑ̃ me]",
-      "ear": "芒松日 伊勒 瑟 多恩 当 德 博 迪斯库赫 利姆恩 阿 拉穆赫 昂 赫吕康 梅",
-      "meaning": "谎言找理由。他们说着漂亮的话，唱着爱的颂歌，却盯着我的",
-      "suppliedText": "mensonges il se donne dans de beaux discours l'hyne à l'amour en reluquant mes",
-      "sourceLineId": "moliere-timed-631",
+      "sourceLineId": "moliere-le-spectacle-musical-06-003",
+      "sourceLineIndex": 3,
+      "lineIndex": 3,
+      "sourceText": "leur fin justifie leurs mensonges",
+      "ipa": "[lœʁ fɛ̃ ʒystifi lœʁ mɑ̃sɔ̃ʒ]",
+      "ear": "勒厄赫 凡 日于斯蒂菲 勒厄赫 芒松日",
+      "meaning": "他们用目的为谎言辩解。",
+      "suppliedText": "leur fin justifie leurs mensonges",
+      "sourceIPA": "/lœʁ fɛ̃ ʒystifi lœʁ mɑ̃sɔ̃ʒ/",
+      "sourceMeaning": "为达目的 他们鬼话连篇",
+      "speaker": "",
+      "start": 12.867,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 15,
-        "sourceLineNumber": 631,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          630,
+          631
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Contours. J'suis pas toujours sentimentale. Je deviens animale dès que l'on me fait mal. Ni",
-      "start": 22,
-      "ipa": "[kɔ̃tuʁ ʒsɥi pa tuʒuʁ sɑ̃timɑ̃tal ʒə dəvjɛ̃ animal dɛ kə lɔ̃ mə fɛ mal ni]",
-      "ear": "孔图赫 日斯于伊 帕 图茹赫 桑蒂芒塔勒 热 德弗耶安 阿尼玛勒 戴 克 隆 默 费 玛勒 尼",
-      "meaning": "身体曲线。我并不总是多愁善感。受伤时，我会像野兽。既不是",
-      "suppliedText": "contours je suis pas toujours sentimental je deviensal dès que l'on MEUR fait mal une",
-      "sourceLineId": "moliere-timed-632",
+      "sourceLineId": "moliere-le-spectacle-musical-06-004",
+      "sourceLineIndex": 4,
+      "lineIndex": 4,
+      "sourceText": "Ils fredonnent dans de beaux discours l'hymne à l'amour",
+      "ipa": "[il fʁədɔn dɑ̃ də bo diskuʁ limn‿a lamuʁ]",
+      "ear": "伊勒 弗赫多恩 当 德 博 迪斯库赫 利姆恩 阿 拉穆赫",
+      "meaning": "他们说着漂亮的话，哼唱爱的颂歌。",
+      "suppliedText": "Ils fredonnent dans de beaux discours l'hymne à l'amour",
+      "sourceIPA": "/il fʁədɔn dɑ̃ də bo diskuʁ limn a lamuʁ/",
+      "sourceMeaning": "他们满口高谈阔论 为爱情哼唱颂歌",
+      "speaker": "",
+      "start": 15.438,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 22,
-        "sourceLineNumber": 632,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          631
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Femme, ni femme fatale, je suis une femme létale, une tueuse de mâles. Moi, je veux tout donner,",
-      "start": 32,
-      "ipa": "[fam ni fam fatal ʒə sɥi yn fam letal yn tyøz də mal mwa ʒə vø tu dɔne]",
-      "ear": "法姆 尼 法姆 法塔勒 热 斯于伊 于恩 法姆 莱塔勒 于恩 蒂于厄兹 德 玛勒 姆乌阿 热 弗厄 图 多内",
-      "meaning": "普通女人，也不是致命诱惑，我是致命的女人，是男人的杀手。我想付出一切，",
-      "suppliedText": "femme une femme fatale je suis une femme létale uneueuse de mal moi je veux tout donner",
-      "sourceLineId": "moliere-timed-633",
+      "sourceLineId": "moliere-le-spectacle-musical-06-005",
+      "sourceLineIndex": 5,
+      "lineIndex": 5,
+      "sourceText": "en reluquant mes contours",
+      "ipa": "[ɑ̃ ʁəlykɑ̃ me kɔ̃tuʁ]",
+      "ear": "昂 赫吕康 梅 孔图赫",
+      "meaning": "却斜眼打量着我的身形曲线",
+      "suppliedText": "en reluquant mes contours",
+      "sourceIPA": "/ɑ̃ ʁəlykɑ̃ me kɔ̃tuʁ/",
+      "sourceMeaning": "却斜眼打量着我的身形曲线",
+      "speaker": "",
+      "start": 20.688,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 32,
-        "sourceLineNumber": 633,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          631,
+          632
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tout donner, si je veux ; tout donner, tout donner, quand je veux me donner sans aucun remords. Moi, je veux tout donner, tout",
-      "start": 40,
-      "ipa": "[tu dɔne si ʒə vø tu dɔne tu dɔne kɑ̃ ʒə vø mə dɔne sɑ̃ okœ̃ ʁəmɔʁ mwa ʒə vø tu dɔne tu]",
-      "ear": "图 多内 西 热 弗厄 图 多内 图 多内 康 热 弗厄 默 多内 桑 奥坎 赫莫赫 姆乌阿 热 弗厄 图 多内 图",
-      "meaning": "倾尽所有，如果我愿意；倾尽所有，毫不后悔地在自己愿意时投入。我想付出一切，倾尽",
-      "suppliedText": "tout donner si je veux tout donner tout donner quand je veux donner sans aucunement moi je veux tout donner tout",
-      "sourceLineId": "moliere-timed-634",
+      "sourceLineId": "moliere-le-spectacle-musical-06-006",
+      "sourceLineIndex": 6,
+      "lineIndex": 6,
+      "sourceText": "J'suis pas toujours sentimentale",
+      "ipa": "[ʒə sɥi pa tuʒuʁ sɑ̃timɑ̃tal]",
+      "ear": "热 斯于伊 帕 图茹赫 桑蒂芒塔勒",
+      "meaning": "我不总是多愁善感",
+      "suppliedText": "J'suis pas toujours sentimentale",
+      "sourceIPA": "/ʒsɥi pa tuʒuʁ sɑ̃timɑ̃tal/",
+      "sourceMeaning": "我不总是多愁善感",
+      "speaker": "",
+      "start": 22.588,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 40,
-        "sourceLineNumber": 634,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          632
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Donner, si je veux ; tout donner, tout donner, quand je veux me donner sans aucun effort. Ils se vantent de leurs prouesses,",
-      "start": 49,
-      "ipa": "[dɔne si ʒə vø tu dɔne tu dɔne kɑ̃ ʒə vø mə dɔne sɑ̃ okœ̃n‿efɔʁ il sə vɑ̃t də lœʁ pʁwɛs]",
-      "ear": "多内 西 热 弗厄 图 多内 图 多内 康 热 弗厄 默 多内 桑 奥坎恩 诶佛赫 伊勒 瑟 旺特 德 勒厄赫 普赫乌艾斯",
-      "meaning": "所有，如果我愿意；倾尽所有，在自己愿意时轻松投入。他们夸耀自己的本事，",
-      "suppliedText": "donner si je veux tout donner tout donner quand je veux pe donner sans aucun ils se ventent de leur pouesse",
-      "sourceLineId": "moliere-timed-635",
+      "sourceLineId": "moliere-le-spectacle-musical-06-007",
+      "sourceLineIndex": 7,
+      "lineIndex": 7,
+      "sourceText": "je deviens animale dès que l'on me fait mal",
+      "ipa": "[ʒə dəvjɛ̃ animal dɛ kə lɔ̃ mə fɛ mal]",
+      "ear": "热 德弗耶安 阿尼玛勒 戴 克 隆 默 费 玛勒",
+      "meaning": "一旦受到伤害，我便会像野兽。",
+      "suppliedText": "je deviens animal des que l'on me fait mal",
+      "sourceIPA": "/ʒə dəvjɛ̃z animal de kə lɔ̃ mə fɛ mal/",
+      "sourceMeaning": "若有人伤害我 我将从此化身野兽给他好看",
+      "speaker": "",
+      "start": 25.529,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 49,
-        "sourceLineNumber": 635,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          632
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Mâles dominants, mal dominés par leurs sens. Pourquoi faut-il leur dire sans",
-      "start": 58,
-      "ipa": "[mal dominɑ̃ mal domine paʁ lœʁ sɑ̃s puʁkwa fotil lœʁ diʁ sɑ̃]",
-      "ear": "玛勒 多米南 玛勒 多米内 帕赫 勒厄赫 桑斯 普赫克乌阿 佛蒂勒 勒厄赫 迪赫 桑",
-      "meaning": "自称支配者，却被欲望支配。为什么必须不断",
-      "suppliedText": "maldine non mal dominé par leur sens pourquoi faut-il leur dire sans",
-      "sourceLineId": "moliere-timed-636",
+      "sourceLineId": "moliere-le-spectacle-musical-06-008",
+      "sourceLineIndex": 8,
+      "lineIndex": 8,
+      "sourceText": "Ni femme-objet ni femme fatale",
+      "ipa": "[ni famɔbʒɛ ni fam fatal]",
+      "ear": "尼 法莫布热 尼 法姆 法塔勒",
+      "meaning": "我不是供人摆布的女人，也不是致命诱惑。",
+      "suppliedText": "Ni femme génie femme fatale",
+      "sourceIPA": "/ni fam ʒeni fam fatal/",
+      "sourceMeaning": "绝非花瓶摆件 更非红颜祸水",
+      "speaker": "",
+      "start": 31.412,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 58,
-        "sourceLineNumber": 636,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          632,
+          633
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Cesse que c'est non, non, non, jusqu'à l'indécence ? J'suis pas toujours sentimentale. Je",
-      "start": 66,
-      "ipa": "[sɛs kə sɛ nɔ̃ nɔ̃ nɔ̃ ʒyska lɛ̃desɑ̃s ʒsɥi pa tuʒuʁ sɑ̃timɑ̃tal ʒə]",
-      "ear": "塞斯 克 塞 农 农 农 日于斯卡 兰德桑斯 日斯于伊 帕 图茹赫 桑蒂芒塔勒 热",
-      "meaning": "地告诉他们“不，不，不”，直到失去体面？我并不总是多愁善感。我",
-      "suppliedText": "cesse que c'est non non non jusqu'à l' s je suis pas toujours sentimental je",
-      "sourceLineId": "moliere-timed-637",
+      "sourceLineId": "moliere-le-spectacle-musical-06-009",
+      "sourceLineIndex": 9,
+      "lineIndex": 9,
+      "sourceText": "je suis une femme létale une tueuse de mâles",
+      "ipa": "[ʒə sɥi yn fam letal‿yn tyøz də mal]",
+      "ear": "热 斯于伊 于恩 法姆 莱塔勒 于恩 蒂于厄兹 德 玛勒",
+      "meaning": "我是致命的女人，是男人的杀手。",
+      "suppliedText": "je suis une femme létale une tueuse de mâles",
+      "sourceIPA": "/ʒə sɥiz yn fam letal yn tyøz də mal/",
+      "sourceMeaning": "我是致命的女人，是令男人丧命的人",
+      "speaker": "",
+      "start": 33.778,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 66,
-        "sourceLineNumber": 637,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          633
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Deviens animale dès que l'on me fait mal. Ni femme, ni femme fatale, je suis une",
-      "start": 74,
-      "ipa": "[dəvjɛ̃ animal dɛ kə lɔ̃ mə fɛ mal ni fam ni fam fatal ʒə sɥi yn]",
-      "ear": "德弗耶安 阿尼玛勒 戴 克 隆 默 费 玛勒 尼 法姆 尼 法姆 法塔勒 热 斯于伊 于恩",
-      "meaning": "受伤时会像野兽。既不是普通女人，也不是致命诱惑，我是一个",
-      "suppliedText": "deviens un malè que l'on me fait mal une femme c'est une femme fatale je suis une",
-      "sourceLineId": "moliere-timed-638",
+      "sourceLineId": "moliere-le-spectacle-musical-06-010",
+      "sourceLineIndex": 10,
+      "lineIndex": 10,
+      "sourceText": "Moi je veux tout donner tout donner",
+      "ipa": "[mwa ʒə vø tu dɔne tu dɔne]",
+      "ear": "姆乌阿 热 弗厄 图 多内 图 多内",
+      "meaning": "我想付出一切，倾尽所有。",
+      "suppliedText": "Moi je veux tout donner tout donner",
+      "sourceIPA": "/mwa ʒə vø tu dɔne tu dɔne/",
+      "sourceMeaning": "我想要 一切的一切 都给我",
+      "speaker": "",
+      "start": 37.778,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 74,
-        "sourceLineNumber": 638,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          633,
+          634
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Femme létale, une tueuse de mâles. Moi, je veux tout donner, tout donner, si je veux ; tout donner,",
-      "start": 83,
-      "ipa": "[fam letal yn tyøz də mal mwa ʒə vø tu dɔne tu dɔne si ʒə vø tu dɔne]",
-      "ear": "法姆 莱塔勒 于恩 蒂于厄兹 德 玛勒 姆乌阿 热 弗厄 图 多内 图 多内 西 热 弗厄 图 多内",
-      "meaning": "致命的女人，是男人的杀手。我想付出一切，倾尽所有，如果我愿意；倾尽所有，",
-      "suppliedText": "femme une tueuse de mal moi je veux tout donner tout don tout je veux tout donner",
-      "sourceLineId": "moliere-timed-639",
+      "sourceLineId": "moliere-le-spectacle-musical-06-011",
+      "sourceLineIndex": 11,
+      "lineIndex": 11,
+      "sourceText": "Si je veux tout donner tout donner",
+      "ipa": "[si ʒə vø tu dɔne tu dɔne]",
+      "ear": "西 热 弗厄 图 多内 图 多内",
+      "meaning": "如果我愿意付出一切，倾尽所有。",
+      "suppliedText": "Si je veux tout donner tout donner",
+      "sourceIPA": "/si ʒə vø tu dɔne tu dɔne/",
+      "sourceMeaning": "若我想要 一切的一切 都能给我",
+      "speaker": "",
+      "start": 40.783,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 83,
-        "sourceLineNumber": 639,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          634
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tout donner, quand je veux me donner sans aucun effort. Femme oppressée, l'âme",
-      "start": 90,
-      "ipa": "[tu dɔne kɑ̃ ʒə vø mə dɔne sɑ̃ okœ̃n‿efɔʁ fam‿ɔpʁɛse lam]",
-      "ear": "图 多内 康 热 弗厄 默 多内 桑 奥坎恩 诶佛赫 法姆 哦普赫塞 拉姆",
-      "meaning": "在自己愿意时轻松投入。被压迫的女人，灵魂",
-      "suppliedText": "tout donner quand je ve me donner sans aucun effort h me présé l'âme",
-      "sourceLineId": "moliere-timed-640",
+      "sourceLineId": "moliere-le-spectacle-musical-06-012",
+      "sourceLineIndex": 12,
+      "lineIndex": 12,
+      "sourceText": "Quand je veux me donner sans aucun remords",
+      "ipa": "[kɑ̃ ʒə vø mə dɔne sɑ̃z‿okœ̃ ʁəmɔʁ]",
+      "ear": "康 热 弗厄 默 多内 桑兹 奥坎 赫莫赫",
+      "meaning": "当我想要投入时，毫不后悔。",
+      "suppliedText": "Quand je veux me donner sans aucun remord",
+      "sourceIPA": "/kɑ̃ ʒə vø mə dɔne sɑ̃z okœ̃ ʁəmɔʁ/",
+      "sourceMeaning": "当我想要时 不带丝毫愧意接受",
+      "speaker": "",
+      "start": 43.522,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 90,
-        "sourceLineNumber": 640,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          634
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Oppressée par leurs primaires pulsions. Femme blessée, l'âme cabossée par",
-      "start": 99,
-      "ipa": "[ɔpʁɛse paʁ lœʁ pʁimɛʁ pylsjɔ̃ fam blɛse lam kabɔse paʁ]",
-      "ear": "哦普赫塞 帕赫 勒厄赫 普希梅赫 普于勒斯耶翁 法姆 布莱塞 拉姆 卡博塞 帕赫",
-      "meaning": "被他们原始的冲动压迫。受伤的女人，灵魂被",
-      "suppliedText": "oppressé par leur primaire pulsion fa me bless l'âme qui a bossé par",
-      "sourceLineId": "moliere-timed-641",
+      "sourceLineId": "moliere-le-spectacle-musical-06-013",
+      "sourceLineIndex": 13,
+      "lineIndex": 13,
+      "sourceText": "Moi je veux tout donner tout donner",
+      "ipa": "[mwa ʒə vø tu dɔne tu dɔne]",
+      "ear": "姆乌阿 热 弗厄 图 多内 图 多内",
+      "meaning": "我想付出一切，倾尽所有。",
+      "suppliedText": "Moi je veux tout donner tout donner",
+      "sourceIPA": "/mwa ʒə vø tu dɔne tu dɔne/",
+      "sourceMeaning": "我想要 一切的一切 都给我",
+      "speaker": "",
+      "start": 46.652,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 99,
-        "sourceLineNumber": 641,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          634,
+          635
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "D'éphémères passions. Ils sont prêts à tous les hommages pour un instant, pourvu que je",
-      "start": 109,
-      "ipa": "[defemɛʁ pasjɔ̃ il sɔ̃ pʁɛ a tu lez‿ɔmaʒ puʁ‿œ̃n‿ɛ̃stɑ̃ puʁvy kə ʒə]",
-      "ear": "德费梅赫 帕斯耶翁 伊勒 松 普赫 阿 图 莱兹 哦玛日 普赫 恩恩 安斯唐 普赫维于 克 热",
-      "meaning": "短暂的激情撞得伤痕累累。他们愿献上一切殷勤，只为片刻，只要我",
-      "suppliedText": "d'éféè passions ils sont prêt à tous les homages pour un instant pourvu que je",
-      "sourceLineId": "moliere-timed-642",
+      "sourceLineId": "moliere-le-spectacle-musical-06-014",
+      "sourceLineIndex": 14,
+      "lineIndex": 14,
+      "sourceText": "Si je veux tout donner tout donner",
+      "ipa": "[si ʒə vø tu dɔne tu dɔne]",
+      "ear": "西 热 弗厄 图 多内 图 多内",
+      "meaning": "如果我愿意付出一切，倾尽所有。",
+      "suppliedText": "Si je veux tout donner tout donner",
+      "sourceIPA": "/si ʒə vø tu dɔne tu dɔne/",
+      "sourceMeaning": "若我想要 一切的一切 都能给我",
+      "speaker": "",
+      "start": 49.409,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 109,
-        "sourceLineNumber": 642,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          635
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "M'allonge. Mais peu leur importent les dommages avec le temps. Leur fin justifie les",
-      "start": 118,
-      "ipa": "[malɔ̃ʒ mɛ pø lœʁ‿ɛ̃pɔʁt le dɔmaʒ‿avɛk lə tɑ̃ lœʁ fɛ̃ ʒystifi le]",
-      "ear": "玛隆日 梅 珀厄 勒厄赫 安珀赫特 莱 多玛日 阿韦克 勒 唐 勒厄赫 凡 日于斯蒂菲 莱",
-      "meaning": "躺下来。可他们不在乎岁月留下的伤害。他们的目的为",
-      "suppliedText": "m'allonge mais peu leur importe les dommages avec le temps leur fin justifie les",
-      "sourceLineId": "moliere-timed-643",
+      "sourceLineId": "moliere-le-spectacle-musical-06-015",
+      "sourceLineIndex": 15,
+      "lineIndex": 15,
+      "sourceText": "Quand je veux me donner sans aucun effort",
+      "ipa": "[kɑ̃ ʒə vø mə dɔne sɑ̃z‿okœ̃n‿efɔʁ]",
+      "ear": "康 热 弗厄 默 多内 桑兹 奥坎恩 诶佛赫",
+      "meaning": "当我想要投入时，不费任何力气。",
+      "suppliedText": "Quand je veux me donner sans aucun effort",
+      "sourceIPA": "/kɑ̃ ʒə vø mə dɔne sɑ̃z okœ̃n efɔʁ/",
+      "sourceMeaning": "当我想要时 无需额外付诸努力",
+      "speaker": "",
+      "start": 52.273,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 118,
-        "sourceLineNumber": 643,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          635
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Mensonges. J'suis pas toujours sentimentale. Je deviens animale dès que l'on me fait",
-      "start": 126,
-      "ipa": "[mɑ̃sɔ̃ʒ ʒsɥi pa tuʒuʁ sɑ̃timɑ̃tal ʒə dəvjɛ̃ animal dɛ kə lɔ̃ mə fɛ]",
-      "ear": "芒松日 日斯于伊 帕 图茹赫 桑蒂芒塔勒 热 德弗耶安 阿尼玛勒 戴 克 隆 默 费",
-      "meaning": "谎言找理由。我并不总是多愁善感。只要受到",
-      "suppliedText": "mensonges je suis pas toujours sentimental je deviens animal et que l'on me fait",
-      "sourceLineId": "moliere-timed-644",
+      "sourceLineId": "moliere-le-spectacle-musical-06-016",
+      "sourceLineIndex": 16,
+      "lineIndex": 16,
+      "sourceText": "Ils se vantent de leurs prouesses",
+      "ipa": "[il sə vɑ̃t də lœʁ pʁwɛs]",
+      "ear": "伊勒 瑟 旺特 德 勒厄赫 普赫乌艾斯",
+      "meaning": "他们吹嘘自己的丰功伟绩",
+      "suppliedText": "Ils se vantent de leurs prouesses",
+      "sourceIPA": "/il sə vɑ̃t də lœʁ pʁwɛs/",
+      "sourceMeaning": "他们吹嘘自己的丰功伟绩",
+      "speaker": "",
+      "start": 55.545,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 126,
-        "sourceLineNumber": 644,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          635
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Mal. Ni femme, ni femme fatale, je suis une femme létale, une tueuse de",
-      "start": 134,
-      "ipa": "[mal ni fam ni fam fatal ʒə sɥi yn fam letal yn tyøz də]",
-      "ear": "玛勒 尼 法姆 尼 法姆 法塔勒 热 斯于伊 于恩 法姆 莱塔勒 于恩 蒂于厄兹 德",
-      "meaning": "伤害，我便像野兽。既不是普通女人，也不是致命诱惑，我是致命的女人，是男人的",
-      "suppliedText": "mal une femme c'est une femme fatale je suis une femme lét une tueuse de",
-      "sourceLineId": "moliere-timed-645",
+      "sourceLineId": "moliere-le-spectacle-musical-06-017",
+      "sourceLineIndex": 17,
+      "lineIndex": 17,
+      "sourceText": "Mâles dominants, mal dominés par leurs sens",
+      "ipa": "[mal dominɑ̃ mal domine paʁ lœʁ sɑ̃s]",
+      "ear": "玛勒 多米南 玛勒 多米内 帕赫 勒厄赫 桑斯",
+      "meaning": "自称支配者的男人，却被感官欲望支配。",
+      "suppliedText": "mâle dominant mal dominer par leur sens",
+      "sourceIPA": "/mal dominɑ̃ mal domine paʁ lœʁ sɑ̃s/",
+      "sourceMeaning": "男人将一切支配 因为他们受理智支配 所以他们最配",
+      "speaker": "",
+      "start": 58.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 134,
-        "sourceLineNumber": 645,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          636
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Mâles. Moi, je veux tout donner, tout donner, si je veux ; tout donner, tout donner, quand je veux me donner sans aucun remords.",
-      "start": 143,
-      "ipa": "[mal mwa ʒə vø tu dɔne tu dɔne si ʒə vø tu dɔne tu dɔne kɑ̃ ʒə vø mə dɔne sɑ̃ okœ̃ ʁəmɔʁ]",
-      "ear": "玛勒 姆乌阿 热 弗厄 图 多内 图 多内 西 热 弗厄 图 多内 图 多内 康 热 弗厄 默 多内 桑 奥坎 赫莫赫",
-      "meaning": "杀手。我想付出一切，倾尽所有，如果我愿意；在自己愿意时，毫不后悔地倾尽所有。",
-      "suppliedText": "mal veux tout donner tout donner si je veux tout donner tout donner quand je veux me donner sans au",
-      "sourceLineId": "moliere-timed-646",
+      "sourceLineId": "moliere-le-spectacle-musical-06-018",
+      "sourceLineIndex": 18,
+      "lineIndex": 18,
+      "sourceText": "Pourquoi faut-il leur dire sans cesse",
+      "ipa": "[puʁkwa fotil lœʁ diʁ sɑ̃ sɛs]",
+      "ear": "普赫克乌阿 佛蒂勒 勒厄赫 迪赫 桑 塞斯",
+      "meaning": "可为何不得不反复告诉他们",
+      "suppliedText": "Pourquoi faut il leur dire sans cesse",
+      "sourceIPA": "/puʁkwa fot il lœʁ diʁ sɑ̃ sɛs/",
+      "sourceMeaning": "可为何不得不反复告诉他们",
+      "speaker": "",
+      "start": 62.308,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 143,
-        "sourceLineNumber": 646,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          636,
+          637
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Moi, je veux tout donner, tout donner, si je veux ; tout donner, tout donner, quand je veux me donner sans",
-      "start": 151,
-      "ipa": "[mwa ʒə vø tu dɔne tu dɔne si ʒə vø tu dɔne tu dɔne kɑ̃ ʒə vø mə dɔne sɑ̃]",
-      "ear": "姆乌阿 热 弗厄 图 多内 图 多内 西 热 弗厄 图 多内 图 多内 康 热 弗厄 默 多内 桑",
-      "meaning": "我想付出一切，倾尽所有，如果我愿意；在自己愿意时倾尽所有，不费",
-      "suppliedText": "moi je veux tout donner tout donner si je veux tout donner tout donner quand je veux donner sans",
-      "sourceLineId": "moliere-timed-647",
+      "sourceLineId": "moliere-le-spectacle-musical-06-019",
+      "sourceLineIndex": 19,
+      "lineIndex": 19,
+      "sourceText": "que c'est non non non jusqu'à l'indécence",
+      "ipa": "[kə sɛ nɔ̃ nɔ̃ nɔ̃ ʒyska lɛ̃desɑ̃s]",
+      "ear": "克 塞 农 农 农 日于斯卡 兰德桑斯",
+      "meaning": "告诉他们“不，不，不”，直到失去体面？",
+      "suppliedText": "que c'est non non non jusqu'à l'indécence",
+      "sourceIPA": "/kə sɛ nɔ̃ nɔ̃ nɔ̃ ʒyska lɛ̃desɑ̃s/",
+      "sourceMeaning": "没！没！没到可以对我失礼的程度",
+      "speaker": "",
+      "start": 66.471,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 151,
-        "sourceLineNumber": 647,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          637
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Aucun effort. Même si parfois je ne suis pas très sage, non, je ne suis pas une fille de",
-      "start": 159,
-      "ipa": "[okœ̃n‿efɔʁ mɛm si paʁfwa ʒə nə sɥi pa tʁɛ saʒ nɔ̃ ʒə nə sɥi pa yn fij də]",
-      "ear": "奥坎恩 诶佛赫 梅姆 西 帕赫弗乌阿 热 讷 斯于伊 帕 特赫 萨日 农 热 讷 斯于伊 帕 于恩 菲耶 德",
-      "meaning": "任何力气。即使有时我不够乖，不，我也不是一个短暂",
-      "suppliedText": "aucun même si parfois je ne suis pas très sage non je ne suis pas fille de",
-      "sourceLineId": "moliere-timed-648",
+      "sourceLineId": "moliere-le-spectacle-musical-06-020",
+      "sourceLineIndex": 20,
+      "lineIndex": 20,
+      "sourceText": "J'suis pas toujours sentimentale",
+      "ipa": "[ʒə sɥi pa tuʒuʁ sɑ̃timɑ̃tal]",
+      "ear": "热 斯于伊 帕 图茹赫 桑蒂芒塔勒",
+      "meaning": "我不总是多愁善感",
+      "suppliedText": "J'suis pas toujours sentimentale",
+      "sourceIPA": "/ʒsɥi pa tuʒuʁ sɑ̃timɑ̃tal/",
+      "sourceMeaning": "我不总是多愁善感",
+      "speaker": "",
+      "start": 71.176,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 159,
-        "sourceLineNumber": 648,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          637
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Passage.",
-      "start": 167,
-      "ipa": "[pasaʒ]",
-      "ear": "帕萨日",
-      "meaning": "过客。",
-      "suppliedText": "passage",
-      "sourceLineId": "moliere-timed-649",
+      "sourceLineId": "moliere-le-spectacle-musical-06-021",
+      "sourceLineIndex": 21,
+      "lineIndex": 21,
+      "sourceText": "je deviens animale dès que l'on me fait mal",
+      "ipa": "[ʒə dəvjɛ̃ animal dɛ kə lɔ̃ mə fɛ mal]",
+      "ear": "热 德弗耶安 阿尼玛勒 戴 克 隆 默 费 玛勒",
+      "meaning": "一旦受到伤害，我便会像野兽。",
+      "suppliedText": "je deviens animal des que l'on me fait mal",
+      "sourceIPA": "/ʒə dəvjɛ̃z animal de kə lɔ̃ mə fɛ mal/",
+      "sourceMeaning": "若有人伤害我 我将从此化身野兽给他好看",
+      "speaker": "",
+      "start": 73.529,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 167,
-        "sourceLineNumber": 649,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          637,
+          638
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-022",
+      "sourceLineIndex": 22,
+      "lineIndex": 22,
+      "sourceText": "Ni femme-objet ni femme fatale",
+      "ipa": "[ni famɔbʒɛ ni fam fatal]",
+      "ear": "尼 法莫布热 尼 法姆 法塔勒",
+      "meaning": "我不是供人摆布的女人，也不是致命诱惑。",
+      "suppliedText": "Ni femme génie femme fatale",
+      "sourceIPA": "/ni fam ʒeni fam fatal/",
+      "sourceMeaning": "绝非花瓶摆件 更非红颜祸水",
+      "speaker": "",
+      "start": 78.765,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          638
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-023",
+      "sourceLineIndex": 23,
+      "lineIndex": 23,
+      "sourceText": "je suis une femme létale une tueuse de mâles",
+      "ipa": "[ʒə sɥi yn fam letal‿yn tyøz də mal]",
+      "ear": "热 斯于伊 于恩 法姆 莱塔勒 于恩 蒂于厄兹 德 玛勒",
+      "meaning": "我是致命的女人，是男人的杀手。",
+      "suppliedText": "je suis une femme létale une tueuse de mâles",
+      "sourceIPA": "/ʒə sɥiz yn fam letal yn tyøz də mal/",
+      "sourceMeaning": "我是致命的女人，是令男人丧命的人",
+      "speaker": "",
+      "start": 81.412,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          638,
+          639
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-024",
+      "sourceLineIndex": 24,
+      "lineIndex": 24,
+      "sourceText": "Moi je veux tout donner tout donner",
+      "ipa": "[mwa ʒə vø tu dɔne tu dɔne]",
+      "ear": "姆乌阿 热 弗厄 图 多内 图 多内",
+      "meaning": "我想付出一切，倾尽所有。",
+      "suppliedText": "Moi je veux tout donner tout donner",
+      "sourceIPA": "/mwa ʒə vø tu dɔne tu dɔne/",
+      "sourceMeaning": "我想要 一切的一切 都给我",
+      "speaker": "",
+      "start": 85.333,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          639
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-025",
+      "sourceLineIndex": 25,
+      "lineIndex": 25,
+      "sourceText": "Si je veux tout donner tout donner",
+      "ipa": "[si ʒə vø tu dɔne tu dɔne]",
+      "ear": "西 热 弗厄 图 多内 图 多内",
+      "meaning": "如果我愿意付出一切，倾尽所有。",
+      "suppliedText": "Si je veux tout donner tout donner",
+      "sourceIPA": "/si ʒə vø tu dɔne tu dɔne/",
+      "sourceMeaning": "若我想要 一切的一切 都能给我",
+      "speaker": "",
+      "start": 88.056,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          639,
+          640
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-026",
+      "sourceLineIndex": 26,
+      "lineIndex": 26,
+      "sourceText": "Quand je veux me donner sans aucun effort",
+      "ipa": "[kɑ̃ ʒə vø mə dɔne sɑ̃z‿okœ̃n‿efɔʁ]",
+      "ear": "康 热 弗厄 默 多内 桑兹 奥坎恩 诶佛赫",
+      "meaning": "当我想要投入时，不费任何力气。",
+      "suppliedText": "Quand je veux me donner sans aucun effort",
+      "sourceIPA": "/kɑ̃ ʒə vø mə dɔne sɑ̃z okœ̃n efɔʁ/",
+      "sourceMeaning": "当我想要时 无需额外付诸努力",
+      "speaker": "",
+      "start": 91.286,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          640
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-027",
+      "sourceLineIndex": 27,
+      "lineIndex": 27,
+      "sourceText": "Homme pressé, l'âme oppressée",
+      "ipa": "[ɔm pʁɛse lam‿ɔpʁɛse]",
+      "ear": "哦姆 普赫塞 拉姆 哦普赫塞",
+      "meaning": "急切的男人，灵魂受着压迫，",
+      "suppliedText": "Homme pressé, la peau pressé",
+      "sourceIPA": "/ɔm pʁɛse la po pʁɛse/",
+      "sourceMeaning": "男人行色匆忙 灵魂压抑窒息",
+      "speaker": "",
+      "start": 96.429,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          640,
+          641
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-028",
+      "sourceLineIndex": 28,
+      "lineIndex": 28,
+      "sourceText": "par leurs primaires pulsions",
+      "ipa": "[paʁ lœʁ pʁimɛʁ pylsjɔ̃]",
+      "ear": "帕赫 勒厄赫 普希梅赫 普于勒斯耶翁",
+      "meaning": "被他们原始的冲动压迫。",
+      "suppliedText": "par leurs primaires pulsions",
+      "sourceIPA": "/paʁ lœʁ pʁimɛʁ pylsjɔ̃/",
+      "sourceMeaning": "为 他们肤浅的上位者",
+      "speaker": "",
+      "start": 99.909,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          641
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-029",
+      "sourceLineIndex": 29,
+      "lineIndex": 29,
+      "sourceText": "Femme blessée l'âme cabossée",
+      "ipa": "[fam blɛse lam kabɔse]",
+      "ear": "法姆 布莱塞 拉姆 卡博塞",
+      "meaning": "受伤的女人，灵魂伤痕累累，",
+      "suppliedText": "Femme blessée l'âme cabossée",
+      "sourceIPA": "/fam blɛse lam kabɔse/",
+      "sourceMeaning": "女人满身伤痕 灵魂千疮百孔",
+      "speaker": "",
+      "start": 103.545,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          641
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-030",
+      "sourceLineIndex": 30,
+      "lineIndex": 30,
+      "sourceText": "par d'éphémères passions",
+      "ipa": "[paʁ defemɛʁ pasjɔ̃]",
+      "ear": "帕赫 德费梅赫 帕斯耶翁",
+      "meaning": "被短暂的激情伤害。",
+      "suppliedText": "par d'éphémères passions",
+      "sourceIPA": "/paʁ defemɛʁ pasjɔ̃/",
+      "sourceMeaning": "因 转瞬即逝的爱欲",
+      "speaker": "",
+      "start": 108.091,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          641,
+          642
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-031",
+      "sourceLineIndex": 31,
+      "lineIndex": 31,
+      "sourceText": "Ils sont prêts à tous les hommages pour un instant pourvu que je m'allonge",
+      "ipa": "[il sɔ̃ pʁɛ a tu lez‿ɔmaʒ puʁ‿œ̃n‿ɛ̃stɑ̃ puʁvy kə ʒə malɔ̃ʒ]",
+      "ear": "伊勒 松 普赫 阿 图 莱兹 哦玛日 普赫 恩恩 安斯唐 普赫维于 克 热 玛隆日",
+      "meaning": "他们愿献上一切殷勤，只求片刻，只要我躺下来。",
+      "suppliedText": "Ils sont prêt à tous les hommages pour un instant pourvu que je m'allonge",
+      "sourceIPA": "/il sɔ̃ pʁɛ a tu lez ɔmaʒ puʁ œ̃n ɛ̃stɑ̃ puʁvy kə ʒə malɔ̃ʒ/",
+      "sourceMeaning": "他们已备好了一切诚意 只为与我春宵一刻",
+      "speaker": "",
+      "start": 110.688,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          642,
+          643
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-032",
+      "sourceLineIndex": 32,
+      "lineIndex": 32,
+      "sourceText": "Mais peu importe les dommages, avec le temps",
+      "ipa": "[mɛ pø ɛ̃pɔʁt le dɔmaʒ avɛk lə tɑ̃]",
+      "ear": "梅 珀厄 安珀赫特 莱 多玛日 阿韦克 勒 唐",
+      "meaning": "可他们并不在乎岁月留下的伤害。",
+      "suppliedText": "Mais peu importe les dommages, avec le temps",
+      "sourceIPA": "/mɛ pø ɛ̃pɔʁt le dɔmaʒ avɛk lə tɑ̃/",
+      "sourceMeaning": "但时间一长 年华易损 他们毫不关心",
+      "speaker": "",
+      "start": 119.067,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          643
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-033",
+      "sourceLineIndex": 33,
+      "lineIndex": 33,
+      "sourceText": "la fin justifie les mensonges",
+      "ipa": "[la fɛ̃ ʒystifi le mɑ̃sɔ̃ʒ]",
+      "ear": "拉 凡 日于斯蒂菲 莱 芒松日",
+      "meaning": "目的为谎言找理由。",
+      "suppliedText": "la fin justifie les mensonges",
+      "sourceIPA": "/la fɛ̃ ʒystifi le mɑ̃sɔ̃ʒ/",
+      "sourceMeaning": "为达目的 鬼话未曾停歇",
+      "speaker": "",
+      "start": 123.867,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          643,
+          644
+        ],
+        "wordCoverage": 0.8
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-034",
+      "sourceLineIndex": 34,
+      "lineIndex": 34,
+      "sourceText": "J'suis pas toujours sentimentale",
+      "ipa": "[ʒə sɥi pa tuʒuʁ sɑ̃timɑ̃tal]",
+      "ear": "热 斯于伊 帕 图茹赫 桑蒂芒塔勒",
+      "meaning": "我不总是多愁善感",
+      "suppliedText": "J'suis pas toujours sentimentale",
+      "sourceIPA": "/ʒsɥi pa tuʒuʁ sɑ̃timɑ̃tal/",
+      "sourceMeaning": "我不总是多愁善感",
+      "speaker": "",
+      "start": 126.533,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          644
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-035",
+      "sourceLineIndex": 35,
+      "lineIndex": 35,
+      "sourceText": "je deviens animale dès que l'on me fait mal",
+      "ipa": "[ʒə dəvjɛ̃ animal dɛ kə lɔ̃ mə fɛ mal]",
+      "ear": "热 德弗耶安 阿尼玛勒 戴 克 隆 默 费 玛勒",
+      "meaning": "一旦受到伤害，我便会像野兽。",
+      "suppliedText": "je deviens animal dès que l'on me fait mal",
+      "sourceIPA": "/ʒə dəvjɛ̃z animal dɛ kə lɔ̃ mə fɛ mal/",
+      "sourceMeaning": "若有人伤害我 我将从此化身野兽给他好看",
+      "speaker": "",
+      "start": 129.2,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          644,
+          645
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-036",
+      "sourceLineIndex": 36,
+      "lineIndex": 36,
+      "sourceText": "Ni femme-objet ni femme fatale",
+      "ipa": "[ni famɔbʒɛ ni fam fatal]",
+      "ear": "尼 法莫布热 尼 法姆 法塔勒",
+      "meaning": "我不是供人摆布的女人，也不是致命诱惑。",
+      "suppliedText": "Ni femme-objet ni femme fatale",
+      "sourceIPA": "/ni famɔbʒɛ ni fam fatal/",
+      "sourceMeaning": "绝非花瓶摆件 更非红颜祸水",
+      "speaker": "",
+      "start": 134.643,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          645
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-037",
+      "sourceLineIndex": 37,
+      "lineIndex": 37,
+      "sourceText": "je suis une femme létale une tueuse de mâles",
+      "ipa": "[ʒə sɥi yn fam letal‿yn tyøz də mal]",
+      "ear": "热 斯于伊 于恩 法姆 莱塔勒 于恩 蒂于厄兹 德 玛勒",
+      "meaning": "我是致命的女人，是男人的杀手。",
+      "suppliedText": "je suis une femme létale une tueuse de mâles",
+      "sourceIPA": "/ʒə sɥiz yn fam letal yn tyøz də mal/",
+      "sourceMeaning": "我是致命的女人，是令男人丧命的人",
+      "speaker": "",
+      "start": 137.857,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          645,
+          646
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-038",
+      "sourceLineIndex": 38,
+      "lineIndex": 38,
+      "sourceText": "Moi je veux tout donner tout donner",
+      "ipa": "[mwa ʒə vø tu dɔne tu dɔne]",
+      "ear": "姆乌阿 热 弗厄 图 多内 图 多内",
+      "meaning": "我想付出一切，倾尽所有。",
+      "suppliedText": "Moi je veux tout donner tout donner",
+      "sourceIPA": "/mwa ʒə vø tu dɔne tu dɔne/",
+      "sourceMeaning": "我想要 一切的一切 都给我",
+      "speaker": "",
+      "start": 143.348,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          646
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-039",
+      "sourceLineIndex": 39,
+      "lineIndex": 39,
+      "sourceText": "Si je veux tout donner tout donner",
+      "ipa": "[si ʒə vø tu dɔne tu dɔne]",
+      "ear": "西 热 弗厄 图 多内 图 多内",
+      "meaning": "如果我愿意付出一切，倾尽所有。",
+      "suppliedText": "Si je veux tout donner tout donner",
+      "sourceIPA": "/si ʒə vø tu dɔne tu dɔne/",
+      "sourceMeaning": "若我想要 一切的一切 都能给我",
+      "speaker": "",
+      "start": 145.783,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          646
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-040",
+      "sourceLineIndex": 40,
+      "lineIndex": 40,
+      "sourceText": "Quand je veux me donner sans aucun remords",
+      "ipa": "[kɑ̃ ʒə vø mə dɔne sɑ̃z‿okœ̃ ʁəmɔʁ]",
+      "ear": "康 热 弗厄 默 多内 桑兹 奥坎 赫莫赫",
+      "meaning": "当我想要投入时，毫不后悔。",
+      "suppliedText": "Quand je veux me donner sans aucun remord",
+      "sourceIPA": "/kɑ̃ ʒə vø mə dɔne sɑ̃z okœ̃ ʁəmɔʁ/",
+      "sourceMeaning": "当我想要时 不带丝毫愧意接受",
+      "speaker": "",
+      "start": 148.217,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          646
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-041",
+      "sourceLineIndex": 41,
+      "lineIndex": 41,
+      "sourceText": "Moi je veux tout donner tout donner",
+      "ipa": "[mwa ʒə vø tu dɔne tu dɔne]",
+      "ear": "姆乌阿 热 弗厄 图 多内 图 多内",
+      "meaning": "我想付出一切，倾尽所有。",
+      "suppliedText": "Moi je veux tout donner tout donner",
+      "sourceIPA": "/mwa ʒə vø tu dɔne tu dɔne/",
+      "sourceMeaning": "我想要 一切的一切 都给我",
+      "speaker": "",
+      "start": 151.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          647
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-042",
+      "sourceLineIndex": 42,
+      "lineIndex": 42,
+      "sourceText": "Si je veux tout donner tout donner",
+      "ipa": "[si ʒə vø tu dɔne tu dɔne]",
+      "ear": "西 热 弗厄 图 多内 图 多内",
+      "meaning": "如果我愿意付出一切，倾尽所有。",
+      "suppliedText": "Si je veux tout donner tout donner",
+      "sourceIPA": "/si ʒə vø tu dɔne tu dɔne/",
+      "sourceMeaning": "若我想要 一切的一切 都能给我",
+      "speaker": "",
+      "start": 153.8,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          647
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-043",
+      "sourceLineIndex": 43,
+      "lineIndex": 43,
+      "sourceText": "Quand je veux me donner sans aucun effort",
+      "ipa": "[kɑ̃ ʒə vø mə dɔne sɑ̃z‿okœ̃n‿efɔʁ]",
+      "ear": "康 热 弗厄 默 多内 桑兹 奥坎恩 诶佛赫",
+      "meaning": "当我想要投入时，不费任何力气。",
+      "suppliedText": "Quand je veux me donner sans aucun effort",
+      "sourceIPA": "/kɑ̃ ʒə vø mə dɔne sɑ̃z okœ̃n efɔʁ/",
+      "sourceMeaning": "当我想要时 无需额外付诸努力",
+      "speaker": "",
+      "start": 156.6,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          647,
+          648
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-044",
+      "sourceLineIndex": 44,
+      "lineIndex": 44,
+      "sourceText": "Même si parfois je ne suis pas très sage",
+      "ipa": "[mɛm si paʁfwa ʒə nə sɥi pa tʁɛ saʒ]",
+      "ear": "梅姆 西 帕赫弗乌阿 热 讷 斯于伊 帕 特赫 萨日",
+      "meaning": "即便我不是 每次都那么明智",
+      "suppliedText": "Même si parfois je ne suis pas très sage",
+      "sourceIPA": "/mɛm si paʁfwa ʒə nə sɥi pa tʁɛ saʒ/",
+      "sourceMeaning": "即便我不是 每次都那么明智",
+      "speaker": "",
+      "start": 159.842,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          648
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-06-045",
+      "sourceLineIndex": 45,
+      "lineIndex": 45,
+      "sourceText": "non je ne suis pas une fille de passage",
+      "ipa": "[nɔ̃ ʒə nə sɥi pa yn fij də pasaʒ]",
+      "ear": "农 热 讷 斯于伊 帕 于恩 菲耶 德 帕萨日",
+      "meaning": "不，我不是一个短暂的过客。",
+      "suppliedText": "non je ne suis pas une fille de passage",
+      "sourceIPA": "/nɔ̃ ʒə nə sɥi paz yn fij də pasaʒ/",
+      "sourceMeaning": "我也不会当 被随爱随弃的女子",
+      "speaker": "",
+      "start": 163.632,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          648,
+          649
+        ],
+        "wordCoverage": 1.0
       }
     }
-  ],
-  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+  ]
 }

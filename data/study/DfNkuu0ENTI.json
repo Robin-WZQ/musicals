@@ -1,246 +1,750 @@
 {
   "videoId": "DfNkuu0ENTI",
   "playbackVideoId": "DfNkuu0ENTI",
-  "version": 2,
-  "textSource": "user-supplied-auto-transcript",
-  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "spelling-and-grammar-edits",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "sourceFileSHA256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134",
+  "textReviewStatus": "cross-checked",
+  "textReviewScope": "supplied-lyrics-spelling-grammar-and-chinese-meaning",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
-  "meaningSource": "editorial-chinese-from-user-transcript",
-  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
+  "meaningSource": "reviewed-user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "note": "歌词依据你提供的完整文件校对，中文释义已修订。学习卡片按现有现场录像整理，完整歌词另行归档；≈ 表示依据原字幕估算的分句位置。音标与空耳为文字的参考读法。",
   "sources": [
     {
-      "label": "本段原唱录像",
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+    },
+    {
+      "label": "本曲现场录像",
       "url": "https://www.youtube.com/watch?v=DfNkuu0ENTI"
     }
   ],
   "entries": [
     {
-      "sourceText": "Je m'appelle Jean-Baptiste, Jean-Baptiste Poquelin. Tapissier ou artiste, aujourd'hui se joue mon destin. Ce même…",
-      "start": 78,
-      "ipa": "[ʒə mapɛl ʒɑ̃batist ʒɑ̃batist poklɛ̃ tapisje u aʁtist oʒuʁdɥi sə ʒu mɔ̃ dɛstɛ̃ sə mɛm]",
-      "ear": "热 玛佩勒 让巴蒂斯特 让巴蒂斯特 波克兰 塔皮斯耶诶 乌 阿赫蒂斯特 奥茹赫德于伊 瑟 茹 蒙 戴斯坦 瑟 梅姆",
-      "meaning": "我叫让-巴蒂斯特·波克兰。挂毯师还是艺术家？今天……我的命运。那个……",
-      "suppliedText": "Jean-Baptiste je m'appelle Jean-Baptiste Jean-Baptiste pool tapissier ou artiste aujourd'hui c'est je mon destin ce même",
-      "sourceLineId": "moliere-timed-11",
+      "sourceLineId": "moliere-le-spectacle-musical-16-001-a",
+      "sourceLineIndex": 1,
+      "lineIndex": 1,
+      "sourceText": "Je m'appelle Jean-Baptiste",
+      "ipa": "[ʒə mapɛl ʒɑ̃batist]",
+      "ear": "热 玛佩勒 让巴蒂斯特",
+      "meaning": "我名叫让-巴蒂斯特",
+      "suppliedText": "Je m'appelle Jean-Baptiste",
+      "sourceIPA": "/ʒə mapɛl ʒɑ̃batist/",
+      "sourceMeaning": "我名叫让-巴蒂斯特",
+      "speaker": "",
+      "start": 78.636,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 78,
-        "sourceLineNumber": 11,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          11
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Destin qui m'a pris ma mère que j'aimais tant. Si le bonheur a un prix, je l'ai payé il y a longtemps. Mon enfance fut solitaire et la souffrance était ma…",
-      "start": 85,
-      "ipa": "[dɛstɛ̃ ki ma pʁi ma mɛʁ kə ʒɛmɛ tɑ̃ si lə bɔnœʁ‿a œ̃ pʁi ʒə le pɛje il‿i a lɔ̃tɑ̃ mɔ̃n‿ɑ̃fɑ̃s fy solitɛʁ e la sufʁɑ̃s‿etɛ ma]",
-      "ear": "戴斯坦 基 玛 普希 玛 梅赫 克 热梅 唐 西 勒 博讷厄赫 阿 恩 普希 热 莱 佩耶诶 伊勒 伊 阿 隆唐 蒙恩 昂芳斯 菲于 索利泰赫 诶 拉 苏弗杭斯 诶泰 玛",
-      "meaning": "夺走我深爱的母亲的命运。若幸福有代价，我早已付过。童年孤独，痛苦是我……",
-      "suppliedText": "destin qui m'a pris ma mère que j'imis temps si le bonheur a un prix je l'ai payé il y a longtemps mon enfance F solitaire et la souffrance était ma",
-      "sourceLineId": "moliere-timed-12",
+      "sourceLineId": "moliere-le-spectacle-musical-16-001-b",
+      "sourceLineIndex": 1,
+      "lineIndex": 2,
+      "sourceText": "Jean-Baptiste Poquelin",
+      "ipa": "[ʒɑ̃batist poklɛ̃]",
+      "ear": "让巴蒂斯特 波克兰",
+      "meaning": "让-巴蒂斯特·波克兰",
+      "suppliedText": "Jean-Baptiste Poquelin",
+      "sourceIPA": "/ʒɑ̃batist poklɛ̃/",
+      "sourceMeaning": "让-巴蒂斯特·波克兰",
+      "speaker": "",
+      "start": 80.311,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 85,
-        "sourceLineNumber": 12,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          11
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Seule amie, jusqu'au jour où mon grand-père m'a ouvert les yeux à la vie. Il m'a emmené traîner dans les rues de Paris où j'ai réappris à aimer, puis à…",
-      "start": 94,
-      "ipa": "[sœl‿ami ʒysko ʒuʁ‿u mɔ̃ ɡʁɑ̃pɛʁ ma uvɛʁ lez‿jø a la vi il ma ɑ̃mne tʁɛne dɑ̃ le ʁy də paʁi u ʒe ʁeapʁi a ɛme pɥi a]",
-      "ear": "瑟厄勒 阿米 日于斯科 茹赫 乌 蒙 格杭佩赫 玛 乌韦赫 莱兹 耶厄 阿 拉 维 伊勒 玛 昂姆内 特赫内 当 莱 许 德 帕希 乌 热 赫阿普希 阿 艾梅 普于伊 阿",
-      "meaning": "唯一的朋友，直到祖父让我重新看见生活。他带我走过巴黎街头，让我重新学会爱，也学会……",
-      "suppliedText": "seule amie jusqu'au jour où mon grand-père m'a ouvert les yeux à la vie il m'a emmené traîner dans les rues de Paris où j'ai réappris à aimer puis à",
-      "sourceLineId": "moliere-timed-13",
+      "sourceLineId": "moliere-le-spectacle-musical-16-002",
+      "sourceLineIndex": 2,
+      "lineIndex": 3,
+      "sourceText": "Tapissier ou artiste, aujourd'hui se joue mon destin",
+      "ipa": "[tapisje u aʁtist oʒuʁdɥi sə ʒu mɔ̃ dɛstɛ̃]",
+      "ear": "塔皮斯耶诶 乌 阿赫蒂斯特 奥茹赫德于伊 瑟 茹 蒙 戴斯坦",
+      "meaning": "挂毯师还是艺术家？今天将决定我的命运。",
+      "suppliedText": "Tapissier ou artiste, aujourd'hui se joue mon destin",
+      "sourceIPA": "/tapisje u aʁtist oʒuʁdɥi sə ʒu mɔ̃ dɛstɛ̃/",
+      "sourceMeaning": "当室内装潢师还是艺术家，眼下我的命运多舛",
+      "speaker": "",
+      "start": 81.316,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 94,
-        "sourceLineNumber": 13,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          11
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Rire de la vie. Tu finiras par tomber, tomber, tomber. À…",
-      "start": 102,
-      "ipa": "[ʁiʁ də la vi ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be a]",
-      "ear": "希赫 德 拉 维 蒂于 菲尼哈 帕赫 通贝 通贝 通贝 阿",
-      "meaning": "笑对人生。你终会跌落，跌落，跌落……",
-      "suppliedText": "rire de la vie finira par tomber tomber tomber à",
-      "sourceLineId": "moliere-timed-14",
+      "sourceLineId": "moliere-le-spectacle-musical-16-003",
+      "sourceLineIndex": 3,
+      "lineIndex": 4,
+      "sourceText": "Ce même destin qui m'a pris ma mère que j'aimais tant",
+      "ipa": "[sə mɛm dɛstɛ̃ ki ma pʁi ma mɛʁ kə ʒɛmɛ tɑ̃]",
+      "ear": "瑟 梅姆 戴斯坦 基 玛 普希 玛 梅赫 克 热梅 唐",
+      "meaning": "正是那个夺走我深爱的母亲的命运。",
+      "suppliedText": "Ce même destin qui m'a prit ma mère que j'aimais tant",
+      "sourceIPA": "/sə mɛm dɛstɛ̃ ki ma pʁi ma mɛʁ kə ʒɛmɛ tɑ̃/",
+      "sourceMeaning": "同样也是命运将我从挚爱的母亲身边夺走",
+      "speaker": "",
+      "start": 84.33,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 102,
-        "sourceLineNumber": 14,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          11,
+          12
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "… Mon grand-père m'a initié… à la commedia et aux spectacles de rue. Dans les théâtres, j'ai…",
-      "start": 114,
-      "ipa": "[mɔ̃ ɡʁɑ̃pɛʁ ma inisje a la kɔmdja e o spɛktakl də ʁy dɑ̃ le teatʁ ʒe]",
-      "ear": "蒙 格杭佩赫 玛 伊尼斯耶诶 阿 拉 科姆德耶阿 诶 奥 斯佩克塔克勒 德 许 当 莱 特阿特赫 热",
-      "meaning": "……祖父带我接触喜剧和街头表演。在剧院里，我……",
-      "suppliedText": "vouloirueilité mon grand-père m'a initié au gen vra rusouru à la Comédia é au spectacle de rue dans les théâtres j'ai",
-      "sourceLineId": "moliere-timed-15",
+      "sourceLineId": "moliere-le-spectacle-musical-16-004",
+      "sourceLineIndex": 4,
+      "lineIndex": 5,
+      "sourceText": "Si le bonheur a un prix, je l'ai payé il y a longtemps",
+      "ipa": "[si lə bɔnœʁ‿a œ̃ pʁi ʒə le pɛje il‿i a lɔ̃tɑ̃]",
+      "ear": "西 勒 博讷厄赫 阿 恩 普希 热 莱 佩耶诶 伊勒 伊 阿 隆唐",
+      "meaning": "如果幸福已经标好了价码，那我早已为此付出许久",
+      "suppliedText": "Si le bonheur a un prix, je l'ai payé il y a longtemps",
+      "sourceIPA": "/si lə bɔnœʁ a œ̃ pʁi ʒə le pɛje il i a lɔ̃tɑ̃/",
+      "sourceMeaning": "如果幸福已经标好了价码，那我早已为此付出许久",
+      "speaker": "",
+      "start": 87.912,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 114,
-        "sourceLineNumber": 15,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          12
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Découvert les prémices de ma passion. Le décor et son envers sont devenus mon obsession. Mais mon père a tout réglé : non, il ne me laissera pas le choix. Du roi, je…",
-      "start": 122,
-      "ipa": "[dekuvɛʁ le pʁemis də ma pasjɔ̃ lə dekɔʁ e sɔ̃n‿ɑ̃vɛʁ sɔ̃ dəvny mɔ̃n‿ɔbsɛsjɔ̃ mɛ mɔ̃ pɛʁ‿a tu ʁeɡle nɔ̃ il nə mə lɛsʁa pa lə ʃwa dy ʁwa ʒə]",
-      "ear": "德库韦赫 莱 普赫米斯 德 玛 帕斯耶翁 勒 德科赫 诶 松恩 昂韦赫 松 德弗尼于 蒙恩 哦布塞斯耶翁 梅 蒙 佩赫 阿 图 赫格莱 农 伊勒 讷 默 莱斯哈 帕 勒 什乌阿 迪于 赫乌阿 热",
-      "meaning": "发现了热爱的萌芽。舞台和幕后让我着迷，但父亲已安排好一切，不会让我选择。我将成为国王的……",
-      "suppliedText": "découvert les prémisses de ma passion le décor et son envers sont devenus mon obsession mais mon père a tout réglé non il ne me laissera pas le choix du roi je",
-      "sourceLineId": "moliere-timed-19",
+      "sourceLineId": "moliere-le-spectacle-musical-16-005",
+      "sourceLineIndex": 5,
+      "lineIndex": 6,
+      "sourceText": "Mon enfance fut solitaire, et la souffrance était ma seule amie",
+      "ipa": "[mɔ̃n‿ɑ̃fɑ̃s fy solitɛʁ e la sufʁɑ̃s‿etɛ ma sœl‿ami]",
+      "ear": "蒙恩 昂芳斯 菲于 索利泰赫 诶 拉 苏弗杭斯 诶泰 玛 瑟厄勒 阿米",
+      "meaning": "我的童年无人为伴，痛苦就是我唯一的朋友",
+      "suppliedText": "Mon enfance fût solitaire, et la souffrance était ma seule amie",
+      "sourceIPA": "/mɔ̃n ɑ̃fɑ̃s fy solitɛʁ e la sufʁɑ̃s etɛ ma sœl ami/",
+      "sourceMeaning": "我的童年无人为伴，痛苦就是我唯一的朋友",
+      "speaker": "",
+      "start": 91.618,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 122,
-        "sourceLineNumber": 19,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          12,
+          13
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Serai tapissier. Quel honneur pour un bourgeois ! Mais moi, je ne veux pas de ce brillant avenir. Je veux avoir le choix…",
-      "start": 131,
-      "ipa": "[səʁe tapisje kɛl‿ɔnœʁ puʁ‿œ̃ buʁʒwa mɛ mwa ʒə nə vø pa də sə bʁijɑ̃ avniʁ ʒə vø avwaʁ lə ʃwa]",
-      "ear": "瑟赫 塔皮斯耶诶 凯勒 哦讷厄赫 普赫 恩 布赫日乌阿 梅 姆乌阿 热 讷 弗厄 帕 德 瑟 布希耶昂 阿弗尼赫 热 弗厄 阿弗乌阿赫 勒 什乌阿",
-      "meaning": "挂毯师，对市民家庭是多么大的荣誉！可我不想要这个光鲜的未来，我想自己选择……",
-      "suppliedText": "serai tapissie quel honneur pour un bourgeois mais moi je ne veux pas de ce brillant avenir je veux avoir le choix",
-      "sourceLineId": "moliere-timed-20",
+      "sourceLineId": "moliere-le-spectacle-musical-16-006",
+      "sourceLineIndex": 6,
+      "lineIndex": 7,
+      "sourceText": "Jusqu'au jour où mon grand-père m'a ouvert les yeux à la vie",
+      "ipa": "[ʒysko ʒuʁ‿u mɔ̃ ɡʁɑ̃pɛʁ ma uvɛʁ lez‿jø a la vi]",
+      "ear": "日于斯科 茹赫 乌 蒙 格杭佩赫 玛 乌韦赫 莱兹 耶厄 阿 拉 维",
+      "meaning": "直到有一天，外祖父让我重新看见生活。",
+      "suppliedText": "Jusqu'au jour où mon grand-père m'a ouvert les yeux à la vie",
+      "sourceIPA": "/ʒysko ʒuʁ u mɔ̃ ɡʁɑ̃pɛʁ ma uvɛʁ lez jøz a la vi/",
+      "sourceMeaning": "直到有天我的外祖父开启了我的双眼让我看见人世间",
+      "speaker": "",
+      "start": 94.457,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 131,
-        "sourceLineNumber": 20,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          13
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "De ce que je veux devenir. Tu finiras par tomber, tomber…",
-      "start": 138,
-      "ipa": "[də sə kə ʒə vø dəvniʁ ty finiʁa paʁ tɔ̃be tɔ̃be]",
-      "ear": "德 瑟 克 热 弗厄 德弗尼赫 蒂于 菲尼哈 帕赫 通贝 通贝",
-      "meaning": "我要成为什么样的人。你终会跌落，跌落……",
-      "suppliedText": "de ce que je veux devenir finira par tomber tomber",
-      "sourceLineId": "moliere-timed-21",
+      "sourceLineId": "moliere-le-spectacle-musical-16-007-a",
+      "sourceLineIndex": 7,
+      "lineIndex": 8,
+      "sourceText": "Il m'a emmené traîner dans les rues de Paris",
+      "ipa": "[il ma ɑ̃mne tʁɛne dɑ̃ le ʁy də paʁi]",
+      "ear": "伊勒 玛 昂姆内 特赫内 当 莱 许 德 帕希",
+      "meaning": "他带我徜徉在巴黎的街头",
+      "suppliedText": "Il m'a emmené traîner dans les rues de Paris",
+      "sourceIPA": "/il ma ɑ̃mne tʁɛne dɑ̃ le ʁy də paʁi u ʒe ʁeapʁi a ɛme e pɥiz a ʁiʁ də la vi/",
+      "sourceMeaning": "他带我徜徉在巴黎的街头",
+      "speaker": "",
+      "start": 97.886,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 138,
-        "sourceLineNumber": 21,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          13
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tomber. À… Tu finiras par…",
-      "start": 145,
-      "ipa": "[tɔ̃be a ty finiʁa paʁ]",
-      "ear": "通贝 阿 蒂于 菲尼哈 帕赫",
-      "meaning": "跌落……你终会……",
-      "suppliedText": "tomber à vouloir prier torueil et de itéiras pas",
-      "sourceLineId": "moliere-timed-22",
+      "sourceLineId": "moliere-le-spectacle-musical-16-007-b",
+      "sourceLineIndex": 7,
+      "lineIndex": 9,
+      "sourceText": "où j'ai réappris à aimer et puis à rire de la vie",
+      "ipa": "[u ʒe ʁeapʁi a ɛme e pɥi a ʁiʁ də la vi]",
+      "ear": "乌 热 赫阿普希 阿 艾梅 诶 普于伊 阿 希赫 德 拉 维",
+      "meaning": "在那里我学会了爱与笑对生活",
+      "suppliedText": "où j'ai réappris à aimer et puis à rire de la vie",
+      "sourceIPA": "/il ma ɑ̃mne tʁɛne dɑ̃ le ʁy də paʁi u ʒe ʁeapʁi a ɛme e pɥiz a ʁiʁ də la vi/",
+      "sourceMeaning": "在那里我学会了爱与笑对生活",
+      "speaker": "",
+      "start": 100.171,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 145,
-        "sourceLineNumber": 22,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          13,
+          14
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tomber, tomber, tomber. Jean-Baptiste… Tomber, tomber…",
-      "start": 153,
-      "ipa": "[tɔ̃be tɔ̃be tɔ̃be ʒɑ̃batist tɔ̃be tɔ̃be]",
-      "ear": "通贝 通贝 通贝 让巴蒂斯特 通贝 通贝",
-      "meaning": "跌落，跌落，跌落。让-巴蒂斯特……",
-      "suppliedText": "tomber tomber tomber Jean-Baptiste des som tomber tomber",
-      "sourceLineId": "moliere-timed-23",
+      "sourceLineId": "moliere-le-spectacle-musical-16-008",
+      "sourceLineIndex": 8,
+      "lineIndex": 10,
+      "sourceText": "Tu finiras par tomber, tomber, tomber",
+      "ipa": "[ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be]",
+      "ear": "蒂于 菲尼哈 帕赫 通贝 通贝 通贝",
+      "meaning": "你终将会落坠，落坠，落坠",
+      "suppliedText": "Tu finiras par tomber, tomber, tomber",
+      "sourceIPA": "/ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be/",
+      "sourceMeaning": "你终将会落坠，落坠，落坠",
+      "speaker": "",
+      "start": 106.364,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 153,
-        "sourceLineNumber": 23,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          14
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tomber. Et puis il y a Madeleine, la plus belle des comédiennes. Elle m'a tendu la main, elle m'a montré le chemin. Avec elle…",
-      "start": 162,
-      "ipa": "[tɔ̃be e pɥi il‿i a madlɛn la ply bɛl de komedjɛn ɛl ma tɑ̃dy la mɛ̃ ɛl ma mɔ̃tʁe lə ʃəmɛ̃ avɛk‿ɛl]",
-      "ear": "通贝 诶 普于伊 伊勒 伊 阿 玛德莱恩 拉 普吕 贝勒 德 科梅德耶艾恩 艾勒 玛 唐迪于 拉 曼 艾勒 玛 蒙特赫 勒 舍曼 阿韦克 艾勒",
-      "meaning": "还有玛德莱娜，最美的女演员。她向我伸手，为我指路。和她一起……",
-      "suppliedText": "tomber et puis il y a Madeleine la plus belle des comédiennees elle m'a tendu la main elle m'a montré le chemin avec elle",
-      "sourceLineId": "moliere-timed-24",
+      "sourceLineId": "moliere-le-spectacle-musical-16-009",
+      "sourceLineIndex": 9,
+      "lineIndex": 11,
+      "sourceText": "À vouloir briller d'orgueil et de vanité",
+      "ipa": "[a vulwaʁ bʁije dɔʁɡœj e də vanite]",
+      "ear": "阿 乌勒乌阿赫 布希耶诶 多赫格厄耶 诶 德 瓦尼特",
+      "meaning": "向往着骄傲与浮华闪烁的光辉",
+      "suppliedText": "A vouloir briller d'orgueil et de vanité",
+      "sourceIPA": "/a vulwaʁ bʁije dɔʁɡœj e də vanite/",
+      "sourceMeaning": "向往着骄傲与浮华闪烁的光辉",
+      "speaker": "",
+      "start": 110.727,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 162,
-        "sourceLineNumber": 24,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          14
+        ],
+        "wordCoverage": 0.125
       }
     },
     {
-      "sourceText": "Je veux grandir, avec elle je veux construire. Je voudrais être son avenir, mais je ne sais comment lui dire.",
-      "start": 170,
-      "ipa": "[ʒə vø ɡʁɑ̃diʁ avɛk‿ɛl ʒə vø kɔ̃stʁɥiʁ ʒə vudʁɛ ɛtʁ sɔ̃n‿avniʁ mɛ ʒə nə sɛ kɔmɑ̃ lɥi diʁ]",
-      "ear": "热 弗厄 格杭迪赫 阿韦克 艾勒 热 弗厄 孔斯特赫于伊赫 热 乌德赫 艾特赫 松恩 阿弗尼赫 梅 热 讷 塞 科芒 勒于伊 迪赫",
-      "meaning": "我想成长，想建立我们的生活，想成为她的未来，却不知如何开口。",
-      "suppliedText": "je veux grandir avec elle je veux construire je voudrais être son avenir mais je ne sais comment lui dire",
-      "sourceLineId": "moliere-timed-25",
+      "sourceLineId": "moliere-le-spectacle-musical-16-010",
+      "sourceLineIndex": 10,
+      "lineIndex": 12,
+      "sourceText": "Tu finiras par tomber, tomber, tomber",
+      "ipa": "[ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be]",
+      "ear": "蒂于 菲尼哈 帕赫 通贝 通贝 通贝",
+      "meaning": "你终将会落坠，落坠，落坠",
+      "suppliedText": "Tu finiras par tomber, tomber, tomber",
+      "sourceIPA": "/ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be/",
+      "sourceMeaning": "你终将会落坠，落坠，落坠",
+      "speaker": "",
+      "start": 111.6,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 170,
-        "sourceLineNumber": 25,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          14
+        ],
+        "wordCoverage": 0.333
       }
     },
     {
-      "sourceText": "Je m'appelle Jean-Baptiste, Jean-Baptiste Poquelin. Je choisis mon destin. Je…",
-      "start": 258,
-      "ipa": "[ʒə mapɛl ʒɑ̃batist ʒɑ̃batist poklɛ̃ ʒə ʃwazi mɔ̃ dɛstɛ̃ ʒə]",
-      "ear": "热 玛佩勒 让巴蒂斯特 让巴蒂斯特 波克兰 热 什乌阿齐 蒙 戴斯坦 热",
-      "meaning": "我叫让-巴蒂斯特……我选择自己的命运。我将……",
-      "suppliedText": "serez fier de moi je m'appelle Jean-Baptiste jean-baptistein choisis mon destin je",
-      "sourceLineId": "moliere-timed-40",
+      "sourceLineId": "moliere-le-spectacle-musical-16-011",
+      "sourceLineIndex": 11,
+      "lineIndex": 13,
+      "sourceText": "Mon grand-père m'a initié aux gens très rustres et bourrus",
+      "ipa": "[mɔ̃ ɡʁɑ̃pɛʁ ma inisje o ʒɑ̃ tʁɛ ʁystʁ e buʁy]",
+      "ear": "蒙 格杭佩赫 玛 伊尼斯耶诶 奥 让 特赫 许斯特赫 诶 布许",
+      "meaning": "外祖父带我接触粗野而不拘礼节的人。",
+      "suppliedText": "Mon grand-père m'a initié aux gens très rustres et bourrus",
+      "sourceIPA": "/mɔ̃ ɡʁɑ̃pɛʁ ma inisje o ʒɑ̃ tʁɛ ʁystʁz e buʁy/",
+      "sourceMeaning": "我的外祖父让我见识了一群粗野而感性的人们",
+      "speaker": "",
+      "start": 114.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 258,
-        "sourceLineNumber": 40,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          15
+        ],
+        "wordCoverage": 0.583
       }
     },
     {
-      "sourceText": "Serai comédien.",
-      "start": 267,
-      "ipa": "[səʁe komedjɛ̃]",
-      "ear": "瑟赫 科梅德耶安",
-      "meaning": "成为演员。",
-      "suppliedText": "serai comédien",
-      "sourceLineId": "moliere-timed-41",
+      "sourceLineId": "moliere-le-spectacle-musical-16-012",
+      "sourceLineIndex": 12,
+      "lineIndex": 14,
+      "sourceText": "À la commedia dell'arte, et aux spectacles de rue",
+      "ipa": "[a la kɔmdja dɛlaʁt e o spɛktakl də ʁy]",
+      "ear": "阿 拉 科姆德耶阿 戴拉赫特 诶 奥 斯佩克塔克勒 德 许",
+      "meaning": "接触意大利即兴喜剧和街头表演。",
+      "suppliedText": "A la Comedia Del Arte, et aux spectacles de rue",
+      "sourceIPA": "/a la komdja dɛl aʁte e o spɛktakl də ʁy/",
+      "sourceMeaning": "他们或在即兴喜剧舞台上，或在街头表演中",
+      "speaker": "",
+      "start": 116.526,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 267,
-        "sourceLineNumber": 41,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          15
+        ],
+        "wordCoverage": 0.9
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-16-013",
+      "sourceLineIndex": 13,
+      "lineIndex": 15,
+      "sourceText": "Dans les théâtres j'ai découvert les prémices de ma passion",
+      "ipa": "[dɑ̃ le teatʁ ʒe dekuvɛʁ le pʁemis də ma pasjɔ̃]",
+      "ear": "当 莱 特阿特赫 热 德库韦赫 莱 普赫米斯 德 玛 帕斯耶翁",
+      "meaning": "走进剧场我就发现自己的激情在萌发",
+      "suppliedText": "Dans les théâtres j'ai découvert les prémices de ma passion",
+      "sourceIPA": "/dɑ̃ le teatʁ ʒe dekuvɛʁ le pʁemis də ma pasjɔ̃/",
+      "sourceMeaning": "走进剧场我就发现自己的激情在萌发",
+      "speaker": "",
+      "start": 119.895,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          15,
+          19
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-16-014",
+      "sourceLineIndex": 14,
+      "lineIndex": 16,
+      "sourceText": "Le décor et son envers sont devenus mon obsession",
+      "ipa": "[lə dekɔʁ e sɔ̃n‿ɑ̃vɛʁ sɔ̃ dəvny mɔ̃n‿ɔbsɛsjɔ̃]",
+      "ear": "勒 德科赫 诶 松恩 昂韦赫 松 德弗尼于 蒙恩 哦布塞斯耶翁",
+      "meaning": "舞台布景与幕后都成了我的执念。",
+      "suppliedText": "Les décors et son envers sont devenus mon obsession",
+      "sourceIPA": "/le dekɔʁz e sɔ̃n ɑ̃vɛʁ sɔ̃ dəvny mɔ̃n ɔbsɛsjɔ̃/",
+      "sourceMeaning": "舞台道具的正反面都让我痴迷得难以自拔",
+      "speaker": "",
+      "start": 123.688,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          19
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-16-015",
+      "sourceLineIndex": 15,
+      "lineIndex": 17,
+      "sourceText": "Mais mon père a tout réglé, il ne me laissera pas le choix",
+      "ipa": "[mɛ mɔ̃ pɛʁ‿a tu ʁeɡle il nə mə lɛsʁa pa lə ʃwa]",
+      "ear": "梅 蒙 佩赫 阿 图 赫格莱 伊勒 讷 默 莱斯哈 帕 勒 什乌阿",
+      "meaning": "无奈我父亲安排好了一切，没给我留下选择余地",
+      "suppliedText": "Mais mon père a tout réglé, il ne me laissera pas le choix",
+      "sourceIPA": "/mɛ mɔ̃ pɛʁ a tu ʁeɡle il nə mə lɛsʁa pa lə ʃwa/",
+      "sourceMeaning": "无奈我父亲安排好了一切，没给我留下选择余地",
+      "speaker": "",
+      "start": 126.219,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          19
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-16-016",
+      "sourceLineIndex": 16,
+      "lineIndex": 18,
+      "sourceText": "Du Roi je serai tapissier, quel honneur pour un bourgeois",
+      "ipa": "[dy ʁwa ʒə səʁe tapisje kɛl‿ɔnœʁ puʁ‿œ̃ buʁʒwa]",
+      "ear": "迪于 赫乌阿 热 瑟赫 塔皮斯耶诶 凯勒 哦讷厄赫 普赫 恩 布赫日乌阿",
+      "meaning": "我将成为国王的挂毯师，这对市民家庭是多么大的荣誉。",
+      "suppliedText": "Du Roi je serai tapissier, quel honneur pour un bourgeois",
+      "sourceIPA": "/dy ʁwa ʒə səʁe tapisje kɛl ɔnœʁ puʁ œ̃ buʁʒwa/",
+      "sourceMeaning": "将要给国王当室内装潢师，对于一个资产阶级来说是多么合意",
+      "speaker": "",
+      "start": 130.156,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          19,
+          20
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-16-017",
+      "sourceLineIndex": 17,
+      "lineIndex": 19,
+      "sourceText": "Mais moi je ne veux pas de ce brillant avenir",
+      "ipa": "[mɛ mwa ʒə nə vø pa də sə bʁijɑ̃ avniʁ]",
+      "ear": "梅 姆乌阿 热 讷 弗厄 帕 德 瑟 布希耶昂 阿弗尼赫",
+      "meaning": "但我不想要这样光鲜的前程",
+      "suppliedText": "Mais moi je ne veux pas de ce brillant avenir",
+      "sourceIPA": "/mɛ mwa ʒə nə vø pa də sə bʁijɑ̃ avniʁ/",
+      "sourceMeaning": "但我不想要这样光鲜的前程",
+      "speaker": "",
+      "start": 133.227,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          20
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-16-018",
+      "sourceLineIndex": 18,
+      "lineIndex": 20,
+      "sourceText": "Je veux avoir le choix de ce que je veux devenir",
+      "ipa": "[ʒə vø avwaʁ lə ʃwa də sə kə ʒə vø dəvniʁ]",
+      "ear": "热 弗厄 阿弗乌阿赫 勒 什乌阿 德 瑟 克 热 弗厄 德弗尼赫",
+      "meaning": "我想要自己选择去成为自己想成为的人",
+      "suppliedText": "Je veux avoir le choix de ce que je veux devenir",
+      "sourceIPA": "/ʒə vøz avwaʁ lə ʃwa də sə kə ʒə vø dəvniʁ/",
+      "sourceMeaning": "我想要自己选择去成为自己想成为的人",
+      "speaker": "",
+      "start": 136.409,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          20,
+          21
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-16-019",
+      "sourceLineIndex": 19,
+      "lineIndex": 21,
+      "sourceText": "Tu finiras par tomber, tomber, tomber",
+      "ipa": "[ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be]",
+      "ear": "蒂于 菲尼哈 帕赫 通贝 通贝 通贝",
+      "meaning": "你终将会落坠，落坠，落坠",
+      "suppliedText": "Tu finiras par tomber, tomber, tomber",
+      "sourceIPA": "/ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be/",
+      "sourceMeaning": "你终将会落坠，落坠，落坠",
+      "speaker": "",
+      "start": 141.818,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          21,
+          22
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-16-020",
+      "sourceLineIndex": 20,
+      "lineIndex": 22,
+      "sourceText": "À vouloir briller d'orgueil et de vanité",
+      "ipa": "[a vulwaʁ bʁije dɔʁɡœj e də vanite]",
+      "ear": "阿 乌勒乌阿赫 布希耶诶 多赫格厄耶 诶 德 瓦尼特",
+      "meaning": "向往着骄傲与浮华闪烁的光辉",
+      "suppliedText": "A vouloir briller d'orgueil et de vanité",
+      "sourceIPA": "/a vulwaʁ bʁije dɔʁɡœj e də vanite/",
+      "sourceMeaning": "向往着骄傲与浮华闪烁的光辉",
+      "speaker": "",
+      "start": 146.6,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          22
+        ],
+        "wordCoverage": 0.125
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-16-021",
+      "sourceLineIndex": 21,
+      "lineIndex": 23,
+      "sourceText": "Tu finiras par tomber, tomber, tomber",
+      "ipa": "[ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be]",
+      "ear": "蒂于 菲尼哈 帕赫 通贝 通贝 通贝",
+      "meaning": "你终将会落坠，落坠，落坠",
+      "suppliedText": "Tu finiras par tomber, tomber, tomber",
+      "sourceIPA": "/ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be/",
+      "sourceMeaning": "你终将会落坠，落坠，落坠",
+      "speaker": "",
+      "start": 149.8,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          22,
+          23
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-16-022",
+      "sourceLineIndex": 22,
+      "lineIndex": 24,
+      "sourceText": "Du haut des sommets, tomber, tomber, tomber",
+      "ipa": "[dy o de sɔmɛ tɔ̃be tɔ̃be tɔ̃be]",
+      "ear": "迪于 奥 德 索梅 通贝 通贝 通贝",
+      "meaning": "从至高的山巅，落坠，落坠，落坠",
+      "suppliedText": "Du haut des sommets, tomber, tomber, tomber",
+      "sourceIPA": "/dy o de sɔmɛ tɔ̃be tɔ̃be tɔ̃be/",
+      "sourceMeaning": "从至高的山巅，落坠，落坠，落坠",
+      "speaker": "",
+      "start": 156.343,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          23,
+          24
+        ],
+        "wordCoverage": 0.429
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-16-023",
+      "sourceLineIndex": 23,
+      "lineIndex": 25,
+      "sourceText": "Et puis il y a Madeleine, la plus belle des comédiennes",
+      "ipa": "[e pɥi il‿i a madlɛn la ply bɛl de komedjɛn]",
+      "ear": "诶 普于伊 伊勒 伊 阿 玛德莱恩 拉 普吕 贝勒 德 科梅德耶艾恩",
+      "meaning": "还有玛德莱娜，最美的女演员。",
+      "suppliedText": "Et puis il y a Madelaine, la plus belle des comedienne",
+      "sourceIPA": "/e pɥiz il i a madlɛn la ply bɛl de komədjɛn/",
+      "sourceMeaning": "随后玛德琳走入我的生命，她是最美的演员",
+      "speaker": "",
+      "start": 162.308,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          24
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-16-024",
+      "sourceLineIndex": 24,
+      "lineIndex": 26,
+      "sourceText": "Elle m'a tendu la main, elle m'a montré le chemin",
+      "ipa": "[ɛl ma tɑ̃dy la mɛ̃ ɛl ma mɔ̃tʁe lə ʃəmɛ̃]",
+      "ear": "艾勒 玛 唐迪于 拉 曼 艾勒 玛 蒙特赫 勒 舍曼",
+      "meaning": "她向我伸出手，她为我指明道路",
+      "suppliedText": "Elle m'a tendu la main, elle m'a montré le chemin",
+      "sourceIPA": "/ɛl ma tɑ̃dy la mɛ̃ ɛl ma mɔ̃tʁe lə ʃəmɛ̃/",
+      "sourceMeaning": "她向我伸出手，她为我指明道路",
+      "speaker": "",
+      "start": 165.692,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          24
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-16-025",
+      "sourceLineIndex": 25,
+      "lineIndex": 27,
+      "sourceText": "Avec elle je veux grandir, avec elle je veux construire",
+      "ipa": "[avɛk‿ɛl ʒə vø ɡʁɑ̃diʁ avɛk‿ɛl ʒə vø kɔ̃stʁɥiʁ]",
+      "ear": "阿韦克 艾勒 热 弗厄 格杭迪赫 阿韦克 艾勒 热 弗厄 孔斯特赫于伊赫",
+      "meaning": "我想和她一起成长，一起建设未来。",
+      "suppliedText": "Avec elle je veux grandir, avec elle je veux construire",
+      "sourceIPA": "/avɛk ɛl ʒə vø ɡʁɑ̃diʁ avɛk ɛl ʒə vø kɔ̃stʁyiʁ/",
+      "sourceMeaning": "她让我向往成长，她让我想要创作",
+      "speaker": "",
+      "start": 169.385,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          24,
+          25
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-16-026",
+      "sourceLineIndex": 26,
+      "lineIndex": 28,
+      "sourceText": "Je veux être son avenir, mais je ne sais comment lui dire",
+      "ipa": "[ʒə vø ɛtʁ sɔ̃n‿avniʁ mɛ ʒə nə sɛ kɔmɑ̃ lɥi diʁ]",
+      "ear": "热 弗厄 艾特赫 松恩 阿弗尼赫 梅 热 讷 塞 科芒 勒于伊 迪赫",
+      "meaning": "我想成为她的未来，但我不知道该如何对她诉说",
+      "suppliedText": "Je veux être son avenir, mais je ne sais comment lui dire",
+      "sourceIPA": "/ʒə vøz ɛtʁ sɔ̃n avniʁ mɛ ʒə nə sɛ kɔmɑ̃ lɥi diʁ/",
+      "sourceMeaning": "我想成为她的未来，但我不知道该如何对她诉说",
+      "speaker": "",
+      "start": 172.8,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          25
+        ],
+        "wordCoverage": 0.917
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-16-027-a",
+      "sourceLineIndex": 27,
+      "lineIndex": 29,
+      "sourceText": "Je m'appelle Jean-Baptiste",
+      "ipa": "[ʒə mapɛl ʒɑ̃batist]",
+      "ear": "热 玛佩勒 让巴蒂斯特",
+      "meaning": "我名叫让-巴蒂斯特",
+      "suppliedText": "Je m'appelle Jean-Baptiste",
+      "sourceIPA": "/ʒə mapɛl ʒɑ̃batist/",
+      "sourceMeaning": "我名叫让-巴蒂斯特",
+      "speaker": "",
+      "start": 260.4,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          40
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-16-027-b",
+      "sourceLineIndex": 27,
+      "lineIndex": 30,
+      "sourceText": "Jean-Baptiste Poquelin",
+      "ipa": "[ʒɑ̃batist poklɛ̃]",
+      "ear": "让巴蒂斯特 波克兰",
+      "meaning": "让-巴蒂斯特·波克兰",
+      "suppliedText": "Jean-Baptiste Poquelin",
+      "sourceIPA": "/ʒɑ̃batist poklɛ̃/",
+      "sourceMeaning": "让-巴蒂斯特·波克兰",
+      "speaker": "",
+      "start": 262.938,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          40
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-16-028",
+      "sourceLineIndex": 28,
+      "lineIndex": 31,
+      "sourceText": "J'ai choisi mon destin, je serai comédien",
+      "ipa": "[ʒe ʃwazi mɔ̃ dɛstɛ̃ ʒə səʁe komedjɛ̃]",
+      "ear": "热 什乌阿齐 蒙 戴斯坦 热 瑟赫 科梅德耶安",
+      "meaning": "我的命运我来选择，我将要成为一名演员",
+      "suppliedText": "J'ai choisi mon destin, je serai comedien",
+      "sourceIPA": "/ʒe ʃwazi mɔ̃ dɛstɛ̃ ʒə səʁe komədjɛ̃/",
+      "sourceMeaning": "我的命运我来选择，我将要成为一名演员",
+      "speaker": "",
+      "start": 264.462,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          40,
+          41
+        ],
+        "wordCoverage": 1.0
       }
     }
-  ],
-  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+  ]
 }

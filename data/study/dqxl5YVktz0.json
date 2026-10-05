@@ -1,342 +1,1054 @@
 {
   "videoId": "dqxl5YVktz0",
   "playbackVideoId": "dqxl5YVktz0",
-  "version": 2,
-  "textSource": "user-supplied-auto-transcript",
-  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "spelling-and-grammar-edits",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "sourceFileSHA256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134",
+  "textReviewStatus": "cross-checked",
+  "textReviewScope": "supplied-lyrics-spelling-grammar-and-chinese-meaning",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
-  "meaningSource": "editorial-chinese-from-user-transcript",
-  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
+  "meaningSource": "reviewed-user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "note": "歌词依据你提供的完整文件校对，中文释义已修订。学习卡片按现有现场录像整理，完整歌词另行归档；≈ 表示依据原字幕估算的分句位置。音标与空耳为文字的参考读法。",
   "sources": [
     {
-      "label": "本段原唱录像",
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+    },
+    {
+      "label": "本曲现场录像",
       "url": "https://www.youtube.com/watch?v=dqxl5YVktz0"
     }
   ],
   "entries": [
     {
-      "sourceText": "Ça fait longtemps que tu n'entends plus le son de ta raison. Tu sais",
-      "start": 10,
-      "ipa": "[sa fɛ lɔ̃tɑ̃ kə ty nɑ̃tɑ̃ ply lə sɔ̃ də ta ʁɛzɔ̃ ty sɛ]",
-      "ear": "萨 费 隆唐 克 蒂于 南唐 普吕 勒 松 德 塔 赫宗 蒂于 塞",
-      "meaning": "你已经很久听不见理智的声音。你明明",
-      "suppliedText": "suis ça fait longtemps que tu n'entends plus la voix de ta raison tu sais",
-      "sourceLineId": "moliere-timed-806",
+      "sourceLineId": "moliere-le-spectacle-musical-07-001-a",
+      "sourceLineIndex": 1,
+      "lineIndex": 1,
+      "sourceText": "Ça fait longtemps",
+      "ipa": "[sa fɛ lɔ̃tɑ̃]",
+      "ear": "萨 费 隆唐",
+      "meaning": "已经很久",
+      "suppliedText": "Ça fait longtemps",
+      "sourceIPA": "/sa fɛ lɔ̃tɑ̃/",
+      "sourceMeaning": "已经很久",
+      "speaker": "",
+      "start": 10.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 10,
-        "sourceLineNumber": 806,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          806
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Pourtant que l'ambition est devenue ta prison. Tant de blessures, tant de fêlures qui te",
-      "start": 17,
-      "ipa": "[puʁtɑ̃ kə lɑ̃bisjɔ̃ ɛ dəvny ta pʁizɔ̃ tɑ̃ də blɛsyʁ tɑ̃ də fɛlyʁ ki tə]",
-      "ear": "普赫唐 克 朗比斯耶翁 艾 德弗尼于 塔 普希宗 唐 德 布莱西于赫 唐 德 费吕赫 基 特",
-      "meaning": "知道野心成了你的牢笼。如此多的伤口，如此多的裂痕，让你",
-      "suppliedText": "pourtant que l'ambition est devenue ta prison tant de blessur t de fures qui te",
-      "sourceLineId": "moliere-timed-807",
+      "sourceLineId": "moliere-le-spectacle-musical-07-001-b",
+      "sourceLineIndex": 1,
+      "lineIndex": 2,
+      "sourceText": "Que tu n'entends",
+      "ipa": "[kə ty nɑ̃tɑ̃]",
+      "ear": "克 蒂于 南唐",
+      "meaning": "你再也听不见",
+      "suppliedText": "Que tu n'entends",
+      "sourceIPA": "/kə ty nɑ̃tɑ̃/",
+      "sourceMeaning": "你再也听不见",
+      "speaker": "",
+      "start": 11.4,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 17,
-        "sourceLineNumber": 807,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          806
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Font encore saigner. Dans les regards, dans les égards, tu pansais les",
-      "start": 26,
-      "ipa": "[fɔ̃ ɑ̃kɔʁ sɛnje dɑ̃ le ʁəɡaʁ dɑ̃ lez‿eɡaʁ ty pɑ̃sɛ le]",
-      "ear": "丰 昂科赫 塞恩耶诶 当 莱 赫嘎赫 当 莱兹 诶嘎赫 蒂于 庞塞 莱",
-      "meaning": "依然流血。在别人的目光与关怀里，你曾包扎自己的",
-      "suppliedText": "font encore saigner dans les regards dans les égars tu penses et les",
-      "sourceLineId": "moliere-timed-808",
+      "sourceLineId": "moliere-le-spectacle-musical-07-002",
+      "sourceLineIndex": 2,
+      "lineIndex": 3,
+      "sourceText": "Plus le son de ta raison",
+      "ipa": "[ply lə sɔ̃ də ta ʁɛzɔ̃]",
+      "ear": "普吕 勒 松 德 塔 赫宗",
+      "meaning": "内心理智的呼唤",
+      "suppliedText": "Plus le son de ta raison",
+      "sourceIPA": "/ply lə sɔ̃ də ta ʁɛzɔ̃/",
+      "sourceMeaning": "内心理智的呼唤",
+      "speaker": "",
+      "start": 13.267,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 26,
-        "sourceLineNumber": 808,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          806
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Pensées. Tu finiras par tomber, tomber,",
-      "start": 33,
-      "ipa": "[pɑ̃se ty finiʁa paʁ tɔ̃be tɔ̃be]",
-      "ear": "庞塞 蒂于 菲尼哈 帕赫 通贝 通贝",
-      "meaning": "心事。你终将坠落，坠落，",
-      "suppliedText": "pensées tu finiras par tomber tomber",
-      "sourceLineId": "moliere-timed-809",
+      "sourceLineId": "moliere-le-spectacle-musical-07-003",
+      "sourceLineIndex": 3,
+      "lineIndex": 4,
+      "sourceText": "Tu sais pourtant, que l'ambition",
+      "ipa": "[ty sɛ puʁtɑ̃ kə lɑ̃bisjɔ̃]",
+      "ear": "蒂于 塞 普赫唐 克 朗比斯耶翁",
+      "meaning": "可你明明知道，野心",
+      "suppliedText": "Tu sais pourtant, que l'ambition",
+      "sourceIPA": "/ty sɛ puʁtɑ̃ kə lɑ̃bisjɔ̃/",
+      "sourceMeaning": "可你知道 你的奢求",
+      "speaker": "",
+      "start": 16.067,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 33,
-        "sourceLineNumber": 809,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          806,
+          807
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tomber du haut des sommets où tes rêves t'ont",
-      "start": 39,
-      "ipa": "[tɔ̃be dy o de sɔmɛ u te ʁɛv tɔ̃]",
-      "ear": "通贝 迪于 奥 德 索梅 乌 特 赫弗 通",
-      "meaning": "从梦想把你带上的峰顶",
-      "suppliedText": "tomber tu des som où tes rêves tont",
-      "sourceLineId": "moliere-timed-810",
+      "sourceLineId": "moliere-le-spectacle-musical-07-004",
+      "sourceLineIndex": 4,
+      "lineIndex": 5,
+      "sourceText": "Est devenue ta prison",
+      "ipa": "[ɛ dəvny ta pʁizɔ̃]",
+      "ear": "艾 德弗尼于 塔 普希宗",
+      "meaning": "已成为你的牢狱",
+      "suppliedText": "Est devenue ta prison",
+      "sourceIPA": "/ɛ dəvny ta pʁizɔ̃/",
+      "sourceMeaning": "已成为你的牢狱",
+      "speaker": "",
+      "start": 19.25,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 39,
-        "sourceLineNumber": 810,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          807
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Porté. Tu finiras par sombrer, sombrer,",
-      "start": 45,
-      "ipa": "[pɔʁte ty finiʁa paʁ sɔ̃bʁe sɔ̃bʁe]",
-      "ear": "珀赫特 蒂于 菲尼哈 帕赫 松布赫 松布赫",
-      "meaning": "坠落。你终将沉没，沉没，",
-      "suppliedText": "pter tu finisiras pas sombrer sombrer",
-      "sourceLineId": "moliere-timed-811",
+      "sourceLineId": "moliere-le-spectacle-musical-07-005-a",
+      "sourceLineIndex": 5,
+      "lineIndex": 6,
+      "sourceText": "Tant de blessures",
+      "ipa": "[tɑ̃ də blɛsyʁ]",
+      "ear": "唐 德 布莱西于赫",
+      "meaning": "伤痕累累",
+      "suppliedText": "Tant de blessures",
+      "sourceIPA": "/tɑ̃ də blɛsyʁ/",
+      "sourceMeaning": "伤痕累累",
+      "speaker": "",
+      "start": 21.5,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 45,
-        "sourceLineNumber": 811,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          807
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Sombrer à trop vouloir briller. Tomber, tomber, tomber. Tu crains le silence, le vide",
-      "start": 50,
-      "ipa": "[sɔ̃bʁe a tʁo vulwaʁ bʁije tɔ̃be tɔ̃be tɔ̃be ty kʁɛ̃ lə silɑ̃s lə vid]",
-      "ear": "松布赫 阿 特霍 乌勒乌阿赫 布希耶诶 通贝 通贝 通贝 蒂于 克汉 勒 西朗斯 勒 维德",
-      "meaning": "沉没，因为你太渴望闪耀。坠落，坠落，坠落。你害怕寂静与空虚，",
-      "suppliedText": "sombrer à trop vouloir pr tomber tomber tomber tu crains le silence le vite",
-      "sourceLineId": "moliere-timed-812",
+      "sourceLineId": "moliere-le-spectacle-musical-07-005-b",
+      "sourceLineIndex": 5,
+      "lineIndex": 7,
+      "sourceText": "Tant de fêlures",
+      "ipa": "[tɑ̃ də fɛlyʁ]",
+      "ear": "唐 德 费吕赫",
+      "meaning": "裂痕道道",
+      "suppliedText": "Tan de fêlures",
+      "sourceIPA": "/tɑ̃ də fɛlyʁ/",
+      "sourceMeaning": "裂痕道道",
+      "speaker": "",
+      "start": 23.188,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 50,
-        "sourceLineNumber": 812,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          807
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Qui te ramènent à ton enfance. Faut que t'avances pour donner un sens à ton",
-      "start": 60,
-      "ipa": "[ki tə ʁamɛn‿a tɔ̃n‿ɑ̃fɑ̃s fo kə tavɑ̃s puʁ dɔne œ̃ sɑ̃s‿a tɔ̃]",
-      "ear": "基 特 哈梅恩 阿 通恩 昂芳斯 佛 克 塔旺斯 普赫 多内 恩 桑斯 阿 通",
-      "meaning": "它们把你带回童年。你必须向前，让自己的人",
-      "suppliedText": "qui te ramène à ton enfance faut que tuavan pour donner un sens à Taine",
-      "sourceLineId": "moliere-timed-813",
+      "sourceLineId": "moliere-le-spectacle-musical-07-006",
+      "sourceLineIndex": 6,
+      "lineIndex": 8,
+      "sourceText": "Qui te font encore saigner",
+      "ipa": "[ki tə fɔ̃ ɑ̃kɔʁ sɛnje]",
+      "ear": "基 特 丰 昂科赫 塞恩耶诶",
+      "meaning": "仍让你不断流血。",
+      "suppliedText": "Qui te font encore saigner",
+      "sourceIPA": "/ki tə fɔ̃t ɑ̃kɔʁ sɛnje/",
+      "sourceMeaning": "不断抽空你的血液",
+      "speaker": "",
+      "start": 24.875,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 60,
-        "sourceLineNumber": 813,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          807,
+          808
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Existence. Mais pour effacer ce maudit passé, tu as besoin d'exister. Tu veux",
-      "start": 67,
-      "ipa": "[ɛɡzistɑ̃s mɛ puʁ‿efase sə modi pase ty a bəzwɛ̃ dɛɡziste ty vø]",
-      "ear": "艾格齐斯唐斯 梅 普赫 诶法塞 瑟 莫迪 帕塞 蒂于 阿 伯兹乌安 戴格齐斯特 蒂于 弗厄",
-      "meaning": "生有意义。可为了抹去那该死的过去，你需要证明自己的存在。你想",
-      "suppliedText": "existence mais pour effasser CEE passé tu as besoin d'exister tu veux",
-      "sourceLineId": "moliere-timed-814",
+      "sourceLineId": "moliere-le-spectacle-musical-07-007-a",
+      "sourceLineIndex": 7,
+      "lineIndex": 9,
+      "sourceText": "Dans les regards",
+      "ipa": "[dɑ̃ le ʁəɡaʁ]",
+      "ear": "当 莱 赫嘎赫",
+      "meaning": "在那些目光里",
+      "suppliedText": "Dans les regards",
+      "sourceIPA": "/dɑ̃ le ʁəɡaʁ/",
+      "sourceMeaning": "在那些目光里",
+      "speaker": "",
+      "start": 27.75,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 67,
-        "sourceLineNumber": 814,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          808
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Compter, tu n'en as jamais assez. Tu finiras par tomber, tomber,",
-      "start": 76,
-      "ipa": "[kɔ̃te ty nɑ̃ a ʒamɛ ase ty finiʁa paʁ tɔ̃be tɔ̃be]",
-      "ear": "孔特 蒂于 南 阿 扎梅 阿塞 蒂于 菲尼哈 帕赫 通贝 通贝",
-      "meaning": "成为重要的人，却永远不知满足。你终将坠落，坠落，",
-      "suppliedText": "té tu n'en as jamais assez tomber tomber",
-      "sourceLineId": "moliere-timed-815",
+      "sourceLineId": "moliere-le-spectacle-musical-07-007-b",
+      "sourceLineIndex": 7,
+      "lineIndex": 10,
+      "sourceText": "Dans les égards",
+      "ipa": "[dɑ̃ lez‿eɡaʁ]",
+      "ear": "当 莱兹 诶嘎赫",
+      "meaning": "在那些礼遇中",
+      "suppliedText": "Dans les égards",
+      "sourceIPA": "/dɑ̃ lez eɡaʁ/",
+      "sourceMeaning": "在那些礼遇中",
+      "speaker": "",
+      "start": 29.5,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 76,
-        "sourceLineNumber": 815,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          808
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tomber du haut des sommets où tes rêves t'ont porté.",
-      "start": 84,
-      "ipa": "[tɔ̃be dy o de sɔmɛ u te ʁɛv tɔ̃ pɔʁte]",
-      "ear": "通贝 迪于 奥 德 索梅 乌 特 赫弗 通 珀赫特",
-      "meaning": "从梦想把你带上的峰顶坠落。",
-      "suppliedText": "tomber tu des som où tes rèves t foré",
-      "sourceLineId": "moliere-timed-816",
+      "sourceLineId": "moliere-le-spectacle-musical-07-008",
+      "sourceLineIndex": 8,
+      "lineIndex": 11,
+      "sourceText": "Tu pansais les pensées",
+      "ipa": "[ty pɑ̃sɛ le pɑ̃se]",
+      "ear": "蒂于 庞塞 莱 庞塞",
+      "meaning": "你曾包扎自己的心事。",
+      "suppliedText": "Tu pansais les pensées",
+      "sourceIPA": "/ty pɑ̃sɛ le pɑ̃se/",
+      "sourceMeaning": "你却只顾包扎理想",
+      "speaker": "",
+      "start": 31.25,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 84,
-        "sourceLineNumber": 816,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          808,
+          809
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tu finiras par sombrer, sombrer, sombrer à trop vouloir briller. Tomber, tomber,",
-      "start": 90,
-      "ipa": "[ty finiʁa paʁ sɔ̃bʁe sɔ̃bʁe sɔ̃bʁe a tʁo vulwaʁ bʁije tɔ̃be tɔ̃be]",
-      "ear": "蒂于 菲尼哈 帕赫 松布赫 松布赫 松布赫 阿 特霍 乌勒乌阿赫 布希耶诶 通贝 通贝",
-      "meaning": "你终将沉没，沉没，沉没，因为你太渴望闪耀。坠落，坠落，",
-      "suppliedText": "finir pas sombrer sombrer sombrer trop vouloir prier tomber tomber",
-      "sourceLineId": "moliere-timed-817",
+      "sourceLineId": "moliere-le-spectacle-musical-07-009",
+      "sourceLineIndex": 9,
+      "lineIndex": 12,
+      "sourceText": "Tu finiras par tomber, tomber, tomber",
+      "ipa": "[ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be]",
+      "ear": "蒂于 菲尼哈 帕赫 通贝 通贝 通贝",
+      "meaning": "你终将会落坠 落坠 落坠",
+      "suppliedText": "Tu finiras par tomber, tomber, tomber",
+      "sourceIPA": "/ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be/",
+      "sourceMeaning": "你终将会落坠 落坠 落坠",
+      "speaker": "",
+      "start": 34.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 90,
-        "sourceLineNumber": 817,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          809,
+          810
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tomber. Ça fait longtemps que tu n'entends plus le son de ta raison. Mais tu",
-      "start": 101,
-      "ipa": "[tɔ̃be sa fɛ lɔ̃tɑ̃ kə ty nɑ̃tɑ̃ ply lə sɔ̃ də ta ʁɛzɔ̃ mɛ ty]",
-      "ear": "通贝 萨 费 隆唐 克 蒂于 南唐 普吕 勒 松 德 塔 赫宗 梅 蒂于",
-      "meaning": "坠落。你已经很久听不见理智的声音。可你",
-      "suppliedText": "tomber ça fait longtemps que tu n'entends plus la voir de ta raison tu",
-      "sourceLineId": "moliere-timed-818",
+      "sourceLineId": "moliere-le-spectacle-musical-07-010",
+      "sourceLineIndex": 10,
+      "lineIndex": 13,
+      "sourceText": "Du haut des sommets où tes rêves t'ont porté",
+      "ipa": "[dy o de sɔmɛ u te ʁɛv tɔ̃ pɔʁte]",
+      "ear": "迪于 奥 德 索梅 乌 特 赫弗 通 珀赫特",
+      "meaning": "从梦想带你登上的巅峰之上",
+      "suppliedText": "Du haut des sommets où tes rêves t'ont porté",
+      "sourceIPA": "/dy o de sɔmɛz u te ʁɛv tɔ̃ pɔʁte/",
+      "sourceMeaning": "从梦想带你登上的巅峰之上",
+      "speaker": "",
+      "start": 39.6,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 101,
-        "sourceLineNumber": 818,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          810,
+          811
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Sais pourtant que l'ambition est devenue ta prison. Tu cours et tu cours sans jamais faire de détours, dans la",
-      "start": 108,
-      "ipa": "[sɛ puʁtɑ̃ kə lɑ̃bisjɔ̃ ɛ dəvny ta pʁizɔ̃ ty kuʁ e ty kuʁ sɑ̃ ʒamɛ fɛʁ də detuʁ dɑ̃ la]",
-      "ear": "塞 普赫唐 克 朗比斯耶翁 艾 德弗尼于 塔 普希宗 蒂于 库赫 诶 蒂于 库赫 桑 扎梅 费赫 德 德图赫 当 拉",
-      "meaning": "明明知道野心成了你的牢笼。你不停奔跑，从不绕路，始终朝着同一个",
-      "suppliedText": "sais pourtant que l'ambition est devenue ta prisson tu cour tu sans jamais fare des dans la",
-      "sourceLineId": "moliere-timed-819",
+      "sourceLineId": "moliere-le-spectacle-musical-07-011",
+      "sourceLineIndex": 11,
+      "lineIndex": 14,
+      "sourceText": "Tu finiras par sombrer, sombrer, sombrer",
+      "ipa": "[ty finiʁa paʁ sɔ̃bʁe sɔ̃bʁe sɔ̃bʁe]",
+      "ear": "蒂于 菲尼哈 帕赫 松布赫 松布赫 松布赫",
+      "meaning": "你终将沉沦 沉沦 沉沦",
+      "suppliedText": "Tu finiras par sombrer, sombrer, sombrer",
+      "sourceIPA": "/ty finiʁa paʁ sɔ̃bʁe sɔ̃bʁe sɔ̃bʁe/",
+      "sourceMeaning": "你终将沉沦 沉沦 沉沦",
+      "speaker": "",
+      "start": 45.833,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 108,
-        "sourceLineNumber": 819,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          811,
+          812
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Même direction, encore et toujours. Ce terrible parcours jusqu'à",
-      "start": 117,
-      "ipa": "[mɛm diʁɛksjɔ̃ ɑ̃kɔʁ e tuʒuʁ sə tɛʁibl paʁkuʁ ʒyska]",
-      "ear": "梅姆 迪赫克斯耶翁 昂科赫 诶 图茹赫 瑟 泰希布勒 帕赫库赫 日于斯卡",
-      "meaning": "方向，一次又一次。沿着这可怕的道路，直到",
-      "suppliedText": "même encore tou jours ce terrible parcours jusqu'à",
-      "sourceLineId": "moliere-timed-821",
+      "sourceLineId": "moliere-le-spectacle-musical-07-012",
+      "sourceLineIndex": 12,
+      "lineIndex": 15,
+      "sourceText": "À trop vouloir briller, tomber, tomber, tomber",
+      "ipa": "[a tʁo vulwaʁ bʁije tɔ̃be tɔ̃be tɔ̃be]",
+      "ear": "阿 特霍 乌勒乌阿赫 布希耶诶 通贝 通贝 通贝",
+      "meaning": "只因太想闪耀，你会坠落 坠落 坠落",
+      "suppliedText": "À trop vouloir briller, tomber, tomber, tomber",
+      "sourceIPA": "/a tʁo vulwaʁ bʁije tɔ̃be tɔ̃be tɔ̃be/",
+      "sourceMeaning": "只因太想闪耀，你会坠落 坠落 坠落",
+      "speaker": "",
+      "start": 50.714,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 117,
-        "sourceLineNumber": 821,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          812
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "L'obsession. Tu finiras par tomber, tomber,",
-      "start": 124,
-      "ipa": "[lɔbsɛsjɔ̃ ty finiʁa paʁ tɔ̃be tɔ̃be]",
-      "ear": "洛布塞斯耶翁 蒂于 菲尼哈 帕赫 通贝 通贝",
-      "meaning": "执念吞没你。你终将坠落，坠落，",
-      "suppliedText": "l'obsession tu finiras par tomber tomber",
-      "sourceLineId": "moliere-timed-822",
+      "sourceLineId": "moliere-le-spectacle-musical-07-013",
+      "sourceLineIndex": 13,
+      "lineIndex": 16,
+      "sourceText": "Tu crains le silence, le vide et l'absence",
+      "ipa": "[ty kʁɛ̃ lə silɑ̃s lə vid e labsɑ̃s]",
+      "ear": "蒂于 克汉 勒 西朗斯 勒 维德 诶 拉布桑斯",
+      "meaning": "你害怕沉默 空虚与缺席",
+      "suppliedText": "Tu crains le silence, la vide et l'absence",
+      "sourceIPA": "/ty kʁɛ̃ lə silɑ̃s la vid e labsɑ̃s/",
+      "sourceMeaning": "你害怕沉默 空虚与缺席",
+      "speaker": "",
+      "start": 55.714,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 124,
-        "sourceLineNumber": 822,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          812
+        ],
+        "wordCoverage": 0.778
       }
     },
     {
-      "sourceText": "Tomber du haut des sommets où tes rêves",
-      "start": 130,
-      "ipa": "[tɔ̃be dy o de sɔmɛ u te ʁɛv]",
-      "ear": "通贝 迪于 奥 德 索梅 乌 特 赫弗",
-      "meaning": "从梦想把你带上的峰顶",
-      "suppliedText": "tomb tu des som où tes rêves",
-      "sourceLineId": "moliere-timed-823",
+      "sourceLineId": "moliere-le-spectacle-musical-07-014",
+      "sourceLineIndex": 14,
+      "lineIndex": 17,
+      "sourceText": "Qui te ramènent à ton enfance",
+      "ipa": "[ki tə ʁamɛn‿a tɔ̃n‿ɑ̃fɑ̃s]",
+      "ear": "基 特 哈梅恩 阿 通恩 昂芳斯",
+      "meaning": "它们把你带回童年",
+      "suppliedText": "Qui te ramènent à ton enfance",
+      "sourceIPA": "/ki tə ʁamɛnt a tɔ̃n ɑ̃fɑ̃s/",
+      "sourceMeaning": "它们把你带回童年",
+      "speaker": "",
+      "start": 60.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 130,
-        "sourceLineNumber": 823,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          813
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "T'ont porté. Tu finiras par sombrer, sombrer, sombrer à trop vouloir",
-      "start": 135,
-      "ipa": "[tɔ̃ pɔʁte ty finiʁa paʁ sɔ̃bʁe sɔ̃bʁe sɔ̃bʁe a tʁo vulwaʁ]",
-      "ear": "通 珀赫特 蒂于 菲尼哈 帕赫 松布赫 松布赫 松布赫 阿 特霍 乌勒乌阿赫",
-      "meaning": "坠落。你终将沉没，沉没，沉没，因为你太渴望",
-      "suppliedText": "t tu finiras pas sombr sombr sombré à trop vouloir",
-      "sourceLineId": "moliere-timed-824",
+      "sourceLineId": "moliere-le-spectacle-musical-07-015",
+      "sourceLineIndex": 15,
+      "lineIndex": 18,
+      "sourceText": "Faut que t'avances pour donner un sens",
+      "ipa": "[fo kə tavɑ̃s puʁ dɔne œ̃ sɑ̃s]",
+      "ear": "佛 克 塔旺斯 普赫 多内 恩 桑斯",
+      "meaning": "必须挺身前行 为赋予意义",
+      "suppliedText": "Faut que t'avances pour donner un sens",
+      "sourceIPA": "/fo kə tavɑ̃s puʁ dɔne œ̃ sɑ̃s/",
+      "sourceMeaning": "必须挺身前行 为赋予意义",
+      "speaker": "",
+      "start": 62.625,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 135,
-        "sourceLineNumber": 824,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          813
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Briller d'orgueil et de vanité. Tomber,",
-      "start": 144,
-      "ipa": "[bʁije dɔʁɡœj e də vanite tɔ̃be]",
-      "ear": "布希耶诶 多赫格厄耶 诶 德 瓦尼特 通贝",
-      "meaning": "在骄傲与虚荣中闪耀。坠落，",
-      "suppliedText": "prorgueil deé tomber",
-      "sourceLineId": "moliere-timed-825",
+      "sourceLineId": "moliere-le-spectacle-musical-07-016",
+      "sourceLineIndex": 16,
+      "lineIndex": 19,
+      "sourceText": "À ta vaine existence",
+      "ipa": "[a ta vɛn‿ɛɡzistɑ̃s]",
+      "ear": "阿 塔 韦恩 艾格齐斯唐斯",
+      "meaning": "让你空虚的人生有意义。",
+      "suppliedText": "À ta vaine existence",
+      "sourceIPA": "/a ta vɛn ɛɡzistɑ̃s/",
+      "sourceMeaning": "摆脱你生命的虚妄",
+      "speaker": "",
+      "start": 66.125,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 144,
-        "sourceLineNumber": 825,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          813,
+          814
+        ],
+        "wordCoverage": 0.5
       }
     },
     {
-      "sourceText": "Tomber, sombrer, tomber, tomber, tomber.",
-      "start": 153,
-      "ipa": "[tɔ̃be sɔ̃bʁe tɔ̃be tɔ̃be tɔ̃be]",
-      "ear": "通贝 松布赫 通贝 通贝 通贝",
-      "meaning": "坠落，沉没，坠落，坠落，坠落。",
-      "suppliedText": "tomber som tomber tomber tomb",
-      "sourceLineId": "moliere-timed-826",
+      "sourceLineId": "moliere-le-spectacle-musical-07-017",
+      "sourceLineIndex": 17,
+      "lineIndex": 20,
+      "sourceText": "Mais pour effacer ce maudit passé",
+      "ipa": "[mɛ puʁ‿efase sə modi pase]",
+      "ear": "梅 普赫 诶法塞 瑟 莫迪 帕塞",
+      "meaning": "但若要抹去 被诅咒的过去",
+      "suppliedText": "Mais pour effacer ce maudit passé",
+      "sourceIPA": "/mɛ puʁ efase sə modi pase/",
+      "sourceMeaning": "但若要抹去 被诅咒的过去",
+      "speaker": "",
+      "start": 67.643,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 153,
-        "sourceLineNumber": 826,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          814
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-018",
+      "sourceLineIndex": 18,
+      "lineIndex": 21,
+      "sourceText": "Tu as besoin d'exister",
+      "ipa": "[ty a bəzwɛ̃ dɛɡziste]",
+      "ear": "蒂于 阿 伯兹乌安 戴格齐斯特",
+      "meaning": "你想要的是“存在”",
+      "suppliedText": "Tu as besoin d'exister",
+      "sourceIPA": "/ty a bəzwɛ̃ dɛɡziste/",
+      "sourceMeaning": "你想要的是“存在”",
+      "speaker": "",
+      "start": 71.5,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          814
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-019",
+      "sourceLineIndex": 19,
+      "lineIndex": 22,
+      "sourceText": "Tu veux du succès, tes amours pressés",
+      "ipa": "[ty vø dy syksɛ tez‿amuʁ pʁɛse]",
+      "ear": "蒂于 弗厄 迪于 西于克塞 特兹 阿穆赫 普赫塞",
+      "meaning": "你想要成功，想要匆忙的爱情。",
+      "suppliedText": "Tu veux du succès, tes amours pressés",
+      "sourceIPA": "/ty vø dy syksɛ tez amuʁ pʁɛse/",
+      "sourceMeaning": "你想要功成名就 爱慕接踵而至",
+      "speaker": "",
+      "start": 74.714,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          814
+        ],
+        "wordCoverage": 0.429
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-020",
+      "sourceLineIndex": 20,
+      "lineIndex": 23,
+      "sourceText": "Tu n'en as jamais assez",
+      "ipa": "[ty nɑ̃ a ʒamɛ ase]",
+      "ear": "蒂于 南 阿 扎梅 阿塞",
+      "meaning": "你的野望总填不满",
+      "suppliedText": "Tu n'en a jamais assez",
+      "sourceIPA": "/ty nɑ̃n a ʒamɛz ase/",
+      "sourceMeaning": "你的野望总填不满",
+      "speaker": "",
+      "start": 76.667,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          815
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-021",
+      "sourceLineIndex": 21,
+      "lineIndex": 24,
+      "sourceText": "Tu finiras par tomber, tomber, tomber",
+      "ipa": "[ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be]",
+      "ear": "蒂于 菲尼哈 帕赫 通贝 通贝 通贝",
+      "meaning": "你终将会落坠 落坠 落坠",
+      "suppliedText": "Tu finiras par tomber, tomber, tomber",
+      "sourceIPA": "/ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be/",
+      "sourceMeaning": "你终将会落坠 落坠 落坠",
+      "speaker": "",
+      "start": 80.667,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          815,
+          816
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-022",
+      "sourceLineIndex": 22,
+      "lineIndex": 25,
+      "sourceText": "Du haut des sommets où tes rêves t'ont porté",
+      "ipa": "[dy o de sɔmɛ u te ʁɛv tɔ̃ pɔʁte]",
+      "ear": "迪于 奥 德 索梅 乌 特 赫弗 通 珀赫特",
+      "meaning": "从梦想带你登上的巅峰之上",
+      "suppliedText": "Du haut des sommets où tes rêves t'ont porté",
+      "sourceIPA": "/dy o de sɔmɛz u te ʁɛv tɔ̃ pɔʁte/",
+      "sourceMeaning": "从梦想带你登上的巅峰之上",
+      "speaker": "",
+      "start": 84.545,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          816
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-023",
+      "sourceLineIndex": 23,
+      "lineIndex": 26,
+      "sourceText": "Tu finiras par sombrer, sombrer, sombrer",
+      "ipa": "[ty finiʁa paʁ sɔ̃bʁe sɔ̃bʁe sɔ̃bʁe]",
+      "ear": "蒂于 菲尼哈 帕赫 松布赫 松布赫 松布赫",
+      "meaning": "你终将会沉沦 沉沦 沉沦",
+      "suppliedText": "Tu finiras par sombrer, sombrer, sombrer",
+      "sourceIPA": "/ty finiʁa paʁ sɔ̃bʁe sɔ̃bʁe sɔ̃bʁe/",
+      "sourceMeaning": "你终将会沉沦 沉沦 沉沦",
+      "speaker": "",
+      "start": 90.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          817
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-024",
+      "sourceLineIndex": 24,
+      "lineIndex": 27,
+      "sourceText": "À trop vouloir briller, tomber, tomber, tomber",
+      "ipa": "[a tʁo vulwaʁ bʁije tɔ̃be tɔ̃be tɔ̃be]",
+      "ear": "阿 特霍 乌勒乌阿赫 布希耶诶 通贝 通贝 通贝",
+      "meaning": "只因太想闪耀，你会坠落 坠落 坠落",
+      "suppliedText": "À trop vouloir briller, tomber, tomber, tomber",
+      "sourceIPA": "/a tʁo vulwaʁ bʁije tɔ̃be tɔ̃be tɔ̃be/",
+      "sourceMeaning": "只因太想闪耀，你会坠落 坠落 坠落",
+      "speaker": "",
+      "start": 95.5,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          817,
+          818
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-025-a",
+      "sourceLineIndex": 25,
+      "lineIndex": 28,
+      "sourceText": "Ça fait longtemps",
+      "ipa": "[sa fɛ lɔ̃tɑ̃]",
+      "ear": "萨 费 隆唐",
+      "meaning": "已经很久",
+      "suppliedText": "Ça fait longtemps",
+      "sourceIPA": "/sa fɛ lɔ̃tɑ̃/",
+      "sourceMeaning": "已经很久",
+      "speaker": "",
+      "start": 101.438,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          818
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-025-b",
+      "sourceLineIndex": 25,
+      "lineIndex": 29,
+      "sourceText": "Que tu n'entends",
+      "ipa": "[kə ty nɑ̃tɑ̃]",
+      "ear": "克 蒂于 南唐",
+      "meaning": "你再也听不见",
+      "suppliedText": "Que tu n'entends",
+      "sourceIPA": "/kə ty nɑ̃tɑ̃/",
+      "sourceMeaning": "你再也听不见",
+      "speaker": "",
+      "start": 102.75,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          818
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-026",
+      "sourceLineIndex": 26,
+      "lineIndex": 30,
+      "sourceText": "Plus le son de ta raison",
+      "ipa": "[ply lə sɔ̃ də ta ʁɛzɔ̃]",
+      "ear": "普吕 勒 松 德 塔 赫宗",
+      "meaning": "内心理智的呼唤",
+      "suppliedText": "Plus le son de ta raison",
+      "sourceIPA": "/ply lə sɔ̃ də ta ʁɛzɔ̃/",
+      "sourceMeaning": "内心理智的呼唤",
+      "speaker": "",
+      "start": 104.5,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          818
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-027",
+      "sourceLineIndex": 27,
+      "lineIndex": 31,
+      "sourceText": "Mais tu sais pourtant, que l'ambition",
+      "ipa": "[mɛ ty sɛ puʁtɑ̃ kə lɑ̃bisjɔ̃]",
+      "ear": "梅 蒂于 塞 普赫唐 克 朗比斯耶翁",
+      "meaning": "可你明明知道，野心",
+      "suppliedText": "Mais tu sais pourtant, que l'ambition",
+      "sourceIPA": "/mɛ ty sɛ puʁtɑ̃ kə lɑ̃bisjɔ̃/",
+      "sourceMeaning": "可你也知道 你的奢求",
+      "speaker": "",
+      "start": 107.125,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          818,
+          819
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-028",
+      "sourceLineIndex": 28,
+      "lineIndex": 32,
+      "sourceText": "Est devenue ta prison",
+      "ipa": "[ɛ dəvny ta pʁizɔ̃]",
+      "ear": "艾 德弗尼于 塔 普希宗",
+      "meaning": "已成为你的牢狱",
+      "suppliedText": "Est devenue ta prison",
+      "sourceIPA": "/ɛ dəvny ta pʁizɔ̃/",
+      "sourceMeaning": "已成为你的牢狱",
+      "speaker": "",
+      "start": 109.905,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          819
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-029",
+      "sourceLineIndex": 29,
+      "lineIndex": 33,
+      "sourceText": "Tu cours et tu cours sans jamais faire de détours",
+      "ipa": "[ty kuʁ e ty kuʁ sɑ̃ ʒamɛ fɛʁ də detuʁ]",
+      "ear": "蒂于 库赫 诶 蒂于 库赫 桑 扎梅 费赫 德 德图赫",
+      "meaning": "你追逐 你追逐 从不绕任何弯路",
+      "suppliedText": "Tu cours et tu cours sans jamais faire de détours",
+      "sourceIPA": "/ty kuʁz e ty kuʁ sɑ̃ ʒamɛ fɛʁ də detuʁ/",
+      "sourceMeaning": "你追逐 你追逐 从不绕任何弯路",
+      "speaker": "",
+      "start": 111.429,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          819
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-030",
+      "sourceLineIndex": 30,
+      "lineIndex": 34,
+      "sourceText": "Dans la même direction",
+      "ipa": "[dɑ̃ la mɛm diʁɛksjɔ̃]",
+      "ear": "当 拉 梅姆 迪赫克斯耶翁",
+      "meaning": "咬紧同一个方向",
+      "suppliedText": "Dans la même direction",
+      "sourceIPA": "/dɑ̃ la mɛm diʁɛksjɔ̃/",
+      "sourceMeaning": "咬紧同一个方向",
+      "speaker": "",
+      "start": 115.238,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          819,
+          821
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-031",
+      "sourceLineIndex": 31,
+      "lineIndex": 35,
+      "sourceText": "Encore et toujours Ce terrible parcours",
+      "ipa": "[ɑ̃kɔʁ e tuʒuʁ sə tɛʁibl paʁkuʁ]",
+      "ear": "昂科赫 诶 图茹赫 瑟 泰希布勒 帕赫库赫",
+      "meaning": "一而再 再而三 踏上这骇人征途",
+      "suppliedText": "Encore et toujours Ce terrible parcours",
+      "sourceIPA": "/ɑ̃kɔʁ e tuʒuʁ sə tɛʁibl paʁkuʁ/",
+      "sourceMeaning": "一而再 再而三 踏上这骇人征途",
+      "speaker": "",
+      "start": 118.4,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          821
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-032",
+      "sourceLineIndex": 32,
+      "lineIndex": 36,
+      "sourceText": "Jusqu'à l'obsession",
+      "ipa": "[ʒyska lɔbsɛsjɔ̃]",
+      "ear": "日于斯卡 洛布塞斯耶翁",
+      "meaning": "直到走火入魔",
+      "suppliedText": "Jusqu'à l'obsession",
+      "sourceIPA": "/ʒyska lɔbsɛsjɔ̃/",
+      "sourceMeaning": "直到走火入魔",
+      "speaker": "",
+      "start": 122.6,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          821,
+          822
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-033",
+      "sourceLineIndex": 33,
+      "lineIndex": 37,
+      "sourceText": "Tu finiras par tomber, tomber, tomber",
+      "ipa": "[ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be]",
+      "ear": "蒂于 菲尼哈 帕赫 通贝 通贝 通贝",
+      "meaning": "你终将会落坠 落坠 落坠",
+      "suppliedText": "Tu finiras par tomber, tomber, tomber",
+      "sourceIPA": "/ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be/",
+      "sourceMeaning": "你终将会落坠 落坠 落坠",
+      "speaker": "",
+      "start": 125.714,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          822,
+          823
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-034",
+      "sourceLineIndex": 34,
+      "lineIndex": 38,
+      "sourceText": "Du haut des sommets où tes rêves t'ont porté",
+      "ipa": "[dy o de sɔmɛ u te ʁɛv tɔ̃ pɔʁte]",
+      "ear": "迪于 奥 德 索梅 乌 特 赫弗 通 珀赫特",
+      "meaning": "从梦想带你登上的巅峰之上",
+      "suppliedText": "Du haut des sommets où tes rêves t'ont porté",
+      "sourceIPA": "/dy o de sɔmɛz u te ʁɛv tɔ̃ pɔʁte/",
+      "sourceMeaning": "从梦想带你登上的巅峰之上",
+      "speaker": "",
+      "start": 130.625,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          823,
+          824
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-035",
+      "sourceLineIndex": 35,
+      "lineIndex": 39,
+      "sourceText": "Tu finiras par sombrer, sombrer, sombrer",
+      "ipa": "[ty finiʁa paʁ sɔ̃bʁe sɔ̃bʁe sɔ̃bʁe]",
+      "ear": "蒂于 菲尼哈 帕赫 松布赫 松布赫 松布赫",
+      "meaning": "你终将会沉沦 沉沦 沉沦",
+      "suppliedText": "Tu finiras par sombrer, sombrer, sombrer",
+      "sourceIPA": "/ty finiʁa paʁ sɔ̃bʁe sɔ̃bʁe sɔ̃bʁe/",
+      "sourceMeaning": "你终将会沉沦 沉沦 沉沦",
+      "speaker": "",
+      "start": 137.25,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          824
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-036-a",
+      "sourceLineIndex": 36,
+      "lineIndex": 40,
+      "sourceText": "À trop vouloir briller",
+      "ipa": "[a tʁo vulwaʁ bʁije]",
+      "ear": "阿 特霍 乌勒乌阿赫 布希耶诶",
+      "meaning": "一味追求闪耀",
+      "suppliedText": "À trop vouloir briller",
+      "sourceIPA": "/a tʁo vulwaʁ bʁije/",
+      "sourceMeaning": "一味追求闪耀",
+      "speaker": "",
+      "start": 141.75,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          824,
+          825
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-036-b",
+      "sourceLineIndex": 36,
+      "lineIndex": 41,
+      "sourceText": "D'orgueil et de vanité",
+      "ipa": "[dɔʁɡœj e də vanite]",
+      "ear": "多赫格厄耶 诶 德 瓦尼特",
+      "meaning": "满是傲慢与虚荣",
+      "suppliedText": "D'orgueil et de vanité",
+      "sourceIPA": "/dɔʁɡœj e də vanite/",
+      "sourceMeaning": "满是傲慢与虚荣",
+      "speaker": "",
+      "start": 145.286,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          825
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-037",
+      "sourceLineIndex": 37,
+      "lineIndex": 42,
+      "sourceText": "Tu finiras par tomber, tomber, tomber",
+      "ipa": "[ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be]",
+      "ear": "蒂于 菲尼哈 帕赫 通贝 通贝 通贝",
+      "meaning": "你终将会落坠 落坠 落坠",
+      "suppliedText": "Tu finiras par tomber, tomber, tomber",
+      "sourceIPA": "/ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be/",
+      "sourceMeaning": "你终将会落坠 落坠 落坠",
+      "speaker": "",
+      "start": 150.429,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          825,
+          826
+        ],
+        "wordCoverage": 0.667
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-039",
+      "sourceLineIndex": 39,
+      "lineIndex": 44,
+      "sourceText": "Tu finiras par sombrer, sombrer, sombrer",
+      "ipa": "[ty finiʁa paʁ sɔ̃bʁe sɔ̃bʁe sɔ̃bʁe]",
+      "ear": "蒂于 菲尼哈 帕赫 松布赫 松布赫 松布赫",
+      "meaning": "你终将会沉沦 沉沦 沉沦",
+      "suppliedText": "Tu finiras par sombrer, sombrer, sombrer",
+      "sourceIPA": "/ty finiʁa paʁ sɔ̃bʁe sɔ̃bʁe sɔ̃bʁe/",
+      "sourceMeaning": "你终将会沉沦 沉沦 沉沦",
+      "speaker": "",
+      "start": 153.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          826
+        ],
+        "wordCoverage": 0.667
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-07-040",
+      "sourceLineIndex": 40,
+      "lineIndex": 45,
+      "sourceText": "À trop vouloir briller, tomber, tomber, tomber",
+      "ipa": "[a tʁo vulwaʁ bʁije tɔ̃be tɔ̃be tɔ̃be]",
+      "ear": "阿 特霍 乌勒乌阿赫 布希耶诶 通贝 通贝 通贝",
+      "meaning": "只因太想闪耀，你会坠落 坠落 坠落",
+      "suppliedText": "À trop vouloir briller, tomber, tomber, tomber",
+      "sourceIPA": "/a tʁo vulwaʁ bʁije tɔ̃be tɔ̃be tɔ̃be/",
+      "sourceMeaning": "只因太想闪耀，你会坠落 坠落 坠落",
+      "speaker": "",
+      "start": 155.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          826
+        ],
+        "wordCoverage": 0.714
       }
     }
-  ],
-  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+  ]
 }

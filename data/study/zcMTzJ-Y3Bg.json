@@ -1,246 +1,726 @@
 {
   "videoId": "zcMTzJ-Y3Bg",
   "playbackVideoId": "zcMTzJ-Y3Bg",
-  "version": 2,
-  "textSource": "user-supplied-auto-transcript",
-  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "spelling-and-grammar-edits",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "sourceFileSHA256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134",
+  "textReviewStatus": "cross-checked",
+  "textReviewScope": "supplied-lyrics-spelling-grammar-and-chinese-meaning",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
-  "meaningSource": "editorial-chinese-from-user-transcript",
-  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
+  "meaningSource": "reviewed-user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "note": "歌词依据你提供的完整文件校对，中文释义已修订。学习卡片按现有现场录像整理，完整歌词另行归档；≈ 表示依据原字幕估算的分句位置。音标与空耳为文字的参考读法。",
   "sources": [
     {
-      "label": "本段原唱录像",
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+    },
+    {
+      "label": "本曲现场录像",
       "url": "https://www.youtube.com/watch?v=zcMTzJ-Y3Bg"
     }
   ],
   "entries": [
     {
-      "sourceText": "Jean-Baptiste, mon enfant, ton silence m'inquiète. Cela fait longtemps que je n'ai eu la moindre lettre. On dit que d'Épernon, la Guyenne s'est défaite.",
-      "start": 7,
-      "ipa": "[ʒɑ̃batist mɔ̃n‿ɑ̃fɑ̃ tɔ̃ silɑ̃s mɛ̃kjɛt səla fɛ lɔ̃tɑ̃ kə ʒə ne y la mwɛ̃dʁ lɛtʁ ɔ̃ di kə depɛʁnɔ̃ la ɡɥijɛn sɛ defɛt]",
-      "ear": "让巴蒂斯特 蒙恩 昂芳 通 西朗斯 曼克耶艾特 瑟拉 费 隆唐 克 热 内 于 拉 姆乌安德赫 莱特赫 翁 迪 克 德佩赫农 拉 格于伊耶艾恩 塞 德费特",
-      "meaning": "让-巴蒂斯特，我的孩子，你的沉默让我担心。很久没收到你的信了，听说吉耶讷已摆脱埃佩尔农。",
-      "suppliedText": "Jean-Baptiste, mon enfant, ton silence m'inquiète. Cela fait longtemps que je n'ai eu la moindre lettre. On dit que des pernant la cuillenne s'est défaite.",
-      "sourceLineId": "moliere-timed-177",
+      "sourceLineId": "moliere-le-spectacle-musical-14-001",
+      "sourceLineIndex": 1,
+      "lineIndex": 1,
+      "sourceText": "Jean-Baptiste, mon enfant, ton silence m'inquiète",
+      "ipa": "[ʒɑ̃batist mɔ̃n‿ɑ̃fɑ̃ tɔ̃ silɑ̃s mɛ̃kjɛt]",
+      "ear": "让巴蒂斯特 蒙恩 昂芳 通 西朗斯 曼克耶艾特",
+      "meaning": "让-巴蒂斯特吾儿 你不声不响让我忧心",
+      "suppliedText": "Jean-Baptiste, mon enfant, ton silence m'inquiète",
+      "sourceIPA": "/ʒɑ̃batist mɔ̃n ɑ̃fɑ̃ tɔ̃ silɑ̃s mɛ̃kjɛt/",
+      "sourceMeaning": "让-巴蒂斯特吾儿 你不声不响让我忧心",
+      "speaker": "",
+      "start": 7.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 7,
-        "sourceLineNumber": 177,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          177
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Mazarin l'a contraint à la retraite. Père, je vous supplie de ne…",
-      "start": 18,
-      "ipa": "[mazaʁɛ̃ la kɔ̃tʁɛ̃ a la ʁətʁɛt pɛʁ ʒə vu sypli də nə]",
-      "ear": "玛扎汉 拉 孔特汉 阿 拉 赫特赫特 佩赫 热 乌 西于普利 德 讷",
-      "meaning": "马扎然迫使他退位。——父亲，求您不要……",
-      "suppliedText": "Mazarin la contre à la retraite. Père, je vous supplie de ne",
-      "sourceLineId": "moliere-timed-178",
+      "sourceLineId": "moliere-le-spectacle-musical-14-002",
+      "sourceLineIndex": 2,
+      "lineIndex": 2,
+      "sourceText": "Cela fait longtemps que je n'ai eu la moindre lettre",
+      "ipa": "[səla fɛ lɔ̃tɑ̃ kə ʒə ne y la mwɛ̃dʁ lɛtʁ]",
+      "ear": "瑟拉 费 隆唐 克 热 内 于 拉 姆乌安德赫 莱特赫",
+      "meaning": "已过许久 我不曾收到过你一封来信",
+      "suppliedText": "Cela fait longtemps que je n'ai eu la moindre lettre",
+      "sourceIPA": "/səla fɛ lɔ̃tɑ̃ kə ʒə ne y la mwɛ̃dʁ lɛtʁ/",
+      "sourceMeaning": "已过许久 我不曾收到过你一封来信",
+      "speaker": "",
+      "start": 10.034,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 18,
-        "sourceLineNumber": 178,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          177
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Pas vous tourmenter. Il n'y a aucune raison de vous inquiéter. Depuis que",
-      "start": 27,
-      "ipa": "[pa vu tuʁmɑ̃te il ni a okyn ʁɛzɔ̃ də vuz‿ɛ̃kjete dəpɥi kə]",
-      "ear": "帕 乌 图赫芒特 伊勒 尼 阿 奥基于恩 赫宗 德 乌兹 安克耶诶特 德普于伊 克",
-      "meaning": "忧虑，没有理由担心。自从……",
-      "suppliedText": "pas vous tourmenter. Il n'y a aucune raison de vous inquiéter. Depuis que",
-      "sourceLineId": "moliere-timed-179",
+      "sourceLineId": "moliere-le-spectacle-musical-14-003",
+      "sourceLineIndex": 3,
+      "lineIndex": 3,
+      "sourceText": "On dit que d'Épernon, la Guyenne s'est défaite",
+      "ipa": "[ɔ̃ di kə depɛʁnɔ̃ la ɡɥijɛn sɛ defɛt]",
+      "ear": "翁 迪 克 德佩赫农 拉 格于伊耶艾恩 塞 德费特",
+      "meaning": "听说吉耶纳摆脱了埃佩尔农的统治。",
+      "suppliedText": "On dit que d'Épernon, la Guyenne s'est défaite",
+      "sourceIPA": "/ɔ̃ di kə depɛʁnɔ̃ la ɡyijɛn sɛ defɛt/",
+      "sourceMeaning": "有人说 埃佩尔农公爵治下的吉耶纳已经落败",
+      "speaker": "",
+      "start": 14.207,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 27,
-        "sourceLineNumber": 179,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          177
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "D'Épernon nous a libérés, nous courons de succès en succès.",
-      "start": 33,
-      "ipa": "[depɛʁnɔ̃ nuz‿a libeʁe nu kuʁɔ̃ də syksɛ ɑ̃ syksɛ]",
-      "ear": "德佩赫农 努兹 阿 利贝赫 努 库洪 德 西于克塞 昂 西于克塞",
-      "meaning": "离开埃佩尔农，我们接连取得成功。",
-      "suppliedText": "pernant nous a libéré, nous courons de succès en succès.",
-      "sourceLineId": "moliere-timed-180",
+      "sourceLineId": "moliere-le-spectacle-musical-14-004",
+      "sourceLineIndex": 4,
+      "lineIndex": 4,
+      "sourceText": "Mazarin l'a contraint à la retraite",
+      "ipa": "[mazaʁɛ̃ la kɔ̃tʁɛ̃ a la ʁətʁɛt]",
+      "ear": "玛扎汉 拉 孔特汉 阿 拉 赫特赫特",
+      "meaning": "马扎然已将他逼下台",
+      "suppliedText": "Mazarin l'a contraint à la retraite",
+      "sourceIPA": "/mazaʁɛ̃ la kɔ̃tʁɛ̃ a la ʁətʁɛt/",
+      "sourceMeaning": "马扎然已将他逼下台",
+      "speaker": "",
+      "start": 18.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 33,
-        "sourceLineNumber": 180,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          178
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Mais tu n'as jamais… J'aurais…",
-      "start": 43,
-      "ipa": "[mɛ ty na ʒamɛ ʒoʁɛ]",
-      "ear": "梅 蒂于 纳 扎梅 若赫",
-      "meaning": "但你从未……我多么希望……",
-      "suppliedText": "Mais tu n'as jamais d'essayer j'aurais",
-      "sourceLineId": "moliere-timed-182",
+      "sourceLineId": "moliere-le-spectacle-musical-14-005",
+      "sourceLineIndex": 5,
+      "lineIndex": 5,
+      "sourceText": "Père, je vous supplie de ne pas vous tourmenter",
+      "ipa": "[pɛʁ ʒə vu sypli də nə pa vu tuʁmɑ̃te]",
+      "ear": "佩赫 热 乌 西于普利 德 讷 帕 乌 图赫芒特",
+      "meaning": "爸 我恳求您 请别再发愁",
+      "suppliedText": "Père, je vous supplie de ne pas vous tourmenter",
+      "sourceIPA": "/pɛʁ ʒə vu sypli də nə pa vu tuʁmɑ̃te/",
+      "sourceMeaning": "爸 我恳求您 请别再发愁",
+      "speaker": "",
+      "start": 22.846,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 43,
-        "sourceLineNumber": 182,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          178,
+          179
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tant aimé… mais tu avais tant de rêves trop grands pour trouver le",
-      "start": 49,
-      "ipa": "[tɑ̃ ɛme mɛ ty avɛ tɑ̃ də ʁɛv tʁo ɡʁɑ̃ puʁ tʁuve lə]",
-      "ear": "唐 艾梅 梅 蒂于 阿韦 唐 德 赫弗 特霍 格杭 普赫 特胡韦 勒",
-      "meaning": "……你有太多宏大的梦，找不到……",
-      "suppliedText": "tantôé mais tu avais tenté tant de rêve trop grand pour trouver le",
-      "sourceLineId": "moliere-timed-183",
+      "sourceLineId": "moliere-le-spectacle-musical-14-006",
+      "sourceLineIndex": 6,
+      "lineIndex": 6,
+      "sourceText": "Il n'y a aucune raison de vous inquiéter",
+      "ipa": "[il ni a okyn ʁɛzɔ̃ də vuz‿ɛ̃kjete]",
+      "ear": "伊勒 尼 阿 奥基于恩 赫宗 德 乌兹 安克耶诶特",
+      "meaning": "没有丝毫理由 值得您去担忧",
+      "suppliedText": "Il n'y a aucune raison de vous inquiéter",
+      "sourceIPA": "/il ni a okyn ʁɛzɔ̃ də vuz ɛ̃kjete/",
+      "sourceMeaning": "没有丝毫理由 值得您去担忧",
+      "speaker": "",
+      "start": 28.286,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 49,
-        "sourceLineNumber": 183,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          179
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Temps de demander pardon.",
-      "start": 58,
-      "ipa": "[tɑ̃ də dəmɑ̃de paʁdɔ̃]",
-      "ear": "唐 德 德芒德 帕赫东",
-      "meaning": "请求原谅的时间。",
-      "suppliedText": "temps de demander pardon.",
-      "sourceLineId": "moliere-timed-184",
+      "sourceLineId": "moliere-le-spectacle-musical-14-007",
+      "sourceLineIndex": 7,
+      "lineIndex": 7,
+      "sourceText": "Depuis qu'Épernon nous a libérés",
+      "ipa": "[dəpɥi kepɛʁnɔ̃ nuz‿a libeʁe]",
+      "ear": "德普于伊 克佩赫农 努兹 阿 利贝赫",
+      "meaning": "自从埃佩尔农将我们放走",
+      "suppliedText": "Depuis qu'Épernon nous a libérés",
+      "sourceIPA": "/dəpɥi kepɛʁnɔ̃ nuz a libeʁe/",
+      "sourceMeaning": "自从埃佩尔农将我们放走",
+      "speaker": "",
+      "start": 32.143,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 58,
-        "sourceLineNumber": 184,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          179,
+          180
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Non, je ne crois pas à ce que tu m'écris. Tu cours l'échec tel que je l'ai prédit. Tu n'as jamais été capable",
-      "start": 64,
-      "ipa": "[nɔ̃ ʒə nə kʁwa pa a sə kə ty mekʁi ty kuʁ leʃɛk tɛl kə ʒə le pʁedi ty na ʒamɛ ete kapabl]",
-      "ear": "农 热 讷 克赫乌阿 帕 阿 瑟 克 蒂于 梅克希 蒂于 库赫 莱谢克 泰勒 克 热 莱 普赫迪 蒂于 纳 扎梅 诶特 卡帕布勒",
-      "meaning": "不，我不信你信里写的话。正如我预言，你会失败，你从来不能……",
-      "suppliedText": "Non, je ne crois pas à ce que tu m'écris. Tu cours l'échec tel que je l'ai prédit. Tu n'as jamais été capable",
-      "sourceLineId": "moliere-timed-185",
+      "sourceLineId": "moliere-le-spectacle-musical-14-008",
+      "sourceLineIndex": 8,
+      "lineIndex": 8,
+      "sourceText": "Nous courons de succès en succès",
+      "ipa": "[nu kuʁɔ̃ də syksɛ ɑ̃ syksɛ]",
+      "ear": "努 库洪 德 西于克塞 昂 西于克塞",
+      "meaning": "我们接二连三地成功着",
+      "suppliedText": "Nous courons de succès en succès",
+      "sourceIPA": "/nu kuʁɔ̃ də syksɛ ɑ̃ syksɛ/",
+      "sourceMeaning": "我们接二连三地成功着",
+      "speaker": "",
+      "start": 36.636,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 64,
-        "sourceLineNumber": 185,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          180
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "De t'assumer. Renonce à tes chimères et viens me retrouver. J'aimerais tellement",
-      "start": 74,
-      "ipa": "[də tasyme ʁənɔ̃s‿a te ʃimɛʁ e vjɛ̃ mə ʁətʁuve ʒɛmʁɛ tɛlmɑ̃]",
-      "ear": "德 塔西于梅 赫农斯 阿 特 希梅赫 诶 弗耶安 默 赫特胡韦 热姆赫 泰勒芒",
-      "meaning": "独立承担生活。放弃幻想，回到我身边。——我多么想……",
-      "suppliedText": "de t'assumer. Renonce à tes chimères et viens me retrouver. J'aimerais tellement",
-      "sourceLineId": "moliere-timed-186",
+      "sourceLineId": "moliere-le-spectacle-musical-14-009",
+      "sourceLineIndex": 9,
+      "lineIndex": 9,
+      "sourceText": "Tu ne m'as jamais... (J'ai pourtant essayé)",
+      "ipa": "[ty nə ma ʒamɛ ʒe puʁtɑ̃ esɛje]",
+      "ear": "蒂于 讷 玛 扎梅 热 普赫唐 诶塞耶诶",
+      "meaning": "你不曾向我……（我也努力试过……）",
+      "suppliedText": "Tu ne m'as jamais... (J'ai pourtant essayé)",
+      "sourceIPA": "/ty nə ma ʒamɛ ʒe puʁtɑ̃ esɛje/",
+      "sourceMeaning": "你不曾向我……（我也努力试过……）",
+      "speaker": "",
+      "start": 43.857,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 74,
-        "sourceLineNumber": 186,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          182
+        ],
+        "wordCoverage": 0.667
       }
     },
     {
-      "sourceText": "Briser ta défiance, de prouver que je mérite ta confiance mais tu ne m'as jamais donné l'occasion de te révéler.",
-      "start": 80,
-      "ipa": "[bʁize ta defjɑ̃s də pʁuve kə ʒə meʁit ta kɔ̃fjɑ̃s mɛ ty nə ma ʒamɛ dɔne lɔkazjɔ̃ də tə ʁevele]",
-      "ear": "布希泽 塔 德弗耶昂斯 德 普胡韦 克 热 梅希特 塔 孔弗耶昂斯 梅 蒂于 讷 玛 扎梅 多内 洛卡兹耶翁 德 特 赫韦莱",
-      "meaning": "打破您的不信任，证明我值得您信任，可您从未给我机会，让我说出……",
-      "suppliedText": "briser ta défiance, de prouver que je mérite ta confiance mais tu ne m'as jamais donné l'occasion de te révéler.",
-      "sourceLineId": "moliere-timed-187",
+      "sourceLineId": "moliere-le-spectacle-musical-14-010",
+      "sourceLineIndex": 10,
+      "lineIndex": 10,
+      "sourceText": "J'aurais tant aimé... (Tu n'm'as pas écouté...)",
+      "ipa": "[ʒoʁɛ tɑ̃ ɛme ty nə ma pa ekute]",
+      "ear": "若赫 唐 艾梅 蒂于 讷 玛 帕 诶库特",
+      "meaning": "我原本多么希望……（你没有听我说……）",
+      "suppliedText": "J'aurais tant aimé... (Tu n'm'as pas écouté...)",
+      "sourceIPA": "/ʒoʁɛ tɑ̃t ɛme ty ɛnmaz paz ekute/",
+      "sourceMeaning": "我原本多希望……（你不曾倾听我……）",
+      "speaker": "",
+      "start": 47.286,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 80,
-        "sourceLineNumber": 187,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          182,
+          183
+        ],
+        "wordCoverage": 0.7
       }
     },
     {
-      "sourceText": "Ma passion. Mais tu n'as jamais… J'aurais…",
-      "start": 92,
-      "ipa": "[ma pasjɔ̃ mɛ ty na ʒamɛ ʒoʁɛ]",
-      "ear": "玛 帕斯耶翁 梅 蒂于 纳 扎梅 若赫",
-      "meaning": "我的热爱。可你从未……我多么希望……",
-      "suppliedText": "ma passion mais tu n'as jamais tant d'essayé j'aurais",
-      "sourceLineId": "moliere-timed-188",
+      "sourceLineId": "moliere-le-spectacle-musical-14-011",
+      "sourceLineIndex": 11,
+      "lineIndex": 11,
+      "sourceText": "Mais tu avais tant et tant",
+      "ipa": "[mɛ ty avɛ tɑ̃ e tɑ̃]",
+      "ear": "梅 蒂于 阿韦 唐 诶 唐",
+      "meaning": "可你有那么多、那么多",
+      "suppliedText": "Mais tu avais tenté tant",
+      "sourceIPA": "/mɛ ty avɛ tɑ̃te tɑ̃/",
+      "sourceMeaning": "但是你已沉醉于梦想",
+      "speaker": "",
+      "start": 50.904,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 92,
-        "sourceLineNumber": 188,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          183
+        ],
+        "wordCoverage": 0.833
       }
     },
     {
-      "sourceText": "Tant… Pas écouté… mais tu avais tant de rêves trop grands pour trouver le",
-      "start": 98,
-      "ipa": "[tɑ̃ pa ekute mɛ ty avɛ tɑ̃ də ʁɛv tʁo ɡʁɑ̃ puʁ tʁuve lə]",
-      "ear": "唐 帕 诶库特 梅 蒂于 阿韦 唐 德 赫弗 特霍 格杭 普赫 特胡韦 勒",
-      "meaning": "……你有太多宏大的梦，找不到……",
-      "suppliedText": "tant pas dégoûter mais tu avais dans des temps de rêve trop grand pour trouver le",
-      "sourceLineId": "moliere-timed-189",
+      "sourceLineId": "moliere-le-spectacle-musical-14-012",
+      "sourceLineIndex": 12,
+      "lineIndex": 12,
+      "sourceText": "De rêves trop grands pour trouver le temps",
+      "ipa": "[də ʁɛv tʁo ɡʁɑ̃ puʁ tʁuve lə tɑ̃]",
+      "ear": "德 赫弗 特霍 格杭 普赫 特胡韦 勒 唐",
+      "meaning": "过于宏大的梦想，找不到时间",
+      "suppliedText": "De rêver trop grand pour trouver le temps",
+      "sourceIPA": "/də ʁɛve tʁo ɡʁɑ̃ puʁ tʁuve lə tɑ̃/",
+      "sourceMeaning": "这梦做得太大 你腾不出时间……",
+      "speaker": "",
+      "start": 53.154,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 98,
-        "sourceLineNumber": 189,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          183,
+          184
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Temps de demander pardon si tu peux pas que je m'isole",
-      "start": 108,
-      "ipa": "[tɑ̃ də dəmɑ̃de paʁdɔ̃ si ty pø pa kə ʒə mizɔl]",
-      "ear": "唐 德 德芒德 帕赫东 西 蒂于 珀厄 帕 克 热 米佐勒",
-      "meaning": "请求原谅的时间……让我独自……",
-      "suppliedText": "temps de demander pardon si tu peux pas que je m'isole",
-      "sourceLineId": "moliere-timed-190",
+      "sourceLineId": "moliere-le-spectacle-musical-14-013",
+      "sourceLineIndex": 13,
+      "lineIndex": 13,
+      "sourceText": "De demander pardon",
+      "ipa": "[də dəmɑ̃de paʁdɔ̃]",
+      "ear": "德 德芒德 帕赫东",
+      "meaning": "来恳求原谅",
+      "suppliedText": "De demander pardon",
+      "sourceIPA": "/də dəmɑ̃de paʁdɔ̃/",
+      "sourceMeaning": "来恳求原谅",
+      "speaker": "",
+      "start": 59.5,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 108,
-        "sourceLineNumber": 190,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          184
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tous les soirs pour écrire des histoires qui je l'espère te rendront fier Car oui, un jour on jouera les pièces de Monsieur Molière.",
-      "start": 116,
-      "ipa": "[tu le swaʁ puʁ‿ekʁiʁ dez‿istwaʁ ki ʒə lɛspɛʁ tə ʁɑ̃dʁɔ̃ fjɛʁ kaʁ wi œ̃ ʒuʁ‿ɔ̃ ʒwʁa le pjɛs də məsjø moljɛʁ]",
-      "ear": "图 莱 斯乌阿赫 普赫 诶克希赫 德兹 伊斯特乌阿赫 基 热 莱斯佩赫 特 杭德洪 弗耶艾赫 卡赫 乌伊 恩 茹赫 翁 日乌哈 莱 普耶艾斯 德 默斯耶厄 莫勒耶艾赫",
-      "meaning": "每晚写故事，希望能让你骄傲。是的，总有一天，人们会上演莫里哀先生的戏。",
-      "suppliedText": "tous les soirs pour écrire des histoires qui je l'espère te rendront fier Car oui, un jour on jouera les pièces de Monsieur Molière.",
-      "sourceLineId": "moliere-timed-191",
+      "sourceLineId": "moliere-le-spectacle-musical-14-014",
+      "sourceLineIndex": 14,
+      "lineIndex": 14,
+      "sourceText": "Non, je ne crois pas à ce que tu m'écris",
+      "ipa": "[nɔ̃ ʒə nə kʁwa pa a sə kə ty mekʁi]",
+      "ear": "农 热 讷 克赫乌阿 帕 阿 瑟 克 蒂于 梅克希",
+      "meaning": "不 你写的都是谎话 我才不会信",
+      "suppliedText": "Non, je ne crois pas à ce que tu m'écris",
+      "sourceIPA": "/nɔ̃ ʒə nə kʁwa paz a sə kə ty mekʁi/",
+      "sourceMeaning": "不 你写的都是谎话 我才不会信",
+      "speaker": "",
+      "start": 64.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 116,
-        "sourceLineNumber": 191,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          185
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-14-015",
+      "sourceLineIndex": 15,
+      "lineIndex": 15,
+      "sourceText": "Tu cours à l'échec tel que je l'ai prédit",
+      "ipa": "[ty kuʁ‿a leʃɛk tɛl kə ʒə le pʁedi]",
+      "ear": "蒂于 库赫 阿 莱谢克 泰勒 克 热 莱 普赫迪",
+      "meaning": "你正走向我预言过的失败。",
+      "suppliedText": "Tu cours à l'échec dès que je l'ai prédit",
+      "sourceIPA": "/ty kuʁz a leʃɛk dɛ kə ʒə le pʁedi/",
+      "sourceMeaning": "你的失败 从我预言的那刻 就已注定",
+      "speaker": "",
+      "start": 68.074,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          185
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-14-016",
+      "sourceLineIndex": 16,
+      "lineIndex": 16,
+      "sourceText": "Tu n'as jamais été capable de t'assumer",
+      "ipa": "[ty na ʒamɛ ete kapabl də tasyme]",
+      "ear": "蒂于 纳 扎梅 诶特 卡帕布勒 德 塔西于梅",
+      "meaning": "你从没有本事 去独当一面",
+      "suppliedText": "Tu n'as jamais été capable de t'assumer",
+      "sourceIPA": "/ty na ʒamɛz ete kapabl də tasyme/",
+      "sourceMeaning": "你从没有本事 去独当一面",
+      "speaker": "",
+      "start": 71.778,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          185,
+          186
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-14-017",
+      "sourceLineIndex": 17,
+      "lineIndex": 17,
+      "sourceText": "Renonce à tes chimères et viens me retrouver",
+      "ipa": "[ʁənɔ̃s‿a te ʃimɛʁ e vjɛ̃ mə ʁətʁuve]",
+      "ear": "赫农斯 阿 特 希梅赫 诶 弗耶安 默 赫特胡韦",
+      "meaning": "抛开你的幻想吧 回到我身边",
+      "suppliedText": "Renonce à tes chimères et viens me retrouver",
+      "sourceIPA": "/ʁənɔ̃s a te ʃimɛʁz e vjɛ̃ mə ʁətʁuve/",
+      "sourceMeaning": "抛开你的幻想吧 回到我身边",
+      "speaker": "",
+      "start": 75.286,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          186
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-14-018",
+      "sourceLineIndex": 18,
+      "lineIndex": 18,
+      "sourceText": "J'aimerais tellement briser ta défiance",
+      "ipa": "[ʒɛmʁɛ tɛlmɑ̃ bʁize ta defjɑ̃s]",
+      "ear": "热姆赫 泰勒芒 布希泽 塔 德弗耶昂斯",
+      "meaning": "我多么想要 打破你的怀疑",
+      "suppliedText": "J'aimerais tellement briser ta défiance",
+      "sourceIPA": "/ʒɛmʁɛ tɛlmɑ̃ bʁize ta defjɑ̃s/",
+      "sourceMeaning": "我多么想要 打破你的怀疑",
+      "speaker": "",
+      "start": 78.714,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          186,
+          187
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-14-019",
+      "sourceLineIndex": 19,
+      "lineIndex": 19,
+      "sourceText": "Te prouver que je mérite ta confiance",
+      "ipa": "[tə pʁuve kə ʒə meʁit ta kɔ̃fjɑ̃s]",
+      "ear": "特 普胡韦 克 热 梅希特 塔 孔弗耶昂斯",
+      "meaning": "向你证明 我值得你的信心",
+      "suppliedText": "Te prouver que je mérite ta confiance",
+      "sourceIPA": "/tə pʁuve kə ʒə meʁit ta kɔ̃fjɑ̃s/",
+      "sourceMeaning": "向你证明 我值得你的信心",
+      "speaker": "",
+      "start": 81.091,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          187
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-14-020",
+      "sourceLineIndex": 20,
+      "lineIndex": 20,
+      "sourceText": "Mais tu m'as jamais donné l'occasion",
+      "ipa": "[mɛ ty ma ʒamɛ dɔne lɔkazjɔ̃]",
+      "ear": "梅 蒂于 玛 扎梅 多内 洛卡兹耶翁",
+      "meaning": "可你不曾给过我丝毫机会",
+      "suppliedText": "Mais tu m'as jamais donné l'occasion",
+      "sourceIPA": "/mɛ ty ma ʒamɛ dɔne lɔkazjɔ̃/",
+      "sourceMeaning": "可你不曾给过我丝毫机会",
+      "speaker": "",
+      "start": 85.455,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          187
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-14-021",
+      "sourceLineIndex": 21,
+      "lineIndex": 21,
+      "sourceText": "De te révéler ma passion",
+      "ipa": "[də tə ʁevele ma pasjɔ̃]",
+      "ear": "德 特 赫韦莱 玛 帕斯耶翁",
+      "meaning": "向你表现我的激情",
+      "suppliedText": "De te révéler ma passion",
+      "sourceIPA": "/də tə ʁevele ma pasjɔ̃/",
+      "sourceMeaning": "向你表现我的激情",
+      "speaker": "",
+      "start": 90.364,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          187,
+          188
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-14-029",
+      "sourceLineIndex": 29,
+      "lineIndex": 29,
+      "sourceText": "Non, tu ne m'as jamais... (J'ai pourtant essayé)",
+      "ipa": "[nɔ̃ ty nə ma ʒamɛ ʒe puʁtɑ̃ esɛje]",
+      "ear": "农 蒂于 讷 玛 扎梅 热 普赫唐 诶塞耶诶",
+      "meaning": "你从不曾向我……（我也努力试过……）",
+      "suppliedText": "Non, tu ne m'as jamais... (J'ai pourtant essayé)",
+      "sourceIPA": "/nɔ̃ ty nə ma ʒamɛ ʒe puʁtɑ̃ esɛje/",
+      "sourceMeaning": "你从不曾向我……（我也努力试过……）",
+      "speaker": "",
+      "start": 94.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          188
+        ],
+        "wordCoverage": 0.7
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-14-030",
+      "sourceLineIndex": 30,
+      "lineIndex": 30,
+      "sourceText": "J'aurais tant aimé... (Tu n'm'as pas écouté...)",
+      "ipa": "[ʒoʁɛ tɑ̃ ɛme ty nə ma pa ekute]",
+      "ear": "若赫 唐 艾梅 蒂于 讷 玛 帕 诶库特",
+      "meaning": "我原本多么希望……（你没有听我说……）",
+      "suppliedText": "J'aurais tant aimé... (Tu n'm'as pas écouté...)",
+      "sourceIPA": "/ʒoʁɛ tɑ̃t ɛme ty ɛnmaz paz ekute/",
+      "sourceMeaning": "我原本多希望……（你不曾倾听我……）",
+      "speaker": "",
+      "start": 96.667,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          188,
+          189
+        ],
+        "wordCoverage": 0.9
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-14-031",
+      "sourceLineIndex": 31,
+      "lineIndex": 31,
+      "sourceText": "Mais tu avais tant et tant",
+      "ipa": "[mɛ ty avɛ tɑ̃ e tɑ̃]",
+      "ear": "梅 蒂于 阿韦 唐 诶 唐",
+      "meaning": "可你有那么多、那么多",
+      "suppliedText": "Mais tu avais tant et tant",
+      "sourceIPA": "/mɛ ty avɛ tɑ̃t e tɑ̃/",
+      "sourceMeaning": "但是你越陷越深",
+      "speaker": "",
+      "start": 100.143,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          189
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-14-032",
+      "sourceLineIndex": 32,
+      "lineIndex": 32,
+      "sourceText": "De rêves trop grands pour trouver le temps",
+      "ipa": "[də ʁɛv tʁo ɡʁɑ̃ puʁ tʁuve lə tɑ̃]",
+      "ear": "德 赫弗 特霍 格杭 普赫 特胡韦 勒 唐",
+      "meaning": "过于宏大的梦想，找不到时间",
+      "suppliedText": "De rêves trop grand pour trouver le temps",
+      "sourceIPA": "/də ʁɛv tʁo ɡʁɑ̃ puʁ tʁuve lə tɑ̃/",
+      "sourceMeaning": "在大梦里沉沦 却没有时间回身……",
+      "speaker": "",
+      "start": 103.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          189,
+          190
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-14-033",
+      "sourceLineIndex": 33,
+      "lineIndex": 33,
+      "sourceText": "De demander",
+      "ipa": "[də dəmɑ̃de]",
+      "ear": "德 德芒德",
+      "meaning": "来恳求……",
+      "suppliedText": "De demander",
+      "sourceIPA": "/də dəmɑ̃de/",
+      "sourceMeaning": "来恳求……",
+      "speaker": "",
+      "start": 108.667,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          190
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-14-034",
+      "sourceLineIndex": 34,
+      "lineIndex": 34,
+      "sourceText": "De demander pardon",
+      "ipa": "[də dəmɑ̃de paʁdɔ̃]",
+      "ear": "德 德芒德 帕赫东",
+      "meaning": "来恳求原谅",
+      "suppliedText": "De demander pardon",
+      "sourceIPA": "/də dəmɑ̃de paʁdɔ̃/",
+      "sourceMeaning": "来恳求原谅",
+      "speaker": "",
+      "start": 109.333,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          190
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-14-022",
+      "sourceLineIndex": 22,
+      "lineIndex": 22,
+      "sourceText": "Sais-tu, papa? Je m'isole tous les soirs",
+      "ipa": "[sɛty papa ʒə mizɔl tu le swaʁ]",
+      "ear": "塞蒂于 帕帕 热 米佐勒 图 莱 斯乌阿赫",
+      "meaning": "爸爸 你知道吗？我每晚都自己一个人待着",
+      "suppliedText": "Sais-tu, papa? Je m'isole tous les soirs",
+      "sourceIPA": "/sɛty papa ʒə mizɔl tu le swaʁ/",
+      "sourceMeaning": "爸爸 你知道吗？我每晚都自己一个人待着",
+      "speaker": "",
+      "start": 110.667,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          190,
+          191
+        ],
+        "wordCoverage": 0.889
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-14-023",
+      "sourceLineIndex": 23,
+      "lineIndex": 23,
+      "sourceText": "Pour écrire des histoires qui, je l'espère, te rendront fier",
+      "ipa": "[puʁ‿ekʁiʁ dez‿istwaʁ ki ʒə lɛspɛʁ tə ʁɑ̃dʁɔ̃ fjɛʁ]",
+      "ear": "普赫 诶克希赫 德兹 伊斯特乌阿赫 基 热 莱斯佩赫 特 杭德洪 弗耶艾赫",
+      "meaning": "就是为了写出些故事来 希望它们能让你骄傲",
+      "suppliedText": "Pour écrire des histoires que je l'espère te rendront fier",
+      "sourceIPA": "/puʁ ekʁiʁ dez istwaʁ kə ʒə lɛspɛʁ tə ʁɑ̃dʁɔ̃ fjɛʁ/",
+      "sourceMeaning": "就是为了写出些故事来 希望它们能让你骄傲",
+      "speaker": "",
+      "start": 117.44,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          191
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-14-024",
+      "sourceLineIndex": 24,
+      "lineIndex": 24,
+      "sourceText": "Car oui, un jour, on jouera les pièces de Monsieur Molière",
+      "ipa": "[kaʁ wi œ̃ ʒuʁ ɔ̃ ʒwʁa le pjɛs də məsjø moljɛʁ]",
+      "ear": "卡赫 乌伊 恩 茹赫 翁 日乌哈 莱 普耶艾斯 德 默斯耶厄 莫勒耶艾赫",
+      "meaning": "因为总有一天 人们会上演 莫里哀先生的剧作！",
+      "suppliedText": "Car oui, un jour, on jouera les pièces de Monsieur Molière",
+      "sourceIPA": "/kaʁ wi œ̃ ʒuʁ ɔ̃ ʒwʁa le pjɛs də məsjø moljɛʁ/",
+      "sourceMeaning": "因为总有一天 人们会上演 莫里哀先生的剧作！",
+      "speaker": "",
+      "start": 122.72,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          191
+        ],
+        "wordCoverage": 1.0
       }
     }
-  ],
-  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+  ]
 }

@@ -1,214 +1,656 @@
 {
   "videoId": "SsTRsTN3teI",
   "playbackVideoId": "SsTRsTN3teI",
-  "version": 2,
-  "textSource": "user-supplied-auto-transcript",
-  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "spelling-and-grammar-edits",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "sourceFileSHA256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134",
+  "textReviewStatus": "cross-checked",
+  "textReviewScope": "supplied-lyrics-spelling-grammar-and-chinese-meaning",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
-  "meaningSource": "editorial-chinese-from-user-transcript",
-  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
+  "meaningSource": "reviewed-user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "note": "歌词依据你提供的完整文件校对，中文释义已修订。学习卡片按现有现场录像整理，完整歌词另行归档；≈ 表示依据原字幕估算的分句位置。音标与空耳为文字的参考读法。",
   "sources": [
     {
-      "label": "本段原唱录像",
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+    },
+    {
+      "label": "本曲现场录像",
       "url": "https://www.youtube.com/watch?v=SsTRsTN3teI"
     }
   ],
   "entries": [
     {
-      "sourceText": "Dans ce monde qui m'a vue grandir, une femme n'a pas le droit au désir. Elle n'est…",
-      "start": 12,
-      "ipa": "[dɑ̃ sə mɔ̃d ki ma vy ɡʁɑ̃diʁ yn fam na pa lə dʁwa o deziʁ ɛl nɛ]",
-      "ear": "当 瑟 蒙德 基 玛 维于 格杭迪赫 于恩 法姆 纳 帕 勒 德赫乌阿 奥 德齐赫 艾勒 奈",
-      "meaning": "在我长大的世界里，女人没有追求欲望的权利。她只是……",
-      "suppliedText": "dans ce monde qui m'a vu grandir une femme a pas le droit au désir elle n'est",
-      "sourceLineId": "moliere-timed-112",
+      "sourceLineId": "moliere-le-spectacle-musical-12-003",
+      "sourceLineIndex": 3,
+      "lineIndex": 1,
+      "sourceText": "Dans ce monde qui m'a vue grandir",
+      "ipa": "[dɑ̃ sə mɔ̃d ki ma vy ɡʁɑ̃diʁ]",
+      "ear": "当 瑟 蒙德 基 玛 维于 格杭迪赫",
+      "meaning": "在见证我成长的周遭里",
+      "suppliedText": "Dans ce monde qui m′a vu grandir",
+      "sourceIPA": "/dɑ̃ sə mɔ̃d ki ma vy ɡʁɑ̃diʁ/",
+      "sourceMeaning": "在见证我成长的周遭里",
+      "speaker": "",
+      "start": 12.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 12,
-        "sourceLineNumber": 112,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          112
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Qu'un ventre que l'on nourrit pour un jour porter la vie. Elle sort à peine de son…",
-      "start": 18,
-      "ipa": "[kœ̃ vɑ̃tʁ kə lɔ̃ nuʁi puʁ‿œ̃ ʒuʁ pɔʁte la vi ɛl sɔʁ‿a pɛn də sɔ̃]",
-      "ear": "坎 旺特赫 克 隆 努希 普赫 恩 茹赫 珀赫特 拉 维 艾勒 索赫 阿 佩恩 德 松",
-      "meaning": "被养活、等待生育的身体。她刚走出……",
-      "suppliedText": "qu'un ventre que l'on nourrit pour jou porter la vie elle sort à peine de son",
-      "sourceLineId": "moliere-timed-113",
+      "sourceLineId": "moliere-le-spectacle-musical-12-004",
+      "sourceLineIndex": 4,
+      "lineIndex": 2,
+      "sourceText": "Une femme n'a pas droit au désir",
+      "ipa": "[yn fam na pa dʁwa o deziʁ]",
+      "ear": "于恩 法姆 纳 帕 德赫乌阿 奥 德齐赫",
+      "meaning": "在那个世界里，女性没有欲望的权利",
+      "suppliedText": "Une femme n'a pas droit au désir",
+      "sourceIPA": "/yn fam na pa dʁwa o deziʁ/",
+      "sourceMeaning": "在那个世界里，女性没有欲望的权利",
+      "speaker": "",
+      "start": 14.4,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 18,
-        "sourceLineNumber": 113,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          112
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Enfance qu'on lui vole ses rêves et son innocence. Son père lui impose un mari.",
-      "start": 25,
-      "ipa": "[ɑ̃fɑ̃s kɔ̃ lɥi vɔl se ʁɛv e sɔ̃n‿inosɑ̃s sɔ̃ pɛʁ lɥi ɛ̃pɔz‿œ̃ maʁi]",
-      "ear": "昂芳斯 孔 勒于伊 沃勒 塞 赫弗 诶 松恩 伊诺桑斯 松 佩赫 勒于伊 安珀兹 恩 玛希",
-      "meaning": "童年，梦想和天真就被夺走，家里要为她指定丈夫。",
-      "suppliedText": "enfance qu'on lui vole ses rêves et son innocence son fa lui impose un mari",
-      "sourceLineId": "moliere-timed-114",
+      "sourceLineId": "moliere-le-spectacle-musical-12-005",
+      "sourceLineIndex": 5,
+      "lineIndex": 3,
+      "sourceText": "Elle est un ventre que l'on nourrit",
+      "ipa": "[ɛl‿ɛt‿œ̃ vɑ̃tʁ kə lɔ̃ nuʁi]",
+      "ear": "艾勒 艾特 恩 旺特赫 克 隆 努希",
+      "meaning": "她只是被养活、等待生育的身体。",
+      "suppliedText": "Elle est un ventre que l′on nourrit",
+      "sourceIPA": "/ɛl ɛt œ̃ vɑ̃tʁ kə lɔ̃ nuʁi/",
+      "sourceMeaning": "她靠百家饭来填饱肚子",
+      "speaker": "",
+      "start": 17.1,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 25,
-        "sourceLineNumber": 114,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          112,
+          113
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Elle a choisi de se moquer de ce que les gens… Connaître l'ivresse de la…",
-      "start": 35,
-      "ipa": "[ɛl‿a ʃwazi də sə moke də sə kə le ʒɑ̃ kɔnɛtʁ livʁɛs də la]",
-      "ear": "艾勒 阿 什乌阿齐 德 瑟 莫克 德 瑟 克 莱 让 科奈特赫 利弗赫斯 德 拉",
-      "meaning": "她选择不理会旁人的议论，去体会生命的……",
-      "suppliedText": "elle a choisi de se moquer de ce que les genses dirent connaître l'bresse de la",
-      "sourceLineId": "moliere-timed-115",
+      "sourceLineId": "moliere-le-spectacle-musical-12-006",
+      "sourceLineIndex": 6,
+      "lineIndex": 4,
+      "sourceText": "Pour un jour porter la vie",
+      "ipa": "[puʁ‿œ̃ ʒuʁ pɔʁte la vi]",
+      "ear": "普赫 恩 茹赫 珀赫特 拉 维",
+      "meaning": "只为有朝一日孕育生命",
+      "suppliedText": "Pour un jour porter la vie",
+      "sourceIPA": "/puʁ œ̃ ʒuʁ pɔʁte la vi/",
+      "sourceMeaning": "只为有朝一日孕育生命",
+      "speaker": "",
+      "start": 20.579,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 35,
-        "sourceLineNumber": 115,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          113
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Vie, aimer au gré de ses envies, jusqu'au jour où…",
-      "start": 43,
-      "ipa": "[vi ɛme o ɡʁe də sez‿ɑ̃vi ʒysko ʒuʁ‿u]",
-      "ear": "维 艾梅 奥 格赫 德 塞兹 昂维 日于斯科 茹赫 乌",
-      "meaning": "酣畅，随心去爱，直到有一天……",
-      "suppliedText": "vie aimer Aué de ses envies jusqu'au jour où",
-      "sourceLineId": "moliere-timed-116",
+      "sourceLineId": "moliere-le-spectacle-musical-12-007",
+      "sourceLineIndex": 7,
+      "lineIndex": 5,
+      "sourceText": "Elle sort à peine de son enfance",
+      "ipa": "[ɛl sɔʁ‿a pɛn də sɔ̃ ɑ̃fɑ̃s]",
+      "ear": "艾勒 索赫 阿 佩恩 德 松 昂芳斯",
+      "meaning": "她刚刚走出童年，",
+      "suppliedText": "Elle sort à peine de son enfance",
+      "sourceIPA": "/ɛl sɔʁ a pɛn də sɔ̃ ɑ̃fɑ̃s/",
+      "sourceMeaning": "她挣扎着渡过了她的童年",
+      "speaker": "",
+      "start": 22.789,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 43,
-        "sourceLineNumber": 116,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          113,
+          114
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Elle a rencontré un homme…",
-      "start": 51,
-      "ipa": "[ɛl‿a ʁɑ̃kɔ̃tʁe œ̃n‿ɔm]",
-      "ear": "艾勒 阿 杭孔特赫 恩恩 哦姆",
-      "meaning": "她遇见一个……",
-      "suppliedText": "elle a rencontré un homme",
-      "sourceLineId": "moliere-timed-117",
+      "sourceLineId": "moliere-le-spectacle-musical-12-008",
+      "sourceLineIndex": 8,
+      "lineIndex": 6,
+      "sourceText": "Qu'on lui vole ses rêves et son innocence",
+      "ipa": "[kɔ̃ lɥi vɔl se ʁɛv e sɔ̃n‿inosɑ̃s]",
+      "ear": "孔 勒于伊 沃勒 塞 赫弗 诶 松恩 伊诺桑斯",
+      "meaning": "梦想和天真就被夺走。",
+      "suppliedText": "Qu'on lui vole ses rêves et son innocence",
+      "sourceIPA": "/kɔ̃ lɥi vɔl se ʁɛvz e sɔ̃n inosɑ̃s/",
+      "sourceMeaning": "可她的梦与纯真都已被偷走",
+      "speaker": "",
+      "start": 25.625,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 51,
-        "sourceLineNumber": 117,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          114
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Marié… Esprit de Raymond est son nom, il est comte de Modène et chambellan…",
-      "start": 56,
-      "ipa": "[maʁje ɛspʁi də ʁɛmɔ̃ ɛ sɔ̃ nɔ̃ il‿ɛ kɔ̃t də modɛn e ʃɑ̃bɛlɑ̃]",
-      "ear": "玛赫耶诶 艾斯普希 德 赫蒙 艾 松 农 伊勒 艾 孔特 德 莫戴恩 诶 尚贝朗",
-      "meaning": "已婚男人……名叫埃斯普里·德·雷蒙，是莫德纳伯爵和宫廷侍从……",
-      "suppliedText": "mariéble ligé esprit de rayond est son nom il est comte de mod et Chambé ça",
-      "sourceLineId": "moliere-timed-119",
+      "sourceLineId": "moliere-le-spectacle-musical-12-009",
+      "sourceLineIndex": 9,
+      "lineIndex": 7,
+      "sourceText": "Son père lui impose un mari",
+      "ipa": "[sɔ̃ pɛʁ lɥi ɛ̃pɔz‿œ̃ maʁi]",
+      "ear": "松 佩赫 勒于伊 安珀兹 恩 玛希",
+      "meaning": "她父亲逼她要成婚",
+      "suppliedText": "Son père lui impose un mari",
+      "sourceIPA": "/sɔ̃ pɛʁ lɥi ɛ̃pɔz œ̃ maʁi/",
+      "sourceMeaning": "她父亲逼她要成婚",
+      "speaker": "",
+      "start": 31.25,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 56,
-        "sourceLineNumber": 119,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          114
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "J'avais à peine dix-neuf ans quand nous sommes devenus amants. De notre amour est née une…",
-      "start": 64,
-      "ipa": "[ʒavɛ a pɛn diznœv‿ɑ̃ kɑ̃ nu sɔm dəvny amɑ̃ də notʁ‿amuʁ‿ɛ ne yn]",
-      "ear": "扎韦 阿 佩恩 迪兹讷厄弗 昂 康 努 索姆 德弗尼于 阿芒 德 诺特赫 阿穆赫 艾 内 于恩",
-      "meaning": "我们成为情人时，我才十九岁。我们的爱带来一个……",
-      "suppliedText": "fais à peine 19 ans quand nous sommes devenus amant de notre amour est né une",
-      "sourceLineId": "moliere-timed-120",
+      "sourceLineId": "moliere-le-spectacle-musical-12-012",
+      "sourceLineIndex": 12,
+      "lineIndex": 8,
+      "sourceText": "Elle a choisi de se moquer",
+      "ipa": "[ɛl‿a ʃwazi də sə moke]",
+      "ear": "艾勒 阿 什乌阿齐 德 瑟 莫克",
+      "meaning": "她选择了不屑一顾",
+      "suppliedText": "Elle a choisi de se moquer",
+      "sourceIPA": "/ɛl a ʃwazi də sə moke/",
+      "sourceMeaning": "她选择了不屑一顾",
+      "speaker": "",
+      "start": 35.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 64,
-        "sourceLineNumber": 120,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          115
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Fille. À défaut d'une famille, son père lui donna un…",
-      "start": 72,
-      "ipa": "[fij a defo dyn famij sɔ̃ pɛʁ lɥi dɔna œ̃]",
-      "ear": "菲耶 阿 德佛 迪于恩 法米耶 松 佩赫 勒于伊 多纳 恩",
-      "meaning": "女儿。他虽不能给她一个家，还是给了她……",
-      "suppliedText": "fille m à défaut d'une famille son père lui donna un",
-      "sourceLineId": "moliere-timed-121",
+      "sourceLineId": "moliere-le-spectacle-musical-12-013",
+      "sourceLineIndex": 13,
+      "lineIndex": 9,
+      "sourceText": "De ce que les gens d'elle diraient",
+      "ipa": "[də sə kə le ʒɑ̃ dɛl diʁɛ]",
+      "ear": "德 瑟 克 莱 让 戴勒 迪赫",
+      "meaning": "冷眼看旁人对她的指点",
+      "suppliedText": "De ce que les gens d'elle diraient",
+      "sourceIPA": "/də sə kə le ʒɑ̃ dɛl diʁɛ/",
+      "sourceMeaning": "冷眼看旁人对她的指点",
+      "speaker": "",
+      "start": 38.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 72,
-        "sourceLineNumber": 121,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          115
+        ],
+        "wordCoverage": 0.875
       }
     },
     {
-      "sourceText": "Elle a choisi de se moquer de ce que les…",
-      "start": 95,
-      "ipa": "[ɛl‿a ʃwazi də sə moke də sə kə le]",
-      "ear": "艾勒 阿 什乌阿齐 德 瑟 莫克 德 瑟 克 莱",
-      "meaning": "她选择不理会那些……",
-      "suppliedText": "pardonner elle a choisi de se moquer de ce que les",
-      "sourceLineId": "moliere-timed-125",
+      "sourceLineId": "moliere-le-spectacle-musical-12-014",
+      "sourceLineIndex": 14,
+      "lineIndex": 10,
+      "sourceText": "Connaître l'ivresse de la vie",
+      "ipa": "[kɔnɛtʁ livʁɛs də la vi]",
+      "ear": "科奈特赫 利弗赫斯 德 拉 维",
+      "meaning": "品尝着生活的醉意",
+      "suppliedText": "Connaître l′ivresse de la vie",
+      "sourceIPA": "/kɔnɛtʁ livʁɛs də la vi/",
+      "sourceMeaning": "品尝着生活的醉意",
+      "speaker": "",
+      "start": 40.5,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 95,
-        "sourceLineNumber": 125,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          115,
+          116
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Gens… Connaître l'ivresse de la vie, aimer au gré de ses envies, jusqu'au jour…",
-      "start": 103,
-      "ipa": "[ʒɑ̃ kɔnɛtʁ livʁɛs də la vi ɛme o ɡʁe də sez‿ɑ̃vi ʒysko ʒuʁ]",
-      "ear": "让 科奈特赫 利弗赫斯 德 拉 维 艾梅 奥 格赫 德 塞兹 昂维 日于斯科 茹赫",
-      "meaning": "议论，去体会生命的酣畅，随心去爱，直到……",
-      "suppliedText": "gensaiment dirent connaître l' de la vie et au CR de ses envies jusqu'au jour",
-      "sourceLineId": "moliere-timed-126",
+      "sourceLineId": "moliere-le-spectacle-musical-12-015",
+      "sourceLineIndex": 15,
+      "lineIndex": 11,
+      "sourceText": "Aimer au gré de ses envies",
+      "ipa": "[ɛme o ɡʁe də sez‿ɑ̃vi]",
+      "ear": "艾梅 奥 格赫 德 塞兹 昂维",
+      "meaning": "爱 只依自己的心意",
+      "suppliedText": "Aimer au gré de ses envies",
+      "sourceIPA": "/ɛme o ɡʁe də sez ɑ̃vi/",
+      "sourceMeaning": "爱 只依自己的心意",
+      "speaker": "",
+      "start": 43.727,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 103,
-        "sourceLineNumber": 126,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          116
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Où… rencontré un homme marié.",
-      "start": 114,
-      "ipa": "[u ʁɑ̃kɔ̃tʁe œ̃n‿ɔm maʁje]",
-      "ear": "乌 杭孔特赫 恩恩 哦姆 玛赫耶诶",
-      "meaning": "遇见一个已婚男人……",
-      "suppliedText": "où rencontré un homme marié",
-      "sourceLineId": "moliere-timed-127",
+      "sourceLineId": "moliere-le-spectacle-musical-12-016",
+      "sourceLineIndex": 16,
+      "lineIndex": 12,
+      "sourceText": "Jusqu'au jour où elle a rencontré",
+      "ipa": "[ʒysko ʒuʁ‿u ɛl‿a ʁɑ̃kɔ̃tʁe]",
+      "ear": "日于斯科 茹赫 乌 艾勒 阿 杭孔特赫",
+      "meaning": "直到某天 她终于遇见了",
+      "suppliedText": "Jusqu′au jour où elle a rencontré",
+      "sourceIPA": "/ʒysko ʒuʁ u ɛl a ʁɑ̃kɔ̃tʁe/",
+      "sourceMeaning": "直到某天 她终于遇见了",
+      "speaker": "",
+      "start": 48.091,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 114,
-        "sourceLineNumber": 127,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          116,
+          117
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-12-017",
+      "sourceLineIndex": 17,
+      "lineIndex": 13,
+      "sourceText": "Un homme marié et de noble lignée",
+      "ipa": "[œ̃n‿ɔm maʁje e də nɔbl linje]",
+      "ear": "恩恩 哦姆 玛赫耶诶 诶 德 诺布勒 利恩耶诶",
+      "meaning": "一个已婚男人 还是贵族的子裔",
+      "suppliedText": "Un homme marié et de noble lignée",
+      "sourceIPA": "/œ̃n ɔm maʁje e də nɔbl linje/",
+      "sourceMeaning": "一个已婚男人 还是贵族的子裔",
+      "speaker": "",
+      "start": 53.4,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          117,
+          119
+        ],
+        "wordCoverage": 0.714
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-12-020",
+      "sourceLineIndex": 20,
+      "lineIndex": 14,
+      "sourceText": "Esprit de Raimond est son nom",
+      "ipa": "[ɛspʁi də ʁɛmɔ̃ ɛ sɔ̃ nɔ̃]",
+      "ear": "艾斯普希 德 赫蒙 艾 松 农",
+      "meaning": "埃斯普利•德•雷蒙是他姓名",
+      "suppliedText": "Esprit de Raimond est son nom",
+      "sourceIPA": "/ɛspʁi də ʁɛmɔ̃ ɛ sɔ̃ nɔ̃/",
+      "sourceMeaning": "埃斯普利•德•雷蒙是他姓名",
+      "speaker": "",
+      "start": 56.571,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          119
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-12-021",
+      "sourceLineIndex": 21,
+      "lineIndex": 15,
+      "sourceText": "Il est comte de Modène et chambellan",
+      "ipa": "[il‿ɛ kɔ̃t də modɛn e ʃɑ̃bɛlɑ̃]",
+      "ear": "伊勒 艾 孔特 德 莫戴恩 诶 尚贝朗",
+      "meaning": "他是莫德纳伯爵，也是宫廷侍从官。",
+      "suppliedText": "Il est comte de Modène, de Chambellan",
+      "sourceIPA": "/il ɛ kɔ̃t də modɛn də ʃɑ̃bɛlɑ̃/",
+      "sourceMeaning": "摩德纳的伯爵 宫廷侍臣",
+      "speaker": "",
+      "start": 60.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          119
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-12-022",
+      "sourceLineIndex": 22,
+      "lineIndex": 16,
+      "sourceText": "J'avais à peine dix-neuf ans",
+      "ipa": "[ʒavɛ a pɛn diznœv‿ɑ̃]",
+      "ear": "扎韦 阿 佩恩 迪兹讷厄弗 昂",
+      "meaning": "我当时才十九岁。",
+      "suppliedText": "J'avais à peine à 19 ans",
+      "sourceIPA": "/ʒavɛz a pɛn a diznœf ɑ̃/",
+      "sourceMeaning": "那时刚满19岁的我",
+      "speaker": "",
+      "start": 64.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          120
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-12-023",
+      "sourceLineIndex": 23,
+      "lineIndex": 17,
+      "sourceText": "Quand nous sommes devenus amants",
+      "ipa": "[kɑ̃ nu sɔm dəvny amɑ̃]",
+      "ear": "康 努 索姆 德弗尼于 阿芒",
+      "meaning": "与他成为了恋人",
+      "suppliedText": "Quand nous sommes devenus amants",
+      "sourceIPA": "/kɑ̃ nu sɔm dəvny amɑ̃/",
+      "sourceMeaning": "与他成为了恋人",
+      "speaker": "",
+      "start": 67.111,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          120
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-12-024",
+      "sourceLineIndex": 24,
+      "lineIndex": 18,
+      "sourceText": "De notre amour est née une fille",
+      "ipa": "[də notʁ‿amuʁ‿ɛ ne yn fij]",
+      "ear": "德 诺特赫 阿穆赫 艾 内 于恩 菲耶",
+      "meaning": "我们的爱让一个女儿诞生",
+      "suppliedText": "De notre amour est née une fille",
+      "sourceIPA": "/də notʁ amuʁ ɛ ne yn fij/",
+      "sourceMeaning": "我们的爱让一个女儿诞生",
+      "speaker": "",
+      "start": 69.333,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          120,
+          121
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-12-025",
+      "sourceLineIndex": 25,
+      "lineIndex": 19,
+      "sourceText": "Mais à défaut d'une famille",
+      "ipa": "[mɛ a defo dyn famij]",
+      "ear": "梅 阿 德佛 迪于恩 法米耶",
+      "meaning": "却给不了她一个完整家庭",
+      "suppliedText": "Mais à défaut d′une famille",
+      "sourceIPA": "/mɛz a defo dyn famij/",
+      "sourceMeaning": "却给不了她一个完整家庭",
+      "speaker": "",
+      "start": 72.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          121
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-12-026",
+      "sourceLineIndex": 26,
+      "lineIndex": 20,
+      "sourceText": "Son père lui donna un prénom",
+      "ipa": "[sɔ̃ pɛʁ lɥi dɔna œ̃ pʁenɔ̃]",
+      "ear": "松 佩赫 勒于伊 多纳 恩 普赫农",
+      "meaning": "她的父亲给她取了名",
+      "suppliedText": "Son père lui donna un prénom",
+      "sourceIPA": "/sɔ̃ pɛʁ lɥi dɔna œ̃ pʁenɔ̃/",
+      "sourceMeaning": "她的父亲给她取了名",
+      "speaker": "",
+      "start": 75.273,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          121,
+          123
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-12-035",
+      "sourceLineIndex": 35,
+      "lineIndex": 27,
+      "sourceText": "Elle a choisi de se moquer",
+      "ipa": "[ɛl‿a ʃwazi də sə moke]",
+      "ear": "艾勒 阿 什乌阿齐 德 瑟 莫克",
+      "meaning": "她选择了不屑一顾",
+      "suppliedText": "Elle a choisi de se moquer",
+      "sourceIPA": "/ɛl a ʃwazi də sə moke/",
+      "sourceMeaning": "她选择了不屑一顾",
+      "speaker": "",
+      "start": 95.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          125
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-12-036",
+      "sourceLineIndex": 36,
+      "lineIndex": 28,
+      "sourceText": "Elle a choisi de se moquer",
+      "ipa": "[ɛl‿a ʃwazi də sə moke]",
+      "ear": "艾勒 阿 什乌阿齐 德 瑟 莫克",
+      "meaning": "她选择了不屑一顾",
+      "suppliedText": "Elle a choisi de se moquer",
+      "sourceIPA": "/ɛl a ʃwazi də sə moke/",
+      "sourceMeaning": "她选择了不屑一顾",
+      "speaker": "",
+      "start": 99.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          125
+        ],
+        "wordCoverage": 0.5
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-12-037",
+      "sourceLineIndex": 37,
+      "lineIndex": 29,
+      "sourceText": "De ce que les gens d'elle diraient",
+      "ipa": "[də sə kə le ʒɑ̃ dɛl diʁɛ]",
+      "ear": "德 瑟 克 莱 让 戴勒 迪赫",
+      "meaning": "冷眼看旁人对她的指点",
+      "suppliedText": "De ce que les gens d'elle diraient",
+      "sourceIPA": "/də sə kə le ʒɑ̃ dɛl diʁɛ/",
+      "sourceMeaning": "冷眼看旁人对她的指点",
+      "speaker": "",
+      "start": 100.6,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          125,
+          126
+        ],
+        "wordCoverage": 0.875
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-12-038",
+      "sourceLineIndex": 38,
+      "lineIndex": 30,
+      "sourceText": "Connaître l'ivresse de la vie",
+      "ipa": "[kɔnɛtʁ livʁɛs də la vi]",
+      "ear": "科奈特赫 利弗赫斯 德 拉 维",
+      "meaning": "品尝着生活的醉意",
+      "suppliedText": "Connaître l′ivresse de la vie",
+      "sourceIPA": "/kɔnɛtʁ livʁɛs də la vi/",
+      "sourceMeaning": "品尝着生活的醉意",
+      "speaker": "",
+      "start": 103.688,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          126
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-12-039",
+      "sourceLineIndex": 39,
+      "lineIndex": 31,
+      "sourceText": "Aimer au gré de ses envies",
+      "ipa": "[ɛme o ɡʁe də sez‿ɑ̃vi]",
+      "ear": "艾梅 奥 格赫 德 塞兹 昂维",
+      "meaning": "爱 只依自己的心意",
+      "suppliedText": "Aimer au gré de ses envies",
+      "sourceIPA": "/ɛme o ɡʁe də sez ɑ̃vi/",
+      "sourceMeaning": "爱 只依自己的心意",
+      "speaker": "",
+      "start": 107.812,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          126
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-12-040",
+      "sourceLineIndex": 40,
+      "lineIndex": 32,
+      "sourceText": "Jusqu'au jour où elle a rencontré",
+      "ipa": "[ʒysko ʒuʁ‿u ɛl‿a ʁɑ̃kɔ̃tʁe]",
+      "ear": "日于斯科 茹赫 乌 艾勒 阿 杭孔特赫",
+      "meaning": "直到某天 她终于遇见了",
+      "suppliedText": "Jusqu′au jour où elle a rencontré",
+      "sourceIPA": "/ʒysko ʒuʁ u ɛl a ʁɑ̃kɔ̃tʁe/",
+      "sourceMeaning": "直到某天 她终于遇见了",
+      "speaker": "",
+      "start": 111.938,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          126,
+          127
+        ],
+        "wordCoverage": 0.857
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-12-041",
+      "sourceLineIndex": 41,
+      "lineIndex": 33,
+      "sourceText": "Un homme marié et de noble lignée",
+      "ipa": "[œ̃n‿ɔm maʁje e də nɔbl linje]",
+      "ear": "恩恩 哦姆 玛赫耶诶 诶 德 诺布勒 利恩耶诶",
+      "meaning": "一个已婚男人 还是贵族的子裔",
+      "suppliedText": "Un homme marié et de noble lignée",
+      "sourceIPA": "/œ̃n ɔm maʁje e də nɔbl linje/",
+      "sourceMeaning": "一个已婚男人 还是贵族的子裔",
+      "speaker": "",
+      "start": 118.4,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          127
+        ],
+        "wordCoverage": 0.571
       }
     }
-  ],
-  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+  ]
 }

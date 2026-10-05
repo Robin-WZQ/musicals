@@ -1,406 +1,1126 @@
 {
   "videoId": "QS_MJxvB93Q",
   "playbackVideoId": "QS_MJxvB93Q",
-  "version": 2,
-  "textSource": "user-supplied-auto-transcript",
-  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "spelling-and-grammar-edits",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "sourceFileSHA256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134",
+  "textReviewStatus": "cross-checked",
+  "textReviewScope": "supplied-lyrics-spelling-grammar-and-chinese-meaning",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
-  "meaningSource": "editorial-chinese-from-user-transcript",
-  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
+  "meaningSource": "reviewed-user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "note": "歌词依据你提供的完整文件校对，中文释义已修订。学习卡片按现有现场录像整理，完整歌词另行归档；≈ 表示依据原字幕估算的分句位置。音标与空耳为文字的参考读法。",
   "sources": [
     {
-      "label": "本段原唱录像",
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+    },
+    {
+      "label": "本曲现场录像",
       "url": "https://www.youtube.com/watch?v=QS_MJxvB93Q"
     }
   ],
   "entries": [
     {
-      "sourceText": "Les autres, les autres, ils sont",
-      "start": 1,
-      "ipa": "[lez‿otʁ lez‿otʁ il sɔ̃]",
-      "ear": "莱兹 奥特赫 莱兹 奥特赫 伊勒 松",
-      "meaning": "别人，别人，他们都",
-      "suppliedText": "vous la connaissez C je crois bien on vous voir vous entend les autres les autres ils sont",
-      "sourceLineId": "moliere-timed-876",
+      "sourceLineId": "moliere-le-spectacle-musical-01-001",
+      "sourceLineIndex": 1,
+      "lineIndex": 1,
+      "sourceText": "Les autres les autres, ils sont comme il faut",
+      "ipa": "[lez‿otʁ lez‿otʁ il sɔ̃ kɔm‿il fo]",
+      "ear": "莱兹 奥特赫 莱兹 奥特赫 伊勒 松 科姆 伊勒 佛",
+      "meaning": "别人，别人，他们都循规蹈矩。",
+      "suppliedText": "Les autres les autres, ils sont comme il faut",
+      "sourceIPA": "/lez otʁ lez otʁ il sɔ̃ kɔm il fo/",
+      "sourceMeaning": "旁观者，旁观者，似乎就该如此",
+      "speaker": "",
+      "start": 7.667,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 1,
-        "sourceLineNumber": 876,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          876,
+          877
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Comme il faut. Je fais ce qu'il faut pour leur plaire, mais ça sonne faux. Pas ma faute, ma faute, si",
-      "start": 11,
-      "ipa": "[kɔm‿il fo ʒə fɛ sə kil fo puʁ lœʁ plɛʁ mɛ sa sɔn fo pa ma fot ma fot si]",
-      "ear": "科姆 伊勒 佛 热 费 瑟 基勒 佛 普赫 勒厄赫 普莱赫 梅 萨 索恩 佛 帕 玛 佛特 玛 佛特 西",
-      "meaning": "循规蹈矩。我努力做得体的事去讨他们喜欢，可听起来虚假。这不是我的错，如果",
-      "suppliedText": "comme il faut je fais ce qu'ilut pour leur bien mais ça fa ma faute ma faute",
-      "sourceLineId": "moliere-timed-877",
+      "sourceLineId": "moliere-le-spectacle-musical-01-002",
+      "sourceLineIndex": 2,
+      "lineIndex": 2,
+      "sourceText": "Je fais ce qu'il faut pour leur plaire mais ça sonne faux",
+      "ipa": "[ʒə fɛ sə kil fo puʁ lœʁ plɛʁ mɛ sa sɔn fo]",
+      "ear": "热 费 瑟 基勒 佛 普赫 勒厄赫 普莱赫 梅 萨 索恩 佛",
+      "meaning": "我努力做得体的事去讨他们喜欢，可听起来却很虚假。",
+      "suppliedText": "Je fais ce qu'il faut pour leur plaire mais ça sonne faux",
+      "sourceIPA": "/ʒə fɛ sə kil fo puʁ lœʁ plɛʁ mɛ sa sɔn fo/",
+      "sourceMeaning": "为讨人欢心，我循规蹈矩，可听起来不对头",
+      "speaker": "",
+      "start": 11.955,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 11,
-        "sourceLineNumber": 877,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          877
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "J'suis mieux dans ma peau, loin de la lumière et derrière le rideau. Ma terre à moi n'est pas ronde. Je",
-      "start": 18,
-      "ipa": "[ʒsɥi mjø dɑ̃ ma po lwɛ̃ də la lymjɛʁ e dɛʁjɛʁ lə ʁido ma tɛʁ‿a mwa nɛ pa ʁɔ̃d ʒə]",
-      "ear": "日斯于伊 姆耶厄 当 玛 波 勒乌安 德 拉 吕姆耶艾赫 诶 戴赫耶艾赫 勒 希多 玛 泰赫 阿 姆乌阿 奈 帕 洪德 热",
-      "meaning": "我在远离灯光、躲在帷幕后时更自在。属于我的世界并不圆满。我",
-      "suppliedText": "je suis mieux dans ma peau loin de la lumire et derrière rau ma terre à moi n'est pas ronde je",
-      "sourceLineId": "moliere-timed-878",
+      "sourceLineId": "moliere-le-spectacle-musical-01-003",
+      "sourceLineIndex": 3,
+      "lineIndex": 3,
+      "sourceText": "Pas ma faute, ma faute, si j'suis mieux dans ma peau",
+      "ipa": "[pa ma fot ma fot si ʒə sɥi mjø dɑ̃ ma po]",
+      "ear": "帕 玛 佛特 玛 佛特 西 热 斯于伊 姆耶厄 当 玛 波",
+      "meaning": "如果我在自己的世界里更自在，那不是我的错。",
+      "suppliedText": "Pas ma faute, ma faute, si j'suis mieux dans ma peau",
+      "sourceIPA": "/pa ma fot ma fot si ʒsɥi mjø dɑ̃ ma po/",
+      "sourceMeaning": "不是我的错，我没错，只是我的好藏在皮囊之下",
+      "speaker": "",
+      "start": 16.091,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 18,
-        "sourceLineNumber": 878,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          877,
+          878
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "N'ai pas la bonne attitude. Je ne suis pas fait pour ce monde. Oui, rêver, j'en ai",
-      "start": 27,
-      "ipa": "[ne pa la bɔn‿atityd ʒə nə sɥi pa fɛ puʁ sə mɔ̃d wi ʁɛve ʒɑ̃ e]",
-      "ear": "内 帕 拉 博恩 阿蒂蒂于德 热 讷 斯于伊 帕 费 普赫 瑟 蒙德 乌伊 赫韦 让 诶",
-      "meaning": "没有他们想要的态度。我不是为这个世界而生。是的，做梦，我已经",
-      "suppliedText": "n'ai pas la bonne attitude je ne suis pas pour ce monde VV j'en ai",
-      "sourceLineId": "moliere-timed-879",
+      "sourceLineId": "moliere-le-spectacle-musical-01-004",
+      "sourceLineIndex": 4,
+      "lineIndex": 4,
+      "sourceText": "Loin de la lumière et derrière le rideau",
+      "ipa": "[lwɛ̃ də la lymjɛʁ e dɛʁjɛʁ lə ʁido]",
+      "ear": "勒乌安 德 拉 吕姆耶艾赫 诶 戴赫耶艾赫 勒 希多",
+      "meaning": "远离光的照耀，躲在帘幕背后",
+      "suppliedText": "Loin de la lumière et derrière le rideau",
+      "sourceIPA": "/lwɛ̃ də la lymjɛʁ e dɛʁjɛʁ lə ʁido/",
+      "sourceMeaning": "远离光的照耀，躲在帘幕背后",
+      "speaker": "",
+      "start": 20.348,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 27,
-        "sourceLineNumber": 879,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          878
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "L'habitude. Rêver, j'en ai l'habitude, pour m'évader, changer",
-      "start": 33,
-      "ipa": "[labityd ʁɛve ʒɑ̃ e labityd puʁ mevade ʃɑ̃ʒe]",
-      "ear": "拉比蒂于德 赫韦 让 诶 拉比蒂于德 普赫 梅瓦德 尚热",
-      "meaning": "习惯了。我习惯做梦，好让自己逃离，飞往",
-      "suppliedText": "l'habitude VV j'en ai l'habitude pour m'évaser changer",
-      "sourceLineId": "moliere-timed-880",
+      "sourceLineId": "moliere-le-spectacle-musical-01-005",
+      "sourceLineIndex": 5,
+      "lineIndex": 5,
+      "sourceText": "Ma terre à moi n'est pas ronde",
+      "ipa": "[ma tɛʁ‿a mwa nɛ pa ʁɔ̃d]",
+      "ear": "玛 泰赫 阿 姆乌阿 奈 帕 洪德",
+      "meaning": "对我而言，世界并不圆满。",
+      "suppliedText": "Ma terre à moi n'est pas ronde",
+      "sourceIPA": "/ma tɛʁ a mwa nɛ pa ʁɔ̃d/",
+      "sourceMeaning": "地球对我来说不再是圆的",
+      "speaker": "",
+      "start": 23.478,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 33,
-        "sourceLineNumber": 880,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          878
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "D'altitude, accrocher à ma solitude. J'en ai l'habitude, j'en ai",
-      "start": 42,
-      "ipa": "[daltityd akʁoʃe a ma solityd ʒɑ̃ e labityd ʒɑ̃ e]",
-      "ear": "达勒蒂蒂于德 阿克霍谢 阿 玛 索利蒂于德 让 诶 拉比蒂于德 让 诶",
-      "meaning": "另一个高度，抓住我的孤独。我早已习惯，我已经",
-      "suppliedText": "d'attitude accrocher à ma solitudeen l'habitude j'en",
-      "sourceLineId": "moliere-timed-881",
+      "sourceLineId": "moliere-le-spectacle-musical-01-006",
+      "sourceLineIndex": 6,
+      "lineIndex": 6,
+      "sourceText": "Je n'ai pas la bonne attitude",
+      "ipa": "[ʒə ne pa la bɔn‿atityd]",
+      "ear": "热 内 帕 拉 博恩 阿蒂蒂于德",
+      "meaning": "我没有他们想要的态度。",
+      "suppliedText": "Je n'ai pas la bonne attitude",
+      "sourceIPA": "/ʒə ne pa la bɔn atityd/",
+      "sourceMeaning": "我能有什么好态度呢？",
+      "speaker": "",
+      "start": 26.609,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 42,
-        "sourceLineNumber": 881,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          878,
+          879
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "L'habitude. Je dois m'enivrer d'incertitude, vivre sous d'autres",
-      "start": 49,
-      "ipa": "[labityd ʒə dwa mɑ̃nivʁe dɛ̃sɛʁtityd vivʁ su dotʁ]",
-      "ear": "拉比蒂于德 热 德乌阿 芒尼弗赫 丹塞赫蒂蒂于德 维弗赫 苏 多特赫",
-      "meaning": "习惯了。我必须沉醉于未知，生活在别的",
-      "suppliedText": "l'habitude je dois m'en livrer l'incertitude vivre sous d're",
-      "sourceLineId": "moliere-timed-882",
+      "sourceLineId": "moliere-le-spectacle-musical-01-007",
+      "sourceLineIndex": 7,
+      "lineIndex": 7,
+      "sourceText": "Je ne suis pas fait pour ce monde",
+      "ipa": "[ʒə nə sɥi pa fɛ puʁ sə mɔ̃d]",
+      "ear": "热 讷 斯于伊 帕 费 普赫 瑟 蒙德",
+      "meaning": "我不是为这个世界而生的",
+      "suppliedText": "Je ne suis pas fait pour ce monde",
+      "sourceIPA": "/ʒə nə sɥi pa fɛ puʁ sə mɔ̃d/",
+      "sourceMeaning": "我不是为这个世界而生的",
+      "speaker": "",
+      "start": 28.895,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 49,
-        "sourceLineNumber": 882,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          879
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Latitudes, pour me libérer de ma lassitude. J'en ai l'habitude, j'en ai",
-      "start": 57,
-      "ipa": "[latityd puʁ mə libeʁe də ma lasityd ʒɑ̃ e labityd ʒɑ̃ e]",
-      "ear": "拉蒂蒂于德 普赫 默 利贝赫 德 玛 拉西蒂于德 让 诶 拉比蒂于德 让 诶",
-      "meaning": "纬度，摆脱我的倦怠。我早已习惯，我已经",
-      "suppliedText": "l'attitude pour me libérer de maltitude j'en ai l'habitude j'en ai",
-      "sourceLineId": "moliere-timed-883",
+      "sourceLineId": "moliere-le-spectacle-musical-01-008",
+      "sourceLineIndex": 8,
+      "lineIndex": 8,
+      "sourceText": "Oui rêver j'en ai l'habitude",
+      "ipa": "[wi ʁɛve ʒɑ̃ e labityd]",
+      "ear": "乌伊 赫韦 让 诶 拉比蒂于德",
+      "meaning": "没错，我早就习惯了做梦",
+      "suppliedText": "Oui rêver j'en ai l'habitude",
+      "sourceIPA": "/wi ʁɛve ʒɑ̃n e labityd/",
+      "sourceMeaning": "没错，我早就习惯了做梦",
+      "speaker": "",
+      "start": 31.421,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 57,
-        "sourceLineNumber": 883,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          879,
+          880
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "L'habitude. Les autres, les autres, ils ont dans les yeux",
-      "start": 67,
-      "ipa": "[labityd lez‿otʁ lez‿otʁ ilz‿ɔ̃ dɑ̃ lez‿jø]",
-      "ear": "拉比蒂于德 莱兹 奥特赫 莱兹 奥特赫 伊勒兹 翁 当 莱兹 耶厄",
-      "meaning": "习惯了。别人，别人，他们眼里有",
-      "suppliedText": "l'habitude les off et off on dans les yeux",
-      "sourceLineId": "moliere-timed-884",
+      "sourceLineId": "moliere-le-spectacle-musical-01-009",
+      "sourceLineIndex": 9,
+      "lineIndex": 9,
+      "sourceText": "Rêver j'en ai l'habitude",
+      "ipa": "[ʁɛve ʒɑ̃ e labityd]",
+      "ear": "赫韦 让 诶 拉比蒂于德",
+      "meaning": "我早就习惯了做梦",
+      "suppliedText": "Rêver j'en ai l'habitude",
+      "sourceIPA": "/ʁɛve ʒɑ̃n e labityd/",
+      "sourceMeaning": "我早就习惯了做梦",
+      "speaker": "",
+      "start": 34.5,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 67,
-        "sourceLineNumber": 884,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          880
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "L'assurance et l'insolence des gens heureux. C'est pas faute, pas faute, de tout faire comme eux.",
-      "start": 74,
-      "ipa": "[lasyʁɑ̃s e lɛ̃solɑ̃s de ʒɑ̃ øʁø sɛ pa fot pa fot də tu fɛʁ kɔm‿ø]",
-      "ear": "拉西于杭斯 诶 兰索朗斯 德 让 厄赫厄 塞 帕 佛特 帕 佛特 德 图 费赫 科姆 厄",
-      "meaning": "幸福之人的自信与傲慢。我并非没有努力，努力像他们一样做事。",
-      "suppliedText": "l'assuranceolance chance heureux c'est pas faute pas faute de tout faire non",
-      "sourceLineId": "moliere-timed-885",
+      "sourceLineId": "moliere-le-spectacle-musical-01-010",
+      "sourceLineIndex": 10,
+      "lineIndex": 10,
+      "sourceText": "Pour m'évader, changer d'altitude",
+      "ipa": "[puʁ mevade ʃɑ̃ʒe daltityd]",
+      "ear": "普赫 梅瓦德 尚热 达勒蒂蒂于德",
+      "meaning": "为了逃离，飞往另一个高度。",
+      "suppliedText": "Pour m'évader, changer d'altitude",
+      "sourceIPA": "/puʁ mevade ʃɑ̃ʒe daltityd/",
+      "sourceMeaning": "为了逃脱，不惧飞往高空",
+      "speaker": "",
+      "start": 39.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 74,
-        "sourceLineNumber": 885,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          880,
+          881
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Mais n'est pas toujours heureux celui qui veut. Je veux jouer tous les rôles, essayer tous",
-      "start": 81,
-      "ipa": "[mɛ nɛ pa tuʒuʁ‿øʁø səlɥi ki vø ʒə vø ʒwe tu le ʁol esɛje tus]",
-      "ear": "梅 奈 帕 图茹赫 厄赫厄 瑟勒于伊 基 弗厄 热 弗厄 日乌诶 图 莱 霍勒 诶塞耶诶 图斯",
-      "meaning": "可想要幸福的人并不总能幸福。我想演遍所有角色，试穿所有",
-      "suppliedText": "mais n'est pas toujours heureux celui je vais jouer tous les rôles et T",
-      "sourceLineId": "moliere-timed-886",
+      "sourceLineId": "moliere-le-spectacle-musical-01-011",
+      "sourceLineIndex": 11,
+      "lineIndex": 11,
+      "sourceText": "Accrocher à ma solitude",
+      "ipa": "[akʁoʃe a ma solityd]",
+      "ear": "阿克霍谢 阿 玛 索利蒂于德",
+      "meaning": "紧握住我的孤独不放",
+      "suppliedText": "Accrocher à ma solitude",
+      "sourceIPA": "/akʁoʃe a ma solityd/",
+      "sourceMeaning": "紧握住我的孤独不放",
+      "speaker": "",
+      "start": 43.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 81,
-        "sourceLineNumber": 886,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          881
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Les costumes, les plus sombres et les plus drôles. Oui, rêver, j'en ai",
-      "start": 89,
-      "ipa": "[le kɔstym le ply sɔ̃bʁ e le ply dʁol wi ʁɛve ʒɑ̃ e]",
-      "ear": "莱 科斯蒂于姆 莱 普吕 松布赫 诶 莱 普吕 德霍勒 乌伊 赫韦 让 诶",
-      "meaning": "戏服，最阴暗的和最滑稽的。是的，做梦，我已经",
-      "suppliedText": "les costumes les plus sombres et les plus tr r j'en est",
-      "sourceLineId": "moliere-timed-887",
+      "sourceLineId": "moliere-le-spectacle-musical-01-012",
+      "sourceLineIndex": 12,
+      "lineIndex": 12,
+      "sourceText": "J'en ai l'habitude, j'en ai l'habitude",
+      "ipa": "[ʒɑ̃ e labityd ʒɑ̃ e labityd]",
+      "ear": "让 诶 拉比蒂于德 让 诶 拉比蒂于德",
+      "meaning": "我早就习惯了，我早就习惯",
+      "suppliedText": "J'en ai l'habitude, j'en ai l'habitude",
+      "sourceIPA": "/ʒɑ̃n e labityd ʒɑ̃n e labityd/",
+      "sourceMeaning": "我早就习惯了，我早就习惯",
+      "speaker": "",
+      "start": 45.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 89,
-        "sourceLineNumber": 887,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          881,
+          882
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "L'habitude. Rêver, j'en ai l'habitude, pour m'évader, changer",
-      "start": 95,
-      "ipa": "[labityd ʁɛve ʒɑ̃ e labityd puʁ mevade ʃɑ̃ʒe]",
-      "ear": "拉比蒂于德 赫韦 让 诶 拉比蒂于德 普赫 梅瓦德 尚热",
-      "meaning": "习惯了。我习惯做梦，好让自己逃离，飞往",
-      "suppliedText": "l'habitude RV j'en est l'habitude m changer",
-      "sourceLineId": "moliere-timed-888",
+      "sourceLineId": "moliere-le-spectacle-musical-01-013",
+      "sourceLineIndex": 13,
+      "lineIndex": 13,
+      "sourceText": "Je dois m'enivrer d'incertitude",
+      "ipa": "[ʒə dwa mɑ̃nivʁe dɛ̃sɛʁtityd]",
+      "ear": "热 德乌阿 芒尼弗赫 丹塞赫蒂蒂于德",
+      "meaning": "我必须沉醉于未知。",
+      "suppliedText": "Je dois m'enivrer d'incertitude",
+      "sourceIPA": "/ʒə dwa mɑ̃nivʁe dɛ̃sɛʁtityd/",
+      "sourceMeaning": "我就该沉溺于漂泊无依",
+      "speaker": "",
+      "start": 50.333,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 95,
-        "sourceLineNumber": 888,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          882
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "D'altitude, accrocher à ma solitude. J'en ai l'habitude, j'en ai",
-      "start": 103,
-      "ipa": "[daltityd akʁoʃe a ma solityd ʒɑ̃ e labityd ʒɑ̃ e]",
-      "ear": "达勒蒂蒂于德 阿克霍谢 阿 玛 索利蒂于德 让 诶 拉比蒂于德 让 诶",
-      "meaning": "另一个高度，抓住我的孤独。我早已习惯，我已经",
-      "suppliedText": "d'attitude accroché à ma solitude j'en ai l'habitude j'en ai",
-      "sourceLineId": "moliere-timed-889",
+      "sourceLineId": "moliere-le-spectacle-musical-01-014",
+      "sourceLineIndex": 14,
+      "lineIndex": 14,
+      "sourceText": "Vivre sous d'autres latitudes",
+      "ipa": "[vivʁ su dotʁ latityd]",
+      "ear": "维弗赫 苏 多特赫 拉蒂蒂于德",
+      "meaning": "生活在别的纬度。",
+      "suppliedText": "Vivre sous d'autres latitudes",
+      "sourceIPA": "/vivʁ su dotʁ latityd/",
+      "sourceMeaning": "另寻一方乐土去生活",
+      "speaker": "",
+      "start": 54.333,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 103,
-        "sourceLineNumber": 889,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          882,
+          883
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "L'habitude. Je dois m'enivrer d'incertitude, vivre sous d'autres latitudes, pour me libérer de",
-      "start": 110,
-      "ipa": "[labityd ʒə dwa mɑ̃nivʁe dɛ̃sɛʁtityd vivʁ su dotʁ latityd puʁ mə libeʁe də]",
-      "ear": "拉比蒂于德 热 德乌阿 芒尼弗赫 丹塞赫蒂蒂于德 维弗赫 苏 多特赫 拉蒂蒂于德 普赫 默 利贝赫 德",
-      "meaning": "习惯了。我必须沉醉于未知，生活在别的纬度，摆脱",
-      "suppliedText": "l'habitude je dois m'enivrer d'un certitudetitudetitude pour me libérer de",
-      "sourceLineId": "moliere-timed-890",
+      "sourceLineId": "moliere-le-spectacle-musical-01-015",
+      "sourceLineIndex": 15,
+      "lineIndex": 15,
+      "sourceText": "Pour me libérer de ma lassitude",
+      "ipa": "[puʁ mə libeʁe də ma lasityd]",
+      "ear": "普赫 默 利贝赫 德 玛 拉西蒂于德",
+      "meaning": "只为从萎靡倦怠之中将自己释放",
+      "suppliedText": "Pour me libérer de ma lassitude",
+      "sourceIPA": "/puʁ mə libeʁe də ma lasityd/",
+      "sourceMeaning": "只为从萎靡倦怠之中将自己释放",
+      "speaker": "",
+      "start": 57.667,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 110,
-        "sourceLineNumber": 890,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          883
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Ma lassitude. J'en ai l'habitude, j'en ai",
-      "start": 121,
-      "ipa": "[ma lasityd ʒɑ̃ e labityd ʒɑ̃ e]",
-      "ear": "玛 拉西蒂于德 让 诶 拉比蒂于德 让 诶",
-      "meaning": "我的倦怠。我早已习惯，我已经",
-      "suppliedText": "ma latitude j'en ai l'habitude j'en ai",
-      "sourceLineId": "moliere-timed-891",
+      "sourceLineId": "moliere-le-spectacle-musical-01-016",
+      "sourceLineIndex": 16,
+      "lineIndex": 16,
+      "sourceText": "J'en ai l'habitude, j'en ai l'habitude",
+      "ipa": "[ʒɑ̃ e labityd ʒɑ̃ e labityd]",
+      "ear": "让 诶 拉比蒂于德 让 诶 拉比蒂于德",
+      "meaning": "我早就习惯了，我早就习惯",
+      "suppliedText": "J'en ai l'habitude, j'en ai l'habitude",
+      "sourceIPA": "/ʒɑ̃n e labityd ʒɑ̃n e labityd/",
+      "sourceMeaning": "我早就习惯了，我早就习惯",
+      "speaker": "",
+      "start": 61.667,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 121,
-        "sourceLineNumber": 891,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          883,
+          884
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "L'habitude. Côté cour, je joue la comédie humaine. Côté cœur, j'avoue, je sais pas me",
-      "start": 129,
-      "ipa": "[labityd kote kuʁ ʒə ʒu la komedi ymɛn kote kœʁ ʒavu ʒə sɛ pa mə]",
-      "ear": "拉比蒂于德 科特 库赫 热 茹 拉 科梅迪 于梅恩 科特 克厄赫 扎乌 热 塞 帕 默",
-      "meaning": "习惯了。舞台的一侧，我演着人间喜剧。至于内心，我承认，不知道如何把自己",
-      "suppliedText": "l'habitude cou je joue la comédie humaine cœur j'avoue je sais pas de",
-      "sourceLineId": "moliere-timed-893",
+      "sourceLineId": "moliere-le-spectacle-musical-01-017",
+      "sourceLineIndex": 17,
+      "lineIndex": 17,
+      "sourceText": "Les autres les autres, ils ont dans les yeux",
+      "ipa": "[lez‿otʁ lez‿otʁ ilz‿ɔ̃ dɑ̃ lez‿jø]",
+      "ear": "莱兹 奥特赫 莱兹 奥特赫 伊勒兹 翁 当 莱兹 耶厄",
+      "meaning": "别人，别人，他们的眼里有",
+      "suppliedText": "Les autres les autres, ils ont dans les yeux",
+      "sourceIPA": "/lez otʁ lez otʁ ilz ɔ̃ dɑ̃ lez jø/",
+      "sourceMeaning": "旁观者，旁观者，在他们的眼中",
+      "speaker": "",
+      "start": 68.273,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 129,
-        "sourceLineNumber": 893,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          884
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Mettre en scène. Dans ma tête, je fais le noir et je m'invente des",
-      "start": 137,
-      "ipa": "[mɛtʁ‿ɑ̃ sɛn dɑ̃ ma tɛt ʒə fɛ lə nwaʁ e ʒə mɛ̃vɑ̃t de]",
-      "ear": "梅特赫 昂 塞恩 当 玛 泰特 热 费 勒 恩乌阿赫 诶 热 曼旺特 德",
-      "meaning": "搬上舞台。我在脑海里让灯光暗下，为自己编造",
-      "suppliedText": "mettre en dans ma tête je vais le VO et je m'invente des",
-      "sourceLineId": "moliere-timed-894",
+      "sourceLineId": "moliere-le-spectacle-musical-01-018",
+      "sourceLineIndex": 18,
+      "lineIndex": 18,
+      "sourceText": "L'assurance et l'insolence des gens heureux",
+      "ipa": "[lasyʁɑ̃s e lɛ̃solɑ̃s de ʒɑ̃ øʁø]",
+      "ear": "拉西于杭斯 诶 兰索朗斯 德 让 厄赫厄",
+      "meaning": "幸福之人的自信与傲慢。",
+      "suppliedText": "L'assurance et l'insolence des gens heureux",
+      "sourceIPA": "/lasyʁɑ̃s e lɛ̃solɑ̃s de ʒɑ̃ øʁø/",
+      "sourceMeaning": "有幸运者们的迷之自信与肆无忌惮",
+      "speaker": "",
+      "start": 74.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 137,
-        "sourceLineNumber": 894,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          885
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Histoires. Pour m'évader, changer d'altitude, accrocher à ma solitude. J'en",
-      "start": 143,
-      "ipa": "[istwaʁ puʁ mevade ʃɑ̃ʒe daltityd akʁoʃe a ma solityd ʒɑ̃]",
-      "ear": "伊斯特乌阿赫 普赫 梅瓦德 尚热 达勒蒂蒂于德 阿克霍谢 阿 玛 索利蒂于德 让",
-      "meaning": "故事。让我逃离，飞往另一个高度，抓住我的孤独。我已经",
-      "suppliedText": "histoires et va changer d'attitude accrocher à ma solitude j'en",
-      "sourceLineId": "moliere-timed-895",
+      "sourceLineId": "moliere-le-spectacle-musical-01-019",
+      "sourceLineIndex": 19,
+      "lineIndex": 19,
+      "sourceText": "C'est pas faute, pas faute, de tout faire comme eux",
+      "ipa": "[sɛ pa fot pa fot də tu fɛʁ kɔm‿ø]",
+      "ear": "塞 帕 佛特 帕 佛特 德 图 费赫 科姆 厄",
+      "meaning": "我并非没有努力像他们一样做事。",
+      "suppliedText": "C'est pas faute, pas faute, de tout faire comme eux",
+      "sourceIPA": "/sɛ pa fot pa fot də tu fɛʁ kɔm ø/",
+      "sourceMeaning": "倒也没错，也没错，一切都像他们那样做",
+      "speaker": "",
+      "start": 76.947,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 143,
-        "sourceLineNumber": 895,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          885
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Ai l'habitude, j'en ai l'habitude.",
-      "start": 152,
-      "ipa": "[e labityd ʒɑ̃ e labityd]",
-      "ear": "诶 拉比蒂于德 让 诶 拉比蒂于德",
-      "meaning": "习惯了，我早已习惯。",
-      "suppliedText": "ai l'habitude j'en ai l'habitude",
-      "sourceLineId": "moliere-timed-896",
+      "sourceLineId": "moliere-le-spectacle-musical-01-020",
+      "sourceLineIndex": 20,
+      "lineIndex": 20,
+      "sourceText": "Mais n'est pas toujours heureux celui qui veut",
+      "ipa": "[mɛ nɛ pa tuʒuʁ‿øʁø səlɥi ki vø]",
+      "ear": "梅 奈 帕 图茹赫 厄赫厄 瑟勒于伊 基 弗厄",
+      "meaning": "可想要幸福的人，并不总能幸福。",
+      "suppliedText": "Mais n'est pas toujours heureux celui qui veut",
+      "sourceIPA": "/mɛ nɛ pa tuʒuʁz øʁø səlɥi ki vø/",
+      "sourceMeaning": "可若心怀不甘，就永远无法快乐",
+      "speaker": "",
+      "start": 81.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 152,
-        "sourceLineNumber": 896,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          886
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Pour m'évader, changer d'altitude, accrocher à ma solitude. J'en ai",
-      "start": 160,
-      "ipa": "[puʁ mevade ʃɑ̃ʒe daltityd akʁoʃe a ma solityd ʒɑ̃ e]",
-      "ear": "普赫 梅瓦德 尚热 达勒蒂蒂于德 阿克霍谢 阿 玛 索利蒂于德 让 诶",
-      "meaning": "为了逃离，飞往另一个高度，抓住我的孤独。我已经",
-      "suppliedText": "l'habitude ma vi changeer d'attitude ch accrocher dans ma solitude j'en",
-      "sourceLineId": "moliere-timed-897",
+      "sourceLineId": "moliere-le-spectacle-musical-01-021",
+      "sourceLineIndex": 21,
+      "lineIndex": 21,
+      "sourceText": "Je veux jouer tous les rôles",
+      "ipa": "[ʒə vø ʒwe tu le ʁol]",
+      "ear": "热 弗厄 日乌诶 图 莱 霍勒",
+      "meaning": "我想演每一个角色",
+      "suppliedText": "Je veux jouer tous les rôles",
+      "sourceIPA": "/ʒə vø ʒwe tu le ʁol/",
+      "sourceMeaning": "我想演每一个角色",
+      "speaker": "",
+      "start": 85.235,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 160,
-        "sourceLineNumber": 897,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          886
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "L'habitude, j'en ai l'habitude. Je dois m'enivrer d'incertitude,",
-      "start": 169,
-      "ipa": "[labityd ʒɑ̃ e labityd ʒə dwa mɑ̃nivʁe dɛ̃sɛʁtityd]",
-      "ear": "拉比蒂于德 让 诶 拉比蒂于德 热 德乌阿 芒尼弗赫 丹塞赫蒂蒂于德",
-      "meaning": "习惯了，我早已习惯。我必须沉醉于未知，",
-      "suppliedText": "l'habitude j'en l'habitude en",
-      "sourceLineId": "moliere-timed-898",
+      "sourceLineId": "moliere-le-spectacle-musical-01-022",
+      "sourceLineIndex": 22,
+      "lineIndex": 22,
+      "sourceText": "Essayer tous les costumes",
+      "ipa": "[esɛje tu le kɔstym]",
+      "ear": "诶塞耶诶 图 莱 科斯蒂于姆",
+      "meaning": "想将每件戏服试穿身上",
+      "suppliedText": "Essayer tous les costumes",
+      "sourceIPA": "/esɛje tu le kɔstym/",
+      "sourceMeaning": "想将每件戏服试穿身上",
+      "speaker": "",
+      "start": 88.059,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 169,
-        "sourceLineNumber": 898,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          886,
+          887
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Vivre sous d'autres latitudes, pour me libérer de ma lassitude. J'en ai",
-      "start": 176,
-      "ipa": "[vivʁ su dotʁ latityd puʁ mə libeʁe də ma lasityd ʒɑ̃ e]",
-      "ear": "维弗赫 苏 多特赫 拉蒂蒂于德 普赫 默 利贝赫 德 玛 拉西蒂于德 让 诶",
-      "meaning": "生活在别的纬度，摆脱我的倦怠。我已经",
-      "suppliedText": "certitude vivre sous notre latitude me libérer de ma latitude j'eni",
-      "sourceLineId": "moliere-timed-899",
+      "sourceLineId": "moliere-le-spectacle-musical-01-023",
+      "sourceLineIndex": 23,
+      "lineIndex": 23,
+      "sourceText": "Les plus sombres et les plus drôles",
+      "ipa": "[le ply sɔ̃bʁ e le ply dʁol]",
+      "ear": "莱 普吕 松布赫 诶 莱 普吕 德霍勒",
+      "meaning": "最阴暗的，最滑稽的款式，我都想试",
+      "suppliedText": "Les plus sombres et les plus drôles",
+      "sourceIPA": "/le ply sɔ̃bʁz e le ply dʁol/",
+      "sourceMeaning": "最阴暗的，最滑稽的款式，我都想试",
+      "speaker": "",
+      "start": 89.857,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 176,
-        "sourceLineNumber": 899,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          887
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "L'habitude, j'en ai l'habitude.",
-      "start": 185,
-      "ipa": "[labityd ʒɑ̃ e labityd]",
-      "ear": "拉比蒂于德 让 诶 拉比蒂于德",
-      "meaning": "习惯了，我早已习惯。",
-      "suppliedText": "l'habitude j'en ai l'habitude",
-      "sourceLineId": "moliere-timed-900",
+      "sourceLineId": "moliere-le-spectacle-musical-01-024",
+      "sourceLineIndex": 24,
+      "lineIndex": 24,
+      "sourceText": "Oui rêver j'en ai l'habitude",
+      "ipa": "[wi ʁɛve ʒɑ̃ e labityd]",
+      "ear": "乌伊 赫韦 让 诶 拉比蒂于德",
+      "meaning": "没错，我就是习惯做梦",
+      "suppliedText": "Oui rêver j'en ai l'habitude",
+      "sourceIPA": "/wi ʁɛve ʒɑ̃n e labityd/",
+      "sourceMeaning": "没错，我就是习惯做梦",
+      "speaker": "",
+      "start": 92.857,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 185,
-        "sourceLineNumber": 900,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          887,
+          888
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-025",
+      "sourceLineIndex": 25,
+      "lineIndex": 25,
+      "sourceText": "Rêver j'en ai l'habitude",
+      "ipa": "[ʁɛve ʒɑ̃ e labityd]",
+      "ear": "赫韦 让 诶 拉比蒂于德",
+      "meaning": "我早就习惯了做梦",
+      "suppliedText": "Rêver j'en ai l'habitude",
+      "sourceIPA": "/ʁɛve ʒɑ̃n e labityd/",
+      "sourceMeaning": "我早就习惯了做梦",
+      "speaker": "",
+      "start": 96.333,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          888
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-026",
+      "sourceLineIndex": 26,
+      "lineIndex": 26,
+      "sourceText": "Pour m'évader, changer d'altitude",
+      "ipa": "[puʁ mevade ʃɑ̃ʒe daltityd]",
+      "ear": "普赫 梅瓦德 尚热 达勒蒂蒂于德",
+      "meaning": "为了逃离，飞往另一个高度。",
+      "suppliedText": "Pour m'évader, changer d'altitude",
+      "sourceIPA": "/puʁ mevade ʃɑ̃ʒe daltityd/",
+      "sourceMeaning": "为了逃脱，不惧飞往天空",
+      "speaker": "",
+      "start": 100.333,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          888,
+          889
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-027",
+      "sourceLineIndex": 27,
+      "lineIndex": 27,
+      "sourceText": "Accrocher à ma solitude",
+      "ipa": "[akʁoʃe a ma solityd]",
+      "ear": "阿克霍谢 阿 玛 索利蒂于德",
+      "meaning": "紧握住我的孤独不放",
+      "suppliedText": "Accrocher à ma solitude",
+      "sourceIPA": "/akʁoʃe a ma solityd/",
+      "sourceMeaning": "紧握住我的孤独不放",
+      "speaker": "",
+      "start": 104.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          889
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-028",
+      "sourceLineIndex": 28,
+      "lineIndex": 28,
+      "sourceText": "J'en ai l'habitude, j'en ai l'habitude",
+      "ipa": "[ʒɑ̃ e labityd ʒɑ̃ e labityd]",
+      "ear": "让 诶 拉比蒂于德 让 诶 拉比蒂于德",
+      "meaning": "我早就习惯了，我早就习惯",
+      "suppliedText": "J'en ai l'habitude, j'en ai l'habitude",
+      "sourceIPA": "/ʒɑ̃n e labityd ʒɑ̃n e labityd/",
+      "sourceMeaning": "我早就习惯了，我早就习惯",
+      "speaker": "",
+      "start": 106.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          889,
+          890
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-029",
+      "sourceLineIndex": 29,
+      "lineIndex": 29,
+      "sourceText": "Je dois m'enivrer d'incertitude",
+      "ipa": "[ʒə dwa mɑ̃nivʁe dɛ̃sɛʁtityd]",
+      "ear": "热 德乌阿 芒尼弗赫 丹塞赫蒂蒂于德",
+      "meaning": "我必须沉醉于未知。",
+      "suppliedText": "Je dois m'enivrer d'incertitude",
+      "sourceIPA": "/ʒə dwa mɑ̃nivʁe dɛ̃sɛʁtityd/",
+      "sourceMeaning": "我就该沉溺于漂泊无依",
+      "speaker": "",
+      "start": 111.294,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          890
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-030",
+      "sourceLineIndex": 30,
+      "lineIndex": 30,
+      "sourceText": "Vivre sous d'autres latitudes",
+      "ipa": "[vivʁ su dotʁ latityd]",
+      "ear": "维弗赫 苏 多特赫 拉蒂蒂于德",
+      "meaning": "生活在别的纬度。",
+      "suppliedText": "Vivre sous d'autres latitudes",
+      "sourceIPA": "/vivʁ su dotʁ latityd/",
+      "sourceMeaning": "另寻一方乐土去生活",
+      "speaker": "",
+      "start": 115.176,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          890
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-031",
+      "sourceLineIndex": 31,
+      "lineIndex": 31,
+      "sourceText": "Pour me libérer de ma lassitude",
+      "ipa": "[puʁ mə libeʁe də ma lasityd]",
+      "ear": "普赫 默 利贝赫 德 玛 拉西蒂于德",
+      "meaning": "只为从萎靡倦怠之中将自己释放",
+      "suppliedText": "Pour me libérer de ma lassitude",
+      "sourceIPA": "/puʁ mə libeʁe də ma lasityd/",
+      "sourceMeaning": "只为从萎靡倦怠之中将自己释放",
+      "speaker": "",
+      "start": 118.412,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          890,
+          891
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-032",
+      "sourceLineIndex": 32,
+      "lineIndex": 32,
+      "sourceText": "J'en ai l'habitude, j'en ai l'habitude",
+      "ipa": "[ʒɑ̃ e labityd ʒɑ̃ e labityd]",
+      "ear": "让 诶 拉比蒂于德 让 诶 拉比蒂于德",
+      "meaning": "我早就习惯了，我早就习惯",
+      "suppliedText": "J'en ai l'habitude, j'en ai l'habitude",
+      "sourceIPA": "/ʒɑ̃n e labityd ʒɑ̃n e labityd/",
+      "sourceMeaning": "我早就习惯了，我早就习惯",
+      "speaker": "",
+      "start": 122.2,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          891,
+          893
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-033",
+      "sourceLineIndex": 33,
+      "lineIndex": 33,
+      "sourceText": "Côté cour, je joue la comédie humaine",
+      "ipa": "[kote kuʁ ʒə ʒu la komedi ymɛn]",
+      "ear": "科特 库赫 热 茹 拉 科梅迪 于梅恩",
+      "meaning": "舞台的一侧，我演着人间喜剧。",
+      "suppliedText": "Côté cour, je joue la comédie humaine",
+      "sourceIPA": "/kote kuʁ ʒə ʒu la komedi ymɛn/",
+      "sourceMeaning": "宫廷中，我出演人间喜剧",
+      "speaker": "",
+      "start": 129.941,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          893
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-034",
+      "sourceLineIndex": 34,
+      "lineIndex": 34,
+      "sourceText": "Côté cœur, j'avoue je sais pas me mettre en scène",
+      "ipa": "[kote kœʁ ʒavu ʒə sɛ pa mə mɛtʁ‿ɑ̃ sɛn]",
+      "ear": "科特 克厄赫 扎乌 热 塞 帕 默 梅特赫 昂 塞恩",
+      "meaning": "至于内心，我承认，不知道如何把自己搬上舞台。",
+      "suppliedText": "Côté cœur, j'avoue je sais pas me mettre en scène",
+      "sourceIPA": "/kote kœʁ ʒavu ʒə sɛ pa mə mɛtʁ ɑ̃ sɛn/",
+      "sourceMeaning": "打心底，我承认，我不知如何导演我的人生",
+      "speaker": "",
+      "start": 133.235,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          893,
+          894
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-035",
+      "sourceLineIndex": 35,
+      "lineIndex": 35,
+      "sourceText": "Dans ma tête je fais le noir et je m'invente des histoires",
+      "ipa": "[dɑ̃ ma tɛt ʒə fɛ lə nwaʁ e ʒə mɛ̃vɑ̃t dez‿istwaʁ]",
+      "ear": "当 玛 泰特 热 费 勒 恩乌阿赫 诶 热 曼旺特 德兹 伊斯特乌阿赫",
+      "meaning": "我在脑海里让灯光暗下，为自己编造故事。",
+      "suppliedText": "Dans ma tête je fais le noir et je m'invente des histoires",
+      "sourceIPA": "/dɑ̃ ma tɛt ʒə fɛ lə nwaʁ e ʒə mɛ̃vɑ̃t dez istwaʁ/",
+      "sourceMeaning": "脑海中，我收光暗场，自己虚构自己的故事",
+      "speaker": "",
+      "start": 138.2,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          894,
+          895
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-036",
+      "sourceLineIndex": 36,
+      "lineIndex": 36,
+      "sourceText": "Pour m'évader, changer d'altitude",
+      "ipa": "[puʁ mevade ʃɑ̃ʒe daltityd]",
+      "ear": "普赫 梅瓦德 尚热 达勒蒂蒂于德",
+      "meaning": "为了逃离，飞往另一个高度。",
+      "suppliedText": "Pour m'évader, changer d'altitude",
+      "sourceIPA": "/puʁ mevade ʃɑ̃ʒe daltityd/",
+      "sourceMeaning": "为了逃脱，不惧飞往天空",
+      "speaker": "",
+      "start": 143.692,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          895
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-037",
+      "sourceLineIndex": 37,
+      "lineIndex": 37,
+      "sourceText": "Accrocher à ma solitude",
+      "ipa": "[akʁoʃe a ma solityd]",
+      "ear": "阿克霍谢 阿 玛 索利蒂于德",
+      "meaning": "紧握住我的孤独不放",
+      "suppliedText": "Accrocher à ma solitude",
+      "sourceIPA": "/akʁoʃe a ma solityd/",
+      "sourceMeaning": "紧握住我的孤独不放",
+      "speaker": "",
+      "start": 147.846,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          895
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-038",
+      "sourceLineIndex": 38,
+      "lineIndex": 38,
+      "sourceText": "J'en ai l'habitude, j'en ai l'habitude",
+      "ipa": "[ʒɑ̃ e labityd ʒɑ̃ e labityd]",
+      "ear": "让 诶 拉比蒂于德 让 诶 拉比蒂于德",
+      "meaning": "我早就习惯了，我早就习惯",
+      "suppliedText": "J'en ai l'habitude, j'en ai l'habitude",
+      "sourceIPA": "/ʒɑ̃n e labityd ʒɑ̃n e labityd/",
+      "sourceMeaning": "我早就习惯了，我早就习惯",
+      "speaker": "",
+      "start": 149.923,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          895,
+          896
+        ],
+        "wordCoverage": 0.6
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-039",
+      "sourceLineIndex": 39,
+      "lineIndex": 39,
+      "sourceText": "Rêver j'en ai l'habitude",
+      "ipa": "[ʁɛve ʒɑ̃ e labityd]",
+      "ear": "赫韦 让 诶 拉比蒂于德",
+      "meaning": "我早就习惯了做梦",
+      "suppliedText": "Rêver j'en ai l'habitude",
+      "sourceIPA": "/ʁɛve ʒɑ̃n e labityd/",
+      "sourceMeaning": "我早就习惯了做梦",
+      "speaker": "",
+      "start": 154.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          896
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-040",
+      "sourceLineIndex": 40,
+      "lineIndex": 40,
+      "sourceText": "Pour m'évader, changer d'altitude",
+      "ipa": "[puʁ mevade ʃɑ̃ʒe daltityd]",
+      "ear": "普赫 梅瓦德 尚热 达勒蒂蒂于德",
+      "meaning": "为了逃离，飞往另一个高度。",
+      "suppliedText": "Pour m'évader, changer d'altitude",
+      "sourceIPA": "/puʁ mevade ʃɑ̃ʒe daltityd/",
+      "sourceMeaning": "为了逃脱，不惧飞往天空",
+      "speaker": "",
+      "start": 160.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          897
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-041",
+      "sourceLineIndex": 41,
+      "lineIndex": 41,
+      "sourceText": "Accrocher à ma solitude",
+      "ipa": "[akʁoʃe a ma solityd]",
+      "ear": "阿克霍谢 阿 玛 索利蒂于德",
+      "meaning": "紧握住我的孤独不放",
+      "suppliedText": "Accrocher à ma solitude",
+      "sourceIPA": "/akʁoʃe a ma solityd/",
+      "sourceMeaning": "紧握住我的孤独不放",
+      "speaker": "",
+      "start": 164.154,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          897
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-042",
+      "sourceLineIndex": 42,
+      "lineIndex": 42,
+      "sourceText": "J'en ai l'habitude, j'en ai l'habitude",
+      "ipa": "[ʒɑ̃ e labityd ʒɑ̃ e labityd]",
+      "ear": "让 诶 拉比蒂于德 让 诶 拉比蒂于德",
+      "meaning": "我早就习惯了，我早就习惯",
+      "suppliedText": "J'en ai l'habitude, j'en ai l'habitude",
+      "sourceIPA": "/ʒɑ̃n e labityd ʒɑ̃n e labityd/",
+      "sourceMeaning": "我早就习惯了，我早就习惯",
+      "speaker": "",
+      "start": 166.923,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          897,
+          898
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-043",
+      "sourceLineIndex": 43,
+      "lineIndex": 43,
+      "sourceText": "Je dois m'enivrer d'incertitude",
+      "ipa": "[ʒə dwa mɑ̃nivʁe dɛ̃sɛʁtityd]",
+      "ear": "热 德乌阿 芒尼弗赫 丹塞赫蒂蒂于德",
+      "meaning": "我必须沉醉于未知。",
+      "suppliedText": "Je dois m'enivrer d'incertitude",
+      "sourceIPA": "/ʒə dwa mɑ̃nivʁe dɛ̃sɛʁtityd/",
+      "sourceMeaning": "我就该沉溺于漂泊无依",
+      "speaker": "",
+      "start": 172.769,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          898
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-044",
+      "sourceLineIndex": 44,
+      "lineIndex": 44,
+      "sourceText": "Vivre sous d'autres latitudes",
+      "ipa": "[vivʁ su dotʁ latityd]",
+      "ear": "维弗赫 苏 多特赫 拉蒂蒂于德",
+      "meaning": "生活在别的纬度。",
+      "suppliedText": "Vivre sous d'autres latitudes",
+      "sourceIPA": "/vivʁ su dotʁ latityd/",
+      "sourceMeaning": "另寻一方乐土去生活",
+      "speaker": "",
+      "start": 176.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          899
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-045",
+      "sourceLineIndex": 45,
+      "lineIndex": 45,
+      "sourceText": "Pour me libérer de ma lassitude",
+      "ipa": "[puʁ mə libeʁe də ma lasityd]",
+      "ear": "普赫 默 利贝赫 德 玛 拉西蒂于德",
+      "meaning": "只为从萎靡倦怠之中将自己释放",
+      "suppliedText": "Pour me libérer de ma lassitude",
+      "sourceIPA": "/puʁ mə libeʁe də ma lasityd/",
+      "sourceMeaning": "只为从萎靡倦怠之中将自己释放",
+      "speaker": "",
+      "start": 179.214,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          899
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-046",
+      "sourceLineIndex": 46,
+      "lineIndex": 46,
+      "sourceText": "J'en ai l'habitude, j'en ai l'habitude",
+      "ipa": "[ʒɑ̃ e labityd ʒɑ̃ e labityd]",
+      "ear": "让 诶 拉比蒂于德 让 诶 拉比蒂于德",
+      "meaning": "我早就习惯了，我早就习惯",
+      "suppliedText": "J'en ai l'habitude, j'en ai l'habitude",
+      "sourceIPA": "/ʒɑ̃n e labityd ʒɑ̃n e labityd/",
+      "sourceMeaning": "我早就习惯了，我早就习惯",
+      "speaker": "",
+      "start": 182.429,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          899,
+          900
+        ],
+        "wordCoverage": 0.6
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-01-047",
+      "sourceLineIndex": 47,
+      "lineIndex": 47,
+      "sourceText": "Rêver j'en ai l'habitude",
+      "ipa": "[ʁɛve ʒɑ̃ e labityd]",
+      "ear": "赫韦 让 诶 拉比蒂于德",
+      "meaning": "我早就习惯了做梦",
+      "suppliedText": "Rêver j'en ai l'habitude",
+      "sourceIPA": "/ʁɛve ʒɑ̃n e labityd/",
+      "sourceMeaning": "我早就习惯了做梦",
+      "speaker": "",
+      "start": 185.571,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          900
+        ],
+        "wordCoverage": 1.0
       }
     }
-  ],
-  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+  ]
 }

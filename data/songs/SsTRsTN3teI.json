@@ -18,64 +18,139 @@
   "lyricsStorage": "user-provided",
   "cues": [
     {
-      "text": "Dans ce monde qui m'a vue grandir, une femme n'a pas le droit au désir. Elle n'est…",
-      "start": 12,
-      "duration": 6
+      "text": "Dans ce monde qui m'a vue grandir",
+      "start": 12.0,
+      "duration": 2.4
     },
     {
-      "text": "Qu'un ventre que l'on nourrit pour un jour porter la vie. Elle sort à peine de son…",
-      "start": 18,
-      "duration": 7
+      "text": "Une femme n'a pas droit au désir",
+      "start": 14.4,
+      "duration": 2.7
     },
     {
-      "text": "Enfance qu'on lui vole ses rêves et son innocence. Son père lui impose un mari.",
-      "start": 25,
-      "duration": 10
+      "text": "Elle est un ventre que l'on nourrit",
+      "start": 17.1,
+      "duration": 3.479
     },
     {
-      "text": "Elle a choisi de se moquer de ce que les gens… Connaître l'ivresse de la…",
-      "start": 35,
-      "duration": 8
+      "text": "Pour un jour porter la vie",
+      "start": 20.579,
+      "duration": 2.21
     },
     {
-      "text": "Vie, aimer au gré de ses envies, jusqu'au jour où…",
-      "start": 43,
-      "duration": 8
+      "text": "Elle sort à peine de son enfance",
+      "start": 22.789,
+      "duration": 2.836
     },
     {
-      "text": "Elle a rencontré un homme…",
-      "start": 51,
-      "duration": 4
+      "text": "Qu'on lui vole ses rêves et son innocence",
+      "start": 25.625,
+      "duration": 5.625
     },
     {
-      "text": "Marié… Esprit de Raymond est son nom, il est comte de Modène et chambellan…",
-      "start": 56,
-      "duration": 8
+      "text": "Son père lui impose un mari",
+      "start": 31.25,
+      "duration": 3.75
     },
     {
-      "text": "J'avais à peine dix-neuf ans quand nous sommes devenus amants. De notre amour est née une…",
-      "start": 64,
-      "duration": 8
+      "text": "Elle a choisi de se moquer",
+      "start": 35.0,
+      "duration": 3.0
     },
     {
-      "text": "Fille. À défaut d'une famille, son père lui donna un…",
-      "start": 72,
-      "duration": 6
+      "text": "De ce que les gens d'elle diraient",
+      "start": 38.0,
+      "duration": 2.5
     },
     {
-      "text": "Elle a choisi de se moquer de ce que les…",
-      "start": 95,
-      "duration": 8
+      "text": "Connaître l'ivresse de la vie",
+      "start": 40.5,
+      "duration": 3.227
     },
     {
-      "text": "Gens… Connaître l'ivresse de la vie, aimer au gré de ses envies, jusqu'au jour…",
-      "start": 103,
-      "duration": 11
+      "text": "Aimer au gré de ses envies",
+      "start": 43.727,
+      "duration": 4.364
     },
     {
-      "text": "Où… rencontré un homme marié.",
-      "start": 114,
-      "duration": 11
+      "text": "Jusqu'au jour où elle a rencontré",
+      "start": 48.091,
+      "duration": 5.309
+    },
+    {
+      "text": "Un homme marié et de noble lignée",
+      "start": 53.4,
+      "duration": 3.171
+    },
+    {
+      "text": "Esprit de Raimond est son nom",
+      "start": 56.571,
+      "duration": 3.429
+    },
+    {
+      "text": "Il est comte de Modène et chambellan",
+      "start": 60.0,
+      "duration": 4.0
+    },
+    {
+      "text": "J'avais à peine dix-neuf ans",
+      "start": 64.0,
+      "duration": 3.111
+    },
+    {
+      "text": "Quand nous sommes devenus amants",
+      "start": 67.111,
+      "duration": 2.222
+    },
+    {
+      "text": "De notre amour est née une fille",
+      "start": 69.333,
+      "duration": 2.667
+    },
+    {
+      "text": "Mais à défaut d'une famille",
+      "start": 72.0,
+      "duration": 3.273
+    },
+    {
+      "text": "Son père lui donna un prénom",
+      "start": 75.273,
+      "duration": 5.427
+    },
+    {
+      "text": "Elle a choisi de se moquer",
+      "start": 95.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Elle a choisi de se moquer",
+      "start": 99.0,
+      "duration": 1.6
+    },
+    {
+      "text": "De ce que les gens d'elle diraient",
+      "start": 100.6,
+      "duration": 3.088
+    },
+    {
+      "text": "Connaître l'ivresse de la vie",
+      "start": 103.688,
+      "duration": 4.124
+    },
+    {
+      "text": "Aimer au gré de ses envies",
+      "start": 107.812,
+      "duration": 4.126
+    },
+    {
+      "text": "Jusqu'au jour où elle a rencontré",
+      "start": 111.938,
+      "duration": 6.462
+    },
+    {
+      "text": "Un homme marié et de noble lignée",
+      "start": 118.4,
+      "duration": 6.6
     }
   ],
   "playbackVideoId": "SsTRsTN3teI",
@@ -177,7 +252,7 @@
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
   "timingReviewStatus": "approximate",
-  "textReviewStatus": "spelling-and-grammar-edits",
+  "textReviewStatus": "cross-checked",
   "phoneticReviewStatus": "not-generated",
   "studyKind": "four-layer",
   "mediaKind": "stage-video",
@@ -277,10 +352,10 @@
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
   },
-  "studyVersion": 2,
+  "studyVersion": 3,
   "studyInput": {
-    "file": "time-caption.txt",
-    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+    "file": "moliere-supplied-lyrics.json",
+    "sha256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134"
   },
   "suppliedCaptionBlocks": [
     {

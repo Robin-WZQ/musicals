@@ -1,230 +1,806 @@
 {
   "videoId": "1a4HnbB4HrM",
   "playbackVideoId": "1a4HnbB4HrM",
-  "version": 2,
-  "textSource": "user-supplied-auto-transcript",
-  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "spelling-and-grammar-edits",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "sourceFileSHA256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134",
+  "textReviewStatus": "cross-checked",
+  "textReviewScope": "supplied-lyrics-spelling-grammar-and-chinese-meaning",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
-  "meaningSource": "editorial-chinese-from-user-transcript",
-  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
+  "meaningSource": "reviewed-user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "note": "歌词依据你提供的完整文件校对，中文释义已修订。学习卡片按现有现场录像整理，完整歌词另行归档；≈ 表示依据原字幕估算的分句位置。音标与空耳为文字的参考读法。",
   "sources": [
     {
-      "label": "本段原唱录像",
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+    },
+    {
+      "label": "本曲现场录像",
       "url": "https://www.youtube.com/watch?v=1a4HnbB4HrM"
     }
   ],
   "entries": [
     {
-      "sourceText": "Non, non, ne dis rien, non, ne dis rien. Tous les mots sont…",
-      "start": 1,
-      "ipa": "[nɔ̃ nɔ̃ nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃ tu le mo sɔ̃]",
-      "ear": "农 农 讷 迪 赫耶安 农 讷 迪 赫耶安 图 莱 莫 松",
-      "meaning": "不，什么都别说，别说。所有话语都……",
-      "suppliedText": "non non ne dis rien non ne dis rien tous les mots sont",
-      "sourceLineId": "moliere-timed-694",
+      "sourceLineId": "moliere-le-spectacle-musical-15-001",
+      "sourceLineIndex": 1,
+      "lineIndex": 1,
+      "sourceText": "Ne dis rien, non ne dis rien",
+      "ipa": "[nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃]",
+      "ear": "讷 迪 赫耶安 农 讷 迪 赫耶安",
+      "meaning": "别再说 不必再说",
+      "suppliedText": "Ne dis rien, non ne dis rien",
+      "sourceIPA": "/nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃/",
+      "sourceMeaning": "别再说 不必再说",
+      "speaker": "",
+      "start": 1.692,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 1,
-        "sourceLineNumber": 694,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          694
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Inutiles. Tu sais bien, oui, tu sais bien que tout le reste est…",
-      "start": 10,
-      "ipa": "[inytil ty sɛ bjɛ̃ wi ty sɛ bjɛ̃ kə tu lə ʁɛst‿ɛ]",
-      "ear": "伊尼于蒂勒 蒂于 塞 布耶安 乌伊 蒂于 塞 布耶安 克 图 勒 赫斯特 艾",
-      "meaning": "无用。你知道，你知道其余的一切都……",
-      "suppliedText": "inutiles tu sais bien oui tu sais bien que tout le reste est",
-      "sourceLineId": "moliere-timed-695",
+      "sourceLineId": "moliere-le-spectacle-musical-15-002",
+      "sourceLineIndex": 2,
+      "lineIndex": 2,
+      "sourceText": "Tous les mots sont inutiles",
+      "ipa": "[tu le mo sɔ̃t‿inytil]",
+      "ear": "图 莱 莫 松特 伊尼于蒂勒",
+      "meaning": "所有的话都多说无益",
+      "suppliedText": "Tous les mots sont inutiles",
+      "sourceIPA": "/tu le mo sɔ̃t inytil/",
+      "sourceMeaning": "所有的话都多说无益",
+      "speaker": "",
+      "start": 7.231,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 10,
-        "sourceLineNumber": 695,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          694,
+          695
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Futile. Ne dis rien, non, ne dis rien. Pleurer est plus…",
-      "start": 18,
-      "ipa": "[fytil nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃ pløʁe ɛ ply]",
-      "ear": "菲于蒂勒 讷 迪 赫耶安 农 讷 迪 赫耶安 普勒厄赫 艾 普吕",
-      "meaning": "徒然。什么都别说，哭泣更……",
-      "suppliedText": "futile ne dis rien non ne dis rien pleurer est plus",
-      "sourceLineId": "moliere-timed-696",
+      "sourceLineId": "moliere-le-spectacle-musical-15-003",
+      "sourceLineIndex": 3,
+      "lineIndex": 3,
+      "sourceText": "Tu sais bien, oui tu sais bien",
+      "ipa": "[ty sɛ bjɛ̃ wi ty sɛ bjɛ̃]",
+      "ear": "蒂于 塞 布耶安 乌伊 蒂于 塞 布耶安",
+      "meaning": "你都懂 你全都懂",
+      "suppliedText": "Tu sais bien, oui tu sais bien",
+      "sourceIPA": "/ty sɛ bjɛ̃ wi ty sɛ bjɛ̃/",
+      "sourceMeaning": "你都懂 你全都懂",
+      "speaker": "",
+      "start": 10.615,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 18,
-        "sourceLineNumber": 696,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          695
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Facile. Tu sais bien que tu n'y peux rien. La vie est…",
-      "start": 26,
-      "ipa": "[fasil ty sɛ bjɛ̃ kə ty ni pø ʁjɛ̃ la vi ɛ]",
-      "ear": "法西勒 蒂于 塞 布耶安 克 蒂于 尼 珀厄 赫耶安 拉 维 艾",
-      "meaning": "容易。你知道自己无能为力，生命是……",
-      "suppliedText": "facile tu sais bien que tu il peut rien la vie est",
-      "sourceLineId": "moliere-timed-697",
+      "sourceLineId": "moliere-le-spectacle-musical-15-004",
+      "sourceLineIndex": 4,
+      "lineIndex": 4,
+      "sourceText": "Que tout le reste est futile",
+      "ipa": "[kə tu lə ʁɛst‿ɛ fytil]",
+      "ear": "克 图 勒 赫斯特 艾 菲于蒂勒",
+      "meaning": "再做什么也于事无补",
+      "suppliedText": "Que tout le reste est futile",
+      "sourceIPA": "/kə tu lə ʁɛst ɛ fytil/",
+      "sourceMeaning": "再做什么也于事无补",
+      "speaker": "",
+      "start": 14.923,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 26,
-        "sourceLineNumber": 697,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          695,
+          696
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Fragile. Comment supporter l'insupportable quand la douleur lacère l'âme ?",
-      "start": 34,
-      "ipa": "[fʁaʒil kɔmɑ̃ sypɔʁte lɛ̃sypɔʁtabl kɑ̃ la dulœʁ lasɛʁ lam]",
-      "ear": "弗哈日勒 科芒 西于珀赫特 兰西于珀赫塔布勒 康 拉 杜勒厄赫 拉塞赫 拉姆",
-      "meaning": "脆弱的。当痛苦撕裂灵魂，怎样承受无法承受的事？",
-      "suppliedText": "fragile comment supporter l'insupportable quand la douleur la SER",
-      "sourceLineId": "moliere-timed-698",
+      "sourceLineId": "moliere-le-spectacle-musical-15-005",
+      "sourceLineIndex": 5,
+      "lineIndex": 5,
+      "sourceText": "Ne dis rien, non ne dis rien",
+      "ipa": "[nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃]",
+      "ear": "讷 迪 赫耶安 农 讷 迪 赫耶安",
+      "meaning": "别再说 不必再说",
+      "suppliedText": "Ne dis rien, non ne dis rien",
+      "sourceIPA": "/nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃/",
+      "sourceMeaning": "别再说 不必再说",
+      "speaker": "",
+      "start": 18.727,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 34,
-        "sourceLineNumber": 698,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          696
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "… Comment justifier l'injustifiable quand l'innocence…",
-      "start": 42,
-      "ipa": "[kɔmɑ̃ ʒystifje lɛ̃ʒystifjabl kɑ̃ linosɑ̃s]",
-      "ear": "科芒 日于斯蒂弗耶诶 兰日于斯蒂弗耶阿布勒 康 利诺桑斯",
-      "meaning": "……怎样解释无法解释的事，当无辜……",
-      "suppliedText": "là comment justifier l'injustifiable quand l'innocence que",
-      "sourceLineId": "moliere-timed-699",
+      "sourceLineId": "moliere-le-spectacle-musical-15-006",
+      "sourceLineIndex": 6,
+      "lineIndex": 6,
+      "sourceText": "Pleurer est plus facile",
+      "ipa": "[pløʁe ɛ ply fasil]",
+      "ear": "普勒厄赫 艾 普吕 法西勒",
+      "meaning": "眼泪比言语来得轻易",
+      "suppliedText": "Pleurer est plus facile",
+      "sourceIPA": "/pløʁe ɛ ply fasil/",
+      "sourceMeaning": "眼泪比言语来得轻易",
+      "speaker": "",
+      "start": 23.818,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 42,
-        "sourceLineNumber": 699,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          696,
+          697
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "… Et comment accepter l'inacceptable quand on a épuisé toutes…",
-      "start": 48,
-      "ipa": "[e kɔmɑ̃ aksɛpte linaksɛptabl kɑ̃t‿ɔ̃n‿a epɥize tut]",
-      "ear": "诶 科芒 阿克塞普特 利纳克塞普塔布勒 康特 翁恩 阿 诶普于伊泽 图特",
-      "meaning": "……怎样接受无法接受的事，当所有的……",
-      "suppliedText": "toit la femme et comment accepter l'inacceptable quand on a é puisé toutes",
-      "sourceLineId": "moliere-timed-700",
+      "sourceLineId": "moliere-le-spectacle-musical-15-007",
+      "sourceLineIndex": 7,
+      "lineIndex": 7,
+      "sourceText": "Tu sais bien que tu n'y peux rien",
+      "ipa": "[ty sɛ bjɛ̃ kə ty ni pø ʁjɛ̃]",
+      "ear": "蒂于 塞 布耶安 克 蒂于 尼 珀厄 赫耶安",
+      "meaning": "你都懂 无能为力的痛",
+      "suppliedText": "Tu sais bien que tu n′y peux rien",
+      "sourceIPA": "/ty sɛ bjɛ̃ kə ty ni pø ʁjɛ̃/",
+      "sourceMeaning": "你都懂 无能为力的痛",
+      "speaker": "",
+      "start": 26.615,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 48,
-        "sourceLineNumber": 700,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          697
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Les larmes ? Alors on se désigne comme seul coupable. On devient celui que l'on…",
-      "start": 58,
-      "ipa": "[le laʁm alɔʁ‿ɔ̃ sə deziɲ kɔm sœl kupabl ɔ̃ dəvjɛ̃ səlɥi kə lɔ̃]",
-      "ear": "莱 拉赫姆 阿洛赫 翁 瑟 德齐涅 科姆 瑟厄勒 库帕布勒 翁 德弗耶安 瑟勒于伊 克 隆",
-      "meaning": "眼泪都流尽？我们把自己认作唯一的罪人，变成被……",
-      "suppliedText": "les lâes alors on se désigne comme seul coupable on devient celui que l'on",
-      "sourceLineId": "moliere-timed-701",
+      "sourceLineId": "moliere-le-spectacle-musical-15-008",
+      "sourceLineIndex": 8,
+      "lineIndex": 8,
+      "sourceText": "La vie est fragile",
+      "ipa": "[la vi ɛ fʁaʒil]",
+      "ear": "拉 维 艾 弗哈日勒",
+      "meaning": "生命脆弱如斯",
+      "suppliedText": "La vie est fragile",
+      "sourceIPA": "/la vi ɛ fʁaʒil/",
+      "sourceMeaning": "生命脆弱如斯",
+      "speaker": "",
+      "start": 32.154,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 58,
-        "sourceLineNumber": 701,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          697,
+          698
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Blâme. Ne dis rien, non, ne dis rien. Tous les mots sont…",
-      "start": 69,
-      "ipa": "[blam nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃ tu le mo sɔ̃]",
-      "ear": "布拉姆 讷 迪 赫耶安 农 讷 迪 赫耶安 图 莱 莫 松",
-      "meaning": "责怪的人。别说，什么都别说，所有话语都……",
-      "suppliedText": "blâ ne dis rien on ne dit rien tous les mots sont",
-      "sourceLineId": "moliere-timed-702",
+      "sourceLineId": "moliere-le-spectacle-musical-15-009",
+      "sourceLineIndex": 9,
+      "lineIndex": 9,
+      "sourceText": "Comment supporter l'insupportable",
+      "ipa": "[kɔmɑ̃ sypɔʁte lɛ̃sypɔʁtabl]",
+      "ear": "科芒 西于珀赫特 兰西于珀赫塔布勒",
+      "meaning": "要如何承受 无法承受的一切？",
+      "suppliedText": "Comment supporter l'insupportable",
+      "sourceIPA": "/kɔmɑ̃ sypɔʁte lɛ̃sypɔʁtabl/",
+      "sourceMeaning": "要如何承受 无法承受的一切？",
+      "speaker": "",
+      "start": 34.727,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 69,
-        "sourceLineNumber": 702,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          698
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Inutiles. Tu sais bien, oui, tu sais bien que tout le reste est…",
-      "start": 77,
-      "ipa": "[inytil ty sɛ bjɛ̃ wi ty sɛ bjɛ̃ kə tu lə ʁɛst‿ɛ]",
-      "ear": "伊尼于蒂勒 蒂于 塞 布耶安 乌伊 蒂于 塞 布耶安 克 图 勒 赫斯特 艾",
-      "meaning": "无用。你知道，其余的一切都……",
-      "suppliedText": "inutille tu sais bien oui tu sais bien que tout le reste est",
-      "sourceLineId": "moliere-timed-703",
+      "sourceLineId": "moliere-le-spectacle-musical-15-010",
+      "sourceLineIndex": 10,
+      "lineIndex": 10,
+      "sourceText": "Quand la douleur lacère l'âme?",
+      "ipa": "[kɑ̃ la dulœʁ lasɛʁ lam]",
+      "ear": "康 拉 杜勒厄赫 拉塞赫 拉姆",
+      "meaning": "当痛苦将灵魂撕裂",
+      "suppliedText": "Quand la douleur lacère l′âme?",
+      "sourceIPA": "/kɑ̃ la dulœʁ lasɛʁ lam/",
+      "sourceMeaning": "当痛苦将灵魂撕裂",
+      "speaker": "",
+      "start": 37.636,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 77,
-        "sourceLineNumber": 703,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          698
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Futile. Ne dis rien, non, ne dis rien. Pleurer est plus…",
-      "start": 86,
-      "ipa": "[fytil nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃ pløʁe ɛ ply]",
-      "ear": "菲于蒂勒 讷 迪 赫耶安 农 讷 迪 赫耶安 普勒厄赫 艾 普吕",
-      "meaning": "徒然。别说，什么都别说，哭泣更……",
-      "suppliedText": "futile ne dis rien non ne dit rien plusurer est plus",
-      "sourceLineId": "moliere-timed-704",
+      "sourceLineId": "moliere-le-spectacle-musical-15-011",
+      "sourceLineIndex": 11,
+      "lineIndex": 11,
+      "sourceText": "Comment justifier l'injustifiable",
+      "ipa": "[kɔmɑ̃ ʒystifje lɛ̃ʒystifjabl]",
+      "ear": "科芒 日于斯蒂弗耶诶 兰日于斯蒂弗耶阿布勒",
+      "meaning": "怎样解释无法解释的事？",
+      "suppliedText": "Comment justifier l'injustifiable",
+      "sourceIPA": "/kɔmɑ̃ ʒystifje lɛ̃ʒystifjabl/",
+      "sourceMeaning": "要如何洗清 洗不清的罪过？",
+      "speaker": "",
+      "start": 42.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 86,
-        "sourceLineNumber": 704,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          699
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Facile. Tu sais bien que tu n'y peux rien. La vie est…",
-      "start": 94,
-      "ipa": "[fasil ty sɛ bjɛ̃ kə ty ni pø ʁjɛ̃ la vi ɛ]",
-      "ear": "法西勒 蒂于 塞 布耶安 克 蒂于 尼 珀厄 赫耶安 拉 维 艾",
-      "meaning": "容易。你知道自己无能为力，生命是……",
-      "suppliedText": "facile tu sais bien que tu n'y rien la vie est",
-      "sourceLineId": "moliere-timed-705",
+      "sourceLineId": "moliere-le-spectacle-musical-15-012",
+      "sourceLineIndex": 12,
+      "lineIndex": 12,
+      "sourceText": "Quand l'innocence côtoie l'infâme?",
+      "ipa": "[kɑ̃ linosɑ̃s kotwa lɛ̃fam]",
+      "ear": "康 利诺桑斯 科特乌阿 兰法姆",
+      "meaning": "当纯洁与卑鄙纠缠不清",
+      "suppliedText": "Quand l'innocence côtoie l′infâme?",
+      "sourceIPA": "/kɑ̃ linosɑ̃s kotwa lɛ̃fam/",
+      "sourceMeaning": "当纯洁与卑鄙纠缠不清",
+      "speaker": "",
+      "start": 45.429,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 94,
-        "sourceLineNumber": 705,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          699
+        ],
+        "wordCoverage": 0.667
       }
     },
     {
-      "sourceText": "Fragile. Ne dis rien.",
-      "start": 103,
-      "ipa": "[fʁaʒil nə di ʁjɛ̃]",
-      "ear": "弗哈日勒 讷 迪 赫耶安",
-      "meaning": "脆弱的。什么都别说。",
-      "suppliedText": "Brasile ne dis rien",
-      "sourceLineId": "moliere-timed-706",
+      "sourceLineId": "moliere-le-spectacle-musical-15-013",
+      "sourceLineIndex": 13,
+      "lineIndex": 13,
+      "sourceText": "Et comment accepter l'inacceptable",
+      "ipa": "[e kɔmɑ̃ aksɛpte linaksɛptabl]",
+      "ear": "诶 科芒 阿克塞普特 利纳克塞普塔布勒",
+      "meaning": "又要如何接受 难以接受之事？",
+      "suppliedText": "Et comment accepter l′inacceptable",
+      "sourceIPA": "/e kɔmɑ̃ aksɛpte linaksɛptabl/",
+      "sourceMeaning": "又要如何接受 难以接受之事？",
+      "speaker": "",
+      "start": 49.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 103,
-        "sourceLineNumber": 706,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          700
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-014",
+      "sourceLineIndex": 14,
+      "lineIndex": 14,
+      "sourceText": "Quand on a épuisé toutes les larmes?",
+      "ipa": "[kɑ̃t‿ɔ̃n‿a epɥize tut le laʁm]",
+      "ear": "康特 翁恩 阿 诶普于伊泽 图特 莱 拉赫姆",
+      "meaning": "当一个人已哭干所有泪水",
+      "suppliedText": "Quand on a épuisé toutes les larmes?",
+      "sourceIPA": "/kɑ̃t ɔ̃n a epɥize tut le laʁm/",
+      "sourceMeaning": "当一个人已哭干所有泪水",
+      "speaker": "",
+      "start": 53.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          700,
+          701
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-015",
+      "sourceLineIndex": 15,
+      "lineIndex": 15,
+      "sourceText": "Alors on se désigne comme seul coupable",
+      "ipa": "[alɔʁ‿ɔ̃ sə deziɲ kɔm sœl kupabl]",
+      "ear": "阿洛赫 翁 瑟 德齐涅 科姆 瑟厄勒 库帕布勒",
+      "meaning": "于是，我们把自己认作唯一的罪人。",
+      "suppliedText": "Alors on se désigne comme seul coupable",
+      "sourceIPA": "/alɔʁ ɔ̃ sə deziɲ kɔm sœl kupabl/",
+      "sourceMeaning": "那就任其揽下所有罪过",
+      "speaker": "",
+      "start": 59.467,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          701
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-016",
+      "sourceLineIndex": 16,
+      "lineIndex": 16,
+      "sourceText": "On devient celui que l'on blâme",
+      "ipa": "[ɔ̃ dəvjɛ̃ səlɥi kə lɔ̃ blam]",
+      "ear": "翁 德弗耶安 瑟勒于伊 克 隆 布拉姆",
+      "meaning": "沦为那个被自己指责的对象",
+      "suppliedText": "On devient celui que l'on blâme",
+      "sourceIPA": "/ɔ̃ dəvjɛ̃ səlɥi kə lɔ̃ blam/",
+      "sourceMeaning": "沦为那个被自己指责的对象",
+      "speaker": "",
+      "start": 64.6,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          701,
+          702
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-017",
+      "sourceLineIndex": 17,
+      "lineIndex": 17,
+      "sourceText": "Ne dis rien, non ne dis rien",
+      "ipa": "[nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃]",
+      "ear": "讷 迪 赫耶安 农 讷 迪 赫耶安",
+      "meaning": "别再说 不必再说",
+      "suppliedText": "Ne dis rien, non ne dis rien",
+      "sourceIPA": "/nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃/",
+      "sourceMeaning": "别再说 不必再说",
+      "speaker": "",
+      "start": 69.667,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          702
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-018",
+      "sourceLineIndex": 18,
+      "lineIndex": 18,
+      "sourceText": "Tous les mots sont inutiles",
+      "ipa": "[tu le mo sɔ̃t‿inytil]",
+      "ear": "图 莱 莫 松特 伊尼于蒂勒",
+      "meaning": "所有的话都多说无益",
+      "suppliedText": "Tous les mots sont inutiles",
+      "sourceIPA": "/tu le mo sɔ̃t inytil/",
+      "sourceMeaning": "所有的话都多说无益",
+      "speaker": "",
+      "start": 74.333,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          702,
+          703
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-019",
+      "sourceLineIndex": 19,
+      "lineIndex": 19,
+      "sourceText": "Tu sais bien, oui tu sais bien",
+      "ipa": "[ty sɛ bjɛ̃ wi ty sɛ bjɛ̃]",
+      "ear": "蒂于 塞 布耶安 乌伊 蒂于 塞 布耶安",
+      "meaning": "你都懂 你全都懂",
+      "suppliedText": "Tu sais bien, oui tu sais bien",
+      "sourceIPA": "/ty sɛ bjɛ̃ wi ty sɛ bjɛ̃/",
+      "sourceMeaning": "你都懂 你全都懂",
+      "speaker": "",
+      "start": 77.692,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          703
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-020",
+      "sourceLineIndex": 20,
+      "lineIndex": 20,
+      "sourceText": "Que tout le reste est futile",
+      "ipa": "[kə tu lə ʁɛst‿ɛ fytil]",
+      "ear": "克 图 勒 赫斯特 艾 菲于蒂勒",
+      "meaning": "再做什么也于事无补",
+      "suppliedText": "Que tout le reste est futile",
+      "sourceIPA": "/kə tu lə ʁɛst ɛ fytil/",
+      "sourceMeaning": "再做什么也于事无补",
+      "speaker": "",
+      "start": 82.538,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          703,
+          704
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-021",
+      "sourceLineIndex": 21,
+      "lineIndex": 21,
+      "sourceText": "Ne dis rien, non ne dis rien",
+      "ipa": "[nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃]",
+      "ear": "讷 迪 赫耶安 农 讷 迪 赫耶安",
+      "meaning": "别再说 不必再说",
+      "suppliedText": "Ne dis rien, non ne dis rien",
+      "sourceIPA": "/nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃/",
+      "sourceMeaning": "别再说 不必再说",
+      "speaker": "",
+      "start": 86.727,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          704
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-022",
+      "sourceLineIndex": 22,
+      "lineIndex": 22,
+      "sourceText": "Pleurer est plus facile",
+      "ipa": "[pløʁe ɛ ply fasil]",
+      "ear": "普勒厄赫 艾 普吕 法西勒",
+      "meaning": "眼泪比言语来得轻易",
+      "suppliedText": "Pleurer est plus facile",
+      "sourceIPA": "/pløʁe ɛ ply fasil/",
+      "sourceMeaning": "眼泪比言语来得轻易",
+      "speaker": "",
+      "start": 91.818,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          704,
+          705
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-023",
+      "sourceLineIndex": 23,
+      "lineIndex": 23,
+      "sourceText": "Tu sais bien que tu n'y peux rien",
+      "ipa": "[ty sɛ bjɛ̃ kə ty ni pø ʁjɛ̃]",
+      "ear": "蒂于 塞 布耶安 克 蒂于 尼 珀厄 赫耶安",
+      "meaning": "你都懂 无能为力的痛",
+      "suppliedText": "Tu sais bien que tu n′y peux rien",
+      "sourceIPA": "/ty sɛ bjɛ̃ kə ty ni pø ʁjɛ̃/",
+      "sourceMeaning": "你都懂 无能为力的痛",
+      "speaker": "",
+      "start": 94.692,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          705
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-024",
+      "sourceLineIndex": 24,
+      "lineIndex": 24,
+      "sourceText": "Que la vie est fragile",
+      "ipa": "[kə la vi ɛ fʁaʒil]",
+      "ear": "克 拉 维 艾 弗哈日勒",
+      "meaning": "生命啊 脆弱如斯",
+      "suppliedText": "Que la vie est fragile",
+      "sourceIPA": "/kə la vi ɛ fʁaʒil/",
+      "sourceMeaning": "生命啊 脆弱如斯",
+      "speaker": "",
+      "start": 100.231,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          705,
+          706
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-025",
+      "sourceLineIndex": 25,
+      "lineIndex": 25,
+      "sourceText": "Ne dis rien",
+      "ipa": "[nə di ʁjɛ̃]",
+      "ear": "讷 迪 赫耶安",
+      "meaning": "别再说！",
+      "suppliedText": "Ne dis rien",
+      "sourceIPA": "/nə di ʁjɛ̃/",
+      "sourceMeaning": "别再说！",
+      "speaker": "",
+      "start": 103.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          706
+        ],
+        "wordCoverage": 0.333
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-026",
+      "sourceLineIndex": 26,
+      "lineIndex": 26,
+      "sourceText": "(non, ne dis rien, non, ne dis rien)",
+      "ipa": "[nɔ̃ nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃]",
+      "ear": "农 讷 迪 赫耶安 农 讷 迪 赫耶安",
+      "meaning": "（不必再说，不必再说）",
+      "suppliedText": "(non, ne dis rien, non, ne dis rien)",
+      "sourceIPA": "/nɔ̃ nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃/",
+      "sourceMeaning": "（不必再说，不必再说）",
+      "speaker": "",
+      "start": 115.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          706
+        ],
+        "wordCoverage": 0.5
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-027",
+      "sourceLineIndex": 27,
+      "lineIndex": 27,
+      "sourceText": "(non, ne dis rien, non, ne dis rien)",
+      "ipa": "[nɔ̃ nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃]",
+      "ear": "农 讷 迪 赫耶安 农 讷 迪 赫耶安",
+      "meaning": "（不必再说，不必再说）",
+      "suppliedText": "(non, ne dis rien, non, ne dis rien)",
+      "sourceIPA": "/nɔ̃ nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃/",
+      "sourceMeaning": "（不必再说，不必再说）",
+      "speaker": "",
+      "start": 128.412,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [],
+        "wordCoverage": 0.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-028",
+      "sourceLineIndex": 28,
+      "lineIndex": 28,
+      "sourceText": "(non, ne dis rien, non, ne dis rien)",
+      "ipa": "[nɔ̃ nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃]",
+      "ear": "农 讷 迪 赫耶安 农 讷 迪 赫耶安",
+      "meaning": "（不必再说，不必再说）",
+      "suppliedText": "(non, ne dis rien, non, ne dis rien)",
+      "sourceIPA": "/nɔ̃ nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃/",
+      "sourceMeaning": "（不必再说，不必再说）",
+      "speaker": "",
+      "start": 134.059,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          706
+        ],
+        "wordCoverage": 0.125
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-029",
+      "sourceLineIndex": 29,
+      "lineIndex": 29,
+      "sourceText": "Ne dis rien",
+      "ipa": "[nə di ʁjɛ̃]",
+      "ear": "讷 迪 赫耶安",
+      "meaning": "别再说！",
+      "suppliedText": "Ne dis rien",
+      "sourceIPA": "/nə di ʁjɛ̃/",
+      "sourceMeaning": "别再说！",
+      "speaker": "",
+      "start": 139.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          706
+        ],
+        "wordCoverage": 0.333
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-030",
+      "sourceLineIndex": 30,
+      "lineIndex": 30,
+      "sourceText": "(non, ne dis rien, non, ne dis rien)",
+      "ipa": "[nɔ̃ nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃]",
+      "ear": "农 讷 迪 赫耶安 农 讷 迪 赫耶安",
+      "meaning": "（不必再说，不必再说）",
+      "suppliedText": "(non, ne dis rien, non, ne dis rien)",
+      "sourceIPA": "/nɔ̃ nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃/",
+      "sourceMeaning": "（不必再说，不必再说）",
+      "speaker": "",
+      "start": 139.947,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [],
+        "wordCoverage": 0.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-031",
+      "sourceLineIndex": 31,
+      "lineIndex": 31,
+      "sourceText": "(non, ne dis rien, non, ne dis rien)",
+      "ipa": "[nɔ̃ nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃]",
+      "ear": "农 讷 迪 赫耶安 农 讷 迪 赫耶安",
+      "meaning": "（不必再说，不必再说）",
+      "suppliedText": "(non, ne dis rien, non, ne dis rien)",
+      "sourceIPA": "/nɔ̃ nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃/",
+      "sourceMeaning": "（不必再说，不必再说）",
+      "speaker": "",
+      "start": 142.474,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [],
+        "wordCoverage": 0.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-032",
+      "sourceLineIndex": 32,
+      "lineIndex": 32,
+      "sourceText": "Ne dis rien",
+      "ipa": "[nə di ʁjɛ̃]",
+      "ear": "讷 迪 赫耶安",
+      "meaning": "别再说！",
+      "suppliedText": "Ne dis rien",
+      "sourceIPA": "/nə di ʁjɛ̃/",
+      "sourceMeaning": "别再说！",
+      "speaker": "",
+      "start": 145.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [],
+        "wordCoverage": 0.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-033",
+      "sourceLineIndex": 33,
+      "lineIndex": 33,
+      "sourceText": "(non, ne dis rien, non, ne dis rien)",
+      "ipa": "[nɔ̃ nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃]",
+      "ear": "农 讷 迪 赫耶安 农 讷 迪 赫耶安",
+      "meaning": "（不必再说，不必再说）",
+      "suppliedText": "(non, ne dis rien, non, ne dis rien)",
+      "sourceIPA": "/nɔ̃ nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃/",
+      "sourceMeaning": "（不必再说，不必再说）",
+      "speaker": "",
+      "start": 145.947,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [],
+        "wordCoverage": 0.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-15-034",
+      "sourceLineIndex": 34,
+      "lineIndex": 34,
+      "sourceText": "(non, ne dis rien, non, ne dis rien)",
+      "ipa": "[nɔ̃ nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃]",
+      "ear": "农 讷 迪 赫耶安 农 讷 迪 赫耶安",
+      "meaning": "（不必再说，不必再说）",
+      "suppliedText": "(non, ne dis rien, non, ne dis rien)",
+      "sourceIPA": "/nɔ̃ nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃/",
+      "sourceMeaning": "（不必再说，不必再说）",
+      "speaker": "",
+      "start": 148.474,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [],
+        "wordCoverage": 0.0
       }
     }
-  ],
-  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+  ]
 }

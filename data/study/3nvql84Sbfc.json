@@ -1,294 +1,1050 @@
 {
   "videoId": "3nvql84Sbfc",
   "playbackVideoId": "3nvql84Sbfc",
-  "version": 2,
-  "textSource": "user-supplied-auto-transcript",
-  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "spelling-and-grammar-edits",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "sourceFileSHA256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134",
+  "textReviewStatus": "cross-checked",
+  "textReviewScope": "supplied-lyrics-spelling-grammar-and-chinese-meaning",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
-  "meaningSource": "editorial-chinese-from-user-transcript",
-  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
+  "meaningSource": "reviewed-user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "note": "歌词依据你提供的完整文件校对，中文释义已修订。学习卡片按现有现场录像整理，完整歌词另行归档；≈ 表示依据原字幕估算的分句位置。音标与空耳为文字的参考读法。",
   "sources": [
     {
-      "label": "本段原唱录像",
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+    },
+    {
+      "label": "本曲现场录像",
       "url": "https://www.youtube.com/watch?v=3nvql84Sbfc"
     }
   ],
   "entries": [
     {
-      "sourceText": "On dit que ceux qui se ressemblent souvent s'assemblent. Y a les gens d'en haut et les",
-      "start": 8,
-      "ipa": "[ɔ̃ di kə sø ki sə ʁəsɑ̃bl suvɑ̃ sasɑ̃bl i a le ʒɑ̃ dɑ̃ o e le]",
-      "ear": "翁 迪 克 瑟厄 基 瑟 赫桑布勒 苏旺 萨桑布勒 伊 阿 莱 让 当 奥 诶 莱",
-      "meaning": "人们说，相似的人常聚在一起。有人身居高位，也有人处在",
-      "suppliedText": "on dit que ce qui se ressemble souvent ça semble il a les gens d'en haut et les",
-      "sourceLineId": "moliere-timed-527",
+      "sourceLineId": "moliere-le-spectacle-musical-03-001",
+      "sourceLineIndex": 1,
+      "lineIndex": 1,
+      "sourceText": "On dit que ceux qui se ressemblent Souvent s'assemblent",
+      "ipa": "[ɔ̃ di kə sø ki sə ʁəsɑ̃bl suvɑ̃ sasɑ̃bl]",
+      "ear": "翁 迪 克 瑟厄 基 瑟 赫桑布勒 苏旺 萨桑布勒",
+      "meaning": "人们说，相似的人常常聚在一起。",
+      "suppliedText": "On dit que ceux qui se ressemblent Souvent s'assemblent",
+      "sourceIPA": "/ɔ̃ di kə sø ki sə ʁəsɑ̃bl suvɑ̃ sasɑ̃bl/",
+      "sourceMeaning": "人们总说 不是一家人 不进一家门",
+      "speaker": "",
+      "start": 8.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 8,
-        "sourceLineNumber": 527,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          527
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Gens d'en bas. S'ils ne veulent pas qu'on soit ensemble, que leurs mains tremblent. On",
-      "start": 14,
-      "ipa": "[ʒɑ̃ dɑ̃ ba sil nə vœl pa kɔ̃ swa ɑ̃sɑ̃bl kə lœʁ mɛ̃ tʁɑ̃bl ɔ̃]",
-      "ear": "让 当 巴 西勒 讷 弗厄勒 帕 孔 斯乌阿 昂桑布勒 克 勒厄赫 曼 特杭布勒 翁",
-      "meaning": "底层。如果他们不愿我们在一起，就让他们颤抖吧。没有人",
-      "suppliedText": "gens bas s'ils ne veulent pas qu'on soit ensemble que leur main tremble on",
-      "sourceLineId": "moliere-timed-528",
+      "sourceLineId": "moliere-le-spectacle-musical-03-002",
+      "sourceLineIndex": 2,
+      "lineIndex": 2,
+      "sourceText": "'Y a les gens d'en haut et les gens d'en bas",
+      "ipa": "[i a le ʒɑ̃ dɑ̃ o e le ʒɑ̃ dɑ̃ ba]",
+      "ear": "伊 阿 莱 让 当 奥 诶 莱 让 当 巴",
+      "meaning": "有人身居高位，也有人处在底层。",
+      "suppliedText": "'Y a les gens d'en haut et les gens d'en bas",
+      "sourceIPA": "/i a le ʒɑ̃ dɑ̃ ot e le ʒɑ̃ dɑ̃ ba/",
+      "sourceMeaning": "得门当户对 分清高低贵贱",
+      "speaker": "",
+      "start": 11.158,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 14,
-        "sourceLineNumber": 528,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          527,
+          528
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "N'arrête pas un cœur qui bat. On se moque, on se moque de ce qu'ils pensent. On les provoque, pour eux c'est perdu d'avance.",
-      "start": 21,
-      "ipa": "[naʁɛt pa œ̃ kœʁ ki ba ɔ̃ sə mok ɔ̃ sə mok də sə kil pɑ̃s ɔ̃ le pʁovok puʁ‿ø sɛ pɛʁdy davɑ̃s]",
-      "ear": "纳赫特 帕 恩 克厄赫 基 巴 翁 瑟 莫克 翁 瑟 莫克 德 瑟 基勒 庞斯 翁 莱 普霍沃克 普赫 厄 塞 佩赫迪于 达旺斯",
-      "meaning": "能阻止一颗跳动的心。我们不在乎他们怎么想。我们挑战他们，对他们来说，一切早已注定失败。",
-      "suppliedText": "n'arrête pas un cœur qui va seque on se de ce qu'il pens les provoque pour perd",
-      "sourceLineId": "moliere-timed-529",
+      "sourceLineId": "moliere-le-spectacle-musical-03-003",
+      "sourceLineIndex": 3,
+      "lineIndex": 3,
+      "sourceText": "S'ils ne veulent pas qu'on soit ensemble",
+      "ipa": "[sil nə vœl pa kɔ̃ swa ɑ̃sɑ̃bl]",
+      "ear": "西勒 讷 弗厄勒 帕 孔 斯乌阿 昂桑布勒",
+      "meaning": "如果他们不愿我们在一起，",
+      "suppliedText": "S'ils ne veulent pas qu'on soit ensemble",
+      "sourceIPA": "/sil nə vœl pa kɔ̃ swa ɑ̃sɑ̃bl/",
+      "sourceMeaning": "他们若不愿我们成婚",
+      "speaker": "",
+      "start": 15.556,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 21,
-        "sourceLineNumber": 529,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          528
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "On se moque, oui, on se moque de ce qu'ils pensent. À quelle époque ? Célébrons nos différences. Oh,",
-      "start": 31,
-      "ipa": "[ɔ̃ sə mok wi ɔ̃ sə mok də sə kil pɑ̃s a kɛl‿epok selebʁɔ̃ no difeʁɑ̃s ɔ]",
-      "ear": "翁 瑟 莫克 乌伊 翁 瑟 莫克 德 瑟 基勒 庞斯 阿 凯勒 诶波克 塞莱布洪 诺 迪费杭斯 哦",
-      "meaning": "我们不在乎，是的，不在乎他们的想法。这都什么时代了？让我们庆祝彼此的不同。哦，",
-      "suppliedText": "on se moque oui on se moque de ceux qui pens à quelle époque C nos différence oh",
-      "sourceLineId": "moliere-timed-530",
+      "sourceLineId": "moliere-le-spectacle-musical-03-004",
+      "sourceLineIndex": 4,
+      "lineIndex": 4,
+      "sourceText": "Que leurs mains tremblent",
+      "ipa": "[kə lœʁ mɛ̃ tʁɑ̃bl]",
+      "ear": "克 勒厄赫 曼 特杭布勒",
+      "meaning": "就让他们双手发颤。",
+      "suppliedText": "Que leurs mains tremblent",
+      "sourceIPA": "/kə lœʁ mɛ̃ tʁɑ̃bl/",
+      "sourceMeaning": "让他们的手颤抖",
+      "speaker": "",
+      "start": 19.056,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 31,
-        "sourceLineNumber": 530,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          528
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Mon amour, tu es ma chance. Si je renonce, plus rien n'a de",
-      "start": 38,
-      "ipa": "[mɔ̃n‿amuʁ ty ɛ ma ʃɑ̃s si ʒə ʁənɔ̃s ply ʁjɛ̃ na də]",
-      "ear": "蒙恩 阿穆赫 蒂于 艾 玛 尚斯 西 热 赫农斯 普吕 赫耶安 纳 德",
-      "meaning": "亲爱的，你是我的幸运。如果我放弃，一切便失去",
-      "suppliedText": "mon amour tu es ma chance si je renonce a de",
-      "sourceLineId": "moliere-timed-531",
+      "sourceLineId": "moliere-le-spectacle-musical-03-005",
+      "sourceLineIndex": 5,
+      "lineIndex": 5,
+      "sourceText": "On n'arrête pas un cœur qui bat",
+      "ipa": "[ɔ̃ naʁɛt pa œ̃ kœʁ ki ba]",
+      "ear": "翁 纳赫特 帕 恩 克厄赫 基 巴",
+      "meaning": "没有人能阻止一颗跳动的心。",
+      "suppliedText": "On n'arrête pas un cœur qui bat",
+      "sourceIPA": "/ɔ̃ naʁɛt paz œ̃ kœʁ ki ba/",
+      "sourceMeaning": "我们跳动的心也不会停歇",
+      "speaker": "",
+      "start": 20.611,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 38,
-        "sourceLineNumber": 531,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          528,
+          529
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Sens. Oh, mon amour, ma robe blanche est la réponse à leurs offenses.",
-      "start": 47,
-      "ipa": "[sɑ̃s ɔ mɔ̃n‿amuʁ ma ʁɔb blɑ̃ʃ‿ɛ la ʁepɔ̃s‿a lœʁz‿ɔfɑ̃s]",
-      "ear": "桑斯 哦 蒙恩 阿穆赫 玛 霍布 布朗什 艾 拉 赫蓬斯 阿 勒厄赫兹 哦芳斯",
-      "meaning": "意义。亲爱的，我的白色婚纱就是对他们冒犯的回应。",
-      "suppliedText": "s ma robe blanche et la réponse à leurs offenses",
-      "sourceLineId": "moliere-timed-532",
+      "sourceLineId": "moliere-le-spectacle-musical-03-006",
+      "sourceLineIndex": 6,
+      "lineIndex": 6,
+      "sourceText": "On se moque, on se moque",
+      "ipa": "[ɔ̃ sə mok ɔ̃ sə mok]",
+      "ear": "翁 瑟 莫克 翁 瑟 莫克",
+      "meaning": "我们不在乎，我们不在乎。",
+      "suppliedText": "On se moque, on se moque",
+      "sourceIPA": "/ɔ̃ sə mok ɔ̃ sə mok/",
+      "sourceMeaning": "我们不屑一顾",
+      "speaker": "",
+      "start": 23.5,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 47,
-        "sourceLineNumber": 532,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          529
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tous les hommes ne sont pas des anges. Qu'est-ce que ça change ? Qu'on goûte au fruit de notre passion, pourquoi faut-il",
-      "start": 63,
-      "ipa": "[tu lez ɔm nə sɔ̃ pa dez ɑ̃ʒ kɛskə sa ʃɑ̃ʒ kɔ̃ ɡut o fʁɥi də notʁ pasjɔ̃ puʁkwa fotil]",
-      "ear": "图 莱兹 哦姆 讷 松 帕 德兹 昂日 凯斯克 萨 尚日 孔 古特 奥 弗赫于伊 德 诺特赫 帕斯耶翁 普赫克乌阿 佛蒂勒",
-      "meaning": "人并不都是天使，这又有什么关系？我们品尝爱情的果实，为什么一定",
-      "suppliedText": "tous les hommes ne sont pas des anges qu'est-ce que ça change qu'on goûte fruit de notre passion pourquoi fautil",
-      "sourceLineId": "moliere-timed-533",
+      "sourceLineId": "moliere-le-spectacle-musical-03-007",
+      "sourceLineIndex": 7,
+      "lineIndex": 7,
+      "sourceText": "De ce qu'ils pensent on les provoque",
+      "ipa": "[də sə kil pɑ̃s‿ɔ̃ le pʁovok]",
+      "ear": "德 瑟 基勒 庞斯 翁 莱 普霍沃克",
+      "meaning": "不在乎他们的想法，我们挑战他们。",
+      "suppliedText": "De ce qu'ils pensent on les provoque",
+      "sourceIPA": "/də sə kil pɑ̃st ɔ̃ le pʁovok/",
+      "sourceMeaning": "随他们 去以为我们在煽风点火",
+      "speaker": "",
+      "start": 25.643,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 63,
-        "sourceLineNumber": 533,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          529
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Que ça dérange ? Quand on se mélange, perdons la raison. On se moque, on se moque de ce qu'ils pensent.",
-      "start": 72,
-      "ipa": "[kə sa deʁɑ̃ʒ kɑ̃t‿ɔ̃ sə melɑ̃ʒ pɛʁdɔ̃ la ʁɛzɔ̃ ɔ̃ sə mok ɔ̃ sə mok də sə kil pɑ̃s]",
-      "ear": "克 萨 德杭日 康特 翁 瑟 梅朗日 佩赫东 拉 赫宗 翁 瑟 莫克 翁 瑟 莫克 德 瑟 基勒 庞斯",
-      "meaning": "要惹人不快？当我们相拥，就让理智退场。我们不在乎他们怎么想。",
-      "suppliedText": "que ça dérange se mélangetion on se moque on se moque de P",
-      "sourceLineId": "moliere-timed-534",
+      "sourceLineId": "moliere-le-spectacle-musical-03-008",
+      "sourceLineIndex": 8,
+      "lineIndex": 8,
+      "sourceText": "pour eux c'est perdu d'avance",
+      "ipa": "[puʁ‿ø sɛ pɛʁdy davɑ̃s]",
+      "ear": "普赫 厄 塞 佩赫迪于 达旺斯",
+      "meaning": "对他们来说，一切早已注定失败。",
+      "suppliedText": "pour eux c'est perdu d'avance",
+      "sourceIPA": "/puʁ ø sɛ pɛʁdy davɑ̃s/",
+      "sourceMeaning": "让他们去觉得 我们开场即输",
+      "speaker": "",
+      "start": 28.5,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 72,
-        "sourceLineNumber": 534,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          529
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "On les provoque, pour eux c'est perdu d'avance. On se moque, oui, on se moque de ce qu'ils pensent. À quelle époque ?",
-      "start": 81,
-      "ipa": "[ɔ̃ le pʁovok puʁ‿ø sɛ pɛʁdy davɑ̃s ɔ̃ sə mok wi ɔ̃ sə mok də sə kil pɑ̃s a kɛl‿epok]",
-      "ear": "翁 莱 普霍沃克 普赫 厄 塞 佩赫迪于 达旺斯 翁 瑟 莫克 乌伊 翁 瑟 莫克 德 瑟 基勒 庞斯 阿 凯勒 诶波克",
-      "meaning": "我们挑战他们，对他们来说，一切早已注定失败。我们不在乎他们怎么想。这都什么时代了？",
-      "suppliedText": "les Provo pour perdavance on se moque oui on se moque de ce qui pens",
-      "sourceLineId": "moliere-timed-535",
+      "sourceLineId": "moliere-le-spectacle-musical-03-009",
+      "sourceLineIndex": 9,
+      "lineIndex": 9,
+      "sourceText": "On se moque, oui on se moque",
+      "ipa": "[ɔ̃ sə mok wi ɔ̃ sə mok]",
+      "ear": "翁 瑟 莫克 乌伊 翁 瑟 莫克",
+      "meaning": "我们不在乎，是的，我们不在乎。",
+      "suppliedText": "On se moque, oui on se moque",
+      "sourceIPA": "/ɔ̃ sə mok wi ɔ̃ sə mok/",
+      "sourceMeaning": "没错 我们不屑一顾",
+      "speaker": "",
+      "start": 31.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 81,
-        "sourceLineNumber": 535,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          530
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Célébrons nos différences. Oh, mon amour, tu es ma chance. Si je renonce, plus",
-      "start": 90,
-      "ipa": "[selebʁɔ̃ no difeʁɑ̃s ɔ mɔ̃n‿amuʁ ty ɛ ma ʃɑ̃s si ʒə ʁənɔ̃s ply]",
-      "ear": "塞莱布洪 诺 迪费杭斯 哦 蒙恩 阿穆赫 蒂于 艾 玛 尚斯 西 热 赫农斯 普吕",
-      "meaning": "让我们庆祝彼此的不同。亲爱的，你是我的幸运。如果我放弃，一切便",
-      "suppliedText": "célébrons n différents oh mon amant et ma chance et je renonce que",
-      "sourceLineId": "moliere-timed-536",
+      "sourceLineId": "moliere-le-spectacle-musical-03-010",
+      "sourceLineIndex": 10,
+      "lineIndex": 10,
+      "sourceText": "De ce qu'ils pensent à quelle époque célébrons nos différences",
+      "ipa": "[də sə kil pɑ̃s‿a kɛl‿epok selebʁɔ̃ no difeʁɑ̃s]",
+      "ear": "德 瑟 基勒 庞斯 阿 凯勒 诶波克 塞莱布洪 诺 迪费杭斯",
+      "meaning": "不在乎他们怎么想。这都什么时代了？让我们庆祝彼此的不同。",
+      "suppliedText": "De ce qu'ils pensent à quelle époque célébrons nos différences",
+      "sourceIPA": "/də sə kil pɑ̃st a kɛl epok selebʁɔ̃ no difeʁɑ̃s/",
+      "sourceMeaning": "笑他们 思想该入土庆祝我们的种种不相同！",
+      "speaker": "",
+      "start": 33.579,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 90,
-        "sourceLineNumber": 536,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          530
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Rien n'a de sens. Oh, mon amour, ma robe blanche est la réponse à leurs",
-      "start": 99,
-      "ipa": "[ʁiɛ̃ na də sɑ̃s ɔ mɔ̃n‿amuʁ ma ʁɔb blɑ̃ʃ‿ɛ la ʁepɔ̃s‿a lœʁ]",
-      "ear": "希安 纳 德 桑斯 哦 蒙恩 阿穆赫 玛 霍布 布朗什 艾 拉 赫蓬斯 阿 勒厄赫",
-      "meaning": "失去意义。亲爱的，我的白色婚纱就是对他们的",
-      "suppliedText": "rien n de sens oh mon amour ma robe blanche et la répondse à leurs",
-      "sourceLineId": "moliere-timed-537",
+      "sourceLineId": "moliere-le-spectacle-musical-03-012",
+      "sourceLineIndex": 12,
+      "lineIndex": 11,
+      "sourceText": "Oh mon amour, tu es ma chance",
+      "ipa": "[ɔ mɔ̃n‿amuʁ ty ɛ ma ʃɑ̃s]",
+      "ear": "哦 蒙恩 阿穆赫 蒂于 艾 玛 尚斯",
+      "meaning": "哦 我的爱人 你是我交的好运",
+      "suppliedText": "Oh mon amour, tu es ma chance",
+      "sourceIPA": "/ɔ mɔ̃n amuʁ ty ɛ ma ʃɑ̃s/",
+      "sourceMeaning": "哦 我的爱人 你是我交的好运",
+      "speaker": "",
+      "start": 37.632,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 99,
-        "sourceLineNumber": 537,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          530,
+          531
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Offenses. Je vois dans leurs yeux la haine et le feu, mais de leur colère on se joue.",
-      "start": 116,
-      "ipa": "[ɔfɑ̃s ʒə vwa dɑ̃ lœʁz‿jø la ɛn e lə fø mɛ də lœʁ kolɛʁ‿ɔ̃ sə ʒu]",
-      "ear": "哦芳斯 热 弗乌阿 当 勒厄赫兹 耶厄 拉 艾恩 诶 勒 弗厄 梅 德 勒厄赫 科莱赫 翁 瑟 茹",
-      "meaning": "冒犯的回应。我看见他们眼里的憎恨与怒火，可我们不把他们的愤怒放在心上。",
-      "suppliedText": "offenses je vois dans leurs yeux la ainé le feu mais de leur colère on se joue",
-      "sourceLineId": "moliere-timed-539",
+      "sourceLineId": "moliere-le-spectacle-musical-03-013",
+      "sourceLineIndex": 13,
+      "lineIndex": 12,
+      "sourceText": "Si je renonce, plus rien n'a de sens",
+      "ipa": "[si ʒə ʁənɔ̃s ply ʁjɛ̃ na də sɑ̃s]",
+      "ear": "西 热 赫农斯 普吕 赫耶安 纳 德 桑斯",
+      "meaning": "如果我放弃，一切便失去意义",
+      "suppliedText": "Si je renonce, plus rien n'a de sens",
+      "sourceIPA": "/si ʒə ʁənɔ̃s ply ʁjɛ̃ na də sɑ̃s/",
+      "sourceMeaning": "如果我放弃，一切便失去意义",
+      "speaker": "",
+      "start": 41.857,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 116,
-        "sourceLineNumber": 539,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          531,
+          532
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tant que notre amour est fou, il défiera toutes les lois. On criera sur tous les toits : tu es ma chance, et rien n'a d'importance.",
-      "start": 123,
-      "ipa": "[tɑ̃ kə notʁ‿amuʁ‿ɛ fu il defiʁa tut le lwa ɔ̃ kʁiʁa syʁ tu le twa ty ɛ ma ʃɑ̃s e ʁjɛ̃ na dɛ̃pɔʁtɑ̃s]",
-      "ear": "唐 克 诺特赫 阿穆赫 艾 富 伊勒 德菲哈 图特 莱 勒乌阿 翁 克希哈 西于赫 图 莱 特乌阿 蒂于 艾 玛 尚斯 诶 赫耶安 纳 丹珀赫唐斯",
-      "meaning": "只要我们的爱情仍然炽烈，它就会挑战一切规矩。我们要向所有人宣告：你是我的幸运，其他都不重要。",
-      "suppliedText": "tant que notre amour est fou il défira tout les oir on crira sur tous les toit tu es ma chance et rien na d'importance",
-      "sourceLineId": "moliere-timed-540",
+      "sourceLineId": "moliere-le-spectacle-musical-03-014",
+      "sourceLineIndex": 14,
+      "lineIndex": 13,
+      "sourceText": "Oh mon amour, ma robe blanche",
+      "ipa": "[ɔ mɔ̃n‿amuʁ ma ʁɔb blɑ̃ʃ]",
+      "ear": "哦 蒙恩 阿穆赫 玛 霍布 布朗什",
+      "meaning": "哦 我的爱人 我这一身白纱",
+      "suppliedText": "Oh mon amour, ma robe blanche",
+      "sourceIPA": "/ɔ mɔ̃n amuʁ ma ʁɔb blɑ̃ʃ/",
+      "sourceMeaning": "哦 我的爱人 我这一身白纱",
+      "speaker": "",
+      "start": 48.231,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 123,
-        "sourceLineNumber": 540,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          532
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Oh, mon amour, tu es ma chance. Si je renonce, plus rien n'a de sens. Oh, mon",
-      "start": 133,
-      "ipa": "[ɔ mɔ̃n‿amuʁ ty ɛ ma ʃɑ̃s si ʒə ʁənɔ̃s ply ʁjɛ̃ na də sɑ̃s ɔ mɔ̃]",
-      "ear": "哦 蒙恩 阿穆赫 蒂于 艾 玛 尚斯 西 热 赫农斯 普吕 赫耶安 纳 德 桑斯 哦 蒙",
-      "meaning": "亲爱的，你是我的幸运。如果我放弃，一切便失去意义。哦，亲",
-      "suppliedText": "oh mon amour tu es ma chance si je renonce plus rien n'a de sens oh mon",
-      "sourceLineId": "moliere-timed-541",
+      "sourceLineId": "moliere-le-spectacle-musical-03-015",
+      "sourceLineIndex": 15,
+      "lineIndex": 14,
+      "sourceText": "Est la réponse à leurs offenses",
+      "ipa": "[ɛ la ʁepɔ̃s‿a lœʁz‿ɔfɑ̃s]",
+      "ear": "艾 拉 赫蓬斯 阿 勒厄赫兹 哦芳斯",
+      "meaning": "正是对他们冷言冷语的回答",
+      "suppliedText": "Est la réponse à leurs offenses",
+      "sourceIPA": "/ɛ la ʁepɔ̃s a lœʁz ɔfɑ̃s/",
+      "sourceMeaning": "正是对他们冷言冷语的回答",
+      "speaker": "",
+      "start": 55.615,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 133,
-        "sourceLineNumber": 541,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          532
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Amour, ma robe blanche est la réponse à leurs offenses. Oh, mon",
-      "start": 142,
-      "ipa": "[amuʁ ma ʁɔb blɑ̃ʃ‿ɛ la ʁepɔ̃s‿a lœʁz‿ɔfɑ̃s ɔ mɔ̃]",
-      "ear": "阿穆赫 玛 霍布 布朗什 艾 拉 赫蓬斯 阿 勒厄赫兹 哦芳斯 哦 蒙",
-      "meaning": "爱的，我的白色婚纱就是对他们冒犯的回应。哦，亲",
-      "suppliedText": "amour ma robe blanche et la réponse à leurs offenses oh mon",
-      "sourceLineId": "moliere-timed-542",
+      "sourceLineId": "moliere-le-spectacle-musical-03-016",
+      "sourceLineIndex": 16,
+      "lineIndex": 15,
+      "sourceText": "Tous les hommes ne sont pas des anges",
+      "ipa": "[tu lez‿ɔm nə sɔ̃ pa dez‿ɑ̃ʒ]",
+      "ear": "图 莱兹 哦姆 讷 松 帕 德兹 昂日",
+      "meaning": "人们并非个个都是天使。",
+      "suppliedText": "Tous les hommes ne sont pas des anges",
+      "sourceIPA": "/tu lez ɔm nə sɔ̃ pa dez ɑ̃ʒ/",
+      "sourceMeaning": "人非圣贤 谁没点缺陷",
+      "speaker": "",
+      "start": 63.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 142,
-        "sourceLineNumber": 542,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          533
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Amour, tu es ma chance. Si je renonce, plus rien n'a de sens. Oh, mon amour, ma",
-      "start": 150,
-      "ipa": "[amuʁ ty ɛ ma ʃɑ̃s si ʒə ʁənɔ̃s ply ʁjɛ̃ na də sɑ̃s ɔ mɔ̃n‿amuʁ ma]",
-      "ear": "阿穆赫 蒂于 艾 玛 尚斯 西 热 赫农斯 普吕 赫耶安 纳 德 桑斯 哦 蒙恩 阿穆赫 玛",
-      "meaning": "爱的，你是我的幸运。如果我放弃，一切便失去意义。哦，亲爱的，我的",
-      "suppliedText": "tu es ma chance si je renonce on a le sens oh mon amour la",
-      "sourceLineId": "moliere-timed-543",
+      "sourceLineId": "moliere-le-spectacle-musical-03-017",
+      "sourceLineIndex": 17,
+      "lineIndex": 16,
+      "sourceText": "Qu'est-ce que ça change?",
+      "ipa": "[kɛskə sa ʃɑ̃ʒ]",
+      "ear": "凯斯克 萨 尚日",
+      "meaning": "这算多大点事呢？",
+      "suppliedText": "Qu'est-ce que ça change?",
+      "sourceIPA": "/kɛskə sa ʃɑ̃ʒ/",
+      "sourceMeaning": "这算多大点事呢？",
+      "speaker": "",
+      "start": 65.88,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 150,
-        "sourceLineNumber": 543,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          533
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Robe blanche est la réponse à leurs offenses. Oh, mon amour.",
-      "start": 158,
-      "ipa": "[ʁɔb blɑ̃ʃ‿ɛ la ʁepɔ̃s‿a lœʁz‿ɔfɑ̃s ɔ mɔ̃n‿amuʁ]",
-      "ear": "霍布 布朗什 艾 拉 赫蓬斯 阿 勒厄赫兹 哦芳斯 哦 蒙恩 阿穆赫",
-      "meaning": "白色婚纱就是对他们冒犯的回应。哦，亲爱的。",
-      "suppliedText": "robe blanche et la réponse à leur offance en mon amour",
-      "sourceLineId": "moliere-timed-544",
+      "sourceLineId": "moliere-le-spectacle-musical-03-018",
+      "sourceLineIndex": 18,
+      "lineIndex": 17,
+      "sourceText": "Qu'on goûte au fruit de notre passion",
+      "ipa": "[kɔ̃ ɡut‿o fʁɥi də notʁ pasjɔ̃]",
+      "ear": "孔 古特 奥 弗赫于伊 德 诺特赫 帕斯耶翁",
+      "meaning": "我们品尝爱情的果实。",
+      "suppliedText": "Qu'on goûte au fruit de notre passion",
+      "sourceIPA": "/kɔ̃ ɡut o fʁyi də notʁ pasjɔ̃/",
+      "sourceMeaning": "我们只想尝尝爱的果实",
+      "speaker": "",
+      "start": 68.04,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 158,
-        "sourceLineNumber": 544,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          533
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-019",
+      "sourceLineIndex": 19,
+      "lineIndex": 18,
+      "sourceText": "Pourquoi faut-il que ça dérange?",
+      "ipa": "[puʁkwa fotil kə sa deʁɑ̃ʒ]",
+      "ear": "普赫克乌阿 佛蒂勒 克 萨 德杭日",
+      "meaning": "为什么这一定要惹人不快？",
+      "suppliedText": "Pourquoi faut-il que ça dérange?",
+      "sourceIPA": "/puʁkwa fotil kə sa deʁɑ̃ʒ/",
+      "sourceMeaning": "为何非要自寻烦恼？",
+      "speaker": "",
+      "start": 70.92,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          533,
+          534
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-020",
+      "sourceLineIndex": 20,
+      "lineIndex": 19,
+      "sourceText": "Quand on se mélange",
+      "ipa": "[kɑ̃t‿ɔ̃ sə melɑ̃ʒ]",
+      "ear": "康特 翁 瑟 梅朗日",
+      "meaning": "当你我交融",
+      "suppliedText": "Quand on se mélange",
+      "sourceIPA": "/kɑ̃t ɔ̃ sə melɑ̃ʒ/",
+      "sourceMeaning": "当你我交融",
+      "speaker": "",
+      "start": 73.286,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          534
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-021",
+      "sourceLineIndex": 21,
+      "lineIndex": 20,
+      "sourceText": "Au diable toutes les conventions",
+      "ipa": "[o djabl tut le kɔ̃vɑ̃sjɔ̃]",
+      "ear": "奥 德耶阿布勒 图特 莱 孔旺斯耶翁",
+      "meaning": "让所有世俗规矩见鬼去吧。",
+      "suppliedText": "Aux diables toutes les conventions",
+      "sourceIPA": "/o djabl tut le kɔ̃vɑ̃sjɔ̃/",
+      "sourceMeaning": "所有世俗都见鬼去吧",
+      "speaker": "",
+      "start": 74.571,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          534
+        ],
+        "wordCoverage": 0.2
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-022",
+      "sourceLineIndex": 22,
+      "lineIndex": 21,
+      "sourceText": "On se moque, on se moque",
+      "ipa": "[ɔ̃ sə mok ɔ̃ sə mok]",
+      "ear": "翁 瑟 莫克 翁 瑟 莫克",
+      "meaning": "我们不在乎，我们不在乎。",
+      "suppliedText": "On se moque, on se moque",
+      "sourceIPA": "/ɔ̃ sə mok ɔ̃ sə mok/",
+      "sourceMeaning": "我们不屑一顾",
+      "speaker": "",
+      "start": 76.286,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          534
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-023",
+      "sourceLineIndex": 23,
+      "lineIndex": 22,
+      "sourceText": "De ce qu'ils pensent on les provoque",
+      "ipa": "[də sə kil pɑ̃s‿ɔ̃ le pʁovok]",
+      "ear": "德 瑟 基勒 庞斯 翁 莱 普霍沃克",
+      "meaning": "不在乎他们的想法，我们挑战他们。",
+      "suppliedText": "De ce qu'ils pensent on les provoque",
+      "sourceIPA": "/də sə kil pɑ̃st ɔ̃ le pʁovok/",
+      "sourceMeaning": "随他们 去以为我们在煽风点火",
+      "speaker": "",
+      "start": 78.857,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          534,
+          535
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-024",
+      "sourceLineIndex": 24,
+      "lineIndex": 23,
+      "sourceText": "pour eux c'est perdu d'avance",
+      "ipa": "[puʁ‿ø sɛ pɛʁdy davɑ̃s]",
+      "ear": "普赫 厄 塞 佩赫迪于 达旺斯",
+      "meaning": "对他们来说，一切早已注定失败。",
+      "suppliedText": "pour eux c'est perdu d'avance",
+      "sourceIPA": "/puʁ ø sɛ pɛʁdy davɑ̃s/",
+      "sourceMeaning": "让他们去觉得 我们败局已定",
+      "speaker": "",
+      "start": 82.08,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          535
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-025",
+      "sourceLineIndex": 25,
+      "lineIndex": 24,
+      "sourceText": "On se moque, oui on se moque",
+      "ipa": "[ɔ̃ sə mok wi ɔ̃ sə mok]",
+      "ear": "翁 瑟 莫克 乌伊 翁 瑟 莫克",
+      "meaning": "我们不在乎，是的，我们不在乎。",
+      "suppliedText": "On se moque, oui on se moque",
+      "sourceIPA": "/ɔ̃ sə mok wi ɔ̃ sə mok/",
+      "sourceMeaning": "没错 我们不屑一顾",
+      "speaker": "",
+      "start": 84.6,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          535
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-026",
+      "sourceLineIndex": 26,
+      "lineIndex": 25,
+      "sourceText": "De ce qu'ils pensent à quelle époque célébrons nos différences",
+      "ipa": "[də sə kil pɑ̃s‿a kɛl‿epok selebʁɔ̃ no difeʁɑ̃s]",
+      "ear": "德 瑟 基勒 庞斯 阿 凯勒 诶波克 塞莱布洪 诺 迪费杭斯",
+      "meaning": "不在乎他们怎么想。这都什么时代了？让我们庆祝彼此的不同。",
+      "suppliedText": "De ce qu'ils pensent à quelle époque célébrons nos différences",
+      "sourceIPA": "/də sə kil pɑ̃st a kɛl epok selebʁɔ̃ no difeʁɑ̃s/",
+      "sourceMeaning": "笑他们 思想该入土庆祝我们的种种不相同！",
+      "speaker": "",
+      "start": 87.12,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          535,
+          536
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-028",
+      "sourceLineIndex": 28,
+      "lineIndex": 26,
+      "sourceText": "Oh mon amour, la robe blanche",
+      "ipa": "[ɔ mɔ̃n‿amuʁ la ʁɔb blɑ̃ʃ]",
+      "ear": "哦 蒙恩 阿穆赫 拉 霍布 布朗什",
+      "meaning": "哦 我的爱人，那袭白裙",
+      "suppliedText": "Oh mon amour, la robe blanche",
+      "sourceIPA": "/ɔ mɔ̃n amuʁ la ʁɔb blɑ̃ʃ/",
+      "sourceMeaning": "哦 我的爱人，那袭白裙",
+      "speaker": "",
+      "start": 91.929,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          536
+        ],
+        "wordCoverage": 0.5
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-029",
+      "sourceLineIndex": 29,
+      "lineIndex": 27,
+      "sourceText": "Si je renonce, plus rien n'a de sens",
+      "ipa": "[si ʒə ʁənɔ̃s ply ʁjɛ̃ na də sɑ̃s]",
+      "ear": "西 热 赫农斯 普吕 赫耶安 纳 德 桑斯",
+      "meaning": "如果我放弃，一切便失去意义",
+      "suppliedText": "Si je renonce, plus rien n'a de sens",
+      "sourceIPA": "/si ʒə ʁənɔ̃s ply ʁjɛ̃ na də sɑ̃s/",
+      "sourceMeaning": "如果我放弃，一切便失去意义",
+      "speaker": "",
+      "start": 96.429,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          536,
+          537
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-030",
+      "sourceLineIndex": 30,
+      "lineIndex": 28,
+      "sourceText": "Oh mon amour, ma robe blanche",
+      "ipa": "[ɔ mɔ̃n‿amuʁ ma ʁɔb blɑ̃ʃ]",
+      "ear": "哦 蒙恩 阿穆赫 玛 霍布 布朗什",
+      "meaning": "哦 我的爱人 我这一身白纱",
+      "suppliedText": "Oh mon amour, ma robe blanche",
+      "sourceIPA": "/ɔ mɔ̃n amuʁ ma ʁɔb blɑ̃ʃ/",
+      "sourceMeaning": "哦 我的爱人 我这一身白纱",
+      "speaker": "",
+      "start": 102.125,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          537
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-031",
+      "sourceLineIndex": 31,
+      "lineIndex": 29,
+      "sourceText": "Est la réponse à leurs offenses",
+      "ipa": "[ɛ la ʁepɔ̃s‿a lœʁz‿ɔfɑ̃s]",
+      "ear": "艾 拉 赫蓬斯 阿 勒厄赫兹 哦芳斯",
+      "meaning": "正是对他们冷言冷语的回答",
+      "suppliedText": "Est la réponse à leurs offenses",
+      "sourceIPA": "/ɛ la ʁepɔ̃s a lœʁz ɔfɑ̃s/",
+      "sourceMeaning": "正是对他们冷言冷语的回答",
+      "speaker": "",
+      "start": 105.875,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          537,
+          539
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-032",
+      "sourceLineIndex": 32,
+      "lineIndex": 30,
+      "sourceText": "Je vois dans leurs yeux, la haine et le feu",
+      "ipa": "[ʒə vwa dɑ̃ lœʁz‿jø la ɛn e lə fø]",
+      "ear": "热 弗乌阿 当 勒厄赫兹 耶厄 拉 艾恩 诶 勒 弗厄",
+      "meaning": "在他们的眼中 我看见恨与火",
+      "suppliedText": "Je vois dans leurs yeux, la haine et le feu",
+      "sourceIPA": "/ʒə vwa dɑ̃ lœʁz jø la ɛn e lə fø/",
+      "sourceMeaning": "在他们的眼中 我看见恨与火",
+      "speaker": "",
+      "start": 116.389,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          539
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-033",
+      "sourceLineIndex": 33,
+      "lineIndex": 31,
+      "sourceText": "Mais de leur colère on se joue",
+      "ipa": "[mɛ də lœʁ kolɛʁ‿ɔ̃ sə ʒu]",
+      "ear": "梅 德 勒厄赫 科莱赫 翁 瑟 茹",
+      "meaning": "可他们的愤怒 我们只当一乐",
+      "suppliedText": "Mais de leur colère on se joue",
+      "sourceIPA": "/mɛ də lœʁ kolɛʁ ɔ̃ sə ʒu/",
+      "sourceMeaning": "可他们的愤怒 我们只当一乐",
+      "speaker": "",
+      "start": 120.278,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          539
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-034",
+      "sourceLineIndex": 34,
+      "lineIndex": 32,
+      "sourceText": "Tant que notre amour est fou",
+      "ipa": "[tɑ̃ kə notʁ‿amuʁ‿ɛ fu]",
+      "ear": "唐 克 诺特赫 阿穆赫 艾 富",
+      "meaning": "只要你我还疯狂地爱着",
+      "suppliedText": "Tant que notre amour est fou",
+      "sourceIPA": "/tɑ̃ kə notʁ amuʁ ɛ fu/",
+      "sourceMeaning": "只要你我还疯狂地爱着",
+      "speaker": "",
+      "start": 123.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          540
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-035",
+      "sourceLineIndex": 35,
+      "lineIndex": 33,
+      "sourceText": "Il défiera toutes les lois",
+      "ipa": "[il defiʁa tut le lwa]",
+      "ear": "伊勒 德菲哈 图特 莱 勒乌阿",
+      "meaning": "爱藐视一切律法",
+      "suppliedText": "Il défiera toutes les lois",
+      "sourceIPA": "/il defiʁa tut le lwa/",
+      "sourceMeaning": "爱藐视一切律法",
+      "speaker": "",
+      "start": 125.222,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          540
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-036",
+      "sourceLineIndex": 36,
+      "lineIndex": 34,
+      "sourceText": "On criera sur tous les toits",
+      "ipa": "[ɔ̃ kʁiʁa syʁ tu le twa]",
+      "ear": "翁 克希哈 西于赫 图 莱 特乌阿",
+      "meaning": "我们要向所有人宣告。",
+      "suppliedText": "On criera sur tous les toits",
+      "sourceIPA": "/ɔ̃ kʁiʁa syʁ tu le twa/",
+      "sourceMeaning": "我们要在所有房顶上大喊大叫",
+      "speaker": "",
+      "start": 127.074,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          540
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-037",
+      "sourceLineIndex": 37,
+      "lineIndex": 35,
+      "sourceText": "Tu es ma chance, et rien n'a d'importance",
+      "ipa": "[ty ɛ ma ʃɑ̃s e ʁjɛ̃ na dɛ̃pɔʁtɑ̃s]",
+      "ear": "蒂于 艾 玛 尚斯 诶 赫耶安 纳 丹珀赫唐斯",
+      "meaning": "有你是我的幸运 其他一切都不值一提",
+      "suppliedText": "Tu es ma chance, et rien n'a d'importance",
+      "sourceIPA": "/ty ɛ ma ʃɑ̃s e ʁjɛ̃ na dɛ̃pɔʁtɑ̃s/",
+      "sourceMeaning": "有你是我的幸运 其他一切都不值一提",
+      "speaker": "",
+      "start": 129.296,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          540
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-038",
+      "sourceLineIndex": 38,
+      "lineIndex": 36,
+      "sourceText": "Oh mon amour, tu es ma chance",
+      "ipa": "[ɔ mɔ̃n‿amuʁ ty ɛ ma ʃɑ̃s]",
+      "ear": "哦 蒙恩 阿穆赫 蒂于 艾 玛 尚斯",
+      "meaning": "哦 我的爱人 你是我交的好运",
+      "suppliedText": "Oh mon amour, tu es ma chance",
+      "sourceIPA": "/ɔ mɔ̃n amuʁ ty ɛ ma ʃɑ̃s/",
+      "sourceMeaning": "哦 我的爱人 你是我交的好运",
+      "speaker": "",
+      "start": 133.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          541
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-039",
+      "sourceLineIndex": 39,
+      "lineIndex": 37,
+      "sourceText": "Si je renonce, plus rien n'a de sens",
+      "ipa": "[si ʒə ʁənɔ̃s ply ʁjɛ̃ na də sɑ̃s]",
+      "ear": "西 热 赫农斯 普吕 赫耶安 纳 德 桑斯",
+      "meaning": "如果我放弃，一切便失去意义",
+      "suppliedText": "Si je renonce, plus rien n'a de sens",
+      "sourceIPA": "/si ʒə ʁənɔ̃s ply ʁjɛ̃ na də sɑ̃s/",
+      "sourceMeaning": "如果我放弃，一切便失去意义",
+      "speaker": "",
+      "start": 136.5,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          541
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-040",
+      "sourceLineIndex": 40,
+      "lineIndex": 38,
+      "sourceText": "Oh mon amour, ma robe blanche",
+      "ipa": "[ɔ mɔ̃n‿amuʁ ma ʁɔb blɑ̃ʃ]",
+      "ear": "哦 蒙恩 阿穆赫 玛 霍布 布朗什",
+      "meaning": "哦 我的爱人 我这一身白纱",
+      "suppliedText": "Oh mon amour, ma robe blanche",
+      "sourceIPA": "/ɔ mɔ̃n amuʁ ma ʁɔb blɑ̃ʃ/",
+      "sourceMeaning": "哦 我的爱人 我这一身白纱",
+      "speaker": "",
+      "start": 141.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          541,
+          542
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-041",
+      "sourceLineIndex": 41,
+      "lineIndex": 39,
+      "sourceText": "Est la réponse à leurs offenses",
+      "ipa": "[ɛ la ʁepɔ̃s‿a lœʁz‿ɔfɑ̃s]",
+      "ear": "艾 拉 赫蓬斯 阿 勒厄赫兹 哦芳斯",
+      "meaning": "正是对他们冷言冷语的回答",
+      "suppliedText": "Est la réponse à leurs offenses",
+      "sourceIPA": "/ɛ la ʁepɔ̃s a lœʁz ɔfɑ̃s/",
+      "sourceMeaning": "正是对他们冷言冷语的回答",
+      "speaker": "",
+      "start": 144.667,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          542
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-042",
+      "sourceLineIndex": 42,
+      "lineIndex": 40,
+      "sourceText": "Oh mon amour, tu es ma chance",
+      "ipa": "[ɔ mɔ̃n‿amuʁ ty ɛ ma ʃɑ̃s]",
+      "ear": "哦 蒙恩 阿穆赫 蒂于 艾 玛 尚斯",
+      "meaning": "哦 我的爱人 你是我交的好运",
+      "suppliedText": "Oh mon amour, tu es ma chance",
+      "sourceIPA": "/ɔ mɔ̃n amuʁ ty ɛ ma ʃɑ̃s/",
+      "sourceMeaning": "哦 我的爱人 你是我交的好运",
+      "speaker": "",
+      "start": 148.667,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          542,
+          543
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-043",
+      "sourceLineIndex": 43,
+      "lineIndex": 41,
+      "sourceText": "Si je renonce, plus rien n'a de sens",
+      "ipa": "[si ʒə ʁənɔ̃s ply ʁjɛ̃ na də sɑ̃s]",
+      "ear": "西 热 赫农斯 普吕 赫耶安 纳 德 桑斯",
+      "meaning": "如果我放弃，一切便失去意义",
+      "suppliedText": "Si je renonce, plus rien n'a de sens",
+      "sourceIPA": "/si ʒə ʁənɔ̃s ply ʁjɛ̃ na də sɑ̃s/",
+      "sourceMeaning": "如果我放弃，一切便失去意义",
+      "speaker": "",
+      "start": 152.222,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          543
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-044",
+      "sourceLineIndex": 44,
+      "lineIndex": 42,
+      "sourceText": "Oh mon amour, ma robe blanche",
+      "ipa": "[ɔ mɔ̃n‿amuʁ ma ʁɔb blɑ̃ʃ]",
+      "ear": "哦 蒙恩 阿穆赫 玛 霍布 布朗什",
+      "meaning": "哦 我的爱人 我这一身白纱",
+      "suppliedText": "Oh mon amour, ma robe blanche",
+      "sourceIPA": "/ɔ mɔ̃n amuʁ ma ʁɔb blɑ̃ʃ/",
+      "sourceMeaning": "哦 我的爱人 我这一身白纱",
+      "speaker": "",
+      "start": 156.222,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          543,
+          544
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-045",
+      "sourceLineIndex": 45,
+      "lineIndex": 43,
+      "sourceText": "Est la réponse à leurs offenses",
+      "ipa": "[ɛ la ʁepɔ̃s‿a lœʁz‿ɔfɑ̃s]",
+      "ear": "艾 拉 赫蓬斯 阿 勒厄赫兹 哦芳斯",
+      "meaning": "正是对他们冷言冷语的回答",
+      "suppliedText": "Est la réponse à leurs offenses",
+      "sourceIPA": "/ɛ la ʁepɔ̃s a lœʁz ɔfɑ̃s/",
+      "sourceMeaning": "正是对他们冷言冷语的回答",
+      "speaker": "",
+      "start": 159.455,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          544
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-03-046",
+      "sourceLineIndex": 46,
+      "lineIndex": 44,
+      "sourceText": "Oh mon amour",
+      "ipa": "[ɔ mɔ̃n‿amuʁ]",
+      "ear": "哦 蒙恩 阿穆赫",
+      "meaning": "哦 我的爱人……",
+      "suppliedText": "Oh mon amour",
+      "sourceIPA": "/ɔ mɔ̃n amuʁ/",
+      "sourceMeaning": "哦 我的爱人……",
+      "speaker": "",
+      "start": 163.818,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          544
+        ],
+        "wordCoverage": 1.0
       }
     }
-  ],
-  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+  ]
 }

@@ -1,390 +1,1054 @@
 {
   "videoId": "ByZEaeRjtPM",
   "playbackVideoId": "ByZEaeRjtPM",
-  "version": 2,
-  "textSource": "user-supplied-auto-transcript",
-  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "spelling-and-grammar-edits",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "sourceFileSHA256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134",
+  "textReviewStatus": "cross-checked",
+  "textReviewScope": "supplied-lyrics-spelling-grammar-and-chinese-meaning",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
-  "meaningSource": "editorial-chinese-from-user-transcript",
-  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
+  "meaningSource": "reviewed-user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "note": "歌词依据你提供的完整文件校对，中文释义已修订。学习卡片按现有现场录像整理，完整歌词另行归档；≈ 表示依据原字幕估算的分句位置。音标与空耳为文字的参考读法。",
   "sources": [
     {
-      "label": "本段原唱录像",
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+    },
+    {
+      "label": "本曲现场录像",
       "url": "https://www.youtube.com/watch?v=ByZEaeRjtPM"
     }
   ],
   "entries": [
     {
-      "sourceText": "Entre les jours de liesse, les nuits que",
-      "start": 4,
-      "ipa": "[ɑ̃tʁ le ʒuʁ də ljɛs le nɥi kə]",
-      "ear": "昂特赫 莱 茹赫 德 勒耶艾斯 莱 恩于伊 克",
-      "meaning": "在欢庆的日子与那些",
-      "suppliedText": "attends entre les jours de liè les nuits que",
-      "sourceLineId": "moliere-timed-722",
+      "sourceLineId": "moliere-le-spectacle-musical-04-001",
+      "sourceLineIndex": 1,
+      "lineIndex": 1,
+      "sourceText": "Entre les jours de liesse",
+      "ipa": "[ɑ̃tʁ le ʒuʁ də ljɛs]",
+      "ear": "昂特赫 莱 茹赫 德 勒耶艾斯",
+      "meaning": "在那些纵情狂欢的白昼之间",
+      "suppliedText": "Entre les jours de liesse",
+      "sourceIPA": "/ɑ̃tʁ le ʒuʁ də ljɛs/",
+      "sourceMeaning": "在那些纵情狂欢的白昼之间",
+      "speaker": "",
+      "start": 4.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 4,
-        "sourceLineNumber": 722,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          722
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "L'on tamise, on danse sur les braises que l'on attise.",
-      "start": 10,
-      "ipa": "[lɔ̃ tamiz ɔ̃ dɑ̃s syʁ le bʁɛz kə lɔ̃ atiz]",
-      "ear": "隆 塔米兹 翁 当斯 西于赫 莱 布赫兹 克 隆 阿蒂兹",
-      "meaning": "灯光朦胧的夜晚之间，我们在亲手拨旺的余烬上跳舞。",
-      "suppliedText": "l'on t'a mise on t sur les braises que l'on ATI",
-      "sourceLineId": "moliere-timed-723",
+      "sourceLineId": "moliere-le-spectacle-musical-04-002",
+      "sourceLineIndex": 2,
+      "lineIndex": 2,
+      "sourceText": "Les nuits que l'on tamise",
+      "ipa": "[le nɥi kə lɔ̃ tamiz]",
+      "ear": "莱 恩于伊 克 隆 塔米兹",
+      "meaning": "与那些灯光朦胧的夜晚之间。",
+      "suppliedText": "Les nuits que l'on tamise",
+      "sourceIPA": "/le nɥi kə lɔ̃ tamiz/",
+      "sourceMeaning": "我们却偏爱每个夜晚",
+      "speaker": "",
+      "start": 7.75,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 10,
-        "sourceLineNumber": 723,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          722,
+          723
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Entre douces promesses et les larmes qui glissent, l'amour au cœur me laisse des",
-      "start": 19,
-      "ipa": "[ɑ̃tʁ dus pʁomɛs e le laʁm ki ɡlis lamuʁ‿o kœʁ mə lɛs de]",
-      "ear": "昂特赫 杜斯 普霍梅斯 诶 莱 拉赫姆 基 格利斯 拉穆赫 奥 克厄赫 默 莱斯 德",
-      "meaning": "在甜蜜誓言与滑落的眼泪之间，爱情在我心中留下",
-      "suppliedText": "entre doues promesses et les leures qui glisse l'amour au cœur me laisse des",
-      "sourceLineId": "moliere-timed-724",
+      "sourceLineId": "moliere-le-spectacle-musical-04-003",
+      "sourceLineIndex": 3,
+      "lineIndex": 3,
+      "sourceText": "On danse sur les braises que l'on attise",
+      "ipa": "[ɔ̃ dɑ̃s syʁ le bʁɛz kə lɔ̃ atiz]",
+      "ear": "翁 当斯 西于赫 莱 布赫兹 克 隆 阿蒂兹",
+      "meaning": "我们将火焰烧旺 起舞于余烬之上",
+      "suppliedText": "On danse sur les braises que l'on attise",
+      "sourceIPA": "/ɔ̃ dɑ̃s syʁ le bʁɛz kə lɔ̃n atiz/",
+      "sourceMeaning": "我们将火焰烧旺 起舞于余烬之上",
+      "speaker": "",
+      "start": 12.25,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 19,
-        "sourceLineNumber": 724,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          723
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Cicatrices. Danse, danse, danse, danse, dis-toi que je danse pour",
-      "start": 28,
-      "ipa": "[sikatʁis dɑ̃s dɑ̃s dɑ̃s dɑ̃s ditwa kə ʒə dɑ̃s puʁ]",
-      "ear": "西卡特希斯 当斯 当斯 当斯 当斯 迪特乌阿 克 热 当斯 普赫",
-      "meaning": "伤痕。跳吧，跳吧，告诉自己，我是为了",
-      "suppliedText": "cicatrices danse danse danse danse dis-toi que je danse pour",
-      "sourceLineId": "moliere-timed-725",
+      "sourceLineId": "moliere-le-spectacle-musical-04-004",
+      "sourceLineIndex": 4,
+      "lineIndex": 4,
+      "sourceText": "Entre douces promesses",
+      "ipa": "[ɑ̃tʁ dus pʁomɛs]",
+      "ear": "昂特赫 杜斯 普霍梅斯",
+      "meaning": "在那些甜蜜的诺言之间",
+      "suppliedText": "Entre douces promesses",
+      "sourceIPA": "/ɑ̃tʁ dus pʁomɛs/",
+      "sourceMeaning": "在那些甜蜜的诺言之间",
+      "speaker": "",
+      "start": 19.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 28,
-        "sourceLineNumber": 725,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          724
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Toi. Mon amour, danse et danse, on se tourne autour. Même si le jeu est",
-      "start": 37,
-      "ipa": "[twa mɔ̃n‿amuʁ dɑ̃s e dɑ̃s ɔ̃ sə tuʁn‿otuʁ mɛm si lə ʒø ɛ]",
-      "ear": "特乌阿 蒙恩 阿穆赫 当斯 诶 当斯 翁 瑟 图赫恩 奥图赫 梅姆 西 勒 热厄 艾",
-      "meaning": "你而跳。亲爱的，我们不停跳舞，在彼此身边盘旋。即使这场游戏",
-      "suppliedText": "toi mon amour dans ces dans on se tourne autour même si le jeu est",
-      "sourceLineId": "moliere-timed-726",
+      "sourceLineId": "moliere-le-spectacle-musical-04-005",
+      "sourceLineIndex": 5,
+      "lineIndex": 5,
+      "sourceText": "Et les larmes qui glissent",
+      "ipa": "[e le laʁm ki ɡlis]",
+      "ear": "诶 莱 拉赫姆 基 格利斯",
+      "meaning": "还有眼角滚落的泪滴",
+      "suppliedText": "Et les larmes qui glissent",
+      "sourceIPA": "/e le laʁm ki ɡlis/",
+      "sourceMeaning": "还有眼角滚落的泪滴",
+      "speaker": "",
+      "start": 20.8,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 37,
-        "sourceLineNumber": 726,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          724
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Dangereux, on pourrait le gagner à deux. Mais mon amour, danse et danse, on se",
-      "start": 45,
-      "ipa": "[dɑ̃ʒʁø ɔ̃ puʁɛ lə ɡanje a dø mɛ mɔ̃n‿amuʁ dɑ̃s e dɑ̃s ɔ̃ sə]",
-      "ear": "当日赫厄 翁 普赫 勒 嘎恩耶诶 阿 德厄 梅 蒙恩 阿穆赫 当斯 诶 当斯 翁 瑟",
-      "meaning": "危险，我们也许能携手赢下。可亲爱的，我们不停跳舞，在彼此身边",
-      "suppliedText": "dangereux on pourrait le gagner tout mais mon amour dans S dans on se",
-      "sourceLineId": "moliere-timed-727",
+      "sourceLineId": "moliere-le-spectacle-musical-04-006",
+      "sourceLineIndex": 6,
+      "lineIndex": 6,
+      "sourceText": "L'amour au cœur me laisse des cicatrices",
+      "ipa": "[lamuʁ‿o kœʁ mə lɛs de sikatʁis]",
+      "ear": "拉穆赫 奥 克厄赫 默 莱斯 德 西卡特希斯",
+      "meaning": "心底的爱 为我留下些许疤痕",
+      "suppliedText": "L'amour au cœur me laisse des cicatrices",
+      "sourceIPA": "/lamuʁ o kœʁ mə lɛs de sikatʁis/",
+      "sourceMeaning": "心底的爱 为我留下些许疤痕",
+      "speaker": "",
+      "start": 23.8,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 45,
-        "sourceLineNumber": 727,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          724,
+          725
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tourne autour. À vouloir jouer avec le feu, on en oublie l'enjeu.",
-      "start": 54,
-      "ipa": "[tuʁn‿otuʁ a vulwaʁ ʒwe avɛk lə fø ɔ̃n‿ɑ̃n‿ubli lɑ̃ʒø]",
-      "ear": "图赫恩 奥图赫 阿 乌勒乌阿赫 日乌诶 阿韦克 勒 弗厄 翁恩 昂恩 乌布利 朗热厄",
-      "meaning": "盘旋。执意玩火，却忘了其中的代价。",
-      "suppliedText": "tourne autour à vouloir jouer avec le feu on",
-      "sourceLineId": "moliere-timed-728",
+      "sourceLineId": "moliere-le-spectacle-musical-04-007",
+      "sourceLineIndex": 7,
+      "lineIndex": 7,
+      "sourceText": "Danse danse danse danse, dis-toi",
+      "ipa": "[dɑ̃s dɑ̃s dɑ̃s dɑ̃s ditwa]",
+      "ear": "当斯 当斯 当斯 当斯 迪特乌阿",
+      "meaning": "舞！舞！舞！告诉自己—",
+      "suppliedText": "Danse danse danse danse, dis-toi",
+      "sourceIPA": "/dɑ̃s dɑ̃s dɑ̃s dɑ̃s ditwa/",
+      "sourceMeaning": "舞！舞！舞！告诉自己—",
+      "speaker": "",
+      "start": 28.818,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 54,
-        "sourceLineNumber": 728,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          725
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Et si c'était nous deux ? Et si c'était",
-      "start": 61,
-      "ipa": "[e si setɛ nu dø e si setɛ]",
-      "ear": "诶 西 塞泰 努 德厄 诶 西 塞泰",
-      "meaning": "如果那是我们两个人呢？如果那是",
-      "suppliedText": "et si c'était N et si c'était",
-      "sourceLineId": "moliere-timed-729",
+      "sourceLineId": "moliere-le-spectacle-musical-04-008",
+      "sourceLineIndex": 8,
+      "lineIndex": 8,
+      "sourceText": "Que je danse pour toi",
+      "ipa": "[kə ʒə dɑ̃s puʁ twa]",
+      "ear": "克 热 当斯 普赫 特乌阿",
+      "meaning": "我的舞步因你而起",
+      "suppliedText": "Que je danse pour toi",
+      "sourceIPA": "/kə ʒə dɑ̃s puʁ twa/",
+      "sourceMeaning": "我的舞步因你而起",
+      "speaker": "",
+      "start": 33.727,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 61,
-        "sourceLineNumber": 729,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          725,
+          726
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Nous deux ? Je voudrais sur ta bouche me",
-      "start": 69,
-      "ipa": "[nu dø ʒə vudʁɛ syʁ ta buʃ mə]",
-      "ear": "努 德厄 热 乌德赫 西于赫 塔 布什 默",
-      "meaning": "我们两个人呢？我想在你的唇上",
-      "suppliedText": "n je voudrai sur ta bouche me",
-      "sourceLineId": "moliere-timed-730",
+      "sourceLineId": "moliere-le-spectacle-musical-04-009",
+      "sourceLineIndex": 9,
+      "lineIndex": 9,
+      "sourceText": "Mon amour, danse et danse, on se tourne autour",
+      "ipa": "[mɔ̃n‿amuʁ dɑ̃s e dɑ̃s ɔ̃ sə tuʁn‿otuʁ]",
+      "ear": "蒙恩 阿穆赫 当斯 诶 当斯 翁 瑟 图赫恩 奥图赫",
+      "meaning": "我的爱人 我们舞呀舞 绕彼此回转",
+      "suppliedText": "Mon amour, danse et danse, on se tourne autour",
+      "sourceIPA": "/mɔ̃n amuʁ dɑ̃s e dɑ̃s ɔ̃ sə tuʁn otuʁ/",
+      "sourceMeaning": "我的爱人 我们舞呀舞 绕彼此回转",
+      "speaker": "",
+      "start": 37.533,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 69,
-        "sourceLineNumber": 730,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          726
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Poser, mais enfin, l'amour dès qu'on le touche touche à sa fin.",
-      "start": 75,
-      "ipa": "[poze mɛ ɑ̃fɛ̃ lamuʁ dɛ kɔ̃ lə tuʃ tuʃ‿a sa fɛ̃]",
-      "ear": "波泽 梅 昂凡 拉穆赫 戴 孔 勒 图什 图什 阿 萨 凡",
-      "meaning": "停留，可爱情一旦触碰，便走向终点。",
-      "suppliedText": "poserfin l'amour dès qu'on le touche",
-      "sourceLineId": "moliere-timed-731",
+      "sourceLineId": "moliere-le-spectacle-musical-04-010",
+      "sourceLineIndex": 10,
+      "lineIndex": 10,
+      "sourceText": "Même si le jeu est dangereux",
+      "ipa": "[mɛm si lə ʒø ɛ dɑ̃ʒʁø]",
+      "ear": "梅姆 西 勒 热厄 艾 当日赫厄",
+      "meaning": "尽管这游戏藏着危险",
+      "suppliedText": "Même si le jeu est dangereux",
+      "sourceIPA": "/mɛm si lə ʒø ɛ dɑ̃ʒʁø/",
+      "sourceMeaning": "尽管这游戏藏着危险",
+      "speaker": "",
+      "start": 42.333,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 75,
-        "sourceLineNumber": 731,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          726,
+          727
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Même s'il y a une fin aux « je t'aime », dis-",
-      "start": 81,
-      "ipa": "[mɛm sil‿i a yn fɛ̃ o ʒə tɛm di]",
-      "ear": "梅姆 西勒 伊 阿 于恩 凡 奥 热 泰姆 迪",
-      "meaning": "即使每一句“我爱你”终有结束，也请告诉",
-      "suppliedText": "Chavin même si il y a une fin oh je t'aime",
-      "sourceLineId": "moliere-timed-732",
+      "sourceLineId": "moliere-le-spectacle-musical-04-011",
+      "sourceLineIndex": 11,
+      "lineIndex": 11,
+      "sourceText": "On pourrait le gagner à deux",
+      "ipa": "[ɔ̃ puʁɛ lə ɡanje a dø]",
+      "ear": "翁 普赫 勒 嘎恩耶诶 阿 德厄",
+      "meaning": "或许我们在一起就能取胜",
+      "suppliedText": "On pourrait le gagner à deux",
+      "sourceIPA": "/ɔ̃ puʁɛ lə ɡanje a dø/",
+      "sourceMeaning": "或许我们在一起就能取胜",
+      "speaker": "",
+      "start": 45.6,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 81,
-        "sourceLineNumber": 732,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          727
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Moi que ça en vaut la",
-      "start": 90,
-      "ipa": "[mwa kə sa ɑ̃ vo la]",
-      "ear": "姆乌阿 克 萨 昂 沃 拉",
-      "meaning": "我，这一切仍然",
-      "suppliedText": "moi que ça en faut la",
-      "sourceLineId": "moliere-timed-733",
+      "sourceLineId": "moliere-le-spectacle-musical-04-012",
+      "sourceLineIndex": 12,
+      "lineIndex": 12,
+      "sourceText": "Mais mon amour, danse et danse, on se tourne autour",
+      "ipa": "[mɛ mɔ̃n‿amuʁ dɑ̃s e dɑ̃s ɔ̃ sə tuʁn‿otuʁ]",
+      "ear": "梅 蒙恩 阿穆赫 当斯 诶 当斯 翁 瑟 图赫恩 奥图赫",
+      "meaning": "可是我的爱人 我们舞呀舞 绕彼此回转",
+      "suppliedText": "Mais mon amour, danse et danse, on se tourne autour",
+      "sourceIPA": "/mɛ mɔ̃n amuʁ dɑ̃s e dɑ̃s ɔ̃ sə tuʁn otuʁ/",
+      "sourceMeaning": "可是我的爱人 我们舞呀舞 绕彼此回转",
+      "speaker": "",
+      "start": 49.2,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 90,
-        "sourceLineNumber": 733,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          727,
+          728
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Peine. Danse, danse, danse, danse, dis-moi : tu danses pour qui et pourquoi ? Danse, danse,",
-      "start": 95,
-      "ipa": "[pɛn dɑ̃s dɑ̃s dɑ̃s dɑ̃s dimwa ty dɑ̃s puʁ ki e puʁkwa dɑ̃s dɑ̃s]",
-      "ear": "佩恩 当斯 当斯 当斯 当斯 迪姆乌阿 蒂于 当斯 普赫 基 诶 普赫克乌阿 当斯 当斯",
-      "meaning": "值得。跳吧，跳吧，告诉我：你为谁而跳，又为何而跳？跳吧，跳吧，",
-      "suppliedText": "peine danse danse danse danse dis-moi tu danses pour qui et pourquoi danse danse",
-      "sourceLineId": "moliere-timed-735",
+      "sourceLineId": "moliere-le-spectacle-musical-04-013",
+      "sourceLineIndex": 13,
+      "lineIndex": 13,
+      "sourceText": "À vouloir jouer avec le feu",
+      "ipa": "[a vulwaʁ ʒwe avɛk lə fø]",
+      "ear": "阿 乌勒乌阿赫 日乌诶 阿韦克 勒 弗厄",
+      "meaning": "执意玩火，",
+      "suppliedText": "A vouloir jouer avec le feu",
+      "sourceIPA": "/a vulwaʁ ʒwe avɛk lə fø/",
+      "sourceMeaning": "我们甘愿与烈火共舞",
+      "speaker": "",
+      "start": 55.077,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 95,
-        "sourceLineNumber": 735,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          728
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Danse, danse, dis-toi que je danse pour toi. Mon amour, danse et danse, on se tourne",
-      "start": 103,
-      "ipa": "[dɑ̃s dɑ̃s ditwa kə ʒə dɑ̃s puʁ twa mɔ̃n‿amuʁ dɑ̃s e dɑ̃s ɔ̃ sə tuʁn]",
-      "ear": "当斯 当斯 迪特乌阿 克 热 当斯 普赫 特乌阿 蒙恩 阿穆赫 当斯 诶 当斯 翁 瑟 图赫恩",
-      "meaning": "告诉自己，我为你而跳。亲爱的，我们不停跳舞，在彼此身边",
-      "suppliedText": "danse danse dis-toi que je danse pour toi mon amour danser dans on se tourne",
-      "sourceLineId": "moliere-timed-736",
+      "sourceLineId": "moliere-le-spectacle-musical-04-014",
+      "sourceLineIndex": 14,
+      "lineIndex": 14,
+      "sourceText": "On en oublie l'enjeu",
+      "ipa": "[ɔ̃n‿ɑ̃n‿ubli lɑ̃ʒø]",
+      "ear": "翁恩 昂恩 乌布利 朗热厄",
+      "meaning": "却忘了其中的代价。",
+      "suppliedText": "On en oublie l'enjeu",
+      "sourceIPA": "/ɔ̃n ɑ̃n ubli lɑ̃ʒø/",
+      "sourceMeaning": "早已忘记我们如何下注",
+      "speaker": "",
+      "start": 58.308,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 103,
-        "sourceLineNumber": 736,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          728
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Autour. Même si le jeu est dangereux, on pourrait le gagner à deux.",
-      "start": 112,
-      "ipa": "[otuʁ mɛm si lə ʒø ɛ dɑ̃ʒʁø ɔ̃ puʁɛ lə ɡanje a dø]",
-      "ear": "奥图赫 梅姆 西 勒 热厄 艾 当日赫厄 翁 普赫 勒 嘎恩耶诶 阿 德厄",
-      "meaning": "盘旋。即使游戏危险，我们也许能携手赢下。",
-      "suppliedText": "autour maisme si le jeu est dangereux on pourrait le gagner",
-      "sourceLineId": "moliere-timed-737",
+      "sourceLineId": "moliere-le-spectacle-musical-04-015",
+      "sourceLineIndex": 15,
+      "lineIndex": 15,
+      "sourceText": "Et si c'était nous deux",
+      "ipa": "[e si setɛ nu dø]",
+      "ear": "诶 西 塞泰 努 德厄",
+      "meaning": "如果那是我们两个人呢？",
+      "suppliedText": "Et si c'était nous deux",
+      "sourceIPA": "/e si setɛ nu dø/",
+      "sourceMeaning": "当时若是你我 会如何？",
+      "speaker": "",
+      "start": 61.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 112,
-        "sourceLineNumber": 737,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          729
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Mais mon amour, danse et danse, on se tourne autour. À vouloir jouer avec le feu, on en",
-      "start": 120,
-      "ipa": "[mɛ mɔ̃n‿amuʁ dɑ̃s e dɑ̃s ɔ̃ sə tuʁn‿otuʁ a vulwaʁ ʒwe avɛk lə fø ɔ̃n‿ɑ̃]",
-      "ear": "梅 蒙恩 阿穆赫 当斯 诶 当斯 翁 瑟 图赫恩 奥图赫 阿 乌勒乌阿赫 日乌诶 阿韦克 勒 弗厄 翁恩 昂",
-      "meaning": "可亲爱的，我们不停跳舞，在彼此身边盘旋。执意玩火，却",
-      "suppliedText": "mais mon amour dans ces dans se tourne autour à vouloir jouer avec le feu on en",
-      "sourceLineId": "moliere-timed-738",
+      "sourceLineId": "moliere-le-spectacle-musical-04-016",
+      "sourceLineIndex": 16,
+      "lineIndex": 16,
+      "sourceText": "Et si c'était nous deux",
+      "ipa": "[e si setɛ nu dø]",
+      "ear": "诶 西 塞泰 努 德厄",
+      "meaning": "如果那是我们两个人呢？",
+      "suppliedText": "Et si c'était nous deux",
+      "sourceIPA": "/e si setɛ nu dø/",
+      "sourceMeaning": "当时若是你我 会如何？",
+      "speaker": "",
+      "start": 65.8,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 120,
-        "sourceLineNumber": 738,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          729,
+          730
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Oublie l'enjeu. Et si c'était nous deux ? Et si c'était nous deux ?",
-      "start": 130,
-      "ipa": "[ubli lɑ̃ʒø e si setɛ nu dø e si setɛ nu dø]",
-      "ear": "乌布利 朗热厄 诶 西 塞泰 努 德厄 诶 西 塞泰 努 德厄",
-      "meaning": "忘了其中的代价。如果那是我们两个人呢？如果那是我们两个人呢？",
-      "suppliedText": "oubli l'U et si c'était n fe et c'était",
-      "sourceLineId": "moliere-timed-739",
+      "sourceLineId": "moliere-le-spectacle-musical-04-017",
+      "sourceLineIndex": 17,
+      "lineIndex": 17,
+      "sourceText": "Je voudrais sur ta bouche",
+      "ipa": "[ʒə vudʁɛ syʁ ta buʃ]",
+      "ear": "热 乌德赫 西于赫 塔 布什",
+      "meaning": "我想在你的唇上",
+      "suppliedText": "Je voudrais sur ta bouche",
+      "sourceIPA": "/ʒə vudʁɛ syʁ ta buʃ/",
+      "sourceMeaning": "我想 在你的唇上 印上我",
+      "speaker": "",
+      "start": 70.5,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 130,
-        "sourceLineNumber": 739,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          730
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Mon amour, malgré la peine que l'on encourt, même si le jeu est",
-      "start": 139,
-      "ipa": "[mɔ̃n‿amuʁ malɡʁe la pɛn kə lɔ̃ ɑ̃kuʁ mɛm si lə ʒø ɛ]",
-      "ear": "蒙恩 阿穆赫 玛勒格赫 拉 佩恩 克 隆 昂库赫 梅姆 西 勒 热厄 艾",
-      "meaning": "亲爱的，尽管我们可能受罚，即使这场游戏",
-      "suppliedText": "mon mon amour malgré la peine que l'on enct même si le jeu est",
-      "sourceLineId": "moliere-timed-740",
+      "sourceLineId": "moliere-le-spectacle-musical-04-018",
+      "sourceLineIndex": 18,
+      "lineIndex": 18,
+      "sourceText": "Me poser, mais enfin",
+      "ipa": "[mə poze mɛ ɑ̃fɛ̃]",
+      "ear": "默 波泽 梅 昂凡",
+      "meaning": "停留，可说到底，",
+      "suppliedText": "Me poser, mais enfin",
+      "sourceIPA": "/mə poze mɛz ɑ̃fɛ̃/",
+      "sourceMeaning": "但说到头 爱情这玩意呀",
+      "speaker": "",
+      "start": 74.25,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 139,
-        "sourceLineNumber": 740,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          730,
+          731
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Dangereux, on pourrait le gagner à deux. Mais mon amour, danse et danse, on se",
-      "start": 147,
-      "ipa": "[dɑ̃ʒʁø ɔ̃ puʁɛ lə ɡanje a dø mɛ mɔ̃n‿amuʁ dɑ̃s e dɑ̃s ɔ̃ sə]",
-      "ear": "当日赫厄 翁 普赫 勒 嘎恩耶诶 阿 德厄 梅 蒙恩 阿穆赫 当斯 诶 当斯 翁 瑟",
-      "meaning": "危险，我们也许能携手赢下。可亲爱的，我们不停跳舞，在彼此身边",
-      "suppliedText": "dangereux on pourrait gag à de et mon amour dans ces dans on se",
-      "sourceLineId": "moliere-timed-741",
+      "sourceLineId": "moliere-le-spectacle-musical-04-019",
+      "sourceLineIndex": 19,
+      "lineIndex": 19,
+      "sourceText": "L'amour dès qu'on le touche touche à sa fin",
+      "ipa": "[lamuʁ dɛ kɔ̃ lə tuʃ tuʃ‿a sa fɛ̃]",
+      "ear": "拉穆赫 戴 孔 勒 图什 图什 阿 萨 凡",
+      "meaning": "爱情一旦触碰，便走向终点。",
+      "suppliedText": "L'amour dès qu'on le touche touche à sa fin",
+      "sourceIPA": "/lamuʁ dɛ kɔ̃ lə tuʃ tuʃ a sa fɛ̃/",
+      "sourceMeaning": "一旦触碰它 就难逃结局",
+      "speaker": "",
+      "start": 76.286,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 147,
-        "sourceLineNumber": 741,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          731
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tourne autour. À vouloir jouer avec le feu, on en oublie l'en-",
-      "start": 156,
-      "ipa": "[tuʁn‿otuʁ a vulwaʁ ʒwe avɛk lə fø ɔ̃n‿ɑ̃n‿ubli lɑ̃]",
-      "ear": "图赫恩 奥图赫 阿 乌勒乌阿赫 日乌诶 阿韦克 勒 弗厄 翁恩 昂恩 乌布利 朗",
-      "meaning": "盘旋。执意玩火，却忘了其中的代",
-      "suppliedText": "tourne autour à vouloir jouer avec le feu on en oublie long",
-      "sourceLineId": "moliere-timed-742",
+      "sourceLineId": "moliere-le-spectacle-musical-04-020",
+      "sourceLineIndex": 20,
+      "lineIndex": 20,
+      "sourceText": "Même s'il y a une fin aux \"je t'aime\"",
+      "ipa": "[mɛm sil‿i a yn fɛ̃ o ʒə tɛm]",
+      "ear": "梅姆 西勒 伊 阿 于恩 凡 奥 热 泰姆",
+      "meaning": "即使每一句“我爱你”终有结束，",
+      "suppliedText": "Même s'il y a une fin aux \"je t'aime\"",
+      "sourceIPA": "/mɛm sil i a yn fɛ̃ o ʒə tɛm/",
+      "sourceMeaning": "即使有一种结局 通向“我爱你”",
+      "speaker": "",
+      "start": 81.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 156,
-        "sourceLineNumber": 742,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          732
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Jeu. Et si c'était nous deux ? Et si c'était nous",
-      "start": 163,
-      "ipa": "[ʒø e si setɛ nu dø e si setɛ nu]",
-      "ear": "热厄 诶 西 塞泰 努 德厄 诶 西 塞泰 努",
-      "meaning": "价。如果那是我们两个人呢？如果那是我们",
-      "suppliedText": "jeu et si c'était n de et si c'était n",
-      "sourceLineId": "moliere-timed-743",
+      "sourceLineId": "moliere-le-spectacle-musical-04-021",
+      "sourceLineIndex": 21,
+      "lineIndex": 21,
+      "sourceText": "Dis-moi que ça en vaut la peine",
+      "ipa": "[dimwa kə sa ɑ̃ vo la pɛn]",
+      "ear": "迪姆乌阿 克 萨 昂 沃 拉 佩恩",
+      "meaning": "也请告诉我，这一切仍然值得。",
+      "suppliedText": "Dis-moi que ça en vaut la peine",
+      "sourceIPA": "/dimwa kə sa ɑ̃ vo la pɛn/",
+      "sourceMeaning": "告诉我 用这痛苦作交换 是否值得？",
+      "speaker": "",
+      "start": 89.25,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 163,
-        "sourceLineNumber": 743,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          732,
+          733,
+          735
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Deux ? Et si c'était nous",
-      "start": 169,
-      "ipa": "[dø e si setɛ nu]",
-      "ear": "德厄 诶 西 塞泰 努",
-      "meaning": "两个人呢？如果那是我们",
-      "suppliedText": "de et si c'était n",
-      "sourceLineId": "moliere-timed-744",
+      "sourceLineId": "moliere-le-spectacle-musical-04-022",
+      "sourceLineIndex": 22,
+      "lineIndex": 22,
+      "sourceText": "Danse danse danse danse dis-moi",
+      "ipa": "[dɑ̃s dɑ̃s dɑ̃s dɑ̃s dimwa]",
+      "ear": "当斯 当斯 当斯 当斯 迪姆乌阿",
+      "meaning": "舞！舞！舞！告诉我—",
+      "suppliedText": "Danse danse danse danse dis-moi",
+      "sourceIPA": "/dɑ̃s dɑ̃s dɑ̃s dɑ̃s dimwa/",
+      "sourceMeaning": "舞！舞！舞！告诉我—",
+      "speaker": "",
+      "start": 95.533,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 169,
-        "sourceLineNumber": 744,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          735
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Deux ? Mais ce sera jamais nous deux.",
-      "start": 176,
-      "ipa": "[dø mɛ sə səʁa ʒamɛ nu dø]",
-      "ear": "德厄 梅 瑟 瑟哈 扎梅 努 德厄",
-      "meaning": "两个人呢？可永远不会是我们两个人。",
-      "suppliedText": "de ce sera jamais nous deux",
-      "sourceLineId": "moliere-timed-745",
+      "sourceLineId": "moliere-le-spectacle-musical-04-023",
+      "sourceLineIndex": 23,
+      "lineIndex": 23,
+      "sourceText": "Tu danses pour qui et pourquoi",
+      "ipa": "[ty dɑ̃s puʁ ki e puʁkwa]",
+      "ear": "蒂于 当斯 普赫 基 诶 普赫克乌阿",
+      "meaning": "你的舞步为谁？为何起舞？",
+      "suppliedText": "Tu danses pour qui et pourquoi",
+      "sourceIPA": "/ty dɑ̃s puʁ ki e puʁkwa/",
+      "sourceMeaning": "你的舞步为谁？为何起舞？",
+      "speaker": "",
+      "start": 98.733,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 176,
-        "sourceLineNumber": 745,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          735
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-024",
+      "sourceLineIndex": 24,
+      "lineIndex": 24,
+      "sourceText": "Danse danse danse danse dis-toi",
+      "ipa": "[dɑ̃s dɑ̃s dɑ̃s dɑ̃s ditwa]",
+      "ear": "当斯 当斯 当斯 当斯 迪特乌阿",
+      "meaning": "舞！舞！舞！告诉自己—",
+      "suppliedText": "Danse danse danse danse dis-toi",
+      "sourceIPA": "/dɑ̃s dɑ̃s dɑ̃s dɑ̃s ditwa/",
+      "sourceMeaning": "舞！舞！舞！告诉自己—",
+      "speaker": "",
+      "start": 101.933,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          735,
+          736
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-025",
+      "sourceLineIndex": 25,
+      "lineIndex": 25,
+      "sourceText": "Que je danse pour toi",
+      "ipa": "[kə ʒə dɑ̃s puʁ twa]",
+      "ear": "克 热 当斯 普赫 特乌阿",
+      "meaning": "我的舞步因你而起",
+      "suppliedText": "Que je danse pour toi",
+      "sourceIPA": "/kə ʒə dɑ̃s puʁ twa/",
+      "sourceMeaning": "我的舞步因你而起",
+      "speaker": "",
+      "start": 105.118,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          736
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-026",
+      "sourceLineIndex": 26,
+      "lineIndex": 26,
+      "sourceText": "Mon amour, danse et danse, on se tourne autour",
+      "ipa": "[mɔ̃n‿amuʁ dɑ̃s e dɑ̃s ɔ̃ sə tuʁn‿otuʁ]",
+      "ear": "蒙恩 阿穆赫 当斯 诶 当斯 翁 瑟 图赫恩 奥图赫",
+      "meaning": "我的爱人 我们舞呀舞 绕彼此回转",
+      "suppliedText": "Mon amour, danse et danse, on se tourne autour",
+      "sourceIPA": "/mɔ̃n amuʁ dɑ̃s e dɑ̃s ɔ̃ sə tuʁn otuʁ/",
+      "sourceMeaning": "我的爱人 我们舞呀舞 绕彼此回转",
+      "speaker": "",
+      "start": 107.765,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          736,
+          737
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-027",
+      "sourceLineIndex": 27,
+      "lineIndex": 27,
+      "sourceText": "Même si le jeu est dangereux",
+      "ipa": "[mɛm si lə ʒø ɛ dɑ̃ʒʁø]",
+      "ear": "梅姆 西 勒 热厄 艾 当日赫厄",
+      "meaning": "尽管这游戏藏着危险",
+      "suppliedText": "Même si le jeu est dangereux",
+      "sourceIPA": "/mɛm si lə ʒø ɛ dɑ̃ʒʁø/",
+      "sourceMeaning": "尽管这游戏藏着危险",
+      "speaker": "",
+      "start": 112.615,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          737
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-028",
+      "sourceLineIndex": 28,
+      "lineIndex": 28,
+      "sourceText": "On pourrait le gagner à deux",
+      "ipa": "[ɔ̃ puʁɛ lə ɡanje a dø]",
+      "ear": "翁 普赫 勒 嘎恩耶诶 阿 德厄",
+      "meaning": "或许我们在一起就能取胜",
+      "suppliedText": "On pourrait le gagner à deux",
+      "sourceIPA": "/ɔ̃ puʁɛ lə ɡanje a dø/",
+      "sourceMeaning": "或许我们在一起就能取胜",
+      "speaker": "",
+      "start": 116.308,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          737
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-029",
+      "sourceLineIndex": 29,
+      "lineIndex": 29,
+      "sourceText": "Mais mon amour, danse et danse, on se tourne autour",
+      "ipa": "[mɛ mɔ̃n‿amuʁ dɑ̃s e dɑ̃s ɔ̃ sə tuʁn‿otuʁ]",
+      "ear": "梅 蒙恩 阿穆赫 当斯 诶 当斯 翁 瑟 图赫恩 奥图赫",
+      "meaning": "可是我的爱人 我们舞呀舞 绕彼此回转",
+      "suppliedText": "Mais mon amour, danse et danse, on se tourne autour",
+      "sourceIPA": "/mɛ mɔ̃n amuʁ dɑ̃s e dɑ̃s ɔ̃ sə tuʁn otuʁ/",
+      "sourceMeaning": "可是我的爱人 我们舞呀舞 绕彼此回转",
+      "speaker": "",
+      "start": 120.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          738
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-030",
+      "sourceLineIndex": 30,
+      "lineIndex": 30,
+      "sourceText": "À vouloir jouer avec le feu",
+      "ipa": "[a vulwaʁ ʒwe avɛk lə fø]",
+      "ear": "阿 乌勒乌阿赫 日乌诶 阿韦克 勒 弗厄",
+      "meaning": "执意玩火，",
+      "suppliedText": "A vouloir jouer avec le feu",
+      "sourceIPA": "/a vulwaʁ ʒwe avɛk lə fø/",
+      "sourceMeaning": "我们甘愿与烈火共舞",
+      "speaker": "",
+      "start": 125.556,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          738
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-031",
+      "sourceLineIndex": 31,
+      "lineIndex": 31,
+      "sourceText": "On en oublie l'enjeu",
+      "ipa": "[ɔ̃n‿ɑ̃n‿ubli lɑ̃ʒø]",
+      "ear": "翁恩 昂恩 乌布利 朗热厄",
+      "meaning": "却忘了其中的代价。",
+      "suppliedText": "On en oublie l'enjeu",
+      "sourceIPA": "/ɔ̃n ɑ̃n ubli lɑ̃ʒø/",
+      "sourceMeaning": "早已忘记我们如何下注",
+      "speaker": "",
+      "start": 128.889,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          738,
+          739
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-032",
+      "sourceLineIndex": 32,
+      "lineIndex": 32,
+      "sourceText": "Et si c'était nous deux",
+      "ipa": "[e si setɛ nu dø]",
+      "ear": "诶 西 塞泰 努 德厄",
+      "meaning": "如果那是我们两个人呢？",
+      "suppliedText": "Et si c'était nous deux",
+      "sourceIPA": "/e si setɛ nu dø/",
+      "sourceMeaning": "当时若是你我 会如何？",
+      "speaker": "",
+      "start": 131.8,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          739
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-033",
+      "sourceLineIndex": 33,
+      "lineIndex": 33,
+      "sourceText": "Et si c'était nous deux",
+      "ipa": "[e si setɛ nu dø]",
+      "ear": "诶 西 塞泰 努 德厄",
+      "meaning": "如果那是我们两个人呢？",
+      "suppliedText": "Et si c'était nous deux",
+      "sourceIPA": "/e si setɛ nu dø/",
+      "sourceMeaning": "当时若是你我 会如何？",
+      "speaker": "",
+      "start": 135.4,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          739
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-034",
+      "sourceLineIndex": 34,
+      "lineIndex": 34,
+      "sourceText": "Mon amour",
+      "ipa": "[mɔ̃n‿amuʁ]",
+      "ear": "蒙恩 阿穆赫",
+      "meaning": "我的爱人",
+      "suppliedText": "Mon amour",
+      "sourceIPA": "/mɔ̃n amuʁ/",
+      "sourceMeaning": "我的爱人",
+      "speaker": "",
+      "start": 139.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          740
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-035",
+      "sourceLineIndex": 35,
+      "lineIndex": 35,
+      "sourceText": "Malgré la peine que l'on encourt",
+      "ipa": "[malɡʁe la pɛn kə lɔ̃ ɑ̃kuʁ]",
+      "ear": "玛勒格赫 拉 佩恩 克 隆 昂库赫",
+      "meaning": "尽管我们可能因此受罚。",
+      "suppliedText": "Malgré la peine que l'on encourt",
+      "sourceIPA": "/malɡʁe la pɛn kə lɔ̃n ɑ̃kuʁ/",
+      "sourceMeaning": "就算是我们自寻痛苦",
+      "speaker": "",
+      "start": 140.143,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          740
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-036",
+      "sourceLineIndex": 36,
+      "lineIndex": 36,
+      "sourceText": "Même si le jeu est dangereux",
+      "ipa": "[mɛm si lə ʒø ɛ dɑ̃ʒʁø]",
+      "ear": "梅姆 西 勒 热厄 艾 当日赫厄",
+      "meaning": "尽管这游戏藏着危险",
+      "suppliedText": "Même si le jeu est dangereux",
+      "sourceIPA": "/mɛm si lə ʒø ɛ dɑ̃ʒʁø/",
+      "sourceMeaning": "尽管这游戏藏着危险",
+      "speaker": "",
+      "start": 144.143,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          740,
+          741
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-037",
+      "sourceLineIndex": 37,
+      "lineIndex": 37,
+      "sourceText": "On pourrait le gagner à deux",
+      "ipa": "[ɔ̃ puʁɛ lə ɡanje a dø]",
+      "ear": "翁 普赫 勒 嘎恩耶诶 阿 德厄",
+      "meaning": "或许我们在一起就能取胜",
+      "suppliedText": "On pourrait le gagner à deux",
+      "sourceIPA": "/ɔ̃ puʁɛ lə ɡanje a dø/",
+      "sourceMeaning": "或许我们在一起就能取胜",
+      "speaker": "",
+      "start": 147.6,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          741
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-038",
+      "sourceLineIndex": 38,
+      "lineIndex": 38,
+      "sourceText": "Mais mon amour, danse et danse, on se tourne autour",
+      "ipa": "[mɛ mɔ̃n‿amuʁ dɑ̃s e dɑ̃s ɔ̃ sə tuʁn‿otuʁ]",
+      "ear": "梅 蒙恩 阿穆赫 当斯 诶 当斯 翁 瑟 图赫恩 奥图赫",
+      "meaning": "可是我的爱人 我们舞呀舞 绕彼此回转",
+      "suppliedText": "Mais mon amour, danse et danse, on se tourne autour",
+      "sourceIPA": "/mɛ mɔ̃n amuʁ dɑ̃s e dɑ̃s ɔ̃ sə tuʁn otuʁ/",
+      "sourceMeaning": "可是我的爱人 我们舞呀舞 绕彼此回转",
+      "speaker": "",
+      "start": 151.2,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          741,
+          742
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-039",
+      "sourceLineIndex": 39,
+      "lineIndex": 39,
+      "sourceText": "À vouloir jouer avec le feu",
+      "ipa": "[a vulwaʁ ʒwe avɛk lə fø]",
+      "ear": "阿 乌勒乌阿赫 日乌诶 阿韦克 勒 弗厄",
+      "meaning": "执意玩火，",
+      "suppliedText": "A vouloir jouer avec le feu",
+      "sourceIPA": "/a vulwaʁ ʒwe avɛk lə fø/",
+      "sourceMeaning": "我们甘愿飞蛾扑火",
+      "speaker": "",
+      "start": 157.077,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          742
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-040",
+      "sourceLineIndex": 40,
+      "lineIndex": 40,
+      "sourceText": "On en oublie l'enjeu",
+      "ipa": "[ɔ̃n‿ɑ̃n‿ubli lɑ̃ʒø]",
+      "ear": "翁恩 昂恩 乌布利 朗热厄",
+      "meaning": "却忘了其中的代价。",
+      "suppliedText": "On n'en oublie l'enjeu",
+      "sourceIPA": "/ɔ̃ nɑ̃n ubli lɑ̃ʒø/",
+      "sourceMeaning": "却不曾忘记我们赌注为何",
+      "speaker": "",
+      "start": 160.308,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          742
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-041",
+      "sourceLineIndex": 41,
+      "lineIndex": 41,
+      "sourceText": "Et si c'était nous deux",
+      "ipa": "[e si setɛ nu dø]",
+      "ear": "诶 西 塞泰 努 德厄",
+      "meaning": "如果那是我们两个人呢？",
+      "suppliedText": "Et si c'était nous deux",
+      "sourceIPA": "/e si setɛ nu dø/",
+      "sourceMeaning": "当时若是你我 会如何？",
+      "speaker": "",
+      "start": 163.5,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          743
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-042",
+      "sourceLineIndex": 42,
+      "lineIndex": 42,
+      "sourceText": "Et si c'était nous deux",
+      "ipa": "[e si setɛ nu dø]",
+      "ear": "诶 西 塞泰 努 德厄",
+      "meaning": "如果那是我们两个人呢？",
+      "suppliedText": "Et si c'était nous deux",
+      "sourceIPA": "/e si setɛ nu dø/",
+      "sourceMeaning": "当时若是你我 会如何？",
+      "speaker": "",
+      "start": 166.5,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          743,
+          744
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-043",
+      "sourceLineIndex": 43,
+      "lineIndex": 43,
+      "sourceText": "Et si c'était nous deux deux…",
+      "ipa": "[e si setɛ nu dø dø]",
+      "ear": "诶 西 塞泰 努 德厄 德厄",
+      "meaning": "如果那是我们两个人，两个人呢……",
+      "suppliedText": "Et si c'était nous deux deux…",
+      "sourceIPA": "/e si setɛ nu dø dø/",
+      "sourceMeaning": "如果只有我们两个人，我们两个人……",
+      "speaker": "",
+      "start": 170.167,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          744,
+          745
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-04-045",
+      "sourceLineIndex": 45,
+      "lineIndex": 44,
+      "sourceText": "Mais ce sera jamais nous deux",
+      "ipa": "[mɛ sə səʁa ʒamɛ nu dø]",
+      "ear": "梅 瑟 瑟哈 扎梅 努 德厄",
+      "meaning": "可永远不会是我们两个人。",
+      "suppliedText": "Mais ce sera jamais nous deux",
+      "sourceIPA": "/mɛ sə səʁa ʒamɛ nu dø/",
+      "sourceMeaning": "可永远不会再有你我",
+      "speaker": "",
+      "start": 176.857,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          745
+        ],
+        "wordCoverage": 1.0
       }
     }
-  ],
-  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+  ]
 }

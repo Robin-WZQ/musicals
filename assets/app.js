@@ -1,8 +1,8 @@
-import { videoId, clock, normalizeCues, cueAt } from './captions.mjs?v=20261005-5';
-import { attachStudyNotes } from './study.mjs?v=20261005-5';
-import { musicalURL, learningURL, tracksFor, resolveTrackId } from './library.mjs?v=20261005-5';
-import { fetchData } from './data.mjs?v=20261005-5';
-import { playbackStart, nativeCues, importStudyCaptions, studyStorageKey, studyPack, savedStudyCaptions } from './native.mjs?v=20261005-5';
+import { videoId, clock, normalizeCues, cueAt } from './captions.mjs?v=20261005-6';
+import { attachStudyNotes } from './study.mjs?v=20261005-6';
+import { musicalURL, learningURL, tracksFor, resolveTrackId } from './library.mjs?v=20261005-6';
+import { fetchData } from './data.mjs?v=20261005-6';
+import { playbackStart, nativeCues, importStudyCaptions, studyStorageKey, studyPack, savedStudyCaptions } from './native.mjs?v=20261005-6';
 
 const $ = id => document.getElementById(id);
 let catalog = [], musicals = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
@@ -317,7 +317,7 @@ function renderInfo() {
     $('source-note').textContent = song.studyNotes.note || '字幕和时间戳来自 YouTube。音标、空耳和中文释义为本站参考注释。';
     $('study-note').textContent = reviewed ? `${song.timingReviewStatus === 'approximate' ? '句子已重新整理，≈ 表示播放位置仍为近似值。' : ''}参考音标标出部分联诵与连读（‿）；并非原唱逐音转写。空耳仅辅助记忆，演唱发音以原唱为准。` : '新曲目学习注释自动生成，尚未逐句校对。音标是字幕文本的参考读法，‿ 表示可能的联诵或连读；空耳与中文机译均为近似参考，无法纠正字幕识别错误。';
     if (['user-supplied-songs-js','user-supplied-timed-transcript'].includes(song.studyNotes.textSource)) {
-      $('caption-badge').textContent = '学习歌词 · 近似时间轴';
+      $('caption-badge').textContent = song.musicalId === 'moliere' ? '四层学习 · 近似时间轴' : '学习歌词 · 近似时间轴';
       $('study-note').textContent = '‿ 表示联诵或连读；空耳辅助记忆读音。≈ 表示原唱片段的近似切点。';
     }
     if (song.studyNotes.textSource === 'user-supplied-auto-transcript') {

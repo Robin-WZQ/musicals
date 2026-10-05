@@ -1,342 +1,778 @@
 {
   "videoId": "LBMV4AF0PWk",
   "playbackVideoId": "LBMV4AF0PWk",
-  "version": 2,
-  "textSource": "user-supplied-auto-transcript",
-  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
-  "textReviewStatus": "spelling-and-grammar-edits",
+  "version": 3,
+  "textSource": "user-supplied-songs-js",
+  "sourceFileSHA256": "1e260a228cac46ca0e48b7428ecf801a0d44ebe84f663f354c4ac87e71c96134",
+  "textReviewStatus": "cross-checked",
+  "textReviewScope": "supplied-lyrics-spelling-grammar-and-chinese-meaning",
   "timingReviewStatus": "approximate",
   "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
-  "meaningSource": "editorial-chinese-from-user-transcript",
-  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
-  "note": "歌词依据你提供的字幕整理，已校正可确认的拼写和语法。≈ 表示原字幕的近似分段；音标与空耳为法语文字的参考读法。",
+  "meaningSource": "reviewed-user-supplied-chinese",
+  "pronunciationEngine": "eSpeak NG phrase and isolated-word reference with liaison corrections",
+  "note": "歌词依据你提供的完整文件校对，中文释义已修订。学习卡片按现有现场录像整理，完整歌词另行归档；≈ 表示依据原字幕估算的分句位置。音标与空耳为文字的参考读法。",
   "sources": [
     {
-      "label": "本段原唱录像",
+      "label": "用户提供的歌词资料对应网页",
+      "url": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+    },
+    {
+      "label": "本曲现场录像",
       "url": "https://www.youtube.com/watch?v=LBMV4AF0PWk"
     }
   ],
   "entries": [
     {
-      "sourceText": "Que diable suis-je venu faire derrière tes barreaux ? … Une galère…",
-      "start": 7,
-      "ipa": "[kə djabl sɥiʒ vəny fɛʁ dɛʁjɛʁ te baʁo yn ɡalɛʁ]",
-      "ear": "克 德耶阿布勒 斯于伊日 弗尼于 费赫 戴赫耶艾赫 特 巴霍 于恩 嘎莱赫",
-      "meaning": "我究竟为何来到你的牢笼背后？……一艘苦难的船……",
-      "suppliedText": "non que diable suis-je venu faire derrière tes barreaux tuim une galère",
-      "sourceLineId": "moliere-timed-73",
+      "sourceLineId": "moliere-le-spectacle-musical-11-001",
+      "sourceLineIndex": 1,
+      "lineIndex": 1,
+      "sourceText": "Que diable suis-je venu faire derrière tes barreaux?",
+      "ipa": "[kə djabl sɥiʒ vəny fɛʁ dɛʁjɛʁ te baʁo]",
+      "ear": "克 德耶阿布勒 斯于伊日 弗尼于 费赫 戴赫耶艾赫 特 巴霍",
+      "meaning": "我究竟为何来到你的牢笼背后？",
+      "suppliedText": "Que diable suis-je venu faire derrière tes barreaux?",
+      "sourceIPA": "/kə djabl sɥiʒ vəny fɛʁ dɛʁjɛʁ te baʁo/",
+      "sourceMeaning": "身陷你的囹圄 我究竟还有什么可做？",
+      "speaker": "",
+      "start": 7.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 7,
-        "sourceLineNumber": 73,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          73
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Qui ne cesse de prendre l'eau. Mais entre ciel et terre je trouverai les mots, les…",
-      "start": 14,
-      "ipa": "[ki nə sɛs də pʁɑ̃dʁ lo mɛ ɑ̃tʁ sjɛl e tɛʁ ʒə tʁuvʁe le mo le]",
-      "ear": "基 讷 塞斯 德 普杭德赫 洛 梅 昂特赫 斯耶艾勒 诶 泰赫 热 特胡弗赫 莱 莫 莱",
-      "meaning": "不断进水。可在天地之间，我会找到那些话，那些……",
-      "suppliedText": "qui ne cesse de prendre l'eau mais entre ciel et terre je trouverai les mots les",
-      "sourceLineId": "moliere-timed-77",
+      "sourceLineId": "moliere-le-spectacle-musical-11-002",
+      "sourceLineIndex": 2,
+      "lineIndex": 2,
+      "sourceText": "T'aimer est une galère qui ne cesse de prendre l'eau",
+      "ipa": "[tɛme ɛt‿yn ɡalɛʁ ki nə sɛs də pʁɑ̃dʁ lo]",
+      "ear": "泰梅 艾特 于恩 嘎莱赫 基 讷 塞斯 德 普杭德赫 洛",
+      "meaning": "爱你就像一艘不断进水的苦难之船。",
+      "suppliedText": "T'aimer est une galère qui ne cesse de prendre l'eau",
+      "sourceIPA": "/tɛme ɛt yn ɡalɛʁ ki nə sɛs də pʁɑ̃dʁ lo/",
+      "sourceMeaning": "爱你如苦海行舟 渗水不止将我淹没",
+      "speaker": "",
+      "start": 12.091,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 14,
-        "sourceLineNumber": 77,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          73,
+          77
+        ],
+        "wordCoverage": 0.917
       }
     },
     {
-      "sourceText": "Mots pour te plaire, quitte à y laisser ma peau. Tout le long de ce couloir…",
-      "start": 22,
-      "ipa": "[mo puʁ tə plɛʁ kit‿a i lɛse ma po tu lə lɔ̃ də sə kulwaʁ]",
-      "ear": "莫 普赫 特 普莱赫 基特 阿 伊 莱塞 玛 波 图 勒 隆 德 瑟 库勒乌阿赫",
-      "meaning": "能打动你的话，哪怕为此付出生命。沿着这条走廊……",
-      "suppliedText": "mots pour te plaire qui t laisser ma peau tout le long de ce couloir",
-      "sourceLineId": "moliere-timed-78",
+      "sourceLineId": "moliere-le-spectacle-musical-11-003",
+      "sourceLineIndex": 3,
+      "lineIndex": 3,
+      "sourceText": "Mais entre ciel et terre, je trouverai les mots",
+      "ipa": "[mɛ ɑ̃tʁ sjɛl e tɛʁ ʒə tʁuvʁe le mo]",
+      "ear": "梅 昂特赫 斯耶艾勒 诶 泰赫 热 特胡弗赫 莱 莫",
+      "meaning": "可天与地之间 我终将学会如何诉说",
+      "suppliedText": "Mais entre ciel et terre, je trouverais les mots",
+      "sourceIPA": "/mɛz ɑ̃tʁ sjɛl e tɛʁ ʒə tʁuvʁɛ le mo/",
+      "sourceMeaning": "可天与地之间 我终将学会如何诉说",
+      "speaker": "",
+      "start": 17.294,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 22,
-        "sourceLineNumber": 78,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          77
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Tu marches à contre-jour. Pas le moindre regard, pas le moindre détour. Je suis…",
-      "start": 30,
-      "ipa": "[ty maʁʃ‿a kɔ̃tʁʒuʁ pa lə mwɛ̃dʁ ʁəɡaʁ pa lə mwɛ̃dʁ detuʁ ʒə sɥi]",
-      "ear": "蒂于 玛赫什 阿 孔特赫茹赫 帕 勒 姆乌安德赫 赫嘎赫 帕 勒 姆乌安德赫 德图赫 热 斯于伊",
-      "meaning": "你逆光走过，没有看我，也没有回头。我……",
-      "suppliedText": "tu marches à contre jour pas le moindre regard pas le moindre détour je suis",
-      "sourceLineId": "moliere-timed-79",
+      "sourceLineId": "moliere-le-spectacle-musical-11-004",
+      "sourceLineIndex": 4,
+      "lineIndex": 4,
+      "sourceText": "Les mots pour te plaire, quitte à y laisser ma peau",
+      "ipa": "[le mo puʁ tə plɛʁ kit‿a i lɛse ma po]",
+      "ear": "莱 莫 普赫 特 普莱赫 基特 阿 伊 莱塞 玛 波",
+      "meaning": "找到能打动你的话，哪怕为此付出生命。",
+      "suppliedText": "Les mots pour te plaire, quitte à y laisser ma peau",
+      "sourceIPA": "/le mo puʁ tə plɛʁ kit a i lɛse ma po/",
+      "sourceMeaning": "用话语将你取悦 哪怕赴汤蹈火",
+      "speaker": "",
+      "start": 21.529,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 30,
-        "sourceLineNumber": 79,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          77,
+          78
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Dans le brouillard, à jamais condamné à t'aimer sans être aimé en retour. Oui…",
-      "start": 37,
-      "ipa": "[dɑ̃ lə bʁujaʁ a ʒamɛ kɔ̃dane a tɛme sɑ̃ ɛtʁ‿ɛme ɑ̃ ʁətuʁ wi]",
-      "ear": "当 勒 布胡耶阿赫 阿 扎梅 孔达内 阿 泰梅 桑 艾特赫 艾梅 昂 赫图赫 乌伊",
-      "meaning": "困在迷雾里，注定爱你，却得不到你的回应。是的……",
-      "suppliedText": "dans le Bouillard à jamais condamné à t'aimer sans être aimé en retour oui",
-      "sourceLineId": "moliere-timed-80",
+      "sourceLineId": "moliere-le-spectacle-musical-11-005",
+      "sourceLineIndex": 5,
+      "lineIndex": 5,
+      "sourceText": "Tout le long de ce couloir",
+      "ipa": "[tu lə lɔ̃ də sə kulwaʁ]",
+      "ear": "图 勒 隆 德 瑟 库勒乌阿赫",
+      "meaning": "沿这条狭长小道",
+      "suppliedText": "Tout le long de ce couloir",
+      "sourceIPA": "/tu lə lɔ̃ də sə kulwaʁ/",
+      "sourceMeaning": "沿这条狭长小道",
+      "speaker": "",
+      "start": 27.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 37,
-        "sourceLineNumber": 80,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          78
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "C'est dit, promis, j'irai au bout. Quel que soit le prix, tant pis si je deviens fou…",
-      "start": 45,
-      "ipa": "[sɛ di pʁomi ʒiʁe o bu kɛl kə swa lə pʁi tɑ̃pi si ʒə dəvjɛ̃ fu]",
-      "ear": "塞 迪 普霍米 日赫 奥 布 凯勒 克 斯乌阿 勒 普希 唐皮 西 热 德弗耶安 富",
-      "meaning": "说定了，我答应走到底。不论代价，哪怕因此疯狂……",
-      "suppliedText": "c'est dit promis j'irai au bout quel que soit le prix tant pis si je deviens fou",
-      "sourceLineId": "moliere-timed-81",
+      "sourceLineId": "moliere-le-spectacle-musical-11-006",
+      "sourceLineIndex": 6,
+      "lineIndex": 6,
+      "sourceText": "Tu marches à contre-jour, pas le moindre regard",
+      "ipa": "[ty maʁʃ‿a kɔ̃tʁʒuʁ pa lə mwɛ̃dʁ ʁəɡaʁ]",
+      "ear": "蒂于 玛赫什 阿 孔特赫茹赫 帕 勒 姆乌安德赫 赫嘎赫",
+      "meaning": "你走到逆光处 丝毫没向我张望",
+      "suppliedText": "Tu marches à contre-jour, pas le moindre regard",
+      "sourceIPA": "/ty maʁʃz a kɔ̃tʁʒuʁ pa lə mwɛ̃dʁ ʁəɡaʁ/",
+      "sourceMeaning": "你走到逆光处 丝毫没向我张望",
+      "speaker": "",
+      "start": 30.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 45,
-        "sourceLineNumber": 81,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          79
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "À espérer entre ces quatre murs qu'un matin tu diras dans un…",
-      "start": 53,
-      "ipa": "[a ɛspeʁe ɑ̃tʁ se katʁ myʁ kœ̃ matɛ̃ ty diʁa dɑ̃ œ̃]",
-      "ear": "阿 艾斯佩赫 昂特赫 塞 卡特赫 米于赫 坎 玛坦 蒂于 迪哈 当 恩",
-      "meaning": "我仍在这四壁之间期待，某个早晨你会低声……",
-      "suppliedText": "à espérer entre ces quatre murs que matin tu diras dans un",
-      "sourceLineId": "moliere-timed-82",
+      "sourceLineId": "moliere-le-spectacle-musical-11-007",
+      "sourceLineIndex": 7,
+      "lineIndex": 7,
+      "sourceText": "Pas le moindre détour, je suis dans le brouillard",
+      "ipa": "[pa lə mwɛ̃dʁ detuʁ ʒə sɥi dɑ̃ lə bʁujaʁ]",
+      "ear": "帕 勒 姆乌安德赫 德图赫 热 斯于伊 当 勒 布胡耶阿赫",
+      "meaning": "也没绕一点弯路 我就堕入迷惘",
+      "suppliedText": "Pas le moindre détour, je suis dans le brouillard",
+      "sourceIPA": "/pa lə mwɛ̃dʁ detuʁ ʒə sɥi dɑ̃ lə bʁujaʁ/",
+      "sourceMeaning": "也没绕一点弯路 我就堕入迷惘",
+      "speaker": "",
+      "start": 34.2,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 53,
-        "sourceLineNumber": 82,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          79,
+          80
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Murmure que tu m'aimes. Que diable suis-je venu faire derrière tes…",
-      "start": 61,
-      "ipa": "[myʁmyʁ kə ty mɛm kə djabl sɥiʒ vəny fɛʁ dɛʁjɛʁ te]",
-      "ear": "米于赫米于赫 克 蒂于 梅姆 克 德耶阿布勒 斯于伊日 弗尼于 费赫 戴赫耶艾赫 特",
-      "meaning": "告诉我，你爱我。我究竟为何来到你的……",
-      "suppliedText": "murmure que tu m'aimes que diable suis-je venu faire derrière tes",
-      "sourceLineId": "moliere-timed-83",
+      "sourceLineId": "moliere-le-spectacle-musical-11-008",
+      "sourceLineIndex": 8,
+      "lineIndex": 8,
+      "sourceText": "À jamais condamné à t'aimer sans être aimé en retour",
+      "ipa": "[a ʒamɛ kɔ̃dane a tɛme sɑ̃z‿ɛtʁ‿ɛme ɑ̃ ʁətuʁ]",
+      "ear": "阿 扎梅 孔达内 阿 泰梅 桑兹 艾特赫 艾梅 昂 赫图赫",
+      "meaning": "罪名被永远注定：爱你却未获相同回应",
+      "suppliedText": "À jamais condamné à t'aimer sans être aimé en retour",
+      "sourceIPA": "/a ʒamɛ kɔ̃dane a tɛme sɑ̃z ɛtʁ ɛme ɑ̃ ʁətuʁ/",
+      "sourceMeaning": "罪名被永远注定：爱你却未获相同回应",
+      "speaker": "",
+      "start": 38.6,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 61,
-        "sourceLineNumber": 83,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          80
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Barreaux ? Une galère qui ne cesse de prendre l'eau. Mais entre ciel et terre je trouverai…",
-      "start": 68,
-      "ipa": "[baʁo yn ɡalɛʁ ki nə sɛs də pʁɑ̃dʁ lo mɛ ɑ̃tʁ sjɛl e tɛʁ ʒə tʁuvʁe]",
-      "ear": "巴霍 于恩 嘎莱赫 基 讷 塞斯 德 普杭德赫 洛 梅 昂特赫 斯耶艾勒 诶 泰赫 热 特胡弗赫",
-      "meaning": "牢笼背后？一艘不断进水的船。可在天地之间，我会找到……",
-      "suppliedText": "parau une galère qui ne cesse de prendre l'eau mais entre ciel et terre je trouve",
-      "sourceLineId": "moliere-timed-84",
+      "sourceLineId": "moliere-le-spectacle-musical-11-009",
+      "sourceLineIndex": 9,
+      "lineIndex": 9,
+      "sourceText": "Oui c'est dit, promis, j'irai au bout quel que soit le prix",
+      "ipa": "[wi sɛ di pʁomi ʒiʁe o bu kɛl kə swa lə pʁi]",
+      "ear": "乌伊 塞 迪 普霍米 日赫 奥 布 凯勒 克 斯乌阿 勒 普希",
+      "meaning": "好吧一言为定 我答应 要坚持到底不惜代价",
+      "suppliedText": "Oui c'est dit, promis, j'irai au bout quel que soit le prix",
+      "sourceIPA": "/wi sɛ di pʁomi ʒiʁe o bu kɛl kə swa lə pʁi/",
+      "sourceMeaning": "好吧一言为定 我答应 要坚持到底不惜代价",
+      "speaker": "",
+      "start": 44.467,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 68,
-        "sourceLineNumber": 84,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          80,
+          81
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Les mots, les mots…",
-      "start": 75,
-      "ipa": "[le mo le mo]",
-      "ear": "莱 莫 莱 莫",
-      "meaning": "那些话，那些话……",
-      "suppliedText": "par les mot les mot",
-      "sourceLineId": "moliere-timed-85",
+      "sourceLineId": "moliere-le-spectacle-musical-11-010",
+      "sourceLineIndex": 10,
+      "lineIndex": 10,
+      "sourceText": "Tant pis si je deviens fou à espérer entre ces quatre murs",
+      "ipa": "[tɑ̃pi si ʒə dəvjɛ̃ fu a ɛspeʁe ɑ̃tʁ se katʁ myʁ]",
+      "ear": "唐皮 西 热 德弗耶安 富 阿 艾斯佩赫 昂特赫 塞 卡特赫 米于赫",
+      "meaning": "就算在这四面高墙中 为你期盼成痴 我也无所谓",
+      "suppliedText": "Tant pis si je deviens fou à espérer entre ces quatre murs",
+      "sourceIPA": "/tɑ̃pi si ʒə dəvjɛ̃ fu a ɛspeʁe ɑ̃tʁ se katʁ myʁ/",
+      "sourceMeaning": "就算在这四面高墙中 为你期盼成痴 我也无所谓",
+      "speaker": "",
+      "start": 50.474,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 75,
-        "sourceLineNumber": 85,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          81,
+          82
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Pour te… J'ai tant de choses à dire, des rêves à l'infini, des montagnes de rire…",
-      "start": 83,
-      "ipa": "[puʁ tə ʒe tɑ̃ də ʃoz‿a diʁ de ʁɛv‿a lɛ̃fini de mɔ̃tanj də ʁiʁ]",
-      "ear": "普赫 特 热 唐 德 肖兹 阿 迪赫 德 赫弗 阿 兰菲尼 德 蒙塔恩耶 德 希赫",
-      "meaning": "能打动你的……我有那么多话想说，无尽的梦，数不尽的欢笑……",
-      "suppliedText": "te j'ai tant de choses àir des rêves à l'infini des montagnes de rire",
-      "sourceLineId": "moliere-timed-86",
+      "sourceLineId": "moliere-le-spectacle-musical-11-011",
+      "sourceLineIndex": 11,
+      "lineIndex": 11,
+      "sourceText": "Qu'un matin, tu me diras dans un murmure",
+      "ipa": "[kœ̃ matɛ̃ ty mə diʁa dɑ̃z‿œ̃ myʁmyʁ]",
+      "ear": "坎 玛坦 蒂于 默 迪哈 当兹 恩 米于赫米于赫",
+      "meaning": "盼着某个清晨 你会轻声对我说",
+      "suppliedText": "Qu'un matin, tu me diras dans un murmure",
+      "sourceIPA": "/kœ̃ matɛ̃ ty mə diʁa dɑ̃z œ̃ myʁmyʁ/",
+      "sourceMeaning": "盼着某个清晨 你会轻声对我说",
+      "speaker": "",
+      "start": 56.692,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 83,
-        "sourceLineNumber": 86,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          82,
+          83
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "J'illuminerai tes nuits… Mon plus beau sourire… Ton amour, tu verras que le…",
-      "start": 91,
-      "ipa": "[ʒilyminʁe te nɥi mɔ̃ ply bo suʁiʁ tɔ̃n‿amuʁ ty vɛʁa kə lə]",
-      "ear": "日吕米恩赫 特 恩于伊 蒙 普吕 博 苏希赫 通恩 阿穆赫 蒂于 韦哈 克 勒",
-      "meaning": "我会照亮你的夜……最美的笑容……你会看见，最……",
-      "suppliedText": "j'illuminerai des nuit dev mon plusau sourir ton amour tu verras que le",
-      "sourceLineId": "moliere-timed-87",
+      "sourceLineId": "moliere-le-spectacle-musical-11-012",
+      "sourceLineIndex": 12,
+      "lineIndex": 12,
+      "sourceText": "Que tu m'aimes",
+      "ipa": "[kə ty mɛm]",
+      "ear": "克 蒂于 梅姆",
+      "meaning": "“你爱我”",
+      "suppliedText": "Que tu m'aimes",
+      "sourceIPA": "/kə ty mɛm/",
+      "sourceMeaning": "“你爱我”",
+      "speaker": "",
+      "start": 61.538,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 91,
-        "sourceLineNumber": 87,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          83
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Meilleur sera à venir. Oui, c'est dit, promis, j'irai au bout. Quel que soit le…",
-      "start": 98,
-      "ipa": "[mɛjœʁ səʁa a vəniʁ wi sɛ di pʁomi ʒiʁe o bu kɛl kə swa lə]",
-      "ear": "梅耶厄赫 瑟哈 阿 弗尼赫 乌伊 塞 迪 普霍米 日赫 奥 布 凯勒 克 斯乌阿 勒",
-      "meaning": "美好的仍在未来。说定了，我答应走到底。不论……",
-      "suppliedText": "meilleur sera av venir lui s'est dit promis j'irai au bout quel ce soit le",
-      "sourceLineId": "moliere-timed-88",
+      "sourceLineId": "moliere-le-spectacle-musical-11-013",
+      "sourceLineIndex": 13,
+      "lineIndex": 13,
+      "sourceText": "Que diable suis-je venu faire derrière tes barreaux?",
+      "ipa": "[kə djabl sɥiʒ vəny fɛʁ dɛʁjɛʁ te baʁo]",
+      "ear": "克 德耶阿布勒 斯于伊日 弗尼于 费赫 戴赫耶艾赫 特 巴霍",
+      "meaning": "我究竟为何来到你的牢笼背后？",
+      "suppliedText": "Que diable suis-je venu faire derrière tes barreaux?",
+      "sourceIPA": "/kə djabl sɥiʒ vəny fɛʁ dɛʁjɛʁ te baʁo/",
+      "sourceMeaning": "身陷你的囹圄 我究竟还有什么可做？",
+      "speaker": "",
+      "start": 63.692,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 98,
-        "sourceLineNumber": 88,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          83,
+          84
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Prix, tant pis si je deviens fou. Mais malgré tout, je préfère souffrir avec…",
-      "start": 106,
-      "ipa": "[pʁi tɑ̃pi si ʒə dəvjɛ̃ fu mɛ malɡʁe tu ʒə pʁefɛʁ sufʁiʁ avɛk]",
-      "ear": "普希 唐皮 西 热 德弗耶安 富 梅 玛勒格赫 图 热 普赫费赫 苏弗希赫 阿韦克",
-      "meaning": "代价，哪怕因此疯狂，我仍宁愿怀着希望受苦……",
-      "suppliedText": "prix tant pis si je deviens fou mais malgré tout je préfère souffrir avec",
-      "sourceLineId": "moliere-timed-89",
+      "sourceLineId": "moliere-le-spectacle-musical-11-014",
+      "sourceLineIndex": 14,
+      "lineIndex": 14,
+      "sourceText": "T'aimer est une galère qui ne cesse de prendre l'eau",
+      "ipa": "[tɛme ɛt‿yn ɡalɛʁ ki nə sɛs də pʁɑ̃dʁ lo]",
+      "ear": "泰梅 艾特 于恩 嘎莱赫 基 讷 塞斯 德 普杭德赫 洛",
+      "meaning": "爱你就像一艘不断进水的苦难之船。",
+      "suppliedText": "T'aimer est une galère qui ne cesse de prendre l'eau",
+      "sourceIPA": "/tɛme ɛt yn ɡalɛʁ ki nə sɛs də pʁɑ̃dʁ lo/",
+      "sourceMeaning": "爱你如苦海行舟 渗水不止将我淹没",
+      "speaker": "",
+      "start": 68.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 106,
-        "sourceLineNumber": 89,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          84
+        ],
+        "wordCoverage": 0.917
       }
     },
     {
-      "sourceText": "L'espoir de t'entendre un jour me dire que tu m'aimes.",
-      "start": 114,
-      "ipa": "[lɛspwaʁ də tɑ̃tɑ̃dʁ‿œ̃ ʒuʁ mə diʁ kə ty mɛm]",
-      "ear": "莱斯普乌阿赫 德 唐唐德赫 恩 茹赫 默 迪赫 克 蒂于 梅姆",
-      "meaning": "希望有一天听你对我说，你爱我。",
-      "suppliedText": "l'espoir de t'entendre un jour me dire que tu m'aimes",
-      "sourceLineId": "moliere-timed-90",
+      "sourceLineId": "moliere-le-spectacle-musical-11-015",
+      "sourceLineIndex": 15,
+      "lineIndex": 15,
+      "sourceText": "Mais entre ciel et terre, je trouverai les mots",
+      "ipa": "[mɛ ɑ̃tʁ sjɛl e tɛʁ ʒə tʁuvʁe le mo]",
+      "ear": "梅 昂特赫 斯耶艾勒 诶 泰赫 热 特胡弗赫 莱 莫",
+      "meaning": "可天与地之间 我终将学会如何诉说",
+      "suppliedText": "Mais entre ciel et terre, je trouverais les mots",
+      "sourceIPA": "/mɛz ɑ̃tʁ sjɛl e tɛʁ ʒə tʁuvʁɛ le mo/",
+      "sourceMeaning": "可天与地之间 我终将学会如何诉说",
+      "speaker": "",
+      "start": 72.118,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 114,
-        "sourceLineNumber": 90,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          84,
+          85
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Que diable suis-je venu faire derrière tes barreaux ? Une galère qui ne cesse de prendre… Mais…",
-      "start": 122,
-      "ipa": "[kə djabl sɥiʒ vəny fɛʁ dɛʁjɛʁ te baʁo yn ɡalɛʁ ki nə sɛs də pʁɑ̃dʁ mɛ]",
-      "ear": "克 德耶阿布勒 斯于伊日 弗尼于 费赫 戴赫耶艾赫 特 巴霍 于恩 嘎莱赫 基 讷 塞斯 德 普杭德赫 梅",
-      "meaning": "我究竟为何来到你的牢笼背后？一艘不断进水的船……",
-      "suppliedText": "que diable tu ve faire derrière tes parau une galère qui ne ce le grand mais",
-      "sourceLineId": "moliere-timed-91",
+      "sourceLineId": "moliere-le-spectacle-musical-11-016",
+      "sourceLineIndex": 16,
+      "lineIndex": 16,
+      "sourceText": "Les mots pour te plaire, quitte à y laisser ma peau",
+      "ipa": "[le mo puʁ tə plɛʁ kit‿a i lɛse ma po]",
+      "ear": "莱 莫 普赫 特 普莱赫 基特 阿 伊 莱塞 玛 波",
+      "meaning": "找到能打动你的话，哪怕为此付出生命。",
+      "suppliedText": "Les mots pour te plaire, quitte à y laisser ma peau",
+      "sourceIPA": "/le mo puʁ tə plɛʁ kit a i lɛse ma po/",
+      "sourceMeaning": "用话语将你取悦 哪怕赴汤蹈火",
+      "speaker": "",
+      "start": 79.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 122,
-        "sourceLineNumber": 91,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          85,
+          86
+        ],
+        "wordCoverage": 0.364
       }
     },
     {
-      "sourceText": "Entre ciel et terre je trouverai les mots, les mots pour te plaire, quitte à… Que diable… faire…",
-      "start": 132,
-      "ipa": "[ɑ̃tʁ sjɛl e tɛʁ ʒə tʁuvʁe le mo le mo puʁ tə plɛʁ kit‿a kə djabl fɛʁ]",
-      "ear": "昂特赫 斯耶艾勒 诶 泰赫 热 特胡弗赫 莱 莫 莱 莫 普赫 特 普莱赫 基特 阿 克 德耶阿布勒 费赫",
-      "meaning": "在天地之间，我会找到打动你的话，哪怕……我究竟为何……",
-      "suppliedText": "re cel terre je trouve les mots les mots pour te PL qui Ta ma que diable ve faire",
-      "sourceLineId": "moliere-timed-92",
+      "sourceLineId": "moliere-le-spectacle-musical-11-017",
+      "sourceLineIndex": 17,
+      "lineIndex": 17,
+      "sourceText": "J'ai tant de choses à t'offrir",
+      "ipa": "[ʒe tɑ̃ də ʃoz‿a tɔfʁiʁ]",
+      "ear": "热 唐 德 肖兹 阿 托弗希赫",
+      "meaning": "我有那么多东西来奉献给你",
+      "suppliedText": "J'ai tant de choses à t'offrir",
+      "sourceIPA": "/ʒe tɑ̃ də ʃozz a tɔfʁiʁ/",
+      "sourceMeaning": "我有那么多东西来奉献给你",
+      "speaker": "",
+      "start": 83.889,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 132,
-        "sourceLineNumber": 92,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          86
+        ],
+        "wordCoverage": 0.75
       }
     },
     {
-      "sourceText": "Derrière tes barreaux ? Une galère qui ne cesse… Mais…",
-      "start": 142,
-      "ipa": "[dɛʁjɛʁ te baʁo yn ɡalɛʁ ki nə sɛs mɛ]",
-      "ear": "戴赫耶艾赫 特 巴霍 于恩 嘎莱赫 基 讷 塞斯 梅",
-      "meaning": "来到你的牢笼背后？一艘……",
-      "suppliedText": "derrière tes B une galère qui ne sa leOM mais les",
-      "sourceLineId": "moliere-timed-93",
+      "sourceLineId": "moliere-le-spectacle-musical-11-018",
+      "sourceLineIndex": 18,
+      "lineIndex": 18,
+      "sourceText": "Des rêves à l'infini, des montagnes de rire",
+      "ipa": "[de ʁɛv‿a lɛ̃fini de mɔ̃tanj də ʁiʁ]",
+      "ear": "德 赫弗 阿 兰菲尼 德 蒙塔恩耶 德 希赫",
+      "meaning": "无止尽的美梦 还有一大堆的笑容",
+      "suppliedText": "Des rêves à l'infini, des montagnes de rire",
+      "sourceIPA": "/de ʁɛvz a lɛ̃fini de mɔ̃tanj də ʁiʁ/",
+      "sourceMeaning": "无止尽的美梦 还有一大堆的笑容",
+      "speaker": "",
+      "start": 87.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 142,
-        "sourceLineNumber": 93,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          86
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Entre ciel… Je trouverai les mots…",
-      "start": 150,
-      "ipa": "[ɑ̃tʁ sjɛl ʒə tʁuvʁe le mo]",
-      "ear": "昂特赫 斯耶艾勒 热 特胡弗赫 莱 莫",
-      "meaning": "天地之间……我会找到那些话……",
-      "suppliedText": "entre ciel je trouve les les mon ta ma",
-      "sourceLineId": "moliere-timed-94",
+      "sourceLineId": "moliere-le-spectacle-musical-11-019",
+      "sourceLineIndex": 19,
+      "lineIndex": 19,
+      "sourceText": "J'illuminerai tes nuits de mon plus beau sourire",
+      "ipa": "[ʒilyminʁe te nɥi də mɔ̃ ply bo suʁiʁ]",
+      "ear": "日吕米恩赫 特 恩于伊 德 蒙 普吕 博 苏希赫",
+      "meaning": "我会用最开朗的微笑 将你的每个夜晚点亮",
+      "suppliedText": "J'illuminerai tes nuits de mon plus beau sourire",
+      "sourceIPA": "/ʒilyminʁe te nɥi də mɔ̃ ply bo suʁiʁ/",
+      "sourceMeaning": "我会用最开朗的微笑 将你的每个夜晚点亮",
+      "speaker": "",
+      "start": 91.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 150,
-        "sourceLineNumber": 94,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          87
+        ],
+        "wordCoverage": 1.0
       }
     },
     {
-      "sourceText": "Peau. Les mots pour te… quitte à y laisser ma peau.",
-      "start": 157,
-      "ipa": "[po le mo puʁ tə kit‿a i lɛse ma po]",
-      "ear": "波 莱 莫 普赫 特 基特 阿 伊 莱塞 玛 波",
-      "meaning": "……哪怕为此付出生命。",
-      "suppliedText": "peau les mots pour te direire qui taille laisser ma peau",
-      "sourceLineId": "moliere-timed-95",
+      "sourceLineId": "moliere-le-spectacle-musical-11-020",
+      "sourceLineIndex": 20,
+      "lineIndex": 20,
+      "sourceText": "Mon amour, tu verras que le meilleur sera à venir",
+      "ipa": "[mɔ̃n‿amuʁ ty vɛʁa kə lə mɛjœʁ səʁa a vəniʁ]",
+      "ear": "蒙恩 阿穆赫 蒂于 韦哈 克 勒 梅耶厄赫 瑟哈 阿 弗尼赫",
+      "meaning": "我的至爱 更好的事物将在未来迎接你",
+      "suppliedText": "Mon amour, tu verras que le meilleur sera à venir",
+      "sourceIPA": "/mɔ̃n amuʁ ty vɛʁa kə lə mɛjœʁ səʁa a vəniʁ/",
+      "sourceMeaning": "我的至爱 更好的事物将在未来迎接你",
+      "speaker": "",
+      "start": 95.0,
       "reviewNote": "",
       "timing": {
-        "method": "supplied-timestamp",
-        "anchorStart": 157,
-        "sourceLineNumber": 95,
-        "precision": "approximate"
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          87,
+          88
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-11-021",
+      "sourceLineIndex": 21,
+      "lineIndex": 21,
+      "sourceText": "Oui c'est dit, promis, j'irai au bout quel que soit le prix",
+      "ipa": "[wi sɛ di pʁomi ʒiʁe o bu kɛl kə swa lə pʁi]",
+      "ear": "乌伊 塞 迪 普霍米 日赫 奥 布 凯勒 克 斯乌阿 勒 普希",
+      "meaning": "好吧一言为定 我答应 要坚持到底不惜代价",
+      "suppliedText": "Oui c'est dit, promis, j'irai au bout quel que soit le prix",
+      "sourceIPA": "/wi sɛ di pʁomi ʒiʁe o bu kɛl kə swa lə pʁi/",
+      "sourceMeaning": "好吧一言为定 我答应 要坚持到底不惜代价",
+      "speaker": "",
+      "start": 99.882,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          88,
+          89
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-11-022",
+      "sourceLineIndex": 22,
+      "lineIndex": 22,
+      "sourceText": "Tant pis si je deviens fou, mais malgré tout, je préfère souffrir",
+      "ipa": "[tɑ̃pi si ʒə dəvjɛ̃ fu mɛ malɡʁe tu ʒə pʁefɛʁ sufʁiʁ]",
+      "ear": "唐皮 西 热 德弗耶安 富 梅 玛勒格赫 图 热 普赫费赫 苏弗希赫",
+      "meaning": "就算我期盼成痴 可无论如何 我都甘受苦楚",
+      "suppliedText": "Tant pis si je deviens fou, mais malgré tout, je préfère souffrir",
+      "sourceIPA": "/tɑ̃pi si ʒə dəvjɛ̃ fu mɛ malɡʁe tu ʒə pʁefɛʁ sufʁiʁ/",
+      "sourceMeaning": "就算我期盼成痴 可无论如何 我都甘受苦楚",
+      "speaker": "",
+      "start": 106.571,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          89
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-11-023",
+      "sourceLineIndex": 23,
+      "lineIndex": 23,
+      "sourceText": "Avec l'espoir de t'entendre un jour me dire que tu m'aimes",
+      "ipa": "[avɛk lɛspwaʁ də tɑ̃tɑ̃dʁ‿œ̃ ʒuʁ mə diʁ kə ty mɛm]",
+      "ear": "阿韦克 莱斯普乌阿赫 德 唐唐德赫 恩 茹赫 默 迪赫 克 蒂于 梅姆",
+      "meaning": "只为某日听到你对我说 “你爱我”",
+      "suppliedText": "Avec l'espoir de t'entendre un jour me dire que tu m'aimes",
+      "sourceIPA": "/avɛk lɛspwaʁ də tɑ̃tɑ̃dʁ œ̃ ʒuʁ mə diʁ kə ty mɛm/",
+      "sourceMeaning": "只为某日听到你对我说 “你爱我”",
+      "speaker": "",
+      "start": 113.429,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          89,
+          90
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-11-024",
+      "sourceLineIndex": 24,
+      "lineIndex": 24,
+      "sourceText": "Que diable suis-je venu faire derrière tes barreaux?",
+      "ipa": "[kə djabl sɥiʒ vəny fɛʁ dɛʁjɛʁ te baʁo]",
+      "ear": "克 德耶阿布勒 斯于伊日 弗尼于 费赫 戴赫耶艾赫 特 巴霍",
+      "meaning": "我究竟为何来到你的牢笼背后？",
+      "suppliedText": "Que diable suis-je venu faire derrière tes barreaux?",
+      "sourceIPA": "/kə djabl sɥiʒ vəny fɛʁ dɛʁjɛʁ te baʁo/",
+      "sourceMeaning": "身陷你的囹圄 我究竟还有什么可做？",
+      "speaker": "",
+      "start": 122.0,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          91
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-11-025",
+      "sourceLineIndex": 25,
+      "lineIndex": 25,
+      "sourceText": "T'aimer est une galère qui ne cesse de prendre l'eau",
+      "ipa": "[tɛme ɛt‿yn ɡalɛʁ ki nə sɛs də pʁɑ̃dʁ lo]",
+      "ear": "泰梅 艾特 于恩 嘎莱赫 基 讷 塞斯 德 普杭德赫 洛",
+      "meaning": "爱你就像一艘不断进水的苦难之船。",
+      "suppliedText": "T'aimer est une galère qui ne cesse de prendre l'eau",
+      "sourceIPA": "/tɛme ɛt yn ɡalɛʁ ki nə sɛs də pʁɑ̃dʁ lo/",
+      "sourceMeaning": "爱你如苦海行舟 渗水不止将我淹没",
+      "speaker": "",
+      "start": 126.706,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          91
+        ],
+        "wordCoverage": 0.917
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-11-026",
+      "sourceLineIndex": 26,
+      "lineIndex": 26,
+      "sourceText": "Mais entre ciel et terre, je trouverai les mots",
+      "ipa": "[mɛ ɑ̃tʁ sjɛl e tɛʁ ʒə tʁuvʁe le mo]",
+      "ear": "梅 昂特赫 斯耶艾勒 诶 泰赫 热 特胡弗赫 莱 莫",
+      "meaning": "可天与地之间 我终将学会如何诉说",
+      "suppliedText": "Mais entre ciel et terre, je trouverais les mots",
+      "sourceIPA": "/mɛz ɑ̃tʁ sjɛl e tɛʁ ʒə tʁuvʁɛ le mo/",
+      "sourceMeaning": "可天与地之间 我终将学会如何诉说",
+      "speaker": "",
+      "start": 131.412,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          91,
+          92
+        ],
+        "wordCoverage": 1.0
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-11-027",
+      "sourceLineIndex": 27,
+      "lineIndex": 27,
+      "sourceText": "Les mots pour te plaire, quitte à y laisser ma peau",
+      "ipa": "[le mo puʁ tə plɛʁ kit‿a i lɛse ma po]",
+      "ear": "莱 莫 普赫 特 普莱赫 基特 阿 伊 莱塞 玛 波",
+      "meaning": "找到能打动你的话，哪怕为此付出生命。",
+      "suppliedText": "Les mots pour te plaire, quitte à y laisser ma peau",
+      "sourceIPA": "/le mo puʁ tə plɛʁ kit a i lɛse ma po/",
+      "sourceMeaning": "用话语将你取悦 哪怕赴汤蹈火",
+      "speaker": "",
+      "start": 136.444,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          92
+        ],
+        "wordCoverage": 0.818
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-11-028",
+      "sourceLineIndex": 28,
+      "lineIndex": 28,
+      "sourceText": "Que diable suis-je venu faire derrière tes barreaux?",
+      "ipa": "[kə djabl sɥiʒ vəny fɛʁ dɛʁjɛʁ te baʁo]",
+      "ear": "克 德耶阿布勒 斯于伊日 弗尼于 费赫 戴赫耶艾赫 特 巴霍",
+      "meaning": "我究竟为何来到你的牢笼背后？",
+      "suppliedText": "Que diable suis-je venu faire derrière tes barreaux?",
+      "sourceIPA": "/kə djabl sɥiʒ vəny fɛʁ dɛʁjɛʁ te baʁo/",
+      "sourceMeaning": "身陷你的囹圄 我究竟还有什么可做？",
+      "speaker": "",
+      "start": 140.333,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          92,
+          93
+        ],
+        "wordCoverage": 0.889
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-11-029",
+      "sourceLineIndex": 29,
+      "lineIndex": 29,
+      "sourceText": "T'aimer est une galère qui ne cesse de prendre l'eau",
+      "ipa": "[tɛme ɛt‿yn ɡalɛʁ ki nə sɛs də pʁɑ̃dʁ lo]",
+      "ear": "泰梅 艾特 于恩 嘎莱赫 基 讷 塞斯 德 普杭德赫 洛",
+      "meaning": "爱你就像一艘不断进水的苦难之船。",
+      "suppliedText": "T'aimer est une galère qui ne cesse de prendre l'eau",
+      "sourceIPA": "/tɛme ɛt yn ɡalɛʁ ki nə sɛs də pʁɑ̃dʁ lo/",
+      "sourceMeaning": "爱你如苦海行舟 渗水不止将我淹没",
+      "speaker": "",
+      "start": 143.778,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          93
+        ],
+        "wordCoverage": 0.75
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-11-030",
+      "sourceLineIndex": 30,
+      "lineIndex": 30,
+      "sourceText": "Mais entre ciel et terre, je trouverai les mots",
+      "ipa": "[mɛ ɑ̃tʁ sjɛl e tɛʁ ʒə tʁuvʁe le mo]",
+      "ear": "梅 昂特赫 斯耶艾勒 诶 泰赫 热 特胡弗赫 莱 莫",
+      "meaning": "可天与地之间 我终将学会如何诉说",
+      "suppliedText": "Mais entre ciel et terre, je trouverais les mots",
+      "sourceIPA": "/mɛz ɑ̃tʁ sjɛl e tɛʁ ʒə tʁuvʁɛ le mo/",
+      "sourceMeaning": "可天与地之间 我终将学会如何诉说",
+      "speaker": "",
+      "start": 149.111,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          93,
+          94
+        ],
+        "wordCoverage": 0.889
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-11-031",
+      "sourceLineIndex": 31,
+      "lineIndex": 31,
+      "sourceText": "Les mots pour te plaire, quitte à y laisser ma peau",
+      "ipa": "[le mo puʁ tə plɛʁ kit‿a i lɛse ma po]",
+      "ear": "莱 莫 普赫 特 普莱赫 基特 阿 伊 莱塞 玛 波",
+      "meaning": "找到能打动你的话，哪怕为此付出生命。",
+      "suppliedText": "Les mots pour te plaire, quitte à y laisser ma peau",
+      "sourceIPA": "/le mo puʁ tə plɛʁ kit a i lɛse ma po/",
+      "sourceMeaning": "用话语将你取悦 哪怕赴汤蹈火",
+      "speaker": "",
+      "start": 154.667,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          94,
+          95
+        ],
+        "wordCoverage": 0.455
+      }
+    },
+    {
+      "sourceLineId": "moliere-le-spectacle-musical-11-032",
+      "sourceLineIndex": 32,
+      "lineIndex": 32,
+      "sourceText": "Les mots pour te plaire, quitte à y laisser ma peau",
+      "ipa": "[le mo puʁ tə plɛʁ kit‿a i lɛse ma po]",
+      "ear": "莱 莫 普赫 特 普莱赫 基特 阿 伊 莱塞 玛 波",
+      "meaning": "找到能打动你的话，哪怕为此付出生命。",
+      "suppliedText": "Les mots pour te plaire, quitte à y laisser ma peau",
+      "sourceIPA": "/le mo puʁ tə plɛʁ kit a i lɛse ma po/",
+      "sourceMeaning": "用话语将你取悦 哪怕燃尽生命之火",
+      "speaker": "",
+      "start": 157.727,
+      "reviewNote": "",
+      "timing": {
+        "method": "reference-word-alignment",
+        "precision": "approximate",
+        "sourceAnchorLines": [
+          95
+        ],
+        "wordCoverage": 1.0
       }
     }
-  ],
-  "selectionSource": "https://fufu-life.github.io/musicals/moliere-le-spectacle-musical/index.html"
+  ]
 }
