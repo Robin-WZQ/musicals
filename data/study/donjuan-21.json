@@ -1,0 +1,1210 @@
+{
+  "videoId": "donjuan-21",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=3116"
+    }
+  ],
+  "entries": [
+    {
+      "start": 3135,
+      "sourceText": "Je me croyais plus fort",
+      "ipa": "[ʒə mə kʁwajɛ ply fɔʁ]",
+      "ear": "热 默 克赫乌阿耶艾 普吕 佛赫",
+      "meaning": "我以为我更强了",
+      "sourceLineId": "donjuan-timed-293-1",
+      "suppliedText": "Je me croyais plus fort Je me croyais de ceux Qui ne pleurent jamais Je m'ecoutais d'abord",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3135,
+        "anchorEnd": 3143,
+        "sourceLineNumber": 293,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3136.882,
+      "sourceText": "Je me croyais de ceux",
+      "ipa": "[ʒə mə kʁwajɛ də sø]",
+      "ear": "热 默 克赫乌阿耶艾 德 瑟厄",
+      "meaning": "我以为自己属于那些——",
+      "sourceLineId": "donjuan-timed-293-2",
+      "suppliedText": "Je me croyais plus fort Je me croyais de ceux Qui ne pleurent jamais Je m'ecoutais d'abord",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3135,
+        "anchorEnd": 3143,
+        "sourceLineNumber": 293,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3139.0,
+      "sourceText": "Qui ne pleurent jamais",
+      "ipa": "[ki nə plœʁ ʒamɛ]",
+      "ear": "基 讷 普勒厄赫 扎梅",
+      "meaning": "从不流泪的人。",
+      "sourceLineId": "donjuan-timed-293-3",
+      "suppliedText": "Je me croyais plus fort Je me croyais de ceux Qui ne pleurent jamais Je m'ecoutais d'abord",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3135,
+        "anchorEnd": 3143,
+        "sourceLineNumber": 293,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3141.118,
+      "sourceText": "Je m'écoutais d'abord",
+      "ipa": "[ʒə mekutɛ dabɔʁ]",
+      "ear": "热 梅库泰 达博赫",
+      "meaning": "我总是先听自己的心意，",
+      "sourceLineId": "donjuan-timed-293-4",
+      "suppliedText": "Je me croyais plus fort Je me croyais de ceux Qui ne pleurent jamais Je m'ecoutais d'abord",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3135,
+        "anchorEnd": 3143,
+        "sourceLineNumber": 293,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3143,
+      "sourceText": "Ce que disaient les autres",
+      "ipa": "[sə kə dizɛ lez‿otʁ]",
+      "ear": "瑟 克 迪泽 莱兹 奥特赫",
+      "meaning": "别人怎么说",
+      "sourceLineId": "donjuan-timed-294-1",
+      "suppliedText": "Ce que disaient les autres N'avait pas d'interet Si je n'ai pas compris A son premier sourire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3143,
+        "anchorEnd": 3150.81,
+        "sourceLineNumber": 294,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3145.527,
+      "sourceText": "N'avait pas d'intérêt",
+      "ipa": "[navɛ pa dɛ̃teʁɛ]",
+      "ear": "纳韦 帕 丹特赫",
+      "meaning": "我都不在意。",
+      "sourceLineId": "donjuan-timed-294-2",
+      "suppliedText": "Ce que disaient les autres N'avait pas d'interet Si je n'ai pas compris A son premier sourire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3143,
+        "anchorEnd": 3150.81,
+        "sourceLineNumber": 294,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3147.135,
+      "sourceText": "Si je n'ai pas compris",
+      "ipa": "[si ʒə ne pa kɔ̃pʁi]",
+      "ear": "西 热 内 帕 孔普希",
+      "meaning": "如果我不明白",
+      "sourceLineId": "donjuan-timed-294-3",
+      "suppliedText": "Ce que disaient les autres N'avait pas d'interet Si je n'ai pas compris A son premier sourire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3143,
+        "anchorEnd": 3150.81,
+        "sourceLineNumber": 294,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3148.743,
+      "sourceText": "À son premier sourire",
+      "ipa": "[a sɔ̃ pʁəmje suʁiʁ]",
+      "ear": "阿 松 普赫姆耶诶 苏希赫",
+      "meaning": "在她第一次对我微笑时，",
+      "sourceLineId": "donjuan-timed-294-4",
+      "suppliedText": "Ce que disaient les autres N'avait pas d'interet Si je n'ai pas compris A son premier sourire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3143,
+        "anchorEnd": 3150.81,
+        "sourceLineNumber": 294,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3151,
+      "sourceText": "C'est que j'ai pas appris",
+      "ipa": "[sɛ kə ʒe pa apʁi]",
+      "ear": "塞 克 热 帕 阿普希",
+      "meaning": "那是因为我没学",
+      "sourceLineId": "donjuan-timed-295-1",
+      "suppliedText": "C'est aue j'ai pas appris Toute la difference Entre amour et plaisir Et desire et envie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3151,
+        "anchorEnd": 3159,
+        "sourceLineNumber": 295,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3153.0,
+      "sourceText": "Toute la différence",
+      "ipa": "[tut la difeʁɑ̃s]",
+      "ear": "图特 拉 迪费杭斯",
+      "meaning": "我从没学会分清，",
+      "sourceLineId": "donjuan-timed-295-2",
+      "suppliedText": "C'est aue j'ai pas appris Toute la difference Entre amour et plaisir Et desire et envie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3151,
+        "anchorEnd": 3159,
+        "sourceLineNumber": 295,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3155.0,
+      "sourceText": "Entre amour et plaisir",
+      "ipa": "[ɑ̃tʁ‿amuʁ e plɛziʁ]",
+      "ear": "昂特赫 阿穆赫 诶 普莱齐赫",
+      "meaning": "爱情和欢愉，",
+      "sourceLineId": "donjuan-timed-295-3",
+      "suppliedText": "C'est aue j'ai pas appris Toute la difference Entre amour et plaisir Et desire et envie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3151,
+        "anchorEnd": 3159,
+        "sourceLineNumber": 295,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3157.25,
+      "sourceText": "Et désir et envie",
+      "ipa": "[e deziʁ e ɑ̃vi]",
+      "ear": "诶 德齐赫 诶 昂维",
+      "meaning": "渴望与欲望之间的差别。",
+      "sourceLineId": "donjuan-timed-295-4",
+      "suppliedText": "C'est aue j'ai pas appris Toute la difference Entre amour et plaisir Et desire et envie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3151,
+        "anchorEnd": 3159,
+        "sourceLineNumber": 295,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3159,
+      "sourceText": "Je me croyais trop grand",
+      "ipa": "[ʒə mə kʁwajɛ tʁo ɡʁɑ̃]",
+      "ear": "热 默 克赫乌阿耶艾 特霍 格杭",
+      "meaning": "我曾以为自己高高在上，",
+      "sourceLineId": "donjuan-timed-296-1",
+      "suppliedText": "Je me croyais trop grand Je me croyais de ceux A qui tout reussit Dans les yeux d'une enfant",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3159,
+        "anchorEnd": 3166,
+        "sourceLineNumber": 296,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3160.647,
+      "sourceText": "Je me croyais de ceux",
+      "ipa": "[ʒə mə kʁwajɛ də sø]",
+      "ear": "热 默 克赫乌阿耶艾 德 瑟厄",
+      "meaning": "我以为自己属于那些——",
+      "sourceLineId": "donjuan-timed-296-2",
+      "suppliedText": "Je me croyais trop grand Je me croyais de ceux A qui tout reussit Dans les yeux d'une enfant",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3159,
+        "anchorEnd": 3166,
+        "sourceLineNumber": 296,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3162.5,
+      "sourceText": "À qui tout réussit",
+      "ipa": "[a ki tu ʁeysi]",
+      "ear": "阿 基 图 赫于西",
+      "meaning": "做什么都能成功的人。",
+      "sourceLineId": "donjuan-timed-296-3",
+      "suppliedText": "Je me croyais trop grand Je me croyais de ceux A qui tout reussit Dans les yeux d'une enfant",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3159,
+        "anchorEnd": 3166,
+        "sourceLineNumber": 296,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3164.147,
+      "sourceText": "Dans les yeux d'une enfant",
+      "ipa": "[dɑ̃ lez‿jø dyn‿ɑ̃fɑ̃]",
+      "ear": "当 莱兹 耶厄 迪于恩 昂芳",
+      "meaning": "在一个年轻姑娘眼中，",
+      "sourceLineId": "donjuan-timed-296-4",
+      "suppliedText": "Je me croyais trop grand Je me croyais de ceux A qui tout reussit Dans les yeux d'une enfant",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3159,
+        "anchorEnd": 3166,
+        "sourceLineNumber": 296,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3166,
+      "sourceText": "Je me suis enfin vu",
+      "ipa": "[ʒə mə sɥi ɑ̃fɛ̃ vy]",
+      "ear": "热 默 斯于伊 昂凡 维于",
+      "meaning": "我终于看清自己，",
+      "sourceLineId": "donjuan-timed-297-1",
+      "suppliedText": "Je me suis enfin vu Aussi laid que petit Dans les yeux d'une femme J'ai senti le tonnerre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3166,
+        "anchorEnd": 3174,
+        "sourceLineNumber": 297,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3167.697,
+      "sourceText": "Aussi laid que petit",
+      "ipa": "[osi lɛd kə pəti]",
+      "ear": "奥西 莱德 克 珀蒂",
+      "meaning": "那么丑陋，那么渺小。",
+      "sourceLineId": "donjuan-timed-297-2",
+      "suppliedText": "Je me suis enfin vu Aussi laid que petit Dans les yeux d'une femme J'ai senti le tonnerre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3166,
+        "anchorEnd": 3174,
+        "sourceLineNumber": 297,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3169.879,
+      "sourceText": "Dans les yeux d'une femme",
+      "ipa": "[dɑ̃ lez‿jø dyn fam]",
+      "ear": "当 莱兹 耶厄 迪于恩 法姆",
+      "meaning": "女人眼中",
+      "sourceLineId": "donjuan-timed-297-3",
+      "suppliedText": "Je me suis enfin vu Aussi laid que petit Dans les yeux d'une femme J'ai senti le tonnerre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3166,
+        "anchorEnd": 3174,
+        "sourceLineNumber": 297,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3172.061,
+      "sourceText": "J'ai senti le tonnerre",
+      "ipa": "[ʒe sɑ̃ti lə tɔnɛʁ]",
+      "ear": "热 桑蒂 勒 托奈赫",
+      "meaning": "我感觉到了雷霆",
+      "sourceLineId": "donjuan-timed-297-4",
+      "suppliedText": "Je me suis enfin vu Aussi laid que petit Dans les yeux d'une femme J'ai senti le tonnerre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3166,
+        "anchorEnd": 3174,
+        "sourceLineNumber": 297,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3174,
+      "sourceText": "D'un million de tambours",
+      "ipa": "[dœ̃ miljɔ̃ də tɑ̃buʁ]",
+      "ear": "丹 米勒耶翁 德 唐布赫",
+      "meaning": "像百万面鼓，",
+      "sourceLineId": "donjuan-timed-298-1",
+      "suppliedText": "D'un million de tambours Qui frappaient dans mon ame Et mon coeur s'est ouvert Au plaisir de l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3174,
+        "anchorEnd": 3182.78,
+        "sourceLineNumber": 298,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3176.007,
+      "sourceText": "Qui frappaient dans mon âme",
+      "ipa": "[ki fʁapɛ dɑ̃ mɔ̃n‿am]",
+      "ear": "基 弗哈佩 当 蒙恩 阿姆",
+      "meaning": "在我的灵魂里擂响。",
+      "sourceLineId": "donjuan-timed-298-2",
+      "suppliedText": "D'un million de tambours Qui frappaient dans mon ame Et mon coeur s'est ouvert Au plaisir de l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3174,
+        "anchorEnd": 3182.78,
+        "sourceLineNumber": 298,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3178.515,
+      "sourceText": "Et mon cœur s'est ouvert",
+      "ipa": "[e mɔ̃ kœʁ sɛt‿uvɛʁ]",
+      "ear": "诶 蒙 克厄赫 塞特 乌韦赫",
+      "meaning": "我的心敞开了",
+      "sourceLineId": "donjuan-timed-298-3",
+      "suppliedText": "D'un million de tambours Qui frappaient dans mon ame Et mon coeur s'est ouvert Au plaisir de l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3174,
+        "anchorEnd": 3182.78,
+        "sourceLineNumber": 298,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3180.522,
+      "sourceText": "Au plaisir de l'amour",
+      "ipa": "[o plɛziʁ də lamuʁ]",
+      "ear": "奥 普莱齐赫 德 拉穆赫",
+      "meaning": "向爱情的欢愉敞开。",
+      "sourceLineId": "donjuan-timed-298-4",
+      "suppliedText": "D'un million de tambours Qui frappaient dans mon ame Et mon coeur s'est ouvert Au plaisir de l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3174,
+        "anchorEnd": 3182.78,
+        "sourceLineNumber": 298,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3183,
+      "sourceText": "Aimer",
+      "ipa": "[ɛme]",
+      "ear": "艾梅",
+      "meaning": "去爱。",
+      "sourceLineId": "donjuan-timed-299-1",
+      "suppliedText": "Aimer C'est plus fort que l'envie de vivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3183,
+        "anchorEnd": 3191.81,
+        "sourceLineNumber": 299,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3184.888,
+      "sourceText": "C'est plus fort que l'envie de vivre",
+      "ipa": "[sɛ ply fɔʁ kə lɑ̃vi də vivʁ]",
+      "ear": "塞 普吕 佛赫 克 朗维 德 维弗赫",
+      "meaning": "比求生的欲望更强烈",
+      "sourceLineId": "donjuan-timed-299-2",
+      "suppliedText": "Aimer C'est plus fort que l'envie de vivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3183,
+        "anchorEnd": 3191.81,
+        "sourceLineNumber": 299,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3192,
+      "sourceText": "Plus fort que l'envie d'être libre",
+      "ipa": "[ply fɔʁ kə lɑ̃vi dɛtʁ libʁ]",
+      "ear": "普吕 佛赫 克 朗维 戴特赫 利布赫",
+      "meaning": "比自由的渴望更强烈",
+      "sourceLineId": "donjuan-timed-300-1",
+      "suppliedText": "Plus fort que l'envie d'etre libre Plus fort que l'alcool qui m'enivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3192,
+        "anchorEnd": 3203,
+        "sourceLineNumber": 300,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3197.261,
+      "sourceText": "Plus fort que l'alcool qui m'enivre",
+      "ipa": "[ply fɔʁ kə lalkɔl ki mɑ̃nivʁ]",
+      "ear": "普吕 佛赫 克 拉勒科勒 基 芒尼弗赫",
+      "meaning": "比让我陶醉的酒精更烈",
+      "sourceLineId": "donjuan-timed-300-2",
+      "suppliedText": "Plus fort que l'envie d'etre libre Plus fort que l'alcool qui m'enivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3192,
+        "anchorEnd": 3203,
+        "sourceLineNumber": 300,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3203,
+      "sourceText": "Aimer",
+      "ipa": "[ɛme]",
+      "ear": "艾梅",
+      "meaning": "去爱。",
+      "sourceLineId": "donjuan-timed-301-1",
+      "suppliedText": "Aimer C'est le prisonnier qu'on delivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3203,
+        "anchorEnd": 3213,
+        "sourceLineNumber": 301,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3205.143,
+      "sourceText": "C'est le prisonnier qu'on délivre",
+      "ipa": "[sɛ lə pʁizɔnje kɔ̃ delivʁ]",
+      "ear": "塞 勒 普希佐恩耶诶 孔 德利弗赫",
+      "meaning": "爱像囚徒终于获释，",
+      "sourceLineId": "donjuan-timed-301-2",
+      "suppliedText": "Aimer C'est le prisonnier qu'on delivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3203,
+        "anchorEnd": 3213,
+        "sourceLineNumber": 301,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3213,
+      "sourceText": "C'est la force de vouloir te suivre",
+      "ipa": "[sɛ la fɔʁs də vulwaʁ tə sɥivʁ]",
+      "ear": "塞 拉 佛赫斯 德 乌勒乌阿赫 特 斯于伊弗赫",
+      "meaning": "想要追随你的力量",
+      "sourceLineId": "donjuan-timed-302-1",
+      "suppliedText": "C'est la force de vouloir te suivre C'est plus fort que l'envie de vivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3213,
+        "anchorEnd": 3223,
+        "sourceLineNumber": 302,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3218.417,
+      "sourceText": "C'est plus fort que l'envie de vivre",
+      "ipa": "[sɛ ply fɔʁ kə lɑ̃vi də vivʁ]",
+      "ear": "塞 普吕 佛赫 克 朗维 德 维弗赫",
+      "meaning": "比求生的欲望更强烈",
+      "sourceLineId": "donjuan-timed-302-2",
+      "suppliedText": "C'est la force de vouloir te suivre C'est plus fort que l'envie de vivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3213,
+        "anchorEnd": 3223,
+        "sourceLineNumber": 302,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3223,
+      "sourceText": "Je ne l'aurais jamais cru",
+      "ipa": "[ʒə nə loʁɛ ʒamɛ kʁy]",
+      "ear": "热 讷 洛赫 扎梅 克许",
+      "meaning": "从前的我绝不会相信，",
+      "sourceLineId": "donjuan-timed-303-1",
+      "suppliedText": "Je ne l'aurais jamais cru Celui qui m'aurait dit Qu'elle existait vraiment Que je donnerais ma vie Pour l'entendre me dire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3223,
+        "anchorEnd": 3232,
+        "sourceLineNumber": 303,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3224.875,
+      "sourceText": "Celui qui m'aurait dit",
+      "ipa": "[səlɥi ki moʁɛ di]",
+      "ear": "瑟勒于伊 基 莫赫 迪",
+      "meaning": "若有人告诉我，",
+      "sourceLineId": "donjuan-timed-303-2",
+      "suppliedText": "Je ne l'aurais jamais cru Celui qui m'aurait dit Qu'elle existait vraiment Que je donnerais ma vie Pour l'entendre me dire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3223,
+        "anchorEnd": 3232,
+        "sourceLineNumber": 303,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3226.75,
+      "sourceText": "Qu'elle existait vraiment",
+      "ipa": "[kɛl‿ɛɡzistɛ vʁɛmɑ̃]",
+      "ear": "凯勒 艾格齐斯泰 弗赫芒",
+      "meaning": "爱情真的存在，",
+      "sourceLineId": "donjuan-timed-303-3",
+      "suppliedText": "Je ne l'aurais jamais cru Celui qui m'aurait dit Qu'elle existait vraiment Que je donnerais ma vie Pour l'entendre me dire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3223,
+        "anchorEnd": 3232,
+        "sourceLineNumber": 303,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3228.625,
+      "sourceText": "Que je donnerais ma vie",
+      "ipa": "[kə ʒə dɔnʁɛ ma vi]",
+      "ear": "克 热 多恩赫 玛 维",
+      "meaning": "我愿意献出我的生命",
+      "sourceLineId": "donjuan-timed-303-4",
+      "suppliedText": "Je ne l'aurais jamais cru Celui qui m'aurait dit Qu'elle existait vraiment Que je donnerais ma vie Pour l'entendre me dire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3223,
+        "anchorEnd": 3232,
+        "sourceLineNumber": 303,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3230.5,
+      "sourceText": "Pour l'entendre me dire",
+      "ipa": "[puʁ lɑ̃tɑ̃dʁ mə diʁ]",
+      "ear": "普赫 朗唐德赫 默 迪赫",
+      "meaning": "只为听她对我说，",
+      "sourceLineId": "donjuan-timed-303-5",
+      "suppliedText": "Je ne l'aurais jamais cru Celui qui m'aurait dit Qu'elle existait vraiment Que je donnerais ma vie Pour l'entendre me dire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3223,
+        "anchorEnd": 3232,
+        "sourceLineNumber": 303,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3232,
+      "sourceText": "Je t'aime Don Juan",
+      "ipa": "[ʒə tɛm dɔ̃ ʒɥɑ̃]",
+      "ear": "热 泰姆 东 日于昂",
+      "meaning": "唐璜，我爱你。",
+      "sourceLineId": "donjuan-timed-304-1",
+      "suppliedText": "Je t'aime Don Juan Que je vendrais mon ame A celui qui la veut Que j'accepterais tout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3232,
+        "anchorEnd": 3241,
+        "sourceLineNumber": 304,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3233.853,
+      "sourceText": "Que je vendrais mon âme",
+      "ipa": "[kə ʒə vɑ̃dʁɛ mɔ̃n‿am]",
+      "ear": "克 热 旺德赫 蒙恩 阿姆",
+      "meaning": "我愿意出卖我的灵魂",
+      "sourceLineId": "donjuan-timed-304-2",
+      "suppliedText": "Je t'aime Don Juan Que je vendrais mon ame A celui qui la veut Que j'accepterais tout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3232,
+        "anchorEnd": 3241,
+        "sourceLineNumber": 304,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3236.235,
+      "sourceText": "À celui qui la veut",
+      "ipa": "[a səlɥi ki la vø]",
+      "ear": "阿 瑟勒于伊 基 拉 弗厄",
+      "meaning": "给任何想要的人",
+      "sourceLineId": "donjuan-timed-304-3",
+      "suppliedText": "Je t'aime Don Juan Que je vendrais mon ame A celui qui la veut Que j'accepterais tout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3232,
+        "anchorEnd": 3241,
+        "sourceLineNumber": 304,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3238.618,
+      "sourceText": "Que j'accepterais tout",
+      "ipa": "[kə ʒaksɛptʁɛ tu]",
+      "ear": "克 扎克塞普特赫 图",
+      "meaning": "我愿意接受一切",
+      "sourceLineId": "donjuan-timed-304-4",
+      "suppliedText": "Je t'aime Don Juan Que je vendrais mon ame A celui qui la veut Que j'accepterais tout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3232,
+        "anchorEnd": 3241,
+        "sourceLineNumber": 304,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3241,
+      "sourceText": "Pour les yeux d'une femme",
+      "ipa": "[puʁ lez‿jø dyn fam]",
+      "ear": "普赫 莱兹 耶厄 迪于恩 法姆",
+      "meaning": "为了一个女人的双眼，",
+      "sourceLineId": "donjuan-timed-305-1",
+      "suppliedText": "Pour les yeux d'une femme Je serais meme huereux De me mettre a genoux Aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3241,
+        "anchorEnd": 3251,
+        "sourceLineNumber": 305,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3244.226,
+      "sourceText": "Je serais même heureux",
+      "ipa": "[ʒə səʁɛ mɛm‿øʁø]",
+      "ear": "热 瑟赫 梅姆 厄赫厄",
+      "meaning": "我甚至会心甘情愿，",
+      "sourceLineId": "donjuan-timed-305-2",
+      "suppliedText": "Pour les yeux d'une femme Je serais meme huereux De me mettre a genoux Aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3241,
+        "anchorEnd": 3251,
+        "sourceLineNumber": 305,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3247.452,
+      "sourceText": "De me mettre à genoux",
+      "ipa": "[də mə mɛtʁ‿a ʒənu]",
+      "ear": "德 默 梅特赫 阿 热努",
+      "meaning": "跪在她面前。",
+      "sourceLineId": "donjuan-timed-305-3",
+      "suppliedText": "Pour les yeux d'une femme Je serais meme huereux De me mettre a genoux Aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3241,
+        "anchorEnd": 3251,
+        "sourceLineNumber": 305,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3250.032,
+      "sourceText": "Aimer",
+      "ipa": "[ɛme]",
+      "ear": "艾梅",
+      "meaning": "去爱。",
+      "sourceLineId": "donjuan-timed-305-4",
+      "suppliedText": "Pour les yeux d'une femme Je serais meme huereux De me mettre a genoux Aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3241,
+        "anchorEnd": 3251,
+        "sourceLineNumber": 305,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3251,
+      "sourceText": "C'est plus fort que l'envie de vivre",
+      "ipa": "[sɛ ply fɔʁ kə lɑ̃vi də vivʁ]",
+      "ear": "塞 普吕 佛赫 克 朗维 德 维弗赫",
+      "meaning": "比求生的欲望更强烈",
+      "sourceLineId": "donjuan-timed-306-1",
+      "suppliedText": "C'est plus fort que l'envie de vivre Plus fort que l'envie d'etre libre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3251,
+        "anchorEnd": 3261.36,
+        "sourceLineNumber": 306,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3256.18,
+      "sourceText": "Plus fort que l'envie d'être libre",
+      "ipa": "[ply fɔʁ kə lɑ̃vi dɛtʁ libʁ]",
+      "ear": "普吕 佛赫 克 朗维 戴特赫 利布赫",
+      "meaning": "比自由的渴望更强烈",
+      "sourceLineId": "donjuan-timed-306-2",
+      "suppliedText": "C'est plus fort que l'envie de vivre Plus fort que l'envie d'etre libre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3251,
+        "anchorEnd": 3261.36,
+        "sourceLineNumber": 306,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3263,
+      "sourceText": "Plus fort que l'alcool qui m'enivre",
+      "ipa": "[ply fɔʁ kə lalkɔl ki mɑ̃nivʁ]",
+      "ear": "普吕 佛赫 克 拉勒科勒 基 芒尼弗赫",
+      "meaning": "比让我陶醉的酒精更烈",
+      "sourceLineId": "donjuan-timed-307-1",
+      "suppliedText": "Plus fort que l'alcool qui m'enivre Aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3263,
+        "anchorEnd": 3272,
+        "sourceLineNumber": 307,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3270.2,
+      "sourceText": "Aimer",
+      "ipa": "[ɛme]",
+      "ear": "艾梅",
+      "meaning": "去爱。",
+      "sourceLineId": "donjuan-timed-307-2",
+      "suppliedText": "Plus fort que l'alcool qui m'enivre Aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3263,
+        "anchorEnd": 3272,
+        "sourceLineNumber": 307,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3272,
+      "sourceText": "C'est le prisonnier qu'on délivre",
+      "ipa": "[sɛ lə pʁizɔnje kɔ̃ delivʁ]",
+      "ear": "塞 勒 普希佐恩耶诶 孔 德利弗赫",
+      "meaning": "爱像囚徒终于获释，",
+      "sourceLineId": "donjuan-timed-308-1",
+      "suppliedText": "C'est le prisonnier qu'on delivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3272,
+        "anchorEnd": 3277.42,
+        "sourceLineNumber": 308,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3278,
+      "sourceText": "C'est la force de vouloir te suivre",
+      "ipa": "[sɛ la fɔʁs də vulwaʁ tə sɥivʁ]",
+      "ear": "塞 拉 佛赫斯 德 乌勒乌阿赫 特 斯于伊弗赫",
+      "meaning": "想要追随你的力量",
+      "sourceLineId": "donjuan-timed-309-1",
+      "suppliedText": "C'est la force de vouloir te suivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3278,
+        "anchorEnd": 3283.83,
+        "sourceLineNumber": 309,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3284,
+      "sourceText": "C'est plus fort que l'envie de vivre",
+      "ipa": "[sɛ ply fɔʁ kə lɑ̃vi də vivʁ]",
+      "ear": "塞 普吕 佛赫 克 朗维 德 维弗赫",
+      "meaning": "比求生的欲望更强烈",
+      "sourceLineId": "donjuan-timed-310-1",
+      "suppliedText": "C'est plus fort que l'envie de vivre Et je l'aime, je l'aime fort,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3284,
+        "anchorEnd": 3294,
+        "sourceLineNumber": 310,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3289.238,
+      "sourceText": "Et je l'aime, je l'aime fort,",
+      "ipa": "[e ʒə lɛm ʒə lɛm fɔʁ]",
+      "ear": "诶 热 莱姆 热 莱姆 佛赫",
+      "meaning": "我爱她，深深地爱她，",
+      "sourceLineId": "donjuan-timed-310-2",
+      "suppliedText": "C'est plus fort que l'envie de vivre Et je l'aime, je l'aime fort,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3284,
+        "anchorEnd": 3294,
+        "sourceLineNumber": 310,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3294,
+      "sourceText": "Je l'aime trop",
+      "ipa": "[ʒə lɛm tʁo]",
+      "ear": "热 莱姆 特霍",
+      "meaning": "我爱她爱得太多。",
+      "sourceLineId": "donjuan-timed-311-1",
+      "suppliedText": "Je l'aime trop Oh, je l'aime, j'ai son nom Grave sur ma peau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3294,
+        "anchorEnd": 3302.09,
+        "sourceLineNumber": 311,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3295.926,
+      "sourceText": "Oh, je l'aime, j'ai son nom",
+      "ipa": "[ɔ ʒə lɛm ʒe sɔ̃ nɔ̃]",
+      "ear": "哦 热 莱姆 热 松 农",
+      "meaning": "我爱她，把她的名字——",
+      "sourceLineId": "donjuan-timed-311-2",
+      "suppliedText": "Je l'aime trop Oh, je l'aime, j'ai son nom Grave sur ma peau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3294,
+        "anchorEnd": 3302.09,
+        "sourceLineNumber": 311,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3299.393,
+      "sourceText": "Gravé sur ma peau",
+      "ipa": "[ɡʁave syʁ ma po]",
+      "ear": "格哈韦 西于赫 玛 波",
+      "meaning": "刻在我的肌肤上。",
+      "sourceLineId": "donjuan-timed-311-3",
+      "suppliedText": "Je l'aime trop Oh, je l'aime, j'ai son nom Grave sur ma peau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3294,
+        "anchorEnd": 3302.09,
+        "sourceLineNumber": 311,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3303,
+      "sourceText": "Je l'aime, je l'aime...",
+      "ipa": "[ʒə lɛm ʒə lɛm]",
+      "ear": "热 莱姆 热 莱姆",
+      "meaning": "我爱她，我爱她……",
+      "sourceLineId": "donjuan-timed-312-1",
+      "suppliedText": "Je l'aime, je l'aime...",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3303,
+        "anchorEnd": 3314,
+        "sourceLineNumber": 312,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3314,
+      "sourceText": "Aimer",
+      "ipa": "[ɛme]",
+      "ear": "艾梅",
+      "meaning": "去爱。",
+      "sourceLineId": "donjuan-timed-313-1",
+      "suppliedText": "Aimer C'est plus fort que l'envie de vivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3314,
+        "anchorEnd": 3324,
+        "sourceLineNumber": 313,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3316.143,
+      "sourceText": "C'est plus fort que l'envie de vivre",
+      "ipa": "[sɛ ply fɔʁ kə lɑ̃vi də vivʁ]",
+      "ear": "塞 普吕 佛赫 克 朗维 德 维弗赫",
+      "meaning": "比求生的欲望更强烈",
+      "sourceLineId": "donjuan-timed-313-2",
+      "suppliedText": "Aimer C'est plus fort que l'envie de vivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3314,
+        "anchorEnd": 3324,
+        "sourceLineNumber": 313,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3324,
+      "sourceText": "Plus fort que l'envie d'être libre",
+      "ipa": "[ply fɔʁ kə lɑ̃vi dɛtʁ libʁ]",
+      "ear": "普吕 佛赫 克 朗维 戴特赫 利布赫",
+      "meaning": "比自由的渴望更强烈",
+      "sourceLineId": "donjuan-timed-314-1",
+      "suppliedText": "Plus fort que l'envie d'etre libre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3324,
+        "anchorEnd": 3330,
+        "sourceLineNumber": 314,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3330,
+      "sourceText": "Plus fort que l'alcool qui m'enivre",
+      "ipa": "[ply fɔʁ kə lalkɔl ki mɑ̃nivʁ]",
+      "ear": "普吕 佛赫 克 拉勒科勒 基 芒尼弗赫",
+      "meaning": "比让我陶醉的酒精更烈",
+      "sourceLineId": "donjuan-timed-315-1",
+      "suppliedText": "Plus fort que l'alcool qui m'enivre Aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3330,
+        "anchorEnd": 3339,
+        "sourceLineNumber": 315,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3337.2,
+      "sourceText": "Aimer",
+      "ipa": "[ɛme]",
+      "ear": "艾梅",
+      "meaning": "去爱。",
+      "sourceLineId": "donjuan-timed-315-2",
+      "suppliedText": "Plus fort que l'alcool qui m'enivre Aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3330,
+        "anchorEnd": 3339,
+        "sourceLineNumber": 315,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3339,
+      "sourceText": "C'est le prisonnier qu'on délivre",
+      "ipa": "[sɛ lə pʁizɔnje kɔ̃ delivʁ]",
+      "ear": "塞 勒 普希佐恩耶诶 孔 德利弗赫",
+      "meaning": "爱像囚徒终于获释，",
+      "sourceLineId": "donjuan-timed-316-1",
+      "suppliedText": "C'est le prisonnier qu'on delivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3339,
+        "anchorEnd": 3345,
+        "sourceLineNumber": 316,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3345,
+      "sourceText": "C'est la force de vouloir te suivre",
+      "ipa": "[sɛ la fɔʁs də vulwaʁ tə sɥivʁ]",
+      "ear": "塞 拉 佛赫斯 德 乌勒乌阿赫 特 斯于伊弗赫",
+      "meaning": "想要追随你的力量",
+      "sourceLineId": "donjuan-timed-317-1",
+      "suppliedText": "C'est la force de vouloir te suivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3345,
+        "anchorEnd": 3350.95,
+        "sourceLineNumber": 317,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3351,
+      "sourceText": "C'est plus fort que l'envie de vivre",
+      "ipa": "[sɛ ply fɔʁ kə lɑ̃vi də vivʁ]",
+      "ear": "塞 普吕 佛赫 克 朗维 德 维弗赫",
+      "meaning": "比求生的欲望更强烈",
+      "sourceLineId": "donjuan-timed-318-1",
+      "suppliedText": "C'est plus fort que l'envie de vivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3351,
+        "anchorEnd": 3357.45,
+        "sourceLineNumber": 318,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3359,
+      "sourceText": "Aimer",
+      "ipa": "[ɛme]",
+      "ear": "艾梅",
+      "meaning": "去爱。",
+      "sourceLineId": "donjuan-timed-319-1",
+      "suppliedText": "Aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3359,
+        "anchorEnd": 3363.3,
+        "sourceLineNumber": 319,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

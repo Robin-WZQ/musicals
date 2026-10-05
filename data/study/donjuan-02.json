@@ -1,0 +1,328 @@
+{
+  "videoId": "donjuan-02",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=288"
+    }
+  ],
+  "entries": [
+    {
+      "start": 302,
+      "sourceText": "Un grand homme est mort",
+      "ipa": "[œ̃ ɡʁɑ̃t‿ɔm‿ɛ mɔʁ]",
+      "ear": "恩 格杭特 哦姆 艾 莫赫",
+      "meaning": "一位伟人去世了",
+      "sourceLineId": "donjuan-timed-7-1",
+      "suppliedText": "Un grand homme est mort Un grand homme est mort Que faudra-t-il faire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 302,
+        "anchorEnd": 310,
+        "sourceLineNumber": 7,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 304.286,
+      "sourceText": "Un grand homme est mort",
+      "ipa": "[œ̃ ɡʁɑ̃t‿ɔm‿ɛ mɔʁ]",
+      "ear": "恩 格杭特 哦姆 艾 莫赫",
+      "meaning": "一位伟人去世了",
+      "sourceLineId": "donjuan-timed-7-2",
+      "suppliedText": "Un grand homme est mort Un grand homme est mort Que faudra-t-il faire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 302,
+        "anchorEnd": 310,
+        "sourceLineNumber": 7,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 306.571,
+      "sourceText": "Que faudra-t-il faire",
+      "ipa": "[kə fodʁatil fɛʁ]",
+      "ear": "克 佛德哈蒂勒 费赫",
+      "meaning": "我们该做些什么，",
+      "sourceLineId": "donjuan-timed-7-3",
+      "suppliedText": "Un grand homme est mort Un grand homme est mort Que faudra-t-il faire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 302,
+        "anchorEnd": 310,
+        "sourceLineNumber": 7,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 310,
+      "sourceText": "Pour qu'on s'en souvienne encore",
+      "ipa": "[puʁ kɔ̃ sɑ̃ suvjɛn‿ɑ̃kɔʁ]",
+      "ear": "普赫 孔 桑 苏弗耶艾恩 昂科赫",
+      "meaning": "让人们永远记住他。",
+      "sourceLineId": "donjuan-timed-8-1",
+      "suppliedText": "Pour qu'on s'en souvienne encore Celui qui le tue S'en va comme un voleur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 310,
+        "anchorEnd": 319,
+        "sourceLineNumber": 8,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 314.034,
+      "sourceText": "Celui qui le tue",
+      "ipa": "[səlɥi ki lə ty]",
+      "ear": "瑟勒于伊 基 勒 蒂于",
+      "meaning": "杀他的人",
+      "sourceLineId": "donjuan-timed-8-2",
+      "suppliedText": "Pour qu'on s'en souvienne encore Celui qui le tue S'en va comme un voleur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 310,
+        "anchorEnd": 319,
+        "sourceLineNumber": 8,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 316.517,
+      "sourceText": "S'en va comme un voleur",
+      "ipa": "[sɑ̃ va kɔm‿œ̃ volœʁ]",
+      "ear": "桑 瓦 科姆 恩 沃勒厄赫",
+      "meaning": "像个贼一样离去。",
+      "sourceLineId": "donjuan-timed-8-3",
+      "suppliedText": "Pour qu'on s'en souvienne encore Celui qui le tue S'en va comme un voleur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 310,
+        "anchorEnd": 319,
+        "sourceLineNumber": 8,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 319,
+      "sourceText": "Faisons une statue",
+      "ipa": "[fəzɔ̃ yn staty]",
+      "ear": "弗宗 于恩 斯塔蒂于",
+      "meaning": "为他塑一尊雕像吧，",
+      "sourceLineId": "donjuan-timed-9-1",
+      "suppliedText": "Faisons une statue A l'image du commandeur A l'image de l'homme",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 319,
+        "anchorEnd": 328.58,
+        "sourceLineNumber": 9,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 322.193,
+      "sourceText": "À l'image du commandeur",
+      "ipa": "[a limaʒ dy kɔmɑ̃dœʁ]",
+      "ear": "阿 利玛日 迪于 科芒德厄赫",
+      "meaning": "按照骑士长的模样。",
+      "sourceLineId": "donjuan-timed-9-2",
+      "suppliedText": "Faisons une statue A l'image du commandeur A l'image de l'homme",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 319,
+        "anchorEnd": 328.58,
+        "sourceLineNumber": 9,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 325.786,
+      "sourceText": "À l'image de l'homme",
+      "ipa": "[a limaʒ də lɔm]",
+      "ear": "阿 利玛日 德 洛姆",
+      "meaning": "让雕像还原那个人，",
+      "sourceLineId": "donjuan-timed-9-3",
+      "suppliedText": "Faisons une statue A l'image du commandeur A l'image de l'homme",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 319,
+        "anchorEnd": 328.58,
+        "sourceLineNumber": 9,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 329,
+      "sourceText": "Qu'il était vraiment",
+      "ipa": "[kil‿etɛ vʁɛmɑ̃]",
+      "ear": "基勒 诶泰 弗赫芒",
+      "meaning": "还原他真正的样子。",
+      "sourceLineId": "donjuan-timed-10-1",
+      "suppliedText": "Qu'il etait vraiment Un pere espagnol Tue par Don Juan",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 329,
+        "anchorEnd": 337,
+        "sourceLineNumber": 10,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 332.2,
+      "sourceText": "Un père espagnol",
+      "ipa": "[œ̃ pɛʁ‿ɛspanjɔl]",
+      "ear": "恩 佩赫 艾斯帕恩耶哦勒",
+      "meaning": "一位西班牙父亲",
+      "sourceLineId": "donjuan-timed-10-2",
+      "suppliedText": "Qu'il etait vraiment Un pere espagnol Tue par Don Juan",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 329,
+        "anchorEnd": 337,
+        "sourceLineNumber": 10,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 334.6,
+      "sourceText": "Tué par Don Juan",
+      "ipa": "[tye paʁ dɔ̃ ʒɥɑ̃]",
+      "ear": "蒂于诶 帕赫 东 日于昂",
+      "meaning": "被唐璜杀死",
+      "sourceLineId": "donjuan-timed-10-3",
+      "suppliedText": "Qu'il etait vraiment Un pere espagnol Tue par Don Juan",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 329,
+        "anchorEnd": 337,
+        "sourceLineNumber": 10,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 337,
+      "sourceText": "On la posera là",
+      "ipa": "[ɔ̃ la pozʁa la]",
+      "ear": "翁 拉 波兹哈 拉",
+      "meaning": "我们要把它立在这里，",
+      "sourceLineId": "donjuan-timed-11-1",
+      "suppliedText": "On la posera la Sur la place d'honneur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 337,
+        "anchorEnd": 343,
+        "sourceLineNumber": 11,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 339.769,
+      "sourceText": "Sur la place d'honneur",
+      "ipa": "[syʁ la plas dɔnœʁ]",
+      "ear": "西于赫 拉 普拉斯 多讷厄赫",
+      "meaning": "立在荣耀的广场上。",
+      "sourceLineId": "donjuan-timed-11-2",
+      "suppliedText": "On la posera la Sur la place d'honneur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 337,
+        "anchorEnd": 343,
+        "sourceLineNumber": 11,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 343,
+      "sourceText": "Pour que tout le monde voie",
+      "ipa": "[puʁ kə tulmɔ̃d vwa]",
+      "ear": "普赫 克 图勒蒙德 弗乌阿",
+      "meaning": "让所有人都看见，",
+      "sourceLineId": "donjuan-timed-12-1",
+      "suppliedText": "Pour que tout le monde voit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 343,
+        "anchorEnd": 348,
+        "sourceLineNumber": 12,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 348,
+      "sourceText": "La statue du Commandeur",
+      "ipa": "[la staty dy kɔmɑ̃dœʁ]",
+      "ear": "拉 斯塔蒂于 迪于 科芒德厄赫",
+      "meaning": "骑士长的雕像。",
+      "sourceLineId": "donjuan-timed-13-1",
+      "suppliedText": "La statue du Commandeur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 348,
+        "anchorEnd": 356.17,
+        "sourceLineNumber": 13,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 361,
+      "sourceText": "Sois maudit, Don Juan!",
+      "ipa": "[swa modi dɔ̃ ʒɥɑ̃]",
+      "ear": "斯乌阿 莫迪 东 日于昂",
+      "meaning": "被诅咒吧，唐璜！",
+      "sourceLineId": "donjuan-timed-14-1",
+      "suppliedText": "Sois modit, Don Juan!",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 361,
+        "anchorEnd": 364.16,
+        "sourceLineNumber": 14,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

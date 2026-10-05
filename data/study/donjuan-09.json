@@ -1,0 +1,256 @@
+{
+  "videoId": "donjuan-09",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=1076"
+    }
+  ],
+  "entries": [
+    {
+      "start": 1076,
+      "sourceText": "Tu seras le seul à me voir",
+      "ipa": "[ty səʁa lə sœl‿a mə vwaʁ]",
+      "ear": "蒂于 瑟哈 勒 瑟厄勒 阿 默 弗乌阿赫",
+      "meaning": "只有你能看见我。",
+      "sourceLineId": "donjuan-timed-93-1",
+      "suppliedText": "Tu seras le suel a me voir Tu seras le suel a m'entendre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1076,
+        "anchorEnd": 1084.8,
+        "sourceLineNumber": 93,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1080.4,
+      "sourceText": "Tu seras le seul à m'entendre",
+      "ipa": "[ty səʁa lə sœl‿a mɑ̃tɑ̃dʁ]",
+      "ear": "蒂于 瑟哈 勒 瑟厄勒 阿 芒唐德赫",
+      "meaning": "只有你能听见我。",
+      "sourceLineId": "donjuan-timed-93-2",
+      "suppliedText": "Tu seras le suel a me voir Tu seras le suel a m'entendre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1076,
+        "anchorEnd": 1084.8,
+        "sourceLineNumber": 93,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1086,
+      "sourceText": "Et toi qui croyais tout savoir",
+      "ipa": "[e twa ki kʁwajɛ tu savwaʁ]",
+      "ear": "诶 特乌阿 基 克赫乌阿耶艾 图 萨弗乌阿赫",
+      "meaning": "你原以为自己无所不知，",
+      "sourceLineId": "donjuan-timed-94-1",
+      "suppliedText": "Et toi qui croyais tout savoir Tu seras le dernier a comprendre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1086,
+        "anchorEnd": 1095.38,
+        "sourceLineNumber": 94,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1091.253,
+      "sourceText": "Tu seras le dernier à comprendre",
+      "ipa": "[ty səʁa lə dɛʁnjeʁ‿a kɔ̃pʁɑ̃dʁ]",
+      "ear": "蒂于 瑟哈 勒 戴赫恩耶诶赫 阿 孔普杭德赫",
+      "meaning": "却会是最后一个明白的人。",
+      "sourceLineId": "donjuan-timed-94-2",
+      "suppliedText": "Et toi qui croyais tout savoir Tu seras le dernier a comprendre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1086,
+        "anchorEnd": 1095.38,
+        "sourceLineNumber": 94,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1096,
+      "sourceText": "Don Juan, je reste près de toi",
+      "ipa": "[dɔ̃ ʒɥɑ̃ ʒə ʁɛst pʁɛ də twa]",
+      "ear": "东 日于昂 热 赫斯特 普赫 德 特乌阿",
+      "meaning": "唐璜，我会一直在你身旁。",
+      "sourceLineId": "donjuan-timed-95-1",
+      "suppliedText": "Don Juan, je reste pres de toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 1096,
+        "anchorEnd": 1102.56,
+        "sourceLineNumber": 95,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1105,
+      "sourceText": "Je croyais t'avoir tué",
+      "ipa": "[ʒə kʁwajɛ tavwaʁ tye]",
+      "ear": "热 克赫乌阿耶艾 塔弗乌阿赫 蒂于诶",
+      "meaning": "我以为我杀了你",
+      "sourceLineId": "donjuan-timed-96-1",
+      "suppliedText": "Je croyais t'avoir tue Qu'est-ce que tu fais la encore?",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1105,
+        "anchorEnd": 1110.2,
+        "sourceLineNumber": 96,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1107.364,
+      "sourceText": "Qu'est-ce que tu fais là encore?",
+      "ipa": "[kɛskə ty fɛ la ɑ̃kɔʁ]",
+      "ear": "凯斯克 蒂于 费 拉 昂科赫",
+      "meaning": "你又在那里做什么？",
+      "sourceLineId": "donjuan-timed-96-2",
+      "suppliedText": "Je croyais t'avoir tue Qu'est-ce que tu fais la encore?",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1105,
+        "anchorEnd": 1110.2,
+        "sourceLineNumber": 96,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1113,
+      "sourceText": "Tu auras toujours plus peur de moi",
+      "ipa": "[ty oʁa tuʒuʁ ply pœʁ də mwa]",
+      "ear": "蒂于 奥哈 图茹赫 普吕 珀厄赫 德 姆乌阿",
+      "meaning": "你对我的恐惧，永远会比——",
+      "sourceLineId": "donjuan-timed-97-1",
+      "suppliedText": "Tu auras toujours plus peur de moi Que moi je n'en aurai de toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1113,
+        "anchorEnd": 1119.76,
+        "sourceLineNumber": 97,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1116.505,
+      "sourceText": "Que moi je n'en aurai de toi",
+      "ipa": "[kə mwa ʒə nɑ̃ oʁe də twa]",
+      "ear": "克 姆乌阿 热 南 奥赫 德 特乌阿",
+      "meaning": "比我对你的恐惧更多。",
+      "sourceLineId": "donjuan-timed-97-2",
+      "suppliedText": "Tu auras toujours plus peur de moi Que moi je n'en aurai de toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1113,
+        "anchorEnd": 1119.76,
+        "sourceLineNumber": 97,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1122,
+      "sourceText": "Vas-t'en, vas-t'en, tu es mort",
+      "ipa": "[vatɑ̃ vatɑ̃ ty ɛ mɔʁ]",
+      "ear": "瓦唐 瓦唐 蒂于 艾 莫赫",
+      "meaning": "走开，走开，你已经死了！",
+      "sourceLineId": "donjuan-timed-98-1",
+      "suppliedText": "Vas-t'en, vas-t'en, tu es mort Tu pourras faire n'importe quoi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1122,
+        "anchorEnd": 1133.42,
+        "sourceLineNumber": 98,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1125.997,
+      "sourceText": "Tu pourras faire n'importe quoi",
+      "ipa": "[ty puʁa fɛʁ nɛ̃pɔʁt kwa]",
+      "ear": "蒂于 普哈 费赫 南珀赫特 克乌阿",
+      "meaning": "你可以做任何事",
+      "sourceLineId": "donjuan-timed-98-2",
+      "suppliedText": "Vas-t'en, vas-t'en, tu es mort Tu pourras faire n'importe quoi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1122,
+        "anchorEnd": 1133.42,
+        "sourceLineNumber": 98,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1134,
+      "sourceText": "Je serai toujours le plus fort",
+      "ipa": "[ʒə səʁe tuʒuʁ lə ply fɔʁ]",
+      "ear": "热 瑟赫 图茹赫 勒 普吕 佛赫",
+      "meaning": "我永远是最强的",
+      "sourceLineId": "donjuan-timed-99-1",
+      "suppliedText": "Je serai toujours le plus fort Les femmes me trouveront encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1134,
+        "anchorEnd": 1145.49,
+        "sourceLineNumber": 99,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1139.745,
+      "sourceText": "Les femmes me trouveront encore",
+      "ipa": "[le fam mə tʁuvʁɔ̃ ɑ̃kɔʁ]",
+      "ear": "莱 法姆 默 特胡弗洪 昂科赫",
+      "meaning": "女人就还会来到我身边。",
+      "sourceLineId": "donjuan-timed-99-2",
+      "suppliedText": "Je serai toujours le plus fort Les femmes me trouveront encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1134,
+        "anchorEnd": 1145.49,
+        "sourceLineNumber": 99,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

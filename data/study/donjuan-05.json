@@ -1,0 +1,994 @@
+{
+  "videoId": "donjuan-05",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=687"
+    }
+  ],
+  "entries": [
+    {
+      "start": 687,
+      "sourceText": "Et qu'ils parlent de moi",
+      "ipa": "[e kil paʁl də mwa]",
+      "ear": "诶 基勒 帕赫勒 德 姆乌阿",
+      "meaning": "随他们去议论我，",
+      "sourceLineId": "donjuan-timed-51-1",
+      "suppliedText": "Et qu'ils parlent de moi Qu'est-ce que ca peut me faire Quand ils serons le bois moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 687,
+        "anchorEnd": 697,
+        "sourceLineNumber": 51,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 689.667,
+      "sourceText": "Qu'est-ce que ça peut me faire",
+      "ipa": "[kɛskə sa pø mə fɛʁ]",
+      "ear": "凯斯克 萨 珀厄 默 费赫",
+      "meaning": "我又何必在意？",
+      "sourceLineId": "donjuan-timed-51-2",
+      "suppliedText": "Et qu'ils parlent de moi Qu'est-ce que ca peut me faire Quand ils serons le bois moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 687,
+        "anchorEnd": 697,
+        "sourceLineNumber": 51,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 693.667,
+      "sourceText": "Quand ils seront le bois, moi",
+      "ipa": "[kɑ̃t‿il səʁɔ̃ lə bwa mwa]",
+      "ear": "康特 伊勒 瑟洪 勒 布乌阿 姆乌阿",
+      "meaning": "他们若是木头，",
+      "sourceLineId": "donjuan-timed-51-3",
+      "suppliedText": "Et qu'ils parlent de moi Qu'est-ce que ca peut me faire Quand ils serons le bois moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 687,
+        "anchorEnd": 697,
+        "sourceLineNumber": 51,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 697,
+      "sourceText": "Je serai le fer",
+      "ipa": "[ʒə səʁe lə fɛʁ]",
+      "ear": "热 瑟赫 勒 费赫",
+      "meaning": "我便化作钢铁。",
+      "sourceLineId": "donjuan-timed-52-1",
+      "suppliedText": "Je serai le fer Et s'ils sont trop nombreux Je deviendrai le feu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 697,
+        "anchorEnd": 704.48,
+        "sourceLineNumber": 52,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 699.04,
+      "sourceText": "Et s'ils sont trop nombreux",
+      "ipa": "[e sil sɔ̃ tʁo nɔ̃bʁø]",
+      "ear": "诶 西勒 松 特霍 农布赫厄",
+      "meaning": "他们若人多势众，",
+      "sourceLineId": "donjuan-timed-52-2",
+      "suppliedText": "Je serai le fer Et s'ils sont trop nombreux Je deviendrai le feu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 697,
+        "anchorEnd": 704.48,
+        "sourceLineNumber": 52,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 701.42,
+      "sourceText": "Je deviendrai le feu",
+      "ipa": "[ʒə dəvjɛ̃dʁe lə fø]",
+      "ear": "热 德弗耶安德赫 勒 弗厄",
+      "meaning": "我将化为火",
+      "sourceLineId": "donjuan-timed-52-3",
+      "suppliedText": "Je serai le fer Et s'ils sont trop nombreux Je deviendrai le feu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 697,
+        "anchorEnd": 704.48,
+        "sourceLineNumber": 52,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 707,
+      "sourceText": "Mon nom se porte comme une peine",
+      "ipa": "[mɔ̃ nɔ̃ sə pɔʁt kɔm‿yn pɛn]",
+      "ear": "蒙 农 瑟 珀赫特 科姆 于恩 佩恩",
+      "meaning": "我的名字像一道刑罚，",
+      "sourceLineId": "donjuan-timed-53-1",
+      "suppliedText": "Mon nom se porte comme une peine Comme une croix, comme un fardeau Comme le vent qui se dechaine Sur le petit des bateaux",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 707,
+        "anchorEnd": 715,
+        "sourceLineNumber": 53,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 709.087,
+      "sourceText": "Comme une croix, comme un fardeau",
+      "ipa": "[kɔm‿yn kʁwa kɔm‿œ̃ faʁdo]",
+      "ear": "科姆 于恩 克赫乌阿 科姆 恩 法赫多",
+      "meaning": "像十字架，像沉重的负担。",
+      "sourceLineId": "donjuan-timed-53-2",
+      "suppliedText": "Mon nom se porte comme une peine Comme une croix, comme un fardeau Comme le vent qui se dechaine Sur le petit des bateaux",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 707,
+        "anchorEnd": 715,
+        "sourceLineNumber": 53,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 711.348,
+      "sourceText": "Comme le vent qui se déchaîne",
+      "ipa": "[kɔm lə vɑ̃ ki sə deʃɛn]",
+      "ear": "科姆 勒 旺 基 瑟 德谢恩",
+      "meaning": "像狂风骤起，",
+      "sourceLineId": "donjuan-timed-53-3",
+      "suppliedText": "Mon nom se porte comme une peine Comme une croix, comme un fardeau Comme le vent qui se dechaine Sur le petit des bateaux",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 707,
+        "anchorEnd": 715,
+        "sourceLineNumber": 53,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 713.261,
+      "sourceText": "Sur le plus petit des bateaux",
+      "ipa": "[syʁ lə ply pəti de bato]",
+      "ear": "西于赫 勒 普吕 珀蒂 德 巴托",
+      "meaning": "扑向最小的船。",
+      "sourceLineId": "donjuan-timed-53-4",
+      "suppliedText": "Mon nom se porte comme une peine Comme une croix, comme un fardeau Comme le vent qui se dechaine Sur le petit des bateaux",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 707,
+        "anchorEnd": 715,
+        "sourceLineNumber": 53,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 715,
+      "sourceText": "Mais il faut que tu te souviennes",
+      "ipa": "[mɛ il fo kə ty tə suvjɛn]",
+      "ear": "梅 伊勒 佛 克 蒂于 特 苏弗耶艾恩",
+      "meaning": "但你必须记住，",
+      "sourceLineId": "donjuan-timed-54-1",
+      "suppliedText": "Mais il faut que tu te souviennes Tant que je vis je reste fort Tant que leur sang brule mes veines Les femmes me trouverons encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 715,
+        "anchorEnd": 724,
+        "sourceLineNumber": 54,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 717.739,
+      "sourceText": "Tant que je vis je reste fort",
+      "ipa": "[tɑ̃ kə ʒə vi ʒə ʁɛst fɔʁ]",
+      "ear": "唐 克 热 维 热 赫斯特 佛赫",
+      "meaning": "只要活着，我便始终强大。",
+      "sourceLineId": "donjuan-timed-54-2",
+      "suppliedText": "Mais il faut que tu te souviennes Tant que je vis je reste fort Tant que leur sang brule mes veines Les femmes me trouverons encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 715,
+        "anchorEnd": 724,
+        "sourceLineNumber": 54,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 719.5,
+      "sourceText": "Tant que leur sang brûle mes veines",
+      "ipa": "[tɑ̃ kə lœʁ sɑ̃ bʁyl me vɛn]",
+      "ear": "唐 克 勒厄赫 桑 布许勒 梅 韦恩",
+      "meaning": "只要她们的血仍在我血管里燃烧，",
+      "sourceLineId": "donjuan-timed-54-3",
+      "suppliedText": "Mais il faut que tu te souviennes Tant que je vis je reste fort Tant que leur sang brule mes veines Les femmes me trouverons encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 715,
+        "anchorEnd": 724,
+        "sourceLineNumber": 54,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 721.848,
+      "sourceText": "Les femmes me trouveront encore",
+      "ipa": "[le fam mə tʁuvʁɔ̃ ɑ̃kɔʁ]",
+      "ear": "莱 法姆 默 特胡弗洪 昂科赫",
+      "meaning": "女人就还会来到我身边。",
+      "sourceLineId": "donjuan-timed-54-4",
+      "suppliedText": "Mais il faut que tu te souviennes Tant que je vis je reste fort Tant que leur sang brule mes veines Les femmes me trouverons encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 715,
+        "anchorEnd": 724,
+        "sourceLineNumber": 54,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 724,
+      "sourceText": "Mon nom se porte comme un couteau",
+      "ipa": "[mɔ̃ nɔ̃ sə pɔʁt kɔm‿œ̃ kuto]",
+      "ear": "蒙 农 瑟 珀赫特 科姆 恩 库托",
+      "meaning": "我的名字像一把刀，",
+      "sourceLineId": "donjuan-timed-55-1",
+      "suppliedText": "Mon nom se porte comme un couteau Qui transperce le coeur et l'ame Et laisse gravee sur la peau La marque brulante des flammes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 724,
+        "anchorEnd": 732,
+        "sourceLineNumber": 55,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 726.261,
+      "sourceText": "Qui transperce le cœur et l'âme",
+      "ipa": "[ki tʁɑ̃spɛʁs lə kœʁ e lam]",
+      "ear": "基 特杭斯佩赫斯 勒 克厄赫 诶 拉姆",
+      "meaning": "它刺穿心灵和灵魂",
+      "sourceLineId": "donjuan-timed-55-2",
+      "suppliedText": "Mon nom se porte comme un couteau Qui transperce le coeur et l'ame Et laisse gravee sur la peau La marque brulante des flammes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 724,
+        "anchorEnd": 732,
+        "sourceLineNumber": 55,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 728.174,
+      "sourceText": "Et laisse gravée sur la peau",
+      "ipa": "[e lɛs ɡʁave syʁ la po]",
+      "ear": "诶 莱斯 格哈韦 西于赫 拉 波",
+      "meaning": "在皮肤上刻下，",
+      "sourceLineId": "donjuan-timed-55-3",
+      "suppliedText": "Mon nom se porte comme un couteau Qui transperce le coeur et l'ame Et laisse gravee sur la peau La marque brulante des flammes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 724,
+        "anchorEnd": 732,
+        "sourceLineNumber": 55,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 730.261,
+      "sourceText": "La marque brûlante des flammes",
+      "ipa": "[la maʁk bʁylɑ̃t de flam]",
+      "ear": "拉 玛赫克 布许朗特 德 弗拉姆",
+      "meaning": "火焰灼烧的印记。",
+      "sourceLineId": "donjuan-timed-55-4",
+      "suppliedText": "Mon nom se porte comme un couteau Qui transperce le coeur et l'ame Et laisse gravee sur la peau La marque brulante des flammes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 724,
+        "anchorEnd": 732,
+        "sourceLineNumber": 55,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 732,
+      "sourceText": "Mon nom traversera le temps",
+      "ipa": "[mɔ̃ nɔ̃ tʁavɛʁsəʁa lə tɑ̃]",
+      "ear": "蒙 农 特哈韦赫瑟哈 勒 唐",
+      "meaning": "我的名字将超越时间",
+      "sourceLineId": "donjuan-timed-56-1",
+      "suppliedText": "Mon nom traversera le temps Meme 1000 ans apres ma mort Et quand elles le voudront vraiment Les femmes me trouverons encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 732,
+        "anchorEnd": 741,
+        "sourceLineNumber": 56,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 733.895,
+      "sourceText": "Même 1000 ans après ma mort",
+      "ipa": "[mɛm mil‿ɑ̃ apʁɛ ma mɔʁ]",
+      "ear": "梅姆 米勒 昂 阿普赫 玛 莫赫",
+      "meaning": "即使在我死后一千年",
+      "sourceLineId": "donjuan-timed-56-2",
+      "suppliedText": "Mon nom traversera le temps Meme 1000 ans apres ma mort Et quand elles le voudront vraiment Les femmes me trouverons encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 732,
+        "anchorEnd": 741,
+        "sourceLineNumber": 56,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 735.553,
+      "sourceText": "Et quand elles le voudront vraiment",
+      "ipa": "[e kɑ̃t‿ɛl lə vudʁɔ̃ vʁɛmɑ̃]",
+      "ear": "诶 康特 艾勒 勒 乌德洪 弗赫芒",
+      "meaning": "当她们真心渴望时，",
+      "sourceLineId": "donjuan-timed-56-3",
+      "suppliedText": "Mon nom traversera le temps Meme 1000 ans apres ma mort Et quand elles le voudront vraiment Les femmes me trouverons encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 732,
+        "anchorEnd": 741,
+        "sourceLineNumber": 56,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 738.395,
+      "sourceText": "Les femmes me trouveront encore",
+      "ipa": "[le fam mə tʁuvʁɔ̃ ɑ̃kɔʁ]",
+      "ear": "莱 法姆 默 特胡弗洪 昂科赫",
+      "meaning": "女人就还会来到我身边。",
+      "sourceLineId": "donjuan-timed-56-4",
+      "suppliedText": "Mon nom traversera le temps Meme 1000 ans apres ma mort Et quand elles le voudront vraiment Les femmes me trouverons encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 732,
+        "anchorEnd": 741,
+        "sourceLineNumber": 56,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 741,
+      "sourceText": "Mon nom se porte comme un signe",
+      "ipa": "[mɔ̃ nɔ̃ sə pɔʁt kɔm‿œ̃ siɲ]",
+      "ear": "蒙 农 瑟 珀赫特 科姆 恩 西涅",
+      "meaning": "我的名字像一道标记，",
+      "sourceLineId": "donjuan-timed-57-1",
+      "suppliedText": "Mon nom se porte comme un signe Pour celles qui rencontrent le diable Un signe de croix invisible Qui rend les puissants miserables",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 741,
+        "anchorEnd": 749,
+        "sourceLineNumber": 57,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 742.818,
+      "sourceText": "Pour celles qui rencontrent le diable",
+      "ipa": "[puʁ sɛl ki ʁɑ̃kɔ̃tʁ lə djabl]",
+      "ear": "普赫 塞勒 基 杭孔特赫 勒 德耶阿布勒",
+      "meaning": "对于那些与魔鬼相逢的女人，",
+      "sourceLineId": "donjuan-timed-57-2",
+      "suppliedText": "Mon nom se porte comme un signe Pour celles qui rencontrent le diable Un signe de croix invisible Qui rend les puissants miserables",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 741,
+        "anchorEnd": 749,
+        "sourceLineNumber": 57,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 745.182,
+      "sourceText": "Un signe de croix invisible",
+      "ipa": "[œ̃ siɲ də kʁwa ɛ̃vizibl]",
+      "ear": "恩 西涅 德 克赫乌阿 安维齐布勒",
+      "meaning": "是一道看不见的十字印记，",
+      "sourceLineId": "donjuan-timed-57-3",
+      "suppliedText": "Mon nom se porte comme un signe Pour celles qui rencontrent le diable Un signe de croix invisible Qui rend les puissants miserables",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 741,
+        "anchorEnd": 749,
+        "sourceLineNumber": 57,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 747.0,
+      "sourceText": "Qui rend les puissants misérables",
+      "ipa": "[ki ʁɑ̃ le pɥisɑ̃ mizeʁabl]",
+      "ear": "基 杭 莱 普于伊桑 米泽哈布勒",
+      "meaning": "让强者也变得可怜。",
+      "sourceLineId": "donjuan-timed-57-4",
+      "suppliedText": "Mon nom se porte comme un signe Pour celles qui rencontrent le diable Un signe de croix invisible Qui rend les puissants miserables",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 741,
+        "anchorEnd": 749,
+        "sourceLineNumber": 57,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 749,
+      "sourceText": "Mon nom est celui que j'entends",
+      "ipa": "[mɔ̃ nɔ̃ ɛ səlɥi kə ʒɑ̃tɑ̃]",
+      "ear": "蒙 农 艾 瑟勒于伊 克 让唐",
+      "meaning": "我听见自己的名字，",
+      "sourceLineId": "donjuan-timed-58-1",
+      "suppliedText": "Mon nom est celui que j'entends Sur les mots brulants de leurs corps Et quand elles le voudront vraiment Les femmes me trouverons encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 749,
+        "anchorEnd": 758,
+        "sourceLineNumber": 58,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 751.143,
+      "sourceText": "Sur les mots brûlants de leurs corps",
+      "ipa": "[syʁ le mo bʁylɑ̃ də lœʁ kɔʁ]",
+      "ear": "西于赫 莱 莫 布许朗 德 勒厄赫 科赫",
+      "meaning": "从她们身体炽热的语言中听见。",
+      "sourceLineId": "donjuan-timed-58-2",
+      "suppliedText": "Mon nom est celui que j'entends Sur les mots brulants de leurs corps Et quand elles le voudront vraiment Les femmes me trouverons encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 749,
+        "anchorEnd": 758,
+        "sourceLineNumber": 58,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 753.071,
+      "sourceText": "Et quand elles le voudront vraiment",
+      "ipa": "[e kɑ̃t‿ɛl lə vudʁɔ̃ vʁɛmɑ̃]",
+      "ear": "诶 康特 艾勒 勒 乌德洪 弗赫芒",
+      "meaning": "当她们真心渴望时，",
+      "sourceLineId": "donjuan-timed-58-3",
+      "suppliedText": "Mon nom est celui que j'entends Sur les mots brulants de leurs corps Et quand elles le voudront vraiment Les femmes me trouverons encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 749,
+        "anchorEnd": 758,
+        "sourceLineNumber": 58,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 755.643,
+      "sourceText": "Les femmes me trouveront encore",
+      "ipa": "[le fam mə tʁuvʁɔ̃ ɑ̃kɔʁ]",
+      "ear": "莱 法姆 默 特胡弗洪 昂科赫",
+      "meaning": "女人就还会来到我身边。",
+      "sourceLineId": "donjuan-timed-58-4",
+      "suppliedText": "Mon nom est celui que j'entends Sur les mots brulants de leurs corps Et quand elles le voudront vraiment Les femmes me trouverons encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 749,
+        "anchorEnd": 758,
+        "sourceLineNumber": 58,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 758,
+      "sourceText": "Mon nom se porte comme un piège",
+      "ipa": "[mɔ̃ nɔ̃ sə pɔʁt kɔm‿œ̃ pjɛʒ]",
+      "ear": "蒙 农 瑟 珀赫特 科姆 恩 普耶艾日",
+      "meaning": "我的名字像一个陷阱，",
+      "sourceLineId": "donjuan-timed-59-1",
+      "suppliedText": "Mon nom se porte comme un piege Ou les proies aiment a se donner Comme une faute, un sacrilege Un peche pour l'eternite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 758,
+        "anchorEnd": 766,
+        "sourceLineNumber": 59,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 759.956,
+      "sourceText": "Où les proies aiment à se donner",
+      "ipa": "[u le pʁwa ɛm‿a sə dɔne]",
+      "ear": "乌 莱 普赫乌阿 艾姆 阿 瑟 多内",
+      "meaning": "猎物心甘情愿走进去。",
+      "sourceLineId": "donjuan-timed-59-2",
+      "suppliedText": "Mon nom se porte comme un piege Ou les proies aiment a se donner Comme une faute, un sacrilege Un peche pour l'eternite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 758,
+        "anchorEnd": 766,
+        "sourceLineNumber": 59,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 762.267,
+      "sourceText": "Comme une faute, un sacrilège",
+      "ipa": "[kɔm‿yn fot œ̃ sakʁilɛʒ]",
+      "ear": "科姆 于恩 佛特 恩 萨克希莱日",
+      "meaning": "像过错，像亵渎，",
+      "sourceLineId": "donjuan-timed-59-3",
+      "suppliedText": "Mon nom se porte comme un piege Ou les proies aiment a se donner Comme une faute, un sacrilege Un peche pour l'eternite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 758,
+        "anchorEnd": 766,
+        "sourceLineNumber": 59,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 764.4,
+      "sourceText": "Un péché pour l'éternité",
+      "ipa": "[œ̃ peʃe puʁ letɛʁnite]",
+      "ear": "恩 佩谢 普赫 莱泰赫尼特",
+      "meaning": "像永远洗不去的罪。",
+      "sourceLineId": "donjuan-timed-59-4",
+      "suppliedText": "Mon nom se porte comme un piege Ou les proies aiment a se donner Comme une faute, un sacrilege Un peche pour l'eternite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 758,
+        "anchorEnd": 766,
+        "sourceLineNumber": 59,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 766,
+      "sourceText": "Mon nom sera une étincelle",
+      "ipa": "[mɔ̃ nɔ̃ səʁa yn‿etɛ̃sɛl]",
+      "ear": "蒙 农 瑟哈 于恩 诶坦塞勒",
+      "meaning": "我的名字会化作火星，",
+      "sourceLineId": "donjuan-timed-60-1",
+      "suppliedText": "Mon nom sera une etincelle Qui brillera de plus en plus fort Et tant que l'amour est cruel",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 766,
+        "anchorEnd": 772.98,
+        "sourceLineNumber": 60,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 768.327,
+      "sourceText": "Qui brillera de plus en plus fort",
+      "ipa": "[ki bʁijʁa də plyz‿ɑ̃ ply fɔʁ]",
+      "ear": "基 布希耶哈 德 普吕兹 昂 普吕 佛赫",
+      "meaning": "越烧越亮。",
+      "sourceLineId": "donjuan-timed-60-2",
+      "suppliedText": "Mon nom sera une etincelle Qui brillera de plus en plus fort Et tant que l'amour est cruel",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 766,
+        "anchorEnd": 772.98,
+        "sourceLineNumber": 60,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 770.653,
+      "sourceText": "Et tant que l'amour est cruel",
+      "ipa": "[e tɑ̃ kə lamuʁ‿ɛ kʁyɛl]",
+      "ear": "诶 唐 克 拉穆赫 艾 克许艾勒",
+      "meaning": "只要爱情仍然残酷，",
+      "sourceLineId": "donjuan-timed-60-3",
+      "suppliedText": "Mon nom sera une etincelle Qui brillera de plus en plus fort Et tant que l'amour est cruel",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 766,
+        "anchorEnd": 772.98,
+        "sourceLineNumber": 60,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 773,
+      "sourceText": "Les femmes me trouveront encore",
+      "ipa": "[le fam mə tʁuvʁɔ̃ ɑ̃kɔʁ]",
+      "ear": "莱 法姆 默 特胡弗洪 昂科赫",
+      "meaning": "女人就还会来到我身边。",
+      "sourceLineId": "donjuan-timed-61-1",
+      "suppliedText": "Les femmes me trouveront encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 773,
+        "anchorEnd": 776.84,
+        "sourceLineNumber": 61,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 784,
+      "sourceText": "Mon nom c'est le cri de l'amour",
+      "ipa": "[mɔ̃ nɔ̃ sɛ lə kʁi də lamuʁ]",
+      "ear": "蒙 农 塞 勒 克希 德 拉穆赫",
+      "meaning": "我的名字是爱情的呐喊，",
+      "sourceLineId": "donjuan-timed-62-1",
+      "suppliedText": "Mon nom c'est le cri de l'amour Quand il sera beaucoup trop tard Le cri d'un appel au secours Qu brulera dans leurs memoires",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 784,
+        "anchorEnd": 792,
+        "sourceLineNumber": 62,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 785.674,
+      "sourceText": "Quand il sera beaucoup trop tard",
+      "ipa": "[kɑ̃t‿il səʁa boku tʁo taʁ]",
+      "ear": "康特 伊勒 瑟哈 博库 特霍 塔赫",
+      "meaning": "在一切都已太迟的时候。",
+      "sourceLineId": "donjuan-timed-62-2",
+      "suppliedText": "Mon nom c'est le cri de l'amour Quand il sera beaucoup trop tard Le cri d'un appel au secours Qu brulera dans leurs memoires",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 784,
+        "anchorEnd": 792,
+        "sourceLineNumber": 62,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 787.907,
+      "sourceText": "Le cri d'un appel au secours",
+      "ipa": "[lə kʁi dœ̃ apɛl‿o səkuʁ]",
+      "ear": "勒 克希 丹 阿佩勒 奥 瑟库赫",
+      "meaning": "便是一声呼救，",
+      "sourceLineId": "donjuan-timed-62-3",
+      "suppliedText": "Mon nom c'est le cri de l'amour Quand il sera beaucoup trop tard Le cri d'un appel au secours Qu brulera dans leurs memoires",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 784,
+        "anchorEnd": 792,
+        "sourceLineNumber": 62,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 789.767,
+      "sourceText": "Qui brûlera dans leurs mémoires",
+      "ipa": "[ki bʁylʁa dɑ̃ lœʁ memwaʁ]",
+      "ear": "基 布许勒哈 当 勒厄赫 梅姆乌阿赫",
+      "meaning": "将在她们的记忆里燃烧。",
+      "sourceLineId": "donjuan-timed-62-4",
+      "suppliedText": "Mon nom c'est le cri de l'amour Quand il sera beaucoup trop tard Le cri d'un appel au secours Qu brulera dans leurs memoires",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 784,
+        "anchorEnd": 792,
+        "sourceLineNumber": 62,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 792,
+      "sourceText": "Mon nom est un feu immortel",
+      "ipa": "[mɔ̃ nɔ̃ ɛt‿œ̃ fø imɔʁtɛl]",
+      "ear": "蒙 农 艾特 恩 弗厄 伊莫赫泰勒",
+      "meaning": "我的名字是不灭的火。",
+      "sourceLineId": "donjuan-timed-63-1",
+      "suppliedText": "Mon nom est un feu immortel Pour celle qui peut-etre ont eu tort Mais tant que leurs yeux me rappellent Les femmes me trouveront encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 792,
+        "anchorEnd": 801,
+        "sourceLineNumber": 63,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 793.688,
+      "sourceText": "Pour celle qui peut-être ont eu tort",
+      "ipa": "[puʁ sɛl ki pøtɛtʁ‿ɔ̃t‿y tɔʁ]",
+      "ear": "普赫 塞勒 基 珀厄泰特赫 翁特 于 托赫",
+      "meaning": "为那些或许爱错了人的女人。",
+      "sourceLineId": "donjuan-timed-63-2",
+      "suppliedText": "Mon nom est un feu immortel Pour celle qui peut-etre ont eu tort Mais tant que leurs yeux me rappellent Les femmes me trouveront encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 792,
+        "anchorEnd": 801,
+        "sourceLineNumber": 63,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 796.312,
+      "sourceText": "Mais tant que leurs yeux me rappellent",
+      "ipa": "[mɛ tɑ̃ kə lœʁz‿jø mə ʁapɛl]",
+      "ear": "梅 唐 克 勒厄赫兹 耶厄 默 哈佩勒",
+      "meaning": "只要她们的眼睛仍在召唤我，",
+      "sourceLineId": "donjuan-timed-63-3",
+      "suppliedText": "Mon nom est un feu immortel Pour celle qui peut-etre ont eu tort Mais tant que leurs yeux me rappellent Les femmes me trouveront encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 792,
+        "anchorEnd": 801,
+        "sourceLineNumber": 63,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 798.938,
+      "sourceText": "Les femmes me trouveront encore",
+      "ipa": "[le fam mə tʁuvʁɔ̃ ɑ̃kɔʁ]",
+      "ear": "莱 法姆 默 特胡弗洪 昂科赫",
+      "meaning": "女人就还会来到我身边。",
+      "sourceLineId": "donjuan-timed-63-4",
+      "suppliedText": "Mon nom est un feu immortel Pour celle qui peut-etre ont eu tort Mais tant que leurs yeux me rappellent Les femmes me trouveront encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 792,
+        "anchorEnd": 801,
+        "sourceLineNumber": 63,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 801,
+      "sourceText": "Mon nom se porte comme un piège",
+      "ipa": "[mɔ̃ nɔ̃ sə pɔʁt kɔm‿œ̃ pjɛʒ]",
+      "ear": "蒙 农 瑟 珀赫特 科姆 恩 普耶艾日",
+      "meaning": "我的名字像一个陷阱，",
+      "sourceLineId": "donjuan-timed-64-1",
+      "suppliedText": "Mon nom se porte comme un piege Ou les proies aiment a se donner Comme une faute, un sacrilege Un peche pour l'eternite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 801,
+        "anchorEnd": 809,
+        "sourceLineNumber": 64,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 802.956,
+      "sourceText": "Où les proies aiment à se donner",
+      "ipa": "[u le pʁwa ɛm‿a sə dɔne]",
+      "ear": "乌 莱 普赫乌阿 艾姆 阿 瑟 多内",
+      "meaning": "猎物心甘情愿走进去。",
+      "sourceLineId": "donjuan-timed-64-2",
+      "suppliedText": "Mon nom se porte comme un piege Ou les proies aiment a se donner Comme une faute, un sacrilege Un peche pour l'eternite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 801,
+        "anchorEnd": 809,
+        "sourceLineNumber": 64,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 805.267,
+      "sourceText": "Comme une faute, un sacrilège",
+      "ipa": "[kɔm‿yn fot œ̃ sakʁilɛʒ]",
+      "ear": "科姆 于恩 佛特 恩 萨克希莱日",
+      "meaning": "像过错，像亵渎，",
+      "sourceLineId": "donjuan-timed-64-3",
+      "suppliedText": "Mon nom se porte comme un piege Ou les proies aiment a se donner Comme une faute, un sacrilege Un peche pour l'eternite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 801,
+        "anchorEnd": 809,
+        "sourceLineNumber": 64,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 807.4,
+      "sourceText": "Un péché pour l'éternité",
+      "ipa": "[œ̃ peʃe puʁ letɛʁnite]",
+      "ear": "恩 佩谢 普赫 莱泰赫尼特",
+      "meaning": "像永远洗不去的罪。",
+      "sourceLineId": "donjuan-timed-64-4",
+      "suppliedText": "Mon nom se porte comme un piege Ou les proies aiment a se donner Comme une faute, un sacrilege Un peche pour l'eternite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 801,
+        "anchorEnd": 809,
+        "sourceLineNumber": 64,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 809,
+      "sourceText": "Mon nom sera une étincelle",
+      "ipa": "[mɔ̃ nɔ̃ səʁa yn‿etɛ̃sɛl]",
+      "ear": "蒙 农 瑟哈 于恩 诶坦塞勒",
+      "meaning": "我的名字会化作火星，",
+      "sourceLineId": "donjuan-timed-65-1",
+      "suppliedText": "Mon nom sera une etincelle Qui brillera de plus en plus fort Et tant que l'amour est cruel",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 809,
+        "anchorEnd": 818.16,
+        "sourceLineNumber": 65,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 812.053,
+      "sourceText": "Qui brillera de plus en plus fort",
+      "ipa": "[ki bʁijʁa də plyz‿ɑ̃ ply fɔʁ]",
+      "ear": "基 布希耶哈 德 普吕兹 昂 普吕 佛赫",
+      "meaning": "越烧越亮。",
+      "sourceLineId": "donjuan-timed-65-2",
+      "suppliedText": "Mon nom sera une etincelle Qui brillera de plus en plus fort Et tant que l'amour est cruel",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 809,
+        "anchorEnd": 818.16,
+        "sourceLineNumber": 65,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 815.107,
+      "sourceText": "Et tant que l'amour est cruel",
+      "ipa": "[e tɑ̃ kə lamuʁ‿ɛ kʁyɛl]",
+      "ear": "诶 唐 克 拉穆赫 艾 克许艾勒",
+      "meaning": "只要爱情仍然残酷，",
+      "sourceLineId": "donjuan-timed-65-3",
+      "suppliedText": "Mon nom sera une etincelle Qui brillera de plus en plus fort Et tant que l'amour est cruel",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 809,
+        "anchorEnd": 818.16,
+        "sourceLineNumber": 65,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 819,
+      "sourceText": "Les femmes me trouveront encore",
+      "ipa": "[le fam mə tʁuvʁɔ̃ ɑ̃kɔʁ]",
+      "ear": "莱 法姆 默 特胡弗洪 昂科赫",
+      "meaning": "女人就还会来到我身边。",
+      "sourceLineId": "donjuan-timed-66-1",
+      "suppliedText": "Les femmes me trouveront encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 819,
+        "anchorEnd": 824.16,
+        "sourceLineNumber": 66,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

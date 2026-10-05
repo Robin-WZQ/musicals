@@ -1,0 +1,742 @@
+{
+  "videoId": "donjuan-31",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=5357"
+    }
+  ],
+  "entries": [
+    {
+      "start": 5357,
+      "sourceText": "Je le tuerai pour ça!!!",
+      "ipa": "[ʒə lə tyʁe puʁ sa]",
+      "ear": "热 勒 蒂于赫 普赫 萨",
+      "meaning": "我要杀了他！！！",
+      "sourceLineId": "donjuan-timed-515-1",
+      "suppliedText": "9. JALOUSIE Je le turai pour ca!!! Qu'est-ce que j'ai dans le coeur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5357,
+        "anchorEnd": 5376.55,
+        "sourceLineNumber": 515,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5365.797,
+      "sourceText": "Qu'est-ce que j'ai dans le cœur",
+      "ipa": "[kɛskə ʒe dɑ̃ lə kœʁ]",
+      "ear": "凯斯克 热 当 勒 克厄赫",
+      "meaning": "我心里是什么",
+      "sourceLineId": "donjuan-timed-515-2",
+      "suppliedText": "9. JALOUSIE Je le turai pour ca!!! Qu'est-ce que j'ai dans le coeur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5357,
+        "anchorEnd": 5376.55,
+        "sourceLineNumber": 515,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5377,
+      "sourceText": "Quel est ce sentiment qui me fait peur",
+      "ipa": "[kɛl‿ɛ sə sɑ̃timɑ̃ ki mə fɛ pœʁ]",
+      "ear": "凯勒 艾 瑟 桑蒂芒 基 默 费 珀厄赫",
+      "meaning": "这种让我害怕的感觉是什么",
+      "sourceLineId": "donjuan-timed-516-1",
+      "suppliedText": "Quel est ce sentiment qui me fait peur Personne ne m'avait dit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5377,
+        "anchorEnd": 5384.9,
+        "sourceLineNumber": 516,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5382.027,
+      "sourceText": "Personne ne m'avait dit",
+      "ipa": "[pɛʁsɔn nə mavɛ di]",
+      "ear": "佩赫索恩 讷 玛韦 迪",
+      "meaning": "没有人告诉我",
+      "sourceLineId": "donjuan-timed-516-2",
+      "suppliedText": "Quel est ce sentiment qui me fait peur Personne ne m'avait dit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5377,
+        "anchorEnd": 5384.9,
+        "sourceLineNumber": 516,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5386,
+      "sourceText": "Qu'amour rime avec jalousie",
+      "ipa": "[kamuʁ ʁim‿avɛk ʒaluzi]",
+      "ear": "卡穆赫 希姆 阿韦克 扎卢齐",
+      "meaning": "原来爱情总伴着嫉妒。",
+      "sourceLineId": "donjuan-timed-517-1",
+      "suppliedText": "Qu'amour rime avec jalusie Qu'est-ce que j'ai dans le coeur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5386,
+        "anchorEnd": 5392.92,
+        "sourceLineNumber": 517,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5389.748,
+      "sourceText": "Qu'est-ce que j'ai dans le cœur",
+      "ipa": "[kɛskə ʒe dɑ̃ lə kœʁ]",
+      "ear": "凯斯克 热 当 勒 克厄赫",
+      "meaning": "我心里是什么",
+      "sourceLineId": "donjuan-timed-517-2",
+      "suppliedText": "Qu'amour rime avec jalusie Qu'est-ce que j'ai dans le coeur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5386,
+        "anchorEnd": 5392.92,
+        "sourceLineNumber": 517,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5393,
+      "sourceText": "Quel est ce mal étrange, cette douleur",
+      "ipa": "[kɛl‿ɛ sə mal‿etʁɑ̃ʒ sɛt dulœʁ]",
+      "ear": "凯勒 艾 瑟 玛勒 诶特杭日 塞特 杜勒厄赫",
+      "meaning": "这种奇怪的疼痛、这种疼痛是什么？",
+      "sourceLineId": "donjuan-timed-518-1",
+      "suppliedText": "Quel est ce mal etrange, cette douleur Comme un invisible ennemi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5393,
+        "anchorEnd": 5400.79,
+        "sourceLineNumber": 518,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5397.544,
+      "sourceText": "Comme un invisible ennemi",
+      "ipa": "[kɔm‿œ̃n‿ɛ̃vizibl‿ɛnmi]",
+      "ear": "科姆 恩恩 安维齐布勒 艾恩米",
+      "meaning": "就像一个看不见的敌人",
+      "sourceLineId": "donjuan-timed-518-2",
+      "suppliedText": "Quel est ce mal etrange, cette douleur Comme un invisible ennemi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5393,
+        "anchorEnd": 5400.79,
+        "sourceLineNumber": 518,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5402,
+      "sourceText": "Qui veut devenir mon ami",
+      "ipa": "[ki vø dəvniʁ mɔ̃n‿ami]",
+      "ear": "基 弗厄 德弗尼赫 蒙恩 阿米",
+      "meaning": "谁想成为我的朋友",
+      "sourceLineId": "donjuan-timed-519-1",
+      "suppliedText": "Qui veut devenir mon ami J'veux plus qu'on lui parle, j'veux plus qu'on la touche",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5402,
+        "anchorEnd": 5409,
+        "sourceLineNumber": 519,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5404.5,
+      "sourceText": "J'veux plus qu'on lui parle, j'veux plus qu'on la touche",
+      "ipa": "[ʒvø ply kɔ̃ lɥi paʁl ʒvø ply kɔ̃ la tuʃ]",
+      "ear": "日弗厄 普吕 孔 勒于伊 帕赫勒 日弗厄 普吕 孔 拉 图什",
+      "meaning": "我不想再有人跟她说话了，我不想再有人碰她了",
+      "sourceLineId": "donjuan-timed-519-2",
+      "suppliedText": "Qui veut devenir mon ami J'veux plus qu'on lui parle, j'veux plus qu'on la touche",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5402,
+        "anchorEnd": 5409,
+        "sourceLineNumber": 519,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5409,
+      "sourceText": "J'veux plus les regards,",
+      "ipa": "[ʒvø ply le ʁəɡaʁ]",
+      "ear": "日弗厄 普吕 莱 赫嘎赫",
+      "meaning": "我不愿再有人看她，",
+      "sourceLineId": "donjuan-timed-520-1",
+      "suppliedText": "J'veux plus les regars, Je ne veux pas savoir qu'un jour, sur sa bouche, y avait une histroire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5409,
+        "anchorEnd": 5418.5,
+        "sourceLineNumber": 520,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5410.727,
+      "sourceText": "Je ne veux pas savoir qu'un jour, sur sa bouche, y avait une histoire",
+      "ipa": "[ʒə nə vø pa savwaʁ kœ̃ ʒuʁ syʁ sa buʃ i avɛ yn‿istwaʁ]",
+      "ear": "热 讷 弗厄 帕 萨弗乌阿赫 坎 茹赫 西于赫 萨 布什 伊 阿韦 于恩 伊斯特乌阿赫",
+      "meaning": "我不想知道，她的唇上曾有过别人的故事。",
+      "sourceLineId": "donjuan-timed-520-2",
+      "suppliedText": "J'veux plus les regars, Je ne veux pas savoir qu'un jour, sur sa bouche, y avait une histroire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5409,
+        "anchorEnd": 5418.5,
+        "sourceLineNumber": 520,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5420,
+      "sourceText": "J'veux plus qu'on lui parle",
+      "ipa": "[ʒvø ply kɔ̃ lɥi paʁl]",
+      "ear": "日弗厄 普吕 孔 勒于伊 帕赫勒",
+      "meaning": "我不愿别人再与她说话。",
+      "sourceLineId": "donjuan-timed-521-1",
+      "suppliedText": "J'veux plus qu'on lui parle J'veux qu'il n'y ait que moi quand elle se reveille",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5420,
+        "anchorEnd": 5425.69,
+        "sourceLineNumber": 521,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5421.766,
+      "sourceText": "J'veux qu'il n'y ait que moi quand elle se réveille",
+      "ipa": "[ʒvø kil ni ɛ kə mwa kɑ̃t‿ɛl sə ʁevɛj]",
+      "ear": "日弗厄 基勒 尼 艾 克 姆乌阿 康特 艾勒 瑟 赫韦耶",
+      "meaning": "我希望她醒来时只有我一个人",
+      "sourceLineId": "donjuan-timed-521-2",
+      "suppliedText": "J'veux plus qu'on lui parle J'veux qu'il n'y ait que moi quand elle se reveille",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5420,
+        "anchorEnd": 5425.69,
+        "sourceLineNumber": 521,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5427,
+      "sourceText": "Je ne veux pas savoir qu'il était une fois un autre soleil",
+      "ipa": "[ʒə nə vø pa savwaʁ kil‿etɛ yn fwa œ̃n‿otʁ solɛj]",
+      "ear": "热 讷 弗厄 帕 萨弗乌阿赫 基勒 诶泰 于恩 弗乌阿 恩恩 奥特赫 索莱耶",
+      "meaning": "我不想知道，从前曾有另一个人照亮你的生活。",
+      "sourceLineId": "donjuan-timed-522-1",
+      "suppliedText": "Je ne veux pas savoir qu'il etait une fois un autre soleil",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5427,
+        "anchorEnd": 5432.94,
+        "sourceLineNumber": 522,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5435,
+      "sourceText": "Qu'est-ce que j'ai dans le cœur",
+      "ipa": "[kɛskə ʒe dɑ̃ lə kœʁ]",
+      "ear": "凯斯克 热 当 勒 克厄赫",
+      "meaning": "我心里是什么",
+      "sourceLineId": "donjuan-timed-523-1",
+      "suppliedText": "Qu'est-ce que j'ai dans le coeur Qui me pousse a douter de ce bonheur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5435,
+        "anchorEnd": 5441.77,
+        "sourceLineNumber": 523,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5437.864,
+      "sourceText": "Qui me pousse à douter de ce bonheur",
+      "ipa": "[ki mə pus‿a dute də sə bɔnœʁ]",
+      "ear": "基 默 普斯 阿 杜特 德 瑟 博讷厄赫",
+      "meaning": "这让我怀疑这种幸福",
+      "sourceLineId": "donjuan-timed-523-2",
+      "suppliedText": "Qu'est-ce que j'ai dans le coeur Qui me pousse a douter de ce bonheur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5435,
+        "anchorEnd": 5441.77,
+        "sourceLineNumber": 523,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5443,
+      "sourceText": "Pourquoi faut-il que dans la vie amour rime avec jalousie",
+      "ipa": "[puʁkwa fotil kə dɑ̃ la vi amuʁ ʁim‿avɛk ʒaluzi]",
+      "ear": "普赫克乌阿 佛蒂勒 克 当 拉 维 阿穆赫 希姆 阿韦克 扎卢齐",
+      "meaning": "为什么人生里的爱情，总要伴着嫉妒？",
+      "sourceLineId": "donjuan-timed-524-1",
+      "suppliedText": "Pourquoi faut-il que dans la vie amour rime avec jamousie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5443,
+        "anchorEnd": 5449.1,
+        "sourceLineNumber": 524,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5450,
+      "sourceText": "J'veux plus qu'on lui parle, j'veux plus qu'on la touche",
+      "ipa": "[ʒvø ply kɔ̃ lɥi paʁl ʒvø ply kɔ̃ la tuʃ]",
+      "ear": "日弗厄 普吕 孔 勒于伊 帕赫勒 日弗厄 普吕 孔 拉 图什",
+      "meaning": "我不想再有人跟她说话了，我不想再有人碰她了",
+      "sourceLineId": "donjuan-timed-525-1",
+      "suppliedText": "J'veux plus qu'on lui parle, j'veux plus qu'on la touche J'veux plus les regards,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5450,
+        "anchorEnd": 5456.18,
+        "sourceLineNumber": 525,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5454.635,
+      "sourceText": "J'veux plus les regards,",
+      "ipa": "[ʒvø ply le ʁəɡaʁ]",
+      "ear": "日弗厄 普吕 莱 赫嘎赫",
+      "meaning": "我不愿再有人看她，",
+      "sourceLineId": "donjuan-timed-525-2",
+      "suppliedText": "J'veux plus qu'on lui parle, j'veux plus qu'on la touche J'veux plus les regards,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5450,
+        "anchorEnd": 5456.18,
+        "sourceLineNumber": 525,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5457,
+      "sourceText": "je ne veux pas savoir",
+      "ipa": "[ʒə nə vø pa savwaʁ]",
+      "ear": "热 讷 弗厄 帕 萨弗乌阿赫",
+      "meaning": "我不想知道",
+      "sourceLineId": "donjuan-timed-526-1",
+      "suppliedText": "je ne veux pas savoir Qu'un jour, sur sa bouche, y avait une histoire J'veux plus qu'on lui parle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5457,
+        "anchorEnd": 5466,
+        "sourceLineNumber": 526,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5459.0,
+      "sourceText": "Qu'un jour, sur sa bouche, y avait une histoire",
+      "ipa": "[kœ̃ ʒuʁ syʁ sa buʃ i avɛ yn‿istwaʁ]",
+      "ear": "坎 茹赫 西于赫 萨 布什 伊 阿韦 于恩 伊斯特乌阿赫",
+      "meaning": "她的唇上曾有过别人的故事。",
+      "sourceLineId": "donjuan-timed-526-2",
+      "suppliedText": "je ne veux pas savoir Qu'un jour, sur sa bouche, y avait une histoire J'veux plus qu'on lui parle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5457,
+        "anchorEnd": 5466,
+        "sourceLineNumber": 526,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5463.75,
+      "sourceText": "J'veux plus qu'on lui parle",
+      "ipa": "[ʒvø ply kɔ̃ lɥi paʁl]",
+      "ear": "日弗厄 普吕 孔 勒于伊 帕赫勒",
+      "meaning": "我不愿别人再与她说话。",
+      "sourceLineId": "donjuan-timed-526-3",
+      "suppliedText": "je ne veux pas savoir Qu'un jour, sur sa bouche, y avait une histoire J'veux plus qu'on lui parle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5457,
+        "anchorEnd": 5466,
+        "sourceLineNumber": 526,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5466,
+      "sourceText": "J'veux qu'il n'y ait que moi quand elle se réveille",
+      "ipa": "[ʒvø kil ni ɛ kə mwa kɑ̃t‿ɛl sə ʁevɛj]",
+      "ear": "日弗厄 基勒 尼 艾 克 姆乌阿 康特 艾勒 瑟 赫韦耶",
+      "meaning": "我希望她醒来时只有我一个人",
+      "sourceLineId": "donjuan-timed-527-1",
+      "suppliedText": "J'veux qu'il n'y ait que moi quand elle se reveille Je ne veux pas savoir qu'il etait une fois un autre soleil",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5466,
+        "anchorEnd": 5477.58,
+        "sourceLineNumber": 527,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5471.264,
+      "sourceText": "Je ne veux pas savoir qu'il était une fois un autre soleil",
+      "ipa": "[ʒə nə vø pa savwaʁ kil‿etɛ yn fwa œ̃n‿otʁ solɛj]",
+      "ear": "热 讷 弗厄 帕 萨弗乌阿赫 基勒 诶泰 于恩 弗乌阿 恩恩 奥特赫 索莱耶",
+      "meaning": "我不想知道，从前曾有另一个人照亮你的生活。",
+      "sourceLineId": "donjuan-timed-527-2",
+      "suppliedText": "J'veux qu'il n'y ait que moi quand elle se reveille Je ne veux pas savoir qu'il etait une fois un autre soleil",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5466,
+        "anchorEnd": 5477.58,
+        "sourceLineNumber": 527,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5486,
+      "sourceText": "J'veux plus qu'on lui parle, j'veux plus qu'on la touche",
+      "ipa": "[ʒvø ply kɔ̃ lɥi paʁl ʒvø ply kɔ̃ la tuʃ]",
+      "ear": "日弗厄 普吕 孔 勒于伊 帕赫勒 日弗厄 普吕 孔 拉 图什",
+      "meaning": "我不想再有人跟她说话了，我不想再有人碰她了",
+      "sourceLineId": "donjuan-timed-528-1",
+      "suppliedText": "J'veux plus qu'on lui parle, j'veux plus qu'on la touche J'veux plus les regards,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5486,
+        "anchorEnd": 5493,
+        "sourceLineNumber": 528,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5491.25,
+      "sourceText": "J'veux plus les regards,",
+      "ipa": "[ʒvø ply le ʁəɡaʁ]",
+      "ear": "日弗厄 普吕 莱 赫嘎赫",
+      "meaning": "我不愿再有人看她，",
+      "sourceLineId": "donjuan-timed-528-2",
+      "suppliedText": "J'veux plus qu'on lui parle, j'veux plus qu'on la touche J'veux plus les regards,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5486,
+        "anchorEnd": 5493,
+        "sourceLineNumber": 528,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5493,
+      "sourceText": "je ne veux pas savoir",
+      "ipa": "[ʒə nə vø pa savwaʁ]",
+      "ear": "热 讷 弗厄 帕 萨弗乌阿赫",
+      "meaning": "我不想知道",
+      "sourceLineId": "donjuan-timed-529-1",
+      "suppliedText": "je ne veux pas savoir Qu'un jour, sur sa bouche, y avait une histoire J'veux plus qu'on lui parle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5493,
+        "anchorEnd": 5502,
+        "sourceLineNumber": 529,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5495.0,
+      "sourceText": "Qu'un jour, sur sa bouche, y avait une histoire",
+      "ipa": "[kœ̃ ʒuʁ syʁ sa buʃ i avɛ yn‿istwaʁ]",
+      "ear": "坎 茹赫 西于赫 萨 布什 伊 阿韦 于恩 伊斯特乌阿赫",
+      "meaning": "她的唇上曾有过别人的故事。",
+      "sourceLineId": "donjuan-timed-529-2",
+      "suppliedText": "je ne veux pas savoir Qu'un jour, sur sa bouche, y avait une histoire J'veux plus qu'on lui parle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5493,
+        "anchorEnd": 5502,
+        "sourceLineNumber": 529,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5499.75,
+      "sourceText": "J'veux plus qu'on lui parle",
+      "ipa": "[ʒvø ply kɔ̃ lɥi paʁl]",
+      "ear": "日弗厄 普吕 孔 勒于伊 帕赫勒",
+      "meaning": "我不愿别人再与她说话。",
+      "sourceLineId": "donjuan-timed-529-3",
+      "suppliedText": "je ne veux pas savoir Qu'un jour, sur sa bouche, y avait une histoire J'veux plus qu'on lui parle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5493,
+        "anchorEnd": 5502,
+        "sourceLineNumber": 529,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5502,
+      "sourceText": "J'veux qu'il n'y ait que moi quand elle se réveille",
+      "ipa": "[ʒvø kil ni ɛ kə mwa kɑ̃t‿ɛl sə ʁevɛj]",
+      "ear": "日弗厄 基勒 尼 艾 克 姆乌阿 康特 艾勒 瑟 赫韦耶",
+      "meaning": "我希望她醒来时只有我一个人",
+      "sourceLineId": "donjuan-timed-530-1",
+      "suppliedText": "J'veux qu'il n'y ait que moi quand elle se reveille Je ne veux pas savoir qu'il etait une fois un autre soleil",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5502,
+        "anchorEnd": 5513.6,
+        "sourceLineNumber": 530,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5507.273,
+      "sourceText": "Je ne veux pas savoir qu'il était une fois un autre soleil",
+      "ipa": "[ʒə nə vø pa savwaʁ kil‿etɛ yn fwa œ̃n‿otʁ solɛj]",
+      "ear": "热 讷 弗厄 帕 萨弗乌阿赫 基勒 诶泰 于恩 弗乌阿 恩恩 奥特赫 索莱耶",
+      "meaning": "我不想知道，从前曾有另一个人照亮你的生活。",
+      "sourceLineId": "donjuan-timed-530-2",
+      "suppliedText": "J'veux qu'il n'y ait que moi quand elle se reveille Je ne veux pas savoir qu'il etait une fois un autre soleil",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5502,
+        "anchorEnd": 5513.6,
+        "sourceLineNumber": 530,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5515,
+      "sourceText": "J'veux plus qu'on lui parle, j'veux plus qu'on la touche",
+      "ipa": "[ʒvø ply kɔ̃ lɥi paʁl ʒvø ply kɔ̃ la tuʃ]",
+      "ear": "日弗厄 普吕 孔 勒于伊 帕赫勒 日弗厄 普吕 孔 拉 图什",
+      "meaning": "我不想再有人跟她说话了，我不想再有人碰她了",
+      "sourceLineId": "donjuan-timed-531-1",
+      "suppliedText": "J'veux plus qu'on lui parle, j'veux plus qu'on la touche J'veux plus les regards,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5515,
+        "anchorEnd": 5520.65,
+        "sourceLineNumber": 531,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5519.237,
+      "sourceText": "J'veux plus les regards,",
+      "ipa": "[ʒvø ply le ʁəɡaʁ]",
+      "ear": "日弗厄 普吕 莱 赫嘎赫",
+      "meaning": "我不愿再有人看她，",
+      "sourceLineId": "donjuan-timed-531-2",
+      "suppliedText": "J'veux plus qu'on lui parle, j'veux plus qu'on la touche J'veux plus les regards,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5515,
+        "anchorEnd": 5520.65,
+        "sourceLineNumber": 531,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5521,
+      "sourceText": "je ne veux pas savoir",
+      "ipa": "[ʒə nə vø pa savwaʁ]",
+      "ear": "热 讷 弗厄 帕 萨弗乌阿赫",
+      "meaning": "我不想知道",
+      "sourceLineId": "donjuan-timed-532-1",
+      "suppliedText": "je ne veux pas savoir Qu'un jour, sur sa bouche, y avait une histoire J'veux plus qu'on lui parle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5521,
+        "anchorEnd": 5530,
+        "sourceLineNumber": 532,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5523.0,
+      "sourceText": "Qu'un jour, sur sa bouche, y avait une histoire",
+      "ipa": "[kœ̃ ʒuʁ syʁ sa buʃ i avɛ yn‿istwaʁ]",
+      "ear": "坎 茹赫 西于赫 萨 布什 伊 阿韦 于恩 伊斯特乌阿赫",
+      "meaning": "她的唇上曾有过别人的故事。",
+      "sourceLineId": "donjuan-timed-532-2",
+      "suppliedText": "je ne veux pas savoir Qu'un jour, sur sa bouche, y avait une histoire J'veux plus qu'on lui parle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5521,
+        "anchorEnd": 5530,
+        "sourceLineNumber": 532,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5527.75,
+      "sourceText": "J'veux plus qu'on lui parle",
+      "ipa": "[ʒvø ply kɔ̃ lɥi paʁl]",
+      "ear": "日弗厄 普吕 孔 勒于伊 帕赫勒",
+      "meaning": "我不愿别人再与她说话。",
+      "sourceLineId": "donjuan-timed-532-3",
+      "suppliedText": "je ne veux pas savoir Qu'un jour, sur sa bouche, y avait une histoire J'veux plus qu'on lui parle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5521,
+        "anchorEnd": 5530,
+        "sourceLineNumber": 532,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5530,
+      "sourceText": "J'veux qu'il n'y ait que moi quand elle puisse écouter",
+      "ipa": "[ʒvø kil ni ɛ kə mwa kɑ̃t‿ɛl pɥis‿ekute]",
+      "ear": "日弗厄 基勒 尼 艾 克 姆乌阿 康特 艾勒 普于伊斯 诶库特",
+      "meaning": "我希望她能听的时候只有我",
+      "sourceLineId": "donjuan-timed-533-1",
+      "suppliedText": "J'veux qu'il n'y ait que moi quand elle puisse ecouter",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5530,
+        "anchorEnd": 5535.43,
+        "sourceLineNumber": 533,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5536,
+      "sourceText": "Quand je lui dirai que je suis le seul à vraiment l'aimer",
+      "ipa": "[kɑ̃ ʒə lɥi diʁe kə ʒə sɥi lə sœl‿a vʁɛmɑ̃ lɛme]",
+      "ear": "康 热 勒于伊 迪赫 克 热 斯于伊 勒 瑟厄勒 阿 弗赫芒 莱梅",
+      "meaning": "当我告诉她，只有我是真正爱她的人。",
+      "sourceLineId": "donjuan-timed-534-1",
+      "suppliedText": "Quand je lui dirai que je suis le suel a vraiment l'aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5536,
+        "anchorEnd": 5542.51,
+        "sourceLineNumber": 534,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5544,
+      "sourceText": "À vraiment l'aimer",
+      "ipa": "[a vʁɛmɑ̃ lɛme]",
+      "ear": "阿 弗赫芒 莱梅",
+      "meaning": "真正爱她。",
+      "sourceLineId": "donjuan-timed-535-1",
+      "suppliedText": "A vraiment l'aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5544,
+        "anchorEnd": 5549.82,
+        "sourceLineNumber": 535,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

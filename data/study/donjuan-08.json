@@ -1,0 +1,202 @@
+{
+  "videoId": "donjuan-08",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=1019"
+    }
+  ],
+  "entries": [
+    {
+      "start": 1031,
+      "sourceText": "Écoute-moi Don Juan",
+      "ipa": "[ekutmwa dɔ̃ ʒɥɑ̃]",
+      "ear": "诶库特姆乌阿 东 日于昂",
+      "meaning": "听我说唐璜",
+      "sourceLineId": "donjuan-timed-89-1",
+      "suppliedText": "Ecoute-moi Don Juan J'ai un message de ton pere Il te veut dire qu'il t'attend Qu'il est presse et qu'il prefere",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1031,
+        "anchorEnd": 1040.14,
+        "sourceLineNumber": 89,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1033.056,
+      "sourceText": "J'ai un message de ton père",
+      "ipa": "[ʒe œ̃ mɛsaʒ də tɔ̃ pɛʁ]",
+      "ear": "热 恩 梅萨日 德 通 佩赫",
+      "meaning": "我有一条来自你父亲的消息",
+      "sourceLineId": "donjuan-timed-89-2",
+      "suppliedText": "Ecoute-moi Don Juan J'ai un message de ton pere Il te veut dire qu'il t'attend Qu'il est presse et qu'il prefere",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1031,
+        "anchorEnd": 1040.14,
+        "sourceLineNumber": 89,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1035.341,
+      "sourceText": "Il te veut dire qu'il t'attend",
+      "ipa": "[il tə vø diʁ kil tatɑ̃]",
+      "ear": "伊勒 特 弗厄 迪赫 基勒 塔唐",
+      "meaning": "他想告诉你，他在等你",
+      "sourceLineId": "donjuan-timed-89-3",
+      "suppliedText": "Ecoute-moi Don Juan J'ai un message de ton pere Il te veut dire qu'il t'attend Qu'il est presse et qu'il prefere",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1031,
+        "anchorEnd": 1040.14,
+        "sourceLineNumber": 89,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1037.627,
+      "sourceText": "Qu'il est pressé et qu'il préfère",
+      "ipa": "[kil‿ɛ pʁɛse e kil pʁefɛʁ]",
+      "ear": "基勒 艾 普赫塞 诶 基勒 普赫费赫",
+      "meaning": "他说事情紧急，希望——",
+      "sourceLineId": "donjuan-timed-89-4",
+      "suppliedText": "Ecoute-moi Don Juan J'ai un message de ton pere Il te veut dire qu'il t'attend Qu'il est presse et qu'il prefere",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1031,
+        "anchorEnd": 1040.14,
+        "sourceLineNumber": 89,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1041,
+      "sourceText": "Que tu me suives sur l'instant",
+      "ipa": "[kə ty mə sɥiv syʁ lɛ̃stɑ̃]",
+      "ear": "克 蒂于 默 斯于伊弗 西于赫 兰斯唐",
+      "meaning": "你立刻跟我走。",
+      "sourceLineId": "donjuan-timed-90-1",
+      "suppliedText": "Que tu me suive sur l'instant Qu'est-ce que cet homme peut bien me dire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1041,
+        "anchorEnd": 1048,
+        "sourceLineNumber": 90,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1043.8,
+      "sourceText": "Qu'est-ce que cet homme peut bien me dire",
+      "ipa": "[kɛskə sɛt ɔm pø bjɛ̃ mə diʁ]",
+      "ear": "凯斯克 塞特 哦姆 珀厄 布耶安 默 迪赫",
+      "meaning": "那个人究竟有什么话要对我说，",
+      "sourceLineId": "donjuan-timed-90-2",
+      "suppliedText": "Que tu me suive sur l'instant Qu'est-ce que cet homme peut bien me dire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1041,
+        "anchorEnd": 1048,
+        "sourceLineNumber": 90,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1048,
+      "sourceText": "Qui puisse être tellement urgent",
+      "ipa": "[ki pɥis‿ɛtʁ tɛlmɑ̃ yʁʒɑ̃]",
+      "ear": "基 普于伊斯 艾特赫 泰勒芒 于赫让",
+      "meaning": "能急成这样，",
+      "sourceLineId": "donjuan-timed-91-1",
+      "suppliedText": "Qui puisse etre tellement urgent Pour qu'au lieu de boir et de rire Moi je te suive sur l'instant?",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1048,
+        "anchorEnd": 1057.38,
+        "sourceLineNumber": 91,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1050.962,
+      "sourceText": "Pour qu'au lieu de boire et de rire",
+      "ipa": "[puʁ ko ljø də bwaʁ e də ʁiʁ]",
+      "ear": "普赫 科 勒耶厄 德 布乌阿赫 诶 德 希赫",
+      "meaning": "竟要我放下酒杯和欢笑，",
+      "sourceLineId": "donjuan-timed-91-2",
+      "suppliedText": "Qui puisse etre tellement urgent Pour qu'au lieu de boir et de rire Moi je te suive sur l'instant?",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1048,
+        "anchorEnd": 1057.38,
+        "sourceLineNumber": 91,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1054.912,
+      "sourceText": "Moi je te suives sur l'instant?",
+      "ipa": "[mwa ʒə tə sɥiv syʁ lɛ̃stɑ̃]",
+      "ear": "姆乌阿 热 特 斯于伊弗 西于赫 兰斯唐",
+      "meaning": "让我立刻跟你走？",
+      "sourceLineId": "donjuan-timed-91-3",
+      "suppliedText": "Qui puisse etre tellement urgent Pour qu'au lieu de boir et de rire Moi je te suive sur l'instant?",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1048,
+        "anchorEnd": 1057.38,
+        "sourceLineNumber": 91,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1058,
+      "sourceText": "Mais je te suis, passe devant",
+      "ipa": "[mɛ ʒə tə sɥi pas dəvɑ̃]",
+      "ear": "梅 热 特 斯于伊 帕斯 德旺",
+      "meaning": "好吧，我跟你去，你带路。",
+      "sourceLineId": "donjuan-timed-92-1",
+      "suppliedText": "Mais je te suis, passe devant 9. L'APPARISION DU COMMANDEUR",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 1058,
+        "anchorEnd": 1069.56,
+        "sourceLineNumber": 92,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

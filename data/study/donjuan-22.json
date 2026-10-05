@@ -1,0 +1,904 @@
+{
+  "videoId": "donjuan-22",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=3369"
+    }
+  ],
+  "entries": [
+    {
+      "start": 3386,
+      "sourceText": "Quand j'ai envie de briser mes chaînes",
+      "ipa": "[kɑ̃ ʒe ɑ̃vi də bʁize me ʃɛn]",
+      "ear": "康 热 昂维 德 布希泽 梅 谢恩",
+      "meaning": "当我想挣脱束缚时",
+      "sourceLineId": "donjuan-timed-321-1",
+      "suppliedText": "Quand j'ai envie de briser mes chaines Et dechirer mes habits de soldat",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3386,
+        "anchorEnd": 3394.78,
+        "sourceLineNumber": 321,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3391.122,
+      "sourceText": "Et déchirer mes habits de soldat",
+      "ipa": "[e deʃiʁe mez‿abi də sɔlda]",
+      "ear": "诶 德希赫 梅兹 阿比 德 索勒达",
+      "meaning": "撕破我士兵的衣服",
+      "sourceLineId": "donjuan-timed-321-2",
+      "suppliedText": "Quand j'ai envie de briser mes chaines Et dechirer mes habits de soldat",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3386,
+        "anchorEnd": 3394.78,
+        "sourceLineNumber": 321,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3396,
+      "sourceText": "Sous les vents froids d'une morne plaine",
+      "ipa": "[su le vɑ̃ fʁwa dyn mɔʁn plɛn]",
+      "ear": "苏 莱 旺 弗赫乌阿 迪于恩 莫赫恩 普莱恩",
+      "meaning": "荒凉平原的寒风下",
+      "sourceLineId": "donjuan-timed-322-1",
+      "suppliedText": "Sous les vents froids d'une morne plaine Combien de nous sont morts deja",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3396,
+        "anchorEnd": 3404.87,
+        "sourceLineNumber": 322,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3401.013,
+      "sourceText": "Combien de nous sont morts déjà",
+      "ipa": "[kɔ̃bjɛ̃ də nu sɔ̃ mɔʁ deʒa]",
+      "ear": "孔布耶安 德 努 松 莫赫 德扎",
+      "meaning": "我们有多少人已经死了",
+      "sourceLineId": "donjuan-timed-322-2",
+      "suppliedText": "Sous les vents froids d'une morne plaine Combien de nous sont morts deja",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3396,
+        "anchorEnd": 3404.87,
+        "sourceLineNumber": 322,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3406,
+      "sourceText": "Quand tous nos chants ne sont que prières",
+      "ipa": "[kɑ̃ tu no ʃɑ̃ nə sɔ̃ kə pʁiɛʁ]",
+      "ear": "康 图 诺 尚 讷 松 克 普希艾赫",
+      "meaning": "当我们的歌声都变成祈祷，",
+      "sourceLineId": "donjuan-timed-323-1",
+      "suppliedText": "Quand tous nos chants ne sont que prieres Et que nos jeux sont des combats",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3406,
+        "anchorEnd": 3414.52,
+        "sourceLineNumber": 323,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3410.816,
+      "sourceText": "Et que nos jeux sont des combats",
+      "ipa": "[e kə no ʒø sɔ̃ de kɔ̃ba]",
+      "ear": "诶 克 诺 热厄 松 德 孔巴",
+      "meaning": "当我们的游戏都变成战斗，",
+      "sourceLineId": "donjuan-timed-323-2",
+      "suppliedText": "Quand tous nos chants ne sont que prieres Et que nos jeux sont des combats",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3406,
+        "anchorEnd": 3414.52,
+        "sourceLineNumber": 323,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3416,
+      "sourceText": "Quand de nos vies on sème la terre",
+      "ipa": "[kɑ̃ də no vi ɔ̃ sɛm la tɛʁ]",
+      "ear": "康 德 诺 维 翁 塞姆 拉 泰赫",
+      "meaning": "当我们用生命播种这片土地，",
+      "sourceLineId": "donjuan-timed-324-1",
+      "suppliedText": "Quand de nos vies on seme la terre Qui sait ce qu'il y poussera",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3416,
+        "anchorEnd": 3424,
+        "sourceLineNumber": 324,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3420.0,
+      "sourceText": "Qui sait ce qu'il y poussera",
+      "ipa": "[ki sɛ sə kil‿i pusʁa]",
+      "ear": "基 塞 瑟 基勒 伊 普斯哈",
+      "meaning": "谁知道，会从中长出什么。",
+      "sourceLineId": "donjuan-timed-324-2",
+      "suppliedText": "Quand de nos vies on seme la terre Qui sait ce qu'il y poussera",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3416,
+        "anchorEnd": 3424,
+        "sourceLineNumber": 324,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3424,
+      "sourceText": "Je n'écris pas une lettre d'amour",
+      "ipa": "[ʒə nekʁi pa yn lɛtʁ damuʁ]",
+      "ear": "热 内克希 帕 于恩 莱特赫 达穆赫",
+      "meaning": "我不是在写情书",
+      "sourceLineId": "donjuan-timed-325-1",
+      "suppliedText": "Je n'ecris pas une lettre d'amour Je n'ecris pas mes mots sur du velours",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3424,
+        "anchorEnd": 3433,
+        "sourceLineNumber": 325,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3428.5,
+      "sourceText": "Je n'écris pas mes mots sur du velours",
+      "ipa": "[ʒə nekʁi pa me mo syʁ dy vəluʁ]",
+      "ear": "热 内克希 帕 梅 莫 西于赫 迪于 弗卢赫",
+      "meaning": "我不会把我的话写在天鹅绒上",
+      "sourceLineId": "donjuan-timed-325-2",
+      "suppliedText": "Je n'ecris pas une lettre d'amour Je n'ecris pas mes mots sur du velours",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3424,
+        "anchorEnd": 3433,
+        "sourceLineNumber": 325,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3433,
+      "sourceText": "C'est du sang des soldats",
+      "ipa": "[sɛ dy sɑ̃ de sɔlda]",
+      "ear": "塞 迪于 桑 德 索勒达",
+      "meaning": "这是士兵的血",
+      "sourceLineId": "donjuan-timed-326-1",
+      "suppliedText": "C'est du sang des soldats L'encre que tu liras Je n'ecris pas combien je t'aime encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3433,
+        "anchorEnd": 3443,
+        "sourceLineNumber": 326,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3435.222,
+      "sourceText": "L'encre que tu liras",
+      "ipa": "[lɑ̃kʁ kə ty liʁa]",
+      "ear": "朗克赫 克 蒂于 利哈",
+      "meaning": "便是你读到的墨水。",
+      "sourceLineId": "donjuan-timed-326-2",
+      "suppliedText": "C'est du sang des soldats L'encre que tu liras Je n'ecris pas combien je t'aime encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3433,
+        "anchorEnd": 3443,
+        "sourceLineNumber": 326,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3437.815,
+      "sourceText": "Je n'écris pas combien je t'aime encore",
+      "ipa": "[ʒə nekʁi pa kɔ̃bjɛ̃ ʒə tɛm‿ɑ̃kɔʁ]",
+      "ear": "热 内克希 帕 孔布耶安 热 泰姆 昂科赫",
+      "meaning": "我没有写下自己依然多么爱你，",
+      "sourceLineId": "donjuan-timed-326-3",
+      "suppliedText": "C'est du sang des soldats L'encre que tu liras Je n'ecris pas combien je t'aime encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3433,
+        "anchorEnd": 3443,
+        "sourceLineNumber": 326,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3443,
+      "sourceText": "Et tous mes pleurs la nuit quand je m'endors",
+      "ipa": "[e tu me plœʁ la nɥi kɑ̃ ʒə mɑ̃dɔʁ]",
+      "ear": "诶 图 梅 普勒厄赫 拉 恩于伊 康 热 芒多赫",
+      "meaning": "也没写下每晚入睡时流的泪。",
+      "sourceLineId": "donjuan-timed-327-1",
+      "suppliedText": "Et tous mes pleurs la nuit quand je m'endors C'est des larmes de moi L'encre que tu liras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3443,
+        "anchorEnd": 3452.08,
+        "sourceLineNumber": 327,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3447.54,
+      "sourceText": "C'est des larmes de moi",
+      "ipa": "[sɛ de laʁm də mwa]",
+      "ear": "塞 德 拉赫姆 德 姆乌阿",
+      "meaning": "我的泪水，",
+      "sourceLineId": "donjuan-timed-327-2",
+      "suppliedText": "Et tous mes pleurs la nuit quand je m'endors C'est des larmes de moi L'encre que tu liras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3443,
+        "anchorEnd": 3452.08,
+        "sourceLineNumber": 327,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3449.81,
+      "sourceText": "L'encre que tu liras",
+      "ipa": "[lɑ̃kʁ kə ty liʁa]",
+      "ear": "朗克赫 克 蒂于 利哈",
+      "meaning": "便是你读到的墨水。",
+      "sourceLineId": "donjuan-timed-327-3",
+      "suppliedText": "Et tous mes pleurs la nuit quand je m'endors C'est des larmes de moi L'encre que tu liras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3443,
+        "anchorEnd": 3452.08,
+        "sourceLineNumber": 327,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3456,
+      "sourceText": "Quand j'ai envie de tout foutre en l'air",
+      "ipa": "[kɑ̃ ʒe ɑ̃vi də tu futʁ‿ɑ̃ lɛʁ]",
+      "ear": "康 热 昂维 德 图 富特赫 昂 莱赫",
+      "meaning": "当我想不顾一切，",
+      "sourceLineId": "donjuan-timed-328-1",
+      "suppliedText": "Quand j'ai envie de tout foutre en l'air De me sauver pour courir vers toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3456,
+        "anchorEnd": 3464.64,
+        "sourceLineNumber": 328,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3460.767,
+      "sourceText": "De me sauver pour courir vers toi",
+      "ipa": "[də mə sove puʁ kuʁiʁ vɛʁ twa]",
+      "ear": "德 默 索韦 普赫 库希赫 韦赫 特乌阿",
+      "meaning": "想逃离这里，奔向你。",
+      "sourceLineId": "donjuan-timed-328-2",
+      "suppliedText": "Quand j'ai envie de tout foutre en l'air De me sauver pour courir vers toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3456,
+        "anchorEnd": 3464.64,
+        "sourceLineNumber": 328,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3466,
+      "sourceText": "Je me souviens du cri de mes frères",
+      "ipa": "[ʒə mə suvjɛ̃ dy kʁi də me fʁɛʁ]",
+      "ear": "热 默 苏弗耶安 迪于 克希 德 梅 弗赫赫",
+      "meaning": "我记得兄弟们的哭声",
+      "sourceLineId": "donjuan-timed-329-1",
+      "suppliedText": "Je me souviens du cri de mes freres Combien d'entre eux sont morts deja",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3466,
+        "anchorEnd": 3474,
+        "sourceLineNumber": 329,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3470.174,
+      "sourceText": "Combien d'entre eux sont morts déjà",
+      "ipa": "[kɔ̃bjɛ̃ dɑ̃tʁ‿ø sɔ̃ mɔʁ deʒa]",
+      "ear": "孔布耶安 当特赫 厄 松 莫赫 德扎",
+      "meaning": "他们中有多少人已经死了",
+      "sourceLineId": "donjuan-timed-329-2",
+      "suppliedText": "Je me souviens du cri de mes freres Combien d'entre eux sont morts deja",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3466,
+        "anchorEnd": 3474,
+        "sourceLineNumber": 329,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3474,
+      "sourceText": "Je n'écris pas une lettre d'amour",
+      "ipa": "[ʒə nekʁi pa yn lɛtʁ damuʁ]",
+      "ear": "热 内克希 帕 于恩 莱特赫 达穆赫",
+      "meaning": "我不是在写情书",
+      "sourceLineId": "donjuan-timed-330-1",
+      "suppliedText": "Je n'ecris pas une lettre d'amour Je n'ecris pas mes mots sur du velours",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3474,
+        "anchorEnd": 3483,
+        "sourceLineNumber": 330,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3478.5,
+      "sourceText": "Je n'écris pas mes mots sur du velours",
+      "ipa": "[ʒə nekʁi pa me mo syʁ dy vəluʁ]",
+      "ear": "热 内克希 帕 梅 莫 西于赫 迪于 弗卢赫",
+      "meaning": "我不会把我的话写在天鹅绒上",
+      "sourceLineId": "donjuan-timed-330-2",
+      "suppliedText": "Je n'ecris pas une lettre d'amour Je n'ecris pas mes mots sur du velours",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3474,
+        "anchorEnd": 3483,
+        "sourceLineNumber": 330,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3483,
+      "sourceText": "C'est du sang des soldats",
+      "ipa": "[sɛ dy sɑ̃ de sɔlda]",
+      "ear": "塞 迪于 桑 德 索勒达",
+      "meaning": "这是士兵的血",
+      "sourceLineId": "donjuan-timed-331-1",
+      "suppliedText": "C'est du sang des soldats L'encre que tu liras Je n'ecris pas combien je t'aime encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3483,
+        "anchorEnd": 3493,
+        "sourceLineNumber": 331,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3485.222,
+      "sourceText": "L'encre que tu liras",
+      "ipa": "[lɑ̃kʁ kə ty liʁa]",
+      "ear": "朗克赫 克 蒂于 利哈",
+      "meaning": "便是你读到的墨水。",
+      "sourceLineId": "donjuan-timed-331-2",
+      "suppliedText": "C'est du sang des soldats L'encre que tu liras Je n'ecris pas combien je t'aime encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3483,
+        "anchorEnd": 3493,
+        "sourceLineNumber": 331,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3487.815,
+      "sourceText": "Je n'écris pas combien je t'aime encore",
+      "ipa": "[ʒə nekʁi pa kɔ̃bjɛ̃ ʒə tɛm‿ɑ̃kɔʁ]",
+      "ear": "热 内克希 帕 孔布耶安 热 泰姆 昂科赫",
+      "meaning": "我没有写下自己依然多么爱你，",
+      "sourceLineId": "donjuan-timed-331-3",
+      "suppliedText": "C'est du sang des soldats L'encre que tu liras Je n'ecris pas combien je t'aime encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3483,
+        "anchorEnd": 3493,
+        "sourceLineNumber": 331,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3493,
+      "sourceText": "Et tous mes pleurs la nuit quand je m'endors",
+      "ipa": "[e tu me plœʁ la nɥi kɑ̃ ʒə mɑ̃dɔʁ]",
+      "ear": "诶 图 梅 普勒厄赫 拉 恩于伊 康 热 芒多赫",
+      "meaning": "也没写下每晚入睡时流的泪。",
+      "sourceLineId": "donjuan-timed-332-1",
+      "suppliedText": "Et tous mes pleurs la nuit quand je m'endors C'est des larmes de moi L'encre que tu liras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3493,
+        "anchorEnd": 3502.18,
+        "sourceLineNumber": 332,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3497.59,
+      "sourceText": "C'est des larmes de moi",
+      "ipa": "[sɛ de laʁm də mwa]",
+      "ear": "塞 德 拉赫姆 德 姆乌阿",
+      "meaning": "我的泪水，",
+      "sourceLineId": "donjuan-timed-332-2",
+      "suppliedText": "Et tous mes pleurs la nuit quand je m'endors C'est des larmes de moi L'encre que tu liras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3493,
+        "anchorEnd": 3502.18,
+        "sourceLineNumber": 332,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3499.885,
+      "sourceText": "L'encre que tu liras",
+      "ipa": "[lɑ̃kʁ kə ty liʁa]",
+      "ear": "朗克赫 克 蒂于 利哈",
+      "meaning": "便是你读到的墨水。",
+      "sourceLineId": "donjuan-timed-332-3",
+      "suppliedText": "Et tous mes pleurs la nuit quand je m'endors C'est des larmes de moi L'encre que tu liras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3493,
+        "anchorEnd": 3502.18,
+        "sourceLineNumber": 332,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3505,
+      "sourceText": "Ce soir j'essaie une autre prière",
+      "ipa": "[sə swaʁ ʒesɛ yn‿otʁ pʁiɛʁ]",
+      "ear": "瑟 斯乌阿赫 热塞 于恩 奥特赫 普希艾赫",
+      "meaning": "今晚，我试着换一种方式祈祷。",
+      "sourceLineId": "donjuan-timed-333-1",
+      "suppliedText": "Ce soir j'essaie une autre priere Pas a genoux mais couche par terre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3505,
+        "anchorEnd": 3514.48,
+        "sourceLineNumber": 333,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3510.079,
+      "sourceText": "Pas à genoux mais couché par terre",
+      "ipa": "[pa a ʒənu mɛ kuʃe paʁ tɛʁ]",
+      "ear": "帕 阿 热努 梅 库谢 帕赫 泰赫",
+      "meaning": "不再跪着，而是躺在地上。",
+      "sourceLineId": "donjuan-timed-333-2",
+      "suppliedText": "Ce soir j'essaie une autre priere Pas a genoux mais couche par terre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3505,
+        "anchorEnd": 3514.48,
+        "sourceLineNumber": 333,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3515,
+      "sourceText": "Je ne sais pas pourquoi j'ai tellement froid",
+      "ipa": "[ʒə nə sɛ pa puʁkwa ʒe tɛlmɑ̃ fʁwa]",
+      "ear": "热 讷 塞 帕 普赫克乌阿 热 泰勒芒 弗赫乌阿",
+      "meaning": "我不知道为什么我这么冷",
+      "sourceLineId": "donjuan-timed-334-1",
+      "suppliedText": "Je ne sais pas pourquoi j'ai tellement froid J'ai une tache sur ma chemise je crois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3515,
+        "anchorEnd": 3524.73,
+        "sourceLineNumber": 334,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3520.336,
+      "sourceText": "J'ai une tache sur ma chemise je crois",
+      "ipa": "[ʒe yn taʃ syʁ ma ʃəmiz ʒə kʁwa]",
+      "ear": "热 于恩 塔什 西于赫 玛 舍米兹 热 克赫乌阿",
+      "meaning": "我想，我的衬衫上沾了一块血迹。",
+      "sourceLineId": "donjuan-timed-334-2",
+      "suppliedText": "Je ne sais pas pourquoi j'ai tellement froid J'ai une tache sur ma chemise je crois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3515,
+        "anchorEnd": 3524.73,
+        "sourceLineNumber": 334,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3526,
+      "sourceText": "Je n'écris pas une lettre d'amour",
+      "ipa": "[ʒə nekʁi pa yn lɛtʁ damuʁ]",
+      "ear": "热 内克希 帕 于恩 莱特赫 达穆赫",
+      "meaning": "我不是在写情书",
+      "sourceLineId": "donjuan-timed-335-1",
+      "suppliedText": "Je n'ecris pas une lettre d'amour Je n'ecris pas mes mots sur du velours",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3526,
+        "anchorEnd": 3534,
+        "sourceLineNumber": 335,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3530.0,
+      "sourceText": "Je n'écris pas mes mots sur du velours",
+      "ipa": "[ʒə nekʁi pa me mo syʁ dy vəluʁ]",
+      "ear": "热 内克希 帕 梅 莫 西于赫 迪于 弗卢赫",
+      "meaning": "我不会把我的话写在天鹅绒上",
+      "sourceLineId": "donjuan-timed-335-2",
+      "suppliedText": "Je n'ecris pas une lettre d'amour Je n'ecris pas mes mots sur du velours",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3526,
+        "anchorEnd": 3534,
+        "sourceLineNumber": 335,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3534,
+      "sourceText": "C'est du sang des soldats",
+      "ipa": "[sɛ dy sɑ̃ de sɔlda]",
+      "ear": "塞 迪于 桑 德 索勒达",
+      "meaning": "这是士兵的血",
+      "sourceLineId": "donjuan-timed-336-1",
+      "suppliedText": "C'est du sang des soldats L'encre que tu liras Je n'ecris pas combien je t'aime encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3534,
+        "anchorEnd": 3544,
+        "sourceLineNumber": 336,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3536.222,
+      "sourceText": "L'encre que tu liras",
+      "ipa": "[lɑ̃kʁ kə ty liʁa]",
+      "ear": "朗克赫 克 蒂于 利哈",
+      "meaning": "便是你读到的墨水。",
+      "sourceLineId": "donjuan-timed-336-2",
+      "suppliedText": "C'est du sang des soldats L'encre que tu liras Je n'ecris pas combien je t'aime encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3534,
+        "anchorEnd": 3544,
+        "sourceLineNumber": 336,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3538.815,
+      "sourceText": "Je n'écris pas combien je t'aime encore",
+      "ipa": "[ʒə nekʁi pa kɔ̃bjɛ̃ ʒə tɛm‿ɑ̃kɔʁ]",
+      "ear": "热 内克希 帕 孔布耶安 热 泰姆 昂科赫",
+      "meaning": "我没有写下自己依然多么爱你，",
+      "sourceLineId": "donjuan-timed-336-3",
+      "suppliedText": "C'est du sang des soldats L'encre que tu liras Je n'ecris pas combien je t'aime encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3534,
+        "anchorEnd": 3544,
+        "sourceLineNumber": 336,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3544,
+      "sourceText": "Et tous mes pleurs la nuit quand je m'endors",
+      "ipa": "[e tu me plœʁ la nɥi kɑ̃ ʒə mɑ̃dɔʁ]",
+      "ear": "诶 图 梅 普勒厄赫 拉 恩于伊 康 热 芒多赫",
+      "meaning": "也没写下每晚入睡时流的泪。",
+      "sourceLineId": "donjuan-timed-337-1",
+      "suppliedText": "Et tous mes pleurs la nuit quand je m'endors C'est des larmes de moi L'encre que tu liras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3544,
+        "anchorEnd": 3553,
+        "sourceLineNumber": 337,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3548.5,
+      "sourceText": "C'est des larmes de moi",
+      "ipa": "[sɛ de laʁm də mwa]",
+      "ear": "塞 德 拉赫姆 德 姆乌阿",
+      "meaning": "我的泪水，",
+      "sourceLineId": "donjuan-timed-337-2",
+      "suppliedText": "Et tous mes pleurs la nuit quand je m'endors C'est des larmes de moi L'encre que tu liras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3544,
+        "anchorEnd": 3553,
+        "sourceLineNumber": 337,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3550.75,
+      "sourceText": "L'encre que tu liras",
+      "ipa": "[lɑ̃kʁ kə ty liʁa]",
+      "ear": "朗克赫 克 蒂于 利哈",
+      "meaning": "便是你读到的墨水。",
+      "sourceLineId": "donjuan-timed-337-3",
+      "suppliedText": "Et tous mes pleurs la nuit quand je m'endors C'est des larmes de moi L'encre que tu liras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3544,
+        "anchorEnd": 3553,
+        "sourceLineNumber": 337,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3553,
+      "sourceText": "Je n'écris pas une lettre d'amour",
+      "ipa": "[ʒə nekʁi pa yn lɛtʁ damuʁ]",
+      "ear": "热 内克希 帕 于恩 莱特赫 达穆赫",
+      "meaning": "我不是在写情书",
+      "sourceLineId": "donjuan-timed-338-1",
+      "suppliedText": "Je n'ecris pas une lettre d'amour Je n'ecris pas mes mots sur du velours",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3553,
+        "anchorEnd": 3562,
+        "sourceLineNumber": 338,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3557.5,
+      "sourceText": "Je n'écris pas mes mots sur du velours",
+      "ipa": "[ʒə nekʁi pa me mo syʁ dy vəluʁ]",
+      "ear": "热 内克希 帕 梅 莫 西于赫 迪于 弗卢赫",
+      "meaning": "我不会把我的话写在天鹅绒上",
+      "sourceLineId": "donjuan-timed-338-2",
+      "suppliedText": "Je n'ecris pas une lettre d'amour Je n'ecris pas mes mots sur du velours",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3553,
+        "anchorEnd": 3562,
+        "sourceLineNumber": 338,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3562,
+      "sourceText": "C'est du sang des soldats",
+      "ipa": "[sɛ dy sɑ̃ de sɔlda]",
+      "ear": "塞 迪于 桑 德 索勒达",
+      "meaning": "这是士兵的血",
+      "sourceLineId": "donjuan-timed-339-1",
+      "suppliedText": "C'est du sang des soldats L'encre que tu liras Je n'ecris pas combien je t'aime encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3562,
+        "anchorEnd": 3572,
+        "sourceLineNumber": 339,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3564.222,
+      "sourceText": "L'encre que tu liras",
+      "ipa": "[lɑ̃kʁ kə ty liʁa]",
+      "ear": "朗克赫 克 蒂于 利哈",
+      "meaning": "便是你读到的墨水。",
+      "sourceLineId": "donjuan-timed-339-2",
+      "suppliedText": "C'est du sang des soldats L'encre que tu liras Je n'ecris pas combien je t'aime encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3562,
+        "anchorEnd": 3572,
+        "sourceLineNumber": 339,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3566.815,
+      "sourceText": "Je n'écris pas combien je t'aime encore",
+      "ipa": "[ʒə nekʁi pa kɔ̃bjɛ̃ ʒə tɛm‿ɑ̃kɔʁ]",
+      "ear": "热 内克希 帕 孔布耶安 热 泰姆 昂科赫",
+      "meaning": "我没有写下自己依然多么爱你，",
+      "sourceLineId": "donjuan-timed-339-3",
+      "suppliedText": "C'est du sang des soldats L'encre que tu liras Je n'ecris pas combien je t'aime encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3562,
+        "anchorEnd": 3572,
+        "sourceLineNumber": 339,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3572,
+      "sourceText": "Et tous mes pleurs la nuit quand je m'endors",
+      "ipa": "[e tu me plœʁ la nɥi kɑ̃ ʒə mɑ̃dɔʁ]",
+      "ear": "诶 图 梅 普勒厄赫 拉 恩于伊 康 热 芒多赫",
+      "meaning": "也没写下每晚入睡时流的泪。",
+      "sourceLineId": "donjuan-timed-340-1",
+      "suppliedText": "Et tous mes pleurs la nuit quand je m'endors C'est des larmes de moi L'encre que tu liras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3572,
+        "anchorEnd": 3581,
+        "sourceLineNumber": 340,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3576.5,
+      "sourceText": "C'est des larmes de moi",
+      "ipa": "[sɛ de laʁm də mwa]",
+      "ear": "塞 德 拉赫姆 德 姆乌阿",
+      "meaning": "我的泪水，",
+      "sourceLineId": "donjuan-timed-340-2",
+      "suppliedText": "Et tous mes pleurs la nuit quand je m'endors C'est des larmes de moi L'encre que tu liras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3572,
+        "anchorEnd": 3581,
+        "sourceLineNumber": 340,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3578.75,
+      "sourceText": "L'encre que tu liras",
+      "ipa": "[lɑ̃kʁ kə ty liʁa]",
+      "ear": "朗克赫 克 蒂于 利哈",
+      "meaning": "便是你读到的墨水。",
+      "sourceLineId": "donjuan-timed-340-3",
+      "suppliedText": "Et tous mes pleurs la nuit quand je m'endors C'est des larmes de moi L'encre que tu liras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3572,
+        "anchorEnd": 3581,
+        "sourceLineNumber": 340,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3581,
+      "sourceText": "L'encre que tu liras",
+      "ipa": "[lɑ̃kʁ kə ty liʁa]",
+      "ear": "朗克赫 克 蒂于 利哈",
+      "meaning": "便是你读到的墨水。",
+      "sourceLineId": "donjuan-timed-341-1",
+      "suppliedText": "L'encre que tu liras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3581,
+        "anchorEnd": 3585.07,
+        "sourceLineNumber": 341,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,958 @@
+{
+  "videoId": "donjuan-24",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=3867"
+    }
+  ],
+  "entries": [
+    {
+      "start": 3877,
+      "sourceText": "Changer",
+      "ipa": "[ʃɑ̃ʒe]",
+      "ear": "尚热",
+      "meaning": "改变",
+      "sourceLineId": "donjuan-timed-365-1",
+      "suppliedText": "Changer Apres avoir recu l'amour comme un cadeau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3877,
+        "anchorEnd": 3885.46,
+        "sourceLineNumber": 365,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3877.891,
+      "sourceText": "Après avoir reçu l'amour comme un cadeau",
+      "ipa": "[apʁɛ avwaʁ ʁəsy lamuʁ kɔm‿œ̃ kado]",
+      "ear": "阿普赫 阿弗乌阿赫 赫西于 拉穆赫 科姆 恩 卡多",
+      "meaning": "收到爱作为礼物后",
+      "sourceLineId": "donjuan-timed-365-2",
+      "suppliedText": "Changer Apres avoir recu l'amour comme un cadeau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3877,
+        "anchorEnd": 3885.46,
+        "sourceLineNumber": 365,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3886,
+      "sourceText": "Après avoir touché ce qu'il y a de plus haut",
+      "ipa": "[apʁɛ avwaʁ tuʃe sə kil‿i a də ply o]",
+      "ear": "阿普赫 阿弗乌阿赫 图谢 瑟 基勒 伊 阿 德 普吕 奥",
+      "meaning": "触及生命中最崇高的感受之后，",
+      "sourceLineId": "donjuan-timed-366-1",
+      "suppliedText": "Apres avoir touche ce qu'il y a de plus haut Pour lui j'ai change",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3886,
+        "anchorEnd": 3894.89,
+        "sourceLineNumber": 366,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3892.045,
+      "sourceText": "Pour lui j'ai changé",
+      "ipa": "[puʁ lɥi ʒe ʃɑ̃ʒe]",
+      "ear": "普赫 勒于伊 热 尚热",
+      "meaning": "为了他我改变了",
+      "sourceLineId": "donjuan-timed-366-2",
+      "suppliedText": "Apres avoir touche ce qu'il y a de plus haut Pour lui j'ai change",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3886,
+        "anchorEnd": 3894.89,
+        "sourceLineNumber": 366,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3895,
+      "sourceText": "Changer",
+      "ipa": "[ʃɑ̃ʒe]",
+      "ear": "尚热",
+      "meaning": "改变",
+      "sourceLineId": "donjuan-timed-367-1",
+      "suppliedText": "Changer Apres avoir touche le satin de sa peau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3895,
+        "anchorEnd": 3903.41,
+        "sourceLineNumber": 367,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3895.934,
+      "sourceText": "Après avoir touché le satin de sa peau",
+      "ipa": "[apʁɛ avwaʁ tuʃe lə satɛ̃ də sa po]",
+      "ear": "阿普赫 阿弗乌阿赫 图谢 勒 萨坦 德 萨 波",
+      "meaning": "触摸她光滑的皮肤后",
+      "sourceLineId": "donjuan-timed-367-2",
+      "suppliedText": "Changer Apres avoir touche le satin de sa peau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3895,
+        "anchorEnd": 3903.41,
+        "sourceLineNumber": 367,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3904,
+      "sourceText": "Après avoir scié le dernier des barreaux",
+      "ipa": "[apʁɛ avwaʁ sje lə dɛʁnje de baʁo]",
+      "ear": "阿普赫 阿弗乌阿赫 斯耶诶 勒 戴赫恩耶诶 德 巴霍",
+      "meaning": "锯断最后一道栏杆之后。",
+      "sourceLineId": "donjuan-timed-368-1",
+      "suppliedText": "Apres avoir scie le dernier des barreaux Pour elle j'ai change",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3904,
+        "anchorEnd": 3913,
+        "sourceLineNumber": 368,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3910.0,
+      "sourceText": "Pour elle j'ai changé",
+      "ipa": "[puʁ‿ɛl ʒe ʃɑ̃ʒe]",
+      "ear": "普赫 艾勒 热 尚热",
+      "meaning": "为了她我改变了",
+      "sourceLineId": "donjuan-timed-368-2",
+      "suppliedText": "Apres avoir scie le dernier des barreaux Pour elle j'ai change",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3904,
+        "anchorEnd": 3913,
+        "sourceLineNumber": 368,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3913,
+      "sourceText": "Changer pour que l'amour arrive",
+      "ipa": "[ʃɑ̃ʒe puʁ kə lamuʁ‿aʁiv]",
+      "ear": "尚热 普赫 克 拉穆赫 阿希弗",
+      "meaning": "改变，让爱发生",
+      "sourceLineId": "donjuan-timed-369-1",
+      "suppliedText": "Changer pour que l'amour arrive Changer pour que la passion nous delivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3913,
+        "anchorEnd": 3924,
+        "sourceLineNumber": 369,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3917.889,
+      "sourceText": "Changer pour que la passion nous délivre",
+      "ipa": "[ʃɑ̃ʒe puʁ kə la pasjɔ̃ nu delivʁ]",
+      "ear": "尚热 普赫 克 拉 帕斯耶翁 努 德利弗赫",
+      "meaning": "改变，让热情带我们走出牢笼。",
+      "sourceLineId": "donjuan-timed-369-2",
+      "suppliedText": "Changer pour que l'amour arrive Changer pour que la passion nous delivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3913,
+        "anchorEnd": 3924,
+        "sourceLineNumber": 369,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3924,
+      "sourceText": "Pour qu'un jour notre histoire",
+      "ipa": "[puʁ kœ̃ ʒuʁ notʁ‿istwaʁ]",
+      "ear": "普赫 坎 茹赫 诺特赫 伊斯特乌阿赫",
+      "meaning": "让我们有一天的故事，",
+      "sourceLineId": "donjuan-timed-370-1",
+      "suppliedText": "Pour qu'un jour notre histoire Soit ecrite dans les livres Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3924,
+        "anchorEnd": 3933.9,
+        "sourceLineNumber": 370,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3929.165,
+      "sourceText": "Soit écrite dans les livres",
+      "ipa": "[swa ekʁit dɑ̃ le livʁ]",
+      "ear": "斯乌阿 诶克希特 当 莱 利弗赫",
+      "meaning": "被写进书里",
+      "sourceLineId": "donjuan-timed-370-2",
+      "suppliedText": "Pour qu'un jour notre histoire Soit ecrite dans les livres Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3924,
+        "anchorEnd": 3933.9,
+        "sourceLineNumber": 370,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3933.039,
+      "sourceText": "Changer",
+      "ipa": "[ʃɑ̃ʒe]",
+      "ear": "尚热",
+      "meaning": "改变",
+      "sourceLineId": "donjuan-timed-370-3",
+      "suppliedText": "Pour qu'un jour notre histoire Soit ecrite dans les livres Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3924,
+        "anchorEnd": 3933.9,
+        "sourceLineNumber": 370,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3934,
+      "sourceText": "Changer pour que l'amour s'étende",
+      "ipa": "[ʃɑ̃ʒe puʁ kə lamuʁ setɑ̃d]",
+      "ear": "尚热 普赫 克 拉穆赫 塞唐德",
+      "meaning": "改变，让爱情传得更远。",
+      "sourceLineId": "donjuan-timed-371-1",
+      "suppliedText": "Changer pour que l'amour s'etende Des forets de Shanghai a l'Irlande",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3934,
+        "anchorEnd": 3945,
+        "sourceLineNumber": 371,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3939.739,
+      "sourceText": "Des forêts de Shanghai à l'Irlande",
+      "ipa": "[de foʁɛ də ʃɑ̃ɡaj‿a liʁlɑ̃d]",
+      "ear": "德 佛赫 德 尚嘎耶 阿 利赫朗德",
+      "meaning": "从上海的森林，一直到爱尔兰。",
+      "sourceLineId": "donjuan-timed-371-2",
+      "suppliedText": "Changer pour que l'amour s'etende Des forets de Shanghai a l'Irlande",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3934,
+        "anchorEnd": 3945,
+        "sourceLineNumber": 371,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3945,
+      "sourceText": "Pour qu'il n'y ait que l'amour",
+      "ipa": "[puʁ kil ni ɛ kə lamuʁ]",
+      "ear": "普赫 基勒 尼 艾 克 拉穆赫",
+      "meaning": "让一切只剩下爱情。",
+      "sourceLineId": "donjuan-timed-372-1",
+      "suppliedText": "Pour au'il n'y ait que l'amour Quand il faudra se rendre Changer Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3945,
+        "anchorEnd": 3957.74,
+        "sourceLineNumber": 372,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3951.115,
+      "sourceText": "Quand il faudra se rendre",
+      "ipa": "[kɑ̃t‿il fodʁa sə ʁɑ̃dʁ]",
+      "ear": "康特 伊勒 佛德哈 瑟 杭德赫",
+      "meaning": "当我们终究必须认输时。",
+      "sourceLineId": "donjuan-timed-372-2",
+      "suppliedText": "Pour au'il n'y ait que l'amour Quand il faudra se rendre Changer Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3945,
+        "anchorEnd": 3957.74,
+        "sourceLineNumber": 372,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3955.702,
+      "sourceText": "Changer",
+      "ipa": "[ʃɑ̃ʒe]",
+      "ear": "尚热",
+      "meaning": "改变",
+      "sourceLineId": "donjuan-timed-372-3",
+      "suppliedText": "Pour au'il n'y ait que l'amour Quand il faudra se rendre Changer Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3945,
+        "anchorEnd": 3957.74,
+        "sourceLineNumber": 372,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3956.721,
+      "sourceText": "Changer",
+      "ipa": "[ʃɑ̃ʒe]",
+      "ear": "尚热",
+      "meaning": "改变",
+      "sourceLineId": "donjuan-timed-372-4",
+      "suppliedText": "Pour au'il n'y ait que l'amour Quand il faudra se rendre Changer Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3945,
+        "anchorEnd": 3957.74,
+        "sourceLineNumber": 372,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3958,
+      "sourceText": "Pour pouvoir dire un jour que je l'ai trouvé",
+      "ipa": "[puʁ puvwaʁ diʁ‿œ̃ ʒuʁ kə ʒə le tʁuve]",
+      "ear": "普赫 普弗乌阿赫 迪赫 恩 茹赫 克 热 莱 特胡韦",
+      "meaning": "能够说有一天我找到了它",
+      "sourceLineId": "donjuan-timed-373-1",
+      "suppliedText": "Pour pouvoir dire un jour que je l'ai trouve",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3958,
+        "anchorEnd": 3963.51,
+        "sourceLineNumber": 373,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3964,
+      "sourceText": "Le parfum de l'amour et je l'ai gardé",
+      "ipa": "[lə paʁfœ̃ də lamuʁ e ʒə le ɡaʁde]",
+      "ear": "勒 帕赫凡 德 拉穆赫 诶 热 莱 嘎赫德",
+      "meaning": "找到了爱情的芬芳，并将它留住。",
+      "sourceLineId": "donjuan-timed-374-1",
+      "suppliedText": "Le parfum de l'amour et je l'ai garde Pour lui j'ai change",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3964,
+        "anchorEnd": 3973,
+        "sourceLineNumber": 374,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3969.571,
+      "sourceText": "Pour lui j'ai changé",
+      "ipa": "[puʁ lɥi ʒe ʃɑ̃ʒe]",
+      "ear": "普赫 勒于伊 热 尚热",
+      "meaning": "为了他我改变了",
+      "sourceLineId": "donjuan-timed-374-2",
+      "suppliedText": "Le parfum de l'amour et je l'ai garde Pour lui j'ai change",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3964,
+        "anchorEnd": 3973,
+        "sourceLineNumber": 374,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3973,
+      "sourceText": "Changer",
+      "ipa": "[ʃɑ̃ʒe]",
+      "ear": "尚热",
+      "meaning": "改变",
+      "sourceLineId": "donjuan-timed-375-1",
+      "suppliedText": "Changer Quand on est devenu le dernier des hommes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3973,
+        "anchorEnd": 3981.47,
+        "sourceLineNumber": 375,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3974.059,
+      "sourceText": "Quand on est devenu le dernier des hommes",
+      "ipa": "[kɑ̃t‿ɔ̃n‿ɛ dəvny lə dɛʁnje dez‿ɔm]",
+      "ear": "康特 翁恩 艾 德弗尼于 勒 戴赫恩耶诶 德兹 哦姆",
+      "meaning": "当自己成了最卑微的人，",
+      "sourceLineId": "donjuan-timed-375-2",
+      "suppliedText": "Changer Quand on est devenu le dernier des hommes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3973,
+        "anchorEnd": 3981.47,
+        "sourceLineNumber": 375,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3982,
+      "sourceText": "Pour s'être cru le roi quand on est personne",
+      "ipa": "[puʁ sɛtʁ kʁy lə ʁwa kɑ̃t‿ɔ̃n‿ɛ pɛʁsɔn]",
+      "ear": "普赫 塞特赫 克许 勒 赫乌阿 康特 翁恩 艾 佩赫索恩",
+      "meaning": "才发现，原本什么都不是，却曾自以为是君王。",
+      "sourceLineId": "donjuan-timed-376-1",
+      "suppliedText": "Pour s'etre cru le roi quand on est personne Pour elle j'ai change",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3982,
+        "anchorEnd": 3991,
+        "sourceLineNumber": 376,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3987.87,
+      "sourceText": "Pour elle j'ai changé",
+      "ipa": "[puʁ‿ɛl ʒe ʃɑ̃ʒe]",
+      "ear": "普赫 艾勒 热 尚热",
+      "meaning": "为了她我改变了",
+      "sourceLineId": "donjuan-timed-376-2",
+      "suppliedText": "Pour s'etre cru le roi quand on est personne Pour elle j'ai change",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3982,
+        "anchorEnd": 3991,
+        "sourceLineNumber": 376,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3991,
+      "sourceText": "Changer pour que l'amour arrive",
+      "ipa": "[ʃɑ̃ʒe puʁ kə lamuʁ‿aʁiv]",
+      "ear": "尚热 普赫 克 拉穆赫 阿希弗",
+      "meaning": "改变，让爱发生",
+      "sourceLineId": "donjuan-timed-377-1",
+      "suppliedText": "Changer pour que l'amour arrive",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3991,
+        "anchorEnd": 3996,
+        "sourceLineNumber": 377,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3996,
+      "sourceText": "Changer pour que la passion nous délivre",
+      "ipa": "[ʃɑ̃ʒe puʁ kə la pasjɔ̃ nu delivʁ]",
+      "ear": "尚热 普赫 克 拉 帕斯耶翁 努 德利弗赫",
+      "meaning": "改变，让热情带我们走出牢笼。",
+      "sourceLineId": "donjuan-timed-378-1",
+      "suppliedText": "Changer pour que la passion nous delivre Pour qu'un jour notre histoire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3996,
+        "anchorEnd": 4005,
+        "sourceLineNumber": 378,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4001.0,
+      "sourceText": "Pour qu'un jour notre histoire",
+      "ipa": "[puʁ kœ̃ ʒuʁ notʁ‿istwaʁ]",
+      "ear": "普赫 坎 茹赫 诺特赫 伊斯特乌阿赫",
+      "meaning": "让我们有一天的故事，",
+      "sourceLineId": "donjuan-timed-378-2",
+      "suppliedText": "Changer pour que la passion nous delivre Pour qu'un jour notre histoire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3996,
+        "anchorEnd": 4005,
+        "sourceLineNumber": 378,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4005,
+      "sourceText": "Soit écrite dans les livres",
+      "ipa": "[swa ekʁit dɑ̃ le livʁ]",
+      "ear": "斯乌阿 诶克希特 当 莱 利弗赫",
+      "meaning": "被写进书里",
+      "sourceLineId": "donjuan-timed-379-1",
+      "suppliedText": "Soit ecrite dans les livres Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4005,
+        "anchorEnd": 4012,
+        "sourceLineNumber": 379,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4010.727,
+      "sourceText": "Changer",
+      "ipa": "[ʃɑ̃ʒe]",
+      "ear": "尚热",
+      "meaning": "改变",
+      "sourceLineId": "donjuan-timed-379-2",
+      "suppliedText": "Soit ecrite dans les livres Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4005,
+        "anchorEnd": 4012,
+        "sourceLineNumber": 379,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4012,
+      "sourceText": "Changer pour que l'amour s'étende",
+      "ipa": "[ʃɑ̃ʒe puʁ kə lamuʁ setɑ̃d]",
+      "ear": "尚热 普赫 克 拉穆赫 塞唐德",
+      "meaning": "改变，让爱情传得更远。",
+      "sourceLineId": "donjuan-timed-380-1",
+      "suppliedText": "Changer pour que l'amour s'etende",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4012,
+        "anchorEnd": 4017,
+        "sourceLineNumber": 380,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4017,
+      "sourceText": "Des forêts de Shanghai à l'Irlande",
+      "ipa": "[de foʁɛ də ʃɑ̃ɡaj‿a liʁlɑ̃d]",
+      "ear": "德 佛赫 德 尚嘎耶 阿 利赫朗德",
+      "meaning": "从上海的森林，一直到爱尔兰。",
+      "sourceLineId": "donjuan-timed-381-1",
+      "suppliedText": "Des forets de Shanghai a l'Irlande Pour au'il n'y ait que l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4017,
+        "anchorEnd": 4026,
+        "sourceLineNumber": 381,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4021.304,
+      "sourceText": "Pour qu'il n'y ait que l'amour",
+      "ipa": "[puʁ kil ni ɛ kə lamuʁ]",
+      "ear": "普赫 基勒 尼 艾 克 拉穆赫",
+      "meaning": "让一切只剩下爱情。",
+      "sourceLineId": "donjuan-timed-381-2",
+      "suppliedText": "Des forets de Shanghai a l'Irlande Pour au'il n'y ait que l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4017,
+        "anchorEnd": 4026,
+        "sourceLineNumber": 381,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4026,
+      "sourceText": "Quand il faudra se rendre",
+      "ipa": "[kɑ̃t‿il fodʁa sə ʁɑ̃dʁ]",
+      "ear": "康特 伊勒 佛德哈 瑟 杭德赫",
+      "meaning": "当我们终究必须认输时。",
+      "sourceLineId": "donjuan-timed-382-1",
+      "suppliedText": "Quand il faudra se rendre Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4026,
+        "anchorEnd": 4033,
+        "sourceLineNumber": 382,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4031.727,
+      "sourceText": "Changer",
+      "ipa": "[ʃɑ̃ʒe]",
+      "ear": "尚热",
+      "meaning": "改变",
+      "sourceLineId": "donjuan-timed-382-2",
+      "suppliedText": "Quand il faudra se rendre Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4026,
+        "anchorEnd": 4033,
+        "sourceLineNumber": 382,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4033,
+      "sourceText": "Changer pour que l'amour explose",
+      "ipa": "[ʃɑ̃ʒe puʁ kə lamuʁ‿ɛksplɔz]",
+      "ear": "尚热 普赫 克 拉穆赫 艾克斯普洛兹",
+      "meaning": "改变，让爱情盛放，",
+      "sourceLineId": "donjuan-timed-383-1",
+      "suppliedText": "Changer pour que l'amour explose",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4033,
+        "anchorEnd": 4038,
+        "sourceLineNumber": 383,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4038,
+      "sourceText": "En millions de pétales de roses",
+      "ipa": "[ɑ̃ miljɔ̃ də petal də ʁoz]",
+      "ear": "昂 米勒耶翁 德 佩塔勒 德 霍兹",
+      "meaning": "化作无数玫瑰花瓣。",
+      "sourceLineId": "donjuan-timed-384-1",
+      "suppliedText": "En millions de petales de roses Pour qu'il ait plus jamais",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4038,
+        "anchorEnd": 4047,
+        "sourceLineNumber": 384,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4042.714,
+      "sourceText": "Pour qu'il ait plus jamais",
+      "ipa": "[puʁ kil‿ɛ ply ʒamɛ]",
+      "ear": "普赫 基勒 艾 普吕 扎梅",
+      "meaning": "愿我们的心里再也——",
+      "sourceLineId": "donjuan-timed-384-2",
+      "suppliedText": "En millions de petales de roses Pour qu'il ait plus jamais",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4038,
+        "anchorEnd": 4047,
+        "sourceLineNumber": 384,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4047,
+      "sourceText": "Dans nos cœurs autre chose",
+      "ipa": "[dɑ̃ no kœʁ‿otʁ ʃɔz]",
+      "ear": "当 诺 克厄赫 奥特赫 肖兹",
+      "meaning": "容不下爱情之外的东西。",
+      "sourceLineId": "donjuan-timed-385-1",
+      "suppliedText": "Dans nos coeurs autre chose Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4047,
+        "anchorEnd": 4054,
+        "sourceLineNumber": 385,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4052.727,
+      "sourceText": "Changer",
+      "ipa": "[ʃɑ̃ʒe]",
+      "ear": "尚热",
+      "meaning": "改变",
+      "sourceLineId": "donjuan-timed-385-2",
+      "suppliedText": "Dans nos coeurs autre chose Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4047,
+        "anchorEnd": 4054,
+        "sourceLineNumber": 385,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4054,
+      "sourceText": "Changer pour que l'amour arrive",
+      "ipa": "[ʃɑ̃ʒe puʁ kə lamuʁ‿aʁiv]",
+      "ear": "尚热 普赫 克 拉穆赫 阿希弗",
+      "meaning": "改变，让爱发生",
+      "sourceLineId": "donjuan-timed-386-1",
+      "suppliedText": "Changer pour que l'amour arrive Changer pour que la passion nous delivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4054,
+        "anchorEnd": 4065,
+        "sourceLineNumber": 386,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4058.889,
+      "sourceText": "Changer pour que la passion nous délivre",
+      "ipa": "[ʃɑ̃ʒe puʁ kə la pasjɔ̃ nu delivʁ]",
+      "ear": "尚热 普赫 克 拉 帕斯耶翁 努 德利弗赫",
+      "meaning": "改变，让热情带我们走出牢笼。",
+      "sourceLineId": "donjuan-timed-386-2",
+      "suppliedText": "Changer pour que l'amour arrive Changer pour que la passion nous delivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4054,
+        "anchorEnd": 4065,
+        "sourceLineNumber": 386,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4065,
+      "sourceText": "Pour qu'un jour notre histoire",
+      "ipa": "[puʁ kœ̃ ʒuʁ notʁ‿istwaʁ]",
+      "ear": "普赫 坎 茹赫 诺特赫 伊斯特乌阿赫",
+      "meaning": "让我们有一天的故事，",
+      "sourceLineId": "donjuan-timed-387-1",
+      "suppliedText": "Pour qu'un jour notre histoire Soit ecrite dans les livres Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4065,
+        "anchorEnd": 4075,
+        "sourceLineNumber": 387,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4070.217,
+      "sourceText": "Soit écrite dans les livres",
+      "ipa": "[swa ekʁit dɑ̃ le livʁ]",
+      "ear": "斯乌阿 诶克希特 当 莱 利弗赫",
+      "meaning": "被写进书里",
+      "sourceLineId": "donjuan-timed-387-2",
+      "suppliedText": "Pour qu'un jour notre histoire Soit ecrite dans les livres Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4065,
+        "anchorEnd": 4075,
+        "sourceLineNumber": 387,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4074.13,
+      "sourceText": "Changer",
+      "ipa": "[ʃɑ̃ʒe]",
+      "ear": "尚热",
+      "meaning": "改变",
+      "sourceLineId": "donjuan-timed-387-3",
+      "suppliedText": "Pour qu'un jour notre histoire Soit ecrite dans les livres Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4065,
+        "anchorEnd": 4075,
+        "sourceLineNumber": 387,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4075,
+      "sourceText": "Changer pour que l'amour s'étende",
+      "ipa": "[ʃɑ̃ʒe puʁ kə lamuʁ setɑ̃d]",
+      "ear": "尚热 普赫 克 拉穆赫 塞唐德",
+      "meaning": "改变，让爱情传得更远。",
+      "sourceLineId": "donjuan-timed-388-1",
+      "suppliedText": "Changer pour que l'amour s'etende",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4075,
+        "anchorEnd": 4080,
+        "sourceLineNumber": 388,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4080,
+      "sourceText": "Des forêts de Shanghai à l'Irlande",
+      "ipa": "[de foʁɛ də ʃɑ̃ɡaj‿a liʁlɑ̃d]",
+      "ear": "德 佛赫 德 尚嘎耶 阿 利赫朗德",
+      "meaning": "从上海的森林，一直到爱尔兰。",
+      "sourceLineId": "donjuan-timed-389-1",
+      "suppliedText": "Des forets de Shanghai a l'Irlande Pour au'il n'y ait que l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4080,
+        "anchorEnd": 4090,
+        "sourceLineNumber": 389,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4084.783,
+      "sourceText": "Pour qu'il n'y ait que l'amour",
+      "ipa": "[puʁ kil ni ɛ kə lamuʁ]",
+      "ear": "普赫 基勒 尼 艾 克 拉穆赫",
+      "meaning": "让一切只剩下爱情。",
+      "sourceLineId": "donjuan-timed-389-2",
+      "suppliedText": "Des forets de Shanghai a l'Irlande Pour au'il n'y ait que l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4080,
+        "anchorEnd": 4090,
+        "sourceLineNumber": 389,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4090,
+      "sourceText": "Quand il faudra se rendre",
+      "ipa": "[kɑ̃t‿il fodʁa sə ʁɑ̃dʁ]",
+      "ear": "康特 伊勒 佛德哈 瑟 杭德赫",
+      "meaning": "当我们终究必须认输时。",
+      "sourceLineId": "donjuan-timed-390-1",
+      "suppliedText": "Quand il faudra se rendre Changer Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4090,
+        "anchorEnd": 4106.41,
+        "sourceLineNumber": 390,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4101.361,
+      "sourceText": "Changer",
+      "ipa": "[ʃɑ̃ʒe]",
+      "ear": "尚热",
+      "meaning": "改变",
+      "sourceLineId": "donjuan-timed-390-2",
+      "suppliedText": "Quand il faudra se rendre Changer Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4090,
+        "anchorEnd": 4106.41,
+        "sourceLineNumber": 390,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4103.885,
+      "sourceText": "Changer",
+      "ipa": "[ʃɑ̃ʒe]",
+      "ear": "尚热",
+      "meaning": "改变",
+      "sourceLineId": "donjuan-timed-390-3",
+      "suppliedText": "Quand il faudra se rendre Changer Changer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4090,
+        "anchorEnd": 4106.41,
+        "sourceLineNumber": 390,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

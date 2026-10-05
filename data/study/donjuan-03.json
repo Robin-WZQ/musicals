@@ -1,0 +1,940 @@
+{
+  "videoId": "donjuan-03",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=369"
+    }
+  ],
+  "entries": [
+    {
+      "start": 369,
+      "sourceText": "Don Juan...",
+      "ipa": "[dɔ̃ ʒɥɑ̃]",
+      "ear": "东 日于昂",
+      "meaning": "唐璜……",
+      "sourceLineId": "donjuan-timed-15-1",
+      "suppliedText": "3. L'HOMME QUI A TOUT Don Juan...",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 369,
+        "anchorEnd": 380.81,
+        "sourceLineNumber": 15,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 382,
+      "sourceText": "Je le connais depuis longtemps.",
+      "ipa": "[ʒə lə kɔnɛ dəpɥi lɔ̃tɑ̃]",
+      "ear": "热 勒 科奈 德普于伊 隆唐",
+      "meaning": "我认识他很长时间了。",
+      "sourceLineId": "donjuan-timed-16-1",
+      "suppliedText": "Je le connais depuis longtemps. Je le connais depuis toujours. Qu'est-ce que je sais de lui?",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 382,
+        "anchorEnd": 389,
+        "sourceLineNumber": 16,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 384.121,
+      "sourceText": "Je le connais depuis toujours.",
+      "ipa": "[ʒə lə kɔnɛ dəpɥi tuʒuʁ]",
+      "ear": "热 勒 科奈 德普于伊 图茹赫",
+      "meaning": "我从小就认识他。",
+      "sourceLineId": "donjuan-timed-16-2",
+      "suppliedText": "Je le connais depuis longtemps. Je le connais depuis toujours. Qu'est-ce que je sais de lui?",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 382,
+        "anchorEnd": 389,
+        "sourceLineNumber": 16,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 386.667,
+      "sourceText": "Qu'est-ce que je sais de lui?",
+      "ipa": "[kɛskə ʒə sɛ də lɥi]",
+      "ear": "凯斯克 热 塞 德 勒于伊",
+      "meaning": "我对他了解多少？",
+      "sourceLineId": "donjuan-timed-16-3",
+      "suppliedText": "Je le connais depuis longtemps. Je le connais depuis toujours. Qu'est-ce que je sais de lui?",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 382,
+        "anchorEnd": 389,
+        "sourceLineNumber": 16,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 389,
+      "sourceText": "Tout.",
+      "ipa": "[tu]",
+      "ear": "图",
+      "meaning": "一切。",
+      "sourceLineId": "donjuan-timed-17-1",
+      "suppliedText": "Tout. Rien.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 389,
+        "anchorEnd": 391.81,
+        "sourceLineNumber": 17,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 390.405,
+      "sourceText": "Rien.",
+      "ipa": "[ʁiɛ̃]",
+      "ear": "希安",
+      "meaning": "什么也没有。",
+      "sourceLineId": "donjuan-timed-17-2",
+      "suppliedText": "Tout. Rien.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 389,
+        "anchorEnd": 391.81,
+        "sourceLineNumber": 17,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 392,
+      "sourceText": "S'il a souvent les yeux d'un ange",
+      "ipa": "[sil‿a suvɑ̃ lez‿jø dœ̃ ɑ̃ʒ]",
+      "ear": "西勒 阿 苏旺 莱兹 耶厄 丹 昂日",
+      "meaning": "他常有天使般的眼睛，",
+      "sourceLineId": "donjuan-timed-18-1",
+      "suppliedText": "S'il a souvent les yeux d'un ange Il a le coeur noir du demon",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 392,
+        "anchorEnd": 398.86,
+        "sourceLineNumber": 18,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 395.742,
+      "sourceText": "Il a le cœur noir du démon",
+      "ipa": "[il‿a lə kœʁ nwaʁ dy demɔ̃]",
+      "ear": "伊勒 阿 勒 克厄赫 恩乌阿赫 迪于 德蒙",
+      "meaning": "心却黑得像魔鬼。",
+      "sourceLineId": "donjuan-timed-18-2",
+      "suppliedText": "S'il a souvent les yeux d'un ange Il a le coeur noir du demon",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 392,
+        "anchorEnd": 398.86,
+        "sourceLineNumber": 18,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 400,
+      "sourceText": "Mais il a de façon étrange",
+      "ipa": "[mɛ il‿a də fasɔ̃ etʁɑ̃ʒ]",
+      "ear": "梅 伊勒 阿 德 法松 诶特杭日",
+      "meaning": "可他偏偏有一种奇异的——",
+      "sourceLineId": "donjuan-timed-19-1",
+      "suppliedText": "Mais il a de facon etrange Cette force de seduction",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 400,
+        "anchorEnd": 407.11,
+        "sourceLineNumber": 19,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 403.742,
+      "sourceText": "Cette force de séduction",
+      "ipa": "[sɛt fɔʁs də sedyksjɔ̃]",
+      "ear": "塞特 佛赫斯 德 塞迪于克斯耶翁",
+      "meaning": "那股令人着迷的魅力。",
+      "sourceLineId": "donjuan-timed-19-2",
+      "suppliedText": "Mais il a de facon etrange Cette force de seduction",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 400,
+        "anchorEnd": 407.11,
+        "sourceLineNumber": 19,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 409,
+      "sourceText": "Cette assurance qui dérange",
+      "ipa": "[sɛt‿asyʁɑ̃s ki deʁɑ̃ʒ]",
+      "ear": "塞特 阿西于杭斯 基 德杭日",
+      "meaning": "那份令人不安的自信。",
+      "sourceLineId": "donjuan-timed-20-1",
+      "suppliedText": "Cette assurance qui derange Cette envie qui ne veut pas mourir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 409,
+        "anchorEnd": 415.7,
+        "sourceLineNumber": 20,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 411.948,
+      "sourceText": "Cette envie qui ne veut pas mourir",
+      "ipa": "[sɛt‿ɑ̃vi ki nə vø pa muʁiʁ]",
+      "ear": "塞特 昂维 基 讷 弗厄 帕 穆希赫",
+      "meaning": "那永不熄灭的欲望。",
+      "sourceLineId": "donjuan-timed-20-2",
+      "suppliedText": "Cette assurance qui derange Cette envie qui ne veut pas mourir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 409,
+        "anchorEnd": 415.7,
+        "sourceLineNumber": 20,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 417,
+      "sourceText": "Que tout doit lui appartenir",
+      "ipa": "[kə tu dwa lɥi apaʁtəniʁ]",
+      "ear": "克 图 德乌阿 勒于伊 阿帕赫特尼赫",
+      "meaning": "他觉得一切都该属于自己。",
+      "sourceLineId": "donjuan-timed-21-1",
+      "suppliedText": "Que tout doit lui appartenir Je ne sais pas moi qui le connais",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 417,
+        "anchorEnd": 425,
+        "sourceLineNumber": 21,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 420.84,
+      "sourceText": "Je ne sais pas moi qui le connais",
+      "ipa": "[ʒə nə sɛ pa mwa ki lə kɔnɛ]",
+      "ear": "热 讷 塞 帕 姆乌阿 基 勒 科奈",
+      "meaning": "连我这个熟悉他的人也不知道，",
+      "sourceLineId": "donjuan-timed-21-2",
+      "suppliedText": "Que tout doit lui appartenir Je ne sais pas moi qui le connais",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 417,
+        "anchorEnd": 425,
+        "sourceLineNumber": 21,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 425,
+      "sourceText": "Si un cœur battait sous sa veste",
+      "ipa": "[si œ̃ kœʁ batɛ su sa vɛst]",
+      "ear": "西 恩 克厄赫 巴泰 苏 萨 韦斯特",
+      "meaning": "他胸膛里是否真的有一颗心。",
+      "sourceLineId": "donjuan-timed-22-1",
+      "suppliedText": "Si un coeur battait sous sa veste Si ce n'est pas que je l'aimais",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 425,
+        "anchorEnd": 434,
+        "sourceLineNumber": 22,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 429.696,
+      "sourceText": "Si ce n'est pas que je l'aimais",
+      "ipa": "[si sə nɛ pa kə ʒə lɛmɛ]",
+      "ear": "西 瑟 奈 帕 克 热 莱梅",
+      "meaning": "若不是因为我爱他，",
+      "sourceLineId": "donjuan-timed-22-2",
+      "suppliedText": "Si un coeur battait sous sa veste Si ce n'est pas que je l'aimais",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 425,
+        "anchorEnd": 434,
+        "sourceLineNumber": 22,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 434,
+      "sourceText": "Il faudrait que je le déteste",
+      "ipa": "[il fodʁɛ kə ʒə lə detɛst]",
+      "ear": "伊勒 佛德赫 克 热 勒 德泰斯特",
+      "meaning": "我该有多恨他。",
+      "sourceLineId": "donjuan-timed-23-1",
+      "suppliedText": "Il faudrait que je le deteste Je ne pourrais pas l'oublier",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 434,
+        "anchorEnd": 442.74,
+        "sourceLineNumber": 23,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 438.56,
+      "sourceText": "Je ne pourrais pas l'oublier",
+      "ipa": "[ʒə nə puʁɛ pa lublie]",
+      "ear": "热 讷 普赫 帕 卢布利诶",
+      "meaning": "我无法忘记他，",
+      "sourceLineId": "donjuan-timed-23-2",
+      "suppliedText": "Il faudrait que je le deteste Je ne pourrais pas l'oublier",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 434,
+        "anchorEnd": 442.74,
+        "sourceLineNumber": 23,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 443,
+      "sourceText": "Même si au fond je le voulais",
+      "ipa": "[mɛm si o fɔ̃ ʒə lə vulɛ]",
+      "ear": "梅姆 西 奥 丰 热 勒 乌莱",
+      "meaning": "即使内心深处想要忘记。",
+      "sourceLineId": "donjuan-timed-24-1",
+      "suppliedText": "Meme si au fond je le voulais Je l'aime autant que je le hais",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 443,
+        "anchorEnd": 452,
+        "sourceLineNumber": 24,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 447.32,
+      "sourceText": "Je l'aime autant que je le hais",
+      "ipa": "[ʒə lɛm‿otɑ̃ kə ʒə lə ɛ]",
+      "ear": "热 莱姆 奥唐 克 热 勒 艾",
+      "meaning": "我有多爱他，就有多恨他。",
+      "sourceLineId": "donjuan-timed-24-2",
+      "suppliedText": "Meme si au fond je le voulais Je l'aime autant que je le hais",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 443,
+        "anchorEnd": 452,
+        "sourceLineNumber": 24,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 452,
+      "sourceText": "L'homme qui a tout",
+      "ipa": "[lɔm ki a tu]",
+      "ear": "洛姆 基 阿 图",
+      "meaning": "拥有一切的男人",
+      "sourceLineId": "donjuan-timed-25-1",
+      "suppliedText": "L'homme qui a tout Mais qui n'a rien Celui qui veut tout posseder",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 452,
+        "anchorEnd": 461,
+        "sourceLineNumber": 25,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 454.423,
+      "sourceText": "Mais qui n'a rien",
+      "ipa": "[mɛ ki na ʁjɛ̃]",
+      "ear": "梅 基 纳 赫耶安",
+      "meaning": "却又一无所有。",
+      "sourceLineId": "donjuan-timed-25-2",
+      "suppliedText": "L'homme qui a tout Mais qui n'a rien Celui qui veut tout posseder",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 452,
+        "anchorEnd": 461,
+        "sourceLineNumber": 25,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 456.846,
+      "sourceText": "Celui qui veut tout posséder",
+      "ipa": "[səlɥi ki vø tu pɔsede]",
+      "ear": "瑟勒于伊 基 弗厄 图 珀塞德",
+      "meaning": "想要拥有一切的人",
+      "sourceLineId": "donjuan-timed-25-3",
+      "suppliedText": "L'homme qui a tout Mais qui n'a rien Celui qui veut tout posseder",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 452,
+        "anchorEnd": 461,
+        "sourceLineNumber": 25,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 461,
+      "sourceText": "Sans jamais pouvoir le garder",
+      "ipa": "[sɑ̃ ʒamɛ puvwaʁ lə ɡaʁde]",
+      "ear": "桑 扎梅 普弗乌阿赫 勒 嘎赫德",
+      "meaning": "却始终留不住。",
+      "sourceLineId": "donjuan-timed-26-1",
+      "suppliedText": "Sans jamais pouvoir le garder L'homme qui a tout Mais qui ne voit rien",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 461,
+        "anchorEnd": 469.39,
+        "sourceLineNumber": 26,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 464.418,
+      "sourceText": "L'homme qui a tout",
+      "ipa": "[lɔm ki a tu]",
+      "ear": "洛姆 基 阿 图",
+      "meaning": "拥有一切的男人",
+      "sourceLineId": "donjuan-timed-26-2",
+      "suppliedText": "Sans jamais pouvoir le garder L'homme qui a tout Mais qui ne voit rien",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 461,
+        "anchorEnd": 469.39,
+        "sourceLineNumber": 26,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 466.593,
+      "sourceText": "Mais qui ne voit rien",
+      "ipa": "[mɛ ki nə vwa ʁjɛ̃]",
+      "ear": "梅 基 讷 弗乌阿 赫耶安",
+      "meaning": "却看不见，",
+      "sourceLineId": "donjuan-timed-26-3",
+      "suppliedText": "Sans jamais pouvoir le garder L'homme qui a tout Mais qui ne voit rien",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 461,
+        "anchorEnd": 469.39,
+        "sourceLineNumber": 26,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 470,
+      "sourceText": "De l'amour qui passe à côté de lui",
+      "ipa": "[də lamuʁ ki pas‿a kote də lɥi]",
+      "ear": "德 拉穆赫 基 帕斯 阿 科特 德 勒于伊",
+      "meaning": "爱情正从他身边经过，",
+      "sourceLineId": "donjuan-timed-27-1",
+      "suppliedText": "De l'amour qui passe a cote de lui Sans jamais s'arreter S'il a souvent les yeux qui pleurent",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 470,
+        "anchorEnd": 480,
+        "sourceLineNumber": 27,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 474.0,
+      "sourceText": "Sans jamais s'arrêter",
+      "ipa": "[sɑ̃ ʒamɛ saʁɛte]",
+      "ear": "桑 扎梅 萨赫特",
+      "meaning": "从不为他停留。",
+      "sourceLineId": "donjuan-timed-27-2",
+      "suppliedText": "De l'amour qui passe a cote de lui Sans jamais s'arreter S'il a souvent les yeux qui pleurent",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 470,
+        "anchorEnd": 480,
+        "sourceLineNumber": 27,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 476.0,
+      "sourceText": "S'il a souvent les yeux qui pleurent",
+      "ipa": "[sil‿a suvɑ̃ lez‿jø ki plœʁ]",
+      "ear": "西勒 阿 苏旺 莱兹 耶厄 基 普勒厄赫",
+      "meaning": "如果他的眼睛经常流泪",
+      "sourceLineId": "donjuan-timed-27-3",
+      "suppliedText": "De l'amour qui passe a cote de lui Sans jamais s'arreter S'il a souvent les yeux qui pleurent",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 470,
+        "anchorEnd": 480,
+        "sourceLineNumber": 27,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 480,
+      "sourceText": "Ce n'est jamais parce qu'il est triste",
+      "ipa": "[sə nɛ ʒamɛ paʁskil ɛ tʁist]",
+      "ear": "瑟 奈 扎梅 帕赫斯基勒 艾 特希斯特",
+      "meaning": "从来不是因为他伤心",
+      "sourceLineId": "donjuan-timed-28-1",
+      "suppliedText": "Ce n'est jamais parce qu'il est triste C'est que dans le role du menteur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 480,
+        "anchorEnd": 488,
+        "sourceLineNumber": 28,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 484.174,
+      "sourceText": "C'est que dans le rôle du menteur",
+      "ipa": "[sɛ kə dɑ̃ lə ʁol dy mɑ̃tœʁ]",
+      "ear": "塞 克 当 勒 霍勒 迪于 芒特厄赫",
+      "meaning": "只因在说谎这场戏里，",
+      "sourceLineId": "donjuan-timed-28-2",
+      "suppliedText": "Ce n'est jamais parce qu'il est triste C'est que dans le role du menteur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 480,
+        "anchorEnd": 488,
+        "sourceLineNumber": 28,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 488,
+      "sourceText": "Il est le meilleur des artistes",
+      "ipa": "[il‿ɛ lə mɛjœʁ dez‿aʁtist]",
+      "ear": "伊勒 艾 勒 梅耶厄赫 德兹 阿赫蒂斯特",
+      "meaning": "他是最出色的演员。",
+      "sourceLineId": "donjuan-timed-29-1",
+      "suppliedText": "Il est le meilleur des artistes Mais meme moi qui le connais",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 488,
+        "anchorEnd": 496,
+        "sourceLineNumber": 29,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 491.826,
+      "sourceText": "Mais même moi qui le connais",
+      "ipa": "[mɛ mɛm mwa ki lə kɔnɛ]",
+      "ear": "梅 梅姆 姆乌阿 基 勒 科奈",
+      "meaning": "可就连熟悉他的我，",
+      "sourceLineId": "donjuan-timed-29-2",
+      "suppliedText": "Il est le meilleur des artistes Mais meme moi qui le connais",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 488,
+        "anchorEnd": 496,
+        "sourceLineNumber": 29,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 496,
+      "sourceText": "Je ne sais jamais où est l'acteur",
+      "ipa": "[ʒə nə sɛ ʒamɛ u ɛ laktœʁ]",
+      "ear": "热 讷 塞 扎梅 乌 艾 拉克特厄赫",
+      "meaning": "也分不清他何时在演戏。",
+      "sourceLineId": "donjuan-timed-30-1",
+      "suppliedText": "Je ne sais jamais ou est l'acteur Je l'aime aurant que je le hais",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 496,
+        "anchorEnd": 505.83,
+        "sourceLineNumber": 30,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 500.915,
+      "sourceText": "Je l'aime autant que je le hais",
+      "ipa": "[ʒə lɛm‿otɑ̃ kə ʒə lə ɛ]",
+      "ear": "热 莱姆 奥唐 克 热 勒 艾",
+      "meaning": "我有多爱他，就有多恨他。",
+      "sourceLineId": "donjuan-timed-30-2",
+      "suppliedText": "Je ne sais jamais ou est l'acteur Je l'aime aurant que je le hais",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 496,
+        "anchorEnd": 505.83,
+        "sourceLineNumber": 30,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 506,
+      "sourceText": "L'homme qui a tout",
+      "ipa": "[lɔm ki a tu]",
+      "ear": "洛姆 基 阿 图",
+      "meaning": "拥有一切的男人",
+      "sourceLineId": "donjuan-timed-31-1",
+      "suppliedText": "L'homme qui a tout Mais qui n'a rien Celui qui veut tout posseder",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 506,
+        "anchorEnd": 514,
+        "sourceLineNumber": 31,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 508.154,
+      "sourceText": "Mais qui n'a rien",
+      "ipa": "[mɛ ki na ʁjɛ̃]",
+      "ear": "梅 基 纳 赫耶安",
+      "meaning": "却又一无所有。",
+      "sourceLineId": "donjuan-timed-31-2",
+      "suppliedText": "L'homme qui a tout Mais qui n'a rien Celui qui veut tout posseder",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 506,
+        "anchorEnd": 514,
+        "sourceLineNumber": 31,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 510.308,
+      "sourceText": "Celui qui veut tout posséder",
+      "ipa": "[səlɥi ki vø tu pɔsede]",
+      "ear": "瑟勒于伊 基 弗厄 图 珀塞德",
+      "meaning": "想要拥有一切的人",
+      "sourceLineId": "donjuan-timed-31-3",
+      "suppliedText": "L'homme qui a tout Mais qui n'a rien Celui qui veut tout posseder",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 506,
+        "anchorEnd": 514,
+        "sourceLineNumber": 31,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 514,
+      "sourceText": "Sans jamais pouvoir le garder",
+      "ipa": "[sɑ̃ ʒamɛ puvwaʁ lə ɡaʁde]",
+      "ear": "桑 扎梅 普弗乌阿赫 勒 嘎赫德",
+      "meaning": "却始终留不住。",
+      "sourceLineId": "donjuan-timed-32-1",
+      "suppliedText": "Sans jamais pouvoir le garder L'homme qui a tout Mais qui ne voit rien",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 514,
+        "anchorEnd": 522.51,
+        "sourceLineNumber": 32,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 517.467,
+      "sourceText": "L'homme qui a tout",
+      "ipa": "[lɔm ki a tu]",
+      "ear": "洛姆 基 阿 图",
+      "meaning": "拥有一切的男人",
+      "sourceLineId": "donjuan-timed-32-2",
+      "suppliedText": "Sans jamais pouvoir le garder L'homme qui a tout Mais qui ne voit rien",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 514,
+        "anchorEnd": 522.51,
+        "sourceLineNumber": 32,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 519.673,
+      "sourceText": "Mais qui ne voit rien",
+      "ipa": "[mɛ ki nə vwa ʁjɛ̃]",
+      "ear": "梅 基 讷 弗乌阿 赫耶安",
+      "meaning": "却看不见，",
+      "sourceLineId": "donjuan-timed-32-3",
+      "suppliedText": "Sans jamais pouvoir le garder L'homme qui a tout Mais qui ne voit rien",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 514,
+        "anchorEnd": 522.51,
+        "sourceLineNumber": 32,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 523,
+      "sourceText": "De l'amour qui passe à côté de lui",
+      "ipa": "[də lamuʁ ki pas‿a kote də lɥi]",
+      "ear": "德 拉穆赫 基 帕斯 阿 科特 德 勒于伊",
+      "meaning": "爱情正从他身边经过，",
+      "sourceLineId": "donjuan-timed-33-1",
+      "suppliedText": "De l'amour qui passe a cote de lui Sans jamais s'arreter L'homme qui a tout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 523,
+        "anchorEnd": 531,
+        "sourceLineNumber": 33,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 527.0,
+      "sourceText": "Sans jamais s'arrêter",
+      "ipa": "[sɑ̃ ʒamɛ saʁɛte]",
+      "ear": "桑 扎梅 萨赫特",
+      "meaning": "从不为他停留。",
+      "sourceLineId": "donjuan-timed-33-2",
+      "suppliedText": "De l'amour qui passe a cote de lui Sans jamais s'arreter L'homme qui a tout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 523,
+        "anchorEnd": 531,
+        "sourceLineNumber": 33,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 529.0,
+      "sourceText": "L'homme qui a tout",
+      "ipa": "[lɔm ki a tu]",
+      "ear": "洛姆 基 阿 图",
+      "meaning": "拥有一切的男人",
+      "sourceLineId": "donjuan-timed-33-3",
+      "suppliedText": "De l'amour qui passe a cote de lui Sans jamais s'arreter L'homme qui a tout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 523,
+        "anchorEnd": 531,
+        "sourceLineNumber": 33,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 531,
+      "sourceText": "Mais qui ne sait rien",
+      "ipa": "[mɛ ki nə sɛ ʁjɛ̃]",
+      "ear": "梅 基 讷 塞 赫耶安",
+      "meaning": "却什么都不懂，",
+      "sourceLineId": "donjuan-timed-34-1",
+      "suppliedText": "Mais qui ne sait rien De l'ami qui voudrait lui dire Sans avoir peur de le faire rire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 531,
+        "anchorEnd": 540,
+        "sourceLineNumber": 34,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 533.314,
+      "sourceText": "De l'ami qui voudrait lui dire",
+      "ipa": "[də lami ki vudʁɛ lɥi diʁ]",
+      "ear": "德 拉米 基 乌德赫 勒于伊 迪赫",
+      "meaning": "不懂朋友想告诉他的话，",
+      "sourceLineId": "donjuan-timed-34-2",
+      "suppliedText": "Mais qui ne sait rien De l'ami qui voudrait lui dire Sans avoir peur de le faire rire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 531,
+        "anchorEnd": 540,
+        "sourceLineNumber": 34,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 536.657,
+      "sourceText": "Sans avoir peur de le faire rire",
+      "ipa": "[sɑ̃z‿avwaʁ pœʁ də lə fɛʁ ʁiʁ]",
+      "ear": "桑兹 阿弗乌阿赫 珀厄赫 德 勒 费赫 希赫",
+      "meaning": "朋友又怕说出来只换来他的笑声。",
+      "sourceLineId": "donjuan-timed-34-3",
+      "suppliedText": "Mais qui ne sait rien De l'ami qui voudrait lui dire Sans avoir peur de le faire rire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 531,
+        "anchorEnd": 540,
+        "sourceLineNumber": 34,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 540,
+      "sourceText": "Que s'il a tout",
+      "ipa": "[kə sil‿a tu]",
+      "ear": "克 西勒 阿 图",
+      "meaning": "即便他拥有一切，",
+      "sourceLineId": "donjuan-timed-35-1",
+      "suppliedText": "Que s'il a tout Ca ne vaut rien S'il ne sait pas donner un peu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 540,
+        "anchorEnd": 549,
+        "sourceLineNumber": 35,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 542.455,
+      "sourceText": "Ça ne vaut rien",
+      "ipa": "[sa nə vo ʁjɛ̃]",
+      "ear": "萨 讷 沃 赫耶安",
+      "meaning": "也毫无意义。",
+      "sourceLineId": "donjuan-timed-35-2",
+      "suppliedText": "Que s'il a tout Ca ne vaut rien S'il ne sait pas donner un peu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 540,
+        "anchorEnd": 549,
+        "sourceLineNumber": 35,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 544.909,
+      "sourceText": "S'il ne sait pas donner un peu",
+      "ipa": "[sil nə sɛ pa dɔne œ̃ pø]",
+      "ear": "西勒 讷 塞 帕 多内 恩 珀厄",
+      "meaning": "若他连一点付出都不懂，",
+      "sourceLineId": "donjuan-timed-35-3",
+      "suppliedText": "Que s'il a tout Ca ne vaut rien S'il ne sait pas donner un peu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 540,
+        "anchorEnd": 549,
+        "sourceLineNumber": 35,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 549,
+      "sourceText": "Il ne pourra jamais être deux",
+      "ipa": "[il nə puʁa ʒamɛ ɛtʁ dø]",
+      "ear": "伊勒 讷 普哈 扎梅 艾特赫 德厄",
+      "meaning": "他就永远无法与人相伴。",
+      "sourceLineId": "donjuan-timed-36-1",
+      "suppliedText": "Il ne pourra jamais etre deux",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 549,
+        "anchorEnd": 560,
+        "sourceLineNumber": 36,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

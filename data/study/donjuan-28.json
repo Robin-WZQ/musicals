@@ -1,0 +1,634 @@
+{
+  "videoId": "donjuan-28",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=4683"
+    }
+  ],
+  "entries": [
+    {
+      "start": 4706,
+      "sourceText": "Toi qui reviens comme un soldat",
+      "ipa": "[twa ki ʁəvjɛ̃ kɔm‿œ̃ sɔlda]",
+      "ear": "特乌阿 基 赫弗耶安 科姆 恩 索勒达",
+      "meaning": "像士兵一样回来的你",
+      "sourceLineId": "donjuan-timed-455-1",
+      "suppliedText": "Toi qui reviens comme un soldat Fier de tes medailles, tes combats",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4706,
+        "anchorEnd": 4714,
+        "sourceLineNumber": 455,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4710.174,
+      "sourceText": "Fier de tes médailles, tes combats",
+      "ipa": "[fjɛʁ də te medaj te kɔ̃ba]",
+      "ear": "弗耶艾赫 德 特 梅达耶 特 孔巴",
+      "meaning": "为自己的勋章和战功骄傲。",
+      "sourceLineId": "donjuan-timed-455-2",
+      "suppliedText": "Toi qui reviens comme un soldat Fier de tes medailles, tes combats",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4706,
+        "anchorEnd": 4714,
+        "sourceLineNumber": 455,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4714,
+      "sourceText": "Toi qui reviens comme un héros",
+      "ipa": "[twa ki ʁəvjɛ̃ kɔm‿œ̃ eʁo]",
+      "ear": "特乌阿 基 赫弗耶安 科姆 恩 诶霍",
+      "meaning": "英雄归来的你",
+      "sourceLineId": "donjuan-timed-456-1",
+      "suppliedText": "Toi qui reviens comme un heros Sais-tu ce qu'elle a fait sans toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4714,
+        "anchorEnd": 4722.57,
+        "sourceLineNumber": 456,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4718.114,
+      "sourceText": "Sais-tu ce qu'elle a fait sans toi",
+      "ipa": "[sɛty sə kɛl‿a fɛ sɑ̃ twa]",
+      "ear": "塞蒂于 瑟 凯勒 阿 费 桑 特乌阿",
+      "meaning": "你知道没有你她做了什么吗",
+      "sourceLineId": "donjuan-timed-456-2",
+      "suppliedText": "Toi qui reviens comme un heros Sais-tu ce qu'elle a fait sans toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4714,
+        "anchorEnd": 4722.57,
+        "sourceLineNumber": 456,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4724,
+      "sourceText": "Celle que tu aimes ne t'attend pas",
+      "ipa": "[sɛl kə ty ɛm nə tatɑ̃ pa]",
+      "ear": "塞勒 克 蒂于 艾姆 讷 塔唐 帕",
+      "meaning": "你心爱的女人，没有等你。",
+      "sourceLineId": "donjuan-timed-457-1",
+      "suppliedText": "Celle que tu aimes ne t'attend pas Toi qui avais mis ta confiance",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4724,
+        "anchorEnd": 4732,
+        "sourceLineNumber": 457,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4727.84,
+      "sourceText": "Toi qui avais mis ta confiance",
+      "ipa": "[twa ki avɛ mi ta kɔ̃fjɑ̃s]",
+      "ear": "特乌阿 基 阿韦 米 塔 孔弗耶昂斯",
+      "meaning": "你曾把信任交给，",
+      "sourceLineId": "donjuan-timed-457-2",
+      "suppliedText": "Celle que tu aimes ne t'attend pas Toi qui avais mis ta confiance",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4724,
+        "anchorEnd": 4732,
+        "sourceLineNumber": 457,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4732,
+      "sourceText": "Dans les beaux yeux de Maria",
+      "ipa": "[dɑ̃ le boz‿jø də maʁja]",
+      "ear": "当 莱 博兹 耶厄 德 玛赫耶阿",
+      "meaning": "在玛丽亚美丽的眼中。",
+      "sourceLineId": "donjuan-timed-458-1",
+      "suppliedText": "Dans le beaux yeux de Maria C'est avec un autre qu'elle danse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4732,
+        "anchorEnd": 4741,
+        "sourceLineNumber": 458,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4736.5,
+      "sourceText": "C'est avec un autre qu'elle danse",
+      "ipa": "[sɛ avɛk‿œ̃n‿otʁ kɛl dɑ̃s]",
+      "ear": "塞 阿韦克 恩恩 奥特赫 凯勒 当斯",
+      "meaning": "她是和另一个人跳舞",
+      "sourceLineId": "donjuan-timed-458-2",
+      "suppliedText": "Dans le beaux yeux de Maria C'est avec un autre qu'elle danse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4732,
+        "anchorEnd": 4741,
+        "sourceLineNumber": 458,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4741,
+      "sourceText": "Et elle dansera bien crois-moi",
+      "ipa": "[e ɛl dɑ̃sʁa bjɛ̃ kʁwamwa]",
+      "ear": "诶 艾勒 当斯哈 布耶安 克赫乌阿姆乌阿",
+      "meaning": "她会跳得很好，相信我",
+      "sourceLineId": "donjuan-timed-459-1",
+      "suppliedText": "Et elle dansera bien crois-moi Son cavalier etait a moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4741,
+        "anchorEnd": 4749.8,
+        "sourceLineNumber": 459,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4745.591,
+      "sourceText": "Son cavalier était à moi",
+      "ipa": "[sɔ̃ kavalje etɛ a mwa]",
+      "ear": "松 卡瓦勒耶诶 诶泰 阿 姆乌阿",
+      "meaning": "如今陪她跳舞的男人，曾属于我。",
+      "sourceLineId": "donjuan-timed-459-2",
+      "suppliedText": "Et elle dansera bien crois-moi Son cavalier etait a moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4741,
+        "anchorEnd": 4749.8,
+        "sourceLineNumber": 459,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4750,
+      "sourceText": "Venge-nous, venge-toi",
+      "ipa": "[vɑ̃ʒnu vɑ̃ʒtwa]",
+      "ear": "旺日努 旺日特乌阿",
+      "meaning": "为我们复仇，也为你自己。",
+      "sourceLineId": "donjuan-timed-460-1",
+      "suppliedText": "Venge-nous, venge-toi Le prix de la trahison passe par-la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4750,
+        "anchorEnd": 4761,
+        "sourceLineNumber": 460,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4754.632,
+      "sourceText": "Le prix de la trahison passe par-là",
+      "ipa": "[lə pʁi də la tʁaizɔ̃ pas paʁla]",
+      "ear": "勒 普希 德 拉 特哈伊宗 帕斯 帕赫拉",
+      "meaning": "背叛的代价就在那里",
+      "sourceLineId": "donjuan-timed-460-2",
+      "suppliedText": "Venge-nous, venge-toi Le prix de la trahison passe par-la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4750,
+        "anchorEnd": 4761,
+        "sourceLineNumber": 460,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4761,
+      "sourceText": "Venge-toi, venge-nous",
+      "ipa": "[vɑ̃ʒtwa vɑ̃ʒnu]",
+      "ear": "旺日特乌阿 旺日努",
+      "meaning": "报仇，为我们报仇",
+      "sourceLineId": "donjuan-timed-461-1",
+      "suppliedText": "Venge-toi, venge-nous",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4761,
+        "anchorEnd": 4767,
+        "sourceLineNumber": 461,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4767,
+      "sourceText": "Fais ça pour toi, fais ça pour nous",
+      "ipa": "[fɛ sa puʁ twa fɛ sa puʁ nu]",
+      "ear": "费 萨 普赫 特乌阿 费 萨 普赫 努",
+      "meaning": "为你自己，也为我们讨回公道。",
+      "sourceLineId": "donjuan-timed-462-1",
+      "suppliedText": "Fais ca pour toi, fais ca pour nous Moi qui reviens de la guerre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4767,
+        "anchorEnd": 4778.03,
+        "sourceLineNumber": 462,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4772.939,
+      "sourceText": "Moi qui reviens de la guerre",
+      "ipa": "[mwa ki ʁəvjɛ̃ də la ɡɛʁ]",
+      "ear": "姆乌阿 基 赫弗耶安 德 拉 盖赫",
+      "meaning": "我从战争中回来",
+      "sourceLineId": "donjuan-timed-462-2",
+      "suppliedText": "Fais ca pour toi, fais ca pour nous Moi qui reviens de la guerre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4767,
+        "anchorEnd": 4778.03,
+        "sourceLineNumber": 462,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4779,
+      "sourceText": "Je n'y ai pas vu de vipère",
+      "ipa": "[ʒə ni e pa vy də vipɛʁ]",
+      "ear": "热 尼 诶 帕 维于 德 维佩赫",
+      "meaning": "我在那里没有看到任何毒蛇",
+      "sourceLineId": "donjuan-timed-463-1",
+      "suppliedText": "Je n'y ai pas vu de vipere Ayant un venin si violent",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4779,
+        "anchorEnd": 4788,
+        "sourceLineNumber": 463,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4783.5,
+      "sourceText": "Ayant un venin si violent",
+      "ipa": "[ɛjɑ̃ œ̃ vənɛ̃ si vjolɑ̃]",
+      "ear": "艾耶昂 恩 弗南 西 弗耶奥朗",
+      "meaning": "有如此猛烈的毒液",
+      "sourceLineId": "donjuan-timed-463-2",
+      "suppliedText": "Je n'y ai pas vu de vipere Ayant un venin si violent",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4779,
+        "anchorEnd": 4788,
+        "sourceLineNumber": 463,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4788,
+      "sourceText": "Pour me faire tellement mal tellement",
+      "ipa": "[puʁ mə fɛʁ tɛlmɑ̃ mal tɛlmɑ̃]",
+      "ear": "普赫 默 费赫 泰勒芒 玛勒 泰勒芒",
+      "meaning": "伤害我这么深",
+      "sourceLineId": "donjuan-timed-464-1",
+      "suppliedText": "Pour me faire tellement mal tellement Moi qui reviens de l'enfer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4788,
+        "anchorEnd": 4798.03,
+        "sourceLineNumber": 464,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4793.669,
+      "sourceText": "Moi qui reviens de l'enfer",
+      "ipa": "[mwa ki ʁəvjɛ̃ də lɑ̃fɛʁ]",
+      "ear": "姆乌阿 基 赫弗耶安 德 朗费赫",
+      "meaning": "我从地狱回来",
+      "sourceLineId": "donjuan-timed-464-2",
+      "suppliedText": "Pour me faire tellement mal tellement Moi qui reviens de l'enfer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4788,
+        "anchorEnd": 4798.03,
+        "sourceLineNumber": 464,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4799,
+      "sourceText": "Je n'y ai pas vu de panthère",
+      "ipa": "[ʒə ni e pa vy də pɑ̃tɛʁ]",
+      "ear": "热 尼 诶 帕 维于 德 庞泰赫",
+      "meaning": "我在那里没有看到任何豹子",
+      "sourceLineId": "donjuan-timed-465-1",
+      "suppliedText": "Je n'y ai pas vu de panthere Aux griffes et aux crocs si tranchants",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4799,
+        "anchorEnd": 4807,
+        "sourceLineNumber": 465,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4802.81,
+      "sourceText": "Aux griffes et aux crocs si tranchants",
+      "ipa": "[o ɡʁif e o kʁo si tʁɑ̃ʃɑ̃]",
+      "ear": "奥 格希弗 诶 奥 克霍 西 特杭尚",
+      "meaning": "爪子和獠牙如此锋利",
+      "sourceLineId": "donjuan-timed-465-2",
+      "suppliedText": "Je n'y ai pas vu de panthere Aux griffes et aux crocs si tranchants",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4799,
+        "anchorEnd": 4807,
+        "sourceLineNumber": 465,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4807,
+      "sourceText": "Pour me faire tellement mal tellement",
+      "ipa": "[puʁ mə fɛʁ tɛlmɑ̃ mal tɛlmɑ̃]",
+      "ear": "普赫 默 费赫 泰勒芒 玛勒 泰勒芒",
+      "meaning": "伤害我这么深",
+      "sourceLineId": "donjuan-timed-466-1",
+      "suppliedText": "Pour me faire tellement mal tellement Toi qui reviens comme un soldats",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4807,
+        "anchorEnd": 4819,
+        "sourceLineNumber": 466,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4813.24,
+      "sourceText": "Toi qui reviens comme un soldat",
+      "ipa": "[twa ki ʁəvjɛ̃ kɔm‿œ̃ sɔlda]",
+      "ear": "特乌阿 基 赫弗耶安 科姆 恩 索勒达",
+      "meaning": "像士兵一样回来的你",
+      "sourceLineId": "donjuan-timed-466-2",
+      "suppliedText": "Pour me faire tellement mal tellement Toi qui reviens comme un soldats",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4807,
+        "anchorEnd": 4819,
+        "sourceLineNumber": 466,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4819,
+      "sourceText": "Fier de tes médailles, tes combats",
+      "ipa": "[fjɛʁ də te medaj te kɔ̃ba]",
+      "ear": "弗耶艾赫 德 特 梅达耶 特 孔巴",
+      "meaning": "为自己的勋章和战功骄傲。",
+      "sourceLineId": "donjuan-timed-467-1",
+      "suppliedText": "Fier de tes medailles, tes combats Sais-tu qu'ils ont sali ton nom",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4819,
+        "anchorEnd": 4827,
+        "sourceLineNumber": 467,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4823.19,
+      "sourceText": "Sais-tu qu'ils ont sali ton nom",
+      "ipa": "[sɛty kil‿ɔ̃ sali tɔ̃ nɔ̃]",
+      "ear": "塞蒂于 基勒 翁 萨利 通 农",
+      "meaning": "你知道吗，他们玷污了你的名誉",
+      "sourceLineId": "donjuan-timed-467-2",
+      "suppliedText": "Fier de tes medailles, tes combats Sais-tu qu'ils ont sali ton nom",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4819,
+        "anchorEnd": 4827,
+        "sourceLineNumber": 467,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4827,
+      "sourceText": "Et ton honneur à la fois",
+      "ipa": "[e tɔ̃n‿ɔnœʁ‿a la fwa]",
+      "ear": "诶 通恩 哦讷厄赫 阿 拉 弗乌阿",
+      "meaning": "连同你的尊严。",
+      "sourceLineId": "donjuan-timed-468-1",
+      "suppliedText": "Et ton honneur a la fois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4827,
+        "anchorEnd": 4831.65,
+        "sourceLineNumber": 468,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4832,
+      "sourceText": "Venge-toi, venge-moi",
+      "ipa": "[vɑ̃ʒtwa vɑ̃ʒmwa]",
+      "ear": "旺日特乌阿 旺日姆乌阿",
+      "meaning": "报仇，为我报仇",
+      "sourceLineId": "donjuan-timed-469-1",
+      "suppliedText": "Venge-toi, venge-moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4832,
+        "anchorEnd": 4839.88,
+        "sourceLineNumber": 469,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4840,
+      "sourceText": "La souffrance c'est une histoire pour nous",
+      "ipa": "[la sufʁɑ̃s sɛt‿yn‿istwaʁ puʁ nu]",
+      "ear": "拉 苏弗杭斯 塞特 于恩 伊斯特乌阿赫 普赫 努",
+      "meaning": "苦难对我们来说是一个故事",
+      "sourceLineId": "donjuan-timed-470-1",
+      "suppliedText": "La souffrance c'est un histoire pour nous La souffrance c'est une histoire de fous",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4840,
+        "anchorEnd": 4851.69,
+        "sourceLineNumber": 470,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4846.034,
+      "sourceText": "La souffrance c'est une histoire de fous",
+      "ipa": "[la sufʁɑ̃s sɛt‿yn‿istwaʁ də fu]",
+      "ear": "拉 苏弗杭斯 塞特 于恩 伊斯特乌阿赫 德 富",
+      "meaning": "痛苦把人逼得发疯。",
+      "sourceLineId": "donjuan-timed-470-2",
+      "suppliedText": "La souffrance c'est un histoire pour nous La souffrance c'est une histoire de fous",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4840,
+        "anchorEnd": 4851.69,
+        "sourceLineNumber": 470,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4853,
+      "sourceText": "On ne sait plus ce qu'il faut faire après tout",
+      "ipa": "[ɔ̃ nə sɛ ply sə kil fo fɛʁ‿apʁɛ tu]",
+      "ear": "翁 讷 塞 普吕 瑟 基勒 佛 费赫 阿普赫 图",
+      "meaning": "我们终究不知道该怎么办",
+      "sourceLineId": "donjuan-timed-471-1",
+      "suppliedText": "On ne sait plus ce qu'il faut faire apres tout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4853,
+        "anchorEnd": 4859.99,
+        "sourceLineNumber": 471,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4860,
+      "sourceText": "Se venger ou laisser faire la vie",
+      "ipa": "[sə vɑ̃ʒe u lɛse fɛʁ la vi]",
+      "ear": "瑟 旺热 乌 莱塞 费赫 拉 维",
+      "meaning": "是复仇，还是让生活继续？",
+      "sourceLineId": "donjuan-timed-472-1",
+      "suppliedText": "Se venger ou laisser faire la vie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4860,
+        "anchorEnd": 4865.39,
+        "sourceLineNumber": 472,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4867,
+      "sourceText": "Oublier et pleurer seul tant pis",
+      "ipa": "[ublie e pløʁe sœl tɑ̃pi]",
+      "ear": "乌布利诶 诶 普勒厄赫 瑟厄勒 唐皮",
+      "meaning": "还是选择忘记，独自落泪，就此作罢？",
+      "sourceLineId": "donjuan-timed-473-1",
+      "suppliedText": "Oublier et pleurer seul tant pis C'est le dilemme",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4867,
+        "anchorEnd": 4876.57,
+        "sourceLineNumber": 473,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4873.755,
+      "sourceText": "C'est le dilemme",
+      "ipa": "[sɛ lə dilam]",
+      "ear": "塞 勒 迪拉姆",
+      "meaning": "这就是困境",
+      "sourceLineId": "donjuan-timed-473-2",
+      "suppliedText": "Oublier et pleurer seul tant pis C'est le dilemme",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4867,
+        "anchorEnd": 4876.57,
+        "sourceLineNumber": 473,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4877,
+      "sourceText": "Faut-il punir ceux qu'on aime",
+      "ipa": "[fotil pyniʁ sø kɔ̃ ɛm]",
+      "ear": "佛蒂勒 普于尼赫 瑟厄 孔 艾姆",
+      "meaning": "难道要惩罚自己爱的人？",
+      "sourceLineId": "donjuan-timed-474-1",
+      "suppliedText": "Faut-il punir ceux qu'on aime",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4877,
+        "anchorEnd": 4881.99,
+        "sourceLineNumber": 474,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "videoId": "donjuan-20",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=2944"
+    }
+  ],
+  "entries": [
+    {
+      "start": 2953,
+      "sourceText": "Tailler les visages dans la pierre",
+      "ipa": "[taje le vizaʒ dɑ̃ la pjɛʁ]",
+      "ear": "塔耶诶 莱 维扎日 当 拉 普耶艾赫",
+      "meaning": "在石头上雕出面容，",
+      "sourceLineId": "donjuan-timed-276-1",
+      "suppliedText": "Tailler les visages dans la pierre Pour les faire vivre de mes mains C'est le metier que j'aime faire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2953,
+        "anchorEnd": 2961.99,
+        "sourceLineNumber": 276,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2955.916,
+      "sourceText": "Pour les faire vivre de mes mains",
+      "ipa": "[puʁ le fɛʁ vivʁ də me mɛ̃]",
+      "ear": "普赫 莱 费赫 维弗赫 德 梅 曼",
+      "meaning": "用我的双手赋予它们生命。",
+      "sourceLineId": "donjuan-timed-276-2",
+      "suppliedText": "Tailler les visages dans la pierre Pour les faire vivre de mes mains C'est le metier que j'aime faire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2953,
+        "anchorEnd": 2961.99,
+        "sourceLineNumber": 276,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2958.831,
+      "sourceText": "C'est le métier que j'aime faire",
+      "ipa": "[sɛ lə metje kə ʒɛm fɛʁ]",
+      "ear": "塞 勒 梅特耶诶 克 热姆 费赫",
+      "meaning": "这是我喜欢做的工作",
+      "sourceLineId": "donjuan-timed-276-3",
+      "suppliedText": "Tailler les visages dans la pierre Pour les faire vivre de mes mains C'est le metier que j'aime faire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2953,
+        "anchorEnd": 2961.99,
+        "sourceLineNumber": 276,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2962,
+      "sourceText": "Sculpter de la nuit au matin",
+      "ipa": "[skylte də la nɥi o matɛ̃]",
+      "ear": "斯基于勒特 德 拉 恩于伊 奥 玛坦",
+      "meaning": "从晚到早的雕刻",
+      "sourceLineId": "donjuan-timed-277-1",
+      "suppliedText": "Sculpter de la nuit au matin Donner l'amour ou la colere Dans les yeux des statues de pierre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2962,
+        "anchorEnd": 2971.81,
+        "sourceLineNumber": 277,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2964.885,
+      "sourceText": "Donner l'amour ou la colère",
+      "ipa": "[dɔne lamuʁ‿u la kolɛʁ]",
+      "ear": "多内 拉穆赫 乌 拉 科莱赫",
+      "meaning": "刻出爱，或刻出愤怒，",
+      "sourceLineId": "donjuan-timed-277-2",
+      "suppliedText": "Sculpter de la nuit au matin Donner l'amour ou la colere Dans les yeux des statues de pierre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2962,
+        "anchorEnd": 2971.81,
+        "sourceLineNumber": 277,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2968.059,
+      "sourceText": "Dans les yeux des statues de pierre",
+      "ipa": "[dɑ̃ lez‿jø de staty də pjɛʁ]",
+      "ear": "当 莱兹 耶厄 德 斯塔蒂于 德 普耶艾赫",
+      "meaning": "让它们留在石像的眼睛里。",
+      "sourceLineId": "donjuan-timed-277-3",
+      "suppliedText": "Sculpter de la nuit au matin Donner l'amour ou la colere Dans les yeux des statues de pierre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2962,
+        "anchorEnd": 2971.81,
+        "sourceLineNumber": 277,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2972,
+      "sourceText": "Donner le souffle ou le désir",
+      "ipa": "[dɔne lə sufl‿u lə deziʁ]",
+      "ear": "多内 勒 苏弗勒 乌 勒 德齐赫",
+      "meaning": "赋予它呼吸，赋予它欲望，",
+      "sourceLineId": "donjuan-timed-278-1",
+      "suppliedText": "Donner le souffle ou le desir Une envie de renaitre enfin Ou pour aimer ou pour maudire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2972,
+        "anchorEnd": 2981.84,
+        "sourceLineNumber": 278,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2974.848,
+      "sourceText": "Une envie de renaître enfin",
+      "ipa": "[yn‿ɑ̃vi də ʁənɛtʁ‿ɑ̃fɛ̃]",
+      "ear": "于恩 昂维 德 赫奈特赫 昂凡",
+      "meaning": "终于重生的渴望",
+      "sourceLineId": "donjuan-timed-278-2",
+      "suppliedText": "Donner le souffle ou le desir Une envie de renaitre enfin Ou pour aimer ou pour maudire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2972,
+        "anchorEnd": 2981.84,
+        "sourceLineNumber": 278,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2977.956,
+      "sourceText": "Ou pour aimer ou pour maudire",
+      "ipa": "[u puʁ‿ɛme u puʁ modiʁ]",
+      "ear": "乌 普赫 艾梅 乌 普赫 莫迪赫",
+      "meaning": "或者爱，或者咒骂",
+      "sourceLineId": "donjuan-timed-278-3",
+      "suppliedText": "Donner le souffle ou le desir Une envie de renaitre enfin Ou pour aimer ou pour maudire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2972,
+        "anchorEnd": 2981.84,
+        "sourceLineNumber": 278,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2982,
+      "sourceText": "Celle que je sculpte le sait bien",
+      "ipa": "[sɛl kə ʒə skylt lə sɛ bjɛ̃]",
+      "ear": "塞勒 克 热 斯基于勒特 勒 塞 布耶安",
+      "meaning": "我雕刻的人很清楚这一点",
+      "sourceLineId": "donjuan-timed-279-1",
+      "suppliedText": "Celle que je sculpte le sait bien Je sens deja comme un sourir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2982,
+        "anchorEnd": 2988,
+        "sourceLineNumber": 279,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2985.13,
+      "sourceText": "Je sens déjà comme un sourire",
+      "ipa": "[ʒə sɑ̃ deʒa kɔm‿œ̃ suʁiʁ]",
+      "ear": "热 桑 德扎 科姆 恩 苏希赫",
+      "meaning": "我似乎已感觉到一丝微笑，",
+      "sourceLineId": "donjuan-timed-279-2",
+      "suppliedText": "Celle que je sculpte le sait bien Je sens deja comme un sourir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2982,
+        "anchorEnd": 2988,
+        "sourceLineNumber": 279,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2988,
+      "sourceText": "Et l'ombre d'un étrange dessein",
+      "ipa": "[e lɔ̃bʁ dœ̃ etʁɑ̃ʒ dɛsɛ̃]",
+      "ear": "诶 隆布赫 丹 诶特杭日 戴森",
+      "meaning": "还有一个神秘计划的影子。",
+      "sourceLineId": "donjuan-timed-280-1",
+      "suppliedText": "Et l'ombre d'un etrange dessein Parle-moi statue de pierre, statue de bois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2988,
+        "anchorEnd": 2998,
+        "sourceLineNumber": 280,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2991.704,
+      "sourceText": "Parle-moi statue de pierre, statue de bois",
+      "ipa": "[paʁlmwa staty də pjɛʁ staty də bwa]",
+      "ear": "帕赫勒姆乌阿 斯塔蒂于 德 普耶艾赫 斯塔蒂于 德 布乌阿",
+      "meaning": "石像、木像，开口对我说话吧。",
+      "sourceLineId": "donjuan-timed-280-2",
+      "suppliedText": "Et l'ombre d'un etrange dessein Parle-moi statue de pierre, statue de bois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2988,
+        "anchorEnd": 2998,
+        "sourceLineNumber": 280,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2998,
+      "sourceText": "Laisse-moi lire dans tes yeux noirs",
+      "ipa": "[lɛsmwa liʁ dɑ̃ tez‿jø nwaʁ]",
+      "ear": "莱斯姆乌阿 利赫 当 特兹 耶厄 恩乌阿赫",
+      "meaning": "让我读懂你的黑眸",
+      "sourceLineId": "donjuan-timed-281-1",
+      "suppliedText": "Laisse-moi lire dans tes yeux noirs Les souvernirs de ton histoire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2998,
+        "anchorEnd": 3004.99,
+        "sourceLineNumber": 281,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3001.914,
+      "sourceText": "Les souvenirs de ton histoire",
+      "ipa": "[le suvniʁ də tɔ̃n‿istwaʁ]",
+      "ear": "莱 苏弗尼赫 德 通恩 伊斯特乌阿赫",
+      "meaning": "你经历过的故事与回忆。",
+      "sourceLineId": "donjuan-timed-281-2",
+      "suppliedText": "Laisse-moi lire dans tes yeux noirs Les souvernirs de ton histoire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2998,
+        "anchorEnd": 3004.99,
+        "sourceLineNumber": 281,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3005,
+      "sourceText": "Je t'entends, oui je t'entends",
+      "ipa": "[ʒə tɑ̃tɑ̃ wi ʒə tɑ̃tɑ̃]",
+      "ear": "热 唐唐 乌伊 热 唐唐",
+      "meaning": "我听到你了，是的，我听到你了",
+      "sourceLineId": "donjuan-timed-282-1",
+      "suppliedText": "Je t'entends, oui je t'entends Mais qui est Don Juan",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3005,
+        "anchorEnd": 3014.56,
+        "sourceLineNumber": 282,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3010.061,
+      "sourceText": "Mais qui est Don Juan",
+      "ipa": "[mɛ ki ɛ dɔ̃ ʒɥɑ̃]",
+      "ear": "梅 基 艾 东 日于昂",
+      "meaning": "但是唐璜是谁",
+      "sourceLineId": "donjuan-timed-282-2",
+      "suppliedText": "Je t'entends, oui je t'entends Mais qui est Don Juan",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3005,
+        "anchorEnd": 3014.56,
+        "sourceLineNumber": 282,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3015,
+      "sourceText": "Parle-moi statue de pierre, statue de bois",
+      "ipa": "[paʁlmwa staty də pjɛʁ staty də bwa]",
+      "ear": "帕赫勒姆乌阿 斯塔蒂于 德 普耶艾赫 斯塔蒂于 德 布乌阿",
+      "meaning": "石像、木像，开口对我说话吧。",
+      "sourceLineId": "donjuan-timed-283-1",
+      "suppliedText": "Parle-moi statue de pierre, statue de bois Mais qu'est-ce que cet homme t'a fait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3015,
+        "anchorEnd": 3023.94,
+        "sourceLineNumber": 283,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3020.066,
+      "sourceText": "Mais qu'est-ce que cet homme t'a fait",
+      "ipa": "[mɛ kɛskə sɛt ɔm ta fɛ]",
+      "ear": "梅 凯斯克 塞特 哦姆 塔 费",
+      "meaning": "但是这个人对你做了什么？",
+      "sourceLineId": "donjuan-timed-283-2",
+      "suppliedText": "Parle-moi statue de pierre, statue de bois Mais qu'est-ce que cet homme t'a fait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3015,
+        "anchorEnd": 3023.94,
+        "sourceLineNumber": 283,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3024,
+      "sourceText": "Même si la vérité m'effraie",
+      "ipa": "[mɛm si la veʁite mefʁɛ]",
+      "ear": "梅姆 西 拉 韦希特 梅弗赫",
+      "meaning": "即使真相让我害怕",
+      "sourceLineId": "donjuan-timed-284-1",
+      "suppliedText": "Meme si la verite m'effraie Je t'entends, oui je t'entends",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3024,
+        "anchorEnd": 3033.72,
+        "sourceLineNumber": 284,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3029.346,
+      "sourceText": "Je t'entends, oui je t'entends",
+      "ipa": "[ʒə tɑ̃tɑ̃ wi ʒə tɑ̃tɑ̃]",
+      "ear": "热 唐唐 乌伊 热 唐唐",
+      "meaning": "我听到你了，是的，我听到你了",
+      "sourceLineId": "donjuan-timed-284-2",
+      "suppliedText": "Meme si la verite m'effraie Je t'entends, oui je t'entends",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3024,
+        "anchorEnd": 3033.72,
+        "sourceLineNumber": 284,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3034,
+      "sourceText": "Mais qui est Don Juan",
+      "ipa": "[mɛ ki ɛ dɔ̃ ʒɥɑ̃]",
+      "ear": "梅 基 艾 东 日于昂",
+      "meaning": "但是唐璜是谁",
+      "sourceLineId": "donjuan-timed-285-1",
+      "suppliedText": "Mais qui est Don Juan",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3034,
+        "anchorEnd": 3036.96,
+        "sourceLineNumber": 285,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3057,
+      "sourceText": "Parle-moi statue de pierre, statue de bois",
+      "ipa": "[paʁlmwa staty də pjɛʁ staty də bwa]",
+      "ear": "帕赫勒姆乌阿 斯塔蒂于 德 普耶艾赫 斯塔蒂于 德 布乌阿",
+      "meaning": "石像、木像，开口对我说话吧。",
+      "sourceLineId": "donjuan-timed-286-1",
+      "suppliedText": "Parle-moi statue de pierre, statue de bois Mais qu'est-ce que cet homme t'a fait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3057,
+        "anchorEnd": 3066,
+        "sourceLineNumber": 286,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3062.1,
+      "sourceText": "Mais qu'est-ce que cet homme t'a fait",
+      "ipa": "[mɛ kɛskə sɛt ɔm ta fɛ]",
+      "ear": "梅 凯斯克 塞特 哦姆 塔 费",
+      "meaning": "但是这个人对你做了什么？",
+      "sourceLineId": "donjuan-timed-286-2",
+      "suppliedText": "Parle-moi statue de pierre, statue de bois Mais qu'est-ce que cet homme t'a fait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3057,
+        "anchorEnd": 3066,
+        "sourceLineNumber": 286,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3066,
+      "sourceText": "Même si la vérité m'effraie",
+      "ipa": "[mɛm si la veʁite mefʁɛ]",
+      "ear": "梅姆 西 拉 韦希特 梅弗赫",
+      "meaning": "即使真相让我害怕",
+      "sourceLineId": "donjuan-timed-287-1",
+      "suppliedText": "Meme si la verite m'effraie Je t'entends, oui je t'entends",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3066,
+        "anchorEnd": 3076,
+        "sourceLineNumber": 287,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3071.5,
+      "sourceText": "Je t'entends, oui je t'entends",
+      "ipa": "[ʒə tɑ̃tɑ̃ wi ʒə tɑ̃tɑ̃]",
+      "ear": "热 唐唐 乌伊 热 唐唐",
+      "meaning": "我听到你了，是的，我听到你了",
+      "sourceLineId": "donjuan-timed-287-2",
+      "suppliedText": "Meme si la verite m'effraie Je t'entends, oui je t'entends",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3066,
+        "anchorEnd": 3076,
+        "sourceLineNumber": 287,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3076,
+      "sourceText": "Mais qui est Don Juan",
+      "ipa": "[mɛ ki ɛ dɔ̃ ʒɥɑ̃]",
+      "ear": "梅 基 艾 东 日于昂",
+      "meaning": "但是唐璜是谁",
+      "sourceLineId": "donjuan-timed-288-1",
+      "suppliedText": "Mais qui est Don Juan Parle-moi statue de pierre, statue de bois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3076,
+        "anchorEnd": 3085,
+        "sourceLineNumber": 288,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3078.88,
+      "sourceText": "Parle-moi statue de pierre, statue de bois",
+      "ipa": "[paʁlmwa staty də pjɛʁ staty də bwa]",
+      "ear": "帕赫勒姆乌阿 斯塔蒂于 德 普耶艾赫 斯塔蒂于 德 布乌阿",
+      "meaning": "石像、木像，开口对我说话吧。",
+      "sourceLineId": "donjuan-timed-288-2",
+      "suppliedText": "Mais qui est Don Juan Parle-moi statue de pierre, statue de bois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3076,
+        "anchorEnd": 3085,
+        "sourceLineNumber": 288,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3085,
+      "sourceText": "Qui est cet homme si terrible",
+      "ipa": "[ki ɛ sɛt‿ɔm si tɛʁibl]",
+      "ear": "基 艾 塞特 哦姆 西 泰希布勒",
+      "meaning": "这个可怕的男人是谁？",
+      "sourceLineId": "donjuan-timed-289-1",
+      "suppliedText": "Qui est cet homme si terrible Qu'il pourrait cracher sur la bible Et renier ses commandements",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3085,
+        "anchorEnd": 3095,
+        "sourceLineNumber": 289,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3088.226,
+      "sourceText": "Qu'il pourrait cracher sur la bible",
+      "ipa": "[kil puʁɛ kʁaʃe syʁ la bibl]",
+      "ear": "基勒 普赫 克哈谢 西于赫 拉 比布勒",
+      "meaning": "他可以吐口水在圣经上",
+      "sourceLineId": "donjuan-timed-289-2",
+      "suppliedText": "Qui est cet homme si terrible Qu'il pourrait cracher sur la bible Et renier ses commandements",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3085,
+        "anchorEnd": 3095,
+        "sourceLineNumber": 289,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3092.097,
+      "sourceText": "Et renier ses commandements",
+      "ipa": "[e ʁənje se kɔmɑ̃dmɑ̃]",
+      "ear": "诶 赫恩耶诶 塞 科芒德芒",
+      "meaning": "还敢否认其中的戒律。",
+      "sourceLineId": "donjuan-timed-289-3",
+      "suppliedText": "Qui est cet homme si terrible Qu'il pourrait cracher sur la bible Et renier ses commandements",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3085,
+        "anchorEnd": 3095,
+        "sourceLineNumber": 289,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3095,
+      "sourceText": "Mais qui est Don Juan, qui est Don Juan",
+      "ipa": "[mɛ ki ɛ dɔ̃ ʒɥɑ̃ ki ɛ dɔ̃ ʒɥɑ̃]",
+      "ear": "梅 基 艾 东 日于昂 基 艾 东 日于昂",
+      "meaning": "但谁是唐璜，谁是唐璜",
+      "sourceLineId": "donjuan-timed-290-1",
+      "suppliedText": "Mais qui est Don Juan, qui est Don Juan",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3095,
+        "anchorEnd": 3102.46,
+        "sourceLineNumber": 290,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3105,
+      "sourceText": "Don Juan",
+      "ipa": "[dɔ̃ ʒɥɑ̃]",
+      "ear": "东 日于昂",
+      "meaning": "唐璜",
+      "sourceLineId": "donjuan-timed-291-1",
+      "suppliedText": "Don Juan",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3105,
+        "anchorEnd": 3107.44,
+        "sourceLineNumber": 291,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "videoId": "donjuan-19",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=2833"
+    }
+  ],
+  "entries": [
+    {
+      "start": 2833,
+      "sourceText": "Ne la reconnais-tu pas?",
+      "ipa": "[nə la ʁəkɔnɛty pa]",
+      "ear": "讷 拉 赫科奈蒂于 帕",
+      "meaning": "你不认识她了吗？",
+      "sourceLineId": "donjuan-timed-264-1",
+      "suppliedText": "19. LA STATUE DU COMMANDEUR Ne la reconnais-tu pas?",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 2833,
+        "anchorEnd": 2840,
+        "sourceLineNumber": 264,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2840,
+      "sourceText": "C'est la statue du Commandeur",
+      "ipa": "[sɛ la staty dy kɔmɑ̃dœʁ]",
+      "ear": "塞 拉 斯塔蒂于 迪于 科芒德厄赫",
+      "meaning": "这是骑士长的雕像",
+      "sourceLineId": "donjuan-timed-265-1",
+      "suppliedText": "C'est la statue du Commandeur Un homme qui a perdu la vie Parce qu'il n'a pas eu assez peur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2840,
+        "anchorEnd": 2847.94,
+        "sourceLineNumber": 265,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2842.406,
+      "sourceText": "Un homme qui a perdu la vie",
+      "ipa": "[œ̃n‿ɔm ki a pɛʁdy la vi]",
+      "ear": "恩恩 哦姆 基 阿 佩赫迪于 拉 维",
+      "meaning": "一个失去生命的人",
+      "sourceLineId": "donjuan-timed-265-2",
+      "suppliedText": "C'est la statue du Commandeur Un homme qui a perdu la vie Parce qu'il n'a pas eu assez peur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2840,
+        "anchorEnd": 2847.94,
+        "sourceLineNumber": 265,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2845.053,
+      "sourceText": "Parce qu'il n'a pas eu assez peur",
+      "ipa": "[paʁskil na paz y ase pœʁ]",
+      "ear": "帕赫斯基勒 纳 帕兹 于 阿塞 珀厄赫",
+      "meaning": "因为他还不够害怕",
+      "sourceLineId": "donjuan-timed-265-3",
+      "suppliedText": "C'est la statue du Commandeur Un homme qui a perdu la vie Parce qu'il n'a pas eu assez peur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2840,
+        "anchorEnd": 2847.94,
+        "sourceLineNumber": 265,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2849,
+      "sourceText": "C'est la statue d'un homme mort",
+      "ipa": "[sɛ la staty dœ̃ ɔm mɔʁ]",
+      "ear": "塞 拉 斯塔蒂于 丹 哦姆 莫赫",
+      "meaning": "这是一个死人的雕像",
+      "sourceLineId": "donjuan-timed-266-1",
+      "suppliedText": "C'est la statue d'un homme mort Pour avoir provoque le sort Et avoir voulu un instant",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2849,
+        "anchorEnd": 2856,
+        "sourceLineNumber": 266,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2851.1,
+      "sourceText": "Pour avoir provoqué le sort",
+      "ipa": "[puʁ‿avwaʁ pʁovoke lə sɔʁ]",
+      "ear": "普赫 阿弗乌阿赫 普霍沃克 勒 索赫",
+      "meaning": "因为他挑战了命运，",
+      "sourceLineId": "donjuan-timed-266-2",
+      "suppliedText": "C'est la statue d'un homme mort Pour avoir provoque le sort Et avoir voulu un instant",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2849,
+        "anchorEnd": 2856,
+        "sourceLineNumber": 266,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2853.667,
+      "sourceText": "Et avoir voulu un instant",
+      "ipa": "[e avwaʁ vuly œ̃n‿ɛ̃stɑ̃]",
+      "ear": "诶 阿弗乌阿赫 乌吕 恩恩 安斯唐",
+      "meaning": "想要一点时间",
+      "sourceLineId": "donjuan-timed-266-3",
+      "suppliedText": "C'est la statue d'un homme mort Pour avoir provoque le sort Et avoir voulu un instant",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2849,
+        "anchorEnd": 2856,
+        "sourceLineNumber": 266,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2856,
+      "sourceText": "Croiser ton épée, Don Juan",
+      "ipa": "[kʁwaze tɔ̃n‿epe dɔ̃ ʒɥɑ̃]",
+      "ear": "克赫乌阿泽 通恩 诶佩 东 日于昂",
+      "meaning": "与你拔剑相向，唐璜。",
+      "sourceLineId": "donjuan-timed-267-1",
+      "suppliedText": "Croiser ton epee, Don Juan Fais attention, n'approche pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2856,
+        "anchorEnd": 2865.27,
+        "sourceLineNumber": 267,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2860.635,
+      "sourceText": "Fais attention, n'approche pas",
+      "ipa": "[fɛ atɑ̃sjɔ̃ napʁɔʃ pa]",
+      "ear": "费 阿唐斯耶翁 纳普霍什 帕",
+      "meaning": "小心，别靠近",
+      "sourceLineId": "donjuan-timed-267-2",
+      "suppliedText": "Croiser ton epee, Don Juan Fais attention, n'approche pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2856,
+        "anchorEnd": 2865.27,
+        "sourceLineNumber": 267,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2869,
+      "sourceText": "Tu es encore là?",
+      "ipa": "[ty ɛ ɑ̃kɔʁ la]",
+      "ear": "蒂于 艾 昂科赫 拉",
+      "meaning": "你还在吗？",
+      "sourceLineId": "donjuan-timed-268-1",
+      "suppliedText": "Tu es encore la? Je savais que tu reviendrais",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2869,
+        "anchorEnd": 2875.08,
+        "sourceLineNumber": 268,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2871.027,
+      "sourceText": "Je savais que tu reviendrais",
+      "ipa": "[ʒə savɛ kə ty ʁəvjɛ̃dʁɛ]",
+      "ear": "热 萨韦 克 蒂于 赫弗耶安德赫",
+      "meaning": "我就知道你会回来",
+      "sourceLineId": "donjuan-timed-268-2",
+      "suppliedText": "Tu es encore la? Je savais que tu reviendrais",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2869,
+        "anchorEnd": 2875.08,
+        "sourceLineNumber": 268,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2876,
+      "sourceText": "Alors raconte-moi comment on sait",
+      "ipa": "[alɔʁ ʁakɔ̃tmwa kɔmɑ̃ ɔ̃ sɛ]",
+      "ear": "阿洛赫 哈孔特姆乌阿 科芒 翁 塞",
+      "meaning": "那就告诉我，人们怎么知道，",
+      "sourceLineId": "donjuan-timed-269-1",
+      "suppliedText": "Alors raconte-moi comment on sait Dans l'au-dela",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2876,
+        "anchorEnd": 2886.3,
+        "sourceLineNumber": 269,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2883.271,
+      "sourceText": "Dans l'au-delà",
+      "ipa": "[dɑ̃ lodəla]",
+      "ear": "当 洛德拉",
+      "meaning": "在另一个世界里，",
+      "sourceLineId": "donjuan-timed-269-2",
+      "suppliedText": "Alors raconte-moi comment on sait Dans l'au-dela",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2876,
+        "anchorEnd": 2886.3,
+        "sourceLineNumber": 269,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2889,
+      "sourceText": "Est-ce qu'il y en a beaucoup d'autres",
+      "ipa": "[ɛs kil‿i ɑ̃n‿a boku dotʁ]",
+      "ear": "艾斯 基勒 伊 昂恩 阿 博库 多特赫",
+      "meaning": "他们还找了多少人，",
+      "sourceLineId": "donjuan-timed-270-1",
+      "suppliedText": "Est-ce qu'il y en a beaucoup d'autres Ou est-ce qu'ils n'ont trouve comme moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2889,
+        "anchorEnd": 2895.1,
+        "sourceLineNumber": 270,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2892.155,
+      "sourceText": "Ou est-ce qu'ils n'ont trouvé comme moi",
+      "ipa": "[u ɛs kil nɔ̃ tʁuve kɔm mwa]",
+      "ear": "乌 艾斯 基勒 农 特胡韦 科姆 姆乌阿",
+      "meaning": "是不是只找到了我这样的一个人，",
+      "sourceLineId": "donjuan-timed-270-2",
+      "suppliedText": "Est-ce qu'il y en a beaucoup d'autres Ou est-ce qu'ils n'ont trouve comme moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2889,
+        "anchorEnd": 2895.1,
+        "sourceLineNumber": 270,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2897,
+      "sourceText": "Pour leur faire expier leurs fautes",
+      "ipa": "[puʁ lœʁ fɛʁ‿ɛkspje lœʁ fot]",
+      "ear": "普赫 勒厄赫 费赫 艾克斯普耶诶 勒厄赫 佛特",
+      "meaning": "让他们赎罪",
+      "sourceLineId": "donjuan-timed-271-1",
+      "suppliedText": "Pour leur faire expier leurs fautes Je me pardonne, ca suffira",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2897,
+        "anchorEnd": 2905.51,
+        "sourceLineNumber": 271,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2902.319,
+      "sourceText": "Je me pardonne, ça suffira",
+      "ipa": "[ʒə mə paʁdɔn sa syfiʁa]",
+      "ear": "热 默 帕赫多恩 萨 西于菲哈",
+      "meaning": "我原谅自己，这就够了",
+      "sourceLineId": "donjuan-timed-271-2",
+      "suppliedText": "Pour leur faire expier leurs fautes Je me pardonne, ca suffira",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2897,
+        "anchorEnd": 2905.51,
+        "sourceLineNumber": 271,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2909,
+      "sourceText": "Tu blasphèmes, tu blasphèmes encore et toujours",
+      "ipa": "[ty blasfɛm ty blasfɛm‿ɑ̃kɔʁ e tuʒuʁ]",
+      "ear": "蒂于 布拉斯费姆 蒂于 布拉斯费姆 昂科赫 诶 图茹赫",
+      "meaning": "你在亵渎，你依旧不停地亵渎。",
+      "sourceLineId": "donjuan-timed-272-1",
+      "suppliedText": "Tu blaspheme, tu blaspheme encore et toujours",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 2909,
+        "anchorEnd": 2917.96,
+        "sourceLineNumber": 272,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2919,
+      "sourceText": "Tu ne sais pas ce qui t'attend",
+      "ipa": "[ty nə sɛ pa sə ki tatɑ̃]",
+      "ear": "蒂于 讷 塞 帕 瑟 基 塔唐",
+      "meaning": "你不知道什么在等待着你",
+      "sourceLineId": "donjuan-timed-273-1",
+      "suppliedText": "Tu ne sais pas ce qui t'attend Ta punition sera l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2919,
+        "anchorEnd": 2928.71,
+        "sourceLineNumber": 273,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2923.855,
+      "sourceText": "Ta punition sera l'amour",
+      "ipa": "[ta pynisjɔ̃ səʁa lamuʁ]",
+      "ear": "塔 普于尼斯耶翁 瑟哈 拉穆赫",
+      "meaning": "爱情会成为你的惩罚。",
+      "sourceLineId": "donjuan-timed-273-2",
+      "suppliedText": "Tu ne sais pas ce qui t'attend Ta punition sera l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2919,
+        "anchorEnd": 2928.71,
+        "sourceLineNumber": 273,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2931,
+      "sourceText": "L'amour, Don Juan",
+      "ipa": "[lamuʁ dɔ̃ ʒɥɑ̃]",
+      "ear": "拉穆赫 东 日于昂",
+      "meaning": "爱情，唐璜。",
+      "sourceLineId": "donjuan-timed-274-1",
+      "suppliedText": "L'amour, Don Juan",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 2931,
+        "anchorEnd": 2936.32,
+        "sourceLineNumber": 274,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

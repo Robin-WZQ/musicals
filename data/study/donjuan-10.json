@@ -1,0 +1,778 @@
+{
+  "videoId": "donjuan-10",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=1160"
+    }
+  ],
+  "entries": [
+    {
+      "start": 1160,
+      "sourceText": "Je t'aime",
+      "ipa": "[ʒə tɛm]",
+      "ear": "热 泰姆",
+      "meaning": "我爱你",
+      "sourceLineId": "donjuan-timed-100-1",
+      "suppliedText": "10. MON FILS Je t'aime",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 1160,
+        "anchorEnd": 1168.18,
+        "sourceLineNumber": 100,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1173,
+      "sourceText": "Plus que personne au monde ne pourra t'aimer",
+      "ipa": "[ply kə pɛʁsɔn‿o mɔ̃d nə puʁa tɛme]",
+      "ear": "普吕 克 佩赫索恩 奥 蒙德 讷 普哈 泰梅",
+      "meaning": "比世上任何人都更爱你。",
+      "sourceLineId": "donjuan-timed-101-1",
+      "suppliedText": "Plus que personne au monde ne pourra t'aimer Mon fils, pour qui je donnerais mes bras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1173,
+        "anchorEnd": 1183.88,
+        "sourceLineNumber": 101,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1179.165,
+      "sourceText": "Mon fils, pour qui je donnerais mes bras",
+      "ipa": "[mɔ̃ fis puʁ ki ʒə dɔnʁɛ me bʁa]",
+      "ear": "蒙 菲斯 普赫 基 热 多恩赫 梅 布哈",
+      "meaning": "儿子，为了你，我愿失去双臂，",
+      "sourceLineId": "donjuan-timed-101-2",
+      "suppliedText": "Plus que personne au monde ne pourra t'aimer Mon fils, pour qui je donnerais mes bras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1173,
+        "anchorEnd": 1183.88,
+        "sourceLineNumber": 101,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1184,
+      "sourceText": "Pour qui je donnerais mes yeux, je crois",
+      "ipa": "[puʁ ki ʒə dɔnʁɛ mez‿jø ʒə kʁwa]",
+      "ear": "普赫 基 热 多恩赫 梅兹 耶厄 热 克赫乌阿",
+      "meaning": "我想，也愿失去双眼。",
+      "sourceLineId": "donjuan-timed-102-1",
+      "suppliedText": "Pour qui je donnairais mes yeux, je crois Pour qui un jour ma femme a pleure De douleur et de joie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1184,
+        "anchorEnd": 1193.49,
+        "sourceLineNumber": 102,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1187.796,
+      "sourceText": "Pour qui un jour ma femme a pleuré",
+      "ipa": "[puʁ ki œ̃ ʒuʁ ma fam‿a pløʁe]",
+      "ear": "普赫 基 恩 茹赫 玛 法姆 阿 普勒厄赫",
+      "meaning": "当年，你母亲为你流下眼泪，",
+      "sourceLineId": "donjuan-timed-102-2",
+      "suppliedText": "Pour qui je donnairais mes yeux, je crois Pour qui un jour ma femme a pleure De douleur et de joie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1184,
+        "anchorEnd": 1193.49,
+        "sourceLineNumber": 102,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1191.118,
+      "sourceText": "De douleur et de joie",
+      "ipa": "[də dulœʁ e də ʒwa]",
+      "ear": "德 杜勒厄赫 诶 德 日乌阿",
+      "meaning": "既有痛苦，也有喜悦。",
+      "sourceLineId": "donjuan-timed-102-3",
+      "suppliedText": "Pour qui je donnairais mes yeux, je crois Pour qui un jour ma femme a pleure De douleur et de joie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1184,
+        "anchorEnd": 1193.49,
+        "sourceLineNumber": 102,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1195,
+      "sourceText": "Si au fond je ne te connais pas",
+      "ipa": "[si o fɔ̃ ʒə nə tə kɔnɛ pa]",
+      "ear": "西 奥 丰 热 讷 特 科奈 帕",
+      "meaning": "即使我并不真正了解你，",
+      "sourceLineId": "donjuan-timed-103-1",
+      "suppliedText": "Si au fond je ne te connais pas Ne deviens pas le traitre pour moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1195,
+        "anchorEnd": 1199.93,
+        "sourceLineNumber": 103,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1197.26,
+      "sourceText": "Ne deviens pas le traître pour moi",
+      "ipa": "[nə dəvjɛ̃ pa lə tʁɛtʁ puʁ mwa]",
+      "ear": "讷 德弗耶安 帕 勒 特赫特赫 普赫 姆乌阿",
+      "meaning": "也别让我觉得你背弃了我。",
+      "sourceLineId": "donjuan-timed-103-2",
+      "suppliedText": "Si au fond je ne te connais pas Ne deviens pas le traitre pour moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1195,
+        "anchorEnd": 1199.93,
+        "sourceLineNumber": 103,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1200,
+      "sourceText": "Mon fils, je ne me battrai pas",
+      "ipa": "[mɔ̃ fis ʒə nə mə batʁe pa]",
+      "ear": "蒙 菲斯 热 讷 默 巴特赫 帕",
+      "meaning": "儿子，我不会替你战斗。",
+      "sourceLineId": "donjuan-timed-104-1",
+      "suppliedText": "Mon fils, je ne me battrai pas Personne ne vit ta vie pour toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1200,
+        "anchorEnd": 1211,
+        "sourceLineNumber": 104,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1204.714,
+      "sourceText": "Personne ne vit ta vie pour toi",
+      "ipa": "[pɛʁsɔn nə vi ta vi puʁ twa]",
+      "ear": "佩赫索恩 讷 维 塔 维 普赫 特乌阿",
+      "meaning": "没人能替你过这一生。",
+      "sourceLineId": "donjuan-timed-104-2",
+      "suppliedText": "Mon fils, je ne me battrai pas Personne ne vit ta vie pour toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1200,
+        "anchorEnd": 1211,
+        "sourceLineNumber": 104,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1211,
+      "sourceText": "C'est que ton reflet dans la glace",
+      "ipa": "[sɛ kə tɔ̃ ʁəflɛ dɑ̃ la ɡlas]",
+      "ear": "塞 克 通 赫弗莱 当 拉 格拉斯",
+      "meaning": "镜中映出的，终究只是你自己。",
+      "sourceLineId": "donjuan-timed-105-1",
+      "suppliedText": "C'est que ton reflet dans la glace Personne ne te pardonnera Perosnne n'aura mal a ta place",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1211,
+        "anchorEnd": 1220.42,
+        "sourceLineNumber": 105,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1214.14,
+      "sourceText": "Personne ne te pardonnera",
+      "ipa": "[pɛʁsɔn nə tə paʁdɔnʁa]",
+      "ear": "佩赫索恩 讷 特 帕赫多恩哈",
+      "meaning": "没有人会原谅你",
+      "sourceLineId": "donjuan-timed-105-2",
+      "suppliedText": "C'est que ton reflet dans la glace Personne ne te pardonnera Perosnne n'aura mal a ta place",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1211,
+        "anchorEnd": 1220.42,
+        "sourceLineNumber": 105,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1216.966,
+      "sourceText": "Personne n'aura mal à ta place",
+      "ipa": "[pɛʁsɔn noʁa mal‿a ta plas]",
+      "ear": "佩赫索恩 诺哈 玛勒 阿 塔 普拉斯",
+      "meaning": "没人能替你承受痛苦。",
+      "sourceLineId": "donjuan-timed-105-3",
+      "suppliedText": "C'est que ton reflet dans la glace Personne ne te pardonnera Perosnne n'aura mal a ta place",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1211,
+        "anchorEnd": 1220.42,
+        "sourceLineNumber": 105,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1221,
+      "sourceText": "Personne ne sentira le froid",
+      "ipa": "[pɛʁsɔn nə sɑ̃tiʁa lə fʁwa]",
+      "ear": "佩赫索恩 讷 桑蒂哈 勒 弗赫乌阿",
+      "meaning": "没人能替你感受——",
+      "sourceLineId": "donjuan-timed-106-1",
+      "suppliedText": "Personne ne sentira le froid Au fond de ton coeur quand tu passes Personne ne vit ta vie pour toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1221,
+        "anchorEnd": 1230.32,
+        "sourceLineNumber": 106,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1223.741,
+      "sourceText": "Au fond de ton cœur quand tu passes",
+      "ipa": "[o fɔ̃ də tɔ̃ kœʁ kɑ̃ ty pas]",
+      "ear": "奥 丰 德 通 克厄赫 康 蒂于 帕斯",
+      "meaning": "你走过时，心底的寒冷。",
+      "sourceLineId": "donjuan-timed-106-2",
+      "suppliedText": "Personne ne sentira le froid Au fond de ton coeur quand tu passes Personne ne vit ta vie pour toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1221,
+        "anchorEnd": 1230.32,
+        "sourceLineNumber": 106,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1227.031,
+      "sourceText": "Personne ne vit ta vie pour toi",
+      "ipa": "[pɛʁsɔn nə vi ta vi puʁ twa]",
+      "ear": "佩赫索恩 讷 维 塔 维 普赫 特乌阿",
+      "meaning": "没人能替你过这一生。",
+      "sourceLineId": "donjuan-timed-106-3",
+      "suppliedText": "Personne ne sentira le froid Au fond de ton coeur quand tu passes Personne ne vit ta vie pour toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1221,
+        "anchorEnd": 1230.32,
+        "sourceLineNumber": 106,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1232,
+      "sourceText": "Mon fils, toi qui devras porter mon nom,",
+      "ipa": "[mɔ̃ fis twa ki dəvʁa pɔʁte mɔ̃ nɔ̃]",
+      "ear": "蒙 菲斯 特乌阿 基 德弗哈 珀赫特 蒙 农",
+      "meaning": "儿子，你将继承我的姓氏，",
+      "sourceLineId": "donjuan-timed-107-1",
+      "suppliedText": "Mon fils, toi qui devras porter mon nom, Fasse que ce soit pour le bien",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1232,
+        "anchorEnd": 1240.66,
+        "sourceLineNumber": 107,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1236.33,
+      "sourceText": "Fasse que ce soit pour le bien",
+      "ipa": "[fas kə sə swa puʁ lə bjɛ̃]",
+      "ear": "法斯 克 瑟 斯乌阿 普赫 勒 布耶安",
+      "meaning": "愿你用它做好事。",
+      "sourceLineId": "donjuan-timed-107-2",
+      "suppliedText": "Mon fils, toi qui devras porter mon nom, Fasse que ce soit pour le bien",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1232,
+        "anchorEnd": 1240.66,
+        "sourceLineNumber": 107,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1242,
+      "sourceText": "Et qu'un jour ce soit ma raison",
+      "ipa": "[e kœ̃ ʒuʁ sə swa ma ʁɛzɔ̃]",
+      "ear": "诶 坎 茹赫 瑟 斯乌阿 玛 赫宗",
+      "meaning": "愿有一天，你能给我一个理由，",
+      "sourceLineId": "donjuan-timed-108-1",
+      "suppliedText": "Et qu'un jour ce soit ma raison D'etre fier de porter le tien",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1242,
+        "anchorEnd": 1246.92,
+        "sourceLineNumber": 108,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1244.684,
+      "sourceText": "D'être fier de porter le tien",
+      "ipa": "[dɛtʁ fjɛʁ də pɔʁte lə tjɛ̃]",
+      "ear": "戴特赫 弗耶艾赫 德 珀赫特 勒 特耶安",
+      "meaning": "让我也能为你的名字感到骄傲。",
+      "sourceLineId": "donjuan-timed-108-2",
+      "suppliedText": "Et qu'un jour ce soit ma raison D'etre fier de porter le tien",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1242,
+        "anchorEnd": 1246.92,
+        "sourceLineNumber": 108,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1248,
+      "sourceText": "Si les chemins que tu choisis ne sont pas ceux",
+      "ipa": "[si le ʃəmɛ̃ kə ty ʃwazi nə sɔ̃ pa sø]",
+      "ear": "西 莱 舍曼 克 蒂于 什乌阿齐 讷 松 帕 瑟厄",
+      "meaning": "即使你选的路，和我的不同，",
+      "sourceLineId": "donjuan-timed-109-1",
+      "suppliedText": "Si les chemins que tu choisis ne sont pas ceux Que j'aurais pris",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1248,
+        "anchorEnd": 1253.73,
+        "sourceLineNumber": 109,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1251.907,
+      "sourceText": "Que j'aurais pris",
+      "ipa": "[kə ʒoʁɛ pʁi]",
+      "ear": "克 若赫 普希",
+      "meaning": "即使我会走向另一个方向。",
+      "sourceLineId": "donjuan-timed-109-2",
+      "suppliedText": "Si les chemins que tu choisis ne sont pas ceux Que j'aurais pris",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1248,
+        "anchorEnd": 1253.73,
+        "sourceLineNumber": 109,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1254,
+      "sourceText": "Mon fils, écoute je t'en prie",
+      "ipa": "[mɔ̃ fis ekut ʒə tɑ̃ pʁi]",
+      "ear": "蒙 菲斯 诶库特 热 唐 普希",
+      "meaning": "我的儿子，请听我说",
+      "sourceLineId": "donjuan-timed-110-1",
+      "suppliedText": "Mon fils, ecoute je t'en prie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 1254,
+        "anchorEnd": 1261.39,
+        "sourceLineNumber": 110,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1262,
+      "sourceText": "Personne ne vit ta vie pour toi",
+      "ipa": "[pɛʁsɔn nə vi ta vi puʁ twa]",
+      "ear": "佩赫索恩 讷 维 塔 维 普赫 特乌阿",
+      "meaning": "没人能替你过这一生。",
+      "sourceLineId": "donjuan-timed-111-1",
+      "suppliedText": "Personne ne vit ta vie pour toi C'est que ton reflet dans la glace Personne ne te pardonnera",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1262,
+        "anchorEnd": 1271,
+        "sourceLineNumber": 111,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1265.484,
+      "sourceText": "C'est que ton reflet dans la glace",
+      "ipa": "[sɛ kə tɔ̃ ʁəflɛ dɑ̃ la ɡlas]",
+      "ear": "塞 克 通 赫弗莱 当 拉 格拉斯",
+      "meaning": "镜中映出的，终究只是你自己。",
+      "sourceLineId": "donjuan-timed-111-2",
+      "suppliedText": "Personne ne vit ta vie pour toi C'est que ton reflet dans la glace Personne ne te pardonnera",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1262,
+        "anchorEnd": 1271,
+        "sourceLineNumber": 111,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1268.387,
+      "sourceText": "Personne ne te pardonnera",
+      "ipa": "[pɛʁsɔn nə tə paʁdɔnʁa]",
+      "ear": "佩赫索恩 讷 特 帕赫多恩哈",
+      "meaning": "没有人会原谅你",
+      "sourceLineId": "donjuan-timed-111-3",
+      "suppliedText": "Personne ne vit ta vie pour toi C'est que ton reflet dans la glace Personne ne te pardonnera",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1262,
+        "anchorEnd": 1271,
+        "sourceLineNumber": 111,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1271,
+      "sourceText": "Personne n'aura mal à ta place",
+      "ipa": "[pɛʁsɔn noʁa mal‿a ta plas]",
+      "ear": "佩赫索恩 诺哈 玛勒 阿 塔 普拉斯",
+      "meaning": "没人能替你承受痛苦。",
+      "sourceLineId": "donjuan-timed-112-1",
+      "suppliedText": "Perosnne n'aura mal a ta place Personne ne sentira le froid Au fond de ton coeur quand tu passes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1271,
+        "anchorEnd": 1280.37,
+        "sourceLineNumber": 112,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1274.123,
+      "sourceText": "Personne ne sentira le froid",
+      "ipa": "[pɛʁsɔn nə sɑ̃tiʁa lə fʁwa]",
+      "ear": "佩赫索恩 讷 桑蒂哈 勒 弗赫乌阿",
+      "meaning": "没人能替你感受——",
+      "sourceLineId": "donjuan-timed-112-2",
+      "suppliedText": "Perosnne n'aura mal a ta place Personne ne sentira le froid Au fond de ton coeur quand tu passes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1271,
+        "anchorEnd": 1280.37,
+        "sourceLineNumber": 112,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1276.963,
+      "sourceText": "Au fond de ton cœur quand tu passes",
+      "ipa": "[o fɔ̃ də tɔ̃ kœʁ kɑ̃ ty pas]",
+      "ear": "奥 丰 德 通 克厄赫 康 蒂于 帕斯",
+      "meaning": "你走过时，心底的寒冷。",
+      "sourceLineId": "donjuan-timed-112-3",
+      "suppliedText": "Perosnne n'aura mal a ta place Personne ne sentira le froid Au fond de ton coeur quand tu passes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1271,
+        "anchorEnd": 1280.37,
+        "sourceLineNumber": 112,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1281,
+      "sourceText": "Personne ne vit ta vie pour toi",
+      "ipa": "[pɛʁsɔn nə vi ta vi puʁ twa]",
+      "ear": "佩赫索恩 讷 维 塔 维 普赫 特乌阿",
+      "meaning": "没人能替你过这一生。",
+      "sourceLineId": "donjuan-timed-113-1",
+      "suppliedText": "Personne ne vit ta vie pour toi Meme ces femmes qui t'ont aime N'ont mal que pour elles quelque fois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1281,
+        "anchorEnd": 1289,
+        "sourceLineNumber": 113,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1283.595,
+      "sourceText": "Même ces femmes qui t'ont aimé",
+      "ipa": "[mɛm se fam ki tɔ̃ ɛme]",
+      "ear": "梅姆 塞 法姆 基 通 艾梅",
+      "meaning": "即使是这些爱你的女人",
+      "sourceLineId": "donjuan-timed-113-2",
+      "suppliedText": "Personne ne vit ta vie pour toi Meme ces femmes qui t'ont aime N'ont mal que pour elles quelque fois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1281,
+        "anchorEnd": 1289,
+        "sourceLineNumber": 113,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1285.973,
+      "sourceText": "N'ont mal que pour elles quelque fois",
+      "ipa": "[nɔ̃ mal kə puʁ‿ɛl kɛlkə fwa]",
+      "ear": "农 玛勒 克 普赫 艾勒 凯勒克 弗乌阿",
+      "meaning": "有时也只会为自己伤心。",
+      "sourceLineId": "donjuan-timed-113-3",
+      "suppliedText": "Personne ne vit ta vie pour toi Meme ces femmes qui t'ont aime N'ont mal que pour elles quelque fois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1281,
+        "anchorEnd": 1289,
+        "sourceLineNumber": 113,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1289,
+      "sourceText": "Personne ne pourra oublier",
+      "ipa": "[pɛʁsɔn nə puʁa ublie]",
+      "ear": "佩赫索恩 讷 普哈 乌布利诶",
+      "meaning": "没有人能够忘记",
+      "sourceLineId": "donjuan-timed-114-1",
+      "suppliedText": "Personne ne pourra oublier Ce que tu auras fait de toi Ce que tu auras merite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1289,
+        "anchorEnd": 1297.51,
+        "sourceLineNumber": 114,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1291.837,
+      "sourceText": "Ce que tu auras fait de toi",
+      "ipa": "[sə kə ty oʁa fɛ də twa]",
+      "ear": "瑟 克 蒂于 奥哈 费 德 特乌阿",
+      "meaning": "你最终把自己变成了什么人，",
+      "sourceLineId": "donjuan-timed-114-2",
+      "suppliedText": "Personne ne pourra oublier Ce que tu auras fait de toi Ce que tu auras merite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1289,
+        "anchorEnd": 1297.51,
+        "sourceLineNumber": 114,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1294.931,
+      "sourceText": "Ce que tu auras mérité",
+      "ipa": "[sə kə ty oʁa meʁite]",
+      "ear": "瑟 克 蒂于 奥哈 梅希特",
+      "meaning": "得到了怎样的报偿。",
+      "sourceLineId": "donjuan-timed-114-3",
+      "suppliedText": "Personne ne pourra oublier Ce que tu auras fait de toi Ce que tu auras merite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1289,
+        "anchorEnd": 1297.51,
+        "sourceLineNumber": 114,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1298,
+      "sourceText": "Personne ne vit ta vie pour toi",
+      "ipa": "[pɛʁsɔn nə vi ta vi puʁ twa]",
+      "ear": "佩赫索恩 讷 维 塔 维 普赫 特乌阿",
+      "meaning": "没人能替你过这一生。",
+      "sourceLineId": "donjuan-timed-115-1",
+      "suppliedText": "Personne ne vit ta vie pour toi Tu traceras seul le chemin Ce n'est que toi qui choisiras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1298,
+        "anchorEnd": 1306,
+        "sourceLineNumber": 115,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1300.909,
+      "sourceText": "Tu traceras seul le chemin",
+      "ipa": "[ty tʁasʁa sœl lə ʃəmɛ̃]",
+      "ear": "蒂于 特哈斯哈 瑟厄勒 勒 舍曼",
+      "meaning": "这条路，要由你自己走出来。",
+      "sourceLineId": "donjuan-timed-115-2",
+      "suppliedText": "Personne ne vit ta vie pour toi Tu traceras seul le chemin Ce n'est que toi qui choisiras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1298,
+        "anchorEnd": 1306,
+        "sourceLineNumber": 115,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1303.091,
+      "sourceText": "Ce n'est que toi qui choisiras",
+      "ipa": "[sə nɛ kə twa ki ʃwaziʁa]",
+      "ear": "瑟 奈 克 特乌阿 基 什乌阿齐哈",
+      "meaning": "也只有你能决定，",
+      "sourceLineId": "donjuan-timed-115-3",
+      "suppliedText": "Personne ne vit ta vie pour toi Tu traceras seul le chemin Ce n'est que toi qui choisiras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1298,
+        "anchorEnd": 1306,
+        "sourceLineNumber": 115,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1306,
+      "sourceText": "S'il sera le mal ou le bien",
+      "ipa": "[sil səʁa lə mal‿u lə bjɛ̃]",
+      "ear": "西勒 瑟哈 勒 玛勒 乌 勒 布耶安",
+      "meaning": "它通向恶，还是通向善。",
+      "sourceLineId": "donjuan-timed-116-1",
+      "suppliedText": "S'il sera le mal ou le bien Tu seras le suel a payer Ce que tu auras depense",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1306,
+        "anchorEnd": 1314.58,
+        "sourceLineNumber": 116,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1308.86,
+      "sourceText": "Tu seras le seul à payer",
+      "ipa": "[ty səʁa lə sœl‿a pɛje]",
+      "ear": "蒂于 瑟哈 勒 瑟厄勒 阿 佩耶诶",
+      "meaning": "承担代价的只有你，",
+      "sourceLineId": "donjuan-timed-116-2",
+      "suppliedText": "S'il sera le mal ou le bien Tu seras le suel a payer Ce que tu auras depense",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1306,
+        "anchorEnd": 1314.58,
+        "sourceLineNumber": 116,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1311.72,
+      "sourceText": "Ce que tu auras dépensé",
+      "ipa": "[sə kə ty oʁa depɑ̃se]",
+      "ear": "瑟 克 蒂于 奥哈 德庞塞",
+      "meaning": "为自己付出过、挥霍过的一切。",
+      "sourceLineId": "donjuan-timed-116-3",
+      "suppliedText": "S'il sera le mal ou le bien Tu seras le suel a payer Ce que tu auras depense",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1306,
+        "anchorEnd": 1314.58,
+        "sourceLineNumber": 116,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1317,
+      "sourceText": "Personne ne vit ta vie pour toi",
+      "ipa": "[pɛʁsɔn nə vi ta vi puʁ twa]",
+      "ear": "佩赫索恩 讷 维 塔 维 普赫 特乌阿",
+      "meaning": "没人能替你过这一生。",
+      "sourceLineId": "donjuan-timed-117-1",
+      "suppliedText": "Perosnne ne vit ta vie pour toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 1317,
+        "anchorEnd": 1322.33,
+        "sourceLineNumber": 117,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

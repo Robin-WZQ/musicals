@@ -1,0 +1,400 @@
+{
+  "videoId": "donjuan-32",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=5558"
+    }
+  ],
+  "entries": [
+    {
+      "start": 5558,
+      "sourceText": "Pour qui te prends-tu Raphael",
+      "ipa": "[puʁ ki tə pʁɑ̃ty ʁafaɛl]",
+      "ear": "普赫 基 特 普杭蒂于 哈法艾勒",
+      "meaning": "你以为你是谁拉斐尔",
+      "sourceLineId": "donjuan-timed-536-1",
+      "suppliedText": "10. DEMAIN A L'AUBE Pour qui te prends-tu Raphael",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5558,
+        "anchorEnd": 5566.11,
+        "sourceLineNumber": 536,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5568,
+      "sourceText": "Pour sortir une arme devant moi",
+      "ipa": "[puʁ sɔʁtiʁ‿yn‿aʁm dəvɑ̃ mwa]",
+      "ear": "普赫 索赫蒂赫 于恩 阿赫姆 德旺 姆乌阿",
+      "meaning": "竟敢在我面前拔出武器？",
+      "sourceLineId": "donjuan-timed-537-1",
+      "suppliedText": "Pour sortir une arme devant moi Il faudra le faire en duel, Raphael",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5568,
+        "anchorEnd": 5576.97,
+        "sourceLineNumber": 537,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5572.14,
+      "sourceText": "Il faudra le faire en duel, Raphael",
+      "ipa": "[il fodʁa lə fɛʁ‿ɑ̃ dyɛl ʁafaɛl]",
+      "ear": "伊勒 佛德哈 勒 费赫 昂 迪于艾勒 哈法艾勒",
+      "meaning": "这必须在决斗中完成，拉斐尔",
+      "sourceLineId": "donjuan-timed-537-2",
+      "suppliedText": "Pour sortir une arme devant moi Il faudra le faire en duel, Raphael",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5568,
+        "anchorEnd": 5576.97,
+        "sourceLineNumber": 537,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5577,
+      "sourceText": "Demain à l'aube je serai là",
+      "ipa": "[dəmɛ̃ a lob ʒə səʁe la]",
+      "ear": "德曼 阿 洛布 热 瑟赫 拉",
+      "meaning": "明天黎明我会在那里",
+      "sourceLineId": "donjuan-timed-538-1",
+      "suppliedText": "Demain a l'aube je serai la Si tu crois me faire trembler",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5577,
+        "anchorEnd": 5585.4,
+        "sourceLineNumber": 538,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5581.582,
+      "sourceText": "Si tu crois me faire trembler",
+      "ipa": "[si ty kʁwa mə fɛʁ tʁɑ̃ble]",
+      "ear": "西 蒂于 克赫乌阿 默 费赫 特杭布莱",
+      "meaning": "如果你认为你让我颤抖",
+      "sourceLineId": "donjuan-timed-538-2",
+      "suppliedText": "Demain a l'aube je serai la Si tu crois me faire trembler",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5577,
+        "anchorEnd": 5585.4,
+        "sourceLineNumber": 538,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5587,
+      "sourceText": "Tu t'es trompé encore une fois",
+      "ipa": "[ty tɛ tʁɔ̃pe ɑ̃kɔʁ‿yn fwa]",
+      "ear": "蒂于 泰 特洪佩 昂科赫 于恩 弗乌阿",
+      "meaning": "你又错了",
+      "sourceLineId": "donjuan-timed-539-1",
+      "suppliedText": "Tu t'es trompe encore une fois Et si c'est le prix a payer, Don Juan",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5587,
+        "anchorEnd": 5596,
+        "sourceLineNumber": 539,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5591.304,
+      "sourceText": "Et si c'est le prix à payer, Don Juan",
+      "ipa": "[e si sɛ lə pʁi a pɛje dɔ̃ ʒɥɑ̃]",
+      "ear": "诶 西 塞 勒 普希 阿 佩耶诶 东 日于昂",
+      "meaning": "如果这是要付出的代价，唐璜",
+      "sourceLineId": "donjuan-timed-539-2",
+      "suppliedText": "Tu t'es trompe encore une fois Et si c'est le prix a payer, Don Juan",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5587,
+        "anchorEnd": 5596,
+        "sourceLineNumber": 539,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5596,
+      "sourceText": "Demain à l'aube je serai là",
+      "ipa": "[dəmɛ̃ a lob ʒə səʁe la]",
+      "ear": "德曼 阿 洛布 热 瑟赫 拉",
+      "meaning": "明天黎明我会在那里",
+      "sourceLineId": "donjuan-timed-540-1",
+      "suppliedText": "Demain a l'aube je serai la Si tu n'as pas peur, Raphael",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5596,
+        "anchorEnd": 5605.4,
+        "sourceLineNumber": 540,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5601.371,
+      "sourceText": "Si tu n'as pas peur, Raphael",
+      "ipa": "[si ty na pa pœʁ ʁafaɛl]",
+      "ear": "西 蒂于 纳 帕 珀厄赫 哈法艾勒",
+      "meaning": "如果你不害怕，拉斐尔",
+      "sourceLineId": "donjuan-timed-540-2",
+      "suppliedText": "Demain a l'aube je serai la Si tu n'as pas peur, Raphael",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5596,
+        "anchorEnd": 5605.4,
+        "sourceLineNumber": 540,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5606,
+      "sourceText": "Tu me trouves content pour toi",
+      "ipa": "[ty mə tʁuv kɔ̃tɑ̃ puʁ twa]",
+      "ear": "蒂于 默 特胡弗 孔唐 普赫 特乌阿",
+      "meaning": "我真为你高兴。",
+      "sourceLineId": "donjuan-timed-541-1",
+      "suppliedText": "Tu me trouves content pour toi Tu le montreras en duel, Raphael",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5606,
+        "anchorEnd": 5615,
+        "sourceLineNumber": 541,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5610.5,
+      "sourceText": "Tu le montreras en duel, Raphael",
+      "ipa": "[ty lə mɔ̃tʁəʁa ɑ̃ dyɛl ʁafaɛl]",
+      "ear": "蒂于 勒 蒙特赫哈 昂 迪于艾勒 哈法艾勒",
+      "meaning": "你会在决斗中展示它，拉斐尔",
+      "sourceLineId": "donjuan-timed-541-2",
+      "suppliedText": "Tu me trouves content pour toi Tu le montreras en duel, Raphael",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5606,
+        "anchorEnd": 5615,
+        "sourceLineNumber": 541,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5615,
+      "sourceText": "Demain à l'aube je serai là",
+      "ipa": "[dəmɛ̃ a lob ʒə səʁe la]",
+      "ear": "德曼 阿 洛布 热 瑟赫 拉",
+      "meaning": "明天黎明我会在那里",
+      "sourceLineId": "donjuan-timed-542-1",
+      "suppliedText": "Demain a m'aube je serai la Mais qu'est-ce qui vous prend tous les deux?",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5615,
+        "anchorEnd": 5624.58,
+        "sourceLineNumber": 542,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5619.258,
+      "sourceText": "Mais qu'est-ce qui vous prend tous les deux?",
+      "ipa": "[mɛ kɛs ki vu pʁɑ̃ tu le dø]",
+      "ear": "梅 凯斯 基 乌 普杭 图 莱 德厄",
+      "meaning": "但是你们俩怎么了？",
+      "sourceLineId": "donjuan-timed-542-2",
+      "suppliedText": "Demain a m'aube je serai la Mais qu'est-ce qui vous prend tous les deux?",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5615,
+        "anchorEnd": 5624.58,
+        "sourceLineNumber": 542,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5626,
+      "sourceText": "Don Juan, je ne te reconnais pas",
+      "ipa": "[dɔ̃ ʒɥɑ̃ ʒə nə tə ʁəkɔnɛ pa]",
+      "ear": "东 日于昂 热 讷 特 赫科奈 帕",
+      "meaning": "唐璜，你已经变得让我认不出来了。",
+      "sourceLineId": "donjuan-timed-543-1",
+      "suppliedText": "Don Juan, je ne te reconnais pas S'il a ete mon amoureux autrefois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5626,
+        "anchorEnd": 5635.89,
+        "sourceLineNumber": 543,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5630.184,
+      "sourceText": "S'il a été mon amoureux autrefois",
+      "ipa": "[sil‿a ete mɔ̃n‿amuʁø otʁəfwa]",
+      "ear": "西勒 阿 诶特 蒙恩 阿穆赫厄 奥特赫弗乌阿",
+      "meaning": "如果他曾经是我的爱人",
+      "sourceLineId": "donjuan-timed-543-2",
+      "suppliedText": "Don Juan, je ne te reconnais pas S'il a ete mon amoureux autrefois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5626,
+        "anchorEnd": 5635.89,
+        "sourceLineNumber": 543,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5636,
+      "sourceText": "Aujourd'hui je n'aime que toi",
+      "ipa": "[oʒuʁdɥi ʒə nɛm kə twa]",
+      "ear": "奥茹赫德于伊 热 奈姆 克 特乌阿",
+      "meaning": "如今我只爱你。",
+      "sourceLineId": "donjuan-timed-544-1",
+      "suppliedText": "Aujourd'hui je n'aime que toi Et je ne supporterai pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5636,
+        "anchorEnd": 5645.04,
+        "sourceLineNumber": 544,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5641.503,
+      "sourceText": "Et je ne supporterai pas",
+      "ipa": "[e ʒə nə sypɔʁtəʁe pa]",
+      "ear": "诶 热 讷 西于珀赫特赫 帕",
+      "meaning": "我不会承受",
+      "sourceLineId": "donjuan-timed-544-2",
+      "suppliedText": "Aujourd'hui je n'aime que toi Et je ne supporterai pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5636,
+        "anchorEnd": 5645.04,
+        "sourceLineNumber": 544,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5646,
+      "sourceText": "Qu'un jour on se batte pour moi",
+      "ipa": "[kœ̃ ʒuʁ‿ɔ̃ sə bat puʁ mwa]",
+      "ear": "坎 茹赫 翁 瑟 巴特 普赫 姆乌阿",
+      "meaning": "有人为了我而决斗。",
+      "sourceLineId": "donjuan-timed-545-1",
+      "suppliedText": "Qu'un jour on se batte pour moi Je ne te pardonnerai pas, Don Juan",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5646,
+        "anchorEnd": 5656.03,
+        "sourceLineNumber": 545,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5651.015,
+      "sourceText": "Je ne te pardonnerai pas, Don Juan",
+      "ipa": "[ʒə nə tə paʁdɔnʁe pa dɔ̃ ʒɥɑ̃]",
+      "ear": "热 讷 特 帕赫多恩赫 帕 东 日于昂",
+      "meaning": "我不会原谅你，唐璜",
+      "sourceLineId": "donjuan-timed-545-2",
+      "suppliedText": "Qu'un jour on se batte pour moi Je ne te pardonnerai pas, Don Juan",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5646,
+        "anchorEnd": 5656.03,
+        "sourceLineNumber": 545,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5657,
+      "sourceText": "Si tu faisais couler le sang",
+      "ipa": "[si ty fəzɛ kule lə sɑ̃]",
+      "ear": "西 蒂于 弗泽 库莱 勒 桑",
+      "meaning": "若你让人流血。",
+      "sourceLineId": "donjuan-timed-546-1",
+      "suppliedText": "Si tu faisais couler le sang Si tu faisais couler le sang",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5657,
+        "anchorEnd": 5667.92,
+        "sourceLineNumber": 546,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5662.46,
+      "sourceText": "Si tu faisais couler le sang",
+      "ipa": "[si ty fəzɛ kule lə sɑ̃]",
+      "ear": "西 蒂于 弗泽 库莱 勒 桑",
+      "meaning": "若你让人流血。",
+      "sourceLineId": "donjuan-timed-546-2",
+      "suppliedText": "Si tu faisais couler le sang Si tu faisais couler le sang",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5657,
+        "anchorEnd": 5667.92,
+        "sourceLineNumber": 546,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

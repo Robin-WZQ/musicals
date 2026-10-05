@@ -1,5 +1,5 @@
 // Bump together with the HTML module URLs when publishing a data revision.
-export const dataRevision = '20261005-6';
+export const dataRevision = '20261005-7';
 
 export function fetchData(path) {
   const url = new URL(path, document.baseURI);

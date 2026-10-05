@@ -1,0 +1,904 @@
+{
+  "videoId": "donjuan-40",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=6925"
+    }
+  ],
+  "entries": [
+    {
+      "start": 6939,
+      "sourceText": "Je meurs d'amour",
+      "ipa": "[ʒə mœʁ damuʁ]",
+      "ear": "热 默厄赫 达穆赫",
+      "meaning": "我为爱而死。",
+      "sourceLineId": "donjuan-timed-685-1",
+      "suppliedText": "Je meurs d'amour Je meurs d'amour Est-ce que quelqu'un m'entend",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6939,
+        "anchorEnd": 6948.9,
+        "sourceLineNumber": 685,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6941.7,
+      "sourceText": "Je meurs d'amour",
+      "ipa": "[ʒə mœʁ damuʁ]",
+      "ear": "热 默厄赫 达穆赫",
+      "meaning": "我为爱而死。",
+      "sourceLineId": "donjuan-timed-685-2",
+      "suppliedText": "Je meurs d'amour Je meurs d'amour Est-ce que quelqu'un m'entend",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6939,
+        "anchorEnd": 6948.9,
+        "sourceLineNumber": 685,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6944.4,
+      "sourceText": "Est-ce que quelqu'un m'entend",
+      "ipa": "[ɛs kə kɛlkœ̃ mɑ̃tɑ̃]",
+      "ear": "艾斯 克 凯勒坎 芒唐",
+      "meaning": "谁能听到我说话吗",
+      "sourceLineId": "donjuan-timed-685-3",
+      "suppliedText": "Je meurs d'amour Je meurs d'amour Est-ce que quelqu'un m'entend",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6939,
+        "anchorEnd": 6948.9,
+        "sourceLineNumber": 685,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6950,
+      "sourceText": "Est-ce que quelqu'un comprend",
+      "ipa": "[ɛs kə kɛlkœ̃ kɔ̃pʁɑ̃]",
+      "ear": "艾斯 克 凯勒坎 孔普杭",
+      "meaning": "有人能理解吗？",
+      "sourceLineId": "donjuan-timed-686-1",
+      "suppliedText": "Est-ce que quelqu'un comprend Je meurs tout seul Personne autour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6950,
+        "anchorEnd": 6958.63,
+        "sourceLineNumber": 686,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6953.596,
+      "sourceText": "Je meurs tout seul",
+      "ipa": "[ʒə mœʁ tu sœl]",
+      "ear": "热 默厄赫 图 瑟厄勒",
+      "meaning": "我独自死去",
+      "sourceLineId": "donjuan-timed-686-2",
+      "suppliedText": "Est-ce que quelqu'un comprend Je meurs tout seul Personne autour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6950,
+        "anchorEnd": 6958.63,
+        "sourceLineNumber": 686,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6956.113,
+      "sourceText": "Personne autour",
+      "ipa": "[pɛʁsɔn‿otuʁ]",
+      "ear": "佩赫索恩 奥图赫",
+      "meaning": "周围没有人",
+      "sourceLineId": "donjuan-timed-686-3",
+      "suppliedText": "Est-ce que quelqu'un comprend Je meurs tout seul Personne autour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6950,
+        "anchorEnd": 6958.63,
+        "sourceLineNumber": 686,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6960,
+      "sourceText": "C'est de moi, que je fais le deuil",
+      "ipa": "[sɛ də mwa kə ʒə fɛ lə dœj]",
+      "ear": "塞 德 姆乌阿 克 热 费 勒 德厄耶",
+      "meaning": "我哀悼的，就是我自己。",
+      "sourceLineId": "donjuan-timed-687-1",
+      "suppliedText": "C'est de moi, que je fais le deuil Je meurs d'amour Mourir pour elle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6960,
+        "anchorEnd": 6969.53,
+        "sourceLineNumber": 687,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6964.765,
+      "sourceText": "Je meurs d'amour",
+      "ipa": "[ʒə mœʁ damuʁ]",
+      "ear": "热 默厄赫 达穆赫",
+      "meaning": "我为爱而死。",
+      "sourceLineId": "donjuan-timed-687-2",
+      "suppliedText": "C'est de moi, que je fais le deuil Je meurs d'amour Mourir pour elle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6960,
+        "anchorEnd": 6969.53,
+        "sourceLineNumber": 687,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6966.964,
+      "sourceText": "Mourir pour elle",
+      "ipa": "[muʁiʁ puʁ‿ɛl]",
+      "ear": "穆希赫 普赫 艾勒",
+      "meaning": "为她而死",
+      "sourceLineId": "donjuan-timed-687-3",
+      "suppliedText": "C'est de moi, que je fais le deuil Je meurs d'amour Mourir pour elle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6960,
+        "anchorEnd": 6969.53,
+        "sourceLineNumber": 687,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6970,
+      "sourceText": "Comme une offense",
+      "ipa": "[kɔm‿yn‿ɔfɑ̃s]",
+      "ear": "科姆 于恩 哦芳斯",
+      "meaning": "仿佛一场冒犯。",
+      "sourceLineId": "donjuan-timed-688-1",
+      "suppliedText": "Comme une offense Dernier duel entre vertu et decadence",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6970,
+        "anchorEnd": 6979.9,
+        "sourceLineNumber": 688,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6973.3,
+      "sourceText": "Dernier duel entre vertu et décadence",
+      "ipa": "[dɛʁnje dyɛl‿ɑ̃tʁ vɛʁty e dekadɑ̃s]",
+      "ear": "戴赫恩耶诶 迪于艾勒 昂特赫 韦赫蒂于 诶 德卡当斯",
+      "meaning": "美德与堕落最后的一场决斗。",
+      "sourceLineId": "donjuan-timed-688-2",
+      "suppliedText": "Comme une offense Dernier duel entre vertu et decadence",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6970,
+        "anchorEnd": 6979.9,
+        "sourceLineNumber": 688,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6980,
+      "sourceText": "Mourir tout seul",
+      "ipa": "[muʁiʁ tu sœl]",
+      "ear": "穆希赫 图 瑟厄勒",
+      "meaning": "孤独死去",
+      "sourceLineId": "donjuan-timed-689-1",
+      "suppliedText": "Mourir tout seul Personne autour C'est de moi, que je fais le deuil",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6980,
+        "anchorEnd": 6990.16,
+        "sourceLineNumber": 689,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6982.634,
+      "sourceText": "Personne autour",
+      "ipa": "[pɛʁsɔn‿otuʁ]",
+      "ear": "佩赫索恩 奥图赫",
+      "meaning": "周围没有人",
+      "sourceLineId": "donjuan-timed-689-2",
+      "suppliedText": "Mourir tout seul Personne autour C'est de moi, que je fais le deuil",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6980,
+        "anchorEnd": 6990.16,
+        "sourceLineNumber": 689,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6985.268,
+      "sourceText": "C'est de moi, que je fais le deuil",
+      "ipa": "[sɛ də mwa kə ʒə fɛ lə dœj]",
+      "ear": "塞 德 姆乌阿 克 热 费 勒 德厄耶",
+      "meaning": "我哀悼的，就是我自己。",
+      "sourceLineId": "donjuan-timed-689-3",
+      "suppliedText": "Mourir tout seul Personne autour C'est de moi, que je fais le deuil",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6980,
+        "anchorEnd": 6990.16,
+        "sourceLineNumber": 689,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6991,
+      "sourceText": "Je meurs d'amour",
+      "ipa": "[ʒə mœʁ damuʁ]",
+      "ear": "热 默厄赫 达穆赫",
+      "meaning": "我为爱而死。",
+      "sourceLineId": "donjuan-timed-690-1",
+      "suppliedText": "Je meurs d'amour Je ne pouvais plus me regarder",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6991,
+        "anchorEnd": 6997.47,
+        "sourceLineNumber": 690,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6993.284,
+      "sourceText": "Je ne pouvais plus me regarder",
+      "ipa": "[ʒə nə puvɛ ply mə ʁəɡaʁde]",
+      "ear": "热 讷 普韦 普吕 默 赫嘎赫德",
+      "meaning": "我再也无法面对自己，",
+      "sourceLineId": "donjuan-timed-690-2",
+      "suppliedText": "Je meurs d'amour Je ne pouvais plus me regarder",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6991,
+        "anchorEnd": 6997.47,
+        "sourceLineNumber": 690,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6998,
+      "sourceText": "Sans avoir envie de crier",
+      "ipa": "[sɑ̃z‿avwaʁ‿ɑ̃vi də kʁie]",
+      "ear": "桑兹 阿弗乌阿赫 昂维 德 克希诶",
+      "meaning": "一看见自己，就忍不住想喊叫。",
+      "sourceLineId": "donjuan-timed-691-1",
+      "suppliedText": "Sans avoir envie de crier Personne ne pourra jamais Effacer tout ce que j'ai fait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6998,
+        "anchorEnd": 7007.85,
+        "sourceLineNumber": 691,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7001.078,
+      "sourceText": "Personne ne pourra jamais",
+      "ipa": "[pɛʁsɔn nə puʁa ʒamɛ]",
+      "ear": "佩赫索恩 讷 普哈 扎梅",
+      "meaning": "再也没有人能够，",
+      "sourceLineId": "donjuan-timed-691-2",
+      "suppliedText": "Sans avoir envie de crier Personne ne pourra jamais Effacer tout ce que j'ai fait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6998,
+        "anchorEnd": 7007.85,
+        "sourceLineNumber": 691,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7004.156,
+      "sourceText": "Effacer tout ce que j'ai fait",
+      "ipa": "[efase tu sə kə ʒe fɛ]",
+      "ear": "诶法塞 图 瑟 克 热 费",
+      "meaning": "抹掉我所做的一切",
+      "sourceLineId": "donjuan-timed-691-3",
+      "suppliedText": "Sans avoir envie de crier Personne ne pourra jamais Effacer tout ce que j'ai fait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6998,
+        "anchorEnd": 7007.85,
+        "sourceLineNumber": 691,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7008,
+      "sourceText": "Le mal était pour moi un jeu",
+      "ipa": "[lə mal‿etɛ puʁ mwa œ̃ ʒø]",
+      "ear": "勒 玛勒 诶泰 普赫 姆乌阿 恩 热厄",
+      "meaning": "邪恶对我来说是一场游戏",
+      "sourceLineId": "donjuan-timed-692-1",
+      "suppliedText": "Le mal etait pour moi un jeu Moi qui ne croyais pas en Dieu Pardon mon Dieu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7008,
+        "anchorEnd": 7017.58,
+        "sourceLineNumber": 692,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7011.592,
+      "sourceText": "Moi qui ne croyais pas en Dieu",
+      "ipa": "[mwa ki nə kʁwajɛ pa ɑ̃ djø]",
+      "ear": "姆乌阿 基 讷 克赫乌阿耶艾 帕 昂 德耶厄",
+      "meaning": "不信神的我",
+      "sourceLineId": "donjuan-timed-692-2",
+      "suppliedText": "Le mal etait pour moi un jeu Moi qui ne croyais pas en Dieu Pardon mon Dieu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7008,
+        "anchorEnd": 7017.58,
+        "sourceLineNumber": 692,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7015.784,
+      "sourceText": "Pardon mon Dieu",
+      "ipa": "[paʁdɔ̃ mɔ̃ djø]",
+      "ear": "帕赫东 蒙 德耶厄",
+      "meaning": "上帝啊，宽恕我。",
+      "sourceLineId": "donjuan-timed-692-3",
+      "suppliedText": "Le mal etait pour moi un jeu Moi qui ne croyais pas en Dieu Pardon mon Dieu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7008,
+        "anchorEnd": 7017.58,
+        "sourceLineNumber": 692,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7019,
+      "sourceText": "Je meurs d'amour",
+      "ipa": "[ʒə mœʁ damuʁ]",
+      "ear": "热 默厄赫 达穆赫",
+      "meaning": "我为爱而死。",
+      "sourceLineId": "donjuan-timed-693-1",
+      "suppliedText": "Je meurs d'amour Je meurs d'amour Est-ce que quelqu'un m'entend",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7019,
+        "anchorEnd": 7027.68,
+        "sourceLineNumber": 693,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7021.367,
+      "sourceText": "Je meurs d'amour",
+      "ipa": "[ʒə mœʁ damuʁ]",
+      "ear": "热 默厄赫 达穆赫",
+      "meaning": "我为爱而死。",
+      "sourceLineId": "donjuan-timed-693-2",
+      "suppliedText": "Je meurs d'amour Je meurs d'amour Est-ce que quelqu'un m'entend",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7019,
+        "anchorEnd": 7027.68,
+        "sourceLineNumber": 693,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7023.735,
+      "sourceText": "Est-ce que quelqu'un m'entend",
+      "ipa": "[ɛs kə kɛlkœ̃ mɑ̃tɑ̃]",
+      "ear": "艾斯 克 凯勒坎 芒唐",
+      "meaning": "谁能听到我说话吗",
+      "sourceLineId": "donjuan-timed-693-3",
+      "suppliedText": "Je meurs d'amour Je meurs d'amour Est-ce que quelqu'un m'entend",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7019,
+        "anchorEnd": 7027.68,
+        "sourceLineNumber": 693,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7028,
+      "sourceText": "Même pour un instant",
+      "ipa": "[mɛm puʁ‿œ̃n‿ɛ̃stɑ̃]",
+      "ear": "梅姆 普赫 恩恩 安斯唐",
+      "meaning": "哪怕是片刻",
+      "sourceLineId": "donjuan-timed-694-1",
+      "suppliedText": "Meme pour un instant Mourir tout seul C'est payer pour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7028,
+        "anchorEnd": 7037.27,
+        "sourceLineNumber": 694,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7031.244,
+      "sourceText": "Mourir tout seul",
+      "ipa": "[muʁiʁ tu sœl]",
+      "ear": "穆希赫 图 瑟厄勒",
+      "meaning": "孤独死去",
+      "sourceLineId": "donjuan-timed-694-2",
+      "suppliedText": "Meme pour un instant Mourir tout seul C'est payer pour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7028,
+        "anchorEnd": 7037.27,
+        "sourceLineNumber": 694,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7034.489,
+      "sourceText": "C'est payer pour",
+      "ipa": "[sɛ pɛje puʁ]",
+      "ear": "塞 佩耶诶 普赫",
+      "meaning": "死去，是为此付出的代价，",
+      "sourceLineId": "donjuan-timed-694-3",
+      "suppliedText": "Meme pour un instant Mourir tout seul C'est payer pour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7028,
+        "anchorEnd": 7037.27,
+        "sourceLineNumber": 694,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7038,
+      "sourceText": "Être celui que les femmes veulent",
+      "ipa": "[ɛtʁ səlɥi kə le fam vœl]",
+      "ear": "艾特赫 瑟勒于伊 克 莱 法姆 弗厄勒",
+      "meaning": "成为女人想要的人",
+      "sourceLineId": "donjuan-timed-695-1",
+      "suppliedText": "Etre celui que les femmes veulent Je meurs d'amour Mourir pour elle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7038,
+        "anchorEnd": 7048.01,
+        "sourceLineNumber": 695,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7043.005,
+      "sourceText": "Je meurs d'amour",
+      "ipa": "[ʒə mœʁ damuʁ]",
+      "ear": "热 默厄赫 达穆赫",
+      "meaning": "我为爱而死。",
+      "sourceLineId": "donjuan-timed-695-2",
+      "suppliedText": "Etre celui que les femmes veulent Je meurs d'amour Mourir pour elle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7038,
+        "anchorEnd": 7048.01,
+        "sourceLineNumber": 695,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7045.315,
+      "sourceText": "Mourir pour elle",
+      "ipa": "[muʁiʁ puʁ‿ɛl]",
+      "ear": "穆希赫 普赫 艾勒",
+      "meaning": "为她而死",
+      "sourceLineId": "donjuan-timed-695-3",
+      "suppliedText": "Etre celui que les femmes veulent Je meurs d'amour Mourir pour elle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7038,
+        "anchorEnd": 7048.01,
+        "sourceLineNumber": 695,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7049,
+      "sourceText": "Comme une offense",
+      "ipa": "[kɔm‿yn‿ɔfɑ̃s]",
+      "ear": "科姆 于恩 哦芳斯",
+      "meaning": "仿佛一场冒犯。",
+      "sourceLineId": "donjuan-timed-696-1",
+      "suppliedText": "Comme une offense Dernier duel entre vertu et decadence",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7049,
+        "anchorEnd": 7058,
+        "sourceLineNumber": 696,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7052.0,
+      "sourceText": "Dernier duel entre vertu et décadence",
+      "ipa": "[dɛʁnje dyɛl‿ɑ̃tʁ vɛʁty e dekadɑ̃s]",
+      "ear": "戴赫恩耶诶 迪于艾勒 昂特赫 韦赫蒂于 诶 德卡当斯",
+      "meaning": "美德与堕落最后的一场决斗。",
+      "sourceLineId": "donjuan-timed-696-2",
+      "suppliedText": "Comme une offense Dernier duel entre vertu et decadence",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7049,
+        "anchorEnd": 7058,
+        "sourceLineNumber": 696,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7058,
+      "sourceText": "Mourir tout seul",
+      "ipa": "[muʁiʁ tu sœl]",
+      "ear": "穆希赫 图 瑟厄勒",
+      "meaning": "孤独死去",
+      "sourceLineId": "donjuan-timed-697-1",
+      "suppliedText": "Mourir tout seul C'est payer pour Etre celui que les femmes veulent",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7058,
+        "anchorEnd": 7068,
+        "sourceLineNumber": 697,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7060.692,
+      "sourceText": "C'est payer pour",
+      "ipa": "[sɛ pɛje puʁ]",
+      "ear": "塞 佩耶诶 普赫",
+      "meaning": "死去，是为此付出的代价，",
+      "sourceLineId": "donjuan-timed-697-2",
+      "suppliedText": "Mourir tout seul C'est payer pour Etre celui que les femmes veulent",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7058,
+        "anchorEnd": 7068,
+        "sourceLineNumber": 697,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7063.0,
+      "sourceText": "Être celui que les femmes veulent",
+      "ipa": "[ɛtʁ səlɥi kə le fam vœl]",
+      "ear": "艾特赫 瑟勒于伊 克 莱 法姆 弗厄勒",
+      "meaning": "成为女人想要的人",
+      "sourceLineId": "donjuan-timed-697-3",
+      "suppliedText": "Mourir tout seul C'est payer pour Etre celui que les femmes veulent",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7058,
+        "anchorEnd": 7068,
+        "sourceLineNumber": 697,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7068,
+      "sourceText": "Je meurs d'amour",
+      "ipa": "[ʒə mœʁ damuʁ]",
+      "ear": "热 默厄赫 达穆赫",
+      "meaning": "我为爱而死。",
+      "sourceLineId": "donjuan-timed-698-1",
+      "suppliedText": "Je meurs d'amour Mourir pour vivre Au fond des coeurs",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7068,
+        "anchorEnd": 7077.14,
+        "sourceLineNumber": 698,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7070.886,
+      "sourceText": "Mourir pour vivre",
+      "ipa": "[muʁiʁ puʁ vivʁ]",
+      "ear": "穆希赫 普赫 维弗赫",
+      "meaning": "死去，只为继续活着，",
+      "sourceLineId": "donjuan-timed-698-2",
+      "suppliedText": "Je meurs d'amour Mourir pour vivre Au fond des coeurs",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7068,
+        "anchorEnd": 7077.14,
+        "sourceLineNumber": 698,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7074.254,
+      "sourceText": "Au fond des cœurs",
+      "ipa": "[o fɔ̃ de kœʁ]",
+      "ear": "奥 丰 德 克厄赫",
+      "meaning": "活在人们心底。",
+      "sourceLineId": "donjuan-timed-698-3",
+      "suppliedText": "Je meurs d'amour Mourir pour vivre Au fond des coeurs",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7068,
+        "anchorEnd": 7077.14,
+        "sourceLineNumber": 698,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7078,
+      "sourceText": "Comme le prisonnier qu'on délivre",
+      "ipa": "[kɔm lə pʁizɔnje kɔ̃ delivʁ]",
+      "ear": "科姆 勒 普希佐恩耶诶 孔 德利弗赫",
+      "meaning": "就像被释放的囚犯",
+      "sourceLineId": "donjuan-timed-699-1",
+      "suppliedText": "Comme le prisonnier qu'on delivre Avant son heure Mourir heureux",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7078,
+        "anchorEnd": 7087.17,
+        "sourceLineNumber": 699,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7082.402,
+      "sourceText": "Avant son heure",
+      "ipa": "[avɑ̃ sɔ̃n‿œʁ]",
+      "ear": "阿旺 松恩 厄赫",
+      "meaning": "在死期到来之前。",
+      "sourceLineId": "donjuan-timed-699-2",
+      "suppliedText": "Comme le prisonnier qu'on delivre Avant son heure Mourir heureux",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7078,
+        "anchorEnd": 7087.17,
+        "sourceLineNumber": 699,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7084.602,
+      "sourceText": "Mourir heureux",
+      "ipa": "[muʁiʁ‿øʁø]",
+      "ear": "穆希赫 厄赫厄",
+      "meaning": "幸福地死去",
+      "sourceLineId": "donjuan-timed-699-3",
+      "suppliedText": "Comme le prisonnier qu'on delivre Avant son heure Mourir heureux",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7078,
+        "anchorEnd": 7087.17,
+        "sourceLineNumber": 699,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7088,
+      "sourceText": "J'ai tout fait pour",
+      "ipa": "[ʒe tu fɛ puʁ]",
+      "ear": "热 图 费 普赫",
+      "meaning": "我做了一切",
+      "sourceLineId": "donjuan-timed-700-1",
+      "suppliedText": "J'ai tout fait pour Avoir le droit de faire un voeu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7088,
+        "anchorEnd": 7094.53,
+        "sourceLineNumber": 700,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7090.488,
+      "sourceText": "Avoir le droit de faire un vœu",
+      "ipa": "[avwaʁ lə dʁwa də fɛʁ‿œ̃ vœ]",
+      "ear": "阿弗乌阿赫 勒 德赫乌阿 德 费赫 恩 弗厄",
+      "meaning": "有权许愿",
+      "sourceLineId": "donjuan-timed-700-2",
+      "suppliedText": "J'ai tout fait pour Avoir le droit de faire un voeu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7088,
+        "anchorEnd": 7094.53,
+        "sourceLineNumber": 700,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7095,
+      "sourceText": "Mourir d'amour",
+      "ipa": "[muʁiʁ damuʁ]",
+      "ear": "穆希赫 达穆赫",
+      "meaning": "为爱而死",
+      "sourceLineId": "donjuan-timed-701-1",
+      "suppliedText": "Mourir d'amour Le mal etait pour moi un jeu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7095,
+        "anchorEnd": 7103.47,
+        "sourceLineNumber": 701,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7097.823,
+      "sourceText": "Le mal était pour moi un jeu",
+      "ipa": "[lə mal‿etɛ puʁ mwa œ̃ ʒø]",
+      "ear": "勒 玛勒 诶泰 普赫 姆乌阿 恩 热厄",
+      "meaning": "邪恶对我来说是一场游戏",
+      "sourceLineId": "donjuan-timed-701-2",
+      "suppliedText": "Mourir d'amour Le mal etait pour moi un jeu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7095,
+        "anchorEnd": 7103.47,
+        "sourceLineNumber": 701,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7105,
+      "sourceText": "Moi qui ne croyais pas en Dieu",
+      "ipa": "[mwa ki nə kʁwajɛ pa ɑ̃ djø]",
+      "ear": "姆乌阿 基 讷 克赫乌阿耶艾 帕 昂 德耶厄",
+      "meaning": "不信神的我",
+      "sourceLineId": "donjuan-timed-702-1",
+      "suppliedText": "Moi qui ne croyais pas en Dieu Pardon mon Dieu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7105,
+        "anchorEnd": 7115.06,
+        "sourceLineNumber": 702,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7112.042,
+      "sourceText": "Pardon mon Dieu",
+      "ipa": "[paʁdɔ̃ mɔ̃ djø]",
+      "ear": "帕赫东 蒙 德耶厄",
+      "meaning": "上帝啊，宽恕我。",
+      "sourceLineId": "donjuan-timed-702-2",
+      "suppliedText": "Moi qui ne croyais pas en Dieu Pardon mon Dieu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7105,
+        "anchorEnd": 7115.06,
+        "sourceLineNumber": 702,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7117,
+      "sourceText": "Je meurs d'amour",
+      "ipa": "[ʒə mœʁ damuʁ]",
+      "ear": "热 默厄赫 达穆赫",
+      "meaning": "我为爱而死。",
+      "sourceLineId": "donjuan-timed-703-1",
+      "suppliedText": "Je meurs d'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7117,
+        "anchorEnd": 7120.01,
+        "sourceLineNumber": 703,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

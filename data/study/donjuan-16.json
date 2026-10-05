@@ -1,0 +1,868 @@
+{
+  "videoId": "donjuan-16",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=2281"
+    }
+  ],
+  "entries": [
+    {
+      "start": 2294,
+      "sourceText": "Les femmes c'est plus beau que les êtes",
+      "ipa": "[le fam sɛ ply bo kə lez‿ɛt]",
+      "ear": "莱 法姆 塞 普吕 博 克 莱兹 艾特",
+      "meaning": "女人比夏天更美丽",
+      "sourceLineId": "donjuan-timed-210-1",
+      "suppliedText": "Les femmes c'est plus beau que les etes Sur les plages ensoleillees Pourquoi ne pas l'avouer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2294,
+        "anchorEnd": 2302,
+        "sourceLineNumber": 210,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2297.059,
+      "sourceText": "Sur les plages ensoleillées",
+      "ipa": "[syʁ le plaʒ‿ɑ̃solɛje]",
+      "ear": "西于赫 莱 普拉日 昂索莱耶诶",
+      "meaning": "在阳光明媚的海滩上",
+      "sourceLineId": "donjuan-timed-210-2",
+      "suppliedText": "Les femmes c'est plus beau que les etes Sur les plages ensoleillees Pourquoi ne pas l'avouer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2294,
+        "anchorEnd": 2302,
+        "sourceLineNumber": 210,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2299.412,
+      "sourceText": "Pourquoi ne pas l'avouer",
+      "ipa": "[puʁkwa nə pa lavwe]",
+      "ear": "普赫克乌阿 讷 帕 拉弗乌诶",
+      "meaning": "为何不承认",
+      "sourceLineId": "donjuan-timed-210-3",
+      "suppliedText": "Les femmes c'est plus beau que les etes Sur les plages ensoleillees Pourquoi ne pas l'avouer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2294,
+        "anchorEnd": 2302,
+        "sourceLineNumber": 210,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2302,
+      "sourceText": "C'est plus beau que les hivers",
+      "ipa": "[sɛ ply bo kə lez‿ivɛʁ]",
+      "ear": "塞 普吕 博 克 莱兹 伊韦赫",
+      "meaning": "比冬天更美丽",
+      "sourceLineId": "donjuan-timed-211-1",
+      "suppliedText": "C'est plus beau que les hivers Quand la neige blanchit la terre Les femmes c'est les couleurs de l'automne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2302,
+        "anchorEnd": 2311,
+        "sourceLineNumber": 211,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2304.571,
+      "sourceText": "Quand la neige blanchit la terre",
+      "ipa": "[kɑ̃ la nɛʒ blɑ̃ʃi la tɛʁ]",
+      "ear": "康 拉 奈日 布朗希 拉 泰赫",
+      "meaning": "白雪覆盖大地时。",
+      "sourceLineId": "donjuan-timed-211-2",
+      "suppliedText": "C'est plus beau que les hivers Quand la neige blanchit la terre Les femmes c'est les couleurs de l'automne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2302,
+        "anchorEnd": 2311,
+        "sourceLineNumber": 211,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2307.4,
+      "sourceText": "Les femmes c'est les couleurs de l'automne",
+      "ipa": "[le fam sɛ le kulœʁ də lotɔn]",
+      "ear": "莱 法姆 塞 莱 库勒厄赫 德 洛托恩",
+      "meaning": "女人是秋天的颜色",
+      "sourceLineId": "donjuan-timed-211-3",
+      "suppliedText": "C'est plus beau que les hivers Quand la neige blanchit la terre Les femmes c'est les couleurs de l'automne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2302,
+        "anchorEnd": 2311,
+        "sourceLineNumber": 211,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2311,
+      "sourceText": "Quand les papillons s'envolent",
+      "ipa": "[kɑ̃ le papijɔ̃ sɑ̃vol]",
+      "ear": "康 莱 帕皮耶翁 桑沃勒",
+      "meaning": "当蝴蝶飞走时",
+      "sourceLineId": "donjuan-timed-212-1",
+      "suppliedText": "Quand les papillons s'envolent A l'heure ou l'amour se donne C'est les parfums du printemps",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2311,
+        "anchorEnd": 2317.92,
+        "sourceLineNumber": 212,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2313.224,
+      "sourceText": "À l'heure où l'amour se donne",
+      "ipa": "[a lœʁ‿u lamuʁ sə dɔn]",
+      "ear": "阿 勒厄赫 乌 拉穆赫 瑟 多恩",
+      "meaning": "在献出爱情的时刻。",
+      "sourceLineId": "donjuan-timed-212-2",
+      "suppliedText": "Quand les papillons s'envolent A l'heure ou l'amour se donne C'est les parfums du printemps",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2311,
+        "anchorEnd": 2317.92,
+        "sourceLineNumber": 212,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2316.19,
+      "sourceText": "C'est les parfums du printemps",
+      "ipa": "[sɛ le paʁfœ̃ dy pʁɛ̃tɑ̃]",
+      "ear": "塞 莱 帕赫凡 迪于 普汉唐",
+      "meaning": "这些是春天的气味",
+      "sourceLineId": "donjuan-timed-212-3",
+      "suppliedText": "Quand les papillons s'envolent A l'heure ou l'amour se donne C'est les parfums du printemps",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2311,
+        "anchorEnd": 2317.92,
+        "sourceLineNumber": 212,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2318,
+      "sourceText": "Quand renaissent les sentiments",
+      "ipa": "[kɑ̃ ʁənɛs le sɑ̃timɑ̃]",
+      "ear": "康 赫奈斯 莱 桑蒂芒",
+      "meaning": "在感情重新萌发时。",
+      "sourceLineId": "donjuan-timed-213-1",
+      "suppliedText": "Quand renaissent les sentiments Yo quiero, vivire solamente de amor",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2318,
+        "anchorEnd": 2327.57,
+        "sourceLineNumber": 213,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2321.828,
+      "sourceText": "Yo quiero vivir solamente de amor",
+      "ipa": "[ʝo kjeɾo βiβiɾ solamente ðe amoɾ]",
+      "ear": "耶奥 克耶诶霍 比比赫 索拉梅恩特 德 阿莫赫",
+      "meaning": "我只想为爱而活。",
+      "sourceLineId": "donjuan-timed-213-2",
+      "suppliedText": "Quand renaissent les sentiments Yo quiero, vivire solamente de amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2318,
+        "anchorEnd": 2327.57,
+        "sourceLineNumber": 213,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2329,
+      "sourceText": "Solo por amor",
+      "ipa": "[solo poɾ amoɾ]",
+      "ear": "索洛 波赫 阿莫赫",
+      "meaning": "只为爱情。",
+      "sourceLineId": "donjuan-timed-214-1",
+      "suppliedText": "Solo por amor Yo quiero, vivire solamente de amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2329,
+        "anchorEnd": 2336.71,
+        "sourceLineNumber": 214,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2330.927,
+      "sourceText": "Yo quiero vivir solamente de amor",
+      "ipa": "[ʝo kjeɾo βiβiɾ solamente ðe amoɾ]",
+      "ear": "耶奥 克耶诶霍 比比赫 索拉梅恩特 德 阿莫赫",
+      "meaning": "我只想为爱而活。",
+      "sourceLineId": "donjuan-timed-214-2",
+      "suppliedText": "Solo por amor Yo quiero, vivire solamente de amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2329,
+        "anchorEnd": 2336.71,
+        "sourceLineNumber": 214,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2338,
+      "sourceText": "Solo por amor",
+      "ipa": "[solo poɾ amoɾ]",
+      "ear": "索洛 波赫 阿莫赫",
+      "meaning": "只为爱情。",
+      "sourceLineId": "donjuan-timed-215-1",
+      "suppliedText": "Solo por amor Les femmes c'est la fureur des lionnes Sua la trahison d'un homme",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2338,
+        "anchorEnd": 2345,
+        "sourceLineNumber": 215,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2339.4,
+      "sourceText": "Les femmes c'est la fureur des lionnes",
+      "ipa": "[le fam sɛ la fyʁœʁ de ljɔn]",
+      "ear": "莱 法姆 塞 拉 菲于赫厄赫 德 勒耶哦恩",
+      "meaning": "女人是母狮的愤怒",
+      "sourceLineId": "donjuan-timed-215-2",
+      "suppliedText": "Solo por amor Les femmes c'est la fureur des lionnes Sua la trahison d'un homme",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2338,
+        "anchorEnd": 2345,
+        "sourceLineNumber": 215,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2342.76,
+      "sourceText": "Sur la trahison d'un homme",
+      "ipa": "[syʁ la tʁaizɔ̃ dœ̃ ɔm]",
+      "ear": "西于赫 拉 特哈伊宗 丹 哦姆",
+      "meaning": "面对一个男人的背叛。",
+      "sourceLineId": "donjuan-timed-215-3",
+      "suppliedText": "Solo por amor Les femmes c'est la fureur des lionnes Sua la trahison d'un homme",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2338,
+        "anchorEnd": 2345,
+        "sourceLineNumber": 215,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2345,
+      "sourceText": "Et si un jour elles pardonnent",
+      "ipa": "[e si œ̃ ʒuʁ‿ɛl paʁdɔn]",
+      "ear": "诶 西 恩 茹赫 艾勒 帕赫多恩",
+      "meaning": "而若有一天，她们愿意宽恕，",
+      "sourceLineId": "donjuan-timed-216-1",
+      "suppliedText": "Et si un jour elles pardonnent C'est le retour des cigognes Quand elles arretent leurs vols",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2345,
+        "anchorEnd": 2353,
+        "sourceLineNumber": 216,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2347.759,
+      "sourceText": "C'est le retour des cigognes",
+      "ipa": "[sɛ lə ʁətuʁ de siɡonj]",
+      "ear": "塞 勒 赫图赫 德 西戈恩耶",
+      "meaning": "鹳鸟归来",
+      "sourceLineId": "donjuan-timed-216-2",
+      "suppliedText": "Et si un jour elles pardonnent C'est le retour des cigognes Quand elles arretent leurs vols",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2345,
+        "anchorEnd": 2353,
+        "sourceLineNumber": 216,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2350.241,
+      "sourceText": "Quand elles arrêtent leurs vols",
+      "ipa": "[kɑ̃t‿ɛlz‿aʁɛt lœʁ vɔl]",
+      "ear": "康特 艾勒兹 阿赫特 勒厄赫 沃勒",
+      "meaning": "当鹳鸟终于停下飞翔。",
+      "sourceLineId": "donjuan-timed-216-3",
+      "suppliedText": "Et si un jour elles pardonnent C'est le retour des cigognes Quand elles arretent leurs vols",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2345,
+        "anchorEnd": 2353,
+        "sourceLineNumber": 216,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2353,
+      "sourceText": "Les femmes c'est la tendresse des louves",
+      "ipa": "[le fam sɛ la tɑ̃dʁɛs de luv]",
+      "ear": "莱 法姆 塞 拉 唐德赫斯 德 卢弗",
+      "meaning": "女人有母狼的温柔，",
+      "sourceLineId": "donjuan-timed-217-1",
+      "suppliedText": "Les femmes c'est la tendresse des louves Le jour ou elles se decouvrent Mais quand elles feront la guerre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2353,
+        "anchorEnd": 2361,
+        "sourceLineNumber": 217,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2355.667,
+      "sourceText": "Le jour où elles se découvrent",
+      "ipa": "[lə ʒuʁ‿u ɛl sə dekuvʁ]",
+      "ear": "勒 茹赫 乌 艾勒 瑟 德库弗赫",
+      "meaning": "当她们敞开心扉时。",
+      "sourceLineId": "donjuan-timed-217-2",
+      "suppliedText": "Les femmes c'est la tendresse des louves Le jour ou elles se decouvrent Mais quand elles feront la guerre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2353,
+        "anchorEnd": 2361,
+        "sourceLineNumber": 217,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2358.333,
+      "sourceText": "Mais quand elles feront la guerre",
+      "ipa": "[mɛ kɑ̃t‿ɛl fəʁɔ̃ la ɡɛʁ]",
+      "ear": "梅 康特 艾勒 弗洪 拉 盖赫",
+      "meaning": "可若她们投入战斗，",
+      "sourceLineId": "donjuan-timed-217-3",
+      "suppliedText": "Les femmes c'est la tendresse des louves Le jour ou elles se decouvrent Mais quand elles feront la guerre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2353,
+        "anchorEnd": 2361,
+        "sourceLineNumber": 217,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2361,
+      "sourceText": "C'est la violence des panthères",
+      "ipa": "[sɛ la vjolɑ̃s de pɑ̃tɛʁ]",
+      "ear": "塞 拉 弗耶奥朗斯 德 庞泰赫",
+      "meaning": "便有豹子般的猛烈，",
+      "sourceLineId": "donjuan-timed-218-1",
+      "suppliedText": "C'est la violence des pantheres La force de la lumiere",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2361,
+        "anchorEnd": 2366.77,
+        "sourceLineNumber": 218,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2364.037,
+      "sourceText": "La force de la lumière",
+      "ipa": "[la fɔʁs də la lymjɛʁ]",
+      "ear": "拉 佛赫斯 德 拉 吕姆耶艾赫",
+      "meaning": "有光芒的力量。",
+      "sourceLineId": "donjuan-timed-218-2",
+      "suppliedText": "C'est la violence des pantheres La force de la lumiere",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2361,
+        "anchorEnd": 2366.77,
+        "sourceLineNumber": 218,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2368,
+      "sourceText": "Yo quiero vivir solamente de amor",
+      "ipa": "[ʝo kjeɾo βiβiɾ solamente ðe amoɾ]",
+      "ear": "耶奥 克耶诶霍 比比赫 索拉梅恩特 德 阿莫赫",
+      "meaning": "我只想为爱而活。",
+      "sourceLineId": "donjuan-timed-219-1",
+      "suppliedText": "Yo quiero, vivire solamente de amor Solo por amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2368,
+        "anchorEnd": 2376,
+        "sourceLineNumber": 219,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2374.0,
+      "sourceText": "Solo por amor",
+      "ipa": "[solo poɾ amoɾ]",
+      "ear": "索洛 波赫 阿莫赫",
+      "meaning": "只为爱情。",
+      "sourceLineId": "donjuan-timed-219-2",
+      "suppliedText": "Yo quiero, vivire solamente de amor Solo por amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2368,
+        "anchorEnd": 2376,
+        "sourceLineNumber": 219,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2376,
+      "sourceText": "Yo quiero vivir solamente de amor",
+      "ipa": "[ʝo kjeɾo βiβiɾ solamente ðe amoɾ]",
+      "ear": "耶奥 克耶诶霍 比比赫 索拉梅恩特 德 阿莫赫",
+      "meaning": "我只想为爱而活。",
+      "sourceLineId": "donjuan-timed-220-1",
+      "suppliedText": "Yo quiero, vivire solamente de amor Solo por amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2376,
+        "anchorEnd": 2386.09,
+        "sourceLineNumber": 220,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2383.568,
+      "sourceText": "Solo por amor",
+      "ipa": "[solo poɾ amoɾ]",
+      "ear": "索洛 波赫 阿莫赫",
+      "meaning": "只为爱情。",
+      "sourceLineId": "donjuan-timed-220-2",
+      "suppliedText": "Yo quiero, vivire solamente de amor Solo por amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2376,
+        "anchorEnd": 2386.09,
+        "sourceLineNumber": 220,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2404,
+      "sourceText": "Les femmes c'est plus beau que la musique",
+      "ipa": "[le fam sɛ ply bo kə la myzik]",
+      "ear": "莱 法姆 塞 普吕 博 克 拉 米于齐克",
+      "meaning": "女人比音乐更美丽",
+      "sourceLineId": "donjuan-timed-221-1",
+      "suppliedText": "Les femmes c'est plus beau que la musique C'est comme un piano magique Qui s'inventerait des gammes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2404,
+        "anchorEnd": 2411,
+        "sourceLineNumber": 221,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2406.917,
+      "sourceText": "C'est comme un piano magique",
+      "ipa": "[sɛ kɔm‿œ̃ pjano maʒik]",
+      "ear": "塞 科姆 恩 普耶阿诺 玛日克",
+      "meaning": "这就像一架魔法钢琴",
+      "sourceLineId": "donjuan-timed-221-2",
+      "suppliedText": "Les femmes c'est plus beau que la musique C'est comme un piano magique Qui s'inventerait des gammes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2404,
+        "anchorEnd": 2411,
+        "sourceLineNumber": 221,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2409.056,
+      "sourceText": "Qui s'inventerait des gammes",
+      "ipa": "[ki sɛ̃vɑ̃tʁɛ de ɡam]",
+      "ear": "基 森旺特赫 德 嘎姆",
+      "meaning": "会自己谱出音阶。",
+      "sourceLineId": "donjuan-timed-221-3",
+      "suppliedText": "Les femmes c'est plus beau que la musique C'est comme un piano magique Qui s'inventerait des gammes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2404,
+        "anchorEnd": 2411,
+        "sourceLineNumber": 221,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2411,
+      "sourceText": "Sur les notes bleues des larmes",
+      "ipa": "[syʁ le not blø de laʁm]",
+      "ear": "西于赫 莱 诺特 布勒厄 德 拉赫姆",
+      "meaning": "泪水化作忧伤的蓝色音符，",
+      "sourceLineId": "donjuan-timed-222-1",
+      "suppliedText": "Sur les notes bleues des larmes Qui coulent sur le joues des femmes Les femmes c'est le plus beau des pays",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2411,
+        "anchorEnd": 2420.96,
+        "sourceLineNumber": 222,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2413.846,
+      "sourceText": "Qui coulent sur les joues des femmes",
+      "ipa": "[ki kul syʁ le ʒw de fam]",
+      "ear": "基 库勒 西于赫 莱 日乌 德 法姆",
+      "meaning": "沿着女人的脸颊流淌。",
+      "sourceLineId": "donjuan-timed-222-2",
+      "suppliedText": "Sur les notes bleues des larmes Qui coulent sur le joues des femmes Les femmes c'est le plus beau des pays",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2411,
+        "anchorEnd": 2420.96,
+        "sourceLineNumber": 222,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2417.545,
+      "sourceText": "Les femmes c'est le plus beau des pays",
+      "ipa": "[le fam sɛ lə ply bo de pɛi]",
+      "ear": "莱 法姆 塞 勒 普吕 博 德 佩伊",
+      "meaning": "女人是最美的国度",
+      "sourceLineId": "donjuan-timed-222-3",
+      "suppliedText": "Sur les notes bleues des larmes Qui coulent sur le joues des femmes Les femmes c'est le plus beau des pays",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2411,
+        "anchorEnd": 2420.96,
+        "sourceLineNumber": 222,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2421,
+      "sourceText": "Un soleil d'Andalousie",
+      "ipa": "[œ̃ solɛj dɑ̃daluzi]",
+      "ear": "恩 索莱耶 当达卢齐",
+      "meaning": "安达卢西亚的太阳",
+      "sourceLineId": "donjuan-timed-223-1",
+      "suppliedText": "Un soleil d'Andalousie C'est une terre africaine Sous les vents qui se dechainent, C'est la douceur italienne.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2421,
+        "anchorEnd": 2430.69,
+        "sourceLineNumber": 223,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2423.307,
+      "sourceText": "C'est une terre africaine",
+      "ipa": "[sɛt‿yn tɛʁ‿afʁikɛn]",
+      "ear": "塞特 于恩 泰赫 阿弗希凯恩",
+      "meaning": "这是非洲的土地",
+      "sourceLineId": "donjuan-timed-223-2",
+      "suppliedText": "Un soleil d'Andalousie C'est une terre africaine Sous les vents qui se dechainent, C'est la douceur italienne.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2421,
+        "anchorEnd": 2430.69,
+        "sourceLineNumber": 223,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2425.614,
+      "sourceText": "Sous les vents qui se déchaînent,",
+      "ipa": "[su le vɑ̃ ki sə deʃɛn]",
+      "ear": "苏 莱 旺 基 瑟 德谢恩",
+      "meaning": "狂风肆虐之下，",
+      "sourceLineId": "donjuan-timed-223-3",
+      "suppliedText": "Un soleil d'Andalousie C'est une terre africaine Sous les vents qui se dechainent, C'est la douceur italienne.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2421,
+        "anchorEnd": 2430.69,
+        "sourceLineNumber": 223,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2428.152,
+      "sourceText": "C'est la douceur italienne.",
+      "ipa": "[sɛ la dusœʁ‿italjɛn]",
+      "ear": "塞 拉 杜瑟厄赫 伊塔勒耶艾恩",
+      "meaning": "又有意大利式的温柔。",
+      "sourceLineId": "donjuan-timed-223-4",
+      "suppliedText": "Un soleil d'Andalousie C'est une terre africaine Sous les vents qui se dechainent, C'est la douceur italienne.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2421,
+        "anchorEnd": 2430.69,
+        "sourceLineNumber": 223,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2431,
+      "sourceText": "Yo quiero vivir solamente de amor",
+      "ipa": "[ʝo kjeɾo βiβiɾ solamente ðe amoɾ]",
+      "ear": "耶奥 克耶诶霍 比比赫 索拉梅恩特 德 阿莫赫",
+      "meaning": "我只想为爱而活。",
+      "sourceLineId": "donjuan-timed-224-1",
+      "suppliedText": "Yo quiero, vivire solamente de amor Solo por amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2431,
+        "anchorEnd": 2440.78,
+        "sourceLineNumber": 224,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2438.335,
+      "sourceText": "Solo por amor",
+      "ipa": "[solo poɾ amoɾ]",
+      "ear": "索洛 波赫 阿莫赫",
+      "meaning": "只为爱情。",
+      "sourceLineId": "donjuan-timed-224-2",
+      "suppliedText": "Yo quiero, vivire solamente de amor Solo por amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2431,
+        "anchorEnd": 2440.78,
+        "sourceLineNumber": 224,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2441,
+      "sourceText": "Yo quiero vivir solamente de amor",
+      "ipa": "[ʝo kjeɾo βiβiɾ solamente ðe amoɾ]",
+      "ear": "耶奥 克耶诶霍 比比赫 索拉梅恩特 德 阿莫赫",
+      "meaning": "我只想为爱而活。",
+      "sourceLineId": "donjuan-timed-225-1",
+      "suppliedText": "Yo quiero, vivire solamente de amor Solo por amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2441,
+        "anchorEnd": 2450,
+        "sourceLineNumber": 225,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2447.75,
+      "sourceText": "Solo por amor",
+      "ipa": "[solo poɾ amoɾ]",
+      "ear": "索洛 波赫 阿莫赫",
+      "meaning": "只为爱情。",
+      "sourceLineId": "donjuan-timed-225-2",
+      "suppliedText": "Yo quiero, vivire solamente de amor Solo por amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2441,
+        "anchorEnd": 2450,
+        "sourceLineNumber": 225,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2450,
+      "sourceText": "Les femmes c'est la plus belle des couleurs",
+      "ipa": "[le fam sɛ la ply bɛl de kulœʁ]",
+      "ear": "莱 法姆 塞 拉 普吕 贝勒 德 库勒厄赫",
+      "meaning": "女人是最美的颜色",
+      "sourceLineId": "donjuan-timed-226-1",
+      "suppliedText": "Les femmes c'est la plus belles des couleurs C'est le rouge quand elles ont peur C'est le blanc quand elles se donnent",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2450,
+        "anchorEnd": 2458.21,
+        "sourceLineNumber": 226,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2453.049,
+      "sourceText": "C'est le rouge quand elles ont peur",
+      "ipa": "[sɛ lə ʁuʒ kɑ̃t‿ɛlz‿ɔ̃ pœʁ]",
+      "ear": "塞 勒 胡日 康特 艾勒兹 翁 珀厄赫",
+      "meaning": "害怕时，她们是红色，",
+      "sourceLineId": "donjuan-timed-226-2",
+      "suppliedText": "Les femmes c'est la plus belles des couleurs C'est le rouge quand elles ont peur C'est le blanc quand elles se donnent",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2450,
+        "anchorEnd": 2458.21,
+        "sourceLineNumber": 226,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2455.864,
+      "sourceText": "C'est le blanc quand elles se donnent",
+      "ipa": "[sɛ lə blɑ̃ kɑ̃t‿ɛl sə dɔn]",
+      "ear": "塞 勒 布朗 康特 艾勒 瑟 多恩",
+      "meaning": "献出自己时，她们是白色，",
+      "sourceLineId": "donjuan-timed-226-3",
+      "suppliedText": "Les femmes c'est la plus belles des couleurs C'est le rouge quand elles ont peur C'est le blanc quand elles se donnent",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2450,
+        "anchorEnd": 2458.21,
+        "sourceLineNumber": 226,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2459,
+      "sourceText": "Le rose quand elles nous pardonnent",
+      "ipa": "[lə ʁɔz kɑ̃t‿ɛl nu paʁdɔn]",
+      "ear": "勒 霍兹 康特 艾勒 努 帕赫多恩",
+      "meaning": "原谅我们时，她们是粉色。",
+      "sourceLineId": "donjuan-timed-227-1",
+      "suppliedText": "Le rose quand elles nous pardonnent De n'etre seulement que des hommes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2459,
+        "anchorEnd": 2464.57,
+        "sourceLineNumber": 227,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2461.785,
+      "sourceText": "De n'être seulement que des hommes",
+      "ipa": "[də nɛtʁ sølmɑ̃ kə dez‿ɔm]",
+      "ear": "德 奈特赫 瑟厄勒芒 克 德兹 哦姆",
+      "meaning": "原谅我们终究只是普通男人。",
+      "sourceLineId": "donjuan-timed-227-2",
+      "suppliedText": "Le rose quand elles nous pardonnent De n'etre seulement que des hommes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2459,
+        "anchorEnd": 2464.57,
+        "sourceLineNumber": 227,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

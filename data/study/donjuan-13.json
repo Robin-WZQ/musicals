@@ -1,0 +1,1030 @@
+{
+  "videoId": "donjuan-13",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=1667"
+    }
+  ],
+  "entries": [
+    {
+      "start": 1667,
+      "sourceText": "Aquella mañana me levanté",
+      "ipa": "[akeʎa maɲana me leβante]",
+      "ear": "阿克耶阿 玛涅阿纳 梅 莱巴恩特",
+      "meaning": "那天早晨我醒来，",
+      "sourceLineId": "donjuan-timed-151-1",
+      "suppliedText": "Aquella manana me levante Ya no estabas tu solo una carta escrita",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1667,
+        "anchorEnd": 1675.57,
+        "sourceLineNumber": 151,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1670.626,
+      "sourceText": "Ya no estabas tú, solo una carta escrita",
+      "ipa": "[ʝa no estaβas tu solo una kaɾta eskɾita]",
+      "ear": "耶阿 诺 诶斯塔巴斯 图 索洛 乌纳 卡赫塔 诶斯克希塔",
+      "meaning": "你已经不在，只留下一封信。",
+      "sourceLineId": "donjuan-timed-151-2",
+      "suppliedText": "Aquella manana me levante Ya no estabas tu solo una carta escrita",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1667,
+        "anchorEnd": 1675.57,
+        "sourceLineNumber": 151,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1676,
+      "sourceText": "Dime porque te has marchado con él",
+      "ipa": "[dime poɾke te as maɾtʃaðo kon el]",
+      "ear": "迪梅 波赫克 特 阿斯 玛赫沙多 科恩 诶勒",
+      "meaning": "告诉我，你为什么跟他走了？",
+      "sourceLineId": "donjuan-timed-152-1",
+      "suppliedText": "Dirme porque te has marchado con el Sin tu amor es imposible mi vida",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1676,
+        "anchorEnd": 1683.57,
+        "sourceLineNumber": 152,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1679.785,
+      "sourceText": "Sin tu amor es imposible mi vida",
+      "ipa": "[sin tu amoɾ es imposiβle mi βiða]",
+      "ear": "西恩 图 阿莫赫 诶斯 伊姆波西布莱 米 比达",
+      "meaning": "没有你的爱，我无法继续生活。",
+      "sourceLineId": "donjuan-timed-152-2",
+      "suppliedText": "Dirme porque te has marchado con el Sin tu amor es imposible mi vida",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1676,
+        "anchorEnd": 1683.57,
+        "sourceLineNumber": 152,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1684,
+      "sourceText": "Amor dame una explicación",
+      "ipa": "[amoɾ ðame una eksplikaθjon]",
+      "ear": "阿莫赫 达梅 乌纳 诶克斯普利卡斯耶奥恩",
+      "meaning": "亲爱的，给我一个解释，",
+      "sourceLineId": "donjuan-timed-153-1",
+      "suppliedText": "Amor darme una explicacion A nuvestra historia de amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1684,
+        "anchorEnd": 1692.44,
+        "sourceLineNumber": 153,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1688.019,
+      "sourceText": "A nuestra historia de amor",
+      "ipa": "[a nwestɾa istoɾja ðe amoɾ]",
+      "ear": "阿 恩乌诶斯特哈 伊斯托赫耶阿 德 阿莫赫",
+      "meaning": "解释我们这段爱情。",
+      "sourceLineId": "donjuan-timed-153-2",
+      "suppliedText": "Amor darme una explicacion A nuvestra historia de amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1684,
+        "anchorEnd": 1692.44,
+        "sourceLineNumber": 153,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1693,
+      "sourceText": "Porque te vas amor mío",
+      "ipa": "[poɾke te βas amoɾ mio]",
+      "ear": "波赫克 特 巴斯 阿莫赫 米奥",
+      "meaning": "我的爱人，你为什么离开？",
+      "sourceLineId": "donjuan-timed-154-1",
+      "suppliedText": "Porque te vas amor mio Porque acaba Porque acaba",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1693,
+        "anchorEnd": 1701,
+        "sourceLineNumber": 154,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1696.2,
+      "sourceText": "Porque acaba",
+      "ipa": "[poɾke akaβa]",
+      "ear": "波赫克 阿卡巴",
+      "meaning": "为什么就这样结束？",
+      "sourceLineId": "donjuan-timed-154-2",
+      "suppliedText": "Porque te vas amor mio Porque acaba Porque acaba",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1693,
+        "anchorEnd": 1701,
+        "sourceLineNumber": 154,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1698.6,
+      "sourceText": "Porque acaba",
+      "ipa": "[poɾke akaβa]",
+      "ear": "波赫克 阿卡巴",
+      "meaning": "为什么就这样结束？",
+      "sourceLineId": "donjuan-timed-154-3",
+      "suppliedText": "Porque te vas amor mio Porque acaba Porque acaba",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1693,
+        "anchorEnd": 1701,
+        "sourceLineNumber": 154,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1701,
+      "sourceText": "No puedo vivir",
+      "ipa": "[no pweðo βiβiɾ]",
+      "ear": "诺 普乌诶多 比比赫",
+      "meaning": "我活不下去。",
+      "sourceLineId": "donjuan-timed-155-1",
+      "suppliedText": "No puedo vivir no puedo vivir morire sin tu amor Y no puedo yo vivir",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1701,
+        "anchorEnd": 1710,
+        "sourceLineNumber": 155,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1702.929,
+      "sourceText": "no puedo vivir moriré sin tu amor",
+      "ipa": "[no pweðo βiβiɾ moɾiɾe sin tu amoɾ]",
+      "ear": "诺 普乌诶多 比比赫 莫希赫 西恩 图 阿莫赫",
+      "meaning": "没有你的爱，我活不下去，我会死去。",
+      "sourceLineId": "donjuan-timed-155-2",
+      "suppliedText": "No puedo vivir no puedo vivir morire sin tu amor Y no puedo yo vivir",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1701,
+        "anchorEnd": 1710,
+        "sourceLineNumber": 155,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1707.107,
+      "sourceText": "Y",
+      "ipa": "[i]",
+      "ear": "伊",
+      "meaning": "而我，",
+      "sourceLineId": "donjuan-timed-155-3",
+      "suppliedText": "No puedo vivir no puedo vivir morire sin tu amor Y no puedo yo vivir",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1701,
+        "anchorEnd": 1710,
+        "sourceLineNumber": 155,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1707.429,
+      "sourceText": "no puedo yo vivir",
+      "ipa": "[no pweðo ʝo βiβiɾ]",
+      "ear": "诺 普乌诶多 耶奥 比比赫",
+      "meaning": "我无法继续活着。",
+      "sourceLineId": "donjuan-timed-155-4",
+      "suppliedText": "No puedo vivir no puedo vivir morire sin tu amor Y no puedo yo vivir",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1701,
+        "anchorEnd": 1710,
+        "sourceLineNumber": 155,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1710,
+      "sourceText": "No puedo vivir",
+      "ipa": "[no pweðo βiβiɾ]",
+      "ear": "诺 普乌诶多 比比赫",
+      "meaning": "我活不下去。",
+      "sourceLineId": "donjuan-timed-156-1",
+      "suppliedText": "No puedo vivir no puedo vivir morire sin tu amor Contigo vivir",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1710,
+        "anchorEnd": 1719,
+        "sourceLineNumber": 156,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1712.25,
+      "sourceText": "no puedo vivir moriré sin tu amor",
+      "ipa": "[no pweðo βiβiɾ moɾiɾe sin tu amoɾ]",
+      "ear": "诺 普乌诶多 比比赫 莫希赫 西恩 图 阿莫赫",
+      "meaning": "没有你的爱，我活不下去，我会死去。",
+      "sourceLineId": "donjuan-timed-156-2",
+      "suppliedText": "No puedo vivir no puedo vivir morire sin tu amor Contigo vivir",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1710,
+        "anchorEnd": 1719,
+        "sourceLineNumber": 156,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1717.125,
+      "sourceText": "Contigo vivir",
+      "ipa": "[kontiɣo βiβiɾ]",
+      "ear": "科恩蒂戈 比比赫",
+      "meaning": "我要与你一起生活。",
+      "sourceLineId": "donjuan-timed-156-3",
+      "suppliedText": "No puedo vivir no puedo vivir morire sin tu amor Contigo vivir",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1710,
+        "anchorEnd": 1719,
+        "sourceLineNumber": 156,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1719,
+      "sourceText": "Hoy mi vida no parece nada",
+      "ipa": "[oj mi βiða no paɾeθe naða]",
+      "ear": "奥耶 米 比达 诺 帕赫塞 纳达",
+      "meaning": "如今我的生活仿佛失去了一切。",
+      "sourceLineId": "donjuan-timed-157-1",
+      "suppliedText": "Hoy mi vida no parece nada En cada sitio te imagino y teveo aperecer",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1719,
+        "anchorEnd": 1727.72,
+        "sourceLineNumber": 157,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1722.197,
+      "sourceText": "En cada sitio te imagino y te veo aparecer",
+      "ipa": "[en kaða sitjo te imaxino i te βeo apaɾeθeɾ]",
+      "ear": "诶恩 卡达 西特耶奥 特 伊玛希诺 伊 特 贝奥 阿帕赫塞赫",
+      "meaning": "走到哪里，我都想起你，仿佛看见你出现。",
+      "sourceLineId": "donjuan-timed-157-2",
+      "suppliedText": "Hoy mi vida no parece nada En cada sitio te imagino y teveo aperecer",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1719,
+        "anchorEnd": 1727.72,
+        "sourceLineNumber": 157,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1728,
+      "sourceText": "De mi mente todas esas noches no se me van",
+      "ipa": "[de mi mɛnte toðas esas notʃes no se me βan]",
+      "ear": "德 米 梅恩特 托达斯 诶萨斯 诺谢斯 诺 塞 梅 巴恩",
+      "meaning": "那些夜晚，怎么也无法从我脑海里抹去。",
+      "sourceLineId": "donjuan-timed-158-1",
+      "suppliedText": "De mi mente todas esas noches no se me van Sentado en ese sofa te recuerdo Vuelve vuelve",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1728,
+        "anchorEnd": 1736.99,
+        "sourceLineNumber": 158,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1731.933,
+      "sourceText": "Sentado en ese sofá te recuerdo",
+      "ipa": "[sentaðo en ese sofa te rekweɾðo]",
+      "ear": "塞恩塔多 诶恩 诶塞 索法 特 赫克乌诶赫多",
+      "meaning": "坐在那张沙发上，我想起你。",
+      "sourceLineId": "donjuan-timed-158-2",
+      "suppliedText": "De mi mente todas esas noches no se me van Sentado en ese sofa te recuerdo Vuelve vuelve",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1728,
+        "anchorEnd": 1736.99,
+        "sourceLineNumber": 158,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1735.304,
+      "sourceText": "Vuelve vuelve",
+      "ipa": "[bwelβe βwelβe]",
+      "ear": "布乌诶勒贝 布乌诶勒贝",
+      "meaning": "回来吧，回来吧。",
+      "sourceLineId": "donjuan-timed-158-3",
+      "suppliedText": "De mi mente todas esas noches no se me van Sentado en ese sofa te recuerdo Vuelve vuelve",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1728,
+        "anchorEnd": 1736.99,
+        "sourceLineNumber": 158,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1737,
+      "sourceText": "Amor dame una explicación",
+      "ipa": "[amoɾ ðame una eksplikaθjon]",
+      "ear": "阿莫赫 达梅 乌纳 诶克斯普利卡斯耶奥恩",
+      "meaning": "亲爱的，给我一个解释，",
+      "sourceLineId": "donjuan-timed-159-1",
+      "suppliedText": "Amor darme una explicacion A nuvestra historia de amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1737,
+        "anchorEnd": 1745,
+        "sourceLineNumber": 159,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1740.81,
+      "sourceText": "A nuestra historia de amor",
+      "ipa": "[a nwestɾa istoɾja ðe amoɾ]",
+      "ear": "阿 恩乌诶斯特哈 伊斯托赫耶阿 德 阿莫赫",
+      "meaning": "解释我们这段爱情。",
+      "sourceLineId": "donjuan-timed-159-2",
+      "suppliedText": "Amor darme una explicacion A nuvestra historia de amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1737,
+        "anchorEnd": 1745,
+        "sourceLineNumber": 159,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1745,
+      "sourceText": "Porque te vas amor mío",
+      "ipa": "[poɾke te βas amoɾ mio]",
+      "ear": "波赫克 特 巴斯 阿莫赫 米奥",
+      "meaning": "我的爱人，你为什么离开？",
+      "sourceLineId": "donjuan-timed-160-1",
+      "suppliedText": "Porque te vas amor mio Porque acaba Porque acaba",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1745,
+        "anchorEnd": 1753.95,
+        "sourceLineNumber": 160,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1748.58,
+      "sourceText": "Porque acaba",
+      "ipa": "[poɾke akaβa]",
+      "ear": "波赫克 阿卡巴",
+      "meaning": "为什么就这样结束？",
+      "sourceLineId": "donjuan-timed-160-2",
+      "suppliedText": "Porque te vas amor mio Porque acaba Porque acaba",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1745,
+        "anchorEnd": 1753.95,
+        "sourceLineNumber": 160,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1751.265,
+      "sourceText": "Porque acaba",
+      "ipa": "[poɾke akaβa]",
+      "ear": "波赫克 阿卡巴",
+      "meaning": "为什么就这样结束？",
+      "sourceLineId": "donjuan-timed-160-3",
+      "suppliedText": "Porque te vas amor mio Porque acaba Porque acaba",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1745,
+        "anchorEnd": 1753.95,
+        "sourceLineNumber": 160,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1754,
+      "sourceText": "No puedo vivir",
+      "ipa": "[no pweðo βiβiɾ]",
+      "ear": "诺 普乌诶多 比比赫",
+      "meaning": "我活不下去。",
+      "sourceLineId": "donjuan-timed-161-1",
+      "suppliedText": "No puedo vivir no puedo vivir morire sin tu amor Y no puedo yo vivir",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1754,
+        "anchorEnd": 1762,
+        "sourceLineNumber": 161,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1755.714,
+      "sourceText": "no puedo vivir moriré sin tu amor",
+      "ipa": "[no pweðo βiβiɾ moɾiɾe sin tu amoɾ]",
+      "ear": "诺 普乌诶多 比比赫 莫希赫 西恩 图 阿莫赫",
+      "meaning": "没有你的爱，我活不下去，我会死去。",
+      "sourceLineId": "donjuan-timed-161-2",
+      "suppliedText": "No puedo vivir no puedo vivir morire sin tu amor Y no puedo yo vivir",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1754,
+        "anchorEnd": 1762,
+        "sourceLineNumber": 161,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1759.429,
+      "sourceText": "Y",
+      "ipa": "[i]",
+      "ear": "伊",
+      "meaning": "而我，",
+      "sourceLineId": "donjuan-timed-161-3",
+      "suppliedText": "No puedo vivir no puedo vivir morire sin tu amor Y no puedo yo vivir",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1754,
+        "anchorEnd": 1762,
+        "sourceLineNumber": 161,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1759.714,
+      "sourceText": "no puedo yo vivir",
+      "ipa": "[no pweðo ʝo βiβiɾ]",
+      "ear": "诺 普乌诶多 耶奥 比比赫",
+      "meaning": "我无法继续活着。",
+      "sourceLineId": "donjuan-timed-161-4",
+      "suppliedText": "No puedo vivir no puedo vivir morire sin tu amor Y no puedo yo vivir",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1754,
+        "anchorEnd": 1762,
+        "sourceLineNumber": 161,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1762,
+      "sourceText": "No puedo vivir",
+      "ipa": "[no pweðo βiβiɾ]",
+      "ear": "诺 普乌诶多 比比赫",
+      "meaning": "我活不下去。",
+      "sourceLineId": "donjuan-timed-162-1",
+      "suppliedText": "No puedo vivir no puedo vivir morire sin tu amor Contigo vivir",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1762,
+        "anchorEnd": 1772.01,
+        "sourceLineNumber": 162,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1764.503,
+      "sourceText": "no puedo vivir moriré sin tu amor",
+      "ipa": "[no pweðo βiβiɾ moɾiɾe sin tu amoɾ]",
+      "ear": "诺 普乌诶多 比比赫 莫希赫 西恩 图 阿莫赫",
+      "meaning": "没有你的爱，我活不下去，我会死去。",
+      "sourceLineId": "donjuan-timed-162-2",
+      "suppliedText": "No puedo vivir no puedo vivir morire sin tu amor Contigo vivir",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1762,
+        "anchorEnd": 1772.01,
+        "sourceLineNumber": 162,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1769.925,
+      "sourceText": "Contigo vivir",
+      "ipa": "[kontiɣo βiβiɾ]",
+      "ear": "科恩蒂戈 比比赫",
+      "meaning": "我要与你一起生活。",
+      "sourceLineId": "donjuan-timed-162-3",
+      "suppliedText": "No puedo vivir no puedo vivir morire sin tu amor Contigo vivir",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1762,
+        "anchorEnd": 1772.01,
+        "sourceLineNumber": 162,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1789,
+      "sourceText": "Es imposible de vivir de vivir de esa manera",
+      "ipa": "[es imposiβle ðe βiβiɾ ðe βiβiɾ ðe esa maneɾa]",
+      "ear": "诶斯 伊姆波西布莱 德 比比赫 德 比比赫 德 诶萨 玛内哈",
+      "meaning": "这样下去，我实在活不下去。",
+      "sourceLineId": "donjuan-timed-163-1",
+      "suppliedText": "Es imposible de vivir de vivir de esa manera",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 1789,
+        "anchorEnd": 1796,
+        "sourceLineNumber": 163,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1796,
+      "sourceText": "Vuelve junto a mí",
+      "ipa": "[bwelβe xunto a mi]",
+      "ear": "布乌诶勒贝 胡恩托 阿 米",
+      "meaning": "回到我身边吧。",
+      "sourceLineId": "donjuan-timed-164-1",
+      "suppliedText": "Vuelve junto a mi Te lo pido aue vuelvas vuelve",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1796,
+        "anchorEnd": 1803.79,
+        "sourceLineNumber": 164,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1798.597,
+      "sourceText": "Te lo pido que vuelvas vuelve",
+      "ipa": "[te lo piðo ke βwelβas βwelβe]",
+      "ear": "特 洛 皮多 克 布乌诶勒巴斯 布乌诶勒贝",
+      "meaning": "求你回来，回来吧。",
+      "sourceLineId": "donjuan-timed-164-2",
+      "suppliedText": "Vuelve junto a mi Te lo pido aue vuelvas vuelve",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1796,
+        "anchorEnd": 1803.79,
+        "sourceLineNumber": 164,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1804,
+      "sourceText": "no puedo vivir",
+      "ipa": "[no pweðo βiβiɾ]",
+      "ear": "诺 普乌诶多 比比赫",
+      "meaning": "我活不下去。",
+      "sourceLineId": "donjuan-timed-165-1",
+      "suppliedText": "no puedo vivie No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1804,
+        "anchorEnd": 1813,
+        "sourceLineNumber": 165,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1806.16,
+      "sourceText": "No puedo vivir",
+      "ipa": "[no pweðo βiβiɾ]",
+      "ear": "诺 普乌诶多 比比赫",
+      "meaning": "我活不下去。",
+      "sourceLineId": "donjuan-timed-165-2",
+      "suppliedText": "no puedo vivie No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1804,
+        "anchorEnd": 1813,
+        "sourceLineNumber": 165,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1808.32,
+      "sourceText": "no puedo vivir moriré sin tu amor",
+      "ipa": "[no pweðo βiβiɾ moɾiɾe sin tu amoɾ]",
+      "ear": "诺 普乌诶多 比比赫 莫希赫 西恩 图 阿莫赫",
+      "meaning": "没有你的爱，我活不下去，我会死去。",
+      "sourceLineId": "donjuan-timed-165-3",
+      "suppliedText": "no puedo vivie No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1804,
+        "anchorEnd": 1813,
+        "sourceLineNumber": 165,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1813,
+      "sourceText": "Y",
+      "ipa": "[i]",
+      "ear": "伊",
+      "meaning": "而我，",
+      "sourceLineId": "donjuan-timed-166-1",
+      "suppliedText": "Y no puedo yo vivir No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1813,
+        "anchorEnd": 1821,
+        "sourceLineNumber": 166,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1813.286,
+      "sourceText": "no puedo yo vivir",
+      "ipa": "[no pweðo ʝo βiβiɾ]",
+      "ear": "诺 普乌诶多 耶奥 比比赫",
+      "meaning": "我无法继续活着。",
+      "sourceLineId": "donjuan-timed-166-2",
+      "suppliedText": "Y no puedo yo vivir No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1813,
+        "anchorEnd": 1821,
+        "sourceLineNumber": 166,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1815.571,
+      "sourceText": "No puedo vivir",
+      "ipa": "[no pweðo βiβiɾ]",
+      "ear": "诺 普乌诶多 比比赫",
+      "meaning": "我活不下去。",
+      "sourceLineId": "donjuan-timed-166-3",
+      "suppliedText": "Y no puedo yo vivir No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1813,
+        "anchorEnd": 1821,
+        "sourceLineNumber": 166,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1817.286,
+      "sourceText": "no puedo vivir moriré sin tu amor",
+      "ipa": "[no pweðo βiβiɾ moɾiɾe sin tu amoɾ]",
+      "ear": "诺 普乌诶多 比比赫 莫希赫 西恩 图 阿莫赫",
+      "meaning": "没有你的爱，我活不下去，我会死去。",
+      "sourceLineId": "donjuan-timed-166-4",
+      "suppliedText": "Y no puedo yo vivir No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1813,
+        "anchorEnd": 1821,
+        "sourceLineNumber": 166,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1821,
+      "sourceText": "Contigo vivir",
+      "ipa": "[kontiɣo βiβiɾ]",
+      "ear": "科恩蒂戈 比比赫",
+      "meaning": "我要与你一起生活。",
+      "sourceLineId": "donjuan-timed-167-1",
+      "suppliedText": "Contigo vivir No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1821,
+        "anchorEnd": 1830,
+        "sourceLineNumber": 167,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1822.875,
+      "sourceText": "No puedo vivir",
+      "ipa": "[no pweðo βiβiɾ]",
+      "ear": "诺 普乌诶多 比比赫",
+      "meaning": "我活不下去。",
+      "sourceLineId": "donjuan-timed-167-2",
+      "suppliedText": "Contigo vivir No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1821,
+        "anchorEnd": 1830,
+        "sourceLineNumber": 167,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1825.125,
+      "sourceText": "no puedo vivir moriré sin tu amor",
+      "ipa": "[no pweðo βiβiɾ moɾiɾe sin tu amoɾ]",
+      "ear": "诺 普乌诶多 比比赫 莫希赫 西恩 图 阿莫赫",
+      "meaning": "没有你的爱，我活不下去，我会死去。",
+      "sourceLineId": "donjuan-timed-167-3",
+      "suppliedText": "Contigo vivir No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1821,
+        "anchorEnd": 1830,
+        "sourceLineNumber": 167,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1830,
+      "sourceText": "Contigo vivir",
+      "ipa": "[kontiɣo βiβiɾ]",
+      "ear": "科恩蒂戈 比比赫",
+      "meaning": "我要与你一起生活。",
+      "sourceLineId": "donjuan-timed-168-1",
+      "suppliedText": "Contigo vivir No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1830,
+        "anchorEnd": 1839,
+        "sourceLineNumber": 168,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1831.875,
+      "sourceText": "No puedo vivir",
+      "ipa": "[no pweðo βiβiɾ]",
+      "ear": "诺 普乌诶多 比比赫",
+      "meaning": "我活不下去。",
+      "sourceLineId": "donjuan-timed-168-2",
+      "suppliedText": "Contigo vivir No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1830,
+        "anchorEnd": 1839,
+        "sourceLineNumber": 168,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1834.125,
+      "sourceText": "no puedo vivir moriré sin tu amor",
+      "ipa": "[no pweðo βiβiɾ moɾiɾe sin tu amoɾ]",
+      "ear": "诺 普乌诶多 比比赫 莫希赫 西恩 图 阿莫赫",
+      "meaning": "没有你的爱，我活不下去，我会死去。",
+      "sourceLineId": "donjuan-timed-168-3",
+      "suppliedText": "Contigo vivir No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1830,
+        "anchorEnd": 1839,
+        "sourceLineNumber": 168,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1839,
+      "sourceText": "Contigo vivir",
+      "ipa": "[kontiɣo βiβiɾ]",
+      "ear": "科恩蒂戈 比比赫",
+      "meaning": "我要与你一起生活。",
+      "sourceLineId": "donjuan-timed-169-1",
+      "suppliedText": "Contigo vivir No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1839,
+        "anchorEnd": 1847.94,
+        "sourceLineNumber": 169,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1840.862,
+      "sourceText": "No puedo vivir",
+      "ipa": "[no pweðo βiβiɾ]",
+      "ear": "诺 普乌诶多 比比赫",
+      "meaning": "我活不下去。",
+      "sourceLineId": "donjuan-timed-169-2",
+      "suppliedText": "Contigo vivir No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1839,
+        "anchorEnd": 1847.94,
+        "sourceLineNumber": 169,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1843.097,
+      "sourceText": "no puedo vivir moriré sin tu amor",
+      "ipa": "[no pweðo βiβiɾ moɾiɾe sin tu amoɾ]",
+      "ear": "诺 普乌诶多 比比赫 莫希赫 西恩 图 阿莫赫",
+      "meaning": "没有你的爱，我活不下去，我会死去。",
+      "sourceLineId": "donjuan-timed-169-3",
+      "suppliedText": "Contigo vivir No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1839,
+        "anchorEnd": 1847.94,
+        "sourceLineNumber": 169,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1848,
+      "sourceText": "Contigo vivir",
+      "ipa": "[kontiɣo βiβiɾ]",
+      "ear": "科恩蒂戈 比比赫",
+      "meaning": "我要与你一起生活。",
+      "sourceLineId": "donjuan-timed-170-1",
+      "suppliedText": "Contigo vivir No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1848,
+        "anchorEnd": 1856,
+        "sourceLineNumber": 170,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1849.667,
+      "sourceText": "No puedo vivir",
+      "ipa": "[no pweðo βiβiɾ]",
+      "ear": "诺 普乌诶多 比比赫",
+      "meaning": "我活不下去。",
+      "sourceLineId": "donjuan-timed-170-2",
+      "suppliedText": "Contigo vivir No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1848,
+        "anchorEnd": 1856,
+        "sourceLineNumber": 170,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1851.667,
+      "sourceText": "no puedo vivir moriré sin tu amor",
+      "ipa": "[no pweðo βiβiɾ moɾiɾe sin tu amoɾ]",
+      "ear": "诺 普乌诶多 比比赫 莫希赫 西恩 图 阿莫赫",
+      "meaning": "没有你的爱，我活不下去，我会死去。",
+      "sourceLineId": "donjuan-timed-170-3",
+      "suppliedText": "Contigo vivir No puedo vivir no puedo vivir morire sin tu amor",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1848,
+        "anchorEnd": 1856,
+        "sourceLineNumber": 170,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1856,
+      "sourceText": "Contigo vivir",
+      "ipa": "[kontiɣo βiβiɾ]",
+      "ear": "科恩蒂戈 比比赫",
+      "meaning": "我要与你一起生活。",
+      "sourceLineId": "donjuan-timed-171-1",
+      "suppliedText": "Contigo vivir",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 1856,
+        "anchorEnd": 1861.96,
+        "sourceLineNumber": 171,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

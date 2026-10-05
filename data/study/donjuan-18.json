@@ -1,0 +1,1066 @@
+{
+  "videoId": "donjuan-18",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=2661"
+    }
+  ],
+  "entries": [
+    {
+      "start": 2661,
+      "sourceText": "Ce n'était pas encore elle,",
+      "ipa": "[sə netɛ pa ɑ̃kɔʁ‿ɛl]",
+      "ear": "瑟 内泰 帕 昂科赫 艾勒",
+      "meaning": "还不是她，",
+      "sourceLineId": "donjuan-timed-245-1",
+      "suppliedText": "Ce n'etait pas encore elle, La femme de ta vie Ni les putes ni les pucelles",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2661,
+        "anchorEnd": 2670,
+        "sourceLineNumber": 245,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2664.462,
+      "sourceText": "La femme de ta vie",
+      "ipa": "[la fam də ta vi]",
+      "ear": "拉 法姆 德 塔 维",
+      "meaning": "那个与你共度一生的女人。",
+      "sourceLineId": "donjuan-timed-245-2",
+      "suppliedText": "Ce n'etait pas encore elle, La femme de ta vie Ni les putes ni les pucelles",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2661,
+        "anchorEnd": 2670,
+        "sourceLineNumber": 245,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2666.885,
+      "sourceText": "Ni les putes ni les pucelles",
+      "ipa": "[ni le pyt ni le pysɛl]",
+      "ear": "尼 莱 普于特 尼 莱 普于塞勒",
+      "meaning": "无论妓女还是少女，",
+      "sourceLineId": "donjuan-timed-245-3",
+      "suppliedText": "Ce n'etait pas encore elle, La femme de ta vie Ni les putes ni les pucelles",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2661,
+        "anchorEnd": 2670,
+        "sourceLineNumber": 245,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2670,
+      "sourceText": "Ne t'auront appris",
+      "ipa": "[nə toʁɔ̃ apʁi]",
+      "ear": "讷 托洪 阿普希",
+      "meaning": "都没能教会你爱情。",
+      "sourceLineId": "donjuan-timed-246-1",
+      "suppliedText": "Ne t'auront appris Ni les larmes dans leurs yeux Ne t'auront emu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2670,
+        "anchorEnd": 2678.97,
+        "sourceLineNumber": 246,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2672.446,
+      "sourceText": "Ni les larmes dans leurs yeux",
+      "ipa": "[ni le laʁm dɑ̃ lœʁz‿jø]",
+      "ear": "尼 莱 拉赫姆 当 勒厄赫兹 耶厄",
+      "meaning": "就连她们眼中的泪，",
+      "sourceLineId": "donjuan-timed-246-2",
+      "suppliedText": "Ne t'auront appris Ni les larmes dans leurs yeux Ne t'auront emu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2670,
+        "anchorEnd": 2678.97,
+        "sourceLineNumber": 246,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2676.524,
+      "sourceText": "Ne t'auront ému",
+      "ipa": "[nə toʁɔ̃ emy]",
+      "ear": "讷 托洪 诶米于",
+      "meaning": "也没能打动你。",
+      "sourceLineId": "donjuan-timed-246-3",
+      "suppliedText": "Ne t'auront appris Ni les larmes dans leurs yeux Ne t'auront emu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2670,
+        "anchorEnd": 2678.97,
+        "sourceLineNumber": 246,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2680,
+      "sourceText": "Tant pis pour toutes celles ou ceux",
+      "ipa": "[tɑ̃pi puʁ tut sɛl u sø]",
+      "ear": "唐皮 普赫 图特 塞勒 乌 瑟厄",
+      "meaning": "可怜那些——",
+      "sourceLineId": "donjuan-timed-247-1",
+      "suppliedText": "Tqnt pis pour toutes celles ou ceux Qui t'auront cru Ce n'etaint pas encore elle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2680,
+        "anchorEnd": 2687.71,
+        "sourceLineNumber": 247,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2683.456,
+      "sourceText": "Qui t'auront cru",
+      "ipa": "[ki toʁɔ̃ kʁy]",
+      "ear": "基 托洪 克许",
+      "meaning": "曾经相信你的人。",
+      "sourceLineId": "donjuan-timed-247-2",
+      "suppliedText": "Tqnt pis pour toutes celles ou ceux Qui t'auront cru Ce n'etaint pas encore elle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2680,
+        "anchorEnd": 2687.71,
+        "sourceLineNumber": 247,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2685.051,
+      "sourceText": "Ce n'était pas encore elle",
+      "ipa": "[sə netɛ pa ɑ̃kɔʁ‿ɛl]",
+      "ear": "瑟 内泰 帕 昂科赫 艾勒",
+      "meaning": "还不是她",
+      "sourceLineId": "donjuan-timed-247-3",
+      "suppliedText": "Tqnt pis pour toutes celles ou ceux Qui t'auront cru Ce n'etaint pas encore elle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2680,
+        "anchorEnd": 2687.71,
+        "sourceLineNumber": 247,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2689,
+      "sourceText": "Qu'est-ce que ça peut faire",
+      "ipa": "[kɛskə sa pø fɛʁ]",
+      "ear": "凯斯克 萨 珀厄 费赫",
+      "meaning": "那又有什么关系？",
+      "sourceLineId": "donjuan-timed-248-1",
+      "suppliedText": "Qu'est-ce que ca peut faire Et puis de quoi tu te meles Elle a de me plaire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2689,
+        "anchorEnd": 2697.61,
+        "sourceLineNumber": 248,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2691.87,
+      "sourceText": "Et puis de quoi tu te mêles",
+      "ipa": "[e pɥi də kwa ty tə mɛl]",
+      "ear": "诶 普于伊 德 克乌阿 蒂于 特 梅勒",
+      "meaning": "你又何必管我的事？",
+      "sourceLineId": "donjuan-timed-248-2",
+      "suppliedText": "Qu'est-ce que ca peut faire Et puis de quoi tu te meles Elle a de me plaire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2689,
+        "anchorEnd": 2697.61,
+        "sourceLineNumber": 248,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2694.74,
+      "sourceText": "Elle a de quoi me plaire",
+      "ipa": "[ɛl‿a də kwa mə plɛʁ]",
+      "ear": "艾勒 阿 德 克乌阿 默 普莱赫",
+      "meaning": "她有让我喜欢的地方。",
+      "sourceLineId": "donjuan-timed-248-3",
+      "suppliedText": "Qu'est-ce que ca peut faire Et puis de quoi tu te meles Elle a de me plaire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2689,
+        "anchorEnd": 2697.61,
+        "sourceLineNumber": 248,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2699,
+      "sourceText": "Pour un moment de plaisir",
+      "ipa": "[puʁ‿œ̃ momɑ̃ də plɛziʁ]",
+      "ear": "普赫 恩 莫芒 德 普莱齐赫",
+      "meaning": "为了片刻的快乐",
+      "sourceLineId": "donjuan-timed-249-1",
+      "suppliedText": "Pour un moment de plaisir Un instant seulement Je ne veux pas d'avenir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2699,
+        "anchorEnd": 2707,
+        "sourceLineNumber": 249,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2702.0,
+      "sourceText": "Un instant seulement",
+      "ipa": "[œ̃n‿ɛ̃stɑ̃ sølmɑ̃]",
+      "ear": "恩恩 安斯唐 瑟厄勒芒",
+      "meaning": "就这短短一刻。",
+      "sourceLineId": "donjuan-timed-249-2",
+      "suppliedText": "Pour un moment de plaisir Un instant seulement Je ne veux pas d'avenir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2699,
+        "anchorEnd": 2707,
+        "sourceLineNumber": 249,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2704.333,
+      "sourceText": "Je ne veux pas d'avenir",
+      "ipa": "[ʒə nə vø pa davniʁ]",
+      "ear": "热 讷 弗厄 帕 达弗尼赫",
+      "meaning": "我不想要未来",
+      "sourceLineId": "donjuan-timed-249-3",
+      "suppliedText": "Pour un moment de plaisir Un instant seulement Je ne veux pas d'avenir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2699,
+        "anchorEnd": 2707,
+        "sourceLineNumber": 249,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2707,
+      "sourceText": "Je reste un amant",
+      "ipa": "[ʒə ʁɛst‿œ̃n‿amɑ̃]",
+      "ear": "热 赫斯特 恩恩 阿芒",
+      "meaning": "我依然是情人",
+      "sourceLineId": "donjuan-timed-250-1",
+      "suppliedText": "Je reste un amant L'amour quand il vient,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2707,
+        "anchorEnd": 2715.86,
+        "sourceLineNumber": 250,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2710.797,
+      "sourceText": "L'amour quand il vient,",
+      "ipa": "[lamuʁ kɑ̃t‿il vjɛ̃]",
+      "ear": "拉穆赫 康特 伊勒 弗耶安",
+      "meaning": "爱情来临时，",
+      "sourceLineId": "donjuan-timed-250-2",
+      "suppliedText": "Je reste un amant L'amour quand il vient,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2707,
+        "anchorEnd": 2715.86,
+        "sourceLineNumber": 250,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2716,
+      "sourceText": "On ne l'attend pas",
+      "ipa": "[ɔ̃ nə latɑ̃ pa]",
+      "ear": "翁 讷 拉唐 帕",
+      "meaning": "它常在意料之外到来，",
+      "sourceLineId": "donjuan-timed-251-1",
+      "suppliedText": "On ne l'attend pas Mais il est la C'est une histoire Entre elle et toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2716,
+        "anchorEnd": 2724,
+        "sourceLineNumber": 251,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2717.667,
+      "sourceText": "Mais il est là",
+      "ipa": "[mɛ il‿ɛ la]",
+      "ear": "梅 伊勒 艾 拉",
+      "meaning": "可它已经来到了。",
+      "sourceLineId": "donjuan-timed-251-2",
+      "suppliedText": "On ne l'attend pas Mais il est la C'est une histoire Entre elle et toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2716,
+        "anchorEnd": 2724,
+        "sourceLineNumber": 251,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2719.333,
+      "sourceText": "C'est une histoire",
+      "ipa": "[sɛt‿yn‿istwaʁ]",
+      "ear": "塞特 于恩 伊斯特乌阿赫",
+      "meaning": "这是一个故事",
+      "sourceLineId": "donjuan-timed-251-3",
+      "suppliedText": "On ne l'attend pas Mais il est la C'est une histoire Entre elle et toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2716,
+        "anchorEnd": 2724,
+        "sourceLineNumber": 251,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2721.667,
+      "sourceText": "Entre elle et toi",
+      "ipa": "[ɑ̃tʁ‿ɛl e twa]",
+      "ear": "昂特赫 艾勒 诶 特乌阿",
+      "meaning": "她和你之间",
+      "sourceLineId": "donjuan-timed-251-4",
+      "suppliedText": "On ne l'attend pas Mais il est la C'est une histoire Entre elle et toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2716,
+        "anchorEnd": 2724,
+        "sourceLineNumber": 251,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2724,
+      "sourceText": "L'amour quand il vient,",
+      "ipa": "[lamuʁ kɑ̃t‿il vjɛ̃]",
+      "ear": "拉穆赫 康特 伊勒 弗耶安",
+      "meaning": "爱情来临时，",
+      "sourceLineId": "donjuan-timed-252-1",
+      "suppliedText": "L'amour quand il vient, Il te delivre, Il fait de toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2724,
+        "anchorEnd": 2732,
+        "sourceLineNumber": 252,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2727.368,
+      "sourceText": "Il te délivre,",
+      "ipa": "[il tə delivʁ]",
+      "ear": "伊勒 特 德利弗赫",
+      "meaning": "爱情会让你解脱，",
+      "sourceLineId": "donjuan-timed-252-2",
+      "suppliedText": "L'amour quand il vient, Il te delivre, Il fait de toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2724,
+        "anchorEnd": 2732,
+        "sourceLineNumber": 252,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2729.474,
+      "sourceText": "Il fait de toi",
+      "ipa": "[il fɛ də twa]",
+      "ear": "伊勒 费 德 特乌阿",
+      "meaning": "让你变成，",
+      "sourceLineId": "donjuan-timed-252-3",
+      "suppliedText": "L'amour quand il vient, Il te delivre, Il fait de toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2724,
+        "anchorEnd": 2732,
+        "sourceLineNumber": 252,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2732,
+      "sourceText": "Comme un autre homme",
+      "ipa": "[kɔm‿œ̃n‿otʁ‿ɔm]",
+      "ear": "科姆 恩恩 奥特赫 哦姆",
+      "meaning": "像变了一个人。",
+      "sourceLineId": "donjuan-timed-253-1",
+      "suppliedText": "Comme un autre homme Que tu n'es pas Tu verras qu'un jour ou l'autre,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2732,
+        "anchorEnd": 2740.91,
+        "sourceLineNumber": 253,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2734.851,
+      "sourceText": "Que tu n'es pas",
+      "ipa": "[kə ty nɛ pa]",
+      "ear": "克 蒂于 奈 帕",
+      "meaning": "一个从前的你不曾是的人。",
+      "sourceLineId": "donjuan-timed-253-2",
+      "suppliedText": "Comme un autre homme Que tu n'es pas Tu verras qu'un jour ou l'autre,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2732,
+        "anchorEnd": 2740.91,
+        "sourceLineNumber": 253,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2736.633,
+      "sourceText": "Tu verras qu'un jour ou l'autre,",
+      "ipa": "[ty vɛʁa kœ̃ ʒuʁ‿u lotʁ]",
+      "ear": "蒂于 韦哈 坎 茹赫 乌 洛特赫",
+      "meaning": "你会发现，迟早有一天，",
+      "sourceLineId": "donjuan-timed-253-3",
+      "suppliedText": "Comme un autre homme Que tu n'es pas Tu verras qu'un jour ou l'autre,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2732,
+        "anchorEnd": 2740.91,
+        "sourceLineNumber": 253,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2742,
+      "sourceText": "Tu les paieras cher,",
+      "ipa": "[ty le pɛʁa ʃɛʁ]",
+      "ear": "蒂于 莱 佩哈 谢赫",
+      "meaning": "你会付出沉重的代价，",
+      "sourceLineId": "donjuan-timed-254-1",
+      "suppliedText": "Tu les paieras cher, Les plus terribles de tes fautes, De sang ou de chair",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2742,
+        "anchorEnd": 2750.99,
+        "sourceLineNumber": 254,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2744.622,
+      "sourceText": "Les plus terribles de tes fautes,",
+      "ipa": "[le ply tɛʁibl də te fot]",
+      "ear": "莱 普吕 泰希布勒 德 特 佛特",
+      "meaning": "为自己最严重的罪，",
+      "sourceLineId": "donjuan-timed-254-2",
+      "suppliedText": "Tu les paieras cher, Les plus terribles de tes fautes, De sang ou de chair",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2742,
+        "anchorEnd": 2750.99,
+        "sourceLineNumber": 254,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2748.368,
+      "sourceText": "De sang ou de chair",
+      "ipa": "[də sɑ̃ u də ʃɛʁ]",
+      "ear": "德 桑 乌 德 谢赫",
+      "meaning": "为流血，为肉欲。",
+      "sourceLineId": "donjuan-timed-254-3",
+      "suppliedText": "Tu les paieras cher, Les plus terribles de tes fautes, De sang ou de chair",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2742,
+        "anchorEnd": 2750.99,
+        "sourceLineNumber": 254,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2752,
+      "sourceText": "Quand l'amour arrivera,",
+      "ipa": "[kɑ̃ lamuʁ‿aʁivʁa]",
+      "ear": "康 拉穆赫 阿希弗哈",
+      "meaning": "当爱情到来时，",
+      "sourceLineId": "donjuan-timed-255-1",
+      "suppliedText": "Quand l'amour arrivera, Au lieu d'etre beau Il ne sera fait pour toi,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2752,
+        "anchorEnd": 2760.73,
+        "sourceLineNumber": 255,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2754.709,
+      "sourceText": "Au lieu d'être beau",
+      "ipa": "[o ljø dɛtʁ bo]",
+      "ear": "奥 勒耶厄 戴特赫 博",
+      "meaning": "爱情会失去美好，",
+      "sourceLineId": "donjuan-timed-255-2",
+      "suppliedText": "Quand l'amour arrivera, Au lieu d'etre beau Il ne sera fait pour toi,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2752,
+        "anchorEnd": 2760.73,
+        "sourceLineNumber": 255,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2757.72,
+      "sourceText": "Il ne sera fait pour toi,",
+      "ipa": "[il nə səʁa fɛ puʁ twa]",
+      "ear": "伊勒 讷 瑟哈 费 普赫 特乌阿",
+      "meaning": "对你而言，爱情——",
+      "sourceLineId": "donjuan-timed-255-3",
+      "suppliedText": "Quand l'amour arrivera, Au lieu d'etre beau Il ne sera fait pour toi,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2752,
+        "anchorEnd": 2760.73,
+        "sourceLineNumber": 255,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2761,
+      "sourceText": "Que de peine et sanglots",
+      "ipa": "[kə də pɛn e sɑ̃ɡlo]",
+      "ear": "克 德 佩恩 诶 桑格洛",
+      "meaning": "只会充满痛苦和哭泣。",
+      "sourceLineId": "donjuan-timed-256-1",
+      "suppliedText": "Que de peine et sanglots L'amour qu'est-ce que ca veut dire, Il n'existe pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2761,
+        "anchorEnd": 2769.42,
+        "sourceLineNumber": 256,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2763.807,
+      "sourceText": "L'amour qu'est-ce que ça veut dire,",
+      "ipa": "[lamuʁ kɛskə sa vø diʁ]",
+      "ear": "拉穆赫 凯斯克 萨 弗厄 迪赫",
+      "meaning": "爱是什么意思？",
+      "sourceLineId": "donjuan-timed-256-2",
+      "suppliedText": "Que de peine et sanglots L'amour qu'est-ce que ca veut dire, Il n'existe pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2761,
+        "anchorEnd": 2769.42,
+        "sourceLineNumber": 256,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2767.861,
+      "sourceText": "Il n'existe pas",
+      "ipa": "[il nɛɡzist pa]",
+      "ear": "伊勒 奈格齐斯特 帕",
+      "meaning": "不存在",
+      "sourceLineId": "donjuan-timed-256-3",
+      "suppliedText": "Que de peine et sanglots L'amour qu'est-ce que ca veut dire, Il n'existe pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2761,
+        "anchorEnd": 2769.42,
+        "sourceLineNumber": 256,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2770,
+      "sourceText": "Pas la peine de le décrire,",
+      "ipa": "[pa la pɛn də lə dekʁiʁ]",
+      "ear": "帕 拉 佩恩 德 勒 德克希赫",
+      "meaning": "无需描述，",
+      "sourceLineId": "donjuan-timed-257-1",
+      "suppliedText": "Pas la peine de le decrire, Je saurais deja S'il respirait quelque part,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2770,
+        "anchorEnd": 2779,
+        "sourceLineNumber": 257,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2773.333,
+      "sourceText": "Je saurais déjà",
+      "ipa": "[ʒə soʁɛ deʒa]",
+      "ear": "热 索赫 德扎",
+      "meaning": "我早就知道了",
+      "sourceLineId": "donjuan-timed-257-2",
+      "suppliedText": "Pas la peine de le decrire, Je saurais deja S'il respirait quelque part,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2770,
+        "anchorEnd": 2779,
+        "sourceLineNumber": 257,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2775.667,
+      "sourceText": "S'il respirait quelque part,",
+      "ipa": "[sil ʁɛspiʁɛ kɛlkə paʁ]",
+      "ear": "西勒 赫斯皮赫 凯勒克 帕赫",
+      "meaning": "如果爱情真的存在于某处，",
+      "sourceLineId": "donjuan-timed-257-3",
+      "suppliedText": "Pas la peine de le decrire, Je saurais deja S'il respirait quelque part,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2770,
+        "anchorEnd": 2779,
+        "sourceLineNumber": 257,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2779,
+      "sourceText": "Je serais là-bas",
+      "ipa": "[ʒə səʁɛ laba]",
+      "ear": "热 瑟赫 拉巴",
+      "meaning": "我一定会去那里。",
+      "sourceLineId": "donjuan-timed-258-1",
+      "suppliedText": "Je serais la-bas De ce cete du miroir, Que l'on ne voit pas.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2779,
+        "anchorEnd": 2789.95,
+        "sourceLineNumber": 258,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2782.129,
+      "sourceText": "De ce côté du miroir,",
+      "ipa": "[də sə kote dy miʁwaʁ]",
+      "ear": "德 瑟 科特 迪于 米赫乌阿赫",
+      "meaning": "在镜子的这一侧，",
+      "sourceLineId": "donjuan-timed-258-2",
+      "suppliedText": "Je serais la-bas De ce cete du miroir, Que l'on ne voit pas.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2779,
+        "anchorEnd": 2789.95,
+        "sourceLineNumber": 258,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2786.3,
+      "sourceText": "Que l'on ne voit pas.",
+      "ipa": "[kə lɔ̃ nə vwa pa]",
+      "ear": "克 隆 讷 弗乌阿 帕",
+      "meaning": "我们看不到。",
+      "sourceLineId": "donjuan-timed-258-3",
+      "suppliedText": "Je serais la-bas De ce cete du miroir, Que l'on ne voit pas.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2779,
+        "anchorEnd": 2789.95,
+        "sourceLineNumber": 258,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2790,
+      "sourceText": "L'amour quand il vient,",
+      "ipa": "[lamuʁ kɑ̃t‿il vjɛ̃]",
+      "ear": "拉穆赫 康特 伊勒 弗耶安",
+      "meaning": "爱情来临时，",
+      "sourceLineId": "donjuan-timed-259-1",
+      "suppliedText": "L'amour quand il vient, Il te delivre, Il fait de toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2790,
+        "anchorEnd": 2797.98,
+        "sourceLineNumber": 259,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2793.36,
+      "sourceText": "Il te délivre,",
+      "ipa": "[il tə delivʁ]",
+      "ear": "伊勒 特 德利弗赫",
+      "meaning": "爱情会让你解脱，",
+      "sourceLineId": "donjuan-timed-259-2",
+      "suppliedText": "L'amour quand il vient, Il te delivre, Il fait de toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2790,
+        "anchorEnd": 2797.98,
+        "sourceLineNumber": 259,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2795.46,
+      "sourceText": "Il fait de toi",
+      "ipa": "[il fɛ də twa]",
+      "ear": "伊勒 费 德 特乌阿",
+      "meaning": "让你变成，",
+      "sourceLineId": "donjuan-timed-259-3",
+      "suppliedText": "L'amour quand il vient, Il te delivre, Il fait de toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2790,
+        "anchorEnd": 2797.98,
+        "sourceLineNumber": 259,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2798,
+      "sourceText": "Comme un autre homme",
+      "ipa": "[kɔm‿œ̃n‿otʁ‿ɔm]",
+      "ear": "科姆 恩恩 奥特赫 哦姆",
+      "meaning": "像变了一个人。",
+      "sourceLineId": "donjuan-timed-260-1",
+      "suppliedText": "Comme un autre homme Que tu n'es pas L'amour quand il vient,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2798,
+        "anchorEnd": 2806,
+        "sourceLineNumber": 260,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2801.048,
+      "sourceText": "Que tu n'es pas",
+      "ipa": "[kə ty nɛ pa]",
+      "ear": "克 蒂于 奈 帕",
+      "meaning": "一个从前的你不曾是的人。",
+      "sourceLineId": "donjuan-timed-260-2",
+      "suppliedText": "Comme un autre homme Que tu n'es pas L'amour quand il vient,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2798,
+        "anchorEnd": 2806,
+        "sourceLineNumber": 260,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2802.952,
+      "sourceText": "L'amour quand il vient,",
+      "ipa": "[lamuʁ kɑ̃t‿il vjɛ̃]",
+      "ear": "拉穆赫 康特 伊勒 弗耶安",
+      "meaning": "爱情来临时，",
+      "sourceLineId": "donjuan-timed-260-3",
+      "suppliedText": "Comme un autre homme Que tu n'es pas L'amour quand il vient,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2798,
+        "anchorEnd": 2806,
+        "sourceLineNumber": 260,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2806,
+      "sourceText": "On n'attend pas",
+      "ipa": "[ɔ̃ natɑ̃ pa]",
+      "ear": "翁 纳唐 帕",
+      "meaning": "我们没有预料到，",
+      "sourceLineId": "donjuan-timed-261-1",
+      "suppliedText": "On n'attend pas Mais il est la C'est une histoire Entre elle et toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2806,
+        "anchorEnd": 2814,
+        "sourceLineNumber": 261,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2807.391,
+      "sourceText": "Mais il est là",
+      "ipa": "[mɛ il‿ɛ la]",
+      "ear": "梅 伊勒 艾 拉",
+      "meaning": "可它已经来到了。",
+      "sourceLineId": "donjuan-timed-261-2",
+      "suppliedText": "On n'attend pas Mais il est la C'est une histoire Entre elle et toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2806,
+        "anchorEnd": 2814,
+        "sourceLineNumber": 261,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2809.13,
+      "sourceText": "C'est une histoire",
+      "ipa": "[sɛt‿yn‿istwaʁ]",
+      "ear": "塞特 于恩 伊斯特乌阿赫",
+      "meaning": "这是一个故事",
+      "sourceLineId": "donjuan-timed-261-3",
+      "suppliedText": "On n'attend pas Mais il est la C'est une histoire Entre elle et toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2806,
+        "anchorEnd": 2814,
+        "sourceLineNumber": 261,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2811.565,
+      "sourceText": "Entre elle et toi",
+      "ipa": "[ɑ̃tʁ‿ɛl e twa]",
+      "ear": "昂特赫 艾勒 诶 特乌阿",
+      "meaning": "她和你之间",
+      "sourceLineId": "donjuan-timed-261-4",
+      "suppliedText": "On n'attend pas Mais il est la C'est une histoire Entre elle et toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2806,
+        "anchorEnd": 2814,
+        "sourceLineNumber": 261,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2814,
+      "sourceText": "L'amour quand il vient,",
+      "ipa": "[lamuʁ kɑ̃t‿il vjɛ̃]",
+      "ear": "拉穆赫 康特 伊勒 弗耶安",
+      "meaning": "爱情来临时，",
+      "sourceLineId": "donjuan-timed-262-1",
+      "suppliedText": "L'amour quand il vient, Il te delivre, Il fait de toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2814,
+        "anchorEnd": 2822.84,
+        "sourceLineNumber": 262,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2817.722,
+      "sourceText": "Il te délivre,",
+      "ipa": "[il tə delivʁ]",
+      "ear": "伊勒 特 德利弗赫",
+      "meaning": "爱情会让你解脱，",
+      "sourceLineId": "donjuan-timed-262-2",
+      "suppliedText": "L'amour quand il vient, Il te delivre, Il fait de toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2814,
+        "anchorEnd": 2822.84,
+        "sourceLineNumber": 262,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2820.048,
+      "sourceText": "Il fait de toi",
+      "ipa": "[il fɛ də twa]",
+      "ear": "伊勒 费 德 特乌阿",
+      "meaning": "让你变成，",
+      "sourceLineId": "donjuan-timed-262-3",
+      "suppliedText": "L'amour quand il vient, Il te delivre, Il fait de toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2814,
+        "anchorEnd": 2822.84,
+        "sourceLineNumber": 262,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2823,
+      "sourceText": "Comme un autre homme",
+      "ipa": "[kɔm‿œ̃n‿otʁ‿ɔm]",
+      "ear": "科姆 恩恩 奥特赫 哦姆",
+      "meaning": "像变了一个人。",
+      "sourceLineId": "donjuan-timed-263-1",
+      "suppliedText": "Comme un autre homme Que tu n'es pas L'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2823,
+        "anchorEnd": 2832.42,
+        "sourceLineNumber": 263,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2827.71,
+      "sourceText": "Que tu n'es pas",
+      "ipa": "[kə ty nɛ pa]",
+      "ear": "克 蒂于 奈 帕",
+      "meaning": "一个从前的你不曾是的人。",
+      "sourceLineId": "donjuan-timed-263-2",
+      "suppliedText": "Comme un autre homme Que tu n'es pas L'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2823,
+        "anchorEnd": 2832.42,
+        "sourceLineNumber": 263,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2830.654,
+      "sourceText": "L'amour",
+      "ipa": "[lamuʁ]",
+      "ear": "拉穆赫",
+      "meaning": "爱情。",
+      "sourceLineId": "donjuan-timed-263-3",
+      "suppliedText": "Comme un autre homme Que tu n'es pas L'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2823,
+        "anchorEnd": 2832.42,
+        "sourceLineNumber": 263,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

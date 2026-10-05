@@ -1,0 +1,958 @@
+{
+  "videoId": "donjuan-34",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=5873"
+    }
+  ],
+  "entries": [
+    {
+      "start": 5873,
+      "sourceText": "Quelle est sa chance contre toi",
+      "ipa": "[kɛl‿ɛ sa ʃɑ̃s kɔ̃tʁ twa]",
+      "ear": "凯勒 艾 萨 尚斯 孔特赫 特乌阿",
+      "meaning": "他对你的胜算有多大",
+      "sourceLineId": "donjuan-timed-570-1",
+      "suppliedText": "12. PITIE POUR PERSONNE Quelle est sa chance contre toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5873,
+        "anchorEnd": 5881.6,
+        "sourceLineNumber": 570,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5883,
+      "sourceText": "Et son espoir de vivre encore",
+      "ipa": "[e sɔ̃n‿ɛspwaʁ də vivʁ‿ɑ̃kɔʁ]",
+      "ear": "诶 松恩 艾斯普乌阿赫 德 维弗赫 昂科赫",
+      "meaning": "他还有多少活下去的希望？",
+      "sourceLineId": "donjuan-timed-571-1",
+      "suppliedText": "Et son espoir de vivre encore Tu sais qu'a l'issue du combat Un seul de vous se tiendra droit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5883,
+        "anchorEnd": 5891,
+        "sourceLineNumber": 571,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5885.588,
+      "sourceText": "Tu sais qu'à l'issue du combat",
+      "ipa": "[ty sɛ ka lisy dy kɔ̃ba]",
+      "ear": "蒂于 塞 卡 利西于 迪于 孔巴",
+      "meaning": "你知道，决斗结束时，",
+      "sourceLineId": "donjuan-timed-571-2",
+      "suppliedText": "Et son espoir de vivre encore Tu sais qu'a l'issue du combat Un seul de vous se tiendra droit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5883,
+        "anchorEnd": 5891,
+        "sourceLineNumber": 571,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5888.176,
+      "sourceText": "Un seul de vous se tiendra droit",
+      "ipa": "[œ̃ sœl də vu sə tjɛ̃dʁa dʁwa]",
+      "ear": "恩 瑟厄勒 德 乌 瑟 特耶安德哈 德赫乌阿",
+      "meaning": "你们只有一个人能站着，",
+      "sourceLineId": "donjuan-timed-571-3",
+      "suppliedText": "Et son espoir de vivre encore Tu sais qu'a l'issue du combat Un seul de vous se tiendra droit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5883,
+        "anchorEnd": 5891,
+        "sourceLineNumber": 571,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5891,
+      "sourceText": "Et que l'autre aura vu sa mort",
+      "ipa": "[e kə lotʁ‿oʁa vy sa mɔʁ]",
+      "ear": "诶 克 洛特赫 奥哈 维于 萨 莫赫",
+      "meaning": "另一个将迎来死亡。",
+      "sourceLineId": "donjuan-timed-572-1",
+      "suppliedText": "Et aue l'autre aura vu sa mort Tu sais tres bien que contre toi Jamais il ne s'en sortira",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5891,
+        "anchorEnd": 5899,
+        "sourceLineNumber": 572,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5893.909,
+      "sourceText": "Tu sais très bien que contre toi",
+      "ipa": "[ty sɛ tʁɛ bjɛ̃ kə kɔ̃tʁ twa]",
+      "ear": "蒂于 塞 特赫 布耶安 克 孔特赫 特乌阿",
+      "meaning": "你很清楚，针对你",
+      "sourceLineId": "donjuan-timed-572-2",
+      "suppliedText": "Et aue l'autre aura vu sa mort Tu sais tres bien que contre toi Jamais il ne s'en sortira",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5891,
+        "anchorEnd": 5899,
+        "sourceLineNumber": 572,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5896.818,
+      "sourceText": "Jamais il ne s'en sortira",
+      "ipa": "[ʒamɛ il nə sɑ̃ sɔʁtiʁa]",
+      "ear": "扎梅 伊勒 讷 桑 索赫蒂哈",
+      "meaning": "他根本没有活着脱身的机会。",
+      "sourceLineId": "donjuan-timed-572-3",
+      "suppliedText": "Et aue l'autre aura vu sa mort Tu sais tres bien que contre toi Jamais il ne s'en sortira",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5891,
+        "anchorEnd": 5899,
+        "sourceLineNumber": 572,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5899,
+      "sourceText": "Laisse le vivre, je t'en conjure",
+      "ipa": "[lɛs lə vivʁ ʒə tɑ̃ kɔ̃ʒyʁ]",
+      "ear": "莱斯 勒 维弗赫 热 唐 孔日于赫",
+      "meaning": "让他活下去，求你了。",
+      "sourceLineId": "donjuan-timed-573-1",
+      "suppliedText": "Laisse le vivre, je t'en conjure Demain a l'aube, n'y va pas Et ce sera toi qui vaincras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5899,
+        "anchorEnd": 5907,
+        "sourceLineNumber": 573,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5901.75,
+      "sourceText": "Demain à l'aube, n'y va pas",
+      "ipa": "[dəmɛ̃ a lob ni va pa]",
+      "ear": "德曼 阿 洛布 尼 瓦 帕",
+      "meaning": "明天黎明，别去那里",
+      "sourceLineId": "donjuan-timed-573-2",
+      "suppliedText": "Laisse le vivre, je t'en conjure Demain a l'aube, n'y va pas Et ce sera toi qui vaincras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5899,
+        "anchorEnd": 5907,
+        "sourceLineNumber": 573,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5904.25,
+      "sourceText": "Et ce sera toi qui vaincras",
+      "ipa": "[e sə səʁa twa ki vɛ̃kʁa]",
+      "ear": "诶 瑟 瑟哈 特乌阿 基 万克哈",
+      "meaning": "那样，你才是真正的胜者。",
+      "sourceLineId": "donjuan-timed-573-3",
+      "suppliedText": "Laisse le vivre, je t'en conjure Demain a l'aube, n'y va pas Et ce sera toi qui vaincras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5899,
+        "anchorEnd": 5907,
+        "sourceLineNumber": 573,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5907,
+      "sourceText": "Sans qu'il n'y ait la moindre blessure",
+      "ipa": "[sɑ̃ kil ni ɛ la mwɛ̃dʁ blɛsyʁ]",
+      "ear": "桑 基勒 尼 艾 拉 姆乌安德赫 布莱西于赫",
+      "meaning": "无需让任何人受伤。",
+      "sourceLineId": "donjuan-timed-574-1",
+      "suppliedText": "Sans qu'il n'y ait la moindre blessure Sais-tu donc a qui tu t'adresses",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5907,
+        "anchorEnd": 5913.34,
+        "sourceLineNumber": 574,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5910.434,
+      "sourceText": "Sais-tu donc à qui tu t'adresses",
+      "ipa": "[sɛty dɔ̃k‿a ki ty tadʁɛs]",
+      "ear": "塞蒂于 东克 阿 基 蒂于 塔德赫斯",
+      "meaning": "你知道你在向谁讲话吗？",
+      "sourceLineId": "donjuan-timed-574-2",
+      "suppliedText": "Sans qu'il n'y ait la moindre blessure Sais-tu donc a qui tu t'adresses",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5907,
+        "anchorEnd": 5913.34,
+        "sourceLineNumber": 574,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5915,
+      "sourceText": "As-tu oublié qui je suis",
+      "ipa": "[aty ublie ki ʒə sɥi]",
+      "ear": "阿蒂于 乌布利诶 基 热 斯于伊",
+      "meaning": "你忘记我是谁了吗",
+      "sourceLineId": "donjuan-timed-575-1",
+      "suppliedText": "As-tu oublie qui je suis Jamais je n'aurai de faiblesses Pour celui qui jure et confesse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5915,
+        "anchorEnd": 5923,
+        "sourceLineNumber": 575,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5917.378,
+      "sourceText": "Jamais je n'aurai de faiblesses",
+      "ipa": "[ʒamɛ ʒə noʁe də fɛblɛs]",
+      "ear": "扎梅 热 诺赫 德 费布莱斯",
+      "meaning": "我永远不会有弱点",
+      "sourceLineId": "donjuan-timed-575-2",
+      "suppliedText": "As-tu oublie qui je suis Jamais je n'aurai de faiblesses Pour celui qui jure et confesse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5915,
+        "anchorEnd": 5923,
+        "sourceLineNumber": 575,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5920.189,
+      "sourceText": "Pour celui qui jure et confesse",
+      "ipa": "[puʁ səlɥi ki ʒyʁ e kɔ̃fɛs]",
+      "ear": "普赫 瑟勒于伊 基 日于赫 诶 孔费斯",
+      "meaning": "对那个声称、发誓——",
+      "sourceLineId": "donjuan-timed-575-3",
+      "suppliedText": "As-tu oublie qui je suis Jamais je n'aurai de faiblesses Pour celui qui jure et confesse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5915,
+        "anchorEnd": 5923,
+        "sourceLineNumber": 575,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5923,
+      "sourceText": "Qu'il voudra me prendre la vie",
+      "ipa": "[kil vudʁa mə pʁɑ̃dʁ la vi]",
+      "ear": "基勒 乌德哈 默 普杭德赫 拉 维",
+      "meaning": "要夺走我性命的人。",
+      "sourceLineId": "donjuan-timed-576-1",
+      "suppliedText": "Qu'il voudra me prendre la vie Jamais je ne laisserai d'insulte Impardonnee, tu le sais bien",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5923,
+        "anchorEnd": 5931,
+        "sourceLineNumber": 576,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5925.588,
+      "sourceText": "Jamais je ne laisserai d'insulte",
+      "ipa": "[ʒamɛ ʒə nə lɛsʁe dɛ̃sylt]",
+      "ear": "扎梅 热 讷 莱斯赫 丹西于勒特",
+      "meaning": "任何侮辱，我都绝不会——",
+      "sourceLineId": "donjuan-timed-576-2",
+      "suppliedText": "Qu'il voudra me prendre la vie Jamais je ne laisserai d'insulte Impardonnee, tu le sais bien",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5923,
+        "anchorEnd": 5931,
+        "sourceLineNumber": 576,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5928.647,
+      "sourceText": "Impardonnés, tu le sais bien",
+      "ipa": "[ɛ̃paʁdɔne ty lə sɛ bjɛ̃]",
+      "ear": "安帕赫多内 蒂于 勒 塞 布耶安",
+      "meaning": "我绝不会宽恕，你很清楚。",
+      "sourceLineId": "donjuan-timed-576-3",
+      "suppliedText": "Qu'il voudra me prendre la vie Jamais je ne laisserai d'insulte Impardonnee, tu le sais bien",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5923,
+        "anchorEnd": 5931,
+        "sourceLineNumber": 576,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5931,
+      "sourceText": "Et peu m'importe si demain",
+      "ipa": "[e pø mɛ̃pɔʁt si dəmɛ̃]",
+      "ear": "诶 珀厄 曼珀赫特 西 德曼",
+      "meaning": "我不在乎明天是否",
+      "sourceLineId": "donjuan-timed-577-1",
+      "suppliedText": "Et peu m'importe si demain Le monde me traitera de brute C'est pour mon honneur que je lutte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5931,
+        "anchorEnd": 5939,
+        "sourceLineNumber": 577,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5933.424,
+      "sourceText": "Le monde me traitera de brute",
+      "ipa": "[lə mɔ̃d mə tʁɛtʁa də bʁyt]",
+      "ear": "勒 蒙德 默 特赫特哈 德 布许特",
+      "meaning": "世人将视我为畜生",
+      "sourceLineId": "donjuan-timed-577-2",
+      "suppliedText": "Et peu m'importe si demain Le monde me traitera de brute C'est pour mon honneur que je lutte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5931,
+        "anchorEnd": 5939,
+        "sourceLineNumber": 577,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5936.091,
+      "sourceText": "C'est pour mon honneur que je lutte",
+      "ipa": "[sɛ puʁ mɔ̃n‿ɔnœʁ kə ʒə lyt]",
+      "ear": "塞 普赫 蒙恩 哦讷厄赫 克 热 吕特",
+      "meaning": "我是为了我的荣誉而战",
+      "sourceLineId": "donjuan-timed-577-3",
+      "suppliedText": "Et peu m'importe si demain Le monde me traitera de brute C'est pour mon honneur que je lutte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5931,
+        "anchorEnd": 5939,
+        "sourceLineNumber": 577,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5939,
+      "sourceText": "Et pour la femme à qui je tiens",
+      "ipa": "[e puʁ la fam‿a ki ʒə tjɛ̃]",
+      "ear": "诶 普赫 拉 法姆 阿 基 热 特耶安",
+      "meaning": "也为了我心爱的女人。",
+      "sourceLineId": "donjuan-timed-578-1",
+      "suppliedText": "Et pour la femme a qui je tiens DON JUAN, DON JUAN",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5939,
+        "anchorEnd": 5946.34,
+        "sourceLineNumber": 578,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5943.893,
+      "sourceText": "Don Juan, Don Juan",
+      "ipa": "[dɔ̃ ʒɥɑ̃ dɔ̃ ʒɥɑ̃]",
+      "ear": "东 日于昂 东 日于昂",
+      "meaning": "唐璜，唐璜",
+      "sourceLineId": "donjuan-timed-578-2",
+      "suppliedText": "Et pour la femme a qui je tiens DON JUAN, DON JUAN",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5939,
+        "anchorEnd": 5946.34,
+        "sourceLineNumber": 578,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5947,
+      "sourceText": "N'aura de pitié pour personne",
+      "ipa": "[noʁa də pitje puʁ pɛʁsɔn]",
+      "ear": "诺哈 德 皮特耶诶 普赫 佩赫索恩",
+      "meaning": "不会怜悯任何人。",
+      "sourceLineId": "donjuan-timed-579-1",
+      "suppliedText": "N'aura de pitie pour personne DON JUAN, DON JUAN",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5947,
+        "anchorEnd": 5954,
+        "sourceLineNumber": 579,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5951.667,
+      "sourceText": "Don Juan, Don Juan",
+      "ipa": "[dɔ̃ ʒɥɑ̃ dɔ̃ ʒɥɑ̃]",
+      "ear": "东 日于昂 东 日于昂",
+      "meaning": "唐璜，唐璜",
+      "sourceLineId": "donjuan-timed-579-2",
+      "suppliedText": "N'aura de pitie pour personne DON JUAN, DON JUAN",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5947,
+        "anchorEnd": 5954,
+        "sourceLineNumber": 579,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5954,
+      "sourceText": "Se fout de la chance qu'on te donne",
+      "ipa": "[sə fu də la ʃɑ̃s kɔ̃ tə dɔn]",
+      "ear": "瑟 富 德 拉 尚斯 孔 特 多恩",
+      "meaning": "根本不在乎别人给的机会。",
+      "sourceLineId": "donjuan-timed-580-1",
+      "suppliedText": "Se fout de la chance qu'on te donne DON JUAN, ne comprends-tu pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5954,
+        "anchorEnd": 5961.8,
+        "sourceLineNumber": 580,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5958.68,
+      "sourceText": "Don Juan, ne comprends-tu pas",
+      "ipa": "[dɔ̃ ʒɥɑ̃ nə kɔ̃pʁɑ̃ty pa]",
+      "ear": "东 日于昂 讷 孔普杭蒂于 帕",
+      "meaning": "唐璜，你难道还不明白？",
+      "sourceLineId": "donjuan-timed-580-2",
+      "suppliedText": "Se fout de la chance qu'on te donne DON JUAN, ne comprends-tu pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5954,
+        "anchorEnd": 5961.8,
+        "sourceLineNumber": 580,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5963,
+      "sourceText": "Que c'est ta seule chance de salut",
+      "ipa": "[kə sɛ ta sœl ʃɑ̃s də saly]",
+      "ear": "克 塞 塔 瑟厄勒 尚斯 德 萨吕",
+      "meaning": "这是你唯一的救赎机会",
+      "sourceLineId": "donjuan-timed-581-1",
+      "suppliedText": "Que c'est ta seule chance de salut De laisser vivre l'homme qui viendra Demain a l'aube devant toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5963,
+        "anchorEnd": 5971,
+        "sourceLineNumber": 581,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5965.667,
+      "sourceText": "De laisser vivre l'homme qui viendra",
+      "ipa": "[də lɛse vivʁ lɔm ki vjɛ̃dʁa]",
+      "ear": "德 莱塞 维弗赫 洛姆 基 弗耶安德哈",
+      "meaning": "让即将到来的男人活下去",
+      "sourceLineId": "donjuan-timed-581-2",
+      "suppliedText": "Que c'est ta seule chance de salut De laisser vivre l'homme qui viendra Demain a l'aube devant toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5963,
+        "anchorEnd": 5971,
+        "sourceLineNumber": 581,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5968.556,
+      "sourceText": "Demain à l'aube devant toi",
+      "ipa": "[dəmɛ̃ a lob dəvɑ̃ twa]",
+      "ear": "德曼 阿 洛布 德旺 特乌阿",
+      "meaning": "明天黎明在你面前",
+      "sourceLineId": "donjuan-timed-581-3",
+      "suppliedText": "Que c'est ta seule chance de salut De laisser vivre l'homme qui viendra Demain a l'aube devant toi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5963,
+        "anchorEnd": 5971,
+        "sourceLineNumber": 581,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5971,
+      "sourceText": "Cette aube qu'il ne reverra plus",
+      "ipa": "[sɛt‿ob kil nə ʁəvɛʁa ply]",
+      "ear": "塞特 奥布 基勒 讷 赫韦哈 普吕",
+      "meaning": "他可能再也看不见下一个黎明。",
+      "sourceLineId": "donjuan-timed-582-1",
+      "suppliedText": "Cette aube qu'il ne reverra plus Si tu le laissais s'en aller Sans le toucher, sans le blesser",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5971,
+        "anchorEnd": 5979,
+        "sourceLineNumber": 582,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5974.097,
+      "sourceText": "Si tu le laissais s'en aller",
+      "ipa": "[si ty lə lɛsɛ sɑ̃ ale]",
+      "ear": "西 蒂于 勒 莱塞 桑 阿莱",
+      "meaning": "如果你让他走",
+      "sourceLineId": "donjuan-timed-582-2",
+      "suppliedText": "Cette aube qu'il ne reverra plus Si tu le laissais s'en aller Sans le toucher, sans le blesser",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5971,
+        "anchorEnd": 5979,
+        "sourceLineNumber": 582,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5976.677,
+      "sourceText": "Sans le toucher, sans le blesser",
+      "ipa": "[sɑ̃ lə tuʃe sɑ̃ lə blɛse]",
+      "ear": "桑 勒 图谢 桑 勒 布莱塞",
+      "meaning": "不碰他，不伤害他",
+      "sourceLineId": "donjuan-timed-582-3",
+      "suppliedText": "Cette aube qu'il ne reverra plus Si tu le laissais s'en aller Sans le toucher, sans le blesser",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5971,
+        "anchorEnd": 5979,
+        "sourceLineNumber": 582,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5979,
+      "sourceText": "Tu serais plus grand que le roi",
+      "ipa": "[ty səʁɛ ply ɡʁɑ̃ kə lə ʁwa]",
+      "ear": "蒂于 瑟赫 普吕 格杭 克 勒 赫乌阿",
+      "meaning": "你会比国王更伟大",
+      "sourceLineId": "donjuan-timed-583-1",
+      "suppliedText": "Tu serais plus grand que le roi Et tu les verrais s'allumer Les lumieres de l'eternite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5979,
+        "anchorEnd": 5987,
+        "sourceLineNumber": 583,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5981.933,
+      "sourceText": "Et tu les verrais s'allumer",
+      "ipa": "[e ty le vɛʁɛ salyme]",
+      "ear": "诶 蒂于 莱 韦赫 萨吕梅",
+      "meaning": "你会看到它们亮起来",
+      "sourceLineId": "donjuan-timed-583-2",
+      "suppliedText": "Tu serais plus grand que le roi Et tu les verrais s'allumer Les lumieres de l'eternite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5979,
+        "anchorEnd": 5987,
+        "sourceLineNumber": 583,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5984.333,
+      "sourceText": "Les lumières de l'éternité",
+      "ipa": "[le lymjɛʁ də letɛʁnite]",
+      "ear": "莱 吕姆耶艾赫 德 莱泰赫尼特",
+      "meaning": "永恒之光",
+      "sourceLineId": "donjuan-timed-583-3",
+      "suppliedText": "Tu serais plus grand que le roi Et tu les verrais s'allumer Les lumieres de l'eternite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5979,
+        "anchorEnd": 5987,
+        "sourceLineNumber": 583,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5987,
+      "sourceText": "Dans les beaux yeux de Maria",
+      "ipa": "[dɑ̃ le boz‿jø də maʁja]",
+      "ear": "当 莱 博兹 耶厄 德 玛赫耶阿",
+      "meaning": "在玛丽亚美丽的眼中。",
+      "sourceLineId": "donjuan-timed-584-1",
+      "suppliedText": "Dans les beaux yeux de MARIA Jamais, je ne laisserai partir Celui qui voulait en finir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5987,
+        "anchorEnd": 5995,
+        "sourceLineNumber": 584,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5989.667,
+      "sourceText": "Jamais, je ne laisserai partir",
+      "ipa": "[ʒamɛ ʒə nə lɛsʁe paʁtiʁ]",
+      "ear": "扎梅 热 讷 莱斯赫 帕赫蒂赫",
+      "meaning": "我永远不会放手",
+      "sourceLineId": "donjuan-timed-584-2",
+      "suppliedText": "Dans les beaux yeux de MARIA Jamais, je ne laisserai partir Celui qui voulait en finir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5987,
+        "anchorEnd": 5995,
+        "sourceLineNumber": 584,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5992.333,
+      "sourceText": "Celui qui voulait en finir",
+      "ipa": "[səlɥi ki vulɛ ɑ̃ finiʁ]",
+      "ear": "瑟勒于伊 基 乌莱 昂 菲尼赫",
+      "meaning": "想要结束这一切的人",
+      "sourceLineId": "donjuan-timed-584-3",
+      "suppliedText": "Dans les beaux yeux de MARIA Jamais, je ne laisserai partir Celui qui voulait en finir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5987,
+        "anchorEnd": 5995,
+        "sourceLineNumber": 584,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5995,
+      "sourceText": "Il faut qu'il meure demain crois-moi",
+      "ipa": "[il fo kil mœʁ dəmɛ̃ kʁwamwa]",
+      "ear": "伊勒 佛 基勒 默厄赫 德曼 克赫乌阿姆乌阿",
+      "meaning": "相信我，他明天就死了",
+      "sourceLineId": "donjuan-timed-585-1",
+      "suppliedText": "Il faut qu'il meure demain crois-moi Et je les verrai s'allumer Les lumieres de l'eternite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5995,
+        "anchorEnd": 6003,
+        "sourceLineNumber": 585,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5998.529,
+      "sourceText": "Et je les verrai s'allumer",
+      "ipa": "[e ʒə le vɛʁe salyme]",
+      "ear": "诶 热 莱 韦赫 萨吕梅",
+      "meaning": "我会看到它们点亮",
+      "sourceLineId": "donjuan-timed-585-2",
+      "suppliedText": "Il faut qu'il meure demain crois-moi Et je les verrai s'allumer Les lumieres de l'eternite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5995,
+        "anchorEnd": 6003,
+        "sourceLineNumber": 585,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6000.647,
+      "sourceText": "Les lumières de l'éternité",
+      "ipa": "[le lymjɛʁ də letɛʁnite]",
+      "ear": "莱 吕姆耶艾赫 德 莱泰赫尼特",
+      "meaning": "永恒之光",
+      "sourceLineId": "donjuan-timed-585-3",
+      "suppliedText": "Il faut qu'il meure demain crois-moi Et je les verrai s'allumer Les lumieres de l'eternite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5995,
+        "anchorEnd": 6003,
+        "sourceLineNumber": 585,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6003,
+      "sourceText": "Dans les beaux yeux de Maria",
+      "ipa": "[dɑ̃ le boz‿jø də maʁja]",
+      "ear": "当 莱 博兹 耶厄 德 玛赫耶阿",
+      "meaning": "在玛丽亚美丽的眼中。",
+      "sourceLineId": "donjuan-timed-586-1",
+      "suppliedText": "Dans les beaux yeux de MARIA DON JUAN, DON JUAN",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6003,
+        "anchorEnd": 6010.27,
+        "sourceLineNumber": 586,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6007.847,
+      "sourceText": "Don Juan, Don Juan",
+      "ipa": "[dɔ̃ ʒɥɑ̃ dɔ̃ ʒɥɑ̃]",
+      "ear": "东 日于昂 东 日于昂",
+      "meaning": "唐璜，唐璜",
+      "sourceLineId": "donjuan-timed-586-2",
+      "suppliedText": "Dans les beaux yeux de MARIA DON JUAN, DON JUAN",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6003,
+        "anchorEnd": 6010.27,
+        "sourceLineNumber": 586,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6011,
+      "sourceText": "N'aura de pitié pour personne",
+      "ipa": "[noʁa də pitje puʁ pɛʁsɔn]",
+      "ear": "诺哈 德 皮特耶诶 普赫 佩赫索恩",
+      "meaning": "不会怜悯任何人。",
+      "sourceLineId": "donjuan-timed-587-1",
+      "suppliedText": "N'aura de pitie pour personne DON JUAN, DON JUAN",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6011,
+        "anchorEnd": 6018.11,
+        "sourceLineNumber": 587,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6015.74,
+      "sourceText": "Don Juan, Don Juan",
+      "ipa": "[dɔ̃ ʒɥɑ̃ dɔ̃ ʒɥɑ̃]",
+      "ear": "东 日于昂 东 日于昂",
+      "meaning": "唐璜，唐璜",
+      "sourceLineId": "donjuan-timed-587-2",
+      "suppliedText": "N'aura de pitie pour personne DON JUAN, DON JUAN",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6011,
+        "anchorEnd": 6018.11,
+        "sourceLineNumber": 587,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6019,
+      "sourceText": "Se fout de la chance qu'on te donne",
+      "ipa": "[sə fu də la ʃɑ̃s kɔ̃ tə dɔn]",
+      "ear": "瑟 富 德 拉 尚斯 孔 特 多恩",
+      "meaning": "根本不在乎别人给的机会。",
+      "sourceLineId": "donjuan-timed-588-1",
+      "suppliedText": "Se fout de la chance qu'on te donne DON JUAN, DON JUAN",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6019,
+        "anchorEnd": 6026.08,
+        "sourceLineNumber": 588,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6023.72,
+      "sourceText": "Don Juan, Don Juan",
+      "ipa": "[dɔ̃ ʒɥɑ̃ dɔ̃ ʒɥɑ̃]",
+      "ear": "东 日于昂 东 日于昂",
+      "meaning": "唐璜，唐璜",
+      "sourceLineId": "donjuan-timed-588-2",
+      "suppliedText": "Se fout de la chance qu'on te donne DON JUAN, DON JUAN",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6019,
+        "anchorEnd": 6026.08,
+        "sourceLineNumber": 588,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6027,
+      "sourceText": "Qui pourrait bien lui faire comprendre",
+      "ipa": "[ki puʁɛ bjɛ̃ lɥi fɛʁ kɔ̃pʁɑ̃dʁ]",
+      "ear": "基 普赫 布耶安 勒于伊 费赫 孔普杭德赫",
+      "meaning": "究竟谁能让他明白，",
+      "sourceLineId": "donjuan-timed-589-1",
+      "suppliedText": "Qui pourrait bien lui faire comprendre DON JUAN, DON JUAN",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6027,
+        "anchorEnd": 6034.01,
+        "sourceLineNumber": 589,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6032.098,
+      "sourceText": "Don Juan, Don Juan",
+      "ipa": "[dɔ̃ ʒɥɑ̃ dɔ̃ ʒɥɑ̃]",
+      "ear": "东 日于昂 东 日于昂",
+      "meaning": "唐璜，唐璜",
+      "sourceLineId": "donjuan-timed-589-2",
+      "suppliedText": "Qui pourrait bien lui faire comprendre DON JUAN, DON JUAN",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6027,
+        "anchorEnd": 6034.01,
+        "sourceLineNumber": 589,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6035,
+      "sourceText": "Que la vie ne peut pas se prendre",
+      "ipa": "[kə la vi nə pø pa sə pʁɑ̃dʁ]",
+      "ear": "克 拉 维 讷 珀厄 帕 瑟 普杭德赫",
+      "meaning": "人的生命不能随意夺走。",
+      "sourceLineId": "donjuan-timed-590-1",
+      "suppliedText": "Que la vie ne peut pas se prendre Que la vie ne peut pas se prendre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6035,
+        "anchorEnd": 6042.93,
+        "sourceLineNumber": 590,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6038.965,
+      "sourceText": "Que la vie ne peut pas se prendre",
+      "ipa": "[kə la vi nə pø pa sə pʁɑ̃dʁ]",
+      "ear": "克 拉 维 讷 珀厄 帕 瑟 普杭德赫",
+      "meaning": "人的生命不能随意夺走。",
+      "sourceLineId": "donjuan-timed-590-2",
+      "suppliedText": "Que la vie ne peut pas se prendre Que la vie ne peut pas se prendre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6035,
+        "anchorEnd": 6042.93,
+        "sourceLineNumber": 590,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

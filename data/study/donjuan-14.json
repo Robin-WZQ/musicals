@@ -1,0 +1,760 @@
+{
+  "videoId": "donjuan-14",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=1867"
+    }
+  ],
+  "entries": [
+    {
+      "start": 1894,
+      "sourceText": "Danse tout contre moi, danse",
+      "ipa": "[dɑ̃s tu kɔ̃tʁ mwa dɑ̃s]",
+      "ear": "当斯 图 孔特赫 姆乌阿 当斯",
+      "meaning": "紧贴着我跳舞，跳舞。",
+      "sourceLineId": "donjuan-timed-173-1",
+      "suppliedText": "Danse tout contre moi, danse Laisse aller les pas, la cadence Fait couler des gouttes de sueur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1894,
+        "anchorEnd": 1903.81,
+        "sourceLineNumber": 173,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1896.885,
+      "sourceText": "Laisse aller les pas, la cadence",
+      "ipa": "[lɛs‿ale le pa la kadɑ̃s]",
+      "ear": "莱斯 阿莱 莱 帕 拉 卡当斯",
+      "meaning": "放开脚步，让节拍——",
+      "sourceLineId": "donjuan-timed-173-2",
+      "suppliedText": "Danse tout contre moi, danse Laisse aller les pas, la cadence Fait couler des gouttes de sueur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1894,
+        "anchorEnd": 1903.81,
+        "sourceLineNumber": 173,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1900.059,
+      "sourceText": "Fait couler des gouttes de sueur",
+      "ipa": "[fɛ kule de ɡut də syœʁ]",
+      "ear": "费 库莱 德 古特 德 西于厄赫",
+      "meaning": "带出一滴滴汗水，",
+      "sourceLineId": "donjuan-timed-173-3",
+      "suppliedText": "Danse tout contre moi, danse Laisse aller les pas, la cadence Fait couler des gouttes de sueur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1894,
+        "anchorEnd": 1903.81,
+        "sourceLineNumber": 173,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1904,
+      "sourceText": "Sur mon cœur",
+      "ipa": "[syʁ mɔ̃ kœʁ]",
+      "ear": "西于赫 蒙 克厄赫",
+      "meaning": "在我心上",
+      "sourceLineId": "donjuan-timed-174-1",
+      "suppliedText": "Sur mon coeur Danse tout contre moi, danse Que tes jambes mouillees s'avancent",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1904,
+        "anchorEnd": 1912.99,
+        "sourceLineNumber": 174,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1905.332,
+      "sourceText": "Danse tout contre moi, danse",
+      "ipa": "[dɑ̃s tu kɔ̃tʁ mwa dɑ̃s]",
+      "ear": "当斯 图 孔特赫 姆乌阿 当斯",
+      "meaning": "紧贴着我跳舞，跳舞。",
+      "sourceLineId": "donjuan-timed-174-2",
+      "suppliedText": "Sur mon coeur Danse tout contre moi, danse Que tes jambes mouillees s'avancent",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1904,
+        "anchorEnd": 1912.99,
+        "sourceLineNumber": 174,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1908.661,
+      "sourceText": "Que tes jambes mouillées s'avancent",
+      "ipa": "[kə te ʒɑ̃b muje savɑ̃s]",
+      "ear": "克 特 让布 穆耶诶 萨旺斯",
+      "meaning": "让你汗湿的双腿向我迈来，",
+      "sourceLineId": "donjuan-timed-174-3",
+      "suppliedText": "Sur mon coeur Danse tout contre moi, danse Que tes jambes mouillees s'avancent",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1904,
+        "anchorEnd": 1912.99,
+        "sourceLineNumber": 174,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1913,
+      "sourceText": "Que je sente battre la fureur",
+      "ipa": "[kə ʒə sɑ̃t batʁ la fyʁœʁ]",
+      "ear": "克 热 桑特 巴特赫 拉 菲于赫厄赫",
+      "meaning": "让我感受那股热烈的跳动，",
+      "sourceLineId": "donjuan-timed-175-1",
+      "suppliedText": "Que je sente battre la fureur De ton coeur Belle Andalouse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1913,
+        "anchorEnd": 1922.71,
+        "sourceLineNumber": 175,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1917.855,
+      "sourceText": "De ton cœur",
+      "ipa": "[də tɔ̃ kœʁ]",
+      "ear": "德 通 克厄赫",
+      "meaning": "来自你的心。",
+      "sourceLineId": "donjuan-timed-175-2",
+      "suppliedText": "Que je sente battre la fureur De ton coeur Belle Andalouse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1913,
+        "anchorEnd": 1922.71,
+        "sourceLineNumber": 175,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1919.62,
+      "sourceText": "Belle Andalouse",
+      "ipa": "[bɛl‿ɑ̃daluz]",
+      "ear": "贝勒 昂达卢兹",
+      "meaning": "美丽的安达卢西亚姑娘。",
+      "sourceLineId": "donjuan-timed-175-3",
+      "suppliedText": "Que je sente battre la fureur De ton coeur Belle Andalouse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1913,
+        "anchorEnd": 1922.71,
+        "sourceLineNumber": 175,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1923,
+      "sourceText": "Fruit dangereux du sud de l'Espagne",
+      "ipa": "[fʁɥi dɑ̃ʒʁø dy syd də lɛspaɲ]",
+      "ear": "弗赫于伊 当日赫厄 迪于 西于德 德 莱斯帕涅",
+      "meaning": "西班牙南方危险的果实。",
+      "sourceLineId": "donjuan-timed-176-1",
+      "suppliedText": "Fruit dangereux du sud de l'Espagne Fidele et jalouse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1923,
+        "anchorEnd": 1930.06,
+        "sourceLineNumber": 176,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1927.236,
+      "sourceText": "Fidèle et jalouse",
+      "ipa": "[fidɛl e ʒaluz]",
+      "ear": "菲戴勒 诶 扎卢兹",
+      "meaning": "忠贞又爱嫉妒。",
+      "sourceLineId": "donjuan-timed-176-2",
+      "suppliedText": "Fruit dangereux du sud de l'Espagne Fidele et jalouse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1923,
+        "anchorEnd": 1930.06,
+        "sourceLineNumber": 176,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1931,
+      "sourceText": "Fais balancer ton corps de gitane",
+      "ipa": "[fɛ balɑ̃se tɔ̃ kɔʁ də ʒitan]",
+      "ear": "费 巴朗塞 通 科赫 德 日塔恩",
+      "meaning": "摇动你吉卜赛姑娘的身姿。",
+      "sourceLineId": "donjuan-timed-177-1",
+      "suppliedText": "Fais balancer ton corps de gitane Belle Andalouse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1931,
+        "anchorEnd": 1937.38,
+        "sourceLineNumber": 177,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1934.899,
+      "sourceText": "Belle Andalouse",
+      "ipa": "[bɛl‿ɑ̃daluz]",
+      "ear": "贝勒 昂达卢兹",
+      "meaning": "美丽的安达卢西亚姑娘。",
+      "sourceLineId": "donjuan-timed-177-2",
+      "suppliedText": "Fais balancer ton corps de gitane Belle Andalouse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1931,
+        "anchorEnd": 1937.38,
+        "sourceLineNumber": 177,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1938,
+      "sourceText": "Quand le feu dévore tes yeux d'animal",
+      "ipa": "[kɑ̃ lə fø devɔʁ tez‿jø danimal]",
+      "ear": "康 勒 弗厄 德沃赫 特兹 耶厄 达尼玛勒",
+      "meaning": "让野性双眸燃起火焰。",
+      "sourceLineId": "donjuan-timed-178-1",
+      "suppliedText": "Quand le feu devore tes yeux d'animal Brune et jalouse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1938,
+        "anchorEnd": 1944.61,
+        "sourceLineNumber": 178,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1942.507,
+      "sourceText": "Brune et jalouse",
+      "ipa": "[bʁyn e ʒaluz]",
+      "ear": "布许恩 诶 扎卢兹",
+      "meaning": "肤色深沉，又爱嫉妒。",
+      "sourceLineId": "donjuan-timed-178-2",
+      "suppliedText": "Quand le feu devore tes yeux d'animal Brune et jalouse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1938,
+        "anchorEnd": 1944.61,
+        "sourceLineNumber": 178,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1945,
+      "sourceText": "Pour le chasseur, la proie idéale",
+      "ipa": "[puʁ lə ʃasœʁ la pʁwa ideal]",
+      "ear": "普赫 勒 沙瑟厄赫 拉 普赫乌阿 伊德阿勒",
+      "meaning": "对于猎人来说，理想的猎物",
+      "sourceLineId": "donjuan-timed-179-1",
+      "suppliedText": "Pour le chasseur, le proie ideale Danse tout contre moi, danse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1945,
+        "anchorEnd": 1953,
+        "sourceLineNumber": 179,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1949.667,
+      "sourceText": "Danse tout contre moi, danse",
+      "ipa": "[dɑ̃s tu kɔ̃tʁ mwa dɑ̃s]",
+      "ear": "当斯 图 孔特赫 姆乌阿 当斯",
+      "meaning": "紧贴着我跳舞，跳舞。",
+      "sourceLineId": "donjuan-timed-179-2",
+      "suppliedText": "Pour le chasseur, le proie ideale Danse tout contre moi, danse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1945,
+        "anchorEnd": 1953,
+        "sourceLineNumber": 179,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1953,
+      "sourceText": "Ne crains pas ce que les autres pensent",
+      "ipa": "[nə kʁɛ̃ pa sə kə lez‿otʁ pɑ̃s]",
+      "ear": "讷 克汉 帕 瑟 克 莱兹 奥特赫 庞斯",
+      "meaning": "别在意别人怎么想。",
+      "sourceLineId": "donjuan-timed-180-1",
+      "suppliedText": "Ne crains pas ce que les autres pensent Pose ta main tout en douceur Sur mon coeur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1953,
+        "anchorEnd": 1962.17,
+        "sourceLineNumber": 180,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1957.111,
+      "sourceText": "Pose ta main tout en douceur",
+      "ipa": "[pɔz ta mɛ̃ tut‿ɑ̃ dusœʁ]",
+      "ear": "珀兹 塔 曼 图特 昂 杜瑟厄赫",
+      "meaning": "温柔地放下你的手。",
+      "sourceLineId": "donjuan-timed-180-2",
+      "suppliedText": "Ne crains pas ce que les autres pensent Pose ta main tout en douceur Sur mon coeur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1953,
+        "anchorEnd": 1962.17,
+        "sourceLineNumber": 180,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1960.905,
+      "sourceText": "Sur mon cœur",
+      "ipa": "[syʁ mɔ̃ kœʁ]",
+      "ear": "西于赫 蒙 克厄赫",
+      "meaning": "在我心上",
+      "sourceLineId": "donjuan-timed-180-3",
+      "suppliedText": "Ne crains pas ce que les autres pensent Pose ta main tout en douceur Sur mon coeur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1953,
+        "anchorEnd": 1962.17,
+        "sourceLineNumber": 180,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1963,
+      "sourceText": "Danse tout contre moi, danse",
+      "ipa": "[dɑ̃s tu kɔ̃tʁ mwa dɑ̃s]",
+      "ear": "当斯 图 孔特赫 姆乌阿 当斯",
+      "meaning": "紧贴着我跳舞，跳舞。",
+      "sourceLineId": "donjuan-timed-181-1",
+      "suppliedText": "Danse tout contre moi, danse Ne prends pas cet air d'innocence Tu sais tres bien que tout a l'heure",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1963,
+        "anchorEnd": 1972.7,
+        "sourceLineNumber": 181,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1965.853,
+      "sourceText": "Ne prends pas cet air d'innocence",
+      "ipa": "[nə pʁɑ̃ pa sɛt‿ɛʁ dinosɑ̃s]",
+      "ear": "讷 普杭 帕 塞特 艾赫 迪诺桑斯",
+      "meaning": "别一副天真无邪的样子",
+      "sourceLineId": "donjuan-timed-181-2",
+      "suppliedText": "Danse tout contre moi, danse Ne prends pas cet air d'innocence Tu sais tres bien que tout a l'heure",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1963,
+        "anchorEnd": 1972.7,
+        "sourceLineNumber": 181,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1968.706,
+      "sourceText": "Tu sais très bien que tout à l'heure",
+      "ipa": "[ty sɛ tʁɛ bjɛ̃ kə tut‿a lœʁ]",
+      "ear": "蒂于 塞 特赫 布耶安 克 图特 阿 勒厄赫",
+      "meaning": "你很清楚，过一会，",
+      "sourceLineId": "donjuan-timed-181-3",
+      "suppliedText": "Danse tout contre moi, danse Ne prends pas cet air d'innocence Tu sais tres bien que tout a l'heure",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1963,
+        "anchorEnd": 1972.7,
+        "sourceLineNumber": 181,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1973,
+      "sourceText": "Je prendrai ton cœur",
+      "ipa": "[ʒə pʁɑ̃dʁe tɔ̃ kœʁ]",
+      "ear": "热 普杭德赫 通 克厄赫",
+      "meaning": "我就会得到你的心。",
+      "sourceLineId": "donjuan-timed-182-1",
+      "suppliedText": "Je prendrai ton coeur Belle Andalouse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1973,
+        "anchorEnd": 1979.13,
+        "sourceLineNumber": 182,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1976.065,
+      "sourceText": "Belle Andalouse",
+      "ipa": "[bɛl‿ɑ̃daluz]",
+      "ear": "贝勒 昂达卢兹",
+      "meaning": "美丽的安达卢西亚姑娘。",
+      "sourceLineId": "donjuan-timed-182-2",
+      "suppliedText": "Je prendrai ton coeur Belle Andalouse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1973,
+        "anchorEnd": 1979.13,
+        "sourceLineNumber": 182,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1980,
+      "sourceText": "Fruit dangereux du sud de l'Espagne",
+      "ipa": "[fʁɥi dɑ̃ʒʁø dy syd də lɛspaɲ]",
+      "ear": "弗赫于伊 当日赫厄 迪于 西于德 德 莱斯帕涅",
+      "meaning": "西班牙南方危险的果实。",
+      "sourceLineId": "donjuan-timed-183-1",
+      "suppliedText": "Fruit dangereux du sud de l'Espagne Fidele et jalouse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1980,
+        "anchorEnd": 1986.49,
+        "sourceLineNumber": 183,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1983.894,
+      "sourceText": "Fidèle et jalouse",
+      "ipa": "[fidɛl e ʒaluz]",
+      "ear": "菲戴勒 诶 扎卢兹",
+      "meaning": "忠贞又爱嫉妒。",
+      "sourceLineId": "donjuan-timed-183-2",
+      "suppliedText": "Fruit dangereux du sud de l'Espagne Fidele et jalouse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1980,
+        "anchorEnd": 1986.49,
+        "sourceLineNumber": 183,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1987,
+      "sourceText": "Fais balancer ton corps de gitane",
+      "ipa": "[fɛ balɑ̃se tɔ̃ kɔʁ də ʒitan]",
+      "ear": "费 巴朗塞 通 科赫 德 日塔恩",
+      "meaning": "摇动你吉卜赛姑娘的身姿。",
+      "sourceLineId": "donjuan-timed-184-1",
+      "suppliedText": "Fais balancer ton corps de gitane Belle Andalouse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1987,
+        "anchorEnd": 1993.54,
+        "sourceLineNumber": 184,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1990.997,
+      "sourceText": "Belle Andalouse",
+      "ipa": "[bɛl‿ɑ̃daluz]",
+      "ear": "贝勒 昂达卢兹",
+      "meaning": "美丽的安达卢西亚姑娘。",
+      "sourceLineId": "donjuan-timed-184-2",
+      "suppliedText": "Fais balancer ton corps de gitane Belle Andalouse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1987,
+        "anchorEnd": 1993.54,
+        "sourceLineNumber": 184,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1994,
+      "sourceText": "Quand le feu dévore tes yeux d'animal",
+      "ipa": "[kɑ̃ lə fø devɔʁ tez‿jø danimal]",
+      "ear": "康 勒 弗厄 德沃赫 特兹 耶厄 达尼玛勒",
+      "meaning": "让野性双眸燃起火焰。",
+      "sourceLineId": "donjuan-timed-185-1",
+      "suppliedText": "Quand le feu devore tes yeux d'animal Brune et jalouse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1994,
+        "anchorEnd": 2001.02,
+        "sourceLineNumber": 185,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1998.786,
+      "sourceText": "Brune et jalouse",
+      "ipa": "[bʁyn e ʒaluz]",
+      "ear": "布许恩 诶 扎卢兹",
+      "meaning": "肤色深沉，又爱嫉妒。",
+      "sourceLineId": "donjuan-timed-185-2",
+      "suppliedText": "Quand le feu devore tes yeux d'animal Brune et jalouse",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1994,
+        "anchorEnd": 2001.02,
+        "sourceLineNumber": 185,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2002,
+      "sourceText": "Pour le chasseur, la proie idéale",
+      "ipa": "[puʁ lə ʃasœʁ la pʁwa ideal]",
+      "ear": "普赫 勒 沙瑟厄赫 拉 普赫乌阿 伊德阿勒",
+      "meaning": "对于猎人来说，理想的猎物",
+      "sourceLineId": "donjuan-timed-186-1",
+      "suppliedText": "Pour le chasseur, le proie ideale",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 2002,
+        "anchorEnd": 2005.96,
+        "sourceLineNumber": 186,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2049,
+      "sourceText": "Belle Andalouse",
+      "ipa": "[bɛl‿ɑ̃daluz]",
+      "ear": "贝勒 昂达卢兹",
+      "meaning": "美丽的安达卢西亚姑娘。",
+      "sourceLineId": "donjuan-timed-187-1",
+      "suppliedText": "Belle Andalouse Fruit dangereux du sud de l'Espagne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2049,
+        "anchorEnd": 2056,
+        "sourceLineNumber": 187,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2051.579,
+      "sourceText": "Fruit dangereux du sud de l'Espagne",
+      "ipa": "[fʁɥi dɑ̃ʒʁø dy syd də lɛspaɲ]",
+      "ear": "弗赫于伊 当日赫厄 迪于 西于德 德 莱斯帕涅",
+      "meaning": "西班牙南方危险的果实。",
+      "sourceLineId": "donjuan-timed-187-2",
+      "suppliedText": "Belle Andalouse Fruit dangereux du sud de l'Espagne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2049,
+        "anchorEnd": 2056,
+        "sourceLineNumber": 187,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2056,
+      "sourceText": "Fidèle et jalouse",
+      "ipa": "[fidɛl e ʒaluz]",
+      "ear": "菲戴勒 诶 扎卢兹",
+      "meaning": "忠贞又爱嫉妒。",
+      "sourceLineId": "donjuan-timed-188-1",
+      "suppliedText": "Fidele et jalouse Fais balancer ton corps de gitane",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2056,
+        "anchorEnd": 2063.99,
+        "sourceLineNumber": 188,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2059.364,
+      "sourceText": "Fais balancer ton corps de gitane",
+      "ipa": "[fɛ balɑ̃se tɔ̃ kɔʁ də ʒitan]",
+      "ear": "费 巴朗塞 通 科赫 德 日塔恩",
+      "meaning": "摇动你吉卜赛姑娘的身姿。",
+      "sourceLineId": "donjuan-timed-188-2",
+      "suppliedText": "Fidele et jalouse Fais balancer ton corps de gitane",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2056,
+        "anchorEnd": 2063.99,
+        "sourceLineNumber": 188,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2064,
+      "sourceText": "Belle Andalouse",
+      "ipa": "[bɛl‿ɑ̃daluz]",
+      "ear": "贝勒 昂达卢兹",
+      "meaning": "美丽的安达卢西亚姑娘。",
+      "sourceLineId": "donjuan-timed-189-1",
+      "suppliedText": "Belle Andalouse Quand le feu devore tes yeux d'animal",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2064,
+        "anchorEnd": 2071,
+        "sourceLineNumber": 189,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2066.227,
+      "sourceText": "Quand le feu dévore tes yeux d'animal",
+      "ipa": "[kɑ̃ lə fø devɔʁ tez‿jø danimal]",
+      "ear": "康 勒 弗厄 德沃赫 特兹 耶厄 达尼玛勒",
+      "meaning": "让野性双眸燃起火焰。",
+      "sourceLineId": "donjuan-timed-189-2",
+      "suppliedText": "Belle Andalouse Quand le feu devore tes yeux d'animal",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2064,
+        "anchorEnd": 2071,
+        "sourceLineNumber": 189,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2071,
+      "sourceText": "Brune et jalouse",
+      "ipa": "[bʁyn e ʒaluz]",
+      "ear": "布许恩 诶 扎卢兹",
+      "meaning": "肤色深沉，又爱嫉妒。",
+      "sourceLineId": "donjuan-timed-190-1",
+      "suppliedText": "Brune et jalouse Pour le chasseur, le proie ideale",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2071,
+        "anchorEnd": 2078,
+        "sourceLineNumber": 190,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2073.333,
+      "sourceText": "Pour le chasseur, la proie idéale",
+      "ipa": "[puʁ lə ʃasœʁ la pʁwa ideal]",
+      "ear": "普赫 勒 沙瑟厄赫 拉 普赫乌阿 伊德阿勒",
+      "meaning": "对于猎人来说，理想的猎物",
+      "sourceLineId": "donjuan-timed-190-2",
+      "suppliedText": "Brune et jalouse Pour le chasseur, le proie ideale",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2071,
+        "anchorEnd": 2078,
+        "sourceLineNumber": 190,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2078,
+      "sourceText": "Belle Andalouse",
+      "ipa": "[bɛl‿ɑ̃daluz]",
+      "ear": "贝勒 昂达卢兹",
+      "meaning": "美丽的安达卢西亚姑娘。",
+      "sourceLineId": "donjuan-timed-191-1",
+      "suppliedText": "Belle Andalouse 15. N'AS-TU PAS HONTE",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 2078,
+        "anchorEnd": 2090.44,
+        "sourceLineNumber": 191,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

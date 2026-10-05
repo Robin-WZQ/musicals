@@ -1,0 +1,166 @@
+{
+  "videoId": "donjuan-01",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=0"
+    }
+  ],
+  "entries": [
+    {
+      "start": 73,
+      "sourceText": "On l'appelait Don Juan.",
+      "ipa": "[ɔ̃ laplɛ dɔ̃ ʒɥɑ̃]",
+      "ear": "翁 拉普莱 东 日于昂",
+      "meaning": "人们叫他唐璜。",
+      "sourceLineId": "donjuan-timed-2-1",
+      "suppliedText": "On l'appelait Don Juan. En ce temps-la, aucune femme ne resistait au charme de ce jeune noble Espagnol.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 73,
+        "anchorEnd": 82.83,
+        "sourceLineNumber": 2,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 75.125,
+      "sourceText": "En ce temps-là, aucune femme ne résistait au charme de ce jeune noble Espagnol.",
+      "ipa": "[ɑ̃ sə tɑ̃la okyn fam nə ʁezistɛ o ʃaʁm də sə ʒøn nɔbl‿ɛspaɲɔl]",
+      "ear": "昂 瑟 唐拉 奥基于恩 法姆 讷 赫齐斯泰 奥 沙赫姆 德 瑟 热厄恩 诺布勒 艾斯帕涅哦勒",
+      "meaning": "那时，没有女人能抵挡这位年轻西班牙贵族的魅力。",
+      "sourceLineId": "donjuan-timed-2-2",
+      "suppliedText": "On l'appelait Don Juan. En ce temps-la, aucune femme ne resistait au charme de ce jeune noble Espagnol.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 73,
+        "anchorEnd": 82.83,
+        "sourceLineNumber": 2,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 83,
+      "sourceText": "Certains disaient qu'il les envoûtait, d'autres racontent encore",
+      "ipa": "[sɛʁtɛ̃ dizɛ kil lez‿ɑ̃vutɛ dotʁ ʁakɔ̃t‿ɑ̃kɔʁ]",
+      "ear": "塞赫坦 迪泽 基勒 莱兹 昂乌泰 多特赫 哈孔特 昂科赫",
+      "meaning": "有人说他给女人施了魔法，也有人至今还说，",
+      "sourceLineId": "donjuan-timed-3-1",
+      "suppliedText": "Certains disait qu'il les envoutait, d'autres racontent encore Que la main du diable etait posee sur son epaule.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 83,
+        "anchorEnd": 92,
+        "sourceLineNumber": 3,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 87.8,
+      "sourceText": "Que la main du diable était posée sur son épaule.",
+      "ipa": "[kə la mɛ̃ dy djabl‿etɛ poze syʁ sɔ̃n‿epol]",
+      "ear": "克 拉 曼 迪于 德耶阿布勒 诶泰 波泽 西于赫 松恩 诶波勒",
+      "meaning": "魔鬼的手就搭在他的肩上。",
+      "sourceLineId": "donjuan-timed-3-2",
+      "suppliedText": "Certains disait qu'il les envoutait, d'autres racontent encore Que la main du diable etait posee sur son epaule.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 83,
+        "anchorEnd": 92,
+        "sourceLineNumber": 3,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 92,
+      "sourceText": "Car Don Juan ne connaissait ni amour, ni pitié, ni regret, ni respect.",
+      "ipa": "[kaʁ dɔ̃ ʒɥɑ̃ nə kɔnɛsɛ ni amuʁ ni pitje ni ʁəɡʁɛ ni ʁɛspɛkt]",
+      "ear": "卡赫 东 日于昂 讷 科奈塞 尼 阿穆赫 尼 皮特耶诶 尼 赫格赫 尼 赫斯佩克特",
+      "meaning": "唐璜不懂爱情，没有怜悯，也从不后悔或尊重别人。",
+      "sourceLineId": "donjuan-timed-4-1",
+      "suppliedText": "Car Don Juan ne connaissait ni amour, ni pitie, ni regret, ni respect.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 92,
+        "anchorEnd": 99,
+        "sourceLineNumber": 4,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 99,
+      "sourceText": "Mais cette nuit-là, pour avoir voulu séduire la fille du Commandeur",
+      "ipa": "[mɛ sɛt nɥila puʁ‿avwaʁ vuly sedɥiʁ la fij dy kɔmɑ̃dœʁ]",
+      "ear": "梅 塞特 恩于伊拉 普赫 阿弗乌阿赫 乌吕 塞德于伊赫 拉 菲耶 迪于 科芒德厄赫",
+      "meaning": "可那一夜，他想勾引骑士长的女儿，",
+      "sourceLineId": "donjuan-timed-5-1",
+      "suppliedText": "Mais cette nuit-la, pour avoir voulu ceduir la fille du Commandeur Le destin en a decide autrement Il etait une fois a Seville...",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 99,
+        "anchorEnd": 111.05,
+        "sourceLineNumber": 5,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 105.379,
+      "sourceText": "Le destin en a décidé autrement",
+      "ipa": "[lə dɛstɛ̃ ɑ̃n‿a deside otʁəmɑ̃]",
+      "ear": "勒 戴斯坦 昂恩 阿 德西德 奥特赫芒",
+      "meaning": "命运便转了方向。",
+      "sourceLineId": "donjuan-timed-5-2",
+      "suppliedText": "Mais cette nuit-la, pour avoir voulu ceduir la fille du Commandeur Le destin en a decide autrement Il etait une fois a Seville...",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 99,
+        "anchorEnd": 111.05,
+        "sourceLineNumber": 5,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 108.215,
+      "sourceText": "Il était une fois à Séville...",
+      "ipa": "[il‿etɛ yn fwa a sevil]",
+      "ear": "伊勒 诶泰 于恩 弗乌阿 阿 塞维勒",
+      "meaning": "很久以前，在塞维利亚……",
+      "sourceLineId": "donjuan-timed-5-3",
+      "suppliedText": "Mais cette nuit-la, pour avoir voulu ceduir la fille du Commandeur Le destin en a decide autrement Il etait une fois a Seville...",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 99,
+        "anchorEnd": 111.05,
+        "sourceLineNumber": 5,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1048 @@
+{
+  "videoId": "donjuan-27",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=4466"
+    }
+  ],
+  "entries": [
+    {
+      "start": 4466,
+      "sourceText": "Lui il est tout ce que je veux",
+      "ipa": "[lɥi il‿ɛ tu sə kə ʒə vø]",
+      "ear": "勒于伊 伊勒 艾 图 瑟 克 热 弗厄",
+      "meaning": "他就是我想要的一切",
+      "sourceLineId": "donjuan-timed-428-1",
+      "suppliedText": "5. DEUX A AIMER Lui il est tout ce que je veux",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4466,
+        "anchorEnd": 4475,
+        "sourceLineNumber": 428,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4475,
+      "sourceText": "Tout ce qu'il y a en moi",
+      "ipa": "[tu sə kil‿i a ɑ̃ mwa]",
+      "ear": "图 瑟 基勒 伊 阿 昂 姆乌阿",
+      "meaning": "我心里的全部，",
+      "sourceLineId": "donjuan-timed-429-1",
+      "suppliedText": "Tout ce qu'il y a en moi Qui se porte comme un voeu Comme une professione de foi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4475,
+        "anchorEnd": 4485,
+        "sourceLineNumber": 429,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4478.226,
+      "sourceText": "Qui se porte comme un vœu",
+      "ipa": "[ki sə pɔʁt kɔm‿œ̃ vœ]",
+      "ear": "基 瑟 珀赫特 科姆 恩 弗厄",
+      "meaning": "像一个愿望，深藏在心中，",
+      "sourceLineId": "donjuan-timed-429-2",
+      "suppliedText": "Tout ce qu'il y a en moi Qui se porte comme un voeu Comme une professione de foi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4475,
+        "anchorEnd": 4485,
+        "sourceLineNumber": 429,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4481.452,
+      "sourceText": "Comme une profession de foi",
+      "ipa": "[kɔm‿yn pʁofɛsjɔ̃ də fwa]",
+      "ear": "科姆 于恩 普霍费斯耶翁 德 弗乌阿",
+      "meaning": "像一份坚定的信念。",
+      "sourceLineId": "donjuan-timed-429-3",
+      "suppliedText": "Tout ce qu'il y a en moi Qui se porte comme un voeu Comme une professione de foi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4475,
+        "anchorEnd": 4485,
+        "sourceLineNumber": 429,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4485,
+      "sourceText": "S'il n'y avait pas de Dieu",
+      "ipa": "[sil ni avɛ pa də djø]",
+      "ear": "西勒 尼 阿韦 帕 德 德耶厄",
+      "meaning": "如果没有神",
+      "sourceLineId": "donjuan-timed-430-1",
+      "suppliedText": "S'il n'y avait pas de Dieu C'est lui qui serait ma croix",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4485,
+        "anchorEnd": 4493.97,
+        "sourceLineNumber": 430,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4489.271,
+      "sourceText": "C'est lui qui serait ma croix",
+      "ipa": "[sɛ lɥi ki səʁɛ ma kʁwa]",
+      "ear": "塞 勒于伊 基 瑟赫 玛 克赫乌阿",
+      "meaning": "他就是我的十字架",
+      "sourceLineId": "donjuan-timed-430-2",
+      "suppliedText": "S'il n'y avait pas de Dieu C'est lui qui serait ma croix",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4485,
+        "anchorEnd": 4493.97,
+        "sourceLineNumber": 430,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4494,
+      "sourceText": "Lui il a mis dans mon regard",
+      "ipa": "[lɥi il‿a mi dɑ̃ mɔ̃ ʁəɡaʁ]",
+      "ear": "勒于伊 伊勒 阿 米 当 蒙 赫嘎赫",
+      "meaning": "他让我的眼中，",
+      "sourceLineId": "donjuan-timed-431-1",
+      "suppliedText": "Lui il a mis cans mon regard La lumiere qu'il n'y avait pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4494,
+        "anchorEnd": 4502,
+        "sourceLineNumber": 431,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4497.429,
+      "sourceText": "La lumière qu'il n'y avait pas",
+      "ipa": "[la lymjɛʁ kil ni avɛ pa]",
+      "ear": "拉 吕姆耶艾赫 基勒 尼 阿韦 帕",
+      "meaning": "亮起从前没有的光。",
+      "sourceLineId": "donjuan-timed-431-2",
+      "suppliedText": "Lui il a mis cans mon regard La lumiere qu'il n'y avait pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4494,
+        "anchorEnd": 4502,
+        "sourceLineNumber": 431,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4502,
+      "sourceText": "Il est devenu mon art",
+      "ipa": "[il‿ɛ dəvny mɔ̃n‿aʁ]",
+      "ear": "伊勒 艾 德弗尼于 蒙恩 阿赫",
+      "meaning": "他成了我创作的全部，",
+      "sourceLineId": "donjuan-timed-432-1",
+      "suppliedText": "Il est devenu mon art Et mon artiste a la fois Je ne pourrai plus avoir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4502,
+        "anchorEnd": 4511.93,
+        "sourceLineNumber": 432,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4504.673,
+      "sourceText": "Et mon artiste à la fois",
+      "ipa": "[e mɔ̃n‿aʁtist‿a la fwa]",
+      "ear": "诶 蒙恩 阿赫蒂斯特 阿 拉 弗乌阿",
+      "meaning": "也成了赋予我灵感的艺术家。",
+      "sourceLineId": "donjuan-timed-432-2",
+      "suppliedText": "Il est devenu mon art Et mon artiste a la fois Je ne pourrai plus avoir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4502,
+        "anchorEnd": 4511.93,
+        "sourceLineNumber": 432,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4508.111,
+      "sourceText": "Je ne pourrai plus avoir",
+      "ipa": "[ʒə nə puʁe plyz‿avwaʁ]",
+      "ear": "热 讷 普赫 普吕兹 阿弗乌阿赫",
+      "meaning": "我将不再能够拥有",
+      "sourceLineId": "donjuan-timed-432-3",
+      "suppliedText": "Il est devenu mon art Et mon artiste a la fois Je ne pourrai plus avoir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4502,
+        "anchorEnd": 4511.93,
+        "sourceLineNumber": 432,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4512,
+      "sourceText": "Aucun autre homme dans mes bras",
+      "ipa": "[okœ̃n‿otʁ‿ɔm dɑ̃ me bʁa]",
+      "ear": "奥坎恩 奥特赫 哦姆 当 梅 布哈",
+      "meaning": "我怀里没有其他男人",
+      "sourceLineId": "donjuan-timed-433-1",
+      "suppliedText": "Aucun autre homme dans mes bras Aucun autre homme dans mes bras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4512,
+        "anchorEnd": 4519,
+        "sourceLineNumber": 433,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4515.5,
+      "sourceText": "Aucun autre homme dans mes bras",
+      "ipa": "[okœ̃n‿otʁ‿ɔm dɑ̃ me bʁa]",
+      "ear": "奥坎恩 奥特赫 哦姆 当 梅 布哈",
+      "meaning": "我怀里没有其他男人",
+      "sourceLineId": "donjuan-timed-433-2",
+      "suppliedText": "Aucun autre homme dans mes bras Aucun autre homme dans mes bras",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4512,
+        "anchorEnd": 4519,
+        "sourceLineNumber": 433,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4519,
+      "sourceText": "Quand on est deux à aimer",
+      "ipa": "[kɑ̃t‿ɔ̃n‿ɛ døz‿a ɛme]",
+      "ear": "康特 翁恩 艾 德厄兹 阿 艾梅",
+      "meaning": "当两个人同时爱着，",
+      "sourceLineId": "donjuan-timed-434-1",
+      "suppliedText": "Quand on est deux a aimer Le meme homme la meme annee Le meme jous la meme seconde",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4519,
+        "anchorEnd": 4528.84,
+        "sourceLineNumber": 434,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4522.075,
+      "sourceText": "Le même homme la même année",
+      "ipa": "[lə mɛm‿ɔm la mɛm‿ane]",
+      "ear": "勒 梅姆 哦姆 拉 梅姆 阿内",
+      "meaning": "同一年里的同一个男人，",
+      "sourceLineId": "donjuan-timed-434-2",
+      "suppliedText": "Quand on est deux a aimer Le meme homme la meme annee Le meme jous la meme seconde",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4519,
+        "anchorEnd": 4528.84,
+        "sourceLineNumber": 434,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4525.457,
+      "sourceText": "Le même jour la même seconde",
+      "ipa": "[lə mɛm ʒuʁ la mɛm səɡɔ̃d]",
+      "ear": "勒 梅姆 茹赫 拉 梅姆 瑟贡德",
+      "meaning": "同一天，同一秒。",
+      "sourceLineId": "donjuan-timed-434-3",
+      "suppliedText": "Quand on est deux a aimer Le meme homme la meme annee Le meme jous la meme seconde",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4519,
+        "anchorEnd": 4528.84,
+        "sourceLineNumber": 434,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4529,
+      "sourceText": "Quand on est deux à l'aimer",
+      "ipa": "[kɑ̃t‿ɔ̃n‿ɛ døz‿a lɛme]",
+      "ear": "康特 翁恩 艾 德厄兹 阿 莱梅",
+      "meaning": "当两个人都爱着他，",
+      "sourceLineId": "donjuan-timed-435-1",
+      "suppliedText": "Quand on est deux a l'aimer Comme s'il etait le dernier",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4529,
+        "anchorEnd": 4535,
+        "sourceLineNumber": 435,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4532.0,
+      "sourceText": "Comme s'il était le dernier",
+      "ipa": "[kɔm sil‿etɛ lə dɛʁnje]",
+      "ear": "科姆 西勒 诶泰 勒 戴赫恩耶诶",
+      "meaning": "仿佛他是最后一个，",
+      "sourceLineId": "donjuan-timed-435-2",
+      "suppliedText": "Quand on est deux a l'aimer Comme s'il etait le dernier",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4529,
+        "anchorEnd": 4535,
+        "sourceLineNumber": 435,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4535,
+      "sourceText": "Comme s'il était seul au monde",
+      "ipa": "[kɔm sil‿etɛ sœl‿o mɔ̃d]",
+      "ear": "科姆 西勒 诶泰 瑟厄勒 奥 蒙德",
+      "meaning": "仿佛全世界只有他。",
+      "sourceLineId": "donjuan-timed-436-1",
+      "suppliedText": "Comme s'il etait seul au monde Lui quand il a pose sur moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4535,
+        "anchorEnd": 4545.62,
+        "sourceLineNumber": 436,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4540.541,
+      "sourceText": "Lui quand il a posé sur moi",
+      "ipa": "[lɥi kɑ̃t‿il‿a poze syʁ mwa]",
+      "ear": "勒于伊 康特 伊勒 阿 波泽 西于赫 姆乌阿",
+      "meaning": "当他把目光和手指落在我身上——",
+      "sourceLineId": "donjuan-timed-436-2",
+      "suppliedText": "Comme s'il etait seul au monde Lui quand il a pose sur moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4535,
+        "anchorEnd": 4545.62,
+        "sourceLineNumber": 436,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4546,
+      "sourceText": "Et son regard et ses doigts",
+      "ipa": "[e sɔ̃ ʁəɡaʁ e se dwa]",
+      "ear": "诶 松 赫嘎赫 诶 塞 德乌阿",
+      "meaning": "他的目光与手指。",
+      "sourceLineId": "donjuan-timed-437-1",
+      "suppliedText": "Et son regard et ses doigts Avait-il compris deja Que c'etait la premiere fois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4546,
+        "anchorEnd": 4555,
+        "sourceLineNumber": 437,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4548.571,
+      "sourceText": "Avait-il compris déjà",
+      "ipa": "[avɛtil kɔ̃pʁi deʒa]",
+      "ear": "阿韦蒂勒 孔普希 德扎",
+      "meaning": "他是不是已经明白了",
+      "sourceLineId": "donjuan-timed-437-2",
+      "suppliedText": "Et son regard et ses doigts Avait-il compris deja Que c'etait la premiere fois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4546,
+        "anchorEnd": 4555,
+        "sourceLineNumber": 437,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4551.143,
+      "sourceText": "Que c'était la première fois",
+      "ipa": "[kə setɛ la pʁəmjɛʁ fwa]",
+      "ear": "克 塞泰 拉 普赫姆耶艾赫 弗乌阿",
+      "meaning": "那是我第一次，",
+      "sourceLineId": "donjuan-timed-437-3",
+      "suppliedText": "Et son regard et ses doigts Avait-il compris deja Que c'etait la premiere fois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4546,
+        "anchorEnd": 4555,
+        "sourceLineNumber": 437,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4555,
+      "sourceText": "Que je sentais sur mon corps",
+      "ipa": "[kə ʒə sɑ̃tɛ syʁ mɔ̃ kɔʁ]",
+      "ear": "克 热 桑泰 西于赫 蒙 科赫",
+      "meaning": "在自己的身体上感受到，",
+      "sourceLineId": "donjuan-timed-438-1",
+      "suppliedText": "Que je sentais sur mon corps Le diable que je veux encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4555,
+        "anchorEnd": 4564,
+        "sourceLineNumber": 438,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4558.857,
+      "sourceText": "Le diable que je veux encore",
+      "ipa": "[lə djabl kə ʒə vø ɑ̃kɔʁ]",
+      "ear": "勒 德耶阿布勒 克 热 弗厄 昂科赫",
+      "meaning": "那个让我仍然渴望的魔鬼。",
+      "sourceLineId": "donjuan-timed-438-2",
+      "suppliedText": "Que je sentais sur mon corps Le diable que je veux encore",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4555,
+        "anchorEnd": 4564,
+        "sourceLineNumber": 438,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4564,
+      "sourceText": "Lui je savais qu'il arriverait",
+      "ipa": "[lɥi ʒə savɛ kil‿aʁivʁɛ]",
+      "ear": "勒于伊 热 萨韦 基勒 阿希弗赫",
+      "meaning": "我就知道他会来",
+      "sourceLineId": "donjuan-timed-439-1",
+      "suppliedText": "Lui je savais qu'il arriverait Comme le jour apres la nuit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4564,
+        "anchorEnd": 4572,
+        "sourceLineNumber": 439,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4568.522,
+      "sourceText": "Comme le jour après la nuit",
+      "ipa": "[kɔm lə ʒuʁ‿apʁɛ la nɥi]",
+      "ear": "科姆 勒 茹赫 阿普赫 拉 恩于伊",
+      "meaning": "像黑夜之后迎来白昼。",
+      "sourceLineId": "donjuan-timed-439-2",
+      "suppliedText": "Lui je savais qu'il arriverait Comme le jour apres la nuit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4564,
+        "anchorEnd": 4572,
+        "sourceLineNumber": 439,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4572,
+      "sourceText": "Comme ce rêve que l'on fait",
+      "ipa": "[kɔm sə ʁɛv kə lɔ̃ fɛ]",
+      "ear": "科姆 瑟 赫弗 克 隆 费",
+      "meaning": "就像我们的这个梦想",
+      "sourceLineId": "donjuan-timed-440-1",
+      "suppliedText": "Comme ce reve que l'on fait Et que jamais on n'oublie Je savais qu'il serait la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4572,
+        "anchorEnd": 4582,
+        "sourceLineNumber": 440,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4575.226,
+      "sourceText": "Et que jamais on n'oublie",
+      "ipa": "[e kə ʒamɛ ɔ̃ nubli]",
+      "ear": "诶 克 扎梅 翁 努布利",
+      "meaning": "我们永远不会忘记",
+      "sourceLineId": "donjuan-timed-440-2",
+      "suppliedText": "Comme ce reve que l'on fait Et que jamais on n'oublie Je savais qu'il serait la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4572,
+        "anchorEnd": 4582,
+        "sourceLineNumber": 440,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4578.774,
+      "sourceText": "Je savais qu'il serait là",
+      "ipa": "[ʒə savɛ kil səʁɛ la]",
+      "ear": "热 萨韦 基勒 瑟赫 拉",
+      "meaning": "我就知道他会在那儿",
+      "sourceLineId": "donjuan-timed-440-3",
+      "suppliedText": "Comme ce reve que l'on fait Et que jamais on n'oublie Je savais qu'il serait la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4572,
+        "anchorEnd": 4582,
+        "sourceLineNumber": 440,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4582,
+      "sourceText": "Quand j'aurais besoin de lui",
+      "ipa": "[kɑ̃ ʒoʁɛ bəzwɛ̃ də lɥi]",
+      "ear": "康 若赫 伯兹乌安 德 勒于伊",
+      "meaning": "当我需要他的时候",
+      "sourceLineId": "donjuan-timed-441-1",
+      "suppliedText": "Quand j'aurais besoin de lui Quand j'aurais besoin de lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4582,
+        "anchorEnd": 4589,
+        "sourceLineNumber": 441,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4585.5,
+      "sourceText": "Quand j'aurais besoin de lui",
+      "ipa": "[kɑ̃ ʒoʁɛ bəzwɛ̃ də lɥi]",
+      "ear": "康 若赫 伯兹乌安 德 勒于伊",
+      "meaning": "当我需要他的时候",
+      "sourceLineId": "donjuan-timed-441-2",
+      "suppliedText": "Quand j'aurais besoin de lui Quand j'aurais besoin de lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4582,
+        "anchorEnd": 4589,
+        "sourceLineNumber": 441,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4589,
+      "sourceText": "Quand on est deux à aimer",
+      "ipa": "[kɑ̃t‿ɔ̃n‿ɛ døz‿a ɛme]",
+      "ear": "康特 翁恩 艾 德厄兹 阿 艾梅",
+      "meaning": "当两个人同时爱着，",
+      "sourceLineId": "donjuan-timed-442-1",
+      "suppliedText": "Quand on est deux a aimer Le meme homme la meme annee Le meme jous la meme seconde",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4589,
+        "anchorEnd": 4598.54,
+        "sourceLineNumber": 442,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4591.981,
+      "sourceText": "Le même homme la même année",
+      "ipa": "[lə mɛm‿ɔm la mɛm‿ane]",
+      "ear": "勒 梅姆 哦姆 拉 梅姆 阿内",
+      "meaning": "同一年里的同一个男人，",
+      "sourceLineId": "donjuan-timed-442-2",
+      "suppliedText": "Quand on est deux a aimer Le meme homme la meme annee Le meme jous la meme seconde",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4589,
+        "anchorEnd": 4598.54,
+        "sourceLineNumber": 442,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4595.261,
+      "sourceText": "Le même jour la même seconde",
+      "ipa": "[lə mɛm ʒuʁ la mɛm səɡɔ̃d]",
+      "ear": "勒 梅姆 茹赫 拉 梅姆 瑟贡德",
+      "meaning": "同一天，同一秒。",
+      "sourceLineId": "donjuan-timed-442-3",
+      "suppliedText": "Quand on est deux a aimer Le meme homme la meme annee Le meme jous la meme seconde",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4589,
+        "anchorEnd": 4598.54,
+        "sourceLineNumber": 442,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4599,
+      "sourceText": "Quand on est deux à l'aimer",
+      "ipa": "[kɑ̃t‿ɔ̃n‿ɛ døz‿a lɛme]",
+      "ear": "康特 翁恩 艾 德厄兹 阿 莱梅",
+      "meaning": "当两个人都爱着他，",
+      "sourceLineId": "donjuan-timed-443-1",
+      "suppliedText": "Quand on est deux a l'aimer Comme s'il etait le dernier",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4599,
+        "anchorEnd": 4605,
+        "sourceLineNumber": 443,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4602.0,
+      "sourceText": "Comme s'il était le dernier",
+      "ipa": "[kɔm sil‿etɛ lə dɛʁnje]",
+      "ear": "科姆 西勒 诶泰 勒 戴赫恩耶诶",
+      "meaning": "仿佛他是最后一个，",
+      "sourceLineId": "donjuan-timed-443-2",
+      "suppliedText": "Quand on est deux a l'aimer Comme s'il etait le dernier",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4599,
+        "anchorEnd": 4605,
+        "sourceLineNumber": 443,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4605,
+      "sourceText": "Comme s'il était seul au monde",
+      "ipa": "[kɔm sil‿etɛ sœl‿o mɔ̃d]",
+      "ear": "科姆 西勒 诶泰 瑟厄勒 奥 蒙德",
+      "meaning": "仿佛全世界只有他。",
+      "sourceLineId": "donjuan-timed-444-1",
+      "suppliedText": "Comme s'il etait seul au monde Quand on est deux a aimer Le meme homme la meme annee",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4605,
+        "anchorEnd": 4614.79,
+        "sourceLineNumber": 444,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4608.56,
+      "sourceText": "Quand on est deux à aimer",
+      "ipa": "[kɑ̃t‿ɔ̃n‿ɛ døz‿a ɛme]",
+      "ear": "康特 翁恩 艾 德厄兹 阿 艾梅",
+      "meaning": "当两个人同时爱着，",
+      "sourceLineId": "donjuan-timed-444-2",
+      "suppliedText": "Comme s'il etait seul au monde Quand on est deux a aimer Le meme homme la meme annee",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4605,
+        "anchorEnd": 4614.79,
+        "sourceLineNumber": 444,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4611.527,
+      "sourceText": "Le même homme la même année",
+      "ipa": "[lə mɛm‿ɔm la mɛm‿ane]",
+      "ear": "勒 梅姆 哦姆 拉 梅姆 阿内",
+      "meaning": "同一年里的同一个男人，",
+      "sourceLineId": "donjuan-timed-444-3",
+      "suppliedText": "Comme s'il etait seul au monde Quand on est deux a aimer Le meme homme la meme annee",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4605,
+        "anchorEnd": 4614.79,
+        "sourceLineNumber": 444,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4615,
+      "sourceText": "Quand on est deux à vouloir",
+      "ipa": "[kɑ̃t‿ɔ̃n‿ɛ døz‿a vulwaʁ]",
+      "ear": "康特 翁恩 艾 德厄兹 阿 乌勒乌阿赫",
+      "meaning": "当两个人都渴望，",
+      "sourceLineId": "donjuan-timed-445-1",
+      "suppliedText": "Quand on est deux a vouloir Le meme soleil en ete",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4615,
+        "anchorEnd": 4621.96,
+        "sourceLineNumber": 445,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4618.828,
+      "sourceText": "Le même soleil en été",
+      "ipa": "[lə mɛm solɛj‿ɑ̃n‿ete]",
+      "ear": "勒 梅姆 索莱耶 昂恩 诶特",
+      "meaning": "同样的夏日阳光",
+      "sourceLineId": "donjuan-timed-445-2",
+      "suppliedText": "Quand on est deux a vouloir Le meme soleil en ete",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4615,
+        "anchorEnd": 4621.96,
+        "sourceLineNumber": 445,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4622,
+      "sourceText": "Le même accord de guitare",
+      "ipa": "[lə mɛm‿akɔʁ də ɡitaʁ]",
+      "ear": "勒 梅姆 阿科赫 德 吉塔赫",
+      "meaning": "同样的吉他和弦",
+      "sourceLineId": "donjuan-timed-446-1",
+      "suppliedText": "Le meme accord de guitare Sans pourvoir le partager",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4622,
+        "anchorEnd": 4629,
+        "sourceLineNumber": 446,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4625.684,
+      "sourceText": "Sans pouvoir le partager",
+      "ipa": "[sɑ̃ puvwaʁ lə paʁtaʒe]",
+      "ear": "桑 普弗乌阿赫 勒 帕赫塔热",
+      "meaning": "无法分享",
+      "sourceLineId": "donjuan-timed-446-2",
+      "suppliedText": "Le meme accord de guitare Sans pourvoir le partager",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4622,
+        "anchorEnd": 4629,
+        "sourceLineNumber": 446,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4629,
+      "sourceText": "Quand on est deux à aimer",
+      "ipa": "[kɑ̃t‿ɔ̃n‿ɛ døz‿a ɛme]",
+      "ear": "康特 翁恩 艾 德厄兹 阿 艾梅",
+      "meaning": "当两个人同时爱着，",
+      "sourceLineId": "donjuan-timed-447-1",
+      "suppliedText": "Quand on est deux a aimer Le meme homme la meme annee",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4629,
+        "anchorEnd": 4635,
+        "sourceLineNumber": 447,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4631.857,
+      "sourceText": "Le même homme la même année",
+      "ipa": "[lə mɛm‿ɔm la mɛm‿ane]",
+      "ear": "勒 梅姆 哦姆 拉 梅姆 阿内",
+      "meaning": "同一年里的同一个男人，",
+      "sourceLineId": "donjuan-timed-447-2",
+      "suppliedText": "Quand on est deux a aimer Le meme homme la meme annee",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4629,
+        "anchorEnd": 4635,
+        "sourceLineNumber": 447,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4635,
+      "sourceText": "Le même jour la même seconde",
+      "ipa": "[lə mɛm ʒuʁ la mɛm səɡɔ̃d]",
+      "ear": "勒 梅姆 茹赫 拉 梅姆 瑟贡德",
+      "meaning": "同一天，同一秒。",
+      "sourceLineId": "donjuan-timed-448-1",
+      "suppliedText": "Le meme jous la meme seconde Quand on est deux a l'aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4635,
+        "anchorEnd": 4642,
+        "sourceLineNumber": 448,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4638.667,
+      "sourceText": "Quand on est deux à l'aimer",
+      "ipa": "[kɑ̃t‿ɔ̃n‿ɛ døz‿a lɛme]",
+      "ear": "康特 翁恩 艾 德厄兹 阿 莱梅",
+      "meaning": "当两个人都爱着他，",
+      "sourceLineId": "donjuan-timed-448-2",
+      "suppliedText": "Le meme jous la meme seconde Quand on est deux a l'aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4635,
+        "anchorEnd": 4642,
+        "sourceLineNumber": 448,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4642,
+      "sourceText": "Comme s'il était le dernier",
+      "ipa": "[kɔm sil‿etɛ lə dɛʁnje]",
+      "ear": "科姆 西勒 诶泰 勒 戴赫恩耶诶",
+      "meaning": "仿佛他是最后一个，",
+      "sourceLineId": "donjuan-timed-449-1",
+      "suppliedText": "Comme s'il etait le dernier Comme s'il etait seul au monde",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4642,
+        "anchorEnd": 4649,
+        "sourceLineNumber": 449,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4645.182,
+      "sourceText": "Comme s'il était seul au monde",
+      "ipa": "[kɔm sil‿etɛ sœl‿o mɔ̃d]",
+      "ear": "科姆 西勒 诶泰 瑟厄勒 奥 蒙德",
+      "meaning": "仿佛全世界只有他。",
+      "sourceLineId": "donjuan-timed-449-2",
+      "suppliedText": "Comme s'il etait le dernier Comme s'il etait seul au monde",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4642,
+        "anchorEnd": 4649,
+        "sourceLineNumber": 449,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4649,
+      "sourceText": "Quand on est deux à aimer",
+      "ipa": "[kɑ̃t‿ɔ̃n‿ɛ døz‿a ɛme]",
+      "ear": "康特 翁恩 艾 德厄兹 阿 艾梅",
+      "meaning": "当两个人同时爱着，",
+      "sourceLineId": "donjuan-timed-450-1",
+      "suppliedText": "Quand on est deux a aimer Le meme homme la meme annee",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4649,
+        "anchorEnd": 4655,
+        "sourceLineNumber": 450,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4651.857,
+      "sourceText": "Le même homme la même année",
+      "ipa": "[lə mɛm‿ɔm la mɛm‿ane]",
+      "ear": "勒 梅姆 哦姆 拉 梅姆 阿内",
+      "meaning": "同一年里的同一个男人，",
+      "sourceLineId": "donjuan-timed-450-2",
+      "suppliedText": "Quand on est deux a aimer Le meme homme la meme annee",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4649,
+        "anchorEnd": 4655,
+        "sourceLineNumber": 450,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4655,
+      "sourceText": "Quand on est deux à vouloir",
+      "ipa": "[kɑ̃t‿ɔ̃n‿ɛ døz‿a vulwaʁ]",
+      "ear": "康特 翁恩 艾 德厄兹 阿 乌勒乌阿赫",
+      "meaning": "当两个人都渴望，",
+      "sourceLineId": "donjuan-timed-451-1",
+      "suppliedText": "Quand on est deux a vouloir Le meme soleil en ete",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4655,
+        "anchorEnd": 4661.99,
+        "sourceLineNumber": 451,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4658.845,
+      "sourceText": "Le même soleil en été",
+      "ipa": "[lə mɛm solɛj‿ɑ̃n‿ete]",
+      "ear": "勒 梅姆 索莱耶 昂恩 诶特",
+      "meaning": "同样的夏日阳光",
+      "sourceLineId": "donjuan-timed-451-2",
+      "suppliedText": "Quand on est deux a vouloir Le meme soleil en ete",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4655,
+        "anchorEnd": 4661.99,
+        "sourceLineNumber": 451,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4662,
+      "sourceText": "Le même accord de guitare",
+      "ipa": "[lə mɛm‿akɔʁ də ɡitaʁ]",
+      "ear": "勒 梅姆 阿科赫 德 吉塔赫",
+      "meaning": "同样的吉他和弦",
+      "sourceLineId": "donjuan-timed-452-1",
+      "suppliedText": "Le meme accord de guitare Sans pourvoir le partager",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4662,
+        "anchorEnd": 4670.04,
+        "sourceLineNumber": 452,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4666.232,
+      "sourceText": "Sans pouvoir le partager",
+      "ipa": "[sɑ̃ puvwaʁ lə paʁtaʒe]",
+      "ear": "桑 普弗乌阿赫 勒 帕赫塔热",
+      "meaning": "无法分享",
+      "sourceLineId": "donjuan-timed-452-2",
+      "suppliedText": "Le meme accord de guitare Sans pourvoir le partager",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4662,
+        "anchorEnd": 4670.04,
+        "sourceLineNumber": 452,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4671,
+      "sourceText": "Quand on est deux à aimer",
+      "ipa": "[kɑ̃t‿ɔ̃n‿ɛ døz‿a ɛme]",
+      "ear": "康特 翁恩 艾 德厄兹 阿 艾梅",
+      "meaning": "当两个人同时爱着，",
+      "sourceLineId": "donjuan-timed-453-1",
+      "suppliedText": "Quand on est deux a aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4671,
+        "anchorEnd": 4676.07,
+        "sourceLineNumber": 453,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -43,7 +43,7 @@ def annotate(text, raw):
     return '[' + ''.join(parts) + ']', ' '.join(ear_word(w) for w in words)
 
 
-def raw_pronunciation_map(texts):
+def raw_pronunciation_map(texts, language='fr-fr'):
     from phonemizer import phonemize
     from phonemizer.backend.espeak.wrapper import EspeakWrapper
     from phonemizer.separator import Separator
@@ -57,7 +57,7 @@ def raw_pronunciation_map(texts):
     EspeakWrapper.set_library(espeakng_loader.get_library_path())
     EspeakWrapper.set_data_path(str(data))
     texts = list(dict.fromkeys(texts))
-    raw = phonemize(texts, language='fr-fr', separator=Separator(phone=' ',word=' | '),strip=True)
+    raw = phonemize(texts, language=language, separator=Separator(phone=' ',word=' | '),strip=True)
     if len(raw) != len(texts):
         raise ValueError('Pronunciation result count differs from caption count')
     return dict(zip(texts, raw))

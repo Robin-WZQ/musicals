@@ -1,0 +1,274 @@
+{
+  "videoId": "donjuan-35",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=6048"
+    }
+  ],
+  "entries": [
+    {
+      "start": 6056,
+      "sourceText": "Les anges viendront",
+      "ipa": "[lez‿ɑ̃ʒ vjɛ̃dʁɔ̃]",
+      "ear": "莱兹 昂日 弗耶安德洪",
+      "meaning": "天使会来",
+      "sourceLineId": "donjuan-timed-592-1",
+      "suppliedText": "Les anges viendront",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6056,
+        "anchorEnd": 6062.26,
+        "sourceLineNumber": 592,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6063,
+      "sourceText": "Les anges seront",
+      "ipa": "[lez‿ɑ̃ʒ səʁɔ̃]",
+      "ear": "莱兹 昂日 瑟洪",
+      "meaning": "天使将会，",
+      "sourceLineId": "donjuan-timed-593-1",
+      "suppliedText": "Les anges seront",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6063,
+        "anchorEnd": 6069.61,
+        "sourceLineNumber": 593,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6071,
+      "sourceText": "Pour eux ce soir",
+      "ipa": "[puʁ‿ø sə swaʁ]",
+      "ear": "普赫 厄 瑟 斯乌阿赫",
+      "meaning": "在今夜守着他们。",
+      "sourceLineId": "donjuan-timed-594-1",
+      "suppliedText": "Pour eux ce soir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6071,
+        "anchorEnd": 6076.94,
+        "sourceLineNumber": 594,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6078,
+      "sourceText": "Les anges viendront",
+      "ipa": "[lez‿ɑ̃ʒ vjɛ̃dʁɔ̃]",
+      "ear": "莱兹 昂日 弗耶安德洪",
+      "meaning": "天使会来",
+      "sourceLineId": "donjuan-timed-595-1",
+      "suppliedText": "Les anges viendront",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6078,
+        "anchorEnd": 6084.17,
+        "sourceLineNumber": 595,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6085,
+      "sourceText": "Les anges seront",
+      "ipa": "[lez‿ɑ̃ʒ səʁɔ̃]",
+      "ear": "莱兹 昂日 瑟洪",
+      "meaning": "天使将会，",
+      "sourceLineId": "donjuan-timed-596-1",
+      "suppliedText": "Les anges seront",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6085,
+        "anchorEnd": 6091.32,
+        "sourceLineNumber": 596,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6092,
+      "sourceText": "Pour eux ce soir",
+      "ipa": "[puʁ‿ø sə swaʁ]",
+      "ear": "普赫 厄 瑟 斯乌阿赫",
+      "meaning": "在今夜守着他们。",
+      "sourceLineId": "donjuan-timed-597-1",
+      "suppliedText": "Pour eux ce soir Vous dans le ciel",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6092,
+        "anchorEnd": 6103,
+        "sourceLineNumber": 597,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6097.923,
+      "sourceText": "Vous dans le ciel",
+      "ipa": "[vu dɑ̃ lə sjɛl]",
+      "ear": "乌 当 勒 斯耶艾勒",
+      "meaning": "天上的你们，",
+      "sourceLineId": "donjuan-timed-597-2",
+      "suppliedText": "Pour eux ce soir Vous dans le ciel",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6092,
+        "anchorEnd": 6103,
+        "sourceLineNumber": 597,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6103,
+      "sourceText": "Regardez-nous",
+      "ipa": "[ʁəɡaʁdenu]",
+      "ear": "赫嘎赫德努",
+      "meaning": "看看我们",
+      "sourceLineId": "donjuan-timed-598-1",
+      "suppliedText": "Regardez-nous Quand les mortels",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6103,
+        "anchorEnd": 6110.77,
+        "sourceLineNumber": 598,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6106.885,
+      "sourceText": "Quand les mortels",
+      "ipa": "[kɑ̃ le mɔʁtɛl]",
+      "ear": "康 莱 莫赫泰勒",
+      "meaning": "当凡人",
+      "sourceLineId": "donjuan-timed-598-2",
+      "suppliedText": "Regardez-nous Quand les mortels",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6103,
+        "anchorEnd": 6110.77,
+        "sourceLineNumber": 598,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6111,
+      "sourceText": "Sont à genoux",
+      "ipa": "[sɔ̃t‿a ʒənu]",
+      "ear": "松特 阿 热努",
+      "meaning": "跪下",
+      "sourceLineId": "donjuan-timed-599-1",
+      "suppliedText": "Sont a jenoux Vous dans le ciel",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6111,
+        "anchorEnd": 6118,
+        "sourceLineNumber": 599,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6114.182,
+      "sourceText": "Vous dans le ciel",
+      "ipa": "[vu dɑ̃ lə sjɛl]",
+      "ear": "乌 当 勒 斯耶艾勒",
+      "meaning": "天上的你们，",
+      "sourceLineId": "donjuan-timed-599-2",
+      "suppliedText": "Sont a jenoux Vous dans le ciel",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6111,
+        "anchorEnd": 6118,
+        "sourceLineNumber": 599,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6118,
+      "sourceText": "Ayez pitié",
+      "ipa": "[ɛje pitje]",
+      "ear": "艾耶诶 皮特耶诶",
+      "meaning": "请发慈悲。",
+      "sourceLineId": "donjuan-timed-600-1",
+      "suppliedText": "Ayez pitie Et qu'apres ce duel",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6118,
+        "anchorEnd": 6125.82,
+        "sourceLineNumber": 600,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6121.609,
+      "sourceText": "Et qu'après ce duel",
+      "ipa": "[e kapʁɛ sə dyɛl]",
+      "ear": "诶 卡普赫 瑟 迪于艾勒",
+      "meaning": "这场决斗之后",
+      "sourceLineId": "donjuan-timed-600-2",
+      "suppliedText": "Ayez pitie Et qu'apres ce duel",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6118,
+        "anchorEnd": 6125.82,
+        "sourceLineNumber": 600,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6126,
+      "sourceText": "Personne ne soit damné",
+      "ipa": "[pɛʁsɔn nə swa dane]",
+      "ear": "佩赫索恩 讷 斯乌阿 达内",
+      "meaning": "愿没有人因此遭到永远的惩罚。",
+      "sourceLineId": "donjuan-timed-601-1",
+      "suppliedText": "Personne ne soit damne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6126,
+        "anchorEnd": 6129.86,
+        "sourceLineNumber": 601,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

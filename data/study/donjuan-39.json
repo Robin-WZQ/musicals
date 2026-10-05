@@ -1,0 +1,670 @@
+{
+  "videoId": "donjuan-39",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=6753"
+    }
+  ],
+  "entries": [
+    {
+      "start": 6770,
+      "sourceText": "J'avais juré de te tuer",
+      "ipa": "[ʒavɛ ʒyʁe də tə tye]",
+      "ear": "扎韦 日于赫 德 特 蒂于诶",
+      "meaning": "我发誓要杀了你",
+      "sourceLineId": "donjuan-timed-667-1",
+      "suppliedText": "J'avais jure de te tuer Mais maintenant que tu es la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6770,
+        "anchorEnd": 6777,
+        "sourceLineNumber": 667,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6773.15,
+      "sourceText": "Mais maintenant que tu es là",
+      "ipa": "[mɛ mɛ̃tnɑ̃ kə ty ɛ la]",
+      "ear": "梅 曼特南 克 蒂于 艾 拉",
+      "meaning": "但是既然你在这里",
+      "sourceLineId": "donjuan-timed-667-2",
+      "suppliedText": "J'avais jure de te tuer Mais maintenant que tu es la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6770,
+        "anchorEnd": 6777,
+        "sourceLineNumber": 667,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6777,
+      "sourceText": "Devant moi, je ne sais pas",
+      "ipa": "[dəvɑ̃ mwa ʒə nə sɛ pa]",
+      "ear": "德旺 姆乌阿 热 讷 塞 帕",
+      "meaning": "在我面前，我不知道",
+      "sourceLineId": "donjuan-timed-668-1",
+      "suppliedText": "Devant moi, je ne sais pas N'aie pas peur et sors ton epee",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6777,
+        "anchorEnd": 6785,
+        "sourceLineNumber": 668,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6780.429,
+      "sourceText": "N'aie pas peur et sors ton épée",
+      "ipa": "[nɛ pa pœʁ e sɔʁ tɔ̃n‿epe]",
+      "ear": "奈 帕 珀厄赫 诶 索赫 通恩 诶佩",
+      "meaning": "别害怕，拿出你的剑",
+      "sourceLineId": "donjuan-timed-668-2",
+      "suppliedText": "Devant moi, je ne sais pas N'aie pas peur et sors ton epee",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6777,
+        "anchorEnd": 6785,
+        "sourceLineNumber": 668,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6785,
+      "sourceText": "Et dans mon cœur enfonce-la",
+      "ipa": "[e dɑ̃ mɔ̃ kœʁ‿ɑ̃fɔ̃sla]",
+      "ear": "诶 当 蒙 克厄赫 昂丰斯拉",
+      "meaning": "把剑刺进我的心吧。",
+      "sourceLineId": "donjuan-timed-669-1",
+      "suppliedText": "Et dans mon coeur enfonce la N'attends pas, je suis la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6785,
+        "anchorEnd": 6792.4,
+        "sourceLineNumber": 669,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6789.162,
+      "sourceText": "N'attends pas, je suis là",
+      "ipa": "[natɑ̃ pa ʒə sɥi la]",
+      "ear": "纳唐 帕 热 斯于伊 拉",
+      "meaning": "别等了，我来了",
+      "sourceLineId": "donjuan-timed-669-2",
+      "suppliedText": "Et dans mon coeur enfonce la N'attends pas, je suis la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6785,
+        "anchorEnd": 6792.4,
+        "sourceLineNumber": 669,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6794,
+      "sourceText": "Duel à l'aube pour deux hommes",
+      "ipa": "[dyɛl‿a lob puʁ døz‿ɔm]",
+      "ear": "迪于艾勒 阿 洛布 普赫 德厄兹 哦姆",
+      "meaning": "两人黎明决斗",
+      "sourceLineId": "donjuan-timed-670-1",
+      "suppliedText": "Duel a l'aube pour deux hommes Qui prendra la vie de l'autre Pour qui sonne,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6794,
+        "anchorEnd": 6801.61,
+        "sourceLineNumber": 670,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6797.149,
+      "sourceText": "Qui prendra la vie de l'autre",
+      "ipa": "[ki pʁɑ̃dʁa la vi də lotʁ]",
+      "ear": "基 普杭德哈 拉 维 德 洛特赫",
+      "meaning": "谁会夺走对方的生命",
+      "sourceLineId": "donjuan-timed-670-2",
+      "suppliedText": "Duel a l'aube pour deux hommes Qui prendra la vie de l'autre Pour qui sonne,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6794,
+        "anchorEnd": 6801.61,
+        "sourceLineNumber": 670,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6800.036,
+      "sourceText": "Pour qui sonne,",
+      "ipa": "[puʁ ki sɔn]",
+      "ear": "普赫 基 索恩",
+      "meaning": "丧钟会为谁敲响，",
+      "sourceLineId": "donjuan-timed-670-3",
+      "suppliedText": "Duel a l'aube pour deux hommes Qui prendra la vie de l'autre Pour qui sonne,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6794,
+        "anchorEnd": 6801.61,
+        "sourceLineNumber": 670,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6802,
+      "sourceText": "La dernière heure, la dernière donne",
+      "ipa": "[la dɛʁnjɛʁ‿œʁ la dɛʁnjɛʁ dɔn]",
+      "ear": "拉 戴赫恩耶艾赫 厄赫 拉 戴赫恩耶艾赫 多恩",
+      "meaning": "最后的时刻，最后一次命运的出牌。",
+      "sourceLineId": "donjuan-timed-671-1",
+      "suppliedText": "La derniere heure, la derniere donne Duel a l'aube pour une femme",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6802,
+        "anchorEnd": 6809,
+        "sourceLineNumber": 671,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6805.889,
+      "sourceText": "Duel à l'aube pour une femme",
+      "ipa": "[dyɛl‿a lob puʁ‿yn fam]",
+      "ear": "迪于艾勒 阿 洛布 普赫 于恩 法姆",
+      "meaning": "为了一个女人，在黎明决斗。",
+      "sourceLineId": "donjuan-timed-671-2",
+      "suppliedText": "La derniere heure, la derniere donne Duel a l'aube pour une femme",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6802,
+        "anchorEnd": 6809,
+        "sourceLineNumber": 671,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6809,
+      "sourceText": "Le sang va couler en Espagne",
+      "ipa": "[lə sɑ̃ va kule ɑ̃n‿ɛspaɲ]",
+      "ear": "勒 桑 瓦 库莱 昂恩 艾斯帕涅",
+      "meaning": "热血将在西班牙流淌",
+      "sourceLineId": "donjuan-timed-672-1",
+      "suppliedText": "Le sang va couler en Espagne Qui de nous deux le ciel condamne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6809,
+        "anchorEnd": 6817.64,
+        "sourceLineNumber": 672,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6812.757,
+      "sourceText": "Qui de nous deux le ciel condamne",
+      "ipa": "[ki də nu dø lə sjɛl kɔ̃dan]",
+      "ear": "基 德 努 德厄 勒 斯耶艾勒 孔达恩",
+      "meaning": "上天会判我们哪一个赴死？",
+      "sourceLineId": "donjuan-timed-672-2",
+      "suppliedText": "Le sang va couler en Espagne Qui de nous deux le ciel condamne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6809,
+        "anchorEnd": 6817.64,
+        "sourceLineNumber": 672,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6820,
+      "sourceText": "J'avais juré de te tuer Dieu sait si tu l'as mérité",
+      "ipa": "[ʒavɛ ʒyʁe də tə tye djø sɛ si ty la meʁite]",
+      "ear": "扎韦 日于赫 德 特 蒂于诶 德耶厄 塞 西 蒂于 拉 梅希特",
+      "meaning": "我曾发誓杀了你，天知道你是罪有应得。",
+      "sourceLineId": "donjuan-timed-673-1",
+      "suppliedText": "J'avais jure de te tuer Dieu sait si tu l'a merite",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6820,
+        "anchorEnd": 6826.93,
+        "sourceLineNumber": 673,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6827,
+      "sourceText": "De te payer tes péchés",
+      "ipa": "[də tə pɛje te peʃe]",
+      "ear": "德 特 佩耶诶 特 佩谢",
+      "meaning": "让你为自己的罪付出代价。",
+      "sourceLineId": "donjuan-timed-674-1",
+      "suppliedText": "De te payer tes peches As-tu donc perdu ton courage",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6827,
+        "anchorEnd": 6834.96,
+        "sourceLineNumber": 674,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6830.538,
+      "sourceText": "As-tu donc perdu ton courage",
+      "ipa": "[aty dɔ̃k pɛʁdy tɔ̃ kuʁaʒ]",
+      "ear": "阿蒂于 东克 佩赫迪于 通 库哈日",
+      "meaning": "你失去勇气了吗？",
+      "sourceLineId": "donjuan-timed-674-2",
+      "suppliedText": "De te payer tes peches As-tu donc perdu ton courage",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6827,
+        "anchorEnd": 6834.96,
+        "sourceLineNumber": 674,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6836,
+      "sourceText": "Faut-il me cacher le visage",
+      "ipa": "[fotil mə kaʃe lə vizaʒ]",
+      "ear": "佛蒂勒 默 卡谢 勒 维扎日",
+      "meaning": "难道要我遮住脸，",
+      "sourceLineId": "donjuan-timed-675-1",
+      "suppliedText": "Faut-il me cacher le visage Pour oser me frapper",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6836,
+        "anchorEnd": 6842.93,
+        "sourceLineNumber": 675,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6840.076,
+      "sourceText": "Pour oser me frapper",
+      "ipa": "[puʁ‿oze mə fʁape]",
+      "ear": "普赫 奥泽 默 弗哈佩",
+      "meaning": "你才敢向我出手？",
+      "sourceLineId": "donjuan-timed-675-2",
+      "suppliedText": "Faut-il me cacher le visage Pour oser me frapper",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6836,
+        "anchorEnd": 6842.93,
+        "sourceLineNumber": 675,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6844,
+      "sourceText": "Duel à l'aube pour deux hommes",
+      "ipa": "[dyɛl‿a lob puʁ døz‿ɔm]",
+      "ear": "迪于艾勒 阿 洛布 普赫 德厄兹 哦姆",
+      "meaning": "两人黎明决斗",
+      "sourceLineId": "donjuan-timed-676-1",
+      "suppliedText": "Duel a l'aube pour deux hommes Qui prendra la vie de l'autre Pour qui sonne,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6844,
+        "anchorEnd": 6852,
+        "sourceLineNumber": 676,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6847.31,
+      "sourceText": "Qui prendra la vie de l'autre",
+      "ipa": "[ki pʁɑ̃dʁa la vi də lotʁ]",
+      "ear": "基 普杭德哈 拉 维 德 洛特赫",
+      "meaning": "谁会夺走对方的生命",
+      "sourceLineId": "donjuan-timed-676-2",
+      "suppliedText": "Duel a l'aube pour deux hommes Qui prendra la vie de l'autre Pour qui sonne,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6844,
+        "anchorEnd": 6852,
+        "sourceLineNumber": 676,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6850.345,
+      "sourceText": "Pour qui sonne,",
+      "ipa": "[puʁ ki sɔn]",
+      "ear": "普赫 基 索恩",
+      "meaning": "丧钟会为谁敲响，",
+      "sourceLineId": "donjuan-timed-676-3",
+      "suppliedText": "Duel a l'aube pour deux hommes Qui prendra la vie de l'autre Pour qui sonne,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6844,
+        "anchorEnd": 6852,
+        "sourceLineNumber": 676,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6852,
+      "sourceText": "La dernière heure, la dernière donne",
+      "ipa": "[la dɛʁnjɛʁ‿œʁ la dɛʁnjɛʁ dɔn]",
+      "ear": "拉 戴赫恩耶艾赫 厄赫 拉 戴赫恩耶艾赫 多恩",
+      "meaning": "最后的时刻，最后一次命运的出牌。",
+      "sourceLineId": "donjuan-timed-677-1",
+      "suppliedText": "La derniere heure, la derniere donne Duel a l'aube pour une femme",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6852,
+        "anchorEnd": 6859.86,
+        "sourceLineNumber": 677,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6856.367,
+      "sourceText": "Duel à l'aube pour une femme",
+      "ipa": "[dyɛl‿a lob puʁ‿yn fam]",
+      "ear": "迪于艾勒 阿 洛布 普赫 于恩 法姆",
+      "meaning": "为了一个女人，在黎明决斗。",
+      "sourceLineId": "donjuan-timed-677-2",
+      "suppliedText": "La derniere heure, la derniere donne Duel a l'aube pour une femme",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6852,
+        "anchorEnd": 6859.86,
+        "sourceLineNumber": 677,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6860,
+      "sourceText": "Le sang va couler en Espagne",
+      "ipa": "[lə sɑ̃ va kule ɑ̃n‿ɛspaɲ]",
+      "ear": "勒 桑 瓦 库莱 昂恩 艾斯帕涅",
+      "meaning": "热血将在西班牙流淌",
+      "sourceLineId": "donjuan-timed-678-1",
+      "suppliedText": "Le sang va couler en Espagne Qui de nous deux le ciel condamne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6860,
+        "anchorEnd": 6867.59,
+        "sourceLineNumber": 678,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6863.3,
+      "sourceText": "Qui de nous deux le ciel condamne",
+      "ipa": "[ki də nu dø lə sjɛl kɔ̃dan]",
+      "ear": "基 德 努 德厄 勒 斯耶艾勒 孔达恩",
+      "meaning": "上天会判我们哪一个赴死？",
+      "sourceLineId": "donjuan-timed-678-2",
+      "suppliedText": "Le sang va couler en Espagne Qui de nous deux le ciel condamne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6860,
+        "anchorEnd": 6867.59,
+        "sourceLineNumber": 678,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6870,
+      "sourceText": "Duel à l'aube, duel en ville",
+      "ipa": "[dyɛl‿a lob dyɛl‿ɑ̃ vil]",
+      "ear": "迪于艾勒 阿 洛布 迪于艾勒 昂 维勒",
+      "meaning": "黎明决斗，城里决斗",
+      "sourceLineId": "donjuan-timed-679-1",
+      "suppliedText": "Duel a l'aube, duel en ville Avant que le soleil ne brille",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6870,
+        "anchorEnd": 6877,
+        "sourceLineNumber": 679,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6873.5,
+      "sourceText": "Avant que le soleil ne brille",
+      "ipa": "[avɑ̃ kə lə solɛj nə bʁij]",
+      "ear": "阿旺 克 勒 索莱耶 讷 布希耶",
+      "meaning": "在太阳升起之前。",
+      "sourceLineId": "donjuan-timed-679-2",
+      "suppliedText": "Duel a l'aube, duel en ville Avant que le soleil ne brille",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6870,
+        "anchorEnd": 6877,
+        "sourceLineNumber": 679,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6877,
+      "sourceText": "La mort va frapper à Séville",
+      "ipa": "[la mɔʁ va fʁape a sevil]",
+      "ear": "拉 莫赫 瓦 弗哈佩 阿 塞维勒",
+      "meaning": "死亡将袭击塞维利亚",
+      "sourceLineId": "donjuan-timed-680-1",
+      "suppliedText": "La mort va frapper a Seville Duel a l'aube, pour deux hommes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6877,
+        "anchorEnd": 6885,
+        "sourceLineNumber": 680,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6880.429,
+      "sourceText": "Duel à l'aube, pour deux hommes",
+      "ipa": "[dyɛl‿a lob puʁ døz‿ɔm]",
+      "ear": "迪于艾勒 阿 洛布 普赫 德厄兹 哦姆",
+      "meaning": "黎明决斗，两个人",
+      "sourceLineId": "donjuan-timed-680-2",
+      "suppliedText": "La mort va frapper a Seville Duel a l'aube, pour deux hommes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6877,
+        "anchorEnd": 6885,
+        "sourceLineNumber": 680,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6885,
+      "sourceText": "Qui prendra la vie de l'autre",
+      "ipa": "[ki pʁɑ̃dʁa la vi də lotʁ]",
+      "ear": "基 普杭德哈 拉 维 德 洛特赫",
+      "meaning": "谁会夺走对方的生命",
+      "sourceLineId": "donjuan-timed-681-1",
+      "suppliedText": "Qui prendra la vie de l'autre Pour qui sonne La derniere heure, la derniere donne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6885,
+        "anchorEnd": 6892.79,
+        "sourceLineNumber": 681,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6887.678,
+      "sourceText": "Pour qui sonne",
+      "ipa": "[puʁ ki sɔn]",
+      "ear": "普赫 基 索恩",
+      "meaning": "为谁响起",
+      "sourceLineId": "donjuan-timed-681-2",
+      "suppliedText": "Qui prendra la vie de l'autre Pour qui sonne La derniere heure, la derniere donne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6885,
+        "anchorEnd": 6892.79,
+        "sourceLineNumber": 681,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6889.138,
+      "sourceText": "La dernière heure, la dernière donne",
+      "ipa": "[la dɛʁnjɛʁ‿œʁ la dɛʁnjɛʁ dɔn]",
+      "ear": "拉 戴赫恩耶艾赫 厄赫 拉 戴赫恩耶艾赫 多恩",
+      "meaning": "最后的时刻，最后一次命运的出牌。",
+      "sourceLineId": "donjuan-timed-681-3",
+      "suppliedText": "Qui prendra la vie de l'autre Pour qui sonne La derniere heure, la derniere donne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6885,
+        "anchorEnd": 6892.79,
+        "sourceLineNumber": 681,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6893,
+      "sourceText": "Duel à l'aube pour une femme",
+      "ipa": "[dyɛl‿a lob puʁ‿yn fam]",
+      "ear": "迪于艾勒 阿 洛布 普赫 于恩 法姆",
+      "meaning": "为了一个女人，在黎明决斗。",
+      "sourceLineId": "donjuan-timed-682-1",
+      "suppliedText": "Duel a l'aube pour une femme Le sang va couler en Espagne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6893,
+        "anchorEnd": 6900,
+        "sourceLineNumber": 682,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6896.818,
+      "sourceText": "Le sang va couler en Espagne",
+      "ipa": "[lə sɑ̃ va kule ɑ̃n‿ɛspaɲ]",
+      "ear": "勒 桑 瓦 库莱 昂恩 艾斯帕涅",
+      "meaning": "热血将在西班牙流淌",
+      "sourceLineId": "donjuan-timed-682-2",
+      "suppliedText": "Duel a l'aube pour une femme Le sang va couler en Espagne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6893,
+        "anchorEnd": 6900,
+        "sourceLineNumber": 682,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6900,
+      "sourceText": "Qui ce matin le ciel condamne",
+      "ipa": "[ki sə matɛ̃ lə sjɛl kɔ̃dan]",
+      "ear": "基 瑟 玛坦 勒 斯耶艾勒 孔达恩",
+      "meaning": "这个清晨，上天会判谁赴死？",
+      "sourceLineId": "donjuan-timed-683-1",
+      "suppliedText": "Qui ce matin le ciel condamne Duel a l'aube Don Juan",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6900,
+        "anchorEnd": 6908.14,
+        "sourceLineNumber": 683,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6904.477,
+      "sourceText": "Duel à l'aube Don Juan",
+      "ipa": "[dyɛl‿a lob dɔ̃ ʒɥɑ̃]",
+      "ear": "迪于艾勒 阿 洛布 东 日于昂",
+      "meaning": "黎明的决斗，唐璜。",
+      "sourceLineId": "donjuan-timed-683-2",
+      "suppliedText": "Qui ce matin le ciel condamne Duel a l'aube Don Juan",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6900,
+        "anchorEnd": 6908.14,
+        "sourceLineNumber": 683,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "videoId": "donjuan-06",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=831"
+    }
+  ],
+  "entries": [
+    {
+      "start": 831,
+      "sourceText": "Parle donc à son père, dis-lui, dis-lui",
+      "ipa": "[paʁl dɔ̃k‿a sɔ̃ pɛʁ dilɥi dilɥi]",
+      "ear": "帕赫勒 东克 阿 松 佩赫 迪勒于伊 迪勒于伊",
+      "meaning": "去跟他父亲说，告诉他，告诉他。",
+      "sourceLineId": "donjuan-timed-67-1",
+      "suppliedText": "6. DIS-LUI Parle donc a son pere, dis-lui, dis-lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 831,
+        "anchorEnd": 840.69,
+        "sourceLineNumber": 67,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 842,
+      "sourceText": "On le voit qui arrive tout près d'ici",
+      "ipa": "[ɔ̃ lə vwa ki aʁiv tu pʁɛ disi]",
+      "ear": "翁 勒 弗乌阿 基 阿希弗 图 普赫 迪西",
+      "meaning": "他正往这边走，已经不远了。",
+      "sourceLineId": "donjuan-timed-68-1",
+      "suppliedText": "On le voit qui arrive tout pres d'ici Raconte ce que tu as fait por lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 842,
+        "anchorEnd": 852.03,
+        "sourceLineNumber": 68,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 847.015,
+      "sourceText": "Raconte ce que tu as fait pour lui",
+      "ipa": "[ʁakɔ̃t sə kə ty a fɛ puʁ lɥi]",
+      "ear": "哈孔特 瑟 克 蒂于 阿 费 普赫 勒于伊",
+      "meaning": "说说你为他付出过什么。",
+      "sourceLineId": "donjuan-timed-68-2",
+      "suppliedText": "On le voit qui arrive tout pres d'ici Raconte ce que tu as fait por lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 842,
+        "anchorEnd": 852.03,
+        "sourceLineNumber": 68,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 854,
+      "sourceText": "Don Juan qui est parti",
+      "ipa": "[dɔ̃ ʒɥɑ̃ ki ɛ paʁti]",
+      "ear": "东 日于昂 基 艾 帕赫蒂",
+      "meaning": "唐璜已经离开，",
+      "sourceLineId": "donjuan-timed-69-1",
+      "suppliedText": "Don Juan qui est parti",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 854,
+        "anchorEnd": 858.63,
+        "sourceLineNumber": 69,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

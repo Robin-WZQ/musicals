@@ -1,0 +1,472 @@
+{
+  "videoId": "donjuan-25",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=4110"
+    }
+  ],
+  "entries": [
+    {
+      "start": 4116,
+      "sourceText": "Qui peut croire tout ce qui sort de la bouche du menteur",
+      "ipa": "[ki pø kʁwaʁ tu sə ki sɔʁ də la buʃ dy mɑ̃tœʁ]",
+      "ear": "基 珀厄 克赫乌阿赫 图 瑟 基 索赫 德 拉 布什 迪于 芒特厄赫",
+      "meaning": "骗子嘴里说出来的一切谁能相信",
+      "sourceLineId": "donjuan-timed-392-1",
+      "suppliedText": "Qui peut croire tout ce qui sort de la bouche du menteur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4116,
+        "anchorEnd": 4122.53,
+        "sourceLineNumber": 392,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4124,
+      "sourceText": "Qui peut dire qu'il peut se repentir de ses erreurs",
+      "ipa": "[ki pø diʁ kil pø sə ʁəpɑ̃tiʁ də sez‿ɛʁœʁ]",
+      "ear": "基 珀厄 迪赫 基勒 珀厄 瑟 赫庞蒂赫 德 塞兹 艾赫厄赫",
+      "meaning": "谁能说他能悔过自新",
+      "sourceLineId": "donjuan-timed-393-1",
+      "suppliedText": "Qui peut dire qu'il peut se repentir de ses erreurs",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4124,
+        "anchorEnd": 4131.09,
+        "sourceLineNumber": 393,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4132,
+      "sourceText": "Qui pardonne puisque nous ne sommes que des hommes",
+      "ipa": "[ki paʁdɔn pɥiskə nu nə sɔm kə dez‿ɔm]",
+      "ear": "基 帕赫多恩 普于伊斯克 努 讷 索姆 克 德兹 哦姆",
+      "meaning": "谁肯宽恕，毕竟我们只是凡人？",
+      "sourceLineId": "donjuan-timed-394-1",
+      "suppliedText": "Qui pardonne puisque nous ne sommes que des hommes Que des hommes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4132,
+        "anchorEnd": 4142,
+        "sourceLineNumber": 394,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4139.917,
+      "sourceText": "Que des hommes",
+      "ipa": "[kə dez‿ɔm]",
+      "ear": "克 德兹 哦姆",
+      "meaning": "只是凡人。",
+      "sourceLineId": "donjuan-timed-394-2",
+      "suppliedText": "Qui pardonne puisque nous ne sommes que des hommes Que des hommes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4132,
+        "anchorEnd": 4142,
+        "sourceLineNumber": 394,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4142,
+      "sourceText": "Qui peut croire celui qui mélange le bien et le mal",
+      "ipa": "[ki pø kʁwaʁ səlɥi ki melɑ̃ʒ lə bjɛ̃ e lə mal]",
+      "ear": "基 珀厄 克赫乌阿赫 瑟勒于伊 基 梅朗日 勒 布耶安 诶 勒 玛勒",
+      "meaning": "善恶不一的人谁能相信",
+      "sourceLineId": "donjuan-timed-395-1",
+      "suppliedText": "Qui peut croire celui qui melange le bien et le mal",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4142,
+        "anchorEnd": 4149.59,
+        "sourceLineNumber": 395,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4150,
+      "sourceText": "Qui peut dire si ce n'est pas l'enfant d'un animal",
+      "ipa": "[ki pø diʁ si sə nɛ pa lɑ̃fɑ̃ dœ̃ animal]",
+      "ear": "基 珀厄 迪赫 西 瑟 奈 帕 朗芳 丹 阿尼玛勒",
+      "meaning": "谁能说，他不是个野兽的孩子？",
+      "sourceLineId": "donjuan-timed-396-1",
+      "suppliedText": "Qui peut dire si ce n'est pas l'enfant d'un animal",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4150,
+        "anchorEnd": 4157.76,
+        "sourceLineNumber": 396,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4159,
+      "sourceText": "Qui pardonne celui qui ne sait pas que l'amour se donne",
+      "ipa": "[ki paʁdɔn səlɥi ki nə sɛ pa kə lamuʁ sə dɔn]",
+      "ear": "基 帕赫多恩 瑟勒于伊 基 讷 塞 帕 克 拉穆赫 瑟 多恩",
+      "meaning": "谁原谅不知道给予爱的人",
+      "sourceLineId": "donjuan-timed-397-1",
+      "suppliedText": "Qui pardonne celui qui ne sait pas que l'amour se donne L'amour se donne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4159,
+        "anchorEnd": 4169,
+        "sourceLineNumber": 397,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4166.857,
+      "sourceText": "L'amour se donne",
+      "ipa": "[lamuʁ sə dɔn]",
+      "ear": "拉穆赫 瑟 多恩",
+      "meaning": "给予爱",
+      "sourceLineId": "donjuan-timed-397-2",
+      "suppliedText": "Qui pardonne celui qui ne sait pas que l'amour se donne L'amour se donne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4159,
+        "anchorEnd": 4169,
+        "sourceLineNumber": 397,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4169,
+      "sourceText": "Nous, ce ne sera pas nous, ce ne sera pas nous",
+      "ipa": "[nu sə nə səʁa pa nu sə nə səʁa pa nu]",
+      "ear": "努 瑟 讷 瑟哈 帕 努 瑟 讷 瑟哈 帕 努",
+      "meaning": "我们，绝不会是我们，绝不会。",
+      "sourceLineId": "donjuan-timed-398-1",
+      "suppliedText": "Nous, ce ne sera pas nous, ce ne sera pas nous Nous, on le veut a genoux, pardonner on s'en fout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4169,
+        "anchorEnd": 4178.52,
+        "sourceLineNumber": 398,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4173.616,
+      "sourceText": "Nous, on le veut à genoux, pardonner on s'en fout",
+      "ipa": "[nu ɔ̃ lə vø a ʒənu paʁdɔne ɔ̃ sɑ̃ fu]",
+      "ear": "努 翁 勒 弗厄 阿 热努 帕赫多内 翁 桑 富",
+      "meaning": "我们要他跪下，原谅？我们才不在乎。",
+      "sourceLineId": "donjuan-timed-398-2",
+      "suppliedText": "Nous, ce ne sera pas nous, ce ne sera pas nous Nous, on le veut a genoux, pardonner on s'en fout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4169,
+        "anchorEnd": 4178.52,
+        "sourceLineNumber": 398,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4180,
+      "sourceText": "Nous, ce ne sera pas nous, les autres mais pas nous",
+      "ipa": "[nu sə nə səʁa pa nu lez‿otʁ mɛ pa nu]",
+      "ear": "努 瑟 讷 瑟哈 帕 努 莱兹 奥特赫 梅 帕 努",
+      "meaning": "别人也许会原谅，可我们绝不会。",
+      "sourceLineId": "donjuan-timed-399-1",
+      "suppliedText": "Nous, ce ne sera pas nous, les autres mais pas nous Nous, on le veut a genoux, on le maudit c'est tout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4180,
+        "anchorEnd": 4190.08,
+        "sourceLineNumber": 399,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4185.04,
+      "sourceText": "Nous, on le veut à genoux, on le maudit c'est tout",
+      "ipa": "[nu ɔ̃ lə vø a ʒənu ɔ̃ lə modi sɛ tu]",
+      "ear": "努 翁 勒 弗厄 阿 热努 翁 勒 莫迪 塞 图",
+      "meaning": "我们要他跪下，我们只想诅咒他。",
+      "sourceLineId": "donjuan-timed-399-2",
+      "suppliedText": "Nous, ce ne sera pas nous, les autres mais pas nous Nous, on le veut a genoux, on le maudit c'est tout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4180,
+        "anchorEnd": 4190.08,
+        "sourceLineNumber": 399,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4192,
+      "sourceText": "Qui peut croire après les larmes qu'il a fait couler",
+      "ipa": "[ki pø kʁwaʁ‿apʁɛ le laʁm kil‿a fɛ kule]",
+      "ear": "基 珀厄 克赫乌阿赫 阿普赫 莱 拉赫姆 基勒 阿 费 库莱",
+      "meaning": "他让别人流了那么多泪，谁还敢相信他？",
+      "sourceLineId": "donjuan-timed-400-1",
+      "suppliedText": "Qui peut coire apres les larmes qu'il a fait couler",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4192,
+        "anchorEnd": 4198.92,
+        "sourceLineNumber": 400,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4200,
+      "sourceText": "Qui peut dire qu'il n'ira jamais recommencer",
+      "ipa": "[ki pø diʁ kil niʁa ʒamɛ ʁəkɔmɑ̃se]",
+      "ear": "基 珀厄 迪赫 基勒 尼哈 扎梅 赫科芒塞",
+      "meaning": "谁能说他再也不会这么做了",
+      "sourceLineId": "donjuan-timed-401-1",
+      "suppliedText": "Qui peut dire qu'il n'ira jamais recommencer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4200,
+        "anchorEnd": 4206.86,
+        "sourceLineNumber": 401,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4209,
+      "sourceText": "Qui pardonne à celui qui n'est même pas un homme",
+      "ipa": "[ki paʁdɔn‿a səlɥi ki nɛ mɛm pa œ̃n‿ɔm]",
+      "ear": "基 帕赫多恩 阿 瑟勒于伊 基 奈 梅姆 帕 恩恩 哦姆",
+      "meaning": "谁原谅他连人都不是",
+      "sourceLineId": "donjuan-timed-402-1",
+      "suppliedText": "Qui pardonne a celui qui n'est meme pas un homme Pas un home",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4209,
+        "anchorEnd": 4218.67,
+        "sourceLineNumber": 402,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4216.912,
+      "sourceText": "Pas un homme",
+      "ipa": "[pa œ̃n‿ɔm]",
+      "ear": "帕 恩恩 哦姆",
+      "meaning": "连个人都算不上。",
+      "sourceLineId": "donjuan-timed-402-2",
+      "suppliedText": "Qui pardonne a celui qui n'est meme pas un homme Pas un home",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4209,
+        "anchorEnd": 4218.67,
+        "sourceLineNumber": 402,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4219,
+      "sourceText": "Nous, ce ne sera pas nous, ce ne sera pas nous",
+      "ipa": "[nu sə nə səʁa pa nu sə nə səʁa pa nu]",
+      "ear": "努 瑟 讷 瑟哈 帕 努 瑟 讷 瑟哈 帕 努",
+      "meaning": "我们，绝不会是我们，绝不会。",
+      "sourceLineId": "donjuan-timed-403-1",
+      "suppliedText": "Nous, ce ne sera pas nous, ce ne sera pas nous Nous, on le veut a genoux, pardonner on s'en fout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4219,
+        "anchorEnd": 4228.15,
+        "sourceLineNumber": 403,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4223.436,
+      "sourceText": "Nous, on le veut à genoux, pardonner on s'en fout",
+      "ipa": "[nu ɔ̃ lə vø a ʒənu paʁdɔne ɔ̃ sɑ̃ fu]",
+      "ear": "努 翁 勒 弗厄 阿 热努 帕赫多内 翁 桑 富",
+      "meaning": "我们要他跪下，原谅？我们才不在乎。",
+      "sourceLineId": "donjuan-timed-403-2",
+      "suppliedText": "Nous, ce ne sera pas nous, ce ne sera pas nous Nous, on le veut a genoux, pardonner on s'en fout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4219,
+        "anchorEnd": 4228.15,
+        "sourceLineNumber": 403,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4230,
+      "sourceText": "Nous, ce ne sera pas nous, les autres mais pas nous",
+      "ipa": "[nu sə nə səʁa pa nu lez‿otʁ mɛ pa nu]",
+      "ear": "努 瑟 讷 瑟哈 帕 努 莱兹 奥特赫 梅 帕 努",
+      "meaning": "别人也许会原谅，可我们绝不会。",
+      "sourceLineId": "donjuan-timed-404-1",
+      "suppliedText": "Nous, ce ne sera pas nous, les autres mais pas nous Nous, on le veut a genoux, on le maudit c'est tout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4230,
+        "anchorEnd": 4239.79,
+        "sourceLineNumber": 404,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4234.895,
+      "sourceText": "Nous, on le veut à genoux, on le maudit c'est tout",
+      "ipa": "[nu ɔ̃ lə vø a ʒənu ɔ̃ lə modi sɛ tu]",
+      "ear": "努 翁 勒 弗厄 阿 热努 翁 勒 莫迪 塞 图",
+      "meaning": "我们要他跪下，我们只想诅咒他。",
+      "sourceLineId": "donjuan-timed-404-2",
+      "suppliedText": "Nous, ce ne sera pas nous, les autres mais pas nous Nous, on le veut a genoux, on le maudit c'est tout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4230,
+        "anchorEnd": 4239.79,
+        "sourceLineNumber": 404,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4242,
+      "sourceText": "Nous, ce ne sera pas nous, ce ne sera pas nous",
+      "ipa": "[nu sə nə səʁa pa nu sə nə səʁa pa nu]",
+      "ear": "努 瑟 讷 瑟哈 帕 努 瑟 讷 瑟哈 帕 努",
+      "meaning": "我们，绝不会是我们，绝不会。",
+      "sourceLineId": "donjuan-timed-405-1",
+      "suppliedText": "Nous, ce ne sera pas nous, ce ne sera pas nous Nous, on le veut a genoux, pardonner on s'en fout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4242,
+        "anchorEnd": 4251.3,
+        "sourceLineNumber": 405,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4246.509,
+      "sourceText": "Nous, on le veut à genoux, pardonner on s'en fout",
+      "ipa": "[nu ɔ̃ lə vø a ʒənu paʁdɔne ɔ̃ sɑ̃ fu]",
+      "ear": "努 翁 勒 弗厄 阿 热努 帕赫多内 翁 桑 富",
+      "meaning": "我们要他跪下，原谅？我们才不在乎。",
+      "sourceLineId": "donjuan-timed-405-2",
+      "suppliedText": "Nous, ce ne sera pas nous, ce ne sera pas nous Nous, on le veut a genoux, pardonner on s'en fout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4242,
+        "anchorEnd": 4251.3,
+        "sourceLineNumber": 405,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4253,
+      "sourceText": "Nous, ce ne sera pas nous, les autres mais pas nous",
+      "ipa": "[nu sə nə səʁa pa nu lez‿otʁ mɛ pa nu]",
+      "ear": "努 瑟 讷 瑟哈 帕 努 莱兹 奥特赫 梅 帕 努",
+      "meaning": "别人也许会原谅，可我们绝不会。",
+      "sourceLineId": "donjuan-timed-406-1",
+      "suppliedText": "Nous, ce ne sera pas nous, les autres mais pas nous Nous, on le veut a genoux, on le maudit c'est tout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4253,
+        "anchorEnd": 4262.98,
+        "sourceLineNumber": 406,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4257.99,
+      "sourceText": "Nous, on le veut à genoux, on le maudit c'est tout",
+      "ipa": "[nu ɔ̃ lə vø a ʒənu ɔ̃ lə modi sɛ tu]",
+      "ear": "努 翁 勒 弗厄 阿 热努 翁 勒 莫迪 塞 图",
+      "meaning": "我们要他跪下，我们只想诅咒他。",
+      "sourceLineId": "donjuan-timed-406-2",
+      "suppliedText": "Nous, ce ne sera pas nous, les autres mais pas nous Nous, on le veut a genoux, on le maudit c'est tout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4253,
+        "anchorEnd": 4262.98,
+        "sourceLineNumber": 406,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4265,
+      "sourceText": "Nous",
+      "ipa": "[nu]",
+      "ear": "努",
+      "meaning": "我们。",
+      "sourceLineId": "donjuan-timed-407-1",
+      "suppliedText": "Nous 4. JE PENSE A LUI",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4265,
+        "anchorEnd": 4278.01,
+        "sourceLineNumber": 407,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

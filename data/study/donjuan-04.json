@@ -1,0 +1,598 @@
+{
+  "videoId": "donjuan-04",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=560"
+    }
+  ],
+  "entries": [
+    {
+      "start": 560,
+      "sourceText": "Et je savais que tu étais là.",
+      "ipa": "[e ʒə savɛ kə ty etɛ la]",
+      "ear": "诶 热 萨韦 克 蒂于 诶泰 拉",
+      "meaning": "我知道你在那儿。",
+      "sourceLineId": "donjuan-timed-37-1",
+      "suppliedText": "4. COEUR DE PIERRE Et je savais que tu etais la.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 560,
+        "anchorEnd": 565.31,
+        "sourceLineNumber": 37,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 568,
+      "sourceText": "Entends-tu les hommes te haïr",
+      "ipa": "[ɑ̃tɑ̃ty lez‿ɔm tə aiʁ]",
+      "ear": "昂唐蒂于 莱兹 哦姆 特 阿伊赫",
+      "meaning": "你听见男人们对你的恨了吗，",
+      "sourceLineId": "donjuan-timed-38-1",
+      "suppliedText": "Entends-tu les hommes te hair Et les femmes te maudire? Ne detourne pas les yeux.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 568,
+        "anchorEnd": 575.54,
+        "sourceLineNumber": 38,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 570.424,
+      "sourceText": "Et les femmes te maudire?",
+      "ipa": "[e le fam tə modiʁ]",
+      "ear": "诶 莱 法姆 特 莫迪赫",
+      "meaning": "还有女人们对你的诅咒？",
+      "sourceLineId": "donjuan-timed-38-2",
+      "suppliedText": "Entends-tu les hommes te hair Et les femmes te maudire? Ne detourne pas les yeux.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 568,
+        "anchorEnd": 575.54,
+        "sourceLineNumber": 38,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 572.847,
+      "sourceText": "Ne détourne pas les yeux.",
+      "ipa": "[nə detuʁn pa lez‿jø]",
+      "ear": "讷 德图赫恩 帕 莱兹 耶厄",
+      "meaning": "不要移开目光。",
+      "sourceLineId": "donjuan-timed-38-3",
+      "suppliedText": "Entends-tu les hommes te hair Et les femmes te maudire? Ne detourne pas les yeux.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 568,
+        "anchorEnd": 575.54,
+        "sourceLineNumber": 38,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 577,
+      "sourceText": "Je ne viens pas te parler de moi mais de toi.",
+      "ipa": "[ʒə nə vjɛ̃ pa tə paʁle də mwa mɛ də twa]",
+      "ear": "热 讷 弗耶安 帕 特 帕赫莱 德 姆乌阿 梅 德 特乌阿",
+      "meaning": "今天我要谈的是你。",
+      "sourceLineId": "donjuan-timed-39-1",
+      "suppliedText": "Je ne viens pas te parler de moi mais de toi.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 577,
+        "anchorEnd": 581.27,
+        "sourceLineNumber": 39,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 582,
+      "sourceText": "Don Juan, Don Juan",
+      "ipa": "[dɔ̃ ʒɥɑ̃ dɔ̃ ʒɥɑ̃]",
+      "ear": "东 日于昂 东 日于昂",
+      "meaning": "唐璜，唐璜",
+      "sourceLineId": "donjuan-timed-40-1",
+      "suppliedText": "Don Juan, Don Juan Ton nom sonne comme une menace A chaque femme que tu enlaces",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 582,
+        "anchorEnd": 590,
+        "sourceLineNumber": 40,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 583.655,
+      "sourceText": "Ton nom sonne comme une menace",
+      "ipa": "[tɔ̃ nɔ̃ sɔn kɔm‿yn mənas]",
+      "ear": "通 农 索恩 科姆 于恩 默纳斯",
+      "meaning": "你的名字听起来像是一个威胁",
+      "sourceLineId": "donjuan-timed-40-2",
+      "suppliedText": "Don Juan, Don Juan Ton nom sonne comme une menace A chaque femme que tu enlaces",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 582,
+        "anchorEnd": 590,
+        "sourceLineNumber": 40,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 586.69,
+      "sourceText": "À chaque femme que tu enlaces",
+      "ipa": "[a ʃak fam kə ty ɑ̃las]",
+      "ear": "阿 沙克 法姆 克 蒂于 昂拉斯",
+      "meaning": "对每个被你拥入怀中的女人而言。",
+      "sourceLineId": "donjuan-timed-40-3",
+      "suppliedText": "Don Juan, Don Juan Ton nom sonne comme une menace A chaque femme que tu enlaces",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 582,
+        "anchorEnd": 590,
+        "sourceLineNumber": 40,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 590,
+      "sourceText": "Don Juan",
+      "ipa": "[dɔ̃ ʒɥɑ̃]",
+      "ear": "东 日于昂",
+      "meaning": "唐璜",
+      "sourceLineId": "donjuan-timed-41-1",
+      "suppliedText": "Don Juan Mais qui pourra prendre une place Dans ce coeur qui ne bat pas vraiment",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 590,
+        "anchorEnd": 598.59,
+        "sourceLineNumber": 41,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 590.92,
+      "sourceText": "Mais qui pourra prendre une place",
+      "ipa": "[mɛ ki puʁa pʁɑ̃dʁ‿yn plas]",
+      "ear": "梅 基 普哈 普杭德赫 于恩 普拉斯",
+      "meaning": "可谁能占据一席之地，",
+      "sourceLineId": "donjuan-timed-41-2",
+      "suppliedText": "Don Juan Mais qui pourra prendre une place Dans ce coeur qui ne bat pas vraiment",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 590,
+        "anchorEnd": 598.59,
+        "sourceLineNumber": 41,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 594.909,
+      "sourceText": "Dans ce cœur qui ne bat pas vraiment",
+      "ipa": "[dɑ̃ sə kœʁ ki nə ba pa vʁɛmɑ̃]",
+      "ear": "当 瑟 克厄赫 基 讷 巴 帕 弗赫芒",
+      "meaning": "在这颗从不真正为人跳动的心里？",
+      "sourceLineId": "donjuan-timed-41-3",
+      "suppliedText": "Don Juan Mais qui pourra prendre une place Dans ce coeur qui ne bat pas vraiment",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 590,
+        "anchorEnd": 598.59,
+        "sourceLineNumber": 41,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 599,
+      "sourceText": "Don Juan",
+      "ipa": "[dɔ̃ ʒɥɑ̃]",
+      "ear": "东 日于昂",
+      "meaning": "唐璜",
+      "sourceLineId": "donjuan-timed-42-1",
+      "suppliedText": "Don Juan Toi qui me fais encore souffrir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 599,
+        "anchorEnd": 606.35,
+        "sourceLineNumber": 42,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 600.378,
+      "sourceText": "Toi qui me fais encore souffrir",
+      "ipa": "[twa ki mə fɛ ɑ̃kɔʁ sufʁiʁ]",
+      "ear": "特乌阿 基 默 费 昂科赫 苏弗希赫",
+      "meaning": "你仍在让我受苦，",
+      "sourceLineId": "donjuan-timed-42-2",
+      "suppliedText": "Don Juan Toi qui me fais encore souffrir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 599,
+        "anchorEnd": 606.35,
+        "sourceLineNumber": 42,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 607,
+      "sourceText": "C'est pour toi que je crains le pire",
+      "ipa": "[sɛ puʁ twa kə ʒə kʁɛ̃ lə piʁ]",
+      "ear": "塞 普赫 特乌阿 克 热 克汉 勒 皮赫",
+      "meaning": "我担心你会遇上最坏的结局。",
+      "sourceLineId": "donjuan-timed-43-1",
+      "suppliedText": "C'est pour toi que je crains le pire Faut-il donc que tu les maprises",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 607,
+        "anchorEnd": 615,
+        "sourceLineNumber": 43,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 611.333,
+      "sourceText": "Faut-il donc que tu les méprises",
+      "ipa": "[fotil dɔ̃k kə ty le mepʁiz]",
+      "ear": "佛蒂勒 东克 克 蒂于 莱 梅普希兹",
+      "meaning": "你非要轻视她们吗，",
+      "sourceLineId": "donjuan-timed-43-2",
+      "suppliedText": "C'est pour toi que je crains le pire Faut-il donc que tu les maprises",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 607,
+        "anchorEnd": 615,
+        "sourceLineNumber": 43,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 615,
+      "sourceText": "Toutes ces femmes qui t'ont aimé",
+      "ipa": "[tut se fam ki tɔ̃ ɛme]",
+      "ear": "图特 塞 法姆 基 通 艾梅",
+      "meaning": "这些爱过你的女人？",
+      "sourceLineId": "donjuan-timed-44-1",
+      "suppliedText": "Toutes ces femmes qui t'ont aime Que la sueur sur ta chemise Ne soit leur unique bucher",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 615,
+        "anchorEnd": 622,
+        "sourceLineNumber": 44,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 617.471,
+      "sourceText": "Que la sueur sur ta chemise",
+      "ipa": "[kə la syœʁ syʁ ta ʃəmiz]",
+      "ear": "克 拉 西于厄赫 西于赫 塔 舍米兹",
+      "meaning": "难道你衬衫上的汗，",
+      "sourceLineId": "donjuan-timed-44-2",
+      "suppliedText": "Toutes ces femmes qui t'ont aime Que la sueur sur ta chemise Ne soit leur unique bucher",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 615,
+        "anchorEnd": 622,
+        "sourceLineNumber": 44,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 619.735,
+      "sourceText": "Ne soit leur unique bûcher",
+      "ipa": "[nə swa lœʁ‿ynik byʃe]",
+      "ear": "讷 斯乌阿 勒厄赫 于尼克 比于谢",
+      "meaning": "就是她们爱情唯一的葬火？",
+      "sourceLineId": "donjuan-timed-44-3",
+      "suppliedText": "Toutes ces femmes qui t'ont aime Que la sueur sur ta chemise Ne soit leur unique bucher",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 615,
+        "anchorEnd": 622,
+        "sourceLineNumber": 44,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 622,
+      "sourceText": "N'as-tu jamais connu l'amour",
+      "ipa": "[naty ʒamɛ kɔny lamuʁ]",
+      "ear": "纳蒂于 扎梅 科尼于 拉穆赫",
+      "meaning": "你从未真正爱过吗？",
+      "sourceLineId": "donjuan-timed-45-1",
+      "suppliedText": "N'as-tu jamais connu l'amour N'as-tu pas peur de les manquer Toutes ces femmes qui n'avaient qu'un jour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 622,
+        "anchorEnd": 629,
+        "sourceLineNumber": 45,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 623.944,
+      "sourceText": "N'as-tu pas peur de les manquer",
+      "ipa": "[naty pa pœʁ də le mɑ̃ke]",
+      "ear": "纳蒂于 帕 珀厄赫 德 莱 芒克",
+      "meaning": "你不怕错过她们吗，",
+      "sourceLineId": "donjuan-timed-45-2",
+      "suppliedText": "N'as-tu jamais connu l'amour N'as-tu pas peur de les manquer Toutes ces femmes qui n'avaient qu'un jour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 622,
+        "anchorEnd": 629,
+        "sourceLineNumber": 45,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 625.889,
+      "sourceText": "Toutes ces femmes qui n'avaient qu'un jour",
+      "ipa": "[tut se fam ki navɛ kœ̃ ʒuʁ]",
+      "ear": "图特 塞 法姆 基 纳韦 坎 茹赫",
+      "meaning": "你只给这些女人一天，",
+      "sourceLineId": "donjuan-timed-45-3",
+      "suppliedText": "N'as-tu jamais connu l'amour N'as-tu pas peur de les manquer Toutes ces femmes qui n'avaient qu'un jour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 622,
+        "anchorEnd": 629,
+        "sourceLineNumber": 45,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 629,
+      "sourceText": "Contre une vie à te donner",
+      "ipa": "[kɔ̃tʁ‿yn vi a tə dɔne]",
+      "ear": "孔特赫 于恩 维 阿 特 多内",
+      "meaning": "她们却愿意交给你一生。",
+      "sourceLineId": "donjuan-timed-46-1",
+      "suppliedText": "Contre une vie a te donner",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 629,
+        "anchorEnd": 632.71,
+        "sourceLineNumber": 46,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 651,
+      "sourceText": "Faut-il que tu cherches partout",
+      "ipa": "[fotil kə ty ʃɛʁʃ paʁtu]",
+      "ear": "佛蒂勒 克 蒂于 谢赫什 帕赫图",
+      "meaning": "你非要四处寻找，",
+      "sourceLineId": "donjuan-timed-47-1",
+      "suppliedText": "Faut'il que tu cherches partout Sans etre sur de le trouver C'est pas parce qu'on aime beaucoup",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 651,
+        "anchorEnd": 658.92,
+        "sourceLineNumber": 47,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 653.562,
+      "sourceText": "Sans être sûr de le trouver",
+      "ipa": "[sɑ̃z‿ɛtʁ syʁ də lə tʁuve]",
+      "ear": "桑兹 艾特赫 西于赫 德 勒 特胡韦",
+      "meaning": "却连能否找到都不确定？",
+      "sourceLineId": "donjuan-timed-47-2",
+      "suppliedText": "Faut'il que tu cherches partout Sans etre sur de le trouver C'est pas parce qu'on aime beaucoup",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 651,
+        "anchorEnd": 658.92,
+        "sourceLineNumber": 47,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 655.659,
+      "sourceText": "C'est pas parce qu'on aime beaucoup",
+      "ipa": "[sɛ pa paʁskɔ̃n ɛm boku]",
+      "ear": "塞 帕 帕赫斯孔恩 艾姆 博库",
+      "meaning": "爱过很多人，",
+      "sourceLineId": "donjuan-timed-47-3",
+      "suppliedText": "Faut'il que tu cherches partout Sans etre sur de le trouver C'est pas parce qu'on aime beaucoup",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 651,
+        "anchorEnd": 658.92,
+        "sourceLineNumber": 47,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 659,
+      "sourceText": "Qu'on sera plus fort pour aimer",
+      "ipa": "[kɔ̃ səʁa ply fɔʁ puʁ‿ɛme]",
+      "ear": "孔 瑟哈 普吕 佛赫 普赫 艾梅",
+      "meaning": "不代表就更懂得去爱。",
+      "sourceLineId": "donjuan-timed-48-1",
+      "suppliedText": "Qu'on sera plus fort pour aimer Ce n'est que sur un coeur de pierre Que tu les serres tour a tour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 659,
+        "anchorEnd": 666,
+        "sourceLineNumber": 48,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 661.265,
+      "sourceText": "Ce n'est que sur un cœur de pierre",
+      "ipa": "[sə nɛ kə syʁ‿œ̃ kœʁ də pjɛʁ]",
+      "ear": "瑟 奈 克 西于赫 恩 克厄赫 德 普耶艾赫",
+      "meaning": "你用来迎接她们的，只是一颗石头心。",
+      "sourceLineId": "donjuan-timed-48-2",
+      "suppliedText": "Qu'on sera plus fort pour aimer Ce n'est que sur un coeur de pierre Que tu les serres tour a tour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 659,
+        "anchorEnd": 666,
+        "sourceLineNumber": 48,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 663.735,
+      "sourceText": "Que tu les serres tour à tour",
+      "ipa": "[kə ty le sɛʁ tuʁ‿a tuʁ]",
+      "ear": "克 蒂于 莱 塞赫 图赫 阿 图赫",
+      "meaning": "你轮流把她们拥在怀里。",
+      "sourceLineId": "donjuan-timed-48-3",
+      "suppliedText": "Qu'on sera plus fort pour aimer Ce n'est que sur un coeur de pierre Que tu les serres tour a tour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 659,
+        "anchorEnd": 666,
+        "sourceLineNumber": 48,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 666,
+      "sourceText": "Prends garde que ce ne soit l'enfer",
+      "ipa": "[pʁɑ̃ ɡaʁd kə sə nə swa lɑ̃fɛʁ]",
+      "ear": "普杭 嘎赫德 克 瑟 讷 斯乌阿 朗费赫",
+      "meaning": "小心，最后等着你的会是地狱，",
+      "sourceLineId": "donjuan-timed-49-1",
+      "suppliedText": "Prends garde que ce ne soit l'enfer La derniere ombre de l'amour Et qu'il ne reste que le diable",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 666,
+        "anchorEnd": 677.07,
+        "sourceLineNumber": 49,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 669.581,
+      "sourceText": "La dernière ombre de l'amour",
+      "ipa": "[la dɛʁnjɛʁ‿ɔ̃bʁ də lamuʁ]",
+      "ear": "拉 戴赫恩耶艾赫 翁布赫 德 拉穆赫",
+      "meaning": "是爱情留下的最后一道阴影，",
+      "sourceLineId": "donjuan-timed-49-2",
+      "suppliedText": "Prends garde que ce ne soit l'enfer La derniere ombre de l'amour Et qu'il ne reste que le diable",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 666,
+        "anchorEnd": 677.07,
+        "sourceLineNumber": 49,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 673.163,
+      "sourceText": "Et qu'il ne reste que le diable",
+      "ipa": "[e kil nə ʁɛst kə lə djabl]",
+      "ear": "诶 基勒 讷 赫斯特 克 勒 德耶阿布勒",
+      "meaning": "而最后只剩下魔鬼，",
+      "sourceLineId": "donjuan-timed-49-3",
+      "suppliedText": "Prends garde que ce ne soit l'enfer La derniere ombre de l'amour Et qu'il ne reste que le diable",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 666,
+        "anchorEnd": 677.07,
+        "sourceLineNumber": 49,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 678,
+      "sourceText": "Comme seul invité à ta table",
+      "ipa": "[kɔm sœl‿ɛ̃vite a ta tabl]",
+      "ear": "科姆 瑟厄勒 安维特 阿 塔 塔布勒",
+      "meaning": "成了你桌上唯一的客人。",
+      "sourceLineId": "donjuan-timed-50-1",
+      "suppliedText": "Comme seul invite a ta table 5. MON NOM",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 678,
+        "anchorEnd": 687,
+        "sourceLineNumber": 50,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

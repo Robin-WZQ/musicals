@@ -1,0 +1,544 @@
+{
+  "videoId": "donjuan-11",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=1335"
+    }
+  ],
+  "entries": [
+    {
+      "start": 1341,
+      "sourceText": "C'est si facile de faire le bien, pourquoi le mal",
+      "ipa": "[sɛ si fasil də fɛʁ lə bjɛ̃ puʁkwa lə mal]",
+      "ear": "塞 西 法西勒 德 费赫 勒 布耶安 普赫克乌阿 勒 玛勒",
+      "meaning": "行善如此容易，何必作恶呢？",
+      "sourceLineId": "donjuan-timed-119-1",
+      "suppliedText": "C'est si facile de faire le bien, pourquoi le mal",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 1341,
+        "anchorEnd": 1347.61,
+        "sourceLineNumber": 119,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1351,
+      "sourceText": "N'auras-tu donc aucun chemin, aucun idéal",
+      "ipa": "[noʁaty dɔ̃k‿okœ̃ ʃəmɛ̃ okœ̃n‿ideal]",
+      "ear": "诺哈蒂于 东克 奥坎 舍曼 奥坎恩 伊德阿勒",
+      "meaning": "难道你没有方向，也没有理想？",
+      "sourceLineId": "donjuan-timed-120-1",
+      "suppliedText": "N'auras-tu donc aucun chemin, aucun ideal",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 1351,
+        "anchorEnd": 1357.51,
+        "sourceLineNumber": 120,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1359,
+      "sourceText": "N'auras-tu jamais, un peu de morale",
+      "ipa": "[noʁaty ʒamɛ œ̃ pø də moʁal]",
+      "ear": "诺哈蒂于 扎梅 恩 珀厄 德 莫哈勒",
+      "meaning": "你就永远没有一点道德吗",
+      "sourceLineId": "donjuan-timed-121-1",
+      "suppliedText": "N'auras-tu jamais, un peu de morale",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 1359,
+        "anchorEnd": 1365.22,
+        "sourceLineNumber": 121,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1366,
+      "sourceText": "Les fleurs du mal, les fleurs de lys",
+      "ipa": "[le flœʁ dy mal le flœʁ də lis]",
+      "ear": "莱 弗勒厄赫 迪于 玛勒 莱 弗勒厄赫 德 利斯",
+      "meaning": "恶之花，百合花，",
+      "sourceLineId": "donjuan-timed-122-1",
+      "suppliedText": "Les fleurs du mal, les fleurs de lys Perdent leurs petales, c'est pareil, c'est pareil",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1366,
+        "anchorEnd": 1374,
+        "sourceLineNumber": 122,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1369.2,
+      "sourceText": "Perdent leurs pétales, c'est pareil, c'est pareil",
+      "ipa": "[pɛʁd lœʁ petal sɛ paʁɛj sɛ paʁɛj]",
+      "ear": "佩赫德 勒厄赫 佩塔勒 塞 帕赫耶 塞 帕赫耶",
+      "meaning": "失去花瓣，都一样，都一样",
+      "sourceLineId": "donjuan-timed-122-2",
+      "suppliedText": "Les fleurs du mal, les fleurs de lys Perdent leurs petales, c'est pareil, c'est pareil",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1366,
+        "anchorEnd": 1374,
+        "sourceLineNumber": 122,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1374,
+      "sourceText": "Les jeux du bal, les jeux du vice",
+      "ipa": "[le ʒø dy bal le ʒø dy vis]",
+      "ear": "莱 热厄 迪于 巴勒 莱 热厄 迪于 维斯",
+      "meaning": "舞会的游戏，放纵的游戏，",
+      "sourceLineId": "donjuan-timed-123-1",
+      "suppliedText": "Les jeux du bal, les jeux du vice Ca m'est egal s'ils ne m'emmenent pas au ciel",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1374,
+        "anchorEnd": 1382.29,
+        "sourceLineNumber": 123,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1377.648,
+      "sourceText": "Ça m'est égal s'ils ne m'emmènent pas au ciel",
+      "ipa": "[sa mɛt‿eɡal sil nə mɑ̃mɛn pa o sjɛl]",
+      "ear": "萨 梅特 诶嘎勒 西勒 讷 芒梅恩 帕 奥 斯耶艾勒",
+      "meaning": "只要不是带我去天堂，我都无所谓。",
+      "sourceLineId": "donjuan-timed-123-2",
+      "suppliedText": "Les jeux du bal, les jeux du vice Ca m'est egal s'ils ne m'emmenent pas au ciel",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1374,
+        "anchorEnd": 1382.29,
+        "sourceLineNumber": 123,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1384,
+      "sourceText": "Un jour peut-être tu comprendras, le goût de l'amour",
+      "ipa": "[œ̃ ʒuʁ pøtɛtʁ ty kɔ̃pʁɑ̃dʁa lə ɡu də lamuʁ]",
+      "ear": "恩 茹赫 珀厄泰特赫 蒂于 孔普杭德哈 勒 古 德 拉穆赫",
+      "meaning": "也许有一天，你会懂得爱情的滋味，",
+      "sourceLineId": "donjuan-timed-124-1",
+      "suppliedText": "Un jour peut-etre tu comprendras, le gout de l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 1384,
+        "anchorEnd": 1390.17,
+        "sourceLineNumber": 124,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1393,
+      "sourceText": "Tu seras si bien dans les bras, d'une fille pour toujours",
+      "ipa": "[ty səʁa si bjɛ̃ dɑ̃ le bʁa dyn fij puʁ tuʒuʁ]",
+      "ear": "蒂于 瑟哈 西 布耶安 当 莱 布哈 迪于恩 菲耶 普赫 图茹赫",
+      "meaning": "愿意一辈子依偎在一个姑娘怀里。",
+      "sourceLineId": "donjuan-timed-125-1",
+      "suppliedText": "Tu seras si bien dans les bras, d'une fille pour toujours",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 1393,
+        "anchorEnd": 1400.08,
+        "sourceLineNumber": 125,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1401,
+      "sourceText": "Un jour heureux, si Dieu le veut",
+      "ipa": "[œ̃ ʒuʁ‿øʁø si djø lə vø]",
+      "ear": "恩 茹赫 厄赫厄 西 德耶厄 勒 弗厄",
+      "meaning": "若上帝愿意，那会是幸福的一天。",
+      "sourceLineId": "donjuan-timed-126-1",
+      "suppliedText": "Un jour heureux, si Dieu le veut",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 1401,
+        "anchorEnd": 1407.72,
+        "sourceLineNumber": 126,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1408,
+      "sourceText": "Les fleurs du mal, les fleurs de lys",
+      "ipa": "[le flœʁ dy mal le flœʁ də lis]",
+      "ear": "莱 弗勒厄赫 迪于 玛勒 莱 弗勒厄赫 德 利斯",
+      "meaning": "恶之花，百合花，",
+      "sourceLineId": "donjuan-timed-127-1",
+      "suppliedText": "Les fleurs du mal, les fleurs de lys Perdent leurs petales, c'est pareil, c'est pareil",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1408,
+        "anchorEnd": 1416,
+        "sourceLineNumber": 127,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1411.2,
+      "sourceText": "Perdent leurs pétales, c'est pareil, c'est pareil",
+      "ipa": "[pɛʁd lœʁ petal sɛ paʁɛj sɛ paʁɛj]",
+      "ear": "佩赫德 勒厄赫 佩塔勒 塞 帕赫耶 塞 帕赫耶",
+      "meaning": "失去花瓣，都一样，都一样",
+      "sourceLineId": "donjuan-timed-127-2",
+      "suppliedText": "Les fleurs du mal, les fleurs de lys Perdent leurs petales, c'est pareil, c'est pareil",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1408,
+        "anchorEnd": 1416,
+        "sourceLineNumber": 127,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1416,
+      "sourceText": "Les jeux du bal, les jeux du vice",
+      "ipa": "[le ʒø dy bal le ʒø dy vis]",
+      "ear": "莱 热厄 迪于 巴勒 莱 热厄 迪于 维斯",
+      "meaning": "舞会的游戏，放纵的游戏，",
+      "sourceLineId": "donjuan-timed-128-1",
+      "suppliedText": "Les jeux du bal, les jeux du vice Ca m'est egal s'ils ne m'emmenent pas au ciel",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1416,
+        "anchorEnd": 1424.63,
+        "sourceLineNumber": 128,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1419.797,
+      "sourceText": "Ça m'est égal s'ils ne m'emmènent pas au ciel",
+      "ipa": "[sa mɛt‿eɡal sil nə mɑ̃mɛn pa o sjɛl]",
+      "ear": "萨 梅特 诶嘎勒 西勒 讷 芒梅恩 帕 奥 斯耶艾勒",
+      "meaning": "只要不是带我去天堂，我都无所谓。",
+      "sourceLineId": "donjuan-timed-128-2",
+      "suppliedText": "Les jeux du bal, les jeux du vice Ca m'est egal s'ils ne m'emmenent pas au ciel",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1416,
+        "anchorEnd": 1424.63,
+        "sourceLineNumber": 128,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1425,
+      "sourceText": "Moi, je vois le bien partout",
+      "ipa": "[mwa ʒə vwa lə bjɛ̃ paʁtu]",
+      "ear": "姆乌阿 热 弗乌阿 勒 布耶安 帕赫图",
+      "meaning": "我总能看见人世的美好。",
+      "sourceLineId": "donjuan-timed-129-1",
+      "suppliedText": "Moi, je vois le bien partout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 1425,
+        "anchorEnd": 1429.98,
+        "sourceLineNumber": 129,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1433,
+      "sourceText": "Moi, j'aime les gens debout",
+      "ipa": "[mwa ʒɛm le ʒɑ̃ dəbu]",
+      "ear": "姆乌阿 热姆 莱 让 德布",
+      "meaning": "我喜欢堂堂正正活着的人。",
+      "sourceLineId": "donjuan-timed-130-1",
+      "suppliedText": "Moi, j'aime les gens debout",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 1433,
+        "anchorEnd": 1438.19,
+        "sourceLineNumber": 130,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1440,
+      "sourceText": "Toi, tu comprends jamais rien,",
+      "ipa": "[twa ty kɔ̃pʁɑ̃ ʒamɛ ʁjɛ̃]",
+      "ear": "特乌阿 蒂于 孔普杭 扎梅 赫耶安",
+      "meaning": "你永远不明白任何事情，",
+      "sourceLineId": "donjuan-timed-131-1",
+      "suppliedText": "Toi, tu comprends jamais rien, Le seul plaisir qui reste",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1440,
+        "anchorEnd": 1450,
+        "sourceLineNumber": 131,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1445.0,
+      "sourceText": "Le seul plaisir qui reste",
+      "ipa": "[lə sœl plɛziʁ ki ʁɛst]",
+      "ear": "勒 瑟厄勒 普莱齐赫 基 赫斯特",
+      "meaning": "唯一剩下的乐趣",
+      "sourceLineId": "donjuan-timed-131-2",
+      "suppliedText": "Toi, tu comprends jamais rien, Le seul plaisir qui reste",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1440,
+        "anchorEnd": 1450,
+        "sourceLineNumber": 131,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1450,
+      "sourceText": "C'est les femmes et le vin",
+      "ipa": "[sɛ le fam e lə vɛ̃]",
+      "ear": "塞 莱 法姆 诶 勒 万",
+      "meaning": "这是女人和酒",
+      "sourceLineId": "donjuan-timed-132-1",
+      "suppliedText": "C'est les femmes et le vin Les fleurs du mal, les fleurs de lys",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1450,
+        "anchorEnd": 1458,
+        "sourceLineNumber": 132,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1453.294,
+      "sourceText": "Les fleurs du mal, les fleurs de lys",
+      "ipa": "[le flœʁ dy mal le flœʁ də lis]",
+      "ear": "莱 弗勒厄赫 迪于 玛勒 莱 弗勒厄赫 德 利斯",
+      "meaning": "恶之花，百合花，",
+      "sourceLineId": "donjuan-timed-132-2",
+      "suppliedText": "C'est les femmes et le vin Les fleurs du mal, les fleurs de lys",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1450,
+        "anchorEnd": 1458,
+        "sourceLineNumber": 132,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1458,
+      "sourceText": "Perdent leurs pétales, c'est pareil, c'est pareil",
+      "ipa": "[pɛʁd lœʁ petal sɛ paʁɛj sɛ paʁɛj]",
+      "ear": "佩赫德 勒厄赫 佩塔勒 塞 帕赫耶 塞 帕赫耶",
+      "meaning": "失去花瓣，都一样，都一样",
+      "sourceLineId": "donjuan-timed-133-1",
+      "suppliedText": "Perdent leurs petales, c'est pareil, c'est pareil Les jeux du bal, les jeux du vice",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1458,
+        "anchorEnd": 1466,
+        "sourceLineNumber": 133,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1462.615,
+      "sourceText": "Les jeux du bal, les jeux du vice",
+      "ipa": "[le ʒø dy bal le ʒø dy vis]",
+      "ear": "莱 热厄 迪于 巴勒 莱 热厄 迪于 维斯",
+      "meaning": "舞会的游戏，放纵的游戏，",
+      "sourceLineId": "donjuan-timed-133-2",
+      "suppliedText": "Perdent leurs petales, c'est pareil, c'est pareil Les jeux du bal, les jeux du vice",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1458,
+        "anchorEnd": 1466,
+        "sourceLineNumber": 133,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1466,
+      "sourceText": "Ça m'est égal s'ils ne m'emmènent pas au ciel",
+      "ipa": "[sa mɛt‿eɡal sil nə mɑ̃mɛn pa o sjɛl]",
+      "ear": "萨 梅特 诶嘎勒 西勒 讷 芒梅恩 帕 奥 斯耶艾勒",
+      "meaning": "只要不是带我去天堂，我都无所谓。",
+      "sourceLineId": "donjuan-timed-134-1",
+      "suppliedText": "Ca m'est egal s'ils ne m'emmenent pas au ciel Les fleurs du mal, les fleurs de lys",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1466,
+        "anchorEnd": 1474,
+        "sourceLineNumber": 134,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1470.667,
+      "sourceText": "Les fleurs du mal, les fleurs de lys",
+      "ipa": "[le flœʁ dy mal le flœʁ də lis]",
+      "ear": "莱 弗勒厄赫 迪于 玛勒 莱 弗勒厄赫 德 利斯",
+      "meaning": "恶之花，百合花，",
+      "sourceLineId": "donjuan-timed-134-2",
+      "suppliedText": "Ca m'est egal s'ils ne m'emmenent pas au ciel Les fleurs du mal, les fleurs de lys",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1466,
+        "anchorEnd": 1474,
+        "sourceLineNumber": 134,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1474,
+      "sourceText": "Perdent leurs pétales, c'est pareil, c'est pareil",
+      "ipa": "[pɛʁd lœʁ petal sɛ paʁɛj sɛ paʁɛj]",
+      "ear": "佩赫德 勒厄赫 佩塔勒 塞 帕赫耶 塞 帕赫耶",
+      "meaning": "失去花瓣，都一样，都一样",
+      "sourceLineId": "donjuan-timed-135-1",
+      "suppliedText": "Perdent leurs petales, c'est pareil, c'est pareil Je ne serai jamais complice",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1474,
+        "anchorEnd": 1481,
+        "sourceLineNumber": 135,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1478.038,
+      "sourceText": "Je ne serai jamais complice",
+      "ipa": "[ʒə nə səʁe ʒamɛ kɔ̃plis]",
+      "ear": "热 讷 瑟赫 扎梅 孔普利斯",
+      "meaning": "我永远不会成为帮凶",
+      "sourceLineId": "donjuan-timed-135-2",
+      "suppliedText": "Perdent leurs petales, c'est pareil, c'est pareil Je ne serai jamais complice",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1474,
+        "anchorEnd": 1481,
+        "sourceLineNumber": 135,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1481,
+      "sourceText": "De ceux qui veulent m'emmener vers le ciel",
+      "ipa": "[də sø ki vœl mɑ̃mne vɛʁ lə sjɛl]",
+      "ear": "德 瑟厄 基 弗厄勒 芒姆内 韦赫 勒 斯耶艾勒",
+      "meaning": "那些想把我送上天堂的人。",
+      "sourceLineId": "donjuan-timed-136-1",
+      "suppliedText": "De ceux qui veulent m'emmener vers le ciel Les fleurs du mal",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1481,
+        "anchorEnd": 1487.65,
+        "sourceLineNumber": 136,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1485.988,
+      "sourceText": "Les fleurs du mal",
+      "ipa": "[le flœʁ dy mal]",
+      "ear": "莱 弗勒厄赫 迪于 玛勒",
+      "meaning": "邪恶之花",
+      "sourceLineId": "donjuan-timed-136-2",
+      "suppliedText": "De ceux qui veulent m'emmener vers le ciel Les fleurs du mal",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 1481,
+        "anchorEnd": 1487.65,
+        "sourceLineNumber": 136,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 1493,
+      "sourceText": "Allez jouez pour moi encore, pour mon plaisir",
+      "ipa": "[ale ʒwe puʁ mwa ɑ̃kɔʁ puʁ mɔ̃ plɛziʁ]",
+      "ear": "阿莱 日乌诶 普赫 姆乌阿 昂科赫 普赫 蒙 普莱齐赫",
+      "meaning": "来，再为我演奏，让我尽情享受。",
+      "sourceLineId": "donjuan-timed-137-1",
+      "suppliedText": "Allez jouez pour moi encore, pour mon plaisir 12. DU PLAISIR",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 1493,
+        "anchorEnd": 1502.89,
+        "sourceLineNumber": 137,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

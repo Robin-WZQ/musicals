@@ -1,8 +1,8 @@
-import { videoId, clock, normalizeCues, cueAt } from './captions.mjs?v=20261005-6';
-import { attachStudyNotes } from './study.mjs?v=20261005-6';
-import { musicalURL, learningURL, tracksFor, resolveTrackId } from './library.mjs?v=20261005-6';
-import { fetchData } from './data.mjs?v=20261005-6';
-import { playbackStart, nativeCues, importStudyCaptions, studyStorageKey, studyPack, savedStudyCaptions } from './native.mjs?v=20261005-6';
+import { videoId, clock, normalizeCues, cueAt } from './captions.mjs?v=20261005-7';
+import { attachStudyNotes } from './study.mjs?v=20261005-7';
+import { musicalURL, learningURL, tracksFor, resolveTrackId } from './library.mjs?v=20261005-7';
+import { fetchData } from './data.mjs?v=20261005-7';
+import { playbackStart, nativeCues, importStudyCaptions, studyStorageKey, studyPack, savedStudyCaptions } from './native.mjs?v=20261005-7';
 
 const $ = id => document.getElementById(id);
 let catalog = [], musicals = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
@@ -279,6 +279,10 @@ function studyRow(label, text, className) {
   row.append(tag, content); return row;
 }
 function renderInfo() {
+  const languages = new Set((song.studyNotes?.entries || []).map(entry => entry.language).filter(Boolean));
+  const phoneticLanguage = song.captionLanguage === 'es' ? '西班牙语' : languages.has('es') ? '法语 / 西班牙语' : '法语';
+  $('ipa-language-label').textContent = `${phoneticLanguage}参考音标`;
+  $('ipa-toggle').title = `显示或隐藏${phoneticLanguage}音标`;
   document.title = `${song.title} · Musicals`;
   $('song-title').textContent = displayTitle(song.title);
   $('channel').textContent = song.channel || 'YouTube';

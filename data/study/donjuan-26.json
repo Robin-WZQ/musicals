@@ -1,0 +1,742 @@
+{
+  "videoId": "donjuan-26",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=4287"
+    }
+  ],
+  "entries": [
+    {
+      "start": 4287,
+      "sourceText": "Moi qui étais déjà promise",
+      "ipa": "[mwa ki etɛ deʒa pʁomiz]",
+      "ear": "姆乌阿 基 诶泰 德扎 普霍米兹",
+      "meaning": "我早已订下婚约，",
+      "sourceLineId": "donjuan-timed-408-1",
+      "suppliedText": "Moi qui ete deja promise Et qui n'ai jamais fait d'erreurs",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4287,
+        "anchorEnd": 4293.87,
+        "sourceLineNumber": 408,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4290.298,
+      "sourceText": "Et qui n'ai jamais fait d'erreurs",
+      "ipa": "[e ki ne ʒamɛ fɛ dɛʁœʁ]",
+      "ear": "诶 基 内 扎梅 费 戴赫厄赫",
+      "meaning": "也从未犯过错，",
+      "sourceLineId": "donjuan-timed-408-2",
+      "suppliedText": "Moi qui ete deja promise Et qui n'ai jamais fait d'erreurs",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4287,
+        "anchorEnd": 4293.87,
+        "sourceLineNumber": 408,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4297,
+      "sourceText": "Quelle est cette étrange méprise",
+      "ipa": "[kɛl‿ɛ sɛt‿etʁɑ̃ʒ mepʁiz]",
+      "ear": "凯勒 艾 塞特 诶特杭日 梅普希兹",
+      "meaning": "这份陌生的情愫究竟是什么，",
+      "sourceLineId": "donjuan-timed-409-1",
+      "suppliedText": "Quelle est cette etrange meprise Qu'un autre homme a mis dans mon coeur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4297,
+        "anchorEnd": 4304.53,
+        "sourceLineNumber": 409,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4300.614,
+      "sourceText": "Qu'un autre homme a mis dans mon cœur",
+      "ipa": "[kœ̃ otʁ‿ɔm‿a mi dɑ̃ mɔ̃ kœʁ]",
+      "ear": "坎 奥特赫 哦姆 阿 米 当 蒙 克厄赫",
+      "meaning": "是另一个男人把它放进了我的心。",
+      "sourceLineId": "donjuan-timed-409-2",
+      "suppliedText": "Quelle est cette etrange meprise Qu'un autre homme a mis dans mon coeur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4297,
+        "anchorEnd": 4304.53,
+        "sourceLineNumber": 409,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4305,
+      "sourceText": "Quel est cet étrange désir",
+      "ipa": "[kɛl‿ɛ sɛt‿etʁɑ̃ʒ deziʁ]",
+      "ear": "凯勒 艾 塞特 诶特杭日 德齐赫",
+      "meaning": "这陌生的渴望究竟是什么，",
+      "sourceLineId": "donjuan-timed-410-1",
+      "suppliedText": "Quel est cet etrange desire D'avoir son visage sur mes mains",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4305,
+        "anchorEnd": 4312.65,
+        "sourceLineNumber": 410,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4308.443,
+      "sourceText": "D'avoir son visage sur mes mains",
+      "ipa": "[davwaʁ sɔ̃ vizaʒ syʁ me mɛ̃]",
+      "ear": "达弗乌阿赫 松 维扎日 西于赫 梅 曼",
+      "meaning": "我想把他的脸捧在手心，",
+      "sourceLineId": "donjuan-timed-410-2",
+      "suppliedText": "Quel est cet etrange desire D'avoir son visage sur mes mains",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4305,
+        "anchorEnd": 4312.65,
+        "sourceLineNumber": 410,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4314,
+      "sourceText": "De le toucher, de le tenir",
+      "ipa": "[də lə tuʃe də lə təniʁ]",
+      "ear": "德 勒 图谢 德 勒 特尼赫",
+      "meaning": "触摸他，拥住他。",
+      "sourceLineId": "donjuan-timed-411-1",
+      "suppliedText": "De le toucher, de le tenir De lier son destin au mien",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4314,
+        "anchorEnd": 4321,
+        "sourceLineNumber": 411,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4317.316,
+      "sourceText": "De lier son destin au mien",
+      "ipa": "[də lje sɔ̃ dɛstɛ̃ o mjɛ̃]",
+      "ear": "德 勒耶诶 松 戴斯坦 奥 姆耶安",
+      "meaning": "让他的命运与我的相连。",
+      "sourceLineId": "donjuan-timed-411-2",
+      "suppliedText": "De le toucher, de le tenir De lier son destin au mien",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4314,
+        "anchorEnd": 4321,
+        "sourceLineNumber": 411,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4321,
+      "sourceText": "Je pense à lui, je pense à lui",
+      "ipa": "[ʒə pɑ̃s‿a lɥi ʒə pɑ̃s‿a lɥi]",
+      "ear": "热 庞斯 阿 勒于伊 热 庞斯 阿 勒于伊",
+      "meaning": "我想他，我想他",
+      "sourceLineId": "donjuan-timed-412-1",
+      "suppliedText": "Je pense a lui, je pense a lui A tous les mots qu'il me raconte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4321,
+        "anchorEnd": 4331.46,
+        "sourceLineNumber": 412,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4326.457,
+      "sourceText": "À tous les mots qu'il me raconte",
+      "ipa": "[a tu le mo kil mə ʁakɔ̃t]",
+      "ear": "阿 图 莱 莫 基勒 默 哈孔特",
+      "meaning": "想起他告诉我的每一句话。",
+      "sourceLineId": "donjuan-timed-412-2",
+      "suppliedText": "Je pense a lui, je pense a lui A tous les mots qu'il me raconte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4321,
+        "anchorEnd": 4331.46,
+        "sourceLineNumber": 412,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4332,
+      "sourceText": "Pourquoi devrais-je en avoir honte",
+      "ipa": "[puʁkwa dəvʁɛʒ‿ɑ̃n‿avwaʁ ɔ̃t]",
+      "ear": "普赫克乌阿 德弗赫日 昂恩 阿弗乌阿赫 翁特",
+      "meaning": "我为何要感到羞耻",
+      "sourceLineId": "donjuan-timed-413-1",
+      "suppliedText": "Pourquoi devrais-je en avoir honte Meme si j'ai peur de ce qu'il dit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4332,
+        "anchorEnd": 4340.21,
+        "sourceLineNumber": 413,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4336.561,
+      "sourceText": "Même si j'ai peur de ce qu'il dit",
+      "ipa": "[mɛm si ʒe pœʁ də sə kil di]",
+      "ear": "梅姆 西 热 珀厄赫 德 瑟 基勒 迪",
+      "meaning": "尽管我害怕他说的话",
+      "sourceLineId": "donjuan-timed-413-2",
+      "suppliedText": "Pourquoi devrais-je en avoir honte Meme si j'ai peur de ce qu'il dit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4332,
+        "anchorEnd": 4340.21,
+        "sourceLineNumber": 413,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4342,
+      "sourceText": "Je pense à lui",
+      "ipa": "[ʒə pɑ̃s‿a lɥi]",
+      "ear": "热 庞斯 阿 勒于伊",
+      "meaning": "我想他",
+      "sourceLineId": "donjuan-timed-414-1",
+      "suppliedText": "Je pense a lui Je ne me doutais pas qu'un jour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4342,
+        "anchorEnd": 4349.13,
+        "sourceLineNumber": 414,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4344.377,
+      "sourceText": "Je ne me doutais pas qu'un jour",
+      "ipa": "[ʒə nə mə dutɛ pa kœ̃ ʒuʁ]",
+      "ear": "热 讷 默 杜泰 帕 坎 茹赫",
+      "meaning": "没想到有一天",
+      "sourceLineId": "donjuan-timed-414-2",
+      "suppliedText": "Je pense a lui Je ne me doutais pas qu'un jour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4342,
+        "anchorEnd": 4349.13,
+        "sourceLineNumber": 414,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4350,
+      "sourceText": "Même si pourtant je l'attendais",
+      "ipa": "[mɛm si puʁtɑ̃ ʒə latɑ̃dɛ]",
+      "ear": "梅姆 西 普赫唐 热 拉唐戴",
+      "meaning": "虽然我在等待",
+      "sourceLineId": "donjuan-timed-415-1",
+      "suppliedText": "Meme si pourtant je l'attendais Que j'allais rencontrer l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4350,
+        "anchorEnd": 4358.17,
+        "sourceLineNumber": 415,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4354.085,
+      "sourceText": "Que j'allais rencontrer l'amour",
+      "ipa": "[kə ʒalɛ ʁɑ̃kɔ̃tʁe lamuʁ]",
+      "ear": "克 扎莱 杭孔特赫 拉穆赫",
+      "meaning": "我即将遇见爱情",
+      "sourceLineId": "donjuan-timed-415-2",
+      "suppliedText": "Meme si pourtant je l'attendais Que j'allais rencontrer l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4350,
+        "anchorEnd": 4358.17,
+        "sourceLineNumber": 415,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4359,
+      "sourceText": "Que l'amour lui ressemblerait",
+      "ipa": "[kə lamuʁ lɥi ʁəsɑ̃bləʁɛ]",
+      "ear": "克 拉穆赫 勒于伊 赫桑布勒赫",
+      "meaning": "那爱会像他",
+      "sourceLineId": "donjuan-timed-416-1",
+      "suppliedText": "Que l'amour lui ressemblerait Je pense a lui, je pense a lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4359,
+        "anchorEnd": 4367.28,
+        "sourceLineNumber": 416,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4363.14,
+      "sourceText": "Je pense à lui, je pense à lui",
+      "ipa": "[ʒə pɑ̃s‿a lɥi ʒə pɑ̃s‿a lɥi]",
+      "ear": "热 庞斯 阿 勒于伊 热 庞斯 阿 勒于伊",
+      "meaning": "我想他，我想他",
+      "sourceLineId": "donjuan-timed-416-2",
+      "suppliedText": "Que l'amour lui ressemblerait Je pense a lui, je pense a lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4359,
+        "anchorEnd": 4367.28,
+        "sourceLineNumber": 416,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4368,
+      "sourceText": "À tous les mots qu'il me raconte",
+      "ipa": "[a tu le mo kil mə ʁakɔ̃t]",
+      "ear": "阿 图 莱 莫 基勒 默 哈孔特",
+      "meaning": "想起他告诉我的每一句话。",
+      "sourceLineId": "donjuan-timed-417-1",
+      "suppliedText": "A tous les mots qu'il me raconte Pourquoi devrais-je en avoir honte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4368,
+        "anchorEnd": 4376,
+        "sourceLineNumber": 417,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4371.385,
+      "sourceText": "Pourquoi devrais-je en avoir honte",
+      "ipa": "[puʁkwa dəvʁɛʒ‿ɑ̃n‿avwaʁ ɔ̃t]",
+      "ear": "普赫克乌阿 德弗赫日 昂恩 阿弗乌阿赫 翁特",
+      "meaning": "我为何要感到羞耻",
+      "sourceLineId": "donjuan-timed-417-2",
+      "suppliedText": "A tous les mots qu'il me raconte Pourquoi devrais-je en avoir honte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4368,
+        "anchorEnd": 4376,
+        "sourceLineNumber": 417,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4376,
+      "sourceText": "Même si j'ai peur de ce qu'il dit",
+      "ipa": "[mɛm si ʒe pœʁ də sə kil di]",
+      "ear": "梅姆 西 热 珀厄赫 德 瑟 基勒 迪",
+      "meaning": "尽管我害怕他说的话",
+      "sourceLineId": "donjuan-timed-418-1",
+      "suppliedText": "Meme si j'ai peur de ce qu'il dit Je pense a lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4376,
+        "anchorEnd": 4385,
+        "sourceLineNumber": 418,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4382.0,
+      "sourceText": "Je pense à lui",
+      "ipa": "[ʒə pɑ̃s‿a lɥi]",
+      "ear": "热 庞斯 阿 勒于伊",
+      "meaning": "我想他",
+      "sourceLineId": "donjuan-timed-418-2",
+      "suppliedText": "Meme si j'ai peur de ce qu'il dit Je pense a lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4376,
+        "anchorEnd": 4385,
+        "sourceLineNumber": 418,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4385,
+      "sourceText": "Je sais qu'il a connu des femmes",
+      "ipa": "[ʒə sɛ kil‿a kɔny de fam]",
+      "ear": "热 塞 基勒 阿 科尼于 德 法姆",
+      "meaning": "我知道他认识女人",
+      "sourceLineId": "donjuan-timed-419-1",
+      "suppliedText": "Je sais qu'il a connu des femmes Et je sais qu'il n'etait pas droit Qu'il etait le feu sans la flamme",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4385,
+        "anchorEnd": 4392.56,
+        "sourceLineNumber": 419,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4387.376,
+      "sourceText": "Et je sais qu'il n'était pas droit",
+      "ipa": "[e ʒə sɛ kil netɛ pa dʁwa]",
+      "ear": "诶 热 塞 基勒 内泰 帕 德赫乌阿",
+      "meaning": "我知道他从前并不正派，",
+      "sourceLineId": "donjuan-timed-419-2",
+      "suppliedText": "Je sais qu'il a connu des femmes Et je sais qu'il n'etait pas droit Qu'il etait le feu sans la flamme",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4385,
+        "anchorEnd": 4392.56,
+        "sourceLineNumber": 419,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4389.968,
+      "sourceText": "Qu'il était le feu sans la flamme",
+      "ipa": "[kil‿etɛ lə fø sɑ̃ la flam]",
+      "ear": "基勒 诶泰 勒 弗厄 桑 拉 弗拉姆",
+      "meaning": "他是没有火焰的火",
+      "sourceLineId": "donjuan-timed-419-3",
+      "suppliedText": "Je sais qu'il a connu des femmes Et je sais qu'il n'etait pas droit Qu'il etait le feu sans la flamme",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4385,
+        "anchorEnd": 4392.56,
+        "sourceLineNumber": 419,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4393,
+      "sourceText": "Pas avec moi, pas avec moi",
+      "ipa": "[pa avɛk mwa pa avɛk mwa]",
+      "ear": "帕 阿韦克 姆乌阿 帕 阿韦克 姆乌阿",
+      "meaning": "可他对我不同，对我不同。",
+      "sourceLineId": "donjuan-timed-420-1",
+      "suppliedText": "Pas avec moi, pas avec moi Avec moi il est devenu Le prince charmant d'autrefois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4393,
+        "anchorEnd": 4401,
+        "sourceLineNumber": 420,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4395.759,
+      "sourceText": "Avec moi il est devenu",
+      "ipa": "[avɛk mwa il‿ɛ dəvny]",
+      "ear": "阿韦克 姆乌阿 伊勒 艾 德弗尼于",
+      "meaning": "和我一起，他变成了",
+      "sourceLineId": "donjuan-timed-420-2",
+      "suppliedText": "Pas avec moi, pas avec moi Avec moi il est devenu Le prince charmant d'autrefois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4393,
+        "anchorEnd": 4401,
+        "sourceLineNumber": 420,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4398.241,
+      "sourceText": "Le prince charmant d'autrefois",
+      "ipa": "[lə pʁɛ̃s ʃaʁmɑ̃ dotʁəfwa]",
+      "ear": "勒 普汉斯 沙赫芒 多特赫弗乌阿",
+      "meaning": "昔日的白马王子",
+      "sourceLineId": "donjuan-timed-420-3",
+      "suppliedText": "Pas avec moi, pas avec moi Avec moi il est devenu Le prince charmant d'autrefois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4393,
+        "anchorEnd": 4401,
+        "sourceLineNumber": 420,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4401,
+      "sourceText": "Celui que j'ai toujours voulu",
+      "ipa": "[səlɥi kə ʒe tuʒuʁ vuly]",
+      "ear": "瑟勒于伊 克 热 图茹赫 乌吕",
+      "meaning": "我一直想要的",
+      "sourceLineId": "donjuan-timed-421-1",
+      "suppliedText": "Celui que j'ai toujours voulu Quand dans mes reves il etait la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4401,
+        "anchorEnd": 4407,
+        "sourceLineNumber": 421,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4404.36,
+      "sourceText": "Quand dans mes rêves il était là",
+      "ipa": "[kɑ̃ dɑ̃ me ʁɛv‿il‿etɛ la]",
+      "ear": "康 当 梅 赫弗 伊勒 诶泰 拉",
+      "meaning": "当我梦到他在那里的时候",
+      "sourceLineId": "donjuan-timed-421-2",
+      "suppliedText": "Celui que j'ai toujours voulu Quand dans mes reves il etait la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4401,
+        "anchorEnd": 4407,
+        "sourceLineNumber": 421,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4407,
+      "sourceText": "Je pense à lui, je pense à lui",
+      "ipa": "[ʒə pɑ̃s‿a lɥi ʒə pɑ̃s‿a lɥi]",
+      "ear": "热 庞斯 阿 勒于伊 热 庞斯 阿 勒于伊",
+      "meaning": "我想他，我想他",
+      "sourceLineId": "donjuan-timed-422-1",
+      "suppliedText": "Je pense a lui, je pense a lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4407,
+        "anchorEnd": 4412.67,
+        "sourceLineNumber": 422,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4414,
+      "sourceText": "Pourquoi devrais-je en avoir honte",
+      "ipa": "[puʁkwa dəvʁɛʒ‿ɑ̃n‿avwaʁ ɔ̃t]",
+      "ear": "普赫克乌阿 德弗赫日 昂恩 阿弗乌阿赫 翁特",
+      "meaning": "我为何要感到羞耻",
+      "sourceLineId": "donjuan-timed-423-1",
+      "suppliedText": "Pourquoi devrais-je en avoir honte De tous ses mots",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4414,
+        "anchorEnd": 4421,
+        "sourceLineNumber": 423,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4419.25,
+      "sourceText": "De tous ses mots",
+      "ipa": "[də tu se mo]",
+      "ear": "德 图 塞 莫",
+      "meaning": "他所有的话",
+      "sourceLineId": "donjuan-timed-423-2",
+      "suppliedText": "Pourquoi devrais-je en avoir honte De tous ses mots",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4414,
+        "anchorEnd": 4421,
+        "sourceLineNumber": 423,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4421,
+      "sourceText": "Même si j'ai peur de ce qu'il dit",
+      "ipa": "[mɛm si ʒe pœʁ də sə kil di]",
+      "ear": "梅姆 西 热 珀厄赫 德 瑟 基勒 迪",
+      "meaning": "尽管我害怕他说的话",
+      "sourceLineId": "donjuan-timed-424-1",
+      "suppliedText": "Meme si j'ai peur de ce qu'il dit Je pense a lui, je pense a lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4421,
+        "anchorEnd": 4429.87,
+        "sourceLineNumber": 424,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4425.435,
+      "sourceText": "Je pense à lui, je pense à lui",
+      "ipa": "[ʒə pɑ̃s‿a lɥi ʒə pɑ̃s‿a lɥi]",
+      "ear": "热 庞斯 阿 勒于伊 热 庞斯 阿 勒于伊",
+      "meaning": "我想他，我想他",
+      "sourceLineId": "donjuan-timed-424-2",
+      "suppliedText": "Meme si j'ai peur de ce qu'il dit Je pense a lui, je pense a lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4421,
+        "anchorEnd": 4429.87,
+        "sourceLineNumber": 424,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4432,
+      "sourceText": "Je vis chacune de nos secondes",
+      "ipa": "[ʒə vi ʃakyn də no səɡɔ̃d]",
+      "ear": "热 维 沙基于恩 德 诺 瑟贡德",
+      "meaning": "我活在我们的每一秒",
+      "sourceLineId": "donjuan-timed-425-1",
+      "suppliedText": "Je vie chacune des nos seconds Comme un cadeau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4432,
+        "anchorEnd": 4439,
+        "sourceLineNumber": 425,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4436.118,
+      "sourceText": "Comme un cadeau",
+      "ipa": "[kɔm‿œ̃ kado]",
+      "ear": "科姆 恩 卡多",
+      "meaning": "就像一份礼物",
+      "sourceLineId": "donjuan-timed-425-2",
+      "suppliedText": "Je vie chacune des nos seconds Comme un cadeau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4432,
+        "anchorEnd": 4439,
+        "sourceLineNumber": 425,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4439,
+      "sourceText": "Même si j'ai peur de ce qu'il dit",
+      "ipa": "[mɛm si ʒe pœʁ də sə kil di]",
+      "ear": "梅姆 西 热 珀厄赫 德 瑟 基勒 迪",
+      "meaning": "尽管我害怕他说的话",
+      "sourceLineId": "donjuan-timed-426-1",
+      "suppliedText": "Meme si j'ai peur de ce qu'il dit Meme si j'ai peur je pense a lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4439,
+        "anchorEnd": 4448.97,
+        "sourceLineNumber": 426,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4443.786,
+      "sourceText": "Même si j'ai peur je pense à lui",
+      "ipa": "[mɛm si ʒe pœʁ ʒə pɑ̃s‿a lɥi]",
+      "ear": "梅姆 西 热 珀厄赫 热 庞斯 阿 勒于伊",
+      "meaning": "即使我害怕我也会想起他",
+      "sourceLineId": "donjuan-timed-426-2",
+      "suppliedText": "Meme si j'ai peur de ce qu'il dit Meme si j'ai peur je pense a lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4439,
+        "anchorEnd": 4448.97,
+        "sourceLineNumber": 426,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4452,
+      "sourceText": "Je pense à lui",
+      "ipa": "[ʒə pɑ̃s‿a lɥi]",
+      "ear": "热 庞斯 阿 勒于伊",
+      "meaning": "我想他",
+      "sourceLineId": "donjuan-timed-427-1",
+      "suppliedText": "Je pense a lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 4452,
+        "anchorEnd": 4456.3,
+        "sourceLineNumber": 427,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

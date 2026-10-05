@@ -1,0 +1,832 @@
+{
+  "videoId": "donjuan-41",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=7133"
+    }
+  ],
+  "entries": [
+    {
+      "start": 7168,
+      "sourceText": "Je n'en veux à personne",
+      "ipa": "[ʒə nɑ̃ vø a pɛʁsɔn]",
+      "ear": "热 南 弗厄 阿 佩赫索恩",
+      "meaning": "我不怪任何人",
+      "sourceLineId": "donjuan-timed-705-1",
+      "suppliedText": "Je n'en veux a personne Il a vecu sa vie Et que dieu lui pardonne La mort qu'il a choisi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7168,
+        "anchorEnd": 7180.02,
+        "sourceLineNumber": 705,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7170.747,
+      "sourceText": "Il a vécu sa vie",
+      "ipa": "[il‿a veky sa vi]",
+      "ear": "伊勒 阿 韦基于 萨 维",
+      "meaning": "他过着自己的生活",
+      "sourceLineId": "donjuan-timed-705-2",
+      "suppliedText": "Je n'en veux a personne Il a vecu sa vie Et que dieu lui pardonne La mort qu'il a choisi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7168,
+        "anchorEnd": 7180.02,
+        "sourceLineNumber": 705,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7173.151,
+      "sourceText": "Et que dieu lui pardonne",
+      "ipa": "[e kə djø lɥi paʁdɔn]",
+      "ear": "诶 克 德耶厄 勒于伊 帕赫多恩",
+      "meaning": "愿上帝原谅他",
+      "sourceLineId": "donjuan-timed-705-3",
+      "suppliedText": "Je n'en veux a personne Il a vecu sa vie Et que dieu lui pardonne La mort qu'il a choisi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7168,
+        "anchorEnd": 7180.02,
+        "sourceLineNumber": 705,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7176.929,
+      "sourceText": "La mort qu'il a choisie",
+      "ipa": "[la mɔʁ kil‿a ʃwazi]",
+      "ear": "拉 莫赫 基勒 阿 什乌阿齐",
+      "meaning": "宽恕他选择的死亡。",
+      "sourceLineId": "donjuan-timed-705-4",
+      "suppliedText": "Je n'en veux a personne Il a vecu sa vie Et que dieu lui pardonne La mort qu'il a choisi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7168,
+        "anchorEnd": 7180.02,
+        "sourceLineNumber": 705,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7182,
+      "sourceText": "Je ne dois à personne",
+      "ipa": "[ʒə nə dwa a pɛʁsɔn]",
+      "ear": "热 讷 德乌阿 阿 佩赫索恩",
+      "meaning": "我不欠任何人",
+      "sourceLineId": "donjuan-timed-706-1",
+      "suppliedText": "Je ne dois a personne Toutes mes larmes de sang Meme s'il etait un homme",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7182,
+        "anchorEnd": 7190.87,
+        "sourceLineNumber": 706,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7184.838,
+      "sourceText": "Toutes mes larmes de sang",
+      "ipa": "[tut me laʁm də sɑ̃]",
+      "ear": "图特 梅 拉赫姆 德 桑",
+      "meaning": "我所有的血泪",
+      "sourceLineId": "donjuan-timed-706-2",
+      "suppliedText": "Je ne dois a personne Toutes mes larmes de sang Meme s'il etait un homme",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7182,
+        "anchorEnd": 7190.87,
+        "sourceLineNumber": 706,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7187.677,
+      "sourceText": "Même s'il était un homme",
+      "ipa": "[mɛm sil‿etɛ œ̃n‿ɔm]",
+      "ear": "梅姆 西勒 诶泰 恩恩 哦姆",
+      "meaning": "就算他是个男人",
+      "sourceLineId": "donjuan-timed-706-3",
+      "suppliedText": "Je ne dois a personne Toutes mes larmes de sang Meme s'il etait un homme",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7182,
+        "anchorEnd": 7190.87,
+        "sourceLineNumber": 706,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7191,
+      "sourceText": "Il était mon enfant",
+      "ipa": "[il‿etɛ mɔ̃n‿ɑ̃fɑ̃]",
+      "ear": "伊勒 诶泰 蒙恩 昂芳",
+      "meaning": "他是我的孩子",
+      "sourceLineId": "donjuan-timed-707-1",
+      "suppliedText": "Il etait mon enfant Je garderai de lui son sourire et ses yeux",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7191,
+        "anchorEnd": 7201.43,
+        "sourceLineNumber": 707,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7193.92,
+      "sourceText": "Je garderai de lui son sourire et ses yeux",
+      "ipa": "[ʒə ɡaʁdəʁe də lɥi sɔ̃ suʁiʁ e sez‿jø]",
+      "ear": "热 嘎赫德赫 德 勒于伊 松 苏希赫 诶 塞兹 耶厄",
+      "meaning": "我会记住他的笑容和眼睛。",
+      "sourceLineId": "donjuan-timed-707-2",
+      "suppliedText": "Il etait mon enfant Je garderai de lui son sourire et ses yeux",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7191,
+        "anchorEnd": 7201.43,
+        "sourceLineNumber": 707,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7203,
+      "sourceText": "Son envie d'être libre et se brûler au jeu",
+      "ipa": "[sɔ̃n‿ɑ̃vi dɛtʁ libʁ e sə bʁyle o ʒø]",
+      "ear": "松恩 昂维 戴特赫 利布赫 诶 瑟 布许莱 奥 热厄",
+      "meaning": "记住他对自由的渴望，和玩火烧伤自己的冲动。",
+      "sourceLineId": "donjuan-timed-708-1",
+      "suppliedText": "Son envie d'etre libre et se bruler au jeu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7203,
+        "anchorEnd": 7207.65,
+        "sourceLineNumber": 708,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7210,
+      "sourceText": "Je garderai de lui une seule nuit de l'amour",
+      "ipa": "[ʒə ɡaʁdəʁe də lɥi yn sœl nɥi də lamuʁ]",
+      "ear": "热 嘎赫德赫 德 勒于伊 于恩 瑟厄勒 恩于伊 德 拉穆赫",
+      "meaning": "我会记住与他相爱的一夜。",
+      "sourceLineId": "donjuan-timed-709-1",
+      "suppliedText": "Je garderai de lui une seul nuit de l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7210,
+        "anchorEnd": 7215.49,
+        "sourceLineNumber": 709,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7217,
+      "sourceText": "Qui brûlera mon corps et ma peau pour toujours",
+      "ipa": "[ki bʁylʁa mɔ̃ kɔʁ e ma po puʁ tuʒuʁ]",
+      "ear": "基 布许勒哈 蒙 科赫 诶 玛 波 普赫 图茹赫",
+      "meaning": "那一夜将永远在我的身体与肌肤上燃烧。",
+      "sourceLineId": "donjuan-timed-710-1",
+      "suppliedText": "Qui brulera mon corps et ma peau pour toujours Don Juan est mort, Don Juan s'en va",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7217,
+        "anchorEnd": 7228.84,
+        "sourceLineNumber": 710,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7224.611,
+      "sourceText": "Don Juan est mort, Don Juan s'en va",
+      "ipa": "[dɔ̃ ʒɥɑ̃ ɛ mɔʁ dɔ̃ ʒɥɑ̃ sɑ̃ va]",
+      "ear": "东 日于昂 艾 莫赫 东 日于昂 桑 瓦",
+      "meaning": "唐璜已死，唐璜走了。",
+      "sourceLineId": "donjuan-timed-710-2",
+      "suppliedText": "Qui brulera mon corps et ma peau pour toujours Don Juan est mort, Don Juan s'en va",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7217,
+        "anchorEnd": 7228.84,
+        "sourceLineNumber": 710,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7229,
+      "sourceText": "On accepterait tout encore",
+      "ipa": "[ɔ̃n‿aksɛptʁɛ tut‿ɑ̃kɔʁ]",
+      "ear": "翁恩 阿克塞普特赫 图特 昂科赫",
+      "meaning": "我们还是会接受一切",
+      "sourceLineId": "donjuan-timed-711-1",
+      "suppliedText": "On accepterait tout encore S'il pouvait toujours etre la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7229,
+        "anchorEnd": 7236,
+        "sourceLineNumber": 711,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7232.348,
+      "sourceText": "S'il pouvait toujours être là",
+      "ipa": "[sil puvɛ tuʒuʁ‿ɛtʁ la]",
+      "ear": "西勒 普韦 图茹赫 艾特赫 拉",
+      "meaning": "如果他还在的话",
+      "sourceLineId": "donjuan-timed-711-2",
+      "suppliedText": "On accepterait tout encore S'il pouvait toujours etre la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7229,
+        "anchorEnd": 7236,
+        "sourceLineNumber": 711,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7236,
+      "sourceText": "Don Juan est mort sans qu'on apprenne",
+      "ipa": "[dɔ̃ ʒɥɑ̃ ɛ mɔʁ sɑ̃ kɔ̃ apʁɛn]",
+      "ear": "东 日于昂 艾 莫赫 桑 孔 阿普赫恩",
+      "meaning": "唐璜死了，我们仍未明白，",
+      "sourceLineId": "donjuan-timed-712-1",
+      "suppliedText": "Don Juan est mort sans qu'on apprenne",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7236,
+        "anchorEnd": 7242.42,
+        "sourceLineNumber": 712,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7243,
+      "sourceText": "Si le mal qui brûlait son corps",
+      "ipa": "[si lə mal ki bʁylɛ sɔ̃ kɔʁ]",
+      "ear": "西 勒 玛勒 基 布许莱 松 科赫",
+      "meaning": "在他身体里燃烧的那份苦痛，",
+      "sourceLineId": "donjuan-timed-713-1",
+      "suppliedText": "Si le mal qui brulait son corps Etait ou l'amour ou la haine",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7243,
+        "anchorEnd": 7250.76,
+        "sourceLineNumber": 713,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7246.233,
+      "sourceText": "Était ou l'amour ou la haine",
+      "ipa": "[etɛ u lamuʁ‿u la ɛn]",
+      "ear": "诶泰 乌 拉穆赫 乌 拉 艾恩",
+      "meaning": "是爱还是恨",
+      "sourceLineId": "donjuan-timed-713-2",
+      "suppliedText": "Si le mal qui brulait son corps Etait ou l'amour ou la haine",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7243,
+        "anchorEnd": 7250.76,
+        "sourceLineNumber": 713,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7253,
+      "sourceText": "Il était tout pour moi, mon ami et mon frère",
+      "ipa": "[il‿etɛ tu puʁ mwa mɔ̃n‿ami e mɔ̃ fʁɛʁ]",
+      "ear": "伊勒 诶泰 图 普赫 姆乌阿 蒙恩 阿米 诶 蒙 弗赫赫",
+      "meaning": "他是我的一切，我的朋友和我的兄弟",
+      "sourceLineId": "donjuan-timed-714-1",
+      "suppliedText": "Il etait tout pour moi, mon ami et mon frere",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7253,
+        "anchorEnd": 7258.23,
+        "sourceLineNumber": 714,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7260,
+      "sourceText": "Et s'il avait parfois perdu tous ses repères",
+      "ipa": "[e sil‿avɛ paʁfwa pɛʁdy tu se ʁəpɛʁ]",
+      "ear": "诶 西勒 阿韦 帕赫弗乌阿 佩赫迪于 图 塞 赫佩赫",
+      "meaning": "如果他有时迷失方向",
+      "sourceLineId": "donjuan-timed-715-1",
+      "suppliedText": "Et s'il avait parfois perdu tous ses reperes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7260,
+        "anchorEnd": 7265.09,
+        "sourceLineNumber": 715,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7266,
+      "sourceText": "Pour trouver des raisons de déchirer sa vie",
+      "ipa": "[puʁ tʁuve de ʁɛzɔ̃ də deʃiʁe sa vi]",
+      "ear": "普赫 特胡韦 德 赫宗 德 德希赫 萨 维",
+      "meaning": "为了找一个理由，撕碎自己的人生。",
+      "sourceLineId": "donjuan-timed-716-1",
+      "suppliedText": "Pour trouver des raisons de dechirer sa vie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7266,
+        "anchorEnd": 7271.81,
+        "sourceLineNumber": 716,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7273,
+      "sourceText": "Je ne lui en veux plus un peu tard aujourd'hui",
+      "ipa": "[ʒə nə lɥi ɑ̃ vø plyz‿œ̃ pø taʁ‿oʒuʁdɥi]",
+      "ear": "热 讷 勒于伊 昂 弗厄 普吕兹 恩 珀厄 塔赫 奥茹赫德于伊",
+      "meaning": "如今，我不再责怪他，尽管已经有些晚了。",
+      "sourceLineId": "donjuan-timed-717-1",
+      "suppliedText": "Je ne lui en veux plus un peu tard aujourd'hui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7273,
+        "anchorEnd": 7278.98,
+        "sourceLineNumber": 717,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7280,
+      "sourceText": "Personne ne l'a compris, mais si je l'ai choisi",
+      "ipa": "[pɛʁsɔn nə la kɔ̃pʁi mɛ si ʒə le ʃwazi]",
+      "ear": "佩赫索恩 讷 拉 孔普希 梅 西 热 莱 什乌阿齐",
+      "meaning": "旁人都不理解，可我选择了他，",
+      "sourceLineId": "donjuan-timed-718-1",
+      "suppliedText": "Personne ne l'a compris, mais si je l'ai choisi Contre le monde entier c'est que j'ai vu en lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7280,
+        "anchorEnd": 7292.29,
+        "sourceLineNumber": 718,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7285.959,
+      "sourceText": "Contre le monde entier c'est que j'ai vu en lui",
+      "ipa": "[kɔ̃tʁ lə mɔ̃d‿ɑ̃tje sɛ kə ʒe vy ɑ̃ lɥi]",
+      "ear": "孔特赫 勒 蒙德 昂特耶诶 塞 克 热 维于 昂 勒于伊",
+      "meaning": "我愿与全世界为敌，只因我看见了他心里的——",
+      "sourceLineId": "donjuan-timed-718-2",
+      "suppliedText": "Personne ne l'a compris, mais si je l'ai choisi Contre le monde entier c'est que j'ai vu en lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7280,
+        "anchorEnd": 7292.29,
+        "sourceLineNumber": 718,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7294,
+      "sourceText": "Ce qu'il avait caché tout au fond de son cœur",
+      "ipa": "[sə kil‿avɛ kaʃe tut‿o fɔ̃ də sɔ̃ kœʁ]",
+      "ear": "瑟 基勒 阿韦 卡谢 图特 奥 丰 德 松 克厄赫",
+      "meaning": "他内心深处隐藏的是什么",
+      "sourceLineId": "donjuan-timed-719-1",
+      "suppliedText": "Ce qu'il avait cache tout au fond de son coeur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7294,
+        "anchorEnd": 7299.45,
+        "sourceLineNumber": 719,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7301,
+      "sourceText": "Cette envie d'arrêter d'aimer tant la douleur",
+      "ipa": "[sɛt‿ɑ̃vi daʁɛte dɛme tɑ̃ la dulœʁ]",
+      "ear": "塞特 昂维 达赫特 戴梅 唐 拉 杜勒厄赫",
+      "meaning": "那份不愿再沉迷痛苦的愿望。",
+      "sourceLineId": "donjuan-timed-720-1",
+      "suppliedText": "Cette envie d'arreter d'aimer tant la douleur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7301,
+        "anchorEnd": 7306,
+        "sourceLineNumber": 720,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7306,
+      "sourceText": "Don Juan est mort mais pas pour moi",
+      "ipa": "[dɔ̃ ʒɥɑ̃ ɛ mɔʁ mɛ pa puʁ mwa]",
+      "ear": "东 日于昂 艾 莫赫 梅 帕 普赫 姆乌阿",
+      "meaning": "唐璜已死，可对我而言，他仍在。",
+      "sourceLineId": "donjuan-timed-721-1",
+      "suppliedText": "Don Juan est mort mais pas pour moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7306,
+        "anchorEnd": 7313,
+        "sourceLineNumber": 721,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7313,
+      "sourceText": "Et quand il brûlera dans mon corps",
+      "ipa": "[e kɑ̃t‿il bʁylʁa dɑ̃ mɔ̃ kɔʁ]",
+      "ear": "诶 康特 伊勒 布许勒哈 当 蒙 科赫",
+      "meaning": "只要他仍在我身体里燃烧，",
+      "sourceLineId": "donjuan-timed-722-1",
+      "suppliedText": "Et quand il brulera dans mon corps Je sais qu'il sera toujours la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7313,
+        "anchorEnd": 7320,
+        "sourceLineNumber": 722,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7316.182,
+      "sourceText": "Je sais qu'il sera toujours là",
+      "ipa": "[ʒə sɛ kil səʁa tuʒuʁ la]",
+      "ear": "热 塞 基勒 瑟哈 图茹赫 拉",
+      "meaning": "我知道他会永远在那里",
+      "sourceLineId": "donjuan-timed-722-2",
+      "suppliedText": "Et quand il brulera dans mon corps Je sais qu'il sera toujours la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7313,
+        "anchorEnd": 7320,
+        "sourceLineNumber": 722,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7320,
+      "sourceText": "Don Juan est mort et tout s'en va",
+      "ipa": "[dɔ̃ ʒɥɑ̃ ɛ mɔʁ e tu sɑ̃ va]",
+      "ear": "东 日于昂 艾 莫赫 诶 图 桑 瓦",
+      "meaning": "唐璜死了，一切都消失了",
+      "sourceLineId": "donjuan-timed-723-1",
+      "suppliedText": "Don Juan est mort et tout s'en va",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7320,
+        "anchorEnd": 7326.75,
+        "sourceLineNumber": 723,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7327,
+      "sourceText": "Je sais qu'il n'y aura pas un jour",
+      "ipa": "[ʒə sɛ kil ni oʁa pa œ̃ ʒuʁ]",
+      "ear": "热 塞 基勒 尼 奥哈 帕 恩 茹赫",
+      "meaning": "我知道不会有那么一天",
+      "sourceLineId": "donjuan-timed-724-1",
+      "suppliedText": "Je sais qu'il n'y aura pas un jour Sans oublier qu'il etaint la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7327,
+        "anchorEnd": 7334.11,
+        "sourceLineNumber": 724,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7330.851,
+      "sourceText": "Sans oublier qu'il était là",
+      "ipa": "[sɑ̃z‿ublie kil‿etɛ la]",
+      "ear": "桑兹 乌布利诶 基勒 诶泰 拉",
+      "meaning": "我都会记得，他曾经在这里。",
+      "sourceLineId": "donjuan-timed-724-2",
+      "suppliedText": "Je sais qu'il n'y aura pas un jour Sans oublier qu'il etaint la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7327,
+        "anchorEnd": 7334.11,
+        "sourceLineNumber": 724,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7344,
+      "sourceText": "Don Juan est mort, Don Juan s'en va",
+      "ipa": "[dɔ̃ ʒɥɑ̃ ɛ mɔʁ dɔ̃ ʒɥɑ̃ sɑ̃ va]",
+      "ear": "东 日于昂 艾 莫赫 东 日于昂 桑 瓦",
+      "meaning": "唐璜已死，唐璜走了。",
+      "sourceLineId": "donjuan-timed-725-1",
+      "suppliedText": "Don Juan est mort, Don Juan s'en va",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7344,
+        "anchorEnd": 7351,
+        "sourceLineNumber": 725,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7351,
+      "sourceText": "Peut-être que tout le monde avait tort",
+      "ipa": "[pøtɛtʁ kə tulmɔ̃d avɛ tɔʁ]",
+      "ear": "珀厄泰特赫 克 图勒蒙德 阿韦 托赫",
+      "meaning": "也许大家都错了",
+      "sourceLineId": "donjuan-timed-726-1",
+      "suppliedText": "Peut-etre que tout le monde avait tort Peut-etre qu'on n'avait pas le droit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7351,
+        "anchorEnd": 7358,
+        "sourceLineNumber": 726,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7354.75,
+      "sourceText": "Peut-être qu'on n'avait pas le droit",
+      "ipa": "[pøtɛtʁ kɔ̃ navɛ pa lə dʁwa]",
+      "ear": "珀厄泰特赫 孔 纳韦 帕 勒 德赫乌阿",
+      "meaning": "也许我们没有权利",
+      "sourceLineId": "donjuan-timed-726-2",
+      "suppliedText": "Peut-etre que tout le monde avait tort Peut-etre qu'on n'avait pas le droit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7351,
+        "anchorEnd": 7358,
+        "sourceLineNumber": 726,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7358,
+      "sourceText": "De le juger sans le comprendre",
+      "ipa": "[də lə ʒyʒe sɑ̃ lə kɔ̃pʁɑ̃dʁ]",
+      "ear": "德 勒 日于热 桑 勒 孔普杭德赫",
+      "meaning": "在不了解他的情况下评判他",
+      "sourceLineId": "donjuan-timed-727-1",
+      "suppliedText": "De le juger sans le comprendre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7358,
+        "anchorEnd": 7364.84,
+        "sourceLineNumber": 727,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7366,
+      "sourceText": "Personne ne pourra jamais",
+      "ipa": "[pɛʁsɔn nə puʁa ʒamɛ]",
+      "ear": "佩赫索恩 讷 普哈 扎梅",
+      "meaning": "再也没有人能够，",
+      "sourceLineId": "donjuan-timed-728-1",
+      "suppliedText": "Personne ne pourra jamais Donner ce qu'on voulait lui prendre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7366,
+        "anchorEnd": 7372,
+        "sourceLineNumber": 728,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7368.609,
+      "sourceText": "Donner ce qu'on voulait lui prendre",
+      "ipa": "[dɔne sə kɔ̃ vulɛ lɥi pʁɑ̃dʁ]",
+      "ear": "多内 瑟 孔 乌莱 勒于伊 普杭德赫",
+      "meaning": "给予我们曾想从他那里夺取的一切。",
+      "sourceLineId": "donjuan-timed-728-2",
+      "suppliedText": "Personne ne pourra jamais Donner ce qu'on voulait lui prendre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7366,
+        "anchorEnd": 7372,
+        "sourceLineNumber": 728,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7372,
+      "sourceText": "Don Juan est mort, Don Juan s'en va",
+      "ipa": "[dɔ̃ ʒɥɑ̃ ɛ mɔʁ dɔ̃ ʒɥɑ̃ sɑ̃ va]",
+      "ear": "东 日于昂 艾 莫赫 东 日于昂 桑 瓦",
+      "meaning": "唐璜已死，唐璜走了。",
+      "sourceLineId": "donjuan-timed-729-1",
+      "suppliedText": "Don Juan est mort, Don Juan s'en va",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7372,
+        "anchorEnd": 7378.77,
+        "sourceLineNumber": 729,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7379,
+      "sourceText": "On accepterait tout encore",
+      "ipa": "[ɔ̃n‿aksɛptʁɛ tut‿ɑ̃kɔʁ]",
+      "ear": "翁恩 阿克塞普特赫 图特 昂科赫",
+      "meaning": "我们还是会接受一切",
+      "sourceLineId": "donjuan-timed-730-1",
+      "suppliedText": "On accepterait tout encore S'il pouvait toujours etre la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7379,
+        "anchorEnd": 7386,
+        "sourceLineNumber": 730,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7382.348,
+      "sourceText": "S'il pouvait toujours être là",
+      "ipa": "[sil puvɛ tuʒuʁ‿ɛtʁ la]",
+      "ear": "西勒 普韦 图茹赫 艾特赫 拉",
+      "meaning": "如果他还在的话",
+      "sourceLineId": "donjuan-timed-730-2",
+      "suppliedText": "On accepterait tout encore S'il pouvait toujours etre la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7379,
+        "anchorEnd": 7386,
+        "sourceLineNumber": 730,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7386,
+      "sourceText": "Don Juan est mort sans qu'on apprenne",
+      "ipa": "[dɔ̃ ʒɥɑ̃ ɛ mɔʁ sɑ̃ kɔ̃ apʁɛn]",
+      "ear": "东 日于昂 艾 莫赫 桑 孔 阿普赫恩",
+      "meaning": "唐璜死了，我们仍未明白，",
+      "sourceLineId": "donjuan-timed-731-1",
+      "suppliedText": "Don Juan est mort sans qu'on apprenne Si le mal qui brulait son corps",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7386,
+        "anchorEnd": 7396,
+        "sourceLineNumber": 731,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7391.238,
+      "sourceText": "Si le mal qui brûlait son corps",
+      "ipa": "[si lə mal ki bʁylɛ sɔ̃ kɔʁ]",
+      "ear": "西 勒 玛勒 基 布许莱 松 科赫",
+      "meaning": "在他身体里燃烧的那份苦痛，",
+      "sourceLineId": "donjuan-timed-731-2",
+      "suppliedText": "Don Juan est mort sans qu'on apprenne Si le mal qui brulait son corps",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 7386,
+        "anchorEnd": 7396,
+        "sourceLineNumber": 731,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7396,
+      "sourceText": "Était l'amour ou la haine",
+      "ipa": "[etɛ lamuʁ‿u la ɛn]",
+      "ear": "诶泰 拉穆赫 乌 拉 艾恩",
+      "meaning": "是爱还是恨",
+      "sourceLineId": "donjuan-timed-732-1",
+      "suppliedText": "Etait l'amour ou la haine",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7396,
+        "anchorEnd": 7402,
+        "sourceLineNumber": 732,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 7402,
+      "sourceText": "Don Juan est mort",
+      "ipa": "[dɔ̃ ʒɥɑ̃ ɛ mɔʁ]",
+      "ear": "东 日于昂 艾 莫赫",
+      "meaning": "唐璜已死。",
+      "sourceLineId": "donjuan-timed-733-1",
+      "suppliedText": "Don Juan est mort",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 7402,
+        "anchorEnd": 7410.92,
+        "sourceLineNumber": 733,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

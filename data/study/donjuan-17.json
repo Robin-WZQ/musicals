@@ -1,0 +1,796 @@
+{
+  "videoId": "donjuan-17",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=2476"
+    }
+  ],
+  "entries": [
+    {
+      "start": 2501,
+      "sourceText": "Reste encore Don Juan, ne pars pas",
+      "ipa": "[ʁɛst‿ɑ̃kɔʁ dɔ̃ ʒɥɑ̃ nə paʁ pa]",
+      "ear": "赫斯特 昂科赫 东 日于昂 讷 帕赫 帕",
+      "meaning": "唐璜，再留一会，别走。",
+      "sourceLineId": "donjuan-timed-229-1",
+      "suppliedText": "Reste encore Don Juan, ne pars pas Pour elle qui t'a donne son corps, deja Ne pars pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2501,
+        "anchorEnd": 2509.05,
+        "sourceLineNumber": 229,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2504.28,
+      "sourceText": "Pour elle qui t'a donné son corps, déjà",
+      "ipa": "[puʁ‿ɛl ki ta dɔne sɔ̃ kɔʁ deʒa]",
+      "ear": "普赫 艾勒 基 塔 多内 松 科赫 德扎",
+      "meaning": "为那个已经将身体交给你的女人，再留一会。",
+      "sourceLineId": "donjuan-timed-229-2",
+      "suppliedText": "Reste encore Don Juan, ne pars pas Pour elle qui t'a donne son corps, deja Ne pars pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2501,
+        "anchorEnd": 2509.05,
+        "sourceLineNumber": 229,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2508.156,
+      "sourceText": "Ne pars pas",
+      "ipa": "[nə paʁ pa]",
+      "ear": "讷 帕赫 帕",
+      "meaning": "别走",
+      "sourceLineId": "donjuan-timed-229-3",
+      "suppliedText": "Reste encore Don Juan, ne pars pas Pour elle qui t'a donne son corps, deja Ne pars pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2501,
+        "anchorEnd": 2509.05,
+        "sourceLineNumber": 229,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2510,
+      "sourceText": "Que veux-tu que je reste faire",
+      "ipa": "[kə vøty kə ʒə ʁɛst fɛʁ]",
+      "ear": "克 弗厄蒂于 克 热 赫斯特 费赫",
+      "meaning": "你想让我继续做什么？",
+      "sourceLineId": "donjuan-timed-230-1",
+      "suppliedText": "Que veux-tu que je reste faire Moi j'ai deja fini la guerre de l'amour avec elle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2510,
+        "anchorEnd": 2518.99,
+        "sourceLineNumber": 230,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2513.542,
+      "sourceText": "Moi j'ai déjà fini la guerre de l'amour avec elle",
+      "ipa": "[mwa ʒe deʒa fini la ɡɛʁ də lamuʁ‿avɛk‿ɛl]",
+      "ear": "姆乌阿 热 德扎 菲尼 拉 盖赫 德 拉穆赫 阿韦克 艾勒",
+      "meaning": "我和她的爱情战争已经结束了",
+      "sourceLineId": "donjuan-timed-230-2",
+      "suppliedText": "Que veux-tu que je reste faire Moi j'ai deja fini la guerre de l'amour avec elle",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2510,
+        "anchorEnd": 2518.99,
+        "sourceLineNumber": 230,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2519,
+      "sourceText": "Chacun regarde sa vie",
+      "ipa": "[ʃakœ̃ ʁəɡaʁd sa vi]",
+      "ear": "沙坎 赫嘎赫德 萨 维",
+      "meaning": "每个人都审视自己的生活",
+      "sourceLineId": "donjuan-timed-231-1",
+      "suppliedText": "Chacun regarde sa vie De la facon qu'il choisit Chacun laisse un peu du pire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2519,
+        "anchorEnd": 2528,
+        "sourceLineNumber": 231,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2521.571,
+      "sourceText": "De la façon qu'il choisit",
+      "ipa": "[də la fasɔ̃ kil ʃwazi]",
+      "ear": "德 拉 法松 基勒 什乌阿齐",
+      "meaning": "以他选择的方式",
+      "sourceLineId": "donjuan-timed-231-2",
+      "suppliedText": "Chacun regarde sa vie De la facon qu'il choisit Chacun laisse un peu du pire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2519,
+        "anchorEnd": 2528,
+        "sourceLineNumber": 231,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2524.464,
+      "sourceText": "Chacun laisse un peu du pire",
+      "ipa": "[ʃakœ̃ lɛs‿œ̃ pø dy piʁ]",
+      "ear": "沙坎 莱斯 恩 珀厄 迪于 皮赫",
+      "meaning": "每个人都会留下些伤痛，",
+      "sourceLineId": "donjuan-timed-231-3",
+      "suppliedText": "Chacun regarde sa vie De la facon qu'il choisit Chacun laisse un peu du pire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2519,
+        "anchorEnd": 2528,
+        "sourceLineNumber": 231,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2528,
+      "sourceText": "Quand l'amour vient de finir",
+      "ipa": "[kɑ̃ lamuʁ vjɛ̃ də finiʁ]",
+      "ear": "康 拉穆赫 弗耶安 德 菲尼赫",
+      "meaning": "当爱情刚刚结束。",
+      "sourceLineId": "donjuan-timed-232-1",
+      "suppliedText": "Quand l'amour vient de finir Chacun regarde sa chance Et qui perd son innocence",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2528,
+        "anchorEnd": 2538,
+        "sourceLineNumber": 232,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2531.704,
+      "sourceText": "Chacun regarde sa chance",
+      "ipa": "[ʃakœ̃ ʁəɡaʁd sa ʃɑ̃s]",
+      "ear": "沙坎 赫嘎赫德 萨 尚斯",
+      "meaning": "每个人都在寻找自己的机会",
+      "sourceLineId": "donjuan-timed-232-2",
+      "suppliedText": "Quand l'amour vient de finir Chacun regarde sa chance Et qui perd son innocence",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2528,
+        "anchorEnd": 2538,
+        "sourceLineNumber": 232,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2534.667,
+      "sourceText": "Et qui perd son innocence",
+      "ipa": "[e ki pɛʁ sɔ̃n‿inosɑ̃s]",
+      "ear": "诶 基 佩赫 松恩 伊诺桑斯",
+      "meaning": "失去纯真的人，",
+      "sourceLineId": "donjuan-timed-232-3",
+      "suppliedText": "Quand l'amour vient de finir Chacun regarde sa chance Et qui perd son innocence",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2528,
+        "anchorEnd": 2538,
+        "sourceLineNumber": 232,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2538,
+      "sourceText": "N'a plus le temps de choisir",
+      "ipa": "[na ply lə tɑ̃ də ʃwaziʁ]",
+      "ear": "纳 普吕 勒 唐 德 什乌阿齐赫",
+      "meaning": "不再有时间选择",
+      "sourceLineId": "donjuan-timed-233-1",
+      "suppliedText": "N'a plus le temps de choisir Quand l'amour vient de finir Reste encore Don Juan s'il te plait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2538,
+        "anchorEnd": 2548,
+        "sourceLineNumber": 233,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2540.667,
+      "sourceText": "Quand l'amour vient de finir",
+      "ipa": "[kɑ̃ lamuʁ vjɛ̃ də finiʁ]",
+      "ear": "康 拉穆赫 弗耶安 德 菲尼赫",
+      "meaning": "当爱情刚刚结束。",
+      "sourceLineId": "donjuan-timed-233-2",
+      "suppliedText": "N'a plus le temps de choisir Quand l'amour vient de finir Reste encore Don Juan s'il te plait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2538,
+        "anchorEnd": 2548,
+        "sourceLineNumber": 233,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2544.0,
+      "sourceText": "Reste encore Don Juan s'il te plaît",
+      "ipa": "[ʁɛst‿ɑ̃kɔʁ dɔ̃ ʒɥɑ̃ sil tə plɛ]",
+      "ear": "赫斯特 昂科赫 东 日于昂 西勒 特 普莱",
+      "meaning": "唐璜，求你再留一会。",
+      "sourceLineId": "donjuan-timed-233-3",
+      "suppliedText": "N'a plus le temps de choisir Quand l'amour vient de finir Reste encore Don Juan s'il te plait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2538,
+        "anchorEnd": 2548,
+        "sourceLineNumber": 233,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2548,
+      "sourceText": "Ne lui donne pas raison de regretter,",
+      "ipa": "[nə lɥi dɔn pa ʁɛzɔ̃ də ʁəɡʁɛte]",
+      "ear": "讷 勒于伊 多恩 帕 赫宗 德 赫格赫特",
+      "meaning": "别让她后悔爱过你。",
+      "sourceLineId": "donjuan-timed-234-1",
+      "suppliedText": "Ne lui donne pas raison de regretter, S'il te plait Que veux-tu, elles sont toutes les memes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2548,
+        "anchorEnd": 2557.68,
+        "sourceLineNumber": 234,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2552.059,
+      "sourceText": "S'il te plaît",
+      "ipa": "[sil tə plɛ]",
+      "ear": "西勒 特 普莱",
+      "meaning": "请",
+      "sourceLineId": "donjuan-timed-234-2",
+      "suppliedText": "Ne lui donne pas raison de regretter, S'il te plait Que veux-tu, elles sont toutes les memes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2548,
+        "anchorEnd": 2557.68,
+        "sourceLineNumber": 234,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2553.308,
+      "sourceText": "Que veux-tu, elles sont toutes les mêmes",
+      "ipa": "[kə vøty ɛl sɔ̃ tut le mɛm]",
+      "ear": "克 弗厄蒂于 艾勒 松 图特 莱 梅姆",
+      "meaning": "还能怎样？她们都一样。",
+      "sourceLineId": "donjuan-timed-234-3",
+      "suppliedText": "Ne lui donne pas raison de regretter, S'il te plait Que veux-tu, elles sont toutes les memes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2548,
+        "anchorEnd": 2557.68,
+        "sourceLineNumber": 234,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2558,
+      "sourceText": "C'est pas parce que je leur dis je t'aime",
+      "ipa": "[sɛ pa paʁskə ʒə lœʁ di ʒə tɛm]",
+      "ear": "塞 帕 帕赫斯克 热 勒厄赫 迪 热 泰姆",
+      "meaning": "我对她们说“我爱你”，",
+      "sourceLineId": "donjuan-timed-235-1",
+      "suppliedText": "C'est pas parce que je leur dis je t'aime Que vraiment je les aime Chacun regarde sa vie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2558,
+        "anchorEnd": 2566,
+        "sourceLineNumber": 235,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2561.5,
+      "sourceText": "Que vraiment je les aime",
+      "ipa": "[kə vʁɛmɑ̃ ʒə lez‿ɛm]",
+      "ear": "克 弗赫芒 热 莱兹 艾姆",
+      "meaning": "可不代表我真的爱她们。",
+      "sourceLineId": "donjuan-timed-235-2",
+      "suppliedText": "C'est pas parce que je leur dis je t'aime Que vraiment je les aime Chacun regarde sa vie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2558,
+        "anchorEnd": 2566,
+        "sourceLineNumber": 235,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2564.0,
+      "sourceText": "Chacun regarde sa vie",
+      "ipa": "[ʃakœ̃ ʁəɡaʁd sa vi]",
+      "ear": "沙坎 赫嘎赫德 萨 维",
+      "meaning": "每个人都审视自己的生活",
+      "sourceLineId": "donjuan-timed-235-3",
+      "suppliedText": "C'est pas parce que je leur dis je t'aime Que vraiment je les aime Chacun regarde sa vie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2558,
+        "anchorEnd": 2566,
+        "sourceLineNumber": 235,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2566,
+      "sourceText": "De la façon qu'il choisit",
+      "ipa": "[də la fasɔ̃ kil ʃwazi]",
+      "ear": "德 拉 法松 基勒 什乌阿齐",
+      "meaning": "以他选择的方式",
+      "sourceLineId": "donjuan-timed-236-1",
+      "suppliedText": "De la facon qu'il choisit Chacun laisse un peu du pire Quand l'amour vient de finir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2566,
+        "anchorEnd": 2575.94,
+        "sourceLineNumber": 236,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2568.982,
+      "sourceText": "Chacun laisse un peu du pire",
+      "ipa": "[ʃakœ̃ lɛs‿œ̃ pø dy piʁ]",
+      "ear": "沙坎 莱斯 恩 珀厄 迪于 皮赫",
+      "meaning": "每个人都会留下些伤痛，",
+      "sourceLineId": "donjuan-timed-236-2",
+      "suppliedText": "De la facon qu'il choisit Chacun laisse un peu du pire Quand l'amour vient de finir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2566,
+        "anchorEnd": 2575.94,
+        "sourceLineNumber": 236,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2572.627,
+      "sourceText": "Quand l'amour vient de finir",
+      "ipa": "[kɑ̃ lamuʁ vjɛ̃ də finiʁ]",
+      "ear": "康 拉穆赫 弗耶安 德 菲尼赫",
+      "meaning": "当爱情刚刚结束。",
+      "sourceLineId": "donjuan-timed-236-3",
+      "suppliedText": "De la facon qu'il choisit Chacun laisse un peu du pire Quand l'amour vient de finir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2566,
+        "anchorEnd": 2575.94,
+        "sourceLineNumber": 236,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2576,
+      "sourceText": "Chacun regarde sa chance",
+      "ipa": "[ʃakœ̃ ʁəɡaʁd sa ʃɑ̃s]",
+      "ear": "沙坎 赫嘎赫德 萨 尚斯",
+      "meaning": "每个人都在寻找自己的机会",
+      "sourceLineId": "donjuan-timed-237-1",
+      "suppliedText": "Chacun regarde sa chance Et qui perd son innocence N'a plus le temps de choisir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2576,
+        "anchorEnd": 2585,
+        "sourceLineNumber": 237,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2578.88,
+      "sourceText": "Et qui perd son innocence",
+      "ipa": "[e ki pɛʁ sɔ̃n‿inosɑ̃s]",
+      "ear": "诶 基 佩赫 松恩 伊诺桑斯",
+      "meaning": "失去纯真的人，",
+      "sourceLineId": "donjuan-timed-237-2",
+      "suppliedText": "Chacun regarde sa chance Et qui perd son innocence N'a plus le temps de choisir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2576,
+        "anchorEnd": 2585,
+        "sourceLineNumber": 237,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2582.12,
+      "sourceText": "N'a plus le temps de choisir",
+      "ipa": "[na ply lə tɑ̃ də ʃwaziʁ]",
+      "ear": "纳 普吕 勒 唐 德 什乌阿齐赫",
+      "meaning": "不再有时间选择",
+      "sourceLineId": "donjuan-timed-237-3",
+      "suppliedText": "Chacun regarde sa chance Et qui perd son innocence N'a plus le temps de choisir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2576,
+        "anchorEnd": 2585,
+        "sourceLineNumber": 237,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2585,
+      "sourceText": "Quand l'amour vient de finir",
+      "ipa": "[kɑ̃ lamuʁ vjɛ̃ də finiʁ]",
+      "ear": "康 拉穆赫 弗耶安 德 菲尼赫",
+      "meaning": "当爱情刚刚结束。",
+      "sourceLineId": "donjuan-timed-238-1",
+      "suppliedText": "Quand l'amour vient de finir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 2585,
+        "anchorEnd": 2588.99,
+        "sourceLineNumber": 238,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2601,
+      "sourceText": "Chacun regarde sa vie",
+      "ipa": "[ʃakœ̃ ʁəɡaʁd sa vi]",
+      "ear": "沙坎 赫嘎赫德 萨 维",
+      "meaning": "每个人都审视自己的生活",
+      "sourceLineId": "donjuan-timed-239-1",
+      "suppliedText": "Chacun regarde sa vie De la facon qu'il choisit Chacun laisse un peu du pire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2601,
+        "anchorEnd": 2610.87,
+        "sourceLineNumber": 239,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2603.82,
+      "sourceText": "De la façon qu'il choisit",
+      "ipa": "[də la fasɔ̃ kil ʃwazi]",
+      "ear": "德 拉 法松 基勒 什乌阿齐",
+      "meaning": "以他选择的方式",
+      "sourceLineId": "donjuan-timed-239-2",
+      "suppliedText": "Chacun regarde sa vie De la facon qu'il choisit Chacun laisse un peu du pire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2601,
+        "anchorEnd": 2610.87,
+        "sourceLineNumber": 239,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2606.993,
+      "sourceText": "Chacun laisse un peu du pire",
+      "ipa": "[ʃakœ̃ lɛs‿œ̃ pø dy piʁ]",
+      "ear": "沙坎 莱斯 恩 珀厄 迪于 皮赫",
+      "meaning": "每个人都会留下些伤痛，",
+      "sourceLineId": "donjuan-timed-239-3",
+      "suppliedText": "Chacun regarde sa vie De la facon qu'il choisit Chacun laisse un peu du pire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2601,
+        "anchorEnd": 2610.87,
+        "sourceLineNumber": 239,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2611,
+      "sourceText": "Quand l'amour vient de finir",
+      "ipa": "[kɑ̃ lamuʁ vjɛ̃ də finiʁ]",
+      "ear": "康 拉穆赫 弗耶安 德 菲尼赫",
+      "meaning": "当爱情刚刚结束。",
+      "sourceLineId": "donjuan-timed-240-1",
+      "suppliedText": "Quand l'amour vient de finir Chacun regarde sa chance Et qui perd son innocence",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2611,
+        "anchorEnd": 2620,
+        "sourceLineNumber": 240,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2614.333,
+      "sourceText": "Chacun regarde sa chance",
+      "ipa": "[ʃakœ̃ ʁəɡaʁd sa ʃɑ̃s]",
+      "ear": "沙坎 赫嘎赫德 萨 尚斯",
+      "meaning": "每个人都在寻找自己的机会",
+      "sourceLineId": "donjuan-timed-240-2",
+      "suppliedText": "Quand l'amour vient de finir Chacun regarde sa chance Et qui perd son innocence",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2611,
+        "anchorEnd": 2620,
+        "sourceLineNumber": 240,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2617.0,
+      "sourceText": "Et qui perd son innocence",
+      "ipa": "[e ki pɛʁ sɔ̃n‿inosɑ̃s]",
+      "ear": "诶 基 佩赫 松恩 伊诺桑斯",
+      "meaning": "失去纯真的人，",
+      "sourceLineId": "donjuan-timed-240-3",
+      "suppliedText": "Quand l'amour vient de finir Chacun regarde sa chance Et qui perd son innocence",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2611,
+        "anchorEnd": 2620,
+        "sourceLineNumber": 240,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2620,
+      "sourceText": "N'a plus le temps de choisir",
+      "ipa": "[na ply lə tɑ̃ də ʃwaziʁ]",
+      "ear": "纳 普吕 勒 唐 德 什乌阿齐赫",
+      "meaning": "不再有时间选择",
+      "sourceLineId": "donjuan-timed-241-1",
+      "suppliedText": "N'a plus le temps de choisir Quand l'amour vient de finir Chacun fait couler ses larmes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2620,
+        "anchorEnd": 2629.77,
+        "sourceLineNumber": 241,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2622.791,
+      "sourceText": "Quand l'amour vient de finir",
+      "ipa": "[kɑ̃ lamuʁ vjɛ̃ də finiʁ]",
+      "ear": "康 拉穆赫 弗耶安 德 菲尼赫",
+      "meaning": "当爱情刚刚结束。",
+      "sourceLineId": "donjuan-timed-241-2",
+      "suppliedText": "N'a plus le temps de choisir Quand l'amour vient de finir Chacun fait couler ses larmes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2620,
+        "anchorEnd": 2629.77,
+        "sourceLineNumber": 241,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2626.281,
+      "sourceText": "Chacun fait couler ses larmes",
+      "ipa": "[ʃakœ̃ fɛ kule se laʁm]",
+      "ear": "沙坎 费 库莱 塞 拉赫姆",
+      "meaning": "每个人都让泪水流淌",
+      "sourceLineId": "donjuan-timed-241-3",
+      "suppliedText": "N'a plus le temps de choisir Quand l'amour vient de finir Chacun fait couler ses larmes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2620,
+        "anchorEnd": 2629.77,
+        "sourceLineNumber": 241,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2630,
+      "sourceText": "Pour une faute ou comme une arme",
+      "ipa": "[puʁ‿yn fot‿u kɔm‿yn‿aʁm]",
+      "ear": "普赫 于恩 佛特 乌 科姆 于恩 阿赫姆",
+      "meaning": "为了过错，也会把眼泪当成武器，",
+      "sourceLineId": "donjuan-timed-242-1",
+      "suppliedText": "Pour une faute ou comme une arme Pour l'empecher de partir Quand l'amour vient de finir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2630,
+        "anchorEnd": 2639,
+        "sourceLineNumber": 242,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2634.091,
+      "sourceText": "Pour l'empêcher de partir",
+      "ipa": "[puʁ lɑ̃pɛʃe də paʁtiʁ]",
+      "ear": "普赫 朗佩谢 德 帕赫蒂赫",
+      "meaning": "只为不让他离开。",
+      "sourceLineId": "donjuan-timed-242-2",
+      "suppliedText": "Pour une faute ou comme une arme Pour l'empecher de partir Quand l'amour vient de finir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2630,
+        "anchorEnd": 2639,
+        "sourceLineNumber": 242,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2636.273,
+      "sourceText": "Quand l'amour vient de finir",
+      "ipa": "[kɑ̃ lamuʁ vjɛ̃ də finiʁ]",
+      "ear": "康 拉穆赫 弗耶安 德 菲尼赫",
+      "meaning": "当爱情刚刚结束。",
+      "sourceLineId": "donjuan-timed-242-3",
+      "suppliedText": "Pour une faute ou comme une arme Pour l'empecher de partir Quand l'amour vient de finir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2630,
+        "anchorEnd": 2639,
+        "sourceLineNumber": 242,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2639,
+      "sourceText": "C'est la cruelle évidence",
+      "ipa": "[sɛ la kʁyɛl‿evidɑ̃s]",
+      "ear": "塞 拉 克许艾勒 诶维当斯",
+      "meaning": "这就是残酷的事实，",
+      "sourceLineId": "donjuan-timed-243-1",
+      "suppliedText": "C'est la cruelle evidence A qui perd son innocence Pour un instant de plaisir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2639,
+        "anchorEnd": 2648,
+        "sourceLineNumber": 243,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2642.0,
+      "sourceText": "À qui perd son innocence",
+      "ipa": "[a ki pɛʁ sɔ̃n‿inosɑ̃s]",
+      "ear": "阿 基 佩赫 松恩 伊诺桑斯",
+      "meaning": "落在失去纯真的人身上，",
+      "sourceLineId": "donjuan-timed-243-2",
+      "suppliedText": "C'est la cruelle evidence A qui perd son innocence Pour un instant de plaisir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2639,
+        "anchorEnd": 2648,
+        "sourceLineNumber": 243,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2645.0,
+      "sourceText": "Pour un instant de plaisir",
+      "ipa": "[puʁ‿œ̃n‿ɛ̃stɑ̃ də plɛziʁ]",
+      "ear": "普赫 恩恩 安斯唐 德 普莱齐赫",
+      "meaning": "为了片刻的快乐",
+      "sourceLineId": "donjuan-timed-243-3",
+      "suppliedText": "C'est la cruelle evidence A qui perd son innocence Pour un instant de plaisir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2639,
+        "anchorEnd": 2648,
+        "sourceLineNumber": 243,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2648,
+      "sourceText": "Quand l'amour vient de finir",
+      "ipa": "[kɑ̃ lamuʁ vjɛ̃ də finiʁ]",
+      "ear": "康 拉穆赫 弗耶安 德 菲尼赫",
+      "meaning": "当爱情刚刚结束。",
+      "sourceLineId": "donjuan-timed-244-1",
+      "suppliedText": "Quand l'amour vient de finir 18. L'AMOUR QUAND IL VIENT",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 2648,
+        "anchorEnd": 2659.89,
+        "sourceLineNumber": 244,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1948 @@
+{
+  "videoId": "donjuan-37",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=6239"
+    }
+  ],
+  "entries": [
+    {
+      "start": 6268,
+      "sourceText": "Seul comme en exil",
+      "ipa": "[sœl kɔm‿ɑ̃n‿ɛɡzil]",
+      "ear": "瑟厄勒 科姆 昂恩 艾格齐勒",
+      "meaning": "孤独如流亡",
+      "sourceLineId": "donjuan-timed-611-1",
+      "suppliedText": "Seul comme en exil",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6268,
+        "anchorEnd": 6275.92,
+        "sourceLineNumber": 611,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6277,
+      "sourceText": "Comme un naufragé",
+      "ipa": "[kɔm‿œ̃ nofʁaʒe]",
+      "ear": "科姆 恩 诺弗哈热",
+      "meaning": "像一个海难幸存者，",
+      "sourceLineId": "donjuan-timed-612-1",
+      "suppliedText": "Comme un naufrage Sur son ile Comme le funambule",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6277,
+        "anchorEnd": 6286.82,
+        "sourceLineNumber": 612,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6280.819,
+      "sourceText": "Sur son île",
+      "ipa": "[syʁ sɔ̃n‿il]",
+      "ear": "西于赫 松恩 伊勒",
+      "meaning": "困在自己的岛上。",
+      "sourceLineId": "donjuan-timed-612-2",
+      "suppliedText": "Comme un naufrage Sur son ile Comme le funambule",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6277,
+        "anchorEnd": 6286.82,
+        "sourceLineNumber": 612,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6283.001,
+      "sourceText": "Comme le funambule",
+      "ipa": "[kɔm lə fynɑ̃byl]",
+      "ear": "科姆 勒 菲于南比于勒",
+      "meaning": "就像走钢丝的人",
+      "sourceLineId": "donjuan-timed-612-3",
+      "suppliedText": "Comme un naufrage Sur son ile Comme le funambule",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6277,
+        "anchorEnd": 6286.82,
+        "sourceLineNumber": 612,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6287,
+      "sourceText": "Sur un fil",
+      "ipa": "[syʁ‿œ̃ fil]",
+      "ear": "西于赫 恩 菲勒",
+      "meaning": "独自站在一根绳上。",
+      "sourceLineId": "donjuan-timed-613-1",
+      "suppliedText": "Sur un fil Seul parce qu'on a tout pris Parce qu'on a eu tort",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6287,
+        "anchorEnd": 6295,
+        "sourceLineNumber": 613,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6288.143,
+      "sourceText": "Seul parce qu'on a tout pris",
+      "ipa": "[sœl paʁskɔ̃n a tu pʁi]",
+      "ear": "瑟厄勒 帕赫斯孔恩 阿 图 普希",
+      "meaning": "孤独，因为曾夺走一切，",
+      "sourceLineId": "donjuan-timed-613-2",
+      "suppliedText": "Sur un fil Seul parce qu'on a tout pris Parce qu'on a eu tort",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6287,
+        "anchorEnd": 6295,
+        "sourceLineNumber": 613,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6291.952,
+      "sourceText": "Parce qu'on a eu tort",
+      "ipa": "[paʁskɔ̃n a y tɔʁ]",
+      "ear": "帕赫斯孔恩 阿 于 托赫",
+      "meaning": "因为我们错了",
+      "sourceLineId": "donjuan-timed-613-3",
+      "suppliedText": "Sur un fil Seul parce qu'on a tout pris Parce qu'on a eu tort",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6287,
+        "anchorEnd": 6295,
+        "sourceLineNumber": 613,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6295,
+      "sourceText": "C'est se croire en vie",
+      "ipa": "[sɛ sə kʁwaʁ‿ɑ̃ vi]",
+      "ear": "塞 瑟 克赫乌阿赫 昂 维",
+      "meaning": "相信你还活着",
+      "sourceLineId": "donjuan-timed-614-1",
+      "suppliedText": "C'est se croire en vie Meme quand on est mort C'est abandonner Sa chance a un autre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6295,
+        "anchorEnd": 6303,
+        "sourceLineNumber": 614,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6297.286,
+      "sourceText": "Même quand on est mort",
+      "ipa": "[mɛm kɑ̃t‿ɔ̃n‿ɛ mɔʁ]",
+      "ear": "梅姆 康特 翁恩 艾 莫赫",
+      "meaning": "即使我们死了",
+      "sourceLineId": "donjuan-timed-614-2",
+      "suppliedText": "C'est se croire en vie Meme quand on est mort C'est abandonner Sa chance a un autre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6295,
+        "anchorEnd": 6303,
+        "sourceLineNumber": 614,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6299.286,
+      "sourceText": "C'est abandonner",
+      "ipa": "[sɛt‿abɑ̃dɔne]",
+      "ear": "塞特 阿邦多内",
+      "meaning": "孤独，是放弃，",
+      "sourceLineId": "donjuan-timed-614-3",
+      "suppliedText": "C'est se croire en vie Meme quand on est mort C'est abandonner Sa chance a un autre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6295,
+        "anchorEnd": 6303,
+        "sourceLineNumber": 614,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6300.714,
+      "sourceText": "Sa chance à un autre",
+      "ipa": "[sa ʃɑ̃s‿a œ̃n‿otʁ]",
+      "ear": "萨 尚斯 阿 恩恩 奥特赫",
+      "meaning": "把自己的机会让给别人。",
+      "sourceLineId": "donjuan-timed-614-4",
+      "suppliedText": "C'est se croire en vie Meme quand on est mort C'est abandonner Sa chance a un autre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6295,
+        "anchorEnd": 6303,
+        "sourceLineNumber": 614,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6303,
+      "sourceText": "Sans jamais pouvoir",
+      "ipa": "[sɑ̃ ʒamɛ puvwaʁ]",
+      "ear": "桑 扎梅 普弗乌阿赫",
+      "meaning": "从来没有能够",
+      "sourceLineId": "donjuan-timed-615-1",
+      "suppliedText": "Sans jamais pouvoir Oublier sa faute Seul parce que l'amour A change de camp",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6303,
+        "anchorEnd": 6310,
+        "sourceLineNumber": 615,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6304.867,
+      "sourceText": "Oublier sa faute",
+      "ipa": "[ublie sa fot]",
+      "ear": "乌布利诶 萨 佛特",
+      "meaning": "忘记自己的过错。",
+      "sourceLineId": "donjuan-timed-615-2",
+      "suppliedText": "Sans jamais pouvoir Oublier sa faute Seul parce que l'amour A change de camp",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6303,
+        "anchorEnd": 6310,
+        "sourceLineNumber": 615,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6306.733,
+      "sourceText": "Seul parce que l'amour",
+      "ipa": "[sœl paʁskə lamuʁ]",
+      "ear": "瑟厄勒 帕赫斯克 拉穆赫",
+      "meaning": "孤独是因为爱",
+      "sourceLineId": "donjuan-timed-615-3",
+      "suppliedText": "Sans jamais pouvoir Oublier sa faute Seul parce que l'amour A change de camp",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6303,
+        "anchorEnd": 6310,
+        "sourceLineNumber": 615,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6308.833,
+      "sourceText": "A changé de camp",
+      "ipa": "[a ʃɑ̃ʒe də kɑ̃]",
+      "ear": "阿 尚热 德 康",
+      "meaning": "已经转向了别人。",
+      "sourceLineId": "donjuan-timed-615-4",
+      "suppliedText": "Sans jamais pouvoir Oublier sa faute Seul parce que l'amour A change de camp",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6303,
+        "anchorEnd": 6310,
+        "sourceLineNumber": 615,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6310,
+      "sourceText": "C'est des cris de peine",
+      "ipa": "[sɛ de kʁi də pɛn]",
+      "ear": "塞 德 克希 德 佩恩",
+      "meaning": "这些都是痛苦的叫声",
+      "sourceLineId": "donjuan-timed-616-1",
+      "suppliedText": "C'est des cris de peine Mais qui les entend Seul parce qu'on n'a pas su",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6310,
+        "anchorEnd": 6317.93,
+        "sourceLineNumber": 616,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6312.413,
+      "sourceText": "Mais qui les entend",
+      "ipa": "[mɛ ki lez‿ɑ̃tɑ̃]",
+      "ear": "梅 基 莱兹 昂唐",
+      "meaning": "但是谁听到他们的声音",
+      "sourceLineId": "donjuan-timed-616-2",
+      "suppliedText": "C'est des cris de peine Mais qui les entend Seul parce qu'on n'a pas su",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6310,
+        "anchorEnd": 6317.93,
+        "sourceLineNumber": 616,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6314.827,
+      "sourceText": "Seul parce qu'on n'a pas su",
+      "ipa": "[sœl paʁskɔ̃ na pa sy]",
+      "ear": "瑟厄勒 帕赫斯孔 纳 帕 西于",
+      "meaning": "孤独，因为从不懂得，",
+      "sourceLineId": "donjuan-timed-616-3",
+      "suppliedText": "C'est des cris de peine Mais qui les entend Seul parce qu'on n'a pas su",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6310,
+        "anchorEnd": 6317.93,
+        "sourceLineNumber": 616,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6318,
+      "sourceText": "Lire entre les lignes",
+      "ipa": "[liʁ‿ɑ̃tʁ le linj]",
+      "ear": "利赫 昂特赫 莱 利恩耶",
+      "meaning": "读懂话里的深意，",
+      "sourceLineId": "donjuan-timed-617-1",
+      "suppliedText": "Lire entre les lignes Qu'on n'a pas voulu Regarder les signes Parce qu'on ecoutait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6318,
+        "anchorEnd": 6325,
+        "sourceLineNumber": 617,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6319.69,
+      "sourceText": "Qu'on n'a pas voulu",
+      "ipa": "[kɔ̃ na pa vuly]",
+      "ear": "孔 纳 帕 乌吕",
+      "meaning": "也从不愿意，",
+      "sourceLineId": "donjuan-timed-617-2",
+      "suppliedText": "Lire entre les lignes Qu'on n'a pas voulu Regarder les signes Parce qu'on ecoutait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6318,
+        "anchorEnd": 6325,
+        "sourceLineNumber": 617,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6321.379,
+      "sourceText": "Regarder les signes",
+      "ipa": "[ʁəɡaʁde le sinj]",
+      "ear": "赫嘎赫德 莱 西恩耶",
+      "meaning": "留意那些征兆。",
+      "sourceLineId": "donjuan-timed-617-3",
+      "suppliedText": "Lire entre les lignes Qu'on n'a pas voulu Regarder les signes Parce qu'on ecoutait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6318,
+        "anchorEnd": 6325,
+        "sourceLineNumber": 617,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6322.828,
+      "sourceText": "Parce qu'on écoutait",
+      "ipa": "[paʁskɔ̃n ekutɛ]",
+      "ear": "帕赫斯孔恩 诶库泰",
+      "meaning": "因为我们在听",
+      "sourceLineId": "donjuan-timed-617-4",
+      "suppliedText": "Lire entre les lignes Qu'on n'a pas voulu Regarder les signes Parce qu'on ecoutait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6318,
+        "anchorEnd": 6325,
+        "sourceLineNumber": 617,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6325,
+      "sourceText": "Sans jamais le croire",
+      "ipa": "[sɑ̃ ʒamɛ lə kʁwaʁ]",
+      "ear": "桑 扎梅 勒 克赫乌阿赫",
+      "meaning": "从来不相信",
+      "sourceLineId": "donjuan-timed-618-1",
+      "suppliedText": "Sans jamais le croire Quand l'amour s'en va C'est toujours trot tard Seul c'est une nuit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6325,
+        "anchorEnd": 6333,
+        "sourceLineNumber": 618,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6327.207,
+      "sourceText": "Quand l'amour s'en va",
+      "ipa": "[kɑ̃ lamuʁ sɑ̃ va]",
+      "ear": "康 拉穆赫 桑 瓦",
+      "meaning": "当爱消失",
+      "sourceLineId": "donjuan-timed-618-2",
+      "suppliedText": "Sans jamais le croire Quand l'amour s'en va C'est toujours trot tard Seul c'est une nuit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6325,
+        "anchorEnd": 6333,
+        "sourceLineNumber": 618,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6329.138,
+      "sourceText": "C'est toujours trop tard",
+      "ipa": "[sɛ tuʒuʁ tʁo taʁ]",
+      "ear": "塞 图茹赫 特霍 塔赫",
+      "meaning": "一切总是太晚了",
+      "sourceLineId": "donjuan-timed-618-3",
+      "suppliedText": "Sans jamais le croire Quand l'amour s'en va C'est toujours trot tard Seul c'est une nuit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6325,
+        "anchorEnd": 6333,
+        "sourceLineNumber": 618,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6331.069,
+      "sourceText": "Seul c'est une nuit",
+      "ipa": "[sœl sɛt‿yn nɥi]",
+      "ear": "瑟厄勒 塞特 于恩 恩于伊",
+      "meaning": "孤独，是一个，",
+      "sourceLineId": "donjuan-timed-618-4",
+      "suppliedText": "Sans jamais le croire Quand l'amour s'en va C'est toujours trot tard Seul c'est une nuit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6325,
+        "anchorEnd": 6333,
+        "sourceLineNumber": 618,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6333,
+      "sourceText": "Qui n'en finit pas",
+      "ipa": "[ki nɑ̃ fini pa]",
+      "ear": "基 南 菲尼 帕",
+      "meaning": "永远没有尽头的夜晚。",
+      "sourceLineId": "donjuan-timed-619-1",
+      "suppliedText": "Qui n'en finit pas C'est une elle sans lui C'est un toi sans moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6333,
+        "anchorEnd": 6339.78,
+        "sourceLineNumber": 619,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6334.937,
+      "sourceText": "C'est une elle sans lui",
+      "ipa": "[sɛt‿yn‿ɛl sɑ̃ lɥi]",
+      "ear": "塞特 于恩 艾勒 桑 勒于伊",
+      "meaning": "是没有他的她，",
+      "sourceLineId": "donjuan-timed-619-2",
+      "suppliedText": "Qui n'en finit pas C'est une elle sans lui C'est un toi sans moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6333,
+        "anchorEnd": 6339.78,
+        "sourceLineNumber": 619,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6337.52,
+      "sourceText": "C'est un toi sans moi",
+      "ipa": "[sɛt‿œ̃ twa sɑ̃ mwa]",
+      "ear": "塞特 恩 特乌阿 桑 姆乌阿",
+      "meaning": "是没有我的你。",
+      "sourceLineId": "donjuan-timed-619-3",
+      "suppliedText": "Qui n'en finit pas C'est une elle sans lui C'est un toi sans moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6333,
+        "anchorEnd": 6339.78,
+        "sourceLineNumber": 619,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6341,
+      "sourceText": "Seul comme en équilibre",
+      "ipa": "[sœl kɔm‿ɑ̃n‿ekilibʁ]",
+      "ear": "瑟厄勒 科姆 昂恩 诶基利布赫",
+      "meaning": "孤独，像勉强维持平衡，",
+      "sourceLineId": "donjuan-timed-620-1",
+      "suppliedText": "Seul comme en equilibre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6341,
+        "anchorEnd": 6348.98,
+        "sourceLineNumber": 620,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6350,
+      "sourceText": "Seul prisonnier parce qu'on est libre",
+      "ipa": "[sœl pʁizɔnje paʁskɔ̃n ɛ libʁ]",
+      "ear": "瑟厄勒 普希佐恩耶诶 帕赫斯孔恩 艾 利布赫",
+      "meaning": "孤独，明明自由，却像囚犯。",
+      "sourceLineId": "donjuan-timed-621-1",
+      "suppliedText": "Seul prisonnier parce qu'on est libre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6350,
+        "anchorEnd": 6356.59,
+        "sourceLineNumber": 621,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6358,
+      "sourceText": "Seul comme une histoire sans son livre",
+      "ipa": "[sœl kɔm‿yn‿istwaʁ sɑ̃ sɔ̃ livʁ]",
+      "ear": "瑟厄勒 科姆 于恩 伊斯特乌阿赫 桑 松 利弗赫",
+      "meaning": "孤独，像一个失去了书页的故事。",
+      "sourceLineId": "donjuan-timed-622-1",
+      "suppliedText": "Seul comme une hirstoire sans son livre Seul parce qu'on a tout pris",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6358,
+        "anchorEnd": 6366,
+        "sourceLineNumber": 622,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6362.667,
+      "sourceText": "Seul parce qu'on a tout pris",
+      "ipa": "[sœl paʁskɔ̃n a tu pʁi]",
+      "ear": "瑟厄勒 帕赫斯孔恩 阿 图 普希",
+      "meaning": "孤独，因为曾夺走一切，",
+      "sourceLineId": "donjuan-timed-622-2",
+      "suppliedText": "Seul comme une hirstoire sans son livre Seul parce qu'on a tout pris",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6358,
+        "anchorEnd": 6366,
+        "sourceLineNumber": 622,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6366,
+      "sourceText": "Parce qu'on a eu tort",
+      "ipa": "[paʁskɔ̃n a y tɔʁ]",
+      "ear": "帕赫斯孔恩 阿 于 托赫",
+      "meaning": "因为我们错了",
+      "sourceLineId": "donjuan-timed-623-1",
+      "suppliedText": "Parce qu'on a eu tort C'est se croire en vie Meme quand on est mort C'est abandonner",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6366,
+        "anchorEnd": 6374,
+        "sourceLineNumber": 623,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6368.286,
+      "sourceText": "C'est se croire en vie",
+      "ipa": "[sɛ sə kʁwaʁ‿ɑ̃ vi]",
+      "ear": "塞 瑟 克赫乌阿赫 昂 维",
+      "meaning": "相信你还活着",
+      "sourceLineId": "donjuan-timed-623-2",
+      "suppliedText": "Parce qu'on a eu tort C'est se croire en vie Meme quand on est mort C'est abandonner",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6366,
+        "anchorEnd": 6374,
+        "sourceLineNumber": 623,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6370.571,
+      "sourceText": "Même quand on est mort",
+      "ipa": "[mɛm kɑ̃t‿ɔ̃n‿ɛ mɔʁ]",
+      "ear": "梅姆 康特 翁恩 艾 莫赫",
+      "meaning": "即使我们死了",
+      "sourceLineId": "donjuan-timed-623-3",
+      "suppliedText": "Parce qu'on a eu tort C'est se croire en vie Meme quand on est mort C'est abandonner",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6366,
+        "anchorEnd": 6374,
+        "sourceLineNumber": 623,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6372.571,
+      "sourceText": "C'est abandonner",
+      "ipa": "[sɛt‿abɑ̃dɔne]",
+      "ear": "塞特 阿邦多内",
+      "meaning": "孤独，是放弃，",
+      "sourceLineId": "donjuan-timed-623-4",
+      "suppliedText": "Parce qu'on a eu tort C'est se croire en vie Meme quand on est mort C'est abandonner",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6366,
+        "anchorEnd": 6374,
+        "sourceLineNumber": 623,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6374,
+      "sourceText": "Sa chance à un autre",
+      "ipa": "[sa ʃɑ̃s‿a œ̃n‿otʁ]",
+      "ear": "萨 尚斯 阿 恩恩 奥特赫",
+      "meaning": "把自己的机会让给别人。",
+      "sourceLineId": "donjuan-timed-624-1",
+      "suppliedText": "Sa chance a un autre Sans jamais pouvoir Oublier sa faute Seul parce que l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6374,
+        "anchorEnd": 6381,
+        "sourceLineNumber": 624,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6375.697,
+      "sourceText": "Sans jamais pouvoir",
+      "ipa": "[sɑ̃ ʒamɛ puvwaʁ]",
+      "ear": "桑 扎梅 普弗乌阿赫",
+      "meaning": "从来没有能够",
+      "sourceLineId": "donjuan-timed-624-2",
+      "suppliedText": "Sa chance a un autre Sans jamais pouvoir Oublier sa faute Seul parce que l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6374,
+        "anchorEnd": 6381,
+        "sourceLineNumber": 624,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6377.394,
+      "sourceText": "Oublier sa faute",
+      "ipa": "[ublie sa fot]",
+      "ear": "乌布利诶 萨 佛特",
+      "meaning": "忘记自己的过错。",
+      "sourceLineId": "donjuan-timed-624-3",
+      "suppliedText": "Sa chance a un autre Sans jamais pouvoir Oublier sa faute Seul parce que l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6374,
+        "anchorEnd": 6381,
+        "sourceLineNumber": 624,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6379.091,
+      "sourceText": "Seul parce que l'amour",
+      "ipa": "[sœl paʁskə lamuʁ]",
+      "ear": "瑟厄勒 帕赫斯克 拉穆赫",
+      "meaning": "孤独是因为爱",
+      "sourceLineId": "donjuan-timed-624-4",
+      "suppliedText": "Sa chance a un autre Sans jamais pouvoir Oublier sa faute Seul parce que l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6374,
+        "anchorEnd": 6381,
+        "sourceLineNumber": 624,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6381,
+      "sourceText": "A changé de camp",
+      "ipa": "[a ʃɑ̃ʒe də kɑ̃]",
+      "ear": "阿 尚热 德 康",
+      "meaning": "已经转向了别人。",
+      "sourceLineId": "donjuan-timed-625-1",
+      "suppliedText": "A change de camp C'est des cris de peine Mais qui les entend Seul parce qu'on n'a pas su",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6381,
+        "anchorEnd": 6390.87,
+        "sourceLineNumber": 625,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6382.762,
+      "sourceText": "C'est des cris de peine",
+      "ipa": "[sɛ de kʁi də pɛn]",
+      "ear": "塞 德 克希 德 佩恩",
+      "meaning": "这些都是痛苦的叫声",
+      "sourceLineId": "donjuan-timed-625-2",
+      "suppliedText": "A change de camp C'est des cris de peine Mais qui les entend Seul parce qu'on n'a pas su",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6381,
+        "anchorEnd": 6390.87,
+        "sourceLineNumber": 625,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6385.23,
+      "sourceText": "Mais qui les entend",
+      "ipa": "[mɛ ki lez‿ɑ̃tɑ̃]",
+      "ear": "梅 基 莱兹 昂唐",
+      "meaning": "但是谁听到他们的声音",
+      "sourceLineId": "donjuan-timed-625-3",
+      "suppliedText": "A change de camp C'est des cris de peine Mais qui les entend Seul parce qu'on n'a pas su",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6381,
+        "anchorEnd": 6390.87,
+        "sourceLineNumber": 625,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6387.697,
+      "sourceText": "Seul parce qu'on n'a pas su",
+      "ipa": "[sœl paʁskɔ̃ na pa sy]",
+      "ear": "瑟厄勒 帕赫斯孔 纳 帕 西于",
+      "meaning": "孤独，因为从不懂得，",
+      "sourceLineId": "donjuan-timed-625-4",
+      "suppliedText": "A change de camp C'est des cris de peine Mais qui les entend Seul parce qu'on n'a pas su",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6381,
+        "anchorEnd": 6390.87,
+        "sourceLineNumber": 625,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6391,
+      "sourceText": "Lire entre les lignes",
+      "ipa": "[liʁ‿ɑ̃tʁ le linj]",
+      "ear": "利赫 昂特赫 莱 利恩耶",
+      "meaning": "读懂话里的深意，",
+      "sourceLineId": "donjuan-timed-626-1",
+      "suppliedText": "Lire entre les lignes Qu'on n'a pas voulu Regarder les signes Parce qu'on ecoutait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6391,
+        "anchorEnd": 6398,
+        "sourceLineNumber": 626,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6392.69,
+      "sourceText": "Qu'on n'a pas voulu",
+      "ipa": "[kɔ̃ na pa vuly]",
+      "ear": "孔 纳 帕 乌吕",
+      "meaning": "也从不愿意，",
+      "sourceLineId": "donjuan-timed-626-2",
+      "suppliedText": "Lire entre les lignes Qu'on n'a pas voulu Regarder les signes Parce qu'on ecoutait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6391,
+        "anchorEnd": 6398,
+        "sourceLineNumber": 626,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6394.379,
+      "sourceText": "Regarder les signes",
+      "ipa": "[ʁəɡaʁde le sinj]",
+      "ear": "赫嘎赫德 莱 西恩耶",
+      "meaning": "留意那些征兆。",
+      "sourceLineId": "donjuan-timed-626-3",
+      "suppliedText": "Lire entre les lignes Qu'on n'a pas voulu Regarder les signes Parce qu'on ecoutait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6391,
+        "anchorEnd": 6398,
+        "sourceLineNumber": 626,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6395.828,
+      "sourceText": "Parce qu'on écoutait",
+      "ipa": "[paʁskɔ̃n ekutɛ]",
+      "ear": "帕赫斯孔恩 诶库泰",
+      "meaning": "因为我们在听",
+      "sourceLineId": "donjuan-timed-626-4",
+      "suppliedText": "Lire entre les lignes Qu'on n'a pas voulu Regarder les signes Parce qu'on ecoutait",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6391,
+        "anchorEnd": 6398,
+        "sourceLineNumber": 626,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6398,
+      "sourceText": "Sans jamais le croire",
+      "ipa": "[sɑ̃ ʒamɛ lə kʁwaʁ]",
+      "ear": "桑 扎梅 勒 克赫乌阿赫",
+      "meaning": "从来不相信",
+      "sourceLineId": "donjuan-timed-627-1",
+      "suppliedText": "Sans jamais le croire Quand l'amour s'en va C'est toujours trot tard Seul c'est une nuit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6398,
+        "anchorEnd": 6406,
+        "sourceLineNumber": 627,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6400.207,
+      "sourceText": "Quand l'amour s'en va",
+      "ipa": "[kɑ̃ lamuʁ sɑ̃ va]",
+      "ear": "康 拉穆赫 桑 瓦",
+      "meaning": "当爱消失",
+      "sourceLineId": "donjuan-timed-627-2",
+      "suppliedText": "Sans jamais le croire Quand l'amour s'en va C'est toujours trot tard Seul c'est une nuit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6398,
+        "anchorEnd": 6406,
+        "sourceLineNumber": 627,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6402.138,
+      "sourceText": "C'est toujours trop tard",
+      "ipa": "[sɛ tuʒuʁ tʁo taʁ]",
+      "ear": "塞 图茹赫 特霍 塔赫",
+      "meaning": "一切总是太晚了",
+      "sourceLineId": "donjuan-timed-627-3",
+      "suppliedText": "Sans jamais le croire Quand l'amour s'en va C'est toujours trot tard Seul c'est une nuit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6398,
+        "anchorEnd": 6406,
+        "sourceLineNumber": 627,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6404.069,
+      "sourceText": "Seul c'est une nuit",
+      "ipa": "[sœl sɛt‿yn nɥi]",
+      "ear": "瑟厄勒 塞特 于恩 恩于伊",
+      "meaning": "孤独，是一个，",
+      "sourceLineId": "donjuan-timed-627-4",
+      "suppliedText": "Sans jamais le croire Quand l'amour s'en va C'est toujours trot tard Seul c'est une nuit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6398,
+        "anchorEnd": 6406,
+        "sourceLineNumber": 627,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6406,
+      "sourceText": "Qui n'en finit pas",
+      "ipa": "[ki nɑ̃ fini pa]",
+      "ear": "基 南 菲尼 帕",
+      "meaning": "永远没有尽头的夜晚。",
+      "sourceLineId": "donjuan-timed-628-1",
+      "suppliedText": "Qui n'en finit pas C'est une elle sans lui C'est un toi sans moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6406,
+        "anchorEnd": 6413.79,
+        "sourceLineNumber": 628,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6408.226,
+      "sourceText": "C'est une elle sans lui",
+      "ipa": "[sɛt‿yn‿ɛl sɑ̃ lɥi]",
+      "ear": "塞特 于恩 艾勒 桑 勒于伊",
+      "meaning": "是没有他的她，",
+      "sourceLineId": "donjuan-timed-628-2",
+      "suppliedText": "Qui n'en finit pas C'est une elle sans lui C'est un toi sans moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6406,
+        "anchorEnd": 6413.79,
+        "sourceLineNumber": 628,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6411.193,
+      "sourceText": "C'est un toi sans moi",
+      "ipa": "[sɛt‿œ̃ twa sɑ̃ mwa]",
+      "ear": "塞特 恩 特乌阿 桑 姆乌阿",
+      "meaning": "是没有我的你。",
+      "sourceLineId": "donjuan-timed-628-3",
+      "suppliedText": "Qui n'en finit pas C'est une elle sans lui C'est un toi sans moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6406,
+        "anchorEnd": 6413.79,
+        "sourceLineNumber": 628,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6415,
+      "sourceText": "Seul qui n'a jamais été seul",
+      "ipa": "[sœl ki na ʒamɛ ete sœl]",
+      "ear": "瑟厄勒 基 纳 扎梅 诶特 瑟厄勒",
+      "meaning": "从未尝过孤独的人，如今也孤独。",
+      "sourceLineId": "donjuan-timed-629-1",
+      "suppliedText": "Seul qui n'a jamais ete seul",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6415,
+        "anchorEnd": 6423,
+        "sourceLineNumber": 629,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6423,
+      "sourceText": "Seul, ma place à ceux qui la veulent",
+      "ipa": "[sœl ma plas‿a sø ki la vœl]",
+      "ear": "瑟厄勒 玛 普拉斯 阿 瑟厄 基 拉 弗厄勒",
+      "meaning": "独自一人，我的位置留给想要的人吧。",
+      "sourceLineId": "donjuan-timed-630-1",
+      "suppliedText": "Seul, ma place a ceux qui la veule",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6423,
+        "anchorEnd": 6430.99,
+        "sourceLineNumber": 630,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6432,
+      "sourceText": "Seul comme un condamné",
+      "ipa": "[sœl kɔm‿œ̃ kɔ̃dane]",
+      "ear": "瑟厄勒 科姆 恩 孔达内",
+      "meaning": "像一个被判死刑的人一样孤独",
+      "sourceLineId": "donjuan-timed-631-1",
+      "suppliedText": "Seul comme un condamne Devant l'echafaud Comme un innocent Devant son bourreau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6432,
+        "anchorEnd": 6440,
+        "sourceLineNumber": 631,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6434.286,
+      "sourceText": "Devant l'échafaud",
+      "ipa": "[dəvɑ̃ leʃafo]",
+      "ear": "德旺 莱沙佛",
+      "meaning": "站在断头台前。",
+      "sourceLineId": "donjuan-timed-631-2",
+      "suppliedText": "Seul comme un condamne Devant l'echafaud Comme un innocent Devant son bourreau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6432,
+        "anchorEnd": 6440,
+        "sourceLineNumber": 631,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6436.0,
+      "sourceText": "Comme un innocent",
+      "ipa": "[kɔm‿œ̃n‿inosɑ̃]",
+      "ear": "科姆 恩恩 伊诺桑",
+      "meaning": "就像一个无辜的人",
+      "sourceLineId": "donjuan-timed-631-3",
+      "suppliedText": "Seul comme un condamne Devant l'echafaud Comme un innocent Devant son bourreau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6432,
+        "anchorEnd": 6440,
+        "sourceLineNumber": 631,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6437.714,
+      "sourceText": "Devant son bourreau",
+      "ipa": "[dəvɑ̃ sɔ̃ buʁo]",
+      "ear": "德旺 松 布霍",
+      "meaning": "在他的刽子手面前",
+      "sourceLineId": "donjuan-timed-631-4",
+      "suppliedText": "Seul comme un condamne Devant l'echafaud Comme un innocent Devant son bourreau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6432,
+        "anchorEnd": 6440,
+        "sourceLineNumber": 631,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6440,
+      "sourceText": "Seul comme un enfant",
+      "ipa": "[sœl kɔm‿œ̃n‿ɑ̃fɑ̃]",
+      "ear": "瑟厄勒 科姆 恩恩 昂芳",
+      "meaning": "像个孩子一样孤独",
+      "sourceLineId": "donjuan-timed-632-1",
+      "suppliedText": "Seul comme un enfant Qui cherche son pere Seul comme le mendiant Qui s'endort a terre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6440,
+        "anchorEnd": 6447,
+        "sourceLineNumber": 632,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6441.69,
+      "sourceText": "Qui cherche son père",
+      "ipa": "[ki ʃɛʁʃ sɔ̃ pɛʁ]",
+      "ear": "基 谢赫什 松 佩赫",
+      "meaning": "找不到自己的父亲。",
+      "sourceLineId": "donjuan-timed-632-2",
+      "suppliedText": "Seul comme un enfant Qui cherche son pere Seul comme le mendiant Qui s'endort a terre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6440,
+        "anchorEnd": 6447,
+        "sourceLineNumber": 632,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6443.379,
+      "sourceText": "Seul comme le mendiant",
+      "ipa": "[sœl kɔm lə mɑ̃djɑ̃]",
+      "ear": "瑟厄勒 科姆 勒 芒德耶昂",
+      "meaning": "孤独如乞丐",
+      "sourceLineId": "donjuan-timed-632-3",
+      "suppliedText": "Seul comme un enfant Qui cherche son pere Seul comme le mendiant Qui s'endort a terre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6440,
+        "anchorEnd": 6447,
+        "sourceLineNumber": 632,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6445.31,
+      "sourceText": "Qui s'endort à terre",
+      "ipa": "[ki sɑ̃dɔʁ‿a tɛʁ]",
+      "ear": "基 桑多赫 阿 泰赫",
+      "meaning": "在地上蜷缩入睡。",
+      "sourceLineId": "donjuan-timed-632-4",
+      "suppliedText": "Seul comme un enfant Qui cherche son pere Seul comme le mendiant Qui s'endort a terre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6440,
+        "anchorEnd": 6447,
+        "sourceLineNumber": 632,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6447,
+      "sourceText": "Parce qu'on a passé",
+      "ipa": "[paʁskɔ̃n a pase]",
+      "ear": "帕赫斯孔恩 阿 帕塞",
+      "meaning": "因为自己曾度过——",
+      "sourceLineId": "donjuan-timed-633-1",
+      "suppliedText": "Parce qu'on a passe Sa vie sans la voir On se trouve seul Devant son miroir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6447,
+        "anchorEnd": 6456.5,
+        "sourceLineNumber": 633,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6449.463,
+      "sourceText": "Sa vie sans la voir",
+      "ipa": "[sa vi sɑ̃ la vwaʁ]",
+      "ear": "萨 维 桑 拉 弗乌阿赫",
+      "meaning": "一生，却没真正看清。",
+      "sourceLineId": "donjuan-timed-633-2",
+      "suppliedText": "Parce qu'on a passe Sa vie sans la voir On se trouve seul Devant son miroir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6447,
+        "anchorEnd": 6456.5,
+        "sourceLineNumber": 633,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6451.926,
+      "sourceText": "On se trouve seul",
+      "ipa": "[ɔ̃ sə tʁuv sœl]",
+      "ear": "翁 瑟 特胡弗 瑟厄勒",
+      "meaning": "我们发现自己孤身一人",
+      "sourceLineId": "donjuan-timed-633-3",
+      "suppliedText": "Parce qu'on a passe Sa vie sans la voir On se trouve seul Devant son miroir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6447,
+        "anchorEnd": 6456.5,
+        "sourceLineNumber": 633,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6454.389,
+      "sourceText": "Devant son miroir",
+      "ipa": "[dəvɑ̃ sɔ̃ miʁwaʁ]",
+      "ear": "德旺 松 米赫乌阿赫",
+      "meaning": "面对自己的镜子。",
+      "sourceLineId": "donjuan-timed-633-4",
+      "suppliedText": "Parce qu'on a passe Sa vie sans la voir On se trouve seul Devant son miroir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6447,
+        "anchorEnd": 6456.5,
+        "sourceLineNumber": 633,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6460,
+      "sourceText": "Seul parce qu'on a tout pris",
+      "ipa": "[sœl paʁskɔ̃n a tu pʁi]",
+      "ear": "瑟厄勒 帕赫斯孔恩 阿 图 普希",
+      "meaning": "孤独，因为曾夺走一切，",
+      "sourceLineId": "donjuan-timed-634-1",
+      "suppliedText": "Seul parce qu'on a tout pris Parce qu'on a eu tort C'est se croire en vie Meme quand on est mort",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6460,
+        "anchorEnd": 6468,
+        "sourceLineNumber": 634,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6462.424,
+      "sourceText": "Parce qu'on a eu tort",
+      "ipa": "[paʁskɔ̃n a y tɔʁ]",
+      "ear": "帕赫斯孔恩 阿 于 托赫",
+      "meaning": "因为我们错了",
+      "sourceLineId": "donjuan-timed-634-2",
+      "suppliedText": "Seul parce qu'on a tout pris Parce qu'on a eu tort C'est se croire en vie Meme quand on est mort",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6460,
+        "anchorEnd": 6468,
+        "sourceLineNumber": 634,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6464.364,
+      "sourceText": "C'est se croire en vie",
+      "ipa": "[sɛ sə kʁwaʁ‿ɑ̃ vi]",
+      "ear": "塞 瑟 克赫乌阿赫 昂 维",
+      "meaning": "相信你还活着",
+      "sourceLineId": "donjuan-timed-634-3",
+      "suppliedText": "Seul parce qu'on a tout pris Parce qu'on a eu tort C'est se croire en vie Meme quand on est mort",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6460,
+        "anchorEnd": 6468,
+        "sourceLineNumber": 634,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6466.303,
+      "sourceText": "Même quand on est mort",
+      "ipa": "[mɛm kɑ̃t‿ɔ̃n‿ɛ mɔʁ]",
+      "ear": "梅姆 康特 翁恩 艾 莫赫",
+      "meaning": "即使我们死了",
+      "sourceLineId": "donjuan-timed-634-4",
+      "suppliedText": "Seul parce qu'on a tout pris Parce qu'on a eu tort C'est se croire en vie Meme quand on est mort",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6460,
+        "anchorEnd": 6468,
+        "sourceLineNumber": 634,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6468,
+      "sourceText": "C'est abandonner",
+      "ipa": "[sɛt‿abɑ̃dɔne]",
+      "ear": "塞特 阿邦多内",
+      "meaning": "孤独，是放弃，",
+      "sourceLineId": "donjuan-timed-635-1",
+      "suppliedText": "C'est abandonner Sa chance a un autre Sans jamais pouvoir Oublier sa faute",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6468,
+        "anchorEnd": 6475,
+        "sourceLineNumber": 635,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6469.207,
+      "sourceText": "Sa chance à un autre",
+      "ipa": "[sa ʃɑ̃s‿a œ̃n‿otʁ]",
+      "ear": "萨 尚斯 阿 恩恩 奥特赫",
+      "meaning": "把自己的机会让给别人。",
+      "sourceLineId": "donjuan-timed-635-2",
+      "suppliedText": "C'est abandonner Sa chance a un autre Sans jamais pouvoir Oublier sa faute",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6468,
+        "anchorEnd": 6475,
+        "sourceLineNumber": 635,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6471.138,
+      "sourceText": "Sans jamais pouvoir",
+      "ipa": "[sɑ̃ ʒamɛ puvwaʁ]",
+      "ear": "桑 扎梅 普弗乌阿赫",
+      "meaning": "从来没有能够",
+      "sourceLineId": "donjuan-timed-635-3",
+      "suppliedText": "C'est abandonner Sa chance a un autre Sans jamais pouvoir Oublier sa faute",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6468,
+        "anchorEnd": 6475,
+        "sourceLineNumber": 635,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6473.069,
+      "sourceText": "Oublier sa faute",
+      "ipa": "[ublie sa fot]",
+      "ear": "乌布利诶 萨 佛特",
+      "meaning": "忘记自己的过错。",
+      "sourceLineId": "donjuan-timed-635-4",
+      "suppliedText": "C'est abandonner Sa chance a un autre Sans jamais pouvoir Oublier sa faute",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6468,
+        "anchorEnd": 6475,
+        "sourceLineNumber": 635,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6475,
+      "sourceText": "Seul parce que l'amour",
+      "ipa": "[sœl paʁskə lamuʁ]",
+      "ear": "瑟厄勒 帕赫斯克 拉穆赫",
+      "meaning": "孤独是因为爱",
+      "sourceLineId": "donjuan-timed-636-1",
+      "suppliedText": "Seul parce que l'amour A change de camp C'est des cris de peine Mais qui les entend",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6475,
+        "anchorEnd": 6484,
+        "sourceLineNumber": 636,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6477.893,
+      "sourceText": "A changé de camp",
+      "ipa": "[a ʃɑ̃ʒe də kɑ̃]",
+      "ear": "阿 尚热 德 康",
+      "meaning": "已经转向了别人。",
+      "sourceLineId": "donjuan-timed-636-2",
+      "suppliedText": "Seul parce que l'amour A change de camp C'est des cris de peine Mais qui les entend",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6475,
+        "anchorEnd": 6484,
+        "sourceLineNumber": 636,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6479.5,
+      "sourceText": "C'est des cris de peine",
+      "ipa": "[sɛ de kʁi də pɛn]",
+      "ear": "塞 德 克希 德 佩恩",
+      "meaning": "这些都是痛苦的叫声",
+      "sourceLineId": "donjuan-timed-636-3",
+      "suppliedText": "Seul parce que l'amour A change de camp C'est des cris de peine Mais qui les entend",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6475,
+        "anchorEnd": 6484,
+        "sourceLineNumber": 636,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6481.75,
+      "sourceText": "Mais qui les entend",
+      "ipa": "[mɛ ki lez‿ɑ̃tɑ̃]",
+      "ear": "梅 基 莱兹 昂唐",
+      "meaning": "但是谁听到他们的声音",
+      "sourceLineId": "donjuan-timed-636-4",
+      "suppliedText": "Seul parce que l'amour A change de camp C'est des cris de peine Mais qui les entend",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6475,
+        "anchorEnd": 6484,
+        "sourceLineNumber": 636,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6484,
+      "sourceText": "Seul parce qu'on n'a pas su",
+      "ipa": "[sœl paʁskɔ̃ na pa sy]",
+      "ear": "瑟厄勒 帕赫斯孔 纳 帕 西于",
+      "meaning": "孤独，因为从不懂得，",
+      "sourceLineId": "donjuan-timed-637-1",
+      "suppliedText": "Seul parce qu'on n'a pas su Lire entre les lignes Qu'on n'a pas voulu Regarder les signes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6484,
+        "anchorEnd": 6492,
+        "sourceLineNumber": 637,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6486.483,
+      "sourceText": "Lire entre les lignes",
+      "ipa": "[liʁ‿ɑ̃tʁ le linj]",
+      "ear": "利赫 昂特赫 莱 利恩耶",
+      "meaning": "读懂话里的深意，",
+      "sourceLineId": "donjuan-timed-637-2",
+      "suppliedText": "Seul parce qu'on n'a pas su Lire entre les lignes Qu'on n'a pas voulu Regarder les signes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6484,
+        "anchorEnd": 6492,
+        "sourceLineNumber": 637,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6488.414,
+      "sourceText": "Qu'on n'a pas voulu",
+      "ipa": "[kɔ̃ na pa vuly]",
+      "ear": "孔 纳 帕 乌吕",
+      "meaning": "也从不愿意，",
+      "sourceLineId": "donjuan-timed-637-3",
+      "suppliedText": "Seul parce qu'on n'a pas su Lire entre les lignes Qu'on n'a pas voulu Regarder les signes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6484,
+        "anchorEnd": 6492,
+        "sourceLineNumber": 637,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6490.345,
+      "sourceText": "Regarder les signes",
+      "ipa": "[ʁəɡaʁde le sinj]",
+      "ear": "赫嘎赫德 莱 西恩耶",
+      "meaning": "留意那些征兆。",
+      "sourceLineId": "donjuan-timed-637-4",
+      "suppliedText": "Seul parce qu'on n'a pas su Lire entre les lignes Qu'on n'a pas voulu Regarder les signes",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6484,
+        "anchorEnd": 6492,
+        "sourceLineNumber": 637,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6492,
+      "sourceText": "Parce qu'on écoutait",
+      "ipa": "[paʁskɔ̃n ekutɛ]",
+      "ear": "帕赫斯孔恩 诶库泰",
+      "meaning": "因为我们在听",
+      "sourceLineId": "donjuan-timed-638-1",
+      "suppliedText": "Parce qu'on ecoutait Sans jamais le croire Quand l'amour s'en va C'est toujours trot tard",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6492,
+        "anchorEnd": 6500,
+        "sourceLineNumber": 638,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6494.323,
+      "sourceText": "Sans jamais le croire",
+      "ipa": "[sɑ̃ ʒamɛ lə kʁwaʁ]",
+      "ear": "桑 扎梅 勒 克赫乌阿赫",
+      "meaning": "从来不相信",
+      "sourceLineId": "donjuan-timed-638-2",
+      "suppliedText": "Parce qu'on ecoutait Sans jamais le croire Quand l'amour s'en va C'est toujours trot tard",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6492,
+        "anchorEnd": 6500,
+        "sourceLineNumber": 638,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6496.387,
+      "sourceText": "Quand l'amour s'en va",
+      "ipa": "[kɑ̃ lamuʁ sɑ̃ va]",
+      "ear": "康 拉穆赫 桑 瓦",
+      "meaning": "当爱消失",
+      "sourceLineId": "donjuan-timed-638-3",
+      "suppliedText": "Parce qu'on ecoutait Sans jamais le croire Quand l'amour s'en va C'est toujours trot tard",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6492,
+        "anchorEnd": 6500,
+        "sourceLineNumber": 638,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6498.194,
+      "sourceText": "C'est toujours trop tard",
+      "ipa": "[sɛ tuʒuʁ tʁo taʁ]",
+      "ear": "塞 图茹赫 特霍 塔赫",
+      "meaning": "一切总是太晚了",
+      "sourceLineId": "donjuan-timed-638-4",
+      "suppliedText": "Parce qu'on ecoutait Sans jamais le croire Quand l'amour s'en va C'est toujours trot tard",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6492,
+        "anchorEnd": 6500,
+        "sourceLineNumber": 638,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6500,
+      "sourceText": "Seul c'est une nuit",
+      "ipa": "[sœl sɛt‿yn nɥi]",
+      "ear": "瑟厄勒 塞特 于恩 恩于伊",
+      "meaning": "孤独，是一个，",
+      "sourceLineId": "donjuan-timed-639-1",
+      "suppliedText": "Seul c'est une nuit Qui n'en finit pas C'est une elle sans lui C'est un toi sans moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6500,
+        "anchorEnd": 6509.36,
+        "sourceLineNumber": 639,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6502.34,
+      "sourceText": "Qui n'en finit pas",
+      "ipa": "[ki nɑ̃ fini pa]",
+      "ear": "基 南 菲尼 帕",
+      "meaning": "永远没有尽头的夜晚。",
+      "sourceLineId": "donjuan-timed-639-2",
+      "suppliedText": "Seul c'est une nuit Qui n'en finit pas C'est une elle sans lui C'est un toi sans moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6500,
+        "anchorEnd": 6509.36,
+        "sourceLineNumber": 639,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6504.346,
+      "sourceText": "C'est une elle sans lui",
+      "ipa": "[sɛt‿yn‿ɛl sɑ̃ lɥi]",
+      "ear": "塞特 于恩 艾勒 桑 勒于伊",
+      "meaning": "是没有他的她，",
+      "sourceLineId": "donjuan-timed-639-3",
+      "suppliedText": "Seul c'est une nuit Qui n'en finit pas C'est une elle sans lui C'est un toi sans moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6500,
+        "anchorEnd": 6509.36,
+        "sourceLineNumber": 639,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6507.02,
+      "sourceText": "C'est un toi sans moi",
+      "ipa": "[sɛt‿œ̃ twa sɑ̃ mwa]",
+      "ear": "塞特 恩 特乌阿 桑 姆乌阿",
+      "meaning": "是没有我的你。",
+      "sourceLineId": "donjuan-timed-639-4",
+      "suppliedText": "Seul c'est une nuit Qui n'en finit pas C'est une elle sans lui C'est un toi sans moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6500,
+        "anchorEnd": 6509.36,
+        "sourceLineNumber": 639,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6511,
+      "sourceText": "Seul comme un condamné",
+      "ipa": "[sœl kɔm‿œ̃ kɔ̃dane]",
+      "ear": "瑟厄勒 科姆 恩 孔达内",
+      "meaning": "像一个被判死刑的人一样孤独",
+      "sourceLineId": "donjuan-timed-640-1",
+      "suppliedText": "Seul comme un condamne Devant l'echafaud Comme un innocent Devant son bourreau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6511,
+        "anchorEnd": 6518,
+        "sourceLineNumber": 640,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6513.0,
+      "sourceText": "Devant l'échafaud",
+      "ipa": "[dəvɑ̃ leʃafo]",
+      "ear": "德旺 莱沙佛",
+      "meaning": "站在断头台前。",
+      "sourceLineId": "donjuan-timed-640-2",
+      "suppliedText": "Seul comme un condamne Devant l'echafaud Comme un innocent Devant son bourreau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6511,
+        "anchorEnd": 6518,
+        "sourceLineNumber": 640,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6514.5,
+      "sourceText": "Comme un innocent",
+      "ipa": "[kɔm‿œ̃n‿inosɑ̃]",
+      "ear": "科姆 恩恩 伊诺桑",
+      "meaning": "就像一个无辜的人",
+      "sourceLineId": "donjuan-timed-640-3",
+      "suppliedText": "Seul comme un condamne Devant l'echafaud Comme un innocent Devant son bourreau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6511,
+        "anchorEnd": 6518,
+        "sourceLineNumber": 640,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6516.0,
+      "sourceText": "Devant son bourreau",
+      "ipa": "[dəvɑ̃ sɔ̃ buʁo]",
+      "ear": "德旺 松 布霍",
+      "meaning": "在他的刽子手面前",
+      "sourceLineId": "donjuan-timed-640-4",
+      "suppliedText": "Seul comme un condamne Devant l'echafaud Comme un innocent Devant son bourreau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6511,
+        "anchorEnd": 6518,
+        "sourceLineNumber": 640,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6518,
+      "sourceText": "Seul comme un enfant",
+      "ipa": "[sœl kɔm‿œ̃n‿ɑ̃fɑ̃]",
+      "ear": "瑟厄勒 科姆 恩恩 昂芳",
+      "meaning": "像个孩子一样孤独",
+      "sourceLineId": "donjuan-timed-641-1",
+      "suppliedText": "Seul comme un enfant Qui cherche son pere Seul comme le mendiant Qui s'endort a terre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6518,
+        "anchorEnd": 6526,
+        "sourceLineNumber": 641,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6519.931,
+      "sourceText": "Qui cherche son père",
+      "ipa": "[ki ʃɛʁʃ sɔ̃ pɛʁ]",
+      "ear": "基 谢赫什 松 佩赫",
+      "meaning": "找不到自己的父亲。",
+      "sourceLineId": "donjuan-timed-641-2",
+      "suppliedText": "Seul comme un enfant Qui cherche son pere Seul comme le mendiant Qui s'endort a terre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6518,
+        "anchorEnd": 6526,
+        "sourceLineNumber": 641,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6521.862,
+      "sourceText": "Seul comme le mendiant",
+      "ipa": "[sœl kɔm lə mɑ̃djɑ̃]",
+      "ear": "瑟厄勒 科姆 勒 芒德耶昂",
+      "meaning": "孤独如乞丐",
+      "sourceLineId": "donjuan-timed-641-3",
+      "suppliedText": "Seul comme un enfant Qui cherche son pere Seul comme le mendiant Qui s'endort a terre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6518,
+        "anchorEnd": 6526,
+        "sourceLineNumber": 641,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6524.069,
+      "sourceText": "Qui s'endort à terre",
+      "ipa": "[ki sɑ̃dɔʁ‿a tɛʁ]",
+      "ear": "基 桑多赫 阿 泰赫",
+      "meaning": "在地上蜷缩入睡。",
+      "sourceLineId": "donjuan-timed-641-4",
+      "suppliedText": "Seul comme un enfant Qui cherche son pere Seul comme le mendiant Qui s'endort a terre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6518,
+        "anchorEnd": 6526,
+        "sourceLineNumber": 641,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6526,
+      "sourceText": "Parce qu'on a passé",
+      "ipa": "[paʁskɔ̃n a pase]",
+      "ear": "帕赫斯孔恩 阿 帕塞",
+      "meaning": "因为自己曾度过——",
+      "sourceLineId": "donjuan-timed-642-1",
+      "suppliedText": "Parce qu'on a passe Sa vie sans la voir On se trouve seul",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6526,
+        "anchorEnd": 6531.82,
+        "sourceLineNumber": 642,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6527.94,
+      "sourceText": "Sa vie sans la voir",
+      "ipa": "[sa vi sɑ̃ la vwaʁ]",
+      "ear": "萨 维 桑 拉 弗乌阿赫",
+      "meaning": "一生，却没真正看清。",
+      "sourceLineId": "donjuan-timed-642-2",
+      "suppliedText": "Parce qu'on a passe Sa vie sans la voir On se trouve seul",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6526,
+        "anchorEnd": 6531.82,
+        "sourceLineNumber": 642,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6529.88,
+      "sourceText": "On se trouve seul",
+      "ipa": "[ɔ̃ sə tʁuv sœl]",
+      "ear": "翁 瑟 特胡弗 瑟厄勒",
+      "meaning": "我们发现自己孤身一人",
+      "sourceLineId": "donjuan-timed-642-3",
+      "suppliedText": "Parce qu'on a passe Sa vie sans la voir On se trouve seul",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6526,
+        "anchorEnd": 6531.82,
+        "sourceLineNumber": 642,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6532,
+      "sourceText": "Devant son miroir",
+      "ipa": "[dəvɑ̃ sɔ̃ miʁwaʁ]",
+      "ear": "德旺 松 米赫乌阿赫",
+      "meaning": "面对自己的镜子。",
+      "sourceLineId": "donjuan-timed-643-1",
+      "suppliedText": "Devant son miroir",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6532,
+        "anchorEnd": 6537.45,
+        "sourceLineNumber": 643,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6539,
+      "sourceText": "Seul",
+      "ipa": "[sœl]",
+      "ear": "瑟厄勒",
+      "meaning": "孤独。",
+      "sourceLineId": "donjuan-timed-644-1",
+      "suppliedText": "Seul",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6539,
+        "anchorEnd": 6544.98,
+        "sourceLineNumber": 644,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

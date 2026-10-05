@@ -1,0 +1,598 @@
+{
+  "videoId": "donjuan-07",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=864"
+    }
+  ],
+  "entries": [
+    {
+      "start": 864,
+      "sourceText": "Don Luis Tenorio,",
+      "ipa": "[dɔ̃ lɥi tenɔʁjo]",
+      "ear": "东 勒于伊 特诺赫耶奥",
+      "meaning": "唐·路易斯·特诺里奥，",
+      "sourceLineId": "donjuan-timed-70-1",
+      "suppliedText": "7. DITES-LUI Don Luis Tenorio,",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 864,
+        "anchorEnd": 871.65,
+        "sourceLineNumber": 70,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 872,
+      "sourceText": "Je vous en prie écoutez-moi",
+      "ipa": "[ʒə vuz‿ɑ̃ pʁi ekutemwa]",
+      "ear": "热 乌兹 昂 普希 诶库特姆乌阿",
+      "meaning": "请听我说",
+      "sourceLineId": "donjuan-timed-71-1",
+      "suppliedText": "Je vous en prie ecoutez-moi Je viens parler de mon bourreau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 872,
+        "anchorEnd": 879,
+        "sourceLineNumber": 71,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 875.5,
+      "sourceText": "Je viens parler de mon bourreau",
+      "ipa": "[ʒə vjɛ̃ paʁle də mɔ̃ buʁo]",
+      "ear": "热 弗耶安 帕赫莱 德 蒙 布霍",
+      "meaning": "我来诉说那个折磨我的人，",
+      "sourceLineId": "donjuan-timed-71-2",
+      "suppliedText": "Je vous en prie ecoutez-moi Je viens parler de mon bourreau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 872,
+        "anchorEnd": 879,
+        "sourceLineNumber": 71,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 879,
+      "sourceText": "De votre fils, ce scélérat",
+      "ipa": "[də votʁ fis sə seleʁa]",
+      "ear": "德 沃特赫 菲斯 瑟 塞莱哈",
+      "meaning": "您的儿子，那个恶棍。",
+      "sourceLineId": "donjuan-timed-72-1",
+      "suppliedText": "De votre fils, ce scelerat Je vous respecte vous savez",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 879,
+        "anchorEnd": 886.17,
+        "sourceLineNumber": 72,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 882.187,
+      "sourceText": "Je vous respecte vous savez",
+      "ipa": "[ʒə vu ʁɛspɛkt vu save]",
+      "ear": "热 乌 赫斯佩克特 乌 萨韦",
+      "meaning": "您知道，我一直尊敬您。",
+      "sourceLineId": "donjuan-timed-72-2",
+      "suppliedText": "De votre fils, ce scelerat Je vous respecte vous savez",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 879,
+        "anchorEnd": 886.17,
+        "sourceLineNumber": 72,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 887,
+      "sourceText": "Voyez ce qu'il a fait de moi",
+      "ipa": "[vwaje sə kil‿a fɛ də mwa]",
+      "ear": "弗乌阿耶诶 瑟 基勒 阿 费 德 姆乌阿",
+      "meaning": "看看他对我做了什么",
+      "sourceLineId": "donjuan-timed-73-1",
+      "suppliedText": "Voyez ce qu'il a fait de moi Une maitresse, une poupee",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 887,
+        "anchorEnd": 893,
+        "sourceLineNumber": 73,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 890.0,
+      "sourceText": "Une maîtresse, une poupée",
+      "ipa": "[yn mɛtʁɛs yn pupe]",
+      "ear": "于恩 梅特赫斯 于恩 普佩",
+      "meaning": "把我变成情妇，变成玩偶。",
+      "sourceLineId": "donjuan-timed-73-2",
+      "suppliedText": "Voyez ce qu'il a fait de moi Une maitresse, une poupee",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 887,
+        "anchorEnd": 893,
+        "sourceLineNumber": 73,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 893,
+      "sourceText": "Ce qu'il promet, il le tient pas",
+      "ipa": "[sə kil pʁomɛ il lə tjɛ̃ pa]",
+      "ear": "瑟 基勒 普霍梅 伊勒 勒 特耶安 帕",
+      "meaning": "他许下的承诺，从不兑现。",
+      "sourceLineId": "donjuan-timed-74-1",
+      "suppliedText": "Ce qu'il promet, il le tient pas Je vous en prie, parlez-lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 893,
+        "anchorEnd": 904.04,
+        "sourceLineNumber": 74,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 898.52,
+      "sourceText": "Je vous en prie, parlez-lui",
+      "ipa": "[ʒə vuz‿ɑ̃ pʁi paʁlelɥi]",
+      "ear": "热 乌兹 昂 普希 帕赫莱勒于伊",
+      "meaning": "请和他谈谈",
+      "sourceLineId": "donjuan-timed-74-2",
+      "suppliedText": "Ce qu'il promet, il le tient pas Je vous en prie, parlez-lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 893,
+        "anchorEnd": 904.04,
+        "sourceLineNumber": 74,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 905,
+      "sourceText": "Dites-lui qu'il y a une fille qui pleure",
+      "ipa": "[ditlɥi kil‿i a yn fij ki plœʁ]",
+      "ear": "迪特勒于伊 基勒 伊 阿 于恩 菲耶 基 普勒厄赫",
+      "meaning": "告诉他有一个女孩在哭",
+      "sourceLineId": "donjuan-timed-75-1",
+      "suppliedText": "Dites-lui qu'il y a une fille qui pleure Qui a mal et qui prie et qui meurt",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 905,
+        "anchorEnd": 912,
+        "sourceLineNumber": 75,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 908.839,
+      "sourceText": "Qui a mal et qui prie et qui meurt",
+      "ipa": "[ki a mal e ki pʁi e ki mœʁ]",
+      "ear": "基 阿 玛勒 诶 基 普希 诶 基 默厄赫",
+      "meaning": "她痛着、祈祷着，几乎活不下去。",
+      "sourceLineId": "donjuan-timed-75-2",
+      "suppliedText": "Dites-lui qu'il y a une fille qui pleure Qui a mal et qui prie et qui meurt",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 905,
+        "anchorEnd": 912,
+        "sourceLineNumber": 75,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 912,
+      "sourceText": "Dites-lui tout ce qu'il m'a promis",
+      "ipa": "[ditlɥi tu sə kil ma pʁomi]",
+      "ear": "迪特勒于伊 图 瑟 基勒 玛 普霍米",
+      "meaning": "告诉他，别忘了对我许下的承诺。",
+      "sourceLineId": "donjuan-timed-76-1",
+      "suppliedText": "Dites-lui tout ce qu'il m'a promis Lui qui m'a epousee et trahie.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 912,
+        "anchorEnd": 919.06,
+        "sourceLineNumber": 76,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 915.258,
+      "sourceText": "Lui qui m'a épousée et trahie.",
+      "ipa": "[lɥi ki ma epuze e tʁai]",
+      "ear": "勒于伊 基 玛 诶普泽 诶 特哈伊",
+      "meaning": "娶了我却背叛了我的他。",
+      "sourceLineId": "donjuan-timed-76-2",
+      "suppliedText": "Dites-lui tout ce qu'il m'a promis Lui qui m'a epousee et trahie.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 912,
+        "anchorEnd": 919.06,
+        "sourceLineNumber": 76,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 920,
+      "sourceText": "Vous connaissez bien ma famille",
+      "ipa": "[vu kɔnɛse bjɛ̃ ma famij]",
+      "ear": "乌 科奈塞 布耶安 玛 法米耶",
+      "meaning": "你很了解我的家人",
+      "sourceLineId": "donjuan-timed-77-1",
+      "suppliedText": "Vous connaissez bien ma famille Comment pourrais-je leur apprendre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 920,
+        "anchorEnd": 926.88,
+        "sourceLineNumber": 77,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 923.44,
+      "sourceText": "Comment pourrais-je leur apprendre",
+      "ipa": "[kɔmɑ̃ puʁɛʒ lœʁ‿apʁɑ̃dʁ]",
+      "ear": "科芒 普赫日 勒厄赫 阿普杭德赫",
+      "meaning": "我怎么能告诉家里人，",
+      "sourceLineId": "donjuan-timed-77-2",
+      "suppliedText": "Vous connaissez bien ma famille Comment pourrais-je leur apprendre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 920,
+        "anchorEnd": 926.88,
+        "sourceLineNumber": 77,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 927,
+      "sourceText": "Je suis la putain de Séville",
+      "ipa": "[ʒə sɥi la pytɛ̃ də sevil]",
+      "ear": "热 斯于伊 拉 普于坦 德 塞维勒",
+      "meaning": "我成了塞维利亚人眼中的妓女。",
+      "sourceLineId": "donjuan-timed-78-1",
+      "suppliedText": "Je suis la putain de Seville Essayez de lui faire comprendre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 927,
+        "anchorEnd": 934.14,
+        "sourceLineNumber": 78,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 930.273,
+      "sourceText": "Essayez de lui faire comprendre",
+      "ipa": "[esɛje də lɥi fɛʁ kɔ̃pʁɑ̃dʁ]",
+      "ear": "诶塞耶诶 德 勒于伊 费赫 孔普杭德赫",
+      "meaning": "试着让他明白",
+      "sourceLineId": "donjuan-timed-78-2",
+      "suppliedText": "Je suis la putain de Seville Essayez de lui faire comprendre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 927,
+        "anchorEnd": 934.14,
+        "sourceLineNumber": 78,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 935,
+      "sourceText": "Je vous en prie, parlez-lui",
+      "ipa": "[ʒə vuz‿ɑ̃ pʁi paʁlelɥi]",
+      "ear": "热 乌兹 昂 普希 帕赫莱勒于伊",
+      "meaning": "请和他谈谈",
+      "sourceLineId": "donjuan-timed-79-1",
+      "suppliedText": "Je vous en prie, parlez-lui",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 935,
+        "anchorEnd": 941.42,
+        "sourceLineNumber": 79,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 942,
+      "sourceText": "Dites-lui qu'il y a une fille qui pleure",
+      "ipa": "[ditlɥi kil‿i a yn fij ki plœʁ]",
+      "ear": "迪特勒于伊 基勒 伊 阿 于恩 菲耶 基 普勒厄赫",
+      "meaning": "告诉他有一个女孩在哭",
+      "sourceLineId": "donjuan-timed-80-1",
+      "suppliedText": "Dites-lui qu'il y a une fille qui pleure Qui a mal et qui prie et qui meurt",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 942,
+        "anchorEnd": 949,
+        "sourceLineNumber": 80,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 945.839,
+      "sourceText": "Qui a mal et qui prie et qui meurt",
+      "ipa": "[ki a mal e ki pʁi e ki mœʁ]",
+      "ear": "基 阿 玛勒 诶 基 普希 诶 基 默厄赫",
+      "meaning": "她痛着、祈祷着，几乎活不下去。",
+      "sourceLineId": "donjuan-timed-80-2",
+      "suppliedText": "Dites-lui qu'il y a une fille qui pleure Qui a mal et qui prie et qui meurt",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 942,
+        "anchorEnd": 949,
+        "sourceLineNumber": 80,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 949,
+      "sourceText": "Dites-lui tout ce qu'il m'a promis",
+      "ipa": "[ditlɥi tu sə kil ma pʁomi]",
+      "ear": "迪特勒于伊 图 瑟 基勒 玛 普霍米",
+      "meaning": "告诉他，别忘了对我许下的承诺。",
+      "sourceLineId": "donjuan-timed-81-1",
+      "suppliedText": "Dites-lui tout ce qu'il m'a promis Lui qui m'a epousee et trahie.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 949,
+        "anchorEnd": 955.77,
+        "sourceLineNumber": 81,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 952.125,
+      "sourceText": "Lui qui m'a épousée et trahie.",
+      "ipa": "[lɥi ki ma epuze e tʁai]",
+      "ear": "勒于伊 基 玛 诶普泽 诶 特哈伊",
+      "meaning": "娶了我却背叛了我的他。",
+      "sourceLineId": "donjuan-timed-81-2",
+      "suppliedText": "Dites-lui tout ce qu'il m'a promis Lui qui m'a epousee et trahie.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 949,
+        "anchorEnd": 955.77,
+        "sourceLineNumber": 81,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 956,
+      "sourceText": "Dites-lui, je retourne au couvent",
+      "ipa": "[ditlɥi ʒə ʁətuʁn‿o kuvɑ̃]",
+      "ear": "迪特勒于伊 热 赫图赫恩 奥 库旺",
+      "meaning": "告诉他，我要回修道院",
+      "sourceLineId": "donjuan-timed-82-1",
+      "suppliedText": "Dites-lui, je retourne au couvent Que je le maudis en l'attendant",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 956,
+        "anchorEnd": 963,
+        "sourceLineNumber": 82,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 959.92,
+      "sourceText": "Que je le maudis en l'attendant",
+      "ipa": "[kə ʒə lə modi ɑ̃ latɑ̃dɑ̃]",
+      "ear": "克 热 勒 莫迪 昂 拉唐当",
+      "meaning": "我在等他的时候诅咒他",
+      "sourceLineId": "donjuan-timed-82-2",
+      "suppliedText": "Dites-lui, je retourne au couvent Que je le maudis en l'attendant",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 956,
+        "anchorEnd": 963,
+        "sourceLineNumber": 82,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 963,
+      "sourceText": "Dites-lui, je l'aime",
+      "ipa": "[ditlɥi ʒə lɛm]",
+      "ear": "迪特勒于伊 热 莱姆",
+      "meaning": "告诉他，我爱他",
+      "sourceLineId": "donjuan-timed-83-1",
+      "suppliedText": "Dites-lui, je l'aime",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 963,
+        "anchorEnd": 969.87,
+        "sourceLineNumber": 83,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 970,
+      "sourceText": "Dites-lui qu'il y a une fille qui pleure",
+      "ipa": "[ditlɥi kil‿i a yn fij ki plœʁ]",
+      "ear": "迪特勒于伊 基勒 伊 阿 于恩 菲耶 基 普勒厄赫",
+      "meaning": "告诉他有一个女孩在哭",
+      "sourceLineId": "donjuan-timed-84-1",
+      "suppliedText": "Dites-lui qu'il y a une fille qui pleure Qui a mal et qui prie et qui meurt",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 970,
+        "anchorEnd": 977,
+        "sourceLineNumber": 84,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 973.839,
+      "sourceText": "Qui a mal et qui prie et qui meurt",
+      "ipa": "[ki a mal e ki pʁi e ki mœʁ]",
+      "ear": "基 阿 玛勒 诶 基 普希 诶 基 默厄赫",
+      "meaning": "她痛着、祈祷着，几乎活不下去。",
+      "sourceLineId": "donjuan-timed-84-2",
+      "suppliedText": "Dites-lui qu'il y a une fille qui pleure Qui a mal et qui prie et qui meurt",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 970,
+        "anchorEnd": 977,
+        "sourceLineNumber": 84,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 977,
+      "sourceText": "Dites-lui tout ce qu'il m'a promis",
+      "ipa": "[ditlɥi tu sə kil ma pʁomi]",
+      "ear": "迪特勒于伊 图 瑟 基勒 玛 普霍米",
+      "meaning": "告诉他，别忘了对我许下的承诺。",
+      "sourceLineId": "donjuan-timed-85-1",
+      "suppliedText": "Dites-lui tout ce qu'il m'a promis Lui qui m'a epousee et trahie.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 977,
+        "anchorEnd": 984,
+        "sourceLineNumber": 85,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 980.231,
+      "sourceText": "Lui qui m'a épousée et trahie.",
+      "ipa": "[lɥi ki ma epuze e tʁai]",
+      "ear": "勒于伊 基 玛 诶普泽 诶 特哈伊",
+      "meaning": "娶了我却背叛了我的他。",
+      "sourceLineId": "donjuan-timed-85-2",
+      "suppliedText": "Dites-lui tout ce qu'il m'a promis Lui qui m'a epousee et trahie.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 977,
+        "anchorEnd": 984,
+        "sourceLineNumber": 85,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 984,
+      "sourceText": "Dites-lui, je retourne au couvent",
+      "ipa": "[ditlɥi ʒə ʁətuʁn‿o kuvɑ̃]",
+      "ear": "迪特勒于伊 热 赫图赫恩 奥 库旺",
+      "meaning": "告诉他，我要回修道院",
+      "sourceLineId": "donjuan-timed-86-1",
+      "suppliedText": "Dites-lui, je retourne au couvent Que je le maudis en l'attendant",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 984,
+        "anchorEnd": 991.33,
+        "sourceLineNumber": 86,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 988.105,
+      "sourceText": "Que je le maudis en l'attendant",
+      "ipa": "[kə ʒə lə modi ɑ̃ latɑ̃dɑ̃]",
+      "ear": "克 热 勒 莫迪 昂 拉唐当",
+      "meaning": "我在等他的时候诅咒他",
+      "sourceLineId": "donjuan-timed-86-2",
+      "suppliedText": "Dites-lui, je retourne au couvent Que je le maudis en l'attendant",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 984,
+        "anchorEnd": 991.33,
+        "sourceLineNumber": 86,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 992,
+      "sourceText": "Dites-lui, je l'aime et je l'attends.",
+      "ipa": "[ditlɥi ʒə lɛm e ʒə latɑ̃]",
+      "ear": "迪特勒于伊 热 莱姆 诶 热 拉唐",
+      "meaning": "告诉他，我爱他并且我在等他。",
+      "sourceLineId": "donjuan-timed-87-1",
+      "suppliedText": "Dites-lui, je l'aime et je l'attends.",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 992,
+        "anchorEnd": 1003.9,
+        "sourceLineNumber": 87,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

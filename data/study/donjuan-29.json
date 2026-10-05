@@ -1,0 +1,1138 @@
+{
+  "videoId": "donjuan-29",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=4896"
+    }
+  ],
+  "entries": [
+    {
+      "start": 4904,
+      "sourceText": "Toi mon tendre amour",
+      "ipa": "[twa mɔ̃ tɑ̃dʁ‿amuʁ]",
+      "ear": "特乌阿 蒙 唐德赫 阿穆赫",
+      "meaning": "你，我温柔的爱人",
+      "sourceLineId": "donjuan-timed-476-1",
+      "suppliedText": "Toi mon tendre amour Ma seule lumiere Ma seule raison",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4904,
+        "anchorEnd": 4912,
+        "sourceLineNumber": 476,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4906.783,
+      "sourceText": "Ma seule lumière",
+      "ipa": "[ma sœl lymjɛʁ]",
+      "ear": "玛 瑟厄勒 吕姆耶艾赫",
+      "meaning": "我唯一的光",
+      "sourceLineId": "donjuan-timed-476-2",
+      "suppliedText": "Toi mon tendre amour Ma seule lumiere Ma seule raison",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4904,
+        "anchorEnd": 4912,
+        "sourceLineNumber": 476,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4909.565,
+      "sourceText": "Ma seule raison",
+      "ipa": "[ma sœl ʁɛzɔ̃]",
+      "ear": "玛 瑟厄勒 赫宗",
+      "meaning": "我唯一的理由",
+      "sourceLineId": "donjuan-timed-476-3",
+      "suppliedText": "Toi mon tendre amour Ma seule lumiere Ma seule raison",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4904,
+        "anchorEnd": 4912,
+        "sourceLineNumber": 476,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4912,
+      "sourceText": "De rester sur terre",
+      "ipa": "[də ʁɛste syʁ tɛʁ]",
+      "ear": "德 赫斯特 西于赫 泰赫",
+      "meaning": "继续留在人世。",
+      "sourceLineId": "donjuan-timed-477-1",
+      "suppliedText": "De rester sur terre La douce prison Ou je peux me plaire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4912,
+        "anchorEnd": 4921,
+        "sourceLineNumber": 477,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4914.571,
+      "sourceText": "La douce prison",
+      "ipa": "[la dus pʁizɔ̃]",
+      "ear": "拉 杜斯 普希宗",
+      "meaning": "甜蜜的监狱",
+      "sourceLineId": "donjuan-timed-477-2",
+      "suppliedText": "De rester sur terre La douce prison Ou je peux me plaire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4912,
+        "anchorEnd": 4921,
+        "sourceLineNumber": 477,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4917.143,
+      "sourceText": "Où je peux me plaire",
+      "ipa": "[u ʒə pø mə plɛʁ]",
+      "ear": "乌 热 珀厄 默 普莱赫",
+      "meaning": "让我心甘情愿留在其中。",
+      "sourceLineId": "donjuan-timed-477-3",
+      "suppliedText": "De rester sur terre La douce prison Ou je peux me plaire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4912,
+        "anchorEnd": 4921,
+        "sourceLineNumber": 477,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4921,
+      "sourceText": "Toi mon tendre amour",
+      "ipa": "[twa mɔ̃ tɑ̃dʁ‿amuʁ]",
+      "ear": "特乌阿 蒙 唐德赫 阿穆赫",
+      "meaning": "你，我温柔的爱人",
+      "sourceLineId": "donjuan-timed-478-1",
+      "suppliedText": "Toi mon tendre amour Mon seul univers Le temps qui court",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4921,
+        "anchorEnd": 4929,
+        "sourceLineNumber": 478,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4924.2,
+      "sourceText": "Mon seul univers",
+      "ipa": "[mɔ̃ sœl‿ynivɛʁ]",
+      "ear": "蒙 瑟厄勒 于尼韦赫",
+      "meaning": "我唯一的宇宙",
+      "sourceLineId": "donjuan-timed-478-2",
+      "suppliedText": "Toi mon tendre amour Mon seul univers Le temps qui court",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4921,
+        "anchorEnd": 4929,
+        "sourceLineNumber": 478,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4926.6,
+      "sourceText": "Le temps qui court",
+      "ipa": "[lə tɑ̃ ki kuʁ]",
+      "ear": "勒 唐 基 库赫",
+      "meaning": "流逝的时光，",
+      "sourceLineId": "donjuan-timed-478-3",
+      "suppliedText": "Toi mon tendre amour Mon seul univers Le temps qui court",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4921,
+        "anchorEnd": 4929,
+        "sourceLineNumber": 478,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4929,
+      "sourceText": "Ne peut rien défaire",
+      "ipa": "[nə pø ʁjɛ̃ defɛʁ]",
+      "ear": "讷 珀厄 赫耶安 德费赫",
+      "meaning": "都无法拆散我们。",
+      "sourceLineId": "donjuan-timed-479-1",
+      "suppliedText": "Ne peut rien defaire Je veux toujours Etre ta prisonniere",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4929,
+        "anchorEnd": 4939,
+        "sourceLineNumber": 479,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4932.75,
+      "sourceText": "Je veux toujours",
+      "ipa": "[ʒə vø tuʒuʁ]",
+      "ear": "热 弗厄 图茹赫",
+      "meaning": "我一直想要",
+      "sourceLineId": "donjuan-timed-479-2",
+      "suppliedText": "Ne peut rien defaire Je veux toujours Etre ta prisonniere",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4929,
+        "anchorEnd": 4939,
+        "sourceLineNumber": 479,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4935.667,
+      "sourceText": "Être ta prisonnière",
+      "ipa": "[ɛtʁ ta pʁizɔnjɛʁ]",
+      "ear": "艾特赫 塔 普希佐恩耶艾赫",
+      "meaning": "成为你的阶下囚",
+      "sourceLineId": "donjuan-timed-479-3",
+      "suppliedText": "Ne peut rien defaire Je veux toujours Etre ta prisonniere",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4929,
+        "anchorEnd": 4939,
+        "sourceLineNumber": 479,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4939,
+      "sourceText": "Seulement l'amour",
+      "ipa": "[sølmɑ̃ lamuʁ]",
+      "ear": "瑟厄勒芒 拉穆赫",
+      "meaning": "只有爱",
+      "sourceLineId": "donjuan-timed-480-1",
+      "suppliedText": "Seulement l'amour Pour qu'il guide nos pas Seulement l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4939,
+        "anchorEnd": 4946,
+        "sourceLineNumber": 480,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4941.13,
+      "sourceText": "Pour qu'il guide nos pas",
+      "ipa": "[puʁ kil ɡid no pa]",
+      "ear": "普赫 基勒 吉德 诺 帕",
+      "meaning": "让爱情引导我们的脚步。",
+      "sourceLineId": "donjuan-timed-480-2",
+      "suppliedText": "Seulement l'amour Pour qu'il guide nos pas Seulement l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4939,
+        "anchorEnd": 4946,
+        "sourceLineNumber": 480,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4943.87,
+      "sourceText": "Seulement l'amour",
+      "ipa": "[sølmɑ̃ lamuʁ]",
+      "ear": "瑟厄勒芒 拉穆赫",
+      "meaning": "只有爱",
+      "sourceLineId": "donjuan-timed-480-3",
+      "suppliedText": "Seulement l'amour Pour qu'il guide nos pas Seulement l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4939,
+        "anchorEnd": 4946,
+        "sourceLineNumber": 480,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4946,
+      "sourceText": "Pour le temps qu'il voudra",
+      "ipa": "[puʁ lə tɑ̃ kil vudʁa]",
+      "ear": "普赫 勒 唐 基勒 乌德哈",
+      "meaning": "让爱情决定陪我们走多久。",
+      "sourceLineId": "donjuan-timed-481-1",
+      "suppliedText": "Pour le temps qu'il voudra Je peux tout faire Si tu restes avec moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4946,
+        "anchorEnd": 4954,
+        "sourceLineNumber": 481,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4948.88,
+      "sourceText": "Je peux tout faire",
+      "ipa": "[ʒə pø tu fɛʁ]",
+      "ear": "热 珀厄 图 费赫",
+      "meaning": "我可以做任何事",
+      "sourceLineId": "donjuan-timed-481-2",
+      "suppliedText": "Pour le temps qu'il voudra Je peux tout faire Si tu restes avec moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4946,
+        "anchorEnd": 4954,
+        "sourceLineNumber": 481,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4951.44,
+      "sourceText": "Si tu restes avec moi",
+      "ipa": "[si ty ʁɛst‿avɛk mwa]",
+      "ear": "西 蒂于 赫斯特 阿韦克 姆乌阿",
+      "meaning": "如果你留在我身边",
+      "sourceLineId": "donjuan-timed-481-3",
+      "suppliedText": "Pour le temps qu'il voudra Je peux tout faire Si tu restes avec moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4946,
+        "anchorEnd": 4954,
+        "sourceLineNumber": 481,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4954,
+      "sourceText": "Même l'enfer ne me brûlera pas",
+      "ipa": "[mɛm lɑ̃fɛʁ nə mə bʁylʁa pa]",
+      "ear": "梅姆 朗费赫 讷 默 布许勒哈 帕",
+      "meaning": "连地狱也无法将我烧伤。",
+      "sourceLineId": "donjuan-timed-482-1",
+      "suppliedText": "Meme l'enfer ne me brulera pas Toi ma raison d'etre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4954,
+        "anchorEnd": 4963.97,
+        "sourceLineNumber": 482,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4959.539,
+      "sourceText": "Toi ma raison d'être",
+      "ipa": "[twa ma ʁɛzɔ̃ dɛtʁ]",
+      "ear": "特乌阿 玛 赫宗 戴特赫",
+      "meaning": "你是我愿意活着的理由，",
+      "sourceLineId": "donjuan-timed-482-2",
+      "suppliedText": "Meme l'enfer ne me brulera pas Toi ma raison d'etre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4954,
+        "anchorEnd": 4963.97,
+        "sourceLineNumber": 482,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4964,
+      "sourceText": "De tout abandonner",
+      "ipa": "[də tut‿abɑ̃dɔne]",
+      "ear": "德 图特 阿邦多内",
+      "meaning": "也是我愿意放弃一切的理由。",
+      "sourceLineId": "donjuan-timed-483-1",
+      "suppliedText": "De tout abandonner Mon envie de renautre Pour apprendre a t'aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4964,
+        "anchorEnd": 4971,
+        "sourceLineNumber": 483,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4965.96,
+      "sourceText": "Mon envie de renaître",
+      "ipa": "[mɔ̃n‿ɑ̃vi də ʁənɛtʁ]",
+      "ear": "蒙恩 昂维 德 赫奈特赫",
+      "meaning": "我渴望重生",
+      "sourceLineId": "donjuan-timed-483-2",
+      "suppliedText": "De tout abandonner Mon envie de renautre Pour apprendre a t'aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4964,
+        "anchorEnd": 4971,
+        "sourceLineNumber": 483,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4968.48,
+      "sourceText": "Pour apprendre à t'aimer",
+      "ipa": "[puʁ‿apʁɑ̃dʁ‿a tɛme]",
+      "ear": "普赫 阿普杭德赫 阿 泰梅",
+      "meaning": "只为学会爱你。",
+      "sourceLineId": "donjuan-timed-483-3",
+      "suppliedText": "De tout abandonner Mon envie de renautre Pour apprendre a t'aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4964,
+        "anchorEnd": 4971,
+        "sourceLineNumber": 483,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4971,
+      "sourceText": "Tout le temps qu'il me reste",
+      "ipa": "[tultɑ̃ kil mə ʁɛst]",
+      "ear": "图勒唐 基勒 默 赫斯特",
+      "meaning": "我剩下的所有时间，",
+      "sourceLineId": "donjuan-timed-484-1",
+      "suppliedText": "Tout le temps qu'il me reste Je veux te le donner Toi ma raison de vivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4971,
+        "anchorEnd": 4981,
+        "sourceLineNumber": 484,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4974.6,
+      "sourceText": "Je veux te le donner",
+      "ipa": "[ʒə vø tə lə dɔne]",
+      "ear": "热 弗厄 特 勒 多内",
+      "meaning": "我想给你",
+      "sourceLineId": "donjuan-timed-484-2",
+      "suppliedText": "Tout le temps qu'il me reste Je veux te le donner Toi ma raison de vivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4971,
+        "anchorEnd": 4981,
+        "sourceLineNumber": 484,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4977.4,
+      "sourceText": "Toi ma raison de vivre",
+      "ipa": "[twa ma ʁɛzɔ̃ də vivʁ]",
+      "ear": "特乌阿 玛 赫宗 德 维弗赫",
+      "meaning": "你是我活下去的理由",
+      "sourceLineId": "donjuan-timed-484-3",
+      "suppliedText": "Tout le temps qu'il me reste Je veux te le donner Toi ma raison de vivre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4971,
+        "anchorEnd": 4981,
+        "sourceLineNumber": 484,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4981,
+      "sourceText": "De tout abandonner",
+      "ipa": "[də tut‿abɑ̃dɔne]",
+      "ear": "德 图特 阿邦多内",
+      "meaning": "也是我愿意放弃一切的理由。",
+      "sourceLineId": "donjuan-timed-485-1",
+      "suppliedText": "De tout abandonner Mon envie de te suivre Pour apprendre a t'aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4981,
+        "anchorEnd": 4988,
+        "sourceLineNumber": 485,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4982.96,
+      "sourceText": "Mon envie de te suivre",
+      "ipa": "[mɔ̃n‿ɑ̃vi də tə sɥivʁ]",
+      "ear": "蒙恩 昂维 德 特 斯于伊弗赫",
+      "meaning": "我渴望跟随你",
+      "sourceLineId": "donjuan-timed-485-2",
+      "suppliedText": "De tout abandonner Mon envie de te suivre Pour apprendre a t'aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4981,
+        "anchorEnd": 4988,
+        "sourceLineNumber": 485,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4985.48,
+      "sourceText": "Pour apprendre à t'aimer",
+      "ipa": "[puʁ‿apʁɑ̃dʁ‿a tɛme]",
+      "ear": "普赫 阿普杭德赫 阿 泰梅",
+      "meaning": "只为学会爱你。",
+      "sourceLineId": "donjuan-timed-485-3",
+      "suppliedText": "De tout abandonner Mon envie de te suivre Pour apprendre a t'aimer",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4981,
+        "anchorEnd": 4988,
+        "sourceLineNumber": 485,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4988,
+      "sourceText": "Tout le temps qu'il me reste",
+      "ipa": "[tultɑ̃ kil mə ʁɛst]",
+      "ear": "图勒唐 基勒 默 赫斯特",
+      "meaning": "我剩下的所有时间，",
+      "sourceLineId": "donjuan-timed-486-1",
+      "suppliedText": "Tour le temps qu'il me reste Je veux te le donner",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4988,
+        "anchorEnd": 4995,
+        "sourceLineNumber": 486,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4991.938,
+      "sourceText": "Je veux te le donner",
+      "ipa": "[ʒə vø tə lə dɔne]",
+      "ear": "热 弗厄 特 勒 多内",
+      "meaning": "我想给你",
+      "sourceLineId": "donjuan-timed-486-2",
+      "suppliedText": "Tour le temps qu'il me reste Je veux te le donner",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4988,
+        "anchorEnd": 4995,
+        "sourceLineNumber": 486,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4995,
+      "sourceText": "Seulement l'amour",
+      "ipa": "[sølmɑ̃ lamuʁ]",
+      "ear": "瑟厄勒芒 拉穆赫",
+      "meaning": "只有爱",
+      "sourceLineId": "donjuan-timed-487-1",
+      "suppliedText": "Seulement l'amour Pour qu'il guide nos pas Seulement l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4995,
+        "anchorEnd": 5002.96,
+        "sourceLineNumber": 487,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 4997.423,
+      "sourceText": "Pour qu'il guide nos pas",
+      "ipa": "[puʁ kil ɡid no pa]",
+      "ear": "普赫 基勒 吉德 诺 帕",
+      "meaning": "让爱情引导我们的脚步。",
+      "sourceLineId": "donjuan-timed-487-2",
+      "suppliedText": "Seulement l'amour Pour qu'il guide nos pas Seulement l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4995,
+        "anchorEnd": 5002.96,
+        "sourceLineNumber": 487,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5000.537,
+      "sourceText": "Seulement l'amour",
+      "ipa": "[sølmɑ̃ lamuʁ]",
+      "ear": "瑟厄勒芒 拉穆赫",
+      "meaning": "只有爱",
+      "sourceLineId": "donjuan-timed-487-3",
+      "suppliedText": "Seulement l'amour Pour qu'il guide nos pas Seulement l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 4995,
+        "anchorEnd": 5002.96,
+        "sourceLineNumber": 487,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5003,
+      "sourceText": "Pour le temps qu'il voudra",
+      "ipa": "[puʁ lə tɑ̃ kil vudʁa]",
+      "ear": "普赫 勒 唐 基勒 乌德哈",
+      "meaning": "让爱情决定陪我们走多久。",
+      "sourceLineId": "donjuan-timed-488-1",
+      "suppliedText": "Pour le temps qu'il voudra Je peux tout faire Si tu restes avec moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5003,
+        "anchorEnd": 5010,
+        "sourceLineNumber": 488,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5005.52,
+      "sourceText": "Je peux tout faire",
+      "ipa": "[ʒə pø tu fɛʁ]",
+      "ear": "热 珀厄 图 费赫",
+      "meaning": "我可以做任何事",
+      "sourceLineId": "donjuan-timed-488-2",
+      "suppliedText": "Pour le temps qu'il voudra Je peux tout faire Si tu restes avec moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5003,
+        "anchorEnd": 5010,
+        "sourceLineNumber": 488,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5007.76,
+      "sourceText": "Si tu restes avec moi",
+      "ipa": "[si ty ʁɛst‿avɛk mwa]",
+      "ear": "西 蒂于 赫斯特 阿韦克 姆乌阿",
+      "meaning": "如果你留在我身边",
+      "sourceLineId": "donjuan-timed-488-3",
+      "suppliedText": "Pour le temps qu'il voudra Je peux tout faire Si tu restes avec moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5003,
+        "anchorEnd": 5010,
+        "sourceLineNumber": 488,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5010,
+      "sourceText": "Même l'enfer ne me brûlera pas",
+      "ipa": "[mɛm lɑ̃fɛʁ nə mə bʁylʁa pa]",
+      "ear": "梅姆 朗费赫 讷 默 布许勒哈 帕",
+      "meaning": "连地狱也无法将我烧伤。",
+      "sourceLineId": "donjuan-timed-489-1",
+      "suppliedText": "Meme l'enfer ne me brulera pas Seulement l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5010,
+        "anchorEnd": 5017,
+        "sourceLineNumber": 489,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5014.118,
+      "sourceText": "Seulement l'amour",
+      "ipa": "[sølmɑ̃ lamuʁ]",
+      "ear": "瑟厄勒芒 拉穆赫",
+      "meaning": "只有爱",
+      "sourceLineId": "donjuan-timed-489-2",
+      "suppliedText": "Meme l'enfer ne me brulera pas Seulement l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5010,
+        "anchorEnd": 5017,
+        "sourceLineNumber": 489,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5017,
+      "sourceText": "Jusqu'au bout de nos nuits",
+      "ipa": "[ʒysko bu də no nɥi]",
+      "ear": "日于斯科 布 德 诺 恩于伊",
+      "meaning": "直到我们的夜晚结束",
+      "sourceLineId": "donjuan-timed-490-1",
+      "suppliedText": "Jusqu'au bout de nos nuits Qu'il nous emmene Pour ne pas qu'on oublie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5017,
+        "anchorEnd": 5025,
+        "sourceLineNumber": 490,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5019.963,
+      "sourceText": "Qu'il nous emmène",
+      "ipa": "[kil nuz‿ɑ̃mɛn]",
+      "ear": "基勒 努兹 昂梅恩",
+      "meaning": "让爱情带着我们走。",
+      "sourceLineId": "donjuan-timed-490-2",
+      "suppliedText": "Jusqu'au bout de nos nuits Qu'il nous emmene Pour ne pas qu'on oublie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5017,
+        "anchorEnd": 5025,
+        "sourceLineNumber": 490,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5022.037,
+      "sourceText": "Pour ne pas qu'on oublie",
+      "ipa": "[puʁ nə pa kɔ̃ ubli]",
+      "ear": "普赫 讷 帕 孔 乌布利",
+      "meaning": "这样我们就不会忘记",
+      "sourceLineId": "donjuan-timed-490-3",
+      "suppliedText": "Jusqu'au bout de nos nuits Qu'il nous emmene Pour ne pas qu'on oublie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5017,
+        "anchorEnd": 5025,
+        "sourceLineNumber": 490,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5025,
+      "sourceText": "Que par amour",
+      "ipa": "[kə paʁ‿amuʁ]",
+      "ear": "克 帕赫 阿穆赫",
+      "meaning": "只为爱",
+      "sourceLineId": "donjuan-timed-491-1",
+      "suppliedText": "Que par amour On donnerait nos vies Pardon a ceux",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5025,
+        "anchorEnd": 5032,
+        "sourceLineNumber": 491,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5027.211,
+      "sourceText": "On donnerait nos vies",
+      "ipa": "[ɔ̃ dɔnʁɛ no vi]",
+      "ear": "翁 多恩赫 诺 维",
+      "meaning": "我们愿意献出我们的生命",
+      "sourceLineId": "donjuan-timed-491-2",
+      "suppliedText": "Que par amour On donnerait nos vies Pardon a ceux",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5025,
+        "anchorEnd": 5032,
+        "sourceLineNumber": 491,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5030.158,
+      "sourceText": "Pardon à ceux",
+      "ipa": "[paʁdɔ̃ a sø]",
+      "ear": "帕赫东 阿 瑟厄",
+      "meaning": "愿那些人得到宽恕，",
+      "sourceLineId": "donjuan-timed-491-3",
+      "suppliedText": "Que par amour On donnerait nos vies Pardon a ceux",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5025,
+        "anchorEnd": 5032,
+        "sourceLineNumber": 491,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5032,
+      "sourceText": "Qui n'auraient pas compris",
+      "ipa": "[ki noʁɛ pa kɔ̃pʁi]",
+      "ear": "基 诺赫 帕 孔普希",
+      "meaning": "那些未能理解我们的人。",
+      "sourceLineId": "donjuan-timed-492-1",
+      "suppliedText": "Qui n'auraient pas compris Seulement l'amour Pour qu'il guide nos pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5032,
+        "anchorEnd": 5040,
+        "sourceLineNumber": 492,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5035.077,
+      "sourceText": "Seulement l'amour",
+      "ipa": "[sølmɑ̃ lamuʁ]",
+      "ear": "瑟厄勒芒 拉穆赫",
+      "meaning": "只有爱",
+      "sourceLineId": "donjuan-timed-492-2",
+      "suppliedText": "Qui n'auraient pas compris Seulement l'amour Pour qu'il guide nos pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5032,
+        "anchorEnd": 5040,
+        "sourceLineNumber": 492,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5037.231,
+      "sourceText": "Pour qu'il guide nos pas",
+      "ipa": "[puʁ kil ɡid no pa]",
+      "ear": "普赫 基勒 吉德 诺 帕",
+      "meaning": "让爱情引导我们的脚步。",
+      "sourceLineId": "donjuan-timed-492-3",
+      "suppliedText": "Qui n'auraient pas compris Seulement l'amour Pour qu'il guide nos pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5032,
+        "anchorEnd": 5040,
+        "sourceLineNumber": 492,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5040,
+      "sourceText": "Seulement l'amour",
+      "ipa": "[sølmɑ̃ lamuʁ]",
+      "ear": "瑟厄勒芒 拉穆赫",
+      "meaning": "只有爱",
+      "sourceLineId": "donjuan-timed-493-1",
+      "suppliedText": "Seulement l'amour Pour le temps qu'il voudra Je peux tout faire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5040,
+        "anchorEnd": 5047,
+        "sourceLineNumber": 493,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5042.042,
+      "sourceText": "Pour le temps qu'il voudra",
+      "ipa": "[puʁ lə tɑ̃ kil vudʁa]",
+      "ear": "普赫 勒 唐 基勒 乌德哈",
+      "meaning": "让爱情决定陪我们走多久。",
+      "sourceLineId": "donjuan-timed-493-2",
+      "suppliedText": "Seulement l'amour Pour le temps qu'il voudra Je peux tout faire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5040,
+        "anchorEnd": 5047,
+        "sourceLineNumber": 493,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5044.667,
+      "sourceText": "Je peux tout faire",
+      "ipa": "[ʒə pø tu fɛʁ]",
+      "ear": "热 珀厄 图 费赫",
+      "meaning": "我可以做任何事",
+      "sourceLineId": "donjuan-timed-493-3",
+      "suppliedText": "Seulement l'amour Pour le temps qu'il voudra Je peux tout faire",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5040,
+        "anchorEnd": 5047,
+        "sourceLineNumber": 493,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5047,
+      "sourceText": "Si tu restes avec moi",
+      "ipa": "[si ty ʁɛst‿avɛk mwa]",
+      "ear": "西 蒂于 赫斯特 阿韦克 姆乌阿",
+      "meaning": "如果你留在我身边",
+      "sourceLineId": "donjuan-timed-494-1",
+      "suppliedText": "Si tu restes avec moi Meme l'enfer ne me brulera pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5047,
+        "anchorEnd": 5054,
+        "sourceLineNumber": 494,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5050.111,
+      "sourceText": "Même l'enfer ne me brûlera pas",
+      "ipa": "[mɛm lɑ̃fɛʁ nə mə bʁylʁa pa]",
+      "ear": "梅姆 朗费赫 讷 默 布许勒哈 帕",
+      "meaning": "连地狱也无法将我烧伤。",
+      "sourceLineId": "donjuan-timed-494-2",
+      "suppliedText": "Si tu restes avec moi Meme l'enfer ne me brulera pas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5047,
+        "anchorEnd": 5054,
+        "sourceLineNumber": 494,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5054,
+      "sourceText": "Seulement l'amour",
+      "ipa": "[sølmɑ̃ lamuʁ]",
+      "ear": "瑟厄勒芒 拉穆赫",
+      "meaning": "只有爱",
+      "sourceLineId": "donjuan-timed-495-1",
+      "suppliedText": "Seulement l'amour Jusqu'au bout de nos nuits Qu'il nous emmene",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5054,
+        "anchorEnd": 5061,
+        "sourceLineNumber": 495,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5056.042,
+      "sourceText": "Jusqu'au bout de nos nuits",
+      "ipa": "[ʒysko bu də no nɥi]",
+      "ear": "日于斯科 布 德 诺 恩于伊",
+      "meaning": "直到我们的夜晚结束",
+      "sourceLineId": "donjuan-timed-495-2",
+      "suppliedText": "Seulement l'amour Jusqu'au bout de nos nuits Qu'il nous emmene",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5054,
+        "anchorEnd": 5061,
+        "sourceLineNumber": 495,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5058.958,
+      "sourceText": "Qu'il nous emmène",
+      "ipa": "[kil nuz‿ɑ̃mɛn]",
+      "ear": "基勒 努兹 昂梅恩",
+      "meaning": "让爱情带着我们走。",
+      "sourceLineId": "donjuan-timed-495-3",
+      "suppliedText": "Seulement l'amour Jusqu'au bout de nos nuits Qu'il nous emmene",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5054,
+        "anchorEnd": 5061,
+        "sourceLineNumber": 495,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5061,
+      "sourceText": "Pour ne pas qu'on oublie",
+      "ipa": "[puʁ nə pa kɔ̃ ubli]",
+      "ear": "普赫 讷 帕 孔 乌布利",
+      "meaning": "这样我们就不会忘记",
+      "sourceLineId": "donjuan-timed-496-1",
+      "suppliedText": "Pour ne pas qu'on oublie Que par amour On donnerait nos vies",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5061,
+        "anchorEnd": 5069,
+        "sourceLineNumber": 496,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5064.333,
+      "sourceText": "Que par amour",
+      "ipa": "[kə paʁ‿amuʁ]",
+      "ear": "克 帕赫 阿穆赫",
+      "meaning": "只为爱",
+      "sourceLineId": "donjuan-timed-496-2",
+      "suppliedText": "Pour ne pas qu'on oublie Que par amour On donnerait nos vies",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5061,
+        "anchorEnd": 5069,
+        "sourceLineNumber": 496,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5066.333,
+      "sourceText": "On donnerait nos vies",
+      "ipa": "[ɔ̃ dɔnʁɛ no vi]",
+      "ear": "翁 多恩赫 诺 维",
+      "meaning": "我们愿意献出我们的生命",
+      "sourceLineId": "donjuan-timed-496-3",
+      "suppliedText": "Pour ne pas qu'on oublie Que par amour On donnerait nos vies",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5061,
+        "anchorEnd": 5069,
+        "sourceLineNumber": 496,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5069,
+      "sourceText": "Pardon à ceux",
+      "ipa": "[paʁdɔ̃ a sø]",
+      "ear": "帕赫东 阿 瑟厄",
+      "meaning": "愿那些人得到宽恕，",
+      "sourceLineId": "donjuan-timed-497-1",
+      "suppliedText": "Pardon a ceux Qui n'auraient pas compris",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5069,
+        "anchorEnd": 5076.62,
+        "sourceLineNumber": 497,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5071.54,
+      "sourceText": "Qui n'auraient pas compris",
+      "ipa": "[ki noʁɛ pa kɔ̃pʁi]",
+      "ear": "基 诺赫 帕 孔普希",
+      "meaning": "那些未能理解我们的人。",
+      "sourceLineId": "donjuan-timed-497-2",
+      "suppliedText": "Pardon a ceux Qui n'auraient pas compris",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5069,
+        "anchorEnd": 5076.62,
+        "sourceLineNumber": 497,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5077,
+      "sourceText": "Seulement l'amour",
+      "ipa": "[sølmɑ̃ lamuʁ]",
+      "ear": "瑟厄勒芒 拉穆赫",
+      "meaning": "只有爱",
+      "sourceLineId": "donjuan-timed-498-1",
+      "suppliedText": "Seulement l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5077,
+        "anchorEnd": 5081.49,
+        "sourceLineNumber": 498,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

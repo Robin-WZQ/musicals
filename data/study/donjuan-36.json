@@ -1,0 +1,328 @@
+{
+  "videoId": "donjuan-36",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=6156"
+    }
+  ],
+  "entries": [
+    {
+      "start": 6156,
+      "sourceText": "Mais quel serpent l'a mordu",
+      "ipa": "[mɛ kɛl sɛʁpɑ̃ la mɔʁdy]",
+      "ear": "梅 凯勒 塞赫庞 拉 莫赫迪于",
+      "meaning": "但是什么蛇咬了他",
+      "sourceLineId": "donjuan-timed-602-1",
+      "suppliedText": "13. L'ENFANT DU DIABLE Mais quel serpent l'a mordu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6156,
+        "anchorEnd": 6166.63,
+        "sourceLineNumber": 602,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6167,
+      "sourceText": "Pourquoi ce venin dans ses veines",
+      "ipa": "[puʁkwa sə vənɛ̃ dɑ̃ se vɛn]",
+      "ear": "普赫克乌阿 瑟 弗南 当 塞 韦恩",
+      "meaning": "为什么他的血管里有这种毒液",
+      "sourceLineId": "donjuan-timed-603-1",
+      "suppliedText": "Pourquoi ce venin dans ses veines Est-ce un jour Dieu qui l'a voulu Qu'il n'y ait dans son coeur que la haine",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6167,
+        "anchorEnd": 6177.3,
+        "sourceLineNumber": 603,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6170.188,
+      "sourceText": "Est-ce un jour Dieu qui l'a voulu",
+      "ipa": "[ɛs‿œ̃ ʒuʁ djø ki la vuly]",
+      "ear": "艾斯 恩 茹赫 德耶厄 基 拉 乌吕",
+      "meaning": "难道是上帝早已决定，",
+      "sourceLineId": "donjuan-timed-603-2",
+      "suppliedText": "Pourquoi ce venin dans ses veines Est-ce un jour Dieu qui l'a voulu Qu'il n'y ait dans son coeur que la haine",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6167,
+        "anchorEnd": 6177.3,
+        "sourceLineNumber": 603,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6173.621,
+      "sourceText": "Qu'il n'y ait dans son cœur que la haine",
+      "ipa": "[kil ni ɛ dɑ̃ sɔ̃ kœʁ kə la ɛn]",
+      "ear": "基勒 尼 艾 当 松 克厄赫 克 拉 艾恩",
+      "meaning": "让他心里只剩仇恨？",
+      "sourceLineId": "donjuan-timed-603-3",
+      "suppliedText": "Pourquoi ce venin dans ses veines Est-ce un jour Dieu qui l'a voulu Qu'il n'y ait dans son coeur que la haine",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6167,
+        "anchorEnd": 6177.3,
+        "sourceLineNumber": 603,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6178,
+      "sourceText": "Est-ce au moins qu'il se rend compte",
+      "ipa": "[ɛs‿o mwɛ̃ kil sə ʁɑ̃ kɔ̃t]",
+      "ear": "艾斯 奥 姆乌安 基勒 瑟 杭 孔特",
+      "meaning": "他至少意识到",
+      "sourceLineId": "donjuan-timed-604-1",
+      "suppliedText": "Est-ce au moins qu'il se rend compte De toutes les vies qu'il a gachees",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6178,
+        "anchorEnd": 6184.35,
+        "sourceLineNumber": 604,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6181.048,
+      "sourceText": "De toutes les vies qu'il a gâchées",
+      "ipa": "[də tut le vi kil‿a ɡaʃe]",
+      "ear": "德 图特 莱 维 基勒 阿 嘎谢",
+      "meaning": "他毁掉了多少人的人生。",
+      "sourceLineId": "donjuan-timed-604-2",
+      "suppliedText": "Est-ce au moins qu'il se rend compte De toutes les vies qu'il a gachees",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6178,
+        "anchorEnd": 6184.35,
+        "sourceLineNumber": 604,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6185,
+      "sourceText": "Être sa femme me fait honte",
+      "ipa": "[ɛtʁ sa fam mə fɛ ɔ̃t]",
+      "ear": "艾特赫 萨 法姆 默 费 翁特",
+      "meaning": "做他的妻子让我感到羞耻",
+      "sourceLineId": "donjuan-timed-605-1",
+      "suppliedText": "Etre sa femme me fait honte J'ai honte de toujours j'aimer Peut-etre est-il l'enfant du diable",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6185,
+        "anchorEnd": 6194.42,
+        "sourceLineNumber": 605,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6187.771,
+      "sourceText": "J'ai honte de toujours l'aimer",
+      "ipa": "[ʒe ɔ̃t də tuʒuʁ lɛme]",
+      "ear": "热 翁特 德 图茹赫 莱梅",
+      "meaning": "我为自己仍然爱着他而羞愧。",
+      "sourceLineId": "donjuan-timed-605-2",
+      "suppliedText": "Etre sa femme me fait honte J'ai honte de toujours j'aimer Peut-etre est-il l'enfant du diable",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6185,
+        "anchorEnd": 6194.42,
+        "sourceLineNumber": 605,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6191.095,
+      "sourceText": "Peut-être est-il l'enfant du diable",
+      "ipa": "[pøtɛtʁ‿ɛtil lɑ̃fɑ̃ dy djabl]",
+      "ear": "珀厄泰特赫 艾蒂勒 朗芳 迪于 德耶阿布勒",
+      "meaning": "也许他是恶魔之子",
+      "sourceLineId": "donjuan-timed-605-3",
+      "suppliedText": "Etre sa femme me fait honte J'ai honte de toujours j'aimer Peut-etre est-il l'enfant du diable",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6185,
+        "anchorEnd": 6194.42,
+        "sourceLineNumber": 605,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6195,
+      "sourceText": "Puisqu'il n'a conçu que le mal",
+      "ipa": "[pɥiskil na kɔ̃sy kə lə mal]",
+      "ear": "普于伊斯基勒 纳 孔西于 克 勒 玛勒",
+      "meaning": "因为他只懂得制造伤害。",
+      "sourceLineId": "donjuan-timed-606-1",
+      "suppliedText": "Puisqu'il n'a concu que le mal Puisqu'il a rendu miserables",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6195,
+        "anchorEnd": 6201.48,
+        "sourceLineNumber": 606,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6198.24,
+      "sourceText": "Puisqu'il a rendu misérables",
+      "ipa": "[pɥiskil‿a ʁɑ̃dy mizeʁabl]",
+      "ear": "普于伊斯基勒 阿 杭迪于 米泽哈布勒",
+      "meaning": "既然他让人们痛苦不堪",
+      "sourceLineId": "donjuan-timed-606-2",
+      "suppliedText": "Puisqu'il n'a concu que le mal Puisqu'il a rendu miserables",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6195,
+        "anchorEnd": 6201.48,
+        "sourceLineNumber": 606,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6202,
+      "sourceText": "Les dernières lois de la morale",
+      "ipa": "[le dɛʁnjɛʁ lwa də la moʁal]",
+      "ear": "莱 戴赫恩耶艾赫 勒乌阿 德 拉 莫哈勒",
+      "meaning": "连最后的道德准则也被他糟蹋。",
+      "sourceLineId": "donjuan-timed-607-1",
+      "suppliedText": "Les dernieres lois de la morale Peut-etre est-il l'enfant du diable",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6202,
+        "anchorEnd": 6208,
+        "sourceLineNumber": 607,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6205.0,
+      "sourceText": "Peut-être est-il l'enfant du diable",
+      "ipa": "[pøtɛtʁ‿ɛtil lɑ̃fɑ̃ dy djabl]",
+      "ear": "珀厄泰特赫 艾蒂勒 朗芳 迪于 德耶阿布勒",
+      "meaning": "也许他是恶魔之子",
+      "sourceLineId": "donjuan-timed-607-2",
+      "suppliedText": "Les dernieres lois de la morale Peut-etre est-il l'enfant du diable",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6202,
+        "anchorEnd": 6208,
+        "sourceLineNumber": 607,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6208,
+      "sourceText": "Lui qui pourra donner la mort",
+      "ipa": "[lɥi ki puʁa dɔne la mɔʁ]",
+      "ear": "勒于伊 基 普哈 多内 拉 莫赫",
+      "meaning": "能带来死亡的人",
+      "sourceLineId": "donjuan-timed-608-1",
+      "suppliedText": "Lui qui pourra donner la mort Lui qui a rendu miserables",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6208,
+        "anchorEnd": 6215,
+        "sourceLineNumber": 608,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6211.5,
+      "sourceText": "Lui qui a rendu misérables",
+      "ipa": "[lɥi ki a ʁɑ̃dy mizeʁabl]",
+      "ear": "勒于伊 基 阿 杭迪于 米泽哈布勒",
+      "meaning": "让人们痛苦的他",
+      "sourceLineId": "donjuan-timed-608-2",
+      "suppliedText": "Lui qui pourra donner la mort Lui qui a rendu miserables",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6208,
+        "anchorEnd": 6215,
+        "sourceLineNumber": 608,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6215,
+      "sourceText": "Tous ceux qui l'ont aimé trop fort",
+      "ipa": "[tus sø ki lɔ̃ ɛme tʁo fɔʁ]",
+      "ear": "图斯 瑟厄 基 隆 艾梅 特霍 佛赫",
+      "meaning": "所有那些太爱他的人",
+      "sourceLineId": "donjuan-timed-609-1",
+      "suppliedText": "Tous ceux qui l'ont aime trop fort L'enfant du diable",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6215,
+        "anchorEnd": 6227.33,
+        "sourceLineNumber": 609,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6223.22,
+      "sourceText": "L'enfant du diable",
+      "ipa": "[lɑ̃fɑ̃ dy djabl]",
+      "ear": "朗芳 迪于 德耶阿布勒",
+      "meaning": "恶魔之子",
+      "sourceLineId": "donjuan-timed-609-2",
+      "suppliedText": "Tous ceux qui l'ont aime trop fort L'enfant du diable",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6215,
+        "anchorEnd": 6227.33,
+        "sourceLineNumber": 609,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

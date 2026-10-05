@@ -1,0 +1,868 @@
+{
+  "videoId": "donjuan-15",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=2110"
+    }
+  ],
+  "entries": [
+    {
+      "start": 2110,
+      "sourceText": "N'as-tu pas honte",
+      "ipa": "[naty pa ɔ̃t]",
+      "ear": "纳蒂于 帕 翁特",
+      "meaning": "你不觉得羞耻吗",
+      "sourceLineId": "donjuan-timed-192-1",
+      "suppliedText": "N'as-tu pas honte De caresser ces femmes nues N'as-tu pas honte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2110,
+        "anchorEnd": 2117,
+        "sourceLineNumber": 192,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2111.842,
+      "sourceText": "De caresser ces femmes nues",
+      "ipa": "[də kaʁɛse se fam ny]",
+      "ear": "德 卡赫塞 塞 法姆 尼于",
+      "meaning": "爱抚这些裸体女人",
+      "sourceLineId": "donjuan-timed-192-2",
+      "suppliedText": "N'as-tu pas honte De caresser ces femmes nues N'as-tu pas honte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2110,
+        "anchorEnd": 2117,
+        "sourceLineNumber": 192,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2115.158,
+      "sourceText": "N'as-tu pas honte",
+      "ipa": "[naty pa ɔ̃t]",
+      "ear": "纳蒂于 帕 翁特",
+      "meaning": "你不觉得羞耻吗",
+      "sourceLineId": "donjuan-timed-192-3",
+      "suppliedText": "N'as-tu pas honte De caresser ces femmes nues N'as-tu pas honte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2110,
+        "anchorEnd": 2117,
+        "sourceLineNumber": 192,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2117,
+      "sourceText": "C'est ça en elles qui t'a plu",
+      "ipa": "[sɛ sa ɑ̃n‿ɛl ki ta ply]",
+      "ear": "塞 萨 昂恩 艾勒 基 塔 普吕",
+      "meaning": "原来你喜欢她们的，就是这些。",
+      "sourceLineId": "donjuan-timed-193-1",
+      "suppliedText": "C'est ca en elles qui t'a plu Je pouvais faire pire si tu l'avais voulu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2117,
+        "anchorEnd": 2124,
+        "sourceLineNumber": 193,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2119.333,
+      "sourceText": "Je pouvais faire pire si tu l'avais voulu",
+      "ipa": "[ʒə puvɛ fɛʁ piʁ si ty lavɛ vuly]",
+      "ear": "热 普韦 费赫 皮赫 西 蒂于 拉韦 乌吕",
+      "meaning": "如果你愿意的话我可以做得更糟",
+      "sourceLineId": "donjuan-timed-193-2",
+      "suppliedText": "C'est ca en elles qui t'a plu Je pouvais faire pire si tu l'avais voulu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2117,
+        "anchorEnd": 2124,
+        "sourceLineNumber": 193,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2124,
+      "sourceText": "N'as-tu pas honte",
+      "ipa": "[naty pa ɔ̃t]",
+      "ear": "纳蒂于 帕 翁特",
+      "meaning": "你不觉得羞耻吗",
+      "sourceLineId": "donjuan-timed-194-1",
+      "suppliedText": "N'as-tu pas honte De m'avoir vole la vertu N'as-tu pas honte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2124,
+        "anchorEnd": 2131.68,
+        "sourceLineNumber": 194,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2126.021,
+      "sourceText": "De m'avoir volé la vertu",
+      "ipa": "[də mavwaʁ vole la vɛʁty]",
+      "ear": "德 玛弗乌阿赫 沃莱 拉 韦赫蒂于",
+      "meaning": "夺走我的贞洁。",
+      "sourceLineId": "donjuan-timed-194-2",
+      "suppliedText": "N'as-tu pas honte De m'avoir vole la vertu N'as-tu pas honte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2124,
+        "anchorEnd": 2131.68,
+        "sourceLineNumber": 194,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2129.659,
+      "sourceText": "N'as-tu pas honte",
+      "ipa": "[naty pa ɔ̃t]",
+      "ear": "纳蒂于 帕 翁特",
+      "meaning": "你不觉得羞耻吗",
+      "sourceLineId": "donjuan-timed-194-3",
+      "suppliedText": "N'as-tu pas honte De m'avoir vole la vertu N'as-tu pas honte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2124,
+        "anchorEnd": 2131.68,
+        "sourceLineNumber": 194,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2132,
+      "sourceText": "Et si tu crois m'avoir connue",
+      "ipa": "[e si ty kʁwa mavwaʁ kɔny]",
+      "ear": "诶 西 蒂于 克赫乌阿 玛弗乌阿赫 科尼于",
+      "meaning": "如果你认为你认识我",
+      "sourceLineId": "donjuan-timed-195-1",
+      "suppliedText": "Et si tu crois m'avoir connue T n'as pas vu le pir, moi je peux faire plus Je peux me choucher",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2132,
+        "anchorEnd": 2141,
+        "sourceLineNumber": 195,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2134.912,
+      "sourceText": "Tu n'as pas vu le pire, moi je peux faire plus",
+      "ipa": "[ty na pa vy lə piʁ mwa ʒə pø fɛʁ ply]",
+      "ear": "蒂于 纳 帕 维于 勒 皮赫 姆乌阿 热 珀厄 费赫 普吕",
+      "meaning": "你还没见过最坏的，我还能做更多",
+      "sourceLineId": "donjuan-timed-195-2",
+      "suppliedText": "Et si tu crois m'avoir connue T n'as pas vu le pir, moi je peux faire plus Je peux me choucher",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2132,
+        "anchorEnd": 2141,
+        "sourceLineNumber": 195,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2139.147,
+      "sourceText": "Je peux me coucher",
+      "ipa": "[ʒə pø mə kuʃe]",
+      "ear": "热 珀厄 默 库谢",
+      "meaning": "我也可以与人上床，",
+      "sourceLineId": "donjuan-timed-195-3",
+      "suppliedText": "Et si tu crois m'avoir connue T n'as pas vu le pir, moi je peux faire plus Je peux me choucher",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2132,
+        "anchorEnd": 2141,
+        "sourceLineNumber": 195,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2141,
+      "sourceText": "Me déshabiller me laisser aller",
+      "ipa": "[mə dezabije mə lɛse ale]",
+      "ear": "默 德扎比耶诶 默 莱塞 阿莱",
+      "meaning": "脱掉衣服，放任自己。",
+      "sourceLineId": "donjuan-timed-196-1",
+      "suppliedText": "Me deshabiller me laisser aller Je peux les toucher Et les embrasser et les caresser",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2141,
+        "anchorEnd": 2148.75,
+        "sourceLineNumber": 196,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2144.045,
+      "sourceText": "Je peux les toucher",
+      "ipa": "[ʒə pø le tuʃe]",
+      "ear": "热 珀厄 莱 图谢",
+      "meaning": "我也可以触碰他们，",
+      "sourceLineId": "donjuan-timed-196-2",
+      "suppliedText": "Me deshabiller me laisser aller Je peux les toucher Et les embrasser et les caresser",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2141,
+        "anchorEnd": 2148.75,
+        "sourceLineNumber": 196,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2145.982,
+      "sourceText": "Et les embrasser et les caresser",
+      "ipa": "[e lez‿ɑ̃bʁase e le kaʁɛse]",
+      "ear": "诶 莱兹 昂布哈塞 诶 莱 卡赫塞",
+      "meaning": "亲吻他们，爱抚他们。",
+      "sourceLineId": "donjuan-timed-196-3",
+      "suppliedText": "Me deshabiller me laisser aller Je peux les toucher Et les embrasser et les caresser",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2141,
+        "anchorEnd": 2148.75,
+        "sourceLineNumber": 196,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2149,
+      "sourceText": "Je peux te montrer que je suis",
+      "ipa": "[ʒə pø tə mɔ̃tʁe kə ʒə sɥi]",
+      "ear": "热 珀厄 特 蒙特赫 克 热 斯于伊",
+      "meaning": "我可以让你看见，我——",
+      "sourceLineId": "donjuan-timed-197-1",
+      "suppliedText": "Je peux te montrer que je suis Une femme aussi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2149,
+        "anchorEnd": 2157.31,
+        "sourceLineNumber": 197,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2154.078,
+      "sourceText": "Une femme aussi",
+      "ipa": "[yn fam‿osi]",
+      "ear": "于恩 法姆 奥西",
+      "meaning": "同样是一个女人。",
+      "sourceLineId": "donjuan-timed-197-2",
+      "suppliedText": "Je peux te montrer que je suis Une femme aussi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2149,
+        "anchorEnd": 2157.31,
+        "sourceLineNumber": 197,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2159,
+      "sourceText": "N'as-tu pas honte",
+      "ipa": "[naty pa ɔ̃t]",
+      "ear": "纳蒂于 帕 翁特",
+      "meaning": "你不觉得羞耻吗",
+      "sourceLineId": "donjuan-timed-198-1",
+      "suppliedText": "N'as-tu pas honte De te saouler comme les marins N'as-tu pas honte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2159,
+        "anchorEnd": 2165.99,
+        "sourceLineNumber": 198,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2160.664,
+      "sourceText": "De te saouler comme les marins",
+      "ipa": "[də tə sule kɔm le maʁɛ̃]",
+      "ear": "德 特 苏莱 科姆 莱 玛汉",
+      "meaning": "像水手一样喝醉",
+      "sourceLineId": "donjuan-timed-198-2",
+      "suppliedText": "N'as-tu pas honte De te saouler comme les marins N'as-tu pas honte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2159,
+        "anchorEnd": 2165.99,
+        "sourceLineNumber": 198,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2164.326,
+      "sourceText": "N'as-tu pas honte",
+      "ipa": "[naty pa ɔ̃t]",
+      "ear": "纳蒂于 帕 翁特",
+      "meaning": "你不觉得羞耻吗",
+      "sourceLineId": "donjuan-timed-198-3",
+      "suppliedText": "N'as-tu pas honte De te saouler comme les marins N'as-tu pas honte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2159,
+        "anchorEnd": 2165.99,
+        "sourceLineNumber": 198,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2166,
+      "sourceText": "Quand ils reviennent de trop loin",
+      "ipa": "[kɑ̃t‿il ʁəvjɛn də tʁo lwɛ̃]",
+      "ear": "康特 伊勒 赫弗耶艾恩 德 特霍 勒乌安",
+      "meaning": "从遥远的地方归来时，",
+      "sourceLineId": "donjuan-timed-199-1",
+      "suppliedText": "Quand ils revienent de trop loin Quand ils cherchent le pire Des filles de la tue",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2166,
+        "anchorEnd": 2173.35,
+        "sourceLineNumber": 199,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2169.11,
+      "sourceText": "Quand ils cherchent le pire",
+      "ipa": "[kɑ̃t‿il ʃɛʁʃ lə piʁ]",
+      "ear": "康特 伊勒 谢赫什 勒 皮赫",
+      "meaning": "一心寻找最放纵的——",
+      "sourceLineId": "donjuan-timed-199-2",
+      "suppliedText": "Quand ils revienent de trop loin Quand ils cherchent le pire Des filles de la tue",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2166,
+        "anchorEnd": 2173.35,
+        "sourceLineNumber": 199,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2171.371,
+      "sourceText": "Des filles de la rue",
+      "ipa": "[de fij də la ʁy]",
+      "ear": "德 菲耶 德 拉 许",
+      "meaning": "街头女人。",
+      "sourceLineId": "donjuan-timed-199-3",
+      "suppliedText": "Quand ils revienent de trop loin Quand ils cherchent le pire Des filles de la tue",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2166,
+        "anchorEnd": 2173.35,
+        "sourceLineNumber": 199,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2174,
+      "sourceText": "N'as-tu pas honte",
+      "ipa": "[naty pa ɔ̃t]",
+      "ear": "纳蒂于 帕 翁特",
+      "meaning": "你不觉得羞耻吗",
+      "sourceLineId": "donjuan-timed-200-1",
+      "suppliedText": "N'as-tu pas honte De me voir au milieu des hommes N'as-tu pas honte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2174,
+        "anchorEnd": 2181,
+        "sourceLineNumber": 200,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2175.522,
+      "sourceText": "De me voir au milieu des hommes",
+      "ipa": "[də mə vwaʁ‿o miljø dez‿ɔm]",
+      "ear": "德 默 弗乌阿赫 奥 米勒耶厄 德兹 哦姆",
+      "meaning": "看见我置身男人之间，",
+      "sourceLineId": "donjuan-timed-200-2",
+      "suppliedText": "N'as-tu pas honte De me voir au milieu des hommes N'as-tu pas honte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2174,
+        "anchorEnd": 2181,
+        "sourceLineNumber": 200,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2179.478,
+      "sourceText": "N'as-tu pas honte",
+      "ipa": "[naty pa ɔ̃t]",
+      "ear": "纳蒂于 帕 翁特",
+      "meaning": "你不觉得羞耻吗",
+      "sourceLineId": "donjuan-timed-200-3",
+      "suppliedText": "N'as-tu pas honte De me voir au milieu des hommes N'as-tu pas honte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2174,
+        "anchorEnd": 2181,
+        "sourceLineNumber": 200,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2181,
+      "sourceText": "Moi qui chérissais la Madone",
+      "ipa": "[mwa ki ʃeʁisɛ la madɔn]",
+      "ear": "姆乌阿 基 谢希塞 拉 玛多恩",
+      "meaning": "我曾如此虔诚地敬爱圣母。",
+      "sourceLineId": "donjuan-timed-201-1",
+      "suppliedText": "Moi qui cherissais la Madone Toi qui connais le pire Tu n'as encore rien vu Je peux me choucher",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2181,
+        "anchorEnd": 2190,
+        "sourceLineNumber": 201,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2183.919,
+      "sourceText": "Toi qui connais le pire",
+      "ipa": "[twa ki kɔnɛ lə piʁ]",
+      "ear": "特乌阿 基 科奈 勒 皮赫",
+      "meaning": "你原以为自己见惯了放纵，",
+      "sourceLineId": "donjuan-timed-201-2",
+      "suppliedText": "Moi qui cherissais la Madone Toi qui connais le pire Tu n'as encore rien vu Je peux me choucher",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2181,
+        "anchorEnd": 2190,
+        "sourceLineNumber": 201,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2186.351,
+      "sourceText": "Tu n'as encore rien vu",
+      "ipa": "[ty na ɑ̃kɔʁ ʁiɛ̃ vy]",
+      "ear": "蒂于 纳 昂科赫 希安 维于",
+      "meaning": "可你还什么都没见识过。",
+      "sourceLineId": "donjuan-timed-201-3",
+      "suppliedText": "Moi qui cherissais la Madone Toi qui connais le pire Tu n'as encore rien vu Je peux me choucher",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2181,
+        "anchorEnd": 2190,
+        "sourceLineNumber": 201,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2188.297,
+      "sourceText": "Je peux me coucher",
+      "ipa": "[ʒə pø mə kuʃe]",
+      "ear": "热 珀厄 默 库谢",
+      "meaning": "我也可以与人上床，",
+      "sourceLineId": "donjuan-timed-201-4",
+      "suppliedText": "Moi qui cherissais la Madone Toi qui connais le pire Tu n'as encore rien vu Je peux me choucher",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2181,
+        "anchorEnd": 2190,
+        "sourceLineNumber": 201,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2190,
+      "sourceText": "Me déshabiller me laisser aller",
+      "ipa": "[mə dezabije mə lɛse ale]",
+      "ear": "默 德扎比耶诶 默 莱塞 阿莱",
+      "meaning": "脱掉衣服，放任自己。",
+      "sourceLineId": "donjuan-timed-202-1",
+      "suppliedText": "Me deshabiller me laisser aller Je peux les toucher Et les embrasser et les caresser",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2190,
+        "anchorEnd": 2197.77,
+        "sourceLineNumber": 202,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2193.052,
+      "sourceText": "Je peux les toucher",
+      "ipa": "[ʒə pø le tuʃe]",
+      "ear": "热 珀厄 莱 图谢",
+      "meaning": "我也可以触碰他们，",
+      "sourceLineId": "donjuan-timed-202-2",
+      "suppliedText": "Me deshabiller me laisser aller Je peux les toucher Et les embrasser et les caresser",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2190,
+        "anchorEnd": 2197.77,
+        "sourceLineNumber": 202,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2194.995,
+      "sourceText": "Et les embrasser et les caresser",
+      "ipa": "[e lez‿ɑ̃bʁase e le kaʁɛse]",
+      "ear": "诶 莱兹 昂布哈塞 诶 莱 卡赫塞",
+      "meaning": "亲吻他们，爱抚他们。",
+      "sourceLineId": "donjuan-timed-202-3",
+      "suppliedText": "Me deshabiller me laisser aller Je peux les toucher Et les embrasser et les caresser",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2190,
+        "anchorEnd": 2197.77,
+        "sourceLineNumber": 202,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2198,
+      "sourceText": "Je peux te montrer que je suis",
+      "ipa": "[ʒə pø tə mɔ̃tʁe kə ʒə sɥi]",
+      "ear": "热 珀厄 特 蒙特赫 克 热 斯于伊",
+      "meaning": "我可以让你看见，我——",
+      "sourceLineId": "donjuan-timed-203-1",
+      "suppliedText": "Je peux te montrer que je suis Une femme aussi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2198,
+        "anchorEnd": 2206.19,
+        "sourceLineNumber": 203,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2203.005,
+      "sourceText": "Une femme aussi",
+      "ipa": "[yn fam‿osi]",
+      "ear": "于恩 法姆 奥西",
+      "meaning": "同样是一个女人。",
+      "sourceLineId": "donjuan-timed-203-2",
+      "suppliedText": "Je peux te montrer que je suis Une femme aussi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2198,
+        "anchorEnd": 2206.19,
+        "sourceLineNumber": 203,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2227,
+      "sourceText": "Je peux me coucher",
+      "ipa": "[ʒə pø mə kuʃe]",
+      "ear": "热 珀厄 默 库谢",
+      "meaning": "我也可以与人上床，",
+      "sourceLineId": "donjuan-timed-204-1",
+      "suppliedText": "Je peux me choucher Me deshabiller me laisser aller Je peux les toucher Et les embrasser et les caresser",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2227,
+        "anchorEnd": 2237,
+        "sourceLineNumber": 204,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2229.0,
+      "sourceText": "Me déshabiller me laisser aller",
+      "ipa": "[mə dezabije mə lɛse ale]",
+      "ear": "默 德扎比耶诶 默 莱塞 阿莱",
+      "meaning": "脱掉衣服，放任自己。",
+      "sourceLineId": "donjuan-timed-204-2",
+      "suppliedText": "Je peux me choucher Me deshabiller me laisser aller Je peux les toucher Et les embrasser et les caresser",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2227,
+        "anchorEnd": 2237,
+        "sourceLineNumber": 204,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2232.143,
+      "sourceText": "Je peux les toucher",
+      "ipa": "[ʒə pø le tuʃe]",
+      "ear": "热 珀厄 莱 图谢",
+      "meaning": "我也可以触碰他们，",
+      "sourceLineId": "donjuan-timed-204-3",
+      "suppliedText": "Je peux me choucher Me deshabiller me laisser aller Je peux les toucher Et les embrasser et les caresser",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2227,
+        "anchorEnd": 2237,
+        "sourceLineNumber": 204,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2234.143,
+      "sourceText": "Et les embrasser et les caresser",
+      "ipa": "[e lez‿ɑ̃bʁase e le kaʁɛse]",
+      "ear": "诶 莱兹 昂布哈塞 诶 莱 卡赫塞",
+      "meaning": "亲吻他们，爱抚他们。",
+      "sourceLineId": "donjuan-timed-204-4",
+      "suppliedText": "Je peux me choucher Me deshabiller me laisser aller Je peux les toucher Et les embrasser et les caresser",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2227,
+        "anchorEnd": 2237,
+        "sourceLineNumber": 204,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2237,
+      "sourceText": "Je peux te montrer que je suis",
+      "ipa": "[ʒə pø tə mɔ̃tʁe kə ʒə sɥi]",
+      "ear": "热 珀厄 特 蒙特赫 克 热 斯于伊",
+      "meaning": "我可以让你看见，我——",
+      "sourceLineId": "donjuan-timed-205-1",
+      "suppliedText": "Je peux te montrer que je suis Une femme aussi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2237,
+        "anchorEnd": 2246.5,
+        "sourceLineNumber": 205,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2242.806,
+      "sourceText": "Une femme aussi",
+      "ipa": "[yn fam‿osi]",
+      "ear": "于恩 法姆 奥西",
+      "meaning": "同样是一个女人。",
+      "sourceLineId": "donjuan-timed-205-2",
+      "suppliedText": "Je peux te montrer que je suis Une femme aussi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2237,
+        "anchorEnd": 2246.5,
+        "sourceLineNumber": 205,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2247,
+      "sourceText": "Je peux me coucher",
+      "ipa": "[ʒə pø mə kuʃe]",
+      "ear": "热 珀厄 默 库谢",
+      "meaning": "我也可以与人上床，",
+      "sourceLineId": "donjuan-timed-206-1",
+      "suppliedText": "Je peux me choucher Me deshabiller me laisser aller Je peux les toucher Et les embrasser et les caresser",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2247,
+        "anchorEnd": 2256.64,
+        "sourceLineNumber": 206,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2248.928,
+      "sourceText": "Me déshabiller me laisser aller",
+      "ipa": "[mə dezabije mə lɛse ale]",
+      "ear": "默 德扎比耶诶 默 莱塞 阿莱",
+      "meaning": "脱掉衣服，放任自己。",
+      "sourceLineId": "donjuan-timed-206-2",
+      "suppliedText": "Je peux me choucher Me deshabiller me laisser aller Je peux les toucher Et les embrasser et les caresser",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2247,
+        "anchorEnd": 2256.64,
+        "sourceLineNumber": 206,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2251.958,
+      "sourceText": "Je peux les toucher",
+      "ipa": "[ʒə pø le tuʃe]",
+      "ear": "热 珀厄 莱 图谢",
+      "meaning": "我也可以触碰他们，",
+      "sourceLineId": "donjuan-timed-206-3",
+      "suppliedText": "Je peux me choucher Me deshabiller me laisser aller Je peux les toucher Et les embrasser et les caresser",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2247,
+        "anchorEnd": 2256.64,
+        "sourceLineNumber": 206,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2253.886,
+      "sourceText": "Et les embrasser et les caresser",
+      "ipa": "[e lez‿ɑ̃bʁase e le kaʁɛse]",
+      "ear": "诶 莱兹 昂布哈塞 诶 莱 卡赫塞",
+      "meaning": "亲吻他们，爱抚他们。",
+      "sourceLineId": "donjuan-timed-206-4",
+      "suppliedText": "Je peux me choucher Me deshabiller me laisser aller Je peux les toucher Et les embrasser et les caresser",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2247,
+        "anchorEnd": 2256.64,
+        "sourceLineNumber": 206,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2257,
+      "sourceText": "Je peux te montrer que je suis",
+      "ipa": "[ʒə pø tə mɔ̃tʁe kə ʒə sɥi]",
+      "ear": "热 珀厄 特 蒙特赫 克 热 斯于伊",
+      "meaning": "我可以让你看见，我——",
+      "sourceLineId": "donjuan-timed-207-1",
+      "suppliedText": "Je peux te montrer que je suis Une femme aussi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2257,
+        "anchorEnd": 2265.69,
+        "sourceLineNumber": 207,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2262.311,
+      "sourceText": "Une femme aussi",
+      "ipa": "[yn fam‿osi]",
+      "ear": "于恩 法姆 奥西",
+      "meaning": "同样是一个女人。",
+      "sourceLineId": "donjuan-timed-207-2",
+      "suppliedText": "Je peux te montrer que je suis Une femme aussi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 2257,
+        "anchorEnd": 2265.69,
+        "sourceLineNumber": 207,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 2267,
+      "sourceText": "Une femme aussi",
+      "ipa": "[yn fam‿osi]",
+      "ear": "于恩 法姆 奥西",
+      "meaning": "同样是一个女人。",
+      "sourceLineId": "donjuan-timed-208-1",
+      "suppliedText": "Une femme aussi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 2267,
+        "anchorEnd": 2271.86,
+        "sourceLineNumber": 208,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

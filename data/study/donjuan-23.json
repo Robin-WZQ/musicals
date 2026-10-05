@@ -1,0 +1,670 @@
+{
+  "videoId": "donjuan-23",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=3625"
+    }
+  ],
+  "entries": [
+    {
+      "start": 3631,
+      "sourceText": "Séville se lève avec un nouveau jour",
+      "ipa": "[sevil sə lɛv‿avɛk‿œ̃ nuvo ʒuʁ]",
+      "ear": "塞维勒 瑟 莱弗 阿韦克 恩 努沃 茹赫",
+      "meaning": "塞维利亚迎来新的一天",
+      "sourceLineId": "donjuan-timed-343-1",
+      "suppliedText": "Seville se leve avec un nouveau jour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3631,
+        "anchorEnd": 3639.94,
+        "sourceLineNumber": 343,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3640,
+      "sourceText": "Séville se réveille au son de l'amour",
+      "ipa": "[sevil sə ʁevɛj‿o sɔ̃ də lamuʁ]",
+      "ear": "塞维勒 瑟 赫韦耶 奥 松 德 拉穆赫",
+      "meaning": "塞维利亚在爱的声音中醒来",
+      "sourceLineId": "donjuan-timed-344-1",
+      "suppliedText": "Seville se reveille au son de l'amour",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3640,
+        "anchorEnd": 3648,
+        "sourceLineNumber": 344,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3648,
+      "sourceText": "Séville la ville de violence et de vice",
+      "ipa": "[sevil la vil də vjolɑ̃s e də vis]",
+      "ear": "塞维勒 拉 维勒 德 弗耶奥朗斯 诶 德 维斯",
+      "meaning": "塞维利亚，暴力与罪恶之城",
+      "sourceLineId": "donjuan-timed-345-1",
+      "suppliedText": "Seville la ville de violence et de vice",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3648,
+        "anchorEnd": 3656,
+        "sourceLineNumber": 345,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3656,
+      "sourceText": "Séville aujourd'hui retrouve son fils",
+      "ipa": "[sevil‿oʒuʁdɥi ʁətʁuv sɔ̃ fis]",
+      "ear": "塞维勒 奥茹赫德于伊 赫特胡弗 松 菲斯",
+      "meaning": "塞维利亚今天找到了它的儿子",
+      "sourceLineId": "donjuan-timed-346-1",
+      "suppliedText": "Seville aujourd'hui retrouve son fils",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3656,
+        "anchorEnd": 3664.72,
+        "sourceLineNumber": 346,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3665,
+      "sourceText": "Les amoureux de Séville",
+      "ipa": "[lez‿amuʁø də sevil]",
+      "ear": "莱兹 阿穆赫厄 德 塞维勒",
+      "meaning": "塞维利亚的恋人。",
+      "sourceLineId": "donjuan-timed-347-1",
+      "suppliedText": "Les amoureux de Seville Ils sont si beaux quand on les voit Quand ils marchent dans la ville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3665,
+        "anchorEnd": 3672,
+        "sourceLineNumber": 347,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3667.258,
+      "sourceText": "Ils sont si beaux quand on les voit",
+      "ipa": "[il sɔ̃ si bo kɑ̃t‿ɔ̃ le vwa]",
+      "ear": "伊勒 松 西 博 康特 翁 莱 弗乌阿",
+      "meaning": "人们看见他们，都觉得多么美好。",
+      "sourceLineId": "donjuan-timed-347-2",
+      "suppliedText": "Les amoureux de Seville Ils sont si beaux quand on les voit Quand ils marchent dans la ville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3665,
+        "anchorEnd": 3672,
+        "sourceLineNumber": 347,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3669.968,
+      "sourceText": "Quand ils marchent dans la ville",
+      "ipa": "[kɑ̃t‿il maʁʃ dɑ̃ la vil]",
+      "ear": "康特 伊勒 玛赫什 当 拉 维勒",
+      "meaning": "当他们走在城里的时候",
+      "sourceLineId": "donjuan-timed-347-3",
+      "suppliedText": "Les amoureux de Seville Ils sont si beaux quand on les voit Quand ils marchent dans la ville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3665,
+        "anchorEnd": 3672,
+        "sourceLineNumber": 347,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3672,
+      "sourceText": "C'est le feu des ferias",
+      "ipa": "[sɛ lə fø de feʁja]",
+      "ear": "塞 勒 弗厄 德 费赫耶阿",
+      "meaning": "如同节庆燃起的热情。",
+      "sourceLineId": "donjuan-timed-348-1",
+      "suppliedText": "C'est le feu des ferias Les amoureux de Seville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3672,
+        "anchorEnd": 3678.6,
+        "sourceLineNumber": 348,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3674.933,
+      "sourceText": "Les amoureux de Séville",
+      "ipa": "[lez‿amuʁø də sevil]",
+      "ear": "莱兹 阿穆赫厄 德 塞维勒",
+      "meaning": "塞维利亚的恋人。",
+      "sourceLineId": "donjuan-timed-348-2",
+      "suppliedText": "C'est le feu des ferias Les amoureux de Seville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3672,
+        "anchorEnd": 3678.6,
+        "sourceLineNumber": 348,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3680,
+      "sourceText": "Don Juan et Maria",
+      "ipa": "[dɔ̃ ʒɥɑ̃ e maʁja]",
+      "ear": "东 日于昂 诶 玛赫耶阿",
+      "meaning": "唐璜和玛丽亚。",
+      "sourceLineId": "donjuan-timed-349-1",
+      "suppliedText": "Don Juan et Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3680,
+        "anchorEnd": 3683.93,
+        "sourceLineNumber": 349,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3686,
+      "sourceText": "Séville ton ciel est devenu plus bleu",
+      "ipa": "[sevil tɔ̃ sjɛl‿ɛ dəvny ply blø]",
+      "ear": "塞维勒 通 斯耶艾勒 艾 德弗尼于 普吕 布勒厄",
+      "meaning": "塞维利亚你的天空变得更蓝了",
+      "sourceLineId": "donjuan-timed-350-1",
+      "suppliedText": "Seville ton ciel est devenu plus bleu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3686,
+        "anchorEnd": 3693,
+        "sourceLineNumber": 350,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3693,
+      "sourceText": "Séville depuis qu'un homme est amoureux",
+      "ipa": "[sevil dəpɥi kœ̃ ɔm‿ɛt‿amuʁø]",
+      "ear": "塞维勒 德普于伊 坎 哦姆 艾特 阿穆赫厄",
+      "meaning": "塞维利亚自从一个男人坠入爱河",
+      "sourceLineId": "donjuan-timed-351-1",
+      "suppliedText": "Seville depuis qu'un homme est amoureux",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3693,
+        "anchorEnd": 3701,
+        "sourceLineNumber": 351,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3701,
+      "sourceText": "Séville montre la fierté de ta peau",
+      "ipa": "[sevil mɔ̃tʁ la fjɛʁte də ta po]",
+      "ear": "塞维勒 蒙特赫 拉 弗耶艾赫特 德 塔 波",
+      "meaning": "塞维利亚，展露你肌肤的骄傲。",
+      "sourceLineId": "donjuan-timed-352-1",
+      "suppliedText": "Seville montre la fierte de ta peau",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3701,
+        "anchorEnd": 3708,
+        "sourceLineNumber": 352,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3708,
+      "sourceText": "Séville cambre le dos des toreros",
+      "ipa": "[sevil kɑ̃bʁ lə do de toʁeʁo]",
+      "ear": "塞维勒 康布赫 勒 多 德 托赫霍",
+      "meaning": "塞维利亚，让斗牛士挺起脊背。",
+      "sourceLineId": "donjuan-timed-353-1",
+      "suppliedText": "Seville cambre le dos des toreros",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3708,
+        "anchorEnd": 3716.32,
+        "sourceLineNumber": 353,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3717,
+      "sourceText": "Les amoureux de Séville",
+      "ipa": "[lez‿amuʁø də sevil]",
+      "ear": "莱兹 阿穆赫厄 德 塞维勒",
+      "meaning": "塞维利亚的恋人。",
+      "sourceLineId": "donjuan-timed-354-1",
+      "suppliedText": "Les amoureux de Seville Ils sont si beaux quand on les voit Quand ils marchent dans la ville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3717,
+        "anchorEnd": 3724,
+        "sourceLineNumber": 354,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3719.258,
+      "sourceText": "Ils sont si beaux quand on les voit",
+      "ipa": "[il sɔ̃ si bo kɑ̃t‿ɔ̃ le vwa]",
+      "ear": "伊勒 松 西 博 康特 翁 莱 弗乌阿",
+      "meaning": "人们看见他们，都觉得多么美好。",
+      "sourceLineId": "donjuan-timed-354-2",
+      "suppliedText": "Les amoureux de Seville Ils sont si beaux quand on les voit Quand ils marchent dans la ville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3717,
+        "anchorEnd": 3724,
+        "sourceLineNumber": 354,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3721.968,
+      "sourceText": "Quand ils marchent dans la ville",
+      "ipa": "[kɑ̃t‿il maʁʃ dɑ̃ la vil]",
+      "ear": "康特 伊勒 玛赫什 当 拉 维勒",
+      "meaning": "当他们走在城里的时候",
+      "sourceLineId": "donjuan-timed-354-3",
+      "suppliedText": "Les amoureux de Seville Ils sont si beaux quand on les voit Quand ils marchent dans la ville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3717,
+        "anchorEnd": 3724,
+        "sourceLineNumber": 354,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3724,
+      "sourceText": "C'est le feu des ferias",
+      "ipa": "[sɛ lə fø de feʁja]",
+      "ear": "塞 勒 弗厄 德 费赫耶阿",
+      "meaning": "如同节庆燃起的热情。",
+      "sourceLineId": "donjuan-timed-355-1",
+      "suppliedText": "C'est le feu des ferias Les amoureux de Seville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3724,
+        "anchorEnd": 3730.27,
+        "sourceLineNumber": 355,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3726.787,
+      "sourceText": "Les amoureux de Séville",
+      "ipa": "[lez‿amuʁø də sevil]",
+      "ear": "莱兹 阿穆赫厄 德 塞维勒",
+      "meaning": "塞维利亚的恋人。",
+      "sourceLineId": "donjuan-timed-355-2",
+      "suppliedText": "C'est le feu des ferias Les amoureux de Seville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3724,
+        "anchorEnd": 3730.27,
+        "sourceLineNumber": 355,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3732,
+      "sourceText": "Don Juan et Maria",
+      "ipa": "[dɔ̃ ʒɥɑ̃ e maʁja]",
+      "ear": "东 日于昂 诶 玛赫耶阿",
+      "meaning": "唐璜和玛丽亚。",
+      "sourceLineId": "donjuan-timed-356-1",
+      "suppliedText": "Don Juan et Maria Les amoureux de Seville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3732,
+        "anchorEnd": 3739,
+        "sourceLineNumber": 356,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3734.882,
+      "sourceText": "Les amoureux de Séville",
+      "ipa": "[lez‿amuʁø də sevil]",
+      "ear": "莱兹 阿穆赫厄 德 塞维勒",
+      "meaning": "塞维利亚的恋人。",
+      "sourceLineId": "donjuan-timed-356-2",
+      "suppliedText": "Don Juan et Maria Les amoureux de Seville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3732,
+        "anchorEnd": 3739,
+        "sourceLineNumber": 356,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3739,
+      "sourceText": "On vit au rythme de leurs pas",
+      "ipa": "[ɔ̃ vi o ʁitm də lœʁ pa]",
+      "ear": "翁 维 奥 希特姆 德 勒厄赫 帕",
+      "meaning": "我们按照他们脚步的节奏生活",
+      "sourceLineId": "donjuan-timed-357-1",
+      "suppliedText": "On vit au rythme de leurs pas Ce sont deux diamants qui brillent Au milieu des corridas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3739,
+        "anchorEnd": 3746,
+        "sourceLineNumber": 357,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3741.258,
+      "sourceText": "Ce sont deux diamants qui brillent",
+      "ipa": "[sə sɔ̃ dø djamɑ̃ ki bʁij]",
+      "ear": "瑟 松 德厄 德耶阿芒 基 布希耶",
+      "meaning": "这是两颗闪闪发光的钻石",
+      "sourceLineId": "donjuan-timed-357-2",
+      "suppliedText": "On vit au rythme de leurs pas Ce sont deux diamants qui brillent Au milieu des corridas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3739,
+        "anchorEnd": 3746,
+        "sourceLineNumber": 357,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3743.742,
+      "sourceText": "Au milieu des corridas",
+      "ipa": "[o miljø de koʁida]",
+      "ear": "奥 米勒耶厄 德 科希达",
+      "meaning": "在斗牛中间",
+      "sourceLineId": "donjuan-timed-357-3",
+      "suppliedText": "On vit au rythme de leurs pas Ce sont deux diamants qui brillent Au milieu des corridas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3739,
+        "anchorEnd": 3746,
+        "sourceLineNumber": 357,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3746,
+      "sourceText": "Les amoureux de Séville Don Juan et Maria",
+      "ipa": "[lez‿amuʁø də sevil dɔ̃ ʒɥɑ̃ e maʁja]",
+      "ear": "莱兹 阿穆赫厄 德 塞维勒 东 日于昂 诶 玛赫耶阿",
+      "meaning": "塞维利亚恋人唐璜和玛丽亚",
+      "sourceLineId": "donjuan-timed-358-1",
+      "suppliedText": "Les amoureux de Seville Don Juan et Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3746,
+        "anchorEnd": 3757.4,
+        "sourceLineNumber": 358,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3821,
+      "sourceText": "Les amoureux de Séville",
+      "ipa": "[lez‿amuʁø də sevil]",
+      "ear": "莱兹 阿穆赫厄 德 塞维勒",
+      "meaning": "塞维利亚的恋人。",
+      "sourceLineId": "donjuan-timed-359-1",
+      "suppliedText": "Les amoureux de Seville Ils sont si beaux quand on les voit Quand ils marchent dans la ville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3821,
+        "anchorEnd": 3828,
+        "sourceLineNumber": 359,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3823.258,
+      "sourceText": "Ils sont si beaux quand on les voit",
+      "ipa": "[il sɔ̃ si bo kɑ̃t‿ɔ̃ le vwa]",
+      "ear": "伊勒 松 西 博 康特 翁 莱 弗乌阿",
+      "meaning": "人们看见他们，都觉得多么美好。",
+      "sourceLineId": "donjuan-timed-359-2",
+      "suppliedText": "Les amoureux de Seville Ils sont si beaux quand on les voit Quand ils marchent dans la ville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3821,
+        "anchorEnd": 3828,
+        "sourceLineNumber": 359,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3825.968,
+      "sourceText": "Quand ils marchent dans la ville",
+      "ipa": "[kɑ̃t‿il maʁʃ dɑ̃ la vil]",
+      "ear": "康特 伊勒 玛赫什 当 拉 维勒",
+      "meaning": "当他们走在城里的时候",
+      "sourceLineId": "donjuan-timed-359-3",
+      "suppliedText": "Les amoureux de Seville Ils sont si beaux quand on les voit Quand ils marchent dans la ville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3821,
+        "anchorEnd": 3828,
+        "sourceLineNumber": 359,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3828,
+      "sourceText": "C'est le feu des ferias",
+      "ipa": "[sɛ lə fø de feʁja]",
+      "ear": "塞 勒 弗厄 德 费赫耶阿",
+      "meaning": "如同节庆燃起的热情。",
+      "sourceLineId": "donjuan-timed-360-1",
+      "suppliedText": "C'est le feu des ferias Les amoureux de Seville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3828,
+        "anchorEnd": 3833.35,
+        "sourceLineNumber": 360,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3830.378,
+      "sourceText": "Les amoureux de Séville",
+      "ipa": "[lez‿amuʁø də sevil]",
+      "ear": "莱兹 阿穆赫厄 德 塞维勒",
+      "meaning": "塞维利亚的恋人。",
+      "sourceLineId": "donjuan-timed-360-2",
+      "suppliedText": "C'est le feu des ferias Les amoureux de Seville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3828,
+        "anchorEnd": 3833.35,
+        "sourceLineNumber": 360,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3835,
+      "sourceText": "Don Juan et Maria",
+      "ipa": "[dɔ̃ ʒɥɑ̃ e maʁja]",
+      "ear": "东 日于昂 诶 玛赫耶阿",
+      "meaning": "唐璜和玛丽亚。",
+      "sourceLineId": "donjuan-timed-361-1",
+      "suppliedText": "Don Juan et Maria Les amoureux de Seville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3835,
+        "anchorEnd": 3843,
+        "sourceLineNumber": 361,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3838.294,
+      "sourceText": "Les amoureux de Séville",
+      "ipa": "[lez‿amuʁø də sevil]",
+      "ear": "莱兹 阿穆赫厄 德 塞维勒",
+      "meaning": "塞维利亚的恋人。",
+      "sourceLineId": "donjuan-timed-361-2",
+      "suppliedText": "Don Juan et Maria Les amoureux de Seville",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3835,
+        "anchorEnd": 3843,
+        "sourceLineNumber": 361,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3843,
+      "sourceText": "On vit au rythme de leurs pas",
+      "ipa": "[ɔ̃ vi o ʁitm də lœʁ pa]",
+      "ear": "翁 维 奥 希特姆 德 勒厄赫 帕",
+      "meaning": "我们按照他们脚步的节奏生活",
+      "sourceLineId": "donjuan-timed-362-1",
+      "suppliedText": "On vit au rythme de leurs pas Ce sont deux diamants qui brillent Au milieu des corridas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3843,
+        "anchorEnd": 3850,
+        "sourceLineNumber": 362,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3845.258,
+      "sourceText": "Ce sont deux diamants qui brillent",
+      "ipa": "[sə sɔ̃ dø djamɑ̃ ki bʁij]",
+      "ear": "瑟 松 德厄 德耶阿芒 基 布希耶",
+      "meaning": "这是两颗闪闪发光的钻石",
+      "sourceLineId": "donjuan-timed-362-2",
+      "suppliedText": "On vit au rythme de leurs pas Ce sont deux diamants qui brillent Au milieu des corridas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3843,
+        "anchorEnd": 3850,
+        "sourceLineNumber": 362,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3847.742,
+      "sourceText": "Au milieu des corridas",
+      "ipa": "[o miljø de koʁida]",
+      "ear": "奥 米勒耶厄 德 科希达",
+      "meaning": "在斗牛中间",
+      "sourceLineId": "donjuan-timed-362-3",
+      "suppliedText": "On vit au rythme de leurs pas Ce sont deux diamants qui brillent Au milieu des corridas",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 3843,
+        "anchorEnd": 3850,
+        "sourceLineNumber": 362,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 3850,
+      "sourceText": "Les amoureux de Séville Don Juan et Maria",
+      "ipa": "[lez‿amuʁø də sevil dɔ̃ ʒɥɑ̃ e maʁja]",
+      "ear": "莱兹 阿穆赫厄 德 塞维勒 东 日于昂 诶 玛赫耶阿",
+      "meaning": "塞维利亚恋人唐璜和玛丽亚",
+      "sourceLineId": "donjuan-timed-363-1",
+      "suppliedText": "Les amoureux de Seville Don Juan et Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 3850,
+        "anchorEnd": 3863.31,
+        "sourceLineNumber": 363,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "videoId": "donjuan-33",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=5680"
+    }
+  ],
+  "entries": [
+    {
+      "start": 5694,
+      "sourceText": "Pourquoi les hommes aiment-ils se battre",
+      "ipa": "[puʁkwa lez‿ɔm‿ɛmtil sə batʁ]",
+      "ear": "普赫克乌阿 莱兹 哦姆 艾姆蒂勒 瑟 巴特赫",
+      "meaning": "男人为什么喜欢打架",
+      "sourceLineId": "donjuan-timed-548-1",
+      "suppliedText": "Pourquoi les hommes aiment-ils se battre Et faire de la vie le theatre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5694,
+        "anchorEnd": 5705.94,
+        "sourceLineNumber": 548,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5700.633,
+      "sourceText": "Et faire de la vie le théâtre",
+      "ipa": "[e fɛʁ də la vi lə teatʁ]",
+      "ear": "诶 费赫 德 拉 维 勒 特阿特赫",
+      "meaning": "为何要把人生变成一座剧场，",
+      "sourceLineId": "donjuan-timed-548-2",
+      "suppliedText": "Pourquoi les hommes aiment-ils se battre Et faire de la vie le theatre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5694,
+        "anchorEnd": 5705.94,
+        "sourceLineNumber": 548,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5708,
+      "sourceText": "Où la haine se trouve à la porte",
+      "ipa": "[u la ɛn sə tʁuv‿a la pɔʁt]",
+      "ear": "乌 拉 艾恩 瑟 特胡弗 阿 拉 珀赫特",
+      "meaning": "让仇恨守在门口，",
+      "sourceLineId": "donjuan-timed-549-1",
+      "suppliedText": "Ou haine se trouve a la porte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5708,
+        "anchorEnd": 5713.47,
+        "sourceLineNumber": 549,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5715,
+      "sourceText": "Et c'est toujours elle qui l'emporte",
+      "ipa": "[e sɛ tuʒuʁ‿ɛl ki lɑ̃pɔʁt]",
+      "ear": "诶 塞 图茹赫 艾勒 基 朗珀赫特",
+      "meaning": "而它总是获胜？",
+      "sourceLineId": "donjuan-timed-550-1",
+      "suppliedText": "Et c'est toujours elle qui l'emporte",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5715,
+        "anchorEnd": 5720.43,
+        "sourceLineNumber": 550,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5721,
+      "sourceText": "Pourquoi le bruit, pourquoi le bruit",
+      "ipa": "[puʁkwa lə bʁɥi puʁkwa lə bʁɥi]",
+      "ear": "普赫克乌阿 勒 布赫于伊 普赫克乌阿 勒 布赫于伊",
+      "meaning": "为什么吵闹，为什么吵闹",
+      "sourceLineId": "donjuan-timed-551-1",
+      "suppliedText": "Pourquoi le bruit, pourquoi le bruit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5721,
+        "anchorEnd": 5727,
+        "sourceLineNumber": 551,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5727,
+      "sourceText": "Pourquoi un jour la mort prend la place de la vie",
+      "ipa": "[puʁkwa œ̃ ʒuʁ la mɔʁ pʁɑ̃ la plas də la vi]",
+      "ear": "普赫克乌阿 恩 茹赫 拉 莫赫 普杭 拉 普拉斯 德 拉 维",
+      "meaning": "为什么有一天死亡取代了生命",
+      "sourceLineId": "donjuan-timed-552-1",
+      "suppliedText": "Pourquoi un jour la mort prend la place de la vie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5727,
+        "anchorEnd": 5733.18,
+        "sourceLineNumber": 552,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5736,
+      "sourceText": "Pourquoi faut-il que l'on ait peur",
+      "ipa": "[puʁkwa fotil kə lɔ̃ ɛ pœʁ]",
+      "ear": "普赫克乌阿 佛蒂勒 克 隆 艾 珀厄赫",
+      "meaning": "我们为什么要害怕",
+      "sourceLineId": "donjuan-timed-553-1",
+      "suppliedText": "Pourquoi faut-il que l'on ait peur Quand on a l'amour dans le coeur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5736,
+        "anchorEnd": 5747.36,
+        "sourceLineNumber": 553,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5742.554,
+      "sourceText": "Quand on a l'amour dans le cœur",
+      "ipa": "[kɑ̃t‿ɔ̃n‿a lamuʁ dɑ̃ lə kœʁ]",
+      "ear": "康特 翁恩 阿 拉穆赫 当 勒 克厄赫",
+      "meaning": "当我们心中有爱时",
+      "sourceLineId": "donjuan-timed-553-2",
+      "suppliedText": "Pourquoi faut-il que l'on ait peur Quand on a l'amour dans le coeur",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5736,
+        "anchorEnd": 5747.36,
+        "sourceLineNumber": 553,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5750,
+      "sourceText": "Pourquoi les sons de nos prières",
+      "ipa": "[puʁkwa le sɔ̃ də no pʁiɛʁ]",
+      "ear": "普赫克乌阿 莱 松 德 诺 普希艾赫",
+      "meaning": "为什么我们的祈祷声",
+      "sourceLineId": "donjuan-timed-554-1",
+      "suppliedText": "Pourquoi les sons de nos prieres",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5750,
+        "anchorEnd": 5756.07,
+        "sourceLineNumber": 554,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5757,
+      "sourceText": "Ont les mélodies de la guerre",
+      "ipa": "[ɔ̃ le melodi də la ɡɛʁ]",
+      "ear": "翁 莱 梅洛迪 德 拉 盖赫",
+      "meaning": "有战争的旋律",
+      "sourceLineId": "donjuan-timed-555-1",
+      "suppliedText": "Ont les melodies de la guerre",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5757,
+        "anchorEnd": 5762,
+        "sourceLineNumber": 555,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5762,
+      "sourceText": "Pourquoi le bruit, pourquoi le bruit",
+      "ipa": "[puʁkwa lə bʁɥi puʁkwa lə bʁɥi]",
+      "ear": "普赫克乌阿 勒 布赫于伊 普赫克乌阿 勒 布赫于伊",
+      "meaning": "为什么吵闹，为什么吵闹",
+      "sourceLineId": "donjuan-timed-556-1",
+      "suppliedText": "Pourquoi le bruit, pourquoi le bruit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5762,
+        "anchorEnd": 5769,
+        "sourceLineNumber": 556,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5769,
+      "sourceText": "Pourquoi un jour la mort prend la place de la vie",
+      "ipa": "[puʁkwa œ̃ ʒuʁ la mɔʁ pʁɑ̃ la plas də la vi]",
+      "ear": "普赫克乌阿 恩 茹赫 拉 莫赫 普杭 拉 普拉斯 德 拉 维",
+      "meaning": "为什么有一天死亡取代了生命",
+      "sourceLineId": "donjuan-timed-557-1",
+      "suppliedText": "Pourquoi un jour la mort prend la place de la vie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5769,
+        "anchorEnd": 5775.77,
+        "sourceLineNumber": 557,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5776,
+      "sourceText": "Pourquoi le bruit, pourquoi le bruit",
+      "ipa": "[puʁkwa lə bʁɥi puʁkwa lə bʁɥi]",
+      "ear": "普赫克乌阿 勒 布赫于伊 普赫克乌阿 勒 布赫于伊",
+      "meaning": "为什么吵闹，为什么吵闹",
+      "sourceLineId": "donjuan-timed-558-1",
+      "suppliedText": "Pourquoi le bruit, pourquoi le bruit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5776,
+        "anchorEnd": 5782.55,
+        "sourceLineNumber": 558,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5783,
+      "sourceText": "Pourquoi un jour la mort prend la place de la vie",
+      "ipa": "[puʁkwa œ̃ ʒuʁ la mɔʁ pʁɑ̃ la plas də la vi]",
+      "ear": "普赫克乌阿 恩 茹赫 拉 莫赫 普杭 拉 普拉斯 德 拉 维",
+      "meaning": "为什么有一天死亡取代了生命",
+      "sourceLineId": "donjuan-timed-559-1",
+      "suppliedText": "Pourquoi un jour la mort prend la place de la vie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5783,
+        "anchorEnd": 5789.57,
+        "sourceLineNumber": 559,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5790,
+      "sourceText": "Et qui fallait-il croire, ou les hommes ou le Dieu",
+      "ipa": "[e ki falɛtil kʁwaʁ u lez‿ɔm‿u lə djø]",
+      "ear": "诶 基 法莱蒂勒 克赫乌阿赫 乌 莱兹 哦姆 乌 勒 德耶厄",
+      "meaning": "我们究竟该相信人，还是上帝？",
+      "sourceLineId": "donjuan-timed-560-1",
+      "suppliedText": "Et qui fallait-il croire, ou les hommes ou le Dieu",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5790,
+        "anchorEnd": 5796,
+        "sourceLineNumber": 560,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5796,
+      "sourceText": "Qui nous aime sans le voir quand on est malheureux",
+      "ipa": "[ki nuz‿ɛm sɑ̃ lə vwaʁ kɑ̃t‿ɔ̃n‿ɛ maløʁø]",
+      "ear": "基 努兹 艾姆 桑 勒 弗乌阿赫 康特 翁恩 艾 玛勒厄赫厄",
+      "meaning": "痛苦时，我们看不见他，他却仍爱着我们。",
+      "sourceLineId": "donjuan-timed-561-1",
+      "suppliedText": "Qui nous aime sans le voir quand on est malheureux",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5796,
+        "anchorEnd": 5803,
+        "sourceLineNumber": 561,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5803,
+      "sourceText": "Et laquelle faut-il suivre des routes de nos vies",
+      "ipa": "[e lakɛl fotil sɥivʁ de ʁut də no vi]",
+      "ear": "诶 拉凯勒 佛蒂勒 斯于伊弗赫 德 胡特 德 诺 维",
+      "meaning": "人生的道路，我们该走哪一条？",
+      "sourceLineId": "donjuan-timed-562-1",
+      "suppliedText": "Et laquelle faut-il suivre des routes de nos vies",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5803,
+        "anchorEnd": 5810.04,
+        "sourceLineNumber": 562,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5811,
+      "sourceText": "Ou celle qui nous délivre, ou celle qui nous punit",
+      "ipa": "[u sɛl ki nu delivʁ u sɛl ki nu pyni]",
+      "ear": "乌 塞勒 基 努 德利弗赫 乌 塞勒 基 努 普于尼",
+      "meaning": "是通向解脱的，还是通向惩罚的？",
+      "sourceLineId": "donjuan-timed-563-1",
+      "suppliedText": "Ou celle qui nous delivre, ou celle qui nous punit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5811,
+        "anchorEnd": 5817.4,
+        "sourceLineNumber": 563,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5818,
+      "sourceText": "Pourquoi le bruit, pourquoi le bruit",
+      "ipa": "[puʁkwa lə bʁɥi puʁkwa lə bʁɥi]",
+      "ear": "普赫克乌阿 勒 布赫于伊 普赫克乌阿 勒 布赫于伊",
+      "meaning": "为什么吵闹，为什么吵闹",
+      "sourceLineId": "donjuan-timed-564-1",
+      "suppliedText": "Pourquoi le bruit, pourquoi le bruit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5818,
+        "anchorEnd": 5824.41,
+        "sourceLineNumber": 564,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5825,
+      "sourceText": "Le monde est beau tant que l'espoir n'est pas fini",
+      "ipa": "[lə mɔ̃d‿ɛ bo tɑ̃ kə lɛspwaʁ nɛ pa fini]",
+      "ear": "勒 蒙德 艾 博 唐 克 莱斯普乌阿赫 奈 帕 菲尼",
+      "meaning": "只要希望不灭，世界就美好",
+      "sourceLineId": "donjuan-timed-565-1",
+      "suppliedText": "Le monde est beau tant que l'espoir n'est pas fini",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5825,
+        "anchorEnd": 5830.53,
+        "sourceLineNumber": 565,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5832,
+      "sourceText": "Pourquoi le bruit, pourquoi le bruit",
+      "ipa": "[puʁkwa lə bʁɥi puʁkwa lə bʁɥi]",
+      "ear": "普赫克乌阿 勒 布赫于伊 普赫克乌阿 勒 布赫于伊",
+      "meaning": "为什么吵闹，为什么吵闹",
+      "sourceLineId": "donjuan-timed-566-1",
+      "suppliedText": "Pourquoi le bruit, pourquoi le bruit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5832,
+        "anchorEnd": 5838.36,
+        "sourceLineNumber": 566,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5839,
+      "sourceText": "C'est pour le bien que sur la terre on est ici",
+      "ipa": "[sɛ puʁ lə bjɛ̃ kə syʁ la tɛʁ‿ɔ̃n‿ɛt‿isi]",
+      "ear": "塞 普赫 勒 布耶安 克 西于赫 拉 泰赫 翁恩 艾特 伊西",
+      "meaning": "我们来到人世，本是为了行善。",
+      "sourceLineId": "donjuan-timed-567-1",
+      "suppliedText": "C'est pour le bien que sur la terre on est ici",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5839,
+        "anchorEnd": 5844.79,
+        "sourceLineNumber": 567,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5845,
+      "sourceText": "Pourquoi le bruit, pourquoi le bruit",
+      "ipa": "[puʁkwa lə bʁɥi puʁkwa lə bʁɥi]",
+      "ear": "普赫克乌阿 勒 布赫于伊 普赫克乌阿 勒 布赫于伊",
+      "meaning": "为什么吵闹，为什么吵闹",
+      "sourceLineId": "donjuan-timed-568-1",
+      "suppliedText": "Pourquoi le bruit, pourquoi le bruit",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5845,
+        "anchorEnd": 5852.35,
+        "sourceLineNumber": 568,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5853,
+      "sourceText": "Pourquoi un jour la mort prend la place de la vie",
+      "ipa": "[puʁkwa œ̃ ʒuʁ la mɔʁ pʁɑ̃ la plas də la vi]",
+      "ear": "普赫克乌阿 恩 茹赫 拉 莫赫 普杭 拉 普拉斯 德 拉 维",
+      "meaning": "为什么有一天死亡取代了生命",
+      "sourceLineId": "donjuan-timed-569-1",
+      "suppliedText": "Pourquoi un jour la mort prend la place de la vie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5853,
+        "anchorEnd": 5860.94,
+        "sourceLineNumber": 569,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

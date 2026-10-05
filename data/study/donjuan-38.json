@@ -1,0 +1,778 @@
+{
+  "videoId": "donjuan-38",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=6555"
+    }
+  ],
+  "entries": [
+    {
+      "start": 6585,
+      "sourceText": "Que tristeza Andalucía",
+      "ipa": "[ke tɾisteθa andaluθia]",
+      "ear": "克 特希斯特萨 阿恩达卢西阿",
+      "meaning": "安达卢西亚，多么悲伤。",
+      "sourceLineId": "donjuan-timed-646-1",
+      "suppliedText": "Que tristeza Andalucia Cuando el sol brilla",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6585,
+        "anchorEnd": 6592.75,
+        "sourceLineNumber": 646,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6589.359,
+      "sourceText": "Cuando el sol brilla",
+      "ipa": "[kwando el sol βɾiʎa]",
+      "ear": "克乌阿恩多 诶勒 索勒 布希耶阿",
+      "meaning": "当阳光闪耀，",
+      "sourceLineId": "donjuan-timed-646-2",
+      "suppliedText": "Que tristeza Andalucia Cuando el sol brilla",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6585,
+        "anchorEnd": 6592.75,
+        "sourceLineNumber": 646,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6593,
+      "sourceText": "de alegría y tristeza de mi Andalucía",
+      "ipa": "[de aleɣɾia i tɾisteθa ðe mi andaluθia]",
+      "ear": "德 阿莱格希阿 伊 特希斯特萨 德 米 阿恩达卢西阿",
+      "meaning": "照着我的安达卢西亚的欢喜和悲伤。",
+      "sourceLineId": "donjuan-timed-647-1",
+      "suppliedText": "de alegria y tristeza de mi Andalucia Tus casas blancas",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6593,
+        "anchorEnd": 6601,
+        "sourceLineNumber": 647,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6598.895,
+      "sourceText": "Tus casas blancas",
+      "ipa": "[tus kasas βlankas]",
+      "ear": "图斯 卡萨斯 布拉恩卡斯",
+      "meaning": "你那些洁白的房屋，",
+      "sourceLineId": "donjuan-timed-647-2",
+      "suppliedText": "de alegria y tristeza de mi Andalucia Tus casas blancas",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6593,
+        "anchorEnd": 6601,
+        "sourceLineNumber": 647,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6601,
+      "sourceText": "donde lloran",
+      "ipa": "[donde ʎoɾan]",
+      "ear": "多恩德 耶奥哈恩",
+      "meaning": "泪水在那里流淌。",
+      "sourceLineId": "donjuan-timed-648-1",
+      "suppliedText": "donde lloran Tus ojitos blancos Sevilla Coren lagrimas de sangre",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6601,
+        "anchorEnd": 6609,
+        "sourceLineNumber": 648,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6602.6,
+      "sourceText": "Tus ojitos blancos Sevilla",
+      "ipa": "[tus oxitos βlankos seβiʎa]",
+      "ear": "图斯 奥希托斯 布拉恩科斯 塞比耶阿",
+      "meaning": "塞维利亚，你明亮的小眼睛。",
+      "sourceLineId": "donjuan-timed-648-2",
+      "suppliedText": "donde lloran Tus ojitos blancos Sevilla Coren lagrimas de sangre",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6601,
+        "anchorEnd": 6609,
+        "sourceLineNumber": 648,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6606.2,
+      "sourceText": "Corren lágrimas de sangre",
+      "ipa": "[koren laɣɾimas ðe saŋɡɾe]",
+      "ear": "科赫恩 拉格希玛斯 德 萨恩格赫",
+      "meaning": "血泪正在流淌，",
+      "sourceLineId": "donjuan-timed-648-3",
+      "suppliedText": "donde lloran Tus ojitos blancos Sevilla Coren lagrimas de sangre",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6601,
+        "anchorEnd": 6609,
+        "sourceLineNumber": 648,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6609,
+      "sourceText": "sobre Tu vestido bordado",
+      "ipa": "[soβɾe tu βestiðo βoɾðaðo]",
+      "ear": "索布赫 图 贝斯蒂多 博赫达多",
+      "meaning": "落在你绣花的裙上，",
+      "sourceLineId": "donjuan-timed-649-1",
+      "suppliedText": "sobre Tu vestido bordado De colores de Andalucia.",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6609,
+        "anchorEnd": 6615,
+        "sourceLineNumber": 649,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6612.0,
+      "sourceText": "De colores de Andalucía.",
+      "ipa": "[de koloɾes ðe andaluθia]",
+      "ear": "德 科洛赫斯 德 阿恩达卢西阿",
+      "meaning": "裙上是安达卢西亚的色彩。",
+      "sourceLineId": "donjuan-timed-649-2",
+      "suppliedText": "sobre Tu vestido bordado De colores de Andalucia.",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6609,
+        "anchorEnd": 6615,
+        "sourceLineNumber": 649,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6615,
+      "sourceText": "Vienes a caballo",
+      "ipa": "[bjenes a kaβaʎo]",
+      "ear": "布耶诶内斯 阿 卡巴耶奥",
+      "meaning": "你骑马而来。",
+      "sourceLineId": "donjuan-timed-650-1",
+      "suppliedText": "Vienes a caballo Bajando el monte suenan las Campanas de mi Giralda",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6615,
+        "anchorEnd": 6623.43,
+        "sourceLineNumber": 650,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6617.36,
+      "sourceText": "Bajando el monte suenan las Campanas de mi Giralda",
+      "ipa": "[baxando el monte swenan las kampanas ðe mi xiɾalða]",
+      "ear": "巴哈恩多 诶勒 莫恩特 斯乌诶纳恩 拉斯 卡姆帕纳斯 德 米 希哈勒达",
+      "meaning": "走下山坡，希拉尔达塔的钟声响起。",
+      "sourceLineId": "donjuan-timed-650-2",
+      "suppliedText": "Vienes a caballo Bajando el monte suenan las Campanas de mi Giralda",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6615,
+        "anchorEnd": 6623.43,
+        "sourceLineNumber": 650,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6624,
+      "sourceText": "Hoy quieren ir hasta la muerte",
+      "ipa": "[oj kjeɾen iɾ asta la mweɾte]",
+      "ear": "奥耶 克耶诶赫恩 伊赫 阿斯塔 拉 姆乌诶赫特",
+      "meaning": "今天，他们准备赴死，",
+      "sourceLineId": "donjuan-timed-651-1",
+      "suppliedText": "Hoy quieren ir hasta la muerte Dos hombres por ella",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6624,
+        "anchorEnd": 6630.43,
+        "sourceLineNumber": 651,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6628.399,
+      "sourceText": "Dos hombres por ella",
+      "ipa": "[dos ombɾes poɾ eʎa]",
+      "ear": "多斯 奥姆布赫斯 波赫 诶耶阿",
+      "meaning": "两个男人，为了她。",
+      "sourceLineId": "donjuan-timed-651-2",
+      "suppliedText": "Hoy quieren ir hasta la muerte Dos hombres por ella",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6624,
+        "anchorEnd": 6630.43,
+        "sourceLineNumber": 651,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6632,
+      "sourceText": "Van gritando por las calles de Sevilla que pena Andalucía",
+      "ipa": "[baŋ ɡɾitando poɾ las kaʎes ðe seβiʎa ke pena andaluθia]",
+      "ear": "巴恩 格希塔恩多 波赫 拉斯 卡耶诶斯 德 塞比耶阿 克 佩纳 阿恩达卢西阿",
+      "meaning": "他们呼喊着走过塞维利亚的街道，安达卢西亚，多么悲伤。",
+      "sourceLineId": "donjuan-timed-652-1",
+      "suppliedText": "Van gritando por las calles de Sevilla que pena Andalucia",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6632,
+        "anchorEnd": 6640,
+        "sourceLineNumber": 652,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6640,
+      "sourceText": "Cuando el sol brilla de alegría y tristeza de mi Andalucía",
+      "ipa": "[kwando el sol βɾiʎa ðe aleɣɾia i tɾisteθa ðe mi andaluθia]",
+      "ear": "克乌阿恩多 诶勒 索勒 布希耶阿 德 阿莱格希阿 伊 特希斯特萨 德 米 阿恩达卢西阿",
+      "meaning": "阳光照着我的安达卢西亚，照着她的欢喜与悲伤。",
+      "sourceLineId": "donjuan-timed-653-1",
+      "suppliedText": "Cuando el sol brilla de alegria y tristeza de mi Andalucia",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6640,
+        "anchorEnd": 6647.87,
+        "sourceLineNumber": 653,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6648,
+      "sourceText": "Piel morena tus ojos brillan",
+      "ipa": "[pjel moɾena tus oxos βɾiʎan]",
+      "ear": "普耶诶勒 莫赫纳 图斯 奥霍斯 布希耶阿恩",
+      "meaning": "褐色肌肤，你的双眼闪耀。",
+      "sourceLineId": "donjuan-timed-654-1",
+      "suppliedText": "Piel morena tus ojos brillan Doloridos de tanta tristeza",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6648,
+        "anchorEnd": 6656,
+        "sourceLineNumber": 654,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6652.0,
+      "sourceText": "Doloridos de tanta tristeza",
+      "ipa": "[doloɾiðos ðe tanta tɾisteθa]",
+      "ear": "多洛希多斯 德 塔恩塔 特希斯特萨",
+      "meaning": "满怀悲伤，疼痛不已。",
+      "sourceLineId": "donjuan-timed-654-2",
+      "suppliedText": "Piel morena tus ojos brillan Doloridos de tanta tristeza",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6648,
+        "anchorEnd": 6656,
+        "sourceLineNumber": 654,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6656,
+      "sourceText": "Cuando el sol brilla de alegría y tristeza de mi Andalucía",
+      "ipa": "[kwando el sol βɾiʎa ðe aleɣɾia i tɾisteθa ðe mi andaluθia]",
+      "ear": "克乌阿恩多 诶勒 索勒 布希耶阿 德 阿莱格希阿 伊 特希斯特萨 德 米 阿恩达卢西阿",
+      "meaning": "阳光照着我的安达卢西亚，照着她的欢喜与悲伤。",
+      "sourceLineId": "donjuan-timed-655-1",
+      "suppliedText": "Cuando el sol brilla de alegria y tristeza de mi Andalucia",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6656,
+        "anchorEnd": 6664,
+        "sourceLineNumber": 655,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6664,
+      "sourceText": "Tus casas blancas",
+      "ipa": "[tus kasas βlankas]",
+      "ear": "图斯 卡萨斯 布拉恩卡斯",
+      "meaning": "你那些洁白的房屋，",
+      "sourceLineId": "donjuan-timed-656-1",
+      "suppliedText": "Tus casas blancas donde lloran Tus ojitos blancos Sevilla.",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6664,
+        "anchorEnd": 6672,
+        "sourceLineNumber": 656,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6666.222,
+      "sourceText": "donde lloran",
+      "ipa": "[donde ʎoɾan]",
+      "ear": "多恩德 耶奥哈恩",
+      "meaning": "泪水在那里流淌。",
+      "sourceLineId": "donjuan-timed-656-2",
+      "suppliedText": "Tus casas blancas donde lloran Tus ojitos blancos Sevilla.",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6664,
+        "anchorEnd": 6672,
+        "sourceLineNumber": 656,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6668.0,
+      "sourceText": "Tus ojitos blancos Sevilla.",
+      "ipa": "[tus oxitos βlankos seβiʎa]",
+      "ear": "图斯 奥希托斯 布拉恩科斯 塞比耶阿",
+      "meaning": "塞维利亚，你明亮的小眼睛。",
+      "sourceLineId": "donjuan-timed-656-3",
+      "suppliedText": "Tus casas blancas donde lloran Tus ojitos blancos Sevilla.",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6664,
+        "anchorEnd": 6672,
+        "sourceLineNumber": 656,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6672,
+      "sourceText": "Andalucía Andalucía",
+      "ipa": "[andaluθia andaluθia]",
+      "ear": "阿恩达卢西阿 阿恩达卢西阿",
+      "meaning": "安达卢西亚，安达卢西亚。",
+      "sourceLineId": "donjuan-timed-657-1",
+      "suppliedText": "Andalucia Andalucia tanta Historia por esa envidia",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6672,
+        "anchorEnd": 6679,
+        "sourceLineNumber": 657,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6674.667,
+      "sourceText": "tanta Historia por esa envidia",
+      "ipa": "[tanta istoɾja poɾ esa embiðja]",
+      "ear": "塔恩塔 伊斯托赫耶阿 波赫 诶萨 诶姆比德耶阿",
+      "meaning": "一场嫉妒，惹出这么多纷争。",
+      "sourceLineId": "donjuan-timed-657-2",
+      "suppliedText": "Andalucia Andalucia tanta Historia por esa envidia",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6672,
+        "anchorEnd": 6679,
+        "sourceLineNumber": 657,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6679,
+      "sourceText": "Andalucía vestida de negro",
+      "ipa": "[andaluθia βestiða ðe neɣɾo]",
+      "ear": "阿恩达卢西阿 贝斯蒂达 德 内格霍",
+      "meaning": "安达卢西亚披上了黑衣，",
+      "sourceLineId": "donjuan-timed-658-1",
+      "suppliedText": "Andalucia vestida de negro van A morir en la Plaza de Triana",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6679,
+        "anchorEnd": 6687,
+        "sourceLineNumber": 658,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6682.636,
+      "sourceText": "van A morir en la Plaza de Triana",
+      "ipa": "[ban a moɾiɾ en la plaθa ðe tɾiana]",
+      "ear": "巴恩 阿 莫希赫 诶恩 拉 普拉萨 德 特希阿纳",
+      "meaning": "他们将在特里亚纳广场赴死。",
+      "sourceLineId": "donjuan-timed-658-2",
+      "suppliedText": "Andalucia vestida de negro van A morir en la Plaza de Triana",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6679,
+        "anchorEnd": 6687,
+        "sourceLineNumber": 658,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6687,
+      "sourceText": "Andalucía Andalucía",
+      "ipa": "[andaluθia andaluθia]",
+      "ear": "阿恩达卢西阿 阿恩达卢西阿",
+      "meaning": "安达卢西亚，安达卢西亚。",
+      "sourceLineId": "donjuan-timed-659-1",
+      "suppliedText": "Andalucia Andalucia tanta Historia por esa envidia",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6687,
+        "anchorEnd": 6693,
+        "sourceLineNumber": 659,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6689.286,
+      "sourceText": "tanta Historia por esa envidia",
+      "ipa": "[tanta istoɾja poɾ esa embiðja]",
+      "ear": "塔恩塔 伊斯托赫耶阿 波赫 诶萨 诶姆比德耶阿",
+      "meaning": "一场嫉妒，惹出这么多纷争。",
+      "sourceLineId": "donjuan-timed-659-2",
+      "suppliedText": "Andalucia Andalucia tanta Historia por esa envidia",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6687,
+        "anchorEnd": 6693,
+        "sourceLineNumber": 659,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6693,
+      "sourceText": "Andalucía vestida de negro",
+      "ipa": "[andaluθia βestiða ðe neɣɾo]",
+      "ear": "阿恩达卢西阿 贝斯蒂达 德 内格霍",
+      "meaning": "安达卢西亚披上了黑衣，",
+      "sourceLineId": "donjuan-timed-660-1",
+      "suppliedText": "Andalucia vestida de negro van A morir en la Plaza de Triana",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6693,
+        "anchorEnd": 6700,
+        "sourceLineNumber": 660,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6696.182,
+      "sourceText": "van A morir en la Plaza de Triana",
+      "ipa": "[ban a moɾiɾ en la plaθa ðe tɾiana]",
+      "ear": "巴恩 阿 莫希赫 诶恩 拉 普拉萨 德 特希阿纳",
+      "meaning": "他们将在特里亚纳广场赴死。",
+      "sourceLineId": "donjuan-timed-660-2",
+      "suppliedText": "Andalucia vestida de negro van A morir en la Plaza de Triana",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6693,
+        "anchorEnd": 6700,
+        "sourceLineNumber": 660,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6700,
+      "sourceText": "Andalucía Andalucía",
+      "ipa": "[andaluθia andaluθia]",
+      "ear": "阿恩达卢西阿 阿恩达卢西阿",
+      "meaning": "安达卢西亚，安达卢西亚。",
+      "sourceLineId": "donjuan-timed-661-1",
+      "suppliedText": "Andalucia Andalucia tanta Historia por esa envidia Andalucia vestida de negro",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6700,
+        "anchorEnd": 6709.89,
+        "sourceLineNumber": 661,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6702.552,
+      "sourceText": "tanta Historia por esa envidia",
+      "ipa": "[tanta istoɾja poɾ esa embiðja]",
+      "ear": "塔恩塔 伊斯托赫耶阿 波赫 诶萨 诶姆比德耶阿",
+      "meaning": "一场嫉妒，惹出这么多纷争。",
+      "sourceLineId": "donjuan-timed-661-2",
+      "suppliedText": "Andalucia Andalucia tanta Historia por esa envidia Andalucia vestida de negro",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6700,
+        "anchorEnd": 6709.89,
+        "sourceLineNumber": 661,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6706.7,
+      "sourceText": "Andalucía vestida de negro",
+      "ipa": "[andaluθia βestiða ðe neɣɾo]",
+      "ear": "阿恩达卢西阿 贝斯蒂达 德 内格霍",
+      "meaning": "安达卢西亚披上了黑衣，",
+      "sourceLineId": "donjuan-timed-661-3",
+      "suppliedText": "Andalucia Andalucia tanta Historia por esa envidia Andalucia vestida de negro",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6700,
+        "anchorEnd": 6709.89,
+        "sourceLineNumber": 661,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6710,
+      "sourceText": "van A morir en la Plaza de Triana",
+      "ipa": "[ban a moɾiɾ en la plaθa ðe tɾiana]",
+      "ear": "巴恩 阿 莫希赫 诶恩 拉 普拉萨 德 特希阿纳",
+      "meaning": "他们将在特里亚纳广场赴死。",
+      "sourceLineId": "donjuan-timed-662-1",
+      "suppliedText": "van A morir en la Plaza de Triana Andalucia Andalucia tanta Historia por esa envidia",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6710,
+        "anchorEnd": 6718,
+        "sourceLineNumber": 662,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6712.909,
+      "sourceText": "Andalucía Andalucía",
+      "ipa": "[andaluθia andaluθia]",
+      "ear": "阿恩达卢西阿 阿恩达卢西阿",
+      "meaning": "安达卢西亚，安达卢西亚。",
+      "sourceLineId": "donjuan-timed-662-2",
+      "suppliedText": "van A morir en la Plaza de Triana Andalucia Andalucia tanta Historia por esa envidia",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6710,
+        "anchorEnd": 6718,
+        "sourceLineNumber": 662,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6714.848,
+      "sourceText": "tanta Historia por esa envidia",
+      "ipa": "[tanta istoɾja poɾ esa embiðja]",
+      "ear": "塔恩塔 伊斯托赫耶阿 波赫 诶萨 诶姆比德耶阿",
+      "meaning": "一场嫉妒，惹出这么多纷争。",
+      "sourceLineId": "donjuan-timed-662-3",
+      "suppliedText": "van A morir en la Plaza de Triana Andalucia Andalucia tanta Historia por esa envidia",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6710,
+        "anchorEnd": 6718,
+        "sourceLineNumber": 662,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6718,
+      "sourceText": "Andalucía vestida de negro",
+      "ipa": "[andaluθia βestiða ðe neɣɾo]",
+      "ear": "阿恩达卢西阿 贝斯蒂达 德 内格霍",
+      "meaning": "安达卢西亚披上了黑衣，",
+      "sourceLineId": "donjuan-timed-663-1",
+      "suppliedText": "Andalucia vestida de negro van A morir en la Plaza de Triana Andalucia Andalucia",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6718,
+        "anchorEnd": 6727,
+        "sourceLineNumber": 663,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6721.0,
+      "sourceText": "van A morir en la Plaza de Triana",
+      "ipa": "[ban a moɾiɾ en la plaθa ðe tɾiana]",
+      "ear": "巴恩 阿 莫希赫 诶恩 拉 普拉萨 德 特希阿纳",
+      "meaning": "他们将在特里亚纳广场赴死。",
+      "sourceLineId": "donjuan-timed-663-2",
+      "suppliedText": "Andalucia vestida de negro van A morir en la Plaza de Triana Andalucia Andalucia",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6718,
+        "anchorEnd": 6727,
+        "sourceLineNumber": 663,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6724.6,
+      "sourceText": "Andalucía Andalucía",
+      "ipa": "[andaluθia andaluθia]",
+      "ear": "阿恩达卢西阿 阿恩达卢西阿",
+      "meaning": "安达卢西亚，安达卢西亚。",
+      "sourceLineId": "donjuan-timed-663-3",
+      "suppliedText": "Andalucia vestida de negro van A morir en la Plaza de Triana Andalucia Andalucia",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6718,
+        "anchorEnd": 6727,
+        "sourceLineNumber": 663,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6727,
+      "sourceText": "tanta Historia por esa envidia",
+      "ipa": "[tanta istoɾja poɾ esa embiðja]",
+      "ear": "塔恩塔 伊斯托赫耶阿 波赫 诶萨 诶姆比德耶阿",
+      "meaning": "一场嫉妒，惹出这么多纷争。",
+      "sourceLineId": "donjuan-timed-664-1",
+      "suppliedText": "tanta Historia por esa envidia Andalucia vestida de negro van A morir en la Plaza de Triana",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6727,
+        "anchorEnd": 6736,
+        "sourceLineNumber": 664,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6730.343,
+      "sourceText": "Andalucía vestida de negro",
+      "ipa": "[andaluθia βestiða ðe neɣɾo]",
+      "ear": "阿恩达卢西阿 贝斯蒂达 德 内格霍",
+      "meaning": "安达卢西亚披上了黑衣，",
+      "sourceLineId": "donjuan-timed-664-2",
+      "suppliedText": "tanta Historia por esa envidia Andalucia vestida de negro van A morir en la Plaza de Triana",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6727,
+        "anchorEnd": 6736,
+        "sourceLineNumber": 664,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6732.914,
+      "sourceText": "van A morir en la Plaza de Triana",
+      "ipa": "[ban a moɾiɾ en la plaθa ðe tɾiana]",
+      "ear": "巴恩 阿 莫希赫 诶恩 拉 普拉萨 德 特希阿纳",
+      "meaning": "他们将在特里亚纳广场赴死。",
+      "sourceLineId": "donjuan-timed-664-3",
+      "suppliedText": "tanta Historia por esa envidia Andalucia vestida de negro van A morir en la Plaza de Triana",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 6727,
+        "anchorEnd": 6736,
+        "sourceLineNumber": 664,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 6736,
+      "sourceText": "Andalucía",
+      "ipa": "[andaluθia]",
+      "ear": "阿恩达卢西阿",
+      "meaning": "安达卢西亚。",
+      "sourceLineId": "donjuan-timed-665-1",
+      "suppliedText": "Andalucia",
+      "language": "es",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 6736,
+        "anchorEnd": 6738.12,
+        "sourceLineNumber": 665,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

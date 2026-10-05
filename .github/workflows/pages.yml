@@ -55,6 +55,8 @@ jobs:
         run: python tests/moliere-lyrics-import.test.py
       - name: Verify supplied Mozart chapters and recovered line breaks
         run: python -m unittest discover -s scripts -p test_mozart_study.py
+      - name: Verify Don Juan import boundaries
+        run: python -m unittest discover -s scripts -p test_donjuan_study.py
       - name: Read YouTube metadata and captions (no audio download)
         env:
           VIDEO_INPUT: ${{ inputs.youtube_url }}

@@ -1,0 +1,868 @@
+{
+  "videoId": "donjuan-30",
+  "playbackVideoId": "ZmzpG11NJwc",
+  "version": 1,
+  "textSource": "user-supplied-timed-transcript",
+  "sourceFileSHA256": "1efbcb1ed082277ec99b2badfd67fc40e805a53e111ffa38c83b684e5edd4965",
+  "sourceFilename": "已粘贴的文本.txt",
+  "textReviewStatus": "user-supplied-manual-transcript",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections",
+  "meaningSource": "machine-chinese-with-editorial-corrections",
+  "pronunciationEngine": "eSpeak NG phrase and word readings with liaison corrections",
+  "note": "歌词原文与时间点采用你提供的本场字幕。中文释义结合人物和情境整理；音标为参考读法。≈ 表示字幕块内分句及末尾的近似切点。",
+  "sources": [
+    {
+      "label": "本场原唱录像",
+      "url": "https://www.youtube.com/watch?v=ZmzpG11NJwc&t=5094"
+    }
+  ],
+  "entries": [
+    {
+      "start": 5109,
+      "sourceText": "Pourquoi",
+      "ipa": "[puʁkwa]",
+      "ear": "普赫克乌阿",
+      "meaning": "为什么？",
+      "sourceLineId": "donjuan-timed-500-1",
+      "suppliedText": "Pourquoi Regarde-t-il la seule femme que je regarde moi Dis-moi pourquoi, Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5109,
+        "anchorEnd": 5119.09,
+        "sourceLineNumber": 500,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5110.484,
+      "sourceText": "Regarde-t-il la seule femme que je regarde moi",
+      "ipa": "[ʁəɡaʁdtil la sœl fam kə ʒə ʁəɡaʁd mwa]",
+      "ear": "赫嘎赫德蒂勒 拉 瑟厄勒 法姆 克 热 赫嘎赫德 姆乌阿",
+      "meaning": "为什么他偏偏看上我唯一心爱的女人？",
+      "sourceLineId": "donjuan-timed-500-2",
+      "suppliedText": "Pourquoi Regarde-t-il la seule femme que je regarde moi Dis-moi pourquoi, Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5109,
+        "anchorEnd": 5119.09,
+        "sourceLineNumber": 500,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5115.826,
+      "sourceText": "Dis-moi pourquoi, Maria",
+      "ipa": "[dimwa puʁkwa maʁja]",
+      "ear": "迪姆乌阿 普赫克乌阿 玛赫耶阿",
+      "meaning": "告诉我为什么，玛丽亚",
+      "sourceLineId": "donjuan-timed-500-3",
+      "suppliedText": "Pourquoi Regarde-t-il la seule femme que je regarde moi Dis-moi pourquoi, Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5109,
+        "anchorEnd": 5119.09,
+        "sourceLineNumber": 500,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5120,
+      "sourceText": "Pourquoi n'a-t-il pas ce qu'il veut",
+      "ipa": "[puʁkwa natil pa sə kil vø]",
+      "ear": "普赫克乌阿 纳蒂勒 帕 瑟 基勒 弗厄",
+      "meaning": "为什么他没有得到他想要的东西？",
+      "sourceLineId": "donjuan-timed-501-1",
+      "suppliedText": "Pourquoi n'a-t-il pas ce qu'il veut Pourquoi te prendre toi Toi Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5120,
+        "anchorEnd": 5129,
+        "sourceLineNumber": 501,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5124.179,
+      "sourceText": "Pourquoi te prendre toi",
+      "ipa": "[puʁkwa tə pʁɑ̃dʁ twa]",
+      "ear": "普赫克乌阿 特 普杭德赫 特乌阿",
+      "meaning": "为什么偏偏要夺走你？",
+      "sourceLineId": "donjuan-timed-501-2",
+      "suppliedText": "Pourquoi n'a-t-il pas ce qu'il veut Pourquoi te prendre toi Toi Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5120,
+        "anchorEnd": 5129,
+        "sourceLineNumber": 501,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5127.393,
+      "sourceText": "Toi Maria",
+      "ipa": "[twa maʁja]",
+      "ear": "特乌阿 玛赫耶阿",
+      "meaning": "你，玛丽亚。",
+      "sourceLineId": "donjuan-timed-501-3",
+      "suppliedText": "Pourquoi n'a-t-il pas ce qu'il veut Pourquoi te prendre toi Toi Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5120,
+        "anchorEnd": 5129,
+        "sourceLineNumber": 501,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5129,
+      "sourceText": "Je le tuerai pour ça",
+      "ipa": "[ʒə lə tyʁe puʁ sa]",
+      "ear": "热 勒 蒂于赫 普赫 萨",
+      "meaning": "我会为此杀了他",
+      "sourceLineId": "donjuan-timed-502-1",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai crois-moi Je n'ai plus rien a perdre Si toi tu n'es pas la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5129,
+        "anchorEnd": 5138.39,
+        "sourceLineNumber": 502,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5131.415,
+      "sourceText": "Je le tuerai crois-moi",
+      "ipa": "[ʒə lə tyʁe kʁwamwa]",
+      "ear": "热 勒 蒂于赫 克赫乌阿姆乌阿",
+      "meaning": "我会杀了他，相信我",
+      "sourceLineId": "donjuan-timed-502-2",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai crois-moi Je n'ai plus rien a perdre Si toi tu n'es pas la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5129,
+        "anchorEnd": 5138.39,
+        "sourceLineNumber": 502,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5134.097,
+      "sourceText": "Je n'ai plus rien à perdre",
+      "ipa": "[ʒə ne ply ʁjɛ̃n‿a pɛʁdʁ]",
+      "ear": "热 内 普吕 赫耶安恩 阿 佩赫德赫",
+      "meaning": "我已经没什么可失去的了",
+      "sourceLineId": "donjuan-timed-502-3",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai crois-moi Je n'ai plus rien a perdre Si toi tu n'es pas la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5129,
+        "anchorEnd": 5138.39,
+        "sourceLineNumber": 502,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5136.512,
+      "sourceText": "Si toi tu n'es pas là",
+      "ipa": "[si twa ty nɛ pa la]",
+      "ear": "西 特乌阿 蒂于 奈 帕 拉",
+      "meaning": "如果你不在我身边，",
+      "sourceLineId": "donjuan-timed-502-4",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai crois-moi Je n'ai plus rien a perdre Si toi tu n'es pas la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5129,
+        "anchorEnd": 5138.39,
+        "sourceLineNumber": 502,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5139,
+      "sourceText": "Je le tuerai pour ça",
+      "ipa": "[ʒə lə tyʁe puʁ sa]",
+      "ear": "热 勒 蒂于赫 普赫 萨",
+      "meaning": "我会为此杀了他",
+      "sourceLineId": "donjuan-timed-503-1",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai 100 fois S'il me fallait te perdre Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5139,
+        "anchorEnd": 5148.07,
+        "sourceLineNumber": 503,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5141.915,
+      "sourceText": "Je le tuerai 100 fois",
+      "ipa": "[ʒə lə tyʁe sɑ̃ fwa]",
+      "ear": "热 勒 蒂于赫 桑 弗乌阿",
+      "meaning": "我要杀他100次",
+      "sourceLineId": "donjuan-timed-503-2",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai 100 fois S'il me fallait te perdre Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5139,
+        "anchorEnd": 5148.07,
+        "sourceLineNumber": 503,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5144.507,
+      "sourceText": "S'il me fallait te perdre Maria",
+      "ipa": "[sil mə falɛ tə pɛʁdʁ maʁja]",
+      "ear": "西勒 默 法莱 特 佩赫德赫 玛赫耶阿",
+      "meaning": "如果我不得不失去你玛丽亚",
+      "sourceLineId": "donjuan-timed-503-3",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai 100 fois S'il me fallait te perdre Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5139,
+        "anchorEnd": 5148.07,
+        "sourceLineNumber": 503,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5151,
+      "sourceText": "Pourquoi",
+      "ipa": "[puʁkwa]",
+      "ear": "普赫克乌阿",
+      "meaning": "为什么？",
+      "sourceLineId": "donjuan-timed-504-1",
+      "suppliedText": "Pourquoi Je ne voulais rien d'autre que de vivre avec toi Moi je me fous des autres",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5151,
+        "anchorEnd": 5158.23,
+        "sourceLineNumber": 504,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5152.033,
+      "sourceText": "Je ne voulais rien d'autre que de vivre avec toi",
+      "ipa": "[ʒə nə vulɛ ʁjɛ̃ dotʁ kə də vivʁ‿avɛk twa]",
+      "ear": "热 讷 乌莱 赫耶安 多特赫 克 德 维弗赫 阿韦克 特乌阿",
+      "meaning": "我只想与你一起生活。",
+      "sourceLineId": "donjuan-timed-504-2",
+      "suppliedText": "Pourquoi Je ne voulais rien d'autre que de vivre avec toi Moi je me fous des autres",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5151,
+        "anchorEnd": 5158.23,
+        "sourceLineNumber": 504,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5156.164,
+      "sourceText": "Moi je me fous des autres",
+      "ipa": "[mwa ʒə mə fu dez‿otʁ]",
+      "ear": "姆乌阿 热 默 富 德兹 奥特赫",
+      "meaning": "我不关心别人",
+      "sourceLineId": "donjuan-timed-504-3",
+      "suppliedText": "Pourquoi Je ne voulais rien d'autre que de vivre avec toi Moi je me fous des autres",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5151,
+        "anchorEnd": 5158.23,
+        "sourceLineNumber": 504,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5159,
+      "sourceText": "Maria",
+      "ipa": "[maʁja]",
+      "ear": "玛赫耶阿",
+      "meaning": "玛丽亚。",
+      "sourceLineId": "donjuan-timed-505-1",
+      "suppliedText": "Maria Pourquoi, j'ai jamais fait de mal a personne Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5159,
+        "anchorEnd": 5165.99,
+        "sourceLineNumber": 505,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5159.874,
+      "sourceText": "Pourquoi, j'ai jamais fait de mal à personne Maria",
+      "ipa": "[puʁkwa ʒe ʒamɛ fɛ də mal‿a pɛʁsɔn maʁja]",
+      "ear": "普赫克乌阿 热 扎梅 费 德 玛勒 阿 佩赫索恩 玛赫耶阿",
+      "meaning": "为什么，我从来没有伤害过任何人玛丽亚",
+      "sourceLineId": "donjuan-timed-505-2",
+      "suppliedText": "Maria Pourquoi, j'ai jamais fait de mal a personne Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5159,
+        "anchorEnd": 5165.99,
+        "sourceLineNumber": 505,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5166,
+      "sourceText": "Si quelqu'un me pardonne, je veux que",
+      "ipa": "[si kɛlkœ̃ mə paʁdɔn ʒə vø kə]",
+      "ear": "西 凯勒坎 默 帕赫多恩 热 弗厄 克",
+      "meaning": "如果有人原谅我，我想要",
+      "sourceLineId": "donjuan-timed-506-1",
+      "suppliedText": "Si quelqu'un me pardonne, je veux que Ce soit toi Je le tuerai pour ca Je le tuerai crois-moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5166,
+        "anchorEnd": 5174.97,
+        "sourceLineNumber": 506,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5169.305,
+      "sourceText": "Ce soit toi",
+      "ipa": "[sə swa twa]",
+      "ear": "瑟 斯乌阿 特乌阿",
+      "meaning": "是你",
+      "sourceLineId": "donjuan-timed-506-2",
+      "suppliedText": "Si quelqu'un me pardonne, je veux que Ce soit toi Je le tuerai pour ca Je le tuerai crois-moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5166,
+        "anchorEnd": 5174.97,
+        "sourceLineNumber": 506,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5170.485,
+      "sourceText": "Je le tuerai pour ça",
+      "ipa": "[ʒə lə tyʁe puʁ sa]",
+      "ear": "热 勒 蒂于赫 普赫 萨",
+      "meaning": "我会为此杀了他",
+      "sourceLineId": "donjuan-timed-506-3",
+      "suppliedText": "Si quelqu'un me pardonne, je veux que Ce soit toi Je le tuerai pour ca Je le tuerai crois-moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5166,
+        "anchorEnd": 5174.97,
+        "sourceLineNumber": 506,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5172.609,
+      "sourceText": "Je le tuerai crois-moi",
+      "ipa": "[ʒə lə tyʁe kʁwamwa]",
+      "ear": "热 勒 蒂于赫 克赫乌阿姆乌阿",
+      "meaning": "我会杀了他，相信我",
+      "sourceLineId": "donjuan-timed-506-4",
+      "suppliedText": "Si quelqu'un me pardonne, je veux que Ce soit toi Je le tuerai pour ca Je le tuerai crois-moi",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5166,
+        "anchorEnd": 5174.97,
+        "sourceLineNumber": 506,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5175,
+      "sourceText": "Il n'y avait qu'une femme",
+      "ipa": "[il ni avɛ kyn fam]",
+      "ear": "伊勒 尼 阿韦 基于恩 法姆",
+      "meaning": "只有一个女人",
+      "sourceLineId": "donjuan-timed-507-1",
+      "suppliedText": "Il n'y avait qu'une femme Et c'etait toi, Maria Je le tuerai tu vois Je le tuerai 100 fois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5175,
+        "anchorEnd": 5184.76,
+        "sourceLineNumber": 507,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5177.711,
+      "sourceText": "Et c'était toi, Maria",
+      "ipa": "[e setɛ twa maʁja]",
+      "ear": "诶 塞泰 特乌阿 玛赫耶阿",
+      "meaning": "那就是你，玛丽亚",
+      "sourceLineId": "donjuan-timed-507-2",
+      "suppliedText": "Il n'y avait qu'une femme Et c'etait toi, Maria Je le tuerai tu vois Je le tuerai 100 fois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5175,
+        "anchorEnd": 5184.76,
+        "sourceLineNumber": 507,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5180.151,
+      "sourceText": "Je le tuerai tu vois",
+      "ipa": "[ʒə lə tyʁe ty vwa]",
+      "ear": "热 勒 蒂于赫 蒂于 弗乌阿",
+      "meaning": "我会杀了他你看",
+      "sourceLineId": "donjuan-timed-507-3",
+      "suppliedText": "Il n'y avait qu'une femme Et c'etait toi, Maria Je le tuerai tu vois Je le tuerai 100 fois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5175,
+        "anchorEnd": 5184.76,
+        "sourceLineNumber": 507,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5182.591,
+      "sourceText": "Je le tuerai 100 fois",
+      "ipa": "[ʒə lə tyʁe sɑ̃ fwa]",
+      "ear": "热 勒 蒂于赫 桑 弗乌阿",
+      "meaning": "我要杀他100次",
+      "sourceLineId": "donjuan-timed-507-4",
+      "suppliedText": "Il n'y avait qu'une femme Et c'etait toi, Maria Je le tuerai tu vois Je le tuerai 100 fois",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5175,
+        "anchorEnd": 5184.76,
+        "sourceLineNumber": 507,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5185,
+      "sourceText": "Je me fous de mon âme",
+      "ipa": "[ʒə mə fu də mɔ̃n‿am]",
+      "ear": "热 默 富 德 蒙恩 阿姆",
+      "meaning": "我不在乎我的灵魂",
+      "sourceLineId": "donjuan-timed-508-1",
+      "suppliedText": "Je me fous de mon ame Je l'ai perdue deja Regarde",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5185,
+        "anchorEnd": 5191.85,
+        "sourceLineNumber": 508,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5187.884,
+      "sourceText": "Je l'ai perdue déjà",
+      "ipa": "[ʒə le pɛʁdy deʒa]",
+      "ear": "热 莱 佩赫迪于 德扎",
+      "meaning": "我早已失去了灵魂。",
+      "sourceLineId": "donjuan-timed-508-2",
+      "suppliedText": "Je me fous de mon ame Je l'ai perdue deja Regarde",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5185,
+        "anchorEnd": 5191.85,
+        "sourceLineNumber": 508,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5190.768,
+      "sourceText": "Regarde",
+      "ipa": "[ʁəɡaʁd]",
+      "ear": "赫嘎赫德",
+      "meaning": "看看我。",
+      "sourceLineId": "donjuan-timed-508-3",
+      "suppliedText": "Je me fous de mon ame Je l'ai perdue deja Regarde",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5185,
+        "anchorEnd": 5191.85,
+        "sourceLineNumber": 508,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5193,
+      "sourceText": "C'est un homme à genoux qui vient te supplier",
+      "ipa": "[sɛt‿œ̃n‿ɔm‿a ʒənu ki vjɛ̃ tə syplie]",
+      "ear": "塞特 恩恩 哦姆 阿 热努 基 弗耶安 特 西于普利诶",
+      "meaning": "这是一个跪着求你的人",
+      "sourceLineId": "donjuan-timed-509-1",
+      "suppliedText": "C'est un homme a genoux qui vient te supplier J'accepte tout, meme la pitie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5193,
+        "anchorEnd": 5200.49,
+        "sourceLineNumber": 509,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5197.439,
+      "sourceText": "J'accepte tout, même la pitié",
+      "ipa": "[ʒaksɛpt tu mɛm la pitje]",
+      "ear": "扎克塞普特 图 梅姆 拉 皮特耶诶",
+      "meaning": "我接受一切，甚至怜悯",
+      "sourceLineId": "donjuan-timed-509-2",
+      "suppliedText": "C'est un homme a genoux qui vient te supplier J'accepte tout, meme la pitie",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5193,
+        "anchorEnd": 5200.49,
+        "sourceLineNumber": 509,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5201,
+      "sourceText": "Je le tuerai pour ça",
+      "ipa": "[ʒə lə tyʁe puʁ sa]",
+      "ear": "热 勒 蒂于赫 普赫 萨",
+      "meaning": "我会为此杀了他",
+      "sourceLineId": "donjuan-timed-510-1",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai crois-moi Je n'ai plus rien a perdre Si toi tu n'es pas la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5201,
+        "anchorEnd": 5209.93,
+        "sourceLineNumber": 510,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5203.296,
+      "sourceText": "Je le tuerai crois-moi",
+      "ipa": "[ʒə lə tyʁe kʁwamwa]",
+      "ear": "热 勒 蒂于赫 克赫乌阿姆乌阿",
+      "meaning": "我会杀了他，相信我",
+      "sourceLineId": "donjuan-timed-510-2",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai crois-moi Je n'ai plus rien a perdre Si toi tu n'es pas la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5201,
+        "anchorEnd": 5209.93,
+        "sourceLineNumber": 510,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5205.848,
+      "sourceText": "Je n'ai plus rien à perdre",
+      "ipa": "[ʒə ne ply ʁjɛ̃n‿a pɛʁdʁ]",
+      "ear": "热 内 普吕 赫耶安恩 阿 佩赫德赫",
+      "meaning": "我已经没什么可失去的了",
+      "sourceLineId": "donjuan-timed-510-3",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai crois-moi Je n'ai plus rien a perdre Si toi tu n'es pas la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5201,
+        "anchorEnd": 5209.93,
+        "sourceLineNumber": 510,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5208.144,
+      "sourceText": "Si toi tu n'es pas là",
+      "ipa": "[si twa ty nɛ pa la]",
+      "ear": "西 特乌阿 蒂于 奈 帕 拉",
+      "meaning": "如果你不在我身边，",
+      "sourceLineId": "donjuan-timed-510-4",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai crois-moi Je n'ai plus rien a perdre Si toi tu n'es pas la",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5201,
+        "anchorEnd": 5209.93,
+        "sourceLineNumber": 510,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5210,
+      "sourceText": "Je le tuerai pour ça",
+      "ipa": "[ʒə lə tyʁe puʁ sa]",
+      "ear": "热 勒 蒂于赫 普赫 萨",
+      "meaning": "我会为此杀了他",
+      "sourceLineId": "donjuan-timed-511-1",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai 100 fois Si me fallait te perdre Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5210,
+        "anchorEnd": 5219,
+        "sourceLineNumber": 511,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5212.893,
+      "sourceText": "Je le tuerai 100 fois",
+      "ipa": "[ʒə lə tyʁe sɑ̃ fwa]",
+      "ear": "热 勒 蒂于赫 桑 弗乌阿",
+      "meaning": "我要杀他100次",
+      "sourceLineId": "donjuan-timed-511-2",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai 100 fois Si me fallait te perdre Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5210,
+        "anchorEnd": 5219,
+        "sourceLineNumber": 511,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5215.464,
+      "sourceText": "S'il me fallait te perdre Maria",
+      "ipa": "[sil mə falɛ tə pɛʁdʁ maʁja]",
+      "ear": "西勒 默 法莱 特 佩赫德赫 玛赫耶阿",
+      "meaning": "如果我不得不失去你玛丽亚",
+      "sourceLineId": "donjuan-timed-511-3",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai 100 fois Si me fallait te perdre Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5210,
+        "anchorEnd": 5219,
+        "sourceLineNumber": 511,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5219,
+      "sourceText": "Je le tuerai pour ça",
+      "ipa": "[ʒə lə tyʁe puʁ sa]",
+      "ear": "热 勒 蒂于赫 普赫 萨",
+      "meaning": "我会为此杀了他",
+      "sourceLineId": "donjuan-timed-512-1",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai crois-moi Il n'y avait qu'une femme Et c'etait toi, Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5219,
+        "anchorEnd": 5228,
+        "sourceLineNumber": 512,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5221.132,
+      "sourceText": "Je le tuerai crois-moi",
+      "ipa": "[ʒə lə tyʁe kʁwamwa]",
+      "ear": "热 勒 蒂于赫 克赫乌阿姆乌阿",
+      "meaning": "我会杀了他，相信我",
+      "sourceLineId": "donjuan-timed-512-2",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai crois-moi Il n'y avait qu'une femme Et c'etait toi, Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5219,
+        "anchorEnd": 5228,
+        "sourceLineNumber": 512,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5223.5,
+      "sourceText": "Il n'y avait qu'une femme",
+      "ipa": "[il ni avɛ kyn fam]",
+      "ear": "伊勒 尼 阿韦 基于恩 法姆",
+      "meaning": "只有一个女人",
+      "sourceLineId": "donjuan-timed-512-3",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai crois-moi Il n'y avait qu'une femme Et c'etait toi, Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5219,
+        "anchorEnd": 5228,
+        "sourceLineNumber": 512,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5225.868,
+      "sourceText": "Et c'était toi, Maria",
+      "ipa": "[e setɛ twa maʁja]",
+      "ear": "诶 塞泰 特乌阿 玛赫耶阿",
+      "meaning": "那就是你，玛丽亚",
+      "sourceLineId": "donjuan-timed-512-4",
+      "suppliedText": "Je le tuerai pour ca Je le tuerai crois-moi Il n'y avait qu'une femme Et c'etait toi, Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5219,
+        "anchorEnd": 5228,
+        "sourceLineNumber": 512,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5228,
+      "sourceText": "Je le tuerai tu vois",
+      "ipa": "[ʒə lə tyʁe ty vwa]",
+      "ear": "热 勒 蒂于赫 蒂于 弗乌阿",
+      "meaning": "我会杀了他你看",
+      "sourceLineId": "donjuan-timed-513-1",
+      "suppliedText": "Je le tuerai tu vois Je le tuerai 100 fois Je me fous de mon ame Je l'ai perdue deja",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5228,
+        "anchorEnd": 5237.57,
+        "sourceLineNumber": 513,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5230.61,
+      "sourceText": "Je le tuerai 100 fois",
+      "ipa": "[ʒə lə tyʁe sɑ̃ fwa]",
+      "ear": "热 勒 蒂于赫 桑 弗乌阿",
+      "meaning": "我要杀他100次",
+      "sourceLineId": "donjuan-timed-513-2",
+      "suppliedText": "Je le tuerai tu vois Je le tuerai 100 fois Je me fous de mon ame Je l'ai perdue deja",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5228,
+        "anchorEnd": 5237.57,
+        "sourceLineNumber": 513,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5232.93,
+      "sourceText": "Je me fous de mon âme",
+      "ipa": "[ʒə mə fu də mɔ̃n‿am]",
+      "ear": "热 默 富 德 蒙恩 阿姆",
+      "meaning": "我不在乎我的灵魂",
+      "sourceLineId": "donjuan-timed-513-3",
+      "suppliedText": "Je le tuerai tu vois Je le tuerai 100 fois Je me fous de mon ame Je l'ai perdue deja",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5228,
+        "anchorEnd": 5237.57,
+        "sourceLineNumber": 513,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5235.25,
+      "sourceText": "Je l'ai perdue déjà",
+      "ipa": "[ʒə le pɛʁdy deʒa]",
+      "ear": "热 莱 佩赫迪于 德扎",
+      "meaning": "我早已失去了灵魂。",
+      "sourceLineId": "donjuan-timed-513-4",
+      "suppliedText": "Je le tuerai tu vois Je le tuerai 100 fois Je me fous de mon ame Je l'ai perdue deja",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor-subdivision",
+        "anchorStart": 5228,
+        "anchorEnd": 5237.57,
+        "sourceLineNumber": 513,
+        "precision": "approximate"
+      }
+    },
+    {
+      "start": 5238,
+      "sourceText": "En te perdant Maria",
+      "ipa": "[ɑ̃ tə pɛʁdɑ̃ maʁja]",
+      "ear": "昂 特 佩赫当 玛赫耶阿",
+      "meaning": "失去你玛丽亚",
+      "sourceLineId": "donjuan-timed-514-1",
+      "suppliedText": "En te perdant Maria",
+      "language": "fr",
+      "kind": "lyric-or-dialogue",
+      "timing": {
+        "method": "user-supplied-anchor",
+        "anchorStart": 5238,
+        "anchorEnd": 5349.21,
+        "sourceLineNumber": 514,
+        "precision": "approximate"
+      }
+    }
+  ]
+}
