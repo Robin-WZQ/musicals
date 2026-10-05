@@ -10,14 +10,105 @@
   "musicalId": "moliere",
   "trackNumber": 32,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "J'imagine que vous devez être un homme heureux et comblé je suis né disgracieux et de",
+      "start": 0,
+      "duration": 8
+    },
+    {
+      "text": "Senté fragile le caractère ombrage et versatile la haine était devenue mon étendard le vice et la débuche mes",
+      "start": 8,
+      "duration": 8
+    },
+    {
+      "text": "Seules exutoires ma vie était senspoir j'accumulais les desoir mes défêtes étaient toujours plus grandes que mes victoires qu'importe les- Y Histoire",
+      "start": 16,
+      "duration": 9
+    },
+    {
+      "text": "Impossible d'y croire. Je pensais qu'il était trop tard, qu'il était trop tard. C'est la vie qui m'a fait, moi je n'ai rien…",
+      "start": 25,
+      "duration": 9
+    },
+    {
+      "text": "Demandé. Cette vie, je l'ai refusée, mais les dieux ont décidé. C'est…",
+      "start": 34,
+      "duration": 8
+    },
+    {
+      "text": "La vie qui m'a fait, moi je n'ai rien… Cette vie, je l'ai refusée, mais les…",
+      "start": 42,
+      "duration": 9
+    },
+    {
+      "text": "Dieux ont décidé j'avais au fond de moi une telle colère qui m'animait m'exaltait et",
+      "start": 51,
+      "duration": 7
+    },
+    {
+      "text": "M'enivrait je m' don à tous les plaisirs en déplais à ce qui avait à redire cela me faisait souffrir souffrir me donnait",
+      "start": 58,
+      "duration": 8
+    },
+    {
+      "text": "Le sourire puis tu m'a sauvé de mes fils libéré mes sue désormais ma vie sera déué de tout ti fils quoi que je suis",
+      "start": 66,
+      "duration": 9
+    },
+    {
+      "text": "… Si jamais je défie… que le ciel me… C'est la vie qui m'a fait…",
+      "start": 75,
+      "duration": 7
+    },
+    {
+      "text": "Moi je n'ai rien demandé. Cette vie, je l'ai refusée…",
+      "start": 82,
+      "duration": 7
+    },
+    {
+      "text": "Mais les dieux ont décidé. Et je…",
+      "start": 89,
+      "duration": 10
+    },
+    {
+      "text": "Pleure puoui je pleure coméie tragédie",
+      "start": 99,
+      "duration": 8
+    },
+    {
+      "text": "Avil est maudit trahison perfidie mon je n'ai pas choisi comédie",
+      "start": 107,
+      "duration": 11
+    },
+    {
+      "text": "Tragédie funesse de parodie puis repenti converti non je n'ai pas",
+      "start": 118,
+      "duration": 10
+    },
+    {
+      "text": "Choisi. C'est la vie qui m'a fait, moi je n'ai rien demandé. Cette vie, je l'ai…",
+      "start": 128,
+      "duration": 10
+    },
+    {
+      "text": "Refusée, mais les dieux ont décidé. Et je pleure…",
+      "start": 138,
+      "duration": 10
+    },
+    {
+      "text": "Oui je ple ah",
+      "start": 148,
+      "duration": 11
+    }
+  ],
   "playbackVideoId": "pHhXM6TCwns",
   "sourceURL": "https://www.youtube.com/watch?v=pHhXM6TCwns",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=pHhXM6TCwns",
@@ -108,10 +199,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250316",
   "productionYear": 2023,
@@ -200,5 +291,107 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 651,
+      "start": 0,
+      "text": "j'imagine que vous devez être un homme heureux et comblé je suis né disgracieux et de"
+    },
+    {
+      "sourceLine": 652,
+      "start": 8,
+      "text": "senté fragile le caractère ombrage et versatile la haine était devenue mon étendard le vice et la débuche mes"
+    },
+    {
+      "sourceLine": 653,
+      "start": 16,
+      "text": "seules exutoires ma vie était senspoir j'accumulais les desoir mes défêtes étaient toujours plus grandes que mes victoires qu'importe les- Y Histoire"
+    },
+    {
+      "sourceLine": 654,
+      "start": 25,
+      "text": "impossible d' croire je pensais qu'il était trop tard était trop tard c'est la vie qui m'a fait moi je n'ai rien"
+    },
+    {
+      "sourceLine": 655,
+      "start": 34,
+      "text": "deé cette vie je l'ai refusé mais les dieux ont décidé c'est"
+    },
+    {
+      "sourceLine": 656,
+      "start": 42,
+      "text": "la vie qui m'a fait moi je n'ai rien fa cette vie je l'ai refusé mais les"
+    },
+    {
+      "sourceLine": 657,
+      "start": 51,
+      "text": "dieux ont décidé j'avais au fond de moi une telle colère qui m'animait m'exaltait et"
+    },
+    {
+      "sourceLine": 658,
+      "start": 58,
+      "text": "m'enivrait je m' don à tous les plaisirs en déplais à ce qui avait à redire cela me faisait souffrir souffrir me donnait"
+    },
+    {
+      "sourceLine": 659,
+      "start": 66,
+      "text": "le sourire puis tu m'a sauvé de mes fils libéré mes sue désormais ma vie sera déué de tout ti fils quoi que je suis"
+    },
+    {
+      "sourceLine": 660,
+      "start": 75,
+      "text": "filsira la just si jamais je défie que le ciel meisse c'est la vie qui m'a fait"
+    },
+    {
+      "sourceLine": 661,
+      "start": 82,
+      "text": "moi je n rienander Cette viille je l'ai refusé"
+    },
+    {
+      "sourceLine": 662,
+      "start": 89,
+      "text": "mais die on décidé et je"
+    },
+    {
+      "sourceLine": 663,
+      "start": 99,
+      "text": "pleure puoui je pleure coméie tragédie"
+    },
+    {
+      "sourceLine": 664,
+      "start": 107,
+      "text": "avil est maudit trahison perfidie mon je n'ai pas choisi comédie"
+    },
+    {
+      "sourceLine": 665,
+      "start": 118,
+      "text": "tragédie funesse de parodie puis repenti converti non je n'ai pas"
+    },
+    {
+      "sourceLine": 666,
+      "start": 128,
+      "text": "choisi c'est la fille qui m'a fait moi je n'ai rien demandé cette vie je l'ai"
+    },
+    {
+      "sourceLine": 667,
+      "start": 138,
+      "text": "refusé mais les yeux ont dcidé et je pleur"
+    },
+    {
+      "sourceLine": 668,
+      "start": 148,
+      "text": "oui je ple ah"
+    },
+    {
+      "sourceLine": 669,
+      "start": 159,
+      "text": "[Applaudissements]"
+    }
+  ]
 }

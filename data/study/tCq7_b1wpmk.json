@@ -1,0 +1,437 @@
+{
+  "videoId": "tCq7_b1wpmk",
+  "playbackVideoId": "tCq7_b1wpmk",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=tCq7_b1wpmk"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Nous sommes à nouveau vagabonds. Nous devons prendre une décision. Sans protecteur, nous ne pourrons survivre.",
+      "start": 10,
+      "ipa": "[nu sɔm‿a nuvo vaɡabɔ̃ nu dəvɔ̃ pʁɑ̃dʁ‿yn desizjɔ̃ sɑ̃ pʁotɛktœʁ nu nə puʁɔ̃ syʁvivʁ]",
+      "ear": "努 索姆 阿 努沃 瓦嘎崩 努 德翁 普杭德赫 于恩 德西兹耶翁 桑 普霍泰克特厄赫 努 讷 普洪 西于赫维弗赫",
+      "meaning": "我们又成了漂泊的人，必须作出决定，没有庇护者便无法维持。",
+      "suppliedText": "nous sommes un nouveau vacabond nous devons prendre une décision sans protecteur nous ne pourrons survivre",
+      "sourceLineId": "moliere-timed-211",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 10,
+        "sourceLineNumber": 211,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Hein Charles quelle est la voix à suivre Charles Charles nous allons t seul",
+      "start": 18,
+      "ipa": "[ɛ̃ ʃaʁl kɛl‿ɛ la vwa a sɥivʁ ʃaʁl ʃaʁl nuz‿alɔ̃ te sœl]",
+      "ear": "安 沙赫勒 凯勒 艾 拉 弗乌阿 阿 斯于伊弗赫 沙赫勒 沙赫勒 努兹 阿隆 特 瑟厄勒",
+      "meaning": "夏尔，我们该走哪条路？……（部分识别不清）",
+      "suppliedText": "hein Charles quelle est la voix à suivre Charles Charles nous allons t seul",
+      "sourceLineId": "moliere-timed-212",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 18,
+        "sourceLineNumber": 212,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Adhérir plusieurs personnes m'ont rapporté que le a été épargné on y",
+      "start": 25,
+      "ipa": "[adeʁiʁ plyzjœʁ pɛʁsɔn mɔ̃ ʁapɔʁte kə lə a ete epaʁnje ɔ̃ iɡʁɛk]",
+      "ear": "阿德希赫 普吕兹耶厄赫 佩赫索恩 蒙 哈珀赫特 克 勒 阿 诶特 诶帕赫恩耶诶 翁 伊格赫克",
+      "meaning": "……好几个人告诉我，那里免于战乱……（地点识别不清）",
+      "suppliedText": "adhérir plusieurs personnes m'ont rapporté que le a été épargné on y",
+      "sourceLineId": "moliere-timed-213",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 25,
+        "sourceLineNumber": 213,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Organise des festivités Charles si on y allait Charles char montre-nous la voix",
+      "start": 32,
+      "ipa": "[ɔʁɡaniz de fɛstivite ʃaʁl si ɔ̃n‿i alɛ ʃaʁl ʃaʁ mɔ̃tʁnu la vwa]",
+      "ear": "哦赫嘎尼兹 德 费斯蒂维特 沙赫勒 西 翁恩 伊 阿莱 沙赫勒 沙赫 蒙特赫努 拉 弗乌阿",
+      "meaning": "那里有庆典。夏尔，我们去吧？请告诉我们该走的……",
+      "suppliedText": "organise des festivités Charles si on y allait Charles char montre-nous la voix",
+      "sourceLineId": "moliere-timed-214",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 32,
+        "sourceLineNumber": 214,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "À suiv chers amis écoutez et comprenez mon temps est passé je suis très fatigué cette troupe que j'ai créé je ne peux",
+      "start": 41,
+      "ipa": "[a sɥiv ʃɛʁ‿ami ekute e kɔ̃pʁəne mɔ̃ tɑ̃ ɛ pase ʒə sɥi tʁɛ fatiɡe sɛt tʁup kə ʒe kʁee ʒə nə pø]",
+      "ear": "阿 斯于伊弗 谢赫 阿米 诶库特 诶 孔普赫内 蒙 唐 艾 帕塞 热 斯于伊 特赫 法蒂格 塞特 特胡普 克 热 克赫诶 热 讷 珀厄",
+      "meaning": "路。——朋友们，请听我说。我的时代过去了，我很疲惫，亲手创办的剧团……",
+      "suppliedText": "à suiv chers amis écoutez et comprenez mon temps est passé je suis très fatigué cette troupe que j'ai créé je ne peux",
+      "sourceLineId": "moliere-timed-215",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 41,
+        "sourceLineNumber": 215,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Plus la diriger il est temps pour moi de me retirer mais qui va te remplacer nous",
+      "start": 49,
+      "ipa": "[ply la diʁiʒe il‿ɛ tɑ̃ puʁ mwa də mə ʁətiʁe mɛ ki va tə ʁɑ̃plase nu]",
+      "ear": "普吕 拉 迪希热 伊勒 艾 唐 普赫 姆乌阿 德 默 赫蒂赫 梅 基 瓦 特 杭普拉塞 努",
+      "meaning": "已经无力领导，该退下来了。——谁来接替你？",
+      "suppliedText": "plus la diriger il est temps pour moi de me retirer mais qui va te remplacer nous",
+      "sourceLineId": "moliere-timed-216",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 49,
+        "sourceLineNumber": 216,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Faut quelqu'un qui est de l'expérience un fort caractère et du bon sens je vous propose",
+      "start": 58,
+      "ipa": "[fo kɛlkœ̃ ki ɛ də lɛkspeʁjɑ̃s‿œ̃ fɔʁ kaʁaktɛʁ e dy bɔ̃ sɑ̃s ʒə vu pʁopɔz]",
+      "ear": "佛 凯勒坎 基 艾 德 莱克斯佩赫耶昂斯 恩 佛赫 卡哈克泰赫 诶 迪于 崩 桑斯 热 乌 普霍珀兹",
+      "meaning": "得有经验、性格坚定、判断清楚。我推荐……",
+      "suppliedText": "faut quelqu'un qui est de l'expérience un fort caractère et du bon sens je vous propose",
+      "sourceLineId": "moliere-timed-217",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 58,
+        "sourceLineNumber": 217,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Madeleine merci Charles pour ta confiance mais ce serait faire preuve d'imprudence que de confier à une femme",
+      "start": 65,
+      "ipa": "[madlɛn mɛʁsi ʃaʁl puʁ ta kɔ̃fjɑ̃s mɛ sə səʁɛ fɛʁ pʁøv dɛ̃pʁydɑ̃s kə də kɔ̃fje a yn fam]",
+      "ear": "玛德莱恩 梅赫西 沙赫勒 普赫 塔 孔弗耶昂斯 梅 瑟 瑟赫 费赫 普赫厄弗 丹普许当斯 克 德 孔弗耶诶 阿 于恩 法姆",
+      "meaning": "玛德莱娜。——谢谢你的信任，但把这种责任交给女人……",
+      "suppliedText": "Madeleine merci Charles pour ta confiance mais ce serait faire preuve d'imprudence que de confier à une femme",
+      "sourceLineId": "moliere-timed-218",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 65,
+        "sourceLineNumber": 218,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Cette responsabilité. Nous ne sommes pas encore au vingt et unième siècle. Il nous faut un homme jeune, talentueux, insouciant et…",
+      "start": 72,
+      "ipa": "[sɛt ʁɛspɔ̃sabilite nu nə sɔm pa ɑ̃kɔʁ‿o vɛ̃ e ynjɛm sjɛkl il nu fo œ̃n‿ɔm ʒøn talɑ̃tyø ɛ̃susjɑ̃ e]",
+      "ear": "塞特 赫斯蓬萨比利特 努 讷 索姆 帕 昂科赫 奥 万 诶 于恩耶艾姆 斯耶艾克勒 伊勒 努 佛 恩恩 哦姆 热厄恩 塔朗蒂于厄 安苏斯耶昂 诶",
+      "meaning": "恐怕不明智。现在还不是二十一世纪，得找个年轻、有才华、洒脱又……",
+      "suppliedText": "cette responsabilité nous ne sommes pas encore au 21e siècle il nous faut un homme jeune talentueux insouciant et",
+      "sourceLineId": "moliere-timed-219",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 72,
+        "sourceLineNumber": 219,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Ambitieux je n'ai pas encore 30 ans j'ai besoin de nous n'avons pas le temps je",
+      "start": 85,
+      "ipa": "[ɑ̃bisjø ʒə ne pa ɑ̃kɔʁ tʁɑ̃t‿ɑ̃ ʒe bəzwɛ̃ də nu navɔ̃ pa lə tɑ̃ ʒə]",
+      "ear": "昂比斯耶厄 热 内 帕 昂科赫 特杭特 昂 热 伯兹乌安 德 努 纳翁 帕 勒 唐 热",
+      "meaning": "有抱负的男人。——我还不到三十岁，需要时间。——我们没时间了！",
+      "suppliedText": "ambitieux je n'ai pas encore 30 ans j'ai besoin de nous n'avons pas le temps je",
+      "sourceLineId": "moliere-timed-220",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 85,
+        "sourceLineNumber": 220,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "N'ai pas encore 30 ans mais laissez-moi le temps nous n'avons pas le temps tu sais comment parler aux puissant et",
+      "start": 91,
+      "ipa": "[ne pa ɑ̃kɔʁ tʁɑ̃t‿ɑ̃ mɛ lɛsemwa lə tɑ̃ nu navɔ̃ pa lə tɑ̃ ty sɛ kɔmɑ̃ paʁle o pɥisɑ̃ e]",
+      "ear": "内 帕 昂科赫 特杭特 昂 梅 莱塞姆乌阿 勒 唐 努 纳翁 帕 勒 唐 蒂于 塞 科芒 帕赫莱 奥 普于伊桑 诶",
+      "meaning": "我还不到三十岁，请给我时间。——没时间了！你知道怎样同权贵交谈……",
+      "suppliedText": "n'ai pas encore 30 ans mais laissez-moi le temps nous n'avons pas le temps tu sais comment parler aux puissant et",
+      "sourceLineId": "moliere-timed-221",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 91,
+        "sourceLineNumber": 221,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Jouer avec leur vanité mais je n'ai pas encore 30 ans non je crains de ne pas y arriver les",
+      "start": 99,
+      "ipa": "[ʒwe avɛk lœʁ vanite mɛ ʒə ne pa ɑ̃kɔʁ tʁɑ̃t‿ɑ̃ nɔ̃ ʒə kʁɛ̃ də nə pa i aʁive le]",
+      "ear": "日乌诶 阿韦克 勒厄赫 瓦尼特 梅 热 内 帕 昂科赫 特杭特 昂 农 热 克汉 德 讷 帕 伊 阿希韦 莱",
+      "meaning": "怎样应对他们的虚荣。——可我还不到三十岁，担心做不到。",
+      "suppliedText": "jouer avec leur vanité mais je n'ai pas encore 30 ans non je crains de ne pas y arriver les",
+      "sourceLineId": "moliere-timed-222",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 99,
+        "sourceLineNumber": 222,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Les amis, les amis, regardez ! Je m'appelle… Du Parc et je suis acrobate. J'ai décidé…",
+      "start": 107,
+      "ipa": "[lez‿ami lez‿ami ʁəɡaʁde ʒə mapɛl dy paʁk e ʒə sɥi akʁobat ʒe deside]",
+      "ear": "莱兹 阿米 莱兹 阿米 赫嘎赫德 热 玛佩勒 迪于 帕赫克 诶 热 斯于伊 阿克霍巴特 热 德西德",
+      "meaning": "朋友们，看！我叫……杜帕克，是杂技演员。我决定……",
+      "suppliedText": "amis les amis regardez je m'appelle thigorla et je suis acrobate j'ai décidé",
+      "sourceLineId": "moliere-timed-223",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 107,
+        "sourceLineNumber": 223,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "De changer de vie. Moi, je veux faire du théâtre. Je ne suis pas encore comédienne…",
+      "start": 116,
+      "ipa": "[də ʃɑ̃ʒe də vi mwa ʒə vø fɛʁ dy teatʁ ʒə nə sɥi pa ɑ̃kɔʁ komedjɛn]",
+      "ear": "德 尚热 德 维 姆乌阿 热 弗厄 费赫 迪于 特阿特赫 热 讷 斯于伊 帕 昂科赫 科梅德耶艾恩",
+      "meaning": "改变生活，我想演戏，虽然还不是女演员……",
+      "suppliedText": "de changer de vie moi je veux faire thâtre je ne suis pas encore comédienne",
+      "sourceLineId": "moliere-timed-224",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 116,
+        "sourceLineNumber": 224,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Mais j'ai de l'ambition engagez-moi et je serai à la hauteur de votre réputation mademoiselle vous êtes sans",
+      "start": 123,
+      "ipa": "[mɛ ʒe də lɑ̃bisjɔ̃ ɑ̃ɡaʒemwa e ʒə səʁe a la otœʁ də votʁ ʁepytasjɔ̃ madmwazɛl vuz‿ɛt sɑ̃]",
+      "ear": "梅 热 德 朗比斯耶翁 昂嘎热姆乌阿 诶 热 瑟赫 阿 拉 奥特厄赫 德 沃特赫 赫普于塔斯耶翁 玛德姆乌阿泽勒 乌兹 艾特 桑",
+      "meaning": "但我有抱负。聘用我，我不会辜负剧团的声望。——小姐，你无疑……",
+      "suppliedText": "mais j'ai de l'ambition engagez-moi et je serai à la hauteur de votre réputation mademoiselle vous êtes sans",
+      "sourceLineId": "moliere-timed-225",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 123,
+        "sourceLineNumber": 225,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Aucun doute fait pour ce métier mais nous n'avons pas les moyens de vous engager étant donné que j'ai décidé de me retirer ce n'est plus à moi de",
+      "start": 132,
+      "ipa": "[okœ̃ dut fɛ puʁ sə metje mɛ nu navɔ̃ pa le mwajɛ̃ də vuz‿ɑ̃ɡaʒe etɑ̃ dɔne kə ʒe deside də mə ʁətiʁe sə nɛ plyz‿a mwa də]",
+      "ear": "奥坎 杜特 费 普赫 瑟 梅特耶诶 梅 努 纳翁 帕 莱 姆乌阿耶安 德 乌兹 昂嘎热 诶唐 多内 克 热 德西德 德 默 赫蒂赫 瑟 奈 普吕兹 阿 姆乌阿 德",
+      "meaning": "适合这一行，可我们没钱聘用你。我已决定退下，这不再由我……",
+      "suppliedText": "aucun doute fait pour ce métier mais nous n'avons pas les moyens de vous engager étant donné que j'ai décidé de me retirer ce n'est plus à moi de",
+      "sourceLineId": "moliere-timed-226",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 132,
+        "sourceLineNumber": 226,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Décider alors Jean-Baptiste avoue que ce sera du gachi cette femme a des atouts que j'en suis sûr tu apprécies que peut-il dire il n'est pas le chef de la",
+      "start": 140,
+      "ipa": "[deside alɔʁ ʒɑ̃batist‿avu kə sə səʁa dy ɡaʃi sɛt fam‿a dez‿atu kə ʒɑ̃ sɥi syʁ ty apʁesi kə pøtil diʁ‿il nɛ pa lə ʃɛf də la]",
+      "ear": "德西德 阿洛赫 让巴蒂斯特 阿乌 克 瑟 瑟哈 迪于 嘎希 塞特 法姆 阿 德兹 阿图 克 让 斯于伊 西于赫 蒂于 阿普赫西 克 珀厄蒂勒 迪赫 伊勒 奈 帕 勒 谢弗 德 拉",
+      "meaning": "作主。让-巴蒂斯特，承认吧，错过她太可惜。她有你欣赏的长处。——他又不是……",
+      "suppliedText": "décider alors Jean-Baptiste avoue que ce sera du gachi cette femme a des atouts que j'en suis sûr tu apprécies que peut-il dire il n'est pas le chef de la",
+      "sourceLineId": "moliere-timed-227",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 140,
+        "sourceLineNumber": 227,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Troupe ah et oui et bien si si je vous annonce que j'accepte de diriger la troupe et ma première décision est de",
+      "start": 149,
+      "ipa": "[tʁup‿a e wi e bjɛ̃ si si ʒə vuz‿anɔ̃s kə ʒaksɛpt də diʁiʒe la tʁup e ma pʁəmjɛʁ desizjɔ̃ ɛ də]",
+      "ear": "特胡普 阿 诶 乌伊 诶 布耶安 西 西 热 乌兹 阿农斯 克 扎克塞普特 德 迪希热 拉 特胡普 诶 玛 普赫姆耶艾赫 德西兹耶翁 艾 德",
+      "meaning": "团长！——好，我宣布接受领导剧团，第一项决定是……",
+      "suppliedText": "troupe ah et oui et bien si si je vous annonce que j'accepte de diriger la troupe et ma première décision est de",
+      "sourceLineId": "moliere-timed-228",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 149,
+        "sourceLineNumber": 228,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Faire une heureuse : j'engage cette jeune comédienne très prometteuse. Mademoiselle, vous êtes d'une beauté exquise. Désormais…",
+      "start": 156,
+      "ipa": "[fɛʁ‿yn‿øʁøz ʒɑ̃ɡaʒ sɛt ʒøn komedjɛn tʁɛ pʁomɛtøz madmwazɛl vuz‿ɛt dyn bote ɛkskiz dezɔʁmɛ]",
+      "ear": "费赫 于恩 厄赫厄兹 让嘎日 塞特 热厄恩 科梅德耶艾恩 特赫 普霍梅特厄兹 玛德姆乌阿泽勒 乌兹 艾特 迪于恩 博特 艾克斯基兹 德佐赫梅",
+      "meaning": "让一位女士高兴：聘用这位前途可期的年轻演员。小姐，你美得精致，从今……",
+      "suppliedText": "faire une heureux j'engage cette jeune comédienne très prometteuse mademoiselle vous êtes Dee beauté exquise désormais",
+      "sourceLineId": "moliere-timed-229",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 156,
+        "sourceLineNumber": 229,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Nous vous appellerons marquise cette demoiselle va susciter des convoitises il faut de se pas la marier à l'église",
+      "start": 163,
+      "ipa": "[nu vuz‿apɛlʁɔ̃ maʁkiz sɛt dəmwazɛl va sysite de kɔ̃vwatiz‿il fo də sə pa la maʁje a leɡliz]",
+      "ear": "努 乌兹 阿佩勒洪 玛赫基兹 塞特 德姆乌阿泽勒 瓦 西于西特 德 孔弗乌阿蒂兹 伊勒 佛 德 瑟 帕 拉 玛赫耶诶 阿 莱格利兹",
+      "meaning": "我们叫你玛尔基丝。她会引起众人追求，得赶快让她在教堂结婚。",
+      "suppliedText": "nous vous appellerons marquise cette demoiselle va susciter des convoitises il faut de se pas la marier à l'église",
+      "sourceLineId": "moliere-timed-230",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 163,
+        "sourceLineNumber": 230,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Quoi ne protestez pas chè marquis chez nous le mariage est une condition requise et à qui voulez-vous me marier",
+      "start": 171,
+      "ipa": "[kwa nə pʁotɛste pa ʃɛ maʁki ʃe nu lə maʁjaʒ‿ɛt‿yn kɔ̃disjɔ̃ ʁəkiz e a ki vulevu mə maʁje]",
+      "ear": "克乌阿 讷 普霍泰斯特 帕 谢 玛赫基 谢 努 勒 玛赫耶阿日 艾特 于恩 孔迪斯耶翁 赫基兹 诶 阿 基 乌莱乌 默 玛赫耶诶",
+      "meaning": "什么？——别抗议，结婚是我们这里的要求。——你们要我嫁给谁？",
+      "suppliedText": "quoi ne protestez pas chè marquis chez nous le mariage est une condition requise et à qui voulez-vous me marier",
+      "sourceLineId": "moliere-timed-231",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 171,
+        "sourceLineNumber": 231,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Ah, notre Apollon ! Louis Béjart ? René ? René ? Mais René, c'est moi ! J'accepte ! J'accepte ! Et comment comptez-vous me…",
+      "start": 178,
+      "ipa": "[a notʁ‿apɔlɔ̃ lwi beʒaʁ ʁəne ʁəne mɛ ʁəne sɛ mwa ʒaksɛpt ʒaksɛpt e kɔmɑ̃ kɔ̃tevu mə]",
+      "ear": "阿 诺特赫 阿珀隆 勒乌伊 贝扎赫 赫内 赫内 梅 赫内 塞 姆乌阿 扎克塞普特 扎克塞普特 诶 科芒 孔特乌 默",
+      "meaning": "我们的阿波罗！路易·贝雅尔？勒内？——勒内就是我，我愿意！——你打算怎样……",
+      "suppliedText": "ah notre apolon Louis be René be René mais be René c'est moi j'accepte j'accepte et comment comptez-vous me",
+      "sourceLineId": "moliere-timed-232",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 178,
+        "sourceLineNumber": 232,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Séduire ? Que je t'aime, que je t'aime, que je t'aime ! Non, pas touche à Johnny ! Et vous…",
+      "start": 187,
+      "ipa": "[sedɥiʁ kə ʒə tɛm kə ʒə tɛm kə ʒə tɛm nɔ̃ pa tuʃ‿a dʒɔni e vu]",
+      "ear": "塞德于伊赫 克 热 泰姆 克 热 泰姆 克 热 泰姆 农 帕 图什 阿 德若尼 诶 乌",
+      "meaning": "打动我？——我多么爱你……——别动约翰尼的歌！那么你呢……",
+      "suppliedText": "séduire que je t'aime que je t'aime que je t'aime non pas touch à Johnny et vous",
+      "sourceLineId": "moliere-timed-233",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 187,
+        "sourceLineNumber": 233,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Louis que chanteriez-vous pour me séduire belle marquise beau jeux me font mourir d'amour B je beau d'amour me font",
+      "start": 194,
+      "ipa": "[lwi kə ʃɑ̃təʁjevu puʁ mə sedɥiʁ bɛl maʁkiz bo ʒø mə fɔ̃ muʁiʁ damuʁ be ʒə bo damuʁ mə fɔ̃]",
+      "ear": "勒乌伊 克 尚特赫耶诶乌 普赫 默 塞德于伊赫 贝勒 玛赫基兹 博 热厄 默 丰 穆希赫 达穆赫 贝 热 博 达穆赫 默 丰",
+      "meaning": "路易，你会唱什么打动我？——美丽的玛尔基丝，您的美目使我为爱而死……",
+      "suppliedText": "Louis que chanteriez-vous pour me séduire belle marquise beau jeux me font mourir d'amour B je beau d'amour me font",
+      "sourceLineId": "moliere-timed-234",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 194,
+        "sourceLineNumber": 234,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Belle marquise font me font V beau yeux marquise amour charmante déclaration Louis",
+      "start": 204,
+      "ipa": "[bɛl maʁkiz fɔ̃ mə fɔ̃ ve bo jø maʁkiz‿amuʁ ʃaʁmɑ̃t deklaʁasjɔ̃ lwi]",
+      "ear": "贝勒 玛赫基兹 丰 默 丰 韦 博 耶厄 玛赫基兹 阿穆赫 沙赫芒特 德克拉哈斯耶翁 勒乌伊",
+      "meaning": "……美丽的玛尔基丝，美目，爱情……——真是动人的表白，路易。",
+      "suppliedText": "belle marquise font me font V beau yeux marquise amour charmante déclaration Louis",
+      "sourceLineId": "moliere-timed-235",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 204,
+        "sourceLineNumber": 235,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Marquise si tu allais rejoindre ton futur épou",
+      "start": 211,
+      "ipa": "[maʁkiz si ty alɛ ʁəʒwɛ̃dʁ tɔ̃ fytyʁ‿epu]",
+      "ear": "玛赫基兹 西 蒂于 阿莱 赫日乌安德赫 通 菲于蒂于赫 诶普",
+      "meaning": "玛尔基丝，去找你未来的丈夫吧。",
+      "suppliedText": "marquise si tu allais rejoindre ton futur épou",
+      "sourceLineId": "moliere-timed-236",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 211,
+        "sourceLineNumber": 236,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

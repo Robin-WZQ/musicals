@@ -10,14 +10,120 @@
   "musicalId": "moliere",
   "trackNumber": 31,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Ils sont prêts à tous les hommages pour un instant pourvu que je",
+      "start": 0,
+      "duration": 7
+    },
+    {
+      "text": "M'allonge ils maîtrise tous les rouages pour gagner du temps leur fin justifie les",
+      "start": 7,
+      "duration": 8
+    },
+    {
+      "text": "Mensonges. Ils se donnent dans de beaux discours l'hymne à l'amour en reluquant mes…",
+      "start": 15,
+      "duration": 7
+    },
+    {
+      "text": "Contours. Je ne suis pas toujours sentimentale, je deviens animale dès que l'on me fait mal. Une…",
+      "start": 22,
+      "duration": 10
+    },
+    {
+      "text": "Femme, une femme fatale, je suis une femme létale, une tueuse de mâles. Moi, je veux tout donner…",
+      "start": 32,
+      "duration": 8
+    },
+    {
+      "text": "Tout donner si je veux tout donner tout donner quand je veux donner sans aucunement moi je veux tout donner tout",
+      "start": 40,
+      "duration": 9
+    },
+    {
+      "text": "Donner si je veux tout donner tout donner quand je veux pe donner sans aucun ils se ventent de leur pouesse",
+      "start": 49,
+      "duration": 9
+    },
+    {
+      "text": "Maldine non mal dominé par leur sens pourquoi faut-il leur dire sans",
+      "start": 58,
+      "duration": 8
+    },
+    {
+      "text": "Cesse que c'est non, non, non, jusqu'à… Je ne suis pas toujours sentimentale, je…",
+      "start": 66,
+      "duration": 8
+    },
+    {
+      "text": "Deviens animale dès que l'on me fait mal. Une femme, c'est une femme fatale. Je suis une…",
+      "start": 74,
+      "duration": 9
+    },
+    {
+      "text": "Femme une tueuse de mal moi je veux tout donner tout don tout je veux tout donner",
+      "start": 83,
+      "duration": 7
+    },
+    {
+      "text": "Tout donner quand je ve me donner sans aucun effort h me présé l'âme",
+      "start": 90,
+      "duration": 9
+    },
+    {
+      "text": "Oppressée par leurs pulsions primaires… L'âme blessée… par…",
+      "start": 99,
+      "duration": 10
+    },
+    {
+      "text": "D'éféè passions ils sont prêt à tous les homages pour un instant pourvu que je",
+      "start": 109,
+      "duration": 9
+    },
+    {
+      "text": "M'allonge mais peu leur importe les dommages avec le temps leur fin justifie les",
+      "start": 118,
+      "duration": 8
+    },
+    {
+      "text": "Mensonges. Je ne suis pas toujours sentimentale, je deviens animale dès que l'on me fait…",
+      "start": 126,
+      "duration": 8
+    },
+    {
+      "text": "Mal. Une femme, c'est une femme fatale. Je suis une femme létale, une tueuse de…",
+      "start": 134,
+      "duration": 9
+    },
+    {
+      "text": "Mal veux tout donner tout donner si je veux tout donner tout donner quand je veux me donner sans au",
+      "start": 143,
+      "duration": 8
+    },
+    {
+      "text": "Moi je veux tout donner tout donner si je veux tout donner tout donner quand je veux donner sans",
+      "start": 151,
+      "duration": 8
+    },
+    {
+      "text": "Aucun même si parfois je ne suis pas très sage non je ne suis pas fille de",
+      "start": 159,
+      "duration": 8
+    },
+    {
+      "text": "Passage",
+      "start": 167,
+      "duration": 3
+    }
+  ],
   "playbackVideoId": "A5STesdpUqg",
   "sourceURL": "https://www.youtube.com/watch?v=A5STesdpUqg",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=A5STesdpUqg",
@@ -116,10 +222,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250316",
   "productionYear": 2023,
@@ -216,5 +322,117 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 629,
+      "start": 0,
+      "text": "ils sont prêts à tous les hommages pour un instant pourvu que je"
+    },
+    {
+      "sourceLine": 630,
+      "start": 7,
+      "text": "m'allonge ils maîtrise tous les rouages pour gagner du temps leur fin justifie les"
+    },
+    {
+      "sourceLine": 631,
+      "start": 15,
+      "text": "mensonges il se donne dans de beaux discours l'hyne à l'amour en reluquant mes"
+    },
+    {
+      "sourceLine": 632,
+      "start": 22,
+      "text": "contours je suis pas toujours sentimental je deviensal dès que l'on MEUR fait mal une"
+    },
+    {
+      "sourceLine": 633,
+      "start": 32,
+      "text": "femme une femme fatale je suis une femme létale uneueuse de mal moi je veux tout donner"
+    },
+    {
+      "sourceLine": 634,
+      "start": 40,
+      "text": "tout donner si je veux tout donner tout donner quand je veux donner sans aucunement moi je veux tout donner tout"
+    },
+    {
+      "sourceLine": 635,
+      "start": 49,
+      "text": "donner si je veux tout donner tout donner quand je veux pe donner sans aucun ils se ventent de leur pouesse"
+    },
+    {
+      "sourceLine": 636,
+      "start": 58,
+      "text": "maldine non mal dominé par leur sens pourquoi faut-il leur dire sans"
+    },
+    {
+      "sourceLine": 637,
+      "start": 66,
+      "text": "cesse que c'est non non non jusqu'à l' s je suis pas toujours sentimental je"
+    },
+    {
+      "sourceLine": 638,
+      "start": 74,
+      "text": "deviens un malè que l'on me fait mal une femme c'est une femme fatale je suis une"
+    },
+    {
+      "sourceLine": 639,
+      "start": 83,
+      "text": "femme une tueuse de mal moi je veux tout donner tout don tout je veux tout donner"
+    },
+    {
+      "sourceLine": 640,
+      "start": 90,
+      "text": "tout donner quand je ve me donner sans aucun effort h me présé l'âme"
+    },
+    {
+      "sourceLine": 641,
+      "start": 99,
+      "text": "oppressé par leur primaire pulsion fa me bless l'âme qui a bossé par"
+    },
+    {
+      "sourceLine": 642,
+      "start": 109,
+      "text": "d'éféè passions ils sont prêt à tous les homages pour un instant pourvu que je"
+    },
+    {
+      "sourceLine": 643,
+      "start": 118,
+      "text": "m'allonge mais peu leur importe les dommages avec le temps leur fin justifie les"
+    },
+    {
+      "sourceLine": 644,
+      "start": 126,
+      "text": "mensonges je suis pas toujours sentimental je deviens animal et que l'on me fait"
+    },
+    {
+      "sourceLine": 645,
+      "start": 134,
+      "text": "mal une femme c'est une femme fatale je suis une femme lét une tueuse de"
+    },
+    {
+      "sourceLine": 646,
+      "start": 143,
+      "text": "mal veux tout donner tout donner si je veux tout donner tout donner quand je veux me donner sans au"
+    },
+    {
+      "sourceLine": 647,
+      "start": 151,
+      "text": "moi je veux tout donner tout donner si je veux tout donner tout donner quand je veux donner sans"
+    },
+    {
+      "sourceLine": 648,
+      "start": 159,
+      "text": "aucun même si parfois je ne suis pas très sage non je ne suis pas fille de"
+    },
+    {
+      "sourceLine": 649,
+      "start": 167,
+      "text": "passage"
+    }
+  ]
 }

@@ -10,14 +10,45 @@
   "musicalId": "moliere",
   "trackNumber": 6,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Pour aller de Paris en Guyenne, il te faut aujourd'hui trois heures à peine… Mais en… tu n'as pas trop le choix. Le TGV…",
+      "start": 11,
+      "duration": 8
+    },
+    {
+      "text": "N'existait pas. Le quoi ? Alors on a marché, marché, marché… Traversé tant…",
+      "start": 19,
+      "duration": 9
+    },
+    {
+      "text": "De villages. On en a vu, du paysage ! On a…",
+      "start": 28,
+      "duration": 5
+    },
+    {
+      "text": "Marché on a marché",
+      "start": 42,
+      "duration": 2
+    },
+    {
+      "text": "Marché, on a marché, marché, marché. Alors on a marché, marché, marché…",
+      "start": 47,
+      "duration": 9
+    },
+    {
+      "text": "Pendant des années. Marché, traversé des villages. On en a vu, du paysage !",
+      "start": 56,
+      "duration": 7
+    }
+  ],
   "playbackVideoId": "89v-c7O-Ppc",
   "sourceURL": "https://www.youtube.com/watch?v=89v-c7O-Ppc",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=89v-c7O-Ppc",
@@ -72,10 +103,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250309",
   "productionYear": 2023,
@@ -128,5 +159,62 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 132,
+      "start": 5,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 133,
+      "start": 11,
+      "text": "pour aller de Paris au Guyenne il te faut aujourd'hui 3 He à pe 3 à mais en 745 tu as pas trop le choix le TGV"
+    },
+    {
+      "sourceLine": 134,
+      "start": 19,
+      "text": "n'existait pas le quoi alors on a marché marché marché an marché traverser tant"
+    },
+    {
+      "sourceLine": 135,
+      "start": 28,
+      "text": "de villages on en a plus du paysage on a"
+    },
+    {
+      "sourceLine": 136,
+      "start": 33,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 137,
+      "start": 42,
+      "text": "marché on a marché"
+    },
+    {
+      "sourceLine": 138,
+      "start": 44,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 139,
+      "start": 47,
+      "text": "marché on a marché marché marché alors on a marché marché marché"
+    },
+    {
+      "sourceLine": 140,
+      "start": 56,
+      "text": "pendant des années marché traverser de village on en a vu du paysage"
+    },
+    {
+      "sourceLine": 141,
+      "start": 63,
+      "text": "[Musique]"
+    }
+  ]
 }

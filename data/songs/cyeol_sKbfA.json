@@ -10,14 +10,100 @@
   "musicalId": "moliere",
   "trackNumber": 18,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Alors on a marché marché marché pendant des semaines marché après une longue",
+      "start": 0,
+      "duration": 6
+    },
+    {
+      "text": "Période d'errance, on s'est arrêtés à Valence. Depuis que Conti s'est repenti…",
+      "start": 6,
+      "duration": 8
+    },
+    {
+      "text": "Pour moi commencé une nouvelle vie le clergé dans sa bienveillance m'a nommé",
+      "start": 14,
+      "duration": 7
+    },
+    {
+      "text": "Évêque de Valence. De Cosnac ! Oh, quel bonheur de vous retrouver ! Nous sommes épuisés et découragés. Ne baissez pas les bras !",
+      "start": 21,
+      "duration": 7
+    },
+    {
+      "text": "Enc une fois il faut tout recommencer mon père avait raison je dois renoncer n'abandonnez pas j'ai appris que le frère du roi a l'intention d'offrir à",
+      "start": 28,
+      "duration": 10
+    },
+    {
+      "text": "Une troupe son nom et sa protection. Allez à Paris le rencontrer. Mais pourquoi le frère du roi nous choisirait ?",
+      "start": 38,
+      "duration": 7
+    },
+    {
+      "text": "Vous avez de l'expérience et du talent et il se trouve que le frère du roi et moi avions de bonnes",
+      "start": 45,
+      "duration": 8
+    },
+    {
+      "text": "Relations allez les amis",
+      "start": 53,
+      "duration": 7
+    },
+    {
+      "text": "Paris ne m'a pas laissé un bon souvenir je vous laisse le soin de choisir en ce qui me concerne je vous avoue que rentrer à Paris m'apaiserai la vie de",
+      "start": 60,
+      "duration": 9
+    },
+    {
+      "text": "Tournée m'a épuisé et et je sens ma santé décliner mon frère a raison vir à Paris sera pour moi l'opportunité de",
+      "start": 69,
+      "duration": 8
+    },
+    {
+      "text": "Retrouver ma fille afin qu'elle vive enfin à mes côtés pauvre Madeleine des années sans",
+      "start": 77,
+      "duration": 8
+    },
+    {
+      "text": "Voir sa fille c'est terrible pour une mère d'ailleurs tu as gardé des souvenirs de niè non plein j'avais l'habitude de jouer avec Armand quand",
+      "start": 85,
+      "duration": 8
+    },
+    {
+      "text": "Elle était petite qu'est-ce qu'il y a lui ça ne va pas tu as l'air triste c'est jusqu'à l'époque je voulais faire comme elle est",
+      "start": 93,
+      "duration": 8
+    },
+    {
+      "text": "Fondé une famille mais il n'est pas trop tard si il est trop tard il est bien trop tard puisque la femme que j'aime est marié à un autre",
+      "start": 101,
+      "duration": 8
+    },
+    {
+      "text": "Homme. Bon, les amis, et si on reprenait la route ? Alors on a marché, marché, marché…",
+      "start": 109,
+      "duration": 9
+    },
+    {
+      "text": "Pendant des semaines mar en direction de Paris pour reconstruire",
+      "start": 118,
+      "duration": 6
+    },
+    {
+      "text": "Notre vie",
+      "start": 124,
+      "duration": 3
+    }
+  ],
   "playbackVideoId": "cyeol_sKbfA",
   "sourceURL": "https://www.youtube.com/watch?v=cyeol_sKbfA",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=cyeol_sKbfA",
@@ -100,10 +186,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250310",
   "productionYear": 2023,
@@ -184,5 +270,97 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 349,
+      "start": 0,
+      "text": "alors on a marché marché marché pendant des semaines marché après une longue"
+    },
+    {
+      "sourceLine": 350,
+      "start": 6,
+      "text": "période d'érrance on s'est arrêté àalant depuis que Conti s'est repenti"
+    },
+    {
+      "sourceLine": 351,
+      "start": 14,
+      "text": "pour moi commencé une nouvelle vie le Clerget dans sa bienveillance m'a nommé"
+    },
+    {
+      "sourceLine": 352,
+      "start": 21,
+      "text": "évêque de balance de Cosnac oh quel bonheur de vous retrouver nous sommes épuisés et découragésiss pas les bras"
+    },
+    {
+      "sourceLine": 353,
+      "start": 28,
+      "text": "enc une fois il faut tout recommencer mon père avait raison je dois renoncer n'abandonnez pas j'ai appris que le frère du roi a l'intention d'offrir à"
+    },
+    {
+      "sourceLine": 354,
+      "start": 38,
+      "text": "une troupe son nom et sa protection alleer à Paris le rencontrer mais pourquoi le frère du roi nous choisirait"
+    },
+    {
+      "sourceLine": 355,
+      "start": 45,
+      "text": "vous avez de l'expérience et du talent et il se trouve que le frère du roi et moi avions de bonnes"
+    },
+    {
+      "sourceLine": 356,
+      "start": 53,
+      "text": "relations allez les amis"
+    },
+    {
+      "sourceLine": 360,
+      "start": 60,
+      "text": "Paris ne m'a pas laissé un bon souvenir je vous laisse le soin de choisir en ce qui me concerne je vous avoue que rentrer à Paris m'apaiserai la vie de"
+    },
+    {
+      "sourceLine": 361,
+      "start": 69,
+      "text": "tournée m'a épuisé et et je sens ma santé décliner mon frère a raison vir à Paris sera pour moi l'opportunité de"
+    },
+    {
+      "sourceLine": 362,
+      "start": 77,
+      "text": "retrouver ma fille afin qu'elle vive enfin à mes côtés pauvre Madeleine des années sans"
+    },
+    {
+      "sourceLine": 363,
+      "start": 85,
+      "text": "voir sa fille c'est terrible pour une mère d'ailleurs tu as gardé des souvenirs de niè non plein j'avais l'habitude de jouer avec Armand quand"
+    },
+    {
+      "sourceLine": 364,
+      "start": 93,
+      "text": "elle était petite qu'est-ce qu'il y a lui ça ne va pas tu as l'air triste c'est jusqu'à l'époque je voulais faire comme elle est"
+    },
+    {
+      "sourceLine": 365,
+      "start": 101,
+      "text": "fondé une famille mais il n'est pas trop tard si il est trop tard il est bien trop tard puisque la femme que j'aime est marié à un autre"
+    },
+    {
+      "sourceLine": 366,
+      "start": 109,
+      "text": "homme bon les amis et si on repreneait la route alors on a marché marché marché"
+    },
+    {
+      "sourceLine": 367,
+      "start": 118,
+      "text": "pendant des semaines mar en direction de Paris pour reconstruire"
+    },
+    {
+      "sourceLine": 368,
+      "start": 124,
+      "text": "notre vie"
+    }
+  ]
 }

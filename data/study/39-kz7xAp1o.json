@@ -1,0 +1,213 @@
+{
+  "videoId": "39-kz7xAp1o",
+  "playbackVideoId": "39-kz7xAp1o",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=39-kz7xAp1o"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "… Votre Altesse, ne vous laissez pas…",
+      "start": 8,
+      "ipa": "[votʁ‿altɛs nə vu lɛse pa]",
+      "ear": "沃特赫 阿勒泰斯 讷 乌 莱塞 帕",
+      "meaning": "……殿下，不要被……（开头识别不清）",
+      "suppliedText": "sign pour votre altesse ne vous laissez pas",
+      "sourceLineId": "moliere-timed-307",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 8,
+        "sourceLineNumber": 307,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Tromper leur masque celui de l'ignorance dissimulé enfin ils m'ont pris celle que j'aimais le plus au monde ils ont Seigné",
+      "start": 15,
+      "ipa": "[tʁɔ̃pe lœʁ mask səlɥi də linjoʁɑ̃s disimyle ɑ̃fɛ̃ il mɔ̃ pʁi sɛl kə ʒɛmɛ lə plyz‿o mɔ̃d‿ilz‿ɔ̃ sɛnje]",
+      "ear": "特洪佩 勒厄赫 玛斯克 瑟勒于伊 德 利恩耶奥杭斯 迪西米于莱 昂凡 伊勒 蒙 普希 塞勒 克 热梅 勒 普吕兹 奥 蒙德 伊勒兹 翁 塞恩耶诶",
+      "meaning": "他们的面具骗了，无知藏在面具后。他们夺走我最爱的人，给母亲放血，直到她死去。",
+      "suppliedText": "tromper leur masque celui de l'ignorance dissimulé enfin ils m'ont pris celle que j'aimais le plus au monde ils ont Seigné",
+      "sourceLineId": "moliere-timed-308",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 15,
+        "sourceLineNumber": 308,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Ma mère jusque dans la tombe qui ne me touchez pas éloignez-vous éloignez-vous",
+      "start": 23,
+      "ipa": "[ma mɛʁ ʒysk dɑ̃ la tɔ̃b ki nə mə tuʃe pa elwanjevu elwanjevu]",
+      "ear": "玛 梅赫 日于斯克 当 拉 通布 基 讷 默 图谢 帕 诶勒乌阿恩耶诶乌 诶勒乌阿恩耶诶乌",
+      "meaning": "别碰我，离我远点！",
+      "suppliedText": "ma mère jusque dans la tombe qui ne me touchez pas éloignez-vous éloignez-vous",
+      "sourceLineId": "moliere-timed-309",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 23,
+        "sourceLineNumber": 309,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Regardez, de Cosnac, c'est la mort qui vient me chercher. Votre Altesse, c'est l'évêque… qui vient vous visiter. Il vous sait…",
+      "start": 31,
+      "ipa": "[ʁəɡaʁde də kɔsnak sɛ la mɔʁ ki vjɛ̃ mə ʃɛʁʃe votʁ‿altɛs sɛ levɛk ki vjɛ̃ vu vizite il vu sɛ]",
+      "ear": "赫嘎赫德 德 科斯纳克 塞 拉 莫赫 基 弗耶安 默 谢赫谢 沃特赫 阿勒泰斯 塞 莱韦克 基 弗耶安 乌 维齐特 伊勒 乌 塞",
+      "meaning": "科斯纳克，看，死神来找我了。——殿下，是……主教来探望您，他听说您……",
+      "suppliedText": "regardez DEAC c'est la mort qui vient me chercher votre altesse c'est l'évêque d'Ally qui vient vous visiter il vous sa",
+      "sourceLineId": "moliere-timed-310",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 31,
+        "sourceLineNumber": 310,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Très malade et de votre âme c'est inquiété oh mon seigneur je sais que mon sort est mérité ma vie n'a été qu'une",
+      "start": 39,
+      "ipa": "[tʁɛ malad e də votʁ‿am sɛt‿ɛ̃kjete ɔ mɔ̃ sɛnjœʁ ʒə sɛ kə mɔ̃ sɔʁ‿ɛ meʁite ma vi na ete kyn]",
+      "ear": "特赫 玛拉德 诶 德 沃特赫 阿姆 塞特 安克耶诶特 哦 蒙 塞恩耶厄赫 热 塞 克 蒙 索赫 艾 梅希特 玛 维 纳 诶特 基于恩",
+      "meaning": "病得很重，担心您的灵魂。——主教，我知道自己罪有应得，我的一生只是……",
+      "suppliedText": "très malade et de votre âme c'est inquiété oh mon seigneur je sais que mon sort est mérité ma vie n'a été qu'une",
+      "sourceLineId": "moliere-timed-311",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 39,
+        "sourceLineNumber": 311,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Longue succession de péchés il n'est qu'un chemin pour le salut renoncer au vie se couvre et la vertu prière et",
+      "start": 46,
+      "ipa": "[lɔ̃ɡ syksɛsjɔ̃ də peʃe il nɛ kœ̃ ʃəmɛ̃ puʁ lə saly ʁənɔ̃se o vi sə kuvʁ e la vɛʁty pʁiɛʁ e]",
+      "ear": "隆格 西于克塞斯耶翁 德 佩谢 伊勒 奈 坎 舍曼 普赫 勒 萨吕 赫农塞 奥 维 瑟 库弗赫 诶 拉 韦赫蒂于 普希艾赫 诶",
+      "meaning": "一连串的罪孽。——通往救赎只有一条路：摒弃恶习，追求美德，祈祷与……",
+      "suppliedText": "longue succession de péchés il n'est qu'un chemin pour le salut renoncer au vie se couvre et la vertu prière et",
+      "sourceLineId": "moliere-timed-312",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 46,
+        "sourceLineNumber": 312,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Mortification seront votre quotidien dieuaccorde sa grâce vrai chrétien Armand partout je vous ai cherché",
+      "start": 55,
+      "ipa": "[mɔʁtifikasjɔ̃ səʁɔ̃ votʁ kotidjɛ̃ djøakɔʁd sa ɡʁas vʁɛ kʁetjɛ̃ aʁmɑ̃ paʁtu ʒə vuz‿e ʃɛʁʃe]",
+      "ear": "莫赫蒂菲卡斯耶翁 瑟洪 沃特赫 科蒂德耶安 德耶厄阿科赫德 萨 格哈斯 弗赫 克赫特耶安 阿赫芒 帕赫图 热 乌兹 诶 谢赫谢",
+      "meaning": "苦修将成为日常，上帝会恩赐真正的基督徒。——阿尔芒，我到处找您！",
+      "suppliedText": "mortification seront votre quotidien dieuaccorde sa grâce vrai chrétien Armand partout je vous ai cherché",
+      "sourceLineId": "moliere-timed-313",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 55,
+        "sourceLineNumber": 313,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Comment avez-vous osé m'abandonner ça là ça c'est mon fouet rendez-le Moir me l'a promis hors de ma",
+      "start": 63,
+      "ipa": "[kɔmɑ̃ avevu oze mabɑ̃dɔne sa la sa sɛ mɔ̃ fwɛ ʁɑ̃delə mwaʁ mə la pʁomi ɔʁ də ma]",
+      "ear": "科芒 阿韦乌 奥泽 玛邦多内 萨 拉 萨 塞 蒙 弗乌艾 杭德勒 姆乌阿赫 默 拉 普霍米 哦赫 德 玛",
+      "meaning": "您怎么能抛下我？……那是我的鞭子，还给我……——从我……",
+      "suppliedText": "comment avez-vous osé m'abandonner ça là ça c'est mon fouet rendez-le Moir me l'a promis hors de ma",
+      "sourceLineId": "moliere-timed-314",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 63,
+        "sourceLineNumber": 314,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Vue tubauché retourne à ce mari que j'ai offensé pardon monsieur le mari de vous avoir cocufié je veux dire offensé je",
+      "start": 70,
+      "ipa": "[vy tyboʃe ʁətuʁn‿a sə maʁi kə ʒe ɔfɑ̃se paʁdɔ̃ məsjø lə maʁi də vuz‿avwaʁ kokyfje ʒə vø diʁ‿ɔfɑ̃se ʒə]",
+      "ear": "维于 蒂于博谢 赫图赫恩 阿 瑟 玛希 克 热 哦芳塞 帕赫东 默斯耶厄 勒 玛希 德 乌兹 阿弗乌阿赫 科基于弗耶诶 热 弗厄 迪赫 哦芳塞 热",
+      "meaning": "眼前消失！放荡的女人，回到被我冒犯的丈夫身边。对不起，先生，我让您戴绿帽——我是说，冒犯了您。",
+      "suppliedText": "vue tubauché retourne à ce mari que j'ai offensé pardon monsieur le mari de vous avoir cocufié je veux dire offensé je",
+      "sourceLineId": "moliere-timed-315",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 70,
+        "sourceLineNumber": 315,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Suis un être influençable c'est votre femme la seule coupable mais je ne suis pas le mari je ne mérite que le fouet",
+      "start": 80,
+      "ipa": "[sɥi œ̃n‿ɛtʁ‿ɛ̃flyɑ̃sabl sɛ votʁ fam la sœl kupabl mɛ ʒə nə sɥi pa lə maʁi ʒə nə meʁit kə lə fwɛ]",
+      "ear": "斯于伊 恩恩 艾特赫 安弗吕昂萨布勒 塞 沃特赫 法姆 拉 瑟厄勒 库帕布勒 梅 热 讷 斯于伊 帕 勒 玛希 热 讷 梅希特 克 勒 弗乌艾",
+      "meaning": "我容易受人影响，都是您的妻子不好。——可我不是她丈夫！——我只配受鞭打。",
+      "suppliedText": "suis un être influençable c'est votre femme la seule coupable mais je ne suis pas le mari je ne mérite que le fouet",
+      "sourceLineId": "moliere-timed-316",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 80,
+        "sourceLineNumber": 316,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Que l'on me donne le fouet il mérite que le fouet qu'on lu donne le",
+      "start": 88,
+      "ipa": "[kə lɔ̃ mə dɔn lə fwɛ il meʁit kə lə fwɛ kɔ̃ ly dɔn lə]",
+      "ear": "克 隆 默 多恩 勒 弗乌艾 伊勒 梅希特 克 勒 弗乌艾 孔 吕 多恩 勒",
+      "meaning": "给我鞭打吧。——他只配受鞭打，给他……",
+      "suppliedText": "que l'on me donne le fouet il mérite que le fouet qu'on lu donne le",
+      "sourceLineId": "moliere-timed-317",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 88,
+        "sourceLineNumber": 317,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Fouet Votre Altesse",
+      "start": 106,
+      "ipa": "[fwɛ votʁ‿altɛs]",
+      "ear": "弗乌艾 沃特赫 阿勒泰斯",
+      "meaning": "鞭打。殿下……",
+      "suppliedText": "fouet Votre Altesse",
+      "sourceLineId": "moliere-timed-319",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 106,
+        "sourceLineNumber": 319,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

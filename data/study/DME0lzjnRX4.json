@@ -1,0 +1,149 @@
+{
+  "videoId": "DME0lzjnRX4",
+  "playbackVideoId": "DME0lzjnRX4",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=DME0lzjnRX4"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "… N'a pas cédé. Il est monté sur scène le jour du premier anniversaire de la mort de Madeleine. Malgré son état…",
+      "start": 0,
+      "ipa": "[na pa sede il‿ɛ mɔ̃te syʁ sɛn lə ʒuʁ dy pʁəmjeʁ‿anivɛʁsɛʁ də la mɔʁ də madlɛn malɡʁe sɔ̃n‿eta]",
+      "ear": "纳 帕 塞德 伊勒 艾 蒙特 西于赫 塞恩 勒 茹赫 迪于 普赫姆耶诶赫 阿尼韦赫塞赫 德 拉 莫赫 德 玛德莱恩 玛勒格赫 松恩 诶塔",
+      "meaning": "……他没有退让，在玛德莱娜去世一周年那天登台，尽管身体状况……",
+      "suppliedText": "Rid n'a pas cédé, il est monté sur scène le jour du premier anniversaire de la mort de Madeleine. Malgré son éant bien",
+      "sourceLineId": "moliere-timed-851",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 0,
+        "sourceLineNumber": 851,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Bien que mal jusqu'à la scène finale. Cette même scène, dans son rôle d'Argan, Molière va être intronisé médecin. Il va prêter…",
+      "start": 9,
+      "ipa": "[bjɛ̃ kə mal ʒyska la sɛn final sɛt mɛm sɛn dɑ̃ sɔ̃ ʁol daʁɡɑ̃ moljɛʁ va ɛtʁ‿ɛ̃tʁonize medəsɛ̃ il va pʁɛte]",
+      "ear": "布耶安 克 玛勒 日于斯卡 拉 塞恩 菲纳勒 塞特 梅姆 塞恩 当 松 霍勒 达赫冈 莫勒耶艾赫 瓦 艾特赫 安特霍尼泽 梅德森 伊勒 瓦 普赫特",
+      "meaning": "……仍勉强演到最后一场。在这场戏里，他饰演的阿尔冈将成为医生，并要……",
+      "suppliedText": "que mal jusqu'à la scène finale. Cette même scène dans son rôle d'argent Moli va être intronisé médecin. va prêter",
+      "sourceLineId": "moliere-timed-852",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 9,
+        "sourceLineNumber": 852,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Serment dans une langue où il mélange le français et le",
+      "start": 17,
+      "ipa": "[sɛʁmɑ̃ dɑ̃ yn lɑ̃ɡ‿u il melɑ̃ʒ lə fʁɑ̃sɛ e lə]",
+      "ear": "塞赫芒 当 于恩 朗格 乌 伊勒 梅朗日 勒 弗杭塞 诶 勒",
+      "meaning": "用混合法语和拉丁语的语言宣誓……",
+      "suppliedText": "serment dans une langue où il mélange le français et le",
+      "sourceLineId": "moliere-timed-853",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 17,
+        "sourceLineNumber": 853,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Latinondere entrare in",
+      "start": 26,
+      "ipa": "[latinɔ̃dʁ‿ɑ̃tʁaʁ‿in]",
+      "ear": "拉蒂农德赫 昂特哈赫 伊恩",
+      "meaning": "……进入……（舞台伪拉丁文，原字幕识别不清）",
+      "suppliedText": "latinondere entrare in",
+      "sourceLineId": "moliere-timed-855",
+      "reviewNote": "舞台伪拉丁文 · 字幕待核听；音标按拼写作参考",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 26,
+        "sourceLineNumber": 855,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Corpore scardare statut per farità",
+      "start": 33,
+      "ipa": "[kɔʁpɔʁ skaʁdaʁ staty pɛʁ faʁita]",
+      "ear": "科赫珀赫 斯卡赫达赫 斯塔蒂于 佩赫 法希塔",
+      "meaning": "……身体……（舞台伪拉丁文，原字幕识别不清）",
+      "suppliedText": "corpore scardare statut per farità",
+      "sourceLineId": "moliere-timed-856",
+      "reviewNote": "舞台伪拉丁文 · 字幕待核听；音标按拼写作参考",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 33,
+        "sourceLineNumber": 856,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Bene, bene, ben rispondore consulto.",
+      "start": 46,
+      "ipa": "[bən bən bɛn ʁispɔ̃dɔʁ kɔ̃sylto]",
+      "ear": "伯恩 伯恩 贝恩 希斯蓬多赫 孔西于勒托",
+      "meaning": "好，好……回答……（舞台伪拉丁文，原字幕识别不清）",
+      "suppliedText": "Bene, bene, ben rispondore consulto.",
+      "sourceLineId": "moliere-timed-857",
+      "reviewNote": "舞台伪拉丁文 · 字幕待核听；音标按拼写作参考",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 46,
+        "sourceLineNumber": 857,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Bene, bene, bene rispondere sesto entrare il",
+      "start": 64,
+      "ipa": "[bən bən bən ʁispɔ̃dʁ sɛsto ɑ̃tʁaʁ‿il]",
+      "ear": "伯恩 伯恩 伯恩 希斯蓬德赫 塞斯托 昂特哈赫 伊勒",
+      "meaning": "好，好，好……回答……进入……（舞台伪拉丁文，原字幕识别不清）",
+      "suppliedText": "Bene, bene, bene rispondere sesto entrare il",
+      "sourceLineId": "moliere-timed-858",
+      "reviewNote": "舞台伪拉丁文 · 字幕待核听；音标按拼写作参考",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 64,
+        "sourceLineNumber": 858,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Nostro corpor Bist",
+      "start": 71,
+      "ipa": "[nɔstʁo kɔʁpɔʁ bist]",
+      "ear": "诺斯特霍 科赫珀赫 比斯特",
+      "meaning": "我们的……（舞台伪拉丁文，原字幕识别不清）",
+      "suppliedText": "nostro corpor Bist",
+      "sourceLineId": "moliere-timed-859",
+      "reviewNote": "舞台伪拉丁文 · 字幕待核听；音标按拼写作参考",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 71,
+        "sourceLineNumber": 859,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

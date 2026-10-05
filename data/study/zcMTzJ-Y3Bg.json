@@ -1,0 +1,245 @@
+{
+  "videoId": "zcMTzJ-Y3Bg",
+  "playbackVideoId": "zcMTzJ-Y3Bg",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=zcMTzJ-Y3Bg"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Jean-Baptiste, mon enfant, ton silence m'inquiète. Cela fait longtemps que je n'ai eu la moindre lettre. On dit que d'Épernon, la Guyenne s'est défaite.",
+      "start": 7,
+      "ipa": "[ʒɑ̃batist mɔ̃n‿ɑ̃fɑ̃ tɔ̃ silɑ̃s mɛ̃kjɛt səla fɛ lɔ̃tɑ̃ kə ʒə ne y la mwɛ̃dʁ lɛtʁ ɔ̃ di kə depɛʁnɔ̃ la ɡɥijɛn sɛ defɛt]",
+      "ear": "让巴蒂斯特 蒙恩 昂芳 通 西朗斯 曼克耶艾特 瑟拉 费 隆唐 克 热 内 于 拉 姆乌安德赫 莱特赫 翁 迪 克 德佩赫农 拉 格于伊耶艾恩 塞 德费特",
+      "meaning": "让-巴蒂斯特，我的孩子，你的沉默让我担心。很久没收到你的信了，听说吉耶讷已摆脱埃佩尔农。",
+      "suppliedText": "Jean-Baptiste, mon enfant, ton silence m'inquiète. Cela fait longtemps que je n'ai eu la moindre lettre. On dit que des pernant la cuillenne s'est défaite.",
+      "sourceLineId": "moliere-timed-177",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7,
+        "sourceLineNumber": 177,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Mazarin l'a contraint à la retraite. Père, je vous supplie de ne…",
+      "start": 18,
+      "ipa": "[mazaʁɛ̃ la kɔ̃tʁɛ̃ a la ʁətʁɛt pɛʁ ʒə vu sypli də nə]",
+      "ear": "玛扎汉 拉 孔特汉 阿 拉 赫特赫特 佩赫 热 乌 西于普利 德 讷",
+      "meaning": "马扎然迫使他退位。——父亲，求您不要……",
+      "suppliedText": "Mazarin la contre à la retraite. Père, je vous supplie de ne",
+      "sourceLineId": "moliere-timed-178",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 18,
+        "sourceLineNumber": 178,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pas vous tourmenter. Il n'y a aucune raison de vous inquiéter. Depuis que",
+      "start": 27,
+      "ipa": "[pa vu tuʁmɑ̃te il ni a okyn ʁɛzɔ̃ də vuz‿ɛ̃kjete dəpɥi kə]",
+      "ear": "帕 乌 图赫芒特 伊勒 尼 阿 奥基于恩 赫宗 德 乌兹 安克耶诶特 德普于伊 克",
+      "meaning": "忧虑，没有理由担心。自从……",
+      "suppliedText": "pas vous tourmenter. Il n'y a aucune raison de vous inquiéter. Depuis que",
+      "sourceLineId": "moliere-timed-179",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 27,
+        "sourceLineNumber": 179,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "D'Épernon nous a libérés, nous courons de succès en succès.",
+      "start": 33,
+      "ipa": "[depɛʁnɔ̃ nuz‿a libeʁe nu kuʁɔ̃ də syksɛ ɑ̃ syksɛ]",
+      "ear": "德佩赫农 努兹 阿 利贝赫 努 库洪 德 西于克塞 昂 西于克塞",
+      "meaning": "离开埃佩尔农，我们接连取得成功。",
+      "suppliedText": "pernant nous a libéré, nous courons de succès en succès.",
+      "sourceLineId": "moliere-timed-180",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 33,
+        "sourceLineNumber": 180,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Mais tu n'as jamais d'essayer j'aurais",
+      "start": 43,
+      "ipa": "[mɛ ty na ʒamɛ desɛje ʒoʁɛ]",
+      "ear": "梅 蒂于 纳 扎梅 德塞耶诶 若赫",
+      "meaning": "但你从未……我多么希望……（识别不清）",
+      "suppliedText": "Mais tu n'as jamais d'essayer j'aurais",
+      "sourceLineId": "moliere-timed-182",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 43,
+        "sourceLineNumber": 182,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Tantôé mais tu avais tenté tant de rêve trop grand pour trouver le",
+      "start": 49,
+      "ipa": "[tɑ̃toe mɛ ty avɛ tɑ̃te tɑ̃ də ʁɛv tʁo ɡʁɑ̃ puʁ tʁuve lə]",
+      "ear": "唐托诶 梅 蒂于 阿韦 唐特 唐 德 赫弗 特霍 格杭 普赫 特胡韦 勒",
+      "meaning": "……你有太多宏大的梦，找不到……（识别不清）",
+      "suppliedText": "tantôé mais tu avais tenté tant de rêve trop grand pour trouver le",
+      "sourceLineId": "moliere-timed-183",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 49,
+        "sourceLineNumber": 183,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Temps de demander pardon.",
+      "start": 58,
+      "ipa": "[tɑ̃ də dəmɑ̃de paʁdɔ̃]",
+      "ear": "唐 德 德芒德 帕赫东",
+      "meaning": "请求原谅的时间。",
+      "suppliedText": "temps de demander pardon.",
+      "sourceLineId": "moliere-timed-184",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 58,
+        "sourceLineNumber": 184,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Non, je ne crois pas à ce que tu m'écris. Tu cours l'échec tel que je l'ai prédit. Tu n'as jamais été capable",
+      "start": 64,
+      "ipa": "[nɔ̃ ʒə nə kʁwa pa a sə kə ty mekʁi ty kuʁ leʃɛk tɛl kə ʒə le pʁedi ty na ʒamɛ ete kapabl]",
+      "ear": "农 热 讷 克赫乌阿 帕 阿 瑟 克 蒂于 梅克希 蒂于 库赫 莱谢克 泰勒 克 热 莱 普赫迪 蒂于 纳 扎梅 诶特 卡帕布勒",
+      "meaning": "不，我不信你信里写的话。正如我预言，你会失败，你从来不能……",
+      "suppliedText": "Non, je ne crois pas à ce que tu m'écris. Tu cours l'échec tel que je l'ai prédit. Tu n'as jamais été capable",
+      "sourceLineId": "moliere-timed-185",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 64,
+        "sourceLineNumber": 185,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "De t'assumer. Renonce à tes chimères et viens me retrouver. J'aimerais tellement",
+      "start": 74,
+      "ipa": "[də tasyme ʁənɔ̃s‿a te ʃimɛʁ e vjɛ̃ mə ʁətʁuve ʒɛmʁɛ tɛlmɑ̃]",
+      "ear": "德 塔西于梅 赫农斯 阿 特 希梅赫 诶 弗耶安 默 赫特胡韦 热姆赫 泰勒芒",
+      "meaning": "独立承担生活。放弃幻想，回到我身边。——我多么想……",
+      "suppliedText": "de t'assumer. Renonce à tes chimères et viens me retrouver. J'aimerais tellement",
+      "sourceLineId": "moliere-timed-186",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 74,
+        "sourceLineNumber": 186,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Briser ta défiance, de prouver que je mérite ta confiance mais tu ne m'as jamais donné l'occasion de te révéler.",
+      "start": 80,
+      "ipa": "[bʁize ta defjɑ̃s də pʁuve kə ʒə meʁit ta kɔ̃fjɑ̃s mɛ ty nə ma ʒamɛ dɔne lɔkazjɔ̃ də tə ʁevele]",
+      "ear": "布希泽 塔 德弗耶昂斯 德 普胡韦 克 热 梅希特 塔 孔弗耶昂斯 梅 蒂于 讷 玛 扎梅 多内 洛卡兹耶翁 德 特 赫韦莱",
+      "meaning": "打破您的不信任，证明我值得您信任，可您从未给我机会，让我说出……",
+      "suppliedText": "briser ta défiance, de prouver que je mérite ta confiance mais tu ne m'as jamais donné l'occasion de te révéler.",
+      "sourceLineId": "moliere-timed-187",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 80,
+        "sourceLineNumber": 187,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Ma passion mais tu n'as jamais tant d'essayé j'aurais",
+      "start": 92,
+      "ipa": "[ma pasjɔ̃ mɛ ty na ʒamɛ tɑ̃ desɛje ʒoʁɛ]",
+      "ear": "玛 帕斯耶翁 梅 蒂于 纳 扎梅 唐 德塞耶诶 若赫",
+      "meaning": "我的热爱。可你从未……我多么希望……（部分识别不清）",
+      "suppliedText": "ma passion mais tu n'as jamais tant d'essayé j'aurais",
+      "sourceLineId": "moliere-timed-188",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 92,
+        "sourceLineNumber": 188,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Tant pas dégoûter mais tu avais dans des temps de rêve trop grand pour trouver le",
+      "start": 98,
+      "ipa": "[tɑ̃ pa deɡute mɛ ty avɛ dɑ̃ de tɑ̃ də ʁɛv tʁo ɡʁɑ̃ puʁ tʁuve lə]",
+      "ear": "唐 帕 德古特 梅 蒂于 阿韦 当 德 唐 德 赫弗 特霍 格杭 普赫 特胡韦 勒",
+      "meaning": "……你有太多宏大的梦，找不到……（识别不清）",
+      "suppliedText": "tant pas dégoûter mais tu avais dans des temps de rêve trop grand pour trouver le",
+      "sourceLineId": "moliere-timed-189",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 98,
+        "sourceLineNumber": 189,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Temps de demander pardon si tu peux pas que je m'isole",
+      "start": 108,
+      "ipa": "[tɑ̃ də dəmɑ̃de paʁdɔ̃ si ty pø pa kə ʒə mizɔl]",
+      "ear": "唐 德 德芒德 帕赫东 西 蒂于 珀厄 帕 克 热 米佐勒",
+      "meaning": "请求原谅的时间……让我独自……",
+      "suppliedText": "temps de demander pardon si tu peux pas que je m'isole",
+      "sourceLineId": "moliere-timed-190",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 108,
+        "sourceLineNumber": 190,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Tous les soirs pour écrire des histoires qui je l'espère te rendront fier Car oui, un jour on jouera les pièces de Monsieur Molière.",
+      "start": 116,
+      "ipa": "[tu le swaʁ puʁ‿ekʁiʁ dez‿istwaʁ ki ʒə lɛspɛʁ tə ʁɑ̃dʁɔ̃ fjɛʁ kaʁ wi œ̃ ʒuʁ‿ɔ̃ ʒwʁa le pjɛs də məsjø moljɛʁ]",
+      "ear": "图 莱 斯乌阿赫 普赫 诶克希赫 德兹 伊斯特乌阿赫 基 热 莱斯佩赫 特 杭德洪 弗耶艾赫 卡赫 乌伊 恩 茹赫 翁 日乌哈 莱 普耶艾斯 德 默斯耶厄 莫勒耶艾赫",
+      "meaning": "每晚写故事，希望能让你骄傲。是的，总有一天，人们会上演莫里哀先生的戏。",
+      "suppliedText": "tous les soirs pour écrire des histoires qui je l'espère te rendront fier Car oui, un jour on jouera les pièces de Monsieur Molière.",
+      "sourceLineId": "moliere-timed-191",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 116,
+        "sourceLineNumber": 191,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

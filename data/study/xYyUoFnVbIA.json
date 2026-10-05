@@ -1,0 +1,405 @@
+{
+  "videoId": "xYyUoFnVbIA",
+  "playbackVideoId": "xYyUoFnVbIA",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=xYyUoFnVbIA"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Mesdames et messieurs, la troupe de l'Illustre Théâtre : madame Béjart…",
+      "start": 0,
+      "ipa": "[medam e mesjø la tʁup də lilystʁ teatʁ madam beʒaʁ]",
+      "ear": "梅达姆 诶 梅斯耶厄 拉 特胡普 德 利吕斯特赫 特阿特赫 玛达姆 贝扎赫",
+      "meaning": "女士们、先生们，卓越剧团：贝雅尔夫人……",
+      "suppliedText": "mesdames et messieurs la troupe de l'Illustre Théâtre madame béj lis",
+      "sourceLineId": "moliere-timed-43",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 0,
+        "sourceLineNumber": 43,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Béjart et Jean-Baptiste. Nous allons créer notre théâtre. Nous allons l'appeler l'Illustre Théâtre.",
+      "start": 7,
+      "ipa": "[beʒaʁ e ʒɑ̃batist nuz‿alɔ̃ kʁee notʁ teatʁ nuz‿alɔ̃ laple lilystʁ teatʁ]",
+      "ear": "贝扎赫 诶 让巴蒂斯特 努兹 阿隆 克赫诶 诺特赫 特阿特赫 努兹 阿隆 拉普莱 利吕斯特赫 特阿特赫",
+      "meaning": "……贝雅尔和让-巴蒂斯特。我们要创办自己的剧院，叫它卓越剧院。",
+      "suppliedText": "béjame et Jean Bapti nous allons créer notre théâtre nous allons l'appeler l'illust théâtre",
+      "sourceLineId": "moliere-timed-44",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7,
+        "sourceLineNumber": 44,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Quant au règlement, vous n'allez pas… J'ai écrit les fondements de l'Illustre Théâtre. Ah bon ? Oui ! Pourquoi…",
+      "start": 15,
+      "ipa": "[kɑ̃ o ʁɛɡləmɑ̃ vu nale pa ʒe ekʁi le fɔ̃dmɑ̃ də lilystʁ teatʁ a bɔ̃ wi puʁkwa]",
+      "ear": "康 奥 赫格勒芒 乌 纳莱 帕 热 诶克希 莱 丰德芒 德 利吕斯特赫 特阿特赫 阿 崩 乌伊 普赫克乌阿",
+      "meaning": "至于规章，你们不必……我已写好了卓越剧团的章程。——是吗？——是的！为什么……",
+      "suppliedText": "quand au règlement vous n'allez pas débre j'ai écrit les fondements de l'Illustre Théâtre ah bon oui pourquoi",
+      "sourceLineId": "moliere-timed-45",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 15,
+        "sourceLineNumber": 45,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pas ? Madeleine, dans mes bras ! … Sera dirigé par moi…",
+      "start": 22,
+      "ipa": "[pa madlɛn dɑ̃ me bʁa səʁa diʁiʒe paʁ mwa]",
+      "ear": "帕 玛德莱恩 当 梅 布哈 瑟哈 迪希热 帕赫 姆乌阿",
+      "meaning": "不呢？玛德莱娜，拥抱我吧！……由我来领导……",
+      "suppliedText": "pas m dans mes bras coup sera diringé par moi et Don ah oui Mandard nousvelit",
+      "sourceLineId": "moliere-timed-46",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 22,
+        "sourceLineNumber": 46,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Par vote à la majorité, mis à part les rôles que je choisirai en premier. Nous…",
+      "start": 31,
+      "ipa": "[paʁ vɔt‿a la maʒoʁite mi a paʁ le ʁol kə ʒə ʃwaziʁe ɑ̃ pʁəmje nu]",
+      "ear": "帕赫 沃特 阿 拉 玛若希特 米 阿 帕赫 莱 霍勒 克 热 什乌阿齐赫 昂 普赫姆耶诶 努",
+      "meaning": "用多数表决决定，但我先挑选自己的角色。我们……",
+      "suppliedText": "par vote à la majorité mis à part les rôles que je choisirai en premier nous",
+      "sourceLineId": "moliere-timed-47",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 31,
+        "sourceLineNumber": 47,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Serons presque toujours à égalité. Ah bon ? Oui ! Pourquoi pas ? Madeleine, dans mes…",
+      "start": 38,
+      "ipa": "[səʁɔ̃ pʁɛskə tuʒuʁ‿a eɡalite a bɔ̃ wi puʁkwa pa madlɛn dɑ̃ me]",
+      "ear": "瑟洪 普赫斯克 图茹赫 阿 诶嘎利特 阿 崩 乌伊 普赫克乌阿 帕 玛德莱恩 当 梅",
+      "meaning": "几乎总能平等相待。——是吗？——为什么不呢？玛德莱娜，投入我的……",
+      "suppliedText": "serons presque toujours à égalité ah bon oui pourquoi pas Madeleine dans mes",
+      "sourceLineId": "moliere-timed-48",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 38,
+        "sourceLineNumber": 48,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Bras ! Monsieur le notaire, nous sommes prêts à…",
+      "start": 47,
+      "ipa": "[bʁa məsjø lə notɛʁ nu sɔm pʁɛ a]",
+      "ear": "布哈 默斯耶厄 勒 诺泰赫 努 索姆 普赫 阿",
+      "meaning": "怀抱！公证人先生，我们准备……",
+      "suppliedText": "bras mon le notaire nous sommes prêts à",
+      "sourceLineId": "moliere-timed-49",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 47,
+        "sourceLineNumber": 49,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Signer. Paris… Nous allons bientôt…",
+      "start": 52,
+      "ipa": "[sinje paʁi nuz‿alɔ̃ bjɛ̃to]",
+      "ear": "西恩耶诶 帕希 努兹 阿隆 布耶安托",
+      "meaning": "签字了。巴黎……我们就要……",
+      "suppliedText": "signeris Paris tu peux bien hen nous allons bientôt",
+      "sourceLineId": "moliere-timed-51",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 52,
+        "sourceLineNumber": 51,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… On pourra peut-être signer avant ça ? Oui ! Béjart, signé ! Joseph Béjart, signé !",
+      "start": 61,
+      "ipa": "[ɔ̃ puʁa pøtɛtʁ sinje avɑ̃ sa wi beʒaʁ sinje ʒozɛf beʒaʁ sinje]",
+      "ear": "翁 普哈 珀厄泰特赫 西恩耶诶 阿旺 萨 乌伊 贝扎赫 西恩耶诶 若泽弗 贝扎赫 西恩耶诶",
+      "meaning": "……能先把字签了吗？好！贝雅尔，签了！约瑟夫·贝雅尔，签了！",
+      "suppliedText": "bon pourra peut-être signer avant ça oui Béjard signé Joseph Béjard signé",
+      "sourceLineId": "moliere-timed-52",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 61,
+        "sourceLineNumber": 52,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Allez ! … Est-il bien clair ? … S'il n'y avait pas la signature d'un certain Molière. Molière ?",
+      "start": 70,
+      "ipa": "[ale ɛtil bjɛ̃ klɛʁ sil ni avɛ pa la sinjatyʁ dœ̃ sɛʁtɛ̃ moljɛʁ moljɛʁ]",
+      "ear": "阿莱 艾蒂勒 布耶安 克莱赫 西勒 尼 阿韦 帕 拉 西恩耶阿蒂于赫 丹 塞赫坦 莫勒耶艾赫 莫勒耶艾赫",
+      "meaning": "……清楚了吗？……怎么还有一个叫莫里哀的人签名？莫里哀？",
+      "suppliedText": "allez le not est-il bien clair vous serait clair s'il n'y avait pas la signature d'un certain Molière Molière",
+      "sourceLineId": "moliere-timed-53",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 70,
+        "sourceLineNumber": 53,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Oui, Molière, c'est moi. Je trouvais Poquelin un peu ringard, donc je me suis choisi un pseudo de star. Paris, Paris, tu peux…",
+      "start": 79,
+      "ipa": "[wi moljɛʁ sɛ mwa ʒə tʁuvɛ poklɛ̃ œ̃ pø ʁɛ̃ɡaʁ dɔ̃k ʒə mə sɥi ʃwazi œ̃ psødo də staʁ paʁi paʁi ty pø]",
+      "ear": "乌伊 莫勒耶艾赫 塞 姆乌阿 热 特胡韦 波克兰 恩 珀厄 汉嘎赫 东克 热 默 斯于伊 什乌阿齐 恩 普瑟厄多 德 斯塔赫 帕希 帕希 蒂于 珀厄",
+      "meaning": "对，莫里哀就是我。我觉得波克兰有点老土，便给自己起了个明星艺名。巴黎，巴黎，你尽管……",
+      "suppliedText": "oui Molière c'est moi je trouvais plin un peu ringard donc je me suis choisi un pseudo de star Paris Paris tu peux",
+      "sourceLineId": "moliere-timed-54",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 79,
+        "sourceLineNumber": 54,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Bien… Nous allons…",
+      "start": 88,
+      "ipa": "[bjɛ̃ nuz‿alɔ̃]",
+      "ear": "布耶安 努兹 阿隆",
+      "meaning": "……我们将要……",
+      "suppliedText": "bien nous allons",
+      "sourceLineId": "moliere-timed-55",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 88,
+        "sourceLineNumber": 55,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Bientôt. Paris, Paris…",
+      "start": 93,
+      "ipa": "[bjɛ̃to paʁi paʁi]",
+      "ear": "布耶安托 帕希 帕希",
+      "meaning": "很快。巴黎，巴黎……",
+      "suppliedText": "bientôt Paris Paris",
+      "sourceLineId": "moliere-timed-57",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 93,
+        "sourceLineNumber": 57,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Nous avons loué. Il faut à présent le rénover. Pour tout financer, nous devons…",
+      "start": 103,
+      "ipa": "[nuz‿avɔ̃ lwe il fo a pʁezɑ̃ lə ʁenove puʁ tu finɑ̃se nu dəvɔ̃]",
+      "ear": "努兹 阿翁 勒乌诶 伊勒 佛 阿 普赫赞 勒 赫诺韦 普赫 图 菲南塞 努 德翁",
+      "meaning": "……已经租下了，现在得翻修。要筹齐资金，我们必须……",
+      "suppliedText": "pour de nous avons loué il faut à présent le rénover pour tout financer nous devons",
+      "sourceLineId": "moliere-timed-58",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 103,
+        "sourceLineNumber": 58,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Emprunter. … Pourrait se porter caution pour obtenir un prêt ? Toi, Jean-Baptiste ?",
+      "start": 111,
+      "ipa": "[ɑ̃pʁœ̃te puʁɛ sə pɔʁte kosjɔ̃ puʁ‿ɔbtniʁ‿œ̃ pʁɛ twa ʒɑ̃batist]",
+      "ear": "昂普汉特 普赫 瑟 珀赫特 科斯耶翁 普赫 哦布特尼赫 恩 普赫 特乌阿 让巴蒂斯特",
+      "meaning": "借钱。……谁愿意做贷款担保人？让-巴蒂斯特，你吗？",
+      "suppliedText": "emprunterentre nous pourrait se caution pour obtenir un prêt toi Jean-Baptiste",
+      "sourceLineId": "moliere-timed-59",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 111,
+        "sourceLineNumber": 59,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "OK, d'accord, je vais les cautionner. Mais là, je mérite bien un petit… Cher Montfleury, cher Floridor, Paris vous sourit. Et…",
+      "start": 120,
+      "ipa": "[oke dakɔʁ ʒə vɛ le kosjɔne mɛ la ʒə meʁit bjɛ̃n‿œ̃ pəti ʃɛʁ mɔ̃fløʁi ʃɛʁ floʁidɔʁ paʁi vu suʁi e]",
+      "ear": "奥克 达科赫 热 韦 莱 科斯耶哦内 梅 拉 热 梅希特 布耶安恩 恩 珀蒂 谢赫 蒙弗勒厄希 谢赫 弗洛希多赫 帕希 乌 苏希 诶",
+      "meaning": "好，我来担保，不过我该得到一点……亲爱的蒙弗勒里、弗洛里多，巴黎正对你们微笑……",
+      "suppliedText": "ok d'accord je vais les cautionner mais là je mérite bien un petit pétier ch mon fleur cher fluridor Paris vous sourit et",
+      "sourceLineId": "moliere-timed-60",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 120,
+        "sourceLineNumber": 60,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Oui… Avec Corneille nous triomphons au…",
+      "start": 128,
+      "ipa": "[wi avɛk kɔʁnɛj nu tʁiɔ̃fɔ̃ o]",
+      "ear": "乌伊 阿韦克 科赫奈耶 努 特希翁丰 奥",
+      "meaning": "对……演高乃依的戏，我们在……",
+      "suppliedText": "oui kine nous avec corne nous triomphons au",
+      "sourceLineId": "moliere-timed-61",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 128,
+        "sourceLineNumber": 61,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Théâtre du Marais, au théâtre de Bourgogne. Nous sommes la troupe de Sa Majesté. Ces…",
+      "start": 134,
+      "ipa": "[teatʁ dy maʁɛ o teatʁ də buʁɡɔɲ nu sɔm la tʁup də sa maʒɛste se]",
+      "ear": "特阿特赫 迪于 玛赫 奥 特阿特赫 德 布赫果涅 努 索姆 拉 特胡普 德 萨 玛热斯特 塞",
+      "meaning": "玛莱剧院、勃艮第剧院大获成功，我们是国王陛下的剧团。这些……",
+      "suppliedText": "théâre du mar au théâtre de Bourgogne nous sommes la trou de Sa Majesté c'est",
+      "sourceLineId": "moliere-timed-62",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 134,
+        "sourceLineNumber": 62,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Jeunes inconscients… Paris n'est pas assez grand pour assurer le succès…",
+      "start": 141,
+      "ipa": "[ʒøn‿ɛ̃kɔ̃sjɑ̃ paʁi nɛ pa ase ɡʁɑ̃ puʁ‿asyʁe lə syksɛ]",
+      "ear": "热厄恩 安孔斯耶昂 帕希 奈 帕 阿塞 格杭 普赫 阿西于赫 勒 西于克塞",
+      "meaning": "不知天高地厚的年轻人……巴黎不够大，容不下……",
+      "suppliedText": "jeun inconscient pour chanté Paris n'est pas assez grand pour assurer le succès",
+      "sourceLineId": "moliere-timed-63",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 141,
+        "sourceLineNumber": 63,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Aujourd'hui au théâtre du Marais…",
+      "start": 150,
+      "ipa": "[oʒuʁdɥi o teatʁ dy maʁɛ]",
+      "ear": "奥茹赫德于伊 奥 特阿特赫 迪于 玛赫",
+      "meaning": "……今天在玛莱剧院……",
+      "suppliedText": "è th aujourd'hui au thére du mar",
+      "sourceLineId": "moliere-timed-64",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 150,
+        "sourceLineNumber": 64,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Aujourd'hui…",
+      "start": 161,
+      "ipa": "[oʒuʁdɥi]",
+      "ear": "奥茹赫德于伊",
+      "meaning": "……今天……（其余识别不清）",
+      "suppliedText": "m'h Gabri aujourd'huire th les",
+      "sourceLineId": "moliere-timed-65",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 161,
+        "sourceLineNumber": 65,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Aujourd'hui à l'Illustre Théâtre : La Mort de Crispe, de Tristan L'Hermite, avec la grande Madeleine. Reprise au théâtre de l'Hôtel de…",
+      "start": 180,
+      "ipa": "[oʒuʁdɥi a lilystʁ teatʁ la mɔʁ də kʁisp də tʁistɑ̃ lɛʁmit avɛk la ɡʁɑ̃d madlɛn ʁəpʁiz‿o teatʁ də lotɛl də]",
+      "ear": "奥茹赫德于伊 阿 利吕斯特赫 特阿特赫 拉 莫赫 德 克希斯普 德 特希斯唐 莱赫米特 阿韦克 拉 格杭德 玛德莱恩 赫普希兹 奥 特阿特赫 德 洛泰勒 德",
+      "meaning": "今天卓越剧院上演特里斯坦·莱尔米特的《克里斯普之死》，玛德莱娜主演。另在……",
+      "suppliedText": "aujourd'hui à l'Illustre Théâtre la mor de crispe de tristonermite avec la grande Madeleine reprise au théâtre de l'hel de",
+      "sourceLineId": "moliere-timed-67",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 180,
+        "sourceLineNumber": 67,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Bourgogne… C'est un succès, succès ! Reprise… Mesdames et messieurs, représentation…",
+      "start": 188,
+      "ipa": "[buʁɡɔɲ sɛt‿œ̃ syksɛ syksɛ ʁəpʁiz medam e mesjø ʁəpʁezɑ̃tasjɔ̃]",
+      "ear": "布赫果涅 塞特 恩 西于克塞 西于克塞 赫普希兹 梅达姆 诶 梅斯耶厄 赫普赫赞塔斯耶翁",
+      "meaning": "勃艮第剧院重演……成功，成功！女士们、先生们，加演……",
+      "suppliedText": "Bourgogne rocune de gabriber c'est un succès succès reprise leur du mdames et Messieurs présentation",
+      "sourceLineId": "moliere-timed-68",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 188,
+        "sourceLineNumber": 68,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Supplémentaire : Le Menteur du grand Corneille au théâtre du…",
+      "start": 196,
+      "ipa": "[syplemɑ̃tɛʁ lə mɑ̃tœʁ dy ɡʁɑ̃ kɔʁnɛj‿o teatʁ dy]",
+      "ear": "西于普莱芒泰赫 勒 芒特厄赫 迪于 格杭 科赫奈耶 奥 特阿特赫 迪于",
+      "meaning": "高乃依的《说谎人》，在……剧院。",
+      "suppliedText": "supplémentaire leenteur du Grand Corneil au Théâtre du",
+      "sourceLineId": "moliere-timed-69",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 196,
+        "sourceLineNumber": 69,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

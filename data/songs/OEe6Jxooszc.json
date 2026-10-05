@@ -10,14 +10,100 @@
   "musicalId": "moliere",
   "trackNumber": 20,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Quant à moi jour après jour ma santé se détériore et ma dernière heure va",
+      "start": 0,
+      "duration": 8
+    },
+    {
+      "text": "Bientôt arriver mis à part Louis tous mes compagnons",
+      "start": 8,
+      "duration": 7
+    },
+    {
+      "text": "L'ignorent Dieu que je les aime ils vont tellement me",
+      "start": 15,
+      "duration": 10
+    },
+    {
+      "text": "Manquer j'ai gardé peu de souvenir de ma mère une voix apaisante une image évanescente tapie dans un coin de mon",
+      "start": 25,
+      "duration": 8
+    },
+    {
+      "text": "Imaginaire de ma naissance on ne m'a rien dit puis un jour ma mère m'a écrit elle m'aappris que j'étais l'illégitime",
+      "start": 33,
+      "duration": 7
+    },
+    {
+      "text": "Enfant d'une comédienne et d'un chambelllan seraelle un jour",
+      "start": 40,
+      "duration": 7
+    },
+    {
+      "text": "Effacer les ombres et fantômes du passé ?",
+      "start": 49,
+      "duration": 11
+    },
+    {
+      "text": "… Un jour enfin me donner l'amour dont elle m'a…",
+      "start": 60,
+      "duration": 10
+    },
+    {
+      "text": "Privé pendant toutes ces années je n'ai cessé de m'enquérir de ces nouvelles on m'écrivait qu'Armande me ressemblait qu'elle était volontaire et rebelle",
+      "start": 70,
+      "duration": 8
+    },
+    {
+      "text": "Quand elle devint suffisamment grande en âantf de comprendre dans une longue lettre je lui a tout raconter en lui promettant de venir bientôt la",
+      "start": 78,
+      "duration": 8
+    },
+    {
+      "text": "Chercher. … Un jour me pardonner…",
+      "start": 88,
+      "duration": 10
+    },
+    {
+      "text": "… Abandonnée… N'avoir jamais pu lui…",
+      "start": 98,
+      "duration": 10
+    },
+    {
+      "text": "Donner l'amour que je lui",
+      "start": 108,
+      "duration": 7
+    },
+    {
+      "text": "Devais. L'amour dont elle m'a… Pendant toutes ces années et…",
+      "start": 115,
+      "duration": 9
+    },
+    {
+      "text": "Dans le plus grand des secrets à la comédie je n'ai cessé de m'exercer je me suis juré d'en faire mon métier je me",
+      "start": 124,
+      "duration": 8
+    },
+    {
+      "text": "Suis jurée d'atteindre les sommets je me suis juré qu'un jour mon étoile brillera bien plus fort que",
+      "start": 132,
+      "duration": 8
+    },
+    {
+      "text": "Celle de ma mère",
+      "start": 140,
+      "duration": 6
+    }
+  ],
   "playbackVideoId": "OEe6Jxooszc",
   "sourceURL": "https://www.youtube.com/watch?v=OEe6Jxooszc",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=OEe6Jxooszc",
@@ -108,10 +194,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250310",
   "productionYear": 2023,
@@ -200,5 +286,112 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 400,
+      "start": 0,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 401,
+      "start": 0,
+      "text": "quant à moi jour après jour ma santé se détériore et ma dernière heure va"
+    },
+    {
+      "sourceLine": 405,
+      "start": 8,
+      "text": "bientôt arriver mis à part Louis tous mes compagnons"
+    },
+    {
+      "sourceLine": 406,
+      "start": 15,
+      "text": "l'ignorent Dieu que je les aime ils vont tellement me"
+    },
+    {
+      "sourceLine": 407,
+      "start": 25,
+      "text": "manquer j'ai gardé peu de souvenir de ma mère une voix apaisante une image évanescente tapie dans un coin de mon"
+    },
+    {
+      "sourceLine": 408,
+      "start": 33,
+      "text": "imaginaire de ma naissance on ne m'a rien dit puis un jour ma mère m'a écrit elle m'aappris que j'étais l'illégitime"
+    },
+    {
+      "sourceLine": 409,
+      "start": 40,
+      "text": "enfant d'une comédienne et d'un chambelllan seraelle un jour"
+    },
+    {
+      "sourceLine": 410,
+      "start": 47,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 411,
+      "start": 49,
+      "text": "effacé les ombres et fantômes du passé"
+    },
+    {
+      "sourceLine": 412,
+      "start": 60,
+      "text": "B jour enfin me donner l'amour dont elle m'a"
+    },
+    {
+      "sourceLine": 413,
+      "start": 70,
+      "text": "privé pendant toutes ces années je n'ai cessé de m'enquérir de ces nouvelles on m'écrivait qu'Armande me ressemblait qu'elle était volontaire et rebelle"
+    },
+    {
+      "sourceLine": 414,
+      "start": 78,
+      "text": "quand elle devint suffisamment grande en âantf de comprendre dans une longue lettre je lui a tout raconter en lui promettant de venir bientôt la"
+    },
+    {
+      "sourceLine": 415,
+      "start": 86,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 416,
+      "start": 88,
+      "text": "chercher c'est un jour me pardonner"
+    },
+    {
+      "sourceLine": 417,
+      "start": 98,
+      "text": "c'est abandonné c'est n'avoir jamais pu lui"
+    },
+    {
+      "sourceLine": 418,
+      "start": 108,
+      "text": "donner l'amour que je lui"
+    },
+    {
+      "sourceLine": 419,
+      "start": 115,
+      "text": "devais l'amour dont elle M rveille pendant toutes ces années et"
+    },
+    {
+      "sourceLine": 420,
+      "start": 124,
+      "text": "dans le plus grand des secrets à la comédie je n'ai cessé de m'exercer je me suis juré d'en faire mon métier je me"
+    },
+    {
+      "sourceLine": 421,
+      "start": 132,
+      "text": "suis jurée d'atteindre les sommets je me suis juré qu'un jour mon étoile brillera bien plus fort que"
+    },
+    {
+      "sourceLine": 422,
+      "start": 140,
+      "text": "celle de ma mère"
+    }
+  ]
 }

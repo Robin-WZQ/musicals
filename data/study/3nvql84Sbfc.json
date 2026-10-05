@@ -1,0 +1,293 @@
+{
+  "videoId": "3nvql84Sbfc",
+  "playbackVideoId": "3nvql84Sbfc",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=3nvql84Sbfc"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "On dit que ceux qui se ressemblent souvent s'assemblent. Il y a les gens d'en haut et les…",
+      "start": 8,
+      "ipa": "[ɔ̃ di kə sø ki sə ʁəsɑ̃bl suvɑ̃ sasɑ̃bl il‿i a le ʒɑ̃ dɑ̃ o e le]",
+      "ear": "翁 迪 克 瑟厄 基 瑟 赫桑布勒 苏旺 萨桑布勒 伊勒 伊 阿 莱 让 当 奥 诶 莱",
+      "meaning": "人们说相似的人会走到一起，有上层的人，也有……",
+      "suppliedText": "on dit que ce qui se ressemble souvent ça semble il a les gens d'en haut et les",
+      "sourceLineId": "moliere-timed-527",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 8,
+        "sourceLineNumber": 527,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Gens d'en bas. S'ils ne veulent pas qu'on soit ensemble, que leurs mains tremblent. On…",
+      "start": 14,
+      "ipa": "[ʒɑ̃ dɑ̃ ba sil nə vœl pa kɔ̃ swa ɑ̃sɑ̃bl kə lœʁ mɛ̃ tʁɑ̃bl ɔ̃]",
+      "ear": "让 当 巴 西勒 讷 弗厄勒 帕 孔 斯乌阿 昂桑布勒 克 勒厄赫 曼 特杭布勒 翁",
+      "meaning": "下层的人。他们若不让我们在一起，就让他们发抖吧。我们……",
+      "suppliedText": "gens bas s'ils ne veulent pas qu'on soit ensemble que leur main tremble on",
+      "sourceLineId": "moliere-timed-528",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 14,
+        "sourceLineNumber": 528,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "N'arrête pas un cœur qui va seque on se de ce qu'il pens les provoque pour perd",
+      "start": 21,
+      "ipa": "[naʁɛt pa œ̃ kœʁ ki va sək‿ɔ̃ sə də sə kil pɛn le pʁovok puʁ pɛʁ]",
+      "ear": "纳赫特 帕 恩 克厄赫 基 瓦 瑟克 翁 瑟 德 瑟 基勒 佩恩 莱 普霍沃克 普赫 佩赫",
+      "meaning": "挡不住向前的心……我们不在乎他们的想法，挑衅他们……（部分识别不清）",
+      "suppliedText": "n'arrête pas un cœur qui va seque on se de ce qu'il pens les provoque pour perd",
+      "sourceLineId": "moliere-timed-529",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 21,
+        "sourceLineNumber": 529,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "On se moque oui on se moque de ceux qui pens à quelle époque C nos différence oh",
+      "start": 31,
+      "ipa": "[ɔ̃ sə mok wi ɔ̃ sə mok də sø ki pɛn‿a kɛl‿epok se no difeʁɑ̃s‿ɔ]",
+      "ear": "翁 瑟 莫克 乌伊 翁 瑟 莫克 德 瑟厄 基 佩恩 阿 凯勒 诶波克 塞 诺 迪费杭斯 哦",
+      "meaning": "我们不在乎，嘲笑那些……我们的差异……（部分识别不清）",
+      "suppliedText": "on se moque oui on se moque de ceux qui pens à quelle époque C nos différence oh",
+      "sourceLineId": "moliere-timed-530",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 31,
+        "sourceLineNumber": 530,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Mon amour, tu es ma chance. Si je renonce…",
+      "start": 38,
+      "ipa": "[mɔ̃n‿amuʁ ty ɛ ma ʃɑ̃s si ʒə ʁənɔ̃s]",
+      "ear": "蒙恩 阿穆赫 蒂于 艾 玛 尚斯 西 热 赫农斯",
+      "meaning": "爱人，你是我的幸运。如果我放弃……",
+      "suppliedText": "mon amour tu es ma chance si je renonce a de",
+      "sourceLineId": "moliere-timed-531",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 38,
+        "sourceLineNumber": 531,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Ma robe blanche est la réponse à leurs offenses.",
+      "start": 47,
+      "ipa": "[ma ʁɔb blɑ̃ʃ‿ɛ la ʁepɔ̃s‿a lœʁz‿ɔfɑ̃s]",
+      "ear": "玛 霍布 布朗什 艾 拉 赫蓬斯 阿 勒厄赫兹 哦芳斯",
+      "meaning": "……我的白色婚纱，就是对他们冒犯的回应。",
+      "suppliedText": "s ma robe blanche et la réponse à leurs offenses",
+      "sourceLineId": "moliere-timed-532",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 47,
+        "sourceLineNumber": 532,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Tous les hommes ne sont pas des anges qu'est-ce que ça change qu'on goûte fruit de notre passion pourquoi fautil",
+      "start": 63,
+      "ipa": "[tu lez ɔm nə sɔ̃ pa dez ɑ̃ʒ kɛskə sa ʃɑ̃ʒ kɔ̃ ɡut fʁɥi də notʁ pasjɔ̃ puʁkwa foti]",
+      "ear": "图 莱兹 哦姆 讷 松 帕 德兹 昂日 凯斯克 萨 尚日 孔 古特 弗赫于伊 德 诺特赫 帕斯耶翁 普赫克乌阿 佛蒂",
+      "meaning": "男人并非都是天使，可这又怎样？我们品尝激情的果实，为什么……",
+      "suppliedText": "tous les hommes ne sont pas des anges qu'est-ce que ça change qu'on goûte fruit de notre passion pourquoi fautil",
+      "sourceLineId": "moliere-timed-533",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 63,
+        "sourceLineNumber": 533,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Que ça dérange se mélangetion on se moque on se moque de P",
+      "start": 72,
+      "ipa": "[kə sa deʁɑ̃ʒ sə melɑ̃ʒətjɔ̃ ɔ̃ sə mok‿ɔ̃ sə mok də pe]",
+      "ear": "克 萨 德杭日 瑟 梅朗热特耶翁 翁 瑟 莫克 翁 瑟 莫克 德 佩",
+      "meaning": "会让人不安……我们不在乎……（部分识别不清）",
+      "suppliedText": "que ça dérange se mélangetion on se moque on se moque de P",
+      "sourceLineId": "moliere-timed-534",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 72,
+        "sourceLineNumber": 534,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Les Provo pour perdavance on se moque oui on se moque de ce qui pens",
+      "start": 81,
+      "ipa": "[le pʁovo puʁ pɛʁdavɑ̃s‿ɔ̃ sə mok wi ɔ̃ sə mok də sə ki pɛn]",
+      "ear": "莱 普霍沃 普赫 佩赫达旺斯 翁 瑟 莫克 乌伊 翁 瑟 莫克 德 瑟 基 佩恩",
+      "meaning": "挑衅他们……我们不在乎他们的想法……（部分识别不清）",
+      "suppliedText": "les Provo pour perdavance on se moque oui on se moque de ce qui pens",
+      "sourceLineId": "moliere-timed-535",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 81,
+        "sourceLineNumber": 535,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Célébrons n différents oh mon amant et ma chance et je renonce que",
+      "start": 90,
+      "ipa": "[selebʁɔ̃ ɛn difeʁɑ̃ ɔ mɔ̃n‿amɑ̃ e ma ʃɑ̃s e ʒə ʁənɔ̃s kə]",
+      "ear": "塞莱布洪 艾恩 迪费杭 哦 蒙恩 阿芒 诶 玛 尚斯 诶 热 赫农斯 克",
+      "meaning": "庆祝我们的不同。爱人，你是我的幸运，如果我放弃……",
+      "suppliedText": "célébrons n différents oh mon amant et ma chance et je renonce que",
+      "sourceLineId": "moliere-timed-536",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 90,
+        "sourceLineNumber": 536,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Rien n'a de sens. Oh, mon amour, ma robe blanche est la réponse à leurs…",
+      "start": 99,
+      "ipa": "[ʁiɛ̃ na də sɑ̃s ɔ mɔ̃n‿amuʁ ma ʁɔb blɑ̃ʃ‿ɛ la ʁepɔ̃s‿a lœʁ]",
+      "ear": "希安 纳 德 桑斯 哦 蒙恩 阿穆赫 玛 霍布 布朗什 艾 拉 赫蓬斯 阿 勒厄赫",
+      "meaning": "便失去意义。爱人，我的白色婚纱就是对他们……",
+      "suppliedText": "rien n de sens oh mon amour ma robe blanche et la répondse à leurs",
+      "sourceLineId": "moliere-timed-537",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 99,
+        "sourceLineNumber": 537,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Offenses je vois dans leurs yeux la ainé le feu mais de leur colère on se joue",
+      "start": 116,
+      "ipa": "[ɔfɑ̃s ʒə vwa dɑ̃ lœʁz‿jø la ɛne lə fø mɛ də lœʁ kolɛʁ‿ɔ̃ sə ʒu]",
+      "ear": "哦芳斯 热 弗乌阿 当 勒厄赫兹 耶厄 拉 艾内 勒 弗厄 梅 德 勒厄赫 科莱赫 翁 瑟 茹",
+      "meaning": "冒犯的回应。我看见他们眼里的恨和火，但我们不理会愤怒……",
+      "suppliedText": "offenses je vois dans leurs yeux la ainé le feu mais de leur colère on se joue",
+      "sourceLineId": "moliere-timed-539",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 116,
+        "sourceLineNumber": 539,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Tant que notre amour est fou il défira tout les oir on crira sur tous les toit tu es ma chance et rien na d'importance",
+      "start": 123,
+      "ipa": "[tɑ̃ kə notʁ‿amuʁ‿ɛ fu il defiʁa tu lez‿waʁ‿ɔ̃ kʁiʁa syʁ tu le twa ty ɛ ma ʃɑ̃s e ʁjɛ̃ na dɛ̃pɔʁtɑ̃s]",
+      "ear": "唐 克 诺特赫 阿穆赫 艾 富 伊勒 德菲哈 图 莱兹 乌阿赫 翁 克希哈 西于赫 图 莱 特乌阿 蒂于 艾 玛 尚斯 诶 赫耶安 纳 丹珀赫唐斯",
+      "meaning": "只要爱情仍疯狂，它就能挑战一切。我们会在屋顶喊：你是我的幸运，其余不重要。",
+      "suppliedText": "tant que notre amour est fou il défira tout les oir on crira sur tous les toit tu es ma chance et rien na d'importance",
+      "sourceLineId": "moliere-timed-540",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 123,
+        "sourceLineNumber": 540,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Oh, mon amour, tu es ma chance. Si je renonce, plus rien n'a de sens. Oh, mon…",
+      "start": 133,
+      "ipa": "[ɔ mɔ̃n‿amuʁ ty ɛ ma ʃɑ̃s si ʒə ʁənɔ̃s ply ʁjɛ̃ na də sɑ̃s ɔ mɔ̃]",
+      "ear": "哦 蒙恩 阿穆赫 蒂于 艾 玛 尚斯 西 热 赫农斯 普吕 赫耶安 纳 德 桑斯 哦 蒙",
+      "meaning": "爱人，你是我的幸运，放弃你便失去意义。我的……",
+      "suppliedText": "oh mon amour tu es ma chance si je renonce plus rien n'a de sens oh mon",
+      "sourceLineId": "moliere-timed-541",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 133,
+        "sourceLineNumber": 541,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Amour, ma robe blanche est la réponse à leurs offenses. Oh, mon…",
+      "start": 142,
+      "ipa": "[amuʁ ma ʁɔb blɑ̃ʃ‿ɛ la ʁepɔ̃s‿a lœʁz‿ɔfɑ̃s ɔ mɔ̃]",
+      "ear": "阿穆赫 玛 霍布 布朗什 艾 拉 赫蓬斯 阿 勒厄赫兹 哦芳斯 哦 蒙",
+      "meaning": "白色婚纱就是对他们冒犯的回应。我的……",
+      "suppliedText": "amour ma robe blanche et la réponse à leurs offenses oh mon",
+      "sourceLineId": "moliere-timed-542",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 142,
+        "sourceLineNumber": 542,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Amour, tu es ma chance. Si je renonce… Oh, mon amour, la…",
+      "start": 150,
+      "ipa": "[amuʁ ty ɛ ma ʃɑ̃s si ʒə ʁənɔ̃s ɔ mɔ̃n‿amuʁ la]",
+      "ear": "阿穆赫 蒂于 艾 玛 尚斯 西 热 赫农斯 哦 蒙恩 阿穆赫 拉",
+      "meaning": "爱人，你是我的幸运。如果我放弃……爱人，我的……",
+      "suppliedText": "tu es ma chance si je renonce on a le sens oh mon amour la",
+      "sourceLineId": "moliere-timed-543",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 150,
+        "sourceLineNumber": 543,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Robe blanche est la réponse à leurs offenses. Oh, mon amour…",
+      "start": 158,
+      "ipa": "[ʁɔb blɑ̃ʃ‿ɛ la ʁepɔ̃s‿a lœʁz‿ɔfɑ̃s ɔ mɔ̃n‿amuʁ]",
+      "ear": "霍布 布朗什 艾 拉 赫蓬斯 阿 勒厄赫兹 哦芳斯 哦 蒙恩 阿穆赫",
+      "meaning": "白色婚纱就是对他们冒犯的回应。我的爱人……",
+      "suppliedText": "robe blanche et la réponse à leur offance en mon amour",
+      "sourceLineId": "moliere-timed-544",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 158,
+        "sourceLineNumber": 544,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "videoId": "89v-c7O-Ppc",
+  "playbackVideoId": "89v-c7O-Ppc",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=89v-c7O-Ppc"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Pour aller de Paris en Guyenne, il te faut aujourd'hui trois heures à peine… Mais en… tu n'as pas trop le choix. Le TGV…",
+      "start": 11,
+      "ipa": "[puʁ‿ale də paʁi ɑ̃ ɡɥijɛn il tə fo oʒuʁdɥi tʁwaz‿œʁ‿a pɛn mɛ ɑ̃ ty na pa tʁo lə ʃwa lə teʒeve]",
+      "ear": "普赫 阿莱 德 帕希 昂 格于伊耶艾恩 伊勒 特 佛 奥茹赫德于伊 特赫乌阿兹 厄赫 阿 佩恩 梅 昂 蒂于 纳 帕 特霍 勒 什乌阿 勒 特热韦",
+      "meaning": "今天从巴黎去吉耶讷只要三小时……可在当年，没有多少选择，法国高铁……",
+      "suppliedText": "pour aller de Paris au Guyenne il te faut aujourd'hui 3 He à pe 3 à mais en 745 tu as pas trop le choix le TGV",
+      "sourceLineId": "moliere-timed-133",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 11,
+        "sourceLineNumber": 133,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "N'existait pas. Le quoi ? Alors on a marché, marché, marché… Traversé tant…",
+      "start": 19,
+      "ipa": "[nɛɡzistɛ pa lə kwa alɔʁ‿ɔ̃n‿a maʁʃe maʁʃe maʁʃe tʁavɛʁse tɑ̃]",
+      "ear": "奈格齐斯泰 帕 勒 克乌阿 阿洛赫 翁恩 阿 玛赫谢 玛赫谢 玛赫谢 特哈韦赫塞 唐",
+      "meaning": "还不存在。——什么铁？——于是我们走啊走，穿过那么多……",
+      "suppliedText": "n'existait pas le quoi alors on a marché marché marché an marché traverser tant",
+      "sourceLineId": "moliere-timed-134",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 19,
+        "sourceLineNumber": 134,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "De villages. On en a vu, du paysage ! On a…",
+      "start": 28,
+      "ipa": "[də vilaʒ ɔ̃n‿ɑ̃n‿a vy dy pɛizaʒ ɔ̃n‿a]",
+      "ear": "德 维拉日 翁恩 昂恩 阿 维于 迪于 佩伊扎日 翁恩 阿",
+      "meaning": "村庄，看过那么多风景。我们……",
+      "suppliedText": "de villages on en a plus du paysage on a",
+      "sourceLineId": "moliere-timed-135",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 28,
+        "sourceLineNumber": 135,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Marché on a marché",
+      "start": 42,
+      "ipa": "[maʁʃe ɔ̃n‿a maʁʃe]",
+      "ear": "玛赫谢 翁恩 阿 玛赫谢",
+      "meaning": "走啊走，一直走。",
+      "suppliedText": "marché on a marché",
+      "sourceLineId": "moliere-timed-137",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 42,
+        "sourceLineNumber": 137,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Marché, on a marché, marché, marché. Alors on a marché, marché, marché…",
+      "start": 47,
+      "ipa": "[maʁʃe ɔ̃n‿a maʁʃe maʁʃe maʁʃe alɔʁ‿ɔ̃n‿a maʁʃe maʁʃe maʁʃe]",
+      "ear": "玛赫谢 翁恩 阿 玛赫谢 玛赫谢 玛赫谢 阿洛赫 翁恩 阿 玛赫谢 玛赫谢 玛赫谢",
+      "meaning": "走啊走，我们一直走，走啊走……",
+      "suppliedText": "marché on a marché marché marché alors on a marché marché marché",
+      "sourceLineId": "moliere-timed-139",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 47,
+        "sourceLineNumber": 139,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pendant des années. Marché, traversé des villages. On en a vu, du paysage !",
+      "start": 56,
+      "ipa": "[pɑ̃dɑ̃ dez‿ane maʁʃe tʁavɛʁse de vilaʒ ɔ̃n‿ɑ̃n‿a vy dy pɛizaʒ]",
+      "ear": "庞当 德兹 阿内 玛赫谢 特哈韦赫塞 德 维拉日 翁恩 昂恩 阿 维于 迪于 佩伊扎日",
+      "meaning": "走了许多年，穿过村庄，看过那么多风景。",
+      "suppliedText": "pendant des années marché traverser de village on en a vu du paysage",
+      "sourceLineId": "moliere-timed-140",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 56,
+        "sourceLineNumber": 140,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

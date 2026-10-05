@@ -10,14 +10,125 @@
   "musicalId": "moliere",
   "trackNumber": 27,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Armande Poquelin, vous trouvez que ça me va bien ?",
+      "start": 1,
+      "duration": 5
+    },
+    {
+      "text": "Je dirais même que ce nom vous embellit, ma chère épouse. Dites-moi, mon cher mari, quel rôle allez-vous m'offrir dans votre…",
+      "start": 6,
+      "duration": 6
+    },
+    {
+      "text": "Nouvelle pièce ? Agnès ? Ah non, non, il vous faut un rôle avec du fond… Georgette, la petite servante…",
+      "start": 12,
+      "duration": 8
+    },
+    {
+      "text": "D'Arnolphe. Cessez de vous moquer ! Veuillez m'écouter. J'ai lu à votre insu L'École des femmes cent fois et je connais le rôle d'Agnès sur le bout des doigts.",
+      "start": 20,
+      "duration": 8
+    },
+    {
+      "text": "Quelle est donc cette nouvelle pièce ?",
+      "start": 28,
+      "duration": 3
+    },
+    {
+      "text": "C'est l'histoire d'Arnolphe, un homme d'âge mûr qui veut épouser sa pupille à sa majorité. Et pour la préserver de toute…",
+      "start": 31,
+      "duration": 7
+    },
+    {
+      "text": "Pensée impure, il l'élève chez lui en la tenant enfermée. Et voilà qu'un jour Agnès de sa fenêtre aperçoit un jeune homme qui lui fait perdre la tête.",
+      "start": 38,
+      "duration": 9
+    },
+    {
+      "text": "Arnolphe apprend qu'Agnès… l'inconnu… Il est bouleversé : l'inconnu…",
+      "start": 47,
+      "duration": 6
+    },
+    {
+      "text": "Lui aurait-il pris sa virginité ? Arnolphe interroge Agnès, et elle lui répond en toute naïveté. Je sais. Et pourquoi ne pas…",
+      "start": 53,
+      "duration": 8
+    },
+    {
+      "text": "Interpréter un extrait de la pièce maintenant ? OK d'accord d'accord pourquoi pas.",
+      "start": 61,
+      "duration": 7
+    },
+    {
+      "text": "Euh, bah tiens, acte deux, scène cinq. Que répond Agnès à Arnolphe ?",
+      "start": 68,
+      "duration": 8
+    },
+    {
+      "text": "Qu'avez-vous ? Vous grandez me semble un petit. Est-ce que c'est mal fait ce que je vous ai dit ?",
+      "start": 76,
+      "duration": 9
+    },
+    {
+      "text": "Non. Non. Mais outre tous ces discours, toutes ces",
+      "start": 85,
+      "duration": 8
+    },
+    {
+      "text": "Gentillesses, le jeune homme faisait-il aussi quelques caresses ? Oh tant. Il me",
+      "start": 93,
+      "duration": 7
+    },
+    {
+      "text": "Prenait et les mains et les bras et de me les baiser, il n'était jamais là. Ne vous a-t-il point pris, Agnès ?",
+      "start": 100,
+      "duration": 8
+    },
+    {
+      "text": "Quelqu autre chose ? Euh, il m'a pris le Et vous fâcherez peut-être contre moi.",
+      "start": 108,
+      "duration": 9
+    },
+    {
+      "text": "Non, si fait Dieu non. Jurez donc votre foi. Ma foi soite. Il m'a pris. Vous serez en colère. Non, non. Diante que de mystère. Qu'est-ce qu'il vous a pris ?",
+      "start": 117,
+      "duration": 13
+    },
+    {
+      "text": "Je souffre en damné.",
+      "start": 130,
+      "duration": 5
+    },
+    {
+      "text": "Il m'a pris le ruban que vous m'aviez donné. À vous dire le vrai, je n'ai pu m'en défendre.",
+      "start": 135,
+      "duration": 6
+    },
+    {
+      "text": "Il passe pour le ruban. Mais je vous les apprendre si ne vous a rien fait que vous baisez les bras. Comment est-ce qu'on fait d'autres choses ?",
+      "start": 141,
+      "duration": 11
+    },
+    {
+      "text": "Oui, bravo. L'interprétation est juste et enlevée. Mais mais",
+      "start": 152,
+      "duration": 8
+    },
+    {
+      "text": "Mais pour intégrer la troupe, il va te falloir encore travailler.",
+      "start": 160,
+      "duration": 6
+    }
+  ],
   "playbackVideoId": "56RLQYC9mlM",
   "sourceURL": "https://www.youtube.com/watch?v=56RLQYC9mlM",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=56RLQYC9mlM",
@@ -120,10 +231,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250412",
   "productionYear": 2023,
@@ -224,5 +335,122 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 548,
+      "start": 1,
+      "text": "Arnelin poelin vous trouvez que ça me va bien ?"
+    },
+    {
+      "sourceLine": 549,
+      "start": 6,
+      "text": "Je dirais même que ce nom vous embellit ma chère épouse dites-moi mon cher Marie quel rôle allez-vous m'offrir dans votre"
+    },
+    {
+      "sourceLine": 550,
+      "start": 12,
+      "text": "nouvelle pièce d'agè ? Ah non non il vous faut un rôle avec du fond et de l'étoorgette la petite servante"
+    },
+    {
+      "sourceLine": 551,
+      "start": 20,
+      "text": "d'Arnold. Cess de vous moquer ? Veuillez m'écouter. J'ai lu à votre insu l'école des femmes 100 fois et je connais le rôle d'agè sur le bout des doigts."
+    },
+    {
+      "sourceLine": 552,
+      "start": 28,
+      "text": "Quelle est donc cette nouvelle pièce ?"
+    },
+    {
+      "sourceLine": 553,
+      "start": 31,
+      "text": "C'est l'histoire d'Arnolf, un homme d'â mû qui veut épouser sa pupille à sa majorité et pour la préserver de toute"
+    },
+    {
+      "sourceLine": 554,
+      "start": 38,
+      "text": "pensée impure, il l'élève chez lui en la tenant enfermée. Et voilà qu'un jour Agnès de sa fenêtre aperçoit un jeune homme qui lui fait perdre la tête."
+    },
+    {
+      "sourceLine": 555,
+      "start": 47,
+      "text": "Arnold apprend Cagnè vers l'inconnu une long entre il est bouleversé l'inconnu"
+    },
+    {
+      "sourceLine": 556,
+      "start": 53,
+      "text": "lui aurait-il pris sa virginité ? Arnold interroge Agnès et lui répond en toute naïvetité je sais. Et pourquoi ne pas le"
+    },
+    {
+      "sourceLine": 557,
+      "start": 61,
+      "text": "interpréter un extrait de la pièce maintenant ? OK d'accord d'accord pourquoi pas."
+    },
+    {
+      "sourceLine": 558,
+      "start": 68,
+      "text": "Euh bah tiens, acte 2, scène 5. Que répond Agnès à Arnold ?"
+    },
+    {
+      "sourceLine": 559,
+      "start": 76,
+      "text": "Qu'avez-vous ? Vous grandez me semble un petit. Est-ce que c'est mal fait ce que je vous ai dit ?"
+    },
+    {
+      "sourceLine": 560,
+      "start": 85,
+      "text": "Non. Non. Mais outre tous ces discours, toutes ces"
+    },
+    {
+      "sourceLine": 561,
+      "start": 93,
+      "text": "gentillesses, le jeune homme faisait-il aussi quelques caresses ? Oh tant. Il me"
+    },
+    {
+      "sourceLine": 562,
+      "start": 100,
+      "text": "prenait et les mains et les bras et de me les baiser, il n'était jamais là. Ne vous a-t-il point pris, Agnès ?"
+    },
+    {
+      "sourceLine": 563,
+      "start": 108,
+      "text": "Quelqu autre chose ? Euh, il m'a pris le Et vous fâcherez peut-être contre moi."
+    },
+    {
+      "sourceLine": 564,
+      "start": 117,
+      "text": "Non, si fait Dieu non. Jurez donc votre foi. Ma foi soite. Il m'a pris. Vous serez en colère. Non, non. Diante que de mystère. Qu'est-ce qu'il vous a pris ?"
+    },
+    {
+      "sourceLine": 565,
+      "start": 130,
+      "text": "Je souffre en tané."
+    },
+    {
+      "sourceLine": 566,
+      "start": 135,
+      "text": "Il m'a pris le ruban que vous m'aviez donné. À vous dire le vrai, je n'ai pu m'en défendre."
+    },
+    {
+      "sourceLine": 567,
+      "start": 141,
+      "text": "Il passe pour le ruban. Mais je vous les apprendre si ne vous a rien fait que vous baisez les bras. Comment est-ce qu'on fait d'autres choses ?"
+    },
+    {
+      "sourceLine": 568,
+      "start": 152,
+      "text": "Oui, bravo. L'interprétation est juste et enlevée. Mais mais"
+    },
+    {
+      "sourceLine": 569,
+      "start": 160,
+      "text": "mais pour intégrer la troupe, il va te falloir encore travailler."
+    }
+  ]
 }

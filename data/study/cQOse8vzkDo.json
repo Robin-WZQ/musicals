@@ -1,0 +1,149 @@
+{
+  "videoId": "cQOse8vzkDo",
+  "playbackVideoId": "cQOse8vzkDo",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=cQOse8vzkDo"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "C'est le matin d'un nouveau monde. Ce matin est enfin la fin, la fin…",
+      "start": 0,
+      "ipa": "[sɛ lə matɛ̃ dœ̃ nuvo mɔ̃d sə matɛ̃ ɛt‿ɑ̃fɛ̃ la fɛ̃ la fɛ̃]",
+      "ear": "塞 勒 玛坦 丹 努沃 蒙德 瑟 玛坦 艾特 昂凡 拉 凡 拉 凡",
+      "meaning": "这是新世界的清晨，终于到了结束……",
+      "suppliedText": "C'est le matin d'un nouveau monde. Ce matin est enfin la fin la fin",
+      "sourceLineId": "moliere-timed-238",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 0,
+        "sourceLineNumber": 238,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "De la Fronde. Je m'appelle Daniel, l'abbé Daniel de Cosnac, premier gentilhomme du prince de Conti. Le conseiller…",
+      "start": 10,
+      "ipa": "[də la fʁɔ̃d ʒə mapɛl danjɛl labe danjɛl də kɔsnak pʁəmje ʒɑ̃tijɔm dy pʁɛ̃s də kɔ̃ti lə kɔ̃sɛje]",
+      "ear": "德 拉 弗洪德 热 玛佩勒 达恩耶艾勒 拉贝 达恩耶艾勒 德 科斯纳克 普赫姆耶诶 让蒂耶哦姆 迪于 普汉斯 德 孔蒂 勒 孔塞耶诶",
+      "meaning": "投石党运动的清晨。我叫丹尼尔·德·科斯纳克神父，孔蒂亲王的首席侍从、顾问……",
+      "suppliedText": "de l'affronte. Je m'appelle Daniel la baie Daniel de Cosnac premier gentil homme du prince de Candis. Le conseiller",
+      "sourceLineId": "moliere-timed-239",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 10,
+        "sourceLineNumber": 239,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Et ami. Pendant la Fronde, il s'est égaré dans les guerres de son frère…",
+      "start": 17,
+      "ipa": "[e ami pɑ̃dɑ̃ la fʁɔ̃d il sɛt‿eɡaʁe dɑ̃ le ɡɛʁ də sɔ̃ fʁɛʁ]",
+      "ear": "诶 阿米 庞当 拉 弗洪德 伊勒 塞特 诶嘎赫 当 莱 盖赫 德 松 弗赫赫",
+      "meaning": "和朋友。叛乱中，他陷入兄长的战争……",
+      "suppliedText": "et ami pendant la fronde, il s'est égaré dans les guerres de son frère qui esté.",
+      "sourceLineId": "moliere-timed-240",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 17,
+        "sourceLineNumber": 240,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "J'ai évité le drame en l'invitant à déposer les armes. C'est le matin d'un nouveau",
+      "start": 21,
+      "ipa": "[ʒe evite lə dʁam‿ɑ̃ lɛ̃vitɑ̃ a depoze lez‿aʁm sɛ lə matɛ̃ dœ̃ nuvo]",
+      "ear": "热 诶维特 勒 德哈姆 昂 兰维唐 阿 德波泽 莱兹 阿赫姆 塞 勒 玛坦 丹 努沃",
+      "meaning": "我劝他放下武器，避免了惨剧。这是新……",
+      "suppliedText": "J'ai évité le drame en l'invitant à déposer les armes. C'est le matin d'un nouveau",
+      "sourceLineId": "moliere-timed-241",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 21,
+        "sourceLineNumber": 241,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Monde. Ce matin est enfin la fin, la fin de la fronde votre éminence sous votre",
+      "start": 29,
+      "ipa": "[mɔ̃d sə matɛ̃ ɛt‿ɑ̃fɛ̃ la fɛ̃ la fɛ̃ də la fʁɔ̃d votʁ‿eminɑ̃s su votʁ]",
+      "ear": "蒙德 瑟 玛坦 艾特 昂凡 拉 凡 拉 凡 德 拉 弗洪德 沃特赫 诶米南斯 苏 沃特赫",
+      "meaning": "世界的清晨，投石党运动终于结束。——大人，在您的……",
+      "suppliedText": "monde. Ce matin est enfin la fin, la fin de la fronde votre éminence sous votre",
+      "sourceLineId": "moliere-timed-242",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 29,
+        "sourceLineNumber": 242,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Autorité, je dépose à vos pieds mon épée. Je déclare sans condition de Bordeaux la reddition et je prête serment de fidélité à la régente et à sa majesté.",
+      "start": 37,
+      "ipa": "[otoʁite ʒə depɔz‿a vo pje mɔ̃n‿epe ʒə deklaʁ sɑ̃ kɔ̃disjɔ̃ də bɔʁdo la ʁɛdisjɔ̃ e ʒə pʁɛt sɛʁmɑ̃ də fidelite a la ʁeʒɑ̃t e a sa maʒɛste]",
+      "ear": "奥托希特 热 德珀兹 阿 沃 普耶诶 蒙恩 诶佩 热 德克拉赫 桑 孔迪斯耶翁 德 博赫多 拉 赫迪斯耶翁 诶 热 普赫特 塞赫芒 德 菲德利特 阿 拉 赫让特 诶 阿 萨 玛热斯特",
+      "meaning": "权威面前，我放下佩剑，宣布波尔多无条件投降，向摄政太后和国王宣誓效忠。",
+      "suppliedText": "autorité, je dépose à vos pieds mon épée. Je déclare sans condition de Bordeaux la rédition et je prête serment de fidélité à la régente et à sa majesté.",
+      "sourceLineId": "moliere-timed-243",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 37,
+        "sourceLineNumber": 243,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Prince de Conti, en vertu de votre condition, la régente vous accorde son absolution. Coupable des crimes de lèse-majesté, vous ferez pénitence au château…",
+      "start": 47,
+      "ipa": "[pʁɛ̃s də kɔ̃ti ɑ̃ vɛʁty də votʁ kɔ̃disjɔ̃ la ʁeʒɑ̃t vuz‿akɔʁd sɔ̃n‿absolysjɔ̃ kupabl de kʁim də lɛzmaʒɛste vu fəʁe penitɑ̃s‿o ʃato]",
+      "ear": "普汉斯 德 孔蒂 昂 韦赫蒂于 德 沃特赫 孔迪斯耶翁 拉 赫让特 乌兹 阿科赫德 松恩 阿布索吕斯耶翁 库帕布勒 德 克希姆 德 莱兹玛热斯特 乌 弗赫 佩尼唐斯 奥 沙托",
+      "meaning": "孔蒂亲王，鉴于您的身份，摄政太后赦免您。您犯下冒犯君主之罪，须在……",
+      "suppliedText": "Prince Conti, en vertu de votre condition, la régante vous accorde son absolution. Coupable des crimes de la majesté, vous ferez pénitence au château",
+      "sourceLineId": "moliere-timed-244",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 47,
+        "sourceLineNumber": 244,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "De la Grange-des-Prés. Vous serez assigné à résidence. Yeah !",
+      "start": 56,
+      "ipa": "[də la ɡʁɑ̃ʒdepʁe vu səʁe asinje a ʁezidɑ̃s jɛ]",
+      "ear": "德 拉 格杭日德普赫 乌 瑟赫 阿西恩耶诶 阿 赫齐当斯 耶艾",
+      "meaning": "格朗日德普雷城堡忏悔，接受软禁。",
+      "suppliedText": "de la grande étrée, vous serez assigné à résidence. Yeah.",
+      "sourceLineId": "moliere-timed-245",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 56,
+        "sourceLineNumber": 245,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

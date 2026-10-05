@@ -10,14 +10,75 @@
   "musicalId": "moliere",
   "trackNumber": 22,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Moi, le prince de Conti, Armand, je viens d'intégrer le Saint-Sacrement…",
+      "start": 7,
+      "duration": 7
+    },
+    {
+      "text": "Confrérie secrète qui lutte ardemment contre les mauvaises mœurs et les dévoiements. Je n'ai qu'un seul…",
+      "start": 14,
+      "duration": 10
+    },
+    {
+      "text": "Vœu, une seule prière : faire vivre un jour à ce…",
+      "start": 24,
+      "duration": 7
+    },
+    {
+      "text": "Molière l'enfer. Je passe mes jours à…",
+      "start": 31,
+      "duration": 7
+    },
+    {
+      "text": "Travailler le théâtre dans le plus grand secret je passe mes nuits à espérer que",
+      "start": 38,
+      "duration": 9
+    },
+    {
+      "text": "Jean-Baptiste me regarder je sens qu'il n'est pas indifférent il ne peut ignorer mes",
+      "start": 47,
+      "duration": 9
+    },
+    {
+      "text": "Sentiments ne pour longtemps résister je parviendrai un jour à le faire céder",
+      "start": 56,
+      "duration": 8
+    },
+    {
+      "text": "Depuis que je travaille au côté de Molière il a fait de moi son secrétaire mais ces derniers temps il",
+      "start": 64,
+      "duration": 9
+    },
+    {
+      "text": "Joue les mondain il traîne tous les soirs dans les salons parisiens où il a enfin trouvé",
+      "start": 73,
+      "duration": 8
+    },
+    {
+      "text": "L'inspiration. Les Précieuses ridicules sera sa nouvelle création. Oh, la belle…",
+      "start": 81,
+      "duration": 7
+    },
+    {
+      "text": "Vie oh la belle vie oh la belle vie sous la protection",
+      "start": 88,
+      "duration": 8
+    },
+    {
+      "text": "Du ducteur lé",
+      "start": 96,
+      "duration": 4
+    }
+  ],
   "playbackVideoId": "y-WL46_foJ0",
   "sourceURL": "https://www.youtube.com/watch?v=y-WL46_foJ0",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=y-WL46_foJ0",
@@ -80,10 +141,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250316",
   "productionYear": 2023,
@@ -144,5 +205,72 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 449,
+      "start": 7,
+      "text": "moi le prince compti Armand je viens d'intégrer le Saint Sacrement"
+    },
+    {
+      "sourceLine": 450,
+      "start": 14,
+      "text": "ouvrerie secrète qui lut ardemment contre les mauvaises meurs et les dévoiement je n'ai qu'un seul"
+    },
+    {
+      "sourceLine": 451,
+      "start": 24,
+      "text": "vœu une seule pière faireevvre un jour à ce mai"
+    },
+    {
+      "sourceLine": 452,
+      "start": 31,
+      "text": "Molière l'enfer je passe mes jours à"
+    },
+    {
+      "sourceLine": 453,
+      "start": 38,
+      "text": "travailler le théâtre dans le plus grand secret je passe mes nuits à espérer que"
+    },
+    {
+      "sourceLine": 454,
+      "start": 47,
+      "text": "Jean-Baptiste me regarder je sens qu'il n'est pas indifférent il ne peut ignorer mes"
+    },
+    {
+      "sourceLine": 455,
+      "start": 56,
+      "text": "sentiments ne pour longtemps résister je parviendrai un jour à le faire céder"
+    },
+    {
+      "sourceLine": 456,
+      "start": 64,
+      "text": "depuis que je travaille au côté de Molière il a fait de moi son secrétaire mais ces derniers temps il"
+    },
+    {
+      "sourceLine": 457,
+      "start": 73,
+      "text": "joue les mondain il traîne tous les soirs dans les salons parisiens où il a enfin trouvé"
+    },
+    {
+      "sourceLine": 458,
+      "start": 81,
+      "text": "l'inspiration les précieus ridicu sera sa nouvelle création oh la belle"
+    },
+    {
+      "sourceLine": 459,
+      "start": 88,
+      "text": "vie oh la belle vie oh la belle vie sous la protection"
+    },
+    {
+      "sourceLine": 460,
+      "start": 96,
+      "text": "du ducteur lé"
+    }
+  ]
 }

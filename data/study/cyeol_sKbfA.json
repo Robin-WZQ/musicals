@@ -1,0 +1,293 @@
+{
+  "videoId": "cyeol_sKbfA",
+  "playbackVideoId": "cyeol_sKbfA",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=cyeol_sKbfA"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Alors on a marché marché marché pendant des semaines marché après une longue",
+      "start": 0,
+      "ipa": "[alɔʁ‿ɔ̃n‿a maʁʃe maʁʃe maʁʃe pɑ̃dɑ̃ de səmɛn maʁʃe apʁɛ yn lɔ̃ɡ]",
+      "ear": "阿洛赫 翁恩 阿 玛赫谢 玛赫谢 玛赫谢 庞当 德 瑟梅恩 玛赫谢 阿普赫 于恩 隆格",
+      "meaning": "于是我们走啊走，走了好几个星期，经过漫长的……",
+      "suppliedText": "alors on a marché marché marché pendant des semaines marché après une longue",
+      "sourceLineId": "moliere-timed-349",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 0,
+        "sourceLineNumber": 349,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Période d'errance, on s'est arrêtés à Valence. Depuis que Conti s'est repenti…",
+      "start": 6,
+      "ipa": "[peʁjɔd dɛʁɑ̃s ɔ̃ sɛt‿aʁɛte a valɑ̃s dəpɥi kə kɔ̃ti sɛ ʁəpɑ̃ti]",
+      "ear": "佩赫耶哦德 戴杭斯 翁 塞特 阿赫特 阿 瓦朗斯 德普于伊 克 孔蒂 塞 赫庞蒂",
+      "meaning": "漂泊，停在瓦朗斯。自从孔蒂悔悟以来……",
+      "suppliedText": "période d'érrance on s'est arrêté àalant depuis que Conti s'est repenti",
+      "sourceLineId": "moliere-timed-350",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 6,
+        "sourceLineNumber": 350,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pour moi commencé une nouvelle vie le clergé dans sa bienveillance m'a nommé",
+      "start": 14,
+      "ipa": "[puʁ mwa kɔmɑ̃se yn nuvɛl vi lə klɛʁʒe dɑ̃ sa bjɛ̃vɛjɑ̃s ma nɔme]",
+      "ear": "普赫 姆乌阿 科芒塞 于恩 努韦勒 维 勒 克莱赫热 当 萨 布耶安韦耶昂斯 玛 诺梅",
+      "meaning": "我开始了新的生活，教会善意地任命我为……",
+      "suppliedText": "pour moi commencé une nouvelle vie le Clerget dans sa bienveillance m'a nommé",
+      "sourceLineId": "moliere-timed-351",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 14,
+        "sourceLineNumber": 351,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Évêque de Valence. De Cosnac ! Oh, quel bonheur de vous retrouver ! Nous sommes épuisés et découragés. Ne baissez pas les bras !",
+      "start": 21,
+      "ipa": "[evɛk də valɑ̃s də kɔsnak ɔ kɛl bɔnœʁ də vu ʁətʁuve nu sɔm‿epɥize e dekuʁaʒe nə bɛse pa le bʁa]",
+      "ear": "诶韦克 德 瓦朗斯 德 科斯纳克 哦 凯勒 博讷厄赫 德 乌 赫特胡韦 努 索姆 诶普于伊泽 诶 德库哈热 讷 贝塞 帕 莱 布哈",
+      "meaning": "瓦朗斯主教。——科斯纳克！再见到您真高兴，我们又累又沮丧。——别放弃！",
+      "suppliedText": "évêque de balance de Cosnac oh quel bonheur de vous retrouver nous sommes épuisés et découragésiss pas les bras",
+      "sourceLineId": "moliere-timed-352",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 21,
+        "sourceLineNumber": 352,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Enc une fois il faut tout recommencer mon père avait raison je dois renoncer n'abandonnez pas j'ai appris que le frère du roi a l'intention d'offrir à",
+      "start": 28,
+      "ipa": "[ɛnk‿yn fwa il fo tu ʁəkɔmɑ̃se mɔ̃ pɛʁ‿avɛ ʁɛzɔ̃ ʒə dwa ʁənɔ̃se nabɑ̃dɔne pa ʒe apʁi kə lə fʁɛʁ dy ʁwa a lɛ̃tɑ̃sjɔ̃ dɔfʁiʁ‿a]",
+      "ear": "艾恩克 于恩 弗乌阿 伊勒 佛 图 赫科芒塞 蒙 佩赫 阿韦 赫宗 热 德乌阿 赫农塞 纳邦多内 帕 热 阿普希 克 勒 弗赫赫 迪于 赫乌阿 阿 兰唐斯耶翁 多弗希赫 阿",
+      "meaning": "又得从头开始，父亲说得对，我该放弃。——别放弃，我听说国王的弟弟打算给……",
+      "suppliedText": "enc une fois il faut tout recommencer mon père avait raison je dois renoncer n'abandonnez pas j'ai appris que le frère du roi a l'intention d'offrir à",
+      "sourceLineId": "moliere-timed-353",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 28,
+        "sourceLineNumber": 353,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Une troupe son nom et sa protection. Allez à Paris le rencontrer. Mais pourquoi le frère du roi nous choisirait ?",
+      "start": 38,
+      "ipa": "[yn tʁup sɔ̃ nɔ̃ e sa pʁotɛksjɔ̃ ale a paʁi lə ʁɑ̃kɔ̃tʁe mɛ puʁkwa lə fʁɛʁ dy ʁwa nu ʃwaziʁɛ]",
+      "ear": "于恩 特胡普 松 农 诶 萨 普霍泰克斯耶翁 阿莱 阿 帕希 勒 杭孔特赫 梅 普赫克乌阿 勒 弗赫赫 迪于 赫乌阿 努 什乌阿齐赫",
+      "meaning": "一支剧团冠上他的名字并提供庇护，去巴黎见他吧。——他为什么会选我们？",
+      "suppliedText": "une troupe son nom et sa protection alleer à Paris le rencontrer mais pourquoi le frère du roi nous choisirait",
+      "sourceLineId": "moliere-timed-354",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 38,
+        "sourceLineNumber": 354,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Vous avez de l'expérience et du talent et il se trouve que le frère du roi et moi avions de bonnes",
+      "start": 45,
+      "ipa": "[vuz‿ave də lɛkspeʁjɑ̃s e dy talɑ̃ e il sə tʁuv kə lə fʁɛʁ dy ʁwa e mwa avjɔ̃ də bɔn]",
+      "ear": "乌兹 阿韦 德 莱克斯佩赫耶昂斯 诶 迪于 塔朗 诶 伊勒 瑟 特胡弗 克 勒 弗赫赫 迪于 赫乌阿 诶 姆乌阿 阿弗耶翁 德 博恩",
+      "meaning": "你们有经验和才华，而且国王的弟弟和我关系……",
+      "suppliedText": "vous avez de l'expérience et du talent et il se trouve que le frère du roi et moi avions de bonnes",
+      "sourceLineId": "moliere-timed-355",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 45,
+        "sourceLineNumber": 355,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Relations allez les amis",
+      "start": 53,
+      "ipa": "[ʁəlasjɔ̃ ale lez‿ami]",
+      "ear": "赫拉斯耶翁 阿莱 莱兹 阿米",
+      "meaning": "很好。——走吧，朋友们！",
+      "suppliedText": "relations allez les amis",
+      "sourceLineId": "moliere-timed-356",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 53,
+        "sourceLineNumber": 356,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Paris ne m'a pas laissé un bon souvenir je vous laisse le soin de choisir en ce qui me concerne je vous avoue que rentrer à Paris m'apaiserai la vie de",
+      "start": 60,
+      "ipa": "[paʁi nə ma pa lɛse œ̃ bɔ̃ suvniʁ ʒə vu lɛs lə swɛ̃ də ʃwaziʁ‿ɑ̃ sə ki mə kɔ̃sɛʁn ʒə vuz‿avu kə ʁɑ̃tʁe a paʁi mapɛzʁe la vi də]",
+      "ear": "帕希 讷 玛 帕 莱塞 恩 崩 苏弗尼赫 热 乌 莱斯 勒 斯乌安 德 什乌阿齐赫 昂 瑟 基 默 孔塞赫恩 热 乌兹 阿乌 克 杭特赫 阿 帕希 玛佩兹赫 拉 维 德",
+      "meaning": "巴黎没留下好印象，交给你们决定吧。——对我而言，回巴黎会让我安心，巡演生活……",
+      "suppliedText": "Paris ne m'a pas laissé un bon souvenir je vous laisse le soin de choisir en ce qui me concerne je vous avoue que rentrer à Paris m'apaiserai la vie de",
+      "sourceLineId": "moliere-timed-360",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 60,
+        "sourceLineNumber": 360,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Tournée m'a épuisé et et je sens ma santé décliner mon frère a raison vir à Paris sera pour moi l'opportunité de",
+      "start": 69,
+      "ipa": "[tuʁne ma epɥize e e ʒə sɑ̃ ma sɑ̃te dekline mɔ̃ fʁɛʁ‿a ʁɛzɔ̃ viʁ‿a paʁi səʁa puʁ mwa lɔpɔʁtynite də]",
+      "ear": "图赫内 玛 诶普于伊泽 诶 诶 热 桑 玛 桑特 德克利内 蒙 弗赫赫 阿 赫宗 维赫 阿 帕希 瑟哈 普赫 姆乌阿 洛珀赫蒂于尼特 德",
+      "meaning": "让我疲惫，身体也在变差。——哥哥说得对，回巴黎能让我……",
+      "suppliedText": "tournée m'a épuisé et et je sens ma santé décliner mon frère a raison vir à Paris sera pour moi l'opportunité de",
+      "sourceLineId": "moliere-timed-361",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 69,
+        "sourceLineNumber": 361,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Retrouver ma fille afin qu'elle vive enfin à mes côtés pauvre Madeleine des années sans",
+      "start": 77,
+      "ipa": "[ʁətʁuve ma fij‿afɛ̃ kɛl viv‿ɑ̃fɛ̃ a me kote povʁ madlɛn dez‿ane sɑ̃]",
+      "ear": "赫特胡韦 玛 菲耶 阿凡 凯勒 维弗 昂凡 阿 梅 科特 波弗赫 玛德莱恩 德兹 阿内 桑",
+      "meaning": "找回女儿，让她终于住在身边。——可怜的玛德莱娜，那么多年……",
+      "suppliedText": "retrouver ma fille afin qu'elle vive enfin à mes côtés pauvre Madeleine des années sans",
+      "sourceLineId": "moliere-timed-362",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 77,
+        "sourceLineNumber": 362,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Voir sa fille c'est terrible pour une mère d'ailleurs tu as gardé des souvenirs de niè non plein j'avais l'habitude de jouer avec Armand quand",
+      "start": 85,
+      "ipa": "[vwaʁ sa fij sɛ tɛʁibl puʁ‿yn mɛʁ dajœʁ ty a ɡaʁde de suvniʁ də njɛ nɔ̃ plɛ̃ ʒavɛ labityd də ʒwe avɛk‿aʁmɑ̃ kɑ̃]",
+      "ear": "弗乌阿赫 萨 菲耶 塞 泰希布勒 普赫 于恩 梅赫 达耶厄赫 蒂于 阿 嘎赫德 德 苏弗尼赫 德 恩耶艾 农 普兰 扎韦 拉比蒂于德 德 日乌诶 阿韦克 阿赫芒 康",
+      "meaning": "没见过女儿，对母亲太残酷了。——你还记得……吗？——记得，我以前常和年幼的阿尔芒德……",
+      "suppliedText": "voir sa fille c'est terrible pour une mère d'ailleurs tu as gardé des souvenirs de niè non plein j'avais l'habitude de jouer avec Armand quand",
+      "sourceLineId": "moliere-timed-363",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 85,
+        "sourceLineNumber": 363,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Elle était petite qu'est-ce qu'il y a lui ça ne va pas tu as l'air triste c'est jusqu'à l'époque je voulais faire comme elle est",
+      "start": 93,
+      "ipa": "[ɛl‿etɛ pətit kɛs kil‿i a lɥi sa nə va pa ty a lɛʁ tʁist sɛ ʒyska lepok ʒə vulɛ fɛʁ kɔm‿ɛl‿ɛ]",
+      "ear": "艾勒 诶泰 珀蒂特 凯斯 基勒 伊 阿 勒于伊 萨 讷 瓦 帕 蒂于 阿 莱赫 特希斯特 塞 日于斯卡 莱波克 热 乌莱 费赫 科姆 艾勒 艾",
+      "meaning": "玩。路易，你怎么了？看起来难过。——那时我也想像她一样……",
+      "suppliedText": "elle était petite qu'est-ce qu'il y a lui ça ne va pas tu as l'air triste c'est jusqu'à l'époque je voulais faire comme elle est",
+      "sourceLineId": "moliere-timed-364",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 93,
+        "sourceLineNumber": 364,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Fondé une famille mais il n'est pas trop tard si il est trop tard il est bien trop tard puisque la femme que j'aime est marié à un autre",
+      "start": 101,
+      "ipa": "[fɔ̃de yn famij mɛ il nɛ pa tʁo taʁ si il‿ɛ tʁo taʁ‿il‿ɛ bjɛ̃ tʁo taʁ pɥiskə la fam kə ʒɛm‿ɛ maʁje a œ̃n‿otʁ]",
+      "ear": "丰德 于恩 法米耶 梅 伊勒 奈 帕 特霍 塔赫 西 伊勒 艾 特霍 塔赫 伊勒 艾 布耶安 特霍 塔赫 普于伊斯克 拉 法姆 克 热姆 艾 玛赫耶诶 阿 恩恩 奥特赫",
+      "meaning": "建立一个家。——现在还不晚。——太晚了，我爱的女人已嫁给另一个……",
+      "suppliedText": "fondé une famille mais il n'est pas trop tard si il est trop tard il est bien trop tard puisque la femme que j'aime est marié à un autre",
+      "sourceLineId": "moliere-timed-365",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 101,
+        "sourceLineNumber": 365,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Homme. Bon, les amis, et si on reprenait la route ? Alors on a marché, marché, marché…",
+      "start": 109,
+      "ipa": "[ɔm bɔ̃ lez‿ami e si ɔ̃ ʁəpʁənɛ la ʁut alɔʁ‿ɔ̃n‿a maʁʃe maʁʃe maʁʃe]",
+      "ear": "哦姆 崩 莱兹 阿米 诶 西 翁 赫普赫奈 拉 胡特 阿洛赫 翁恩 阿 玛赫谢 玛赫谢 玛赫谢",
+      "meaning": "男人。——朋友们，重新上路吧。于是我们走啊走……",
+      "suppliedText": "homme bon les amis et si on repreneait la route alors on a marché marché marché",
+      "sourceLineId": "moliere-timed-366",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 109,
+        "sourceLineNumber": 366,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pendant des semaines mar en direction de Paris pour reconstruire",
+      "start": 118,
+      "ipa": "[pɑ̃dɑ̃ de səmɛn maʁ‿ɑ̃ diʁɛksjɔ̃ də paʁi puʁ ʁəkɔ̃stʁɥiʁ]",
+      "ear": "庞当 德 瑟梅恩 玛赫 昂 迪赫克斯耶翁 德 帕希 普赫 赫孔斯特赫于伊赫",
+      "meaning": "走了好几个星期，朝巴黎走去，重建……",
+      "suppliedText": "pendant des semaines mar en direction de Paris pour reconstruire",
+      "sourceLineId": "moliere-timed-367",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 118,
+        "sourceLineNumber": 367,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Notre vie",
+      "start": 124,
+      "ipa": "[notʁ vi]",
+      "ear": "诺特赫 维",
+      "meaning": "我们的生活。",
+      "suppliedText": "notre vie",
+      "sourceLineId": "moliere-timed-368",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 124,
+        "sourceLineNumber": 368,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

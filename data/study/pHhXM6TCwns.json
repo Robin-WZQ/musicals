@@ -1,0 +1,309 @@
+{
+  "videoId": "pHhXM6TCwns",
+  "playbackVideoId": "pHhXM6TCwns",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=pHhXM6TCwns"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "J'imagine que vous devez être un homme heureux et comblé je suis né disgracieux et de",
+      "start": 0,
+      "ipa": "[ʒimaʒin kə vu dəve ɛtʁ‿œ̃n‿ɔm‿øʁø e kɔ̃ble ʒə sɥi ne dizɡʁasjø e də]",
+      "ear": "日玛日恩 克 乌 德韦 艾特赫 恩恩 哦姆 厄赫厄 诶 孔布莱 热 斯于伊 内 迪兹格哈斯耶厄 诶 德",
+      "meaning": "我想您一定幸福而满足。——我生来相貌难看，身体……",
+      "suppliedText": "j'imagine que vous devez être un homme heureux et comblé je suis né disgracieux et de",
+      "sourceLineId": "moliere-timed-651",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 0,
+        "sourceLineNumber": 651,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Senté fragile le caractère ombrage et versatile la haine était devenue mon étendard le vice et la débuche mes",
+      "start": 8,
+      "ipa": "[sɑ̃te fʁaʒil lə kaʁaktɛʁ‿ɔ̃bʁaʒ e vɛʁsatil la ɛn‿etɛ dəvny mɔ̃n‿etɑ̃daʁ lə vis e la debyʃ me]",
+      "ear": "桑特 弗哈日勒 勒 卡哈克泰赫 翁布哈日 诶 韦赫萨蒂勒 拉 艾恩 诶泰 德弗尼于 蒙恩 诶唐达赫 勒 维斯 诶 拉 德比于什 梅",
+      "meaning": "虚弱，性情阴郁又多变。仇恨成了旗帜，恶习和放荡成了……",
+      "suppliedText": "senté fragile le caractère ombrage et versatile la haine était devenue mon étendard le vice et la débuche mes",
+      "sourceLineId": "moliere-timed-652",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 8,
+        "sourceLineNumber": 652,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Seules exutoires ma vie était senspoir j'accumulais les desoir mes défêtes étaient toujours plus grandes que mes victoires qu'importe les- Y Histoire",
+      "start": 16,
+      "ipa": "[sœl‿ɛɡzytwaʁ ma vi etɛ sɑ̃spwaʁ ʒakymylɛ le dəzwaʁ me defɛt‿etɛ tuʒuʁ ply ɡʁɑ̃d kə me viktwaʁ kɛ̃pɔʁt lez‿i istwaʁ]",
+      "ear": "瑟厄勒 艾格齐于特乌阿赫 玛 维 诶泰 桑斯普乌阿赫 扎基于米于莱 莱 德兹乌阿赫 梅 德费特 诶泰 图茹赫 普吕 格杭德 克 梅 维克特乌阿赫 坎珀赫特 莱兹 伊 伊斯特乌阿赫",
+      "meaning": "唯一的出口。人生没有希望，失意堆积，失败总多于胜利……（末尾识别不清）",
+      "suppliedText": "seules exutoires ma vie était senspoir j'accumulais les desoir mes défêtes étaient toujours plus grandes que mes victoires qu'importe les- Y Histoire",
+      "sourceLineId": "moliere-timed-653",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 16,
+        "sourceLineNumber": 653,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Impossible d'y croire. Je pensais qu'il était trop tard, qu'il était trop tard. C'est la vie qui m'a fait, moi je n'ai rien…",
+      "start": 25,
+      "ipa": "[ɛ̃pɔsibl di kʁwaʁ ʒə pɑ̃sɛ kil‿etɛ tʁo taʁ kil‿etɛ tʁo taʁ sɛ la vi ki ma fɛ mwa ʒə ne ʁjɛ̃]",
+      "ear": "安珀西布勒 迪 克赫乌阿赫 热 庞塞 基勒 诶泰 特霍 塔赫 基勒 诶泰 特霍 塔赫 塞 拉 维 基 玛 费 姆乌阿 热 内 赫耶安",
+      "meaning": "无法相信，我以为太迟了。是生活塑造了我，我什么也没……",
+      "suppliedText": "impossible d' croire je pensais qu'il était trop tard était trop tard c'est la vie qui m'a fait moi je n'ai rien",
+      "sourceLineId": "moliere-timed-654",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 25,
+        "sourceLineNumber": 654,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Demandé. Cette vie, je l'ai refusée, mais les dieux ont décidé. C'est…",
+      "start": 34,
+      "ipa": "[dəmɑ̃de sɛt vi ʒə le ʁəfyze mɛ le djø ɔ̃ deside sɛ]",
+      "ear": "德芒德 塞特 维 热 莱 赫菲于泽 梅 莱 德耶厄 翁 德西德 塞",
+      "meaning": "要求。我拒绝这生活，可神明作了决定。是……",
+      "suppliedText": "deé cette vie je l'ai refusé mais les dieux ont décidé c'est",
+      "sourceLineId": "moliere-timed-655",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 34,
+        "sourceLineNumber": 655,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "La vie qui m'a fait, moi je n'ai rien… Cette vie, je l'ai refusée, mais les…",
+      "start": 42,
+      "ipa": "[la vi ki ma fɛ mwa ʒə ne ʁjɛ̃ sɛt vi ʒə le ʁəfyze mɛ le]",
+      "ear": "拉 维 基 玛 费 姆乌阿 热 内 赫耶安 塞特 维 热 莱 赫菲于泽 梅 莱",
+      "meaning": "生活塑造了我，我什么也没……我拒绝这生活，可……",
+      "suppliedText": "la vie qui m'a fait moi je n'ai rien fa cette vie je l'ai refusé mais les",
+      "sourceLineId": "moliere-timed-656",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 42,
+        "sourceLineNumber": 656,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Dieux ont décidé j'avais au fond de moi une telle colère qui m'animait m'exaltait et",
+      "start": 51,
+      "ipa": "[djø ɔ̃ deside ʒavɛ o fɔ̃ də mwa yn tɛl kolɛʁ ki manimɛ mɛɡzaltɛ e]",
+      "ear": "德耶厄 翁 德西德 扎韦 奥 丰 德 姆乌阿 于恩 泰勒 科莱赫 基 玛尼梅 梅格扎勒泰 诶",
+      "meaning": "神明作了决定。心底有那样的愤怒，驱动我，激奋我……",
+      "suppliedText": "dieux ont décidé j'avais au fond de moi une telle colère qui m'animait m'exaltait et",
+      "sourceLineId": "moliere-timed-657",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 51,
+        "sourceLineNumber": 657,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "M'enivrait je m' don à tous les plaisirs en déplais à ce qui avait à redire cela me faisait souffrir souffrir me donnait",
+      "start": 58,
+      "ipa": "[mɑ̃nivʁɛ ʒə ɛm dɔ̃ a tu le plɛziʁ‿ɑ̃ deplɛ a sə ki avɛ a ʁədiʁ səla mə fəzɛ sufʁiʁ sufʁiʁ mə dɔnɛ]",
+      "ear": "芒尼弗赫 热 艾姆 东 阿 图 莱 普莱齐赫 昂 德普莱 阿 瑟 基 阿韦 阿 赫迪赫 瑟拉 默 弗泽 苏弗希赫 苏弗希赫 默 多奈",
+      "meaning": "让我沉醉。我沉溺所有欢愉，不理批评；痛苦令我……",
+      "suppliedText": "m'enivrait je m' don à tous les plaisirs en déplais à ce qui avait à redire cela me faisait souffrir souffrir me donnait",
+      "sourceLineId": "moliere-timed-658",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 58,
+        "sourceLineNumber": 658,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Le sourire puis tu m'a sauvé de mes fils libéré mes sue désormais ma vie sera déué de tout ti fils quoi que je suis",
+      "start": 66,
+      "ipa": "[lə suʁiʁ pɥi ty ma sove də me fil libeʁe me sy dezɔʁmɛ ma vi səʁa deye də tu ti fil kwa kə ʒə sɥi]",
+      "ear": "勒 苏希赫 普于伊 蒂于 玛 索韦 德 梅 菲勒 利贝赫 梅 西于 德佐赫梅 玛 维 瑟哈 德于诶 德 图 蒂 菲勒 克乌阿 克 热 斯于伊",
+      "meaning": "微笑。然后你救了我……如今我的生活不再有……（部分识别不清）",
+      "suppliedText": "le sourire puis tu m'a sauvé de mes fils libéré mes sue désormais ma vie sera déué de tout ti fils quoi que je suis",
+      "sourceLineId": "moliere-timed-659",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 66,
+        "sourceLineNumber": 659,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Si jamais je défie… que le ciel me… C'est la vie qui m'a fait…",
+      "start": 75,
+      "ipa": "[si ʒamɛ ʒə defi kə lə sjɛl mə sɛ la vi ki ma fɛ]",
+      "ear": "西 扎梅 热 德菲 克 勒 斯耶艾勒 默 塞 拉 维 基 玛 费",
+      "meaning": "……若我违逆，愿上天惩罚我。是生活塑造了我。（部分识别不清）",
+      "suppliedText": "filsira la just si jamais je défie que le ciel meisse c'est la vie qui m'a fait",
+      "sourceLineId": "moliere-timed-660",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 75,
+        "sourceLineNumber": 660,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Moi je n'ai rien demandé. Cette vie, je l'ai refusée…",
+      "start": 82,
+      "ipa": "[mwa ʒə ne ʁjɛ̃ dəmɑ̃de sɛt vi ʒə le ʁəfyze]",
+      "ear": "姆乌阿 热 内 赫耶安 德芒德 塞特 维 热 莱 赫菲于泽",
+      "meaning": "我什么也没要求，我拒绝这生活……",
+      "suppliedText": "moi je n rienander Cette viille je l'ai refusé",
+      "sourceLineId": "moliere-timed-661",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 82,
+        "sourceLineNumber": 661,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Mais les dieux ont décidé. Et je…",
+      "start": 89,
+      "ipa": "[mɛ le djø ɔ̃ deside e ʒə]",
+      "ear": "梅 莱 德耶厄 翁 德西德 诶 热",
+      "meaning": "可神明作了决定。于是我……",
+      "suppliedText": "mais die on décidé et je",
+      "sourceLineId": "moliere-timed-662",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 89,
+        "sourceLineNumber": 662,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pleure puoui je pleure coméie tragédie",
+      "start": 99,
+      "ipa": "[plœʁ pywi ʒə plœʁ komei tʁaʒedi]",
+      "ear": "普勒厄赫 普于乌伊 热 普勒厄赫 科梅伊 特哈热迪",
+      "meaning": "哭泣，为什么哭泣？喜剧，悲剧……",
+      "suppliedText": "pleure puoui je pleure coméie tragédie",
+      "sourceLineId": "moliere-timed-663",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 99,
+        "sourceLineNumber": 663,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Avil est maudit trahison perfidie mon je n'ai pas choisi comédie",
+      "start": 107,
+      "ipa": "[avil‿ɛ modi tʁaizɔ̃ pɛʁfidi mɔ̃ ʒə ne pa ʃwazi komedi]",
+      "ear": "阿维勒 艾 莫迪 特哈伊宗 佩赫菲迪 蒙 热 内 帕 什乌阿齐 科梅迪",
+      "meaning": "……受辱，被诅咒，背叛，阴险，我并没有选择。喜剧……",
+      "suppliedText": "avil est maudit trahison perfidie mon je n'ai pas choisi comédie",
+      "sourceLineId": "moliere-timed-664",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 107,
+        "sourceLineNumber": 664,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Tragédie funesse de parodie puis repenti converti non je n'ai pas",
+      "start": 118,
+      "ipa": "[tʁaʒedi fynɛs də paʁodi pɥi ʁəpɑ̃ti kɔ̃vɛʁti nɔ̃ ʒə ne pa]",
+      "ear": "特哈热迪 菲于奈斯 德 帕霍迪 普于伊 赫庞蒂 孔韦赫蒂 农 热 内 帕",
+      "meaning": "悲剧，凄惨的滑稽剧，悔悟，皈依，我并没有……",
+      "suppliedText": "tragédie funesse de parodie puis repenti converti non je n'ai pas",
+      "sourceLineId": "moliere-timed-665",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 118,
+        "sourceLineNumber": 665,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Choisi. C'est la vie qui m'a fait, moi je n'ai rien demandé. Cette vie, je l'ai…",
+      "start": 128,
+      "ipa": "[ʃwazi sɛ la vi ki ma fɛ mwa ʒə ne ʁjɛ̃ dəmɑ̃de sɛt vi ʒə le]",
+      "ear": "什乌阿齐 塞 拉 维 基 玛 费 姆乌阿 热 内 赫耶安 德芒德 塞特 维 热 莱",
+      "meaning": "选择。是生活塑造了我，我什么也没要求，这生活我……",
+      "suppliedText": "choisi c'est la fille qui m'a fait moi je n'ai rien demandé cette vie je l'ai",
+      "sourceLineId": "moliere-timed-666",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 128,
+        "sourceLineNumber": 666,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Refusée, mais les dieux ont décidé. Et je pleure…",
+      "start": 138,
+      "ipa": "[ʁəfyze mɛ le djø ɔ̃ deside e ʒə plœʁ]",
+      "ear": "赫菲于泽 梅 莱 德耶厄 翁 德西德 诶 热 普勒厄赫",
+      "meaning": "拒绝过，可神明作了决定。于是我哭泣……",
+      "suppliedText": "refusé mais les yeux ont dcidé et je pleur",
+      "sourceLineId": "moliere-timed-667",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 138,
+        "sourceLineNumber": 667,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Oui je ple ah",
+      "start": 148,
+      "ipa": "[wi ʒə pl‿a]",
+      "ear": "乌伊 热 普勒 阿",
+      "meaning": "是的，我哭泣……",
+      "suppliedText": "oui je ple ah",
+      "sourceLineId": "moliere-timed-668",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 148,
+        "sourceLineNumber": 668,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

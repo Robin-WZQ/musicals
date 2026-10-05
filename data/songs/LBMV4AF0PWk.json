@@ -10,14 +10,120 @@
   "musicalId": "moliere",
   "trackNumber": 3,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Jean-Baptiste, je… je suis sincèrement désolé. Allez ! Non, mais non…",
+      "start": 0,
+      "duration": 4
+    },
+    {
+      "text": "Non. Que diable suis-je venu faire derrière tes barreaux ? … Une galère…",
+      "start": 7,
+      "duration": 7
+    },
+    {
+      "text": "Qui ne cesse de prendre l'eau. Mais entre ciel et terre je trouverai les mots, les…",
+      "start": 14,
+      "duration": 8
+    },
+    {
+      "text": "Mots pour te plaire, quitte à y laisser ma peau. Tout le long de ce couloir…",
+      "start": 22,
+      "duration": 8
+    },
+    {
+      "text": "Tu marches à contre-jour. Pas le moindre regard, pas le moindre détour. Je suis…",
+      "start": 30,
+      "duration": 7
+    },
+    {
+      "text": "Dans le brouillard, à jamais condamné à t'aimer sans être aimé en retour. Oui…",
+      "start": 37,
+      "duration": 8
+    },
+    {
+      "text": "C'est dit, promis, j'irai au bout. Quel que soit le prix, tant pis si je deviens fou…",
+      "start": 45,
+      "duration": 8
+    },
+    {
+      "text": "À espérer entre ces quatre murs qu'un matin tu diras dans un…",
+      "start": 53,
+      "duration": 8
+    },
+    {
+      "text": "Murmure que tu m'aimes. Que diable suis-je venu faire derrière tes…",
+      "start": 61,
+      "duration": 7
+    },
+    {
+      "text": "Barreaux ? Une galère qui ne cesse de prendre l'eau. Mais entre ciel et terre je trouverai…",
+      "start": 68,
+      "duration": 7
+    },
+    {
+      "text": "Les mots, les mots…",
+      "start": 75,
+      "duration": 8
+    },
+    {
+      "text": "Pour te… J'ai tant de choses à dire, des rêves à l'infini, des montagnes de rire…",
+      "start": 83,
+      "duration": 8
+    },
+    {
+      "text": "J'illuminerai tes nuits… Mon plus beau sourire… Ton amour, tu verras que le…",
+      "start": 91,
+      "duration": 7
+    },
+    {
+      "text": "Meilleur sera à venir. Oui, c'est dit, promis, j'irai au bout. Quel que soit le…",
+      "start": 98,
+      "duration": 8
+    },
+    {
+      "text": "Prix, tant pis si je deviens fou. Mais malgré tout, je préfère souffrir avec…",
+      "start": 106,
+      "duration": 8
+    },
+    {
+      "text": "L'espoir de t'entendre un jour me dire que tu m'aimes.",
+      "start": 114,
+      "duration": 8
+    },
+    {
+      "text": "Que diable suis-je venu faire derrière tes barreaux ? Une galère qui ne cesse de prendre… Mais…",
+      "start": 122,
+      "duration": 10
+    },
+    {
+      "text": "Entre ciel et terre je trouverai les mots, les mots pour te plaire, quitte à… Que diable… faire…",
+      "start": 132,
+      "duration": 10
+    },
+    {
+      "text": "Derrière tes barreaux ? Une galère qui ne cesse… Mais…",
+      "start": 142,
+      "duration": 8
+    },
+    {
+      "text": "Entre ciel… Je trouverai les mots…",
+      "start": 150,
+      "duration": 7
+    },
+    {
+      "text": "Peau. Les mots pour te… quitte à y laisser ma peau.",
+      "start": 157,
+      "duration": 8
+    }
+  ],
   "playbackVideoId": "LBMV4AF0PWk",
   "sourceURL": "https://www.youtube.com/watch?v=LBMV4AF0PWk",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=LBMV4AF0PWk",
@@ -120,10 +226,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250309",
   "productionYear": 2023,
@@ -224,5 +330,122 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 71,
+      "start": 0,
+      "text": "Jean-Baptiste je je suis sincèrement désolé allez non mais non"
+    },
+    {
+      "sourceLine": 72,
+      "start": 4,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 73,
+      "start": 7,
+      "text": "non que diable suis-je venu faire derrière tes barreaux tuim une galère"
+    },
+    {
+      "sourceLine": 77,
+      "start": 14,
+      "text": "qui ne cesse de prendre l'eau mais entre ciel et terre je trouverai les mots les"
+    },
+    {
+      "sourceLine": 78,
+      "start": 22,
+      "text": "mots pour te plaire qui t laisser ma peau tout le long de ce couloir"
+    },
+    {
+      "sourceLine": 79,
+      "start": 30,
+      "text": "tu marches à contre jour pas le moindre regard pas le moindre détour je suis"
+    },
+    {
+      "sourceLine": 80,
+      "start": 37,
+      "text": "dans le Bouillard à jamais condamné à t'aimer sans être aimé en retour oui"
+    },
+    {
+      "sourceLine": 81,
+      "start": 45,
+      "text": "c'est dit promis j'irai au bout quel que soit le prix tant pis si je deviens fou"
+    },
+    {
+      "sourceLine": 82,
+      "start": 53,
+      "text": "à espérer entre ces quatre murs que matin tu diras dans un"
+    },
+    {
+      "sourceLine": 83,
+      "start": 61,
+      "text": "murmure que tu m'aimes que diable suis-je venu faire derrière tes"
+    },
+    {
+      "sourceLine": 84,
+      "start": 68,
+      "text": "parau une galère qui ne cesse de prendre l'eau mais entre ciel et terre je trouve"
+    },
+    {
+      "sourceLine": 85,
+      "start": 75,
+      "text": "par les mot les mot"
+    },
+    {
+      "sourceLine": 86,
+      "start": 83,
+      "text": "te j'ai tant de choses àir des rêves à l'infini des montagnes de rire"
+    },
+    {
+      "sourceLine": 87,
+      "start": 91,
+      "text": "j'illuminerai des nuit dev mon plusau sourir ton amour tu verras que le"
+    },
+    {
+      "sourceLine": 88,
+      "start": 98,
+      "text": "meilleur sera av venir lui s'est dit promis j'irai au bout quel ce soit le"
+    },
+    {
+      "sourceLine": 89,
+      "start": 106,
+      "text": "prix tant pis si je deviens fou mais malgré tout je préfère souffrir avec"
+    },
+    {
+      "sourceLine": 90,
+      "start": 114,
+      "text": "l'espoir de t'entendre un jour me dire que tu m'aimes"
+    },
+    {
+      "sourceLine": 91,
+      "start": 122,
+      "text": "que diable tu ve faire derrière tes parau une galère qui ne ce le grand mais"
+    },
+    {
+      "sourceLine": 92,
+      "start": 132,
+      "text": "re cel terre je trouve les mots les mots pour te PL qui Ta ma que diable ve faire"
+    },
+    {
+      "sourceLine": 93,
+      "start": 142,
+      "text": "derrière tes B une galère qui ne sa leOM mais les"
+    },
+    {
+      "sourceLine": 94,
+      "start": 150,
+      "text": "entre ciel je trouve les les mon ta ma"
+    },
+    {
+      "sourceLine": 95,
+      "start": 157,
+      "text": "peau les mots pour te direire qui taille laisser ma peau"
+    }
+  ]
 }

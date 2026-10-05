@@ -1,0 +1,149 @@
+{
+  "videoId": "rftmY7Jb_6U",
+  "playbackVideoId": "rftmY7Jb_6U",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=rftmY7Jb_6U"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "B Madeleine n'est toujours pas là on commencera sans elle la",
+      "start": 1,
+      "ipa": "[be madlɛn nɛ tuʒuʁ pa la ɔ̃ kɔmɑ̃sʁa sɑ̃ ɛl la]",
+      "ear": "贝 玛德莱恩 奈 图茹赫 帕 拉 翁 科芒斯哈 桑 艾勒 拉",
+      "meaning": "玛德莱娜还没到，我们先开始吧……",
+      "suppliedText": "B Madeleine n'est toujours pas là on commencera sans elle la",
+      "sourceLineId": "moliere-timed-518",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 1,
+        "sourceLineNumber": 518,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "N nous fait j'ai fait leses préparer votre",
+      "start": 10,
+      "ipa": "[ɛn nu fɛ ʒe fɛ ləz pʁepaʁe votʁ]",
+      "ear": "艾恩 努 费 热 费 勒兹 普赫帕赫 沃特赫",
+      "meaning": "……我已让人准备好你们的……（部分识别不清）",
+      "suppliedText": "N nous fait j'ai fait leses préparer votre",
+      "sourceLineId": "moliere-timed-519",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 10,
+        "sourceLineNumber": 519,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Argent mais on vous doit d'abord des explications notre nouveauté dans un tel",
+      "start": 16,
+      "ipa": "[aʁʒɑ̃ mɛ ɔ̃ vu dwa dabɔʁ dez‿ɛksplikasjɔ̃ notʁ nuvote dɑ̃ œ̃ tɛl]",
+      "ear": "阿赫让 梅 翁 乌 德乌阿 达博赫 德兹 艾克斯普利卡斯耶翁 诺特赫 努沃特 当 恩 泰勒",
+      "meaning": "钱，但得先解释。新……破败得……",
+      "suppliedText": "argent mais on vous doit d'abord des explications notre nouveauté dans un tel",
+      "sourceLineId": "moliere-timed-520",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 16,
+        "sourceLineNumber": 520,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Délabrement qu'il nous a fallu effectuer des rénovations les caiss en trouver financement lancer une nouvelle pièce était la seule solution à leur Molière a",
+      "start": 25,
+      "ipa": "[delabʁəmɑ̃ kil nuz‿a faly efɛktye de ʁenovasjɔ̃ le kɛs‿ɑ̃ tʁuve finɑ̃smɑ̃ lɑ̃se yn nuvɛl pjɛs‿etɛ la sœl solysjɔ̃ a lœʁ moljɛʁ‿a]",
+      "ear": "德拉布赫芒 基勒 努兹 阿 法吕 诶费克蒂于诶 德 赫诺瓦斯耶翁 莱 凯斯 昂 特胡韦 菲南斯芒 朗塞 于恩 努韦勒 普耶艾斯 诶泰 拉 瑟厄勒 索吕斯耶翁 阿 勒厄赫 莫勒耶艾赫 阿",
+      "meaning": "必须翻修，账上……要筹钱，唯一办法是上演新戏，于是莫里哀……",
+      "suppliedText": "délabrement qu'il nous a fallu effectuer des rénovations les caiss en trouver financement lancer une nouvelle pièce était la seule solution à leur Molière a",
+      "sourceLineId": "moliere-timed-521",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 25,
+        "sourceLineNumber": 521,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Écrit donc gartien on a rien de d mais ce F là un échec retentissant la grche dit nous",
+      "start": 33,
+      "ipa": "[ekʁi dɔ̃k ɡaʁtjɛ̃ ɔ̃n‿a ʁjɛ̃ də de mɛ sə ɛf la œ̃n‿eʃɛk ʁətɑ̃tisɑ̃ la ʒeʁʃ di nu]",
+      "ear": "诶克希 东克 嘎赫特耶安 翁恩 阿 赫耶安 德 德 梅 瑟 艾弗 拉 恩恩 诶谢克 赫唐蒂桑 拉 热赫什 迪 努",
+      "meaning": "写了……可那出戏惨败。——拉格朗日，说吧……（剧名识别不清）",
+      "suppliedText": "écrit donc gartien on a rien de d mais ce F là un échec retentissant la grche dit nous",
+      "sourceLineId": "moliere-timed-522",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 33,
+        "sourceLineNumber": 522,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Enfin pour les sources nous fait combien 2400 livres c'est tout mais on a fait aussi nos compte et ce n'était pas le",
+      "start": 39,
+      "ipa": "[ɑ̃fɛ̃ puʁ le suʁs nu fɛ kɔ̃bjɛ̃ dø mil katʁ sɑ̃ livʁ sɛ tu mɛ ɔ̃n‿a fɛ osi no kɔ̃t e sə netɛ pa lə]",
+      "ear": "昂凡 普赫 莱 苏赫斯 努 费 孔布耶安 德厄 米勒 卡特赫 桑 利弗赫 塞 图 梅 翁恩 阿 费 奥西 诺 孔特 诶 瑟 内泰 帕 勒",
+      "meaning": "我们能分多少？——两千四百里弗。——就这些？我们自己算的可……",
+      "suppliedText": "enfin pour les sources nous fait combien 2400 livres c'est tout mais on a fait aussi nos compte et ce n'était pas le",
+      "sourceLineId": "moliere-timed-523",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 39,
+        "sourceLineNumber": 523,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Même montant bah évidemment j'ai changé la répartition ah bon mais pourquoi parce que Molière a demandé une part supplémentaire comme le Ve l'usage quand",
+      "start": 48,
+      "ipa": "[mɛm mɔ̃tɑ̃ ba evidamɑ̃ ʒe ʃɑ̃ʒe la ʁepaʁtisjɔ̃ a bɔ̃ mɛ puʁkwa paʁskə moljɛʁ a dəmɑ̃de yn paʁ syplemɑ̃tɛʁ kɔm lə və lyzaʒ kɑ̃]",
+      "ear": "梅姆 蒙唐 巴 诶维达芒 热 尚热 拉 赫帕赫蒂斯耶翁 阿 崩 梅 普赫克乌阿 帕赫斯克 莫勒耶艾赫 阿 德芒德 于恩 帕赫 西于普莱芒泰赫 科姆 勒 弗 吕扎日 康",
+      "meaning": "不是这个数。——我改变了分配方式。莫里哀要额外一份，结婚时按惯例可以……",
+      "suppliedText": "même montant bah évidemment j'ai changé la répartition ah bon mais pourquoi parce que Molière a demandé une part supplémentaire comme le Ve l'usage quand",
+      "sourceLineId": "moliere-timed-524",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 48,
+        "sourceLineNumber": 524,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Il y a un mariage Jean-Baptisteste se marie et oui",
+      "start": 56,
+      "ipa": "[il‿i a œ̃ maʁjaʒ ʒɑ̃batistɛst sə maʁi e wi]",
+      "ear": "伊勒 伊 阿 恩 玛赫耶阿日 让巴蒂斯泰斯特 瑟 玛希 诶 乌伊",
+      "meaning": "这样做。——让-巴蒂斯特要结婚？——是的。",
+      "suppliedText": "il y a un mariage Jean Baptiste se marie et oui",
+      "sourceLineId": "moliere-timed-525",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 56,
+        "sourceLineNumber": 525,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

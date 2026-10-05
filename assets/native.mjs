@@ -1,4 +1,4 @@
-import {parseCaptions} from './captions.mjs?v=20261005-2';
+import {parseCaptions} from './captions.mjs?v=20261005-3';
 
 export function playbackStart(song, requested = 0, timebase = '') {
   const value = Math.max(0, Number(requested) || 0);

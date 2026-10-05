@@ -10,14 +10,155 @@
   "musicalId": "moliere",
   "trackNumber": 19,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Cet homme si délicieux a tous les droits car celui que l'on appelle monsieur est",
+      "start": 10,
+      "duration": 9
+    },
+    {
+      "text": "Le frère du roi monsieur est un amateur d'",
+      "start": 19,
+      "duration": 6
+    },
+    {
+      "text": "De les paillettes On a assz de cubration il veut désormais pour son frère le dig occupation une troupe de comédien",
+      "start": 25,
+      "duration": 9
+    },
+    {
+      "text": "Portera son nom bon c'est décidé vous allez jouer devant mon frérot mais je vous conseille d'assurer grave par contre va falloir me changer tout ça",
+      "start": 34,
+      "duration": 8
+    },
+    {
+      "text": "Hein là c'est laarchuma mais qu'est-ce qu'ils ont encore tous ces boloss à se marrer c'est peut-être à cause de votre façon de vous",
+      "start": 42,
+      "duration": 7
+    },
+    {
+      "text": "Exprimer oh bah quoi je suis branché c'est si délicieux à tous",
+      "start": 49,
+      "duration": 9
+    },
+    {
+      "text": "Les celui que l'on a monsieur est le frère du",
+      "start": 58,
+      "duration": 7
+    },
+    {
+      "text": "Roi Sa Majesté le Roi Louis",
+      "start": 65,
+      "duration": 10
+    },
+    {
+      "text": "XIV bon j'espère que ces bouffons vont assurer sinon tous les rageux de la cour vont encore trop kiffer allez allons les",
+      "start": 75,
+      "duration": 8
+    },
+    {
+      "text": "Écouter que ce don à sa mère est pris fat",
+      "start": 83,
+      "duration": 8
+    },
+    {
+      "text": "… Flaminus… Hannibal… Seigneur… a découvert toute…",
+      "start": 91,
+      "duration": 8
+    },
+    {
+      "text": "Âme généreuse d'avoir votre amitié doit se tenir",
+      "start": 99,
+      "duration": 7
+    },
+    {
+      "text": "Heureuse. Cher Montfleury, cher Floridor, femme qui rit dans mes bras s'endort.",
+      "start": 108,
+      "duration": 9
+    },
+    {
+      "text": "… Montfleury, avez-vous remarqué ? Le roi a bâillé, et c'est bien mérité. Floridor, nous voici rassurés, nos théâtres ne sont…",
+      "start": 117,
+      "duration": 9
+    },
+    {
+      "text": "En rien menacés merci mon cher frère pour ce long",
+      "start": 126,
+      "duration": 7
+    },
+    {
+      "text": "Divertissement que vous nous avez offert oh là là il a pas aimé c'est une kata allez hop je t'avais bien dit de pas jouer de tragédie allez vite proposonsm",
+      "start": 133,
+      "duration": 8
+    },
+    {
+      "text": "Une de nos comédies. Une comédie ? Et pourquoi pas… Ils vont tout faire rater. Allez ! … Vous avez menti…",
+      "start": 141,
+      "duration": 10
+    },
+    {
+      "text": "Monsieur monsieur je le veux bien vous êtes un coquin d'accord et cette audace",
+      "start": 151,
+      "duration": 8
+    },
+    {
+      "text": "Mériterait 100 coups de bâton sur la placesieur je vous raillez infme non",
+      "start": 159,
+      "duration": 9
+    },
+    {
+      "text": "Monsieur je raille point est donc vrai pas je ne dis pas cela alors que",
+      "start": 168,
+      "duration": 8
+    },
+    {
+      "text": "Dis-tu donc hlas je dit rien de peur de mal",
+      "start": 176,
+      "duration": 9
+    },
+    {
+      "text": "Parler mon a l'air d'avoir kiffé j'ai un sé grave non Molière vous avez su",
+      "start": 185,
+      "duration": 8
+    },
+    {
+      "text": "Infiniment nous plaire désormais votre troupe portera le nom de mon frère nous l'installerons dans le salon du petit Bourbon monsieur Molière nous nous",
+      "start": 193,
+      "duration": 10
+    },
+    {
+      "text": "Reverrons si délicieux à tous les celui queon appelle le monsieur est",
+      "start": 203,
+      "duration": 8
+    },
+    {
+      "text": "Frère du roi Molière vous dévoyez les sens même de notre prophé on vous affanchissant des règles de",
+      "start": 211,
+      "duration": 8
+    },
+    {
+      "text": "L'articulation. De plus, vous ne rimez pas… et vous ne jouez pas… Montfleury, vous dévoyez le…",
+      "start": 219,
+      "duration": 7
+    },
+    {
+      "text": "Sens même du divertissement en vous raccrochant d'cï tradition de plus vous n'égayz pas vous ennuyez vous ne jouez",
+      "start": 226,
+      "duration": 8
+    },
+    {
+      "text": "Pas vous surjouez",
+      "start": 234,
+      "duration": 4
+    }
+  ],
   "playbackVideoId": "f9xYjI1-LXU",
   "sourceURL": "https://www.youtube.com/watch?v=f9xYjI1-LXU",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=f9xYjI1-LXU",
@@ -148,10 +289,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250310",
   "productionYear": 2023,
@@ -280,5 +421,157 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 370,
+      "start": 10,
+      "text": "cet homme si délicieux a tous les droits car celui que l'on appelle monsieur est"
+    },
+    {
+      "sourceLine": 371,
+      "start": 19,
+      "text": "le frère du roi monsieur est un amateur d'"
+    },
+    {
+      "sourceLine": 372,
+      "start": 25,
+      "text": "de les paillettes On a assz de cubration il veut désormais pour son frère le dig occupation une troupe de comédien"
+    },
+    {
+      "sourceLine": 373,
+      "start": 34,
+      "text": "portera son nom bon c'est décidé vous allez jouer devant mon frérot mais je vous conseille d'assurer grave par contre va falloir me changer tout ça"
+    },
+    {
+      "sourceLine": 374,
+      "start": 42,
+      "text": "hein là c'est laarchuma mais qu'est-ce qu'ils ont encore tous ces boloss à se marrer c'est peut-être à cause de votre façon de vous"
+    },
+    {
+      "sourceLine": 375,
+      "start": 49,
+      "text": "exprimer oh bah quoi je suis branché c'est si délicieux à tous"
+    },
+    {
+      "sourceLine": 376,
+      "start": 58,
+      "text": "les celui que l'on a monsieur est le frère du"
+    },
+    {
+      "sourceLine": 377,
+      "start": 65,
+      "text": "roi Sa Majesté le Roi Louis"
+    },
+    {
+      "sourceLine": 378,
+      "start": 75,
+      "text": "XIV bon j'espère que ces bouffons vont assurer sinon tous les rageux de la cour vont encore trop kiffer allez allons les"
+    },
+    {
+      "sourceLine": 379,
+      "start": 83,
+      "text": "écouter que ce don à sa mère est pris fat"
+    },
+    {
+      "sourceLine": 380,
+      "start": 91,
+      "text": "dans leur flaminius marchand des hannibales Seigneur a découvert toute"
+    },
+    {
+      "sourceLine": 381,
+      "start": 99,
+      "text": "âme généreuse d'avoir votre amitié doit se tenir"
+    },
+    {
+      "sourceLine": 382,
+      "start": 106,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 383,
+      "start": 108,
+      "text": "heureuse cher mon Fleury cher Floridor femme qui rit dans mes bras s'en"
+    },
+    {
+      "sourceLine": 384,
+      "start": 117,
+      "text": "dor mon Fleury avez-vous remarqué le roi a baillé et c'est bien mérité Floridor nous voici rassuré nos théâtres ne sont"
+    },
+    {
+      "sourceLine": 385,
+      "start": 126,
+      "text": "en rien menacés merci mon cher frère pour ce long"
+    },
+    {
+      "sourceLine": 386,
+      "start": 133,
+      "text": "divertissement que vous nous avez offert oh là là il a pas aimé c'est une kata allez hop je t'avais bien dit de pas jouer de tragédie allez vite proposonsm"
+    },
+    {
+      "sourceLine": 387,
+      "start": 141,
+      "text": "une de nos comédes une comédie et pourquoi pas wmanch ils vont tout faire rater allez go derrière vous avez menti"
+    },
+    {
+      "sourceLine": 388,
+      "start": 151,
+      "text": "monsieur monsieur je le veux bien vous êtes un coquin d'accord et cette audace"
+    },
+    {
+      "sourceLine": 389,
+      "start": 159,
+      "text": "mériterait 100 coups de bâton sur la placesieur je vous raillez infme non"
+    },
+    {
+      "sourceLine": 390,
+      "start": 168,
+      "text": "monsieur je raille point est donc vrai pas je ne dis pas cela alors que"
+    },
+    {
+      "sourceLine": 391,
+      "start": 176,
+      "text": "dis-tu donc hlas je dit rien de peur de mal"
+    },
+    {
+      "sourceLine": 392,
+      "start": 185,
+      "text": "parler mon a l'air d'avoir kiffé j'ai un sé grave non Molière vous avez su"
+    },
+    {
+      "sourceLine": 393,
+      "start": 193,
+      "text": "infiniment nous plaire désormais votre troupe portera le nom de mon frère nous l'installerons dans le salon du petit Bourbon monsieur Molière nous nous"
+    },
+    {
+      "sourceLine": 394,
+      "start": 203,
+      "text": "reverrons si délicieux à tous les celui queon appelle le monsieur est"
+    },
+    {
+      "sourceLine": 395,
+      "start": 211,
+      "text": "frère du roi Molère vous dévoyez les sens même de notre prophé on vous affanchissant des règles de"
+    },
+    {
+      "sourceLine": 396,
+      "start": 219,
+      "text": "l'articulation de plus vous ne rimez pas vous rimilleez et vous ne jouez pas vous vous brillez mon Fleury vous dévoyez l'"
+    },
+    {
+      "sourceLine": 397,
+      "start": 226,
+      "text": "sens même du divertissement en vous raccrochant d'cï tradition de plus vous n'égayz pas vous ennuyez vous ne jouez"
+    },
+    {
+      "sourceLine": 398,
+      "start": 234,
+      "text": "pas vous surjouez"
+    }
+  ]
 }

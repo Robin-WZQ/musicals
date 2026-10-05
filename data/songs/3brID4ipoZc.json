@@ -10,14 +10,105 @@
   "musicalId": "moliere",
   "trackNumber": 30,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Tout réussit à ce maudit Jean-Baptiste Poquelin : argent, amour, succès. Il pense que tout lui revient. Tant qu'il bénéficie de la…",
+      "start": 1,
+      "duration": 9
+    },
+    {
+      "text": "Protection de Sa Majesté, on ne peut le faire tomber de sa place au sommet. Mais en épousant la fille de son ancienne maîtresse…",
+      "start": 10,
+      "duration": 7
+    },
+    {
+      "text": "Il s'est mis dans une empasse c'est conçu maléfique qui va le remettre bien à sa place pourquoi tout le monde ne parle que de ce M",
+      "start": 17,
+      "duration": 9
+    },
+    {
+      "text": "D'olière définitivement je vais trouver le moyen de le faire tare par pourquoi tout le monde ne parle que de ce mod",
+      "start": 26,
+      "duration": 7
+    },
+    {
+      "text": "D'olère définitivement je vais trouver le moyen de le faire taire j'ai réigé un placé à l'attention de sa Majesté dans lequelle j'ai clairement démontré que sa",
+      "start": 33,
+      "duration": 8
+    },
+    {
+      "text": "Propre fille qu'il a épousé non comment avez-vous fait un ami curé m'a procuré l'acte de naissance de sa bien né mais je l'ai falsifier afin d'établir",
+      "start": 41,
+      "duration": 9
+    },
+    {
+      "text": "Qu'Armand est né 9 mois exactement après que Madeleine etmolière soit devenue amant me combler de joie je vais de ce",
+      "start": 50,
+      "duration": 7
+    },
+    {
+      "text": "Pas me rendre chez le roi pas pourquoi tout le monde ne parle que de ce oui finalement j'ai trouvé le moyen de",
+      "start": 57,
+      "duration": 8
+    },
+    {
+      "text": "Le faire taire et bien monsieur Molière qu'avez-vous à répondre je proteste de toute mon âme contre cette accusation",
+      "start": 65,
+      "duration": 7
+    },
+    {
+      "text": "Infme VO certificat de natalité qui atteste sans aucune ambigé que je nai aucun lien de parenté avec la femme que",
+      "start": 72,
+      "duration": 7
+    },
+    {
+      "text": "J'ai épousé Votre Majesté ne vous laissez pas abuser un peu moins fort et con faites savoir à vos amis du",
+      "start": 79,
+      "duration": 10
+    },
+    {
+      "text": "Saint-Sacrement que Molière bénéficie de toute ma confiance et de mon soutien. Que désormais sa troupe passera sous ma…",
+      "start": 89,
+      "duration": 7
+    },
+    {
+      "text": "Protection que de son fils Louis je serai le Parin Sa Majesté quel honneur je savais la version droit contre les faux dévau qui ne cessent de lu",
+      "start": 96,
+      "duration": 8
+    },
+    {
+      "text": "Reprocher ses défauts le grand moment approché pour lui présenter mon nouveau projet Tartu et le titre de ma nouvelle",
+      "start": 104,
+      "duration": 7
+    },
+    {
+      "text": "Comédie elle sera l'œuvre de ma vie Votre Majesté appr prouver une pièce qui se moque des ecclésiastiques risque de",
+      "start": 111,
+      "duration": 7
+    },
+    {
+      "text": "Vous exposer à de nombreuses critiques Molière je vous y invite et vous",
+      "start": 118,
+      "duration": 7
+    },
+    {
+      "text": "Autorise à écrire votre Tartuffe sans aucun compromis. Mais sachez que mon soutien aura une…",
+      "start": 125,
+      "duration": 8
+    },
+    {
+      "text": "Limite celle de l'intérêt du pays mais Votre Majesté",
+      "start": 133,
+      "duration": 8
+    }
+  ],
   "playbackVideoId": "3brID4ipoZc",
   "sourceURL": "https://www.youtube.com/watch?v=3brID4ipoZc",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3brID4ipoZc",
@@ -104,10 +195,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250316",
   "productionYear": 2023,
@@ -192,5 +283,102 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 610,
+      "start": 1,
+      "text": "pour réussi à ce maudit Jean Baptiste po argent amour succès il pense que tout lui revient tant qu'il bénéficie de la"
+    },
+    {
+      "sourceLine": 611,
+      "start": 10,
+      "text": "protection de Sa Majesté on ne peut le faire tomber de sa place au sommet mais un épousant la fille de son de maîtresse"
+    },
+    {
+      "sourceLine": 612,
+      "start": 17,
+      "text": "il s'est mis dans une empasse c'est conçu maléfique qui va le remettre bien à sa place pourquoi tout le monde ne parle que de ce M"
+    },
+    {
+      "sourceLine": 613,
+      "start": 26,
+      "text": "d'olière définitivement je vais trouver le moyen de le faire tare par pourquoi tout le monde ne parle que de ce mod"
+    },
+    {
+      "sourceLine": 614,
+      "start": 33,
+      "text": "d'olère définitivement je vais trouver le moyen de le faire taire j'ai réigé un placé à l'attention de sa Majesté dans lequelle j'ai clairement démontré que sa"
+    },
+    {
+      "sourceLine": 615,
+      "start": 41,
+      "text": "propre fille qu'il a épousé non comment avez-vous fait un ami curé m'a procuré l'acte de naissance de sa bien né mais je l'ai falsifier afin d'établir"
+    },
+    {
+      "sourceLine": 616,
+      "start": 50,
+      "text": "qu'Armand est né 9 mois exactement après que Madeleine etmolière soit devenue amant me combler de joie je vais de ce"
+    },
+    {
+      "sourceLine": 617,
+      "start": 57,
+      "text": "pas me rendre chez le roi pas pourquoi tout le monde ne parle que de ce oui finalement j'ai trouvé le moyen de"
+    },
+    {
+      "sourceLine": 618,
+      "start": 65,
+      "text": "le faire taire et bien monsieur Molère qu'avez-vous à répondre je proteste de toute mon âme contre cette accusation"
+    },
+    {
+      "sourceLine": 619,
+      "start": 72,
+      "text": "infme VO certificat de natalité qui atteste sans aucune ambigé que je nai aucun lien de parenté avec la femme que"
+    },
+    {
+      "sourceLine": 620,
+      "start": 79,
+      "text": "j'ai épousé Votre Majesté ne vous laissez pas abuser un peu moins fort et con faites savoir à vos amis du"
+    },
+    {
+      "sourceLine": 621,
+      "start": 89,
+      "text": "SA rement que Molière bénéficie de toute ma confiance et mon soutien que désormais sa troupe passera sous ma"
+    },
+    {
+      "sourceLine": 622,
+      "start": 96,
+      "text": "protection que de son fils Louis je serai le Parin Sa Majesté quel honneur je savais la version droit contre les faux dévau qui ne cessent de lu"
+    },
+    {
+      "sourceLine": 623,
+      "start": 104,
+      "text": "reprocher ses défauts le grand moment approché pour lui présenter mon nouveau projet Tartu et le titre de ma nouvelle"
+    },
+    {
+      "sourceLine": 624,
+      "start": 111,
+      "text": "comédie elle sera l'œuvre de ma vie Votre Majesté appr prouver une pièce qui se moque des ecclésiastiques risque de"
+    },
+    {
+      "sourceLine": 625,
+      "start": 118,
+      "text": "vous exposer à de nombreuses critiques Molière je vous y invite et vous"
+    },
+    {
+      "sourceLine": 626,
+      "start": 125,
+      "text": "autorise à écrire votre d'artu sans aucun compromis mais sachez que mon soutien aura une"
+    },
+    {
+      "sourceLine": 627,
+      "start": 133,
+      "text": "limite celle de l'intérêt du pays mais Votre Majesté"
+    }
+  ]
 }

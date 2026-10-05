@@ -1,0 +1,149 @@
+{
+  "videoId": "xK8jfAu4vXo",
+  "playbackVideoId": "xK8jfAu4vXo",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=xK8jfAu4vXo"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Grâce à Monsieur, nous avons joué devant un roi conquis. Il autorisa enfin Tartuffe, mais sans le consigner par écrit.",
+      "start": 2,
+      "ipa": "[ɡʁas‿a məsjø nuz‿avɔ̃ ʒwe dəvɑ̃ œ̃ ʁwa kɔ̃ki il‿otoʁiza ɑ̃fɛ̃ taʁtyf mɛ sɑ̃ lə kɔ̃sinje paʁ‿ekʁi]",
+      "ear": "格哈斯 阿 默斯耶厄 努兹 阿翁 日乌诶 德旺 恩 赫乌阿 孔基 伊勒 奥托希扎 昂凡 塔赫蒂于弗 梅 桑 勒 孔西恩耶诶 帕赫 诶克希",
+      "meaning": "多亏「先生」，我们在国王面前演出并打动了他。他终于准许《伪君子》，却没留下书面命令。",
+      "suppliedText": "Grâce à monsieur, nous avons joué devant un roi conquis. Il autorisa enfin Tartu mais sans le consigner par écrit.",
+      "sourceLineId": "moliere-timed-748",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 2,
+        "sourceLineNumber": 748,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "J'aurais nu sans relâche, nous avons répété et la première représentation fut un grand succès. Mais le bonheur de Jean-Baptiste fut gâché par l'absence de",
+      "start": 8,
+      "ipa": "[ʒoʁɛ ny sɑ̃ ʁəlaʃ nuz‿avɔ̃ ʁepete e la pʁəmjɛʁ ʁəpʁezɑ̃tasjɔ̃ fy œ̃ ɡʁɑ̃ syksɛ mɛ lə bɔnœʁ də ʒɑ̃batist fy ɡaʃe paʁ labsɑ̃s də]",
+      "ear": "若赫 尼于 桑 赫拉什 努兹 阿翁 赫佩特 诶 拉 普赫姆耶艾赫 赫普赫赞塔斯耶翁 菲于 恩 格杭 西于克塞 梅 勒 博讷厄赫 德 让巴蒂斯特 菲于 嘎谢 帕赫 拉布桑斯 德",
+      "meaning": "我们日夜排练，首演大获成功，可让-巴蒂斯特的幸福被父亲的……",
+      "suppliedText": "J'aurais nu sans relâche, nous avons répété et la première représentation fut un grand succès. Mais le bonheur de Jean-Baptiste fut gâché par l'absence de",
+      "sourceLineId": "moliere-timed-749",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 8,
+        "sourceLineNumber": 749,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Son père que l'on disait en fort mauvaise santé. Et figurez-vous que ce n'est pas tout car le lendemain, juste avant que le rideau ne se lève enfin,",
+      "start": 15,
+      "ipa": "[sɔ̃ pɛʁ kə lɔ̃ dizɛ ɑ̃ fɔʁ movɛz sɑ̃te e fiɡyʁevu kə sə nɛ pa tu kaʁ lə lɑ̃dmɛ̃ ʒyst‿avɑ̃ kə lə ʁido nə sə lɛv‿ɑ̃fɛ̃]",
+      "ear": "松 佩赫 克 隆 迪泽 昂 佛赫 莫韦兹 桑特 诶 菲吉于赫乌 克 瑟 奈 帕 图 卡赫 勒 朗德曼 日于斯特 阿旺 克 勒 希多 讷 瑟 莱弗 昂凡",
+      "meaning": "缺席搅乱，听说父亲病得很重。还不止如此：第二天开幕之前……",
+      "suppliedText": "son père que l'on disait en fort mauvaise santé. Et figurez-vous que ce n'est pas tout car le lendemain, juste avant que le rideau ne se lève enfin,",
+      "sourceLineId": "moliere-timed-750",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 15,
+        "sourceLineNumber": 750,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Jean-Baptiste, regarde ! Mesdames et messieurs, attention, il n'y aura plus de représentation. Notre Tartuffe est…",
+      "start": 23,
+      "ipa": "[ʒɑ̃batist ʁəɡaʁd medam e mesjø atɑ̃sjɔ̃ il ni oʁa ply də ʁəpʁezɑ̃tasjɔ̃ notʁ taʁtyf‿ɛ]",
+      "ear": "让巴蒂斯特 赫嘎赫德 梅达姆 诶 梅斯耶厄 阿唐斯耶翁 伊勒 尼 奥哈 普吕 德 赫普赫赞塔斯耶翁 诺特赫 塔赫蒂于弗 艾",
+      "meaning": "让-巴蒂斯特，看！女士们、先生们，演出取消，《伪君子》……",
+      "suppliedText": "Jean-Baptiste regarde. Mesdames et messieurs, attention, il y aura plus de représentation. Notre guest Arthur est",
+      "sourceLineId": "moliere-timed-751",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 23,
+        "sourceLineNumber": 751,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Toujours sous le coup de l'interdiction. Non, pas question ! Le roi nous a donné sa permission.",
+      "start": 31,
+      "ipa": "[tuʒuʁ su lə ku də lɛ̃tɛʁdiksjɔ̃ nɔ̃ pa kɛstjɔ̃ lə ʁwa nuz‿a dɔne sa pɛʁmisjɔ̃]",
+      "ear": "图茹赫 苏 勒 库 德 兰泰赫迪克斯耶翁 农 帕 凯斯特耶翁 勒 赫乌阿 努兹 阿 多内 萨 佩赫米斯耶翁",
+      "meaning": "仍在禁演令之下。——不行，国王已经准许！",
+      "suppliedText": "toujours sous le coup de l'interviction. Non, pas question. Le roi nous a donné sa permission.",
+      "sourceLineId": "moliere-timed-752",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 31,
+        "sourceLineNumber": 752,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Avez-vous un écrit ? Non, il me l'a dit.",
+      "start": 39,
+      "ipa": "[avevu œ̃n‿ekʁi nɔ̃ il mə la di]",
+      "ear": "阿韦乌 恩恩 诶克希 农 伊勒 默 拉 迪",
+      "meaning": "有书面许可吗？——没有，是他亲口说的。",
+      "suppliedText": "Avez-vous un écrit ? Non, il me l'a dit.",
+      "sourceLineId": "moliere-timed-753",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 39,
+        "sourceLineNumber": 753,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Ah, ça c'est bien dommage. Moi un de périfix en ma qualité d'évêque de je décrète l'interdiction. Je fais",
+      "start": 42,
+      "ipa": "[a sa sɛ bjɛ̃ dɔmaʒ mwa œ̃ də peʁifiks‿ɑ̃ ma kalite devɛk də ʒə dekʁɛt lɛ̃tɛʁdiksjɔ̃ ʒə fɛ]",
+      "ear": "阿 萨 塞 布耶安 多玛日 姆乌阿 恩 德 佩希菲克斯 昂 玛 卡利特 德韦克 德 热 德克赫特 兰泰赫迪克斯耶翁 热 费",
+      "meaning": "真可惜。我……以主教的身份，宣布禁止……（姓名和辖区识别不清）",
+      "suppliedText": "Ah, ça c'est bien dommage. Moi un de périfix en ma qualité d'évêque de je décrète l'interdiction. Je fais",
+      "sourceLineId": "moliere-timed-754",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 42,
+        "sourceLineNumber": 754,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "L'excommunication de voir représenter la pièce intitulée Tartuffe ou l'Imposteur. Ah !",
+      "start": 51,
+      "ipa": "[lɛkskɔmynikasjɔ̃ də vwaʁ ʁəpʁezɑ̃te la pjɛs‿ɛ̃tityle taʁtyf‿u lɛ̃pɔstœʁ a]",
+      "ear": "莱克斯科米于尼卡斯耶翁 德 弗乌阿赫 赫普赫赞特 拉 普耶艾斯 安蒂蒂于莱 塔赫蒂于弗 乌 兰珀斯特厄赫 阿",
+      "meaning": "观看《伪君子，或骗子》的演出，违者将受绝罚。",
+      "suppliedText": "l'excommunication de voir représenter la pièce intitulée Tartu ou le booster. Ah.",
+      "sourceLineId": "moliere-timed-755",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 51,
+        "sourceLineNumber": 755,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

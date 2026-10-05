@@ -10,14 +10,50 @@
   "musicalId": "moliere",
   "trackNumber": 34,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Sa majesté m'a traité sans aucun égard.",
+      "start": 5,
+      "duration": 2
+    },
+    {
+      "text": "Il m'a pas adressé un seul mot un seul regard. Pourtant, je lui ai donné ma confiance en espérant bénéficier de sa bienveillance. Je me suis livré à lui en",
+      "start": 7,
+      "duration": 9
+    },
+    {
+      "text": "Pleurant sa clémence. Je n'ai cessé de plaider ma cause à toute innocence. Mais bien sûr, tout était joué d'avance. Je n'ai jamais su la moindre chance.",
+      "start": 16,
+      "duration": 11
+    },
+    {
+      "text": "De sang ne vous fiez jamais troppuissant. Comment aje croire que le",
+      "start": 27,
+      "duration": 7
+    },
+    {
+      "text": "Roi était libre penseur ? Il n'est en fait que le prisonnier des senseurs de ces hypocrites qui se servent du Seigneur. Ah pour attisrer leur peu.",
+      "start": 34,
+      "duration": 8
+    },
+    {
+      "text": "Ouais. Homme de peup de l'abit de sang. Ne vous fiez jamais puissant.",
+      "start": 42,
+      "duration": 10
+    },
+    {
+      "text": "Jean-Baptiste.",
+      "start": 52,
+      "duration": 2
+    }
+  ],
   "playbackVideoId": "Bka3XAUsNwo",
   "sourceURL": "https://www.youtube.com/watch?v=Bka3XAUsNwo",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=Bka3XAUsNwo",
@@ -60,10 +96,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250329",
   "productionYear": 2023,
@@ -108,5 +144,47 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 686,
+      "start": 5,
+      "text": "Sa majesté m'a traité sans aucun égard."
+    },
+    {
+      "sourceLine": 687,
+      "start": 7,
+      "text": "Il m'a pas adressé un seul mot un seul regard. Pourtant, je lui ai donné ma confiance en espérant bénéficier de sa bienveillance. Je me suis livré à lui en"
+    },
+    {
+      "sourceLine": 688,
+      "start": 16,
+      "text": "pleurant sa clémence. Je n'ai cessé de plaider ma cause à toute innocence. Mais bien sûr, tout était joué d'avance. Je n'ai jamais su la moindre chance."
+    },
+    {
+      "sourceLine": 689,
+      "start": 27,
+      "text": "de sang ne vous fiez jamais troppuissant. Comment aje croire que le"
+    },
+    {
+      "sourceLine": 690,
+      "start": 34,
+      "text": "roi était libre penseur ? Il n'est en fait que le prisonnier des senseurs de ces hypocrites qui se servent du Seigneur. Ah pour attisrer leur peu."
+    },
+    {
+      "sourceLine": 691,
+      "start": 42,
+      "text": "Ouais. Homme de peup de l'abit de sang. Ne vous fiez jamais puissant."
+    },
+    {
+      "sourceLine": 692,
+      "start": 52,
+      "text": "Jean-Baptiste."
+    }
+  ]
 }

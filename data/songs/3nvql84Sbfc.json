@@ -10,14 +10,100 @@
   "musicalId": "moliere",
   "trackNumber": 26,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "On dit que ceux qui se ressemblent souvent s'assemblent. Il y a les gens d'en haut et les…",
+      "start": 8,
+      "duration": 6
+    },
+    {
+      "text": "Gens d'en bas. S'ils ne veulent pas qu'on soit ensemble, que leurs mains tremblent. On…",
+      "start": 14,
+      "duration": 7
+    },
+    {
+      "text": "N'arrête pas un cœur qui va seque on se de ce qu'il pens les provoque pour perd",
+      "start": 21,
+      "duration": 10
+    },
+    {
+      "text": "On se moque oui on se moque de ceux qui pens à quelle époque C nos différence oh",
+      "start": 31,
+      "duration": 7
+    },
+    {
+      "text": "Mon amour, tu es ma chance. Si je renonce…",
+      "start": 38,
+      "duration": 9
+    },
+    {
+      "text": "… Ma robe blanche est la réponse à leurs offenses.",
+      "start": 47,
+      "duration": 16
+    },
+    {
+      "text": "Tous les hommes ne sont pas des anges qu'est-ce que ça change qu'on goûte fruit de notre passion pourquoi fautil",
+      "start": 63,
+      "duration": 9
+    },
+    {
+      "text": "Que ça dérange se mélangetion on se moque on se moque de P",
+      "start": 72,
+      "duration": 9
+    },
+    {
+      "text": "Les Provo pour perdavance on se moque oui on se moque de ce qui pens",
+      "start": 81,
+      "duration": 9
+    },
+    {
+      "text": "Célébrons n différents oh mon amant et ma chance et je renonce que",
+      "start": 90,
+      "duration": 9
+    },
+    {
+      "text": "Rien n'a de sens. Oh, mon amour, ma robe blanche est la réponse à leurs…",
+      "start": 99,
+      "duration": 10
+    },
+    {
+      "text": "Offenses je vois dans leurs yeux la ainé le feu mais de leur colère on se joue",
+      "start": 116,
+      "duration": 7
+    },
+    {
+      "text": "Tant que notre amour est fou il défira tout les oir on crira sur tous les toit tu es ma chance et rien na d'importance",
+      "start": 123,
+      "duration": 10
+    },
+    {
+      "text": "Oh, mon amour, tu es ma chance. Si je renonce, plus rien n'a de sens. Oh, mon…",
+      "start": 133,
+      "duration": 9
+    },
+    {
+      "text": "Amour, ma robe blanche est la réponse à leurs offenses. Oh, mon…",
+      "start": 142,
+      "duration": 8
+    },
+    {
+      "text": "Amour, tu es ma chance. Si je renonce… Oh, mon amour, la…",
+      "start": 150,
+      "duration": 8
+    },
+    {
+      "text": "Robe blanche est la réponse à leurs offenses. Oh, mon amour…",
+      "start": 158,
+      "duration": 8
+    }
+  ],
   "playbackVideoId": "3nvql84Sbfc",
   "sourceURL": "https://www.youtube.com/watch?v=3nvql84Sbfc",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=3nvql84Sbfc",
@@ -112,10 +198,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250316",
   "productionYear": 2023,
@@ -208,5 +294,112 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 527,
+      "start": 8,
+      "text": "on dit que ce qui se ressemble souvent ça semble il a les gens d'en haut et les"
+    },
+    {
+      "sourceLine": 528,
+      "start": 14,
+      "text": "gens bas s'ils ne veulent pas qu'on soit ensemble que leur main tremble on"
+    },
+    {
+      "sourceLine": 529,
+      "start": 21,
+      "text": "n'arrête pas un cœur qui va seque on se de ce qu'il pens les provoque pour perd"
+    },
+    {
+      "sourceLine": 530,
+      "start": 31,
+      "text": "on se moque oui on se moque de ceux qui pens à quelle époque C nos différence oh"
+    },
+    {
+      "sourceLine": 531,
+      "start": 38,
+      "text": "mon amour tu es ma chance si je renonce a de"
+    },
+    {
+      "sourceLine": 532,
+      "start": 47,
+      "text": "s ma robe blanche et la réponse à leurs offenses"
+    },
+    {
+      "sourceLine": 533,
+      "start": 63,
+      "text": "tous les hommes ne sont pas des anges qu'est-ce que ça change qu'on goûte fruit de notre passion pourquoi fautil"
+    },
+    {
+      "sourceLine": 534,
+      "start": 72,
+      "text": "que ça dérange se mélangetion on se moque on se moque de P"
+    },
+    {
+      "sourceLine": 535,
+      "start": 81,
+      "text": "les Provo pour perdavance on se moque oui on se moque de ce qui pens"
+    },
+    {
+      "sourceLine": 536,
+      "start": 90,
+      "text": "célébrons n différents oh mon amant et ma chance et je renonce que"
+    },
+    {
+      "sourceLine": 537,
+      "start": 99,
+      "text": "rien n de sens oh mon amour ma robe blanche et la répondse à leurs"
+    },
+    {
+      "sourceLine": 538,
+      "start": 109,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 539,
+      "start": 116,
+      "text": "offenses je vois dans leurs yeux la ainé le feu mais de leur colère on se joue"
+    },
+    {
+      "sourceLine": 540,
+      "start": 123,
+      "text": "tant que notre amour est fou il défira tout les oir on crira sur tous les toit tu es ma chance et rien na d'importance"
+    },
+    {
+      "sourceLine": 541,
+      "start": 133,
+      "text": "oh mon amour tu es ma chance si je renonce plus rien n'a de sens oh mon"
+    },
+    {
+      "sourceLine": 542,
+      "start": 142,
+      "text": "amour ma robe blanche et la réponse à leurs offenses oh mon"
+    },
+    {
+      "sourceLine": 543,
+      "start": 150,
+      "text": "tu es ma chance si je renonce on a le sens oh mon amour la"
+    },
+    {
+      "sourceLine": 544,
+      "start": 158,
+      "text": "robe blanche et la réponse à leur offance en mon amour"
+    },
+    {
+      "sourceLine": 545,
+      "start": 166,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 546,
+      "start": 167,
+      "text": "[Applaudissements]"
+    }
+  ]
 }

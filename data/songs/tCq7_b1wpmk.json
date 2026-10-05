@@ -10,14 +10,145 @@
   "musicalId": "moliere",
   "trackNumber": 11,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Nous sommes à nouveau vagabonds. Nous devons prendre une décision. Sans protecteur, nous ne pourrons survivre.",
+      "start": 10,
+      "duration": 8
+    },
+    {
+      "text": "Hein Charles quelle est la voix à suivre Charles Charles nous allons t seul",
+      "start": 18,
+      "duration": 7
+    },
+    {
+      "text": "Adhérir plusieurs personnes m'ont rapporté que le a été épargné on y",
+      "start": 25,
+      "duration": 7
+    },
+    {
+      "text": "Organise des festivités Charles si on y allait Charles char montre-nous la voix",
+      "start": 32,
+      "duration": 9
+    },
+    {
+      "text": "À suiv chers amis écoutez et comprenez mon temps est passé je suis très fatigué cette troupe que j'ai créé je ne peux",
+      "start": 41,
+      "duration": 8
+    },
+    {
+      "text": "Plus la diriger il est temps pour moi de me retirer mais qui va te remplacer nous",
+      "start": 49,
+      "duration": 9
+    },
+    {
+      "text": "Faut quelqu'un qui est de l'expérience un fort caractère et du bon sens je vous propose",
+      "start": 58,
+      "duration": 7
+    },
+    {
+      "text": "Madeleine merci Charles pour ta confiance mais ce serait faire preuve d'imprudence que de confier à une femme",
+      "start": 65,
+      "duration": 7
+    },
+    {
+      "text": "Cette responsabilité. Nous ne sommes pas encore au vingt et unième siècle. Il nous faut un homme jeune, talentueux, insouciant et…",
+      "start": 72,
+      "duration": 13
+    },
+    {
+      "text": "Ambitieux je n'ai pas encore 30 ans j'ai besoin de nous n'avons pas le temps je",
+      "start": 85,
+      "duration": 6
+    },
+    {
+      "text": "N'ai pas encore 30 ans mais laissez-moi le temps nous n'avons pas le temps tu sais comment parler aux puissant et",
+      "start": 91,
+      "duration": 8
+    },
+    {
+      "text": "Jouer avec leur vanité mais je n'ai pas encore 30 ans non je crains de ne pas y arriver les",
+      "start": 99,
+      "duration": 8
+    },
+    {
+      "text": "Les amis, les amis, regardez ! Je m'appelle… Du Parc et je suis acrobate. J'ai décidé…",
+      "start": 107,
+      "duration": 9
+    },
+    {
+      "text": "De changer de vie. Moi, je veux faire du théâtre. Je ne suis pas encore comédienne…",
+      "start": 116,
+      "duration": 7
+    },
+    {
+      "text": "Mais j'ai de l'ambition engagez-moi et je serai à la hauteur de votre réputation mademoiselle vous êtes sans",
+      "start": 123,
+      "duration": 9
+    },
+    {
+      "text": "Aucun doute fait pour ce métier mais nous n'avons pas les moyens de vous engager étant donné que j'ai décidé de me retirer ce n'est plus à moi de",
+      "start": 132,
+      "duration": 8
+    },
+    {
+      "text": "Décider alors Jean-Baptiste avoue que ce sera du gachi cette femme a des atouts que j'en suis sûr tu apprécies que peut-il dire il n'est pas le chef de la",
+      "start": 140,
+      "duration": 9
+    },
+    {
+      "text": "Troupe ah et oui et bien si si je vous annonce que j'accepte de diriger la troupe et ma première décision est de",
+      "start": 149,
+      "duration": 7
+    },
+    {
+      "text": "Faire une heureuse : j'engage cette jeune comédienne très prometteuse. Mademoiselle, vous êtes d'une beauté exquise. Désormais…",
+      "start": 156,
+      "duration": 7
+    },
+    {
+      "text": "Nous vous appellerons marquise cette demoiselle va susciter des convoitises il faut de se pas la marier à l'église",
+      "start": 163,
+      "duration": 8
+    },
+    {
+      "text": "Quoi ne protestez pas chè marquis chez nous le mariage est une condition requise et à qui voulez-vous me marier",
+      "start": 171,
+      "duration": 7
+    },
+    {
+      "text": "Ah, notre Apollon ! Louis Béjart ? René ? René ? Mais René, c'est moi ! J'accepte ! J'accepte ! Et comment comptez-vous me…",
+      "start": 178,
+      "duration": 9
+    },
+    {
+      "text": "Séduire ? Que je t'aime, que je t'aime, que je t'aime ! Non, pas touche à Johnny ! Et vous…",
+      "start": 187,
+      "duration": 7
+    },
+    {
+      "text": "Louis que chanteriez-vous pour me séduire belle marquise beau jeux me font mourir d'amour B je beau d'amour me font",
+      "start": 194,
+      "duration": 10
+    },
+    {
+      "text": "Belle marquise font me font V beau yeux marquise amour charmante déclaration Louis",
+      "start": 204,
+      "duration": 7
+    },
+    {
+      "text": "Marquise si tu allais rejoindre ton futur épou",
+      "start": 211,
+      "duration": 3
+    }
+  ],
   "playbackVideoId": "tCq7_b1wpmk",
   "sourceURL": "https://www.youtube.com/watch?v=tCq7_b1wpmk",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=tCq7_b1wpmk",
@@ -144,10 +275,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250310",
   "productionYear": 2023,
@@ -272,5 +403,152 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 209,
+      "start": 0,
+      "text": "[Applaudissements]"
+    },
+    {
+      "sourceLine": 210,
+      "start": 4,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 211,
+      "start": 10,
+      "text": "nous sommes un nouveau vacabond nous devons prendre une décision sans protecteur nous ne pourrons survivre"
+    },
+    {
+      "sourceLine": 212,
+      "start": 18,
+      "text": "hein Charles quelle est la voix à suivre Charles Charles nous allons t seul"
+    },
+    {
+      "sourceLine": 213,
+      "start": 25,
+      "text": "adhérir plusieurs personnes m'ont rapporté que le a été épargné on y"
+    },
+    {
+      "sourceLine": 214,
+      "start": 32,
+      "text": "organise des festivités Charles si on y allait Charles char montre-nous la voix"
+    },
+    {
+      "sourceLine": 215,
+      "start": 41,
+      "text": "à suiv chers amis écoutez et comprenez mon temps est passé je suis très fatigué cette troupe que j'ai créé je ne peux"
+    },
+    {
+      "sourceLine": 216,
+      "start": 49,
+      "text": "plus la diriger il est temps pour moi de me retirer mais qui va te remplacer nous"
+    },
+    {
+      "sourceLine": 217,
+      "start": 58,
+      "text": "faut quelqu'un qui est de l'expérience un fort caractère et du bon sens je vous propose"
+    },
+    {
+      "sourceLine": 218,
+      "start": 65,
+      "text": "Madeleine merci Charles pour ta confiance mais ce serait faire preuve d'imprudence que de confier à une femme"
+    },
+    {
+      "sourceLine": 219,
+      "start": 72,
+      "text": "cette responsabilité nous ne sommes pas encore au 21e siècle il nous faut un homme jeune talentueux insouciant et"
+    },
+    {
+      "sourceLine": 220,
+      "start": 85,
+      "text": "ambitieux je n'ai pas encore 30 ans j'ai besoin de nous n'avons pas le temps je"
+    },
+    {
+      "sourceLine": 221,
+      "start": 91,
+      "text": "n'ai pas encore 30 ans mais laissez-moi le temps nous n'avons pas le temps tu sais comment parler aux puissant et"
+    },
+    {
+      "sourceLine": 222,
+      "start": 99,
+      "text": "jouer avec leur vanité mais je n'ai pas encore 30 ans non je crains de ne pas y arriver les"
+    },
+    {
+      "sourceLine": 223,
+      "start": 107,
+      "text": "amis les amis regardez je m'appelle thigorla et je suis acrobate j'ai décidé"
+    },
+    {
+      "sourceLine": 224,
+      "start": 116,
+      "text": "de changer de vie moi je veux faire thâtre je ne suis pas encore comédienne"
+    },
+    {
+      "sourceLine": 225,
+      "start": 123,
+      "text": "mais j'ai de l'ambition engagez-moi et je serai à la hauteur de votre réputation mademoiselle vous êtes sans"
+    },
+    {
+      "sourceLine": 226,
+      "start": 132,
+      "text": "aucun doute fait pour ce métier mais nous n'avons pas les moyens de vous engager étant donné que j'ai décidé de me retirer ce n'est plus à moi de"
+    },
+    {
+      "sourceLine": 227,
+      "start": 140,
+      "text": "décider alors Jean-Baptiste avoue que ce sera du gachi cette femme a des atouts que j'en suis sûr tu apprécies que peut-il dire il n'est pas le chef de la"
+    },
+    {
+      "sourceLine": 228,
+      "start": 149,
+      "text": "troupe ah et oui et bien si si je vous annonce que j'accepte de diriger la troupe et ma première décision est de"
+    },
+    {
+      "sourceLine": 229,
+      "start": 156,
+      "text": "faire une heureux j'engage cette jeune comédienne très prometteuse mademoiselle vous êtes Dee beauté exquise désormais"
+    },
+    {
+      "sourceLine": 230,
+      "start": 163,
+      "text": "nous vous appellerons marquise cette demoiselle va susciter des convoitises il faut de se pas la marier à l'église"
+    },
+    {
+      "sourceLine": 231,
+      "start": 171,
+      "text": "quoi ne protestez pas chè marquis chez nous le mariage est une condition requise et à qui voulez-vous me marier"
+    },
+    {
+      "sourceLine": 232,
+      "start": 178,
+      "text": "ah notre apolon Louis be René be René mais be René c'est moi j'accepte j'accepte et comment comptez-vous me"
+    },
+    {
+      "sourceLine": 233,
+      "start": 187,
+      "text": "séduire que je t'aime que je t'aime que je t'aime non pas touch à Johnny et vous"
+    },
+    {
+      "sourceLine": 234,
+      "start": 194,
+      "text": "Louis que chanteriez-vous pour me séduire belle marquise beau jeux me font mourir d'amour B je beau d'amour me font"
+    },
+    {
+      "sourceLine": 235,
+      "start": 204,
+      "text": "belle marquise font me font V beau yeux marquise amour charmante déclaration Louis"
+    },
+    {
+      "sourceLine": 236,
+      "start": 211,
+      "text": "marquise si tu allais rejoindre ton futur épou"
+    }
+  ]
 }

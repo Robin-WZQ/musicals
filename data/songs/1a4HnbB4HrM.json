@@ -10,14 +10,80 @@
   "musicalId": "moliere",
   "trackNumber": 35,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Non, non, ne dis rien, non, ne dis rien. Tous les mots sont…",
+      "start": 1,
+      "duration": 9
+    },
+    {
+      "text": "Inutiles. Tu sais bien, oui, tu sais bien que tout le reste est…",
+      "start": 10,
+      "duration": 8
+    },
+    {
+      "text": "Futile. Ne dis rien, non, ne dis rien. Pleurer est plus…",
+      "start": 18,
+      "duration": 8
+    },
+    {
+      "text": "Facile. Tu sais bien que tu n'y peux rien. La vie est…",
+      "start": 26,
+      "duration": 8
+    },
+    {
+      "text": "Fragile. Comment supporter l'insupportable quand la douleur… ?",
+      "start": 34,
+      "duration": 8
+    },
+    {
+      "text": "… Comment justifier l'injustifiable quand l'innocence…",
+      "start": 42,
+      "duration": 6
+    },
+    {
+      "text": "… Et comment accepter l'inacceptable quand on a épuisé toutes…",
+      "start": 48,
+      "duration": 10
+    },
+    {
+      "text": "Les larmes ? Alors on se désigne comme seul coupable. On devient celui que l'on…",
+      "start": 58,
+      "duration": 11
+    },
+    {
+      "text": "Blâme. Ne dis rien, non, ne dis rien. Tous les mots sont…",
+      "start": 69,
+      "duration": 8
+    },
+    {
+      "text": "Inutiles. Tu sais bien, oui, tu sais bien que tout le reste est…",
+      "start": 77,
+      "duration": 9
+    },
+    {
+      "text": "Futile. Ne dis rien, non, ne dis rien. Pleurer est plus…",
+      "start": 86,
+      "duration": 8
+    },
+    {
+      "text": "Facile. Tu sais bien que tu n'y peux rien. La vie est…",
+      "start": 94,
+      "duration": 9
+    },
+    {
+      "text": "Fragile. Ne dis rien.",
+      "start": 103,
+      "duration": 48
+    }
+  ],
   "playbackVideoId": "1a4HnbB4HrM",
   "sourceURL": "https://www.youtube.com/watch?v=1a4HnbB4HrM",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=1a4HnbB4HrM",
@@ -84,10 +150,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250329",
   "productionYear": 2023,
@@ -156,5 +222,77 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 694,
+      "start": 1,
+      "text": "non non ne dis rien non ne dis rien tous les mots sont"
+    },
+    {
+      "sourceLine": 695,
+      "start": 10,
+      "text": "inutiles tu sais bien oui tu sais bien que tout le reste est"
+    },
+    {
+      "sourceLine": 696,
+      "start": 18,
+      "text": "futile ne dis rien non ne dis rien pleurer est plus"
+    },
+    {
+      "sourceLine": 697,
+      "start": 26,
+      "text": "facile tu sais bien que tu il peut rien la vie est"
+    },
+    {
+      "sourceLine": 698,
+      "start": 34,
+      "text": "fragile comment supporter l'insupportable quand la douleur la SER"
+    },
+    {
+      "sourceLine": 699,
+      "start": 42,
+      "text": "là comment justifier l'injustifiable quand l'innocence que"
+    },
+    {
+      "sourceLine": 700,
+      "start": 48,
+      "text": "toit la femme et comment accepter l'inacceptable quand on a é puisé toutes"
+    },
+    {
+      "sourceLine": 701,
+      "start": 58,
+      "text": "les lâes alors on se désigne comme seul coupable on devient celui que l'on"
+    },
+    {
+      "sourceLine": 702,
+      "start": 69,
+      "text": "blâ ne dis rien on ne dit rien tous les mots sont"
+    },
+    {
+      "sourceLine": 703,
+      "start": 77,
+      "text": "inutille tu sais bien oui tu sais bien que tout le reste est"
+    },
+    {
+      "sourceLine": 704,
+      "start": 86,
+      "text": "futile ne dis rien non ne dit rien plusurer est plus"
+    },
+    {
+      "sourceLine": 705,
+      "start": 94,
+      "text": "facile tu sais bien que tu n'y rien la vie est"
+    },
+    {
+      "sourceLine": 706,
+      "start": 103,
+      "text": "Brasile ne dis rien"
+    }
+  ]
 }

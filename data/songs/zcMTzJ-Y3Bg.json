@@ -10,14 +10,85 @@
   "musicalId": "moliere",
   "trackNumber": 9,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Jean-Baptiste, mon enfant, ton silence m'inquiète. Cela fait longtemps que je n'ai eu la moindre lettre. On dit que d'Épernon, la Guyenne s'est défaite.",
+      "start": 7,
+      "duration": 11
+    },
+    {
+      "text": "Mazarin l'a contraint à la retraite. Père, je vous supplie de ne…",
+      "start": 18,
+      "duration": 9
+    },
+    {
+      "text": "Pas vous tourmenter. Il n'y a aucune raison de vous inquiéter. Depuis que",
+      "start": 27,
+      "duration": 6
+    },
+    {
+      "text": "D'Épernon nous a libérés, nous courons de succès en succès.",
+      "start": 33,
+      "duration": 8
+    },
+    {
+      "text": "Mais tu n'as jamais d'essayer j'aurais",
+      "start": 43,
+      "duration": 6
+    },
+    {
+      "text": "Tantôé mais tu avais tenté tant de rêve trop grand pour trouver le",
+      "start": 49,
+      "duration": 9
+    },
+    {
+      "text": "Temps de demander pardon.",
+      "start": 58,
+      "duration": 6
+    },
+    {
+      "text": "Non, je ne crois pas à ce que tu m'écris. Tu cours l'échec tel que je l'ai prédit. Tu n'as jamais été capable",
+      "start": 64,
+      "duration": 10
+    },
+    {
+      "text": "De t'assumer. Renonce à tes chimères et viens me retrouver. J'aimerais tellement",
+      "start": 74,
+      "duration": 6
+    },
+    {
+      "text": "Briser ta défiance, de prouver que je mérite ta confiance mais tu ne m'as jamais donné l'occasion de te révéler.",
+      "start": 80,
+      "duration": 12
+    },
+    {
+      "text": "Ma passion mais tu n'as jamais tant d'essayé j'aurais",
+      "start": 92,
+      "duration": 6
+    },
+    {
+      "text": "Tant pas dégoûter mais tu avais dans des temps de rêve trop grand pour trouver le",
+      "start": 98,
+      "duration": 10
+    },
+    {
+      "text": "Temps de demander pardon si tu peux pas que je m'isole",
+      "start": 108,
+      "duration": 8
+    },
+    {
+      "text": "Tous les soirs pour écrire des histoires qui je l'espère te rendront fier Car oui, un jour on jouera les pièces de Monsieur Molière.",
+      "start": 116,
+      "duration": 12
+    }
+  ],
   "playbackVideoId": "zcMTzJ-Y3Bg",
   "sourceURL": "https://www.youtube.com/watch?v=zcMTzJ-Y3Bg",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=zcMTzJ-Y3Bg",
@@ -96,10 +167,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250309",
   "productionYear": 2023,
@@ -176,5 +247,92 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 176,
+      "start": 0,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 177,
+      "start": 7,
+      "text": "Jean-Baptiste, mon enfant, ton silence m'inquiète. Cela fait longtemps que je n'ai eu la moindre lettre. On dit que des pernant la cuillenne s'est défaite."
+    },
+    {
+      "sourceLine": 178,
+      "start": 18,
+      "text": "Mazarin la contre à la retraite. Père, je vous supplie de ne"
+    },
+    {
+      "sourceLine": 179,
+      "start": 27,
+      "text": "pas vous tourmenter. Il n'y a aucune raison de vous inquiéter. Depuis que"
+    },
+    {
+      "sourceLine": 180,
+      "start": 33,
+      "text": "pernant nous a libéré, nous courons de succès en succès."
+    },
+    {
+      "sourceLine": 181,
+      "start": 41,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 182,
+      "start": 43,
+      "text": "Mais tu n'as jamais d'essayer j'aurais"
+    },
+    {
+      "sourceLine": 183,
+      "start": 49,
+      "text": "tantôé mais tu avais tenté tant de rêve trop grand pour trouver le"
+    },
+    {
+      "sourceLine": 184,
+      "start": 58,
+      "text": "temps de demander pardon."
+    },
+    {
+      "sourceLine": 185,
+      "start": 64,
+      "text": "Non, je ne crois pas à ce que tu m'écris. Tu cours l'échec tel que je l'ai prédit. Tu n'as jamais été capable"
+    },
+    {
+      "sourceLine": 186,
+      "start": 74,
+      "text": "de t'assumer. Renonce à tes chimères et viens me retrouver. J'aimerais tellement"
+    },
+    {
+      "sourceLine": 187,
+      "start": 80,
+      "text": "briser ta défiance, de prouver que je mérite ta confiance mais tu ne m'as jamais donné l'occasion de te révéler."
+    },
+    {
+      "sourceLine": 188,
+      "start": 92,
+      "text": "ma passion mais tu n'as jamais tant d'essayé j'aurais"
+    },
+    {
+      "sourceLine": 189,
+      "start": 98,
+      "text": "tant pas dégoûter mais tu avais dans des temps de rêve trop grand pour trouver le"
+    },
+    {
+      "sourceLine": 190,
+      "start": 108,
+      "text": "temps de demander pardon si tu peux pas que je m'isole"
+    },
+    {
+      "sourceLine": 191,
+      "start": 116,
+      "text": "tous les soirs pour écrire des histoires qui je l'espère te rendront fier Car oui, un jour on jouera les pièces de Monsieur Molière."
+    }
+  ]
 }

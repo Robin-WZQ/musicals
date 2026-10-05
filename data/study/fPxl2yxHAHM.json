@@ -1,0 +1,277 @@
+{
+  "videoId": "fPxl2yxHAHM",
+  "playbackVideoId": "fPxl2yxHAHM",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=fPxl2yxHAHM"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Alors on a marché pendant de longues semaines marché enortant avec nous les décors et les costumes qui nous restaient mais à notre arrivée chez le",
+      "start": 5,
+      "ipa": "[alɔʁ‿ɔ̃n‿a maʁʃe pɑ̃dɑ̃ də lɔ̃ɡ səmɛn maʁʃe ɑ̃nɔʁtɑ̃ avɛk nu le dekɔʁ e le kɔstym ki nu ʁɛstɛ mɛ a notʁ‿aʁive ʃe lə]",
+      "ear": "阿洛赫 翁恩 阿 玛赫谢 庞当 德 隆格 瑟梅恩 玛赫谢 昂诺赫唐 阿韦克 努 莱 德科赫 诶 莱 科斯蒂于姆 基 努 赫斯泰 梅 阿 诺特赫 阿希韦 谢 勒",
+      "meaning": "我们走了好几个星期，带着剩下的布景和戏服。可到了……",
+      "suppliedText": "alors on a marché pendant de longues semaines marché enortant avec nous les décors et les costumes qui nous restaient mais à notre arrivée chez le",
+      "sourceLineId": "moliere-timed-144",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5,
+        "sourceLineNumber": 144,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Duc d'Épernon, Charles Dufresne ne nous a pas accueillis comme nous l'espérions. Bien chère Madeleine, mais qui sont tous ces…",
+      "start": 13,
+      "ipa": "[dyk depɛʁnɔ̃ ʃaʁl dyfʁɛsn nə nuz‿a pa akœji kɔm nu lɛspeʁjɔ̃ bjɛ̃ ʃɛʁ madlɛn mɛ ki sɔ̃ tu se]",
+      "ear": "迪于克 德佩赫农 沙赫勒 迪于弗赫斯恩 讷 努兹 阿 帕 阿克厄耶伊 科姆 努 莱斯佩赫耶翁 布耶安 谢赫 玛德莱恩 梅 基 松 图 塞",
+      "meaning": "埃佩尔农公爵那里，夏尔·迪弗雷纳并没像我们期待的那样欢迎我们。——亲爱的玛德莱娜，这些……",
+      "suppliedText": "duc des Pern Charles dufine ne nous a pas accueilli comme nous l'espérions bien chère Mad mais qui sont tous ces",
+      "sourceLineId": "moliere-timed-145",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 13,
+        "sourceLineNumber": 145,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Gens cher char duf ce sont ma famille et mes compagnons non cela ne se peut le duc m'a autorisé à n'engager qu'un seul",
+      "start": 22,
+      "ipa": "[ʒɑ̃ ʃɛʁ ʃaʁ dyf sə sɔ̃ ma famij e me kɔ̃panjɔ̃ nɔ̃ səla nə sə pø lə dyk ma otoʁize a nɑ̃ɡaʒe kœ̃ sœl]",
+      "ear": "让 谢赫 沙赫 迪于弗 瑟 松 玛 法米耶 诶 梅 孔帕恩耶翁 农 瑟拉 讷 瑟 珀厄 勒 迪于克 玛 奥托希泽 阿 南嘎热 坎 瑟厄勒",
+      "meaning": "都是谁？——夏尔，他们是我的家人和伙伴。——不行，公爵只准我聘用一个……",
+      "suppliedText": "gens cher char duf ce sont ma famille et mes compagnons non cela ne se peut le duc m'a autorisé à n'engager qu'un seul",
+      "sourceLineId": "moliere-timed-146",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 22,
+        "sourceLineNumber": 146,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Comédien je ne lui ai pas laissé le choix soit il engage tous les comédiens soit je rebrou",
+      "start": 29,
+      "ipa": "[komedjɛ̃ ʒə nə lɥi e pa lɛse lə ʃwa swa il‿ɑ̃ɡaʒ tu le komedjɛ̃ swa ʒə ʁəbʁu]",
+      "ear": "科梅德耶安 热 讷 勒于伊 诶 帕 莱塞 勒 什乌阿 斯乌阿 伊勒 昂嘎日 图 莱 科梅德耶安 斯乌阿 热 赫布胡",
+      "meaning": "演员。——我不给他选择，要么收下所有演员，要么我就原路……",
+      "suppliedText": "comédien je ne lui ai pas laissé le choix soit il engage tous les comédiens soit je rebrou",
+      "sourceLineId": "moliere-timed-147",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 29,
+        "sourceLineNumber": 147,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Chemin. Alors Charles Dufresne a essayé de convaincre le duc d'Épernon, et ce dernier a décidé de nous faire passer une audition.",
+      "start": 36,
+      "ipa": "[ʃəmɛ̃ alɔʁ ʃaʁl dyfʁɛsn‿a esɛje də kɔ̃vɛ̃kʁ lə dyk depɛʁnɔ̃ e sə dɛʁnjeʁ‿a deside də nu fɛʁ pase yn‿odisjɔ̃]",
+      "ear": "舍曼 阿洛赫 沙赫勒 迪于弗赫斯恩 阿 诶塞耶诶 德 孔万克赫 勒 迪于克 德佩赫农 诶 瑟 戴赫恩耶诶赫 阿 德西德 德 努 费赫 帕塞 于恩 奥迪斯耶翁",
+      "meaning": "返回。夏尔去说服公爵，公爵决定让我们参加试演。",
+      "suppliedText": "chemins alch du FR a essayé de convaincre le duc des PER et ce dernier a décidé de ne faire passer une audition",
+      "sourceLineId": "moliere-timed-148",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 36,
+        "sourceLineNumber": 148,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Alors on a répété la nuit répé et le lendemain nous avons joué mais à la fin de notre prestation",
+      "start": 43,
+      "ipa": "[alɔʁ‿ɔ̃n‿a ʁepete la nɥi ʁepe e lə lɑ̃dmɛ̃ nuz‿avɔ̃ ʒwe mɛ a la fɛ̃ də notʁ pʁɛstasjɔ̃]",
+      "ear": "阿洛赫 翁恩 阿 赫佩特 拉 恩于伊 赫佩 诶 勒 朗德曼 努兹 阿翁 日乌诶 梅 阿 拉 凡 德 诺特赫 普赫斯塔斯耶翁",
+      "meaning": "我们连夜排练，第二天登台，可演完之后……",
+      "suppliedText": "alors on a répété la nuit répé et le lendemain nous avons joué mais à la fin de notre prestation",
+      "sourceLineId": "moliere-timed-149",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 43,
+        "sourceLineNumber": 149,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Le duc n aucune réaction mon Seigneur nous espérons que notre belle prestation a été à la",
+      "start": 51,
+      "ipa": "[lə dyk‿ɛn‿okyn ʁeaksjɔ̃ mɔ̃ sɛnjœʁ nuz‿ɛspeʁɔ̃ kə notʁ bɛl pʁɛstasjɔ̃ a ete a la]",
+      "ear": "勒 迪于克 艾恩 奥基于恩 赫阿克斯耶翁 蒙 塞恩耶厄赫 努兹 艾斯佩洪 克 诺特赫 贝勒 普赫斯塔斯耶翁 阿 诶特 阿 拉",
+      "meaning": "公爵毫无反应。——大人，希望我们的表演能配得上……",
+      "suppliedText": "le duc n aucune réaction mon Seigneur nous espérons que notre belle prestation a été à la",
+      "sourceLineId": "moliere-timed-150",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 51,
+        "sourceLineNumber": 150,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Hauteur de V ustre réputation car pour des comédiens quelle meilleure récompense que de porter le nom du plus",
+      "start": 58,
+      "ipa": "[otœʁ də ve ystʁ ʁepytasjɔ̃ kaʁ puʁ de komedjɛ̃ kɛl mɛjœʁ ʁekɔ̃pɑ̃s kə də pɔʁte lə nɔ̃ dy ply]",
+      "ear": "奥特厄赫 德 韦 于斯特赫 赫普于塔斯耶翁 卡赫 普赫 德 科梅德耶安 凯勒 梅耶厄赫 赫孔庞斯 克 德 珀赫特 勒 农 迪于 普吕",
+      "meaning": "您的声望。对演员而言，还有什么奖赏比冠上最……",
+      "suppliedText": "hauteur de V ustre réputation car pour des comédiens quelle meilleure récompense que de porter le nom du plus",
+      "sourceLineId": "moliere-timed-151",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 58,
+        "sourceLineNumber": 151,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Glorieux des du de",
+      "start": 66,
+      "ipa": "[ɡloʁjø de dy də]",
+      "ear": "格洛赫耶厄 德 迪于 德",
+      "meaning": "显赫的公爵之名更好……",
+      "suppliedText": "glorieux des du de",
+      "sourceLineId": "moliere-timed-152",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 66,
+        "sourceLineNumber": 152,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "France la protection du duc fut pour nous une bénédiction et à partir de ce moment finit les souc d'argent il",
+      "start": 77,
+      "ipa": "[fʁɑ̃s la pʁotɛksjɔ̃ dy dyk fy puʁ nuz‿yn benediksjɔ̃ e a paʁtiʁ də sə momɑ̃ fini le suk daʁʒɑ̃ il]",
+      "ear": "弗杭斯 拉 普霍泰克斯耶翁 迪于 迪于克 菲于 普赫 努兹 于恩 贝内迪克斯耶翁 诶 阿 帕赫蒂赫 德 瑟 莫芒 菲尼 莱 苏克 达赫让 伊勒",
+      "meaning": "法国……公爵的庇护是一种福气，从此钱的烦恼暂时结束了。",
+      "suppliedText": "France la protection du duc fut pour nous une bénédiction et à partir de ce moment finit les souc d'argent il",
+      "sourceLineId": "moliere-timed-154",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 77,
+        "sourceLineNumber": 154,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Organise des festivités et nous étions invités à jouer et le reste du temps nous étions libres de tourner tant de",
+      "start": 84,
+      "ipa": "[ɔʁɡaniz de fɛstivite e nuz‿etjɔ̃ ɛ̃vite a ʒwe e lə ʁɛst dy tɑ̃ nuz‿etjɔ̃ libʁ də tuʁne tɑ̃ də]",
+      "ear": "哦赫嘎尼兹 德 费斯蒂维特 诶 努兹 诶特耶翁 安维特 阿 日乌诶 诶 勒 赫斯特 迪于 唐 努兹 诶特耶翁 利布赫 德 图赫内 唐 德",
+      "meaning": "他举办庆典，邀请我们演出，其余时候我们能自由巡演。我们走过那么多……",
+      "suppliedText": "organise des festivités et nous étions invités à jouer et le reste du temps nous étions libres de tourner tant de",
+      "sourceLineId": "moliere-timed-155",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 84,
+        "sourceLineNumber": 155,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Villes nous avons visitées : Toulouse… Lyon…",
+      "start": 93,
+      "ipa": "[vil nuz‿avɔ̃ vizite tuluz ljɔ̃]",
+      "ear": "维勒 努兹 阿翁 维齐特 图卢兹 勒耶翁",
+      "meaning": "城市：图卢兹……里昂……（部分地名识别不清）",
+      "suppliedText": "villes nous avons visité Toulouse n al AG Lyon",
+      "sourceLineId": "moliere-timed-156",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 93,
+        "sourceLineNumber": 156,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Bordeaux. Bonjour, je m'appelle Catherine De Brie, jeune comédienne. Je viens d'intégrer la troupe de Charles. J'aime la vie, le rire…",
+      "start": 99,
+      "ipa": "[bɔʁdo bɔ̃ʒuʁ ʒə mapɛl katʁin də bʁi ʒøn komedjɛn ʒə vjɛ̃ dɛ̃teɡʁe la tʁup də ʃaʁl ʒɛm la vi lə ʁiʁ]",
+      "ear": "博赫多 崩茹赫 热 玛佩勒 卡特希恩 德 布希 热厄恩 科梅德耶艾恩 热 弗耶安 丹特格赫 拉 特胡普 德 沙赫勒 热姆 拉 维 勒 希赫",
+      "meaning": "波尔多。大家好，我叫卡特琳·德·布里，刚加入夏尔的剧团。我热爱生活、欢笑……",
+      "suppliedText": "borde bonjour je m'appelle Catherine Deb jeune comédienne je viens d'intégrer la troupe de Charles j'aime la vie le rire",
+      "sourceLineId": "moliere-timed-157",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 99,
+        "sourceLineNumber": 157,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Les gens bon caractère il paraît que j'ai du talent oh oui bienvenue dans la troupe Catherine mon bonheur aurait été",
+      "start": 108,
+      "ipa": "[le ʒɑ̃ bɔ̃ kaʁaktɛʁ‿il paʁɛ kə ʒe dy talɑ̃ ɔ wi bjɛ̃vny dɑ̃ la tʁup katʁin mɔ̃ bɔnœʁ‿oʁɛ ete]",
+      "ear": "莱 让 崩 卡哈克泰赫 伊勒 帕赫 克 热 迪于 塔朗 哦 乌伊 布耶安弗尼于 当 拉 特胡普 卡特希恩 蒙 博讷厄赫 奥赫 诶特",
+      "meaning": "和人们，性格好，据说也有才华。——欢迎加入！——我的幸福本能……",
+      "suppliedText": "les gens bon caractère il paraît que j'ai du talent oh oui bienvenue dans la troupe Catherine mon bonheur aurait été",
+      "sourceLineId": "moliere-timed-158",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 108,
+        "sourceLineNumber": 158,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Complet si pour mon père je n'étais pas inquiet il ne répond pas mes nombreux courriers et on dit qu'à Paris le peuple",
+      "start": 115,
+      "ipa": "[kɔ̃plɛ si puʁ mɔ̃ pɛʁ ʒə netɛ pa ɛ̃kjɛ il nə ʁepɔ̃ pa me nɔ̃bʁø kuʁje e ɔ̃ di ka paʁi lə pøpl]",
+      "ear": "孔普莱 西 普赫 蒙 佩赫 热 内泰 帕 安克耶艾 伊勒 讷 赫蓬 帕 梅 农布赫厄 库赫耶诶 诶 翁 迪 卡 帕希 勒 珀厄普勒",
+      "meaning": "完整，可我担心父亲。他没回我的许多封信，听说巴黎的民众……",
+      "suppliedText": "complet si pour mon père je n'étais pas inquiet il ne répond pas mes nombreux courriers et on dit qu'à Paris le peuple",
+      "sourceLineId": "moliere-timed-159",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 115,
+        "sourceLineNumber": 159,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Gronde on parle d'insurrection et de fronde",
+      "start": 122,
+      "ipa": "[ɡʁɔ̃d‿ɔ̃ paʁl dɛ̃syʁɛksjɔ̃ e də fʁɔ̃d]",
+      "ear": "格洪德 翁 帕赫勒 丹西于赫克斯耶翁 诶 德 弗洪德",
+      "meaning": "正在骚动，人们谈论起义和投石党运动。",
+      "suppliedText": "gronde on parle d'insurrection et de fronde",
+      "sourceLineId": "moliere-timed-160",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 122,
+        "sourceLineNumber": 160,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "videoId": "qa0uKiM4bIY",
+  "playbackVideoId": "qa0uKiM4bIY",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=qa0uKiM4bIY"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Calme-toi.",
+      "start": 19,
+      "ipa": "[kalmtwa]",
+      "ear": "卡勒姆特乌阿",
+      "meaning": "冷静点。",
+      "suppliedText": "Calme-toi.",
+      "sourceLineId": "moliere-timed-709",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 19,
+        "sourceLineNumber": 709,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Armande. Armande. Oh mon tendré bel amour, quelle joie de te retrouver. Oh, je m jour après jour depuis que tu as déserté notre",
+      "start": 23,
+      "ipa": "[aʁmɑ̃d aʁmɑ̃d ɔ mɔ̃ tɑ̃dʁe bɛl‿amuʁ kɛl ʒwa də tə ʁətʁuve ɔ ʒə ɛm ʒuʁ‿apʁɛ ʒuʁ dəpɥi kə ty a dezɛʁte notʁ]",
+      "ear": "阿赫芒德 阿赫芒德 哦 蒙 唐德赫 贝勒 阿穆赫 凯勒 日乌阿 德 特 赫特胡韦 哦 热 艾姆 茹赫 阿普赫 茹赫 德普于伊 克 蒂于 阿 德泽赫特 诺特赫",
+      "meaning": "阿尔芒德，我亲爱的爱人，再见到你多高兴。你离开我们的……以来，我日复一日……（部分识别不清）",
+      "suppliedText": "Armande. Armande. Oh mon tendré bel amour, quelle joie de te retrouver. Oh, je m jour après jour depuis que tu as déserté notre",
+      "sourceLineId": "moliere-timed-710",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 23,
+        "sourceLineNumber": 710,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Foyer. Attends, attends, attends ! Si je t'ai délaissée, c'est parce que Tartuffe m'a beaucoup accaparé. Mais j'ai enfin terminé la rédaction du nouveau…",
+      "start": 32,
+      "ipa": "[fwaje atɑ̃z atɑ̃z atɑ̃ si ʒə te delɛse sɛ paʁskə taʁtyf ma bokup akapaʁe mɛ ʒe ɑ̃fɛ̃ tɛʁmine la ʁedaksjɔ̃ dy nuvo]",
+      "ear": "弗乌阿耶诶 阿唐兹 阿唐兹 阿唐 西 热 特 德莱塞 塞 帕赫斯克 塔赫蒂于弗 玛 博库普 阿卡帕赫 梅 热 昂凡 泰赫米内 拉 赫达克斯耶翁 迪于 努沃",
+      "meaning": "家。等等！我冷落你，是因为《伪君子》占了太多时间，可新稿终于写完了……",
+      "suppliedText": "foyer. Attends, attends, attends. Si je t'ai délaissé, c'est parce que Tartuff m'a beaucoup accaparé. Mais j'ai enfin terminé la rédaction du nouveau livre.",
+      "sourceLineId": "moliere-timed-711",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 32,
+        "sourceLineNumber": 711,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Ignorine madame vous illuminez Versailles de votre céleste et motoriseriez-vous à vous inviter à la",
+      "start": 39,
+      "ipa": "[injoʁin madam vuz‿ilymine vɛʁsaj də votʁ selɛst e motoʁizəʁjevu a vuz‿ɛ̃vite a la]",
+      "ear": "伊恩耶奥希恩 玛达姆 乌兹 伊吕米内 韦赫萨耶 德 沃特赫 塞莱斯特 诶 莫托希泽赫耶诶乌 阿 乌兹 安维特 阿 拉",
+      "meaning": "……夫人，您照亮凡尔赛……能否请您……（部分识别不清）",
+      "suppliedText": "Ignorine madame vous illuminez Versailles de votre céleste et motoriseriez-vous à vous inviter à la",
+      "sourceLineId": "moliere-timed-712",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 39,
+        "sourceLineNumber": 712,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Danse ? … S'il te plaît…",
+      "start": 47,
+      "ipa": "[dɑ̃s sil tə plɛ]",
+      "ear": "当斯 西勒 特 普莱",
+      "meaning": "跳舞？……请……（识别不清）",
+      "suppliedText": "danse Nathan ? Garde tout récr s'il te plaît.",
+      "sourceLineId": "moliere-timed-713",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 47,
+        "sourceLineNumber": 713,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Alors frérot, tu disais que ton tartuf c'était de la balle pourtant tu en as fait ma justement votre alt j'ai une nouvelle version de tartuf.",
+      "start": 63,
+      "ipa": "[alɔʁ fʁeʁo ty dizɛ kə tɔ̃ taʁtyf setɛ də la bal puʁtɑ̃ ty ɑ̃n‿a fɛ ma ʒystmɑ̃ votʁ‿alt ʒe yn nuvɛl vɛʁsjɔ̃ də taʁtyf]",
+      "ear": "阿洛赫 弗赫霍 蒂于 迪泽 克 通 塔赫蒂于弗 塞泰 德 拉 巴勒 普赫唐 蒂于 昂恩 阿 费 玛 日于斯特芒 沃特赫 阿勒特 热 于恩 努韦勒 韦赫斯耶翁 德 塔赫蒂于弗",
+      "meaning": "兄弟，你说《伪君子》很棒，可……——殿下，我有了新版本。（部分识别不清）",
+      "suppliedText": "Alors frérot, tu disais que ton tartuf c'était de la balle pourtant tu en as fait ma justement votre alt j'ai une nouvelle version de tartuf.",
+      "sourceLineId": "moliere-timed-715",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 63,
+        "sourceLineNumber": 715,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Tartuffe n'est plus un ecclésiastique, mais un imposteur rusé qui abuse d'un bourgeois, de son honnêteté… Viens dans…",
+      "start": 84,
+      "ipa": "[taʁtyf nɛ plyz‿œ̃n‿eklezjastik mɛ œ̃n‿ɛ̃pɔstœʁ ʁyze ki abyz dœ̃ buʁʒwa də sɔ̃ ɔnɛtte vjɛ̃ dɑ̃]",
+      "ear": "塔赫蒂于弗 奈 普吕兹 恩恩 诶克莱兹耶阿斯蒂克 梅 恩恩 安珀斯特厄赫 许泽 基 阿比于兹 丹 布赫日乌阿 德 松 哦奈特特 弗耶安 当",
+      "meaning": "……达尔杜弗不再是教士，而是狡猾的骗子，利用一个市民的诚实……来我的……",
+      "suppliedText": "Total tart tartu n'est plus un ecclésiastique mais un imposteur rusé qui abuse d'un bourgeois de son honnêteté. Bien wesh frérot, viens dans",
+      "sourceLineId": "moliere-timed-717",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 84,
+        "sourceLineNumber": 717,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Mes salons jouer ton Tartuffe… J'inviterai mon frère.",
+      "start": 92,
+      "ipa": "[me salɔ̃ ʒwe tɔ̃ taʁtyf ʒɛ̃vitʁe mɔ̃ fʁɛʁ]",
+      "ear": "梅 萨隆 日乌诶 通 塔赫蒂于弗 然维特赫 蒙 弗赫赫",
+      "meaning": "沙龙演《伪君子》吧，我会邀请哥哥。",
+      "suppliedText": "mes salons jouer ton tartuf au inclusive. J'inviterai mon frère.",
+      "sourceLineId": "moliere-timed-718",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 92,
+        "sourceLineNumber": 718,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Ah, Marquise. Ah, Jean-Baptiste.",
+      "start": 112,
+      "ipa": "[a maʁkiz a ʒɑ̃batist]",
+      "ear": "阿 玛赫基兹 阿 让巴蒂斯特",
+      "meaning": "啊，玛尔基丝。——啊，让-巴蒂斯特。",
+      "suppliedText": "Ah, Marquise. Ah, Jean-Baptiste.",
+      "sourceLineId": "moliere-timed-720",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 112,
+        "sourceLineNumber": 720,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "videoId": "SsTRsTN3teI",
+  "playbackVideoId": "SsTRsTN3teI",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=SsTRsTN3teI"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Dans ce monde qui m'a vue grandir, une femme n'a pas le droit au désir. Elle n'est…",
+      "start": 12,
+      "ipa": "[dɑ̃ sə mɔ̃d ki ma vy ɡʁɑ̃diʁ yn fam na pa lə dʁwa o deziʁ ɛl nɛ]",
+      "ear": "当 瑟 蒙德 基 玛 维于 格杭迪赫 于恩 法姆 纳 帕 勒 德赫乌阿 奥 德齐赫 艾勒 奈",
+      "meaning": "在我长大的世界里，女人没有追求欲望的权利。她只是……",
+      "suppliedText": "dans ce monde qui m'a vu grandir une femme a pas le droit au désir elle n'est",
+      "sourceLineId": "moliere-timed-112",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 12,
+        "sourceLineNumber": 112,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Qu'un ventre que l'on nourrit pour un jour porter la vie. Elle sort à peine de son…",
+      "start": 18,
+      "ipa": "[kœ̃ vɑ̃tʁ kə lɔ̃ nuʁi puʁ‿œ̃ ʒuʁ pɔʁte la vi ɛl sɔʁ‿a pɛn də sɔ̃]",
+      "ear": "坎 旺特赫 克 隆 努希 普赫 恩 茹赫 珀赫特 拉 维 艾勒 索赫 阿 佩恩 德 松",
+      "meaning": "被养活、等待生育的身体。她刚走出……",
+      "suppliedText": "qu'un ventre que l'on nourrit pour jou porter la vie elle sort à peine de son",
+      "sourceLineId": "moliere-timed-113",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 18,
+        "sourceLineNumber": 113,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Enfance qu'on lui vole ses rêves et son innocence. Son… lui impose un mari.",
+      "start": 25,
+      "ipa": "[ɑ̃fɑ̃s kɔ̃ lɥi vɔl se ʁɛv e sɔ̃n‿inosɑ̃s sɔ̃ lɥi ɛ̃pɔz‿œ̃ maʁi]",
+      "ear": "昂芳斯 孔 勒于伊 沃勒 塞 赫弗 诶 松恩 伊诺桑斯 松 勒于伊 安珀兹 恩 玛希",
+      "meaning": "童年，梦想和天真就被夺走，家里要为她指定丈夫。",
+      "suppliedText": "enfance qu'on lui vole ses rêves et son innocence son fa lui impose un mari",
+      "sourceLineId": "moliere-timed-114",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 25,
+        "sourceLineNumber": 114,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Elle a choisi de se moquer de ce que les gens… Connaître l'ivresse de la…",
+      "start": 35,
+      "ipa": "[ɛl‿a ʃwazi də sə moke də sə kə le ʒɑ̃ kɔnɛtʁ livʁɛs də la]",
+      "ear": "艾勒 阿 什乌阿齐 德 瑟 莫克 德 瑟 克 莱 让 科奈特赫 利弗赫斯 德 拉",
+      "meaning": "她选择不理会旁人的议论，去体会生命的……",
+      "suppliedText": "elle a choisi de se moquer de ce que les genses dirent connaître l'bresse de la",
+      "sourceLineId": "moliere-timed-115",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 35,
+        "sourceLineNumber": 115,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Vie, aimer au gré de ses envies, jusqu'au jour où…",
+      "start": 43,
+      "ipa": "[vi ɛme o ɡʁe də sez‿ɑ̃vi ʒysko ʒuʁ‿u]",
+      "ear": "维 艾梅 奥 格赫 德 塞兹 昂维 日于斯科 茹赫 乌",
+      "meaning": "酣畅，随心去爱，直到有一天……",
+      "suppliedText": "vie aimer Aué de ses envies jusqu'au jour où",
+      "sourceLineId": "moliere-timed-116",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 43,
+        "sourceLineNumber": 116,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Elle a rencontré un homme…",
+      "start": 51,
+      "ipa": "[ɛl‿a ʁɑ̃kɔ̃tʁe œ̃n‿ɔm]",
+      "ear": "艾勒 阿 杭孔特赫 恩恩 哦姆",
+      "meaning": "她遇见一个……",
+      "suppliedText": "elle a rencontré un homme",
+      "sourceLineId": "moliere-timed-117",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 51,
+        "sourceLineNumber": 117,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Marié… Esprit de Raymond est son nom, il est comte de Modène et chambellan…",
+      "start": 56,
+      "ipa": "[maʁje ɛspʁi də ʁɛmɔ̃ ɛ sɔ̃ nɔ̃ il‿ɛ kɔ̃t də modɛn e ʃɑ̃bɛlɑ̃]",
+      "ear": "玛赫耶诶 艾斯普希 德 赫蒙 艾 松 农 伊勒 艾 孔特 德 莫戴恩 诶 尚贝朗",
+      "meaning": "已婚男人……名叫埃斯普里·德·雷蒙，是莫德纳伯爵和宫廷侍从……",
+      "suppliedText": "mariéble ligé esprit de rayond est son nom il est comte de mod et Chambé ça",
+      "sourceLineId": "moliere-timed-119",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 56,
+        "sourceLineNumber": 119,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "J'avais à peine dix-neuf ans quand nous sommes devenus amants. De notre amour est née une…",
+      "start": 64,
+      "ipa": "[ʒavɛ a pɛn diznœv‿ɑ̃ kɑ̃ nu sɔm dəvny amɑ̃ də notʁ‿amuʁ‿ɛ ne yn]",
+      "ear": "扎韦 阿 佩恩 迪兹讷厄弗 昂 康 努 索姆 德弗尼于 阿芒 德 诺特赫 阿穆赫 艾 内 于恩",
+      "meaning": "我们成为情人时，我才十九岁。我们的爱带来一个……",
+      "suppliedText": "fais à peine 19 ans quand nous sommes devenus amant de notre amour est né une",
+      "sourceLineId": "moliere-timed-120",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 64,
+        "sourceLineNumber": 120,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Fille. À défaut d'une famille, son père lui donna un…",
+      "start": 72,
+      "ipa": "[fij a defo dyn famij sɔ̃ pɛʁ lɥi dɔna œ̃]",
+      "ear": "菲耶 阿 德佛 迪于恩 法米耶 松 佩赫 勒于伊 多纳 恩",
+      "meaning": "女儿。他虽不能给她一个家，还是给了她……",
+      "suppliedText": "fille m à défaut d'une famille son père lui donna un",
+      "sourceLineId": "moliere-timed-121",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 72,
+        "sourceLineNumber": 121,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Prénom. Sa fille s'appelle Armande et elle a aujourd'hui trois ans. Et notre sœur ne peut pas lui assurer une éducation…",
+      "start": 80,
+      "ipa": "[pʁenɔ̃ sa fij sapɛl‿aʁmɑ̃d e ɛl‿a oʒuʁdɥi tʁwaz‿ɑ̃ e notʁ sœʁ nə pø pa lɥi asyʁe yn‿edykasjɔ̃]",
+      "ear": "普赫农 萨 菲耶 萨佩勒 阿赫芒德 诶 艾勒 阿 奥茹赫德于伊 特赫乌阿兹 昂 诶 诺特赫 瑟厄赫 讷 珀厄 帕 勒于伊 阿西于赫 于恩 诶迪于卡斯耶翁",
+      "meaning": "名字。她叫阿尔芒德，现在三岁。我们的姐姐没法在……",
+      "suppliedText": "prénom sa fille s'appelle Armande et elle a aujourd'hui 3 ans et notre sœur ne peut pas lui assurer une éducation",
+      "sourceLineId": "moliere-timed-123",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 80,
+        "sourceLineNumber": 123,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Dans la précarité d'une tournée. Alors j'ai décidé de la confier à une dame d'un rang distingué. Je ne sais pas quand je la reverrai, ni si elle pourra me le…",
+      "start": 87,
+      "ipa": "[dɑ̃ la pʁekaʁite dyn tuʁne alɔʁ ʒe deside də la kɔ̃fje a yn dam dœ̃ ʁɑ̃ distɛ̃ɡe ʒə nə sɛ pa kɑ̃ ʒə la ʁəvɛʁe ni si ɛl puʁa mə lə]",
+      "ear": "当 拉 普赫卡希特 迪于恩 图赫内 阿洛赫 热 德西德 德 拉 孔弗耶诶 阿 于恩 达姆 丹 杭 迪斯坦格 热 讷 塞 帕 康 热 拉 赫韦赫 尼 西 艾勒 普哈 默 勒",
+      "meaning": "颠沛的巡演生活中照顾她的教育，所以我把她托付给一位身份体面的女士。不知何时才能再见她，也不知她能否……",
+      "suppliedText": "dans la précarité d'une tournée alors j'ai décidé de la confier à une dame d'Ar en distingué je ne sais pas quand je la reverrai et ni s pourra me le",
+      "sourceLineId": "moliere-timed-124",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 87,
+        "sourceLineNumber": 124,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pardonner. Elle a choisi de se moquer de ce que les…",
+      "start": 95,
+      "ipa": "[paʁdɔne ɛl‿a ʃwazi də sə moke də sə kə le]",
+      "ear": "帕赫多内 艾勒 阿 什乌阿齐 德 瑟 莫克 德 瑟 克 莱",
+      "meaning": "原谅我。她选择不理会那些……",
+      "suppliedText": "pardonner elle a choisi de se moquer de ce que les",
+      "sourceLineId": "moliere-timed-125",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 95,
+        "sourceLineNumber": 125,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Gens… Connaître l'ivresse de la vie, aimer au gré de ses envies, jusqu'au jour…",
+      "start": 103,
+      "ipa": "[ʒɑ̃ kɔnɛtʁ livʁɛs də la vi ɛme o ɡʁe də sez‿ɑ̃vi ʒysko ʒuʁ]",
+      "ear": "让 科奈特赫 利弗赫斯 德 拉 维 艾梅 奥 格赫 德 塞兹 昂维 日于斯科 茹赫",
+      "meaning": "议论，去体会生命的酣畅，随心去爱，直到……",
+      "suppliedText": "gensaiment dirent connaître l' de la vie et au CR de ses envies jusqu'au jour",
+      "sourceLineId": "moliere-timed-126",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 103,
+        "sourceLineNumber": 126,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Où… rencontré un homme marié.",
+      "start": 114,
+      "ipa": "[u ʁɑ̃kɔ̃tʁe œ̃n‿ɔm maʁje]",
+      "ear": "乌 杭孔特赫 恩恩 哦姆 玛赫耶诶",
+      "meaning": "遇见一个已婚男人……",
+      "suppliedText": "où rencontré un homme marié",
+      "sourceLineId": "moliere-timed-127",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 114,
+        "sourceLineNumber": 127,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Louis, va chercher la nourrice, lui remettre ses affaires. Je n'ai pas la force de dire au revoir à ma fille.",
+      "start": 125,
+      "ipa": "[lwi va ʃɛʁʃe la nuʁis lɥi ʁəmɛtʁ sez‿afɛʁ ʒə ne pa la fɔʁs də diʁ‿o ʁəvwaʁ‿a ma fij]",
+      "ear": "勒乌伊 瓦 谢赫谢 拉 努希斯 勒于伊 赫梅特赫 塞兹 阿费赫 热 内 帕 拉 佛赫斯 德 迪赫 奥 赫弗乌阿赫 阿 玛 菲耶",
+      "meaning": "路易，去找乳母，把她的东西交给乳母。我没有勇气向女儿告别。",
+      "suppliedText": "loui facher la nourrice lui remettre ses affaires je n'ai pas la force de dire au revoir à ma fille",
+      "sourceLineId": "moliere-timed-128",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 125,
+        "sourceLineNumber": 128,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

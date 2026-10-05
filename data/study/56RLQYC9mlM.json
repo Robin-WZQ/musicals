@@ -1,0 +1,373 @@
+{
+  "videoId": "56RLQYC9mlM",
+  "playbackVideoId": "56RLQYC9mlM",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=56RLQYC9mlM"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Armande Poquelin, vous trouvez que ça me va bien ?",
+      "start": 1,
+      "ipa": "[aʁmɑ̃d poklɛ̃ vu tʁuve kə sa mə va bjɛ̃]",
+      "ear": "阿赫芒德 波克兰 乌 特胡韦 克 萨 默 瓦 布耶安",
+      "meaning": "阿尔芒德·波克兰，这个名字适合我吗？",
+      "suppliedText": "Arnelin poelin vous trouvez que ça me va bien ?",
+      "sourceLineId": "moliere-timed-548",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 1,
+        "sourceLineNumber": 548,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Je dirais même que ce nom vous embellit, ma chère épouse. Dites-moi, mon cher mari, quel rôle allez-vous m'offrir dans votre…",
+      "start": 6,
+      "ipa": "[ʒə diʁɛ mɛm kə sə nɔ̃ vuz‿ɑ̃bɛli ma ʃɛʁ‿epuz ditmwa mɔ̃ ʃɛʁ maʁi kɛl ʁol‿alevu mɔfʁiʁ dɑ̃ votʁ]",
+      "ear": "热 迪赫 梅姆 克 瑟 农 乌兹 昂贝利 玛 谢赫 诶普兹 迪特姆乌阿 蒙 谢赫 玛希 凯勒 霍勒 阿莱乌 莫弗希赫 当 沃特赫",
+      "meaning": "亲爱的妻子，我甚至觉得这名字让你更美。——丈夫大人，您会在新戏里给我什么……",
+      "suppliedText": "Je dirais même que ce nom vous embellit ma chère épouse dites-moi mon cher Marie quel rôle allez-vous m'offrir dans votre",
+      "sourceLineId": "moliere-timed-549",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 6,
+        "sourceLineNumber": 549,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Nouvelle pièce ? Agnès ? Ah non, non, il vous faut un rôle avec du fond… Georgette, la petite servante…",
+      "start": 12,
+      "ipa": "[nuvɛl pjɛs anjɛs a nɔ̃ nɔ̃ il vu fo œ̃ ʁol‿avɛk dy fɔ̃ ʒɔʁʒɛt la pətit sɛʁvɑ̃t]",
+      "ear": "努韦勒 普耶艾斯 阿恩耶艾斯 阿 农 农 伊勒 乌 佛 恩 霍勒 阿韦克 迪于 丰 若赫热特 拉 珀蒂特 塞赫旺特",
+      "meaning": "角色？阿涅丝？——不，你需要有深度的角色……小女仆若尔热特……",
+      "suppliedText": "nouvelle pièce d'agè ? Ah non non il vous faut un rôle avec du fond et de l'étoorgette la petite servante",
+      "sourceLineId": "moliere-timed-550",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 12,
+        "sourceLineNumber": 550,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "D'Arnolphe. Cessez de vous moquer ! Veuillez m'écouter. J'ai lu à votre insu L'École des femmes cent fois et je connais le rôle d'Agnès sur le bout des doigts.",
+      "start": 20,
+      "ipa": "[daʁnɔlf sɛse də vu moke vœje mekute ʒe ly a votʁ‿ɛ̃sy lekɔl de fam sɑ̃ fwa e ʒə kɔnɛ lə ʁol danjɛs syʁ lə bu de dwa]",
+      "ear": "达赫诺勒弗 塞塞 德 乌 莫克 弗厄耶诶 梅库特 热 吕 阿 沃特赫 安西于 莱科勒 德 法姆 桑 弗乌阿 诶 热 科奈 勒 霍勒 达恩耶艾斯 西于赫 勒 布 德 德乌阿",
+      "meaning": "阿尔诺尔夫的女仆。——别取笑了，请听我说，我背着你读了一百遍《妇女学堂》，阿涅丝的角色烂熟于心。",
+      "suppliedText": "d'Arnold. Cess de vous moquer ? Veuillez m'écouter. J'ai lu à votre insu l'école des femmes 100 fois et je connais le rôle d'agè sur le bout des doigts.",
+      "sourceLineId": "moliere-timed-551",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 20,
+        "sourceLineNumber": 551,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Quelle est donc cette nouvelle pièce ?",
+      "start": 28,
+      "ipa": "[kɛl‿ɛ dɔ̃k sɛt nuvɛl pjɛs]",
+      "ear": "凯勒 艾 东克 塞特 努韦勒 普耶艾斯",
+      "meaning": "这出新戏讲什么？",
+      "suppliedText": "Quelle est donc cette nouvelle pièce ?",
+      "sourceLineId": "moliere-timed-552",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 28,
+        "sourceLineNumber": 552,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "C'est l'histoire d'Arnolphe, un homme d'âge mûr qui veut épouser sa pupille à sa majorité. Et pour la préserver de toute…",
+      "start": 31,
+      "ipa": "[sɛ listwaʁ daʁnɔlf œ̃n‿ɔm daʒ myʁ ki vø epuze sa pypij‿a sa maʒoʁite e puʁ la pʁezɛʁve də tut]",
+      "ear": "塞 利斯特乌阿赫 达赫诺勒弗 恩恩 哦姆 达日 米于赫 基 弗厄 诶普泽 萨 普于皮耶 阿 萨 玛若希特 诶 普赫 拉 普赫泽赫韦 德 图特",
+      "meaning": "中年男人阿尔诺尔夫想等养女成年后娶她，为防止她有……",
+      "suppliedText": "C'est l'histoire d'Arnolf, un homme d'â mû qui veut épouser sa pupille à sa majorité et pour la préserver de toute",
+      "sourceLineId": "moliere-timed-553",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 31,
+        "sourceLineNumber": 553,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pensée impure, il l'élève chez lui en la tenant enfermée. Et voilà qu'un jour Agnès de sa fenêtre aperçoit un jeune homme qui lui fait perdre la tête.",
+      "start": 38,
+      "ipa": "[pɑ̃se ɛ̃pyʁ il lelɛv ʃe lɥi ɑ̃ la tənɑ̃ ɑ̃fɛʁme e vwala kœ̃ ʒuʁ‿anjɛs də sa fənɛtʁ‿apɛʁswa œ̃ ʒøn‿ɔm ki lɥi fɛ pɛʁdʁ la tɛt]",
+      "ear": "庞塞 安普于赫 伊勒 莱莱弗 谢 勒于伊 昂 拉 特南 昂费赫梅 诶 弗乌阿拉 坎 茹赫 阿恩耶艾斯 德 萨 弗奈特赫 阿佩赫斯乌阿 恩 热厄恩 哦姆 基 勒于伊 费 佩赫德赫 拉 泰特",
+      "meaning": "不纯洁的想法，将她关在家中养大。可一天，阿涅丝从窗户看见一位年轻人，为他神魂颠倒。",
+      "suppliedText": "pensée impure, il l'élève chez lui en la tenant enfermée. Et voilà qu'un jour Agnès de sa fenêtre aperçoit un jeune homme qui lui fait perdre la tête.",
+      "sourceLineId": "moliere-timed-554",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 38,
+        "sourceLineNumber": 554,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Arnolphe apprend qu'Agnès… l'inconnu… Il est bouleversé : l'inconnu…",
+      "start": 47,
+      "ipa": "[aʁnɔlf‿apʁɑ̃ kanjɛs lɛ̃kɔny il‿ɛ bulvɛʁse lɛ̃kɔny]",
+      "ear": "阿赫诺勒弗 阿普杭 卡恩耶艾斯 兰科尼于 伊勒 艾 布勒韦赫塞 兰科尼于",
+      "meaning": "阿尔诺尔夫得知阿涅丝……那个陌生人……震惊了：他是不是……",
+      "suppliedText": "Arnold apprend Cagnè vers l'inconnu une long entre il est bouleversé l'inconnu",
+      "sourceLineId": "moliere-timed-555",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 47,
+        "sourceLineNumber": 555,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Lui aurait-il pris sa virginité ? Arnolphe interroge Agnès, et elle lui répond en toute naïveté. Je sais. Et pourquoi ne pas…",
+      "start": 53,
+      "ipa": "[lɥi oʁɛtil pʁi sa viʁʒinite aʁnɔlf‿ɛ̃tɛʁɔʒ‿anjɛs e ɛl lɥi ʁepɔ̃ ɑ̃ tut naivte ʒə sɛ e puʁkwa nə pa]",
+      "ear": "勒于伊 奥赫蒂勒 普希 萨 维赫日尼特 阿赫诺勒弗 安泰霍日 阿恩耶艾斯 诶 艾勒 勒于伊 赫蓬 昂 图特 纳伊弗特 热 塞 诶 普赫克乌阿 讷 帕",
+      "meaning": "夺走了她的贞洁？阿尔诺尔夫盘问，阿涅丝天真地回答。——我知道，不如……",
+      "suppliedText": "lui aurait-il pris sa virginité ? Arnold interroge Agnès et lui répond en toute naïvetité je sais. Et pourquoi ne pas le",
+      "sourceLineId": "moliere-timed-556",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 53,
+        "sourceLineNumber": 556,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Interpréter un extrait de la pièce maintenant ? OK d'accord d'accord pourquoi pas.",
+      "start": 61,
+      "ipa": "[ɛ̃tɛʁpʁete œ̃n‿ɛkstʁɛ də la pjɛs mɛ̃tnɑ̃ oke dakɔʁ dakɔʁ puʁkwa pa]",
+      "ear": "安泰赫普赫特 恩恩 艾克斯特赫 德 拉 普耶艾斯 曼特南 奥克 达科赫 达科赫 普赫克乌阿 帕",
+      "meaning": "现在演一段？——好，为什么不呢。",
+      "suppliedText": "interpréter un extrait de la pièce maintenant ? OK d'accord d'accord pourquoi pas.",
+      "sourceLineId": "moliere-timed-557",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 61,
+        "sourceLineNumber": 557,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Euh, bah tiens, acte deux, scène cinq. Que répond Agnès à Arnolphe ?",
+      "start": 68,
+      "ipa": "[œ ba tjɛ̃ akt dø sɛn sɛ̃k kə ʁepɔ̃ anjɛs‿a aʁnɔlf]",
+      "ear": "厄 巴 特耶安 阿克特 德厄 塞恩 森克 克 赫蓬 阿恩耶艾斯 阿 阿赫诺勒弗",
+      "meaning": "就第二幕第五场吧。阿涅丝怎样回答阿尔诺尔夫？",
+      "suppliedText": "Euh bah tiens, acte 2, scène 5. Que répond Agnès à Arnold ?",
+      "sourceLineId": "moliere-timed-558",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 68,
+        "sourceLineNumber": 558,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Qu'avez-vous ? Vous grandez me semble un petit. Est-ce que c'est mal fait ce que je vous ai dit ?",
+      "start": 76,
+      "ipa": "[kavevu vu ɡʁɑ̃de mə sɑ̃bl‿œ̃ pəti ɛs kə sɛ mal fɛ sə kə ʒə vuz‿e di]",
+      "ear": "卡韦乌 乌 格杭德 默 桑布勒 恩 珀蒂 艾斯 克 塞 玛勒 费 瑟 克 热 乌兹 诶 迪",
+      "meaning": "您怎么了？似乎有点生气。我刚说的事，做错了吗？",
+      "suppliedText": "Qu'avez-vous ? Vous grandez me semble un petit. Est-ce que c'est mal fait ce que je vous ai dit ?",
+      "sourceLineId": "moliere-timed-559",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 76,
+        "sourceLineNumber": 559,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Non. Non. Mais outre tous ces discours, toutes ces",
+      "start": 85,
+      "ipa": "[nɔ̃ nɔ̃ mɛ utʁ tu se diskuʁ tut se]",
+      "ear": "农 农 梅 乌特赫 图 塞 迪斯库赫 图特 塞",
+      "meaning": "没有，没有。不过除了那些话、那些……",
+      "suppliedText": "Non. Non. Mais outre tous ces discours, toutes ces",
+      "sourceLineId": "moliere-timed-560",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 85,
+        "sourceLineNumber": 560,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Gentillesses, le jeune homme faisait-il aussi quelques caresses ? Oh tant. Il me",
+      "start": 93,
+      "ipa": "[ʒɑ̃tijɛs lə ʒøn‿ɔm fəzɛtil‿osi kɛlkə kaʁɛs ɔ tɑ̃ il mə]",
+      "ear": "让蒂耶艾斯 勒 热厄恩 哦姆 弗泽蒂勒 奥西 凯勒克 卡赫斯 哦 唐 伊勒 默",
+      "meaning": "甜言蜜语，那年轻人有没有亲昵的举动？——很多，他……",
+      "suppliedText": "gentillesses, le jeune homme faisait-il aussi quelques caresses ? Oh tant. Il me",
+      "sourceLineId": "moliere-timed-561",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 93,
+        "sourceLineNumber": 561,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Prenait et les mains et les bras et de me les baiser, il n'était jamais là. Ne vous a-t-il point pris, Agnès ?",
+      "start": 100,
+      "ipa": "[pʁənɛ e le mɛ̃ e le bʁa e də mə le bɛze il netɛ ʒamɛ la nə vuz‿atil pwɛ̃ pʁi anjɛs]",
+      "ear": "普赫奈 诶 莱 曼 诶 莱 布哈 诶 德 默 莱 贝泽 伊勒 内泰 扎梅 拉 讷 乌兹 阿蒂勒 普乌安 普希 阿恩耶艾斯",
+      "meaning": "握着我的手和手臂，吻个不停。——阿涅丝，他没拿走你的……",
+      "suppliedText": "prenait et les mains et les bras et de me les baiser, il n'était jamais là. Ne vous a-t-il point pris, Agnès ?",
+      "sourceLineId": "moliere-timed-562",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 100,
+        "sourceLineNumber": 562,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Quelqu autre chose ? Euh, il m'a pris le Et vous fâcherez peut-être contre moi.",
+      "start": 108,
+      "ipa": "[kɛlk‿otʁ ʃɔz œ il ma pʁi lə e vu faʃʁe pøtɛtʁ kɔ̃tʁ mwa]",
+      "ear": "凯勒克 奥特赫 肖兹 厄 伊勒 玛 普希 勒 诶 乌 法什赫 珀厄泰特赫 孔特赫 姆乌阿",
+      "meaning": "别的东西？——他拿了我的……您可能会生我的气。",
+      "suppliedText": "Quelqu autre chose ? Euh, il m'a pris le Et vous fâcherez peut-être contre moi.",
+      "sourceLineId": "moliere-timed-563",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 108,
+        "sourceLineNumber": 563,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Non, si fait Dieu non. Jurez donc votre foi. Ma foi soite. Il m'a pris. Vous serez en colère. Non, non. Diante que de mystère. Qu'est-ce qu'il vous a pris ?",
+      "start": 117,
+      "ipa": "[nɔ̃ si fɛ djø nɔ̃ ʒyʁe dɔ̃k votʁ fwa ma fwa swat il ma pʁi vu səʁe ɑ̃ kolɛʁ nɔ̃ nɔ̃ djɑ̃t kə də mistɛʁ kɛs kil vuz‿a pʁi]",
+      "ear": "农 西 费 德耶厄 农 日于赫 东克 沃特赫 弗乌阿 玛 弗乌阿 斯乌阿特 伊勒 玛 普希 乌 瑟赫 昂 科莱赫 农 农 德耶昂特 克 德 米斯泰赫 凯斯 基勒 乌兹 阿 普希",
+      "meaning": "不会，天啊，不会。——那您发誓。——我发誓。——他拿了……您会生气的。——不会！这么神秘，他拿了什么？",
+      "suppliedText": "Non, si fait Dieu non. Jurez donc votre foi. Ma foi soite. Il m'a pris. Vous serez en colère. Non, non. Diante que de mystère. Qu'est-ce qu'il vous a pris ?",
+      "sourceLineId": "moliere-timed-564",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 117,
+        "sourceLineNumber": 564,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Je souffre en damné.",
+      "start": 130,
+      "ipa": "[ʒə sufʁ‿ɑ̃ dane]",
+      "ear": "热 苏弗赫 昂 达内",
+      "meaning": "我真受不了了。",
+      "suppliedText": "Je souffre en tané.",
+      "sourceLineId": "moliere-timed-565",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 130,
+        "sourceLineNumber": 565,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Il m'a pris le ruban que vous m'aviez donné. À vous dire le vrai, je n'ai pu m'en défendre.",
+      "start": 135,
+      "ipa": "[il ma pʁi lə ʁybɑ̃ kə vu mavje dɔne a vu diʁ lə vʁɛ ʒə ne py mɑ̃ defɑ̃dʁ]",
+      "ear": "伊勒 玛 普希 勒 许邦 克 乌 玛弗耶诶 多内 阿 乌 迪赫 勒 弗赫 热 内 普于 芒 德芳德赫",
+      "meaning": "他拿走您送我的丝带。说实话，我没能拦住他。",
+      "suppliedText": "Il m'a pris le ruban que vous m'aviez donné. À vous dire le vrai, je n'ai pu m'en défendre.",
+      "sourceLineId": "moliere-timed-566",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 135,
+        "sourceLineNumber": 566,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Il passe pour le ruban. Mais je vous les apprendre si ne vous a rien fait que vous baisez les bras. Comment est-ce qu'on fait d'autres choses ?",
+      "start": 141,
+      "ipa": "[il pas puʁ lə ʁybɑ̃ mɛ ʒə vu lez‿apʁɑ̃dʁ si nə vuz‿a ʁjɛ̃ fɛ kə vu bɛze le bʁa kɔmɑ̃ ɛs kɔ̃ fɛ dotʁ ʃoz]",
+      "ear": "伊勒 帕斯 普赫 勒 许邦 梅 热 乌 莱兹 阿普杭德赫 西 讷 乌兹 阿 赫耶安 费 克 乌 贝泽 莱 布哈 科芒 艾斯 孔 费 多特赫 肖兹",
+      "meaning": "丝带就算了。但我想知道：除吻手臂外，他还做别的了吗？——还能做别的事？",
+      "suppliedText": "Il passe pour le ruban. Mais je vous les apprendre si ne vous a rien fait que vous baisez les bras. Comment est-ce qu'on fait d'autres choses ?",
+      "sourceLineId": "moliere-timed-567",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 141,
+        "sourceLineNumber": 567,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Oui, bravo. L'interprétation est juste et enlevée. Mais mais",
+      "start": 152,
+      "ipa": "[wi bʁavo lɛ̃tɛʁpʁetasjɔ̃ ɛ ʒyst e ɑ̃lve mɛ mɛ]",
+      "ear": "乌伊 布哈沃 兰泰赫普赫塔斯耶翁 艾 日于斯特 诶 昂勒韦 梅 梅",
+      "meaning": "好，精彩！演得准确又生动。不过……",
+      "suppliedText": "Oui, bravo. L'interprétation est juste et enlevée. Mais mais",
+      "sourceLineId": "moliere-timed-568",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 152,
+        "sourceLineNumber": 568,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Mais pour intégrer la troupe, il va te falloir encore travailler.",
+      "start": 160,
+      "ipa": "[mɛ puʁ‿ɛ̃teɡʁe la tʁup il va tə falwaʁ‿ɑ̃kɔʁ tʁavaje]",
+      "ear": "梅 普赫 安特格赫 拉 特胡普 伊勒 瓦 特 法勒乌阿赫 昂科赫 特哈瓦耶诶",
+      "meaning": "要加入剧团，你还得继续练习。",
+      "suppliedText": "mais pour intégrer la troupe, il va te falloir encore travailler.",
+      "sourceLineId": "moliere-timed-569",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 160,
+        "sourceLineNumber": 569,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

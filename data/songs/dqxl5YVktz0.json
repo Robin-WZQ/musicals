@@ -10,14 +10,120 @@
   "musicalId": "moliere",
   "trackNumber": 41,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "… Nuit. Jean-Baptiste, comment tu vas faire ? Tu es épuisé ! Oui, dès demain, dès demain, mes ennemis sauront enfin qui je…",
+      "start": 2,
+      "duration": 8
+    },
+    {
+      "text": "Suis ça fait longtemps que tu n'entends plus la voix de ta raison tu sais",
+      "start": 10,
+      "duration": 7
+    },
+    {
+      "text": "Pourtant que l'ambition est devenue ta prison tant de blessur t de fures qui te",
+      "start": 17,
+      "duration": 9
+    },
+    {
+      "text": "Font encore saigner. Dans les regards, dans les égards…",
+      "start": 26,
+      "duration": 7
+    },
+    {
+      "text": "… Tu finiras par tomber, tomber…",
+      "start": 33,
+      "duration": 6
+    },
+    {
+      "text": "Tomber… Où tes rêves t'ont…",
+      "start": 39,
+      "duration": 6
+    },
+    {
+      "text": "… Tu finiras par sombrer, sombrer…",
+      "start": 45,
+      "duration": 5
+    },
+    {
+      "text": "Sombrer… Tomber, tomber, tomber. Tu crains le silence, le vide…",
+      "start": 50,
+      "duration": 10
+    },
+    {
+      "text": "Qui te ramène à ton enfance. Il faut que tu avances pour donner un sens à ton…",
+      "start": 60,
+      "duration": 7
+    },
+    {
+      "text": "Existence. Mais pour effacer ce passé, tu as besoin d'exister. Tu veux…",
+      "start": 67,
+      "duration": 9
+    },
+    {
+      "text": "… Tu n'en as jamais assez. Tomber, tomber…",
+      "start": 76,
+      "duration": 8
+    },
+    {
+      "text": "Tomber… Où tes rêves…",
+      "start": 84,
+      "duration": 6
+    },
+    {
+      "text": "… Tu finiras par sombrer, sombrer, sombrer… Tomber, tomber…",
+      "start": 90,
+      "duration": 11
+    },
+    {
+      "text": "Tomber. Ça fait longtemps que tu n'entends plus la voix de ta raison. Tu…",
+      "start": 101,
+      "duration": 7
+    },
+    {
+      "text": "Sais pourtant que l'ambition est devenue ta prisson tu cour tu sans jamais fare des dans la",
+      "start": 108,
+      "duration": 8
+    },
+    {
+      "text": "Même encore tou jours ce terrible parcours jusqu'à",
+      "start": 117,
+      "duration": 7
+    },
+    {
+      "text": "L'obsession tu finiras par tomber tomber",
+      "start": 124,
+      "duration": 6
+    },
+    {
+      "text": "Tomber… Où tes rêves…",
+      "start": 130,
+      "duration": 5
+    },
+    {
+      "text": "… Tu finiras par sombrer, sombrer, sombrer… À trop vouloir…",
+      "start": 135,
+      "duration": 9
+    },
+    {
+      "text": "… Orgueil… Tomber…",
+      "start": 144,
+      "duration": 9
+    },
+    {
+      "text": "Tomber… Tomber, tomber, tomber…",
+      "start": 153,
+      "duration": 5
+    }
+  ],
   "playbackVideoId": "dqxl5YVktz0",
   "sourceURL": "https://www.youtube.com/watch?v=dqxl5YVktz0",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=dqxl5YVktz0",
@@ -124,10 +230,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250330",
   "productionYear": 2023,
@@ -232,5 +338,127 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 805,
+      "start": 2,
+      "text": "oui nuit Jean-Baptiste comment tu vas faire tu es épusé oui dès demain dès demain mes ennemis seront enfin qui je"
+    },
+    {
+      "sourceLine": 806,
+      "start": 10,
+      "text": "suis ça fait longtemps que tu n'entends plus la voix de ta raison tu sais"
+    },
+    {
+      "sourceLine": 807,
+      "start": 17,
+      "text": "pourtant que l'ambition est devenue ta prison tant de blessur t de fures qui te"
+    },
+    {
+      "sourceLine": 808,
+      "start": 26,
+      "text": "font encore saigner dans les regards dans les égars tu penses et les"
+    },
+    {
+      "sourceLine": 809,
+      "start": 33,
+      "text": "pensées tu finiras par tomber tomber"
+    },
+    {
+      "sourceLine": 810,
+      "start": 39,
+      "text": "tomber tu des som où tes rêves tont"
+    },
+    {
+      "sourceLine": 811,
+      "start": 45,
+      "text": "pter tu finisiras pas sombrer sombrer"
+    },
+    {
+      "sourceLine": 812,
+      "start": 50,
+      "text": "sombrer à trop vouloir pr tomber tomber tomber tu crains le silence le vite"
+    },
+    {
+      "sourceLine": 813,
+      "start": 60,
+      "text": "qui te ramène à ton enfance faut que tuavan pour donner un sens à Taine"
+    },
+    {
+      "sourceLine": 814,
+      "start": 67,
+      "text": "existence mais pour effasser CEE passé tu as besoin d'exister tu veux"
+    },
+    {
+      "sourceLine": 815,
+      "start": 76,
+      "text": "té tu n'en as jamais assez tomber tomber"
+    },
+    {
+      "sourceLine": 816,
+      "start": 84,
+      "text": "tomber tu des som où tes rèves t foré"
+    },
+    {
+      "sourceLine": 817,
+      "start": 90,
+      "text": "finir pas sombrer sombrer sombrer trop vouloir prier tomber tomber"
+    },
+    {
+      "sourceLine": 818,
+      "start": 101,
+      "text": "tomber ça fait longtemps que tu n'entends plus la voir de ta raison tu"
+    },
+    {
+      "sourceLine": 819,
+      "start": 108,
+      "text": "sais pourtant que l'ambition est devenue ta prisson tu cour tu sans jamais fare des dans la"
+    },
+    {
+      "sourceLine": 820,
+      "start": 116,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 821,
+      "start": 117,
+      "text": "même encore tou jours ce terrible parcours jusqu'à"
+    },
+    {
+      "sourceLine": 822,
+      "start": 124,
+      "text": "l'obsession tu finiras par tomber tomber"
+    },
+    {
+      "sourceLine": 823,
+      "start": 130,
+      "text": "tomb tu des som où tes rêves"
+    },
+    {
+      "sourceLine": 824,
+      "start": 135,
+      "text": "t tu finiras pas sombr sombr sombré à trop vouloir"
+    },
+    {
+      "sourceLine": 825,
+      "start": 144,
+      "text": "prorgueil deé tomber"
+    },
+    {
+      "sourceLine": 826,
+      "start": 153,
+      "text": "tomber som tomber tomber tomb"
+    },
+    {
+      "sourceLine": 827,
+      "start": 158,
+      "text": "[Musique]"
+    }
+  ]
 }

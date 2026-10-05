@@ -1,0 +1,373 @@
+{
+  "videoId": "HSilN9VyaHc",
+  "playbackVideoId": "HSilN9VyaHc",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=HSilN9VyaHc"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Il s'appelle Jean-Baptiste, Jean-Baptiste Poquelin. Cela fait des semaines qu'il est très mal en point, et il refuse les soins et…",
+      "start": 5,
+      "ipa": "[il sapɛl ʒɑ̃batist ʒɑ̃batist poklɛ̃ səla fɛ de səmɛn kil‿ɛ tʁɛ mal‿ɑ̃ pwɛ̃ e il ʁəfyz le swɛ̃ e]",
+      "ear": "伊勒 萨佩勒 让巴蒂斯特 让巴蒂斯特 波克兰 瑟拉 费 德 瑟梅恩 基勒 艾 特赫 玛勒 昂 普乌安 诶 伊勒 赫菲于兹 莱 斯乌安 诶",
+      "meaning": "他叫让-巴蒂斯特·波克兰，几个星期以来身体很差，却拒绝治疗和……",
+      "suppliedText": "il s'appelle Jean-Baptiste Jean-Baptiste pokelin cela fait des semaines qu'il est très malenoint et il refuse les soins et",
+      "sourceLineId": "moliere-timed-779",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5,
+        "sourceLineNumber": 779,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Les breuvages d'appoint. Jean-Baptiste n'accorde aucune confiance aux médecins. Il se sent vidé, déprimé, épuisé, et son…",
+      "start": 13,
+      "ipa": "[le bʁøvaʒ dapwɛ̃ ʒɑ̃batist nakɔʁd‿okyn kɔ̃fjɑ̃s‿o medəsɛ̃ il sə sɑ̃ vide depʁime epɥize e sɔ̃]",
+      "ear": "莱 布赫厄瓦日 达普乌安 让巴蒂斯特 纳科赫德 奥基于恩 孔弗耶昂斯 奥 梅德森 伊勒 瑟 桑 维德 德普希梅 诶普于伊泽 诶 松",
+      "meaning": "药剂。他不信任医生，感到空虚、沮丧、疲惫，他珍爱的……",
+      "suppliedText": "les breuvages d'appoint Jean-Baptiste n'accorde aucune confiance au médecin il se sent viidé déprimé épuisé et son",
+      "sourceLineId": "moliere-timed-780",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 13,
+        "sourceLineNumber": 780,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Précieux Tartuffe n'est toujours pas autorisé. Le roi ne s'est toujours pas manifesté. Jean-Baptiste se sent…",
+      "start": 21,
+      "ipa": "[pʁesjø taʁtyf nɛ tuʒuʁ pa otoʁize lə ʁwa nə sɛ tuʒuʁ pa manifɛste ʒɑ̃batist sə sɑ̃]",
+      "ear": "普赫斯耶厄 塔赫蒂于弗 奈 图茹赫 帕 奥托希泽 勒 赫乌阿 讷 塞 图茹赫 帕 玛尼费斯特 让巴蒂斯特 瑟 桑",
+      "meaning": "《伪君子》仍未获准，国王仍没表态，让-巴蒂斯特感到……",
+      "suppliedText": "précieux tartuf n'est toujours pas autorisé le roi ne s'est toujours pas manifesté Jean-Baptiste se sent",
+      "sourceLineId": "moliere-timed-781",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 21,
+        "sourceLineNumber": 781,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Abandonné dans la vie il faut du bas et du haut mais il y a des jours où rien ne va des jours comme ça où",
+      "start": 28,
+      "ipa": "[abɑ̃dɔne dɑ̃ la vi il fo dy ba e dy o mɛ il‿i a de ʒuʁ‿u ʁjɛ̃ nə va de ʒuʁ kɔm sa u]",
+      "ear": "阿邦多内 当 拉 维 伊勒 佛 迪于 巴 诶 迪于 奥 梅 伊勒 伊 阿 德 茹赫 乌 赫耶安 讷 瓦 德 茹赫 科姆 萨 乌",
+      "meaning": "被抛弃。人生有低谷和高峰，可有些日子一切都不顺……",
+      "suppliedText": "abandonné dans la vie il faut du bas et du haut mais il y a des jours où rien ne va des jours comme ça où",
+      "sourceLineId": "moliere-timed-782",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 28,
+        "sourceLineNumber": 782,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Tout j avec son père toujours pas réconcilié",
+      "start": 38,
+      "ipa": "[tu ʒi avɛk sɔ̃ pɛʁ tuʒuʁ pa ʁekɔ̃silje]",
+      "ear": "图 日 阿韦克 松 佩赫 图茹赫 帕 赫孔西勒耶诶",
+      "meaning": "……还没有与父亲和解……",
+      "suppliedText": "tout j avec son père toujours pas réconcilié",
+      "sourceLineId": "moliere-timed-783",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 38,
+        "sourceLineNumber": 783,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Jean-Baptiste éprouve de la culpabilité il sent jour après jour sa femme Armand de s'éloigner et lui soupçonne même des",
+      "start": 44,
+      "ipa": "[ʒɑ̃batist‿epʁuv də la kylpabilite il sɑ̃ ʒuʁ‿apʁɛ ʒuʁ sa fam‿aʁmɑ̃ də selwanje e lɥi supsɔn mɛm de]",
+      "ear": "让巴蒂斯特 诶普胡弗 德 拉 基于勒帕比利特 伊勒 桑 茹赫 阿普赫 茹赫 萨 法姆 阿赫芒 德 塞勒乌阿恩耶诶 诶 勒于伊 苏普索恩 梅姆 德",
+      "meaning": "让-巴蒂斯特心怀愧疚，感觉阿尔芒德日渐疏远，甚至怀疑她……",
+      "suppliedText": "Jean-Baptiste éprouve de la culpabilité il sent jour après jour sa femme Armand de s'éloigner et lui soupçonne même des",
+      "sourceLineId": "moliere-timed-784",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 44,
+        "sourceLineNumber": 784,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Infidélités de toute part Jean-Baptiste est attaqué les feux de l'enfer laab brouillé lui promet on menace de lui",
+      "start": 52,
+      "ipa": "[ɛ̃fidelite də tut paʁ ʒɑ̃batist‿ɛt‿atake le fø də lɑ̃fɛʁ laab bʁuje lɥi pʁomɛ ɔ̃ mənas də lɥi]",
+      "ear": "安菲德利特 德 图特 帕赫 让巴蒂斯特 艾特 阿塔克 莱 弗厄 德 朗费赫 拉阿布 布胡耶诶 勒于伊 普霍梅 翁 默纳斯 德 勒于伊",
+      "meaning": "不忠。他四面受敌，有人威胁地狱之火……有人威胁……",
+      "suppliedText": "infidélités de toute part Jean-Baptiste est attaqué les feux de l'enfer laab brouillé lui promet on menace de lui",
+      "sourceLineId": "moliere-timed-785",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 52,
+        "sourceLineNumber": 785,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Crever les yeux dans un pflaet et qu' il le condamne dans son fameux",
+      "start": 60,
+      "ipa": "[kʁəve lez‿jø dɑ̃ œ̃ pflaɛ e k‿il lə kɔ̃dan dɑ̃ sɔ̃ famø]",
+      "ear": "克赫韦 莱兹 耶厄 当 恩 普弗拉艾 诶 克 伊勒 勒 孔达恩 当 松 法默厄",
+      "meaning": "挖出他的眼睛……孔蒂在著名的……（部分识别不清）",
+      "suppliedText": "crever les yeux dans un pflaet et qu' il le condamne dans son fameux",
+      "sourceLineId": "moliere-timed-786",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 60,
+        "sourceLineNumber": 786,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Traité du mais il y a des jours où rien ne va des jours comme ça où tout est B",
+      "start": 67,
+      "ipa": "[tʁɛte dy mɛ il‿i a de ʒuʁ‿u ʁjɛ̃ nə va de ʒuʁ kɔm sa u tut‿ɛ be]",
+      "ear": "特赫特 迪于 梅 伊勒 伊 阿 德 茹赫 乌 赫耶安 讷 瓦 德 茹赫 科姆 萨 乌 图特 艾 贝",
+      "meaning": "论著中谴责他……有些日子，一切都不顺……",
+      "suppliedText": "traité du mais il y a des jours où rien ne va des jours comme ça où tout est B",
+      "sourceLineId": "moliere-timed-787",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 67,
+        "sourceLineNumber": 787,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Des",
+      "start": 75,
+      "ipa": "[de]",
+      "ear": "德",
+      "meaning": "那些……",
+      "suppliedText": "des",
+      "sourceLineId": "moliere-timed-788",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 75,
+        "sourceLineNumber": 788,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Jours. Oui, c'est moi, le prince de Conti, qui ai écrit le fameux Traité de la comédie. Vous ne pouvez plus menacer Molière, vous…",
+      "start": 77,
+      "ipa": "[ʒuʁ wi sɛ mwa lə pʁɛ̃s də kɔ̃ti ki e ekʁi lə famø tʁɛte də la komedi vu nə puve ply mənase moljɛʁ vu]",
+      "ear": "茹赫 乌伊 塞 姆乌阿 勒 普汉斯 德 孔蒂 基 诶 诶克希 勒 法默厄 特赫特 德 拉 科梅迪 乌 讷 普韦 普吕 默纳塞 莫勒耶艾赫 乌",
+      "meaning": "日子。是我，孔蒂亲王，写了著名的《论喜剧》。——您不能再威胁莫里哀，因为您……",
+      "suppliedText": "jours oui c'est moi le prince de comti qui écrit le fameux traité de la comédie vous ne pouvez plus menacer Molière vous",
+      "sourceLineId": "moliere-timed-790",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 77,
+        "sourceLineNumber": 790,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Êtes morts l'année dernière non si ils ont pas fait ça si oh les",
+      "start": 85,
+      "ipa": "[ɛt mɔʁ lane dɛʁnjɛʁ nɔ̃ si ilz‿ɔ̃ pa fɛ sa si ɔ le]",
+      "ear": "艾特 莫赫 拉内 戴赫恩耶艾赫 农 西 伊勒兹 翁 帕 费 萨 西 哦 莱",
+      "meaning": "去年已死了。——不！他们竟这样写！——是啊。——那些……",
+      "suppliedText": "êtes morts l'année dernière non si ils ont pas fait ça si oh les",
+      "sourceLineId": "moliere-timed-791",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 85,
+        "sourceLineNumber": 791,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Bâtards dans la vi mais des",
+      "start": 91,
+      "ipa": "[bataʁ dɑ̃ la vi mɛ de]",
+      "ear": "巴塔赫 当 拉 维 梅 德",
+      "meaning": "混蛋……人生……（部分识别不清）",
+      "suppliedText": "bâtards dans la vi mais des",
+      "sourceLineId": "moliere-timed-792",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 91,
+        "sourceLineNumber": 792,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Jourson m'apporte une plume et du",
+      "start": 97,
+      "ipa": "[ʒuʁsɔ̃ mapɔʁt‿yn plym e dy]",
+      "ear": "茹赫松 玛珀赫特 于恩 普吕姆 诶 迪于",
+      "meaning": "……给我拿来羽毛笔和……",
+      "suppliedText": "jourson m'apporte une plume et du",
+      "sourceLineId": "moliere-timed-793",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 97,
+        "sourceLineNumber": 793,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Papier tout le monde parlera plus que de",
+      "start": 106,
+      "ipa": "[papje tulmɔ̃d paʁləʁa ply kə də]",
+      "ear": "帕普耶诶 图勒蒙德 帕赫勒哈 普吕 克 德",
+      "meaning": "纸。所有人都将只谈……",
+      "suppliedText": "papier tout le monde parlera plus que de",
+      "sourceLineId": "moliere-timed-794",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 106,
+        "sourceLineNumber": 794,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Elle provoquera un nouveau scandale. Le Misanthrope, pièce en cinq actes en vers… qui…",
+      "start": 113,
+      "ipa": "[ɛl pʁovokʁa œ̃ nuvo skɑ̃dal lə mizɑ̃tʁɔp pjɛs‿ɑ̃ sɛ̃k‿akt‿ɑ̃ vɛʁ ki]",
+      "ear": "艾勒 普霍沃克哈 恩 努沃 斯康达勒 勒 米赞特霍普 普耶艾斯 昂 森克 阿克特 昂 韦赫 基",
+      "meaning": "……它会引起新争议。《愤世嫉俗者》，五幕韵文剧……",
+      "suppliedText": "elle provoquera un nouveau scandale le Misanthrope pi Act en ver véritable qui",
+      "sourceLineId": "moliere-timed-796",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 113,
+        "sourceLineNumber": 796,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Sera un échec. L'Amour médecin, comédie… Molière se venge enfin des médecins.",
+      "start": 120,
+      "ipa": "[səʁa œ̃n‿eʃɛk lamuʁ medəsɛ̃ komedi moljɛʁ sə vɑ̃ʒ‿ɑ̃fɛ̃ de medəsɛ̃]",
+      "ear": "瑟哈 恩恩 诶谢克 拉穆赫 梅德森 科梅迪 莫勒耶艾赫 瑟 旺日 昂凡 德 梅德森",
+      "meaning": "……会失败。《爱情医生》，喜剧……莫里哀终于报复医生了。",
+      "suppliedText": "sera un échec L'Amour médecin com B Molière se venge enfin des médecins",
+      "sourceLineId": "moliere-timed-797",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 120,
+        "sourceLineNumber": 797,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pastorale comique, George Dandin, Le Sicilien… Attendez, attendez, mais tout ça va trop…",
+      "start": 127,
+      "ipa": "[pastoʁal komik ʒɔʁʒ dɑ̃dɛ̃ lə sisiljɛ̃ atɑ̃de atɑ̃de mɛ tu sa va tʁo]",
+      "ear": "帕斯托哈勒 科米克 若赫日 当丹 勒 西西勒耶安 阿唐德 阿唐德 梅 图 萨 瓦 特霍",
+      "meaning": "《喜剧牧歌》《乔治·当丹》《西西里人》……等等，这也太……",
+      "suppliedText": "pasteal comque geor DIN le Sicilien làbas attendez attendez mais tout ça va trop",
+      "sourceLineId": "moliere-timed-798",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 127,
+        "sourceLineNumber": 798,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Vite Jean-Baptiste tu as encore rcru par décret royal du 23 février 16",
+      "start": 141,
+      "ipa": "[vit ʒɑ̃batist ty az ɑ̃kɔʁ ʁkʁy paʁ dekʁɛ ʁwajal dy vɛ̃ttʁwa fevʁie sɛz]",
+      "ear": "维特 让巴蒂斯特 蒂于 阿兹 昂科赫 赫克许 帕赫 德克赫 赫乌阿耶阿勒 迪于 万特特赫乌阿 费弗希诶 塞兹",
+      "meaning": "快了。让-巴蒂斯特……按照二月二十三日的皇家敕令……（年份识别不清）",
+      "suppliedText": "vite Jean-Baptiste tu as encore rcru par décret royal du 23 février 16",
+      "sourceLineId": "moliere-timed-800",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 141,
+        "sourceLineNumber": 800,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Sa Majesté Louis X autorise le surmolire à jouer la pièce d'artimpost dans son",
+      "start": 151,
+      "ipa": "[sa maʒɛste lwi iks‿otoʁiz lə syʁmoliʁ‿a ʒwe la pjɛs daʁtɛ̃pɔst dɑ̃ sɔ̃]",
+      "ear": "萨 玛热斯特 勒乌伊 伊克斯 奥托希兹 勒 西于赫莫利赫 阿 日乌诶 拉 普耶艾斯 达赫坦珀斯特 当 松",
+      "meaning": "路易……陛下准许莫里哀上演《伪君子，或骗子》……（部分识别不清）",
+      "suppliedText": "Sa Majesté Louis X autorise le surmolire à jouer la pièce d'artimpost dans son",
+      "sourceLineId": "moliere-timed-801",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 151,
+        "sourceLineNumber": 801,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Théâtre… Mes amis, mes amis, dès demain… sera repris. Et s'il le faut, nous…",
+      "start": 161,
+      "ipa": "[teatʁ mez‿ami mez‿ami dɛ dəmɛ̃ səʁa ʁəpʁi e sil lə fo nu]",
+      "ear": "特阿特赫 梅兹 阿米 梅兹 阿米 戴 德曼 瑟哈 赫普希 诶 西勒 勒 佛 努",
+      "meaning": "在他的剧院。朋友们，明天便重演……如果需要，我们……",
+      "suppliedText": "théâtre le mes amis mes amis dès demain sera repris et s'il le faut nous",
+      "sourceLineId": "moliere-timed-802",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 161,
+        "sourceLineNumber": 802,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Répéterons toute la nuit",
+      "start": 167,
+      "ipa": "[ʁepetʁɔ̃ tut la nɥi]",
+      "ear": "赫佩特洪 图特 拉 恩于伊",
+      "meaning": "彻夜排练。",
+      "suppliedText": "répéterons toute la nuit",
+      "sourceLineId": "moliere-timed-803",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 167,
+        "sourceLineNumber": 803,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

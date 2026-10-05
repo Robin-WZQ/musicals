@@ -10,14 +10,115 @@
   "musicalId": "moliere",
   "trackNumber": 21,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "On a tant marché, avancé contre vents…",
+      "start": 6,
+      "duration": 7
+    },
+    {
+      "text": "Maré on a trébucher on s'est relevé sans",
+      "start": 13,
+      "duration": 8
+    },
+    {
+      "text": "Renoncer. Aujourd'hui tout va bien, très bien, encore mieux que bien ! Le bonheur, c'est comme l'argent : ça va, ça vient. Tout passe, il n'y a pas d'impasse. Non, ne…",
+      "start": 21,
+      "duration": 9
+    },
+    {
+      "text": "Jamais lâcher faire face et face le passé c'est passé qui nous a blessé nos ennuis sont dépassés des problèmes on en",
+      "start": 30,
+      "duration": 7
+    },
+    {
+      "text": "A eu à bien qui fin bien oublier toutes les galères oublier toutes nos misères",
+      "start": 37,
+      "duration": 8
+    },
+    {
+      "text": "On va faire la fête pour dé faire nos défaites on est encore debout cette fois",
+      "start": 45,
+      "duration": 7
+    },
+    {
+      "text": "On ira au bout so on nous ATT lâché t clé et lché on n",
+      "start": 52,
+      "duration": 12
+    },
+    {
+      "text": "Rien lâché on a CV on s'est",
+      "start": 64,
+      "duration": 9
+    },
+    {
+      "text": "Accrochés. Aujourd'hui tout va bien, très bien, encore mieux que bien. Le bonheur… ça va, ça vient. On casse tous les murs des impasses…",
+      "start": 73,
+      "duration": 9
+    },
+    {
+      "text": "Fait place cassous de pass on avait tellement de choses à prouver la vie nous a éprouvé notre rve on l' retrouver",
+      "start": 82,
+      "duration": 9
+    },
+    {
+      "text": "Tout est bien tu finit bien fais le PACT carton fais le PA",
+      "start": 91,
+      "duration": 10
+    },
+    {
+      "text": "Con mes amis mes amis je viens de rencontrer une jeune comédienne d'une rare beauté je vous présente mademoiselle je réalise que j'ai omis de",
+      "start": 101,
+      "duration": 8
+    },
+    {
+      "text": "Demander votre prénom elle s'appelle Armande et elle est mon enfant vous êtes",
+      "start": 109,
+      "duration": 7
+    },
+    {
+      "text": "Molière passe dans ma tête je n'en ai pas le droit je ne peux me le permettre",
+      "start": 118,
+      "duration": 7
+    },
+    {
+      "text": "Cette femme n'est pas pour moi pourquoi de tous les hommes le ciel m'a guidé",
+      "start": 125,
+      "duration": 7
+    },
+    {
+      "text": "Vers la seule personne que je ne peux",
+      "start": 132,
+      "duration": 7
+    },
+    {
+      "text": "Aimer oubliez toutes les galères oubliez toutes misère on va faire laff pour",
+      "start": 139,
+      "duration": 7
+    },
+    {
+      "text": "Défire nos défes on est encore debout cette fome il a au bout ce soir on va",
+      "start": 146,
+      "duration": 7
+    },
+    {
+      "text": "Voir mémoire de nos",
+      "start": 153,
+      "duration": 12
+    },
+    {
+      "text": "Déboir ce soir on va voire la senté de notre va",
+      "start": 174,
+      "duration": 11
+    }
+  ],
   "playbackVideoId": "x-7l2SIxYI0",
   "sourceURL": "https://www.youtube.com/watch?v=x-7l2SIxYI0",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=x-7l2SIxYI0",
@@ -128,10 +229,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250313",
   "productionYear": 2023,
@@ -240,5 +341,132 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 424,
+      "start": 0,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 425,
+      "start": 6,
+      "text": "on attend marcher avancer contreevent c'est"
+    },
+    {
+      "sourceLine": 426,
+      "start": 13,
+      "text": "Maré on a trébucher on s'est relevé sans"
+    },
+    {
+      "sourceLine": 427,
+      "start": 21,
+      "text": "renoncer aujourd'hui tout va bien très bien encore mieux que bien le bonheur c'est comme l'argent ça va ça VI tout passe il n'y a pas d'impasse non ne"
+    },
+    {
+      "sourceLine": 428,
+      "start": 30,
+      "text": "jamais lâcher faire face et face le passé c'est passé qui nous a blessé nos ennuis sont dépassés des problèmes on en"
+    },
+    {
+      "sourceLine": 429,
+      "start": 37,
+      "text": "a eu à bien qui fin bien oublier toutes les galères oublier toutes nos misères"
+    },
+    {
+      "sourceLine": 430,
+      "start": 45,
+      "text": "on va faire la fête pour dé faire nos défaites on est encore debout cette fois"
+    },
+    {
+      "sourceLine": 431,
+      "start": 52,
+      "text": "on ira au bout so on nous ATT lâché t clé et lché on n"
+    },
+    {
+      "sourceLine": 432,
+      "start": 64,
+      "text": "rien lâché on a CV on s'est"
+    },
+    {
+      "sourceLine": 433,
+      "start": 73,
+      "text": "accrochéoches aujourd'hi tout va bien très bien encore mieux que bien le bonheur c'est comme les gens ça va ça bien on casse tous les murs des impasses"
+    },
+    {
+      "sourceLine": 434,
+      "start": 82,
+      "text": "fait place cassous de pass on avait tellement de choses à prouver la vie nous a éprouvé notre rve on l' retrouver"
+    },
+    {
+      "sourceLine": 435,
+      "start": 91,
+      "text": "tout est bien tu finit bien fais le PACT carton fais le PA"
+    },
+    {
+      "sourceLine": 436,
+      "start": 101,
+      "text": "con mes amis mes amis je viens de rencontrer une jeune comédienne d'une rare beauté je vous présente mademoiselle je réalise que j'ai omis de"
+    },
+    {
+      "sourceLine": 437,
+      "start": 109,
+      "text": "demander votre prénom elle s'appelle Armande et elle est mon enfant vous êtes"
+    },
+    {
+      "sourceLine": 438,
+      "start": 116,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 439,
+      "start": 118,
+      "text": "Molière passe dans ma tête je n'en ai pas le droit je ne peux me le permettre"
+    },
+    {
+      "sourceLine": 440,
+      "start": 125,
+      "text": "cette femme n'est pas pour moi pourquoi de tous les hommes le ciel m'a guidé"
+    },
+    {
+      "sourceLine": 441,
+      "start": 132,
+      "text": "vers la seule personne que je ne peux"
+    },
+    {
+      "sourceLine": 442,
+      "start": 139,
+      "text": "aimer oubliez toutes les galères oubliez toutes misère on va faire laff pour"
+    },
+    {
+      "sourceLine": 443,
+      "start": 146,
+      "text": "défire nos défes on est encore debout cette fome il a au bout ce soir on va"
+    },
+    {
+      "sourceLine": 444,
+      "start": 153,
+      "text": "voir mémoire de nos"
+    },
+    {
+      "sourceLine": 445,
+      "start": 165,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 446,
+      "start": 174,
+      "text": "déboir ce soir on va voire la senté de notre va"
+    },
+    {
+      "sourceLine": 447,
+      "start": 185,
+      "text": "[Applaudissements]"
+    }
+  ]
 }

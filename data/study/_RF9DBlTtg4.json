@@ -1,0 +1,261 @@
+{
+  "videoId": "_RF9DBlTtg4",
+  "playbackVideoId": "_RF9DBlTtg4",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=_RF9DBlTtg4"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Les autres, les autres, ils sont comme il faut. Je fais ce qu'il faut pour leur…",
+      "start": 9,
+      "ipa": "[lez‿otʁ lez‿otʁ il sɔ̃ kɔm‿il fo ʒə fɛ sə kil fo puʁ lœʁ]",
+      "ear": "莱兹 奥特赫 莱兹 奥特赫 伊勒 松 科姆 伊勒 佛 热 费 瑟 基勒 佛 普赫 勒厄赫",
+      "meaning": "别人，别人都合乎规范，我做该做的事，只为让他们……",
+      "suppliedText": "les autres les autres ils sont comme une faux je fais ce qu'ils faut pour leur",
+      "sourceLineId": "moliere-timed-193",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 9,
+        "sourceLineNumber": 193,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Plaire, mais ça sonne faux. Pas ma faute, ma faute, si je suis mieux dans ma peau…",
+      "start": 16,
+      "ipa": "[plɛʁ mɛ sa sɔn fo pa ma fot ma fot si ʒə sɥi mjø dɑ̃ ma po]",
+      "ear": "普莱赫 梅 萨 索恩 佛 帕 玛 佛特 玛 佛特 西 热 斯于伊 姆耶厄 当 玛 波",
+      "meaning": "喜欢，可听起来却很假。这不是我的错，如果我更自在……",
+      "suppliedText": "plaire mais ça sonne faut pas ma faute ma faute si je suis mieux dans ma peau",
+      "sourceLineId": "moliere-timed-194",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 16,
+        "sourceLineNumber": 194,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Loin de la lumière et derrière le rideau. Ma terre à moi n'est pas ronde. Je n'ai…",
+      "start": 24,
+      "ipa": "[lwɛ̃ də la lymjɛʁ e dɛʁjɛʁ lə ʁido ma tɛʁ‿a mwa nɛ pa ʁɔ̃d ʒə ne]",
+      "ear": "勒乌安 德 拉 吕姆耶艾赫 诶 戴赫耶艾赫 勒 希多 玛 泰赫 阿 姆乌阿 奈 帕 洪德 热 内",
+      "meaning": "远离灯光，躲在幕布后面。我的世界不是圆的，我没有……",
+      "suppliedText": "loin de la lumière et derrière le rideau ma moi n'est pas ronde je n'ai",
+      "sourceLineId": "moliere-timed-195",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 24,
+        "sourceLineNumber": 195,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pas la bonne attitude. Je ne suis pas fait pour ce monde. Mais rêver, j'en ai…",
+      "start": 32,
+      "ipa": "[pa la bɔn‿atityd ʒə nə sɥi pa fɛ puʁ sə mɔ̃d mɛ ʁɛve ʒɑ̃ e]",
+      "ear": "帕 拉 博恩 阿蒂蒂于德 热 讷 斯于伊 帕 费 普赫 瑟 蒙德 梅 赫韦 让 诶",
+      "meaning": "合适的姿态，我不属于这个世界。可做梦，我早已……",
+      "suppliedText": "pas la bonne attitude je ne suis pas fait pour ce monde mais rêv et j'en ai",
+      "sourceLineId": "moliere-timed-196",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 32,
+        "sourceLineNumber": 196,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "L'habitude. Rêver, j'en ai l'habitude pour m'évader, changer…",
+      "start": 42,
+      "ipa": "[labityd ʁɛve ʒɑ̃ e labityd puʁ mevade ʃɑ̃ʒe]",
+      "ear": "拉比蒂于德 赫韦 让 诶 拉比蒂于德 普赫 梅瓦德 尚热",
+      "meaning": "习惯。做梦，我早已习惯，用它逃离，改变……",
+      "suppliedText": "l'habitude rêve et j'en ai l'habitude pour m'évader changer",
+      "sourceLineId": "moliere-timed-197",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 42,
+        "sourceLineNumber": 197,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "D'attitude, accroché à ma solitude. J'en ai l'habitude, j'en ai…",
+      "start": 52,
+      "ipa": "[datityd akʁoʃe a ma solityd ʒɑ̃ e labityd ʒɑ̃ e]",
+      "ear": "达蒂蒂于德 阿克霍谢 阿 玛 索利蒂于德 让 诶 拉比蒂于德 让 诶",
+      "meaning": "姿态，守着我的孤独。我早已习惯……",
+      "suppliedText": "d'attitude accrocher à ma solitude j'en ai l'habitude j'en ai",
+      "sourceLineId": "moliere-timed-198",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 52,
+        "sourceLineNumber": 198,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "L'habitude. Les autres, les autres, ils ont dans les yeux l'assurance et l'insolence…",
+      "start": 63,
+      "ipa": "[labityd lez‿otʁ lez‿otʁ ilz‿ɔ̃ dɑ̃ lez‿jø lasyʁɑ̃s e lɛ̃solɑ̃s]",
+      "ear": "拉比蒂于德 莱兹 奥特赫 莱兹 奥特赫 伊勒兹 翁 当 莱兹 耶厄 拉西于杭斯 诶 兰索朗斯",
+      "meaning": "别人眼中，有自信和傲气……",
+      "suppliedText": "habitude les autres les autres ils ont dans les yeux l'assurance et l'insolence",
+      "sourceLineId": "moliere-timed-199",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 63,
+        "sourceLineNumber": 199,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Des gens heureux. C'est pas faute, pas faute de tout faire comme eux, mais n'est pas…",
+      "start": 71,
+      "ipa": "[de ʒɑ̃ øʁø sɛ pa fot pa fot də tu fɛʁ kɔm‿ø mɛ nɛ pa]",
+      "ear": "德 让 厄赫厄 塞 帕 佛特 帕 佛特 德 图 费赫 科姆 厄 梅 奈 帕",
+      "meaning": "像幸福的人。我也努力像他们一样，可……",
+      "suppliedText": "des chens heureux c'est pas faute pas faute de tout faire comme mais n'est pas",
+      "sourceLineId": "moliere-timed-200",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 71,
+        "sourceLineNumber": 200,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Toujours heureux celui qui veut. Je veux jouer tous les rôles…",
+      "start": 79,
+      "ipa": "[tuʒuʁ‿øʁø səlɥi ki vø ʒə vø ʒwe tu le ʁol]",
+      "ear": "图茹赫 厄赫厄 瑟勒于伊 基 弗厄 热 弗厄 日乌诶 图 莱 霍勒",
+      "meaning": "幸福不会只凭心愿而来。我想扮演所有角色……",
+      "suppliedText": "toujours heureux celui qui veut je veux jouer tous les rôles",
+      "sourceLineId": "moliere-timed-201",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 79,
+        "sourceLineNumber": 201,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Essayer tous les costumes, les plus sombres et les plus drôles. Mais rêver, j'en ai…",
+      "start": 86,
+      "ipa": "[esɛje tu le kɔstym le ply sɔ̃bʁ e le ply dʁol mɛ ʁɛve ʒɑ̃ e]",
+      "ear": "诶塞耶诶 图 莱 科斯蒂于姆 莱 普吕 松布赫 诶 莱 普吕 德霍勒 梅 赫韦 让 诶",
+      "meaning": "试穿所有戏服，最阴暗的、最滑稽的。可做梦，我早已……",
+      "suppliedText": "essayer tous les costumes les plus sombr les plus drôle mais rêve j'en ai",
+      "sourceLineId": "moliere-timed-202",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 86,
+        "sourceLineNumber": 202,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "L'habitude. Rêver, j'en ai l'habitude pour m'évader, changer…",
+      "start": 95,
+      "ipa": "[labityd ʁɛve ʒɑ̃ e labityd puʁ mevade ʃɑ̃ʒe]",
+      "ear": "拉比蒂于德 赫韦 让 诶 拉比蒂于德 普赫 梅瓦德 尚热",
+      "meaning": "习惯。做梦，我早已习惯，用它逃离，改变……",
+      "suppliedText": "l'habitude rêve j'en ai l'habitude pour m'évader changer",
+      "sourceLineId": "moliere-timed-203",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 95,
+        "sourceLineNumber": 203,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "D'attitude, accroché à ma solitude. J'en ai l'habitude, j'en ai…",
+      "start": 103,
+      "ipa": "[datityd akʁoʃe a ma solityd ʒɑ̃ e labityd ʒɑ̃ e]",
+      "ear": "达蒂蒂于德 阿克霍谢 阿 玛 索利蒂于德 让 诶 拉比蒂于德 让 诶",
+      "meaning": "姿态，守着我的孤独。我早已习惯……",
+      "suppliedText": "d'attitude accrocher à ma solitude j'en ai l'habitude j'en ai",
+      "sourceLineId": "moliere-timed-204",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 103,
+        "sourceLineNumber": 204,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "L'habitude. Je dois m'enivrer d'incertitudes… Sous d'autres…",
+      "start": 112,
+      "ipa": "[labityd ʒə dwa mɑ̃nivʁe dɛ̃sɛʁtityd su dotʁ]",
+      "ear": "拉比蒂于德 热 德乌阿 芒尼弗赫 丹塞赫蒂蒂于德 苏 多特赫",
+      "meaning": "我得沉醉于未知，生活在别的……",
+      "suppliedText": "l'habitude je dois m'en livrer d'incertitude d'incertitud sous contre",
+      "sourceLineId": "moliere-timed-205",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 112,
+        "sourceLineNumber": 205,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Latitudes, me libérer de ma lassitude. J'en ai l'habitude, j'en ai…",
+      "start": 121,
+      "ipa": "[latityd mə libeʁe də ma lasityd ʒɑ̃ e labityd ʒɑ̃ e]",
+      "ear": "拉蒂蒂于德 默 利贝赫 德 玛 拉西蒂于德 让 诶 拉比蒂于德 让 诶",
+      "meaning": "纬度，摆脱倦怠。我早已习惯……",
+      "suppliedText": "l'attitude me libérer de Matitude j'en ai l'habitude j'en ai",
+      "sourceLineId": "moliere-timed-206",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 121,
+        "sourceLineNumber": 206,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "L'habitude. Rêver, j'en ai l'habitude.",
+      "start": 131,
+      "ipa": "[labityd ʁɛve ʒɑ̃ e labityd]",
+      "ear": "拉比蒂于德 赫韦 让 诶 拉比蒂于德",
+      "meaning": "做梦，我早已习惯。",
+      "suppliedText": "l'habitude rêve j'en ai l'habitude",
+      "sourceLineId": "moliere-timed-207",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 131,
+        "sourceLineNumber": 207,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

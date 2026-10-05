@@ -1,0 +1,229 @@
+{
+  "videoId": "1a4HnbB4HrM",
+  "playbackVideoId": "1a4HnbB4HrM",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=1a4HnbB4HrM"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Non, non, ne dis rien, non, ne dis rien. Tous les mots sont…",
+      "start": 1,
+      "ipa": "[nɔ̃ nɔ̃ nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃ tu le mo sɔ̃]",
+      "ear": "农 农 讷 迪 赫耶安 农 讷 迪 赫耶安 图 莱 莫 松",
+      "meaning": "不，什么都别说，别说。所有话语都……",
+      "suppliedText": "non non ne dis rien non ne dis rien tous les mots sont",
+      "sourceLineId": "moliere-timed-694",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 1,
+        "sourceLineNumber": 694,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Inutiles. Tu sais bien, oui, tu sais bien que tout le reste est…",
+      "start": 10,
+      "ipa": "[inytil ty sɛ bjɛ̃ wi ty sɛ bjɛ̃ kə tu lə ʁɛst‿ɛ]",
+      "ear": "伊尼于蒂勒 蒂于 塞 布耶安 乌伊 蒂于 塞 布耶安 克 图 勒 赫斯特 艾",
+      "meaning": "无用。你知道，你知道其余的一切都……",
+      "suppliedText": "inutiles tu sais bien oui tu sais bien que tout le reste est",
+      "sourceLineId": "moliere-timed-695",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 10,
+        "sourceLineNumber": 695,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Futile. Ne dis rien, non, ne dis rien. Pleurer est plus…",
+      "start": 18,
+      "ipa": "[fytil nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃ pløʁe ɛ ply]",
+      "ear": "菲于蒂勒 讷 迪 赫耶安 农 讷 迪 赫耶安 普勒厄赫 艾 普吕",
+      "meaning": "徒然。什么都别说，哭泣更……",
+      "suppliedText": "futile ne dis rien non ne dis rien pleurer est plus",
+      "sourceLineId": "moliere-timed-696",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 18,
+        "sourceLineNumber": 696,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Facile. Tu sais bien que tu n'y peux rien. La vie est…",
+      "start": 26,
+      "ipa": "[fasil ty sɛ bjɛ̃ kə ty ni pø ʁjɛ̃ la vi ɛ]",
+      "ear": "法西勒 蒂于 塞 布耶安 克 蒂于 尼 珀厄 赫耶安 拉 维 艾",
+      "meaning": "容易。你知道自己无能为力，生命是……",
+      "suppliedText": "facile tu sais bien que tu il peut rien la vie est",
+      "sourceLineId": "moliere-timed-697",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 26,
+        "sourceLineNumber": 697,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Fragile. Comment supporter l'insupportable quand la douleur… ?",
+      "start": 34,
+      "ipa": "[fʁaʒil kɔmɑ̃ sypɔʁte lɛ̃sypɔʁtabl kɑ̃ la dulœʁ]",
+      "ear": "弗哈日勒 科芒 西于珀赫特 兰西于珀赫塔布勒 康 拉 杜勒厄赫",
+      "meaning": "脆弱的。痛苦袭来，怎样承受无法承受的事……",
+      "suppliedText": "fragile comment supporter l'insupportable quand la douleur la SER",
+      "sourceLineId": "moliere-timed-698",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 34,
+        "sourceLineNumber": 698,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Comment justifier l'injustifiable quand l'innocence…",
+      "start": 42,
+      "ipa": "[kɔmɑ̃ ʒystifje lɛ̃ʒystifjabl kɑ̃ linosɑ̃s]",
+      "ear": "科芒 日于斯蒂弗耶诶 兰日于斯蒂弗耶阿布勒 康 利诺桑斯",
+      "meaning": "……怎样解释无法解释的事，当无辜……（后半句识别不清）",
+      "suppliedText": "là comment justifier l'injustifiable quand l'innocence que",
+      "sourceLineId": "moliere-timed-699",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 42,
+        "sourceLineNumber": 699,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Et comment accepter l'inacceptable quand on a épuisé toutes…",
+      "start": 48,
+      "ipa": "[e kɔmɑ̃ aksɛpte linaksɛptabl kɑ̃t‿ɔ̃n‿a epɥize tut]",
+      "ear": "诶 科芒 阿克塞普特 利纳克塞普塔布勒 康特 翁恩 阿 诶普于伊泽 图特",
+      "meaning": "……怎样接受无法接受的事，当所有的……",
+      "suppliedText": "toit la femme et comment accepter l'inacceptable quand on a é puisé toutes",
+      "sourceLineId": "moliere-timed-700",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 48,
+        "sourceLineNumber": 700,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Les larmes ? Alors on se désigne comme seul coupable. On devient celui que l'on…",
+      "start": 58,
+      "ipa": "[le laʁm alɔʁ‿ɔ̃ sə deziɲ kɔm sœl kupabl ɔ̃ dəvjɛ̃ səlɥi kə lɔ̃]",
+      "ear": "莱 拉赫姆 阿洛赫 翁 瑟 德齐涅 科姆 瑟厄勒 库帕布勒 翁 德弗耶安 瑟勒于伊 克 隆",
+      "meaning": "眼泪都流尽？我们把自己认作唯一的罪人，变成被……",
+      "suppliedText": "les lâes alors on se désigne comme seul coupable on devient celui que l'on",
+      "sourceLineId": "moliere-timed-701",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 58,
+        "sourceLineNumber": 701,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Blâme. Ne dis rien, non, ne dis rien. Tous les mots sont…",
+      "start": 69,
+      "ipa": "[blam nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃ tu le mo sɔ̃]",
+      "ear": "布拉姆 讷 迪 赫耶安 农 讷 迪 赫耶安 图 莱 莫 松",
+      "meaning": "责怪的人。别说，什么都别说，所有话语都……",
+      "suppliedText": "blâ ne dis rien on ne dit rien tous les mots sont",
+      "sourceLineId": "moliere-timed-702",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 69,
+        "sourceLineNumber": 702,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Inutiles. Tu sais bien, oui, tu sais bien que tout le reste est…",
+      "start": 77,
+      "ipa": "[inytil ty sɛ bjɛ̃ wi ty sɛ bjɛ̃ kə tu lə ʁɛst‿ɛ]",
+      "ear": "伊尼于蒂勒 蒂于 塞 布耶安 乌伊 蒂于 塞 布耶安 克 图 勒 赫斯特 艾",
+      "meaning": "无用。你知道，其余的一切都……",
+      "suppliedText": "inutille tu sais bien oui tu sais bien que tout le reste est",
+      "sourceLineId": "moliere-timed-703",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 77,
+        "sourceLineNumber": 703,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Futile. Ne dis rien, non, ne dis rien. Pleurer est plus…",
+      "start": 86,
+      "ipa": "[fytil nə di ʁjɛ̃ nɔ̃ nə di ʁjɛ̃ pløʁe ɛ ply]",
+      "ear": "菲于蒂勒 讷 迪 赫耶安 农 讷 迪 赫耶安 普勒厄赫 艾 普吕",
+      "meaning": "徒然。别说，什么都别说，哭泣更……",
+      "suppliedText": "futile ne dis rien non ne dit rien plusurer est plus",
+      "sourceLineId": "moliere-timed-704",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 86,
+        "sourceLineNumber": 704,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Facile. Tu sais bien que tu n'y peux rien. La vie est…",
+      "start": 94,
+      "ipa": "[fasil ty sɛ bjɛ̃ kə ty ni pø ʁjɛ̃ la vi ɛ]",
+      "ear": "法西勒 蒂于 塞 布耶安 克 蒂于 尼 珀厄 赫耶安 拉 维 艾",
+      "meaning": "容易。你知道自己无能为力，生命是……",
+      "suppliedText": "facile tu sais bien que tu n'y rien la vie est",
+      "sourceLineId": "moliere-timed-705",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 94,
+        "sourceLineNumber": 705,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Fragile. Ne dis rien.",
+      "start": 103,
+      "ipa": "[fʁaʒil nə di ʁjɛ̃]",
+      "ear": "弗哈日勒 讷 迪 赫耶安",
+      "meaning": "脆弱的。什么都别说。",
+      "suppliedText": "Brasile ne dis rien",
+      "sourceLineId": "moliere-timed-706",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 103,
+        "sourceLineNumber": 706,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

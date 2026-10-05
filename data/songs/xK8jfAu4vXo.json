@@ -10,14 +10,55 @@
   "musicalId": "moliere",
   "trackNumber": 38,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Grâce à Monsieur, nous avons joué devant un roi conquis. Il autorisa enfin Tartuffe, mais sans le consigner par écrit.",
+      "start": 2,
+      "duration": 6
+    },
+    {
+      "text": "J'aurais nu sans relâche, nous avons répété et la première représentation fut un grand succès. Mais le bonheur de Jean-Baptiste fut gâché par l'absence de",
+      "start": 8,
+      "duration": 7
+    },
+    {
+      "text": "Son père que l'on disait en fort mauvaise santé. Et figurez-vous que ce n'est pas tout car le lendemain, juste avant que le rideau ne se lève enfin,",
+      "start": 15,
+      "duration": 8
+    },
+    {
+      "text": "Jean-Baptiste, regarde ! Mesdames et messieurs, attention, il n'y aura plus de représentation. Notre Tartuffe est…",
+      "start": 23,
+      "duration": 8
+    },
+    {
+      "text": "Toujours sous le coup de l'interdiction. Non, pas question ! Le roi nous a donné sa permission.",
+      "start": 31,
+      "duration": 8
+    },
+    {
+      "text": "Avez-vous un écrit ? Non, il me l'a dit.",
+      "start": 39,
+      "duration": 3
+    },
+    {
+      "text": "Ah, ça c'est bien dommage. Moi un de périfix en ma qualité d'évêque de je décrète l'interdiction. Je fais",
+      "start": 42,
+      "duration": 9
+    },
+    {
+      "text": "L'excommunication de voir représenter la pièce intitulée Tartuffe ou l'Imposteur. Ah !",
+      "start": 51,
+      "duration": 7
+    }
+  ],
   "playbackVideoId": "xK8jfAu4vXo",
   "sourceURL": "https://www.youtube.com/watch?v=xK8jfAu4vXo",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=xK8jfAu4vXo",
@@ -68,10 +109,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250329",
   "productionYear": 2023,
@@ -120,5 +161,57 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 747,
+      "start": 0,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 748,
+      "start": 2,
+      "text": "Grâce à monsieur, nous avons joué devant un roi conquis. Il autorisa enfin Tartu mais sans le consigner par écrit."
+    },
+    {
+      "sourceLine": 749,
+      "start": 8,
+      "text": "J'aurais nu sans relâche, nous avons répété et la première représentation fut un grand succès. Mais le bonheur de Jean-Baptiste fut gâché par l'absence de"
+    },
+    {
+      "sourceLine": 750,
+      "start": 15,
+      "text": "son père que l'on disait en fort mauvaise santé. Et figurez-vous que ce n'est pas tout car le lendemain, juste avant que le rideau ne se lève enfin,"
+    },
+    {
+      "sourceLine": 751,
+      "start": 23,
+      "text": "Jean-Baptiste regarde. Mesdames et messieurs, attention, il y aura plus de représentation. Notre guest Arthur est"
+    },
+    {
+      "sourceLine": 752,
+      "start": 31,
+      "text": "toujours sous le coup de l'interviction. Non, pas question. Le roi nous a donné sa permission."
+    },
+    {
+      "sourceLine": 753,
+      "start": 39,
+      "text": "Avez-vous un écrit ? Non, il me l'a dit."
+    },
+    {
+      "sourceLine": 754,
+      "start": 42,
+      "text": "Ah, ça c'est bien dommage. Moi un de périfix en ma qualité d'évêque de je décrète l'interdiction. Je fais"
+    },
+    {
+      "sourceLine": 755,
+      "start": 51,
+      "text": "l'excommunication de voir représenter la pièce intitulée Tartu ou le booster. Ah."
+    }
+  ]
 }

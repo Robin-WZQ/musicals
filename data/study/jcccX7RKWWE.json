@@ -1,0 +1,341 @@
+{
+  "videoId": "jcccX7RKWWE",
+  "playbackVideoId": "jcccX7RKWWE",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=jcccX7RKWWE"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Dans mon corps une amère douleur qui ne cesse de me",
+      "start": 2,
+      "ipa": "[dɑ̃ mɔ̃ kɔʁ‿yn‿amɛʁ dulœʁ ki nə sɛs də mə]",
+      "ear": "当 蒙 科赫 于恩 阿梅赫 杜勒厄赫 基 讷 塞斯 德 默",
+      "meaning": "我的身体里有一种苦痛，持续侵蚀我……",
+      "suppliedText": "dans mon corps une amère douleur qui ne cesse de me",
+      "sourceLineId": "moliere-timed-275",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 2,
+        "sourceLineNumber": 275,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Ronger que vaisje faire du fruit de mon labeur à qui faisje un jour le",
+      "start": 9,
+      "ipa": "[ʁɔ̃ʒe kə vɛzʒ fɛʁ dy fʁɥi də mɔ̃ labœʁ‿a ki fɛzʒ‿œ̃ ʒuʁ lə]",
+      "ear": "洪热 克 韦兹日 费赫 迪于 弗赫于伊 德 蒙 拉伯厄赫 阿 基 费兹日 恩 茹赫 勒",
+      "meaning": "辛劳所得该怎么处理？有一天要交给……",
+      "suppliedText": "ronger que vaisje faire du fruit de mon labeur à qui faisje un jour le",
+      "sourceLineId": "moliere-timed-276",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 9,
+        "sourceLineNumber": 276,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Cédé ce fils pour qui je me suis sacrifié à refusé ce que je lui ai",
+      "start": 16,
+      "ipa": "[sede sə fis puʁ ki ʒə mə sɥi sakʁifje a ʁəfyze sə kə ʒə lɥi e]",
+      "ear": "塞德 瑟 菲斯 普赫 基 热 默 斯于伊 萨克希弗耶诶 阿 赫菲于泽 瑟 克 热 勒于伊 诶",
+      "meaning": "谁？我为儿子牺牲一切，他却拒绝我给他的……",
+      "suppliedText": "cédé ce fils pour qui je me suis sacrifié à refusé ce que je lui ai",
+      "sourceLineId": "moliere-timed-277",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 16,
+        "sourceLineNumber": 277,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Offer ce métier qu' a méprisé et qui me rendait si fière oh la triste",
+      "start": 24,
+      "ipa": "[ɔfe sə metje k‿a mepʁize e ki mə ʁɑ̃dɛ si fjɛʁ‿ɔ la tʁist]",
+      "ear": "哦费 瑟 梅特耶诶 克 阿 梅普希泽 诶 基 默 杭戴 西 弗耶艾赫 哦 拉 特希斯特",
+      "meaning": "职业，轻视我一直引以为傲的手艺。啊，悲哀的……",
+      "suppliedText": "offer ce métier qu' a méprisé et qui me rendait si fière oh la triste",
+      "sourceLineId": "moliere-timed-278",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 24,
+        "sourceLineNumber": 278,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Vie oh la triste",
+      "start": 33,
+      "ipa": "[vi ɔ la tʁist]",
+      "ear": "维 哦 拉 特希斯特",
+      "meaning": "人生，悲哀的……",
+      "suppliedText": "vie oh la triste",
+      "sourceLineId": "moliere-timed-279",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 33,
+        "sourceLineNumber": 279,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Vie nous avons passé TR qu années dans cette région d'une extrême beauté nous",
+      "start": 45,
+      "ipa": "[vi nuz‿avɔ̃ pase teɛʁ k‿ane dɑ̃ sɛt ʁeʒjɔ̃ dyn‿ɛkstʁɛm bote nu]",
+      "ear": "维 努兹 阿翁 帕塞 特艾赫 克 阿内 当 塞特 赫日耶翁 迪于恩 艾克斯特赫姆 博特 努",
+      "meaning": "人生。我们在这片美丽的土地生活了几年……",
+      "suppliedText": "vie nous avons passé TR qu années dans cette région d'une extrême beauté nous",
+      "sourceLineId": "moliere-timed-282",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 45,
+        "sourceLineNumber": 282,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Étions loger nous y payer à exercer notre métier",
+      "start": 53,
+      "ipa": "[etjɔ̃ loʒe nuz‿i pɛje a ɛɡzɛʁse notʁ metje]",
+      "ear": "诶特耶翁 洛热 努兹 伊 佩耶诶 阿 艾格泽赫塞 诺特赫 梅特耶诶",
+      "meaning": "有住处，有报酬，可以从事自己的职业。",
+      "suppliedText": "étions loger nous y payer à exercer notre métier",
+      "sourceLineId": "moliere-timed-283",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 53,
+        "sourceLineNumber": 283,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Jean-Baptiste a passé son temps dans les villages à observer les gens à étudier",
+      "start": 61,
+      "ipa": "[ʒɑ̃batist‿a pase sɔ̃ tɑ̃ dɑ̃ le vilaʒ‿a ɔbsɛʁve le ʒɑ̃ a etydje]",
+      "ear": "让巴蒂斯特 阿 帕塞 松 唐 当 莱 维拉日 阿 哦布塞赫韦 莱 让 阿 诶蒂于德耶诶",
+      "meaning": "让-巴蒂斯特在村庄里观察人们，研究……",
+      "suppliedText": "Jean-Baptiste a passé son temps dans les villages à observer les gens à étudier",
+      "sourceLineId": "moliere-timed-284",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 61,
+        "sourceLineNumber": 284,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Leur comportement, tout en… ses réflexions…",
+      "start": 69,
+      "ipa": "[lœʁ kɔ̃pɔʁtəmɑ̃ tut‿ɑ̃ se ʁeflɛksjɔ̃]",
+      "ear": "勒厄赫 孔珀赫特芒 图特 昂 塞 赫弗莱克斯耶翁",
+      "meaning": "他们的行为，记录思考……（末尾识别不清）",
+      "suppliedText": "leur comportement tout en aant ses réflexions l'ppelle",
+      "sourceLineId": "moliere-timed-285",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 69,
+        "sourceLineNumber": 285,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "F l'appelle F on l'appelle F sous la protection du",
+      "start": 77,
+      "ipa": "[ɛf lapɛl‿ɛf‿ɔ̃ lapɛl‿ɛf su la pʁotɛksjɔ̃ dy]",
+      "ear": "艾弗 拉佩勒 艾弗 翁 拉佩勒 艾弗 苏 拉 普霍泰克斯耶翁 迪于",
+      "meaning": "……人们这样叫他……（识别不清）",
+      "suppliedText": "F l'appelle F on l'appelle F sous la protection du",
+      "sourceLineId": "moliere-timed-286",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 77,
+        "sourceLineNumber": 286,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Prince de con nous a",
+      "start": 85,
+      "ipa": "[pʁɛ̃s də kɔ̃ nuz‿a]",
+      "ear": "普汉斯 德 孔 努兹 阿",
+      "meaning": "在孔蒂亲王的庇护下，我们……",
+      "suppliedText": "prince de con nous a",
+      "sourceLineId": "moliere-timed-287",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 85,
+        "sourceLineNumber": 287,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Autorisé à nous produire dans les environs mais à force de joué nous",
+      "start": 92,
+      "ipa": "[otoʁize a nu pʁodɥiʁ dɑ̃ lez‿ɑ̃viʁɔ̃ mɛ a fɔʁs də ʒwe nu]",
+      "ear": "奥托希泽 阿 努 普霍德于伊赫 当 莱兹 昂维洪 梅 阿 佛赫斯 德 日乌诶 努",
+      "meaning": "可以在周边演出，但演得多了……",
+      "suppliedText": "autorisé à nous produire dans les environs mais à force de joué nous",
+      "sourceLineId": "moliere-timed-288",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 92,
+        "sourceLineNumber": 288,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Avions épuisé tous les livret dont nous disposions nouveau livret plus de pièces",
+      "start": 98,
+      "ipa": "[avjɔ̃ epɥize tu le livʁɛ dɔ̃ nu dispozjɔ̃ nuvo livʁɛ ply də pjɛs]",
+      "ear": "阿弗耶翁 诶普于伊泽 图 莱 利弗赫 东 努 迪斯波兹耶翁 努沃 利弗赫 普吕 德 普耶艾斯",
+      "meaning": "手上的剧本都演完了，没有新本子，没有戏……",
+      "suppliedText": "avions épuisé tous les livret dont nous disposions nouveau livret plus de pièces",
+      "sourceLineId": "moliere-timed-289",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 98,
+        "sourceLineNumber": 289,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "À jouer il nous était impossible de nous en procurer alors dans la plus grande discrétion je me suis mise à écrire ma",
+      "start": 106,
+      "ipa": "[a ʒwe il nuz‿etɛ ɛ̃pɔsibl də nuz‿ɑ̃ pʁokyʁe alɔʁ dɑ̃ la ply ɡʁɑ̃d diskʁesjɔ̃ ʒə mə sɥi miz‿a ekʁiʁ ma]",
+      "ear": "阿 日乌诶 伊勒 努兹 诶泰 安珀西布勒 德 努兹 昂 普霍基于赫 阿洛赫 当 拉 普吕 格杭德 迪斯克赫斯耶翁 热 默 斯于伊 米兹 阿 诶克希赫 玛",
+      "meaning": "可演，也无法弄到新本子。于是我悄悄开始写……",
+      "suppliedText": "à jouer il nous était impossible de nous en procurer alors dans la plus grande discrétion je me suis mise à écrire ma",
+      "sourceLineId": "moliere-timed-290",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 106,
+        "sourceLineNumber": 290,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Première comédie Madeleine je te prie de garder un temps le secret car je ne suis pas",
+      "start": 115,
+      "ipa": "[pʁəmjɛʁ komedi madlɛn ʒə tə pʁi də ɡaʁde œ̃ tɑ̃ lə səkʁɛ kaʁ ʒə nə sɥi pa]",
+      "ear": "普赫姆耶艾赫 科梅迪 玛德莱恩 热 特 普希 德 嘎赫德 恩 唐 勒 瑟克赫 卡赫 热 讷 斯于伊 帕",
+      "meaning": "第一部喜剧。玛德莱娜，求你暂时保密，我还不……",
+      "suppliedText": "première comédie Madeleine je te prie de garder un temps le secret car je ne suis pas",
+      "sourceLineId": "moliere-timed-291",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 115,
+        "sourceLineNumber": 291,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Très sûr de la qualité évidemment mais voilà mes amis nous allons sur le champ",
+      "start": 122,
+      "ipa": "[tʁɛ syʁ də la kalite evidamɑ̃ mɛ vwala mez‿ami nuz‿alɔ̃ syʁ lə ʃɑ̃]",
+      "ear": "特赫 西于赫 德 拉 卡利特 诶维达芒 梅 弗乌阿拉 梅兹 阿米 努兹 阿隆 西于赫 勒 尚",
+      "meaning": "确定质量。——当然。——朋友们，我们立即……",
+      "suppliedText": "très sûr de la qualité évidemment mais voilà mes amis nous allons sur le champ",
+      "sourceLineId": "moliere-timed-292",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 122,
+        "sourceLineNumber": 292,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Commencer les répétitions d'une pièce intitulée L'Étourdi ou les Contretemps. Et vous pouvez tous en être fiers, car il…",
+      "start": 129,
+      "ipa": "[kɔmɑ̃se le ʁepetisjɔ̃ dyn pjɛs‿ɛ̃tityle letuʁdi u le kɔ̃tʁətɑ̃ e vu puve tus‿ɑ̃n‿ɛtʁ fjɛʁ kaʁ‿il]",
+      "ear": "科芒塞 莱 赫佩蒂斯耶翁 迪于恩 普耶艾斯 安蒂蒂于莱 莱图赫迪 乌 莱 孔特赫唐 诶 乌 普韦 图斯 昂恩 艾特赫 弗耶艾赫 卡赫 伊勒",
+      "meaning": "排练《冒失鬼，或意外》。大家都能为它骄傲，因为这是……",
+      "suppliedText": "commencer les répétitions d'une pièce intitulée l'étourdis ou le contetemps et vous pouvez tous en être fier car il",
+      "sourceLineId": "moliere-timed-293",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 129,
+        "sourceLineNumber": 293,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "S'agit de la première pièce de monsieur Molière. La belle…",
+      "start": 136,
+      "ipa": "[saʒi də la pʁəmjɛʁ pjɛs də məsjø moljɛʁ la bɛl]",
+      "ear": "萨日 德 拉 普赫姆耶艾赫 普耶艾斯 德 默斯耶厄 莫勒耶艾赫 拉 贝勒",
+      "meaning": "莫里哀先生的第一部戏。美好的……",
+      "suppliedText": "s'agit de la première pièce de Monsieur mère la belle",
+      "sourceLineId": "moliere-timed-294",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 136,
+        "sourceLineNumber": 294,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Vie oh la belle la belle",
+      "start": 142,
+      "ipa": "[vi ɔ la bɛl la bɛl]",
+      "ear": "维 哦 拉 贝勒 拉 贝勒",
+      "meaning": "生活，啊，美好的生活……",
+      "suppliedText": "vie oh la belle la belle",
+      "sourceLineId": "moliere-timed-295",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 142,
+        "sourceLineNumber": 295,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Prottion",
+      "start": 149,
+      "ipa": "[pʁɔtjɔ̃]",
+      "ear": "普霍特耶翁",
+      "meaning": "庇护……（片段识别不清）",
+      "suppliedText": "prottion",
+      "sourceLineId": "moliere-timed-296",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 149,
+        "sourceLineNumber": 296,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

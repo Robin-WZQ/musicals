@@ -1,0 +1,581 @@
+{
+  "videoId": "DfNkuu0ENTI",
+  "playbackVideoId": "DfNkuu0ENTI",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=DfNkuu0ENTI"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Jean-Baptiste, où es-tu ? Jean-Baptiste ! Cet homme s'appelle Jean…",
+      "start": 0,
+      "ipa": "[ʒɑ̃batist u ɛty ʒɑ̃batist sɛt‿ɔm sapɛl ʒɑ̃]",
+      "ear": "让巴蒂斯特 乌 艾蒂于 让巴蒂斯特 塞特 哦姆 萨佩勒 让",
+      "meaning": "让-巴蒂斯特，你在哪儿？这个人叫让……",
+      "suppliedText": "Jean-Baptiste où es-tu Jean-Baptiste cet homme s'appelle Jean",
+      "sourceLineId": "moliere-timed-1",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 0,
+        "sourceLineNumber": 1,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Jean Poquelin, exactement. Il cherche son fils Jean-Baptiste Poquelin, précisément. Il est le père de celui qui se nomme Molière.",
+      "start": 8,
+      "ipa": "[ʒɑ̃ poklɛ̃ ɛɡzaktəmɑ̃ il ʃɛʁʃ sɔ̃ fis ʒɑ̃batist poklɛ̃ pʁesizemɑ̃ il‿ɛ lə pɛʁ də səlɥi ki sə nɔm moljɛʁ]",
+      "ear": "让 波克兰 艾格扎克特芒 伊勒 谢赫什 松 菲斯 让巴蒂斯特 波克兰 普赫西泽芒 伊勒 艾 勒 佩赫 德 瑟勒于伊 基 瑟 诺姆 莫勒耶艾赫",
+      "meaning": "准确地说，他叫让·波克兰，正在寻找儿子让-巴蒂斯特·波克兰，也就是后来叫作莫里哀的人。",
+      "suppliedText": "jeanpelin exactement il cherche son fils Jean Jean-Baptiste pelin précisément il est le père de celui qui se nomme rolier",
+      "sourceLineId": "moliere-timed-2",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 8,
+        "sourceLineNumber": 2,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Il est très, très en colère, car son fils lui fait des misères. Où te caches-tu, Jean-Baptiste ? Tu dois revenir à la raison. Dans notre famille, il n'y a…",
+      "start": 16,
+      "ipa": "[il‿ɛ tʁɛ tʁɛz‿ɑ̃ kolɛʁ kaʁ sɔ̃ fis lɥi fɛ de mizɛʁ u tə kaʃty ʒɑ̃batist ty dwa ʁəvniʁ‿a la ʁɛzɔ̃ dɑ̃ notʁ famij il ni a]",
+      "ear": "伊勒 艾 特赫 特赫兹 昂 科莱赫 卡赫 松 菲斯 勒于伊 费 德 米泽赫 乌 特 卡什蒂于 让巴蒂斯特 蒂于 德乌阿 赫弗尼赫 阿 拉 赫宗 当 诺特赫 法米耶 伊勒 尼 阿",
+      "meaning": "他十分愤怒，儿子让他操碎了心。让-巴蒂斯特，你躲在哪里？你该清醒了，我们家没有……",
+      "suppliedText": "jeanbap il est très très en colère car son fils lui fait des misères o te casses-tu Jean-Baptiste tu dois revenir à la raison dans notre famille il n'y a",
+      "sourceLineId": "moliere-timed-3",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 16,
+        "sourceLineNumber": 3,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pas d'artistes, seulement de simples et honnêtes gens. Pourquoi cette ingratitude ? Moi qui t'ai tout donné, qui t'ai offert de belles études et enseigné le plus…",
+      "start": 23,
+      "ipa": "[pa daʁtist sølmɑ̃ də sɛ̃pl e ɔnɛt ʒɑ̃ puʁkwa sɛt‿ɛ̃ɡʁatityd mwa ki te tu dɔne ki te ɔfɛʁ də bɛl‿etyd e ɑ̃sɛnje lə ply]",
+      "ear": "帕 达赫蒂斯特 瑟厄勒芒 德 森普勒 诶 哦奈特 让 普赫克乌阿 塞特 安格哈蒂蒂于德 姆乌阿 基 特 图 多内 基 特 哦费赫 德 贝勒 诶蒂于德 诶 昂塞恩耶诶 勒 普吕",
+      "meaning": "艺术家，只有朴实正直的人。为什么如此忘恩负义？我把一切给了你，让你接受良好的教育，教你最……",
+      "suppliedText": "pas d'artiste seulement de simples et honnêtes gens pourquoi c'est inratitude moi qui t'ai tout donné qui t'ai offert de belles études et enseigner le plus",
+      "sourceLineId": "moliere-timed-4",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 23,
+        "sourceLineNumber": 4,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Beau des métiers. Aujourd'hui, je dois te céder du roi la charge de tapissier. On ne peut mieux rêver quand on est comme moi… Qui t'a mis en tête cette…",
+      "start": 31,
+      "ipa": "[bo de metje oʒuʁdɥi ʒə dwa tə sede dy ʁwa la ʃaʁʒ də tapisje ɔ̃ nə pø mjø ʁɛve kɑ̃t‿ɔ̃n‿ɛ kɔm mwa ki ta mi ɑ̃ tɛt sɛt]",
+      "ear": "博 德 梅特耶诶 奥茹赫德于伊 热 德乌阿 特 塞德 迪于 赫乌阿 拉 沙赫日 德 塔皮斯耶诶 翁 讷 珀厄 姆耶厄 赫韦 康特 翁恩 艾 科姆 姆乌阿 基 塔 米 昂 泰特 塞特",
+      "meaning": "好的手艺。今天我要把御用挂毯师的职位交给你……是谁让你产生这种……",
+      "suppliedText": "beau des métiers aujourd'hui je dois te céder tu roi la charge de tafficier on ne peut mieux rêver quand on est comme moi rurier qui t'a mis en tête cette te",
+      "sourceLineId": "moliere-timed-5",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 31,
+        "sourceLineNumber": 5,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Folle idée de vouloir devenir comédien ? Tu dois chasser de tes pensées toutes ces… Tu finiras par…",
+      "start": 39,
+      "ipa": "[fɔl‿ide də vulwaʁ dəvniʁ komedjɛ̃ ty dwa ʃase də te pɑ̃se tut se ty finiʁa paʁ]",
+      "ear": "佛勒 伊德 德 乌勒乌阿赫 德弗尼赫 科梅德耶安 蒂于 德乌阿 沙塞 德 特 庞塞 图特 塞 蒂于 菲尼哈 帕赫",
+      "meaning": "想当演员的疯狂念头？你必须打消那些想法……你终会……",
+      "suppliedText": "folle idée de vouloir devenir comédien tu dois chasser de tes pensées toutes ces fes d'in finira par",
+      "sourceLineId": "moliere-timed-6",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 39,
+        "sourceLineNumber": 6,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Tomber, tomber, tomber. Bonjour, monsieur Poquelin. Je ne vous connais pas, monsieur. Enfin, c'est…",
+      "start": 47,
+      "ipa": "[tɔ̃be tɔ̃be tɔ̃be bɔ̃ʒuʁ məsjø poklɛ̃ ʒə nə vu kɔnɛ pa məsjø ɑ̃fɛ̃ sɛ]",
+      "ear": "通贝 通贝 通贝 崩茹赫 默斯耶厄 波克兰 热 讷 乌 科奈 帕 默斯耶厄 昂凡 塞",
+      "meaning": "跌落，跌落，跌落。你好，波克兰先生。——我不认识你。——是我呀……",
+      "suppliedText": "tomber tomber tomber bonjour monsieur poelin je ne vous connais pas monsieur enfin c'est",
+      "sourceLineId": "moliere-timed-7",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 47,
+        "sourceLineNumber": 7,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Moi, Joseph Béjart. Je refuse de saluer le frère de la maudite comédienne que tout Paris appelle Madeleine. Et que…",
+      "start": 55,
+      "ipa": "[mwa ʒozɛf beʒaʁ ʒə ʁəfyz də salye lə fʁɛʁ də la modit komedjɛn kə tu paʁi apɛl madlɛn e kə]",
+      "ear": "姆乌阿 若泽弗 贝扎赫 热 赫菲于兹 德 萨吕诶 勒 弗赫赫 德 拉 莫迪特 科梅德耶艾恩 克 图 帕希 阿佩勒 玛德莱恩 诶 克",
+      "meaning": "约瑟夫·贝雅尔。我拒绝向那个女演员的兄弟致意，整个巴黎都叫她玛德莱娜。——你到底……",
+      "suppliedText": "moi Joseph Béjard je refuse de saluer le frère de la maudite comédienne que tout Paris appelle Madeleine et que",
+      "sourceLineId": "moliere-timed-8",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 55,
+        "sourceLineNumber": 8,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Reprochez-vous donc à notre sœur Madeleine ? Mère de tous les vices, sournoise et manipulatrice. Je dois retrouver mon fils et le libérer de son…",
+      "start": 62,
+      "ipa": "[ʁəpʁoʃevu dɔ̃k‿a notʁ sœʁ madlɛn mɛʁ də tu le vis suʁnwaz e manipylatʁis ʒə dwa ʁətʁuve mɔ̃ fis e lə libeʁe də sɔ̃]",
+      "ear": "赫普霍谢乌 东克 阿 诺特赫 瑟厄赫 玛德莱恩 梅赫 德 图 莱 维斯 苏赫恩乌阿兹 诶 玛尼普于拉特希斯 热 德乌阿 赫特胡韦 蒙 菲斯 诶 勒 利贝赫 德 松",
+      "meaning": "责怪我们的姐姐什么？——她是万恶之源，阴险又善于操纵。我得找到儿子，让他摆脱她的……",
+      "suppliedText": "reprochez-vous donc à notre sœur Madeleine mère de tous les vices sournoises et manipulatrice je dois retrouver mon fils et le libérer de son",
+      "sourceLineId": "moliere-timed-9",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 62,
+        "sourceLineNumber": 9,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Emprise. Où te caches-tu, Jean-Baptiste ? Où te caches-tu ?",
+      "start": 70,
+      "ipa": "[ɑ̃pʁiz u tə kaʃty ʒɑ̃batist u tə kaʃty]",
+      "ear": "昂普希兹 乌 特 卡什蒂于 让巴蒂斯特 乌 特 卡什蒂于",
+      "meaning": "控制。让-巴蒂斯特，你躲在哪里？",
+      "suppliedText": "enfrise où te caches-tu Jean-Baptiste où te caches-tu",
+      "sourceLineId": "moliere-timed-10",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 70,
+        "sourceLineNumber": 10,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Jean-Baptiste ! Je m'appelle Jean-Baptiste, Jean-Baptiste Poquelin. Tapissier ou artiste, aujourd'hui… mon destin. Ce même…",
+      "start": 78,
+      "ipa": "[ʒɑ̃batist ʒə mapɛl ʒɑ̃batist ʒɑ̃batist poklɛ̃ tapisje u aʁtist oʒuʁdɥi mɔ̃ dɛstɛ̃ sə mɛm]",
+      "ear": "让巴蒂斯特 热 玛佩勒 让巴蒂斯特 让巴蒂斯特 波克兰 塔皮斯耶诶 乌 阿赫蒂斯特 奥茹赫德于伊 蒙 戴斯坦 瑟 梅姆",
+      "meaning": "我叫让-巴蒂斯特·波克兰。挂毯师还是艺术家？今天……我的命运。那个……",
+      "suppliedText": "Jean-Baptiste je m'appelle Jean-Baptiste Jean-Baptiste pool tapissier ou artiste aujourd'hui c'est je mon destin ce même",
+      "sourceLineId": "moliere-timed-11",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 78,
+        "sourceLineNumber": 11,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Destin qui m'a pris ma mère que j'aimais tant. Si le bonheur a un prix, je l'ai payé il y a longtemps. Mon enfance fut solitaire et la souffrance était ma…",
+      "start": 85,
+      "ipa": "[dɛstɛ̃ ki ma pʁi ma mɛʁ kə ʒɛmɛ tɑ̃ si lə bɔnœʁ‿a œ̃ pʁi ʒə le pɛje il‿i a lɔ̃tɑ̃ mɔ̃n‿ɑ̃fɑ̃s fy solitɛʁ e la sufʁɑ̃s‿etɛ ma]",
+      "ear": "戴斯坦 基 玛 普希 玛 梅赫 克 热梅 唐 西 勒 博讷厄赫 阿 恩 普希 热 莱 佩耶诶 伊勒 伊 阿 隆唐 蒙恩 昂芳斯 菲于 索利泰赫 诶 拉 苏弗杭斯 诶泰 玛",
+      "meaning": "夺走我深爱的母亲的命运。若幸福有代价，我早已付过。童年孤独，痛苦是我……",
+      "suppliedText": "destin qui m'a pris ma mère que j'imis temps si le bonheur a un prix je l'ai payé il y a longtemps mon enfance F solitaire et la souffrance était ma",
+      "sourceLineId": "moliere-timed-12",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 85,
+        "sourceLineNumber": 12,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Seule amie, jusqu'au jour où mon grand-père m'a ouvert les yeux à la vie. Il m'a emmené traîner dans les rues de Paris où j'ai réappris à aimer, puis à…",
+      "start": 94,
+      "ipa": "[sœl‿ami ʒysko ʒuʁ‿u mɔ̃ ɡʁɑ̃pɛʁ ma uvɛʁ lez‿jø a la vi il ma ɑ̃mne tʁɛne dɑ̃ le ʁy də paʁi u ʒe ʁeapʁi a ɛme pɥi a]",
+      "ear": "瑟厄勒 阿米 日于斯科 茹赫 乌 蒙 格杭佩赫 玛 乌韦赫 莱兹 耶厄 阿 拉 维 伊勒 玛 昂姆内 特赫内 当 莱 许 德 帕希 乌 热 赫阿普希 阿 艾梅 普于伊 阿",
+      "meaning": "唯一的朋友，直到祖父让我重新看见生活。他带我走过巴黎街头，让我重新学会爱，也学会……",
+      "suppliedText": "seule amie jusqu'au jour où mon grand-père m'a ouvert les yeux à la vie il m'a emmené traîner dans les rues de Paris où j'ai réappris à aimer puis à",
+      "sourceLineId": "moliere-timed-13",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 94,
+        "sourceLineNumber": 13,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Rire de la vie. Tu finiras par tomber, tomber, tomber. À…",
+      "start": 102,
+      "ipa": "[ʁiʁ də la vi ty finiʁa paʁ tɔ̃be tɔ̃be tɔ̃be a]",
+      "ear": "希赫 德 拉 维 蒂于 菲尼哈 帕赫 通贝 通贝 通贝 阿",
+      "meaning": "笑对人生。你终会跌落，跌落，跌落……",
+      "suppliedText": "rire de la vie finira par tomber tomber tomber à",
+      "sourceLineId": "moliere-timed-14",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 102,
+        "sourceLineNumber": 14,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Mon grand-père m'a initié… à la commedia et aux spectacles de rue. Dans les théâtres, j'ai…",
+      "start": 114,
+      "ipa": "[mɔ̃ ɡʁɑ̃pɛʁ ma inisje a la kɔmdja e o spɛktakl də ʁy dɑ̃ le teatʁ ʒe]",
+      "ear": "蒙 格杭佩赫 玛 伊尼斯耶诶 阿 拉 科姆德耶阿 诶 奥 斯佩克塔克勒 德 许 当 莱 特阿特赫 热",
+      "meaning": "……祖父带我接触喜剧和街头表演。在剧院里，我……",
+      "suppliedText": "vouloirueilité mon grand-père m'a initié au gen vra rusouru à la Comédia é au spectacle de rue dans les théâtres j'ai",
+      "sourceLineId": "moliere-timed-15",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 114,
+        "sourceLineNumber": 15,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Découvert les prémices de ma passion. Le décor et son envers sont devenus mon obsession. Mais mon père a tout réglé : non, il ne me laissera pas le choix. Du roi, je…",
+      "start": 122,
+      "ipa": "[dekuvɛʁ le pʁemis də ma pasjɔ̃ lə dekɔʁ e sɔ̃n‿ɑ̃vɛʁ sɔ̃ dəvny mɔ̃n‿ɔbsɛsjɔ̃ mɛ mɔ̃ pɛʁ‿a tu ʁeɡle nɔ̃ il nə mə lɛsʁa pa lə ʃwa dy ʁwa ʒə]",
+      "ear": "德库韦赫 莱 普赫米斯 德 玛 帕斯耶翁 勒 德科赫 诶 松恩 昂韦赫 松 德弗尼于 蒙恩 哦布塞斯耶翁 梅 蒙 佩赫 阿 图 赫格莱 农 伊勒 讷 默 莱斯哈 帕 勒 什乌阿 迪于 赫乌阿 热",
+      "meaning": "发现了热爱的萌芽。舞台和幕后让我着迷，但父亲已安排好一切，不会让我选择。我将成为国王的……",
+      "suppliedText": "découvert les prémisses de ma passion le décor et son envers sont devenus mon obsession mais mon père a tout réglé non il ne me laissera pas le choix du roi je",
+      "sourceLineId": "moliere-timed-19",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 122,
+        "sourceLineNumber": 19,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Serai tapissier. Quel honneur pour un bourgeois ! Mais moi, je ne veux pas de ce brillant avenir. Je veux avoir le choix…",
+      "start": 131,
+      "ipa": "[səʁe tapisje kɛl‿ɔnœʁ puʁ‿œ̃ buʁʒwa mɛ mwa ʒə nə vø pa də sə bʁijɑ̃ avniʁ ʒə vø avwaʁ lə ʃwa]",
+      "ear": "瑟赫 塔皮斯耶诶 凯勒 哦讷厄赫 普赫 恩 布赫日乌阿 梅 姆乌阿 热 讷 弗厄 帕 德 瑟 布希耶昂 阿弗尼赫 热 弗厄 阿弗乌阿赫 勒 什乌阿",
+      "meaning": "挂毯师，对市民家庭是多么大的荣誉！可我不想要这个光鲜的未来，我想自己选择……",
+      "suppliedText": "serai tapissie quel honneur pour un bourgeois mais moi je ne veux pas de ce brillant avenir je veux avoir le choix",
+      "sourceLineId": "moliere-timed-20",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 131,
+        "sourceLineNumber": 20,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "De ce que je veux devenir. Tu finiras par tomber, tomber…",
+      "start": 138,
+      "ipa": "[də sə kə ʒə vø dəvniʁ ty finiʁa paʁ tɔ̃be tɔ̃be]",
+      "ear": "德 瑟 克 热 弗厄 德弗尼赫 蒂于 菲尼哈 帕赫 通贝 通贝",
+      "meaning": "我要成为什么样的人。你终会跌落，跌落……",
+      "suppliedText": "de ce que je veux devenir finira par tomber tomber",
+      "sourceLineId": "moliere-timed-21",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 138,
+        "sourceLineNumber": 21,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Tomber. À… Tu finiras par…",
+      "start": 145,
+      "ipa": "[tɔ̃be a ty finiʁa paʁ]",
+      "ear": "通贝 阿 蒂于 菲尼哈 帕赫",
+      "meaning": "跌落……你终会……",
+      "suppliedText": "tomber à vouloir prier torueil et de itéiras pas",
+      "sourceLineId": "moliere-timed-22",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 145,
+        "sourceLineNumber": 22,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Tomber, tomber, tomber. Jean-Baptiste… Tomber, tomber…",
+      "start": 153,
+      "ipa": "[tɔ̃be tɔ̃be tɔ̃be ʒɑ̃batist tɔ̃be tɔ̃be]",
+      "ear": "通贝 通贝 通贝 让巴蒂斯特 通贝 通贝",
+      "meaning": "跌落，跌落，跌落。让-巴蒂斯特……",
+      "suppliedText": "tomber tomber tomber Jean-Baptiste des som tomber tomber",
+      "sourceLineId": "moliere-timed-23",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 153,
+        "sourceLineNumber": 23,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Tomber. Et puis il y a Madeleine, la plus belle des comédiennes. Elle m'a tendu la main, elle m'a montré le chemin. Avec elle…",
+      "start": 162,
+      "ipa": "[tɔ̃be e pɥi il‿i a madlɛn la ply bɛl de komedjɛn ɛl ma tɑ̃dy la mɛ̃ ɛl ma mɔ̃tʁe lə ʃəmɛ̃ avɛk‿ɛl]",
+      "ear": "通贝 诶 普于伊 伊勒 伊 阿 玛德莱恩 拉 普吕 贝勒 德 科梅德耶艾恩 艾勒 玛 唐迪于 拉 曼 艾勒 玛 蒙特赫 勒 舍曼 阿韦克 艾勒",
+      "meaning": "还有玛德莱娜，最美的女演员。她向我伸手，为我指路。和她一起……",
+      "suppliedText": "tomber et puis il y a Madeleine la plus belle des comédiennees elle m'a tendu la main elle m'a montré le chemin avec elle",
+      "sourceLineId": "moliere-timed-24",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 162,
+        "sourceLineNumber": 24,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Je veux grandir, avec elle je veux construire. Je voudrais être son avenir, mais je ne sais comment lui dire.",
+      "start": 170,
+      "ipa": "[ʒə vø ɡʁɑ̃diʁ avɛk‿ɛl ʒə vø kɔ̃stʁɥiʁ ʒə vudʁɛ ɛtʁ sɔ̃n‿avniʁ mɛ ʒə nə sɛ kɔmɑ̃ lɥi diʁ]",
+      "ear": "热 弗厄 格杭迪赫 阿韦克 艾勒 热 弗厄 孔斯特赫于伊赫 热 乌德赫 艾特赫 松恩 阿弗尼赫 梅 热 讷 塞 科芒 勒于伊 迪赫",
+      "meaning": "我想成长，想建立我们的生活，想成为她的未来，却不知如何开口。",
+      "suppliedText": "je veux grandir avec elle je veux construire je voudrais être son avenir mais je ne sais comment lui dire",
+      "sourceLineId": "moliere-timed-25",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 170,
+        "sourceLineNumber": 25,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Jean-Baptiste ! Jean-Baptiste ! Mes amis, mes amis, mon fils ne sait plus ce qu'il dit. Je vous en prie, aidez-moi à…",
+      "start": 177,
+      "ipa": "[ʒɑ̃batist ʒɑ̃batist mez‿ami mez‿ami mɔ̃ fis nə sɛ ply sə kil di ʒə vuz‿ɑ̃ pʁi ɛdemwa a]",
+      "ear": "让巴蒂斯特 让巴蒂斯特 梅兹 阿米 梅兹 阿米 蒙 菲斯 讷 塞 普吕 瑟 基勒 迪 热 乌兹 昂 普希 艾德姆乌阿 阿",
+      "meaning": "让-巴蒂斯特！朋友们，我儿子已不知道自己在说什么。请帮我……",
+      "suppliedText": "Jean-Baptiste Jean-Baptiste mes amis mes amis mon fils ne sait plus ce qu'il dit je vous en prie aidez-moi à",
+      "sourceLineId": "moliere-timed-26",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 177,
+        "sourceLineNumber": 26,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Le faire changer d'avis. Si comédien vous devenez, vous…",
+      "start": 185,
+      "ipa": "[lə fɛʁ ʃɑ̃ʒe davi si komedjɛ̃ vu dəvne vu]",
+      "ear": "勒 费赫 尚热 达维 西 科梅德耶安 乌 德弗内 乌",
+      "meaning": "让他改变主意。如果你当了演员，就会……",
+      "suppliedText": "le faire changer d'avis si comédien vous devenz vous",
+      "sourceLineId": "moliere-timed-27",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 185,
+        "sourceLineNumber": 27,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Serez interdit à jamais…",
+      "start": 191,
+      "ipa": "[səʁe ɛ̃tɛʁdi a ʒamɛ]",
+      "ear": "瑟赫 安泰赫迪 阿 扎梅",
+      "meaning": "永远被禁止……（后半句识别不清）",
+      "suppliedText": "serez interdit à jamaisexerer jus de téign",
+      "sourceLineId": "moliere-timed-31",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 191,
+        "sourceLineNumber": 31,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… De la bonne société…",
+      "start": 202,
+      "ipa": "[də la bɔn sosjete]",
+      "ear": "德 拉 博恩 索斯耶诶特",
+      "meaning": "……上流社会……（识别不清）",
+      "suppliedText": "vousz de la bonneété à vrecr",
+      "sourceLineId": "moliere-timed-32",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 202,
+        "sourceLineNumber": 32,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Ce sont des menteurs, des tricheurs…",
+      "start": 209,
+      "ipa": "[sə sɔ̃ de mɑ̃tœʁ de tʁiʃœʁ]",
+      "ear": "瑟 松 德 芒特厄赫 德 特希舍厄赫",
+      "meaning": "……他们是说谎的人、弄虚作假的人……",
+      "suppliedText": "fa vous serezv ce sont des menteurs des tricheurs rich se",
+      "sourceLineId": "moliere-timed-33",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 209,
+        "sourceLineNumber": 33,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Menteur et tricheur… Ne joue que pour l'argent. Jean-Baptiste !",
+      "start": 216,
+      "ipa": "[mɑ̃tœʁ e tʁiʃœʁ nə ʒu kə puʁ laʁʒɑ̃ ʒɑ̃batist]",
+      "ear": "芒特厄赫 诶 特希舍厄赫 讷 茹 克 普赫 拉赫让 让巴蒂斯特",
+      "meaning": "……骗子，满心只想着钱。让-巴蒂斯特！",
+      "suppliedText": "desant tu es menteur es tricheur ne joue que pour l'argent Jean-Baptiste",
+      "sourceLineId": "moliere-timed-34",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 216,
+        "sourceLineNumber": 34,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Jean-Baptiste ! Être du roi tapissier est le plus beau des métiers. Tu approcheras les plus…",
+      "start": 224,
+      "ipa": "[ʒɑ̃batist ɛtʁ dy ʁwa tapisje ɛ lə ply bo de metje ty apʁoʃʁa le ply]",
+      "ear": "让巴蒂斯特 艾特赫 迪于 赫乌阿 塔皮斯耶诶 艾 勒 普吕 博 德 梅特耶诶 蒂于 阿普霍什哈 莱 普吕",
+      "meaning": "做国王的挂毯师是最好的职业。你能接近最……",
+      "suppliedText": "Jean-Baptiste être du roi tapissier est le plus beau des métiers tu approcheras les plus",
+      "sourceLineId": "moliere-timed-35",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 224,
+        "sourceLineNumber": 35,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Grands. Tu recevras trois cents livres par an, sans compter tes récompenses. Tu pourras largement assurer tes dépenses. Ah, mon…",
+      "start": 231,
+      "ipa": "[ɡʁɑ̃ ty ʁəsəvʁa tʁwa sɑ̃ livʁ paʁ‿ɑ̃ sɑ̃ kɔ̃te te ʁekɔ̃pɑ̃s ty puʁa laʁʒəmɑ̃ asyʁe te depɑ̃s a mɔ̃]",
+      "ear": "格杭 蒂于 赫瑟弗哈 特赫乌阿 桑 利弗赫 帕赫 昂 桑 孔特 特 赫孔庞斯 蒂于 普哈 拉赫热芒 阿西于赫 特 德庞斯 阿 蒙",
+      "meaning": "有权势的人，每年领三百里弗，还不算额外赏赐，足够支付开销。啊，我的……",
+      "suppliedText": "grands tu recevras 300 livres par an sans compter tes récompenses tu pourras largement assurer tes dépenses ah mon",
+      "sourceLineId": "moliere-timed-36",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 231,
+        "sourceLineNumber": 36,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Fils, mon fils, tu es l'aîné, mon préféré. Et toute ma vie j'ai travaillé pour assurer ta…",
+      "start": 238,
+      "ipa": "[fil mɔ̃ fis ty ɛ lɛne mɔ̃ pʁefeʁe e tut ma vi ʒe tʁavaje puʁ‿asyʁe ta]",
+      "ear": "菲勒 蒙 菲斯 蒂于 艾 莱内 蒙 普赫费赫 诶 图特 玛 维 热 特哈瓦耶诶 普赫 阿西于赫 塔",
+      "meaning": "儿子，你是长子，我最疼爱的孩子。我一生辛劳，为了让你……",
+      "suppliedText": "fils mon fils tu es l'aîné mon préféré et toute ma vie j'ai travaillé pour assurer ta",
+      "sourceLineId": "moliere-timed-37",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 238,
+        "sourceLineNumber": 37,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Prospérité. Mais qu'ai-je raté ? Qu'ai-je mal fait ? Je sais que toute votre vie vous…",
+      "start": 243,
+      "ipa": "[pʁɔspeʁite mɛ kɛʒ ʁate kɛʒ mal fɛ ʒə sɛ kə tut votʁ vi vu]",
+      "ear": "普霍斯佩希特 梅 凯日 哈特 凯日 玛勒 费 热 塞 克 图特 沃特赫 维 乌",
+      "meaning": "过得富足。可我哪里出了错？我做错了什么？——我知道您一生都……",
+      "suppliedText": "prospérité mais qu'je raté qu'je mal fait je sais que toute votre vie vous",
+      "sourceLineId": "moliere-timed-38",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 243,
+        "sourceLineNumber": 38,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Avez œuvré pour que mon avenir soit assuré. Mais je vous implore de respecter mon choix. Je vous jure qu'un jour vous…",
+      "start": 251,
+      "ipa": "[ave œvʁe puʁ kə mɔ̃n‿avniʁ swa asyʁe mɛ ʒə vuz‿ɛ̃plɔʁ də ʁɛspɛkte mɔ̃ ʃwa ʒə vu ʒyʁ kœ̃ ʒuʁ vu]",
+      "ear": "阿韦 厄弗赫 普赫 克 蒙恩 阿弗尼赫 斯乌阿 阿西于赫 梅 热 乌兹 安普洛赫 德 赫斯佩克特 蒙 什乌阿 热 乌 日于赫 坎 茹赫 乌",
+      "meaning": "为我的未来奔忙，但求您尊重我的选择。我发誓，有一天您会……",
+      "suppliedText": "avez uvré pour que mon avenir soit assuré mais je vous implore de respecter mon choix je vous jure qu'un jour vous",
+      "sourceLineId": "moliere-timed-39",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 251,
+        "sourceLineNumber": 39,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Serez fier de moi. Je m'appelle Jean-Baptiste, Jean-Baptiste… Je choisis mon destin. Je…",
+      "start": 258,
+      "ipa": "[səʁe fjɛʁ də mwa ʒə mapɛl ʒɑ̃batist ʒɑ̃batist ʒə ʃwazi mɔ̃ dɛstɛ̃ ʒə]",
+      "ear": "瑟赫 弗耶艾赫 德 姆乌阿 热 玛佩勒 让巴蒂斯特 让巴蒂斯特 热 什乌阿齐 蒙 戴斯坦 热",
+      "meaning": "为我骄傲。我叫让-巴蒂斯特……我选择自己的命运。我将……",
+      "suppliedText": "serez fier de moi je m'appelle Jean-Baptiste jean-baptistein choisis mon destin je",
+      "sourceLineId": "moliere-timed-40",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 258,
+        "sourceLineNumber": 40,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Serai comédien.",
+      "start": 267,
+      "ipa": "[səʁe komedjɛ̃]",
+      "ear": "瑟赫 科梅德耶安",
+      "meaning": "成为演员。",
+      "suppliedText": "serai comédien",
+      "sourceLineId": "moliere-timed-41",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 267,
+        "sourceLineNumber": 41,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -10,10 +10,10 @@
   "musicalId": "moliere",
   "trackNumber": 44,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "pending",
   "captionLanguage": "fr",
   "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "source-video",
   "nativeCaptionAvailable": true,
   "isGenerated": true,
   "lyricsStorage": "external",
@@ -85,9 +85,9 @@
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
   "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "textReviewStatus": "unusable-language-detection",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "unavailable",
   "mediaKind": "stage-video",
   "uploadDate": "20250330",
   "productionYear": 2023,
@@ -152,5 +152,78 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 862,
+      "start": 1,
+      "text": "[Music]"
+    },
+    {
+      "sourceLine": 863,
+      "start": 7,
+      "text": "We"
+    },
+    {
+      "sourceLine": 864,
+      "start": 8,
+      "text": "[Music]"
+    },
+    {
+      "sourceLine": 865,
+      "start": 20,
+      "text": "have regardfulness."
+    },
+    {
+      "sourceLine": 866,
+      "start": 29,
+      "text": "[Music]"
+    },
+    {
+      "sourceLine": 867,
+      "start": 37,
+      "text": "for filament and"
+    },
+    {
+      "sourceLine": 868,
+      "start": 41,
+      "text": "[Music]"
+    },
+    {
+      "sourceLine": 869,
+      "start": 47,
+      "text": "yes to"
+    },
+    {
+      "sourceLine": 870,
+      "start": 49,
+      "text": "[Music]"
+    },
+    {
+      "sourceLine": 871,
+      "start": 55,
+      "text": "[Applause]"
+    },
+    {
+      "sourceLine": 872,
+      "start": 76,
+      "text": "Oh, heat, heat."
+    },
+    {
+      "sourceLine": 873,
+      "start": 92,
+      "text": "Oh, heat, heat."
+    },
+    {
+      "sourceLine": 874,
+      "start": 100,
+      "text": "[Music]"
+    }
+  ],
+  "studyEmptyMessage": "你提供的这一段字幕被识别成失真的英文残句，暂未生成法语学习卡片。可以先看原唱，或导入这段的法语字幕。"
 }

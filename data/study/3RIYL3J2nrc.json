@@ -1,0 +1,133 @@
+{
+  "videoId": "3RIYL3J2nrc",
+  "playbackVideoId": "3RIYL3J2nrc",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=3RIYL3J2nrc"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Notre joie fut hélas de courte durée. Il restait encore des dettes à payer. Le tribunal a tout liquidé, le bail du…",
+      "start": 4,
+      "ipa": "[notʁ ʒwa fy elas də kuʁt dyʁe il ʁɛstɛ ɑ̃kɔʁ de dɛt‿a pɛje lə tʁibynal‿a tu likide lə baj dy]",
+      "ear": "诺特赫 日乌阿 菲于 诶拉斯 德 库赫特 迪于赫 伊勒 赫斯泰 昂科赫 德 戴特 阿 佩耶诶 勒 特希比于纳勒 阿 图 利基德 勒 巴耶 迪于",
+      "meaning": "我们的欢乐很短暂，仍有债务要还。法庭清算了所有财产，剧院的租约……",
+      "suppliedText": "notre joie fut laste courte durée il restait encore des detts à payer le tribunal a tout liquidé le bail du",
+      "sourceLineId": "moliere-timed-99",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 4,
+        "sourceLineNumber": 99,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Théâtre résilié. Paris, Paris, l'Illustre Théâtre n'est plus…",
+      "start": 13,
+      "ipa": "[teatʁ ʁezilje paʁi paʁi lilystʁ teatʁ nɛ ply]",
+      "ear": "特阿特赫 赫齐勒耶诶 帕希 帕希 利吕斯特赫 特阿特赫 奈 普吕",
+      "meaning": "被解除了。巴黎，巴黎，卓越剧团已不复存在……",
+      "suppliedText": "théâtre résilié Paris Paris il théâre n plus",
+      "sourceLineId": "moliere-timed-100",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 13,
+        "sourceLineNumber": 100,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "J'ai reçu une proposition d'engagement d'un comédien de province, Charles Dufresne. Sa troupe bénéficie de la protection du…",
+      "start": 20,
+      "ipa": "[ʒe ʁəsy yn pʁopozisjɔ̃ dɑ̃ɡaʒmɑ̃ dœ̃ komedjɛ̃ də pʁovɛ̃s ʃaʁl dyfʁɛsn sa tʁup benefisi də la pʁotɛksjɔ̃ dy]",
+      "ear": "热 赫西于 于恩 普霍波齐斯耶翁 当嘎日芒 丹 科梅德耶安 德 普霍万斯 沙赫勒 迪于弗赫斯恩 萨 特胡普 贝内菲西 德 拉 普霍泰克斯耶翁 迪于",
+      "meaning": "外省演员夏尔·迪弗雷纳向我提出邀约，他的剧团受到……",
+      "suppliedText": "j'ai reçu une proposition d'engagement d'un comédien de province Charles dufen sa troupe bénéficie de la protection du",
+      "sourceLineId": "moliere-timed-101",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 20,
+        "sourceLineNumber": 101,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Gouverneur de Guyenne. Le protecteur de Dufresne est un puissant Gascon qui porte le titre de duc d'Épernon. De Charles…",
+      "start": 28,
+      "ipa": "[ɡuvɛʁnœʁ də ɡɥijɛn lə pʁotɛktœʁ də dyfʁɛsn‿ɛt‿œ̃ pɥisɑ̃ ɡaskɔ̃ ki pɔʁt lə titʁ də dyk depɛʁnɔ̃ də ʃaʁl]",
+      "ear": "古韦赫讷厄赫 德 格于伊耶艾恩 勒 普霍泰克特厄赫 德 迪于弗赫斯恩 艾特 恩 普于伊桑 嘎斯孔 基 珀赫特 勒 蒂特赫 德 迪于克 德佩赫农 德 沙赫勒",
+      "meaning": "吉耶讷总督的庇护。保护迪弗雷纳的是一位强大的加斯科涅贵族，埃佩尔农公爵。我会让夏尔……",
+      "suppliedText": "gouverneur aiguillenne le protecteur de dufren est un puissant gascon qui porte le titre de duc des Pernau de Charles",
+      "sourceLineId": "moliere-timed-102",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 28,
+        "sourceLineNumber": 102,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Dufresne j'obtiendrai la promesse de tous nous engager. Paris n'a pas su reconnaître…",
+      "start": 37,
+      "ipa": "[dyfʁɛsn ʒɔbtjɛ̃dʁe la pʁomɛs də tus nuz‿ɑ̃ɡaʒe paʁi na pa sy ʁəkɔnɛtʁ]",
+      "ear": "迪于弗赫斯恩 若布特耶安德赫 拉 普霍梅斯 德 图斯 努兹 昂嘎热 帕希 纳 帕 西于 赫科奈特赫",
+      "meaning": "迪弗雷纳答应收留我们所有人。巴黎没能看见……",
+      "suppliedText": "dufraen j'obtiendrai la promesse de tous nous engager Paris n'a pas su reconnaître",
+      "sourceLineId": "moliere-timed-103",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 37,
+        "sourceLineNumber": 103,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Notre talent. Madeleine a raison, partons ! Paris, Paris, l'Illustre Théâtre n'est…",
+      "start": 44,
+      "ipa": "[notʁ talɑ̃ madlɛn‿a ʁɛzɔ̃ paʁtɔ̃ paʁi paʁi lilystʁ teatʁ nɛ]",
+      "ear": "诺特赫 塔朗 玛德莱恩 阿 赫宗 帕赫通 帕希 帕希 利吕斯特赫 特阿特赫 奈",
+      "meaning": "我们的才华。玛德莱娜说得对，走吧！巴黎，巴黎，卓越剧团已……",
+      "suppliedText": "notre talent Madeline a raison partons Paris Paris l'Illustre Théâtre n'est",
+      "sourceLineId": "moliere-timed-104",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 44,
+        "sourceLineNumber": 104,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Plus. Paris, Paris, tu peux bien en rire, mais notre histoire continue.",
+      "start": 52,
+      "ipa": "[ply paʁi paʁi ty pø bjɛ̃n‿ɑ̃ ʁiʁ mɛ notʁ‿istwaʁ kɔ̃tiny]",
+      "ear": "普吕 帕希 帕希 蒂于 珀厄 布耶安恩 昂 希赫 梅 诺特赫 伊斯特乌阿赫 孔蒂尼于",
+      "meaning": "不复存在。巴黎，你尽管嘲笑，但我们的故事还会继续。",
+      "suppliedText": "plus Paris Paris tu peux bien en rire mais notre histoire continue",
+      "sourceLineId": "moliere-timed-105",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 52,
+        "sourceLineNumber": 105,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

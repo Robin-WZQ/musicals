@@ -1,0 +1,357 @@
+{
+  "videoId": "LBMV4AF0PWk",
+  "playbackVideoId": "LBMV4AF0PWk",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=LBMV4AF0PWk"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Jean-Baptiste, je… je suis sincèrement désolé. Allez ! Non, mais non…",
+      "start": 0,
+      "ipa": "[ʒɑ̃batist ʒə ʒə sɥi sɛ̃sɛʁmɑ̃ dezole ale nɔ̃ mɛ nɔ̃]",
+      "ear": "让巴蒂斯特 热 热 斯于伊 森塞赫芒 德佐莱 阿莱 农 梅 农",
+      "meaning": "让-巴蒂斯特，我真心感到抱歉。——不，不……",
+      "suppliedText": "Jean-Baptiste je je suis sincèrement désolé allez non mais non",
+      "sourceLineId": "moliere-timed-71",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 0,
+        "sourceLineNumber": 71,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Non. Que diable suis-je venu faire derrière tes barreaux ? … Une galère…",
+      "start": 7,
+      "ipa": "[nɔ̃ kə djabl sɥiʒ vəny fɛʁ dɛʁjɛʁ te baʁo yn ɡalɛʁ]",
+      "ear": "农 克 德耶阿布勒 斯于伊日 弗尼于 费赫 戴赫耶艾赫 特 巴霍 于恩 嘎莱赫",
+      "meaning": "我究竟为何来到你的牢笼背后？……一艘苦难的船……",
+      "suppliedText": "non que diable suis-je venu faire derrière tes barreaux tuim une galère",
+      "sourceLineId": "moliere-timed-73",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7,
+        "sourceLineNumber": 73,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Qui ne cesse de prendre l'eau. Mais entre ciel et terre je trouverai les mots, les…",
+      "start": 14,
+      "ipa": "[ki nə sɛs də pʁɑ̃dʁ lo mɛ ɑ̃tʁ sjɛl e tɛʁ ʒə tʁuvʁe le mo le]",
+      "ear": "基 讷 塞斯 德 普杭德赫 洛 梅 昂特赫 斯耶艾勒 诶 泰赫 热 特胡弗赫 莱 莫 莱",
+      "meaning": "不断进水。可在天地之间，我会找到那些话，那些……",
+      "suppliedText": "qui ne cesse de prendre l'eau mais entre ciel et terre je trouverai les mots les",
+      "sourceLineId": "moliere-timed-77",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 14,
+        "sourceLineNumber": 77,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Mots pour te plaire, quitte à y laisser ma peau. Tout le long de ce couloir…",
+      "start": 22,
+      "ipa": "[mo puʁ tə plɛʁ kit‿a i lɛse ma po tu lə lɔ̃ də sə kulwaʁ]",
+      "ear": "莫 普赫 特 普莱赫 基特 阿 伊 莱塞 玛 波 图 勒 隆 德 瑟 库勒乌阿赫",
+      "meaning": "能打动你的话，哪怕为此付出生命。沿着这条走廊……",
+      "suppliedText": "mots pour te plaire qui t laisser ma peau tout le long de ce couloir",
+      "sourceLineId": "moliere-timed-78",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 22,
+        "sourceLineNumber": 78,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Tu marches à contre-jour. Pas le moindre regard, pas le moindre détour. Je suis…",
+      "start": 30,
+      "ipa": "[ty maʁʃ‿a kɔ̃tʁʒuʁ pa lə mwɛ̃dʁ ʁəɡaʁ pa lə mwɛ̃dʁ detuʁ ʒə sɥi]",
+      "ear": "蒂于 玛赫什 阿 孔特赫茹赫 帕 勒 姆乌安德赫 赫嘎赫 帕 勒 姆乌安德赫 德图赫 热 斯于伊",
+      "meaning": "你逆光走过，没有看我，也没有回头。我……",
+      "suppliedText": "tu marches à contre jour pas le moindre regard pas le moindre détour je suis",
+      "sourceLineId": "moliere-timed-79",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 30,
+        "sourceLineNumber": 79,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Dans le brouillard, à jamais condamné à t'aimer sans être aimé en retour. Oui…",
+      "start": 37,
+      "ipa": "[dɑ̃ lə bʁujaʁ a ʒamɛ kɔ̃dane a tɛme sɑ̃ ɛtʁ‿ɛme ɑ̃ ʁətuʁ wi]",
+      "ear": "当 勒 布胡耶阿赫 阿 扎梅 孔达内 阿 泰梅 桑 艾特赫 艾梅 昂 赫图赫 乌伊",
+      "meaning": "困在迷雾里，注定爱你，却得不到你的回应。是的……",
+      "suppliedText": "dans le Bouillard à jamais condamné à t'aimer sans être aimé en retour oui",
+      "sourceLineId": "moliere-timed-80",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 37,
+        "sourceLineNumber": 80,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "C'est dit, promis, j'irai au bout. Quel que soit le prix, tant pis si je deviens fou…",
+      "start": 45,
+      "ipa": "[sɛ di pʁomi ʒiʁe o bu kɛl kə swa lə pʁi tɑ̃pi si ʒə dəvjɛ̃ fu]",
+      "ear": "塞 迪 普霍米 日赫 奥 布 凯勒 克 斯乌阿 勒 普希 唐皮 西 热 德弗耶安 富",
+      "meaning": "说定了，我答应走到底。不论代价，哪怕因此疯狂……",
+      "suppliedText": "c'est dit promis j'irai au bout quel que soit le prix tant pis si je deviens fou",
+      "sourceLineId": "moliere-timed-81",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 45,
+        "sourceLineNumber": 81,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "À espérer entre ces quatre murs qu'un matin tu diras dans un…",
+      "start": 53,
+      "ipa": "[a ɛspeʁe ɑ̃tʁ se katʁ myʁ kœ̃ matɛ̃ ty diʁa dɑ̃ œ̃]",
+      "ear": "阿 艾斯佩赫 昂特赫 塞 卡特赫 米于赫 坎 玛坦 蒂于 迪哈 当 恩",
+      "meaning": "我仍在这四壁之间期待，某个早晨你会低声……",
+      "suppliedText": "à espérer entre ces quatre murs que matin tu diras dans un",
+      "sourceLineId": "moliere-timed-82",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 53,
+        "sourceLineNumber": 82,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Murmure que tu m'aimes. Que diable suis-je venu faire derrière tes…",
+      "start": 61,
+      "ipa": "[myʁmyʁ kə ty mɛm kə djabl sɥiʒ vəny fɛʁ dɛʁjɛʁ te]",
+      "ear": "米于赫米于赫 克 蒂于 梅姆 克 德耶阿布勒 斯于伊日 弗尼于 费赫 戴赫耶艾赫 特",
+      "meaning": "告诉我，你爱我。我究竟为何来到你的……",
+      "suppliedText": "murmure que tu m'aimes que diable suis-je venu faire derrière tes",
+      "sourceLineId": "moliere-timed-83",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 61,
+        "sourceLineNumber": 83,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Barreaux ? Une galère qui ne cesse de prendre l'eau. Mais entre ciel et terre je trouverai…",
+      "start": 68,
+      "ipa": "[baʁo yn ɡalɛʁ ki nə sɛs də pʁɑ̃dʁ lo mɛ ɑ̃tʁ sjɛl e tɛʁ ʒə tʁuvʁe]",
+      "ear": "巴霍 于恩 嘎莱赫 基 讷 塞斯 德 普杭德赫 洛 梅 昂特赫 斯耶艾勒 诶 泰赫 热 特胡弗赫",
+      "meaning": "牢笼背后？一艘不断进水的船。可在天地之间，我会找到……",
+      "suppliedText": "parau une galère qui ne cesse de prendre l'eau mais entre ciel et terre je trouve",
+      "sourceLineId": "moliere-timed-84",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 68,
+        "sourceLineNumber": 84,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Les mots, les mots…",
+      "start": 75,
+      "ipa": "[le mo le mo]",
+      "ear": "莱 莫 莱 莫",
+      "meaning": "那些话，那些话……",
+      "suppliedText": "par les mot les mot",
+      "sourceLineId": "moliere-timed-85",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 75,
+        "sourceLineNumber": 85,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pour te… J'ai tant de choses à dire, des rêves à l'infini, des montagnes de rire…",
+      "start": 83,
+      "ipa": "[puʁ tə ʒe tɑ̃ də ʃoz‿a diʁ de ʁɛv‿a lɛ̃fini de mɔ̃tanj də ʁiʁ]",
+      "ear": "普赫 特 热 唐 德 肖兹 阿 迪赫 德 赫弗 阿 兰菲尼 德 蒙塔恩耶 德 希赫",
+      "meaning": "能打动你的……我有那么多话想说，无尽的梦，数不尽的欢笑……",
+      "suppliedText": "te j'ai tant de choses àir des rêves à l'infini des montagnes de rire",
+      "sourceLineId": "moliere-timed-86",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 83,
+        "sourceLineNumber": 86,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "J'illuminerai tes nuits… Mon plus beau sourire… Ton amour, tu verras que le…",
+      "start": 91,
+      "ipa": "[ʒilyminʁe te nɥi mɔ̃ ply bo suʁiʁ tɔ̃n‿amuʁ ty vɛʁa kə lə]",
+      "ear": "日吕米恩赫 特 恩于伊 蒙 普吕 博 苏希赫 通恩 阿穆赫 蒂于 韦哈 克 勒",
+      "meaning": "我会照亮你的夜……最美的笑容……你会看见，最……",
+      "suppliedText": "j'illuminerai des nuit dev mon plusau sourir ton amour tu verras que le",
+      "sourceLineId": "moliere-timed-87",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 91,
+        "sourceLineNumber": 87,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Meilleur sera à venir. Oui, c'est dit, promis, j'irai au bout. Quel que soit le…",
+      "start": 98,
+      "ipa": "[mɛjœʁ səʁa a vəniʁ wi sɛ di pʁomi ʒiʁe o bu kɛl kə swa lə]",
+      "ear": "梅耶厄赫 瑟哈 阿 弗尼赫 乌伊 塞 迪 普霍米 日赫 奥 布 凯勒 克 斯乌阿 勒",
+      "meaning": "美好的仍在未来。说定了，我答应走到底。不论……",
+      "suppliedText": "meilleur sera av venir lui s'est dit promis j'irai au bout quel ce soit le",
+      "sourceLineId": "moliere-timed-88",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 98,
+        "sourceLineNumber": 88,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Prix, tant pis si je deviens fou. Mais malgré tout, je préfère souffrir avec…",
+      "start": 106,
+      "ipa": "[pʁi tɑ̃pi si ʒə dəvjɛ̃ fu mɛ malɡʁe tu ʒə pʁefɛʁ sufʁiʁ avɛk]",
+      "ear": "普希 唐皮 西 热 德弗耶安 富 梅 玛勒格赫 图 热 普赫费赫 苏弗希赫 阿韦克",
+      "meaning": "代价，哪怕因此疯狂，我仍宁愿怀着希望受苦……",
+      "suppliedText": "prix tant pis si je deviens fou mais malgré tout je préfère souffrir avec",
+      "sourceLineId": "moliere-timed-89",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 106,
+        "sourceLineNumber": 89,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "L'espoir de t'entendre un jour me dire que tu m'aimes.",
+      "start": 114,
+      "ipa": "[lɛspwaʁ də tɑ̃tɑ̃dʁ‿œ̃ ʒuʁ mə diʁ kə ty mɛm]",
+      "ear": "莱斯普乌阿赫 德 唐唐德赫 恩 茹赫 默 迪赫 克 蒂于 梅姆",
+      "meaning": "希望有一天听你对我说，你爱我。",
+      "suppliedText": "l'espoir de t'entendre un jour me dire que tu m'aimes",
+      "sourceLineId": "moliere-timed-90",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 114,
+        "sourceLineNumber": 90,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Que diable suis-je venu faire derrière tes barreaux ? Une galère qui ne cesse de prendre… Mais…",
+      "start": 122,
+      "ipa": "[kə djabl sɥiʒ vəny fɛʁ dɛʁjɛʁ te baʁo yn ɡalɛʁ ki nə sɛs də pʁɑ̃dʁ mɛ]",
+      "ear": "克 德耶阿布勒 斯于伊日 弗尼于 费赫 戴赫耶艾赫 特 巴霍 于恩 嘎莱赫 基 讷 塞斯 德 普杭德赫 梅",
+      "meaning": "我究竟为何来到你的牢笼背后？一艘不断进水的船……",
+      "suppliedText": "que diable tu ve faire derrière tes parau une galère qui ne ce le grand mais",
+      "sourceLineId": "moliere-timed-91",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 122,
+        "sourceLineNumber": 91,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Entre ciel et terre je trouverai les mots, les mots pour te plaire, quitte à… Que diable… faire…",
+      "start": 132,
+      "ipa": "[ɑ̃tʁ sjɛl e tɛʁ ʒə tʁuvʁe le mo le mo puʁ tə plɛʁ kit‿a kə djabl fɛʁ]",
+      "ear": "昂特赫 斯耶艾勒 诶 泰赫 热 特胡弗赫 莱 莫 莱 莫 普赫 特 普莱赫 基特 阿 克 德耶阿布勒 费赫",
+      "meaning": "在天地之间，我会找到打动你的话，哪怕……我究竟为何……",
+      "suppliedText": "re cel terre je trouve les mots les mots pour te PL qui Ta ma que diable ve faire",
+      "sourceLineId": "moliere-timed-92",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 132,
+        "sourceLineNumber": 92,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Derrière tes barreaux ? Une galère qui ne cesse… Mais…",
+      "start": 142,
+      "ipa": "[dɛʁjɛʁ te baʁo yn ɡalɛʁ ki nə sɛs mɛ]",
+      "ear": "戴赫耶艾赫 特 巴霍 于恩 嘎莱赫 基 讷 塞斯 梅",
+      "meaning": "来到你的牢笼背后？一艘……（后半段识别不清）",
+      "suppliedText": "derrière tes B une galère qui ne sa leOM mais les",
+      "sourceLineId": "moliere-timed-93",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 142,
+        "sourceLineNumber": 93,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Entre ciel… Je trouverai les mots…",
+      "start": 150,
+      "ipa": "[ɑ̃tʁ sjɛl ʒə tʁuvʁe le mo]",
+      "ear": "昂特赫 斯耶艾勒 热 特胡弗赫 莱 莫",
+      "meaning": "天地之间……我会找到那些话……",
+      "suppliedText": "entre ciel je trouve les les mon ta ma",
+      "sourceLineId": "moliere-timed-94",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 150,
+        "sourceLineNumber": 94,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Peau. Les mots pour te… quitte à y laisser ma peau.",
+      "start": 157,
+      "ipa": "[po le mo puʁ tə kit‿a i lɛse ma po]",
+      "ear": "波 莱 莫 普赫 特 基特 阿 伊 莱塞 玛 波",
+      "meaning": "……哪怕为此付出生命。（部分识别不清）",
+      "suppliedText": "peau les mots pour te direire qui taille laisser ma peau",
+      "sourceLineId": "moliere-timed-95",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 157,
+        "sourceLineNumber": 95,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -10,14 +10,90 @@
   "musicalId": "moliere",
   "trackNumber": 10,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Les autres, les autres, ils sont comme il faut. Je fais ce qu'il faut pour leur…",
+      "start": 9,
+      "duration": 7
+    },
+    {
+      "text": "Plaire, mais ça sonne faux. Pas ma faute, ma faute, si je suis mieux dans ma peau…",
+      "start": 16,
+      "duration": 8
+    },
+    {
+      "text": "Loin de la lumière et derrière le rideau. Ma terre à moi n'est pas ronde. Je n'ai…",
+      "start": 24,
+      "duration": 8
+    },
+    {
+      "text": "Pas la bonne attitude. Je ne suis pas fait pour ce monde. Mais rêver, j'en ai…",
+      "start": 32,
+      "duration": 10
+    },
+    {
+      "text": "L'habitude. Rêver, j'en ai l'habitude pour m'évader, changer…",
+      "start": 42,
+      "duration": 10
+    },
+    {
+      "text": "D'attitude, accroché à ma solitude. J'en ai l'habitude, j'en ai…",
+      "start": 52,
+      "duration": 11
+    },
+    {
+      "text": "L'habitude. Les autres, les autres, ils ont dans les yeux l'assurance et l'insolence…",
+      "start": 63,
+      "duration": 8
+    },
+    {
+      "text": "Des gens heureux. C'est pas faute, pas faute de tout faire comme eux, mais n'est pas…",
+      "start": 71,
+      "duration": 8
+    },
+    {
+      "text": "Toujours heureux celui qui veut. Je veux jouer tous les rôles…",
+      "start": 79,
+      "duration": 7
+    },
+    {
+      "text": "Essayer tous les costumes, les plus sombres et les plus drôles. Mais rêver, j'en ai…",
+      "start": 86,
+      "duration": 9
+    },
+    {
+      "text": "L'habitude. Rêver, j'en ai l'habitude pour m'évader, changer…",
+      "start": 95,
+      "duration": 8
+    },
+    {
+      "text": "D'attitude, accroché à ma solitude. J'en ai l'habitude, j'en ai…",
+      "start": 103,
+      "duration": 9
+    },
+    {
+      "text": "L'habitude. Je dois m'enivrer d'incertitudes… Sous d'autres…",
+      "start": 112,
+      "duration": 9
+    },
+    {
+      "text": "Latitudes, me libérer de ma lassitude. J'en ai l'habitude, j'en ai…",
+      "start": 121,
+      "duration": 10
+    },
+    {
+      "text": "L'habitude. Rêver, j'en ai l'habitude.",
+      "start": 131,
+      "duration": 7
+    }
+  ],
   "playbackVideoId": "_RF9DBlTtg4",
   "sourceURL": "https://www.youtube.com/watch?v=_RF9DBlTtg4",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=_RF9DBlTtg4",
@@ -92,10 +168,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250309",
   "productionYear": 2023,
@@ -168,5 +244,87 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 193,
+      "start": 9,
+      "text": "les autres les autres ils sont comme une faux je fais ce qu'ils faut pour leur"
+    },
+    {
+      "sourceLine": 194,
+      "start": 16,
+      "text": "plaire mais ça sonne faut pas ma faute ma faute si je suis mieux dans ma peau"
+    },
+    {
+      "sourceLine": 195,
+      "start": 24,
+      "text": "loin de la lumière et derrière le rideau ma moi n'est pas ronde je n'ai"
+    },
+    {
+      "sourceLine": 196,
+      "start": 32,
+      "text": "pas la bonne attitude je ne suis pas fait pour ce monde mais rêv et j'en ai"
+    },
+    {
+      "sourceLine": 197,
+      "start": 42,
+      "text": "l'habitude rêve et j'en ai l'habitude pour m'évader changer"
+    },
+    {
+      "sourceLine": 198,
+      "start": 52,
+      "text": "d'attitude accrocher à ma solitude j'en ai l'habitude j'en ai"
+    },
+    {
+      "sourceLine": 199,
+      "start": 63,
+      "text": "habitude les autres les autres ils ont dans les yeux l'assurance et l'insolence"
+    },
+    {
+      "sourceLine": 200,
+      "start": 71,
+      "text": "des chens heureux c'est pas faute pas faute de tout faire comme mais n'est pas"
+    },
+    {
+      "sourceLine": 201,
+      "start": 79,
+      "text": "toujours heureux celui qui veut je veux jouer tous les rôles"
+    },
+    {
+      "sourceLine": 202,
+      "start": 86,
+      "text": "essayer tous les costumes les plus sombr les plus drôle mais rêve j'en ai"
+    },
+    {
+      "sourceLine": 203,
+      "start": 95,
+      "text": "l'habitude rêve j'en ai l'habitude pour m'évader changer"
+    },
+    {
+      "sourceLine": 204,
+      "start": 103,
+      "text": "d'attitude accrocher à ma solitude j'en ai l'habitude j'en ai"
+    },
+    {
+      "sourceLine": 205,
+      "start": 112,
+      "text": "l'habitude je dois m'en livrer d'incertitude d'incertitud sous contre"
+    },
+    {
+      "sourceLine": 206,
+      "start": 121,
+      "text": "l'attitude me libérer de Matitude j'en ai l'habitude j'en ai"
+    },
+    {
+      "sourceLine": 207,
+      "start": 131,
+      "text": "l'habitude rêve j'en ai l'habitude"
+    }
+  ]
 }

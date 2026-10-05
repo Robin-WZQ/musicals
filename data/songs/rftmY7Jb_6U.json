@@ -10,14 +10,55 @@
   "musicalId": "moliere",
   "trackNumber": 25,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "B Madeleine n'est toujours pas là on commencera sans elle la",
+      "start": 1,
+      "duration": 9
+    },
+    {
+      "text": "N nous fait j'ai fait leses préparer votre",
+      "start": 10,
+      "duration": 6
+    },
+    {
+      "text": "Argent mais on vous doit d'abord des explications notre nouveauté dans un tel",
+      "start": 16,
+      "duration": 9
+    },
+    {
+      "text": "Délabrement qu'il nous a fallu effectuer des rénovations les caiss en trouver financement lancer une nouvelle pièce était la seule solution à leur Molière a",
+      "start": 25,
+      "duration": 8
+    },
+    {
+      "text": "Écrit donc gartien on a rien de d mais ce F là un échec retentissant la grche dit nous",
+      "start": 33,
+      "duration": 6
+    },
+    {
+      "text": "Enfin pour les sources nous fait combien 2400 livres c'est tout mais on a fait aussi nos compte et ce n'était pas le",
+      "start": 39,
+      "duration": 9
+    },
+    {
+      "text": "Même montant bah évidemment j'ai changé la répartition ah bon mais pourquoi parce que Molière a demandé une part supplémentaire comme le Ve l'usage quand",
+      "start": 48,
+      "duration": 8
+    },
+    {
+      "text": "Il y a un mariage Jean-Baptisteste se marie et oui",
+      "start": 56,
+      "duration": 4
+    }
+  ],
   "playbackVideoId": "rftmY7Jb_6U",
   "sourceURL": "https://www.youtube.com/watch?v=rftmY7Jb_6U",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=rftmY7Jb_6U",
@@ -64,10 +105,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250316",
   "productionYear": 2023,
@@ -112,5 +153,52 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 518,
+      "start": 1,
+      "text": "B Madeleine n'est toujours pas là on commencera sans elle la"
+    },
+    {
+      "sourceLine": 519,
+      "start": 10,
+      "text": "N nous fait j'ai fait leses préparer votre"
+    },
+    {
+      "sourceLine": 520,
+      "start": 16,
+      "text": "argent mais on vous doit d'abord des explications notre nouveauté dans un tel"
+    },
+    {
+      "sourceLine": 521,
+      "start": 25,
+      "text": "délabrement qu'il nous a fallu effectuer des rénovations les caiss en trouver financement lancer une nouvelle pièce était la seule solution à leur Molière a"
+    },
+    {
+      "sourceLine": 522,
+      "start": 33,
+      "text": "écrit donc gartien on a rien de d mais ce F là un échec retentissant la grche dit nous"
+    },
+    {
+      "sourceLine": 523,
+      "start": 39,
+      "text": "enfin pour les sources nous fait combien 2400 livres c'est tout mais on a fait aussi nos compte et ce n'était pas le"
+    },
+    {
+      "sourceLine": 524,
+      "start": 48,
+      "text": "même montant bah évidemment j'ai changé la répartition ah bon mais pourquoi parce que Molière a demandé une part supplémentaire comme le Ve l'usage quand"
+    },
+    {
+      "sourceLine": 525,
+      "start": 56,
+      "text": "il y a un mariage Jean Baptiste se marie et oui"
+    }
+  ]
 }

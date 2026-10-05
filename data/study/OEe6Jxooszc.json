@@ -1,0 +1,293 @@
+{
+  "videoId": "OEe6Jxooszc",
+  "playbackVideoId": "OEe6Jxooszc",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=OEe6Jxooszc"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Quant à moi jour après jour ma santé se détériore et ma dernière heure va",
+      "start": 0,
+      "ipa": "[kɑ̃ a mwa ʒuʁ‿apʁɛ ʒuʁ ma sɑ̃te sə deteʁjɔʁ e ma dɛʁnjɛʁ‿œʁ va]",
+      "ear": "康 阿 姆乌阿 茹赫 阿普赫 茹赫 玛 桑特 瑟 德特赫耶哦赫 诶 玛 戴赫恩耶艾赫 厄赫 瓦",
+      "meaning": "我的健康一天天变差，最后的时刻……",
+      "suppliedText": "quant à moi jour après jour ma santé se détériore et ma dernière heure va",
+      "sourceLineId": "moliere-timed-401",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 0,
+        "sourceLineNumber": 401,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Bientôt arriver mis à part Louis tous mes compagnons",
+      "start": 8,
+      "ipa": "[bjɛ̃to aʁive mi a paʁ lwi tu me kɔ̃panjɔ̃]",
+      "ear": "布耶安托 阿希韦 米 阿 帕赫 勒乌伊 图 梅 孔帕恩耶翁",
+      "meaning": "快到了。除了路易，伙伴们都……",
+      "suppliedText": "bientôt arriver mis à part Louis tous mes compagnons",
+      "sourceLineId": "moliere-timed-405",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 8,
+        "sourceLineNumber": 405,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "L'ignorent Dieu que je les aime ils vont tellement me",
+      "start": 15,
+      "ipa": "[linjoʁ djø kə ʒə lez‿ɛm‿il vɔ̃ tɛlmɑ̃ mə]",
+      "ear": "利恩耶奥赫 德耶厄 克 热 莱兹 艾姆 伊勒 翁 泰勒芒 默",
+      "meaning": "不知道。天啊，我多么爱他们，会多么……",
+      "suppliedText": "l'ignorent Dieu que je les aime ils vont tellement me",
+      "sourceLineId": "moliere-timed-406",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 15,
+        "sourceLineNumber": 406,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Manquer j'ai gardé peu de souvenir de ma mère une voix apaisante une image évanescente tapie dans un coin de mon",
+      "start": 25,
+      "ipa": "[mɑ̃ke ʒe ɡaʁde pø də suvniʁ də ma mɛʁ‿yn vwa apɛzɑ̃t‿yn‿imaʒ‿evanɛsɑ̃t tapi dɑ̃ œ̃ kwɛ̃ də mɔ̃]",
+      "ear": "芒克 热 嘎赫德 珀厄 德 苏弗尼赫 德 玛 梅赫 于恩 弗乌阿 阿佩赞特 于恩 伊玛日 诶瓦奈桑特 塔皮 当 恩 克乌安 德 蒙",
+      "meaning": "想念他们。对母亲只剩很少的记忆：安抚的声音、淡去的形象，藏在……",
+      "suppliedText": "manquer j'ai gardé peu de souvenir de ma mère une voix apaisante une image évanescente tapie dans un coin de mon",
+      "sourceLineId": "moliere-timed-407",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 25,
+        "sourceLineNumber": 407,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Imaginaire de ma naissance on ne m'a rien dit puis un jour ma mère m'a écrit elle m'aappris que j'étais l'illégitime",
+      "start": 33,
+      "ipa": "[imaʒinɛʁ də ma nɛsɑ̃s‿ɔ̃ nə ma ʁjɛ̃ di pɥi œ̃ ʒuʁ ma mɛʁ ma ekʁi ɛl maapʁi kə ʒetɛ lileʒitim]",
+      "ear": "伊玛日奈赫 德 玛 奈桑斯 翁 讷 玛 赫耶安 迪 普于伊 恩 茹赫 玛 梅赫 玛 诶克希 艾勒 玛阿普希 克 热泰 利莱日蒂姆",
+      "meaning": "想象的角落。没人告诉我身世，直到母亲写信，说我是……",
+      "suppliedText": "imaginaire de ma naissance on ne m'a rien dit puis un jour ma mère m'a écrit elle m'aappris que j'étais l'illégitime",
+      "sourceLineId": "moliere-timed-408",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 33,
+        "sourceLineNumber": 408,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Enfant d'une comédienne et d'un chambelllan seraelle un jour",
+      "start": 40,
+      "ipa": "[ɑ̃fɑ̃ dyn komedjɛn e dœ̃ ʃɑ̃bɛlɑ̃ səʁaɛl‿œ̃ ʒuʁ]",
+      "ear": "昂芳 迪于恩 科梅德耶艾恩 诶 丹 尚贝朗 瑟哈艾勒 恩 茹赫",
+      "meaning": "一位女演员和宫廷侍从的私生女。她有一天能否……",
+      "suppliedText": "enfant d'une comédienne et d'un chambelllan seraelle un jour",
+      "sourceLineId": "moliere-timed-409",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 40,
+        "sourceLineNumber": 409,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Effacer les ombres et fantômes du passé ?",
+      "start": 49,
+      "ipa": "[efase lez‿ɔ̃bʁ e fɑ̃tom dy pase]",
+      "ear": "诶法塞 莱兹 翁布赫 诶 芳托姆 迪于 帕塞",
+      "meaning": "抹去往昔的阴影与幽灵？",
+      "suppliedText": "effacé les ombres et fantômes du passé",
+      "sourceLineId": "moliere-timed-411",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 49,
+        "sourceLineNumber": 411,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Un jour enfin me donner l'amour dont elle m'a…",
+      "start": 60,
+      "ipa": "[œ̃ ʒuʁ‿ɑ̃fɛ̃ mə dɔne lamuʁ dɔ̃ ɛl ma]",
+      "ear": "恩 茹赫 昂凡 默 多内 拉穆赫 东 艾勒 玛",
+      "meaning": "……终于有一天给我，她曾让我缺少的爱……",
+      "suppliedText": "B jour enfin me donner l'amour dont elle m'a",
+      "sourceLineId": "moliere-timed-412",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 60,
+        "sourceLineNumber": 412,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Privé pendant toutes ces années je n'ai cessé de m'enquérir de ces nouvelles on m'écrivait qu'Armande me ressemblait qu'elle était volontaire et rebelle",
+      "start": 70,
+      "ipa": "[pʁive pɑ̃dɑ̃ tut sez‿ane ʒə ne sɛse də mɑ̃keʁiʁ də se nuvɛl‿ɔ̃ mekʁivɛ kaʁmɑ̃d mə ʁəsɑ̃blɛ kɛl‿etɛ volɔ̃tɛʁ e ʁəbɛl]",
+      "ear": "普希韦 庞当 图特 塞兹 阿内 热 内 塞塞 德 芒克希赫 德 塞 努韦勒 翁 梅克希韦 卡赫芒德 默 赫桑布莱 凯勒 诶泰 沃隆泰赫 诶 赫贝勒",
+      "meaning": "这些年，我一直打听她的消息。信里说阿尔芒德像我，意志坚定又叛逆。",
+      "suppliedText": "privé pendant toutes ces années je n'ai cessé de m'enquérir de ces nouvelles on m'écrivait qu'Armande me ressemblait qu'elle était volontaire et rebelle",
+      "sourceLineId": "moliere-timed-413",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 70,
+        "sourceLineNumber": 413,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Quand elle devint suffisamment grande en âantf de comprendre dans une longue lettre je lui a tout raconter en lui promettant de venir bientôt la",
+      "start": 78,
+      "ipa": "[kɑ̃t‿ɛl dəvɛ̃ syfizamɑ̃ ɡʁɑ̃d‿ɑ̃n‿aɑ̃tf də kɔ̃pʁɑ̃dʁ dɑ̃ yn lɔ̃ɡ lɛtʁ ʒə lɥi a tu ʁakɔ̃te ɑ̃ lɥi pʁomɛtɑ̃ də vəniʁ bjɛ̃to la]",
+      "ear": "康特 艾勒 德万 西于菲扎芒 格杭德 昂恩 阿昂特弗 德 孔普杭德赫 当 于恩 隆格 莱特赫 热 勒于伊 阿 图 哈孔特 昂 勒于伊 普霍梅唐 德 弗尼赫 布耶安托 拉",
+      "meaning": "等她长到能够理解的年纪，我写长信说明一切，答应很快去……",
+      "suppliedText": "quand elle devint suffisamment grande en âantf de comprendre dans une longue lettre je lui a tout raconter en lui promettant de venir bientôt la",
+      "sourceLineId": "moliere-timed-414",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 78,
+        "sourceLineNumber": 414,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Chercher. … Un jour me pardonner…",
+      "start": 88,
+      "ipa": "[ʃɛʁʃe œ̃ ʒuʁ mə paʁdɔne]",
+      "ear": "谢赫谢 恩 茹赫 默 帕赫多内",
+      "meaning": "接她。……有一天原谅我……",
+      "suppliedText": "chercher c'est un jour me pardonner",
+      "sourceLineId": "moliere-timed-416",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 88,
+        "sourceLineNumber": 416,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Abandonnée… N'avoir jamais pu lui…",
+      "start": 98,
+      "ipa": "[abɑ̃dɔne navwaʁ ʒamɛ py lɥi]",
+      "ear": "阿邦多内 纳弗乌阿赫 扎梅 普于 勒于伊",
+      "meaning": "……抛下她，没能给她……",
+      "suppliedText": "c'est abandonné c'est n'avoir jamais pu lui",
+      "sourceLineId": "moliere-timed-417",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 98,
+        "sourceLineNumber": 417,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Donner l'amour que je lui",
+      "start": 108,
+      "ipa": "[dɔne lamuʁ kə ʒə lɥi]",
+      "ear": "多内 拉穆赫 克 热 勒于伊",
+      "meaning": "我欠她的爱……",
+      "suppliedText": "donner l'amour que je lui",
+      "sourceLineId": "moliere-timed-418",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 108,
+        "sourceLineNumber": 418,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Devais. L'amour dont elle m'a… Pendant toutes ces années et…",
+      "start": 115,
+      "ipa": "[dəvɛ lamuʁ dɔ̃ ɛl ma pɑ̃dɑ̃ tut sez‿ane e]",
+      "ear": "德韦 拉穆赫 东 艾勒 玛 庞当 图特 塞兹 阿内 诶",
+      "meaning": "……她让我缺少的爱。这些年……",
+      "suppliedText": "devais l'amour dont elle M rveille pendant toutes ces années et",
+      "sourceLineId": "moliere-timed-419",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 115,
+        "sourceLineNumber": 419,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Dans le plus grand des secrets à la comédie je n'ai cessé de m'exercer je me suis juré d'en faire mon métier je me",
+      "start": 124,
+      "ipa": "[dɑ̃ lə ply ɡʁɑ̃ de səkʁɛ a la komedi ʒə ne sɛse də mɛɡzɛʁse ʒə mə sɥi ʒyʁe dɑ̃ fɛʁ mɔ̃ metje ʒə mə]",
+      "ear": "当 勒 普吕 格杭 德 瑟克赫 阿 拉 科梅迪 热 内 塞塞 德 梅格泽赫塞 热 默 斯于伊 日于赫 当 费赫 蒙 梅特耶诶 热 默",
+      "meaning": "我始终秘密练习演戏，发誓要以此为职业……",
+      "suppliedText": "dans le plus grand des secrets à la comédie je n'ai cessé de m'exercer je me suis juré d'en faire mon métier je me",
+      "sourceLineId": "moliere-timed-420",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 124,
+        "sourceLineNumber": 420,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Suis jurée d'atteindre les sommets je me suis juré qu'un jour mon étoile brillera bien plus fort que",
+      "start": 132,
+      "ipa": "[sɥi ʒyʁe datɛ̃dʁ le sɔmɛ ʒə mə sɥi ʒyʁe kœ̃ ʒuʁ mɔ̃n‿etwal bʁijʁa bjɛ̃ ply fɔʁ kə]",
+      "ear": "斯于伊 日于赫 达坦德赫 莱 索梅 热 默 斯于伊 日于赫 坎 茹赫 蒙恩 诶特乌阿勒 布希耶哈 布耶安 普吕 佛赫 克",
+      "meaning": "我发誓要登上巅峰，有一天，我的星光将远远超过……",
+      "suppliedText": "suis jurée d'atteindre les sommets je me suis juré qu'un jour mon étoile brillera bien plus fort que",
+      "sourceLineId": "moliere-timed-421",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 132,
+        "sourceLineNumber": 421,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Celle de ma mère",
+      "start": 140,
+      "ipa": "[sɛl də ma mɛʁ]",
+      "ear": "塞勒 德 玛 梅赫",
+      "meaning": "母亲。",
+      "suppliedText": "celle de ma mère",
+      "sourceLineId": "moliere-timed-422",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 140,
+        "sourceLineNumber": 422,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

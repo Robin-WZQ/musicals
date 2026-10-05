@@ -10,14 +10,110 @@
   "musicalId": "moliere",
   "trackNumber": 39,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Droit. Libre à toi de vouloir assumer tes joies.",
+      "start": 8,
+      "duration": 9
+    },
+    {
+      "text": "À quoi ça rime ? Dis-moi à quoi ça rime quand on me pointe du doigt ? Quel est mon crime ? À quoi ça rime ? Dis-moi",
+      "start": 17,
+      "duration": 8
+    },
+    {
+      "text": "Quoi ça rime. Quand on te pointe du doigt, quel est ton crime ? Je vis, je crois, je ne perds jamais confiance en",
+      "start": 25,
+      "duration": 9
+    },
+    {
+      "text": "Moi. Oh moi je vis, je vois, je dois saisir ma chance cette",
+      "start": 34,
+      "duration": 7
+    },
+    {
+      "text": "Fois malgré les humiliations, ça vaut la peine de remise en question. Ça vaut la peine. Ne jamais baisser les bras, ne",
+      "start": 41,
+      "duration": 9
+    },
+    {
+      "text": "Jamais penser tout ça. Mais comment exister si je refuse le combat ? Mais qu'est-ce que ça fait ? Mais",
+      "start": 50,
+      "duration": 8
+    },
+    {
+      "text": "Qu'est-ce que ça fait ? Tout semble si bon. Tout semble parfait. Tout semble",
+      "start": 58,
+      "duration": 6
+    },
+    {
+      "text": "Parfait. Tu t'envoles loin dans tes pensées quand sur la scène tu poses le",
+      "start": 64,
+      "duration": 7
+    },
+    {
+      "text": "Pied. Tu as refusé d'être un homme, d'être un homme blessé quand le rideau s'est levé. À",
+      "start": 71,
+      "duration": 8
+    },
+    {
+      "text": "Quoi ça rime ? Dis-moi à quoi ça rime quand on me pointe du doigt. Quel est mon crime ? À quoi ça rimme ? Dis-moi de",
+      "start": 79,
+      "duration": 8
+    },
+    {
+      "text": "Quoi ça rim quand on te pointe du doigt ? Quel est ton crime ? Moi je ne veux jamais avoir à",
+      "start": 87,
+      "duration": 7
+    },
+    {
+      "text": "M'excuser. Tu crois jamais en moi je veux pouvoir ne jamais me passer",
+      "start": 94,
+      "duration": 9
+    },
+    {
+      "text": "Tes tu en payes le prix. Telle est ma peine entre mensonge et mépris. Telle est ma peine tu baisseras jamais les bras, tu penseras jamais tout droit.",
+      "start": 103,
+      "duration": 10
+    },
+    {
+      "text": "Mais comment exister si je refuse le combat ?",
+      "start": 113,
+      "duration": 4
+    },
+    {
+      "text": "Oh mais qu'est-ce que ça fait ? Mais qu'est-ce que ça fait ? Tout semble si tu sembles parfait. Tout semble",
+      "start": 117,
+      "duration": 9
+    },
+    {
+      "text": "Parfait. Tu t'envoles loin dans tes pensées quand sur la scène tu pousses le",
+      "start": 126,
+      "duration": 7
+    },
+    {
+      "text": "Pied. Tu as refusé d'être un homme d'être un homme laissé. Quand le rideau s'est levé, à",
+      "start": 133,
+      "duration": 8
+    },
+    {
+      "text": "Quoi ça rime ? Dis-moi à quoi ça rime quand on te pointe du doigt. Quel est ton crime ? À quoi ça rime ? Dis-moi à",
+      "start": 141,
+      "duration": 8
+    },
+    {
+      "text": "Quoi ça rime quand on te pointe du doigt. Quel est ton crime ?",
+      "start": 149,
+      "duration": 7
+    }
+  ],
   "playbackVideoId": "SmW9IpZlvMs",
   "sourceURL": "https://www.youtube.com/watch?v=SmW9IpZlvMs",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=SmW9IpZlvMs",
@@ -108,10 +204,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250329",
   "productionYear": 2023,
@@ -204,5 +300,107 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 758,
+      "start": 8,
+      "text": "droit. Libre à toi de vouloir assumer tes joies."
+    },
+    {
+      "sourceLine": 759,
+      "start": 17,
+      "text": "À quoi ça rime ? Dis-moi à quoi ça rime quand on me pointe du doigt ? Quel est mon crime ? À quoi ça rime ? Dis-moi"
+    },
+    {
+      "sourceLine": 760,
+      "start": 25,
+      "text": "quoi ça rime. Quand on te pointe du doigt, quel est ton crime ? Je vis, je crois, je ne perds jamais confiance en"
+    },
+    {
+      "sourceLine": 761,
+      "start": 34,
+      "text": "moi. Oh moi je vis, je vois, je dois saisir ma chance cette"
+    },
+    {
+      "sourceLine": 762,
+      "start": 41,
+      "text": "fois malgré les humiliations, ça vaut la peine de remise en question. Ça vaut la peine. Ne jamais baisser les bras, ne"
+    },
+    {
+      "sourceLine": 763,
+      "start": 50,
+      "text": "jamais penser tout ça. Mais comment exister si je refuse le combat ? Mais qu'est-ce que ça fait ? Mais"
+    },
+    {
+      "sourceLine": 764,
+      "start": 58,
+      "text": "qu'est-ce que ça fait ? Tout semble si bon. Tout semble parfait. Tout semble"
+    },
+    {
+      "sourceLine": 765,
+      "start": 64,
+      "text": "parfait. Tu t'envoles loin dans tes pensées quand sur la scène tu poses le"
+    },
+    {
+      "sourceLine": 766,
+      "start": 71,
+      "text": "pied. Tu as refusé d'être un homme, d'être un homme blessé quand le rideau s'est levé. À"
+    },
+    {
+      "sourceLine": 767,
+      "start": 79,
+      "text": "quoi ça rime ? Dis-moi à quoi ça rime quand on me pointe du doigt. Quel est mon crime ? À quoi ça rimme ? Dis-moi de"
+    },
+    {
+      "sourceLine": 768,
+      "start": 87,
+      "text": "quoi ça rim quand on te pointe du doigt ? Quel est ton crime ? Moi je ne veux jamais avoir à"
+    },
+    {
+      "sourceLine": 769,
+      "start": 94,
+      "text": "m'excuser. Tu crois jamais en moi je veux pouvoir ne jamais me passer"
+    },
+    {
+      "sourceLine": 770,
+      "start": 103,
+      "text": "tes tu en payes le prix. Telle est ma peine entre mensonge et mépris. Telle est ma peine tu baisseras jamais les bras, tu penseras jamais tout droit."
+    },
+    {
+      "sourceLine": 771,
+      "start": 113,
+      "text": "Mais comment exister si je refuse le combat ?"
+    },
+    {
+      "sourceLine": 772,
+      "start": 117,
+      "text": "Oh mais qu'est-ce que ça fait ? Mais qu'est-ce que ça fait ? Tout semble si tu sembles parfait. Tout semble"
+    },
+    {
+      "sourceLine": 773,
+      "start": 126,
+      "text": "parfait. Tu t'envoles loin dans tes pensées quand sur la scène tu pousses le"
+    },
+    {
+      "sourceLine": 774,
+      "start": 133,
+      "text": "pied. Tu as refusé d'être un homme d'être un homme laissé. Quand le rideau s'est levé, à"
+    },
+    {
+      "sourceLine": 775,
+      "start": 141,
+      "text": "quoi ça rime ? Dis-moi à quoi ça rime quand on te pointe du doigt. Quel est ton crime ? À quoi ça rime ? Dis-moi à"
+    },
+    {
+      "sourceLine": 776,
+      "start": 149,
+      "text": "quoi ça rime quand on te pointe du doigt. Quel est ton crime ?"
+    }
+  ]
 }

@@ -10,14 +10,135 @@
   "musicalId": "moliere",
   "trackNumber": 2,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Mesdames et messieurs, la troupe de l'Illustre Théâtre : madame Béjart…",
+      "start": 0,
+      "duration": 7
+    },
+    {
+      "text": "… Béjart et Jean-Baptiste. Nous allons créer notre théâtre. Nous allons l'appeler l'Illustre Théâtre.",
+      "start": 7,
+      "duration": 8
+    },
+    {
+      "text": "Quant au règlement, vous n'allez pas… J'ai écrit les fondements de l'Illustre Théâtre. Ah bon ? Oui ! Pourquoi…",
+      "start": 15,
+      "duration": 7
+    },
+    {
+      "text": "Pas ? Madeleine, dans mes bras ! … Sera dirigé par moi…",
+      "start": 22,
+      "duration": 9
+    },
+    {
+      "text": "Par vote à la majorité, mis à part les rôles que je choisirai en premier. Nous…",
+      "start": 31,
+      "duration": 7
+    },
+    {
+      "text": "Serons presque toujours à égalité. Ah bon ? Oui ! Pourquoi pas ? Madeleine, dans mes…",
+      "start": 38,
+      "duration": 9
+    },
+    {
+      "text": "Bras ! Monsieur le notaire, nous sommes prêts à…",
+      "start": 47,
+      "duration": 4
+    },
+    {
+      "text": "Signer. Paris… Nous allons bientôt…",
+      "start": 52,
+      "duration": 9
+    },
+    {
+      "text": "… On pourra peut-être signer avant ça ? Oui ! Béjart, signé ! Joseph Béjart, signé !",
+      "start": 61,
+      "duration": 9
+    },
+    {
+      "text": "Allez ! … Est-il bien clair ? … S'il n'y avait pas la signature d'un certain Molière. Molière ?",
+      "start": 70,
+      "duration": 9
+    },
+    {
+      "text": "Oui, Molière, c'est moi. Je trouvais Poquelin un peu ringard, donc je me suis choisi un pseudo de star. Paris, Paris, tu peux…",
+      "start": 79,
+      "duration": 9
+    },
+    {
+      "text": "Bien… Nous allons…",
+      "start": 88,
+      "duration": 3
+    },
+    {
+      "text": "Bientôt. Paris, Paris…",
+      "start": 93,
+      "duration": 10
+    },
+    {
+      "text": "… Nous avons loué. Il faut à présent le rénover. Pour tout financer, nous devons…",
+      "start": 103,
+      "duration": 8
+    },
+    {
+      "text": "Emprunter. … Pourrait se porter caution pour obtenir un prêt ? Toi, Jean-Baptiste ?",
+      "start": 111,
+      "duration": 9
+    },
+    {
+      "text": "OK, d'accord, je vais les cautionner. Mais là, je mérite bien un petit… Cher Montfleury, cher Floridor, Paris vous sourit. Et…",
+      "start": 120,
+      "duration": 8
+    },
+    {
+      "text": "Oui… Avec Corneille nous triomphons au…",
+      "start": 128,
+      "duration": 6
+    },
+    {
+      "text": "Théâtre du Marais, au théâtre de Bourgogne. Nous sommes la troupe de Sa Majesté. Ces…",
+      "start": 134,
+      "duration": 7
+    },
+    {
+      "text": "Jeunes inconscients… Paris n'est pas assez grand pour assurer le succès…",
+      "start": 141,
+      "duration": 9
+    },
+    {
+      "text": "… Aujourd'hui au théâtre du Marais…",
+      "start": 150,
+      "duration": 11
+    },
+    {
+      "text": "… Aujourd'hui…",
+      "start": 161,
+      "duration": 10
+    },
+    {
+      "text": "Aujourd'hui à l'Illustre Théâtre : La Mort de Crispe, de Tristan L'Hermite, avec la grande Madeleine. Reprise au théâtre de l'Hôtel de…",
+      "start": 180,
+      "duration": 8
+    },
+    {
+      "text": "Bourgogne… C'est un succès, succès ! Reprise… Mesdames et messieurs, représentation…",
+      "start": 188,
+      "duration": 8
+    },
+    {
+      "text": "Supplémentaire : Le Menteur du grand Corneille au théâtre du…",
+      "start": 196,
+      "duration": 8
+    }
+  ],
   "playbackVideoId": "xYyUoFnVbIA",
   "sourceURL": "https://www.youtube.com/watch?v=xYyUoFnVbIA",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=xYyUoFnVbIA",
@@ -140,10 +261,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250309",
   "productionYear": 2023,
@@ -264,5 +385,147 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 43,
+      "start": 0,
+      "text": "mesdames et messieurs la troupe de l'Illustre Théâtre madame béj lis"
+    },
+    {
+      "sourceLine": 44,
+      "start": 7,
+      "text": "béjame et Jean Bapti nous allons créer notre théâtre nous allons l'appeler l'illust théâtre"
+    },
+    {
+      "sourceLine": 45,
+      "start": 15,
+      "text": "quand au règlement vous n'allez pas débre j'ai écrit les fondements de l'Illustre Théâtre ah bon oui pourquoi"
+    },
+    {
+      "sourceLine": 46,
+      "start": 22,
+      "text": "pas m dans mes bras coup sera diringé par moi et Don ah oui Mandard nousvelit"
+    },
+    {
+      "sourceLine": 47,
+      "start": 31,
+      "text": "par vote à la majorité mis à part les rôles que je choisirai en premier nous"
+    },
+    {
+      "sourceLine": 48,
+      "start": 38,
+      "text": "serons presque toujours à égalité ah bon oui pourquoi pas Madeleine dans mes"
+    },
+    {
+      "sourceLine": 49,
+      "start": 47,
+      "text": "bras mon le notaire nous sommes prêts à"
+    },
+    {
+      "sourceLine": 50,
+      "start": 51,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 51,
+      "start": 52,
+      "text": "signeris Paris tu peux bien hen nous allons bientôt"
+    },
+    {
+      "sourceLine": 52,
+      "start": 61,
+      "text": "bon pourra peut-être signer avant ça oui Béjard signé Joseph Béjard signé"
+    },
+    {
+      "sourceLine": 53,
+      "start": 70,
+      "text": "allez le not est-il bien clair vous serait clair s'il n'y avait pas la signature d'un certain Molière Molière"
+    },
+    {
+      "sourceLine": 54,
+      "start": 79,
+      "text": "oui Molière c'est moi je trouvais plin un peu ringard donc je me suis choisi un pseudo de star Paris Paris tu peux"
+    },
+    {
+      "sourceLine": 55,
+      "start": 88,
+      "text": "bien nous allons"
+    },
+    {
+      "sourceLine": 56,
+      "start": 91,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 57,
+      "start": 93,
+      "text": "bientôt Paris Paris"
+    },
+    {
+      "sourceLine": 58,
+      "start": 103,
+      "text": "pour de nous avons loué il faut à présent le rénover pour tout financer nous devons"
+    },
+    {
+      "sourceLine": 59,
+      "start": 111,
+      "text": "emprunterentre nous pourrait se caution pour obtenir un prêt toi Jean-Baptiste"
+    },
+    {
+      "sourceLine": 60,
+      "start": 120,
+      "text": "ok d'accord je vais les cautionner mais là je mérite bien un petit pétier ch mon fleur cher fluridor Paris vous sourit et"
+    },
+    {
+      "sourceLine": 61,
+      "start": 128,
+      "text": "oui kine nous avec corne nous triomphons au"
+    },
+    {
+      "sourceLine": 62,
+      "start": 134,
+      "text": "théâre du mar au théâtre de Bourgogne nous sommes la trou de Sa Majesté c'est"
+    },
+    {
+      "sourceLine": 63,
+      "start": 141,
+      "text": "jeun inconscient pour chanté Paris n'est pas assez grand pour assurer le succès"
+    },
+    {
+      "sourceLine": 64,
+      "start": 150,
+      "text": "è th aujourd'hui au thére du mar"
+    },
+    {
+      "sourceLine": 65,
+      "start": 161,
+      "text": "m'h Gabri aujourd'huire th les"
+    },
+    {
+      "sourceLine": 66,
+      "start": 171,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 67,
+      "start": 180,
+      "text": "aujourd'hui à l'Illustre Théâtre la mor de crispe de tristonermite avec la grande Madeleine reprise au théâtre de l'hel de"
+    },
+    {
+      "sourceLine": 68,
+      "start": 188,
+      "text": "Bourgogne rocune de gabriber c'est un succès succès reprise leur du mdames et Messieurs présentation"
+    },
+    {
+      "sourceLine": 69,
+      "start": 196,
+      "text": "supplémentaire leenteur du Grand Corneil au Théâtre du"
+    }
+  ]
 }

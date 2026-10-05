@@ -10,14 +10,110 @@
   "musicalId": "moliere",
   "trackNumber": 24,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "… Malgré les âges… Contre tous, tous les…",
+      "start": 8,
+      "duration": 10
+    },
+    {
+      "text": "Usage adoré tout bas puisquelle a le visage de",
+      "start": 18,
+      "duration": 7
+    },
+    {
+      "text": "L'impossible amour, de l'impossible amour. C'est elle et moi contre le…",
+      "start": 25,
+      "duration": 10
+    },
+    {
+      "text": "Monde entier en a",
+      "start": 35,
+      "duration": 4
+    },
+    {
+      "text": "Parti cet amour si vrai pourtant à tout se",
+      "start": 41,
+      "duration": 7
+    },
+    {
+      "text": "Posose le saut du secret sur mes lèvres se",
+      "start": 48,
+      "duration": 6
+    },
+    {
+      "text": "Pose je serai d'é mais je Meur si je",
+      "start": 54,
+      "duration": 7
+    },
+    {
+      "text": "C'estet impossible amour c'estet impossible",
+      "start": 61,
+      "duration": 6
+    },
+    {
+      "text": "Amour. C'est lui et moi contre le monde…",
+      "start": 67,
+      "duration": 5
+    },
+    {
+      "text": "Entier en apparé oublierz tout ce qui nous",
+      "start": 72,
+      "duration": 11
+    },
+    {
+      "text": "Sépare tous ceux qui contre nous font des rempards",
+      "start": 83,
+      "duration": 10
+    },
+    {
+      "text": "Ououblier les voix et les regards qui nous criit que la mort",
+      "start": 93,
+      "duration": 7
+    },
+    {
+      "text": "Est vie oublier tout ce qui nous",
+      "start": 100,
+      "duration": 9
+    },
+    {
+      "text": "Sépare et même si l'on s'im jusqu'à en payer le prix",
+      "start": 109,
+      "duration": 8
+    },
+    {
+      "text": "Ignorer les lois imprimées sur les pages",
+      "start": 123,
+      "duration": 4
+    },
+    {
+      "text": "Ignorer la foi et les mots des grands sages sffleurer des doigts vivre le doux",
+      "start": 129,
+      "duration": 11
+    },
+    {
+      "text": "Mirage de l'impossible amour de l'invincible",
+      "start": 140,
+      "duration": 6
+    },
+    {
+      "text": "Amour ce sera nous contre le monde",
+      "start": 147,
+      "duration": 7
+    },
+    {
+      "text": "Entier. Ce sera nous contre le monde entier, sans aparté.",
+      "start": 154,
+      "duration": 9
+    }
+  ],
   "playbackVideoId": "jPo5jZKp948",
   "sourceURL": "https://www.youtube.com/watch?v=jPo5jZKp948",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=jPo5jZKp948",
@@ -132,10 +228,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250316",
   "productionYear": 2023,
@@ -248,5 +344,137 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 492,
+      "start": 0,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 493,
+      "start": 8,
+      "text": "contreetour malgré les âges l' contre tous tous les"
+    },
+    {
+      "sourceLine": 494,
+      "start": 18,
+      "text": "usage adoré tout bas puisquelle a le visage de"
+    },
+    {
+      "sourceLine": 495,
+      "start": 25,
+      "text": "l'impossible amour de l'impossible l'amour c'est elle et moi contre le"
+    },
+    {
+      "sourceLine": 496,
+      "start": 35,
+      "text": "monde entier en a"
+    },
+    {
+      "sourceLine": 497,
+      "start": 39,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 498,
+      "start": 41,
+      "text": "parti cet amour si vrai pourtant à tout se"
+    },
+    {
+      "sourceLine": 499,
+      "start": 48,
+      "text": "posose le saut du secret sur mes lèvres se"
+    },
+    {
+      "sourceLine": 500,
+      "start": 54,
+      "text": "pose je serai d'é mais je Meur si je"
+    },
+    {
+      "sourceLine": 501,
+      "start": 61,
+      "text": "c'estet impossible amour c'estet impossible"
+    },
+    {
+      "sourceLine": 502,
+      "start": 67,
+      "text": "amour c'est lui et moi contre le monde"
+    },
+    {
+      "sourceLine": 503,
+      "start": 72,
+      "text": "entier en apparé oublierz tout ce qui nous"
+    },
+    {
+      "sourceLine": 504,
+      "start": 83,
+      "text": "sépare tous ceux qui contre nous font des rempards"
+    },
+    {
+      "sourceLine": 505,
+      "start": 93,
+      "text": "ououblier les voix et les regards qui nous criit que la mort"
+    },
+    {
+      "sourceLine": 506,
+      "start": 100,
+      "text": "est vie oublier tout ce qui nous"
+    },
+    {
+      "sourceLine": 507,
+      "start": 109,
+      "text": "sépare et même si l'on s'im jusqu'à en payer le prix"
+    },
+    {
+      "sourceLine": 508,
+      "start": 117,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 509,
+      "start": 123,
+      "text": "ignorer les lois imprimées sur les pages"
+    },
+    {
+      "sourceLine": 510,
+      "start": 127,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 511,
+      "start": 129,
+      "text": "ignorer la foi et les mots des grands sages sffleurer des doigts vivre le doux"
+    },
+    {
+      "sourceLine": 512,
+      "start": 140,
+      "text": "mirage de l'impossible amour de l'invincible"
+    },
+    {
+      "sourceLine": 513,
+      "start": 146,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 514,
+      "start": 147,
+      "text": "amour ce sera nous contre le monde"
+    },
+    {
+      "sourceLine": 515,
+      "start": 154,
+      "text": "entier ce sera nous contre le monde entier sans apartter"
+    },
+    {
+      "sourceLine": 516,
+      "start": 163,
+      "text": "[Musique]"
+    }
+  ]
 }

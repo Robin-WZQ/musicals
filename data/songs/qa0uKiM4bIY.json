@@ -10,14 +10,60 @@
   "musicalId": "moliere",
   "trackNumber": 36,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Calme-toi.",
+      "start": 19,
+      "duration": 4
+    },
+    {
+      "text": "Armande. Armande. Oh mon tendré bel amour, quelle joie de te retrouver. Oh, je m jour après jour depuis que tu as déserté notre",
+      "start": 23,
+      "duration": 9
+    },
+    {
+      "text": "Foyer. Attends, attends, attends ! Si je t'ai délaissée, c'est parce que Tartuffe m'a beaucoup accaparé. Mais j'ai enfin terminé la rédaction du nouveau…",
+      "start": 32,
+      "duration": 7
+    },
+    {
+      "text": "Ignorine madame vous illuminez Versailles de votre céleste et motoriseriez-vous à vous inviter à la",
+      "start": 39,
+      "duration": 8
+    },
+    {
+      "text": "Danse ? … S'il te plaît…",
+      "start": 47,
+      "duration": 13
+    },
+    {
+      "text": "Alors frérot, tu disais que ton tartuf c'était de la balle pourtant tu en as fait ma justement votre alt j'ai une nouvelle version de tartuf.",
+      "start": 63,
+      "duration": 11
+    },
+    {
+      "text": "… Tartuffe n'est plus un ecclésiastique, mais un imposteur rusé qui abuse d'un bourgeois, de son honnêteté… Viens dans…",
+      "start": 84,
+      "duration": 8
+    },
+    {
+      "text": "Mes salons jouer ton Tartuffe… J'inviterai mon frère.",
+      "start": 92,
+      "duration": 9
+    },
+    {
+      "text": "Ah, Marquise. Ah, Jean-Baptiste.",
+      "start": 112,
+      "duration": 3
+    }
+  ],
   "playbackVideoId": "qa0uKiM4bIY",
   "sourceURL": "https://www.youtube.com/watch?v=qa0uKiM4bIY",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=qa0uKiM4bIY",
@@ -84,10 +130,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250329",
   "productionYear": 2023,
@@ -152,5 +198,77 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 708,
+      "start": 1,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 709,
+      "start": 19,
+      "text": "Calme-toi."
+    },
+    {
+      "sourceLine": 710,
+      "start": 23,
+      "text": "Armande. Armande. Oh mon tendré bel amour, quelle joie de te retrouver. Oh, je m jour après jour depuis que tu as déserté notre"
+    },
+    {
+      "sourceLine": 711,
+      "start": 32,
+      "text": "foyer. Attends, attends, attends. Si je t'ai délaissé, c'est parce que Tartuff m'a beaucoup accaparé. Mais j'ai enfin terminé la rédaction du nouveau livre."
+    },
+    {
+      "sourceLine": 712,
+      "start": 39,
+      "text": "Ignorine madame vous illuminez Versailles de votre céleste et motoriseriez-vous à vous inviter à la"
+    },
+    {
+      "sourceLine": 713,
+      "start": 47,
+      "text": "danse Nathan ? Garde tout récr s'il te plaît."
+    },
+    {
+      "sourceLine": 714,
+      "start": 60,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 715,
+      "start": 63,
+      "text": "Alors frérot, tu disais que ton tartuf c'était de la balle pourtant tu en as fait ma justement votre alt j'ai une nouvelle version de tartuf."
+    },
+    {
+      "sourceLine": 716,
+      "start": 74,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 717,
+      "start": 84,
+      "text": "Total tart tartu n'est plus un ecclésiastique mais un imposteur rusé qui abuse d'un bourgeois de son honnêteté. Bien wesh frérot, viens dans"
+    },
+    {
+      "sourceLine": 718,
+      "start": 92,
+      "text": "mes salons jouer ton tartuf au inclusive. J'inviterai mon frère."
+    },
+    {
+      "sourceLine": 719,
+      "start": 101,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 720,
+      "start": 112,
+      "text": "Ah, Marquise. Ah, Jean-Baptiste."
+    }
+  ]
 }

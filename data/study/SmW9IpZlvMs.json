@@ -1,0 +1,325 @@
+{
+  "videoId": "SmW9IpZlvMs",
+  "playbackVideoId": "SmW9IpZlvMs",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=SmW9IpZlvMs"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Droit. Libre à toi de vouloir assumer tes joies.",
+      "start": 8,
+      "ipa": "[dʁwa libʁ‿a twa də vulwaʁ‿asyme te ʒwa]",
+      "ear": "德赫乌阿 利布赫 阿 特乌阿 德 乌勒乌阿赫 阿西于梅 特 日乌阿",
+      "meaning": "……权利。你可以选择承担你的选择……（部分识别不清）",
+      "suppliedText": "droit. Libre à toi de vouloir assumer tes joies.",
+      "sourceLineId": "moliere-timed-758",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 8,
+        "sourceLineNumber": 758,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "À quoi ça rime ? Dis-moi à quoi ça rime quand on me pointe du doigt ? Quel est mon crime ? À quoi ça rime ? Dis-moi",
+      "start": 17,
+      "ipa": "[a kwa sa ʁim dimwa a kwa sa ʁim kɑ̃t‿ɔ̃ mə pwɛ̃t dy dwa kɛl‿ɛ mɔ̃ kʁim a kwa sa ʁim dimwa]",
+      "ear": "阿 克乌阿 萨 希姆 迪姆乌阿 阿 克乌阿 萨 希姆 康特 翁 默 普乌安特 迪于 德乌阿 凯勒 艾 蒙 克希姆 阿 克乌阿 萨 希姆 迪姆乌阿",
+      "meaning": "这有什么意义？告诉我，被人指责时有什么意义？我犯了什么罪？",
+      "suppliedText": "À quoi ça rime ? Dis-moi à quoi ça rime quand on me pointe du doigt ? Quel est mon crime ? À quoi ça rime ? Dis-moi",
+      "sourceLineId": "moliere-timed-759",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 17,
+        "sourceLineNumber": 759,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Quoi ça rime. Quand on te pointe du doigt, quel est ton crime ? Je vis, je crois, je ne perds jamais confiance en",
+      "start": 25,
+      "ipa": "[kwa sa ʁim kɑ̃t‿ɔ̃ tə pwɛ̃t dy dwa kɛl‿ɛ tɔ̃ kʁim ʒə vi ʒə kʁwa ʒə nə pɛʁ ʒamɛ kɔ̃fjɑ̃s‿ɑ̃]",
+      "ear": "克乌阿 萨 希姆 康特 翁 特 普乌安特 迪于 德乌阿 凯勒 艾 通 克希姆 热 维 热 克赫乌阿 热 讷 佩赫 扎梅 孔弗耶昂斯 昂",
+      "meaning": "这有什么意义？别人指责你，你犯了什么罪？我活着，我相信，从不失去对……",
+      "suppliedText": "quoi ça rime. Quand on te pointe du doigt, quel est ton crime ? Je vis, je crois, je ne perds jamais confiance en",
+      "sourceLineId": "moliere-timed-760",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 25,
+        "sourceLineNumber": 760,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Moi. Oh moi je vis, je vois, je dois saisir ma chance cette",
+      "start": 34,
+      "ipa": "[mwa ɔ mwa ʒə vi ʒə vwa ʒə dwa sɛziʁ ma ʃɑ̃s sɛt]",
+      "ear": "姆乌阿 哦 姆乌阿 热 维 热 弗乌阿 热 德乌阿 塞齐赫 玛 尚斯 塞特",
+      "meaning": "自己的信心。我活着，我看见，这次必须抓住……",
+      "suppliedText": "moi. Oh moi je vis, je vois, je dois saisir ma chance cette",
+      "sourceLineId": "moliere-timed-761",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 34,
+        "sourceLineNumber": 761,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Fois malgré les humiliations, ça vaut la peine de remise en question. Ça vaut la peine. Ne jamais baisser les bras, ne",
+      "start": 41,
+      "ipa": "[fwa malɡʁe lez‿ymiljasjɔ̃ sa vo la pɛn də ʁəmiz‿ɑ̃ kɛstjɔ̃ sa vo la pɛn nə ʒamɛ bɛse le bʁa nə]",
+      "ear": "弗乌阿 玛勒格赫 莱兹 于米勒耶阿斯耶翁 萨 沃 拉 佩恩 德 赫米兹 昂 凯斯特耶翁 萨 沃 拉 佩恩 讷 扎梅 贝塞 莱 布哈 讷",
+      "meaning": "机会。尽管蒙羞，重新审视仍值得，仍值得。永远不放弃，不……",
+      "suppliedText": "fois malgré les humiliations, ça vaut la peine de remise en question. Ça vaut la peine. Ne jamais baisser les bras, ne",
+      "sourceLineId": "moliere-timed-762",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 41,
+        "sourceLineNumber": 762,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Jamais penser tout ça. Mais comment exister si je refuse le combat ? Mais qu'est-ce que ça fait ? Mais",
+      "start": 50,
+      "ipa": "[ʒamɛ pɑ̃se tu sa mɛ kɔmɑ̃ ɛɡziste si ʒə ʁəfyz lə kɔ̃ba mɛ kɛskə sa fɛ mɛ]",
+      "ear": "扎梅 庞塞 图 萨 梅 科芒 艾格齐斯特 西 热 赫菲于兹 勒 孔巴 梅 凯斯克 萨 费 梅",
+      "meaning": "……可若拒绝斗争，我如何存在？这究竟……",
+      "suppliedText": "jamais penser tout ça. Mais comment exister si je refuse le combat ? Mais qu'est-ce que ça fait ? Mais",
+      "sourceLineId": "moliere-timed-763",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 50,
+        "sourceLineNumber": 763,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Qu'est-ce que ça fait ? Tout semble si bon. Tout semble parfait. Tout semble",
+      "start": 58,
+      "ipa": "[kɛskə sa fɛ tu sɑ̃bl si bɔ̃ tu sɑ̃bl paʁfɛ tu sɑ̃bl]",
+      "ear": "凯斯克 萨 费 图 桑布勒 西 崩 图 桑布勒 帕赫费 图 桑布勒",
+      "meaning": "是什么感觉？一切似乎美好，一切似乎完美……",
+      "suppliedText": "qu'est-ce que ça fait ? Tout semble si bon. Tout semble parfait. Tout semble",
+      "sourceLineId": "moliere-timed-764",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 58,
+        "sourceLineNumber": 764,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Parfait. Tu t'envoles loin dans tes pensées quand sur la scène tu poses le",
+      "start": 64,
+      "ipa": "[paʁfɛ ty tɑ̃vol lwɛ̃ dɑ̃ te pɑ̃se kɑ̃ syʁ la sɛn ty poz lə]",
+      "ear": "帕赫费 蒂于 唐沃勒 勒乌安 当 特 庞塞 康 西于赫 拉 塞恩 蒂于 波兹 勒",
+      "meaning": "一切完美。踏上舞台时，你的思想飞向远方……",
+      "suppliedText": "parfait. Tu t'envoles loin dans tes pensées quand sur la scène tu poses le",
+      "sourceLineId": "moliere-timed-765",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 64,
+        "sourceLineNumber": 765,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pied. Tu as refusé d'être un homme, d'être un homme blessé quand le rideau s'est levé. À",
+      "start": 71,
+      "ipa": "[pje ty a ʁəfyze dɛtʁ‿œ̃n‿ɔm dɛtʁ‿œ̃n‿ɔm blɛse kɑ̃ lə ʁido sɛ ləve a]",
+      "ear": "普耶诶 蒂于 阿 赫菲于泽 戴特赫 恩恩 哦姆 戴特赫 恩恩 哦姆 布莱塞 康 勒 希多 塞 勒韦 阿",
+      "meaning": "幕布升起，你拒绝做一个受伤的人……",
+      "suppliedText": "pied. Tu as refusé d'être un homme, d'être un homme blessé quand le rideau s'est levé. À",
+      "sourceLineId": "moliere-timed-766",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 71,
+        "sourceLineNumber": 766,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Quoi ça rime ? Dis-moi à quoi ça rime quand on me pointe du doigt. Quel est mon crime ? À quoi ça rimme ? Dis-moi de",
+      "start": 79,
+      "ipa": "[kwa sa ʁim dimwa a kwa sa ʁim kɑ̃t‿ɔ̃ mə pwɛ̃t dy dwa kɛl‿ɛ mɔ̃ kʁim a kwa sa ʁim dimwa də]",
+      "ear": "克乌阿 萨 希姆 迪姆乌阿 阿 克乌阿 萨 希姆 康特 翁 默 普乌安特 迪于 德乌阿 凯勒 艾 蒙 克希姆 阿 克乌阿 萨 希姆 迪姆乌阿 德",
+      "meaning": "这有什么意义？当别人指着我，我犯了什么罪？这有什么……",
+      "suppliedText": "quoi ça rime ? Dis-moi à quoi ça rime quand on me pointe du doigt. Quel est mon crime ? À quoi ça rimme ? Dis-moi de",
+      "sourceLineId": "moliere-timed-767",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 79,
+        "sourceLineNumber": 767,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Quoi ça rim quand on te pointe du doigt ? Quel est ton crime ? Moi je ne veux jamais avoir à",
+      "start": 87,
+      "ipa": "[kwa sa ʁim kɑ̃t‿ɔ̃ tə pwɛ̃t dy dwa kɛl‿ɛ tɔ̃ kʁim mwa ʒə nə vø ʒamɛ avwaʁ‿a]",
+      "ear": "克乌阿 萨 希姆 康特 翁 特 普乌安特 迪于 德乌阿 凯勒 艾 通 克希姆 姆乌阿 热 讷 弗厄 扎梅 阿弗乌阿赫 阿",
+      "meaning": "意义？当别人指着你，你犯了什么罪？我从不想……",
+      "suppliedText": "quoi ça rim quand on te pointe du doigt ? Quel est ton crime ? Moi je ne veux jamais avoir à",
+      "sourceLineId": "moliere-timed-768",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 87,
+        "sourceLineNumber": 768,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "M'excuser. Tu crois jamais en moi je veux pouvoir ne jamais me passer",
+      "start": 94,
+      "ipa": "[mɛkskyze ty kʁwa ʒamɛ ɑ̃ mwa ʒə vø puvwaʁ nə ʒamɛ mə pase]",
+      "ear": "梅克斯基于泽 蒂于 克赫乌阿 扎梅 昂 姆乌阿 热 弗厄 普弗乌阿赫 讷 扎梅 默 帕塞",
+      "meaning": "道歉……我想能够……（后半句识别不清）",
+      "suppliedText": "m'excuser. Tu crois jamais en moi je veux pouvoir ne jamais me passer",
+      "sourceLineId": "moliere-timed-769",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 94,
+        "sourceLineNumber": 769,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Tes tu en payes le prix. Telle est ma peine entre mensonge et mépris. Telle est ma peine tu baisseras jamais les bras, tu penseras jamais tout droit.",
+      "start": 103,
+      "ipa": "[te ty ɑ̃ pɛj lə pʁi tɛl‿ɛ ma pɛn‿ɑ̃tʁ mɑ̃sɔ̃ʒ e mepʁi tɛl‿ɛ ma pɛn ty bɛsʁa ʒamɛ le bʁa ty pɑ̃sʁa ʒamɛ tu dʁwa]",
+      "ear": "特 蒂于 昂 佩耶 勒 普希 泰勒 艾 玛 佩恩 昂特赫 芒松日 诶 梅普希 泰勒 艾 玛 佩恩 蒂于 贝斯哈 扎梅 莱 布哈 蒂于 庞斯哈 扎梅 图 德赫乌阿",
+      "meaning": "……你为此付出代价。这就是我的痛苦，在谎言与轻蔑之间。你绝不会放弃……（部分识别不清）",
+      "suppliedText": "tes tu en payes le prix. Telle est ma peine entre mensonge et mépris. Telle est ma peine tu baisseras jamais les bras, tu penseras jamais tout droit.",
+      "sourceLineId": "moliere-timed-770",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 103,
+        "sourceLineNumber": 770,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Mais comment exister si je refuse le combat ?",
+      "start": 113,
+      "ipa": "[mɛ kɔmɑ̃ ɛɡziste si ʒə ʁəfyz lə kɔ̃ba]",
+      "ear": "梅 科芒 艾格齐斯特 西 热 赫菲于兹 勒 孔巴",
+      "meaning": "可若拒绝斗争，我如何存在？",
+      "suppliedText": "Mais comment exister si je refuse le combat ?",
+      "sourceLineId": "moliere-timed-771",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 113,
+        "sourceLineNumber": 771,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Oh mais qu'est-ce que ça fait ? Mais qu'est-ce que ça fait ? Tout semble si tu sembles parfait. Tout semble",
+      "start": 117,
+      "ipa": "[ɔ mɛ kɛskə sa fɛ mɛ kɛskə sa fɛ tu sɑ̃bl si ty sɑ̃bl paʁfɛ tu sɑ̃bl]",
+      "ear": "哦 梅 凯斯克 萨 费 梅 凯斯克 萨 费 图 桑布勒 西 蒂于 桑布勒 帕赫费 图 桑布勒",
+      "meaning": "这是什么感觉？一切似乎……一切似乎完美……",
+      "suppliedText": "Oh mais qu'est-ce que ça fait ? Mais qu'est-ce que ça fait ? Tout semble si tu sembles parfait. Tout semble",
+      "sourceLineId": "moliere-timed-772",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 117,
+        "sourceLineNumber": 772,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Parfait. Tu t'envoles loin dans tes pensées quand sur la scène tu pousses le",
+      "start": 126,
+      "ipa": "[paʁfɛ ty tɑ̃vol lwɛ̃ dɑ̃ te pɑ̃se kɑ̃ syʁ la sɛn ty pus lə]",
+      "ear": "帕赫费 蒂于 唐沃勒 勒乌安 当 特 庞塞 康 西于赫 拉 塞恩 蒂于 普斯 勒",
+      "meaning": "踏上舞台时，你的思想飞向远方……",
+      "suppliedText": "parfait. Tu t'envoles loin dans tes pensées quand sur la scène tu pousses le",
+      "sourceLineId": "moliere-timed-773",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 126,
+        "sourceLineNumber": 773,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pied. Tu as refusé d'être un homme d'être un homme laissé. Quand le rideau s'est levé, à",
+      "start": 133,
+      "ipa": "[pje ty a ʁəfyze dɛtʁ‿œ̃n‿ɔm dɛtʁ‿œ̃n‿ɔm lɛse kɑ̃ lə ʁido sɛ ləve a]",
+      "ear": "普耶诶 蒂于 阿 赫菲于泽 戴特赫 恩恩 哦姆 戴特赫 恩恩 哦姆 莱塞 康 勒 希多 塞 勒韦 阿",
+      "meaning": "幕布升起，你拒绝做一个……的人。（部分识别不清）",
+      "suppliedText": "pied. Tu as refusé d'être un homme d'être un homme laissé. Quand le rideau s'est levé, à",
+      "sourceLineId": "moliere-timed-774",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 133,
+        "sourceLineNumber": 774,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Quoi ça rime ? Dis-moi à quoi ça rime quand on te pointe du doigt. Quel est ton crime ? À quoi ça rime ? Dis-moi à",
+      "start": 141,
+      "ipa": "[kwa sa ʁim dimwa a kwa sa ʁim kɑ̃t‿ɔ̃ tə pwɛ̃t dy dwa kɛl‿ɛ tɔ̃ kʁim a kwa sa ʁim dimwa a]",
+      "ear": "克乌阿 萨 希姆 迪姆乌阿 阿 克乌阿 萨 希姆 康特 翁 特 普乌安特 迪于 德乌阿 凯勒 艾 通 克希姆 阿 克乌阿 萨 希姆 迪姆乌阿 阿",
+      "meaning": "这有什么意义？别人指着你时，你犯了什么罪？告诉我……",
+      "suppliedText": "quoi ça rime ? Dis-moi à quoi ça rime quand on te pointe du doigt. Quel est ton crime ? À quoi ça rime ? Dis-moi à",
+      "sourceLineId": "moliere-timed-775",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 141,
+        "sourceLineNumber": 775,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Quoi ça rime quand on te pointe du doigt. Quel est ton crime ?",
+      "start": 149,
+      "ipa": "[kwa sa ʁim kɑ̃t‿ɔ̃ tə pwɛ̃t dy dwa kɛl‿ɛ tɔ̃ kʁim]",
+      "ear": "克乌阿 萨 希姆 康特 翁 特 普乌安特 迪于 德乌阿 凯勒 艾 通 克希姆",
+      "meaning": "有什么意义？别人指着你，你犯了什么罪？",
+      "suppliedText": "quoi ça rime quand on te pointe du doigt. Quel est ton crime ?",
+      "sourceLineId": "moliere-timed-776",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 149,
+        "sourceLineNumber": 776,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

@@ -10,14 +10,75 @@
   "musicalId": "moliere",
   "trackNumber": 16,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "… Votre Altesse, ne vous laissez pas…",
+      "start": 8,
+      "duration": 7
+    },
+    {
+      "text": "Tromper leur masque celui de l'ignorance dissimulé enfin ils m'ont pris celle que j'aimais le plus au monde ils ont Seigné",
+      "start": 15,
+      "duration": 8
+    },
+    {
+      "text": "Ma mère jusque dans la tombe qui ne me touchez pas éloignez-vous éloignez-vous",
+      "start": 23,
+      "duration": 8
+    },
+    {
+      "text": "Regardez, de Cosnac, c'est la mort qui vient me chercher. Votre Altesse, c'est l'évêque… qui vient vous visiter. Il vous sait…",
+      "start": 31,
+      "duration": 8
+    },
+    {
+      "text": "Très malade et de votre âme c'est inquiété oh mon seigneur je sais que mon sort est mérité ma vie n'a été qu'une",
+      "start": 39,
+      "duration": 7
+    },
+    {
+      "text": "Longue succession de péchés il n'est qu'un chemin pour le salut renoncer au vie se couvre et la vertu prière et",
+      "start": 46,
+      "duration": 9
+    },
+    {
+      "text": "Mortification seront votre quotidien dieuaccorde sa grâce vrai chrétien Armand partout je vous ai cherché",
+      "start": 55,
+      "duration": 8
+    },
+    {
+      "text": "Comment avez-vous osé m'abandonner ça là ça c'est mon fouet rendez-le Moir me l'a promis hors de ma",
+      "start": 63,
+      "duration": 7
+    },
+    {
+      "text": "Vue tubauché retourne à ce mari que j'ai offensé pardon monsieur le mari de vous avoir cocufié je veux dire offensé je",
+      "start": 70,
+      "duration": 10
+    },
+    {
+      "text": "Suis un être influençable c'est votre femme la seule coupable mais je ne suis pas le mari je ne mérite que le fouet",
+      "start": 80,
+      "duration": 8
+    },
+    {
+      "text": "Que l'on me donne le fouet il mérite que le fouet qu'on lu donne le",
+      "start": 88,
+      "duration": 9
+    },
+    {
+      "text": "Fouet Votre Altesse",
+      "start": 106,
+      "duration": 3
+    }
+  ],
   "playbackVideoId": "39-kz7xAp1o",
   "sourceURL": "https://www.youtube.com/watch?v=39-kz7xAp1o",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=39-kz7xAp1o",
@@ -84,10 +145,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250310",
   "productionYear": 2023,
@@ -152,5 +213,77 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 307,
+      "start": 8,
+      "text": "sign pour votre altesse ne vous laissez pas"
+    },
+    {
+      "sourceLine": 308,
+      "start": 15,
+      "text": "tromper leur masque celui de l'ignorance dissimulé enfin ils m'ont pris celle que j'aimais le plus au monde ils ont Seigné"
+    },
+    {
+      "sourceLine": 309,
+      "start": 23,
+      "text": "ma mère jusque dans la tombe qui ne me touchez pas éloignez-vous éloignez-vous"
+    },
+    {
+      "sourceLine": 310,
+      "start": 31,
+      "text": "regardez DEAC c'est la mort qui vient me chercher votre altesse c'est l'évêque d'Ally qui vient vous visiter il vous sa"
+    },
+    {
+      "sourceLine": 311,
+      "start": 39,
+      "text": "très malade et de votre âme c'est inquiété oh mon seigneur je sais que mon sort est mérité ma vie n'a été qu'une"
+    },
+    {
+      "sourceLine": 312,
+      "start": 46,
+      "text": "longue succession de péchés il n'est qu'un chemin pour le salut renoncer au vie se couvre et la vertu prière et"
+    },
+    {
+      "sourceLine": 313,
+      "start": 55,
+      "text": "mortification seront votre quotidien dieuaccorde sa grâce vrai chrétien Armand partout je vous ai cherché"
+    },
+    {
+      "sourceLine": 314,
+      "start": 63,
+      "text": "comment avez-vous osé m'abandonner ça là ça c'est mon fouet rendez-le Moir me l'a promis hors de ma"
+    },
+    {
+      "sourceLine": 315,
+      "start": 70,
+      "text": "vue tubauché retourne à ce mari que j'ai offensé pardon monsieur le mari de vous avoir cocufié je veux dire offensé je"
+    },
+    {
+      "sourceLine": 316,
+      "start": 80,
+      "text": "suis un être influençable c'est votre femme la seule coupable mais je ne suis pas le mari je ne mérite que le fouet"
+    },
+    {
+      "sourceLine": 317,
+      "start": 88,
+      "text": "que l'on me donne le fouet il mérite que le fouet qu'on lu donne le"
+    },
+    {
+      "sourceLine": 318,
+      "start": 97,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 319,
+      "start": 106,
+      "text": "fouet Votre Altesse"
+    }
+  ]
 }

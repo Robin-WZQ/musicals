@@ -1,0 +1,197 @@
+{
+  "videoId": "bibKOLttUUU",
+  "playbackVideoId": "bibKOLttUUU",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=bibKOLttUUU"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "La Fronde, c'est la révolte des princes et des notables contre la régente et son ministre Mazarin. Mazarin est…",
+      "start": 13,
+      "ipa": "[la fʁɔ̃d sɛ la ʁevɔlt de pʁɛ̃s e de notabl kɔ̃tʁ la ʁeʒɑ̃t e sɔ̃ ministʁ mazaʁɛ̃ mazaʁɛ̃ ɛ]",
+      "ear": "拉 弗洪德 塞 拉 赫沃勒特 德 普汉斯 诶 德 诺塔布勒 孔特赫 拉 赫让特 诶 松 米尼斯特赫 玛扎汉 玛扎汉 艾",
+      "meaning": "投石党运动是王公和显贵反抗摄政太后及其大臣马扎然的叛乱。马扎然……",
+      "suppliedText": "laance c'est c'est la révolte des princes et des notables contre la régent et son ministre Mazarin Mazarin est",
+      "sourceLineId": "moliere-timed-163",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 13,
+        "sourceLineNumber": 163,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Accusé de corruption et d'écraser le peuple par l'impôt. Les princes veulent démettre Mazarin de ses fonctions et prendre le pouvoir. Le roi Louis XIV…",
+      "start": 21,
+      "ipa": "[akyze də koʁypsjɔ̃ e dekʁaze lə pøpl paʁ lɛ̃po le pʁɛ̃s vœl demɛtʁ mazaʁɛ̃ də se fɔ̃ksjɔ̃ e pʁɑ̃dʁ lə puvwaʁ lə ʁwa lwi katɔʁz]",
+      "ear": "阿基于泽 德 科许普斯耶翁 诶 德克哈泽 勒 珀厄普勒 帕赫 兰波 莱 普汉斯 弗厄勒 德梅特赫 玛扎汉 德 塞 丰克斯耶翁 诶 普杭德赫 勒 普弗乌阿赫 勒 赫乌阿 勒乌伊 卡托赫兹",
+      "meaning": "被指控贪污和用税赋压榨人民。王公想赶他下台，夺取权力。路易十四……",
+      "suppliedText": "accusé de corruption et d'écraser le peuple par l'impô les princes veent démettre maarin de ses fonctions et prendre le pouvoir le roi Louis XIV",
+      "sourceLineId": "moliere-timed-164",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 21,
+        "sourceLineNumber": 164,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Est encore un enfant. Bordeaux vient de tomber aux mains des frondeurs, et voici le prince de Conti qui entre triomphant…",
+      "start": 29,
+      "ipa": "[ɛt‿ɑ̃kɔʁ‿œ̃n‿ɑ̃fɑ̃ bɔʁdo vjɛ̃ də tɔ̃be o mɛ̃ de fʁɔ̃dœʁ e vwasi lə pʁɛ̃s də kɔ̃ti ki ɑ̃tʁ tʁiɔ̃fɑ̃]",
+      "ear": "艾特 昂科赫 恩恩 昂芳 博赫多 弗耶安 德 通贝 奥 曼 德 弗洪德厄赫 诶 弗乌阿西 勒 普汉斯 德 孔蒂 基 昂特赫 特希翁芳",
+      "meaning": "仍是个孩子。波尔多刚落入叛军手中，孔蒂亲王凯旋进入……",
+      "suppliedText": "encore un enfant bordau vient de tomber aux mains des fondeurs et voici le prince de Conti qui entre tri enfant",
+      "sourceLineId": "moliere-timed-165",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 29,
+        "sourceLineNumber": 165,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Dans la ville. Je m'appelle Armand de Conti. Je suis prince de sang, cousin du roi.",
+      "start": 38,
+      "ipa": "[dɑ̃ la vil ʒə mapɛl‿aʁmɑ̃ də kɔ̃ti ʒə sɥi pʁɛ̃s də sɑ̃ kuzɛ̃ dy ʁwa]",
+      "ear": "当 拉 维勒 热 玛佩勒 阿赫芒 德 孔蒂 热 斯于伊 普汉斯 德 桑 库赞 迪于 赫乌阿",
+      "meaning": "城中。我叫阿尔芒·德·孔蒂，是王室亲王、国王的堂亲。",
+      "suppliedText": "dans la ville je m'appelle Armand de Conti je suis prince de s cousin de roi",
+      "sourceLineId": "moliere-timed-166",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 38,
+        "sourceLineNumber": 166,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Nous chasserons le ministre perverti sous notre contrôle l'enfant roi",
+      "start": 47,
+      "ipa": "[nu ʃasʁɔ̃ lə ministʁ pɛʁvɛʁti su notʁ kɔ̃tʁol lɑ̃fɑ̃ ʁwa]",
+      "ear": "努 沙斯洪 勒 米尼斯特赫 佩赫韦赫蒂 苏 诺特赫 孔特霍勒 朗芳 赫乌阿",
+      "meaning": "我们会赶走那腐败的大臣，让年幼的国王在我们的控制下……",
+      "suppliedText": "nous chasserons le ministre perverti sous notre contrôle l'enfant roi",
+      "sourceLineId": "moliere-timed-167",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 47,
+        "sourceLineNumber": 167,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Règnera votre Alesse vous ne pouvez continuer à mener cette fronde contre votre propre famille en tant que conseiller je vous conseille de vous",
+      "start": 55,
+      "ipa": "[ʁɛɲəʁa votʁ‿alɛs vu nə puve kɔ̃tinye a məne sɛt fʁɔ̃d kɔ̃tʁ votʁ pʁɔpʁ famij‿ɑ̃ tɑ̃ kə kɔ̃sɛje ʒə vu kɔ̃sɛj də vu]",
+      "ear": "赫涅呃哈 沃特赫 阿莱斯 乌 讷 普韦 孔蒂尼于诶 阿 默内 塞特 弗洪德 孔特赫 沃特赫 普霍普赫 法米耶 昂 唐 克 孔塞耶诶 热 乌 孔塞耶 德 乌",
+      "meaning": "统治。——殿下，您不能继续反抗自己的家族。作为顾问，我劝您……",
+      "suppliedText": "règnera votre Alesse vous ne pouvez continuer à mener cette fronde contre votre propre famille en tant que conseiller je vous conseille de vous",
+      "sourceLineId": "moliere-timed-168",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 55,
+        "sourceLineNumber": 168,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Rallier… Cosnac, j'attends de mon conseiller qu'il me conseille de faire…",
+      "start": 63,
+      "ipa": "[ʁalje kɔsnak ʒatɑ̃ də mɔ̃ kɔ̃sɛje kil mə kɔ̃sɛj də fɛʁ]",
+      "ear": "哈勒耶诶 科斯纳克 扎唐 德 蒙 孔塞耶诶 基勒 默 孔塞耶 德 费赫",
+      "meaning": "归顺……科斯纳克，我希望顾问劝我做……",
+      "suppliedText": "rallier denac j'attends de mon conseiller qu'il me conseille de faire",
+      "sourceLineId": "moliere-timed-169",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 63,
+        "sourceLineNumber": 169,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Ce que j'ai décider très bien très",
+      "start": 69,
+      "ipa": "[sə kə ʒe deside tʁɛ bjɛ̃ tʁɛ]",
+      "ear": "瑟 克 热 德西德 特赫 布耶安 特赫",
+      "meaning": "我已经决定要做的事。——好吧，好吧。",
+      "suppliedText": "ce que j'ai décider très bien très",
+      "sourceLineId": "moliere-timed-170",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 69,
+        "sourceLineNumber": 170,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Bien le du Pern se cro à l'AB mais il est l'un des hommes les plus ha de ce pays et partout sur cette terre on écrit des ponflets qui dénon son ignominie de",
+      "start": 80,
+      "ipa": "[bjɛ̃ lə dy pɛʁn sə kʁo a lab mɛ il‿ɛ lœ̃ dez‿ɔm le ply a də sə pɛi e paʁtu syʁ sɛt tɛʁ‿ɔ̃n‿ekʁi de pɔ̃flɛ ki denɔ̃ sɔ̃n‿injomini də]",
+      "ear": "布耶安 勒 迪于 佩赫恩 瑟 克霍 阿 拉布 梅 伊勒 艾 兰 德兹 哦姆 莱 普吕 阿 德 瑟 佩伊 诶 帕赫图 西于赫 塞特 泰赫 翁恩 诶克希 德 蓬弗莱 基 德农 松恩 伊恩耶奥米尼 德",
+      "meaning": "埃佩尔农公爵以为自己安全，却是全国最遭痛恨的人之一，到处都有谴责他的文章……",
+      "suppliedText": "bien le du Pern se cro à l'AB mais il est l'un des hommes les plus ha de ce pays et partout sur cette terre on écrit des ponflets qui dénon son ignominie de",
+      "sourceLineId": "moliere-timed-171",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 80,
+        "sourceLineNumber": 171,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "16 de son gouvernement il fut pour nous était fini de cette période",
+      "start": 89,
+      "ipa": "[sɛz də sɔ̃ ɡuvɛʁnəmɑ̃ il fy puʁ nuz‿etɛ fini də sɛt peʁjɔd]",
+      "ear": "塞兹 德 松 古韦赫讷芒 伊勒 菲于 普赫 努兹 诶泰 菲尼 德 塞特 佩赫耶哦德",
+      "meaning": "……他的统治……我们的这段时期结束了。（部分识别不清）",
+      "suppliedText": "16 de son gouvernement il fut pour nous était fini de cette période",
+      "sourceLineId": "moliere-timed-172",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 89,
+        "sourceLineNumber": 172,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Heureuse cont d'abandonner le nom et la protection du duc des",
+      "start": 97,
+      "ipa": "[øʁøz kɔ̃ dabɑ̃dɔne lə nɔ̃ e la pʁotɛksjɔ̃ dy dyk de]",
+      "ear": "厄赫厄兹 孔 达邦多内 勒 农 诶 拉 普霍泰克斯耶翁 迪于 迪于克 德",
+      "meaning": "幸福的日子结束，我们被迫放弃公爵的名号和庇护……",
+      "suppliedText": "heureuse cont d'abandonner le nom et la protection du duc des",
+      "sourceLineId": "moliere-timed-173",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 97,
+        "sourceLineNumber": 173,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

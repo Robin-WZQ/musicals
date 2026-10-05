@@ -1,0 +1,133 @@
+{
+  "videoId": "Bka3XAUsNwo",
+  "playbackVideoId": "Bka3XAUsNwo",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=Bka3XAUsNwo"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Sa majesté m'a traité sans aucun égard.",
+      "start": 5,
+      "ipa": "[sa maʒɛste ma tʁɛte sɑ̃ okœ̃n‿eɡaʁ]",
+      "ear": "萨 玛热斯特 玛 特赫特 桑 奥坎恩 诶嘎赫",
+      "meaning": "国王待我毫无尊重。",
+      "suppliedText": "Sa majesté m'a traité sans aucun égard.",
+      "sourceLineId": "moliere-timed-686",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 5,
+        "sourceLineNumber": 686,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Il m'a pas adressé un seul mot un seul regard. Pourtant, je lui ai donné ma confiance en espérant bénéficier de sa bienveillance. Je me suis livré à lui en",
+      "start": 7,
+      "ipa": "[il ma pa adʁɛse œ̃ sœl mo œ̃ sœl ʁəɡaʁ puʁtɑ̃ ʒə lɥi e dɔne ma kɔ̃fjɑ̃s‿ɑ̃n‿ɛspeʁɑ̃ benefisje də sa bjɛ̃vɛjɑ̃s ʒə mə sɥi livʁe a lɥi ɑ̃]",
+      "ear": "伊勒 玛 帕 阿德赫塞 恩 瑟厄勒 莫 恩 瑟厄勒 赫嘎赫 普赫唐 热 勒于伊 诶 多内 玛 孔弗耶昂斯 昂恩 艾斯佩杭 贝内菲斯耶诶 德 萨 布耶安韦耶昂斯 热 默 斯于伊 利弗赫 阿 勒于伊 昂",
+      "meaning": "一句话、一个眼神都没有。我曾信任他，期待他的善意，向他……",
+      "suppliedText": "Il m'a pas adressé un seul mot un seul regard. Pourtant, je lui ai donné ma confiance en espérant bénéficier de sa bienveillance. Je me suis livré à lui en",
+      "sourceLineId": "moliere-timed-687",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7,
+        "sourceLineNumber": 687,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pleurant sa clémence. Je n'ai cessé de plaider ma cause à toute innocence. Mais bien sûr, tout était joué d'avance. Je n'ai jamais su la moindre chance.",
+      "start": 16,
+      "ipa": "[pløʁɑ̃ sa klemɑ̃s ʒə ne sɛse də plɛde ma koz‿a tut‿inosɑ̃s mɛ bjɛ̃ syʁ tut‿etɛ ʒwe davɑ̃s ʒə ne ʒamɛ sy la mwɛ̃dʁ ʃɑ̃s]",
+      "ear": "普勒厄杭 萨 克莱芒斯 热 内 塞塞 德 普莱德 玛 科兹 阿 图特 伊诺桑斯 梅 布耶安 西于赫 图特 诶泰 日乌诶 达旺斯 热 内 扎梅 西于 拉 姆乌安德赫 尚斯",
+      "meaning": "恳求宽恕，不断无辜地为自己辩护。但一切早已注定，我从没得到丝毫机会。",
+      "suppliedText": "pleurant sa clémence. Je n'ai cessé de plaider ma cause à toute innocence. Mais bien sûr, tout était joué d'avance. Je n'ai jamais su la moindre chance.",
+      "sourceLineId": "moliere-timed-688",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 16,
+        "sourceLineNumber": 688,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "De sang ne vous fiez jamais troppuissant. Comment aje croire que le",
+      "start": 27,
+      "ipa": "[də sɑ̃ nə vu fje ʒamɛ tʁɔpɥisɑ̃ kɔmɑ̃ aʒ kʁwaʁ kə lə]",
+      "ear": "德 桑 讷 乌 弗耶诶 扎梅 特霍普于伊桑 科芒 阿日 克赫乌阿赫 克 勒",
+      "meaning": "……别过分信任有权势的人。我怎么能相信……（开头识别不清）",
+      "suppliedText": "de sang ne vous fiez jamais troppuissant. Comment aje croire que le",
+      "sourceLineId": "moliere-timed-689",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 27,
+        "sourceLineNumber": 689,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Roi était libre penseur ? Il n'est en fait que le prisonnier des senseurs de ces hypocrites qui se servent du Seigneur. Ah pour attisrer leur peu.",
+      "start": 34,
+      "ipa": "[ʁwa etɛ libʁ pɑ̃sœʁ il nɛt‿ɑ̃ fɛ kə lə pʁizɔnje de sɑ̃sœʁ də sez‿ipɔkʁit ki sə sɛʁv dy sɛnjœʁ a puʁ‿atisʁe lœʁ pø]",
+      "ear": "赫乌阿 诶泰 利布赫 庞瑟厄赫 伊勒 奈特 昂 费 克 勒 普希佐恩耶诶 德 桑瑟厄赫 德 塞兹 伊珀克希特 基 瑟 塞赫弗 迪于 塞恩耶厄赫 阿 普赫 阿蒂斯赫 勒厄赫 珀厄",
+      "meaning": "国王能自由思考？他其实被审查者、借上帝之名行事的伪善者困住……",
+      "suppliedText": "roi était libre penseur ? Il n'est en fait que le prisonnier des senseurs de ces hypocrites qui se servent du Seigneur. Ah pour attisrer leur peu.",
+      "sourceLineId": "moliere-timed-690",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 34,
+        "sourceLineNumber": 690,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Ouais. Homme de peup de l'abit de sang. Ne vous fiez jamais puissant.",
+      "start": 42,
+      "ipa": "[wɛ ɔm də pœp də labi də sɑ̃ nə vu fje ʒamɛ pɥisɑ̃]",
+      "ear": "乌艾 哦姆 德 珀厄普 德 拉比 德 桑 讷 乌 弗耶诶 扎梅 普于伊桑",
+      "meaning": "……别信任有权势的人。（部分识别不清）",
+      "suppliedText": "Ouais. Homme de peup de l'abit de sang. Ne vous fiez jamais puissant.",
+      "sourceLineId": "moliere-timed-691",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 42,
+        "sourceLineNumber": 691,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Jean-Baptiste.",
+      "start": 52,
+      "ipa": "[ʒɑ̃batist]",
+      "ear": "让巴蒂斯特",
+      "meaning": "让-巴蒂斯特。",
+      "suppliedText": "Jean-Baptiste.",
+      "sourceLineId": "moliere-timed-692",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 52,
+        "sourceLineNumber": 692,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

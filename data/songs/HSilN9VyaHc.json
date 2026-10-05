@@ -10,14 +10,125 @@
   "musicalId": "moliere",
   "trackNumber": 40,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Il s'appelle Jean-Baptiste, Jean-Baptiste Poquelin. Cela fait des semaines qu'il est très mal en point, et il refuse les soins et…",
+      "start": 5,
+      "duration": 8
+    },
+    {
+      "text": "Les breuvages d'appoint. Jean-Baptiste n'accorde aucune confiance aux médecins. Il se sent vidé, déprimé, épuisé, et son…",
+      "start": 13,
+      "duration": 8
+    },
+    {
+      "text": "Précieux Tartuffe n'est toujours pas autorisé. Le roi ne s'est toujours pas manifesté. Jean-Baptiste se sent…",
+      "start": 21,
+      "duration": 7
+    },
+    {
+      "text": "Abandonné dans la vie il faut du bas et du haut mais il y a des jours où rien ne va des jours comme ça où",
+      "start": 28,
+      "duration": 10
+    },
+    {
+      "text": "Tout j avec son père toujours pas réconcilié",
+      "start": 38,
+      "duration": 6
+    },
+    {
+      "text": "Jean-Baptiste éprouve de la culpabilité il sent jour après jour sa femme Armand de s'éloigner et lui soupçonne même des",
+      "start": 44,
+      "duration": 8
+    },
+    {
+      "text": "Infidélités de toute part Jean-Baptiste est attaqué les feux de l'enfer laab brouillé lui promet on menace de lui",
+      "start": 52,
+      "duration": 8
+    },
+    {
+      "text": "Crever les yeux dans un pflaet et qu' il le condamne dans son fameux",
+      "start": 60,
+      "duration": 7
+    },
+    {
+      "text": "Traité du mais il y a des jours où rien ne va des jours comme ça où tout est B",
+      "start": 67,
+      "duration": 8
+    },
+    {
+      "text": "Des",
+      "start": 75,
+      "duration": 1
+    },
+    {
+      "text": "Jours. Oui, c'est moi, le prince de Conti, qui ai écrit le fameux Traité de la comédie. Vous ne pouvez plus menacer Molière, vous…",
+      "start": 77,
+      "duration": 8
+    },
+    {
+      "text": "Êtes morts l'année dernière non si ils ont pas fait ça si oh les",
+      "start": 85,
+      "duration": 6
+    },
+    {
+      "text": "Bâtards dans la vi mais des",
+      "start": 91,
+      "duration": 6
+    },
+    {
+      "text": "Jourson m'apporte une plume et du",
+      "start": 97,
+      "duration": 9
+    },
+    {
+      "text": "Papier tout le monde parlera plus que de",
+      "start": 106,
+      "duration": 3
+    },
+    {
+      "text": "… Elle provoquera un nouveau scandale. Le Misanthrope, pièce en cinq actes en vers… qui…",
+      "start": 113,
+      "duration": 7
+    },
+    {
+      "text": "Sera un échec. L'Amour médecin, comédie… Molière se venge enfin des médecins.",
+      "start": 120,
+      "duration": 7
+    },
+    {
+      "text": "Pastorale comique, George Dandin, Le Sicilien… Attendez, attendez, mais tout ça va trop…",
+      "start": 127,
+      "duration": 6
+    },
+    {
+      "text": "Vite Jean-Baptiste tu as encore rcru par décret royal du 23 février 16",
+      "start": 141,
+      "duration": 10
+    },
+    {
+      "text": "Sa Majesté Louis X autorise le surmolire à jouer la pièce d'artimpost dans son",
+      "start": 151,
+      "duration": 10
+    },
+    {
+      "text": "Théâtre… Mes amis, mes amis, dès demain… sera repris. Et s'il le faut, nous…",
+      "start": 161,
+      "duration": 6
+    },
+    {
+      "text": "Répéterons toute la nuit",
+      "start": 167,
+      "duration": 5
+    }
+  ],
   "playbackVideoId": "HSilN9VyaHc",
   "sourceURL": "https://www.youtube.com/watch?v=HSilN9VyaHc",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=HSilN9VyaHc",
@@ -136,10 +247,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250330",
   "productionYear": 2023,
@@ -256,5 +367,142 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 778,
+      "start": 3,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 779,
+      "start": 5,
+      "text": "il s'appelle Jean-Baptiste Jean-Baptiste pokelin cela fait des semaines qu'il est très malenoint et il refuse les soins et"
+    },
+    {
+      "sourceLine": 780,
+      "start": 13,
+      "text": "les breuvages d'appoint Jean-Baptiste n'accorde aucune confiance au médecin il se sent viidé déprimé épuisé et son"
+    },
+    {
+      "sourceLine": 781,
+      "start": 21,
+      "text": "précieux tartuf n'est toujours pas autorisé le roi ne s'est toujours pas manifesté Jean-Baptiste se sent"
+    },
+    {
+      "sourceLine": 782,
+      "start": 28,
+      "text": "abandonné dans la vie il faut du bas et du haut mais il y a des jours où rien ne va des jours comme ça où"
+    },
+    {
+      "sourceLine": 783,
+      "start": 38,
+      "text": "tout j avec son père toujours pas réconcilié"
+    },
+    {
+      "sourceLine": 784,
+      "start": 44,
+      "text": "Jean-Baptiste éprouve de la culpabilité il sent jour après jour sa femme Armand de s'éloigner et lui soupçonne même des"
+    },
+    {
+      "sourceLine": 785,
+      "start": 52,
+      "text": "infidélités de toute part Jean-Baptiste est attaqué les feux de l'enfer laab brouillé lui promet on menace de lui"
+    },
+    {
+      "sourceLine": 786,
+      "start": 60,
+      "text": "crever les yeux dans un pflaet et qu' il le condamne dans son fameux"
+    },
+    {
+      "sourceLine": 787,
+      "start": 67,
+      "text": "traité du mais il y a des jours où rien ne va des jours comme ça où tout est B"
+    },
+    {
+      "sourceLine": 788,
+      "start": 75,
+      "text": "des"
+    },
+    {
+      "sourceLine": 789,
+      "start": 76,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 790,
+      "start": 77,
+      "text": "jours oui c'est moi le prince de comti qui écrit le fameux traité de la comédie vous ne pouvez plus menacer Molière vous"
+    },
+    {
+      "sourceLine": 791,
+      "start": 85,
+      "text": "êtes morts l'année dernière non si ils ont pas fait ça si oh les"
+    },
+    {
+      "sourceLine": 792,
+      "start": 91,
+      "text": "bâtards dans la vi mais des"
+    },
+    {
+      "sourceLine": 793,
+      "start": 97,
+      "text": "jourson m'apporte une plume et du"
+    },
+    {
+      "sourceLine": 794,
+      "start": 106,
+      "text": "papier tout le monde parlera plus que de"
+    },
+    {
+      "sourceLine": 795,
+      "start": 109,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 796,
+      "start": 113,
+      "text": "elle provoquera un nouveau scandale le Misanthrope pi Act en ver véritable qui"
+    },
+    {
+      "sourceLine": 797,
+      "start": 120,
+      "text": "sera un échec L'Amour médecin com B Molière se venge enfin des médecins"
+    },
+    {
+      "sourceLine": 798,
+      "start": 127,
+      "text": "pasteal comque geor DIN le Sicilien làbas attendez attendez mais tout ça va trop"
+    },
+    {
+      "sourceLine": 799,
+      "start": 133,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 800,
+      "start": 141,
+      "text": "vite Jean-Baptiste tu as encore rcru par décret royal du 23 février 16"
+    },
+    {
+      "sourceLine": 801,
+      "start": 151,
+      "text": "Sa Majesté Louis X autorise le surmolire à jouer la pièce d'artimpost dans son"
+    },
+    {
+      "sourceLine": 802,
+      "start": 161,
+      "text": "théâtre le mes amis mes amis dès demain sera repris et s'il le faut nous"
+    },
+    {
+      "sourceLine": 803,
+      "start": 167,
+      "text": "répéterons toute la nuit"
+    }
+  ]
 }

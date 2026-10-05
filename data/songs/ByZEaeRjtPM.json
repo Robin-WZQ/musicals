@@ -10,14 +10,130 @@
   "musicalId": "moliere",
   "trackNumber": 37,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Attends entre les jours de liè les nuits que",
+      "start": 4,
+      "duration": 6
+    },
+    {
+      "text": "L'on t'a mise on t sur les braises que l'on ATI",
+      "start": 10,
+      "duration": 9
+    },
+    {
+      "text": "Entre doues promesses et les leures qui glisse l'amour au cœur me laisse des",
+      "start": 19,
+      "duration": 9
+    },
+    {
+      "text": "Cicatrices danse danse danse danse dis-toi que je danse pour",
+      "start": 28,
+      "duration": 9
+    },
+    {
+      "text": "Toi mon amour dans ces dans on se tourne autour même si le jeu est",
+      "start": 37,
+      "duration": 8
+    },
+    {
+      "text": "Dangereux on pourrait le gagner tout mais mon amour dans S dans on se",
+      "start": 45,
+      "duration": 9
+    },
+    {
+      "text": "Tourne autour à vouloir jouer avec le feu on",
+      "start": 54,
+      "duration": 7
+    },
+    {
+      "text": "Et si c'était nous… Et si c'était…",
+      "start": 61,
+      "duration": 8
+    },
+    {
+      "text": "Nous… Je voudrais sur ta bouche me…",
+      "start": 69,
+      "duration": 6
+    },
+    {
+      "text": "Poserfin l'amour dès qu'on le touche",
+      "start": 75,
+      "duration": 6
+    },
+    {
+      "text": "Chavin même si il y a une fin oh je t'aime",
+      "start": 81,
+      "duration": 9
+    },
+    {
+      "text": "Moi que ça en faut la",
+      "start": 90,
+      "duration": 3
+    },
+    {
+      "text": "Peine danse danse danse danse dis-moi tu danses pour qui et pourquoi danse danse",
+      "start": 95,
+      "duration": 8
+    },
+    {
+      "text": "Danse danse dis-toi que je danse pour toi mon amour danser dans on se tourne",
+      "start": 103,
+      "duration": 9
+    },
+    {
+      "text": "Autour maisme si le jeu est dangereux on pourrait le gagner",
+      "start": 112,
+      "duration": 8
+    },
+    {
+      "text": "Mais mon amour, danse, danse, on se tourne autour. À vouloir jouer avec le feu, on en…",
+      "start": 120,
+      "duration": 10
+    },
+    {
+      "text": "Oublie l'enjeu. Et si c'était nous deux ? Et si c'était…",
+      "start": 130,
+      "duration": 9
+    },
+    {
+      "text": "Mon mon amour malgré la peine que l'on enct même si le jeu est",
+      "start": 139,
+      "duration": 8
+    },
+    {
+      "text": "Dangereux on pourrait gag à de et mon amour dans ces dans on se",
+      "start": 147,
+      "duration": 9
+    },
+    {
+      "text": "Tourne autour. À vouloir jouer avec le feu, on en oublie l'en…",
+      "start": 156,
+      "duration": 7
+    },
+    {
+      "text": "Jeu. Et si c'était nous deux ? Et si c'était nous…",
+      "start": 163,
+      "duration": 6
+    },
+    {
+      "text": "Deux ? Et si c'était nous…",
+      "start": 169,
+      "duration": 7
+    },
+    {
+      "text": "Deux ? Ce ne sera jamais nous deux.",
+      "start": 176,
+      "duration": 6
+    }
+  ],
   "playbackVideoId": "ByZEaeRjtPM",
   "sourceURL": "https://www.youtube.com/watch?v=ByZEaeRjtPM",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=ByZEaeRjtPM",
@@ -128,10 +244,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250329",
   "productionYear": 2023,
@@ -240,5 +356,132 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 722,
+      "start": 4,
+      "text": "attends entre les jours de liè les nuits que"
+    },
+    {
+      "sourceLine": 723,
+      "start": 10,
+      "text": "l'on t'a mise on t sur les braises que l'on ATI"
+    },
+    {
+      "sourceLine": 724,
+      "start": 19,
+      "text": "entre doues promesses et les leures qui glisse l'amour au cœur me laisse des"
+    },
+    {
+      "sourceLine": 725,
+      "start": 28,
+      "text": "cicatrices danse danse danse danse dis-toi que je danse pour"
+    },
+    {
+      "sourceLine": 726,
+      "start": 37,
+      "text": "toi mon amour dans ces dans on se tourne autour même si le jeu est"
+    },
+    {
+      "sourceLine": 727,
+      "start": 45,
+      "text": "dangereux on pourrait le gagner tout mais mon amour dans S dans on se"
+    },
+    {
+      "sourceLine": 728,
+      "start": 54,
+      "text": "tourne autour à vouloir jouer avec le feu on"
+    },
+    {
+      "sourceLine": 729,
+      "start": 61,
+      "text": "et si c'était N et si c'était"
+    },
+    {
+      "sourceLine": 730,
+      "start": 69,
+      "text": "n je voudrai sur ta bouche me"
+    },
+    {
+      "sourceLine": 731,
+      "start": 75,
+      "text": "poserfin l'amour dès qu'on le touche"
+    },
+    {
+      "sourceLine": 732,
+      "start": 81,
+      "text": "Chavin même si il y a une fin oh je t'aime"
+    },
+    {
+      "sourceLine": 733,
+      "start": 90,
+      "text": "moi que ça en faut la"
+    },
+    {
+      "sourceLine": 734,
+      "start": 93,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 735,
+      "start": 95,
+      "text": "peine danse danse danse danse dis-moi tu danses pour qui et pourquoi danse danse"
+    },
+    {
+      "sourceLine": 736,
+      "start": 103,
+      "text": "danse danse dis-toi que je danse pour toi mon amour danser dans on se tourne"
+    },
+    {
+      "sourceLine": 737,
+      "start": 112,
+      "text": "autour maisme si le jeu est dangereux on pourrait le gagner"
+    },
+    {
+      "sourceLine": 738,
+      "start": 120,
+      "text": "mais mon amour dans ces dans se tourne autour à vouloir jouer avec le feu on en"
+    },
+    {
+      "sourceLine": 739,
+      "start": 130,
+      "text": "oubli l'U et si c'était n fe et c'était"
+    },
+    {
+      "sourceLine": 740,
+      "start": 139,
+      "text": "mon mon amour malgré la peine que l'on enct même si le jeu est"
+    },
+    {
+      "sourceLine": 741,
+      "start": 147,
+      "text": "dangereux on pourrait gag à de et mon amour dans ces dans on se"
+    },
+    {
+      "sourceLine": 742,
+      "start": 156,
+      "text": "tourne autour à vouloir jouer avec le feu on en oublie long"
+    },
+    {
+      "sourceLine": 743,
+      "start": 163,
+      "text": "jeu et si c'était n de et si c'était n"
+    },
+    {
+      "sourceLine": 744,
+      "start": 169,
+      "text": "de et si c'était n"
+    },
+    {
+      "sourceLine": 745,
+      "start": 176,
+      "text": "de ce sera jamais nous deux"
+    }
+  ]
 }

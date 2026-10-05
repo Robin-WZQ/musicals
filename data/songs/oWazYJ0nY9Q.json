@@ -10,14 +10,125 @@
   "musicalId": "moliere",
   "trackNumber": 13,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Mon tendre ami mes jours sont dans en nuuit tant de folie vous ma vie est pourtant",
+      "start": 9,
+      "duration": 7
+    },
+    {
+      "text": "Pris des folies mamie je vous en offre toutes les nuits ouais comment ouais mais c'est c'est vexant ça madame de",
+      "start": 16,
+      "duration": 8
+    },
+    {
+      "text": "Galimon vous l'avez compris et la maîtresse du prince de Conti elle a pourtant un mari qui de sa femme l' ce",
+      "start": 24,
+      "duration": 7
+    },
+    {
+      "text": "Contin quel fr il a perdu la tête sous les",
+      "start": 31,
+      "duration": 7
+    },
+    {
+      "text": "Jons la jolie madame de C ce est vraiment un sacré",
+      "start": 38,
+      "duration": 9
+    },
+    {
+      "text": "Fron monend ce lieu est une prison faites donc preuve d' peu",
+      "start": 49,
+      "duration": 8
+    },
+    {
+      "text": "D'imagination on peut Esser les yeux bandés ou encore mieux oui le fouet c'est à mon esprit que je faisais",
+      "start": 57,
+      "duration": 8
+    },
+    {
+      "text": "Allusion. Oh, alors lisez. Mais impossible, la lecture me donne des nausées. Je n'ai jamais su lequel des deux mots qualifiait le mieux cette femme : sa beauté ou sa bêtise. Je…",
+      "start": 65,
+      "duration": 9
+    },
+    {
+      "text": "Disais madame que vous étiez",
+      "start": 74,
+      "duration": 2
+    },
+    {
+      "text": "Ex ilte vous demande de",
+      "start": 79,
+      "duration": 6
+    },
+    {
+      "text": "Vous avant que d'ennu je ne me si nous faisions venir une troupe d'acteurs pour",
+      "start": 85,
+      "duration": 9
+    },
+    {
+      "text": "Me divertir cette idée qu'elle est B de knac oui je vous avveis bien dit que madame de calbimon n'était pas conne",
+      "start": 94,
+      "duration": 8
+    },
+    {
+      "text": "N'était pas connaissez-vous des comédiens de CNAC Votre Altesse il y a en ce moment même des f fes mais non pas des fesses",
+      "start": 102,
+      "duration": 9
+    },
+    {
+      "text": "Des fessesité dans la région ou des comédiens se produisent ah des connaissances m fortement recommandé une",
+      "start": 111,
+      "duration": 7
+    },
+    {
+      "text": "Troupe de comédiens qu'un certain Molière dirigeait. Je leur ai promis rente et protection s'ils venaient s'installer au château de la Grange-des-Prés. Bonjour !",
+      "start": 118,
+      "duration": 9
+    },
+    {
+      "text": "Bonjour ! Bienvenue à la Grange-des-Prés. Merci. Molière, de Cosnac, Madeleine Béjart… Nous sommes ici, madame, à la…",
+      "start": 127,
+      "duration": 8
+    },
+    {
+      "text": "Demande du prince pour votre bon plaisir madame permettez-moi de vous présenter monsieur Molière cher monsieur vous me",
+      "start": 135,
+      "duration": 8
+    },
+    {
+      "text": "Sauve la vie car sans vous d'ennui j'allais mourir mourir d'ennui mais pourquoi dites-vous cela M",
+      "start": 143,
+      "duration": 8
+    },
+    {
+      "text": "C'est une métaphore m quoi une métaphore",
+      "start": 151,
+      "duration": 8
+    },
+    {
+      "text": "Monsieur bon si nous allions nous coucher ce soir je me sens Meur très coqu c'est impossible mon prince je me",
+      "start": 159,
+      "duration": 8
+    },
+    {
+      "text": "Dois de m'occuper de nos invités",
+      "start": 167,
+      "duration": 2
+    },
+    {
+      "text": "Ah ça c'est bien dommage bon bonne nuit ma bonne nuit mon prince",
+      "start": 171,
+      "duration": 9
+    }
+  ],
   "playbackVideoId": "oWazYJ0nY9Q",
   "sourceURL": "https://www.youtube.com/watch?v=oWazYJ0nY9Q",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=oWazYJ0nY9Q",
@@ -136,10 +247,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250310",
   "productionYear": 2023,
@@ -256,5 +367,142 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 247,
+      "start": 0,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 248,
+      "start": 9,
+      "text": "mon tendre ami mes jours sont dans en nuuit tant de folie vous ma vie est pourtant"
+    },
+    {
+      "sourceLine": 249,
+      "start": 16,
+      "text": "pris des folies mamie je vous en offre toutes les nuits ouais comment ouais mais c'est c'est vexant ça madame de"
+    },
+    {
+      "sourceLine": 250,
+      "start": 24,
+      "text": "galimon vous l'avez compris et la maîtresse du prince de Conti elle a pourtant un mari qui de sa femme l' ce"
+    },
+    {
+      "sourceLine": 251,
+      "start": 31,
+      "text": "Contin quel fr il a perdu la tête sous les"
+    },
+    {
+      "sourceLine": 252,
+      "start": 38,
+      "text": "Jons la jolie madame de C ce est vraiment un sacré"
+    },
+    {
+      "sourceLine": 253,
+      "start": 47,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 254,
+      "start": 49,
+      "text": "fron monend ce lieu est une prison faites donc preuve d' peu"
+    },
+    {
+      "sourceLine": 255,
+      "start": 57,
+      "text": "d'imagination on peut Esser les yeux bandés ou encore mieux oui le fouet c'est à mon esprit que je faisais"
+    },
+    {
+      "sourceLine": 256,
+      "start": 65,
+      "text": "allusion oh alors lye mais impossible la lecture me de dénausé je n'ai jamais su lequel des deux mots qualifia le mieux cette femme sa beauté ou sa bêtise je"
+    },
+    {
+      "sourceLine": 257,
+      "start": 74,
+      "text": "disais madame que vous étiez"
+    },
+    {
+      "sourceLine": 258,
+      "start": 76,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 259,
+      "start": 79,
+      "text": "ex ilte vous demande de"
+    },
+    {
+      "sourceLine": 260,
+      "start": 85,
+      "text": "vous avant que d'ennu je ne me si nous faisions venir une troupe d'acteurs pour"
+    },
+    {
+      "sourceLine": 261,
+      "start": 94,
+      "text": "me divertir cette idée qu'elle est B de knac oui je vous avveis bien dit que madame de calbimon n'était pas conne"
+    },
+    {
+      "sourceLine": 262,
+      "start": 102,
+      "text": "n'était pas connaissez-vous des comédiens de CNAC Votre Altesse il y a en ce moment même des f fes mais non pas des fesses"
+    },
+    {
+      "sourceLine": 263,
+      "start": 111,
+      "text": "des fessesité dans la région ou des comédiens se produisent ah des connaissances m fortement recommandé une"
+    },
+    {
+      "sourceLine": 264,
+      "start": 118,
+      "text": "troupe de comédienens certain Molière dirigeait je leur ai promis rentre et protection s'il venaent s'installer au Château de la Grange des pré bonjour"
+    },
+    {
+      "sourceLine": 265,
+      "start": 127,
+      "text": "bonjour bienvenue à la GR des pr merci Molère de gonac Madeline Béjard nous sommes ici madame à la"
+    },
+    {
+      "sourceLine": 266,
+      "start": 135,
+      "text": "demande du prince pour votre bon plaisir madame permettez-moi de vous présenter monsieur Molère cher monsieur vous me"
+    },
+    {
+      "sourceLine": 267,
+      "start": 143,
+      "text": "sauve la vie car sans vous d'ennui j'allais mourir mourir d'ennui mais pourquoi dites-vous cela M"
+    },
+    {
+      "sourceLine": 268,
+      "start": 151,
+      "text": "c'est une métaphore m quoi une métaphore"
+    },
+    {
+      "sourceLine": 269,
+      "start": 159,
+      "text": "monsieur bon si nous allions nous coucher ce soir je me sens Meur très coqu c'est impossible mon prince je me"
+    },
+    {
+      "sourceLine": 270,
+      "start": 167,
+      "text": "dois de m'occuper de nos invités"
+    },
+    {
+      "sourceLine": 271,
+      "start": 169,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 272,
+      "start": 171,
+      "text": "ah ça c'est bien dommage bon bonne nuit ma bonne nuit mon prince"
+    }
+  ]
 }

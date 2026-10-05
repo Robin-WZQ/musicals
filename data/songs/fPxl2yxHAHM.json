@@ -10,14 +10,95 @@
   "musicalId": "moliere",
   "trackNumber": 7,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Alors on a marché pendant de longues semaines marché enortant avec nous les décors et les costumes qui nous restaient mais à notre arrivée chez le",
+      "start": 5,
+      "duration": 8
+    },
+    {
+      "text": "Duc d'Épernon, Charles Dufresne ne nous a pas accueillis comme nous l'espérions. Bien chère Madeleine, mais qui sont tous ces…",
+      "start": 13,
+      "duration": 9
+    },
+    {
+      "text": "Gens cher char duf ce sont ma famille et mes compagnons non cela ne se peut le duc m'a autorisé à n'engager qu'un seul",
+      "start": 22,
+      "duration": 7
+    },
+    {
+      "text": "Comédien je ne lui ai pas laissé le choix soit il engage tous les comédiens soit je rebrou",
+      "start": 29,
+      "duration": 7
+    },
+    {
+      "text": "Chemin. Alors Charles Dufresne a essayé de convaincre le duc d'Épernon, et ce dernier a décidé de nous faire passer une audition.",
+      "start": 36,
+      "duration": 7
+    },
+    {
+      "text": "Alors on a répété la nuit répé et le lendemain nous avons joué mais à la fin de notre prestation",
+      "start": 43,
+      "duration": 8
+    },
+    {
+      "text": "Le duc n aucune réaction mon Seigneur nous espérons que notre belle prestation a été à la",
+      "start": 51,
+      "duration": 7
+    },
+    {
+      "text": "Hauteur de V ustre réputation car pour des comédiens quelle meilleure récompense que de porter le nom du plus",
+      "start": 58,
+      "duration": 8
+    },
+    {
+      "text": "Glorieux des du de",
+      "start": 66,
+      "duration": 1
+    },
+    {
+      "text": "France la protection du duc fut pour nous une bénédiction et à partir de ce moment finit les souc d'argent il",
+      "start": 77,
+      "duration": 7
+    },
+    {
+      "text": "Organise des festivités et nous étions invités à jouer et le reste du temps nous étions libres de tourner tant de",
+      "start": 84,
+      "duration": 9
+    },
+    {
+      "text": "Villes nous avons visitées : Toulouse… Lyon…",
+      "start": 93,
+      "duration": 6
+    },
+    {
+      "text": "Bordeaux. Bonjour, je m'appelle Catherine De Brie, jeune comédienne. Je viens d'intégrer la troupe de Charles. J'aime la vie, le rire…",
+      "start": 99,
+      "duration": 9
+    },
+    {
+      "text": "Les gens bon caractère il paraît que j'ai du talent oh oui bienvenue dans la troupe Catherine mon bonheur aurait été",
+      "start": 108,
+      "duration": 7
+    },
+    {
+      "text": "Complet si pour mon père je n'étais pas inquiet il ne répond pas mes nombreux courriers et on dit qu'à Paris le peuple",
+      "start": 115,
+      "duration": 7
+    },
+    {
+      "text": "Gronde on parle d'insurrection et de fronde",
+      "start": 122,
+      "duration": 6
+    }
+  ],
   "playbackVideoId": "fPxl2yxHAHM",
   "sourceURL": "https://www.youtube.com/watch?v=fPxl2yxHAHM",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=fPxl2yxHAHM",
@@ -104,10 +185,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250309",
   "productionYear": 2023,
@@ -192,5 +273,102 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 143,
+      "start": 0,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 144,
+      "start": 5,
+      "text": "alors on a marché pendant de longues semaines marché enortant avec nous les décors et les costumes qui nous restaient mais à notre arrivée chez le"
+    },
+    {
+      "sourceLine": 145,
+      "start": 13,
+      "text": "duc des Pern Charles dufine ne nous a pas accueilli comme nous l'espérions bien chère Mad mais qui sont tous ces"
+    },
+    {
+      "sourceLine": 146,
+      "start": 22,
+      "text": "gens cher char duf ce sont ma famille et mes compagnons non cela ne se peut le duc m'a autorisé à n'engager qu'un seul"
+    },
+    {
+      "sourceLine": 147,
+      "start": 29,
+      "text": "comédien je ne lui ai pas laissé le choix soit il engage tous les comédiens soit je rebrou"
+    },
+    {
+      "sourceLine": 148,
+      "start": 36,
+      "text": "chemins alch du FR a essayé de convaincre le duc des PER et ce dernier a décidé de ne faire passer une audition"
+    },
+    {
+      "sourceLine": 149,
+      "start": 43,
+      "text": "alors on a répété la nuit répé et le lendemain nous avons joué mais à la fin de notre prestation"
+    },
+    {
+      "sourceLine": 150,
+      "start": 51,
+      "text": "le duc n aucune réaction mon Seigneur nous espérons que notre belle prestation a été à la"
+    },
+    {
+      "sourceLine": 151,
+      "start": 58,
+      "text": "hauteur de V ustre réputation car pour des comédiens quelle meilleure récompense que de porter le nom du plus"
+    },
+    {
+      "sourceLine": 152,
+      "start": 66,
+      "text": "glorieux des du de"
+    },
+    {
+      "sourceLine": 153,
+      "start": 67,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 154,
+      "start": 77,
+      "text": "France la protection du duc fut pour nous une bénédiction et à partir de ce moment finit les souc d'argent il"
+    },
+    {
+      "sourceLine": 155,
+      "start": 84,
+      "text": "organise des festivités et nous étions invités à jouer et le reste du temps nous étions libres de tourner tant de"
+    },
+    {
+      "sourceLine": 156,
+      "start": 93,
+      "text": "villes nous avons visité Toulouse n al AG Lyon"
+    },
+    {
+      "sourceLine": 157,
+      "start": 99,
+      "text": "borde bonjour je m'appelle Catherine Deb jeune comédienne je viens d'intégrer la troupe de Charles j'aime la vie le rire"
+    },
+    {
+      "sourceLine": 158,
+      "start": 108,
+      "text": "les gens bon caractère il paraît que j'ai du talent oh oui bienvenue dans la troupe Catherine mon bonheur aurait été"
+    },
+    {
+      "sourceLine": 159,
+      "start": 115,
+      "text": "complet si pour mon père je n'étais pas inquiet il ne répond pas mes nombreux courriers et on dit qu'à Paris le peuple"
+    },
+    {
+      "sourceLine": 160,
+      "start": 122,
+      "text": "gronde on parle d'insurrection et de fronde"
+    }
+  ]
 }

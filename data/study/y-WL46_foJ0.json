@@ -1,0 +1,213 @@
+{
+  "videoId": "y-WL46_foJ0",
+  "playbackVideoId": "y-WL46_foJ0",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=y-WL46_foJ0"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Moi, le prince de Conti, Armand, je viens d'intégrer le Saint-Sacrement…",
+      "start": 7,
+      "ipa": "[mwa lə pʁɛ̃s də kɔ̃ti aʁmɑ̃ ʒə vjɛ̃ dɛ̃teɡʁe lə sɛ̃sakʁəmɑ̃]",
+      "ear": "姆乌阿 勒 普汉斯 德 孔蒂 阿赫芒 热 弗耶安 丹特格赫 勒 森萨克赫芒",
+      "meaning": "我，孔蒂亲王阿尔芒，刚加入圣体会……",
+      "suppliedText": "moi le prince compti Armand je viens d'intégrer le Saint Sacrement",
+      "sourceLineId": "moliere-timed-449",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 7,
+        "sourceLineNumber": 449,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Confrérie secrète qui lutte ardemment contre les mauvaises mœurs et les dévoiements. Je n'ai qu'un seul…",
+      "start": 14,
+      "ipa": "[kɔ̃fʁeʁi səkʁɛt ki lyt‿aʁdamɑ̃ kɔ̃tʁ le movɛz mœʁ e le devwamɑ̃ ʒə ne kœ̃ sœl]",
+      "ear": "孔弗赫希 瑟克赫特 基 吕特 阿赫达芒 孔特赫 莱 莫韦兹 默厄赫 诶 莱 德弗乌阿芒 热 内 坎 瑟厄勒",
+      "meaning": "一个秘密团体，坚决反对不良风俗和偏离正道之举。我只有一个……",
+      "suppliedText": "ouvrerie secrète qui lut ardemment contre les mauvaises meurs et les dévoiement je n'ai qu'un seul",
+      "sourceLineId": "moliere-timed-450",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 14,
+        "sourceLineNumber": 450,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Vœu, une seule prière : faire vivre un jour à ce…",
+      "start": 24,
+      "ipa": "[vœ yn sœl pʁiɛʁ fɛʁ vivʁ‿œ̃ ʒuʁ‿a sə]",
+      "ear": "弗厄 于恩 瑟厄勒 普希艾赫 费赫 维弗赫 恩 茹赫 阿 瑟",
+      "meaning": "心愿，一句祈祷：有一天让这个……",
+      "suppliedText": "vœu une seule pière faireevvre un jour à ce mai",
+      "sourceLineId": "moliere-timed-451",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 24,
+        "sourceLineNumber": 451,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Molière l'enfer. Je passe mes jours à…",
+      "start": 31,
+      "ipa": "[moljɛʁ lɑ̃fɛʁ ʒə pas me ʒuʁ‿a]",
+      "ear": "莫勒耶艾赫 朗费赫 热 帕斯 梅 茹赫 阿",
+      "meaning": "莫里哀尝到地狱的滋味。——我每天都……",
+      "suppliedText": "Molière l'enfer je passe mes jours à",
+      "sourceLineId": "moliere-timed-452",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 31,
+        "sourceLineNumber": 452,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Travailler le théâtre dans le plus grand secret je passe mes nuits à espérer que",
+      "start": 38,
+      "ipa": "[tʁavaje lə teatʁ dɑ̃ lə ply ɡʁɑ̃ səkʁɛ ʒə pas me nɥi a ɛspeʁe kə]",
+      "ear": "特哈瓦耶诶 勒 特阿特赫 当 勒 普吕 格杭 瑟克赫 热 帕斯 梅 恩于伊 阿 艾斯佩赫 克",
+      "meaning": "秘密练习戏剧，夜里期待……",
+      "suppliedText": "travailler le théâtre dans le plus grand secret je passe mes nuits à espérer que",
+      "sourceLineId": "moliere-timed-453",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 38,
+        "sourceLineNumber": 453,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Jean-Baptiste me regarder je sens qu'il n'est pas indifférent il ne peut ignorer mes",
+      "start": 47,
+      "ipa": "[ʒɑ̃batist mə ʁəɡaʁde ʒə sɑ̃ kil nɛ pa ɛ̃difeʁɑ̃ il nə pø injoʁe me]",
+      "ear": "让巴蒂斯特 默 赫嘎赫德 热 桑 基勒 奈 帕 安迪费杭 伊勒 讷 珀厄 伊恩耶奥赫 梅",
+      "meaning": "让-巴蒂斯特看向我。我感觉他并非无动于衷，无法忽略我的……",
+      "suppliedText": "Jean-Baptiste me regarder je sens qu'il n'est pas indifférent il ne peut ignorer mes",
+      "sourceLineId": "moliere-timed-454",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 47,
+        "sourceLineNumber": 454,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Sentiments ne pour longtemps résister je parviendrai un jour à le faire céder",
+      "start": 56,
+      "ipa": "[sɑ̃timɑ̃ nə puʁ lɔ̃tɑ̃ ʁeziste ʒə paʁvjɛ̃dʁe œ̃ ʒuʁ‿a lə fɛʁ sede]",
+      "ear": "桑蒂芒 讷 普赫 隆唐 赫齐斯特 热 帕赫弗耶安德赫 恩 茹赫 阿 勒 费赫 塞德",
+      "meaning": "感情。他坚持不了多久，总有一天我能让他动心。",
+      "suppliedText": "sentiments ne pour longtemps résister je parviendrai un jour à le faire céder",
+      "sourceLineId": "moliere-timed-455",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 56,
+        "sourceLineNumber": 455,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Depuis que je travaille au côté de Molière il a fait de moi son secrétaire mais ces derniers temps il",
+      "start": 64,
+      "ipa": "[dəpɥi kə ʒə tʁavaj‿o kote də moljɛʁ‿il‿a fɛ də mwa sɔ̃ səkʁetɛʁ mɛ se dɛʁnje tɑ̃ il]",
+      "ear": "德普于伊 克 热 特哈瓦耶 奥 科特 德 莫勒耶艾赫 伊勒 阿 费 德 姆乌阿 松 瑟克赫泰赫 梅 塞 戴赫恩耶诶 唐 伊勒",
+      "meaning": "自从在莫里哀身边工作，他让我当秘书，可最近……",
+      "suppliedText": "depuis que je travaille au côté de Molière il a fait de moi son secrétaire mais ces derniers temps il",
+      "sourceLineId": "moliere-timed-456",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 64,
+        "sourceLineNumber": 456,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Joue les mondain il traîne tous les soirs dans les salons parisiens où il a enfin trouvé",
+      "start": 73,
+      "ipa": "[ʒu le mɔ̃dɛ̃ il tʁɛn tu le swaʁ dɑ̃ le salɔ̃ paʁizjɛ̃ u il‿a ɑ̃fɛ̃ tʁuve]",
+      "ear": "茹 莱 蒙丹 伊勒 特赫恩 图 莱 斯乌阿赫 当 莱 萨隆 帕希兹耶安 乌 伊勒 阿 昂凡 特胡韦",
+      "meaning": "他热衷社交，每晚流连巴黎的沙龙，终于找到了……",
+      "suppliedText": "joue les mondain il traîne tous les soirs dans les salons parisiens où il a enfin trouvé",
+      "sourceLineId": "moliere-timed-457",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 73,
+        "sourceLineNumber": 457,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "L'inspiration. Les Précieuses ridicules sera sa nouvelle création. Oh, la belle…",
+      "start": 81,
+      "ipa": "[lɛ̃spiʁasjɔ̃ le pʁesjøz ʁidikyl səʁa sa nuvɛl kʁeasjɔ̃ ɔ la bɛl]",
+      "ear": "兰斯皮哈斯耶翁 莱 普赫斯耶厄兹 希迪基于勒 瑟哈 萨 努韦勒 克赫阿斯耶翁 哦 拉 贝勒",
+      "meaning": "灵感，《可笑的女才子》将是新作。啊，美好的……",
+      "suppliedText": "l'inspiration les précieus ridicu sera sa nouvelle création oh la belle",
+      "sourceLineId": "moliere-timed-458",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 81,
+        "sourceLineNumber": 458,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Vie oh la belle vie oh la belle vie sous la protection",
+      "start": 88,
+      "ipa": "[vi ɔ la bɛl vi ɔ la bɛl vi su la pʁotɛksjɔ̃]",
+      "ear": "维 哦 拉 贝勒 维 哦 拉 贝勒 维 苏 拉 普霍泰克斯耶翁",
+      "meaning": "生活，美好的生活，受到……",
+      "suppliedText": "vie oh la belle vie oh la belle vie sous la protection",
+      "sourceLineId": "moliere-timed-459",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 88,
+        "sourceLineNumber": 459,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Du ducteur lé",
+      "start": 96,
+      "ipa": "[dy dyktœʁ le]",
+      "ear": "迪于 迪于克特厄赫 莱",
+      "meaning": "……的庇护。（名号识别不清）",
+      "suppliedText": "du ducteur lé",
+      "sourceLineId": "moliere-timed-460",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 96,
+        "sourceLineNumber": 460,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

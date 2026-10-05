@@ -10,14 +10,65 @@
   "musicalId": "moliere",
   "trackNumber": 28,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Encore une fois Molière ne s'était pas trompé L'École des femmes a connu un véritable succès mais en s'attaquant à la place des femmes dans la société",
+      "start": 2,
+      "duration": 9
+    },
+    {
+      "text": "Molière a généré de la haine et de l'adversité L'École des femmes est dé nuué de toute moralité cette pièce attaque les fondements même de notre",
+      "start": 11,
+      "duration": 8
+    },
+    {
+      "text": "Société sachez Votre Excellence que molè se moque des mes disances senseur et sa conscience n'a que faire de ce que les dévaus",
+      "start": 19,
+      "duration": 9
+    },
+    {
+      "text": "Pensent les lois sacré du mariage mè Go des oméli et sain page un mariage ne peut-être réussi que s'il y a",
+      "start": 28,
+      "duration": 9
+    },
+    {
+      "text": "Bonentementand et de partir n c'est au père de choisir pour sa fille avec quel homme elle vra une famille n nous",
+      "start": 37,
+      "duration": 9
+    },
+    {
+      "text": "Disposons de notre corps et esprit et nous l'offrirons à celui que nous aurons choisi neni ça suffit soldat faitz ver",
+      "start": 46,
+      "duration": 9
+    },
+    {
+      "text": "Sur le champ cette bande d'ystérique e allez moi je veux tout donner don",
+      "start": 55,
+      "duration": 21
+    },
+    {
+      "text": "Je révolutionnair 17 siè mon sièle d'avance son des féminist es",
+      "start": 76,
+      "duration": 8
+    },
+    {
+      "text": "Ontavance féminist mon Dieu les hommes son fout des faites ministres Floridor vous",
+      "start": 84,
+      "duration": 8
+    },
+    {
+      "text": "Êtes épuisant",
+      "start": 92,
+      "duration": 2
+    }
+  ],
   "playbackVideoId": "c4LH4G4BhT8",
   "sourceURL": "https://www.youtube.com/watch?v=c4LH4G4BhT8",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=c4LH4G4BhT8",
@@ -76,10 +127,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250316",
   "productionYear": 2023,
@@ -136,5 +187,67 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 571,
+      "start": 0,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 572,
+      "start": 2,
+      "text": "encore une fois Molière ne s'était pas trompé L'École des femmes a connu un véritable succès mais en s'attaquant à la place des femmes dans la société"
+    },
+    {
+      "sourceLine": 573,
+      "start": 11,
+      "text": "Molière a généré de la haine et de l'adversité L'École des femmes est dé nuué de toute moralité cette pièce attaque les fondements même de notre"
+    },
+    {
+      "sourceLine": 574,
+      "start": 19,
+      "text": "société sachez Votre Excellence que molè se moque des mes disances senseur et sa conscience n'a que faire de ce que les dévaus"
+    },
+    {
+      "sourceLine": 575,
+      "start": 28,
+      "text": "pensent les lois sacré du mariage mè Go des oméli et sain page un mariage ne peut-être réussi que s'il y a"
+    },
+    {
+      "sourceLine": 576,
+      "start": 37,
+      "text": "bonentementand et de partir n c'est au père de choisir pour sa fille avec quel homme elle vra une famille n nous"
+    },
+    {
+      "sourceLine": 577,
+      "start": 46,
+      "text": "disposons de notre corps et esprit et nous l'offrirons à celui que nous aurons choisi neni ça suffit soldat faitz ver"
+    },
+    {
+      "sourceLine": 581,
+      "start": 55,
+      "text": "sur le champ cette bande d'ystérique e allez moi je veux tout donner don"
+    },
+    {
+      "sourceLine": 582,
+      "start": 76,
+      "text": "je révolutionnair 17 siè mon sièle d'avance son des féminist es"
+    },
+    {
+      "sourceLine": 583,
+      "start": 84,
+      "text": "ontavance féminist mon Dieu les hommes son fout des faites ministres Floridor vous"
+    },
+    {
+      "sourceLine": 584,
+      "start": 92,
+      "text": "êtes épuisant"
+    }
+  ]
 }

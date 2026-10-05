@@ -10,10 +10,10 @@
   "musicalId": "moliere",
   "trackNumber": 15,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "instrumental",
   "captionLanguage": "fr",
   "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionDelivery": "source-video",
   "nativeCaptionAvailable": true,
   "isGenerated": true,
   "lyricsStorage": "external",
@@ -57,9 +57,9 @@
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
   "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "textReviewStatus": "nonverbal",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "instrumental",
   "mediaKind": "stage-video",
   "uploadDate": "20250310",
   "productionYear": 2023,
@@ -100,5 +100,43 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 299,
+      "start": 1,
+      "text": "[Music]"
+    },
+    {
+      "sourceLine": 300,
+      "start": 27,
+      "text": "[Music]"
+    },
+    {
+      "sourceLine": 301,
+      "start": 54,
+      "text": "[Music]"
+    },
+    {
+      "sourceLine": 302,
+      "start": 59,
+      "text": "oh oh"
+    },
+    {
+      "sourceLine": 303,
+      "start": 63,
+      "text": "[Music]"
+    },
+    {
+      "sourceLine": 304,
+      "start": 78,
+      "text": "[Music]"
+    }
+  ],
+  "studyEmptyMessage": "这一段是舞蹈与器乐片段，没有可导入的歌词。点击播放观看原唱现场。"
 }

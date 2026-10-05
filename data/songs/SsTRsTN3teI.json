@@ -10,14 +10,90 @@
   "musicalId": "moliere",
   "trackNumber": 5,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Dans ce monde qui m'a vue grandir, une femme n'a pas le droit au désir. Elle n'est…",
+      "start": 12,
+      "duration": 6
+    },
+    {
+      "text": "Qu'un ventre que l'on nourrit pour un jour porter la vie. Elle sort à peine de son…",
+      "start": 18,
+      "duration": 7
+    },
+    {
+      "text": "Enfance qu'on lui vole ses rêves et son innocence. Son… lui impose un mari.",
+      "start": 25,
+      "duration": 10
+    },
+    {
+      "text": "Elle a choisi de se moquer de ce que les gens… Connaître l'ivresse de la…",
+      "start": 35,
+      "duration": 8
+    },
+    {
+      "text": "Vie, aimer au gré de ses envies, jusqu'au jour où…",
+      "start": 43,
+      "duration": 8
+    },
+    {
+      "text": "Elle a rencontré un homme…",
+      "start": 51,
+      "duration": 4
+    },
+    {
+      "text": "Marié… Esprit de Raymond est son nom, il est comte de Modène et chambellan…",
+      "start": 56,
+      "duration": 8
+    },
+    {
+      "text": "J'avais à peine dix-neuf ans quand nous sommes devenus amants. De notre amour est née une…",
+      "start": 64,
+      "duration": 8
+    },
+    {
+      "text": "Fille. À défaut d'une famille, son père lui donna un…",
+      "start": 72,
+      "duration": 6
+    },
+    {
+      "text": "Prénom. Sa fille s'appelle Armande et elle a aujourd'hui trois ans. Et notre sœur ne peut pas lui assurer une éducation…",
+      "start": 80,
+      "duration": 7
+    },
+    {
+      "text": "Dans la précarité d'une tournée. Alors j'ai décidé de la confier à une dame d'un rang distingué. Je ne sais pas quand je la reverrai, ni si elle pourra me le…",
+      "start": 87,
+      "duration": 8
+    },
+    {
+      "text": "Pardonner. Elle a choisi de se moquer de ce que les…",
+      "start": 95,
+      "duration": 8
+    },
+    {
+      "text": "Gens… Connaître l'ivresse de la vie, aimer au gré de ses envies, jusqu'au jour…",
+      "start": 103,
+      "duration": 11
+    },
+    {
+      "text": "Où… rencontré un homme marié.",
+      "start": 114,
+      "duration": 11
+    },
+    {
+      "text": "Louis, va chercher la nourrice, lui remettre ses affaires. Je n'ai pas la force de dire au revoir à ma fille.",
+      "start": 125,
+      "duration": 13
+    }
+  ],
   "playbackVideoId": "SsTRsTN3teI",
   "sourceURL": "https://www.youtube.com/watch?v=SsTRsTN3teI",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=SsTRsTN3teI",
@@ -116,10 +192,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250309",
   "productionYear": 2023,
@@ -216,5 +292,117 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 107,
+      "start": 0,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 111,
+      "start": 9,
+      "text": "[Applaudissements]"
+    },
+    {
+      "sourceLine": 112,
+      "start": 12,
+      "text": "dans ce monde qui m'a vu grandir une femme a pas le droit au désir elle n'est"
+    },
+    {
+      "sourceLine": 113,
+      "start": 18,
+      "text": "qu'un ventre que l'on nourrit pour jou porter la vie elle sort à peine de son"
+    },
+    {
+      "sourceLine": 114,
+      "start": 25,
+      "text": "enfance qu'on lui vole ses rêves et son innocence son fa lui impose un mari"
+    },
+    {
+      "sourceLine": 115,
+      "start": 35,
+      "text": "elle a choisi de se moquer de ce que les genses dirent connaître l'bresse de la"
+    },
+    {
+      "sourceLine": 116,
+      "start": 43,
+      "text": "vie aimer Aué de ses envies jusqu'au jour où"
+    },
+    {
+      "sourceLine": 117,
+      "start": 51,
+      "text": "elle a rencontré un homme"
+    },
+    {
+      "sourceLine": 118,
+      "start": 55,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 119,
+      "start": 56,
+      "text": "mariéble ligé esprit de rayond est son nom il est comte de mod et Chambé ça"
+    },
+    {
+      "sourceLine": 120,
+      "start": 64,
+      "text": "fais à peine 19 ans quand nous sommes devenus amant de notre amour est né une"
+    },
+    {
+      "sourceLine": 121,
+      "start": 72,
+      "text": "fille m à défaut d'une famille son père lui donna un"
+    },
+    {
+      "sourceLine": 122,
+      "start": 78,
+      "text": "[Applaudissements]"
+    },
+    {
+      "sourceLine": 123,
+      "start": 80,
+      "text": "prénom sa fille s'appelle Armande et elle a aujourd'hui 3 ans et notre sœur ne peut pas lui assurer une éducation"
+    },
+    {
+      "sourceLine": 124,
+      "start": 87,
+      "text": "dans la précarité d'une tournée alors j'ai décidé de la confier à une dame d'Ar en distingué je ne sais pas quand je la reverrai et ni s pourra me le"
+    },
+    {
+      "sourceLine": 125,
+      "start": 95,
+      "text": "pardonner elle a choisi de se moquer de ce que les"
+    },
+    {
+      "sourceLine": 126,
+      "start": 103,
+      "text": "gensaiment dirent connaître l' de la vie et au CR de ses envies jusqu'au jour"
+    },
+    {
+      "sourceLine": 127,
+      "start": 114,
+      "text": "où rencontré un homme marié"
+    },
+    {
+      "sourceLine": 128,
+      "start": 125,
+      "text": "loui facher la nourrice lui remettre ses affaires je n'ai pas la force de dire au revoir à ma fille"
+    },
+    {
+      "sourceLine": 129,
+      "start": 138,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 130,
+      "start": 141,
+      "text": "[Applaudissements]"
+    }
+  ]
 }

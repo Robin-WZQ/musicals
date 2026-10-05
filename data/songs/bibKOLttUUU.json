@@ -10,14 +10,70 @@
   "musicalId": "moliere",
   "trackNumber": 8,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "La Fronde, c'est la révolte des princes et des notables contre la régente et son ministre Mazarin. Mazarin est…",
+      "start": 13,
+      "duration": 8
+    },
+    {
+      "text": "Accusé de corruption et d'écraser le peuple par l'impôt. Les princes veulent démettre Mazarin de ses fonctions et prendre le pouvoir. Le roi Louis XIV…",
+      "start": 21,
+      "duration": 8
+    },
+    {
+      "text": "Est encore un enfant. Bordeaux vient de tomber aux mains des frondeurs, et voici le prince de Conti qui entre triomphant…",
+      "start": 29,
+      "duration": 9
+    },
+    {
+      "text": "Dans la ville. Je m'appelle Armand de Conti. Je suis prince de sang, cousin du roi.",
+      "start": 38,
+      "duration": 9
+    },
+    {
+      "text": "Nous chasserons le ministre perverti sous notre contrôle l'enfant roi",
+      "start": 47,
+      "duration": 8
+    },
+    {
+      "text": "Règnera votre Alesse vous ne pouvez continuer à mener cette fronde contre votre propre famille en tant que conseiller je vous conseille de vous",
+      "start": 55,
+      "duration": 8
+    },
+    {
+      "text": "Rallier… Cosnac, j'attends de mon conseiller qu'il me conseille de faire…",
+      "start": 63,
+      "duration": 6
+    },
+    {
+      "text": "Ce que j'ai décider très bien très",
+      "start": 69,
+      "duration": 11
+    },
+    {
+      "text": "Bien le du Pern se cro à l'AB mais il est l'un des hommes les plus ha de ce pays et partout sur cette terre on écrit des ponflets qui dénon son ignominie de",
+      "start": 80,
+      "duration": 9
+    },
+    {
+      "text": "16 de son gouvernement il fut pour nous était fini de cette période",
+      "start": 89,
+      "duration": 8
+    },
+    {
+      "text": "Heureuse cont d'abandonner le nom et la protection du duc des",
+      "start": 97,
+      "duration": 7
+    }
+  ],
   "playbackVideoId": "bibKOLttUUU",
   "sourceURL": "https://www.youtube.com/watch?v=bibKOLttUUU",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=bibKOLttUUU",
@@ -84,10 +140,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250309",
   "productionYear": 2023,
@@ -152,5 +208,77 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 162,
+      "start": 3,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 163,
+      "start": 13,
+      "text": "laance c'est c'est la révolte des princes et des notables contre la régent et son ministre Mazarin Mazarin est"
+    },
+    {
+      "sourceLine": 164,
+      "start": 21,
+      "text": "accusé de corruption et d'écraser le peuple par l'impô les princes veent démettre maarin de ses fonctions et prendre le pouvoir le roi Louis XIV"
+    },
+    {
+      "sourceLine": 165,
+      "start": 29,
+      "text": "encore un enfant bordau vient de tomber aux mains des fondeurs et voici le prince de Conti qui entre tri enfant"
+    },
+    {
+      "sourceLine": 166,
+      "start": 38,
+      "text": "dans la ville je m'appelle Armand de Conti je suis prince de s cousin de roi"
+    },
+    {
+      "sourceLine": 167,
+      "start": 47,
+      "text": "nous chasserons le ministre perverti sous notre contrôle l'enfant roi"
+    },
+    {
+      "sourceLine": 168,
+      "start": 55,
+      "text": "règnera votre Alesse vous ne pouvez continuer à mener cette fronde contre votre propre famille en tant que conseiller je vous conseille de vous"
+    },
+    {
+      "sourceLine": 169,
+      "start": 63,
+      "text": "rallier denac j'attends de mon conseiller qu'il me conseille de faire"
+    },
+    {
+      "sourceLine": 170,
+      "start": 69,
+      "text": "ce que j'ai décider très bien très"
+    },
+    {
+      "sourceLine": 171,
+      "start": 80,
+      "text": "bien le du Pern se cro à l'AB mais il est l'un des hommes les plus ha de ce pays et partout sur cette terre on écrit des ponflets qui dénon son ignominie de"
+    },
+    {
+      "sourceLine": 172,
+      "start": 89,
+      "text": "16 de son gouvernement il fut pour nous était fini de cette période"
+    },
+    {
+      "sourceLine": 173,
+      "start": 97,
+      "text": "heureuse cont d'abandonner le nom et la protection du duc des"
+    },
+    {
+      "sourceLine": 174,
+      "start": 104,
+      "text": "[Musique]"
+    }
+  ]
 }

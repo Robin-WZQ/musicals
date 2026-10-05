@@ -59,7 +59,8 @@ def main():
         song['nativeCaptionRanges']=ranges
         song['nativeTimingSource']='user-supplied-time-caption'
         song['nativeTimingInput']={'file':args.input.name,'sha256':digest}
-        song['timingReviewStatus']='user-supplied-timestamps'
+        if song.get('studyKind')!='four-layer':
+            song['timingReviewStatus']='user-supplied-timestamps'
         track['nativeCueCount']=len(ranges)
         updates.append((path,song))
         report['tracks'].append({'id':track['id'],'trackNumber':track['trackNumber'],'sourceAnchors':len(anchors),'segments':len(ranges),'duplicateSourceLines':duplicates,'endMarkerSourceLines':end_markers,'lastStart':ranges[-1]['start'],'lastSegmentDuration':ranges[-1]['duration']})

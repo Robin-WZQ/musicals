@@ -10,14 +10,115 @@
   "musicalId": "moliere",
   "trackNumber": 14,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Dans mon corps une amère douleur qui ne cesse de me",
+      "start": 2,
+      "duration": 7
+    },
+    {
+      "text": "Ronger que vaisje faire du fruit de mon labeur à qui faisje un jour le",
+      "start": 9,
+      "duration": 7
+    },
+    {
+      "text": "Cédé ce fils pour qui je me suis sacrifié à refusé ce que je lui ai",
+      "start": 16,
+      "duration": 8
+    },
+    {
+      "text": "Offer ce métier qu' a méprisé et qui me rendait si fière oh la triste",
+      "start": 24,
+      "duration": 9
+    },
+    {
+      "text": "Vie oh la triste",
+      "start": 33,
+      "duration": 7
+    },
+    {
+      "text": "Vie nous avons passé TR qu années dans cette région d'une extrême beauté nous",
+      "start": 45,
+      "duration": 8
+    },
+    {
+      "text": "Étions loger nous y payer à exercer notre métier",
+      "start": 53,
+      "duration": 8
+    },
+    {
+      "text": "Jean-Baptiste a passé son temps dans les villages à observer les gens à étudier",
+      "start": 61,
+      "duration": 8
+    },
+    {
+      "text": "Leur comportement, tout en… ses réflexions…",
+      "start": 69,
+      "duration": 8
+    },
+    {
+      "text": "F l'appelle F on l'appelle F sous la protection du",
+      "start": 77,
+      "duration": 8
+    },
+    {
+      "text": "Prince de con nous a",
+      "start": 85,
+      "duration": 7
+    },
+    {
+      "text": "Autorisé à nous produire dans les environs mais à force de joué nous",
+      "start": 92,
+      "duration": 6
+    },
+    {
+      "text": "Avions épuisé tous les livret dont nous disposions nouveau livret plus de pièces",
+      "start": 98,
+      "duration": 8
+    },
+    {
+      "text": "À jouer il nous était impossible de nous en procurer alors dans la plus grande discrétion je me suis mise à écrire ma",
+      "start": 106,
+      "duration": 9
+    },
+    {
+      "text": "Première comédie Madeleine je te prie de garder un temps le secret car je ne suis pas",
+      "start": 115,
+      "duration": 7
+    },
+    {
+      "text": "Très sûr de la qualité évidemment mais voilà mes amis nous allons sur le champ",
+      "start": 122,
+      "duration": 7
+    },
+    {
+      "text": "Commencer les répétitions d'une pièce intitulée L'Étourdi ou les Contretemps. Et vous pouvez tous en être fiers, car il…",
+      "start": 129,
+      "duration": 7
+    },
+    {
+      "text": "S'agit de la première pièce de monsieur Molière. La belle…",
+      "start": 136,
+      "duration": 6
+    },
+    {
+      "text": "Vie oh la belle la belle",
+      "start": 142,
+      "duration": 7
+    },
+    {
+      "text": "Prottion",
+      "start": 149,
+      "duration": 6
+    }
+  ],
   "playbackVideoId": "jcccX7RKWWE",
   "sourceURL": "https://www.youtube.com/watch?v=jcccX7RKWWE",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=jcccX7RKWWE",
@@ -128,10 +229,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250310",
   "productionYear": 2023,
@@ -240,5 +341,132 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 274,
+      "start": 0,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 275,
+      "start": 2,
+      "text": "dans mon corps une amère douleur qui ne cesse de me"
+    },
+    {
+      "sourceLine": 276,
+      "start": 9,
+      "text": "ronger que vaisje faire du fruit de mon labeur à qui faisje un jour le"
+    },
+    {
+      "sourceLine": 277,
+      "start": 16,
+      "text": "cédé ce fils pour qui je me suis sacrifié à refusé ce que je lui ai"
+    },
+    {
+      "sourceLine": 278,
+      "start": 24,
+      "text": "offer ce métier qu' a méprisé et qui me rendait si fière oh la triste"
+    },
+    {
+      "sourceLine": 279,
+      "start": 33,
+      "text": "vie oh la triste"
+    },
+    {
+      "sourceLine": 280,
+      "start": 40,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 281,
+      "start": 42,
+      "text": "[Applaudissements]"
+    },
+    {
+      "sourceLine": 282,
+      "start": 45,
+      "text": "vie nous avons passé TR qu années dans cette région d'une extrême beauté nous"
+    },
+    {
+      "sourceLine": 283,
+      "start": 53,
+      "text": "étions loger nous y payer à exercer notre métier"
+    },
+    {
+      "sourceLine": 284,
+      "start": 61,
+      "text": "Jean-Baptiste a passé son temps dans les villages à observer les gens à étudier"
+    },
+    {
+      "sourceLine": 285,
+      "start": 69,
+      "text": "leur comportement tout en aant ses réflexions l'ppelle"
+    },
+    {
+      "sourceLine": 286,
+      "start": 77,
+      "text": "F l'appelle F on l'appelle F sous la protection du"
+    },
+    {
+      "sourceLine": 287,
+      "start": 85,
+      "text": "prince de con nous a"
+    },
+    {
+      "sourceLine": 288,
+      "start": 92,
+      "text": "autorisé à nous produire dans les environs mais à force de joué nous"
+    },
+    {
+      "sourceLine": 289,
+      "start": 98,
+      "text": "avions épuisé tous les livret dont nous disposions nouveau livret plus de pièces"
+    },
+    {
+      "sourceLine": 290,
+      "start": 106,
+      "text": "à jouer il nous était impossible de nous en procurer alors dans la plus grande discrétion je me suis mise à écrire ma"
+    },
+    {
+      "sourceLine": 291,
+      "start": 115,
+      "text": "première comédie Madeleine je te prie de garder un temps le secret car je ne suis pas"
+    },
+    {
+      "sourceLine": 292,
+      "start": 122,
+      "text": "très sûr de la qualité évidemment mais voilà mes amis nous allons sur le champ"
+    },
+    {
+      "sourceLine": 293,
+      "start": 129,
+      "text": "commencer les répétitions d'une pièce intitulée l'étourdis ou le contetemps et vous pouvez tous en être fier car il"
+    },
+    {
+      "sourceLine": 294,
+      "start": 136,
+      "text": "s'agit de la première pièce de Monsieur mère la belle"
+    },
+    {
+      "sourceLine": 295,
+      "start": 142,
+      "text": "vie oh la belle la belle"
+    },
+    {
+      "sourceLine": 296,
+      "start": 149,
+      "text": "prottion"
+    },
+    {
+      "sourceLine": 297,
+      "start": 155,
+      "text": "[Musique]"
+    }
+  ]
 }

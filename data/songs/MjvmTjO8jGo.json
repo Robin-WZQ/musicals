@@ -10,14 +10,145 @@
   "musicalId": "moliere",
   "trackNumber": 23,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "Si tu veux être dans le cou c'est à Paris que tout se joue il faut que tu",
+      "start": 6,
+      "duration": 7
+    },
+    {
+      "text": "Suives le trop sans jamais perdre le tempo tu dois soigner ton apparence",
+      "start": 13,
+      "duration": 8
+    },
+    {
+      "text": "Suivre les dernières tendance sinon tu nes plus à la mode ser",
+      "start": 21,
+      "duration": 9
+    },
+    {
+      "text": "Et bien madame que dites-vous de Paris il faudrait être à l'antipode de la raison pour ne pas confesser que Paris est le grand bureau des merveilles le",
+      "start": 30,
+      "duration": 9
+    },
+    {
+      "text": "Centre du bon goût du bel esprit et de la galanterie pour moi je tiens que hors de Paris il n'y a point de salut pour les je de genre oh c'est une vérité",
+      "start": 39,
+      "duration": 9
+    },
+    {
+      "text": "Incontestable pour être amis dans les salons à la mode il m'a fallu en apprendre les codes le jeu consiste à",
+      "start": 48,
+      "duration": 7
+    },
+    {
+      "text": "Prétendre manier le bel esprit dans un langage en poulé mais oui tel sera le sujet de ma nouvelle comédie de Val grim",
+      "start": 55,
+      "duration": 9
+    },
+    {
+      "text": "… En faux marquis, Jodelet et Mascarille se jouent des précieuses…",
+      "start": 64,
+      "duration": 7
+    },
+    {
+      "text": "Ridicule il faut que je vous dise en un promtu que je fis hier chez une duchesse de mes amis car je suis diablement fort",
+      "start": 71,
+      "duration": 7
+    },
+    {
+      "text": "Sur les Impromptus mais l'imprompttu est justement la pierre de touche de l'esprit ou je n'y prenez pas garde tandis que sans songer à mal je vous",
+      "start": 78,
+      "duration": 8
+    },
+    {
+      "text": "Regarde V TR tapisois me mon cœur et et malheur bonheur ah j'ai trouvé au trant",
+      "start": 86,
+      "duration": 8
+    },
+    {
+      "text": "Tapinois mais dobe mon cœur au voleur au voleur au voleur au voleur au voleur au",
+      "start": 94,
+      "duration": 9
+    },
+    {
+      "text": "Voleur cher mon on pourrait en rire si ce texte n'était pas tout simplement scandaleux Florida ne soyez pas inquiet",
+      "start": 103,
+      "duration": 9
+    },
+    {
+      "text": "C'est trop cultive sa perte en se moquant des précieux hypocrite dès la première réplique de rire je vous ai vu",
+      "start": 112,
+      "duration": 8
+    },
+    {
+      "text": "Vous étouffer Molière à ce que vous n'aurez jamais l'intelligence du cœur et du trait qui est cet illuminé qui ose",
+      "start": 120,
+      "duration": 6
+    },
+    {
+      "text": "Nous insulter ? Jean Poquelin, maître tapissier et père de l'auteur que vous dénigrez. Monsieur le tapissier, nous ne…",
+      "start": 126,
+      "duration": 9
+    },
+    {
+      "text": "Sommes pas du même monde Floridor allons quel beau succès quelle belle première de votre fils vous devez être",
+      "start": 135,
+      "duration": 9
+    },
+    {
+      "text": "Fier je ne souhaite pas vous parler Madeleine pardonnez-moi d'être sincère mais c'est vous qui aveztour est mon fils de mes affaires je vous ai vu",
+      "start": 144,
+      "duration": 7
+    },
+    {
+      "text": "Là-bas rire comme un enfant je vous ai vu aussi au moment des applaudissements tellement fiers que les lambes mouillit",
+      "start": 151,
+      "duration": 7
+    },
+    {
+      "text": "Vos yeux allez le dire à votre fils il en serait tellement heureux au revoir madame Béjard le voilà le voilà votre Majesté cette pièce est une",
+      "start": 158,
+      "duration": 9
+    },
+    {
+      "text": "Insulte de ce Molière ! Il se moque de nos valeurs et de nos bonnes manières. Nous devons l'interdire pour nous faire respecter. Les Précieuses ridicules doivent…",
+      "start": 167,
+      "duration": 9
+    },
+    {
+      "text": "Être censurés les Précieuses ridicules mais qu Jol tire vousz votre place à faire le",
+      "start": 176,
+      "duration": 8
+    },
+    {
+      "text": "Pitre ce jour il faut que tu su le TR",
+      "start": 187,
+      "duration": 5
+    },
+    {
+      "text": "Sans jamais le ture dans le cou t",
+      "start": 192,
+      "duration": 9
+    },
+    {
+      "text": "Jour tu suis le TR sans jamais perdre le temp soign ton",
+      "start": 201,
+      "duration": 11
+    },
+    {
+      "text": "Regarde ça c'est pas",
+      "start": 217,
+      "duration": 2
+    }
+  ],
   "playbackVideoId": "MjvmTjO8jGo",
   "sourceURL": "https://www.youtube.com/watch?v=MjvmTjO8jGo",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=MjvmTjO8jGo",
@@ -148,10 +279,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250316",
   "productionYear": 2023,
@@ -280,5 +411,157 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 462,
+      "start": 1,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 463,
+      "start": 6,
+      "text": "si tu veux être dans le cou c'est à Paris que tout se joue il faut que tu"
+    },
+    {
+      "sourceLine": 464,
+      "start": 13,
+      "text": "suives le trop sans jamais perdre le tempo tu dois soigner ton apparence"
+    },
+    {
+      "sourceLine": 465,
+      "start": 21,
+      "text": "suivre les dernières tendance sinon tu nes plus à la mode ser"
+    },
+    {
+      "sourceLine": 466,
+      "start": 30,
+      "text": "et bien madame que dites-vous de Paris il faudrait être à l'antipode de la raison pour ne pas confesser que Paris est le grand bureau des merveilles le"
+    },
+    {
+      "sourceLine": 467,
+      "start": 39,
+      "text": "centre du bon goût du bel esprit et de la galanterie pour moi je tiens que hors de Paris il n'y a point de salut pour les je de genre oh c'est une vérité"
+    },
+    {
+      "sourceLine": 468,
+      "start": 48,
+      "text": "incontestable pour être amis dans les salons à la mode il m'a fallu en apprendre les codes le jeu consiste à"
+    },
+    {
+      "sourceLine": 469,
+      "start": 55,
+      "text": "prétendre manier le bel esprit dans un langage en poulé mais oui tel sera le sujet de ma nouvelle comédie de Val grim"
+    },
+    {
+      "sourceLine": 470,
+      "start": 64,
+      "text": "en faux marquis judelet et mascarie ce jont des précieuses é baah"
+    },
+    {
+      "sourceLine": 471,
+      "start": 71,
+      "text": "ridicule il faut que je vous dise en un promtu que je fis hier chez une duchesse de mes amis car je suis diablement fort"
+    },
+    {
+      "sourceLine": 472,
+      "start": 78,
+      "text": "sur les Impromptus mais l'imprompttu est justement la pierre de touche de l'esprit ou je n'y prenez pas garde tandis que sans songer à mal je vous"
+    },
+    {
+      "sourceLine": 473,
+      "start": 86,
+      "text": "regarde V TR tapisois me mon cœur et et malheur bonheur ah j'ai trouvé au trant"
+    },
+    {
+      "sourceLine": 474,
+      "start": 94,
+      "text": "tapinois mais dobe mon cœur au voleur au voleur au voleur au voleur au voleur au"
+    },
+    {
+      "sourceLine": 475,
+      "start": 103,
+      "text": "voleur cher mon on pourrait en rire si ce texte n'était pas tout simplement scandaleux Florida ne soyez pas inquiet"
+    },
+    {
+      "sourceLine": 476,
+      "start": 112,
+      "text": "c'est trop cultive sa perte en se moquant des précieux hypocrite dès la première réplique de rire je vous ai vu"
+    },
+    {
+      "sourceLine": 477,
+      "start": 120,
+      "text": "vous étouffer Molière à ce que vous n'aurez jamais l'intelligence du cœur et du trait qui est cet illuminé qui ose"
+    },
+    {
+      "sourceLine": 478,
+      "start": 126,
+      "text": "nous insulter Jean paucelin maître tapissier et père de l'auteur que vous dénigrez monsieur le tapissier nous ne"
+    },
+    {
+      "sourceLine": 479,
+      "start": 135,
+      "text": "sommes pas du même monde Floridor allons quel beau succès quelle belle première de votre fils vous devez être"
+    },
+    {
+      "sourceLine": 480,
+      "start": 144,
+      "text": "fier je ne souhaite pas vous parler Madeleine pardonnez-moi d'être sincère mais c'est vous qui aveztour est mon fils de mes affaires je vous ai vu"
+    },
+    {
+      "sourceLine": 481,
+      "start": 151,
+      "text": "là-bas rire comme un enfant je vous ai vu aussi au moment des applaudissements tellement fiers que les lambes mouillit"
+    },
+    {
+      "sourceLine": 482,
+      "start": 158,
+      "text": "vos yeux allez le dire à votre fils il en serait tellement heureux au revoir madame Béjard le voilà le voilà votre Majesté cette pièce est une"
+    },
+    {
+      "sourceLine": 483,
+      "start": 167,
+      "text": "insulte de ce Molière il se moque de nos valeurs et de nos bonnes manières nous devons l'interdire pour nous faire respés les Précieuses ridicules doivent"
+    },
+    {
+      "sourceLine": 484,
+      "start": 176,
+      "text": "être censurés les Précieuses ridicules mais qu Jol tire vousz votre place à faire le"
+    },
+    {
+      "sourceLine": 485,
+      "start": 184,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 486,
+      "start": 187,
+      "text": "pitre ce jour il faut que tu su le TR"
+    },
+    {
+      "sourceLine": 487,
+      "start": 192,
+      "text": "sans jamais le ture dans le cou t"
+    },
+    {
+      "sourceLine": 488,
+      "start": 201,
+      "text": "jour tu suis le TR sans jamais perdre le temp soign ton"
+    },
+    {
+      "sourceLine": 489,
+      "start": 212,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 490,
+      "start": 217,
+      "text": "regarde ça c'est pas"
+    }
+  ]
 }

@@ -1,0 +1,373 @@
+{
+  "videoId": "oWazYJ0nY9Q",
+  "playbackVideoId": "oWazYJ0nY9Q",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=oWazYJ0nY9Q"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Mon tendre ami mes jours sont dans en nuuit tant de folie vous ma vie est pourtant",
+      "start": 9,
+      "ipa": "[mɔ̃ tɑ̃dʁ‿ami me ʒuʁ sɔ̃ dɑ̃ ɑ̃ nyɥi tɑ̃ də foli vu ma vi ɛ puʁtɑ̃]",
+      "ear": "蒙 唐德赫 阿米 梅 茹赫 松 当 昂 尼于于伊 唐 德 佛利 乌 玛 维 艾 普赫唐",
+      "meaning": "亲爱的朋友，我的白昼与黑夜都充满无聊……（部分识别不清）",
+      "suppliedText": "mon tendre ami mes jours sont dans en nuuit tant de folie vous ma vie est pourtant",
+      "sourceLineId": "moliere-timed-248",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 9,
+        "sourceLineNumber": 248,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pris des folies mamie je vous en offre toutes les nuits ouais comment ouais mais c'est c'est vexant ça madame de",
+      "start": 16,
+      "ipa": "[pʁi de foli mami ʒə vuz‿ɑ̃n‿ɔfʁ tut le nɥi wɛ kɔmɑ̃ wɛ mɛ sɛ sɛ vɛksɑ̃ sa madam də]",
+      "ear": "普希 德 佛利 玛米 热 乌兹 昂恩 哦弗赫 图特 莱 恩于伊 乌艾 科芒 乌艾 梅 塞 塞 韦克桑 萨 玛达姆 德",
+      "meaning": "我每晚都能给您疯狂……——这话真让人不快，夫人……",
+      "suppliedText": "pris des folies mamie je vous en offre toutes les nuits ouais comment ouais mais c'est c'est vexant ça madame de",
+      "sourceLineId": "moliere-timed-249",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 16,
+        "sourceLineNumber": 249,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Galimon vous l'avez compris et la maîtresse du prince de Conti elle a pourtant un mari qui de sa femme l' ce",
+      "start": 24,
+      "ipa": "[ɡalimɔ̃ vu lave kɔ̃pʁi e la mɛtʁɛs dy pʁɛ̃s də kɔ̃ti ɛl‿a puʁtɑ̃ œ̃ maʁi ki də sa fam‿ɛl sə]",
+      "ear": "嘎利蒙 乌 拉韦 孔普希 诶 拉 梅特赫斯 迪于 普汉斯 德 孔蒂 艾勒 阿 普赫唐 恩 玛希 基 德 萨 法姆 艾勒 瑟",
+      "meaning": "……她是孔蒂亲王的情妇，却有一个丈夫……（部分识别不清）",
+      "suppliedText": "galimon vous l'avez compris et la maîtresse du prince de Conti elle a pourtant un mari qui de sa femme l' ce",
+      "sourceLineId": "moliere-timed-250",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 24,
+        "sourceLineNumber": 250,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Contin quel fr il a perdu la tête sous les",
+      "start": 31,
+      "ipa": "[kɔ̃tɛ̃ kɛl‿ɛfɛʁ‿il‿a pɛʁdy la tɛt su le]",
+      "ear": "孔坦 凯勒 艾费赫 伊勒 阿 佩赫迪于 拉 泰特 苏 莱",
+      "meaning": "孔蒂……他已失去理智……",
+      "suppliedText": "Contin quel fr il a perdu la tête sous les",
+      "sourceLineId": "moliere-timed-251",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 31,
+        "sourceLineNumber": 251,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Jons la jolie madame de C ce est vraiment un sacré",
+      "start": 38,
+      "ipa": "[ʒɔ̃ la ʒoli madam də se sə ɛ vʁɛmɑ̃ œ̃ sakʁe]",
+      "ear": "戎 拉 若利 玛达姆 德 塞 瑟 艾 弗赫芒 恩 萨克赫",
+      "meaning": "漂亮的夫人……真是个……（识别不清）",
+      "suppliedText": "Jons la jolie madame de C ce est vraiment un sacré",
+      "sourceLineId": "moliere-timed-252",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 38,
+        "sourceLineNumber": 252,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Fron monend ce lieu est une prison faites donc preuve d' peu",
+      "start": 49,
+      "ipa": "[fʁɔ̃ monɑ̃ sə ljø ɛt‿yn pʁizɔ̃ fɛt dɔ̃k pʁøv de pø]",
+      "ear": "弗洪 莫南 瑟 勒耶厄 艾特 于恩 普希宗 费特 东克 普赫厄弗 德 珀厄",
+      "meaning": "亲爱的，这里就是监狱，请发挥一点……",
+      "suppliedText": "fron monend ce lieu est une prison faites donc preuve d' peu",
+      "sourceLineId": "moliere-timed-254",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 49,
+        "sourceLineNumber": 254,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "D'imagination on peut Esser les yeux bandés ou encore mieux oui le fouet c'est à mon esprit que je faisais",
+      "start": 57,
+      "ipa": "[dimaʒinasjɔ̃ ɔ̃ pø ese lez‿jø bɑ̃de u ɑ̃kɔʁ mjø wi lə fwɛ sɛt‿a mɔ̃n‿ɛspʁi kə ʒə fəzɛ]",
+      "ear": "迪玛日纳斯耶翁 翁 珀厄 诶塞 莱兹 耶厄 邦德 乌 昂科赫 姆耶厄 乌伊 勒 弗乌艾 塞特 阿 蒙恩 艾斯普希 克 热 弗泽",
+      "meaning": "想象力。——可以蒙着眼睛试试，甚至用鞭子。——我说的是我的思想……",
+      "suppliedText": "d'imagination on peut Esser les yeux bandés ou encore mieux oui le fouet c'est à mon esprit que je faisais",
+      "sourceLineId": "moliere-timed-255",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 57,
+        "sourceLineNumber": 255,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Allusion. Oh, alors lisez. Mais impossible, la lecture me donne des nausées. Je n'ai jamais su lequel des deux mots qualifiait le mieux cette femme : sa beauté ou sa bêtise. Je…",
+      "start": 65,
+      "ipa": "[alyzjɔ̃ ɔ alɔʁ lize mɛ ɛ̃pɔsibl la lɛktyʁ mə dɔn de noze ʒə ne ʒamɛ sy ləkɛl de dø mo kalifjɛ lə mjø sɛt fam sa bote u sa bɛtiz ʒə]",
+      "ear": "阿吕兹耶翁 哦 阿洛赫 利泽 梅 安珀西布勒 拉 莱克蒂于赫 默 多恩 德 诺泽 热 内 扎梅 西于 勒凯勒 德 德厄 莫 卡利弗耶艾 勒 姆耶厄 塞特 法姆 萨 博特 乌 萨 贝蒂兹 热",
+      "meaning": "那就读书。——不行，读书让我恶心。——我一直不知道，该用美貌还是愚蠢来形容她……",
+      "suppliedText": "allusion oh alors lye mais impossible la lecture me de dénausé je n'ai jamais su lequel des deux mots qualifia le mieux cette femme sa beauté ou sa bêtise je",
+      "sourceLineId": "moliere-timed-256",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 65,
+        "sourceLineNumber": 256,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Disais madame que vous étiez",
+      "start": 74,
+      "ipa": "[dizɛ madam kə vuz‿etje]",
+      "ear": "迪泽 玛达姆 克 乌兹 诶特耶诶",
+      "meaning": "我说，夫人，您真是……",
+      "suppliedText": "disais madame que vous étiez",
+      "sourceLineId": "moliere-timed-257",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 74,
+        "sourceLineNumber": 257,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Ex ilte vous demande de",
+      "start": 79,
+      "ipa": "[ɛks‿ilt vu dəmɑ̃d də]",
+      "ear": "艾克斯 伊勒特 乌 德芒德 德",
+      "meaning": "……他请您……（识别不清）",
+      "suppliedText": "ex ilte vous demande de",
+      "sourceLineId": "moliere-timed-259",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 79,
+        "sourceLineNumber": 259,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Vous avant que d'ennu je ne me si nous faisions venir une troupe d'acteurs pour",
+      "start": 85,
+      "ipa": "[vuz‿avɑ̃ kə dɑ̃ny ʒə nə mə si nu fəzjɔ̃ vəniʁ‿yn tʁup daktœʁ puʁ]",
+      "ear": "乌兹 阿旺 克 当尼于 热 讷 默 西 努 弗兹耶翁 弗尼赫 于恩 特胡普 达克特厄赫 普赫",
+      "meaning": "在我无聊死之前……不如请一支演员剧团来……",
+      "suppliedText": "vous avant que d'ennu je ne me si nous faisions venir une troupe d'acteurs pour",
+      "sourceLineId": "moliere-timed-260",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 85,
+        "sourceLineNumber": 260,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Me divertir cette idée qu'elle est B de knac oui je vous avveis bien dit que madame de calbimon n'était pas conne",
+      "start": 94,
+      "ipa": "[mə divɛʁtiʁ sɛt‿ide kɛl‿ɛ be də knak wi ʒə vuz‿avvɛ bjɛ̃ di kə madam də kalbimɔ̃ netɛ pa kɔn]",
+      "ear": "默 迪韦赫蒂赫 塞特 伊德 凯勒 艾 贝 德 克纳克 乌伊 热 乌兹 阿弗韦 布耶安 迪 克 玛达姆 德 卡勒比蒙 内泰 帕 科恩",
+      "meaning": "为我解闷？——好主意！科斯纳克，我早说过夫人不笨……",
+      "suppliedText": "me divertir cette idée qu'elle est B de knac oui je vous avveis bien dit que madame de calbimon n'était pas conne",
+      "sourceLineId": "moliere-timed-261",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 94,
+        "sourceLineNumber": 261,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "N'était pas connaissez-vous des comédiens de CNAC Votre Altesse il y a en ce moment même des f fes mais non pas des fesses",
+      "start": 102,
+      "ipa": "[netɛ pa kɔnɛsevu de komedjɛ̃ də knak votʁ‿altɛs‿il‿i a ɑ̃ sə momɑ̃ mɛm de ɛf f mɛ nɔ̃ pa de fɛs]",
+      "ear": "内泰 帕 科奈塞乌 德 科梅德耶安 德 克纳克 沃特赫 阿勒泰斯 伊勒 伊 阿 昂 瑟 莫芒 梅姆 德 艾弗 弗 梅 农 帕 德 费斯",
+      "meaning": "您认识演员吗？——殿下，此刻附近有……——不是屁股……（双关处识别不清）",
+      "suppliedText": "n'était pas connaissez-vous des comédiens de CNAC Votre Altesse il y a en ce moment même des f fes mais non pas des fesses",
+      "sourceLineId": "moliere-timed-262",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 102,
+        "sourceLineNumber": 262,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Des fessesité dans la région ou des comédiens se produisent ah des connaissances m fortement recommandé une",
+      "start": 111,
+      "ipa": "[de fɛszite dɑ̃ la ʁeʒjɔ̃ u de komedjɛ̃ sə pʁodɥiz‿a de kɔnɛsɑ̃s‿ɛm fɔʁtəmɑ̃ ʁəkɔmɑ̃de yn]",
+      "ear": "德 费斯齐特 当 拉 赫日耶翁 乌 德 科梅德耶安 瑟 普霍德于伊兹 阿 德 科奈桑斯 艾姆 佛赫特芒 赫科芒德 于恩",
+      "meaning": "……有演员参加的活动。熟人向我强烈推荐了一支……",
+      "suppliedText": "des fessesité dans la région ou des comédiens se produisent ah des connaissances m fortement recommandé une",
+      "sourceLineId": "moliere-timed-263",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 111,
+        "sourceLineNumber": 263,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Troupe de comédiens qu'un certain Molière dirigeait. Je leur ai promis rente et protection s'ils venaient s'installer au château de la Grange-des-Prés. Bonjour !",
+      "start": 118,
+      "ipa": "[tʁup də komedjɛ̃ kœ̃ sɛʁtɛ̃ moljɛʁ diʁiʒɛ ʒə lœʁ‿e pʁomi ʁɑ̃t e pʁotɛksjɔ̃ sil vənɛ sɛ̃stale o ʃato də la ɡʁɑ̃ʒdepʁe bɔ̃ʒuʁ]",
+      "ear": "特胡普 德 科梅德耶安 坎 塞赫坦 莫勒耶艾赫 迪希热 热 勒厄赫 诶 普霍米 杭特 诶 普霍泰克斯耶翁 西勒 弗奈 森斯塔莱 奥 沙托 德 拉 格杭日德普赫 崩茹赫",
+      "meaning": "莫里哀领导的剧团。我答应给他们报酬和庇护，只要他们来格朗日德普雷城堡。",
+      "suppliedText": "troupe de comédienens certain Molière dirigeait je leur ai promis rentre et protection s'il venaent s'installer au Château de la Grange des pré bonjour",
+      "sourceLineId": "moliere-timed-264",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 118,
+        "sourceLineNumber": 264,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Bonjour ! Bienvenue à la Grange-des-Prés. Merci. Molière, de Cosnac, Madeleine Béjart… Nous sommes ici, madame, à la…",
+      "start": 127,
+      "ipa": "[bɔ̃ʒuʁ bjɛ̃vny a la ɡʁɑ̃ʒdepʁe mɛʁsi moljɛʁ də kɔsnak madlɛn beʒaʁ nu sɔm‿isi madam a la]",
+      "ear": "崩茹赫 布耶安弗尼于 阿 拉 格杭日德普赫 梅赫西 莫勒耶艾赫 德 科斯纳克 玛德莱恩 贝扎赫 努 索姆 伊西 玛达姆 阿 拉",
+      "meaning": "欢迎来到格朗日德普雷。谢谢。莫里哀，科斯纳克，玛德莱娜·贝雅尔……夫人，我们来这里是……",
+      "suppliedText": "bonjour bienvenue à la GR des pr merci Molère de gonac Madeline Béjard nous sommes ici madame à la",
+      "sourceLineId": "moliere-timed-265",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 127,
+        "sourceLineNumber": 265,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Demande du prince pour votre bon plaisir madame permettez-moi de vous présenter monsieur Molière cher monsieur vous me",
+      "start": 135,
+      "ipa": "[dəmɑ̃d dy pʁɛ̃s puʁ votʁ bɔ̃ plɛziʁ madam pɛʁmɛtemwa də vu pʁezɑ̃te məsjø moljɛʁ ʃɛʁ məsjø vu mə]",
+      "ear": "德芒德 迪于 普汉斯 普赫 沃特赫 崩 普莱齐赫 玛达姆 佩赫梅特姆乌阿 德 乌 普赫赞特 默斯耶厄 莫勒耶艾赫 谢赫 默斯耶厄 乌 默",
+      "meaning": "奉亲王之命，为您解闷。夫人，让我介绍莫里哀先生。——先生，您……",
+      "suppliedText": "demande du prince pour votre bon plaisir madame permettez-moi de vous présenter monsieur Molère cher monsieur vous me",
+      "sourceLineId": "moliere-timed-266",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 135,
+        "sourceLineNumber": 266,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Sauve la vie car sans vous d'ennui j'allais mourir mourir d'ennui mais pourquoi dites-vous cela M",
+      "start": 143,
+      "ipa": "[sov la vi kaʁ sɑ̃ vu dɑ̃nɥi ʒalɛ muʁiʁ muʁiʁ dɑ̃nɥi mɛ puʁkwa ditvu səla ɛm]",
+      "ear": "索弗 拉 维 卡赫 桑 乌 当恩于伊 扎莱 穆希赫 穆希赫 当恩于伊 梅 普赫克乌阿 迪特乌 瑟拉 艾姆",
+      "meaning": "救了我的命，没有您我会无聊死。——为什么这么说？",
+      "suppliedText": "sauve la vie car sans vous d'ennui j'allais mourir mourir d'ennui mais pourquoi dites-vous cela M",
+      "sourceLineId": "moliere-timed-267",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 143,
+        "sourceLineNumber": 267,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "C'est une métaphore m quoi une métaphore",
+      "start": 151,
+      "ipa": "[sɛt‿yn metafɔʁ‿ɛm kwa yn metafɔʁ]",
+      "ear": "塞特 于恩 梅塔佛赫 艾姆 克乌阿 于恩 梅塔佛赫",
+      "meaning": "这是比喻。——什么？——比喻。",
+      "suppliedText": "c'est une métaphore m quoi une métaphore",
+      "sourceLineId": "moliere-timed-268",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 151,
+        "sourceLineNumber": 268,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Monsieur bon si nous allions nous coucher ce soir je me sens Meur très coqu c'est impossible mon prince je me",
+      "start": 159,
+      "ipa": "[məsjø bɔ̃ si nuz‿aljɔ̃ nu kuʃe sə swaʁ ʒə mə sɑ̃ mœʁ tʁɛ kok sɛt‿ɛ̃pɔsibl mɔ̃ pʁɛ̃s ʒə mə]",
+      "ear": "默斯耶厄 崩 西 努兹 阿勒耶翁 努 库谢 瑟 斯乌阿赫 热 默 桑 默厄赫 特赫 科克 塞特 安珀西布勒 蒙 普汉斯 热 默",
+      "meaning": "不如去睡觉？今晚我很想……——不行，亲王，我……",
+      "suppliedText": "monsieur bon si nous allions nous coucher ce soir je me sens Meur très coqu c'est impossible mon prince je me",
+      "sourceLineId": "moliere-timed-269",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 159,
+        "sourceLineNumber": 269,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Dois de m'occuper de nos invités",
+      "start": 167,
+      "ipa": "[dwa də mɔkype də noz‿ɛ̃vite]",
+      "ear": "德乌阿 德 莫基于佩 德 诺兹 安维特",
+      "meaning": "必须照顾客人。",
+      "suppliedText": "dois de m'occuper de nos invités",
+      "sourceLineId": "moliere-timed-270",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 167,
+        "sourceLineNumber": 270,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Ah ça c'est bien dommage bon bonne nuit ma bonne nuit mon prince",
+      "start": 171,
+      "ipa": "[a sa sɛ bjɛ̃ dɔmaʒ bɔ̃ bɔn nɥi ma bɔn nɥi mɔ̃ pʁɛ̃s]",
+      "ear": "阿 萨 塞 布耶安 多玛日 崩 博恩 恩于伊 玛 博恩 恩于伊 蒙 普汉斯",
+      "meaning": "那太可惜了。晚安。——晚安，亲王。",
+      "suppliedText": "ah ça c'est bien dommage bon bonne nuit ma bonne nuit mon prince",
+      "sourceLineId": "moliere-timed-272",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 171,
+        "sourceLineNumber": 272,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

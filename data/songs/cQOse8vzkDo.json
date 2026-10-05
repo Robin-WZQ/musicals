@@ -10,14 +10,55 @@
   "musicalId": "moliere",
   "trackNumber": 12,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "C'est le matin d'un nouveau monde. Ce matin est enfin la fin, la fin…",
+      "start": 0,
+      "duration": 10
+    },
+    {
+      "text": "De la Fronde. Je m'appelle Daniel, l'abbé Daniel de Cosnac, premier gentilhomme du prince de Conti. Le conseiller…",
+      "start": 10,
+      "duration": 7
+    },
+    {
+      "text": "Et ami. Pendant la Fronde, il s'est égaré dans les guerres de son frère…",
+      "start": 17,
+      "duration": 4
+    },
+    {
+      "text": "J'ai évité le drame en l'invitant à déposer les armes. C'est le matin d'un nouveau",
+      "start": 21,
+      "duration": 8
+    },
+    {
+      "text": "Monde. Ce matin est enfin la fin, la fin de la fronde votre éminence sous votre",
+      "start": 29,
+      "duration": 8
+    },
+    {
+      "text": "Autorité, je dépose à vos pieds mon épée. Je déclare sans condition de Bordeaux la reddition et je prête serment de fidélité à la régente et à sa majesté.",
+      "start": 37,
+      "duration": 10
+    },
+    {
+      "text": "Prince de Conti, en vertu de votre condition, la régente vous accorde son absolution. Coupable des crimes de lèse-majesté, vous ferez pénitence au château…",
+      "start": 47,
+      "duration": 9
+    },
+    {
+      "text": "De la Grange-des-Prés. Vous serez assigné à résidence. Yeah !",
+      "start": 56,
+      "duration": 4
+    }
+  ],
   "playbackVideoId": "cQOse8vzkDo",
   "sourceURL": "https://www.youtube.com/watch?v=cQOse8vzkDo",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=cQOse8vzkDo",
@@ -64,10 +105,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250310",
   "productionYear": 2023,
@@ -112,5 +153,52 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 238,
+      "start": 0,
+      "text": "C'est le matin d'un nouveau monde. Ce matin est enfin la fin la fin"
+    },
+    {
+      "sourceLine": 239,
+      "start": 10,
+      "text": "de l'affronte. Je m'appelle Daniel la baie Daniel de Cosnac premier gentil homme du prince de Candis. Le conseiller"
+    },
+    {
+      "sourceLine": 240,
+      "start": 17,
+      "text": "et ami pendant la fronde, il s'est égaré dans les guerres de son frère qui esté."
+    },
+    {
+      "sourceLine": 241,
+      "start": 21,
+      "text": "J'ai évité le drame en l'invitant à déposer les armes. C'est le matin d'un nouveau"
+    },
+    {
+      "sourceLine": 242,
+      "start": 29,
+      "text": "monde. Ce matin est enfin la fin, la fin de la fronde votre éminence sous votre"
+    },
+    {
+      "sourceLine": 243,
+      "start": 37,
+      "text": "autorité, je dépose à vos pieds mon épée. Je déclare sans condition de Bordeaux la rédition et je prête serment de fidélité à la régente et à sa majesté."
+    },
+    {
+      "sourceLine": 244,
+      "start": 47,
+      "text": "Prince Conti, en vertu de votre condition, la régante vous accorde son absolution. Coupable des crimes de la majesté, vous ferez pénitence au château"
+    },
+    {
+      "sourceLine": 245,
+      "start": 56,
+      "text": "de la grande étrée, vous serez assigné à résidence. Yeah."
+    }
+  ]
 }

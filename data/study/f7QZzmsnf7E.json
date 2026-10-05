@@ -1,0 +1,213 @@
+{
+  "videoId": "f7QZzmsnf7E",
+  "playbackVideoId": "f7QZzmsnf7E",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=f7QZzmsnf7E"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "… Louis le Grand va rendre sa sentence… Louis…",
+      "start": 10,
+      "ipa": "[lwi lə ɡʁɑ̃ va ʁɑ̃dʁ sa sɑ̃tɑ̃s lwi]",
+      "ear": "勒乌伊 勒 格杭 瓦 杭德赫 萨 桑唐斯 勒乌伊",
+      "meaning": "……伟大的路易将宣判……（部分识别不清）",
+      "suppliedText": "notre saou le grand va rendre sa sentence brave notre pour de saoui le",
+      "sourceLineId": "moliere-timed-672",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 10,
+        "sourceLineNumber": 672,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Grand va rendre sa anz le roi en toute équité et par grande charité pour votre",
+      "start": 18,
+      "ipa": "[ɡʁɑ̃ va ʁɑ̃dʁ sa ɑ̃z lə ʁwa ɑ̃ tut‿ekite e paʁ ɡʁɑ̃d ʃaʁite puʁ votʁ]",
+      "ear": "格杭 瓦 杭德赫 萨 昂兹 勒 赫乌阿 昂 图特 诶基特 诶 帕赫 格杭德 沙希特 普赫 沃特赫",
+      "meaning": "……国王公正而仁慈，愿意听取您的……",
+      "suppliedText": "grand va rendre sa anz le roi en toute équité et par grande charité pour votre",
+      "sourceLineId": "moliere-timed-673",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 18,
+        "sourceLineNumber": 673,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Défense est disposée à vous écouter si le devoir voir de la comédie et de corriger les hommes en les divertissant,",
+      "start": 25,
+      "ipa": "[defɑ̃s‿ɛ dispoze a vuz‿ekute si lə dəvwaʁ vwaʁ də la komedi e də koʁiʒe lez‿ɔm‿ɑ̃ le divɛʁtisɑ̃]",
+      "ear": "德芳斯 艾 迪斯波泽 阿 乌兹 诶库特 西 勒 德弗乌阿赫 弗乌阿赫 德 拉 科梅迪 诶 德 科希热 莱兹 哦姆 昂 莱 迪韦赫蒂桑",
+      "meaning": "辩护。如果喜剧的责任，是在娱乐中纠正人……",
+      "suppliedText": "défense est disposée à vous écouter si le devoir voir de la comédie et de corriger les hommes en les divertissant,",
+      "sourceLineId": "moliere-timed-674",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 25,
+        "sourceLineNumber": 674,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "D'attaquer par des peintures ridicules les vices de mon siècle. J'avais, Sire, la pensée que je rendrais service à tous les honnêtes gens si je faisais une comédie…",
+      "start": 33,
+      "ipa": "[datake paʁ de pɛ̃tyʁ ʁidikyl le vis də mɔ̃ sjɛkl ʒavɛ siʁ la pɑ̃se kə ʒə ʁɑ̃dʁɛ sɛʁvis‿a tu lez‿ɔnɛt ʒɑ̃ si ʒə fəzɛ yn komedi]",
+      "ear": "达塔克 帕赫 德 潘蒂于赫 希迪基于勒 莱 维斯 德 蒙 斯耶艾克勒 扎韦 西赫 拉 庞塞 克 热 杭德赫 塞赫维斯 阿 图 莱兹 哦奈特 让 西 热 弗泽 于恩 科梅迪",
+      "meaning": "以可笑的描写抨击时代的恶习。陛下，我曾想，写一出揭露……",
+      "suppliedText": "d'attaquer par des peintures ridicules les vis de mon siècle. J'avais sir la pensée que je rendrai service à tous les honnêtes gens si je faisais une comédie",
+      "sourceLineId": "moliere-timed-675",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 33,
+        "sourceLineNumber": 675,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Qui décria les hypocrites. Cependant, toutes mes précautions ont été veines.",
+      "start": 40,
+      "ipa": "[ki dekʁia lez‿ipɔkʁit səpɑ̃dɑ̃ tut me pʁekosjɔ̃ ɔ̃t‿ete vɛn]",
+      "ear": "基 德克希阿 莱兹 伊珀克希特 瑟庞当 图特 梅 普赫科斯耶翁 翁特 诶特 韦恩",
+      "meaning": "伪善者的喜剧，能帮助所有正直的人，可我的谨慎全都徒劳。",
+      "suppliedText": "qui décria les hypocrites. Cependant, toutes mes précautions ont été veines.",
+      "sourceLineId": "moliere-timed-676",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 40,
+        "sourceLineNumber": 676,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Les tartues sous mains veulent trouver grâce auprès de votre majesté. Les rois éclairés savent mieux que nous ce qu'ils doivent accorder. Et j'attends de votre majesté ce qui lui plaira d'ordonner.",
+      "start": 45,
+      "ipa": "[le taʁty su mɛ̃ vœl tʁuve ɡʁas‿opʁɛ də votʁ maʒɛste le ʁwa eklɛʁe sav mjø kə nu sə kil dwav‿akɔʁde e ʒatɑ̃ də votʁ maʒɛste sə ki lɥi plɛʁa dɔʁdɔne]",
+      "ear": "莱 塔赫蒂于 苏 曼 弗厄勒 特胡韦 格哈斯 奥普赫 德 沃特赫 玛热斯特 莱 赫乌阿 诶克莱赫 萨弗 姆耶厄 克 努 瑟 基勒 德乌阿弗 阿科赫德 诶 扎唐 德 沃特赫 玛热斯特 瑟 基 勒于伊 普莱哈 多赫多内",
+      "meaning": "那些伪君子暗中寻求陛下的恩典。贤明的国王比我们更清楚应当准许什么，我等待陛下的裁决。",
+      "suppliedText": "Les tartues sous mains veulent trouver grâce auprès de votre majesté. Les rois éclairés savent mieux que nous ce qu'ils doivent accorder. Et j'attends de votre majesté ce qui lui plaira d'ordonner.",
+      "sourceLineId": "moliere-timed-677",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 45,
+        "sourceLineNumber": 677,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Vous ne pouvez ignorer les critiques de la compagnie du Saint Sacrement contre les meurs libert de la cour et ses divertissement. Les catholiques",
+      "start": 55,
+      "ipa": "[vu nə puve injoʁe le kʁitik də la kɔ̃pani dy sɛ̃ sakʁəmɑ̃ kɔ̃tʁ le mœʁ libɛʁ də la kuʁ e se divɛʁtismɑ̃ le katolik]",
+      "ear": "乌 讷 普韦 伊恩耶奥赫 莱 克希蒂克 德 拉 孔帕尼 迪于 森 萨克赫芒 孔特赫 莱 默厄赫 利贝赫 德 拉 库赫 诶 塞 迪韦赫蒂斯芒 莱 卡托利克",
+      "meaning": "不能忽视圣体会对宫廷自由风气和娱乐的批评。那些天主教……",
+      "suppliedText": "Vous ne pouvez ignorer les critiques de la compagnie du Saint Sacrement contre les meurs libert de la cour et ses divertissement. Les catholiques",
+      "sourceLineId": "moliere-timed-678",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 55,
+        "sourceLineNumber": 678,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Grégoristes qui bénéficient le soutien de madame votre mère attaqueront votre personne à",
+      "start": 62,
+      "ipa": "[ɡʁeɡoʁist ki benefisi lə sutjɛ̃ də madam votʁ mɛʁ‿atakʁɔ̃ votʁ pɛʁsɔn‿a]",
+      "ear": "格赫戈希斯特 基 贝内菲西 勒 苏特耶安 德 玛达姆 沃特赫 梅赫 阿塔克洪 沃特赫 佩赫索恩 阿",
+      "meaning": "严苛派得到您母亲的支持，会攻击您本人……",
+      "suppliedText": "grégoristes qui bénéficient le soutien de madame votre mère attaqueront votre personne à",
+      "sourceLineId": "moliere-timed-679",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 62,
+        "sourceLineNumber": 679,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… De France. Sa Majesté Louis le Grand va rendre…",
+      "start": 70,
+      "ipa": "[də fʁɑ̃s sa maʒɛste lwi lə ɡʁɑ̃ va ʁɑ̃dʁ]",
+      "ear": "德 弗杭斯 萨 玛热斯特 勒乌伊 勒 格杭 瓦 杭德赫",
+      "meaning": "……法国。伟大的路易陛下将作出……（部分识别不清）",
+      "suppliedText": "travers notre coupe de France. Sa majesté Louis le grand va rendre",
+      "sourceLineId": "moliere-timed-680",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 70,
+        "sourceLineNumber": 680,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Sa Majesté Louis le Grand va rendre sa sentence. Monsieur Molière, au nom du roi, en…",
+      "start": 79,
+      "ipa": "[sa maʒɛste lwi lə ɡʁɑ̃ va ʁɑ̃dʁ sa sɑ̃tɑ̃s məsjø moljɛʁ o nɔ̃ dy ʁwa ɑ̃]",
+      "ear": "萨 玛热斯特 勒乌伊 勒 格杭 瓦 杭德赫 萨 桑唐斯 默斯耶厄 莫勒耶艾赫 奥 农 迪于 赫乌阿 昂",
+      "meaning": "伟大的路易陛下将宣判。莫里哀先生，奉国王之名……",
+      "suppliedText": "sa majesté Louis le grand va rendre sa sentence monsieur Mol au nom du roi en",
+      "sourceLineId": "moliere-timed-682",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 79,
+        "sourceLineNumber": 682,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Ce treize mai de l'an mille six cent soixante-quatre, L'Hypocrite est sur-le-champ proscrite et toute…",
+      "start": 86,
+      "ipa": "[sə tʁɛz mɛ də lɑ̃ mil si sɑ̃ swasɑ̃tkatʁ lipɔkʁit‿ɛ syʁləʃɑ̃ pʁɔskʁit e tut]",
+      "ear": "瑟 特赫兹 梅 德 朗 米勒 西 桑 斯乌阿桑特卡特赫 利珀克希特 艾 西于赫勒尚 普霍斯克希特 诶 图特",
+      "meaning": "一六六四年五月十三日，《伪君子》立即被禁，所有……",
+      "suppliedText": "ce 13 mai de l'an 1664 l'hypocrite est sur le champ proscrite et toute",
+      "sourceLineId": "moliere-timed-683",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 86,
+        "sourceLineNumber": 683,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Représentation interdite",
+      "start": 95,
+      "ipa": "[ʁəpʁezɑ̃tasjɔ̃ ɛ̃tɛʁdit]",
+      "ear": "赫普赫赞塔斯耶翁 安泰赫迪特",
+      "meaning": "演出一律禁止。",
+      "suppliedText": "représentation interdite",
+      "sourceLineId": "moliere-timed-684",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 95,
+        "sourceLineNumber": 684,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

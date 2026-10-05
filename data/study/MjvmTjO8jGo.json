@@ -1,0 +1,437 @@
+{
+  "videoId": "MjvmTjO8jGo",
+  "playbackVideoId": "MjvmTjO8jGo",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=MjvmTjO8jGo"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Si tu veux être dans le cou c'est à Paris que tout se joue il faut que tu",
+      "start": 6,
+      "ipa": "[si ty vø ɛtʁ dɑ̃ lə ku sɛt‿a paʁi kə tu sə ʒu il fo kə ty]",
+      "ear": "西 蒂于 弗厄 艾特赫 当 勒 库 塞特 阿 帕希 克 图 瑟 茹 伊勒 佛 克 蒂于",
+      "meaning": "若想赶上潮流，一切都在巴黎发生，你必须……",
+      "suppliedText": "si tu veux être dans le cou c'est à Paris que tout se joue il faut que tu",
+      "sourceLineId": "moliere-timed-463",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 6,
+        "sourceLineNumber": 463,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Suives le trop sans jamais perdre le tempo tu dois soigner ton apparence",
+      "start": 13,
+      "ipa": "[sɥiv lə tʁo sɑ̃ ʒamɛ pɛʁdʁ lə tɑ̃po ty dwa swanje tɔ̃n‿apaʁɑ̃s]",
+      "ear": "斯于伊弗 勒 特霍 桑 扎梅 佩赫德赫 勒 唐波 蒂于 德乌阿 斯乌阿恩耶诶 通恩 阿帕杭斯",
+      "meaning": "跟上脚步，不丢节奏，打理外表……",
+      "suppliedText": "suives le trop sans jamais perdre le tempo tu dois soigner ton apparence",
+      "sourceLineId": "moliere-timed-464",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 13,
+        "sourceLineNumber": 464,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Suivre les dernières tendance sinon tu nes plus à la mode ser",
+      "start": 21,
+      "ipa": "[sɥivʁ le dɛʁnjɛʁ tɑ̃dɑ̃s sinɔ̃ ty n plyz‿a la mɔd sɛʁ]",
+      "ear": "斯于伊弗赫 莱 戴赫恩耶艾赫 唐当斯 西农 蒂于 恩 普吕兹 阿 拉 莫德 塞赫",
+      "meaning": "追随最新潮流，否则就不再时髦……",
+      "suppliedText": "suivre les dernières tendance sinon tu nes plus à la mode ser",
+      "sourceLineId": "moliere-timed-465",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 21,
+        "sourceLineNumber": 465,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Et bien madame que dites-vous de Paris il faudrait être à l'antipode de la raison pour ne pas confesser que Paris est le grand bureau des merveilles le",
+      "start": 30,
+      "ipa": "[e bjɛ̃ madam kə ditvu də paʁi il fodʁɛ ɛtʁ‿a lɑ̃tipɔd də la ʁɛzɔ̃ puʁ nə pa kɔ̃fɛse kə paʁi ɛ lə ɡʁɑ̃ byʁo de mɛʁvɛj lə]",
+      "ear": "诶 布耶安 玛达姆 克 迪特乌 德 帕希 伊勒 佛德赫 艾特赫 阿 朗蒂珀德 德 拉 赫宗 普赫 讷 帕 孔费塞 克 帕希 艾 勒 格杭 比于霍 德 梅赫韦耶 勒",
+      "meaning": "夫人，您觉得巴黎怎样？——若不承认巴黎是奇观的中心，那简直背离理性，它是……",
+      "suppliedText": "et bien madame que dites-vous de Paris il faudrait être à l'antipode de la raison pour ne pas confesser que Paris est le grand bureau des merveilles le",
+      "sourceLineId": "moliere-timed-466",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 30,
+        "sourceLineNumber": 466,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Centre du bon goût du bel esprit et de la galanterie pour moi je tiens que hors de Paris il n'y a point de salut pour les je de genre oh c'est une vérité",
+      "start": 39,
+      "ipa": "[sɑ̃tʁ dy bɔ̃ ɡu dy bɛl‿ɛspʁi e də la ɡalɑ̃tʁi puʁ mwa ʒə tjɛ̃ kə ɔʁ də paʁi il ni a pwɛ̃ də saly puʁ le ʒə də ʒɑ̃ʁ‿ɔ sɛt‿yn veʁite]",
+      "ear": "桑特赫 迪于 崩 古 迪于 贝勒 艾斯普希 诶 德 拉 嘎朗特希 普赫 姆乌阿 热 特耶安 克 哦赫 德 帕希 伊勒 尼 阿 普乌安 德 萨吕 普赫 莱 热 德 让赫 哦 塞特 于恩 韦希特",
+      "meaning": "品位、才智和风雅的中心。对我而言，离开巴黎，有品位的人就无处安身。——这真是……",
+      "suppliedText": "centre du bon goût du bel esprit et de la galanterie pour moi je tiens que hors de Paris il n'y a point de salut pour les je de genre oh c'est une vérité",
+      "sourceLineId": "moliere-timed-467",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 39,
+        "sourceLineNumber": 467,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Incontestable pour être amis dans les salons à la mode il m'a fallu en apprendre les codes le jeu consiste à",
+      "start": 48,
+      "ipa": "[ɛ̃kɔ̃tɛstabl puʁ‿ɛtʁ‿ami dɑ̃ le salɔ̃ a la mɔd‿il ma faly ɑ̃n‿apʁɑ̃dʁ le kod lə ʒø kɔ̃sist‿a]",
+      "ear": "安孔泰斯塔布勒 普赫 艾特赫 阿米 当 莱 萨隆 阿 拉 莫德 伊勒 玛 法吕 昂恩 阿普杭德赫 莱 科德 勒 热厄 孔西斯特 阿",
+      "meaning": "无可争辩。——要进入时髦沙龙，我必须学会规则：用……",
+      "suppliedText": "incontestable pour être amis dans les salons à la mode il m'a fallu en apprendre les codes le jeu consiste à",
+      "sourceLineId": "moliere-timed-468",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 48,
+        "sourceLineNumber": 468,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Prétendre manier le bel esprit dans un langage en poulé mais oui tel sera le sujet de ma nouvelle comédie de Val grim",
+      "start": 55,
+      "ipa": "[pʁetɑ̃dʁ manje lə bɛl‿ɛspʁi dɑ̃ œ̃ lɑ̃ɡaʒ‿ɑ̃ pule mɛ wi tɛl səʁa lə syʒɛ də ma nuvɛl komedi də val ɡʁim]",
+      "ear": "普赫唐德赫 玛恩耶诶 勒 贝勒 艾斯普希 当 恩 朗嘎日 昂 普莱 梅 乌伊 泰勒 瑟哈 勒 西于热 德 玛 努韦勒 科梅迪 德 瓦勒 格希姆",
+      "meaning": "浮夸语言假装才华出众。这就是我新喜剧的题材……",
+      "suppliedText": "prétendre manier le bel esprit dans un langage en poulé mais oui tel sera le sujet de ma nouvelle comédie de Val grim",
+      "sourceLineId": "moliere-timed-469",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 55,
+        "sourceLineNumber": 469,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… En faux marquis, Jodelet et Mascarille se jouent des précieuses…",
+      "start": 64,
+      "ipa": "[ɑ̃ fo maʁki ʒodlɛ e maskaʁij sə ʒw de pʁesjøz]",
+      "ear": "昂 佛 玛赫基 若德莱 诶 玛斯卡希耶 瑟 日乌 德 普赫斯耶厄兹",
+      "meaning": "……乔德莱和马斯卡里耶假扮侯爵，戏弄这些自命风雅的……",
+      "suppliedText": "en faux marquis judelet et mascarie ce jont des précieuses é baah",
+      "sourceLineId": "moliere-timed-470",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 64,
+        "sourceLineNumber": 470,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Ridicule il faut que je vous dise en un promtu que je fis hier chez une duchesse de mes amis car je suis diablement fort",
+      "start": 71,
+      "ipa": "[ʁidikyl‿il fo kə ʒə vu diz‿ɑ̃n‿œ̃ pʁɔ̃ty kə ʒə fi jɛʁ ʃe yn dyʃɛs də mez‿ami kaʁ ʒə sɥi djabləmɑ̃ fɔʁ]",
+      "ear": "希迪基于勒 伊勒 佛 克 热 乌 迪兹 昂恩 恩 普洪蒂于 克 热 菲 耶艾赫 谢 于恩 迪于谢斯 德 梅兹 阿米 卡赫 热 斯于伊 德耶阿布勒芒 佛赫",
+      "meaning": "可笑女人。让我给你们听听昨天在公爵夫人家即兴写的诗，我很擅长……",
+      "suppliedText": "ridicule il faut que je vous dise en un promtu que je fis hier chez une duchesse de mes amis car je suis diablement fort",
+      "sourceLineId": "moliere-timed-471",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 71,
+        "sourceLineNumber": 471,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Sur les Impromptus mais l'imprompttu est justement la pierre de touche de l'esprit ou je n'y prenez pas garde tandis que sans songer à mal je vous",
+      "start": 78,
+      "ipa": "[syʁ lez‿ɛ̃pʁɔ̃pty mɛ lɛ̃pʁɔ̃pty ɛ ʒystmɑ̃ la pjɛʁ də tuʃ də lɛspʁi u ʒə ni pʁəne pa ɡaʁd tɑ̃di kə sɑ̃ sɔ̃ʒe a mal ʒə vu]",
+      "ear": "西于赫 莱兹 安普洪普蒂于 梅 兰普洪普蒂于 艾 日于斯特芒 拉 普耶艾赫 德 图什 德 莱斯普希 乌 热 尼 普赫内 帕 嘎赫德 唐迪 克 桑 松热 阿 玛勒 热 乌",
+      "meaning": "即兴。即兴正是检验才智的试金石。……我无意地看着您……",
+      "suppliedText": "sur les Impromptus mais l'imprompttu est justement la pierre de touche de l'esprit ou je n'y prenez pas garde tandis que sans songer à mal je vous",
+      "sourceLineId": "moliere-timed-472",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 78,
+        "sourceLineNumber": 472,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Regarde V TR tapisois me mon cœur et et malheur bonheur ah j'ai trouvé au trant",
+      "start": 86,
+      "ipa": "[ʁəɡaʁd ve teɛʁ tapizwa mə mɔ̃ kœʁ e e malœʁ bɔnœʁ‿a ʒe tʁuve o tʁɑ̃]",
+      "ear": "赫嘎赫德 韦 特艾赫 塔皮兹乌阿 默 蒙 克厄赫 诶 诶 玛勒厄赫 博讷厄赫 阿 热 特胡韦 奥 特杭",
+      "meaning": "……悄悄偷走我的心……（诗句识别不清）",
+      "suppliedText": "regarde V TR tapisois me mon cœur et et malheur bonheur ah j'ai trouvé au trant",
+      "sourceLineId": "moliere-timed-473",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 86,
+        "sourceLineNumber": 473,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Tapinois mais dobe mon cœur au voleur au voleur au voleur au voleur au voleur au",
+      "start": 94,
+      "ipa": "[tapinwa mɛ dɔb mɔ̃ kœʁ‿o volœʁ‿o volœʁ‿o volœʁ‿o volœʁ‿o volœʁ‿o]",
+      "ear": "塔皮恩乌阿 梅 多布 蒙 克厄赫 奥 沃勒厄赫 奥 沃勒厄赫 奥 沃勒厄赫 奥 沃勒厄赫 奥 沃勒厄赫 奥",
+      "meaning": "……偷走我的心！抓贼，抓贼，抓贼……",
+      "suppliedText": "tapinois mais dobe mon cœur au voleur au voleur au voleur au voleur au voleur au",
+      "sourceLineId": "moliere-timed-474",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 94,
+        "sourceLineNumber": 474,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Voleur cher mon on pourrait en rire si ce texte n'était pas tout simplement scandaleux Florida ne soyez pas inquiet",
+      "start": 103,
+      "ipa": "[volœʁ ʃɛʁ mɔ̃n‿ɔ̃ puʁɛ ɑ̃ ʁiʁ si sə tɛkst netɛ pa tu sɛ̃pləmɑ̃ skɑ̃dalø floʁida nə swaje pa ɛ̃kjɛ]",
+      "ear": "沃勒厄赫 谢赫 蒙恩 翁 普赫 昂 希赫 西 瑟 泰克斯特 内泰 帕 图 森普勒芒 斯康达勒厄 弗洛希达 讷 斯乌阿耶诶 帕 安克耶艾",
+      "meaning": "抓贼。——本可一笑了之，可这文字简直令人震惊。——弗洛里多，别担心……",
+      "suppliedText": "voleur cher mon on pourrait en rire si ce texte n'était pas tout simplement scandaleux Florida ne soyez pas inquiet",
+      "sourceLineId": "moliere-timed-475",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 103,
+        "sourceLineNumber": 475,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "C'est trop cultive sa perte en se moquant des précieux hypocrite dès la première réplique de rire je vous ai vu",
+      "start": 112,
+      "ipa": "[sɛ tʁo kyltiv sa pɛʁt‿ɑ̃ sə mokɑ̃ de pʁesjø ipɔkʁit dɛ la pʁəmjɛʁ ʁeplik də ʁiʁ ʒə vuz‿e vy]",
+      "ear": "塞 特霍 基于勒蒂弗 萨 佩赫特 昂 瑟 莫康 德 普赫斯耶厄 伊珀克希特 戴 拉 普赫姆耶艾赫 赫普利克 德 希赫 热 乌兹 诶 维于",
+      "meaning": "嘲笑那些伪善的雅士，会让这剧团自取灭亡。——第一句台词起，您就笑得……",
+      "suppliedText": "c'est trop cultive sa perte en se moquant des précieux hypocrite dès la première réplique de rire je vous ai vu",
+      "sourceLineId": "moliere-timed-476",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 112,
+        "sourceLineNumber": 476,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Vous étouffer Molière à ce que vous n'aurez jamais l'intelligence du cœur et du trait qui est cet illuminé qui ose",
+      "start": 120,
+      "ipa": "[vuz‿etufe moljɛʁ‿a sə kə vu noʁe ʒamɛ lɛ̃tɛliʒɑ̃s dy kœʁ e dy tʁɛ ki ɛ sɛt‿ilymine ki ɔz]",
+      "ear": "乌兹 诶图费 莫勒耶艾赫 阿 瑟 克 乌 诺赫 扎梅 兰泰利让斯 迪于 克厄赫 诶 迪于 特赫 基 艾 塞特 伊吕米内 基 哦兹",
+      "meaning": "快喘不过气。莫里哀拥有您永远没有的东西：心灵和机智。——谁竟敢……",
+      "suppliedText": "vous étouffer Molière à ce que vous n'aurez jamais l'intelligence du cœur et du trait qui est cet illuminé qui ose",
+      "sourceLineId": "moliere-timed-477",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 120,
+        "sourceLineNumber": 477,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Nous insulter ? Jean Poquelin, maître tapissier et père de l'auteur que vous dénigrez. Monsieur le tapissier, nous ne…",
+      "start": 126,
+      "ipa": "[nuz‿ɛ̃sylte ʒɑ̃ poklɛ̃ mɛtʁ tapisje e pɛʁ də lotœʁ kə vu deniɡʁe məsjø lə tapisje nu nə]",
+      "ear": "努兹 安西于勒特 让 波克兰 梅特赫 塔皮斯耶诶 诶 佩赫 德 洛特厄赫 克 乌 德尼格赫 默斯耶厄 勒 塔皮斯耶诶 努 讷",
+      "meaning": "侮辱我们？——让·波克兰，挂毯师，也是被你们贬低的作者的父亲。——挂毯师先生，我们……",
+      "suppliedText": "nous insulter Jean paucelin maître tapissier et père de l'auteur que vous dénigrez monsieur le tapissier nous ne",
+      "sourceLineId": "moliere-timed-478",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 126,
+        "sourceLineNumber": 478,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Sommes pas du même monde Floridor allons quel beau succès quelle belle première de votre fils vous devez être",
+      "start": 135,
+      "ipa": "[sɔm pa dy mɛm mɔ̃d floʁidɔʁ‿alɔ̃ kɛl bo syksɛ kɛl bɛl pʁəmjɛʁ də votʁ fis vu dəve ɛtʁ]",
+      "ear": "索姆 帕 迪于 梅姆 蒙德 弗洛希多赫 阿隆 凯勒 博 西于克塞 凯勒 贝勒 普赫姆耶艾赫 德 沃特赫 菲斯 乌 德韦 艾特赫",
+      "meaning": "不属于同一个世界。弗洛里多，走吧。——多成功的首演，您一定为儿子……",
+      "suppliedText": "sommes pas du même monde Floridor allons quel beau succès quelle belle première de votre fils vous devez être",
+      "sourceLineId": "moliere-timed-479",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 135,
+        "sourceLineNumber": 479,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Fier je ne souhaite pas vous parler Madeleine pardonnez-moi d'être sincère mais c'est vous qui aveztour est mon fils de mes affaires je vous ai vu",
+      "start": 144,
+      "ipa": "[fjɛʁ ʒə nə suɛt pa vu paʁle madlɛn paʁdɔnemwa dɛtʁ sɛ̃sɛʁ mɛ sɛ vu ki avɛztuʁ‿ɛ mɔ̃ fis də mez‿afɛʁ ʒə vuz‿e vy]",
+      "ear": "弗耶艾赫 热 讷 苏艾特 帕 乌 帕赫莱 玛德莱恩 帕赫多内姆乌阿 戴特赫 森塞赫 梅 塞 乌 基 阿韦兹图赫 艾 蒙 菲斯 德 梅兹 阿费赫 热 乌兹 诶 维于",
+      "meaning": "骄傲。——我不想和您说话，玛德莱娜。恕我直言，是您让儿子偏离了我的事业。——我见您……",
+      "suppliedText": "fier je ne souhaite pas vous parler Madeleine pardonnez-moi d'être sincère mais c'est vous qui aveztour est mon fils de mes affaires je vous ai vu",
+      "sourceLineId": "moliere-timed-480",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 144,
+        "sourceLineNumber": 480,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Là-bas rire comme un enfant je vous ai vu aussi au moment des applaudissements tellement fiers que les lambes mouillit",
+      "start": 151,
+      "ipa": "[laba ʁiʁ kɔm‿œ̃n‿ɑ̃fɑ̃ ʒə vuz‿e vy osi o momɑ̃ dez‿aplodismɑ̃ tɛlmɑ̃ fjɛʁ kə le lɑ̃b muji]",
+      "ear": "拉巴 希赫 科姆 恩恩 昂芳 热 乌兹 诶 维于 奥西 奥 莫芒 德兹 阿普洛迪斯芒 泰勒芒 弗耶艾赫 克 莱 朗布 穆耶伊",
+      "meaning": "笑得像孩子，谢幕鼓掌时，又骄傲得热泪……",
+      "suppliedText": "là-bas rire comme un enfant je vous ai vu aussi au moment des applaudissements tellement fiers que les lambes mouillit",
+      "sourceLineId": "moliere-timed-481",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 151,
+        "sourceLineNumber": 481,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Vos yeux allez le dire à votre fils il en serait tellement heureux au revoir madame Béjard le voilà le voilà votre Majesté cette pièce est une",
+      "start": 158,
+      "ipa": "[voz‿jø ale lə diʁ‿a votʁ fis‿il‿ɑ̃ səʁɛ tɛlmɑ̃ øʁø o ʁəvwaʁ madam beʒaʁ lə vwala lə vwala votʁ maʒɛste sɛt pjɛs‿ɛt‿yn]",
+      "ear": "沃兹 耶厄 阿莱 勒 迪赫 阿 沃特赫 菲斯 伊勒 昂 瑟赫 泰勒芒 厄赫厄 奥 赫弗乌阿赫 玛达姆 贝扎赫 勒 弗乌阿拉 勒 弗乌阿拉 沃特赫 玛热斯特 塞特 普耶艾斯 艾特 于恩",
+      "meaning": "盈眶。去告诉儿子吧，他会很高兴。——再见，贝雅尔夫人。——陛下，这出戏……",
+      "suppliedText": "vos yeux allez le dire à votre fils il en serait tellement heureux au revoir madame Béjard le voilà le voilà votre Majesté cette pièce est une",
+      "sourceLineId": "moliere-timed-482",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 158,
+        "sourceLineNumber": 482,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Insulte de ce Molière ! Il se moque de nos valeurs et de nos bonnes manières. Nous devons l'interdire pour nous faire respecter. Les Précieuses ridicules doivent…",
+      "start": 167,
+      "ipa": "[ɛ̃sylt də sə moljɛʁ il sə mok də no valœʁ e də no bɔn manjɛʁ nu dəvɔ̃ lɛ̃tɛʁdiʁ puʁ nu fɛʁ ʁɛspɛkte le pʁesjøz ʁidikyl dwav]",
+      "ear": "安西于勒特 德 瑟 莫勒耶艾赫 伊勒 瑟 莫克 德 诺 瓦勒厄赫 诶 德 诺 博恩 玛恩耶艾赫 努 德翁 兰泰赫迪赫 普赫 努 费赫 赫斯佩克特 莱 普赫斯耶厄兹 希迪基于勒 德乌阿弗",
+      "meaning": "侮辱我们！莫里哀嘲笑我们的价值和礼仪，必须禁演《可笑的女才子》，才能维护尊严……",
+      "suppliedText": "insulte de ce Molière il se moque de nos valeurs et de nos bonnes manières nous devons l'interdire pour nous faire respés les Précieuses ridicules doivent",
+      "sourceLineId": "moliere-timed-483",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 167,
+        "sourceLineNumber": 483,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Être censurés les Précieuses ridicules mais qu Jol tire vousz votre place à faire le",
+      "start": 176,
+      "ipa": "[ɛtʁ sɑ̃syʁe le pʁesjøz ʁidikyl mɛ k ʒɔl tiʁ vusz votʁ plas‿a fɛʁ lə]",
+      "ear": "艾特赫 桑西于赫 莱 普赫斯耶厄兹 希迪基于勒 梅 克 若勒 蒂赫 乌斯兹 沃特赫 普拉斯 阿 费赫 勒",
+      "meaning": "禁演？《可笑的女才子》？多有趣的标题……（后半段识别不清）",
+      "suppliedText": "être censurés les Précieuses ridicules mais qu Jol tire vousz votre place à faire le",
+      "sourceLineId": "moliere-timed-484",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 176,
+        "sourceLineNumber": 484,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pitre ce jour il faut que tu su le TR",
+      "start": 187,
+      "ipa": "[pitʁ sə ʒuʁ‿il fo kə ty sy lə teɛʁ]",
+      "ear": "皮特赫 瑟 茹赫 伊勒 佛 克 蒂于 西于 勒 特艾赫",
+      "meaning": "……你必须跟上……（部分识别不清）",
+      "suppliedText": "pitre ce jour il faut que tu su le TR",
+      "sourceLineId": "moliere-timed-486",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 187,
+        "sourceLineNumber": 486,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Sans jamais le ture dans le cou t",
+      "start": 192,
+      "ipa": "[sɑ̃ ʒamɛ lə tyʁ dɑ̃ lə ku te]",
+      "ear": "桑 扎梅 勒 蒂于赫 当 勒 库 特",
+      "meaning": "……紧跟潮流……（识别不清）",
+      "suppliedText": "sans jamais le ture dans le cou t",
+      "sourceLineId": "moliere-timed-487",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 192,
+        "sourceLineNumber": 487,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Jour tu suis le TR sans jamais perdre le temp soign ton",
+      "start": 201,
+      "ipa": "[ʒuʁ ty sɥi lə teɛʁ sɑ̃ ʒamɛ pɛʁdʁ lə tɑ̃p swaɲ tɔ̃]",
+      "ear": "茹赫 蒂于 斯于伊 勒 特艾赫 桑 扎梅 佩赫德赫 勒 唐普 斯乌阿涅 通",
+      "meaning": "……跟上脚步，不丢节奏，打理你的……",
+      "suppliedText": "jour tu suis le TR sans jamais perdre le temp soign ton",
+      "sourceLineId": "moliere-timed-488",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 201,
+        "sourceLineNumber": 488,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Regarde ça c'est pas",
+      "start": 217,
+      "ipa": "[ʁəɡaʁd sa sɛ pa]",
+      "ear": "赫嘎赫德 萨 塞 帕",
+      "meaning": "看，这可不是……",
+      "suppliedText": "regarde ça c'est pas",
+      "sourceLineId": "moliere-timed-490",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 217,
+        "sourceLineNumber": 490,
+        "precision": "approximate"
+      }
+    }
+  ]
+}

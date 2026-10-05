@@ -10,14 +10,75 @@
   "musicalId": "moliere",
   "trackNumber": 33,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "… Louis le Grand va rendre sa sentence… Louis…",
+      "start": 10,
+      "duration": 8
+    },
+    {
+      "text": "Grand va rendre sa anz le roi en toute équité et par grande charité pour votre",
+      "start": 18,
+      "duration": 7
+    },
+    {
+      "text": "Défense est disposée à vous écouter si le devoir voir de la comédie et de corriger les hommes en les divertissant,",
+      "start": 25,
+      "duration": 8
+    },
+    {
+      "text": "D'attaquer par des peintures ridicules les vices de mon siècle. J'avais, Sire, la pensée que je rendrais service à tous les honnêtes gens si je faisais une comédie…",
+      "start": 33,
+      "duration": 7
+    },
+    {
+      "text": "Qui décria les hypocrites. Cependant, toutes mes précautions ont été veines.",
+      "start": 40,
+      "duration": 5
+    },
+    {
+      "text": "Les tartues sous mains veulent trouver grâce auprès de votre majesté. Les rois éclairés savent mieux que nous ce qu'ils doivent accorder. Et j'attends de votre majesté ce qui lui plaira d'ordonner.",
+      "start": 45,
+      "duration": 10
+    },
+    {
+      "text": "Vous ne pouvez ignorer les critiques de la compagnie du Saint Sacrement contre les meurs libert de la cour et ses divertissement. Les catholiques",
+      "start": 55,
+      "duration": 7
+    },
+    {
+      "text": "Grégoristes qui bénéficient le soutien de madame votre mère attaqueront votre personne à",
+      "start": 62,
+      "duration": 8
+    },
+    {
+      "text": "… De France. Sa Majesté Louis le Grand va rendre…",
+      "start": 70,
+      "duration": 6
+    },
+    {
+      "text": "Sa Majesté Louis le Grand va rendre sa sentence. Monsieur Molière, au nom du roi, en…",
+      "start": 79,
+      "duration": 7
+    },
+    {
+      "text": "Ce treize mai de l'an mille six cent soixante-quatre, L'Hypocrite est sur-le-champ proscrite et toute…",
+      "start": 86,
+      "duration": 9
+    },
+    {
+      "text": "Représentation interdite",
+      "start": 95,
+      "duration": 3
+    }
+  ],
   "playbackVideoId": "f7QZzmsnf7E",
   "sourceURL": "https://www.youtube.com/watch?v=f7QZzmsnf7E",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=f7QZzmsnf7E",
@@ -88,10 +149,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250329",
   "productionYear": 2023,
@@ -160,5 +221,82 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 671,
+      "start": 6,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 672,
+      "start": 10,
+      "text": "notre saou le grand va rendre sa sentence brave notre pour de saoui le"
+    },
+    {
+      "sourceLine": 673,
+      "start": 18,
+      "text": "grand va rendre sa anz le roi en toute équité et par grande charité pour votre"
+    },
+    {
+      "sourceLine": 674,
+      "start": 25,
+      "text": "défense est disposée à vous écouter si le devoir voir de la comédie et de corriger les hommes en les divertissant,"
+    },
+    {
+      "sourceLine": 675,
+      "start": 33,
+      "text": "d'attaquer par des peintures ridicules les vis de mon siècle. J'avais sir la pensée que je rendrai service à tous les honnêtes gens si je faisais une comédie"
+    },
+    {
+      "sourceLine": 676,
+      "start": 40,
+      "text": "qui décria les hypocrites. Cependant, toutes mes précautions ont été veines."
+    },
+    {
+      "sourceLine": 677,
+      "start": 45,
+      "text": "Les tartues sous mains veulent trouver grâce auprès de votre majesté. Les rois éclairés savent mieux que nous ce qu'ils doivent accorder. Et j'attends de votre majesté ce qui lui plaira d'ordonner."
+    },
+    {
+      "sourceLine": 678,
+      "start": 55,
+      "text": "Vous ne pouvez ignorer les critiques de la compagnie du Saint Sacrement contre les meurs libert de la cour et ses divertissement. Les catholiques"
+    },
+    {
+      "sourceLine": 679,
+      "start": 62,
+      "text": "grégoristes qui bénéficient le soutien de madame votre mère attaqueront votre personne à"
+    },
+    {
+      "sourceLine": 680,
+      "start": 70,
+      "text": "travers notre coupe de France. Sa majesté Louis le grand va rendre"
+    },
+    {
+      "sourceLine": 681,
+      "start": 76,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 682,
+      "start": 79,
+      "text": "sa majesté Louis le grand va rendre sa sentence monsieur Mol au nom du roi en"
+    },
+    {
+      "sourceLine": 683,
+      "start": 86,
+      "text": "ce 13 mai de l'an 1664 l'hypocrite est sur le champ proscrite et toute"
+    },
+    {
+      "sourceLine": 684,
+      "start": 95,
+      "text": "représentation interdite"
+    }
+  ]
 }

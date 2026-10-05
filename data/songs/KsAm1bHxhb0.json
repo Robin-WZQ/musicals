@@ -10,14 +10,100 @@
   "musicalId": "moliere",
   "trackNumber": 29,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "La querelle de L'École des femmes n'a pas cessé. Jean-Baptiste Poquelin était de partout dénoncé, mais il restait indifférent aux accusations qu'on lui…",
+      "start": 5,
+      "duration": 8
+    },
+    {
+      "text": "Portait. Seuls Armande et l'enfant qu'elle portait lui importaient. Les mois passaient, Armande devenait de plus en plus ronde… de bonheur et impatiente de mettre son…",
+      "start": 13,
+      "duration": 8
+    },
+    {
+      "text": "Enfant au monde à présent c'est une question d'heure de minutes ou de secondes et nous sommes tous là autour d'elle att moi qui pensais que le",
+      "start": 21,
+      "duration": 10
+    },
+    {
+      "text": "Meur se trouver quelque part ailleurs tapé dans les plus haut",
+      "start": 31,
+      "duration": 11
+    },
+    {
+      "text": "Sommet que l'on atteint un coup de succès j'ai longtemps cherché je n'ai",
+      "start": 42,
+      "duration": 10
+    },
+    {
+      "text": "Rien trouvé je l'avais peut-être raté",
+      "start": 52,
+      "duration": 8
+    },
+    {
+      "text": "Alors je m'étais dit que le",
+      "start": 60,
+      "duration": 3
+    },
+    {
+      "text": "Bonheur r mais avec Hur splendeur qu'il avait la saveur des",
+      "start": 64,
+      "duration": 11
+    },
+    {
+      "text": "Trophées qui donne la sensation",
+      "start": 75,
+      "duration": 3
+    },
+    {
+      "text": "D'exister j'ai encore cherché toujours rien",
+      "start": 80,
+      "duration": 6
+    },
+    {
+      "text": "Trouvé je l'avais sûrement",
+      "start": 86,
+      "duration": 6
+    },
+    {
+      "text": "Manqué. C'est ici et maintenant, ici et maintenant, ici et maintenant, ici et…",
+      "start": 92,
+      "duration": 11
+    },
+    {
+      "text": "Maintenant sourire de cet enfant cet enfant qui n'a pas choisi de mêre ici et",
+      "start": 103,
+      "duration": 10
+    },
+    {
+      "text": "Aujourd'hui. C'est ici et maintenant, ici et maintenant…",
+      "start": 113,
+      "duration": 7
+    },
+    {
+      "text": "Ici et maintenant, ici et maintenant… Innocent…",
+      "start": 120,
+      "duration": 8
+    },
+    {
+      "text": "Pousse son premier cri pour célébrer la",
+      "start": 128,
+      "duration": 8
+    },
+    {
+      "text": "Vie ici et maintenant",
+      "start": 136,
+      "duration": 3
+    }
+  ],
   "playbackVideoId": "KsAm1bHxhb0",
   "sourceURL": "https://www.youtube.com/watch?v=KsAm1bHxhb0",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=KsAm1bHxhb0",
@@ -120,10 +206,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250316",
   "productionYear": 2023,
@@ -224,5 +310,122 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 587,
+      "start": 0,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 588,
+      "start": 1,
+      "text": "[Applaudissements]"
+    },
+    {
+      "sourceLine": 589,
+      "start": 5,
+      "text": "la querelle de L'École des femmes n'a pas cessé Jean-Baptiste Poquelin était de partout dénoncé mais il restait indifférent aux accusations qu'on lui"
+    },
+    {
+      "sourceLine": 590,
+      "start": 13,
+      "text": "portait seul Armande et l'enfant qu'elle portait l'importait les mois passé Armand de Ven de plus en plus ronde vol de bonheur et impatient de mettre son"
+    },
+    {
+      "sourceLine": 591,
+      "start": 21,
+      "text": "enfant au monde à présent c'est une question d'heure de minutes ou de secondes et nous sommes tous là autour d'elle att moi qui pensais que le"
+    },
+    {
+      "sourceLine": 592,
+      "start": 31,
+      "text": "Meur se trouver quelque part ailleurs tapé dans les plus haut"
+    },
+    {
+      "sourceLine": 593,
+      "start": 42,
+      "text": "sommet que l'on atteint un coup de succès j'ai longtemps cherché je n'ai"
+    },
+    {
+      "sourceLine": 594,
+      "start": 52,
+      "text": "rien trouvé je l'avais peut-être raté"
+    },
+    {
+      "sourceLine": 595,
+      "start": 60,
+      "text": "alors je m'étais dit que le"
+    },
+    {
+      "sourceLine": 596,
+      "start": 63,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 597,
+      "start": 64,
+      "text": "bonheur r mais avec Hur splendeur qu'il avait la saveur des"
+    },
+    {
+      "sourceLine": 598,
+      "start": 75,
+      "text": "trophées qui donne la sensation"
+    },
+    {
+      "sourceLine": 599,
+      "start": 78,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 600,
+      "start": 80,
+      "text": "d'exister j'ai encore cherché toujours rien"
+    },
+    {
+      "sourceLine": 601,
+      "start": 86,
+      "text": "trouvé je l'avais sûrement"
+    },
+    {
+      "sourceLine": 602,
+      "start": 92,
+      "text": "manqué c'est ici et maintenant ici est maintenant ici et maintenant ici et"
+    },
+    {
+      "sourceLine": 603,
+      "start": 103,
+      "text": "maintenant sourire de cet enfant cet enfant qui n'a pas choisi de mêre ici et"
+    },
+    {
+      "sourceLine": 604,
+      "start": 113,
+      "text": "aujourd'hui c'est ici est M ici est M N"
+    },
+    {
+      "sourceLine": 605,
+      "start": 120,
+      "text": "ici est maintenant ici est maintenant Dieu de innocent inocent qui"
+    },
+    {
+      "sourceLine": 606,
+      "start": 128,
+      "text": "pousse son premier cri pour célébrer la"
+    },
+    {
+      "sourceLine": 607,
+      "start": 136,
+      "text": "vie ici et maintenant"
+    },
+    {
+      "sourceLine": 608,
+      "start": 139,
+      "text": "[Musique]"
+    }
+  ]
 }

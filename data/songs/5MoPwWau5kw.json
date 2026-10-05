@@ -10,14 +10,130 @@
   "musicalId": "moliere",
   "trackNumber": 17,
   "act": 1,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "C'est vrai j'ai des problèmes des défauts par centaines je n'ai pas le sens de vos valeur humaine moi je suis comme la vie je fais jamais de cadeau je",
+      "start": 10,
+      "duration": 10
+    },
+    {
+      "text": "Sais que c'est pas joli, mais moi non plus je ne suis pas… Je m'en fiche, on me déteste. Personne jamais ne m'aimera…",
+      "start": 20,
+      "duration": 7
+    },
+    {
+      "text": "Moins que moi t dé jeux la testa mais il me reste ce que vous voyez pas",
+      "start": 27,
+      "duration": 9
+    },
+    {
+      "text": "Regardez-moi, ne vous détournez pas. L'indifférence a le regard…",
+      "start": 36,
+      "duration": 6
+    },
+    {
+      "text": "Qui tue… Regardez-moi, oui, mais…",
+      "start": 42,
+      "duration": 7
+    },
+    {
+      "text": "Déshabillez-moi… Mon âme… la lumière. Je suis votre mauvais côté, tout…",
+      "start": 51,
+      "duration": 9
+    },
+    {
+      "text": "Ce que vous n'osez pas. J'ai perdu ma bonté, mais je ne suis pas né comme ça. Tout ce que je fais, c'est moche, mais le monde est plus laid que moi. Faut que je vide…",
+      "start": 60,
+      "duration": 8
+    },
+    {
+      "text": "Mes poches pour racheter mes faux pas par ex j'emp faut pas la peine moi la peine je la porte déjà les démons qui me",
+      "start": 68,
+      "duration": 9
+    },
+    {
+      "text": "Malmènent qui me ramènent à ce que je ne veux pas regardez-moi ne vous",
+      "start": 77,
+      "duration": 8
+    },
+    {
+      "text": "Détournez pas. L'indifférence a le regard qui tue…",
+      "start": 85,
+      "duration": 7
+    },
+    {
+      "text": "… Regardez-moi, oui, mais… Mon âme… à retrouver…",
+      "start": 92,
+      "duration": 11
+    },
+    {
+      "text": "Ta lumière tout ce folie c'est notre dernière danse on est finie de C nuit",
+      "start": 103,
+      "duration": 7
+    },
+    {
+      "text": "… Car aujourd'hui je tire ma révérence. Je n'ai plus besoin de toi, toi…",
+      "start": 110,
+      "duration": 7
+    },
+    {
+      "text": "Ma folie rends-moi mon innocence moi l'envie et de ma vie le sens tu m'as promis un jour ma délivrant je n'ai plus",
+      "start": 117,
+      "duration": 9
+    },
+    {
+      "text": "Besoin de toi regardez-moi non ne vous détournez pas",
+      "start": 126,
+      "duration": 8
+    },
+    {
+      "text": "L'indifférence a le regard qui tue… Regardez-moi…",
+      "start": 134,
+      "duration": 8
+    },
+    {
+      "text": "Oui, mais… Mon âme… à…",
+      "start": 142,
+      "duration": 7
+    },
+    {
+      "text": "Retrouver la",
+      "start": 149,
+      "duration": 14
+    },
+    {
+      "text": "Lumière au nom du Père du Fils et du Saint-Esprit nous vous accueillons",
+      "start": 163,
+      "duration": 7
+    },
+    {
+      "text": "Aujourd'hui pour votre profession de foi catholique radicale. J'accepte humblement et de tout cœur la foi catholique…",
+      "start": 170,
+      "duration": 7
+    },
+    {
+      "text": "Radicale et je m'engage à vivre ma vie en conformité avec les enseignements et les précepts de l'Église",
+      "start": 177,
+      "duration": 9
+    },
+    {
+      "text": "Catholique. Regardez-moi, oui, mais déshabillez-moi… Mon âme… à…",
+      "start": 186,
+      "duration": 10
+    },
+    {
+      "text": "Retrouvé ta lumière",
+      "start": 196,
+      "duration": 4
+    }
+  ],
   "playbackVideoId": "5MoPwWau5kw",
   "sourceURL": "https://www.youtube.com/watch?v=5MoPwWau5kw",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=5MoPwWau5kw",
@@ -140,10 +256,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250310",
   "productionYear": 2023,
@@ -264,5 +380,147 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 321,
+      "start": 4,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 322,
+      "start": 9,
+      "text": "[Applaudissements]"
+    },
+    {
+      "sourceLine": 323,
+      "start": 10,
+      "text": "c'est vrai j'ai des problèmes des défauts par centaines je n'ai pas le sens de vos valeur humaine moi je suis comme la vie je fais jamais de cadeau je"
+    },
+    {
+      "sourceLine": 324,
+      "start": 20,
+      "text": "sais que c'est pas joli mais moi non plus je suis pas pour je m'f on me déteste personne jamais ne m'aimera"
+    },
+    {
+      "sourceLine": 325,
+      "start": 27,
+      "text": "moins que moi t dé jeux la testa mais il me reste ce que vous voyez pas"
+    },
+    {
+      "sourceLine": 326,
+      "start": 36,
+      "text": "regardez-moi ne vous détournez pas l'indifférence à le regard"
+    },
+    {
+      "sourceLine": 327,
+      "start": 42,
+      "text": "qui tu es l'alarme et la manière à regardez-moi oui mais"
+    },
+    {
+      "sourceLine": 328,
+      "start": 49,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 329,
+      "start": 51,
+      "text": "dapz-moi tes vêtu mon âme ses vertue àou la lumière jeis votre mauvais côté tout"
+    },
+    {
+      "sourceLine": 330,
+      "start": 60,
+      "text": "ce que vous n'osez pas j'ai perdu ma bonté mais je suis pas né comme ça tout ce que je fais c'est moche mais le monde est plus lait que moi faut que je vis"
+    },
+    {
+      "sourceLine": 331,
+      "start": 68,
+      "text": "mes poches pour racheter mes faux pas par ex j'emp faut pas la peine moi la peine je la porte déjà les démons qui me"
+    },
+    {
+      "sourceLine": 332,
+      "start": 77,
+      "text": "malmènent qui me ramènent à ce que je ne veux pas regardez-moi ne vous"
+    },
+    {
+      "sourceLine": 333,
+      "start": 85,
+      "text": "détournez pas l'indifférence à le regard qui et tu es l'alarme et la"
+    },
+    {
+      "sourceLine": 334,
+      "start": 92,
+      "text": "manière regardez-moi oui mais çai tu vêtu mon âme s vertu à retrouveré"
+    },
+    {
+      "sourceLine": 335,
+      "start": 103,
+      "text": "ta lumière tout ce folie c'est notre dernière danse on est finie de C nuit"
+    },
+    {
+      "sourceLine": 336,
+      "start": 110,
+      "text": "d'ind desence car aujourd'hui je tire ma révérence je n'ai plus besoin de toi toi"
+    },
+    {
+      "sourceLine": 337,
+      "start": 117,
+      "text": "ma folie rends-moi mon innocence moi l'envie et de ma vie le sens tu m'as promis un jour ma délivrant je n'ai plus"
+    },
+    {
+      "sourceLine": 338,
+      "start": 126,
+      "text": "besoin de toi regardez-moi non ne vous détournez pas"
+    },
+    {
+      "sourceLine": 339,
+      "start": 134,
+      "text": "l' indifférence à le regard qui tu l'alarme et la manière regardez-moi"
+    },
+    {
+      "sourceLine": 340,
+      "start": 142,
+      "text": "oui mais moi t vêtu mon âme ses vert à"
+    },
+    {
+      "sourceLine": 341,
+      "start": 149,
+      "text": "retrouver la"
+    },
+    {
+      "sourceLine": 342,
+      "start": 163,
+      "text": "lumière au nom du Père du Fils et du Saint-Esprit nous vous accueillons"
+    },
+    {
+      "sourceLine": 343,
+      "start": 170,
+      "text": "aujourd'hui pour votre profession de foi catholique radical j'accepte humblement et de tout cœur la foi catholique"
+    },
+    {
+      "sourceLine": 344,
+      "start": 177,
+      "text": "radicale et je m'engage à vivre ma vie en conformité avec les enseignements et les précepts de l'Église"
+    },
+    {
+      "sourceLine": 345,
+      "start": 186,
+      "text": "catholique regardez-moi oui mais désabz-moi t vêtu mon âme s vertue à"
+    },
+    {
+      "sourceLine": 346,
+      "start": 196,
+      "text": "retrouvé ta lumière"
+    },
+    {
+      "sourceLine": 347,
+      "start": 200,
+      "text": "[Applaudissements]"
+    }
+  ]
 }

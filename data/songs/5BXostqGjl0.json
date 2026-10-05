@@ -10,14 +10,95 @@
   "musicalId": "moliere",
   "trackNumber": 42,
   "act": 2,
-  "captionStatus": "native",
+  "captionStatus": "ready",
   "captionLanguage": "fr",
-  "captionSource": "youtube-player",
-  "captionDelivery": "youtube-player",
+  "captionSource": "editorial",
+  "captionDelivery": "study-page",
   "nativeCaptionAvailable": true,
-  "isGenerated": true,
-  "lyricsStorage": "external",
-  "cues": [],
+  "isGenerated": false,
+  "lyricsStorage": "user-provided",
+  "cues": [
+    {
+      "text": "T'avoir oublié, je te demande pardon. Je ne t'ai plus offert ces derniers temps.",
+      "start": 4,
+      "duration": 8
+    },
+    {
+      "text": "Pas un seul rôle à la mesure de ton talent. Tu ne lui as pas demandé pardon.",
+      "start": 12,
+      "duration": 9
+    },
+    {
+      "text": "Ces rôles tu les as offèr à mon enfant et arm le mérite",
+      "start": 23,
+      "duration": 7
+    },
+    {
+      "text": "Templement. Je n'éprouve envers vous aucun ressentiment mais il ne t'a pas",
+      "start": 30,
+      "duration": 6
+    },
+    {
+      "text": "Demandé pardon. Il est trop tard. Je suis désolé il est bien trop tard. Aucun",
+      "start": 36,
+      "duration": 9
+    },
+    {
+      "text": "Regret. Tu avais pourtant tout le temps mais à présent il est trop tard pour demander pardon.",
+      "start": 45,
+      "duration": 13
+    },
+    {
+      "text": "Et ton père tu lui as jamais demandé pardon. Toute ma vie j'ai pas dû le faire pour réussir afin de lui plaire.",
+      "start": 58,
+      "duration": 10
+    },
+    {
+      "text": "J'aurais tant aimé le rendre fier. Oui, mais jamais le moindre pardon. Sache mon",
+      "start": 68,
+      "duration": 9
+    },
+    {
+      "text": "Enfant que tu m'as rendu fier mais mon orgueil m'obligeait à me taire. Oui, je",
+      "start": 77,
+      "duration": 7
+    },
+    {
+      "text": "Sais bien que tu en as souffert. Il n'est pas un seul pardon,",
+      "start": 84,
+      "duration": 7
+    },
+    {
+      "text": "Il est trop tard. Je suis désolé, il est bien trop tard. J'aurais tant aimé",
+      "start": 91,
+      "duration": 8
+    },
+    {
+      "text": "Avec tout le temps mais à présent il est trop",
+      "start": 99,
+      "duration": 7
+    },
+    {
+      "text": "Tard pour demander pardon. Et Armande ? Elle m'a délaissé. Oui, pauvre amant, elle m'a abandonné.",
+      "start": 106,
+      "duration": 12
+    },
+    {
+      "text": "C'est une femme blessée qui n'a jamais cessé de",
+      "start": 118,
+      "duration": 9
+    },
+    {
+      "text": "T'aimer. Que fais-tu ? Je peux pas partir avec eux. Ils ne sont pas réels. Ils sont le fruit de mon imagination.",
+      "start": 134,
+      "duration": 7
+    },
+    {
+      "text": "Enfin, monsieur. À qui parlez-vous encore ? Il n'y a personne.",
+      "start": 141,
+      "duration": 8
+    }
+  ],
   "playbackVideoId": "5BXostqGjl0",
   "sourceURL": "https://www.youtube.com/watch?v=5BXostqGjl0",
   "fullPerformanceURL": "https://www.youtube.com/watch?v=5BXostqGjl0",
@@ -112,10 +193,10 @@
   "nativeTimingSource": "user-supplied-time-caption",
   "nativeTimingLanguage": "fr",
   "nativeTimingPrecision": "seconds-next-start",
-  "timingReviewStatus": "user-supplied-timestamps",
-  "textReviewStatus": "unreviewed-native-auto",
+  "timingReviewStatus": "approximate",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
   "phoneticReviewStatus": "not-generated",
-  "studyKind": "native-caption-session",
+  "studyKind": "four-layer",
   "mediaKind": "stage-video",
   "uploadDate": "20250330",
   "productionYear": 2023,
@@ -208,5 +289,112 @@
   "nativeTimingInput": {
     "file": "time-caption.txt",
     "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
-  }
+  },
+  "studyVersion": 1,
+  "studyInput": {
+    "file": "time-caption.txt",
+    "sha256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55"
+  },
+  "suppliedCaptionBlocks": [
+    {
+      "sourceLine": 829,
+      "start": 0,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 830,
+      "start": 4,
+      "text": "T'avoir oublié, je te demande pardon. Je ne t'ai plus offert ces derniers temps."
+    },
+    {
+      "sourceLine": 831,
+      "start": 12,
+      "text": "Pas un seul rôle à la mesure de ton talent. Tu ne lui as pas demandé pardon."
+    },
+    {
+      "sourceLine": 832,
+      "start": 21,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 833,
+      "start": 23,
+      "text": "Ces rôles tu les as offèr à mon enfant et arm le mérite"
+    },
+    {
+      "sourceLine": 834,
+      "start": 30,
+      "text": "templement. Je n'éprouve envers vous aucun ressentiment mais il ne t'a pas"
+    },
+    {
+      "sourceLine": 835,
+      "start": 36,
+      "text": "demandé pardon. Il est trop tard. Je suis désolé il est bien trop tard. Aucun"
+    },
+    {
+      "sourceLine": 836,
+      "start": 45,
+      "text": "regret. Tu avais pourtant tout le temps mais à présent il est trop tard pour demander pardon."
+    },
+    {
+      "sourceLine": 837,
+      "start": 58,
+      "text": "Et ton père tu lui as jamais demandé pardon. Toute ma vie j'ai pas dû le faire pour réussir afin de lui plaire."
+    },
+    {
+      "sourceLine": 838,
+      "start": 68,
+      "text": "J'aurais tant aimé le rendre fier. Oui, mais jamais le moindre pardon. Sache mon"
+    },
+    {
+      "sourceLine": 839,
+      "start": 77,
+      "text": "enfant que tu m'as rendu fier mais mon orgueil m'obligeait à me taire. Oui, je"
+    },
+    {
+      "sourceLine": 840,
+      "start": 84,
+      "text": "sais bien que tu en as souffert. Il n'est pas un seul pardon,"
+    },
+    {
+      "sourceLine": 841,
+      "start": 91,
+      "text": "il est trop tard. Je suis désolé, il est bien trop tard. J'aurais tant aimé"
+    },
+    {
+      "sourceLine": 842,
+      "start": 99,
+      "text": "avec tout le temps mais à présent il est trop"
+    },
+    {
+      "sourceLine": 843,
+      "start": 106,
+      "text": "tard pour demander pardon et Armand elle m'a délaissé. Oui pauvre amant elle m'a abandonné."
+    },
+    {
+      "sourceLine": 844,
+      "start": 118,
+      "text": "C'est une femme blessée qui n'a jamais cessé de"
+    },
+    {
+      "sourceLine": 845,
+      "start": 127,
+      "text": "[Musique]"
+    },
+    {
+      "sourceLine": 846,
+      "start": 134,
+      "text": "t'aimer. Que fais-tu ? Je peux pas partir avec eux. Ils ne sont pas réels. Ils sont le fruit de mon imagination."
+    },
+    {
+      "sourceLine": 847,
+      "start": 141,
+      "text": "Enfin, monsieur. À qui parlez-vous encore ? Il n'y a personne."
+    },
+    {
+      "sourceLine": 848,
+      "start": 149,
+      "text": "[Musique]"
+    }
+  ]
 }

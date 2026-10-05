@@ -1,0 +1,469 @@
+{
+  "videoId": "f9xYjI1-LXU",
+  "playbackVideoId": "f9xYjI1-LXU",
+  "version": 1,
+  "textSource": "user-supplied-auto-transcript",
+  "sourceFileSHA256": "5b09702c729374dfb15f6a8ae2fe6bb4355c46a48414d621edb925dcd064af55",
+  "textReviewStatus": "source-auto-transcript-with-conservative-edits",
+  "timingReviewStatus": "approximate",
+  "pronunciationReviewStatus": "reference-with-liaison-corrections-not-listening-verified",
+  "meaningSource": "editorial-chinese-from-user-transcript",
+  "pronunciationEngine": "eSpeak NG phrase and word references with French liaison and loan corrections",
+  "note": "法语和时间点来自你提供的分视频字幕，已整理明显拼写错误及中文释义。原字幕有识别残句，识别不清处已注明；… 表示残句缺口或分段接续。≈ 表示分段起止为近似值，音标和空耳是参考读法，尚未逐段核听。",
+  "sources": [
+    {
+      "label": "本段原唱录像",
+      "url": "https://www.youtube.com/watch?v=f9xYjI1-LXU"
+    }
+  ],
+  "entries": [
+    {
+      "sourceText": "Cet homme si délicieux a tous les droits car celui que l'on appelle monsieur est",
+      "start": 10,
+      "ipa": "[sɛt‿ɔm si delisjø a tu le dʁwa kaʁ səlɥi kə lɔ̃ apɛl məsjø ɛ]",
+      "ear": "塞特 哦姆 西 德利斯耶厄 阿 图 莱 德赫乌阿 卡赫 瑟勒于伊 克 隆 阿佩勒 默斯耶厄 艾",
+      "meaning": "这位讨人喜欢的先生拥有所有权利，因为人们称作「先生」的他是……",
+      "suppliedText": "cet homme si délicieux a tous les droits car celui que l'on appelle monsieur est",
+      "sourceLineId": "moliere-timed-370",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 10,
+        "sourceLineNumber": 370,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Le frère du roi monsieur est un amateur d'",
+      "start": 19,
+      "ipa": "[lə fʁɛʁ dy ʁwa məsjø ɛt‿œ̃n‿amatœʁ de]",
+      "ear": "勒 弗赫赫 迪于 赫乌阿 默斯耶厄 艾特 恩恩 阿玛特厄赫 德",
+      "meaning": "国王的弟弟。「先生」喜欢……",
+      "suppliedText": "le frère du roi monsieur est un amateur d'",
+      "sourceLineId": "moliere-timed-371",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 19,
+        "sourceLineNumber": 371,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "De les paillettes On a assz de cubration il veut désormais pour son frère le dig occupation une troupe de comédien",
+      "start": 25,
+      "ipa": "[də le pajɛt‿ɔ̃n‿a asz də kybʁasjɔ̃ il vø dezɔʁmɛ puʁ sɔ̃ fʁɛʁ lə diɡ‿ɔkypasjɔ̃ yn tʁup də komedjɛ̃]",
+      "ear": "德 莱 帕耶艾特 翁恩 阿 阿斯兹 德 基于布哈斯耶翁 伊勒 弗厄 德佐赫梅 普赫 松 弗赫赫 勒 迪格 哦基于帕斯耶翁 于恩 特胡普 德 科梅德耶安",
+      "meaning": "……闪亮的东西……如今他要为哥哥安排消遣，让一支剧团……",
+      "suppliedText": "de les paillettes On a assz de cubration il veut désormais pour son frère le dig occupation une troupe de comédien",
+      "sourceLineId": "moliere-timed-372",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 25,
+        "sourceLineNumber": 372,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Portera son nom bon c'est décidé vous allez jouer devant mon frérot mais je vous conseille d'assurer grave par contre va falloir me changer tout ça",
+      "start": 34,
+      "ipa": "[pɔʁtəʁa sɔ̃ nɔ̃ bɔ̃ sɛ deside vuz‿ale ʒwe dəvɑ̃ mɔ̃ fʁeʁo mɛ ʒə vu kɔ̃sɛj dasyʁe ɡʁav paʁ kɔ̃tʁ va falwaʁ mə ʃɑ̃ʒe tu sa]",
+      "ear": "珀赫特哈 松 农 崩 塞 德西德 乌兹 阿莱 日乌诶 德旺 蒙 弗赫霍 梅 热 乌 孔塞耶 达西于赫 格哈弗 帕赫 孔特赫 瓦 法勒乌阿赫 默 尚热 图 萨",
+      "meaning": "以他命名。——决定了，你们在我哥哥面前演出，不过得演得够棒，还得把这些……",
+      "suppliedText": "portera son nom bon c'est décidé vous allez jouer devant mon frérot mais je vous conseille d'assurer grave par contre va falloir me changer tout ça",
+      "sourceLineId": "moliere-timed-373",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 34,
+        "sourceLineNumber": 373,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Hein là c'est laarchuma mais qu'est-ce qu'ils ont encore tous ces boloss à se marrer c'est peut-être à cause de votre façon de vous",
+      "start": 42,
+      "ipa": "[ɛ̃ la sɛ laaʁʃyma mɛ kɛs kil‿ɔ̃t‿ɑ̃kɔʁ tu se bolɔs‿a sə maʁe sɛ pøtɛtʁ‿a koz də votʁ fasɔ̃ də vu]",
+      "ear": "安 拉 塞 拉阿赫许玛 梅 凯斯 基勒 翁特 昂科赫 图 塞 博洛斯 阿 瑟 玛赫 塞 珀厄泰特赫 阿 科兹 德 沃特赫 法松 德 乌",
+      "meaning": "换一换……这些家伙又笑什么？——也许因为您的……",
+      "suppliedText": "hein là c'est laarchuma mais qu'est-ce qu'ils ont encore tous ces boloss à se marrer c'est peut-être à cause de votre façon de vous",
+      "sourceLineId": "moliere-timed-374",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 42,
+        "sourceLineNumber": 374,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Exprimer oh bah quoi je suis branché c'est si délicieux à tous",
+      "start": 49,
+      "ipa": "[ɛkspʁime ɔ ba kwa ʒə sɥi bʁɑ̃ʃe sɛ si delisjø a tus]",
+      "ear": "艾克斯普希梅 哦 巴 克乌阿 热 斯于伊 布杭谢 塞 西 德利斯耶厄 阿 图斯",
+      "meaning": "说话方式。——怎么，我可是很时髦的！这位讨人喜欢的先生……",
+      "suppliedText": "exprimer oh bah quoi je suis branché c'est si délicieux à tous",
+      "sourceLineId": "moliere-timed-375",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 49,
+        "sourceLineNumber": 375,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Les celui que l'on a monsieur est le frère du",
+      "start": 58,
+      "ipa": "[le səlɥi kə lɔ̃ a məsjø ɛ lə fʁɛʁ dy]",
+      "ear": "莱 瑟勒于伊 克 隆 阿 默斯耶厄 艾 勒 弗赫赫 迪于",
+      "meaning": "……人们叫他「先生」，他是……",
+      "suppliedText": "les celui que l'on a monsieur est le frère du",
+      "sourceLineId": "moliere-timed-376",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 58,
+        "sourceLineNumber": 376,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Roi Sa Majesté le Roi Louis",
+      "start": 65,
+      "ipa": "[ʁwa sa maʒɛste lə ʁwa lwi]",
+      "ear": "赫乌阿 萨 玛热斯特 勒 赫乌阿 勒乌伊",
+      "meaning": "国王的弟弟。——路易……",
+      "suppliedText": "roi Sa Majesté le Roi Louis",
+      "sourceLineId": "moliere-timed-377",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 65,
+        "sourceLineNumber": 377,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "XIV bon j'espère que ces bouffons vont assurer sinon tous les rageux de la cour vont encore trop kiffer allez allons les",
+      "start": 75,
+      "ipa": "[katɔʁz ʁomɛ̃ bɔ̃ ʒɛspɛʁ kə se bufɔ̃ vɔ̃t asyʁe sinɔ̃ tu le ʁaʒø də la kuʁ vɔ̃t ɑ̃kɔʁ tʁo kife alez alɔ̃ le]",
+      "ear": "卡托赫兹 霍曼 崩 热斯佩赫 克 塞 布丰 翁特 阿西于赫 西农 图 莱 哈热厄 德 拉 库赫 翁特 昂科赫 特霍 基费 阿莱兹 阿隆 莱",
+      "meaning": "十四陛下驾到。——希望这些演员争气，否则宫里那群人又要幸灾乐祸了，去……",
+      "suppliedText": "XIV bon j'espère que ces bouffons vont assurer sinon tous les rageux de la cour vont encore trop kiffer allez allons les",
+      "sourceLineId": "moliere-timed-378",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 75,
+        "sourceLineNumber": 378,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Écouter que ce don à sa mère est pris fat",
+      "start": 83,
+      "ipa": "[ekute kə sə dɔ̃ a sa mɛʁ‿ɛ pʁi fa]",
+      "ear": "诶库特 克 瑟 东 阿 萨 梅赫 艾 普希 法",
+      "meaning": "听吧。……（演出引文识别不清）",
+      "suppliedText": "écouter que ce don à sa mère est pris fat",
+      "sourceLineId": "moliere-timed-379",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 83,
+        "sourceLineNumber": 379,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Flaminus… Hannibal… Seigneur… a découvert toute…",
+      "start": 91,
+      "ipa": "[flaminys anibal sɛnjœʁ a dekuvɛʁ tut]",
+      "ear": "弗拉米尼于斯 阿尼巴勒 塞恩耶厄赫 阿 德库韦赫 图特",
+      "meaning": "……弗拉米努斯……汉尼拔……大人……（引文识别不清）",
+      "suppliedText": "dans leur flaminius marchand des hannibales Seigneur a découvert toute",
+      "sourceLineId": "moliere-timed-380",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 91,
+        "sourceLineNumber": 380,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Âme généreuse d'avoir votre amitié doit se tenir",
+      "start": 99,
+      "ipa": "[am ʒeneʁøz davwaʁ votʁ‿amitje dwa sə təniʁ]",
+      "ear": "阿姆 热内赫厄兹 达弗乌阿赫 沃特赫 阿米特耶诶 德乌阿 瑟 特尼赫",
+      "meaning": "慷慨的心灵……能得到您的友谊，应当觉得……",
+      "suppliedText": "âme généreuse d'avoir votre amitié doit se tenir",
+      "sourceLineId": "moliere-timed-381",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 99,
+        "sourceLineNumber": 381,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Heureuse. Cher Montfleury, cher Floridor, femme qui rit dans mes bras s'endort.",
+      "start": 108,
+      "ipa": "[øʁøz ʃɛʁ mɔ̃fløʁi ʃɛʁ floʁidɔʁ fam ki ʁi dɑ̃ me bʁa sɑ̃dɔʁ]",
+      "ear": "厄赫厄兹 谢赫 蒙弗勒厄希 谢赫 弗洛希多赫 法姆 基 希 当 梅 布哈 桑多赫",
+      "meaning": "幸福。亲爱的蒙弗勒里、弗洛里多，笑着的女人会在我的怀里睡去。",
+      "suppliedText": "heureuse cher mon Fleury cher Floridor femme qui rit dans mes bras s'en",
+      "sourceLineId": "moliere-timed-383",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 108,
+        "sourceLineNumber": 383,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "… Montfleury, avez-vous remarqué ? Le roi a bâillé, et c'est bien mérité. Floridor, nous voici rassurés, nos théâtres ne sont…",
+      "start": 117,
+      "ipa": "[mɔ̃fløʁi avevu ʁəmaʁke lə ʁwa a baje e sɛ bjɛ̃ meʁite floʁidɔʁ nu vwasi ʁasyʁe no teatʁ nə sɔ̃]",
+      "ear": "蒙弗勒厄希 阿韦乌 赫玛赫克 勒 赫乌阿 阿 巴耶诶 诶 塞 布耶安 梅希特 弗洛希多赫 努 弗乌阿西 哈西于赫 诺 特阿特赫 讷 松",
+      "meaning": "……蒙弗勒里，您看见国王打哈欠了吗？活该！——弗洛里多，我们放心了，我们的剧院……",
+      "suppliedText": "dor mon Fleury avez-vous remarqué le roi a baillé et c'est bien mérité Floridor nous voici rassuré nos théâtres ne sont",
+      "sourceLineId": "moliere-timed-384",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 117,
+        "sourceLineNumber": 384,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "En rien menacés merci mon cher frère pour ce long",
+      "start": 126,
+      "ipa": "[ɑ̃ ʁjɛ̃ mənase mɛʁsi mɔ̃ ʃɛʁ fʁɛʁ puʁ sə lɔ̃]",
+      "ear": "昂 赫耶安 默纳塞 梅赫西 蒙 谢赫 弗赫赫 普赫 瑟 隆",
+      "meaning": "丝毫不受威胁。——亲爱的弟弟，感谢你为我们提供这么长的……",
+      "suppliedText": "en rien menacés merci mon cher frère pour ce long",
+      "sourceLineId": "moliere-timed-385",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 126,
+        "sourceLineNumber": 385,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Divertissement que vous nous avez offert oh là là il a pas aimé c'est une kata allez hop je t'avais bien dit de pas jouer de tragédie allez vite proposonsm",
+      "start": 133,
+      "ipa": "[divɛʁtismɑ̃ kə vu nuz‿ave ɔfɛʁ‿ɔ la la il‿a pa ɛme sɛt‿yn kata ale ɔp ʒə tavɛ bjɛ̃ di də pa ʒwe də tʁaʒedi ale vit pʁopozɔ̃sm]",
+      "ear": "迪韦赫蒂斯芒 克 乌 努兹 阿韦 哦费赫 哦 拉 拉 伊勒 阿 帕 艾梅 塞特 于恩 卡塔 阿莱 哦普 热 塔韦 布耶安 迪 德 帕 日乌诶 德 特哈热迪 阿莱 维特 普霍波宗斯姆",
+      "meaning": "消遣。——糟糕，他不喜欢，我早说别演悲剧！快给他看……",
+      "suppliedText": "divertissement que vous nous avez offert oh là là il a pas aimé c'est une kata allez hop je t'avais bien dit de pas jouer de tragédie allez vite proposonsm",
+      "sourceLineId": "moliere-timed-386",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 133,
+        "sourceLineNumber": 386,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Une de nos comédies. Une comédie ? Et pourquoi pas… Ils vont tout faire rater. Allez ! … Vous avez menti…",
+      "start": 141,
+      "ipa": "[yn də no komedi yn komedi e puʁkwa pa il vɔ̃ tu fɛʁ ʁate ale vuz‿ave mɑ̃ti]",
+      "ear": "于恩 德 诺 科梅迪 于恩 科梅迪 诶 普赫克乌阿 帕 伊勒 翁 图 费赫 哈特 阿莱 乌兹 阿韦 芒蒂",
+      "meaning": "我们的一出喜剧。——喜剧？……他们会搞砸。快上！——您撒谎了……",
+      "suppliedText": "une de nos comédes une comédie et pourquoi pas wmanch ils vont tout faire rater allez go derrière vous avez menti",
+      "sourceLineId": "moliere-timed-387",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 141,
+        "sourceLineNumber": 387,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Monsieur monsieur je le veux bien vous êtes un coquin d'accord et cette audace",
+      "start": 151,
+      "ipa": "[məsjø məsjø ʒə lə vø bjɛ̃ vuz‿ɛt‿œ̃ kokɛ̃ dakɔʁ e sɛt‿odas]",
+      "ear": "默斯耶厄 默斯耶厄 热 勒 弗厄 布耶安 乌兹 艾特 恩 科坎 达科赫 诶 塞特 奥达斯",
+      "meaning": "先生，先生。——好吧，您是个无赖，而这样的大胆……",
+      "suppliedText": "monsieur monsieur je le veux bien vous êtes un coquin d'accord et cette audace",
+      "sourceLineId": "moliere-timed-388",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 151,
+        "sourceLineNumber": 388,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Mériterait 100 coups de bâton sur la placesieur je vous raillez infme non",
+      "start": 159,
+      "ipa": "[meʁitʁɛ sɑ̃ ku də batɔ̃ syʁ la plaszjœʁ ʒə vu ʁaje ɛ̃fm nɔ̃]",
+      "ear": "梅希特赫 桑 库 德 巴通 西于赫 拉 普拉斯兹耶厄赫 热 乌 哈耶诶 安弗姆 农",
+      "meaning": "该挨一百下棍子……先生，您在嘲笑我？——不……",
+      "suppliedText": "mériterait 100 coups de bâton sur la placesieur je vous raillez infme non",
+      "sourceLineId": "moliere-timed-389",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 159,
+        "sourceLineNumber": 389,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Monsieur je raille point est donc vrai pas je ne dis pas cela alors que",
+      "start": 168,
+      "ipa": "[məsjø ʒə ʁaj pwɛ̃ ɛ dɔ̃k vʁɛ pa ʒə nə di pa səla alɔʁ kə]",
+      "ear": "默斯耶厄 热 哈耶 普乌安 艾 东克 弗赫 帕 热 讷 迪 帕 瑟拉 阿洛赫 克",
+      "meaning": "先生，我没嘲笑。——那是真的？——我没这么说。——那……",
+      "suppliedText": "monsieur je raille point est donc vrai pas je ne dis pas cela alors que",
+      "sourceLineId": "moliere-timed-390",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 168,
+        "sourceLineNumber": 390,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Dis-tu donc hlas je dit rien de peur de mal",
+      "start": 176,
+      "ipa": "[dity dɔ̃k la ʒə di ʁjɛ̃ də pœʁ də mal]",
+      "ear": "迪蒂于 东克 拉 热 迪 赫耶安 德 珀厄赫 德 玛勒",
+      "meaning": "你到底说什么？——唉，我什么也不说，怕说错……",
+      "suppliedText": "dis-tu donc hlas je dit rien de peur de mal",
+      "sourceLineId": "moliere-timed-391",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 176,
+        "sourceLineNumber": 391,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Parler mon a l'air d'avoir kiffé j'ai un sé grave non Molière vous avez su",
+      "start": 185,
+      "ipa": "[paʁle mɔ̃n‿a lɛʁ davwaʁ kife ʒe œ̃ se ɡʁav nɔ̃ moljɛʁ vuz‿ave sy]",
+      "ear": "帕赫莱 蒙恩 阿 莱赫 达弗乌阿赫 基费 热 恩 塞 格哈弗 农 莫勒耶艾赫 乌兹 阿韦 西于",
+      "meaning": "话。——哥哥好像喜欢……——莫里哀，您……",
+      "suppliedText": "parler mon a l'air d'avoir kiffé j'ai un sé grave non Molière vous avez su",
+      "sourceLineId": "moliere-timed-392",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 185,
+        "sourceLineNumber": 392,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Infiniment nous plaire désormais votre troupe portera le nom de mon frère nous l'installerons dans le salon du petit Bourbon monsieur Molière nous nous",
+      "start": 193,
+      "ipa": "[ɛ̃finimɑ̃ nu plɛʁ dezɔʁmɛ votʁ tʁup pɔʁtəʁa lə nɔ̃ də mɔ̃ fʁɛʁ nu lɛ̃stalʁɔ̃ dɑ̃ lə salɔ̃ dy pəti buʁbɔ̃ məsjø moljɛʁ nu nu]",
+      "ear": "安菲尼芒 努 普莱赫 德佐赫梅 沃特赫 特胡普 珀赫特哈 勒 农 德 蒙 弗赫赫 努 兰斯塔勒洪 当 勒 萨隆 迪于 珀蒂 布赫崩 默斯耶厄 莫勒耶艾赫 努 努",
+      "meaning": "令我们十分愉快。从此剧团冠上我弟弟的名字，安置在小波旁宫。莫里哀先生，我们……",
+      "suppliedText": "infiniment nous plaire désormais votre troupe portera le nom de mon frère nous l'installerons dans le salon du petit Bourbon monsieur Molière nous nous",
+      "sourceLineId": "moliere-timed-393",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 193,
+        "sourceLineNumber": 393,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Reverrons si délicieux à tous les celui queon appelle le monsieur est",
+      "start": 203,
+      "ipa": "[ʁəvɛʁɔ̃ si delisjø a tu le səlɥi kəɔ̃ apɛl lə məsjø ɛ]",
+      "ear": "赫韦洪 西 德利斯耶厄 阿 图 莱 瑟勒于伊 克翁 阿佩勒 勒 默斯耶厄 艾",
+      "meaning": "还会见面。这位讨人喜欢的「先生」是……",
+      "suppliedText": "reverrons si délicieux à tous les celui queon appelle le monsieur est",
+      "sourceLineId": "moliere-timed-394",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 203,
+        "sourceLineNumber": 394,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Frère du roi Molière vous dévoyez les sens même de notre prophé on vous affanchissant des règles de",
+      "start": 211,
+      "ipa": "[fʁɛʁ dy ʁwa moljɛʁ vu devwaje le sɑ̃s mɛm də notʁ pʁofe ɔ̃ vuz‿afɑ̃ʃisɑ̃ de ʁɛɡl də]",
+      "ear": "弗赫赫 迪于 赫乌阿 莫勒耶艾赫 乌 德弗乌阿耶诶 莱 桑斯 梅姆 德 诺特赫 普霍费 翁 乌兹 阿芳希桑 德 赫格勒 德",
+      "meaning": "国王的弟弟。——莫里哀，您违背了我们的职业精神，抛开……",
+      "suppliedText": "frère du roi Molère vous dévoyez les sens même de notre prophé on vous affanchissant des règles de",
+      "sourceLineId": "moliere-timed-395",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 211,
+        "sourceLineNumber": 395,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "L'articulation. De plus, vous ne rimez pas… et vous ne jouez pas… Montfleury, vous dévoyez le…",
+      "start": 219,
+      "ipa": "[laʁtikylasjɔ̃ də ply vu nə ʁime pa e vu nə ʒwe pa mɔ̃fløʁi vu devwaje lə]",
+      "ear": "拉赫蒂基于拉斯耶翁 德 普吕 乌 讷 希梅 帕 诶 乌 讷 日乌诶 帕 蒙弗勒厄希 乌 德弗乌阿耶诶 勒",
+      "meaning": "吐字的规则。您不押韵……不表演……——蒙弗勒里，您才违背……（部分识别不清）",
+      "suppliedText": "l'articulation de plus vous ne rimez pas vous rimilleez et vous ne jouez pas vous vous brillez mon Fleury vous dévoyez l'",
+      "sourceLineId": "moliere-timed-396",
+      "reviewNote": "原字幕此处识别不清 · 请对照原唱",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 219,
+        "sourceLineNumber": 396,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Sens même du divertissement en vous raccrochant d'cï tradition de plus vous n'égayz pas vous ennuyez vous ne jouez",
+      "start": 226,
+      "ipa": "[sɑ̃s mɛm dy divɛʁtismɑ̃ ɑ̃ vu ʁakʁoʃɑ̃ dsi tʁadisjɔ̃ də ply vu neɡɛz pa vuz‿ɑ̃nɥije vu nə ʒwe]",
+      "ear": "桑斯 梅姆 迪于 迪韦赫蒂斯芒 昂 乌 哈克霍尚 德西 特哈迪斯耶翁 德 普吕 乌 内盖兹 帕 乌兹 昂恩于伊耶诶 乌 讷 日乌诶",
+      "meaning": "娱乐的精神，固守陈旧传统，不让人快乐，只让人无聊。您不是在演……",
+      "suppliedText": "sens même du divertissement en vous raccrochant d'cï tradition de plus vous n'égayz pas vous ennuyez vous ne jouez",
+      "sourceLineId": "moliere-timed-397",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 226,
+        "sourceLineNumber": 397,
+        "precision": "approximate"
+      }
+    },
+    {
+      "sourceText": "Pas vous surjouez",
+      "start": 234,
+      "ipa": "[pa vu syʁʒwe]",
+      "ear": "帕 乌 西于赫日乌诶",
+      "meaning": "而是演得过火了。",
+      "suppliedText": "pas vous surjouez",
+      "sourceLineId": "moliere-timed-398",
+      "reviewNote": "",
+      "timing": {
+        "method": "supplied-timestamp",
+        "anchorStart": 234,
+        "sourceLineNumber": 398,
+        "precision": "approximate"
+      }
+    }
+  ]
+}
