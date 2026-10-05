@@ -1,4 +1,4 @@
-import {parseCaptions} from './captions.mjs?v=20261005-1';
+import {parseCaptions} from './captions.mjs?v=20261005-2';
 
 export function playbackStart(song, requested = 0, timebase = '') {
   const value = Math.max(0, Number(requested) || 0);
@@ -35,4 +35,31 @@ export function importStudyCaptions(song, text) {
   if(data?.playbackVideoId && data.playbackVideoId !== (song.playbackVideoId || song.id)) throw new Error('字幕对应的录像与本曲播放来源不同');
   if(data?.id && data.id !== song.id) throw new Error('这是另一首歌的学习字幕包');
   return importedCues(song,parseCaptions(text),data?.timebase || '');
+}
+
+export function studyStorageKey(song) {
+  return `musicals-captions-${song.id}`;
+}
+
+export function studyPack(song, cues) {
+  return {version:1, id:song.id, playbackVideoId:song.playbackVideoId || song.id,
+    timebase:'source', playbackSegment:song.playbackSegment || null,
+    cues:cues.map(cue => ({start:cue.start, duration:cue.end-cue.start, text:cue.text,
+      ...(cue.translation ? {translation:cue.translation} : {}),
+      ...(cue.ipa && cue.ear && cue.studyMeaning ? {ipa:cue.ipa, ear:cue.ear, studyMeaning:cue.studyMeaning} : {})}))};
+}
+
+export function savedStudyCaptions(song, storage) {
+  try {
+    const text = storage.getItem(studyStorageKey(song));
+    if (!text) return null;
+    const pack = JSON.parse(text);
+    // A replacement recording or changed song boundary needs its own timing.
+    if (pack.version !== 1 || pack.timebase !== 'source' || pack.id !== song.id
+      || pack.playbackVideoId !== (song.playbackVideoId || song.id)
+      || (pack.playbackSegment?.start ?? null) !== (song.playbackSegment?.start ?? null)
+      || (pack.playbackSegment?.end ?? null) !== (song.playbackSegment?.end ?? null)) return null;
+    const cues = importStudyCaptions(song, text);
+    return cues.length ? cues : null;
+  } catch { return null; }
 }

@@ -1,8 +1,8 @@
-import { videoId, clock, normalizeCues, cueAt } from './captions.mjs?v=20261005-1';
-import { attachStudyNotes } from './study.mjs?v=20261005-1';
-import { musicalURL, learningURL, tracksFor, resolveTrackId } from './library.mjs?v=20261005-1';
-import { fetchData } from './data.mjs?v=20261005-1';
-import { playbackStart, nativeCues, importStudyCaptions } from './native.mjs?v=20261005-1';
+import { videoId, clock, normalizeCues, cueAt } from './captions.mjs?v=20261005-2';
+import { attachStudyNotes } from './study.mjs?v=20261005-2';
+import { musicalURL, learningURL, tracksFor, resolveTrackId } from './library.mjs?v=20261005-2';
+import { fetchData } from './data.mjs?v=20261005-2';
+import { playbackStart, nativeCues, importStudyCaptions, studyStorageKey, studyPack, savedStudyCaptions } from './native.mjs?v=20261005-2';
 
 const $ = id => document.getElementById(id);
 let catalog = [], musicals = [], song, cues = [], player, playerReady = false, ytPromise, active = -1, selected = -1;
@@ -292,7 +292,12 @@ function renderInfo() {
   $('language-label').textContent = song.captionLanguage ? languageName(song.captionLanguage) : '字幕语言待确认';
   $('caption-badge').textContent = song.captionSource === 'local' ? '本地导入字幕' : cues.length ? (song.isGenerated ? 'YouTube 自动字幕' : 'YouTube 字幕') : song.captionStatus === 'pending' ? '字幕待读取' : '字幕不可用';
   const translated = cues.some(c => c.translation);
-  $('source-note').textContent = song.captionSource === 'local' ? '你导入的字幕仅用于当前页面，不会上传。请使用对应视频的 YouTube 字幕。' : `字幕与时间戳来自 YouTube${song.isGenerated ? ' 自动字幕' : ''}。${translated ? `译文来自 YouTube（${languageName(song.translationLanguage || 'en')}）。` : '当前没有可用译文。'}${song.fetchedAt ? ` 更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
+  $('source-note').textContent = song.captionSource === 'local' ? (song.localCaptionsSaved ? '导入的字幕保存在这个浏览器，刷新后会继续使用。可导出备份，或恢复本站字幕。' : '导入的字幕正在本页使用。浏览器未能保存，请导出备份。') : `字幕与时间戳来自 YouTube${song.isGenerated ? ' 自动字幕' : ''}。${translated ? `译文来自 YouTube（${languageName(song.translationLanguage || 'en')}）。` : '当前没有可用译文。'}${song.fetchedAt ? ` 更新：${new Date(song.fetchedAt).toLocaleDateString('zh-CN')}` : ''}`;
+  $('export-captions').hidden = $('reset-captions').hidden = song.captionSource !== 'local';
+  if (song.captionSource === 'local') {
+    $('caption-badge').textContent = cues.every(c => c.ipa && c.ear && c.studyMeaning) ? '本地导入 · 四层学习' : '本地导入字幕';
+    $('study-note').textContent = '音标、空耳和释义使用导入文件中的内容；‿ 表示联诵或连读。';
+  }
   if (song.captionSource === 'youtube-player') {
     $('language-label').textContent = '法语'; $('caption-badge').textContent = song.studyKind === 'instrumental' ? '器乐 · 舞台舞蹈' : nativeMode() ? (song.isGenerated ? '法语自动字幕' : '人工法语字幕') : song.performanceYear ? `${song.performanceYear} 年舞台版` : '法语舞台原唱';
     const timingSource = song.nativeTimingSource === 'user-supplied-time-caption' ? '分段时间采用你提供的时间字幕文件' : `分段时间参考同一录像${song.nativeTimingLanguage === 'en' ? '的英文' : '的法语'}转录面板`;
@@ -355,6 +360,12 @@ async function loadSong(id, updateURL = true) {
   }
   try { const response = await fetchData(`./data/info/${id}.json`); if (response.ok) { const info = await response.json(); if (info.videoId === id) data.editorialInfo = info; } } catch { /* A missing introduction never blocks the player. */ }
   if (generation !== loadGeneration) return;
+  let saved = null;
+  try { saved = savedStudyCaptions(data, localStorage); } catch { /* Storage can be disabled. */ }
+  if (saved) {
+    data.captionSource = 'local'; data.cues = saved; data.localCaptionsSaved = true;
+    delete data.studyNotes;
+  }
   if (player && previousNative !== (data.captionSource === 'youtube-player')) {
     player.destroy?.(); const replacement = document.createElement('div'); replacement.id = 'youtube-player';
     const old = $('youtube-player'); if (old) old.replaceWith(replacement); else videoShell.prepend(replacement);
@@ -440,11 +451,28 @@ $('bookmark').onclick = () => { const saved = savedSongs(); const next = saved.i
 $('import').onclick = () => $('caption-file').click();
 $('caption-file').onchange = async event => {
   const file = event.target.files[0]; if (!file) return;
+  const targetSong = song, generation = loadGeneration;
   try {
     if (file.size > 5 * 1024 * 1024) throw new Error('字幕文件应小于 5 MB');
-    const parsed = importStudyCaptions(song, await file.text()); if (!parsed.length) throw new Error('没有识别到本曲范围内的字幕时间戳');
-    playerReady && player.pauseVideo(); cues = parsed; song.captionSource = 'local'; song.cues = cues; renderInfo(); toast(`已导入 ${cues.length} 条字幕；请确认与当前视频一致。`);
+    const parsed = importStudyCaptions(targetSong, await file.text()); if (!parsed.length) throw new Error('没有识别到本曲范围内的字幕时间戳');
+    if (generation !== loadGeneration || song !== targetSong) throw new Error('歌曲已切换，请在对应歌曲页重新导入');
+    let saved = false;
+    try { localStorage.setItem(studyStorageKey(song), JSON.stringify(studyPack(song, parsed))); saved = true; } catch {}
+    playerReady && player.pauseVideo(); cues = parsed; song.captionSource = 'local'; song.cues = cues; song.localCaptionsSaved = saved; delete song.studyNotes;
+    renderInfo(); toast(`已导入 ${cues.length} 条字幕${saved ? '，刷新后保留。' : '；浏览器未能保存，请导出备份。'}`);
   } catch (error) { toast(error.message || '字幕格式无法识别'); } finally { event.target.value = ''; }
+};
+$('export-captions').onclick = () => {
+  const blob = new Blob([JSON.stringify(studyPack(song, cues), null, 2)], {type:'application/json;charset=utf-8'});
+  const url = URL.createObjectURL(blob), link = document.createElement('a');
+  link.href = url; link.download = `${song.id}-study.json`; link.click();
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
+};
+$('reset-captions').onclick = async () => {
+  try { localStorage.removeItem(studyStorageKey(song)); }
+  catch { toast('浏览器未能清除保存的字幕，请检查存储权限。'); return; }
+  const id = song.id; initialSeek = playbackStart(song);
+  await loadSong(id, false); toast('已恢复本站字幕。');
 };
 $('video-form').onsubmit = event => { event.preventDefault(); const id = videoId($('video-url').value); if (!id) { toast('请输入有效的 YouTube 视频链接或 11 位 ID。'); return; } initialSeek = 0; loadSong(id); };
 document.addEventListener('keydown', event => {

@@ -55,7 +55,7 @@
 3. `language` 默认 `fr`；`translation` 默认 `en`，可填写 `zh-Hans`。按优先语言读取已有字幕，缺失时使用该视频的其他可用字幕。译文不可用时只显示原文。
 4. 运行成功后，数据写入 `data/songs/`，歌单更新，网页自动部署。
 
-网页的“＋”也可以直接打开新 YouTube 视频；未录入的视频需要运行上面的工作流，或导入该视频的 YouTube VTT/SRT/JSON3 字幕。导入字幕仅用于当前页面，不上传服务器。
+网页的“＋”也可以直接打开新 YouTube 视频；未录入的视频需要运行上面的工作流，或导入该视频的 YouTube VTT/SRT/JSON3 字幕。也可导入已有四层注释的 JSON 学习文件。导入后按歌曲保存在当前浏览器，刷新与切换歌曲后继续使用；可导出备份或恢复本站字幕。播放来源或曲目范围发生变化时跳过旧缓存。导入文件不上传服务器。
 
 GitHub 托管服务器可能被 YouTube 限流或拒绝访问。这时可在能连接 YouTube 的电脑上运行同一脚本，将生成的数据提交到仓库：
 
@@ -80,4 +80,4 @@ python -m http.server 8080
 
 打开 `http://localhost:8080/`。字幕解析、时间边界、学习注释匹配、曲库引用及未来作品隔离测试在 `tests/`。页面分别是 `index.html`（总页）、`musical.html`（曲目）、`learn.html`（学习页）。`assets/browse.js` 与 `assets/browse.css` 管理曲库外观，`assets/app.js` 与学习页样式管理原有播放功能。`scripts/ingest_youtube.py` 是数据读取脚本。
 
-播放器来自 YouTube IFrame API。收藏保存到浏览器 localStorage；导入字幕留在当前页面内存中。没有分析追踪器。第三方 YouTube 播放器和 Google Fonts 会访问其各自的服务。
+播放器来自 YouTube IFrame API。收藏与导入字幕保存到浏览器 localStorage；无法保存时页面提示导出备份。没有分析追踪器。第三方 YouTube 播放器和 Google Fonts 会访问其各自的服务。

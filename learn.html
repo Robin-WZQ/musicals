@@ -7,11 +7,11 @@
   <meta name="description" content="听音乐剧，逐句重听原唱。使用 YouTube 视频与字幕的音乐语言学习页面。">
   <title>单曲学习 · Musicals</title>
   <link rel="icon" href="./assets/icon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="./assets/style.css?v=20261005-1">
-  <link rel="stylesheet" href="./assets/study.css?v=20261005-1">
-  <link rel="stylesheet" href="./assets/info.css?v=20261005-1">
-  <link rel="stylesheet" href="./assets/native.css?v=20261005-1">
-  <script type="module" src="./assets/app.js?v=20261005-1"></script>
+  <link rel="stylesheet" href="./assets/style.css?v=20261005-2">
+  <link rel="stylesheet" href="./assets/study.css?v=20261005-2">
+  <link rel="stylesheet" href="./assets/info.css?v=20261005-2">
+  <link rel="stylesheet" href="./assets/native.css?v=20261005-2">
+  <script type="module" src="./assets/app.js?v=20261005-2"></script>
 </head>
 <body>
   <aside class="sidebar">
@@ -43,7 +43,9 @@
       <div class="source-note" id="source-note">字幕内容和时间戳来自 YouTube。</div>
       <nav class="adjacent-tracks" aria-label="相邻歌曲"><a id="previous-track" hidden>← 上一首</a><a id="next-track" hidden>下一首 →</a></nav>
       <div class="study-note" id="study-note" hidden>参考音标标出联诵与连读（<b>‿</b>）。空耳仅近似读音；演唱时的发音以原唱为准。中文释义和发音注释为本站学习辅助。</div>
-      <button id="import" class="import-button">导入 YouTube 字幕文件</button>
+      <button id="import" class="import-button">导入字幕 / 四层学习文件</button>
+      <button id="export-captions" class="import-button" hidden>导出学习字幕备份</button>
+      <button id="reset-captions" class="import-button" hidden>恢复本站字幕</button>
       <input id="caption-file" type="file" accept=".vtt,.srt,.json,.json3" hidden>
       <a class="repo-link" href="https://github.com/Robin-WZQ/musicals" target="_blank" rel="noopener noreferrer">项目与歌曲管理 ↗</a>
     </div>

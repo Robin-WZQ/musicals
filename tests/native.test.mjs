@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {playbackStart,nativeCues,importedCues,importStudyCaptions} from '../assets/native.mjs';
+import {playbackStart,nativeCues,importedCues,importStudyCaptions,studyStorageKey,studyPack,savedStudyCaptions} from '../assets/native.mjs';
 const song={playbackSegment:{start:100,end:160}};
 test('deep links clamp to the song and support legacy relative times',()=>{
   assert.equal(playbackStart(song),100);
@@ -22,6 +22,25 @@ test('explicit recording times avoid ambiguity and preserve all four study layer
  assert.equal(row.ipa,cue.ipa);assert.equal(row.ear,cue.ear);assert.equal(row.studyMeaning,cue.studyMeaning);
  assert.throws(()=>importStudyCaptions(track,text.replace('recording','another-recording')),/录像/);
  assert.throws(()=>importStudyCaptions(track,JSON.stringify({id:'another-track',cues:[cue]})),/另一首/);
+});
+
+test('saved study imports round-trip all layers without adding a second time offset',()=>{
+ const track={id:'local-track',playbackVideoId:'recording',playbackSegment:{start:100,end:160}};
+ const cues=importStudyCaptions(track,JSON.stringify({timebase:'relative',cues:[{start:2,duration:3,text:'Bonjour.',ipa:'[bɔ̃ʒuʁ]',ear:'蹦茹',meaning:'你好。'}]}));
+ const pack=studyPack(track,cues), values=new Map([[studyStorageKey(track),JSON.stringify(pack)]]);
+ const storage={getItem:key=>values.get(key)||null};
+ assert.equal(pack.timebase,'source');assert.equal(pack.cues[0].start,102);
+ assert.deepEqual(savedStudyCaptions(track,storage),cues);
+ assert.equal(savedStudyCaptions({...track,id:'other-track'},storage),null);
+ assert.equal(savedStudyCaptions({...track,playbackVideoId:'replacement'},storage),null);
+ assert.equal(savedStudyCaptions({...track,playbackSegment:{start:100,end:170}},storage),null);
+});
+
+test('invalid or unavailable browser storage does not prevent song loading',()=>{
+ const track={id:'local-track'};
+ for(const text of ['broken','{}',JSON.stringify({version:1,id:track.id,timebase:'source',playbackVideoId:track.id,cues:[]})])
+  assert.equal(savedStudyCaptions(track,{getItem:()=>text}),null);
+ assert.equal(savedStudyCaptions(track,{getItem:()=>{throw new Error('Access denied');}}),null);
 });
 test('all fifty songs have ordered time-only ranges within their own recording segment',()=>{
  const root=new URL('../',import.meta.url);
